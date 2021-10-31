@@ -1,8 +1,7 @@
 ---
 created: 2021-05-22
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[Capture your fleeting thoughts]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

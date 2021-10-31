@@ -1,9 +1,9 @@
 ---
 created: 2021-07-04
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- 
+  - null
 ---
 
 #### [[empathy isn't understanding how you would make the decision it's understanding why they made the decision]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

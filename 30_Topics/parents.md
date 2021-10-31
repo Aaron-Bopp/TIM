@@ -1,7 +1,6 @@
 ---
 created: 2021-06-28
-cssclass: topic
-tags: topic/stub
+tags: node/topic/stub
 ---
 
 **See**:: 

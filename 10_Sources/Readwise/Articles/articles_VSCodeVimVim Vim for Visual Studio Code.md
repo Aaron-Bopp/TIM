@@ -4,7 +4,7 @@ aliases:
 - "VSCodeVim/Vim: Vim for Visual Studio Code"
 - "VSCodeVim/Vim: Vim for Visual Studio Code by github.com"
 - "github.com"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

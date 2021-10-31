@@ -4,7 +4,7 @@ aliases:
 - "I Don’t Hate TERFs. I Th..."
 - "I Don’t Hate TERFs. I Th... by @LilahSturges on Twitter"
 - "@LilahSturges on Twitter"
-tags: source/tweets
+tags: node/source/tweets
 type: 
 - tweets
 deliveredBy: 

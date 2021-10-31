@@ -1,9 +1,6 @@
 ---
 created: 2021-10-06
-aliases:
-- 
-cssclass: topic
-tags: topic/stub
+tags: node/topic/stub
 sr-due: 2021-10-19
 sr-interval: 1
 sr-ease: 230

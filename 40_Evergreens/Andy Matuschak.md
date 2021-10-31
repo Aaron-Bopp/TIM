@@ -1,7 +1,6 @@
 ---
 created: 2021-05-29
-tags: person
-
+tags: node/person
 ---
 
 

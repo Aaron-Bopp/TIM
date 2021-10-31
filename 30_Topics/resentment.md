@@ -1,9 +1,6 @@
 ---
 created: 2021-08-11
-cssclass: topic
-tags: topic/term
-aliases:
-- 
+tags: node/topic/term
 ---
  bitter indignation at having been treated unfairly.
 

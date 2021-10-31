@@ -1,9 +1,7 @@
 ---
 created: 2021-07-25
-cssclass: topic
-tags: topic/stub
-aliases:
-- 
+tags: node/topic/stub
+
 ---
 - [[America]]'s changing population
     - Ethnic makeup of [[America]] is majorly shifting

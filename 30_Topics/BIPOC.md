@@ -1,9 +1,9 @@
 ---
 created: 2021-10-20
 aliases:
-- black people  
-- african american
-tags:  topic/term
+  - black people
+  - african american
+tags: node/topic/term
 ---
 
 Biracial, Indigenous, People of color

@@ -7,7 +7,7 @@ content-type:
 - youtube
 - video
 source: https://www.youtube.com/watch?v=t23N2Pib9rs
-bib:
+
 ---
 
 - Emotions == problem -> get rid of emotions

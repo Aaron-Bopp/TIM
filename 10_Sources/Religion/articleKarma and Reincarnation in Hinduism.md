@@ -7,7 +7,7 @@ content-type:
 - article
 - teaching
 source:  https://www.hinduismtoday.com/hindu-basics/karma-and-reincarnation/
-bib:
+
 ---
 
 ###### [[Karma and Reincarnation in Hinduism]]

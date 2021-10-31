@@ -2,7 +2,7 @@
 created: 2021-10-31
 aliases:
 - "Black Identity Development"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

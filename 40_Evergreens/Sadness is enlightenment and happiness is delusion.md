@@ -1,13 +1,13 @@
 ---
 created: 2021-06-11
-tags: evergreen
+tags: node/evergreen
 date modified: Monday, October 18th 2021, 11:28:08 pm
 sr-due: 2021-11-24
 sr-interval: 27
 sr-ease: 288
 aliases:
-- "Sadness is not enlightenment and happiness is not delusion"
-- "A intelligent view of the world is hopeless so hope is a delusion"
+  - "Sadness is not enlightenment and happiness is not delusion"
+  - "A intelligent view of the world is hopeless so hope is a delusion"
 ---
 
 #### [[Sadness is enlightenment and happiness is delusion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -1,10 +1,11 @@
 ---
 created: 2021-06-08
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- Accepting responsibility for moving past your trauma
-- Accepting responsibility is about moving forward for yourself and for the people affected by the event
+  - Accepting responsibility for moving past your trauma
+  - Accepting responsibility is about moving forward for yourself and for the
+    people affected by the event
 ---
 
 #### [[Accepting responsibility is not only about your actions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

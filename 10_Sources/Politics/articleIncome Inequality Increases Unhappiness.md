@@ -6,7 +6,7 @@ creator: Fariss Samarrai
 content-type:
 - article
 source: https://news.virginia.edu/content/income-inequality-increases-unhappiness-study-shows
-bib:
+
 ---
 
 ###### [[SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness]]

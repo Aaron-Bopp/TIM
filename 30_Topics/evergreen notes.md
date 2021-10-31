@@ -1,7 +1,6 @@
 ---
 created: 2021-05-29
-cssclass: term
-tags: topic/term
+tags: node/topic/term
 aliases:
 - permanent note
 - zettle

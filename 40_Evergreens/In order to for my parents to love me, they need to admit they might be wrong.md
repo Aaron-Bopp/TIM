@@ -1,7 +1,7 @@
 ---
 created: 2021-06-11
-cssclass: evergreen
-tags: evergreen, personal
+
+tags: node/evergreen, node/personal
 ---
 
 #### [[In order to for my parents to love me, they need to admit they might be wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

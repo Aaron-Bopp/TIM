@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
-cssclass: evergreen
-tags: evergreen
-parent: [[Deconstruction (Christianity)]]
+
+tags: node/evergreen
+parent: [ [ Deconstruction (Christianity) ] ]
 ---
 
 #### [[My worldview is not about conversion it is about acceptance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

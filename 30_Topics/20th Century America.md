@@ -1,7 +1,6 @@
 ---
 created: 2021-05-31
-cssclass: topic
-tags: source/outline
+tags: node/source/outline
 ---
 
 - [[notes1920's General Notes]]

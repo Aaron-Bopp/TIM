@@ -1,8 +1,7 @@
 ---
 created: 2021-06-28
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[The three main questions of life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

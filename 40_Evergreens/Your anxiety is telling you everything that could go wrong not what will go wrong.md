@@ -1,8 +1,8 @@
 ---
 created: 2021-06-15
-cssclass: evergreen
-tags: evergreen
-parent: [[anxiety]]
+
+tags: node/evergreen
+parent: [ [ anxiety ] ]
 ---
 
 #### [[Your anxiety is telling you everything that could go wrong not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

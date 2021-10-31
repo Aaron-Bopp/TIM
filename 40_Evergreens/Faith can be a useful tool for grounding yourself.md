@@ -1,8 +1,7 @@
 ---
 created: 2021-06-28
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[Faith can be a useful tool for grounding yourself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

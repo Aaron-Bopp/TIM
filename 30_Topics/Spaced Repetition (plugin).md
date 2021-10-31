@@ -1,8 +1,6 @@
 ---
 created: 2021-10-19
-aliases:
-- 
-tags: topic/tool
+tags: node/tool
 ---
 
 **See**:: [[Obsidian (software)]], [[Dataview]]

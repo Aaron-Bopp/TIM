@@ -6,7 +6,7 @@ creator:
 content-type:
 - podcast
 link: https://one.npr.org/?sharedMediaId=476876081:480084184
-bib:
+
 ---
 
 ###### [[podcast_NPR One_Can We Talk About Whiteness NPR One]]

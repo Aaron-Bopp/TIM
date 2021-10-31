@@ -1,9 +1,10 @@
 ---
 created: 2021-06-11
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- The nature of happiness is not doing what you love its detachment from the decisions of the life
+  - The nature of happiness is not doing what you love its detachment from the
+    decisions of the life
 ---
 
 #### [[Bhuddism is the study of happiness through detachment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

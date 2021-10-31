@@ -7,7 +7,7 @@ type:
   video
   interview
 source: https://www.youtube.com/watch?v=UUC8qF5iDag
-bib:
+
 ---
 
 ### [Existential Dread](https://www.youtube.com/watch?v=UUC8qF5iDag)

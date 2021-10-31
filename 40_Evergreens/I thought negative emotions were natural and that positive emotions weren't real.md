@@ -1,6 +1,6 @@
 ---
 created: 2021-06-03
-tags: personal
+tags: node/personal
 sr-due: 2021-10-26
 sr-interval: 3
 sr-ease: 257

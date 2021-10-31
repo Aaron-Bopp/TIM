@@ -1,8 +1,7 @@
 ---
 created: 2021-06-28
-cssclass: evergreen
-tags: evergreen, personal
 
+tags: node/evergreen, node/personal
 ---
 
 #### [[My relationship with my parents]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

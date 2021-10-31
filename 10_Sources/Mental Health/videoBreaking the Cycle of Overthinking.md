@@ -7,7 +7,7 @@ type:
 - video
 - interview
 source: https://www.youtube.com/watch?v=lUxU6KnjNNs
-bib:
+
 ---
 
 ### [Breaking the Cycle of Overthinking](https://www.youtube.com/watch?v=lUxU6KnjNNs)
@@ -17,7 +17,7 @@ bib:
     - Ignoring it is his way of controlling it
         - ignore is really not letting it into your mind
         - zoning out is ignoring
-- #Ref/DrK "If your mind is doing something there's a damn good reason for it"
+- DrK "If your mind is doing something there's a damn good reason for it"
 - Anxious [[parents]] breed anxious children. [[anxiety]]
     - There was a study that gave [[anxiety]] meds to [[parents]] and the kids got the same benefit as meds
 

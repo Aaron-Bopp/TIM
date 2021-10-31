@@ -1,6 +1,6 @@
 ---
 created: 2021-05-31
-tags: topic/technique
+tags: node/technique
 ---
 
 Examples:: https://youtu.be/UUC8qF5iDag?t=6195

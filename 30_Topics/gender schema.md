@@ -1,9 +1,6 @@
 ---
 created: 2021-10-03
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
  schema that processes and organizes gender-linked associations [^1]

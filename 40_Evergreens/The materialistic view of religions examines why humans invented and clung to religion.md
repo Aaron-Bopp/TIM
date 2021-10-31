@@ -1,8 +1,7 @@
 ---
 created: 2021-06-28
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[The materialistic view of religions examines why humans invented and clung to religion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

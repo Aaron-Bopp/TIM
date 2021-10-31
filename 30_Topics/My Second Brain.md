@@ -1,11 +1,6 @@
-
 ---
 created: 2021-06-07
-cssclass: topic
-tags: topic/outline
-aliases:
-- 
-parent: [[second brain]]
+tags: node/topic/outline
 ---
 
 Since March 2021 I have become very interested in [[knowledge management]] and the concept of a [[web of thought]] so intricate that it creates a [[second brain]]. This is my structure and [[philosophy]] of how I will construct [[My Second Brain]]

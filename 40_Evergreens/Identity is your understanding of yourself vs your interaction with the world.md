@@ -1,12 +1,12 @@
 ---
 created: 2021-06-27
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 sr-due: 2021-11-08
 sr-interval: 9
 sr-ease: 215
 aliases:
-- Identity is a sense of self not a pattern of traits or behavior
+  - Identity is a sense of self not a pattern of traits or behavior
 ---
 
 #### [[Identity is your understanding of yourself vs your interaction with the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -1,9 +1,9 @@
 ---
 created: 2021-07-30
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- 
+  - null
 ---
 
 #### [[We value our biggest insecurities because they protect us from the biggest threats]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

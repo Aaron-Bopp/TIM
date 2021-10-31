@@ -1,7 +1,6 @@
 ---
 created: 2021-08-15
-cssclass: topic
-tags: topic/outline
+tags: node/topic/outline
 aliases:
 - trans
 - transness

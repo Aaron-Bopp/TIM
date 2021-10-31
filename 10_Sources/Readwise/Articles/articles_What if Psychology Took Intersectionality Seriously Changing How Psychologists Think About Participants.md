@@ -2,7 +2,7 @@
 created: 2021-10-31
 aliases:
 - "What if Psychology Took Intersectionality Seriously? Changing How Psychologists Think About Participants"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

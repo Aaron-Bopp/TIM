@@ -1,8 +1,7 @@
 ---
 created: 2021-05-29
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[zettle]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

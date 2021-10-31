@@ -1,9 +1,6 @@
 ---
 created: 2021-10-16
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 y axis basic vector unit [^1]

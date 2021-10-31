@@ -1,7 +1,7 @@
 ---
 created: 2021-06-28
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 ---
 
 #### [[You can leave the church and still believe in the christian god]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

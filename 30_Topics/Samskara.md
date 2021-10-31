@@ -1,8 +1,6 @@
 ---
 created: 2021-10-19
-aliases:
--  
-tags:  topic/term
+tags: node/topic/term
 ---
 In Indian [[philosophy]] and Indian religions, [[Samskara|samskaras]] or [[Samskara|sanskaras]] are mental impressions, recollections, or psychological imprints.  [^1]
 

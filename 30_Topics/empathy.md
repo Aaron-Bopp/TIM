@@ -1,7 +1,6 @@
 ---
 created: 2021-06-17
-cssclass: topic
-tags: topic/stub
+tags: node/topic/stub
 ---
 **empathy**
 understanding and entering into another's feelings  

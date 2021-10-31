@@ -1,9 +1,9 @@
 ---
 created: 2021-07-30
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- 
+  - null
 ---
 
 #### [[Republicans have become a true opposition party]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

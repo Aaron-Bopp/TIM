@@ -1,9 +1,9 @@
 ---
 created: 2021-08-01
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- 
+  - null
 ---
 
 #### [[Most rights were denied to Americans at its founding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -4,7 +4,7 @@ aliases:
 - "Type Four"
 - "Type Four by enneagraminstitute.com"
 - "enneagraminstitute.com"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

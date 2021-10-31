@@ -1,9 +1,6 @@
 ---
 created: 2021-10-19
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 the differential treatment in which See select differenct toys, activities for boys and girls can also involve modeling [^1]

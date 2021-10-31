@@ -1,9 +1,6 @@
 ---
 created: 2021-10-13
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 memory locations the kernel and other processes (that have no restrictions in access to harware, instructions or memory locations) execute from [^1]

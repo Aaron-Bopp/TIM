@@ -1,9 +1,9 @@
 ---
 created: 2021-06-07
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
--
+  - null
 date modified: Sunday, October 10th 2021, 12:53:06 pm
 ---
 

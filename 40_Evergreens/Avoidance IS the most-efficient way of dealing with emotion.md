@@ -1,7 +1,7 @@
 ---
 created: 2021-06-24
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 ---
 
 #### [[Avoidance IS the most-efficient way of dealing with emotion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

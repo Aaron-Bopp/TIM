@@ -1,9 +1,9 @@
 ---
 created: 2021-10-17
 aliases:
-- 
-cssclass: evergreen
-tags: evergreen
+  - null
+
+tags: node/evergreen
 ---
 #### [[Programming is a powerful tool and a dangerous toy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

@@ -8,7 +8,7 @@ type:
 - video
 - interview
 source: https://www.youtube.com/watch?v=T_31hFh1XKM
-bib:
+
 ---
 
 - The body routed blood to an injured part of the body to avoid thoughts

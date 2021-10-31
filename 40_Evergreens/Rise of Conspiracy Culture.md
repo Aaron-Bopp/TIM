@@ -1,8 +1,8 @@
 ---
 created: 2021-08-01
-tags: evergreen
+tags: node/evergreen
 aliases:
-- 
+  - null
 ---
 
 #### [[Rise of Conspiracy Culture]] `$=customJS.dv_funcs.topicHeader(dv, this)`

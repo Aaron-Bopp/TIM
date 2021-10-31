@@ -1,8 +1,7 @@
 ---
 created: 2021-06-28
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[Non-faith issues have been co-opted to keep people in the christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

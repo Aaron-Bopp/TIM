@@ -4,7 +4,7 @@ aliases:
 - "&Gt; Most People Suck At..."
 - "&Gt; Most People Suck At... by @visakanv on Twitter"
 - "@visakanv on Twitter"
-tags: source/tweets
+tags: node/source/tweets
 type: 
 - tweets
 deliveredBy: 

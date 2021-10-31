@@ -7,7 +7,7 @@ content-type:
 - wikipedia
 - definition
 source: https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy)
-bib:
+
 aliases:
 - samskara's
 - samskaras

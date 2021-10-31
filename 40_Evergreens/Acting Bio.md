@@ -1,9 +1,9 @@
 ---
 created: 2021-09-16
-cssclass: evergreen
-tags: evergreen, personal
+
+tags: node/evergreen, node/personal
 aliases:
-- 
+  - null
 ---
 #### [[Acting Bio]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

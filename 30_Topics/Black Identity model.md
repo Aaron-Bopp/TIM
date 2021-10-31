@@ -1,9 +1,8 @@
 ---
 created: 2021-10-10
-cssclass: topic
-tags: topic/term
+tags: node/topic/term
 aliases:
-- black identity
+  - black identity
 ---
 
 **See**:: [[self|identity]], [[Psychology]]

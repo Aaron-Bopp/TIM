@@ -4,7 +4,7 @@ aliases:
 - "Historical Foundations of Race"
 - "Historical Foundations of Race by nmaahc.si.edu"
 - "nmaahc.si.edu"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

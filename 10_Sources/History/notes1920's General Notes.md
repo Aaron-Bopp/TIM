@@ -6,7 +6,7 @@ creator:
 content-type:
 - class
 source: NWMSU
-bib:
+
 ---
 
 - Conflict and conformity (Lecture 14)

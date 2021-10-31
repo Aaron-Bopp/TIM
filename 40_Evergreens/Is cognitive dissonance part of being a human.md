@@ -1,8 +1,8 @@
 ---
 created: 2021-10-23
 aliases:
-- "Is cognitive dissonance part of being a human?"
-tags: evergreen
+  - "Is cognitive dissonance part of being a human?"
+tags: node/evergreen
 sr-due: 2021-11-02
 sr-interval: 3
 sr-ease: 232

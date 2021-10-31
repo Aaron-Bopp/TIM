@@ -6,7 +6,7 @@ creator:
 content-type:
 - class
 source: NWMSU
-bib:
+
 ---
 
 - [[1960's General Notes]]

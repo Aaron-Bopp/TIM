@@ -7,7 +7,7 @@ content-type:
 - youtube
 - video
 source: https://www.youtube.com/watch?v=jM3azhiOy5E
-bib:
+
 aliases:
 -  "Rejection Sensitivity"
 ---

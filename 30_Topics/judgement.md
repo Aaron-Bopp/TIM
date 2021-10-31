@@ -2,7 +2,7 @@
 created: 2021-10-23
 aliases:
 - judged
-tags: topic/stub
+tags: node/topic/stub
 ---
 
 **See**::

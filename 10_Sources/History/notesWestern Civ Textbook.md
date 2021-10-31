@@ -6,7 +6,7 @@ creator:
 content-type:
 - textbook
 source:
-bib:
+
 ---
 
 ###### [[Western Civ Textbook]]

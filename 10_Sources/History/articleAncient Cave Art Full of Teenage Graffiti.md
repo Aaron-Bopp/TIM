@@ -6,7 +6,7 @@ creator: Bjorn Carey
 content-type:
 - article
 source: https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html
-bib:
+
 ---
 
 ###### [[Ancient Cave Art Full of Teenage Graffiti]]

@@ -1,6 +1,6 @@
 ---
 created: 2021-05-26
-tags: topic/tool
+tags: node/tool
 ---
 
 #TO/TEND/REFACTOR whole note

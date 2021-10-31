@@ -1,8 +1,7 @@
 ---
 created: 2021-06-28
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[People have been conditioned to believe the bible has to be infallible]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

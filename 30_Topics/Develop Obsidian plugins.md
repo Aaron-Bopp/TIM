@@ -1,12 +1,10 @@
 ---
 created: 2021-10-23
 aliases:
-- 
-aliases:
-- make obsidian plugins
-- developing obsidian plugins
-- Plugin Ideas
-tags: topic/technique
+  - make obsidian plugins
+  - developing obsidian plugins
+  - Plugin Ideas
+tags: node/technique
 ---
 
 **See**:: [[programming]], [[Software Development]]

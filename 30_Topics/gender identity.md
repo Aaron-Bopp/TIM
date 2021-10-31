@@ -1,7 +1,5 @@
 ---
 created: 2021-10-11
-aliases:
-  - null
-tags: topic/stub
+tags: node/topic/stub
 ---
 **See**:: [[gender]]

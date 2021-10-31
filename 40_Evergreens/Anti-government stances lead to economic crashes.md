@@ -1,9 +1,9 @@
 ---
 created: 2021-07-30
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- 
+  - null
 ---
 
 #### [[Anti-government stances lead to economic crashes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

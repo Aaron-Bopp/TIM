@@ -1,7 +1,7 @@
 ---
 created: 2021-10-18
-aliases:
-tags: evergreen
+aliases: null
+tags: node/evergreen
 sr-due: 2021-11-02
 sr-interval: 12
 sr-ease: 270

@@ -1,8 +1,8 @@
 ---
 created: 2021-10-23
 aliases:
-- Acknowledging the suffering of the world and defying it anyway
-tags: evergreen
+  - Acknowledging the suffering of the world and defying it anyway
+tags: node/evergreen
 sr-due: 2021-11-02
 sr-interval: 3
 sr-ease: 191

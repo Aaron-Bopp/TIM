@@ -1,8 +1,7 @@
 ---
 created: 2021-06-12
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[Knowledge of the world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

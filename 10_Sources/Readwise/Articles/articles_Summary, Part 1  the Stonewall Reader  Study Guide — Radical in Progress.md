@@ -4,7 +4,7 @@ aliases:
 - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress"
 - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress by radicalinprogress.org"
 - "radicalinprogress.org"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

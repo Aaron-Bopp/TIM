@@ -1,9 +1,6 @@
 ---
 created: 2021-10-16
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 numbers used to scale vectors. [^1]

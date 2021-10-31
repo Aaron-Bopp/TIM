@@ -1,7 +1,7 @@
 ---
 created: 2021-07-05
 parent: [[Dataview]]
-cssclass: evergreen
+
 tags: evergreen
 - organizational-note
 aliases:

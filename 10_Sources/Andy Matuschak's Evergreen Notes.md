@@ -5,7 +5,7 @@ note-type:
 creator: Andy Matuschak
 content-type: second brain
 source: https://publish.obsidian.md/andymatuschak/_Start+Here
-bib:
+
 aliases: [Andy's notes]
 ---
 

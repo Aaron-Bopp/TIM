@@ -7,7 +7,7 @@ content-type:
 - poltical platform
 - politics
 source: https://www.gop.com/the-2016-republican-party-platform/
-bib:
+
 ---
 
 ###### [[Excerpts from the 2016 Republican Party Platform]]

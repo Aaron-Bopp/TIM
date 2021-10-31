@@ -1,9 +1,6 @@
 ---
 created: 2021-10-17
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 A [[stereotype threat]] is when a person is concerned a negative sterotype affecting their treatment in a situation. This can lead to lower performance and higher stress. There are two pyschological processes that underlie stereotype threat:

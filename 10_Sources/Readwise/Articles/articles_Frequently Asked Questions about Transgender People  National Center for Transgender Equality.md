@@ -4,7 +4,7 @@ aliases:
 - "Frequently Asked Questions about Transgender People | National Center for Transgender Equality"
 - "Frequently Asked Questions about Transgender People | National Center for Transgender Equality by transequality.org"
 - "transequality.org"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

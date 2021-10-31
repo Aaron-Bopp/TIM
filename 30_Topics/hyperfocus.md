@@ -1,8 +1,6 @@
 ---
 created: 2021-10-20
-aliases:
-- 
-tags: topic/stub
+tags: node/topic/stub
 ---
 
 

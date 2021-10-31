@@ -2,8 +2,7 @@
 created: 2021-10-18
 aliases:
   - evolutionary
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 the process by which different kinds of living organism are believed to have developed from earlier forms during the history of the earth.

@@ -4,8 +4,7 @@ aliases:
   - science denier
   - anti-science
   - anti science
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 

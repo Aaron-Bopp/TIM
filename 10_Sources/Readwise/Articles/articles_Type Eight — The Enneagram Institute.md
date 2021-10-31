@@ -4,7 +4,7 @@ aliases:
 - "Type Eight — The Enneagram Institute"
 - "Type Eight — The Enneagram Institute by enneagraminstitute.com"
 - "enneagraminstitute.com"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

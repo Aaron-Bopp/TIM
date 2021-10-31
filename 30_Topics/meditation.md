@@ -1,9 +1,6 @@
 ---
 created: 2021-05-03
-cssclass: topic
-tags: topic/outline
-aliases:
-- 
+tags: node/topic/outline
 ---
 
 - Catch the moment between inhalation and exhalation [^1]

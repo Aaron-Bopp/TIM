@@ -7,8 +7,11 @@
         "id": "228ede09dab21bd4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -28,6 +31,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -39,7 +43,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -106,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#question",
+                "query": "tag:#node/qoute",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +240,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md"
+              }
             }
           }
         ]
@@ -246,15 +254,15 @@
   },
   "active": "228ede09dab21bd4",
   "lastOpenFiles": [
-    "10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md",
-    "10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md",
-    "10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md",
-    "10_Sources/Readwise/Tweets/tweets_I Don’t Hate TERFs. I Th....md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md",
+    "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
+    "30_Topics/My Second Brain.md",
+    "30_Topics/social discomfort.md",
+    "30_Topics/self.md",
+    "30_Topics/neurodiversity.md",
+    "10_Sources/Readwise/Articles/articles_Do it or Forget it — How to Think Less and Achieve More  by Tom Klima  Oct, 2021  Medium.md",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md",
-    "10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md",
-    "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
-    "10_Sources/Readwise/Tweets/tweets_How Did the “men Will Li....md"
+    "10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md",
+    "10_Sources/Readwise/Articles/articles_Five-Factor Model of Personality.md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md"
   ]
 }

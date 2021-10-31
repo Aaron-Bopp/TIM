@@ -4,7 +4,7 @@ aliases:
 - "VIM Mode - Quality of Life Improvements"
 - "VIM Mode - Quality of Life Improvements by forum.obsidian.md"
 - "forum.obsidian.md"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

@@ -1,8 +1,8 @@
 ---
 created: 2021-10-23
 aliases:
-- 
-tags: topic/technique
+  - null
+tags: node/technique
 ---
 #### [[Embed notes from a dataview query with dataviewjs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

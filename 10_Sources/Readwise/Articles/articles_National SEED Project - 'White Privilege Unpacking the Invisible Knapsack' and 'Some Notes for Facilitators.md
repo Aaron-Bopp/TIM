@@ -4,7 +4,7 @@ aliases:
 - "National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators"
 - "National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators by nationalseedproject.org"
 - "nationalseedproject.org"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

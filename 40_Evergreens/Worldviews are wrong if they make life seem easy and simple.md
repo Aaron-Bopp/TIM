@@ -1,9 +1,9 @@
 ---
 created: 2021-10-18
 aliases:
-- worldviews that make life seems easy and simple
-cssclass: evergreen
-tags: evergreen
+  - worldviews that make life seems easy and simple
+
+tags: node/evergreen
 sr-due: 2021-11-01
 sr-interval: 6
 sr-ease: 208

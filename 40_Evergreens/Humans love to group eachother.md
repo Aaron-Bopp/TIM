@@ -1,9 +1,9 @@
 ---
 created: 2021-10-19
 aliases:
-- humans love for grouping eachother
-cssclass: evergreen
-tags: evergreen
+  - humans love for grouping eachother
+
+tags: node/evergreen
 ---
 #### [[Humans love to group eachother]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

@@ -5,7 +5,7 @@ note-type:
 creator:
 content-type:
 source:
-bib:
+
 ---
 #TO/TEND/REFACTOR into evergreen notes
 # Discussion 3

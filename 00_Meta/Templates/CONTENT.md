@@ -1,5 +1,5 @@
 <% tp.file.include("[[META]]") %>
-tags: source/stub
+tags: node/source/stub
 type:
 - 
 ---

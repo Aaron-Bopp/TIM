@@ -7,7 +7,7 @@ content-type:
 - article
 - website
 source: https://www.livescience.com/7088-history-human-sex.html
-bib:
+
 ---
 
 ## [History of Human Sex](https://www.livescience.com/7088-history-human-sex.html)

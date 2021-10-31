@@ -6,7 +6,7 @@ creator:
 content-type:
 - 
 
-bib:
+
 ---
 
 ###### [[First Amendment to the U.S. Constitution]]

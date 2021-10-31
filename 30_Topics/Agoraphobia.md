@@ -1,9 +1,6 @@
 ---
 created: 2021-10-11
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 fear of going outside
 - developed from the fear of having a panic attack in an unkown environment

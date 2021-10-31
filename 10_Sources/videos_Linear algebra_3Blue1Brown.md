@@ -2,12 +2,11 @@
 created: 2021-10-16
 aliases:
 - 
-cssclass: content
-tags: source/videos
+
+tags: node/source/videos
 type:
 - 
-bib:
-aliases:
+
 ---
 
 ##### [[videos_Linear algebra_3Blue1Brown]]

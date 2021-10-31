@@ -4,7 +4,7 @@ aliases:
 - "Someone (Was It JKR? Lol..."
 - "Someone (Was It JKR? Lol... by @visakanv on Twitter"
 - "@visakanv on Twitter"
-tags: source/tweets
+tags: node/source/tweets
 type: 
 - tweets
 deliveredBy: 

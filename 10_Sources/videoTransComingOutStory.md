@@ -2,12 +2,11 @@
 created: 2021-10-23
 aliases:
 - 
-cssclass: content
-tags: source/videos
+
+tags: node/source/videos
 type:
 - 
-bib:
-aliases:
+
 ---
 
 ##### [[videoTransComingOutStory ]]

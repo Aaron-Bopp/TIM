@@ -1,7 +1,7 @@
 When Was America Great?: The Daily Show - YouTube10-22
 aliases:
 - 
-cssclass: evergreen
+
 tags: evergreen
 sr-due: 2021-10-27
 sr-interval: 2

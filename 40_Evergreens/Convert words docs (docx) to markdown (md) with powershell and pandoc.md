@@ -1,8 +1,8 @@
 ---
 created: 2021-10-23
 aliases:
-- 
-tags: topic/technique
+  - null
+tags: node/technique
 ---
 #### [[Convert words docs (docx) to markdown (md) with powershell and pandoc]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

@@ -4,7 +4,7 @@ aliases:
 - "Tweets From Christian"
 - "Tweets From Christian by @CXGonzalez_ on Twitter"
 - "@CXGonzalez_ on Twitter"
-tags: source/tweets
+tags: node/source/tweets
 type: 
 - tweets
 deliveredBy: 

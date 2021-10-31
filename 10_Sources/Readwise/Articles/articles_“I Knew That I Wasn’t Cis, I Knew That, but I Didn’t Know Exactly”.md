@@ -2,7 +2,7 @@
 created: 2021-10-31
 aliases:
 - "“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

@@ -1,9 +1,6 @@
 ---
 created: 2021-10-11
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 **See**:: [[human experience]]

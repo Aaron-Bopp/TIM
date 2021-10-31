@@ -1,9 +1,9 @@
 ---
 created: 2021-08-09
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- "must acknowledge optimism's existence and effectiveness"
+  - "must acknowledge optimism's existence and effectiveness"
 ---
 
 #### [[Realism must acknowledge optimism's existence and effectiveness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

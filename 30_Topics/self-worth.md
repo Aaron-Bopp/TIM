@@ -1,8 +1,6 @@
 ---
 created: 2021-06-16
-cssclass: topic
-tags: topic/outline
-aliases:
+tags: node/topic/outline
 ---
 
 **See**:: [[social anxiety]], [[self]]

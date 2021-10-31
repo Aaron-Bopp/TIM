@@ -4,7 +4,7 @@ aliases:
 - "Taxonomy of note types | Daily working log | Backlinks can be used to implicitly define nodes in knowledge management systems"
 - "Taxonomy of note types | Daily working log | Backlinks can be used to implicitly define nodes in knowledge management systems by notes.andymatuschak.org"
 - "notes.andymatuschak.org"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

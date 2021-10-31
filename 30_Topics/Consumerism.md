@@ -1,9 +1,8 @@
 ---
 created: 2021-07-18
-cssclass: topic
-tags: topic/stub
+tags: node/topic/stub
 aliases:
-- Consumer Culture
+  - Consumer Culture
 ---
 
 **See**:: 

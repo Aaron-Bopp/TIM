@@ -7,7 +7,7 @@ content-type:
 - video 
 - video essay
 source: https://www.youtube.com/watch?v=aPhrT
-bib:
+
 ---
 
 ###### [[Contrapoints-Envy]]

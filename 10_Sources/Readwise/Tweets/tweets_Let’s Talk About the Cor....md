@@ -4,7 +4,7 @@ aliases:
 - "Let’s Talk About the Cor..."
 - "Let’s Talk About the Cor... by @samdylanfinch on Twitter"
 - "@samdylanfinch on Twitter"
-tags: source/tweets
+tags: node/source/tweets
 type: 
 - tweets
 deliveredBy: 

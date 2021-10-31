@@ -1,7 +1,6 @@
 ---
 created: 2021-07-05
-cssclass: topic
-tags: topic/term
+tags: node/topic/term
 aliases:
 - kharma
 ---

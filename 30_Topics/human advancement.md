@@ -1,9 +1,6 @@
 ---
 created: 2021-07-05
-cssclass: topic
-tags: topic/outline
-aliases:
-- 
+tags: node/topic/outline
 ---
 - 
 

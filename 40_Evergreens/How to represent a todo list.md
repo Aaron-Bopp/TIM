@@ -1,8 +1,7 @@
 ---
 created: 2021-05-22
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[How to represent a todo list]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

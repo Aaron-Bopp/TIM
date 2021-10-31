@@ -1,7 +1,6 @@
 ---
 created: 2021-07-02
-cssclass: topic
-tags: topic/stub
+tags: node/topic/stub
 aliases:
 - subconsciously
 - ego

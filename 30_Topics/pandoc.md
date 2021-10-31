@@ -1,11 +1,9 @@
 pandoc
 ---
 created: 2021-10-23
-aliases:
+iases:
 - 
-aliases:
-- 
-tags: topic/stub
+tags: node/topic/stub
 ---
 
 **See**::

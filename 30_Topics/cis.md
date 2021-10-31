@@ -1,8 +1,6 @@
 ---
 created: 2021-10-23
-aliases:
--  
-tags: topic/term
+tags: node/topic/term
 ---
 a person who identifies with gender they were assigned at birth
 

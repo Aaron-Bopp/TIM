@@ -6,7 +6,7 @@ creator:
 content-type: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
 - 
 source:
-bib:
+
 ---
 
 ###### [[What is Ego]]

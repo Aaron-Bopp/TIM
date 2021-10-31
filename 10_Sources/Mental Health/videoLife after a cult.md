@@ -7,7 +7,7 @@ type:
   video
   interview
 source: httpswww.youtube.comwatchv=ldTMLhTMZAc
-bib:
+
 ---
 
 ### [Life after a cult](https://www.youtube.com/watch?v=ldTMLhTMZAc)
@@ -16,7 +16,7 @@ bib:
     - Similar to when a tiktoker accepted me and I bawled
 - "I'm not allowed to make a mistake because a mistake means lost time and time is precious because I've already lost so much. The remainder of time is more valuable from this perspective"
 
-    - #Ref/DrK doesn't accept this perspective despite how logically correct it is
+    - DrK doesn't accept this perspective despite how logically correct it is
         - "You can't make up for the past, it has already happened"
         - "You can't let your feelings to someone else. You can't tolerate letting other people know about the ugliest parts of your being"
         - #TO/PONDER/ME  "It's not a fear of rejection its a fear of acceptance" [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]

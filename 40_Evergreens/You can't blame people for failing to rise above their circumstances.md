@@ -1,9 +1,9 @@
 ---
 created: 2021-07-04
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- 
+  - null
 ---
 
 #### [[You can't blame people for failing to rise above their circumstances]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

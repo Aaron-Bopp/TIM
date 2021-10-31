@@ -1,8 +1,6 @@
 ---
 created: 2021-10-10
-cssclass: term
-tags: topic/term
-aliases:
+tags: node/topic/term
 ---
 
 Masculine traits are simply traits that appear more in men. [^1]

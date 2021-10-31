@@ -6,7 +6,7 @@ creator: Lou Cannon
 content-type:
 - 
 source: https://millercenter.org/president/reagan/impact-and-legacy
-bib:
+
 ---
 ###### [[Reagans Impact and Legacy]]
 

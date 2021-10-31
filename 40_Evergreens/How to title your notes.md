@@ -1,8 +1,7 @@
 ---
 created: 2021-06-27
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[How to title your notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

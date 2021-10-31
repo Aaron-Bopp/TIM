@@ -1,9 +1,6 @@
 ---
 created: 2021-07-18
-cssclass: topic
-tags: topic/stub
-aliases:
-- 
+tags: node/topic/stub
 ---
 
 **See**:: Indigenous

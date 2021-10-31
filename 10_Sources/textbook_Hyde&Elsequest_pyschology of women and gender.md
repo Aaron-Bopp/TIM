@@ -8,7 +8,7 @@ content-type:
 aliases:
 - Hyde and Else-Quest
 source:
-bib:
+
 ---
 
 ###### [[textbook_Hyde&Elsequest_pyschology of women and gender]]

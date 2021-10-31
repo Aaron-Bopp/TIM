@@ -1,7 +1,6 @@
 ---
 created: 2021-06-07
-cssclass: topic
-tags: topic/outline
+tags: node/topic/outline
 aliases:
 - neurodiverse
 - neurodivergency

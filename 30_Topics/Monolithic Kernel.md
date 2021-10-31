@@ -1,9 +1,6 @@
 ---
 created: 2021-10-13
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 All kernil services ([[Virtual File System| VFS]], schedulers, device drivers) live in [[Kernel Space]] and share memory while communicated through the [[Application Binary Interface | ABI]] [^1]

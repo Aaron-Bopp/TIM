@@ -1,8 +1,6 @@
 ---
 created: 2021-10-21
-aliases:
--  
-tags: topic/term
+tags: node/topic/term
 ---
  #TO/TEND/CONCEPTUALIZE [^1]
 

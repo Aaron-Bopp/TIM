@@ -1,7 +1,7 @@
 ---
 created: 2021-05-25
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 ---
 
 #### [[Use Obsidian tags as temporal classifiers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

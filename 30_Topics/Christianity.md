@@ -1,9 +1,8 @@
 ---
 created: 2021-06-28
-cssclass: topic
-tags: topic/outline
+tags: node/topic/outline
 aliases:
-- christian
+  - christian
 ---
 
 **See**:: [[religion]]

@@ -1,8 +1,8 @@
 ---
 created: 2021-10-23
 aliases:
-- 
-tags: evergreen
+  - null
+tags: node/evergreen
 ---
 #### [[Stereotypes are social constructs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

@@ -4,7 +4,7 @@ aliases:
 - "Type Nine — The Enneagram Institute"
 - "Type Nine — The Enneagram Institute by enneagraminstitute.com"
 - "enneagraminstitute.com"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

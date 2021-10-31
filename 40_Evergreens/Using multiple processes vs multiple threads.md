@@ -1,9 +1,9 @@
 ---
 created: 2021-10-14
 aliases:
-- 
-cssclass: evergreen
-tags: evergreen
+  - null
+
+tags: node/evergreen
 sr-due: 2021-11-10
 sr-interval: 13
 sr-ease: 290

@@ -1,7 +1,6 @@
 ---
 created: 2021-08-01
-cssclass: topic
-tags: topic/stub
+tags: node/topic/stub
 aliases:
 - The Internet
 ---

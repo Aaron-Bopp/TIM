@@ -4,7 +4,7 @@ aliases:
 - "How I take Smart Notes — Nicholas Seitz Photographer"
 - "How I take Smart Notes — Nicholas Seitz Photographer by Nick Seitz"
 - "Nick Seitz"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

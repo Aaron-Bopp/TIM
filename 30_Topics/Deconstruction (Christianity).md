@@ -1,8 +1,6 @@
 ---
 created: 2021-06-28
-cssclass: topic
-tags: topic/outline
-aliases:
+tags: node/topic/outline
 ---
 
 **See**:: [[Christianity]]

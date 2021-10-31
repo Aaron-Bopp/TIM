@@ -1,8 +1,6 @@
 ---
 created: 2021-10-18
-aliases:
-- 
-tags: topic/tool
+tags: node/tool
 ---
 
 **See**:: [[role-playing]], [[TTRPG]], [[Acting]]

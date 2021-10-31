@@ -4,7 +4,7 @@ aliases:
 - "Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer"
 - "Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer by Nick Seitz"
 - "Nick Seitz"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

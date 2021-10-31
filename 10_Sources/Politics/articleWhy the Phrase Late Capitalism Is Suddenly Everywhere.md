@@ -6,7 +6,7 @@ creator: Annie Lowrey
 content-type:
 - 
 source: https://www.theatlantic.com/business/archive/2017/05/late-capitalism/524943/
-bib:
+
 ---
 
 ###### [[Why the Phrase Late Capitalism Is Suddenly Everywhere]]

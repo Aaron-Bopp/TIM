@@ -1,9 +1,6 @@
 ---
 created: 2021-10-10
-cssclass: topic
-tags: topic/term
-aliases:
-- 
+tags: node/topic/term
 ---
 
 **See**:: [[social justice]]

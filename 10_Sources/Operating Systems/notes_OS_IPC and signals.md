@@ -2,12 +2,11 @@
 created: 2021-10-19
 aliases:
 - 
-cssclass: content
-tags: source/notes
+
+tags: node/source/notes
 type:
 - 
-bib:
-aliases:
+
 ---
 
 ##### [[notes_OS_IPC and signals]]

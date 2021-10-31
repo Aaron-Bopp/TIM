@@ -1,7 +1,6 @@
 ---
 created: 2021-06-07
-tags: organizational
-
+tags: node/organizational
 ---
 `$=(dv.pages().where(p => p.file.path.contains("OrganizationalNotes")).map(p => dv.fileLink(p.file.path)))`
 
@@ -21,7 +20,7 @@ good gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.you
 	- If you are in a bad situation you can't advance past that state but you don't lose those higher needs 
 - arbitrage
 
-#FunFact Cave art (drawn between 10k-35k years ago) was done by men and [[women]] of all ages but it was dominated by teenage males [#Ref](https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html)
+#FunFact Cave art (drawn between 10k-35k years ago) was done by men and [[women]] of all ages but it was dominated by teenage males [Ref](https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html)
 
 [[2021-05-29]] 05:48 [[ADHD]]: #EVER/SEED/UNPLANTED [ example second brain](https://notes.nicolevanderhoeven.com/Video/Roam+Tour+1+-+Professor+Joel+Chan+-+Zettelkasten+and+Evergreen+Notes+for+Generative+Thought)
 

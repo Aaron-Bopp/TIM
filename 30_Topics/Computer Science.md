@@ -1,9 +1,6 @@
 ---
 created: 2021-10-15
-aliases:
-- 
-cssclass: topic
-tags: topic/outline
+tags: node/topic/outline
 ---
 > **Computer Science** is the study of algorithmic processes, computational machines and computation itself. As a discipline, computer science spans a range of topics from theoretical studies of algorithms, computation and information to the practical issues of implementing computational systems in hardware and software.
 > 

@@ -1,7 +1,6 @@
 ---
 created: 2021-07-05
-cssclass: topic
-tags: topic/outline
+tags: node/topic/outline
 aliases:
 - Self-Realization
 - God-Realization

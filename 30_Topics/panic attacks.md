@@ -1,7 +1,5 @@
 ---
 created: 2021-10-18
-aliases:
-  - null
-tags: topic/stub
+tags: node/topic/stub
 ---
 **See**:: [[anxiety]], [[Neuroscience]]

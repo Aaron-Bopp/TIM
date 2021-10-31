@@ -1,6 +1,6 @@
 ---
 created: 2021-05-22
-cssclass: evergreen
+
 tags: evergreen
 - organizational-note
 - topic-note

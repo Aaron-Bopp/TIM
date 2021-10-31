@@ -1,7 +1,7 @@
 ---
 created: 2021-10-10
-cssclass: term
-tags: topic/term
+
+tags: node/topic/term
 aliases:
 - ignorant
 ---

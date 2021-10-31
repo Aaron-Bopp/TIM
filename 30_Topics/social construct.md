@@ -1,10 +1,8 @@
 ---
 created: 2021-10-23
-aliases:
+iases:
 - 
-aliases:
-- 
-tags: topic/outline
+tags: node/topic/outline
 ---
 
 **See**:: 

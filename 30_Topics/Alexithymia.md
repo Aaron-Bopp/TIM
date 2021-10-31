@@ -1,8 +1,6 @@
 ---
 created: 2021-10-19
-aliases:
-- 
-tags: topic/term
+tags: node/topic/term
 ---
 
 No words for emotions [^1]

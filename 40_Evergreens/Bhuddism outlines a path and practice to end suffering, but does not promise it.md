@@ -1,9 +1,9 @@
 ---
 created: 2021-10-19
 aliases:
-- 
-cssclass: evergreen
-tags: evergreen
+  - null
+
+tags: node/evergreen
 ---
 #### [[Bhuddism outlines a path and practice to end suffering, but does not promise it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

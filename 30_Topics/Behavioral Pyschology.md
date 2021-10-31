@@ -1,9 +1,6 @@
 ---
 created: 2021-10-03
-cssclass: topic
-tags: topic/outline
-aliases:
-- 
+tags: node/topic/outline
 ---
 
 **See**:: [[Psychology]],

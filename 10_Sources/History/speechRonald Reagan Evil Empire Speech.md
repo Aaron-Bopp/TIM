@@ -6,7 +6,7 @@ creator: [[Reagan]]
 content-type:
 - speech
 source: https://voicesofdemocracy.umd.edu/reagan-evil-empire-speech-text/
-bib:
+
 ---
 
 ###### [[Ronald Reagan Evil Empire Speech]]

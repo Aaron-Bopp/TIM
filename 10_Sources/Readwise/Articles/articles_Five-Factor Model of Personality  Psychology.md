@@ -4,7 +4,7 @@ aliases:
 - "Five-Factor Model of Personality | Psychology"
 - "Five-Factor Model of Personality | Psychology by britannica.com"
 - "britannica.com"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

@@ -1,7 +1,7 @@
 ---
 created: 2021-06-13
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 sr-due: 2021-11-29
 sr-interval: 30
 sr-ease: 272

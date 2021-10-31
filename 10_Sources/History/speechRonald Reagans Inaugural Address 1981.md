@@ -6,7 +6,7 @@ creator: Ronald Reagan
 content-type:
 - speech
 source: https://avalon.law.yale.edu/20th_century/reagan1.asp
-bib:
+
 ---
 
 ###### [[Ronald Reagans Inaugural Address 1981]]

@@ -7,8 +7,8 @@ embedded:
 - [[my emotions]]
 - [[yoga]]
 - [[neurodivergency]]
-cssclass: topic
-tags: topic/outline
+
+tags: node/topic/outline
 ---
 
 [[mental health]] covers concepts that vary from [[mental disorders]] to [[neurodiversity]] to [[spirituality]] and how it effects us. 

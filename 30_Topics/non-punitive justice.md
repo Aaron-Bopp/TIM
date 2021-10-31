@@ -1,8 +1,6 @@
 ---
 created: 2021-10-18
-aliases:
--
-tags: topic/term
+tags: node/topic/term
 ---
 
 **See**:: [[justice]], [[Prison]]

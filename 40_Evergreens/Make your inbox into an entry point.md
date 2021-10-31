@@ -1,8 +1,7 @@
 ---
 created: 2021-05-25
-cssclass: evergreen
-tags: evergreen
 
+tags: node/evergreen
 ---
 
 #### [[Make your inbox into an entry point]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

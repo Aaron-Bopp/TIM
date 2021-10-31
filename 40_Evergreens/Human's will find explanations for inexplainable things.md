@@ -1,10 +1,10 @@
 ---
 created: 2021-06-16
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- humans finding explanations for inexplainable things
-- explain unexplainable things
+  - humans finding explanations for inexplainable things
+  - explain unexplainable things
 sr-due: 2021-11-21
 sr-interval: 24
 sr-ease: 270

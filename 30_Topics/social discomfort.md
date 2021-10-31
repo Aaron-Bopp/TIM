@@ -1,7 +1,6 @@
 ---
 created: 2021-06-16
-cssclass: topic
-tags: topic/outline
+tags: node/topic/outline
 parent: [[anxiety]]
 ---
 

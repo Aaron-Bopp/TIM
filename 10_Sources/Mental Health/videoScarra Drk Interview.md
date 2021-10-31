@@ -6,7 +6,7 @@ creator:
 content-type:
 - 
 source: https://www.youtube.com/watch?v=nB8g3n10_Z8
-bib:
+
 ---
 
 ###### [[videoScarra Drk Interview]]

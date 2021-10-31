@@ -1,9 +1,9 @@
 ---
 created: 2021-07-03
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- 
+  - null
 ---
 
 #### [[Webs of thought are densely linked]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

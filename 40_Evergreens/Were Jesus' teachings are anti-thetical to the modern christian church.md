@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
-cssclass: evergreen
-tags: evergreen
+
+tags: node/evergreen
 aliases:
-- "Were Jesus' teachings are anti-thetical to the modern christian church?"
+  - "Were Jesus' teachings are anti-thetical to the modern christian church?"
 sr-due: 2021-11-02
 sr-interval: 5
 sr-ease: 230

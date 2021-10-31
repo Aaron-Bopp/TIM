@@ -4,7 +4,7 @@ aliases:
 - "Misidentifying 4 and 5 — The Enneagram Institute"
 - "Misidentifying 4 and 5 — The Enneagram Institute by enneagraminstitute.com"
 - "enneagraminstitute.com"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

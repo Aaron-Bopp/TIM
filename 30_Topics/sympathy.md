@@ -2,7 +2,7 @@
 created: 2021-10-20
 aliases:
 - sympathize
-tags: topic/stub
+tags: node/topic/stub
 ---
 a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in close sympathy"  
 

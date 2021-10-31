@@ -1,7 +1,7 @@
 ---
 created: 2021-06-07
-cssclass: topic
-tags: topic/term
+
+tags: node/topic/term
 aliases:
 - source
 - sources

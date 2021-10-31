@@ -1,8 +1,6 @@
 ---
 created: 2021-10-19
-aliases:
--  
-tags:  topic/term
+tags: node/topic/term
 ---
 
  Adrenaline will hit in seconds and last for minutes after it allows for fast action and hyper awareness of the situation [^1]

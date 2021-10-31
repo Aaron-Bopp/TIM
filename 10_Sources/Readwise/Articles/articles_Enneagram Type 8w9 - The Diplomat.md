@@ -4,7 +4,7 @@ aliases:
 - "Enneagram Type 8w9 - The Diplomat"
 - "Enneagram Type 8w9 - The Diplomat by crystalknows.com"
 - "crystalknows.com"
-tags: source/articles
+tags: node/source/articles
 type: 
 - articles
 deliveredBy: 

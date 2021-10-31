@@ -1,9 +1,6 @@
 ---
 created: 2021-10-03
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 the applicatoin of evolutionary theory (natural selection) to social behavior [[socialization|social fitness]] [^1]

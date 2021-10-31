@@ -1,9 +1,6 @@
 ---
 created: 2021-08-01
-aliases:
--
-tags: topic/term
-cssclass: term
+tags: node/topic/term
 ---
 
 

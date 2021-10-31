@@ -1,8 +1,6 @@
 ---
 created: 2021-10-23
-aliases:
-- 
-tags: inbox
+tags: node/inbox
 sr-due: 2021-10-29
 sr-interval: 1
 sr-ease: 196

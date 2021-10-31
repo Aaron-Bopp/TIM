@@ -1,9 +1,6 @@
 ---
 created: 2021-05-22
-cssclass: topic
-tags: topic/outline
-aliases:
-- 
+tags: node/topic/outline
 ---
 A second brain is a term that refers to a system of written thought that allows the writer to make permanent meaningful thought, access those thoughts in a meaningful way, and use as a conduit for new thought. 
 #TO/DO/WRITE/LONGTERM Article with my flavor of [[knowledge management]]

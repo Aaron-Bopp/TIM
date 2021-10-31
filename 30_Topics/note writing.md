@@ -1,7 +1,6 @@
 ---
 created: 2021-06-27
-cssclass: topic
-tags: topic/outline
+tags: node/topic/outline
 aliases:
 - "note-writing"
 ---

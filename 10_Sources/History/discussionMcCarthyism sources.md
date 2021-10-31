@@ -6,7 +6,7 @@ creator:
 content-type:
 - 
 source:
-bib:
+
 ---
 
 ###### [[McCarthyism sources]]
