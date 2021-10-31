@@ -1,7 +1,6 @@
 ---
 2021-06-11
-note-type:
-- personal-note
+tags: node/personal-note
 aliases:
 -
 ---

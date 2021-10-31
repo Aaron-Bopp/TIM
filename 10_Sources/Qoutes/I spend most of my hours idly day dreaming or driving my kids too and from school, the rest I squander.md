@@ -1,7 +1,6 @@
 ---
 created: 2021-09-22
-note-type: 
-- qoute
+tags: node/qoute
 source: https://youtu.be/job52mBUvjc?t=142
 ---
 > *<span style="color:LightPink;"> 

@@ -1,12 +1,9 @@
 ---
 created: 2021-05-29
-note-type: 
-  content-note
+tags: node/source/notes
 creator: Andy Matuschak
-content-type: second brain
+type: second brain
 source: https://publish.obsidian.md/andymatuschak/_Start+Here
-
-aliases: [Andy's notes]
 ---
 
 Author:: [[Andy Matuschak]]

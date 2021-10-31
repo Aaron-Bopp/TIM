@@ -1,12 +1,9 @@
 ---
 created: 2021-08-01
-note-type: 
-- content-note
-creator:
-content-type:
-- 
-
-
+tags: node/source/notes
+creator: null
+type:
+  - null
 ---
 
 ###### [[First Amendment to the U.S. Constitution]]

@@ -1,8 +1,6 @@
 ---
 created: 2021-07-05
-note-type:
-- organizational-note
-- dataview
+tags: node/entry
 ---
 `$=(dv.pages().where(p => p.file.path.contains("OrganizationalNotes")).map(p => dv.fileLink(p.file.path)))`
 ```dataviewjs

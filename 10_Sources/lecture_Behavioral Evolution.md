@@ -1,12 +1,10 @@
 ---
 created: 2021-08-22
-note-type: 
-- content-note
-creator:
-content-type:
-- 
-source:
-
+tags: node/source/notes
+creator: null
+type:
+  - null
+source: null
 ---
 
 ###### [[lecture_Behavioral Evolution]]

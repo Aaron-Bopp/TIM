@@ -1,12 +1,10 @@
 ---
 created: 2021-07-29
-note-type: 
-- content-note
+tags: node/source/notes
 creator: Bjorn Carey
-content-type:
-- article
+type:
+  - article
 source: https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html
-
 ---
 
 ###### [[Ancient Cave Art Full of Teenage Graffiti]]

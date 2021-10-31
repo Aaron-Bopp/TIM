@@ -1,14 +1,12 @@
 ---
 created: 2021-05-29
-note-type: 
-  content-note
+tags: node/source/notes
 creator: Dr.K
 type:
-- youtube
-- video
-- interview
+  - youtube
+  - video
+  - interview
 source: https://www.youtube.com/watch?v=sXGhT4pJcj8
-
 ---
 
 ### [Healing from Festered Emotions](https://www.youtube.com/watch?v=sXGhT4pJcj8)

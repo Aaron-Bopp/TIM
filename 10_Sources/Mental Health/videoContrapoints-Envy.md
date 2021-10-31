@@ -1,13 +1,11 @@
 ---
 created: 2021-07-26
-note-type: 
-- content-note
+tags: node/source/notes
 creator: Contrapoints
-content-type:
-- video 
-- video essay
+type:
+  - video
+  - video essay
 source: https://www.youtube.com/watch?v=aPhrT
-
 ---
 
 ###### [[Contrapoints-Envy]]

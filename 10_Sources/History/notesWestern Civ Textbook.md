@@ -1,12 +1,10 @@
 ---
 created: 2021-07-30
-note-type: 
-- content-note
-creator:
-content-type:
-- textbook
-source:
-
+tags: node/source/notes
+creator: null
+type:
+  - textbook
+source: null
 ---
 
 ###### [[Western Civ Textbook]]

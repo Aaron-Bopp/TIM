@@ -1,10 +1,5 @@
 ---
 created: 2021-06-13
-
-tags: evergreen
-- tool
-- software
-
 ---
 
 #### [[Templater]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

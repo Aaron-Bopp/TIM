@@ -1,9 +1,8 @@
 ---
 created: 2021-06-20
-note-type: 
-- content-note
+tags: node/content-note
 creator:
-content-type: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
+type: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
 - 
 source:
 

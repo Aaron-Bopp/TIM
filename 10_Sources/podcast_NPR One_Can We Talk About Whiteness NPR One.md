@@ -1,12 +1,10 @@
 ---
 created: 2021-08-29
-note-type: 
-- content-note
-creator:
-content-type:
-- podcast
+tags: node/source/notes
+creator: null
+type:
+  - podcast
 link: https://one.npr.org/?sharedMediaId=476876081:480084184
-
 ---
 
 ###### [[podcast_NPR One_Can We Talk About Whiteness NPR One]]

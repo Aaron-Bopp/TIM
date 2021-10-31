@@ -1,8 +1,6 @@
 ---
 created: 2021-07-05
-note-type:
-- organizational-note
-
+tags: node/entry
 ---
 ```dataview
 table replace(file.path, file.name + ".md", "") as Folder, striptime(file.ctime) as Created

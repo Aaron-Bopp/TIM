@@ -1,18 +1,17 @@
 ---
 created: 2021-05-09
-note-type: 
-- content-note
+tags: node/source/notes
 creator: wikipedia
-content-type: 
-- wikipedia
-- definition
+type:
+  - wikipedia
+  - definition
 source: https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy)
 
 aliases:
-- samskara's
-- samskaras
-- sanskara
-- sanskaras
+  - samskara's
+  - samskaras
+  - sanskara
+  - sanskaras
 ---
 
 - [[Samskara]] -> In Indian [[philosophy]] and Indian religions, [[Samskara|samskaras]] or [[Samskara|sanskaras]] are mental impressions, recollections, or psychological imprints. 

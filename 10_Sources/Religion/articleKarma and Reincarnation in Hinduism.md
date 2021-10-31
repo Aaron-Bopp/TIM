@@ -1,13 +1,11 @@
 ---
 created: 2021-07-05
-note-type: 
-- content-note
+tags: node/source/notes
 creator: Sivaya Subramuniyaswami
-content-type:
-- article
-- teaching
-source:  https://www.hinduismtoday.com/hindu-basics/karma-and-reincarnation/
-
+type:
+  - article
+  - teaching
+source: https://www.hinduismtoday.com/hindu-basics/karma-and-reincarnation/
 ---
 
 ###### [[Karma and Reincarnation in Hinduism]]

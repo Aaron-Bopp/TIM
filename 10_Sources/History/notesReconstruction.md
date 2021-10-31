@@ -1,12 +1,10 @@
 ---
 created: 2021-04-30
-note-type: 
-- content-note
-creator:
-content-type:
-- class
+tags: node/source/notes
+creator: null
+type:
+  - class
 source: NWMSU
-
 ---
 
 - What was the root cause of the [[civil war]]

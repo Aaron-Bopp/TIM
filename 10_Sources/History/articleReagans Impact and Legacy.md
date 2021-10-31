@@ -1,12 +1,10 @@
 ---
 created: 2021-07-30
-note-type: 
-- content-note
+tags: node/source/notes
 creator: Lou Cannon
-content-type:
-- 
+type:
+  - null
 source: https://millercenter.org/president/reagan/impact-and-legacy
-
 ---
 ###### [[Reagans Impact and Legacy]]
 

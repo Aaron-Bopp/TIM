@@ -1,6 +1,5 @@
 <% tp.file.include("[[META]]") %> 
-note-type: 
-- bio-note
+tags: node/bio-note
 
 ---
 

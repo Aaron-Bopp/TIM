@@ -1,12 +1,10 @@
 ---
 created: 2021-08-17
-note-type: 
-- content-note
-creator:
-content-type:
-- 
+tags: node/source/notes
+creator: null
+type:
+  - null
 source: https://www.youtube.com/watch?v=nB8g3n10_Z8
-
 ---
 
 ###### [[videoScarra Drk Interview]]

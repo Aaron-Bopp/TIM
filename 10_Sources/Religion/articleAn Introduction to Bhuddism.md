@@ -1,12 +1,10 @@
 ---
 created: 2021-07-05
-note-type:
-  - content-note
+tags: node/source/notes
 creator: PBS
-content-type:
+type:
   - article
 source: https://www.pbs.org/edens/thailand/buddhism.htm
-
 ---
 
 ###### [[articleAn Introduction to Bhuddism]]

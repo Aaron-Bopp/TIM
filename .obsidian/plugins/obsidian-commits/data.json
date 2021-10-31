@@ -3742,12 +3742,12 @@
     },
     "20_Entry/EVERSEEDS.md": {
       "size": 529,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "20_Entry/EVERSPROUTS.md": {
       "size": 525,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "20_Entry/File Sizes.md": {
@@ -3777,7 +3777,7 @@
     },
     "20_Entry/LAST-WEEK.md": {
       "size": 240,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "20_Entry/NOW.md": {
@@ -3802,7 +3802,7 @@
     },
     "20_Entry/RELATED-TOPICS.md": {
       "size": 255,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "20_Entry/TODO.md": {
@@ -3822,27 +3822,27 @@
     },
     "10_Sources/Andy Matuschak's Evergreen Notes.md": {
       "size": 2374,
-      "tags": 0,
+      "tags": 1,
       "links": 7
     },
     "10_Sources/C (programming language).md": {
       "size": 1907,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "10_Sources/lecture_Behavioral Evolution.md": {
       "size": 702,
-      "tags": 0,
+      "tags": 1,
       "links": 3
     },
     "10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md": {
       "size": 2649,
-      "tags": 0,
+      "tags": 1,
       "links": 12
     },
     "10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md": {
       "size": 9062,
-      "tags": 0,
+      "tags": 1,
       "links": 25
     },
     "10_Sources/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md": {
@@ -4047,7 +4047,7 @@
     },
     "30_Topics/community.md": {
       "size": 134,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/Computer Science.md": {
@@ -4132,7 +4132,7 @@
     },
     "30_Topics/digital garden.md": {
       "size": 139,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/discrimination.md": {
@@ -4147,7 +4147,7 @@
     },
     "30_Topics/diverse.md": {
       "size": 132,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/DrK Interviews.md": {
@@ -4657,7 +4657,7 @@
     },
     "30_Topics/pandoc.md": {
       "size": 131,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/panic attacks.md": {
@@ -4672,7 +4672,7 @@
     },
     "30_Topics/partisanship.md": {
       "size": 137,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/patient.md": {
@@ -4717,7 +4717,7 @@
     },
     "30_Topics/powershell.md": {
       "size": 135,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/prejudice.md": {
@@ -4822,7 +4822,7 @@
     },
     "30_Topics/sadness.md": {
       "size": 132,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/Samskara.md": {
@@ -6242,12 +6242,12 @@
     },
     "10_Sources/History/articleAncient Cave Art Full of Teenage Graffiti.md": {
       "size": 7381,
-      "tags": 0,
+      "tags": 1,
       "links": 5
     },
     "10_Sources/History/articleReagans Impact and Legacy.md": {
       "size": 14829,
-      "tags": 0,
+      "tags": 1,
       "links": 15
     },
     "10_Sources/History/discussion1968 Discussion.md": {
@@ -6262,12 +6262,12 @@
     },
     "10_Sources/History/discussionMcCarthyism sources.md": {
       "size": 3892,
-      "tags": 0,
+      "tags": 1,
       "links": 11
     },
     "10_Sources/History/discussionRed Summer of 1919.md": {
       "size": 14769,
-      "tags": 1,
+      "tags": 2,
       "links": 35
     },
     "10_Sources/History/discussionSecond Red Scare Discussion.md": {
@@ -6277,147 +6277,147 @@
     },
     "10_Sources/History/notes1920's General Notes.md": {
       "size": 2041,
-      "tags": 0,
+      "tags": 1,
       "links": 17
     },
     "10_Sources/History/notes1930's General Notes.md": {
       "size": 3185,
-      "tags": 0,
+      "tags": 1,
       "links": 14
     },
     "10_Sources/History/notes1940's General Notes.md": {
       "size": 5996,
-      "tags": 0,
+      "tags": 1,
       "links": 17
     },
     "10_Sources/History/notes1950's General Notes.md": {
       "size": 5517,
-      "tags": 0,
+      "tags": 1,
       "links": 15
     },
     "10_Sources/History/notes1960's General Notes.md": {
       "size": 30383,
-      "tags": 0,
+      "tags": 1,
       "links": 67
     },
     "10_Sources/History/notes1970's General Notes.md": {
       "size": 6995,
-      "tags": 0,
+      "tags": 1,
       "links": 21
     },
     "10_Sources/History/notes1980's General Notes.md": {
       "size": 5276,
-      "tags": 0,
+      "tags": 1,
       "links": 25
     },
     "10_Sources/History/notes1990's General Notes.md": {
       "size": 4022,
-      "tags": 0,
+      "tags": 1,
       "links": 25
     },
     "10_Sources/History/notes2000's General Notes.md": {
       "size": 3812,
-      "tags": 0,
+      "tags": 1,
       "links": 14
     },
     "10_Sources/History/notesReconstruction.md": {
       "size": 1294,
-      "tags": 0,
+      "tags": 1,
       "links": 7
     },
     "10_Sources/History/notesWestern Civ Textbook.md": {
       "size": 1233,
-      "tags": 0,
+      "tags": 1,
       "links": 6
     },
     "10_Sources/History/primarysourceExcerpts from the 2016 Republican Party Platform.md": {
       "size": 14812,
-      "tags": 0,
+      "tags": 1,
       "links": 22
     },
     "10_Sources/History/primarysourceFirst Amendment to the U.S. Constitution.md": {
       "size": 6214,
-      "tags": 0,
+      "tags": 1,
       "links": 9
     },
     "10_Sources/History/speechRonald Reagan Evil Empire Speech.md": {
       "size": 29291,
-      "tags": 0,
+      "tags": 1,
       "links": 34
     },
     "10_Sources/History/speechRonald Reagans Inaugural Address 1981.md": {
       "size": 30852,
-      "tags": 0,
+      "tags": 1,
       "links": 19
     },
     "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md": {
       "size": 325,
-      "tags": 0,
+      "tags": 1,
       "links": 2
     },
     "10_Sources/Mental Health/videoBreaking the Cycle of Overthinking.md": {
       "size": 813,
-      "tags": 0,
+      "tags": 1,
       "links": 5
     },
     "10_Sources/Mental Health/videoContrapoints-Envy.md": {
       "size": 1671,
-      "tags": 0,
+      "tags": 1,
       "links": 11
     },
     "10_Sources/Mental Health/videoDestiny Interviews Dr. K.md": {
       "size": 1010,
-      "tags": 1,
+      "tags": 2,
       "links": 3
     },
     "10_Sources/Mental Health/videoDrK and DrMike conversation.md": {
       "size": 2627,
-      "tags": 1,
+      "tags": 2,
       "links": 15
     },
     "10_Sources/Mental Health/videoEmotional Deregulation.md": {
       "size": 1243,
-      "tags": 0,
+      "tags": 1,
       "links": 8
     },
     "10_Sources/Mental Health/videoExistential Dread.md": {
       "size": 2911,
-      "tags": 0,
+      "tags": 1,
       "links": 8
     },
     "10_Sources/Mental Health/videoHealing from Festered Emotions.md": {
       "size": 1738,
-      "tags": 1,
+      "tags": 2,
       "links": 11
     },
     "10_Sources/Mental Health/videoHistory of Human Sex.md": {
       "size": 1363,
-      "tags": 0,
+      "tags": 1,
       "links": 5
     },
     "10_Sources/Mental Health/videoHow We're Shaped Mentally.md": {
       "size": 1069,
-      "tags": 1,
+      "tags": 2,
       "links": 2
     },
     "10_Sources/Mental Health/videoLife after a cult.md": {
       "size": 1718,
-      "tags": 1,
+      "tags": 2,
       "links": 5
     },
     "10_Sources/Mental Health/videoRejection Sensitivity.md": {
       "size": 1386,
-      "tags": 0,
+      "tags": 1,
       "links": 6
     },
     "10_Sources/Mental Health/videoSamskara.md": {
       "size": 1843,
-      "tags": 0,
+      "tags": 1,
       "links": 12
     },
     "10_Sources/Mental Health/videoScarra Drk Interview.md": {
       "size": 558,
-      "tags": 1,
+      "tags": 2,
       "links": 3
     },
     "10_Sources/Mental Health/videoWhat is Ego.md": {
@@ -6447,12 +6447,12 @@
     },
     "10_Sources/Politics/articleIncome Inequality Increases Unhappiness.md": {
       "size": 6218,
-      "tags": 0,
+      "tags": 1,
       "links": 3
     },
     "10_Sources/Politics/articleWhy the Phrase Late Capitalism Is Suddenly Everywhere.md": {
       "size": 32862,
-      "tags": 0,
+      "tags": 1,
       "links": 26
     },
     "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md": {
@@ -6462,7 +6462,7 @@
     },
     "10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md": {
       "size": 377,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "10_Sources/Qoutes/Qoutes.md": {
@@ -6472,17 +6472,17 @@
     },
     "10_Sources/Religion/articleAn Introduction to Bhuddism.md": {
       "size": 5567,
-      "tags": 0,
+      "tags": 1,
       "links": 15
     },
     "10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md": {
       "size": 12753,
-      "tags": 0,
+      "tags": 1,
       "links": 16
     },
     "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md": {
       "size": 37225,
-      "tags": 0,
+      "tags": 1,
       "links": 36
     },
     "00_Meta/Primary Sources/Classes/Analogies_of_Religious_Violence_in_Minec.md": {
@@ -6602,7 +6602,7 @@
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/I relate to.md": {
       "size": 13186,
-      "tags": 0,
+      "tags": 1,
       "links": 26
     },
     "00_Meta/Primary Sources/Classes/Comp Sci/ADB Assignment-10.md": {
@@ -7683,14 +7683,14 @@
     "files without tags.md": {
       "size": 3848,
       "tags": 0,
-      "links": 75
+      "links": 74
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 697,
+      "Refactor": 698,
       "Create": 1416,
-      "Link": 1643,
+      "Link": 1699,
       "Expand": 4
     },
     "40 Evergreens": {
@@ -7720,7 +7720,7 @@
       "15": 25,
       "16": 739,
       "17": 804,
-      "18": 50,
+      "18": 107,
       "19": 0,
       "20": 0,
       "21": 6,
@@ -7762,7 +7762,7 @@
       "Thu": 60,
       "Fri": 4,
       "Sat": 0,
-      "Sun": 3688
+      "Sun": 3745
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -7853,57 +7853,57 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>"
       ],
       "Tagged": [
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_How The System Works — The Enneagram Institute.md\"> articles_How The System Works — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Five — The Enneagram Institute.md\"> articles_Type Five — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Eight — The Enneagram Institute.md\"> articles_Type Eight — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Nine — The Enneagram Institute.md\"> articles_Type Nine — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Enneagram Type 8w9 - The Diplomat.md\"> articles_Enneagram Type 8w9 - The Diplomat </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia.md\"> articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Highlights From philosophy.ucsc.edu.md\"> articles_Highlights From philosophy.ucsc.edu </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_What We Do — Radical in Progress.md\"> articles_What We Do — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Four.md\"> articles_Type Four </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Misidentifying 4 and 5 — The Enneagram Institute.md\"> articles_Misidentifying 4 and 5 — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Six — The Enneagram Institute.md\"> articles_Type Six — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, Part 1  the Stonewall Reader  Study Guide — Radical in Progress.md\"> articles_Summary, Part 1  the Stonewall Reader  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators.md\"> articles_National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Replacement prod.pdf.md\"> articles_Replacement prod.pdf </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Semantic Battleground The War of Neurodiversity.md\"> articles_Semantic Battleground The War of Neurodiversity </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Historical Foundations of Race.md\"> articles_Historical Foundations of Race </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_7 Ways We Know Systemic Racism Is Real.md\"> articles_7 Ways We Know Systemic Racism Is Real </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Black Identity Development.md\"> articles_Black Identity Development </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Urn.md\"> articles_Urn </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_What if Psychology Took Intersectionality Seriously Changing How Psychologists Think About Participants.md\"> articles_What if Psychology Took Intersectionality Seriously Changing How Psychologists Think About Participants </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_COVID-19 and the Other Pandemic.md\"> articles_COVID-19 and the Other Pandemic </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Highlights From twitter.com.md\"> articles_Highlights From twitter.com </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_VSCodeVimVim Vim for Visual Studio Code.md\"> articles_VSCodeVimVim Vim for Visual Studio Code </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_VIM Mode - Quality of Life Improvements.md\"> articles_VIM Mode - Quality of Life Improvements </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Highlights From pages.cs.wisc.edu.md\"> articles_Highlights From pages.cs.wisc.edu </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_single.dvi.md\"> articles_single.dvi </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Quantum computing for the very curious.md\"> articles_Quantum computing for the very curious </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_How I take Smart Notes — Nicholas Seitz Photographer.md\"> articles_How I take Smart Notes — Nicholas Seitz Photographer </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth.md\"> articles_Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md\"> articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly” </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Taxonomy of note types  Daily working log  Backlinks can be used to implicitly define nodes in knowledge management systems.md\"> articles_Taxonomy of note types  Daily working log  Backlinks can be used to implicitly define nodes in knowledge management systems </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality.md\"> articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying.md\"> articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md\"> articles_Bulky Cameras, Meet the Lens-Less FlatCam </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging.md\"> articles_An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Despite what you've been told, you aren't 'left-brained' or 'right-brained'  Amy Novotney  The Guardian.md\"> articles_Despite what you've been told, you aren't 'left-brained' or 'right-brained'  Amy Novotney  The Guardian </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Urn-2.md\"> articles_Urn-2 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Five-Factor Model of Personality.md\"> articles_Five-Factor Model of Personality </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Five-Factor Model of Personality  Psychology.md\"> articles_Five-Factor Model of Personality  Psychology </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md\"> articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md\"> articles_Research Recitation - GitHub Docs </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md\"> articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Do it or Forget it — How to Think Less and Achieve More  by Tom Klima  Oct, 2021  Medium.md\"> articles_Do it or Forget it — How to Think Less and Achieve More  by Tom Klima  Oct, 2021  Medium </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Rank and File — Real Life.md\"> articles_Rank and File — Real Life </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_How Did the “men Will Li....md\"> tweets_How Did the “men Will Li... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\"> tweets_I've Been Reading a Bit... </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/I relate to.md\"> I relate to </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/articleAncient Cave Art Full of Teenage Graffiti.md\"> articleAncient Cave Art Full of Teenage Graffiti </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/articleReagans Impact and Legacy.md\"> articleReagans Impact and Legacy </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/discussionMcCarthyism sources.md\"> discussionMcCarthyism sources </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/discussionRed Summer of 1919.md\"> discussionRed Summer of 1919 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1920's General Notes.md\"> notes1920's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1930's General Notes.md\"> notes1930's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1940's General Notes.md\"> notes1940's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1950's General Notes.md\"> notes1950's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1960's General Notes.md\"> notes1960's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1970's General Notes.md\"> notes1970's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1980's General Notes.md\"> notes1980's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1990's General Notes.md\"> notes1990's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes2000's General Notes.md\"> notes2000's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notesReconstruction.md\"> notesReconstruction </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notesWestern Civ Textbook.md\"> notesWestern Civ Textbook </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/primarysourceExcerpts from the 2016 Republican Party Platform.md\"> primarysourceExcerpts from the 2016 Republican Party Platform </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/primarysourceFirst Amendment to the U.S. Constitution.md\"> primarysourceFirst Amendment to the U.S. Constitution </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/speechRonald Reagan Evil Empire Speech.md\"> speechRonald Reagan Evil Empire Speech </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/speechRonald Reagans Inaugural Address 1981.md\"> speechRonald Reagans Inaugural Address 1981 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/lecture_Behavioral Evolution.md\"> lecture_Behavioral Evolution </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md\"> videoAddictive Personality Dr.K interview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoContrapoints-Envy.md\"> videoContrapoints-Envy </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\"> videoDrK and DrMike conversation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoEmotional Deregulation.md\"> videoEmotional Deregulation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\"> videoHealing from Festered Emotions </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHistory of Human Sex.md\"> videoHistory of Human Sex </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoRejection Sensitivity.md\"> videoRejection Sensitivity </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoSamskara.md\"> videoSamskara </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md\"> podcast_NPR One_Can We Talk About Whiteness NPR One </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Politics/articleIncome Inequality Increases Unhappiness.md\"> articleIncome Inequality Increases Unhappiness </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Politics/articleWhy the Phrase Late Capitalism Is Suddenly Everywhere.md\"> articleWhy the Phrase Late Capitalism Is Suddenly Everywhere </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md\"> articleDifference between reincarnation in Hinduism and Bhudism </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md\"> articleKarma and Reincarnation in Hinduism </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md\"> textbook_Hyde&Elsequest_pyschology of women and gender </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/EVERSEEDS.md\"> EVERSEEDS </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/EVERSPROUTS.md\"> EVERSPROUTS </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/LAST-WEEK.md\"> LAST-WEEK </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/RELATED-TOPICS.md\"> RELATED-TOPICS </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoBreaking the Cycle of Overthinking.md\"> videoBreaking the Cycle of Overthinking </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDestiny Interviews Dr. K.md\"> videoDestiny Interviews Dr. K </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoExistential Dread.md\"> videoExistential Dread </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\"> videoHow We're Shaped Mentally </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoLife after a cult.md\"> videoLife after a cult </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/C (programming language).md\"> C (programming language) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/community.md\"> community </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/digital garden.md\"> digital garden </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>"
@@ -8034,7 +8034,8 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"files without tags.md\"> files without tags </a>"
       ]
     },
     "40 Evergreens": {

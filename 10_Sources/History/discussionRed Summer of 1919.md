@@ -1,11 +1,9 @@
 ---
 created: 2021-04-30
-note-type: 
-- content-note
-creator:
-content-type:
-source:
-
+tags: node/source/notes
+creator: null
+type: null
+source: null
 ---
 #TO/TEND/REFACTOR into evergreen notes
 # Discussion 3

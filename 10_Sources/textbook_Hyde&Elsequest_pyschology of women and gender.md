@@ -1,14 +1,12 @@
 ---
 created: 2021-10-03
-note-type: 
-- content-note
-creator:
-content-type:
-- 
+tags: node/source/notes
+creator: null
+type:
+  - null
 aliases:
-- Hyde and Else-Quest
-source:
-
+  - Hyde and Else-Quest
+source: null
 ---
 
 ###### [[textbook_Hyde&Elsequest_pyschology of women and gender]]

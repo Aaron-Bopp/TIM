@@ -1,9 +1,5 @@
 ---
 created: 2021-05-22
-
-tags: evergreen
-- organizational-note
-- topic-note
 date modified: Sunday, October 3rd 2021, 11:17:19 am
 ---
 ```ActivityHistory

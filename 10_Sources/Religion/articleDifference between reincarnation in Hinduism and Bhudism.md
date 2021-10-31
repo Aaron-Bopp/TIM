@@ -1,12 +1,10 @@
 ---
 created: 2021-07-05
-note-type: 
-- content-note
+tags: node/source/notes
 creator: Hannah Archer
-content-type:
-- article
+type:
+  - article
 source: https://medium.com/@xsm918/comparing-reincarnation-beliefs-between-hinduism-and-buddhism-2cb498c4041a
-
 ---
 
 ###### [[Difference between reincarnation in Hinduism and Bhudism]]

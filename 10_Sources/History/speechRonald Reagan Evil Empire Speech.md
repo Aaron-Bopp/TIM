@@ -1,12 +1,10 @@
 ---
 created: 2021-07-30
-note-type: 
-- content-note
-creator: [[Reagan]]
-content-type:
-- speech
+tags: node/source/notes
+creator: [ [ Reagan ] ]
+type:
+  - speech
 source: https://voicesofdemocracy.umd.edu/reagan-evil-empire-speech-text/
-
 ---
 
 ###### [[Ronald Reagan Evil Empire Speech]]

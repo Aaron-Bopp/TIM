@@ -1,13 +1,11 @@
 ---
 created: 2021-05-08
-note-type: 
-- content-note
+tags: node/source/notes
 creator: How to ADHD
-content-type:
-- youtube
-- video
+type:
+  - youtube
+  - video
 source: https://www.youtube.com/watch?v=t23N2Pib9rs
-
 ---
 
 - Emotions == problem -> get rid of emotions

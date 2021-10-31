@@ -1,12 +1,10 @@
 ---
 created: 2021-07-05
-note-type: 
-- content-note
+tags: node/source/notes
 creator: Fariss Samarrai
-content-type:
-- article
+type:
+  - article
 source: https://news.virginia.edu/content/income-inequality-increases-unhappiness-study-shows
-
 ---
 
 ###### [[SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness]]

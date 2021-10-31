@@ -1,12 +1,10 @@
 ---
 created: 2021-07-30
-note-type: 
-- content-note
+tags: node/source/notes
 creator: Ronald Reagan
-content-type:
-- speech
+type:
+  - speech
 source: https://avalon.law.yale.edu/20th_century/reagan1.asp
-
 ---
 
 ###### [[Ronald Reagans Inaugural Address 1981]]

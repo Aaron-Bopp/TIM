@@ -71,5 +71,4 @@
 - [[10_Sources/Enneagram/articleType Five — The Enneagram Institute.md]]
 - [[10_Sources/Enneagram/articleRelationships (Type Combinations) — The Enneagram Institute.md]]
 - [[10_Sources/Enneagram/articleHow The System Works — The Enneagram Institute.md]]
-- [[10_Sources/C (programming language).md]]
 - [[10_Sources/Andy Matuschak's Evergreen Notes.md]]

@@ -1,13 +1,11 @@
 ---
 created: 2021-05-15
-note-type: 
-- content-note
+tags: node/source/notes
 creator: Heather Whipps
-content-type:
-- article
-- website
+type:
+  - article
+  - website
 source: https://www.livescience.com/7088-history-human-sex.html
-
 ---
 
 ## [History of Human Sex](https://www.livescience.com/7088-history-human-sex.html)

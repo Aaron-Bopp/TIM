@@ -1,15 +1,14 @@
 ---
 created: 2021-05-08
-note-type: 
-- content-note
+tags: node/source/notes
 creator: How to ADHD
-content-type:
-- youtube
-- video
+type:
+  - youtube
+  - video
 source: https://www.youtube.com/watch?v=jM3azhiOy5E
 
 aliases:
--  "Rejection Sensitivity"
+  - "Rejection Sensitivity"
 ---
 
 - [[Rejection Sensitivity]] - The tendency to anixously expect, readily perceive, and intensely react to rejection 

@@ -1,14 +1,12 @@
 ---
 created: 2021-06-01
-note-type: 
-- content-note
+tags: node/source/notes
 creator: DrK
-type: 
-- youtube
-- video
-- interview
+type:
+  - youtube
+  - video
+  - interview
 source: https://www.youtube.com/watch?v=T_31hFh1XKM
-
 ---
 
 - The body routed blood to an injured part of the body to avoid thoughts

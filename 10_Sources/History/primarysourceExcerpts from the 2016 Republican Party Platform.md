@@ -1,13 +1,11 @@
 ---
 created: 2021-07-30
-note-type: 
-- content-note
+tags: node/source/notes
 creator: Republican Party
-content-type:
-- poltical platform
-- politics
+type:
+  - poltical platform
+  - politics
 source: https://www.gop.com/the-2016-republican-party-platform/
-
 ---
 
 ###### [[Excerpts from the 2016 Republican Party Platform]]

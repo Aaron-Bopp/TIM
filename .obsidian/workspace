@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "228ede09dab21bd4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "2f3038f31ee3b56f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/sadness.md",
+            "file": "10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md",
             "mode": "source"
           }
         }
@@ -42,7 +31,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/sadness.md",
+                "file": "10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/sadness.md",
+                "file": "10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -122,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/qoute",
+                "query": "tag:#node/source/articles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -152,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/sadness.md",
+                "file": "10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/sadness.md"
+                "file": "10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md"
               }
             }
           }
@@ -265,15 +254,15 @@
   },
   "active": "2f3038f31ee3b56f",
   "lastOpenFiles": [
-    "30_Topics/sadness.md",
+    "10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md",
+    "10_Sources/Andy Matuschak's Evergreen Notes.md",
     "files without tags.md",
+    "10_Sources/C (programming language).md",
+    "10_Sources/Mental Health/videoEmotional Deregulation.md",
     "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
+    "30_Topics/sadness.md",
     "30_Topics/My Second Brain.md",
     "30_Topics/social discomfort.md",
-    "30_Topics/self.md",
-    "30_Topics/neurodiversity.md",
-    "10_Sources/Readwise/Articles/articles_Do it or Forget it — How to Think Less and Achieve More  by Tom Klima  Oct, 2021  Medium.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md",
-    "10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md"
+    "30_Topics/self.md"
   ]
 }

@@ -1,7 +1,6 @@
 ---
 created: 2021-06-11
-note-type:
-- personal-note
+tags: node/personal
 ---
 # [[Yes]]
 
