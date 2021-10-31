@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "sadness",
+      "path": "30_Topics/sadness.md"
+    },
+    {
+      "basename": "files without tags",
+      "path": "files without tags.md"
+    },
+    {
       "basename": "Being cool and marketable isn't the same as having rights",
       "path": "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "videoSocial Constructs Philosophy Tube",
       "path": "10_Sources/videoSocial Constructs Philosophy Tube.md"
-    },
-    {
-      "basename": "CONTENT",
-      "path": "00_Meta/Templates/CONTENT.md"
-    },
-    {
-      "basename": "TOPIC_OUTLINE_HEADER",
-      "path": "00_Meta/Templates/TOPIC_OUTLINE_HEADER.md"
     }
   ],
   "omittedPaths": [],

@@ -7679,13 +7679,18 @@
       "size": 6608,
       "tags": 1,
       "links": 0
+    },
+    "files without tags.md": {
+      "size": 3848,
+      "tags": 0,
+      "links": 75
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 697,
-      "Create": 1415,
-      "Link": 1642,
+      "Create": 1416,
+      "Link": 1643,
       "Expand": 4
     },
     "40 Evergreens": {
@@ -7715,7 +7720,7 @@
       "15": 25,
       "16": 739,
       "17": 804,
-      "18": 48,
+      "18": 50,
       "19": 0,
       "20": 0,
       "21": 6,
@@ -7757,7 +7762,7 @@
       "Thu": 60,
       "Fri": 4,
       "Sat": 0,
-      "Sun": 3686
+      "Sun": 3688
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -7778,6 +7783,7 @@
         "<a class=\"internal-link\" href=\"10 Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"files without tags.md\"> files without tags </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Rank and File — Real Life.md\"> articles_Rank and File — Real Life </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Do it or Forget it — How to Think Less and Achieve More  by Tom Klima  Oct, 2021  Medium.md\"> articles_Do it or Forget it — How to Think Less and Achieve More  by Tom Klima  Oct, 2021  Medium </a>",
@@ -7827,8 +7833,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Four.md\"> articles_Type Four </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_What We Do — Radical in Progress.md\"> articles_What We Do — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Highlights From philosophy.ucsc.edu.md\"> articles_Highlights From philosophy.ucsc.edu </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_What We Do — Radical in Progress.md\"> articles_What We Do — Radical in Progress </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Were Jesus' teachings are anti-thetical to the modern christian church.md\"> Were Jesus' teachings are anti-thetical to the modern christian church </a>",
@@ -7957,6 +7962,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Highlights From philosophy.ucsc.edu.md\"> articles_Highlights From philosophy.ucsc.edu </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"files without tags.md\"> files without tags </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_How The System Works — The Enneagram Institute.md\"> articles_How The System Works — The Enneagram Institute </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Replacement prod.pdf.md\"> articles_Replacement prod.pdf </a>",
@@ -8006,8 +8012,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md\"> articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly” </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality.md\"> articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md\"> articles_Bulky Cameras, Meet the Lens-Less FlatCam </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Five-Factor Model of Personality  Psychology.md\"> articles_Five-Factor Model of Personality  Psychology </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md\"> articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Five-Factor Model of Personality  Psychology.md\"> articles_Five-Factor Model of Personality  Psychology </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

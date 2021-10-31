@@ -1,8 +1,5 @@
-partisanship
 ---
 created: 2021-10-23
-iases:
-- 
 tags: node/topic/stub
 ---
 

@@ -17,7 +17,9 @@
   "unresolvedLinksFileTypesToIgnore": [],
   "unresolvedLinksLinksToIgnore": [],
   "unresolvedLinksTagsToIgnore": [],
-  "withoutTagsDirectoriesToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [
+    "00_Meta/"
+  ],
   "withoutTagsFilesToIgnore": [],
   "withoutTagsOutputFileName": "files without tags"
 }
