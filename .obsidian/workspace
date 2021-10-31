@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "16b5c4d2e00e5d9e",
+        "id": "0b41202aca325ecc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -22,14 +25,6 @@
         "id": "b378f0391f90b405",
         "type": "tabs",
         "children": [
-          {
-            "id": "208d80cb45f52f85",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
           {
             "id": "7f4634a1f9c650de",
             "type": "leaf",
@@ -51,6 +46,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -113,6 +110,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "208d80cb45f52f85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
             }
           }
         ],
@@ -136,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,14 +214,14 @@
                   "collapse-display": false,
                   "showArrow": true,
                   "textFadeMultiplier": -1.3,
-                  "nodeSizeMultiplier": 1.89966911764706,
+                  "nodeSizeMultiplier": 1.30456647398844,
                   "lineSizeMultiplier": 1.55378676470588,
                   "collapse-forces": false,
-                  "centerStrength": 0.437867647058824,
-                  "repelStrength": 13.6985294117647,
-                  "linkStrength": 0.514338235294118,
-                  "linkDistance": 117,
-                  "scale": 0.5988953248992566,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 0.985714285714286,
+                  "linkDistance": 30,
+                  "scale": 0.42717733992993684,
                   "close": true
                 }
               }
@@ -234,27 +240,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 1052.5,
-    "collapsed": true
+    "width": 1052.5
   },
-  "active": "16b5c4d2e00e5d9e",
+  "active": "0b41202aca325ecc",
   "lastOpenFiles": [
+    "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
+    "40 Evergreens/Your anxiety knows your insecurities better than you do.md",
+    "40 Evergreens/Dataview.md",
+    "test.md",
     "40 Evergreens/Early childhood experiences shape our lifelong personality.md",
     "40 Evergreens/We carry our childhood wounds into adulthood.md",
     "40 Evergreens/I have a stored up emotion of hating myself.md",
     "40 Evergreens/There aren't any downsides to working through trauma.md",
     "30 Topics/gender.md",
-    "30 Topics/cis.md",
-    "40 Evergreens/How to title your notes.md",
-    "40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
-    "40 Evergreens/Any experience of gender dysphoria is acceptable.md",
-    "40 Evergreens/Gender is both an intrinsic experience and an necessary expression.md"
+    "30 Topics/cis.md"
   ]
 }

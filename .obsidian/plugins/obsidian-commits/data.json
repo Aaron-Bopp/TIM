@@ -2245,11 +2245,6 @@
       "tags": 0,
       "links": 0
     },
-    "20 Entry/Convert words docs (docx) to markdown (md) with powershell and pandoc.md": {
-      "size": 533,
-      "tags": 2,
-      "links": 4
-    },
     "20 Entry/CONTENTNOTES.md": {
       "size": 155,
       "tags": 0,
@@ -2351,7 +2346,7 @@
       "links": 0
     },
     "10 Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md": {
-      "size": 4765,
+      "size": 9802,
       "tags": 2,
       "links": 0
     },
@@ -3982,21 +3977,31 @@
     },
     "40 Evergreens/We carry our childhood wounds into adulthood.md": {
       "size": 1043,
-      "tags": 0,
-      "links": 0
+      "tags": 3,
+      "links": 11
+    },
+    "40 Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md": {
+      "size": 533,
+      "tags": 2,
+      "links": 4
+    },
+    "40 Evergreens/Embed notes from a dataview query with dataviewjs.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 34,
-      "Create": 21,
-      "Link": 82,
-      "Expand": 3
+      "Refactor": 36,
+      "Create": 23,
+      "Link": 86,
+      "Expand": 4
     },
     "40 Evergreens": {
-      "Refactor": 24,
-      "Create": 9,
-      "Link": 75,
+      "Refactor": 25,
+      "Create": 10,
+      "Link": 79,
       "Expand": 3
     }
   },
@@ -4015,8 +4020,8 @@
       "10": 0,
       "11": 0,
       "12": 0,
-      "13": 0,
-      "14": 31,
+      "13": 4,
+      "14": 36,
       "15": 25,
       "16": 0,
       "17": 8,
@@ -4041,8 +4046,8 @@
       "10": 0,
       "11": 0,
       "12": 0,
-      "13": 0,
-      "14": 24,
+      "13": 2,
+      "14": 28,
       "15": 25,
       "16": 0,
       "17": 4,
@@ -4062,7 +4067,7 @@
       "Thu": 60,
       "Fri": 4,
       "Sat": 0,
-      "Sun": 68
+      "Sun": 77
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -4071,7 +4076,7 @@
       "Thu": 43,
       "Fri": 4,
       "Sat": 0,
-      "Sun": 57
+      "Sun": 63
     }
   },
   "recentCommits": {
@@ -4079,7 +4084,8 @@
       "Expanded": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
+        "<a class=\"internal-link\" href=\"10 Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are superior to atomic notes.md\"> Conceptual notes are superior to atomic notes </a>",
@@ -4102,7 +4108,9 @@
         "<a class=\"internal-link\" href=\"topic notes.md\"> topic notes </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Early childhood trauma causes us to make wide assumptions about the world.md\"> Early childhood trauma causes us to make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Early childhood experiences shape our lifelong personality.md\"> Early childhood experiences shape our lifelong personality </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Were Jesus' teachings are anti-thetical to the modern christian church.md\"> Were Jesus' teachings are anti-thetical to the modern christian church </a>",
@@ -4118,7 +4126,8 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Childhood trauma causes us to make wide assumptions about the world.md\"> Childhood trauma causes us to make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Childhood trauma shapes our lifelong personalities.md\"> Childhood trauma shapes our lifelong personalities </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are superior to atomic notes.md\"> Conceptual notes are superior to atomic notes </a>",
@@ -4149,7 +4158,9 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/What is the difference between optimism and hope.md\"> What is the difference between optimism and hope </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/topic note.md\"> topic note </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>"
@@ -4162,9 +4173,12 @@
         "<a class=\"internal-link\" href=\"topic notes.md\"> topic notes </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Early childhood experiences shape our lifelong personality.md\"> Early childhood experiences shape our lifelong personality </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Early childhood experiences shape our lifelong personality.md\"> Early childhood experiences shape our lifelong personality </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/Early childhood experiences shape our lifelong personality.md\"> Early childhood experiences shape our lifelong personality </a>",
+        "<a class=\"internal-link\" href=\"test.md\"> test </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40 Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Childhood trauma shapes our lifelong personalities.md\"> Childhood trauma shapes our lifelong personalities </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are superior to atomic notes.md\"> Conceptual notes are superior to atomic notes </a>",
@@ -4213,9 +4227,7 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/How to write atomically.md\"> How to write atomically </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Prioritize organization over categorization when outlining topics.md\"> Prioritize organization over categorization when outlining topics </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/Prioritize organization over categorization when outlining topics.md\"> Prioritize organization over categorization when outlining topics </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>"
@@ -4248,7 +4260,8 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/Prioritize organization over categorization.md\"> Prioritize organization over categorization </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Early childhood trauma causes us to make wide assumptions about the world.md\"> Early childhood trauma causes us to make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Early childhood experiences shape our lifelong personality.md\"> Early childhood experiences shape our lifelong personality </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Were Jesus' teachings are anti-thetical to the modern christian church.md\"> Were Jesus' teachings are anti-thetical to the modern christian church </a>",
@@ -4262,7 +4275,8 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Childhood trauma causes us to make wide assumptions about the world.md\"> Childhood trauma causes us to make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Childhood trauma shapes our lifelong personalities.md\"> Childhood trauma shapes our lifelong personalities </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are superior to atomic notes.md\"> Conceptual notes are superior to atomic notes </a>",
@@ -4287,7 +4301,9 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/What is the difference between optimism and hope.md\"> What is the difference between optimism and hope </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/topic note.md\"> topic note </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -4297,6 +4313,8 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/Early childhood experiences shape our lifelong personality.md\"> Early childhood experiences shape our lifelong personality </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40 Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>",
+        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Childhood trauma shapes our lifelong personalities.md\"> Childhood trauma shapes our lifelong personalities </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are superior to atomic notes.md\"> Conceptual notes are superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are superior to atomic notes.md\"> Conceptual notes are superior to atomic notes </a>",
@@ -4345,8 +4363,6 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Prioritize organization over categorization when outlining topics.md\"> Prioritize organization over categorization when outlining topics </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>"
       ],
       "Removed Tags from": [
