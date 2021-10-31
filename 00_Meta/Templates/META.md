@@ -1,4 +1,4 @@
 ---
-created: 2021-10-23
+created: <% tp.date.now("YYYY-MM-DD") %> 
 aliases:
 - 

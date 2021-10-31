@@ -1,25 +1,29 @@
 ---
-created: 2021-10-26
-tags: content
+created: 2021-10-31
+aliases:
+- "Research Recitation - GitHub Docs"
+- "Research Recitation - GitHub Docs by docs.github.com"
+- "docs.github.com"
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
 - "readwise"
 - "hypothesis"
-aliases:
-- "Research Recitation - GitHub Docs"
-- "docs.github.com"
 ---
-##### Research Recitation - GitHub Docs
+# Research Recitation - GitHub Docs
 
 **Related**:: 
+*`=this.highlight_tags`*
 
 **Source**:: [Research Recitation - GitHub Docs](https://docs.github.com/en/github/copilot/research-recitation)
 
 **Creator**:: docs.github.com
 
-## Highlights
+# Highlights
+##### ^242142330
   
-> "these systems can feel like ”a toddler with a photographic memory" 
-- Tags: [[machine learning]]
-
+> these systems can feel like ”a toddler with a photographic memory 
+%%
+highlight_tags:: [[machine learning]]
+%%

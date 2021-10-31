@@ -4,7 +4,7 @@ aliases:
 - Social Constructs | Philosophy Tube - YouTube 
 - Philosophy Tube 
 cssclass: content
-tags: content
+tags: source/videos
 type:
 - 
 bib:

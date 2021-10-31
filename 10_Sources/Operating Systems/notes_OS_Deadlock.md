@@ -3,7 +3,7 @@ created: 2021-10-13
 aliases:
 - 
 cssclass: content
-tags: content
+tags: source/notes
 type:
 - 
 bib:

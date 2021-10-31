@@ -1,53 +1,32 @@
 ---
-created: 2021-10-26
-tags: content
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
-aliases:
-- "Tweets From Christian"
-- "@CXGonzalez_ on Twitter"
----
-##### Tweets From Christian
-
-**Related**:: 
-
-**Source**:: [Tweets From Christian](https://twitter.com/CXGonzalez_)
-
-**Creator**:: @CXGonzalez_ on Twitter
-
-## Highlights
-  
-> "would’ve saved me a lot of trouble if someone just explained to me as a kid that:
-> -emotions are information
-> -intuitions are refined models"   [View Tweet](https://twitter.com/CXGonzalez_/status/1452644124860030984)
-
----
 created: 2021-10-31
-tags: content
+aliases:
+- "Tweets From Christian"
+- "Tweets From Christian by @CXGonzalez_ on Twitter"
+- "@CXGonzalez_ on Twitter"
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
 - "readwise"
 - "twitter"
-aliases:
-- "Tweets From Christian"
-- "@CXGonzalez_ on Twitter"
 ---
-##### Tweets From Christian
+# Tweets From Christian
 
 **Related**:: 
+*`=this.highlight_tags`*
 
 **Source**:: [Tweets From Christian](https://twitter.com/CXGonzalez_)
 
 **Creator**:: @CXGonzalez_ on Twitter
 
-## Highlights
-###### 242208335
+# Highlights
+##### ^242208335
   
-> "would’ve saved me a lot of trouble if someone just explained to me as a kid that:
+> would’ve saved me a lot of trouble if someone just explained to me as a kid that:
 > -emotions are information
-> -intuitions are refined models"   [View Tweet](https://twitter.com/CXGonzalez_/status/1452644124860030984)
+> -intuitions are refined models 
+  [^242208335]
+
+[^242208335]:  https://twitter.com/CXGonzalez_/status/1452644124860030984
 

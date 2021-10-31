@@ -1,6 +1,4 @@
 <% tp.file.include("[[META]]") %>
-aliases:
-- 
 tags: topic/outline
 ---
 

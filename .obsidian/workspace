@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "e858a1df422996c8",
+    "id": "6d123b5dfd8473d1",
     "type": "split",
     "children": [
       {
-        "id": "0b41202aca325ecc",
+        "id": "228ede09dab21bd4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -26,27 +23,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f4634a1f9c650de",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "childhood experiences shapes our",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "byCreatedTime"
-              }
-            }
-          },
-          {
             "id": "a04e9363db7056e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -58,7 +39,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -101,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -119,9 +99,24 @@
               "type": "file-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "7f4634a1f9c650de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#question",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,7 +136,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,28 +234,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40 Evergreens/Embed notes from a dataview query with dataviewjs.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 1052.5
+    "width": 1052.5,
+    "collapsed": true
   },
-  "active": "0b41202aca325ecc",
+  "active": "228ede09dab21bd4",
   "lastOpenFiles": [
-    "40 Evergreens/Embed notes from a dataview query with dataviewjs.md",
-    "40 Evergreens/Your anxiety knows your insecurities better than you do.md",
-    "40 Evergreens/Dataview.md",
-    "test.md",
-    "40 Evergreens/Early childhood experiences shape our lifelong personality.md",
-    "40 Evergreens/We carry our childhood wounds into adulthood.md",
-    "40 Evergreens/I have a stored up emotion of hating myself.md",
-    "40 Evergreens/There aren't any downsides to working through trauma.md",
-    "30 Topics/gender.md",
-    "30 Topics/cis.md"
+    "10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md",
+    "10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md",
+    "10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md",
+    "10_Sources/Readwise/Tweets/tweets_I Don’t Hate TERFs. I Th....md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md",
+    "10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md",
+    "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
+    "10_Sources/Readwise/Tweets/tweets_How Did the “men Will Li....md"
   ]
 }

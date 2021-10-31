@@ -1,6 +1,4 @@
-<% tp.file.include("[[META]]") %>
-aliases:
-- 
+<% tp.file.include("[[META]]") %> 
 tags: topic/term
 ---
 

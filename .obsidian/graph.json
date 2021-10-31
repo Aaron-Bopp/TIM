@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": " -path:\"00 Meta\" ",
+  "search": " -path:\"00_Meta\" ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -81,6 +81,6 @@
   "repelStrength": 14.6102941176471,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.0745560294295529,
+  "scale": 0.07455602942955396,
   "close": false
 }

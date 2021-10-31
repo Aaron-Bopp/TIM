@@ -1,25 +1,28 @@
 ---
-created: 2021-10-26
-tags: content
+created: 2021-10-31
+aliases:
+- "Five-Factor Model of Personality"
+- "Five-Factor Model of Personality by oxfordbibliographies.com"
+- "oxfordbibliographies.com"
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
 - "readwise"
 - "hypothesis"
-aliases:
-- "Five-Factor Model of Personality"
-- "oxfordbibliographies.com"
 ---
-##### Five-Factor Model of Personality
+# Five-Factor Model of Personality
 
 **Related**:: 
+*`=this.highlight_tags`*
 
 **Source**:: [Five-Factor Model of Personality](https://www.oxfordbibliographies.com/view/document/obo-9780199828340/obo-9780199828340-0120.xml)
 
 **Creator**:: oxfordbibliographies.com
 
-## Highlights
+# Highlights
+##### ^242142333
 Q:: What are the five traits of the five-factor model? 
 A::  
-> "Extraversion, Agreeableness, Conscientiousness, Neuroticism (sometimes named by its polar opposite, Emotional Stability), and Openness to Experience (sometimes named Intellect)." 
+> Extraversion, Agreeableness, Conscientiousness, Neuroticism (sometimes named by its polar opposite, Emotional Stability), and Openness to Experience (sometimes named Intellect). 
 

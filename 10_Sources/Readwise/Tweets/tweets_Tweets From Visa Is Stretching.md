@@ -1,26 +1,30 @@
 ---
-created: 2021-10-23
-tags: content
+created: 2021-10-31
+aliases:
+- "Tweets From Visa Is Stretching"
+- "Tweets From Visa Is Stretching by @visakanv on Twitter"
+- "@visakanv on Twitter"
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
 - "readwise"
 - "twitter"
-aliases:
-- "Tweets From Visa Is Stretching"
-- "@visakanv on Twitter"
 ---
-##### Tweets From Visa Is Stretching
+# Tweets From Visa Is Stretching
 
 **Related**:: 
+*`=this.highlight_tags`*
 
 **Source**:: [Tweets From Visa Is Stretching](https://twitter.com/visakanv)
 
 **Creator**:: @visakanv on Twitter
 
-## Highlights
+# Highlights
+##### ^240436631
   
-> "The imagination deficit is the most staggering thing in the human realm - but few people know it... because most people lack imagination!!! https://t.co/z4vSYHY2I9"   
-> 
+> The imagination deficit is the most staggering thing in the human realm - but few people know it... because most people lack imagination!!! https://t.co/z4vSYHY2I9 
+  [^240436631]
 
-[View Tweet](https://twitter.com/visakanv/status/1149668249279139841)
+[^240436631]:  https://twitter.com/visakanv/status/1149668249279139841
+

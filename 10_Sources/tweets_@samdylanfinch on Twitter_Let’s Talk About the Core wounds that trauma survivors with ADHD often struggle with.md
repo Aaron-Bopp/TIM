@@ -1,6 +1,6 @@
 ---
 created: 2021-10-16
-tags: content
+tags: source/tweets
 type: 
 - tweets
 aliases:
