@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "e858a1df422996c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b5c4d2e00e5d9e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6fd778783afca8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b378f0391f90b405",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208d80cb45f52f85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f4634a1f9c650de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "childhood experiences shapes our",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "a04e9363db7056e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5b4565528193b1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c769aef4d9945f1",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "555e9b453997c003",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "78928910cc289bc9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "688f422485480db5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "945ffe61918129cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 492
+  },
+  "right": {
+    "id": "ca88ebed3efba281",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7b3aaa71b0c0df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031fe1b37666a6d6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#topic/outline",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9785102
+                      }
+                    },
+                    {
+                      "query": "tag:#topic/term",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16162052
+                      }
+                    },
+                    {
+                      "query": "tag:#topic/stub",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13413478
+                      }
+                    },
+                    {
+                      "query": "tag:#topic/technique",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16056320
+                      }
+                    },
+                    {
+                      "query": "tag:#EVER/GREEN",
+                      "color": {
+                        "a": 1,
+                        "rgb": 356867
+                      }
+                    },
+                    {
+                      "query": "tag:#EVER/SEED",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3251005
+                      }
+                    },
+                    {
+                      "query": "tag:#EVER/SPROUT",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10610705
+                      }
+                    },
+                    {
+                      "query": "tag:#content",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1594594
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.3,
+                  "nodeSizeMultiplier": 1.89966911764706,
+                  "lineSizeMultiplier": 1.55378676470588,
+                  "collapse-forces": false,
+                  "centerStrength": 0.437867647058824,
+                  "repelStrength": 13.6985294117647,
+                  "linkStrength": 0.514338235294118,
+                  "linkDistance": 117,
+                  "scale": 0.5988953248992566,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "2655aed1bf94a8be",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "17b4d267df1e074f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1052.5,
+    "collapsed": true
+  },
+  "active": "16b5c4d2e00e5d9e",
+  "lastOpenFiles": [
+    "40 Evergreens/Early childhood experiences shape our lifelong personality.md",
+    "40 Evergreens/We carry our childhood wounds into adulthood.md",
+    "40 Evergreens/I have a stored up emotion of hating myself.md",
+    "40 Evergreens/There aren't any downsides to working through trauma.md",
+    "30 Topics/gender.md",
+    "30 Topics/cis.md",
+    "40 Evergreens/How to title your notes.md",
+    "40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
+    "40 Evergreens/Any experience of gender dysphoria is acceptable.md",
+    "40 Evergreens/Gender is both an intrinsic experience and an necessary expression.md"
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "choices": [
+    {
+      "id": "daf462a1-0ec5-4538-baa3-472d8dc213eb",
+      "name": "CONTENT",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Templates/CONTENT.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false
+      },
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": true
+    },
+    {
+      "id": "4b68822a-b2c0-4d7f-9d58-9b97cbf3e07b",
+      "name": "EVERGREEN",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Templates/EGNOTE.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false
+      },
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": true
+    },
+    {
+      "id": "67d798dd-7d7a-48ac-a615-0b6353cf8cb7",
+      "name": "TOPIC",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Templates/TOPICNOTE.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false
+      },
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": true
+    },
+    {
+      "id": "bd1194ab-0254-4b56-af20-dbc0c6071e93",
+      "name": "Add alias",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "D&D/Wildemount/aliases.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[[<%* const path = \"{{LINKCURRENT}}\"; const title = path.split(\"/\")[-1].replace(\".md\", \"\");  %><%* title; %>:\n- \"{{VALUE}}\"\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "{{LINKCURRENT}}",
+        "insertAtEnd": true,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false
+    },
+    {
+      "id": "ce68766c-3e08-4c8c-9f64-76d64d67194b",
+      "name": "Add footnote",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[^{{VALUE}}]: "
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false
+    },
+    {
+      "id": "9dd65572-9df2-48be-8faf-2852127bb2b5",
+      "name": "Term",
+      "type": "Macro",
+      "command": false,
+      "macroId": "cc8a0584-9c3c-49bd-8cf1-cb71501d856b"
+    },
+    {
+      "id": "de77a105-b7e7-4a0b-a6cb-fa401a89e176",
+      "name": "Stub",
+      "type": "Macro",
+      "command": false,
+      "macroId": "94d1f6fb-ce5a-4126-a261-f0474f8e4cc6"
+    },
+    {
+      "id": "61f3bfb8-b62e-407e-beeb-96be21478f53",
+      "name": "Wiki",
+      "type": "Macro",
+      "command": false,
+      "macroId": "7f7f0f2e-8b23-479a-909f-c08004c9ebe2"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Term",
+      "id": "cc8a0584-9c3c-49bd-8cf1-cb71501d856b",
+      "commands": [
+        {
+          "name": "Capture",
+          "type": "NestedChoice",
+          "id": "5a221053-f3cf-43d4-aaa0-a9cddcccf6aa",
+          "choice": {
+            "id": "c155369f-9786-4cbc-822e-2a6b9d8ed3d7",
+            "name": "Capture",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "30 Topics/{{VALUE}}.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": true,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "{{TEMPLATE:00 Meta/Templates/META.md}} \ntags: topic/term\n---\n<% tp.system.clipboard() %> [^1]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n\n[^1]: {{LINKCURRENT}}\n"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Get inside brackets",
+      "id": "63db05b3-4b3a-40d7-be4f-169395e2e77e",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "8b395c43-65b6-46ca-b258-7ddd4f0bec27",
+          "choice": {
+            "id": "d943acb5-85ab-478d-8b5d-0c640d9d55cb",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Templates/GET_TITLE.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Stub",
+      "id": "94d1f6fb-ce5a-4126-a261-f0474f8e4cc6",
+      "commands": [
+        {
+          "name": "Stub",
+          "type": "NestedChoice",
+          "id": "950f8770-420b-4486-837b-7301f801929e",
+          "choice": {
+            "id": "499bb8c5-95cf-41fb-aa59-0d3f123e6f78",
+            "name": "Stub",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "30 Topics/{{VALUE}}.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": true,
+              "createWithTemplate": true,
+              "template": "00 Meta/Templates/STUB.md"
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "get wiki",
+      "id": "7f7f0f2e-8b23-479a-909f-c08004c9ebe2",
+      "commands": [
+        {
+          "name": "Wikipedia: Get Wikipedia for Active Note Title",
+          "type": "Obsidian",
+          "id": "4fe801d3-869b-438e-b3f8-0dba1014239f",
+          "commandId": "obsidian-wikipedia:wikipedia-get-active-note-title"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "394b99bb-860f-4bcd-bce6-989afc043266",
+          "time": 1000
+        },
+        {
+          "name": "Select active line",
+          "type": "EditorCommand",
+          "id": "33a386d1-8716-492b-a8b8-ca3ff8c03c03",
+          "editorCommandType": "Select active line"
+        },
+        {
+          "name": "Cut",
+          "type": "EditorCommand",
+          "id": "fa1ec6f0-0b6f-4be4-a5e7-081e39163487",
+          "editorCommandType": "Cut"
+        },
+        {
+          "name": "Footnote Shortcut: Insert and Navigate Footnote",
+          "type": "Obsidian",
+          "id": "ec63c9f9-bc78-437b-90d3-ec372f108712",
+          "commandId": "obsidian-footnotes:insert-footnote"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "d0744d18-2964-4e2b-9ce5-f83113ade1c4",
+          "time": 100
+        },
+        {
+          "name": "Paste",
+          "type": "EditorCommand",
+          "id": "294311fb-9bac-41ae-a695-e8ac6c1cb410",
+          "editorCommandType": "Paste"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ]
+}

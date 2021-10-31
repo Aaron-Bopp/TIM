@@ -1,0 +1,21 @@
+/*
+	 CSS-Tricks Example
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+h1 {
+  background: lightgrey;
+/*  font: 32px Georgia, Serif;*/
+  margin: 0 0 20px 0;
+  text-align:center
+}
+
+h2 {
+  background: lightgrey;
+  padding: 10px;
+/*  font: 28px Georgia, Serif;*/
+  margin: 0 0 20px 0;
+  text-align:center
+}
+
+

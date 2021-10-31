@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "workspace:close",
+    "workspace:close-others",
+    "app:go-back",
+    "app:go-forward",
+    "templater-obsidian:insert-templater"
+  ]
+}

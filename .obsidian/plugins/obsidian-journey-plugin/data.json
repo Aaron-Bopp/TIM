@@ -1,0 +1,11 @@
+{
+  "useForwardLinks": true,
+  "useBackLinks": true,
+  "useTags": false,
+  "skipMOCs": true,
+  "MOCMaxLinks": 30,
+  "enableHighContrast": false,
+  "skipFolders": "00 Meta, 10 Sources, 20 Entry, 30 Topics",
+  "enableLinks": true,
+  "enableTransclusion": false
+}

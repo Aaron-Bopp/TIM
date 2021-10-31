@@ -1,0 +1,147 @@
+// Color Related Variables
+$colors: aliceblue, antiquewhite, aqua, aquamarine, azure, beige, bisque, black,
+  blanchedalmond, blue, blueviolet, brown, burlywood, cadetblue, chartreuse,
+  chocolate, coral, cornflowerblue, cornsilk, crimson, cyan, darkblue, darkcyan,
+  darkgoldenrod, darkgray, darkgrey, darkgreen, darkkhaki, darkmagenta,
+  darkolivegreen, darkorange, darkorchid, darkred, darksalmon, darkseagreen,
+  darkslateblue, darkslategray, darkslategrey, darkturquoise, darkviolet,
+  deeppink, deepskyblue, dimgray, dimgrey, dodgerblue, firebrick, floralwhite,
+  forestgreen, fuchsia, gainsboro, ghostwhite, gold, goldenrod, gray, grey,
+  green, greenyellow, honeydew, hotpink, indianred, indigo, ivory, khaki,
+  lavender, lavenderblush, lawngreen, lemonchiffon, lightblue, lightcoral,
+  lightcyan, lightgoldenrodyellow, lightgray, lightgrey, lightgreen, lightpink,
+  lightsalmon, lightseagreen, lightskyblue, lightslategray, lightslategrey,
+  lightsteelblue, lightyellow, lime, limegreen, linen, magenta, maroon,
+  mediumaquamarine, mediumblue, mediumorchid, mediumpurple, mediumseagreen,
+  mediumslateblue, mediumspringgreen, mediumturquoise, mediumvioletred,
+  midnightblue, mintcream, mistyrose, moccasin, navajowhite, navy, oldlace,
+  olive, olivedrab, orange, orangered, orchid, palegoldenrod, palegreen,
+  paleturquoise, palevioletred, papayawhip, peachpuff, peru, pink, plum,
+  powderblue, purple, rebeccapurple, red, rosybrown, royalblue, saddlebrown,
+  salmon, sandybrown, seagreen, seashell, sienna, silver, skyblue, slateblue,
+  slategray, slategrey, snow, springgreen, steelblue, tan, teal, thistle, tomato,
+  turquoise, violet, wheat, white, whitesmoke, yellow, yellowgreen;
+
+$background-colors: $colors;
+$text-colors: $colors;
+$border-colors: $colors;
+
+$border-width-from: 0;
+$border-width-to: 10;
+$padding-from: 0;
+$padding-to: 20;
+$font-size-from: 0;
+$font-size-to: 20;
+$border-radius-from: 0;
+$border-radius-to: 20;
+
+@mixin cha($child) {
+  $string: inspect(&);
+  $new: str-slice($string, 2, -4);
+  @at-root #{selector-replace(&, &, "#{$new}#{$child}]" ) } {
+    @content;
+  }
+}
+
+a.internal-link[data-link] {
+  @include cha("-background-color") {
+    @each $color in $background-colors {
+      @include cha("*='" + $color + "'") {
+        background-color: $color;
+      }
+    }
+  }
+  @include cha("-background-color-hover") {
+    @each $color in $background-colors {
+      @include cha("*='" + $color + "'") {
+        &:hover {
+          background-color: $color;
+        }
+      }
+    }
+  }
+  @include cha("-text-color") {
+    @each $color in $text-colors {
+      @include cha("*='" + $color + "'") {
+        color: $color;
+      }
+    }
+  }
+  @include cha("-text-color-hover") {
+    @each $color in $text-colors {
+      @include cha("*='" + $color + "'") {
+        &:hover {
+          color: $color;
+        }
+      }
+    }
+  }
+  @include cha("-category") {
+    &::before {
+      content: attr(data-link-category);
+    }
+  }
+  @include cha("-category-hover") {
+    &:hover::before {
+      content: attr(data-link-category-hover);
+    }
+  }
+  @include cha("-actions") {
+    &::after {
+      content: attr(data-link-actions);
+    }
+  }
+  @include cha("-actions-hover") {
+    &:hover::after {
+      content: attr(data-link-actions-hover);
+    }
+  }
+  @include cha("-border-width") {
+    @for $i from $border-width-from through $border-width-to {
+      @include cha("*='" + $i + "px'") {
+        border-width: $i + px;
+      }
+    }
+  }
+  @include cha("-border-width-hover") {
+    @for $i from $border-width-from through $border-width-to {
+      @include cha("*='" + $i + "px'") {
+        &:hover {
+          border-width: $i + px;
+        }
+      }
+    }
+  }
+  @include cha("-padding") {
+    @for $i from $padding-from through $padding-to {
+      @include cha("*='" + $i + "px'") {
+        padding: $i + px;
+      }
+    }
+  }
+  @include cha("-padding-hover") {
+    @for $i from $padding-from through $padding-to {
+      @include cha("*='" + $i + "px'") {
+        &:hover {
+          padding: $i + px;
+        }
+      }
+    }
+  }
+  @include cha("-border-radius") {
+    @for $i from $border-radius-from through $border-radius-to {
+      @include cha("*='" + $i + "px'") {
+        border-radius: $i + px;
+      }
+    }
+  }
+  @include cha("-border-radius-hover") {
+    @for $i from $border-radius-from through $border-radius-to {
+      @include cha("*='" + $i + "px'") {
+        &:hover {
+          border-radius: $i + px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "INDEX",
+      "path": "INDEX.md"
+    },
+    {
+      "type": "file",
+      "title": "QUICKNOTE",
+      "path": "QUICKNOTE.md"
+    },
+    {
+      "type": "file",
+      "title": "TASKS",
+      "path": "TASKS.md"
+    },
+    {
+      "type": "search",
+      "title": "tag:#EVER/SEED/UNPLANTED -path:Templates",
+      "query": "tag:#EVER/SEED/UNPLANTED -path:Templates"
+    },
+    {
+      "type": "search",
+      "title": "path:ContentNotes ",
+      "query": "path:ContentNotes "
+    },
+    {
+      "type": "search",
+      "title": "path:EvergreenNotes",
+      "query": "path:EvergreenNotes"
+    },
+    {
+      "type": "search",
+      "title": "path:TopicNotes",
+      "query": "path:TopicNotes"
+    },
+    {
+      "type": "file",
+      "title": "INDEX",
+      "path": "SecondBrain/OrganizationalNotes/INDEX.md"
+    }
+  ]
+}

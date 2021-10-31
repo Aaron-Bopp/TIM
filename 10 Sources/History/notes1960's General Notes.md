@@ -1,0 +1,563 @@
+---
+created: 2021-04-30
+note-type: 
+- content-note
+creator:
+content-type:
+- class
+source: NWMSU
+bib:
+---
+
+- [[1950's General Notes]]
+- 1960s - More Liberal [[America]]
+    - Election [[Nixon]] vs [[JFK]]
+        - Both strongly against [[Communism]] with a service background
+        - [[JFK]]'s [[Christianity|Catholicism]] was a problem for lots of [[America|Americans]]
+        - Debates hurt [[Nixon]] a lot 
+            - [[JFK]] wore makeup and [[Nixon]] was sweaty
+        - Segregationist Byrd won 15 EC votes from OK, MS, and AL
+    - [[JFK]]
+        - [[Tyranny]], [[poverty]], and [[disease]] -> what can you do for your country to eradicate these things
+        - established Peace Corps gave [[America|Americans]] an excuse to make connections with other countries (and act against [[Communism]])
+        - [[Foreign Policy]]
+            - Space Race - fight [[Communism]], [[government]] funding helped innovate many new daily products (velcro)
+            - Bay of Pigs 
+                - Batista was anti-communist dictator of [[Cuba]] and supported by US
+                - Fidel Castor overthrew Batista and established communist [[government|govt]]
+                - Many Cubans fled to [[America|the US]] and US was fearful of communist country so close to US with ties to [[russia]]
+                - Bay of Pigs Invasion -> [[CIA]] plan to overthrow [[Cuba]] but with US troop involvement and invasion failed
+            - Berlin Wall
+                - Fear of Russian sector of Berlin
+                - Khrushchev ordered building wall
+                    - physical symbol of Iron Curtain
+            - [[Cuba|Cuban]] Missile Crisis
+                - U2 plain saw missile launch sites
+                - Quarantine of [[Cuba]] stopped military goods, communist countries saw this as blockade 
+                - Frantic negotations between US and [[Russia|USSR]] to avoid [[war]] bcs mutually assured destruction
+                - [[Russia|USSR]] removed missiles from [[cuba]], but US removed missiles from Turkey which was not reported till years later
+                - [[JFK]]'s approval rating soared 
+        - [[Domestic Policy]]
+            - New Frontier Agenda
+                - increased [[education]]
+                - medical care for elderly
+                - Urband reforms (city housing)
+                - [[Civil rights]] legislation
+                - end to [[poverty]]
+                - containment of [[Communism]]
+                    - [[Vietnam]]
+                - Majority of this platform was not passed till [[LBJ]]
+            - Sit-ins and [[protests]]
+                - Young black protesters sat peacefully in segregated bars while being attacked 
+                - Freedom rides
+                    - Desegregated buses were attacked
+                - [[Protests]] were seen on TV and activists statements were publicized public support grew
+                    - [[MLK]] I have a dream and Letter from Birmingham jail
+                - March on Washington
+            - [[Civil Rights]] movement forced [[JFK]]'s hand despite his want of southern support to pass CRA of 1964
+                - CRA 1964 was not passed until after his assassination
+                    - 911 like moment for current generations
+                - [[LBJ]] used [[JFK]]'s legacy to move policy forward
+    - The Great Society (lecture 21) 1965-1968
+        - 1964 Election
+            - [[LBJ]] worked to pass legislation after [[JFK]]'s assassination in 1963
+            - [[LBJ]] was radical but Goldwater was more radical
+                - Goldwater wanted to use Atomics in [[Vietnam]]
+        - [[LBJ]]
+            - Opposite of [[JFK]]
+            - The [[War]] on [[Poverty]]
+                - Community action programs - critically underfunded
+                - Adult basic [[education]] - GED
+                - Medicare
+                - housing and urban development
+                - clean air and water
+                - this is how to make a better [[America]]
+                - 10 billion tax cut
+                - Economic Opportunity Act of 1964
+            - Passed [[Civil Rights]] Act of 1964
+            - Voting Rights Act of 1965
+                - Murder of young [[black people]] allowed opportunity for change
+                - Selma 
+                    - bloody sunday - marching to protest access to vote
+                        - [[John Lewis]]
+                    - Third day joined by [[MLK]]
+            - Eliminated Poll taxes and other barriers to vote
+            - Great Society legislation brought hope to everyday [[America|Americans]]
+                - wiped out whites only signs
+                - Not handouts handups
+    - [[Vietnam]]
+        - [[Vietnam]] wanted independence from [[France]]
+        - Divided on 17th parralel and was designed
+        - Began as part of the Domino Theory
+            - If [[Vietnam]] fell to [[Communism]] the rest of South Asia
+                - [[Communism]] associated to [[Russia|Soviet Union]] and mutually assured destruction
+        - Vietcong - Anti-american group in [[democratic]] [[government]] of South [[Vietnam]]
+        - The Viet Minh - tried to take control of North [[Vietnam]] after [[WW2]]
+            - Catholic vs Bhudhist conflict
+            - First Indochina [[war]] 1946-1954
+            - US started to pay 80% cost of [[France|French]] forces to attack [[Communism]]
+                - [[France|French]] overconfident, and [[Vietnam]] sieged and ambushed [[France|french]] forces
+                - [[France|French]] requested direct American involvement
+            - [[Vietnam|Vietnamese]] were astonished and proud of the leader for defeating the [[France|French]]
+        - Geneva Accords
+        - TET Offensive
+            - North [[Vietnam|Vietnamese]] attack with help from Vietcong
+            - Vietcong broke the holiday of TET and launched an attack on Saigon
+                - Called people to rise up
+            - Came right after US had been promised [[war]] was ending soon
+            - Fueled [[anti-war]] sentiment
+        - My Lai Massacre
+            - Infamous [[SEARCH]] and destroy mission
+            - American soldiers massacred [[Vietnam]] civilians
+                - Guerilla Warfare made some American soldiers indifferent to [[Vietnam|Vietnamese]] [[suffering]]
+            - [[Pentagon]] investigation ordered
+                - Calley convicted in 1971 higher ups were not 
+        - Quagmire in [[Vietnam]]
+            - [[Nixon]] claimed he would achieve peace with Honor
+                - Negotiation was difficult
+                - [[Nixon]] believed he needed to squash [[anti-war]] sentiment in order to achieve peace
+                - [[Nixon]] increased bombings on [[vietnam]]
+                    - 4x more than were dropped on [[Japan]] in [[WW2]]
+        - Veterans return from the [[war]]
+    - [[Civil Rights]] Movement (lecture 23)
+        - The Warren Court
+            - Chief Justice Earl Warren
+            - [[Civil Rights]] cases
+                - Brown v Board of [[Education]] (1954)
+                    - Advocated for desegregation
+                        - Court didn't set any timeframe
+                    - Lots of push back from Politicians
+                - Loving v Virginia (1967)
+                - Threw out laws that involved forcing contraception or lack there of
+                    - layed way for Roe v Wade in 1973
+            - Rights of Accused
+                - Mapp v Ohio (1961)
+                - Miranda v Arizona (1966)
+        - [[Black Power]] Movement
+            - New voices that opposed some of the things [[MLK]] stood for
+                - [[Malcolm X]]
+                    - Said race was number one problem in US.
+                    - assassinated in 1965
+                    - aspired for [[liberation]] not integration
+                - Stokley Carmichael
+                    - Invented term [[Black Power]]
+                    - not riots, rebellions
+                    - Chairman of SNCC
+                    - Abandoned Interracial Collaboration
+                    - Lowndes County Freedom Party
+                - The [[Black Panthers]]
+                    - Black Panther Party for [[Self]] Defense
+                        - [[The Vanguard]]
+                            - Studied law and said that anybody without a felony could carry firearm
+                            - Kept police in line with intimidation and non-violence
+                        - Got a lot of backlash as "hooligans with guns"
+                        - Ronald [[Reagan]] was against
+                            - California passed legislation banning firearms in public
+                        - Some members of the Black community were also against it
+                    - Huey P Newton and Bobby Seale
+                    - Eldridge Cleaver
+                        - transformed it to political program
+                        - combined
+                        - Ten Point Program
+                            - freedom
+                            - determine destiny of black community
+                            - full employement
+                            - end to robbery of black community by capitalists
+                            - [[education]] for people that exposes [[America]]
+                            - all black men exempt for military service
+                            - immediate end to police burtality
+                            - freedom for black prisoners
+                            - tried by peers (black peers)
+                            - land, justice, honor, and peace
+                        - Made positive change in their community's, but white people only saw guns
+                    - Use of Community Action
+            - Race Riots
+                - J Edgar [[Hoover]] and CoIntelPro
+                    - neutralize activities of [[Black Power]] Groups
+                - 1965 Watts section of LA
+                - July 1967
+                    - Newark 
+                    - Detroit
+                - Riots every summer till 1969
+                - Millions of dollars of property damage
+            - The Kerner Commission
+                - White people asking: Why is this happening?
+                    - Lack of hope
+                    - American institutions created this
+                - Findings
+                    - Divisions along racial and [[socio-economic]] lings
+                    - [[poverty]] levels
+                    - employment
+                    - [[poverty]] as cause
+                - The report of the Kerner Commission, appointed by President Lyndon B. Johnson to examine the causes of race riots in American cities in previous years, declares the nation is..."moving toward two societies, one black, one white--seperate and unequal." [src](https://www.smithsonianmag.com/history/timeline-seismic-180967503/)
+        - [[Native American]] rights
+            - 1961 Declaration of Purposes
+                - Criticized [[government]]'s treatment of Native [[America|Americans]]
+                - lobbied for
+                    - recognition
+                    - cultural and spiritual independence
+                    - federal aid from the [[government]]
+            - 1964 Lobbied in Washington to be included in the Great Society's [[war]] on [[Poverty]]
+                - beureau of Indian Affairs
+                    - [[LBJ]] chose first [[Indigenous]] head
+                - National Council on Indian Opportunity
+            - Red Power
+                - National Indian Youth Council 
+                - American Indian Movement
+                - Advocated for [[Indigenous]] [[liberation]]
+                - Reclaim Alcatraz Island for price that was payed for Manhattan it and help not [[indigenous]] people learn of their culture
+                    - Got discussion with President [[Nixon]]
+                    - Advocated for many different thigns
+        - [[Latine]] Rights
+            - Similar types of problems
+                - [[poverty]]
+                - wage gap
+            - leadership of Cesar Chavez and Dolores Huerta
+            - United Farm workers and La Causa
+                - boycotts
+                - Students - "blowouts"
+            - Strike unsuccessful so planned march
+                - numbers grew town after town
+                - striking images got national attention
+        - New Feminism
+            - 1963 Feminine Mystique
+                - had large effect on physique of [[women]]
+            - 1966 [[Women]]'s [[liberation]] moevement
+                - Goal to gain equal rights for [[women]]
+                - Impact of 
+                    - Birth Control
+                    - Roe v wade
+                - [[intersectionality]]
+        - [[Gay Rights]] [[Queer]]
+            - Stonewall riots 1969
+                - police raided bar that was known for providing help to disadvantaged people
+            - [[Gay Rights|Gay liberation]] front
+                - demand remove of sexuality laws
+                - equal employment
+    - 1968
+        - [[1968 Discussion]]
+        - January TET Offensive 
+        - March 16th My Lai Massacre
+        - March [[LBJ]] announced he would not run for reelection and were moving towards peace with [[Vietnam]]
+            - [[RFK]] has been pushing against LBJs [[foreign policy]]
+        - April 4th [[MLK]] assasinated
+            - King was the dream
+            - He was the champion and main leader
+        - April 6: The [[Black Panthers]] shoot out in Oakland
+            - Some members decided to move to direct violence
+            - Bobby Seale is Killed by police
+        - April 11th Draft increases American soldiers in [[Vietnam]]
+            - Mass fleeing the draft
+            - Large [[anti-war]] sentiment
+            - Large college movements
+        - April 23-30 [[Protests]] and sit ins at columbia
+            - Columbia expanding in black neighborhoods
+            - University supported police violence
+            - large multiple day protest
+        - June 5 [[RFK]] assasinated
+            - directly after winning California primary
+            - [[RFK]] would be first [[anti-war]] person in the white house
+        - June 28 New tax bill
+            - raised taxes and lowered [[government|govt]] spending
+        - August 8 [[Nixon]] becomes [[Republican]] candidate for president
+        - August 26-28 DNC
+            - Turned into conflict
+                - [[Anti-war]] [[protests]]
+                    - Chicago mayor brings in thousands of troops
+                    - creates police state
+                    - McCarthy supporters protested
+                - Delegates voted down [[anti-war]] platform
+   Tyranny, poverty, and disease -> what can you do for your country to eradicate these things
+        - established Peace Corps gave [[America|Americans]] an excuse to make connections with other countries (and act against [[Communism]])
+        - Foreign Policy
+            - Space Race - fight [[Communism]], government funding helped innovate many new daily products (velcro)
+            - Bay of Pigs 
+                - Batista was anti-communist dictator of Cuba and supported by US
+                - Fidel Castor overthrew Batista and established communist [[government|govt]]
+                - Many Cubans fled to US and US was fearful of communist country so close to US with ties to russia
+                - Bay of Pigs Invasion -> CIA plan to overthrow Cuba but with US troop involvement and invasion failed
+            - Berlin Wall
+                - Fear of Russian sector of Berlin
+                - Khrushchev ordered building wall
+                    - physical symbol of Iron Curtain
+            - [[Cuba|Cuban]] Missile Crisis
+                - U2 plain saw missile launch sites
+                - Quarantine of Cuba stopped military goods, communist countries saw this as blockade 
+                - Frantic negotations between US and [[Russia|USSR]] to avoid war bcs mutually assured destruction
+                - [[Russia|USSR]] removed missiles from cuba, but US removed missiles from Turkey which was not reported till years later
+                - JFK's approval rating soared 
+        - Domestic Policy
+            - New Frontier Agenda
+                - increased education
+                - medical care for elderly
+                - Urband reforms (city housing)
+                - [[Civil rights]] legislation
+                - end to poverty
+                - containment of [[Communism]]
+                    - Vietnam
+                - Majority of this platform was not passed till LBJ
+            - Sit-ins and protests
+                - Young black protesters sat peacefully in segregated bars while being attacked 
+                - Freedom rides
+                    - Desegregated buses were attacked
+                - Protests were seen on TV and activists statements were publicized public support grew
+                    - MLK I have a dream and Letter from Birmingham jail
+                - March on Washington
+            - [[Civil Rights]] movement forced JFK's hand despite his want of southern support to pass CRA of 1964
+                - CRA 1964 was not passed until after his assassination
+                    - 911 like moment for current generations
+                - LBJ used JFK's legacy to move policy forward
+    - The Great Society (lecture 21) 1965-1968
+        - 1964 Election
+            - [[LBJ]] worked to pass legislation after JFK's assassination in 1963
+            - LBJ was radical but Goldwater was more radical
+                - Goldwater wanted to use Atomics in Vietnam
+        - LBJ
+            - Opposite of Kennedy
+            - The War on Poverty
+                - Community action programs - critically underfunded
+                - Adult basic education - GED
+                - Medicare
+                - housing and urban development
+                - clean air and water
+                - this is how to make a better America
+                - 10 billion tax cut
+                - Economic Opportunity Act of 1964
+            - Passed [[Civil Rights]] Act of 1964
+            - Voting Rights Act of 1965
+                - Murder of young [[black people]] allowed opportunity for change
+                - Selma 
+                    - bloody sunday - marching to protest access to vote
+                        - john lewis
+                    - Third day joined by MLK
+            - Eliminated Poll taxes and other barriers to vote
+            - Great Society legislation brought hope to everyday [[America|Americans]]
+                - wiped out whites only signs
+                - Not handouts handups
+    - [[Vietnam]]
+        - Vietnam wanted independence from [[France]]
+        - Divided on 17th parralel and was designed
+        - Began as part of the Domino Theory
+            - If Vietnam fell to [[Communism]] the rest of South Asia
+                - [[Communism]] associated to [[Russia|Soviet Union]] and mutually assured destruction
+        - Vietcong - Anti-american group in democratic government of South Vietnam
+        - The Viet Minh - tried to take control of North Vietnam after WW2
+            - Catholic vs Bhudhist conflict
+            - First Indochina war 1946-1954
+            - US started to pay 80% cost of [[France|French]] forces to attack [[Communism]]
+                - [[France|French]] overconfident, and Vietnam sieged and ambushed [[France|french]] forces
+                - [[France|French]] requested direct American involvement
+            - [[Vietnam|Vietnamese]] were astonished and proud of the leader for defeating the [[France|French]]
+        - Geneva Accords
+        - TET Offensive
+            - North [[Vietnam|Vietnamese]] attack with help from Vietcong
+            - Vietcong broke the holiday of TET and launched an attack on Saigon
+                - Called people to rise up
+            - Came right after US had been promised war was ending soon
+            - Fueled anti-war sentiment
+        - My Lai Massacre
+            - Infamous [[search]] and destroy mission
+            - American soldiers massacred Vietnam civilians
+                - Guerilla Warfare made some American soldiers indifferent to [[Vietnam|Vietnamese]] [[suffering]]
+            - Pentagon investigation ordered
+                - Calley convicted in 1971 higher ups were not 
+        - Quagmire in Vietnam
+            - Nixon claimed he would achieve peace with Honor
+                - Negotiation was difficult
+                - Nixon believed he needed to squash anti-war sentiment in order to achieve peace
+                - Nixon increased bombings on vietnam
+                    - 4x more than were dropped on Japan in WW2
+        - Veterans return from the war
+    - [[Civil Rights]] Movement (lecture 23)
+        - The Warren Court
+            - Chief Justice Earl Warren
+            - [[Civil Rights]] cases
+                - Brown v Board of Education (1954)
+                    - Advocated for desegregation
+                        - Court didn't set any timeframe
+                    - Lots of push back from Politicians
+                - Loving v Virginia (1967)
+                - Threw out laws that involved forcing contraception or lack there of
+                    - layed way for Roe v Wade in 1973
+            - Rights of Accused
+                - Mapp v Ohio (1961)
+                - Miranda v Arizona (1966)
+        - [[Black Power]] Movement
+            - New voices that opposed some of the things MLK stood for
+                - [[Malcolm X]]
+                    - Said race was number one problem in US.
+                    - assassinated in 1965
+                    - aspired for [[liberation]] not integration
+                - Stokley Carmichael
+                    - Invented term Black Power
+                    - not riots, rebellions
+                    - Chairman of SNCC
+                    - Abandoned Interracial Collaboration
+                    - Lowndes County Freedom Party
+                - The [[Black Panthers]]
+                    - Black Panther Party for [[Self]] Defense
+                        - The Vanguard
+                            - Studied law and said that anybody without a felony could carry firearm
+                            - Kept police in line with intimidation and non-violence
+                        - Got a lot of backlash as "hooligans with guns"
+                        - [[Reagan|Ronald Reagan]] was against
+                            - California passed legislation banning firearms in public
+                        - Some members of the Black community were also against it
+                    - Huey P Newton and Bobby Seale
+                    - Eldridge Cleaver
+                        - transformed it to political program
+                        - combined
+                        - Ten Point Program
+                            - freedom
+                            - determine destiny of black community
+                            - full employement
+                            - end to robbery of black community by capitalists
+                            - education for people that exposes america
+                            - all black men exempt for military service
+                            - immediate end to police burtality
+                            - freedom for black prisoners
+                            - tried by peers (black peers)
+                            - land, justice, honor, and peace
+                        - Made positive change in their community's, but white people only saw guns
+                    - Use of Community Action
+            - Race Riots
+                - J Edgar Hoover and CoIntelPro
+                    - neutralize activities of Black Power Groups
+                - 1965 Watts section of LA
+                - July 1967
+                    - Newark 
+                    - Detroit
+                - Riots every summer till 1969
+                - Millions of dollars of property damage
+            - The Kerner Commission
+                - White people asking: Why is this happening?
+                    - Lack of hope
+                    - American institutions created this
+                - Findings
+                    - Divisions along racial and socio-economic lings
+                    - poverty levels
+                    - employment
+                    - poverty as cause
+                - The report of the Kerner Commission, appointed by President Lyndon B. Johnson to examine the causes of race riots in American cities in previous years, declares the nation is..."moving toward two societies, one black, one white--seperate and unequal." [src](https://www.smithsonianmag.com/history/timeline-seismic-180967503/)
+        - [[Native American]] rights
+            - 1961 Declaration of Purposes
+                - Criticized government's treatment of Native [[America|Americans]]
+                - lobbied for
+                    - recognition
+                    - cultural and spiritual independence
+                    - federal aid from the government
+            - 1964 Lobbied in Washington to be included in the Great Society's war on Poverty
+                - beureau of Indian Affairs
+                    - LBJ chose first Indigienous head
+                - National Council on Indian Opportunity
+            - Red Power
+                - National Indian Youth Council 
+                - American Indian Movement
+                - Advocated for Indigenous [[liberation]]
+                - Reclaim Alcatraz Island for price that was payed for Manhattan it and help not indigenous people learn of their culture
+                    - Got discussion with President Nixon
+                    - Advocated for many different thigns
+        - [[Latine]] Rights
+            - Similar types of problems
+                - poverty
+                - wage gap
+            - leadership of Cesar Chavez and Dolores Huerta
+            - United Farm workers and La Causa
+                - boycotts
+                - Students - "blowouts"
+            - Strike unsuccessful so planned march
+                - numbers grew town after town
+                - striking images got national attention
+        - New Feminism
+            - 1963 Feminine Mystique
+                - had large effect on physique of [[women]]
+            - 1966 [[Women]]'s [[liberation]] moevement
+                - Goal to gain equal rights for [[women]]
+                - Impact of 
+                    - Birth Control
+                    - Roe v wade
+                - [[intersectionality]]
+        - [[Queer|Gay]] Rights
+            - Stonewall riots 1969
+                - police raided bar that was known for providing help to disadvantaged people
+            - [[Gay Rights|Gay liberation]] front
+                - demand remove of sexuality laws
+                - equal employment
+    - 1968
+        - [[1968 Discussion]]
+        - January TET Offensive 
+        - March 16th My Lai Massacre
+        - March LBJ announced he would not run for reelection and were moving towards peace with Vietnam
+            - RFK has been pushing against LBJs foreign policy
+        - April 4th MLK assasinated
+            - King was the dream
+            - He was the champion and main leader
+        - April 6: The Black Panthers shoot out in Oakland
+            - Some members decided to move to direct violence
+            - Bobby Seale is Killed by police
+        - April 11th Draft increases American soldiers in Vietnam
+            - Mass fleeing the draft
+            - Large anti-war sentiment
+            - Large college movements
+        - April 23-30 Portests and sit ins at columbia
+            - Columbia expanding in black neighborhoods
+            - University supported police violence
+            - large multiple day protest
+        - June 5 [[RFK]] assasinated
+            - directly after winning California primary
+            - RFK would be first anti-war person in the white house
+        - June 28 New tax bill
+            - raised taxes and lowered [[government|govt]] spending
+        - August 8 Nixon becomes Republican candidate for president
+        - August 26-28 DNC
+            - Turned into conflict
+                - Anti-war protests
+                    - Chicago mayor brings in thousands of troops
+                    - creates police state
+                    - McCarthy supporters protested
+                - Delegates voted down anti-war platform
+                    - massive conflict
+                    - Many viewed
+                - George Mcgovern was chosen as prowar
+                - LBJ thought about re-entering race
+                    - Secret service could not guarantee his safety
+                - Humphrey won nomination, but the conflict stained his run
+            - 60% approved of how police handled encounter
+            - Nixon used these events to his advantage
+        - October 3 Third party candidates
+            - George Wallace - ardent segregationist
+        - October 14th involuntary second tours for Vietnam soldiers
+        - october 16th summer olympics in Mexico                 - massive conflict
+                    - Many viewed
+                - George Mcgovern was chosen as prowar
+                - [[LBJ]] thought about re-entering race
+                    - Secret service could not guarantee his safety
+                - Humphrey won nomination, but the conflict stained his run
+            - 60% approved of how police handled encounter
+            - [[Nixon]] used these events to his advantage
+        - October 3 Third party candidates
+            - George Wallace - ardent segregationist
+        - October 14th involuntary second tours for [[Vietnam]] soldiers
+        - october 16th summer olympics in [[Mexico]] City
+            - Tommy Smith and John Carlos barred for life after raising fists during national anthem
+        - October 31 End to bombing in [[Vietnam]]
+            - Tried to get support for Democrats in election
+        - November 5th [[Nixon]] elected
+        - November 14th National turn in your draft card 
+        - December Apollo missions success
+    - Youth [[Revolution]] in 1970sth
+    - Veterans return from the [[war]] in 1970s
+- [[1970's General Notes]]
+
+---
+
+**Topics**:: 
+
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
+

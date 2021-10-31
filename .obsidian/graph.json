@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": " -path:\"00 Meta\" ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:person",
+      "color": {
+        "a": 1,
+        "rgb": 4857579
+      }
+    },
+    {
+      "query": "tag:#evergreen",
+      "color": {
+        "a": 1,
+        "rgb": 3258113
+      }
+    },
+    {
+      "query": "path:\"20 Entry\"",
+      "color": {
+        "a": 1,
+        "rgb": 15188749
+      }
+    },
+    {
+      "query": "tag:#topic/tool",
+      "color": {
+        "a": 1,
+        "rgb": 11480218
+      }
+    },
+    {
+      "query": "tag:#topic/stub",
+      "color": {
+        "a": 1,
+        "rgb": 6380360
+      }
+    },
+    {
+      "query": "tag:#topic/term",
+      "color": {
+        "a": 1,
+        "rgb": 11432514
+      }
+    },
+    {
+      "query": "tag:#topic/technique",
+      "color": {
+        "a": 1,
+        "rgb": 10693903
+      }
+    },
+    {
+      "query": "tag:#topic/outline",
+      "color": {
+        "a": 1,
+        "rgb": 8473865
+      }
+    },
+    {
+      "query": "path:Sources",
+      "color": {
+        "a": 1,
+        "rgb": 5138143
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 0.748529411764706,
+  "lineSizeMultiplier": 0.532352941176471,
+  "collapse-forces": false,
+  "centerStrength": 0.476470588235294,
+  "repelStrength": 14.6102941176471,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.14654405438541168,
+  "close": false
+}

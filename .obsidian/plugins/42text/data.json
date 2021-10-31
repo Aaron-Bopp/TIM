@@ -1,0 +1,8 @@
+{
+  "enableRibbon": true,
+  "enableDNP": true,
+  "enableDebugMode": false,
+  "blockRefAliasIndicator": "*",
+  "enableContextMenuCommands": false,
+  "bookmarks": "TOP\nBOTTOM"
+}

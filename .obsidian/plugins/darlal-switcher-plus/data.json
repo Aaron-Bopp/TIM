@@ -1,0 +1,34 @@
+{
+  "alwaysNewPaneForSymbols": false,
+  "useActivePaneForSymbolsOnMobile": false,
+  "symbolsInLineOrder": true,
+  "editorListCommand": "!",
+  "symbolListCommand": "@",
+  "workspaceListCommand": "+",
+  "headingsListCommand": "#",
+  "strictHeadingsOnly": false,
+  "searchAllHeadings": true,
+  "excludeViewTypes": [
+    "empty"
+  ],
+  "referenceViews": [
+    "backlink",
+    "localgraph",
+    "outgoing-link",
+    "outline"
+  ],
+  "limit": 50,
+  "includeSidePanelViewTypes": [
+    "backlink",
+    "image",
+    "markdown",
+    "pdf"
+  ],
+  "enabledSymbolTypes": {
+    "1": true,
+    "2": true,
+    "4": true,
+    "8": true
+  },
+  "selectNearestHeading": true
+}

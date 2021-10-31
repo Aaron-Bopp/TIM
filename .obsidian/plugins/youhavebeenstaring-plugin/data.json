@@ -1,0 +1,10 @@
+{
+  "totalUptime": 46473000,
+  "lastLoad": 1635619264553,
+  "currentSessionDuration": 6600000,
+  "showTotalUptimeInStatusBar": false,
+  "displayStaringTimeAsHumanString": true,
+  "staringText": "You have been staring at your vault for ",
+  "totalStaringText": "Your total staring time in this vault is ",
+  "pausedText": "Your staring counter is paused"
+}

@@ -1,0 +1,61 @@
+{
+  "ruleConfigs": {
+    "Format Tags in YAML": {
+      "Enabled": false
+    },
+    "YAML Timestamp": {
+      "Enabled": true,
+      "Date Created": false,
+      "Date Modified": true,
+      "Format": "dddd, MMMM Do YYYY, h:mm:ss a"
+    },
+    "Header Increment": {
+      "Enabled": false
+    },
+    "File Name Heading": {
+      "Enabled": false
+    },
+    "Capitalize Headings": {
+      "Enabled": false,
+      "Style": "Title Case"
+    },
+    "Move Footnotes to the bottom": {
+      "Enabled": true
+    },
+    "Re-Index Footnotes": {
+      "Enabled": false
+    },
+    "Footnote after Punctuation": {
+      "Enabled": false
+    },
+    "Trailing spaces": {
+      "Enabled": true,
+      "Two Space Linebreak": false
+    },
+    "Heading blank lines": {
+      "Enabled": true,
+      "Bottom": true
+    },
+    "Paragraph blank lines": {
+      "Enabled": false
+    },
+    "Space after list markers": {
+      "Enabled": true
+    },
+    "Compact YAML": {
+      "Enabled": true
+    },
+    "Consecutive blank lines": {
+      "Enabled": true
+    },
+    "Convert Spaces to Tabs": {
+      "Enabled": true,
+      "Tabsize": "4"
+    },
+    "Line Break at Document End": {
+      "Enabled": false
+    }
+  },
+  "lintOnSave": true,
+  "displayChanged": true
+}

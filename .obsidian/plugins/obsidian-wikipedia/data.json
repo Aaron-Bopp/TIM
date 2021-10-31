@@ -1,0 +1,7 @@
+{
+  "template": "\n{{text}}\n[{{searchTerm}}]({{url}})",
+  "shouldUseParagraphTemplate": true,
+  "shouldBoldSearchTerm": false,
+  "paragraphTemplate": "{{paragraphText}}\n\n",
+  "language": "en"
+}

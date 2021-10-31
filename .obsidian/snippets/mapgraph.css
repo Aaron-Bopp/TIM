@@ -1,0 +1,28 @@
+.theme-dark,
+.theme-light {
+    --darkest: #A8660F;
+    --accent: #E6AA7A;
+    --lightest: #FFEBAB;
+}
+
+.graph-view.color-circle,
+.graph-view.color-fill-highlight,
+.graph-view.color-line-highlight {
+    color: var(--text-accent) !important;
+}
+
+.graph-view.color-text {
+    color: var(--text-normal) !important;
+}
+
+.graph-view.color-line {
+    color: var(--accent);
+}
+
+.graph-view.color-fill {
+    color: var(--text-muted);
+}
+
+.workspace-leaf-content[data-type="graph"] .view-content {
+    background-color: var(--lightest);
+}

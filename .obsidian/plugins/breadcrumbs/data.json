@@ -1,0 +1,93 @@
+{
+  "userHierarchies": [
+    {
+      "up": [
+        "Related-Topics"
+      ],
+      "same": [
+        "→"
+      ],
+      "down": [
+        "embedded"
+      ]
+    },
+    {
+      "up": [
+        "Location"
+      ],
+      "same": [
+        ""
+      ],
+      "down": [
+        ""
+      ]
+    },
+    {
+      "up": [
+        "parent"
+      ],
+      "same": [
+        "sibling"
+      ],
+      "down": [
+        "child"
+      ]
+    }
+  ],
+  "indexNote": [
+    "INDEX"
+  ],
+  "hierarchyNotes": [
+    "MOTWHierarchy"
+  ],
+  "hierarchyNoteDownFieldName": "child",
+  "hierarchyNoteUpFieldName": "parent",
+  "refreshIndexOnActiveLeafChange": true,
+  "altLinkFields": [],
+  "useAllMetadata": true,
+  "parseJugglLinksWithoutJuggl": false,
+  "dvWaitTime": 5000,
+  "refreshIntervalTime": 0,
+  "defaultView": true,
+  "showNameOrType": false,
+  "showRelationType": true,
+  "filterImpliedSiblingsOfDifferentTypes": true,
+  "rlLeaf": true,
+  "showTrail": true,
+  "limitTrailCheckboxStates": {
+    "Related-Topics": true,
+    "Location": true,
+    "parent": true
+  },
+  "hideTrailFieldName": "hide-trail",
+  "trailOrTable": 1,
+  "gridDots": false,
+  "dotsColour": "#000000",
+  "gridHeatmap": false,
+  "heatmapColour": "#EEEEEE",
+  "showAll": false,
+  "noPathMessage": "This note has no real or implied parents",
+  "trailSeperator": "→",
+  "respectReadableLineLength": true,
+  "limitWriteBCCheckboxStates": {
+    "Related-Topics": false,
+    "Location": false,
+    "parent": true,
+    "→": false,
+    "embedded": false,
+    "sibling": false,
+    "child": true
+  },
+  "showWriteAllBCsCmd": true,
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "wikilinkIndex": true,
+  "aliasesInIndex": true,
+  "debugMode": false,
+  "superDebugMode": false,
+  "parentFieldName": "related-topics, parent",
+  "siblingFieldName": "sub-topics",
+  "childFieldName": "child"
+}

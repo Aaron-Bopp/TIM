@@ -1,0 +1,47 @@
+.PocketItemTagList-styles-module_itemTagList__nVMsD {
+    list-style: none;
+    padding-inline-start: 0px;
+    margin-top: 4px;
+  }
+  .PocketItemTagList-styles-module_itemTagList__nVMsD > li {
+    display: inline;
+    color: var(--text-muted);
+    background-color: var(--background-secondary);
+    margin: 4px;
+    padding: 2px;
+    border-radius: 4px;
+  }
+.PocketItem-styles-module_item__3n5s8 {
+    color: black;
+    border: 1px solid black;
+    display: block;
+
+    padding: 4px 8px;
+  }
+  .PocketItem-styles-module_item__3n5s8 > span {
+    display: block;
+  }
+
+  .PocketItem-styles-module_itemTitle__2bkMG {
+    font-weight: 600;
+    flex-grow: 1;
+    width: 100%;
+  }
+
+  .PocketItem-styles-module_itemExcerpt__3umt6 {
+    font-weight: 300;
+    line-height: 1.5;
+    flex-grow: 1;
+    width: 100%;
+    color: var(--text-normal);
+  }
+.PocketItemList-styles-module_list__2zKhb {
+    list-style-type: none;
+  }
+
+  .PocketItemList-styles-module_item__3rjWY {
+    margin: 8px;
+  }
+.settings-styles-module_error__3S0_A {
+    border-color: var(--background-modifier-error-hover) !important;
+  }

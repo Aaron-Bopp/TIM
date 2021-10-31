@@ -1,0 +1,63 @@
+a.internal-link[data-link-tags*="#" i]::before {
+    font-size: 75%;
+    opacity: 80%;
+}
+
+a.internal-link[data-link-tags*="#" i]::before {
+    font-weight: 600;
+}
+
+
+/* [data-link-tags*="#EVER/SEED" i]::before, */
+
+a.internal-link[data-link-tags*="#EVER/SEED" i]::before,
+div.nav-file-title-content[data-link-tags*="#EVER/SEED" i]::before {
+    content: "🌱";
+}
+
+
+/* [data-link-tags*="#EVER/SPROUT" i]::before, */
+
+a.internal-link[data-link-tags*="#EVER/SPROUT" i]::before,
+div.nav-file-title-content[data-link-tags*="#EVER/SPROUT" i]::before {
+    content: "🌿️";
+}
+
+
+/* [data-link-tags*="#EVER/GREEN" i]::before, */
+
+a.internal-link[data-link-tags*="#EVER/GREEN" i]::before,
+div.nav-file-title-content[data-link-tags*="#EVER/GREEN" i]::before {
+    content: "🌲️";
+}
+
+[data-link-tags*="topic"],
+a.internal-link[data-link-tags*="topic"] {
+    color: rgb(202, 116, 17) !important;
+}
+
+[data-link-tags*="evergreen"],
+a.internal-link[data-link-tags*="evergreen"] {
+    color: rgba(84, 202, 37, 0.863) !important;
+}
+
+[data-link-tags*="term"],
+a.internal-link[data-link-tags*="term"] {
+    color: #50fa7b;
+    font-weight: 550;
+}
+
+a.internal-link[data-link-tags*="term"]::before,
+div.nav-file-title-content[data-link-tags*="term"]::before {
+    content: "📄";
+}
+
+a.internal-link[data-link-tags*="tool"]::before,
+div.nav-file-title-content[data-link-tags*="tool"]::before {
+    content: "💻";
+}
+
+a.internal-link[data-link-tags*="person"]::before,
+div.nav-file-title-content[data-link-tags*="person"]::before {
+    content: "🦱";
+}
