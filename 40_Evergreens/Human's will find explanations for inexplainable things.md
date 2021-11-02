@@ -1,6 +1,5 @@
 ---
 created: 2021-06-16
-
 tags: node/evergreen
 aliases:
   - humans finding explanations for inexplainable things

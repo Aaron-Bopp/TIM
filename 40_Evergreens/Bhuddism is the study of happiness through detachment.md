@@ -1,6 +1,5 @@
 ---
 created: 2021-06-11
-
 tags: node/evergreen
 aliases:
   - The nature of happiness is not doing what you love its detachment from the

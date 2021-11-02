@@ -1,6 +1,5 @@
 ---
 created: 2021-06-28
-
 tags: node/evergreen
 aliases:
   - "Were Jesus' teachings are anti-thetical to the modern christian church?"

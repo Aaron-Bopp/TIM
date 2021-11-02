@@ -1,6 +1,5 @@
 ---
 created: 2021-06-12
-
 tags: node/evergreen
 aliases:
   - Confidence comes from empathic mirroring in childhood

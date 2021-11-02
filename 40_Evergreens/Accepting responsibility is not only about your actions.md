@@ -1,6 +1,5 @@
 ---
 created: 2021-06-08
-
 tags: node/evergreen
 aliases:
   - Accepting responsibility for moving past your trauma

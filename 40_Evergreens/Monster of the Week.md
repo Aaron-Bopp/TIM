@@ -1,6 +1,5 @@
 ---
 created: 2021-06-10
-
 tags: node/evergreen
 aliases:
   - MOTW

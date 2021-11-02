@@ -1,7 +1,6 @@
 ---
 created: 2021-06-13
 ---
-
 #### [[Templater]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Source Code:: https://github.com/SilentVoid13/Templater

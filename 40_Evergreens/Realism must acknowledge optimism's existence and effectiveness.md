@@ -1,6 +1,5 @@
 ---
 created: 2021-08-09
-
 tags: node/evergreen
 aliases:
   - "must acknowledge optimism's existence and effectiveness"
