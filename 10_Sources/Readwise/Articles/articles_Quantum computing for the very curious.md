@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Quantum computing for the very curious"
 - "Quantum computing for the very curious by Matuschak, Andy, Nielsen, Michael"
 - "Matuschak, Andy, Nielsen, Michael"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Quantum computing for the very curious](https://quantum.country/qcvc)
 
-**Creator**:: Matuschak, Andy, Nielsen, Michael
+**Creator**:: [[Matuschak, Andy, Nielsen, Michael]]
 
 # Highlights
 ##### ^239060613

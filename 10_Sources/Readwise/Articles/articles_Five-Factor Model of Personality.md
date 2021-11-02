@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Five-Factor Model of Personality"
 - "Five-Factor Model of Personality by oxfordbibliographies.com"
 - "oxfordbibliographies.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Five-Factor Model of Personality](https://www.oxfordbibliographies.com/view/document/obo-9780199828340/obo-9780199828340-0120.xml)
 
-**Creator**:: oxfordbibliographies.com
+**Creator**:: [[oxfordbibliographies.com]]
 
 # Highlights
 ##### ^242142333

@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "single.dvi"
 - "single.dvi by pages.cs.wisc.edu"
 - "pages.cs.wisc.edu"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [single.dvi](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)
 
-**Creator**:: pages.cs.wisc.edu
+**Creator**:: [[pages.cs.wisc.edu]]
 
 # Highlights
 ##### ^238266271

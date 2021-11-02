@@ -1,6 +1,8 @@
 ---
 created: 2021-07-10
 tags: node/topic/outline
+aliases:
+  - religious
 ---
 
 **See**:: [[INDEX]]

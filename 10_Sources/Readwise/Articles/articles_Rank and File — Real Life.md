@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Rank and File — Real Life"
 - "Rank and File — Real Life by Os Keyes"
 - "Os Keyes"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Rank and File — Real Life](https://reallifemag.com/rank-and-file)
 
-**Creator**:: Os Keyes
+**Creator**:: [[Os Keyes]]
 
 # Highlights
 ### Rank and File

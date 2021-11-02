@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Tweets From Lilah Sturges"
 - "Tweets From Lilah Sturges by @LilahSturges on Twitter"
 - "@LilahSturges on Twitter"
-tags: node/source/tweets
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Tweets From Lilah Sturges](https://twitter.com/LilahSturges)
 
-**Creator**:: @LilahSturges on Twitter
+**Creator**:: [[@LilahSturges on Twitter]]
 
 # Highlights
 ##### ^242672284

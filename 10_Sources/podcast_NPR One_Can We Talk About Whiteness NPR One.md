@@ -15,8 +15,8 @@ link: https://one.npr.org/?sharedMediaId=476876081:480084184
 
 **Last Edited**:: *`=this.file.mtime`*
 
-Summarized and expanded upon in [[10 Sources/White Privilege write-up]]
-
+Summarized and expanded upon in [[White Privilege write-up]]
+#TO/TEND/CREATE notes
 - Talking about whiteness as a demographic and white privilege. 
 - Peggys story
 	- White [[women]] are oppressive to work with. 

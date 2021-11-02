@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "How I take Smart Notes — Nicholas Seitz Photographer"
 - "How I take Smart Notes — Nicholas Seitz Photographer by Nick Seitz"
 - "Nick Seitz"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,9 +18,10 @@ deliveredBy:
 
 **Source**:: [How I take Smart Notes — Nicholas Seitz Photographer](https://nickseitz.com/writing/take-less-stupid-notes)
 
-**Creator**:: Nick Seitz
+**Creator**:: [[Nick Seitz]]
 
 # Highlights
+### How to Take Progressively Less Stupid Notes
 ##### ^239355373
   
 > Hoarding is often the first step people take (myself included) towards meaningful engagement with the firehose. 

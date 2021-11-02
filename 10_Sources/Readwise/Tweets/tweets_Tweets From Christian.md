@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Tweets From Christian"
 - "Tweets From Christian by @CXGonzalez_ on Twitter"
 - "@CXGonzalez_ on Twitter"
-tags: node/source/tweets
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Tweets From Christian](https://twitter.com/CXGonzalez_)
 
-**Creator**:: @CXGonzalez_ on Twitter
+**Creator**:: [[@CXGonzalez_ on Twitter]]
 
 # Highlights
 ##### ^242208335

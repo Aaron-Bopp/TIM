@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2123244,
+  "lastSavedStatusID": 2132575,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -277,7 +277,13 @@
     "10_Sources/Readwise/Articles/articles_Do it or Forget it — How to Think Less and Achieve More  by Tom Klima  Oct, 2021  Medium.md": "11603935",
     "10_Sources/Readwise/Articles/articles_Rank and File — Real Life.md": "11613023",
     "10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md": "11665431",
-    "10_Sources/Readwise/Tweets/tweets_My Most Taboo Opinion O....md": "11666174"
+    "10_Sources/Readwise/Tweets/tweets_My Most Taboo Opinion O....md": "11666174",
+    "10_Sources/Readwise/Articles/articles_The Next Chapter of Readwise Our Own Reading App.md": "11670508",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md": "11679968",
+    "10_Sources/Readwise/Articles/articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium.md": "11680006",
+    "10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md": "11683224",
+    "10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md": "11688272",
+    "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md": "11688276"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false

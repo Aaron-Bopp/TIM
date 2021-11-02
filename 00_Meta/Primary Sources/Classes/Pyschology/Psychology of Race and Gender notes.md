@@ -202,6 +202,8 @@
 
 1.  [[Dovidio et al. (2017) - Aversive Racism and Contemporary Bias 1.pdf]] 
 2.  [[Correll et al. (2014) - The Police Officer's Dilemma 1.pdf]] 
+- Racism in America
+	- 
 
 # Week 13 
 

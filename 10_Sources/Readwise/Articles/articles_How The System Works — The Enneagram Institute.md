@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "How The System Works — The Enneagram Institute"
 - "How The System Works — The Enneagram Institute by enneagraminstitute.com"
 - "enneagraminstitute.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [How The System Works — The Enneagram Institute](https://enneagraminstitute.com/how-the-enneagram-system-works)
 
-**Creator**:: enneagraminstitute.com
+**Creator**:: [[enneagraminstitute.com]]
 
 # Highlights
 ##### ^212168948

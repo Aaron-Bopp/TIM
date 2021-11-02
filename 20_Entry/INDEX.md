@@ -23,8 +23,33 @@ This is a constantly updated index of entry points and topics for my personal fl
 	- [[EvergreenNotes]]
 	- [[CONTENTNOTES]]
 
+# Map of Content
 
+## Areas of study 
 
+### Politics
+- [[Politics]]
+- [[Rise of Misinformation in America]]
+- [[Ronald Reagan invented modern conservatism]]
+### Christianity
+- [[Christianity]]
+- [[My Deconstruction journey]]
+- [[The Politicization of the Christian Church]]
+### Mental Health
+- [[mental health]]
+- [[anxiety]]
+### Psychology
+- [[Psychology]]
+### Gender
+- [[gender]]
+### Identity/self-actualization
+- [[self]]
+### Computer Science 
+- [[Computer Science]]
+### Knowledge Management
+- [[second brain]]
+- [[My Second Brain]]
+- [[note writing]]
 # Topic Outlines
 - 
 	- ![[mental health#mental health customJS dv_funcs topicOutlineHeader dv this]]

@@ -7,8 +7,11 @@
         "id": "74cd2345ab648f3b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Human's will find explanations for inexplainable things.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Human's will find explanations for inexplainable things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,14 +78,29 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "44a3a84c804af718",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 529
   },
   "active": "74cd2345ab648f3b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Human's will find explanations for inexplainable things.md",
+    "empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
+    "What is the difference between optimism and hope.md",
+    "The Politicization of the Christian Church.md",
+    "Anger fuels change.md",
+    "Sadness is enlightenment and happiness is delusion.md"
+  ]
 }

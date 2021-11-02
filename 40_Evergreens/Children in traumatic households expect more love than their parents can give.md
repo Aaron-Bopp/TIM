@@ -1,9 +1,8 @@
 ---
 created: 2021-07-05
-
 tags: node/evergreen
 aliases:
-  - null
+  - Parents will not be able to protect their children from every source of trauma
 sr-due: 2021-11-01
 sr-interval: 5
 sr-ease: 210

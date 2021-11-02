@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Type Five — The Enneagram Institute"
 - "Type Five — The Enneagram Institute by enneagraminstitute.com"
 - "enneagraminstitute.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Type Five — The Enneagram Institute](https://enneagraminstitute.com/type-5)
 
-**Creator**:: enneagraminstitute.com
+**Creator**:: [[enneagraminstitute.com]]
 
 # Highlights
 ##### ^212177675

@@ -30,7 +30,6 @@
   "better-word-count",
   "media-extended",
   "obsidian-charts",
-  "customjs",
   "simple-embeds",
   "obsidian-advanced-new-file",
   "obsidian-footnotes",
@@ -53,5 +52,13 @@
   "obsidian-dangling-links",
   "obsidian-vault-statistics-plugin",
   "obsidian-wordnet-plugin",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "customjs",
+  "advanced-cursors",
+  "cross-reference-navigation",
+  "obsidian-webhooks",
+  "file-tree-alternative",
+  "obsidian-gallery",
+  "breadcrumbs",
+  "graph-analysis"
 ]

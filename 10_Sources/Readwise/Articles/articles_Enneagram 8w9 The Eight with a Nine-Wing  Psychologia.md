@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Enneagram 8w9: The Eight with a Nine-Wing | Psychologia"
 - "Enneagram 8w9: The Eight with a Nine-Wing | Psychologia by psychologia.co"
 - "psychologia.co"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Enneagram 8w9: The Eight with a Nine-Wing | Psychologia](https://psychologia.co/8w9)
 
-**Creator**:: psychologia.co
+**Creator**:: [[psychologia.co]]
 
 # Highlights
 ##### ^212181386

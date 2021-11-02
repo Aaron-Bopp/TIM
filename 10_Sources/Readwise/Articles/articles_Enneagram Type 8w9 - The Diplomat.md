@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Enneagram Type 8w9 - The Diplomat"
 - "Enneagram Type 8w9 - The Diplomat by crystalknows.com"
 - "crystalknows.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Enneagram Type 8w9 - The Diplomat](https://crystalknows.com/enneagram/type-8/wing-9)
 
-**Creator**:: crystalknows.com
+**Creator**:: [[crystalknows.com]]
 
 # Highlights
 ##### ^212181216

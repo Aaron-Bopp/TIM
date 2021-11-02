@@ -94,7 +94,7 @@ Hellenistic [[women]]
 
 Hellenistic Literature
 
-Hellenistic [[Philosophy]] & Science
+Hellenistic [[philosophy]] & Science
 
 Hellenistic World & the Jews
 

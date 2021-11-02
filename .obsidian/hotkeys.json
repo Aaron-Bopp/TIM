@@ -101,15 +101,6 @@
       "key": "D"
     }
   ],
-  "sliding-panes-obsidian:toggle-sliding-panes-leaf-auto-width": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Q"
-    }
-  ],
   "sliding-panes-obsidian:toggle-sliding-panes": [
     {
       "modifiers": [
@@ -319,6 +310,15 @@
         "Mod"
       ],
       "key": "I"
+    }
+  ],
+  "hotkey-helper:browse-plugins": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": ","
     }
   ]
 }

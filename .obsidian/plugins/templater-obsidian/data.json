@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "00 Meta/Templates",
+  "templates_folder": "00_Meta/Templates",
   "templates_pairs": [
     [
       "",
@@ -16,11 +16,11 @@
   "folder_templates": [
     {
       "folder": "40 Evergreens",
-      "template": "00 Meta/Templates/EGNOTE.md"
+      "template": "00_Meta/Templates/EGNOTE.md"
     },
     {
       "folder": "30 Topics",
-      "template": "00 Meta/Templates/STUB.md"
+      "template": "00_Meta/Templates/STUB.md"
     }
   ],
   "syntax_highlighting": true,

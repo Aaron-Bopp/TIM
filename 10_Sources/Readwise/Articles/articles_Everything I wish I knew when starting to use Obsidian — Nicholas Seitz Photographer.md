@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer"
 - "Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer by Nick Seitz"
 - "Nick Seitz"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer](https://nickseitz.com/writing/obsidian-day-one-starterpack)
 
-**Creator**:: Nick Seitz
+**Creator**:: [[Nick Seitz]]
 
 # Highlights
 ##### ^242106792
@@ -30,15 +30,7 @@ deliveredBy:
 %%
 highlight_tags:: [[note-writing]]
 %%
-##### ^242106838
-  
-> Two: Let fruitful processes grow and let friction do the pruning 
-  [^242106838]
-
-[^242106838]:  https://nickseitz.com/writing/obsidian-day-one-starterpack?__readwiseLocation=0%2F0%2F0%2F1%2F1%2F3%2F1%2F0%2F3%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A0%2C0%2F0%2F0%2F1%2F1%2F3%2F1%2F0%2F3%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A64#:~:text=Two%3A%20Let%20fruitful%20processes%20grow%2Clet%20friction%20do%20the%20pruning
-%%
-highlight_tags:: [[h]]
-%%
+### Two: Let fruitful processes grow and let friction do the pruning
 ##### ^242106880
   
 > It’s important that you come up with a durable and realistic answer though, because this pile of notes is primarily for you. 
@@ -84,7 +76,7 @@ all you need to do to reduce friction is trim the edges. If it feels like more t
 [^242107577]:  https://nickseitz.com/writing/obsidian-day-one-starterpack?__readwiseLocation=1%2F15%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A2%2C9%2F15%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A58#:~:text=Understand%20what%20fruitfulness%20looks%20like%2Cyour%20workflow%20and%20continue%20working.
 
 ##### ^239361990
-#TO/DO/READ  
+- [ ] #TO/DO/READ the rest of this article  
 > I’ll start with several key “best practices” I’ve found in my time using Obsidian. 
   [^239361990]
 

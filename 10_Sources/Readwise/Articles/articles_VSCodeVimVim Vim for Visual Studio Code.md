@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "VSCodeVim/Vim: Vim for Visual Studio Code"
 - "VSCodeVim/Vim: Vim for Visual Studio Code by github.com"
 - "github.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [VSCodeVim/Vim: Vim for Visual Studio Code](https://github.com/VSCodeVim/Vim#input-method)
 
-**Creator**:: github.com
+**Creator**:: [[github.com]]
 
 # Highlights
 ##### ^235665463

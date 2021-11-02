@@ -4,17 +4,18 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-10-31
-sr-interval: 6
-sr-ease: 272
+sr-due: 2021-11-05
+sr-interval: 3
+sr-ease: 252
 ---
 
 #### [[Every person has an experience of gender]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
-[[Our understanding of gender begins at a very early age]].
+- [[Our understanding of gender begins at a very early age]]
+- [[Gender self-socialization model]]
 
-Even if your aren't [[transgender|trans]] you can still experience [[Gender Euphoria]] and [[gender dysphoria]] in a [[subconscious]] understanding of your [[gender]]'s interaction with society. While [[Gender is a social construct]] it still has very real impact on our [[human experience]].
+While [[Gender is a social construct]] it still has very real impact on our [[human experience]] due to our [[gender schema]]. see [[Why gender exists]]
 
 ### <hr class="footnote"/>
 

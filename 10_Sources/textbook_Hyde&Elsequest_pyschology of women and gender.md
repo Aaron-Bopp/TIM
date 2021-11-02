@@ -109,7 +109,7 @@ source: null
 	- A [[stereotype threat]] is when a person is concerned a negative sterotype affecting their treatment in a situation. This can lead to lower performance and higher stress. There are two pyschological processes that underlie stereotype threat:
 		1. *Underperformance due to extra pressure*: The extra pressure of disproving a stereotype and avoid conflict leads to a lower [[working memory]]
 		2. *Underperformance due to threats of self-integrity and belonging*: If a person's [[self-worth]] or sense of belonging is threatened by a situation will protect themself by setting lower goals, withdrawing from the situation, or having less motivation.
-- Q: What is deindividuation?
+- Q: What is [[deindividuation]]?
 	- A state where the person is anonymous and the [[self|identity]] is not emphasized or demphasized. Individuation brings the identity to the front and of mind and places the person in a social situation. Deindividuation has been shown to remove gender differentials in some studies.
 - [[Identity is a sense of self, not a pattern of traits or behavior]]
 	- Most people who score high on adrogyny scales have definitie cisgender indentities

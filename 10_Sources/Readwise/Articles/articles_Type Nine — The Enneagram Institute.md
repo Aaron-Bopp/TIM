@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Type Nine — The Enneagram Institute"
 - "Type Nine — The Enneagram Institute by enneagraminstitute.com"
 - "enneagraminstitute.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Type Nine — The Enneagram Institute](https://enneagraminstitute.com/type-9)
 
-**Creator**:: enneagraminstitute.com
+**Creator**:: [[enneagraminstitute.com]]
 
 # Highlights
 ##### ^212179680

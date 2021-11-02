@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Historical Foundations of Race"
 - "Historical Foundations of Race by nmaahc.si.edu"
 - "nmaahc.si.edu"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Historical Foundations of Race](https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race)
 
-**Creator**:: nmaahc.si.edu
+**Creator**:: [[nmaahc.si.edu]]
 
 # Highlights
 ##### ^222800096

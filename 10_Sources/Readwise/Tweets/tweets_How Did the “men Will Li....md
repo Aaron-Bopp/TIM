@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "How Did the “men Will Li..."
 - "How Did the “men Will Li... by @vgr on Twitter"
 - "@vgr on Twitter"
-tags: node/source/tweets
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [How Did the “men Will Li...](https://twitter.com/vgr/status/1450862047420243971)
 
-**Creator**:: @vgr on Twitter
+**Creator**:: [[@vgr on Twitter]]
 
 # Highlights
 ##### ^240356592

@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "What We Do — Radical in Progress"
 - "What We Do — Radical in Progress by radicalinprogress.org"
 - "radicalinprogress.org"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [What We Do — Radical in Progress](https://radicalinprogress.org/about)
 
-**Creator**:: radicalinprogress.org
+**Creator**:: [[radicalinprogress.org]]
 
 # Highlights
 ##### ^212884569

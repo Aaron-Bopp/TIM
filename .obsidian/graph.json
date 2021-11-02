@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": " -path:\"00_Meta\" ",
+  "search": "-path:\"00_Meta\" ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,52 +15,52 @@
       }
     },
     {
-      "query": "tag:#evergreen",
+      "query": "tag:#node/evergreen",
       "color": {
         "a": 1,
-        "rgb": 3258113
+        "rgb": 2590212
       }
     },
     {
-      "query": "path:\"20 Entry\"",
+      "query": "path:\"20_Entry\"",
       "color": {
         "a": 1,
         "rgb": 15188749
       }
     },
     {
-      "query": "tag:#topic/tool",
+      "query": "tag:#node/tool",
       "color": {
         "a": 1,
         "rgb": 11480218
       }
     },
     {
-      "query": "tag:#topic/stub",
+      "query": "tag:#node/topic/stub",
       "color": {
         "a": 1,
         "rgb": 6380360
       }
     },
     {
-      "query": "tag:#topic/term",
+      "query": "tag:#node/topic/term",
       "color": {
         "a": 1,
         "rgb": 11432514
       }
     },
     {
-      "query": "tag:#topic/technique",
+      "query": "tag:#node/technique",
       "color": {
         "a": 1,
         "rgb": 10693903
       }
     },
     {
-      "query": "tag:#topic/outline",
+      "query": "tag:#node/topic/outline",
       "color": {
         "a": 1,
-        "rgb": 8473865
+        "rgb": 8801540
       }
     },
     {
@@ -74,13 +74,13 @@
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 0.748529411764706,
-  "lineSizeMultiplier": 0.532352941176471,
+  "nodeSizeMultiplier": 0.981639705882353,
+  "lineSizeMultiplier": 0.543882352941176,
   "collapse-forces": false,
-  "centerStrength": 0.476470588235294,
-  "repelStrength": 14.6102941176471,
+  "centerStrength": 0.609936575052854,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.07455602942955396,
+  "scale": 0.08927052366691163,
   "close": false
 }

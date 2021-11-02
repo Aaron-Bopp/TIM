@@ -39,7 +39,7 @@ Bhikshu, Kusala. “Buddhist [[Enlightenment]] vs. Nirvana.” _UrbanDharma_. Ur
 
 “Buddhism Origins.” _Patheos Library_. Avalon Consulting, n.d. Web. 24 Aug. 2013. <http://www.patheos.com/Library/Buddhism.html>.
 
-“[[Hinduism]]: the Caste System, [[Reincarnation]] and [[Karma]].” _Oriental Philosophy_. Lander [[Philosophy]], n.d. Web. 24 Aug. 2013. <http://philosophy.lander.edu/oriental/caste.html>.
+“[[Hinduism]]: the Caste System, [[Reincarnation]] and [[Karma]].” _Oriental Philosophy_. Lander [[philosophy]], n.d. Web. 24 Aug. 2013. <http://philosophy.lander.edu/oriental/caste.html>.
 
 Lane, Susan. “Rebirth vs. [[Reincarnation]].” _AngeFire_. Fair Tibet, n.d. Web. 24 Aug. 2013. <http://www.angelfire.com/yt/fairtibet/rebirth.html>.
 
@@ -74,7 +74,7 @@ Bhikshu, Kusala. “Buddhist [[Enlightenment]] vs. Nirvana.” _UrbanDharma_. Ur
 
 “Buddhism Origins.” _Patheos Library_. Avalon Consulting, n.d. Web. 24 Aug. 2013. <http://www.patheos.com/Library/Buddhism.html>.
 
-“[[Hinduism]]: the Caste System, [[Reincarnation]] and [[Karma]].” _Oriental Philosophy_. Lander [[Philosophy]], n.d. Web. 24 Aug. 2013. <http://philosophy.lander.edu/oriental/caste.html>.
+“[[Hinduism]]: the Caste System, [[Reincarnation]] and [[Karma]].” _Oriental Philosophy_. Lander [[philosophy]], n.d. Web. 24 Aug. 2013. <http://philosophy.lander.edu/oriental/caste.html>.
 
 Lane, Susan. “Rebirth vs. [[Reincarnation]].” _AngeFire_. Fair Tibet, n.d. Web. 24 Aug. 2013. <http://www.angelfire.com/yt/fairtibet/rebirth.html>.
 

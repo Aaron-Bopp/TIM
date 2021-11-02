@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging"
 - "An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging by Jared A. Nielsen, Brandon A. Zielinski, Michael A. Ferguson, Janet E. Lainhart, Jeffrey S. Anderson"
 - "Jared A. Nielsen, Brandon A. Zielinski, Michael A. Ferguson, Janet E. Lainhart, Jeffrey S. Anderson"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275)
 
-**Creator**:: Jared A. Nielsen, Brandon A. Zielinski, Michael A. Ferguson, Janet E. Lainhart, Jeffrey S. Anderson
+**Creator**:: [[Jared A. Nielsen, Brandon A. Zielinski, Michael A. Ferguson, Janet E. Lainhart, Jeffrey S. Anderson]]
 
 # Highlights
 ##### ^241310052

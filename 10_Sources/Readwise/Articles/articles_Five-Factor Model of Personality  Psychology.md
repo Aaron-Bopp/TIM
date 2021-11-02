@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Five-Factor Model of Personality | Psychology"
 - "Five-Factor Model of Personality | Psychology by britannica.com"
 - "britannica.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Five-Factor Model of Personality | Psychology](https://www.britannica.com/science/five-factor-model-of-personality)
 
-**Creator**:: britannica.com
+**Creator**:: [[britannica.com]]
 
 # Highlights
 ##### ^242142331

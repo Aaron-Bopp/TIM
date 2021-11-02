@@ -2,28 +2,6 @@
   "userHierarchies": [
     {
       "up": [
-        "Related-Topics"
-      ],
-      "same": [
-        "→"
-      ],
-      "down": [
-        "embedded"
-      ]
-    },
-    {
-      "up": [
-        "Location"
-      ],
-      "same": [
-        ""
-      ],
-      "down": [
-        ""
-      ]
-    },
-    {
-      "up": [
         "parent"
       ],
       "same": [
@@ -32,13 +10,47 @@
       "down": [
         "child"
       ]
+    },
+    {
+      "up": [
+        "See"
+      ],
+      "same": [
+        ""
+      ],
+      "down": [
+        ""
+      ]
+    },
+    {
+      "up": [
+        "Topics"
+      ],
+      "same": [
+        ""
+      ],
+      "down": [
+        ""
+      ]
+    },
+    {
+      "up": [
+        "Parents"
+      ],
+      "same": [
+        ""
+      ],
+      "down": [
+        ""
+      ]
     }
   ],
   "indexNote": [
     "INDEX"
   ],
+  "CSVPaths": "",
   "hierarchyNotes": [
-    "MOTWHierarchy"
+    ""
   ],
   "hierarchyNoteDownFieldName": "child",
   "hierarchyNoteUpFieldName": "parent",
@@ -55,9 +67,10 @@
   "rlLeaf": true,
   "showTrail": true,
   "limitTrailCheckboxStates": {
-    "Related-Topics": true,
-    "Location": true,
-    "parent": true
+    "parent": true,
+    "See": true,
+    "Topics": true,
+    "Parents": true
   },
   "hideTrailFieldName": "hide-trail",
   "trailOrTable": 1,
@@ -70,12 +83,11 @@
   "trailSeperator": "→",
   "respectReadableLineLength": true,
   "limitWriteBCCheckboxStates": {
-    "Related-Topics": false,
-    "Location": false,
     "parent": true,
-    "→": false,
-    "embedded": false,
-    "sibling": false,
+    "See": true,
+    "Topics": true,
+    "Parents": true,
+    "sibling": true,
     "child": true
   },
   "showWriteAllBCsCmd": true,

@@ -25,4 +25,3 @@ good gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.you
 [[2021-05-29]] 05:48 [[ADHD]]: #EVER/SEED/UNPLANTED [ example second brain](https://notes.nicolevanderhoeven.com/Video/Roam+Tour+1+-+Professor+Joel+Chan+-+Zettelkasten+and+Evergreen+Notes+for+Generative+Thought)
 
 [[2021-05-29]] 05:28 #TO/EXPLORE/RESEARCH [dataview and dnd](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/30) [sample campaign notes](https://github.com/ebullient/campaign-notes/tree/main) [obsidian timelines](https://github.com/Darakah/obsidian-timelines)
-

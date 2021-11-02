@@ -13,7 +13,7 @@ Additionally, notes in a [[second brain]] are concept-oriented and atomic, meani
 
 You don't need to know how to cut down a forest when you start spreading seeds. You will strike a balance between the stress of having an unorganized system and the stress of having to design your system. You will gain knowlege by writing anything. All you need to start an evergreen forest is seeds ([[write what you think]]) and a place to plant them ([[Choosing a note writing system]]). You do not need to fully understand the system when you start planting the forest.  While having an unattended forest can be very overwhelming it can also provide the knowledge and context you need in order to choose the correct system and while making a elaborate system can be fun it can also distract you from your work. 
 
-That being said, if you don't know what an evergreen forest looks like you don't know which kind of seeds to plant and how to foster them. Looking to examples and mentors is key in building a [[knowledge management|personal knowledge system]] because [[Learning systems can be a gateway to creating thought]].
+That being said, if you don't know what an evergreen forest looks like you don't know which kind of seeds to plant and how to foster them. Looking to examples and mentors is key in building a [[knowledge management|personal knowledge system]] because [[Learning how systems work can be a gateway to creating thought]].
 
 If you spend to much time is a system that won't be able to flourish in to an evergreen forest, you will be reluctant to switch.  
 

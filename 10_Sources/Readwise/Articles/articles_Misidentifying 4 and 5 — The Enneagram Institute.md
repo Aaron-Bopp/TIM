@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Misidentifying 4 and 5 — The Enneagram Institute"
 - "Misidentifying 4 and 5 — The Enneagram Institute by enneagraminstitute.com"
 - "enneagraminstitute.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Misidentifying 4 and 5 — The Enneagram Institute](https://www.enneagraminstitute.com/misidentifying-4-and-5)
 
-**Creator**:: enneagraminstitute.com
+**Creator**:: [[enneagraminstitute.com]]
 
 # Highlights
 ##### ^214854072

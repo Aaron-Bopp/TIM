@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Research Recitation - GitHub Docs"
 - "Research Recitation - GitHub Docs by docs.github.com"
 - "docs.github.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Research Recitation - GitHub Docs](https://docs.github.com/en/github/copilot/research-recitation)
 
-**Creator**:: docs.github.com
+**Creator**:: [[docs.github.com]]
 
 # Highlights
 ##### ^242142330

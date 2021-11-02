@@ -1,5 +1,4 @@
-<% tp.file.include("[[META]]") %> 
-tags: node/topic/term
+<% tp.file.include("[[META]]") %> node/topic/term
 ---
 
 **See**::

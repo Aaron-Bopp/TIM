@@ -1,11 +1,10 @@
 ---
 created: 2021-06-20
-tags: node/content-note
+tags: node/source/notes
 creator:
-type: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
-- 
-source:
-
+type: 
+- video
+source: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
 ---
 
 ###### [[What is Ego]]

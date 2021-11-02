@@ -21,4 +21,4 @@ Processes are parents to threads, somewhat like the [[Operating Systems|operatin
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
-[^1]: that book eloe linked #TO/DO/FIND 
+[^1]: https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf

@@ -6,7 +6,7 @@
 
     -   How did Plato and Aristotle transform the Greek understanding of the world?
 
--   Early Greek [[Philosophy]]: The Pre-Socratics
+-   Early Greek [[philosophy]]: The Pre-Socratics
 
     -   The Ionian Intellectual [[Revolution]]
 
@@ -52,7 +52,7 @@
 
 -   **Plato (429-347 BCE)**
 
-    -   A Comprehensive System of [[Philosophy]] -- nature and social world
+    -   A Comprehensive System of [[philosophy]] -- nature and social world
 
     -   Not about the Individual, About the Community
 

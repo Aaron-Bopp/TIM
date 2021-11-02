@@ -3,7 +3,6 @@
   "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "links",
     "My Dracula"
   ],
   "translucency": false,

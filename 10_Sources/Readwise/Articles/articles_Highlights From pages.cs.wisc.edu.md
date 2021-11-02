@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Highlights From pages.cs.wisc.edu"
 - "Highlights From pages.cs.wisc.edu by pages.cs.wisc.edu"
 - "pages.cs.wisc.edu"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Highlights From pages.cs.wisc.edu](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)
 
-**Creator**:: pages.cs.wisc.edu
+**Creator**:: [[pages.cs.wisc.edu]]
 
 # Highlights
 ##### ^238238107

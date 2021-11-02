@@ -36,9 +36,7 @@ Source note may be bad term because it is different than an actual source.
 		- why note just create topic notes? its overwhelming to look at everything as infinitely explorable (despite the truth of that statement)
 		- why write terms? helps reduce friction, forget to add to outline but term is already in note, term definition is easily at hand in your own words without leaving your writing space
 	- outline/topics for the purpose of writing - more specific in purpose and scope than proper nouns topics, but still contains thought, closer to atomic evergreen 
-		- ex: [[My Deconstruction journey]], [[Ronald Reagan invented modern conservatism]]
 	- tools/techniques - every technique is a tool, every tools uses techniques, a technique broadly defined is a topic (ie meditation) but not when closely defined (ie deep breathing) but both still cover many concepts/have many effects. a tool can contain many smaller atomic peices (writing a for loop in python, writing a while loop in python)
-		- ex: [[meditation]], [[C (programming language)]]
 	- atomic
 	- automatically linkable
 	- Defin your terms, set you rmedium, prepare you rmind

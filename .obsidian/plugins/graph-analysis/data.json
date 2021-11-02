@@ -1,0 +1,7 @@
+{
+  "noInfinity": true,
+  "noZero": true,
+  "defaultAnalysisType": "Co-Citations",
+  "debugMode": false,
+  "superDebugMode": false
+}

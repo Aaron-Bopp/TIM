@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Highlights From twitter.com"
 - "Highlights From twitter.com by twitter.com"
 - "twitter.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Highlights From twitter.com](https://twitter.com/fluffy_folio/status/1442843735008624654)
 
-**Creator**:: twitter.com
+**Creator**:: [[twitter.com]]
 
 # Highlights
 ##### ^232198686

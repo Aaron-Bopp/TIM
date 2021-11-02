@@ -3,11 +3,6 @@
   padding: 5px 5px;
 }
 
-.editQButton,
-.deleteQButton {
-  float: right;
-}
-
 .savedQ-name {
   background-color: var(--background-secondary-alt);
   padding: 2px 4px;
@@ -17,6 +12,11 @@
 .savedQ-view-q {
   padding: 2px 4px;
   border-radius: 5px;
+}
+
+.editQButton,
+.deleteQButton {
+  float: right;
 }
 
 .savedQ-name:hover,
@@ -37,4 +37,24 @@
   background-color: var(--background-primary-alt);
   padding: 2px 4px;
   border-radius: 5px;
+}
+
+.AC-flashNewSel {
+  animation: flashNewSel 1.5s 1;
+  border-radius: 3px;
+}
+
+@keyframes flashNewSel {
+  0% {
+    background-color: transparent;
+  }
+  10% {
+    background-color: var(--text-highlight-bg);
+  }
+  80% {
+    background-color: var(--text-highlight-bg);
+  }
+  100% {
+    background-color: transparent;
+  }
 }

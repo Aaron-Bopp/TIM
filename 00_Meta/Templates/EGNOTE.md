@@ -1,5 +1,4 @@
-<% tp.file.include("[[META]]") %>
-tags: evergreen
+<% tp.file.include("[[META]]") %> node/evergreen
 ---
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>
 

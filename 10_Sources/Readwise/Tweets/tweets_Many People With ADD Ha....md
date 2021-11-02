@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "'Many People With ADD Ha..."
 - "'Many People With ADD Ha... by @roryreckons on Twitter"
 - "@roryreckons on Twitter"
-tags: node/source/tweets
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: ["Many People With ADD Ha...](https://twitter.com/roryreckons/status/1454697016626352128)
 
-**Creator**:: @roryreckons on Twitter
+**Creator**:: [[@roryreckons on Twitter]]
 
 # Highlights
 ##### ^244104963

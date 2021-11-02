@@ -16,7 +16,7 @@ A second brain is a term that refers to a system of written thought that allows 
 	- Starting your [[second brain]]
 		- [[Write your notes like you're planting an evergreen forest]]
 		- [[write what you think]]
-		- [[Learning systems can be a gateway to creating thought]]
+		- [[Learning how systems work can be a gateway to creating thought]]
 - Methods of Constructing a Second Brain
 	- [[Zettlekassen]]
 	- Notational Velocity

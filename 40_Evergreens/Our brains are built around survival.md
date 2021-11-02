@@ -3,9 +3,9 @@ created: 2021-06-20
 
 tags: node/evergreen
 
-sr-due: 2021-10-31
-sr-interval: 3
-sr-ease: 215
+sr-due: 2021-11-16
+sr-interval: 15
+sr-ease: 235
 ---
 
 #### [[Our brains are built around survival]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

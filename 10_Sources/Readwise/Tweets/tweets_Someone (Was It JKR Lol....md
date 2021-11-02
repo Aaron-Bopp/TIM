@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Someone (Was It JKR? Lol..."
 - "Someone (Was It JKR? Lol... by @visakanv on Twitter"
 - "@visakanv on Twitter"
-tags: node/source/tweets
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Someone (Was It JKR? Lol...](https://twitter.com/visakanv/status/1452562147825762304)
 
-**Creator**:: @visakanv on Twitter
+**Creator**:: [[@visakanv on Twitter]]
 
 # Highlights
 ##### ^242197333

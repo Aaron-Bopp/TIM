@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Summary, part 1 & 2 | We Do This 'Til We Free Us | Study Guide — Radical in Progress"
 - "Summary, part 1 & 2 | We Do This 'Til We Free Us | Study Guide — Radical in Progress by radicalinprogress.org"
 - "radicalinprogress.org"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Summary, part 1 & 2 | We Do This 'Til We Free Us | Study Guide — Radical in Progress](https://radicalinprogress.org/kaba-2021-2)
 
-**Creator**:: radicalinprogress.org
+**Creator**:: [[radicalinprogress.org]]
 
 # Highlights
 ##### ^212884671

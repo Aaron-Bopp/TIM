@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Despite what you've been told, you aren't 'left-brained' or 'right-brained' | Amy Novotney | The Guardian"
 - "Despite what you've been told, you aren't 'left-brained' or 'right-brained' | Amy Novotney | The Guardian by Amy Novotney"
 - "Amy Novotney"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Despite what you've been told, you aren't 'left-brained' or 'right-brained' | Amy Novotney | The Guardian](https://theguardian.com/commentisfree/2013/nov/16/left-right-brain-distinction-myth)
 
-**Creator**:: Amy Novotney
+**Creator**:: [[Amy Novotney]]
 
 # Highlights
 ##### ^241310233

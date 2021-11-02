@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "'What’s *In* the #BuildB..."
 - "'What’s *In* the #BuildB... by @RepBonnie on Twitter"
 - "@RepBonnie on Twitter"
-tags: node/source/tweets
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: ["What’s *In* the \#BuildB...](https://twitter.com/RepBonnie/status/1450493642657964035)
 
-**Creator**:: @RepBonnie on Twitter
+**Creator**:: [[@RepBonnie on Twitter]]
 
 # Highlights
 ##### ^239970883

@@ -17,6 +17,7 @@ tags: node/technique
 	- code:[GitHub - SilentVoid13/Templater: A template plugin for obsidian](https://github.com/SilentVoid13/Templater)
 	- Templates that go on preview[Dynamic Commands | Templater](https://silentvoid13.github.io/Templater/docs/commands/dynamic-command/)
 - [GitHub - elias-sundqvist/obsidian-react-components: Write and use React (Jsx) components in your Obsidian notes.](https://github.com/elias-sundqvist/obsidian-react-components)
+- [Inter-plugin Communication (Expose API to Other Plugins) - Developers & API - Obsidian Forum](https://forum.obsidian.md/t/inter-plugin-communication-expose-api-to-other-plugins/23618)
 - plugin ideas
 	- YAQS (yet another quick search) which allow you to save searches and invoke them in the quick switcher with a leading character
 	- Youtube chapter exporter 

@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Frequently Asked Questions about Transgender People | National Center for Transgender Equality"
 - "Frequently Asked Questions about Transgender People | National Center for Transgender Equality by transequality.org"
 - "transequality.org"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Frequently Asked Questions about Transgender People | National Center for Transgender Equality](https://transequality.org/issues/resources/frequently-asked-questions-about-transgender-people)
 
-**Creator**:: transequality.org
+**Creator**:: [[transequality.org]]
 
 # Highlights
 ##### ^239382804

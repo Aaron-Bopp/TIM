@@ -2,12 +2,12 @@
 created: 2021-06-27
 
 tags: node/evergreen
-sr-due: 2021-10-31
-sr-interval: 3
+sr-due: 2021-11-15
+sr-interval: 13
 sr-ease: 266
 ---
 
-#### [[Learning systems can be a gateway to creating thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Learning how systems work can be a gateway to creating thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This means that sometimes you won't be producing or storing anything until you start learning about a system that properly allow your brain to create output. This is why [[Conceptual notes are lexically superior to atomic notes]] is important.
 

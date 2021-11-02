@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Let’s Talk About the Cor..."
 - "Let’s Talk About the Cor... by @samdylanfinch on Twitter"
 - "@samdylanfinch on Twitter"
-tags: node/source/tweets
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Let’s Talk About the Cor...](https://twitter.com/samdylanfinch/status/1448638027505430540)
 
-**Creator**:: @samdylanfinch on Twitter
+**Creator**:: [[@samdylanfinch on Twitter]]
 
 # Highlights
 ##### ^238993996

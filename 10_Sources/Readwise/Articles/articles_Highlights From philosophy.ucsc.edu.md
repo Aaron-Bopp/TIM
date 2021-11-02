@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Highlights From philosophy.ucsc.edu"
 - "Highlights From philosophy.ucsc.edu by philosophy.ucsc.edu"
 - "philosophy.ucsc.edu"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Highlights From philosophy.ucsc.edu](https://philosophy.ucsc.edu/news-events/colloquia-conferences/GeneologyofMorals.pdf)
 
-**Creator**:: philosophy.ucsc.edu
+**Creator**:: [[philosophy.ucsc.edu]]
 
 # Highlights
 ##### ^212218154

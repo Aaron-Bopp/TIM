@@ -20,7 +20,7 @@ We can [[sympathy|sympathize]] with why somebody did something without excusing 
 > 
 > -- [[tweets_I Don’t Hate TERFs. I Th...|@LilahSturges on Twitter]] 
 
-
+#TO/TEND/CONNECT  [[You can't blame people for failing to rise above their circumstances]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT  

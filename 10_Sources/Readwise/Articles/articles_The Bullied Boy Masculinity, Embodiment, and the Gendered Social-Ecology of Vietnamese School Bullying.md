@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying"
 - "The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying by tandfonline.com"
 - "tandfonline.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying](https://www.tandfonline.com/doi/full/10.1080/09540253.2018.1458076)
 
-**Creator**:: tandfonline.com
+**Creator**:: [[tandfonline.com]]
 
 # Highlights
 ##### ^240545705

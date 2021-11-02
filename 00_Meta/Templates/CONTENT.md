@@ -1,8 +1,8 @@
-<% tp.file.include("[[META]]") %>
-tags: node/source/stub
+<% tp.file.include("[[META]]") %> node/source/stub
 type:
-- 
+  - null 
 ---
+
 ##### [[<% tp.file.title %> ]]
 
 **Creator**::

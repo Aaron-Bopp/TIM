@@ -12,7 +12,7 @@ Since March 2021 I have become very interested in [[knowledge management]] and t
 - Driving principals
 	- [[Write your notes like you're planting an evergreen forest]]
 	- [[write what you think]]
-- General [[Philosophy]]
+- General [[philosophy]]
 	- What is a [[second brain]]?
 		- [[Note storage is important because it defines how you access and retain knowledge]]
 	- How to use a [[web of thought]]

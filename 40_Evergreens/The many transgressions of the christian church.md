@@ -13,7 +13,7 @@ sr-ease: 230
 > Rachel Cook
 
 - [[The biblical christian God is evil and does not deserved to be worshipped]]
-- [[the politicization of the christian church]]
+- [[The Politicization of the Christian Church]]
 
 ### <hr class="footnote"/>
 

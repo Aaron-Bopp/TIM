@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Afraid you’ll jump, even though you don’t want to? High Places Phenomenon explained. - Headspace"
 - "Afraid you’ll jump, even though you don’t want to? High Places Phenomenon explained. - Headspace by headspace.com"
 - "headspace.com"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Afraid you’ll jump, even though you don’t want to? High Places Phenomenon explained. - Headspace](https://headspace.com/articles/high-places-phenomenon)
 
-**Creator**:: headspace.com
+**Creator**:: [[headspace.com]]
 
 # Highlights
 ##### ^242134827

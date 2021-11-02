@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress"
 - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress by radicalinprogress.org"
 - "radicalinprogress.org"
-tags: node/source/articles
+tags: source/articles
 type: 
 - articles
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress](https://www.radicalinprogress.org/nypl-2019-1)
 
-**Creator**:: radicalinprogress.org
+**Creator**:: [[radicalinprogress.org]]
 
 # Highlights
 ##### ^216083543

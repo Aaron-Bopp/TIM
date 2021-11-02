@@ -1,10 +1,10 @@
 ---
-created: 2021-10-31
+created: 2021-11-02
 aliases:
 - "I've Been Reading a Bit..."
 - "I've Been Reading a Bit... by @visakanv on Twitter"
 - "@visakanv on Twitter"
-tags: node/source/tweets
+tags: source/tweets
 type: 
 - tweets
 deliveredBy: 
@@ -18,7 +18,7 @@ deliveredBy:
 
 **Source**:: [I've Been Reading a Bit...](https://twitter.com/visakanv/status/1450889450532134917)
 
-**Creator**:: @visakanv on Twitter
+**Creator**:: [[@visakanv on Twitter]]
 
 # Highlights
 ##### ^240436554
