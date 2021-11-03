@@ -3,22 +3,23 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-10-31
-sr-interval: 1
+sr-due: 2021-11-06
+sr-interval: 4
 sr-ease: 230
 ---
 
 #### [[Gender has historically been non-binary]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-> For as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their internal [[gender]] does not align with the physical features of their body. The Gala, a middle [[gender]] priest class of the Sumerian empire, existed over 4,500 years ago. The [[Indigenous]] cultures of North [[America]] recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Roman emperor Elagabalus (218 AD) insisted on being referred to as Lady rather than Lord, and even put forward a ransom for anyone who could conduct genital [[reconstruction]] surgery. [^1]
-
-[^1]: [[0 That's Gender Dysphoria, FYI#^22272c]]
+> For as long as human civilization has existed, there have been people [^2] whose experience of their internal [[gender]] does not align with the physical features of their body. The Gala, a middle [[gender]] priest class of the Sumerian empire, existed over 4,500 years ago. The [[Indigenous]] cultures of North [[America]] recognized a third gender ([^3]) far before European colonialism, and still do to this day. Roman emperor Elagabalus (218 AD) insisted on being referred to as Lady rather than Lord, and even put forward a ransom for anyone who could conduct genital [[reconstruction]] surgery. [^1]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[gender]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+[^1]: ![[0 That's Gender Dysphoria, FYI#^22272c]]
+[^2]: https://en.wikipedia.org/wiki/Transgender_history
+[^3]: https://en.wikipedia.org/wiki/Third_gender

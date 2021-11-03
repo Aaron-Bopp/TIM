@@ -1,6 +1,6 @@
 ```gallery
 type=grid
 path=00_Meta/Attachments/Graphs
-img_width=500
+div_align=left
 reverseOrder=true
 ```

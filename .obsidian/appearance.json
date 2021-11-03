@@ -1,9 +1,9 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "ITS Theme",
+  "cssTheme": "Sanctum",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "My Dracula"
+    "links"
   ],
   "translucency": false,
   "baseFontSizeAction": false

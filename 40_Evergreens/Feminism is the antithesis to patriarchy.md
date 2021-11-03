@@ -3,13 +3,14 @@ created: 2021-10-10
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-10-31
-sr-interval: 8
+sr-due: 2021-11-25
+sr-interval: 23
 sr-ease: 250
 ---
-#### [[Feminism is the antithesis to patriarchy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#### [[Feminism is the Antithesis to patriarchy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+- [[Anger fuels change]]
 
 ### <hr class="footnote"/>
 

@@ -1,9 +1,9 @@
 ---
 created: 2021-06-27
 tags: node/evergreen
-sr-due: 2021-10-31
-sr-interval: 1
-sr-ease: 228
+sr-due: 2021-11-11
+sr-interval: 9
+sr-ease: 248
 ---
 
 #### [[Choosing a note writing system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,13 +15,14 @@ Possible tools:
 	- which will probably just be your best option [The best note-taking app of 2021 | Capiche](https://capiche.com/e/best-note-taking-app-2021)
 - [[Roam Research]]
 - [[Mem]]
+- [[twitter.com]]
 - Paper notes (slip notes ala [[Zettlekassen]])
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[knowledge management]], [[second brain]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

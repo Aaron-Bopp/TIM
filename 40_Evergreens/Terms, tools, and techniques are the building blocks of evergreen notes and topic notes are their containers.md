@@ -4,13 +4,14 @@ aliases:
   - null
 
 tags: node/evergreen
-sr-due: 2021-10-31
-sr-interval: 1
+sr-due: 2021-11-08
+sr-interval: 6
 sr-ease: 232
 ---
 #### [[Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Term notes]], [[tool notes]], [[technique notes]]
+[[Topics are terms that are too broadly defined]]
 
 - Terms: evergreen, source
 	- definitions are atomic and change over time, but they can also be defined and have a source of truth

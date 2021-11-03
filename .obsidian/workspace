@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d19c38e08f2e3521",
+        "id": "fe1ef1397e25c975",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -65,7 +62,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -120,7 +116,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,9 +214,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md"
-              }
+              "state": {}
             }
           },
           {
@@ -238,7 +231,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,25 +276,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 538.5,
     "collapsed": true
   },
-  "active": "d19c38e08f2e3521",
+  "active": "fe1ef1397e25c975",
   "lastOpenFiles": [
-    "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
-    "30_Topics/@visakanv on Twitter.md",
-    "40_Evergreens/Children do what they see.md",
-    "40_Evergreens/Children in traumatic households expect more love than their parents can give.md",
-    "40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md",
-    "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md",
-    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
-    "40_Evergreens/Sadness is enlightenment and happiness is delusion.md",
-    "30_Topics/sadness.md",
-    "40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md"
+    "40_Evergreens/Imitation is motivated authority figures.md",
+    "20_Entry/QUICKNOTE.md",
+    "40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md",
+    "40_Evergreens/Gender has historically been non-binary.md",
+    "40_Evergreens/The scientific basis of gender.md",
+    "30_Topics/gender.md",
+    "40_Evergreens/Any experience of gender dysphoria is acceptable.md",
+    "10_Sources/C (programming language).md",
+    "lk.md",
+    "20_Entry/_gallery_.md"
   ]
 }

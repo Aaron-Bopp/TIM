@@ -62,7 +62,6 @@ void swap (int * a, int * b){
 	return;
 }
 
-
 //swap(intMemoryAddress, intMemoryAddress);
 swap(&variable, pointer)
 ```

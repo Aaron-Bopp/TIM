@@ -4,9 +4,9 @@ aliases:
   - null
 
 tags: node/evergreen
-sr-due: 2021-10-31
+sr-due: 2021-11-03
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 #### [[Tiktok creates a false sense of unbreakable, expansive, and influential communites]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=EJtNmd1kV44
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Tiktok]], [[internet]], [[algorithmic content]], [[Computer Science]]
+**Topics**:: [[Tiktok]], [[internet]], [[algorithmic content]], [[Computer Science]], [[social justice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

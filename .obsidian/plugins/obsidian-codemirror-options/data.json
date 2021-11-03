@@ -16,14 +16,16 @@
   "containerAttributes": true,
   "syntaxHighlighting": true,
   "autoAlignTables": false,
-  "renderCode": false,
+  "renderCode": true,
   "renderHTML": true,
   "renderChart": false,
   "renderAdmonition": false,
   "renderQuery": false,
-  "renderDataview": false,
+  "renderDataview": true,
   "renderMath": false,
   "renderMathPreview": false,
+  "renderBanner": true,
   "styleCheckBox": true,
+  "allowedYamlKeys": "document-font-size",
   "tokenList": "em|strong|strikethrough|code|linkText|task|internalLink|highlight"
 }

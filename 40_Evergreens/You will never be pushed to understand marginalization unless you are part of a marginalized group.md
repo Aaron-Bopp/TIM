@@ -3,9 +3,9 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-10-31
-sr-interval: 3
-sr-ease: 170
+sr-due: 2021-11-04
+sr-interval: 2
+sr-ease: 150
 ---
 #### [[You will never be pushed to understand marginalization unless you are part of a marginalized group]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

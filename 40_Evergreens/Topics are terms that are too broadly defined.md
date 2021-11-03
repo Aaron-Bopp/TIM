@@ -2,11 +2,10 @@
 created: 2021-10-11
 aliases:
   - null
-
 tags: node/evergreen
-sr-due: 2021-10-31
+sr-due: 2021-11-03
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 #### [[Topics are terms that are too broadly defined]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -14,7 +13,7 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[second brain]]

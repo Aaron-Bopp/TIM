@@ -1,15 +1,15 @@
 {
   "showCLICommands": false,
   "addExtensionsToInternalLinks": "html",
-  "injectAppCSS": "current",
+  "injectAppCSS": "none",
   "injectThemeCSS": false,
-  "customCSSFile": "\"C:\\Users\\aweso\\Documents\\GitHub\\Obsidian-notes\\SecondBrain\\.obsidian\\themes\\ITS Theme.css\"",
+  "customCSSFile": "C:\\Users\\aweso\\Documents\\GitHub\\Obsidian-Notes\\TIM\\.obsidian\\snippets\\bootstrap.css",
   "displayYAMLFrontmatter": false,
-  "linkStrippingBehaviour": "text",
+  "linkStrippingBehaviour": "link",
   "highDPIDiagrams": true,
   "pandoc": null,
   "pdflatex": null,
-  "outputFolder": null,
+  "outputFolder": "C:\\Users\\aweso\\Documents\\GitHub\\Obsidian-Notes\\TIM\\",
   "extraArguments": "",
   "exportFrom": "html"
 }

@@ -3,9 +3,9 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-10-31
-sr-interval: 1
-sr-ease: 230
+sr-due: 2021-11-13
+sr-interval: 11
+sr-ease: 250
 ---
 #### [[Prioritize organization over categorization when outlining topics]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -13,10 +13,10 @@ Try to create MOC's/[[topic note|topics]] when you are overwhelmed, and stop cre
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[note writing]]
+**Topics**:: [[note writing]], [[knowledge management]], [[My Second Brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

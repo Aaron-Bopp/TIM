@@ -3,8 +3,8 @@ created: 2021-10-18
 aliases:
   - What is the cognitive effect of living in a unjust world?
 tags: node/evergreen, node/question
-sr-due: 2021-10-31
-sr-interval: 1
+sr-due: 2021-11-06
+sr-interval: 4
 sr-ease: 217
 ---
 #### [[What is the cognitive effect of living in a unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,6 +17,8 @@ sr-ease: 217
 - [[Anger fuels change]]
 - [[The injustice of endurance]]
 - [[Stupid rules are meant to be broken]]
+- [[Stereotypes are social constructs]]
+- [[empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
 
 ### <hr class="footnote"/>
 

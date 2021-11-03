@@ -56,9 +56,11 @@
   "customjs",
   "advanced-cursors",
   "cross-reference-navigation",
-  "obsidian-webhooks",
   "file-tree-alternative",
   "obsidian-gallery",
   "breadcrumbs",
-  "graph-analysis"
+  "graph-analysis",
+  "obsidian-smart-typography",
+  "obsidian-contextual-typography",
+  "obsidian-webhooks"
 ]
