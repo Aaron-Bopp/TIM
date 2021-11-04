@@ -22,11 +22,13 @@ span.internal-link:hover {
   color: var(--text-accent-hover, var(--text-accent));
 }
 
-tr.analysis-linked {
-  /* display:none */
+tr.analysis-linked td:first-child::before,
+span.analysis-linked::before {
+  content: '🔗 ';
 }
-tr.analysis-not-linked {
-  /* background-color: yellow */
+tr.analysis-not-linked,
+span.analysis-not-linked {
+  /* background-color: yellow; */
 }
 
 td.analysis-measure {
@@ -39,11 +41,13 @@ td.analysis-node {
 select.dropdown.GA-DD {
   line-height: normal;
   padding: 0.2em 1.9em 0.2em 0.4em;
+  width: fit-content;
 }
 
 button.GA-Refresh-Button {
   /* float: right; */
-  margin-left: 10px;
+  margin-left: 5px;
+  padding: 3px;
 }
 
 body.is-mobile .GA-details,

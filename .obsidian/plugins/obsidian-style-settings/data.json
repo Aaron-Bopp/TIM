@@ -133,5 +133,7 @@
   "sanctum@@left-nav-arrows": false,
   "sanctum@@fx-rl": true,
   "sanctum@@show-full-titles": true,
-  "sanctum@@settings": 40
+  "sanctum@@settings": 40,
+  "sanctum@@center-tables": true,
+  "sanctum@@alternate-dataview": true
 }

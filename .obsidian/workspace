@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1ef1397e25c975",
+        "id": "4bd1b05b7d52d17b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "20_Entry/QOUTES.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "META",
-                "matchingCase": true,
+                "query": "tag:#node/qoute",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -62,6 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20_Entry/QOUTES.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -96,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -116,6 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "20_Entry/QOUTES.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +201,7 @@
                   "repelStrength": 11.2684989429175,
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
-                  "scale": 0.9602015516286573,
+                  "scale": 0.8423636175794158,
                   "close": true
                 }
               }
@@ -214,7 +220,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20_Entry/QOUTES.md"
+              }
             }
           },
           {
@@ -231,17 +239,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20_Entry/QOUTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "607de2dd21fe37b2",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {}
             }
           },
           {
@@ -253,7 +254,39 @@
             }
           },
           {
-            "id": "91f5b353732f8ff9",
+            "id": "24878a54d8e13ee7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "324e384c39c95fe5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "14d929761bdd7066",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "96d24248474d98e2",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          },
+          {
+            "id": "01b3adc904632dd4",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-stats",
@@ -261,39 +294,32 @@
             }
           },
           {
-            "id": "360515831208e6a1",
+            "id": "9eba6cddd34d0a50",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
               "state": {}
             }
-          },
-          {
-            "id": "cae772390b1e03b7",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
     "width": 538.5,
     "collapsed": true
   },
-  "active": "fe1ef1397e25c975",
+  "active": "4bd1b05b7d52d17b",
   "lastOpenFiles": [
-    "40_Evergreens/Imitation is motivated authority figures.md",
-    "20_Entry/QUICKNOTE.md",
-    "40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md",
-    "40_Evergreens/Gender has historically been non-binary.md",
-    "40_Evergreens/The scientific basis of gender.md",
-    "30_Topics/gender.md",
-    "40_Evergreens/Any experience of gender dysphoria is acceptable.md",
-    "10_Sources/C (programming language).md",
-    "lk.md",
-    "20_Entry/_gallery_.md"
+    "20_Entry/QOUTES.md",
+    "10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md",
+    "10_Sources/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
+    "00_Meta/Templates/TOPICNOTE.md",
+    "00_Meta/Templates/TOPIC_OUTLINE_HEADER.md",
+    "10_Sources/'Don't be the reason that rules exist' - Nathan Eloe.md",
+    "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
+    "00_Meta/Templates/QOUTE-TEMPLATE.md",
+    "10_Sources/videoTransComingOutStory.md",
+    "30_Topics/Computer Science.md"
   ]
 }

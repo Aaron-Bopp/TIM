@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2132575,
+  "lastSavedStatusID": 2143922,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -283,7 +283,9 @@
     "10_Sources/Readwise/Articles/articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium.md": "11680006",
     "10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md": "11683224",
     "10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md": "11688272",
-    "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md": "11688276"
+    "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md": "11688276",
+    "10_Sources/Readwise/Articles/articles_How To Take Notes From Podcasts With Snipd  Medium.md": "11700445",
+    "10_Sources/Readwise/Articles/articles_Poison.md": "11699643"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false

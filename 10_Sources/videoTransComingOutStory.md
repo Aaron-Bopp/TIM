@@ -11,7 +11,7 @@ type:
 
 ##### [[videoTransComingOutStory ]]
 
-**Creator**:: Abigail Thorn
+**Creator**:: [[Abigail Thorn]]
 
 **Source**:: [Identity: A Trans Coming Out Story | Philosophy Tube ★ - YouTube](https://www.youtube.com/watch?v=AITRzvm0Xtg)
 

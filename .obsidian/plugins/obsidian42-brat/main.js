@@ -220,6 +220,15 @@ var grabCommmunityPluginList = () => __async(void 0, null, function* () {
     console.log("error in grabCommmunityPluginList", error);
   }
 });
+var grabCommmunityThemesList = () => __async(void 0, null, function* () {
+  const themesURL = `https://raw.githubusercontent.com/obsidianmd/obsidian-releases/HEAD/community-css-themes.json`;
+  try {
+    const response = yield (0, import_obsidian3.request)({ url: themesURL });
+    return response === "404: Not Found" ? null : yield JSON.parse(response);
+  } catch (error) {
+    console.log("error in grabCommmunityThemesList", error);
+  }
+});
 
 // src/BetaPlugins.ts
 var import_obsidian4 = __toModule(require("obsidian"));
@@ -405,7 +414,6 @@ Checking for plugin updates COMPLETED`, 1e4);
     const pl = this.plugin.app.plugins;
     const manifests = Object.values(pl.manifests);
     const enabledPlugins = Object.values(pl.plugins).map((p) => p.manifest);
-    console.log(enabledPlugins);
     return enabled ? manifests.filter((manifest) => enabledPlugins.find((pluginName) => manifest.id === pluginName.id)) : manifests.filter((manifest) => !enabledPlugins.find((pluginName) => manifest.id === pluginName.id));
   }
 };
@@ -527,7 +535,7 @@ Plugin reloading .....`, 5e3);
         callback: () => __async(this, null, function* () {
           const communityPlugins = yield grabCommmunityPluginList();
           const communityPluginList = Object.values(communityPlugins).map((p) => {
-            return { display: `Community: ${p.name}  (${p.repo})`, info: p.repo };
+            return { display: `Plugin: ${p.name}  (${p.repo})`, info: p.repo };
           });
           const bratList = Object.values(this.settings.pluginList).map((p) => {
             return { display: "BRAT: " + p, info: p };
@@ -566,6 +574,36 @@ Plugin reloading .....`, 5e3);
           gfs.setSuggesterData(pluginList);
           yield gfs.display((results) => __async(this, null, function* () {
             yield this.app.plugins.enablePlugin(results.info);
+          }));
+        })
+      });
+      this.addCommand({
+        id: "BRAT-openGitHubRepoTheme",
+        name: "Open the GitHub repository for a theme ",
+        callback: () => __async(this, null, function* () {
+          const communityTheme = yield grabCommmunityThemesList();
+          const communityThemeList = Object.values(communityTheme).map((p) => {
+            return { display: `Theme: ${p.name}  (${p.repo})`, info: p.repo };
+          });
+          const gfs = new GenericFuzzySuggester(this);
+          gfs.setSuggesterData(communityThemeList);
+          yield gfs.display((results) => __async(this, null, function* () {
+            if (results.info)
+              window.open(`https://github.com/${results.info}`);
+          }));
+        })
+      });
+      this.addCommand({
+        id: "BRAT-switchTheme",
+        name: "Switch Active Theme ",
+        callback: () => __async(this, null, function* () {
+          const communityThemeList = Object.values(this.app.customCss.themes).map((t) => {
+            return { display: t, info: t };
+          });
+          const gfs = new GenericFuzzySuggester(this);
+          gfs.setSuggesterData(communityThemeList);
+          yield gfs.display((results) => __async(this, null, function* () {
+            this.app.customCss.setTheme(results.info);
           }));
         })
       });

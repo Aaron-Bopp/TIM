@@ -1,11 +1,14 @@
 ---
 created: 2021-09-22
-tags: node/qoute
-source: https://youtu.be/job52mBUvjc?t=142
+aliases:
+  - null
+tags: node/source/qoute
 ---
-> *<span style="color:LightPink;"> 
-> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </span>*
->  <figcaption> John Green <cite>youtube.com</cite> </figcaption>
-**`=length(this.file.inlinks) + length(this.file.outlinks)`**
+> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander
+>
+> <cite>[[John Green]]</cite>
 
-Tags:: 
+%%
+Source:: [how we spend our days - YouTube](https://youtu.be/job52mBUvjc?t=142)
+See:: 
+%%

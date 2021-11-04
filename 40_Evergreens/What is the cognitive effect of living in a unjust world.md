@@ -19,13 +19,15 @@ sr-ease: 217
 - [[Stupid rules are meant to be broken]]
 - [[Stereotypes are social constructs]]
 - [[empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
+- [[Human's will find explanations for inexplainable things]]
+	- [[Humans love to group eachother]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[realism]], [[injustice]], [[anger]]
+**Topics**:: [[realism]], [[injustice]], [[anger]], [[social justice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

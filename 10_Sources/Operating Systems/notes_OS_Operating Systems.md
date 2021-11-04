@@ -11,7 +11,7 @@ type:
 
 ##### [[notes_OS_Operating Systems]]
 
-**Creator**:: [[@Nathan Eloe]]
+**Creator**:: [[Nathan Eloe]]
 
 **Source**:: [[00_intro_to_os 1.pdf]]
 

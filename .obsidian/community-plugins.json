@@ -13,7 +13,6 @@
   "recent-files-obsidian",
   "mrj-add-codemirror-matchbrackets",
   "cm-editor-syntax-highlight-obsidian",
-  "sliding-panes-obsidian",
   "quickadd",
   "supercharged-links-obsidian",
   "darlal-switcher-plus",
@@ -60,7 +59,9 @@
   "obsidian-gallery",
   "breadcrumbs",
   "graph-analysis",
-  "obsidian-smart-typography",
   "obsidian-contextual-typography",
-  "obsidian-webhooks"
+  "obsidian-webhooks",
+  "obsidian-html-tags-autocomplete",
+  "juggl",
+  "obsidian-fullscreen-plugin"
 ]

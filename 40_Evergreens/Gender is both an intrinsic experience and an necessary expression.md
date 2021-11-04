@@ -13,7 +13,7 @@ sr-ease: 230
 
 [[Gender]] sets expectations for how we exist in the world, and it influences how we shape our habits to fit our society. We shape our mannerisms behaviors, communication and expectations to [[conscious|consciously]] and [[subconscious|subconsciously]] to fit our [[gender]] into our [[gender schema]], [[gender identity]], and [[society]]. [[Every person has an experience of gender]], and while these are true for [[cis]] people they are not as aware of this experience or expression of gender as [[transgender|trans]] people. 
 
-This is the best rebuff to, "but they're making it their whole [[personality]]" Of course they are! That's called self-love! The expression of their gender is neccesary for their [[self-love]].
+This is the best rebuff to, "but they're making it their whole [[personality]]" Of course they are! That's called self-love! The expression of their gender is neccesary for their [[self-love]] and that self love is so beautiful and attracts people to you, but remember [[Being cool and marketable isn't the same as having rights]]
 
 An understanding of [[The difference between identity and presentation]] is required.
 
