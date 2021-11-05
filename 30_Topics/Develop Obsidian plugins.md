@@ -20,6 +20,7 @@ tags: node/evergreen/technique
 - [Inter-plugin Communication (Expose API to Other Plugins) - Developers & API - Obsidian Forum](https://forum.obsidian.md/t/inter-plugin-communication-expose-api-to-other-plugins/23618)
 - plugin ideas
 	- YAQS (yet another quick search) which allow you to save searches and invoke them in the quick switcher with a leading character
+		- incremental writing plugin accesses search plugin and adds button
 	- Youtube chapter exporter 
 	- Roam like side bar for notes, headings, and bullets
 	- Plugin which shows notes with the most unlinked mentions, and links to uncreated notes

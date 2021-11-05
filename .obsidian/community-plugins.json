@@ -65,5 +65,6 @@
   "obsidian-fullscreen-plugin",
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-codemirror-options"
+  "obsidian-codemirror-options",
+  "obsidian-hider"
 ]

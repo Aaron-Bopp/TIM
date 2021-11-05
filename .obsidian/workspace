@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/_gallery_.md",
+            "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"stub notes",
+                "query": "tag:#EVER/GREEN/GROWING",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -49,23 +49,12 @@
             }
           },
           {
-            "id": "e5b4565528193b1b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "945ffe61918129cd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/_gallery_.md",
+                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -106,14 +95,32 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/_gallery_.md",
+                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "555e9b453997c003",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5b4565528193b1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/_gallery_.md",
+                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +221,7 @@
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
                   "scale": 0.8423636175794158,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -233,16 +240,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/_gallery_.md"
+                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md"
               }
-            }
-          },
-          {
-            "id": "555e9b453997c003",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
             }
           },
           {
@@ -270,7 +269,7 @@
             }
           },
           {
-            "id": "14d929761bdd7066",
+            "id": "a18eb2b34d878bff",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -278,7 +277,7 @@
             }
           },
           {
-            "id": "96d24248474d98e2",
+            "id": "1137047a51639363",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -286,7 +285,7 @@
             }
           },
           {
-            "id": "1819fc144b258f89",
+            "id": "cf6a87e7226fd02f",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-stats",
@@ -294,32 +293,30 @@
             }
           },
           {
-            "id": "1de8090f75c73add",
+            "id": "6b42d16f14645e2e",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 538.5,
-    "collapsed": true
+    "width": 997
   },
   "active": "8ad50b7e1fc506cd",
   "lastOpenFiles": [
-    "20_Entry/_gallery_.md",
-    "10_Sources/Readwise/Articles/articles_Highlights From twitter.com.md",
-    "10_Sources/Mental Health/videoWhat is Ego.md",
-    "What is Ego.md",
-    "00_Meta/unresolved links output.md",
+    "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
+    "30_Topics/note writing.md",
+    "40_Evergreens/Topics are terms that are too broadly defined.md",
+    "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
     "40_Evergreens/Creating Thought with a Second Brain.md",
-    "40_Evergreens/Journeys.md",
-    "40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md",
-    "40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md",
-    "20_Entry/QUICKNOTE.md"
+    "30_Topics/second brain.md",
+    "30_Topics/Computer Science.md",
+    "40_Evergreens/Using multiple processes vs multiple threads.md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md",
+    "00_Meta/Templates/NOTESCREATEDLISTS.md"
   ]
 }

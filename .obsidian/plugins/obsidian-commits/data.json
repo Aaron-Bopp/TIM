@@ -7774,13 +7774,18 @@
       "size": 2188,
       "tags": 2,
       "links": 6
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md": {
+      "size": 923,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 853,
-      "Create": 1514,
-      "Link": 1967,
+      "Refactor": 854,
+      "Create": 1516,
+      "Link": 1969,
       "Expand": 18
     },
     "40 Evergreens": {
@@ -7792,7 +7797,7 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 23,
+      "0": 28,
       "1": 32,
       "2": 0,
       "3": 2,
@@ -7850,7 +7855,7 @@
       "Tue": 345,
       "Wed": 24,
       "Thu": 194,
-      "Fri": 4,
+      "Fri": 9,
       "Sat": 0,
       "Sun": 3758
     },
@@ -7887,6 +7892,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md\"> tweets_Tweets From Visa Is Stretching (Hips) 🪔 </a>",
         "<a class=\"internal-link\" href=\"What is Ego.md\"> What is Ego </a>",
         "<a class=\"internal-link\" href=\"struggle.md\"> struggle </a>",
         "<a class=\"internal-link\" href=\"compassion.md\"> compassion </a>",
@@ -7935,9 +7942,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality.md\"> articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Taxonomy of note types  Daily working log  Backlinks can be used to implicitly define nodes in knowledge management systems.md\"> articles_Taxonomy of note types  Daily working log  Backlinks can be used to implicitly define nodes in knowledge management systems </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md\"> articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly” </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth.md\"> articles_Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Quantum computing for the very curious.md\"> articles_Quantum computing for the very curious </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md\"> articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly” </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md\"> How Masculinity and the black identity model are represented in 'Moonlight' </a>",
@@ -7993,6 +7998,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/compassion.md\"> compassion </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md\"> tweets_Tweets From Visa Is Stretching (Hips) 🪔 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/struggle.md\"> struggle </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
@@ -8042,14 +8048,14 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_COVID-19 and the Other Pandemic.md\"> articles_COVID-19 and the Other Pandemic </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Highlights From twitter.com.md\"> articles_Highlights From twitter.com </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_VSCodeVimVim Vim for Visual Studio Code.md\"> articles_VSCodeVimVim Vim for Visual Studio Code </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_VIM Mode - Quality of Life Improvements.md\"> articles_VIM Mode - Quality of Life Improvements </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Highlights From pages.cs.wisc.edu.md\"> articles_Highlights From pages.cs.wisc.edu </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_VIM Mode - Quality of Life Improvements.md\"> articles_VIM Mode - Quality of Life Improvements </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"What is Ego.md\"> What is Ego </a>",
         "<a class=\"internal-link\" href=\"00_Meta/unresolved links output.md\"> unresolved links output </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Journeys.md\"> Journeys </a>",
@@ -8099,10 +8105,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md\"> articles_Research Recitation - GitHub Docs </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Replacement prod.pdf.md\"> articles_Replacement prod.pdf </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Rank and File — Real Life.md\"> articles_Rank and File — Real Life </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Quantum computing for the very curious.md\"> articles_Quantum computing for the very curious </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators.md\"> articles_National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Quantum computing for the very curious.md\"> articles_Quantum computing for the very curious </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md\"> tweets_Tweets From Visa Is Stretching (Hips) 🪔 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md\"> How Masculinity and the black identity model are represented in 'Moonlight' </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md\"> Stereotyping has the pyschological goal of comprehension and self-enhancement </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md\"> You will never be pushed to understand marginalization unless you are part of a marginalized group </a>",
@@ -8152,8 +8158,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in a unjust world.md\"> What is the cognitive effect of living in a unjust world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Computer Science.md\"> Computer Science </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Poison.md\"> articles_Poison </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Don't be the reason that rules exist.md\"> Don't be the reason that rules exist </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Software Development.md\"> Software Development </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Don't be the reason that rules exist.md\"> Don't be the reason that rules exist </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
