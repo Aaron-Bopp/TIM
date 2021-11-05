@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Type Nine — The Enneagram Institute"
-- "Type Nine — The Enneagram Institute by enneagraminstitute.com"
-- "enneagraminstitute.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "Type Nine — The Enneagram Institute"
+  - "Type Nine — The Enneagram Institute by enneagraminstitute.com"
+  - "enneagraminstitute.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # Type Nine — The Enneagram Institute
 

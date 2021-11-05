@@ -7,7 +7,7 @@ type:
 source: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
 ---
 
-###### [[What is Ego]]
+###### What is Ego
 
 https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8
 

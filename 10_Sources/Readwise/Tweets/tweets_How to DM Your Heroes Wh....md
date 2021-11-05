@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "How to DM Your Heroes Wh..."
-- "How to DM Your Heroes Wh... by @visakanv on Twitter"
-- "@visakanv on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "How to DM Your Heroes Wh..."
+  - "How to DM Your Heroes Wh... by @visakanv on Twitter"
+  - "@visakanv on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # How to DM Your Heroes Wh...
 

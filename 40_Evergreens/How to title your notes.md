@@ -11,7 +11,7 @@ Many different systems have different ways of titling notes. In traditional [[Ze
 
 [[evergreen notes]] systems take a different approach. Note's are usually written completely in plain text and sometimes contain special marker symbols. [[Andy Matuschak]] said that note title's should be like [[API]]'s. This is to mean that note titles convey the necessary information for knowing what kind of information is in the note. This method provides notes that are more easily interpreted when linked, or when seen in a file structure.
 
-In [[My Second Brain]] this is how I title note's
+In [[My TIM]] this is how I title note's
 The only constraint on the way notes are titled is uniqueness. If you are creating a new note and run into a naming conflict it can mean one of a few things.
 1. The old note's title is too broad and should be changed
 2. the new note's title is too broad and should be changed
@@ -28,6 +28,6 @@ Note titles can also very on their use within the [[web of thought]]. [[Webs of 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Zettlekassen]], [[second brain]], [[web of thought]], [[My Second Brain]], [[evergreen notes]], [[note writing]]
+**Topics**:: [[Zettlekassen]], [[second brain]], [[web of thought]], [[My TIM]], [[evergreen notes]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

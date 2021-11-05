@@ -12,7 +12,10 @@ sr-ease: 231
 #### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Parents need to model the ability to deal with emotion to their children]]
-- [[early childhood development]]
+- [[Children in traumatic households expect more love than their parents can give]]
+- [[Children do what they see]]
+- [[Imitation is motivated by authority figures]]
+- [[childhood]]
 - [[Self-hatred is born out of dissonance between self-image and self-perception]]
 - [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]

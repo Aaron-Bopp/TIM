@@ -3,11 +3,13 @@ created: 2021-10-11
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-03
-sr-interval: 1
+sr-due: 2021-11-07
+sr-interval: 3
 sr-ease: 210
 ---
 #### [[Topics are terms that are too broadly defined]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/TEND/REFACTOR whole note
 
 [[Term notes]] can be narrowed down to a short definition, but topic notes cannot. You can go back to a source of truth for a theory or word, but not a topic. That isn't to say that the definitions or terms will never change, but that we are searching to define them. Topics cannot be defined because they hold so many definitions and are capturing a breadth of content. [[Topic note]]s are useful in their lack of edges, while [[Term notes]] are useful only inside thier edges.
 

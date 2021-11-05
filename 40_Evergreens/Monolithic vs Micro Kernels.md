@@ -2,11 +2,10 @@
 created: 2021-10-14
 aliases:
   - null
-
 tags: node/evergreen
-sr-due: 2021-11-01
-sr-interval: 4
-sr-ease: 270
+sr-due: 2021-11-27
+sr-interval: 23
+sr-ease: 290
 ---
 #### [[Monolithic vs Micro Kernels]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

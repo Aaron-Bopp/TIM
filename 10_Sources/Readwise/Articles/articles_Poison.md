@@ -1,15 +1,15 @@
 ---
 created: 2021-11-03
 aliases:
-- "Poison"
-- "Poison by newsletter.eleanorkonik.com"
-- "newsletter.eleanorkonik.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "Poison"
+  - "Poison by newsletter.eleanorkonik.com"
+  - "newsletter.eleanorkonik.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # Poison
 

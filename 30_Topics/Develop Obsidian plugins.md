@@ -4,7 +4,7 @@ aliases:
   - make obsidian plugins
   - developing obsidian plugins
   - Plugin Ideas
-tags: node/technique
+tags: node/evergreen/technique
 ---
 
 **See**:: [[programming]], [[Software Development]]

@@ -3,9 +3,9 @@ created: 2021-09-27
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-03
-sr-interval: 11
-sr-ease: 250
+sr-due: 2021-12-12
+sr-interval: 38
+sr-ease: 270
 ---
 #### [[Using github with Unity projects]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

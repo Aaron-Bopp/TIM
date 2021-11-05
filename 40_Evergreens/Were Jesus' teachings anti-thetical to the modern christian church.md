@@ -2,13 +2,13 @@
 created: 2021-06-28
 tags: node/evergreen
 aliases:
-  - "Were Jesus' teachings are anti-thetical to the modern christian church?"
-sr-due: 2021-11-02
-sr-interval: 5
+  - "Were Jesus' teachings anti-thetical to the modern christian church?"
+sr-due: 2021-11-16
+sr-interval: 12
 sr-ease: 230
 ---
 
-#### [[Were Jesus' teachings are anti-thetical to the modern christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Were Jesus' teachings anti-thetical to the modern christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Jesus was a radical socialist who fought against power for oppressed people using teachings that involved morals and ethics. 
 

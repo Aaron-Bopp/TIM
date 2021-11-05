@@ -15,14 +15,14 @@ aliases:
 ##### [[note writing]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Thoughts on kinds of notes
 	- [[Topics are terms that are too broadly defined]]
-	- [[Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers]]
+	- [[The fragility of nodes in a second brain]]
 - Note taxonomy
 	- [[Term notes]]
 	- [[evergreen notes]]
-	- [[source note]]
+	- [[source notes]]
 	- [[topic note]]
 - How to write notes
-	- [[write what you think]]
+	- [[Write what you think]]
 	- 
 
 ### <hr class="dataviews"/>

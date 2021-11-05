@@ -1,15 +1,17 @@
 ---
 created: 2021-11-02
 aliases:
-- "Do it or Forget it — How to Think Less and Achieve More | by Tom Klima | Oct, 2021 | Medium"
-- "Do it or Forget it — How to Think Less and Achieve More | by Tom Klima | Oct, 2021 | Medium by Tom Klima"
-- "Tom Klima"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "Do it or Forget it — How to Think Less and Achieve More | by Tom Klima |
+    Oct, 2021 | Medium"
+  - "Do it or Forget it — How to Think Less and Achieve More | by Tom Klima |
+    Oct, 2021 | Medium by Tom Klima"
+  - "Tom Klima"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # Do it or Forget it — How to Think Less and Achieve More | by Tom Klima | Oct, 2021 | Medium
 

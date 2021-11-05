@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Five-Factor Model of Personality"
-- "Five-Factor Model of Personality by oxfordbibliographies.com"
-- "oxfordbibliographies.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Five-Factor Model of Personality"
+  - "Five-Factor Model of Personality by oxfordbibliographies.com"
+  - "oxfordbibliographies.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Five-Factor Model of Personality
 

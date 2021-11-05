@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Research Recitation - GitHub Docs"
-- "Research Recitation - GitHub Docs by docs.github.com"
-- "docs.github.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Research Recitation - GitHub Docs"
+  - "Research Recitation - GitHub Docs by docs.github.com"
+  - "docs.github.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Research Recitation - GitHub Docs
 

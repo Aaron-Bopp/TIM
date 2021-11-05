@@ -14,7 +14,7 @@ tags: node/evergreen
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[early childhood development]]
+**Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[childhood]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 `$=customJS.dv_funcs.outlinedIn(dv, this)`
 

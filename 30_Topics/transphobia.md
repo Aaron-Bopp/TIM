@@ -1,5 +1,7 @@
 ---
 created: 2021-10-19
+aliases:
+  - transphobic
 tags: node/topic/stub
 ---
 

@@ -16,6 +16,6 @@ Tags become much more powerful through the use of various plugins. Tags can be u
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[My Second Brain]], [[Obsidian (software)]]
+**Topics**:: [[My TIM]], [[Obsidian (software)]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

@@ -1,15 +1,17 @@
 ---
 created: 2021-11-02
 aliases:
-- "Afraid you’ll jump, even though you don’t want to? High Places Phenomenon explained. - Headspace"
-- "Afraid you’ll jump, even though you don’t want to? High Places Phenomenon explained. - Headspace by headspace.com"
-- "headspace.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "Afraid you’ll jump, even though you don’t want to? High Places Phenomenon
+    explained. - Headspace"
+  - "Afraid you’ll jump, even though you don’t want to? High Places Phenomenon
+    explained. - Headspace by headspace.com"
+  - "headspace.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # Afraid you’ll jump, even though you don’t want to? High Places Phenomenon explained. - Headspace
 

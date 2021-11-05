@@ -13,9 +13,8 @@ This means that sometimes you won't be producing or storing anything until you s
 One major example of this is [[Creating Thought with a Second Brain]].
 #TO/TEND/CONCEPTUALIZE how these concepts help you create thought
 - [[Note structures should be loosely defined]]
-- [[write what you think]]
+- [[Write what you think]]
 - [[evergreen notes]]/[[Write your notes like you're planting an evergreen forest]]
-
 
 ### <hr class="footnote"/>
 

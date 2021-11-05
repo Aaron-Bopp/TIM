@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Type Eight — The Enneagram Institute"
-- "Type Eight — The Enneagram Institute by enneagraminstitute.com"
-- "enneagraminstitute.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "Type Eight — The Enneagram Institute"
+  - "Type Eight — The Enneagram Institute by enneagraminstitute.com"
+  - "enneagraminstitute.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # Type Eight — The Enneagram Institute
 

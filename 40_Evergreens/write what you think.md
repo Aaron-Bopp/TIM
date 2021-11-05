@@ -7,7 +7,7 @@ sr-interval: 23
 sr-ease: 250
 ---
 
-#### [[write what you think]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Write what you think]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Starting to write notes can be intimidating for many reasons, one of which being that you don't know what to write about. The beauty of a [[second brain]] is that it is meant to be an extension of your thought. This means you can write about anything that you are thinking about and soon you will be realizing that your thinking is better. Then you will be ready to [[Write your notes like you're planting an evergreen forest]] #TO/TEND/REFACTOR this connection
 
@@ -20,6 +20,6 @@ Starting to write notes can be intimidating for many reasons, one of which being
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[My Second Brain]],  [[note writing]]
+**Topics**:: [[My TIM]],  [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

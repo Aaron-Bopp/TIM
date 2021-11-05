@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "VIM Mode - Quality of Life Improvements"
-- "VIM Mode - Quality of Life Improvements by forum.obsidian.md"
-- "forum.obsidian.md"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "web_clipper"
+  - "VIM Mode - Quality of Life Improvements"
+  - "VIM Mode - Quality of Life Improvements by forum.obsidian.md"
+  - "forum.obsidian.md"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "web_clipper"
 ---
 # VIM Mode - Quality of Life Improvements
 

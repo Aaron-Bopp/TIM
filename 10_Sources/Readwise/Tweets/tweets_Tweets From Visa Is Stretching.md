@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Tweets From Visa Is Stretching"
-- "Tweets From Visa Is Stretching by @visakanv on Twitter"
-- "@visakanv on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "Tweets From Visa Is Stretching"
+  - "Tweets From Visa Is Stretching by @visakanv on Twitter"
+  - "@visakanv on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # Tweets From Visa Is Stretching
 

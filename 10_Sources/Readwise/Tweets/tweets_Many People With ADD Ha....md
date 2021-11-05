@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "'Many People With ADD Ha..."
-- "'Many People With ADD Ha... by @roryreckons on Twitter"
-- "@roryreckons on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "'Many People With ADD Ha..."
+  - "'Many People With ADD Ha... by @roryreckons on Twitter"
+  - "@roryreckons on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # "Many People With ADD Ha...
 

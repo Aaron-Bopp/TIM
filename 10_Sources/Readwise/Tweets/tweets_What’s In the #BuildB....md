@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "'What’s *In* the #BuildB..."
-- "'What’s *In* the #BuildB... by @RepBonnie on Twitter"
-- "@RepBonnie on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "'What’s *In* the #BuildB..."
+  - "'What’s *In* the #BuildB... by @RepBonnie on Twitter"
+  - "@RepBonnie on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # "What’s *In* the \#BuildB...
 

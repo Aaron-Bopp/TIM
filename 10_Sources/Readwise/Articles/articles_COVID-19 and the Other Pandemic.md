@@ -1,13 +1,13 @@
 ---
 created: 2021-11-02
 aliases:
-- "COVID-19 and the Other Pandemic"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "COVID-19 and the Other Pandemic"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # COVID-19 and the Other Pandemic
 

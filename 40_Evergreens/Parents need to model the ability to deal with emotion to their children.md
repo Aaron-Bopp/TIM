@@ -4,14 +4,14 @@ tags: node/evergreen
 aliases:
   - Confidence comes from empathic mirroring in childhood
   - model the ability to deal with emotion to their children
-sr-due: 2021-11-01
-sr-interval: 4
-sr-ease: 271
+sr-due: 2021-11-30
+sr-interval: 26
+sr-ease: 291
 ---
 
 #### [[Parents need to model the ability to deal with emotion to their children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-During [[early childhood development]], it is incredibly important that the [[parents]] model [[self soothing]], [[self care]], [[self-love|self-validation]], but if [[parents]] fail to teach these things sometimes the opposite can be taught
+During [[childhood]], it is incredibly important that the [[parents]] model [[self soothing]], [[self care]], [[self-love|self-validation]], but if [[parents]] fail to teach these things sometimes the opposite can be taught
 
 - <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have felt permanently guilty for no reason since I was like 8 years old</p>&mdash; Brooke Schofield (@BroookeAmber) <a href="https://twitter.com/BroookeAmber/status/1452002738078830594?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 

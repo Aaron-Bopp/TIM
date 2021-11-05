@@ -19,6 +19,6 @@ Systems change. Security is important. You want ultimate control over your data.
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[My Second Brain]], [[second brain]], 
+**Topics**:: [[My TIM]], [[second brain]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

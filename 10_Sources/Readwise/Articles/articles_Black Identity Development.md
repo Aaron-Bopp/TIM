@@ -1,13 +1,13 @@
 ---
 created: 2021-11-02
 aliases:
-- "Black Identity Development"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Black Identity Development"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Black Identity Development
 

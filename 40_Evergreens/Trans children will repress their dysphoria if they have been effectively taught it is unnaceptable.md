@@ -21,7 +21,7 @@ This is why [[You can discover your transness at any point in life]] and [[Any e
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[transgender]], [[early childhood development]]
+**Topics**:: [[transgender]], [[childhood]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

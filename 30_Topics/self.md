@@ -6,7 +6,7 @@ aliases:
 - self-concept
 date modified: Monday, October 4th 2021, 9:58:06 pm
 ---
- Human's own conception of their [[self]] is dependent on many things including their [[early childhood development]], [[socialization]], and their [[perception]] of the world.
+ Human's own conception of their [[self]] is dependent on many things including their [[childhood]], [[socialization]], and their [[perception]] of the world.
 **Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 

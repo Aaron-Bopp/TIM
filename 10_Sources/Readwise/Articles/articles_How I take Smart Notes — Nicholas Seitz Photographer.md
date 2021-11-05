@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "How I take Smart Notes — Nicholas Seitz Photographer"
-- "How I take Smart Notes — Nicholas Seitz Photographer by Nick Seitz"
-- "Nick Seitz"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "How I take Smart Notes — Nicholas Seitz Photographer"
+  - "How I take Smart Notes — Nicholas Seitz Photographer by Nick Seitz"
+  - "Nick Seitz"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # How I take Smart Notes — Nicholas Seitz Photographer
 

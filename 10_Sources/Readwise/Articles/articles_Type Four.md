@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Type Four"
-- "Type Four by enneagraminstitute.com"
-- "enneagraminstitute.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Type Four"
+  - "Type Four by enneagraminstitute.com"
+  - "enneagraminstitute.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Type Four
 

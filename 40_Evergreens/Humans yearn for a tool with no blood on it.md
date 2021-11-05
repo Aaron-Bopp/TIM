@@ -1,10 +1,10 @@
-When Was America Great?: The Daily Show - YouTube10-22
+---
+created: 2021-10-22
 aliases:
-- 
-
-tags: evergreen
-sr-due: 2021-10-27
-sr-interval: 2
+  - null
+tags: node/evergreen
+sr-due: 2021-11-19
+sr-interval: 15
 sr-ease: 230
 ---
 #### [[Humans yearn for a tool with no blood on it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

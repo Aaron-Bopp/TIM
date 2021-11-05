@@ -14,6 +14,6 @@ Every thought exists in time and space only through it's connection to other tho
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[second brain]], [[knowledge management]], [[evergreen notes]], [[My Second Brain]] 
+**Topics**:: [[second brain]], [[knowledge management]], [[evergreen notes]], [[My TIM]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

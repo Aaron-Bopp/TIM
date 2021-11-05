@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "The Next Chapter of Readwise: Our Own Reading App"
-- "The Next Chapter of Readwise: Our Own Reading App by blog.readwise.io"
-- "blog.readwise.io"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "The Next Chapter of Readwise: Our Own Reading App"
+  - "The Next Chapter of Readwise: Our Own Reading App by blog.readwise.io"
+  - "blog.readwise.io"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # The Next Chapter of Readwise: Our Own Reading App
 

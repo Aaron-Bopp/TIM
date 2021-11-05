@@ -48,7 +48,7 @@ This is a constantly updated index of entry points and topics for my personal fl
 - [[Computer Science]]
 ### Knowledge Management
 - [[second brain]]
-- [[My Second Brain]]
+- [[My TIM]]
 - [[note writing]]
 # Topic Outlines
 - 

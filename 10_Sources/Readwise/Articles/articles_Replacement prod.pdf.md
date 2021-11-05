@@ -1,13 +1,13 @@
 ---
 created: 2021-11-02
 aliases:
-- "Replacement prod.pdf"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Replacement prod.pdf"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Replacement prod.pdf
 

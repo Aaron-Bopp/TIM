@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "I Don’t Hate TERFs. I Th..."
-- "I Don’t Hate TERFs. I Th... by @LilahSturges on Twitter"
-- "@LilahSturges on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "I Don’t Hate TERFs. I Th..."
+  - "I Don’t Hate TERFs. I Th... by @LilahSturges on Twitter"
+  - "@LilahSturges on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # I Don’t Hate TERFs. I Th...
 

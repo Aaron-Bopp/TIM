@@ -1,6 +1,6 @@
 {
   "outputFileName": "unlinked files output",
-  "disableWorkingLinks": false,
+  "disableWorkingLinks": true,
   "directoriesToIgnore": [],
   "filesToIgnore": [],
   "fileTypesToIgnore": [],
@@ -11,7 +11,7 @@
   "ignoreDirectories": true,
   "unresolvedLinksOutputFileName": "unresolved links output",
   "unresolvedLinksDirectoriesToIgnore": [
-    "D&D/"
+    "00_Meta/"
   ],
   "unresolvedLinksFilesToIgnore": [],
   "unresolvedLinksFileTypesToIgnore": [],

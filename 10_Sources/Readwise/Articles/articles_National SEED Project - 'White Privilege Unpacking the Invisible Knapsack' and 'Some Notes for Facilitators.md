@@ -1,15 +1,17 @@
 ---
 created: 2021-11-02
 aliases:
-- "National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators"
-- "National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators by nationalseedproject.org"
-- "nationalseedproject.org"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack'
+    and 'Some Notes for Facilitators"
+  - "National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack'
+    and 'Some Notes for Facilitators by nationalseedproject.org"
+  - "nationalseedproject.org"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators
 

@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Someone (Was It JKR? Lol..."
-- "Someone (Was It JKR? Lol... by @visakanv on Twitter"
-- "@visakanv on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "Someone (Was It JKR? Lol..."
+  - "Someone (Was It JKR? Lol... by @visakanv on Twitter"
+  - "@visakanv on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # Someone (Was It JKR? Lol...
 

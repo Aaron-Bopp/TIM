@@ -1,4 +1,4 @@
-<% tp.file.include("[[META]]") %> node/source/qoute
+<% tp.file.include("[[META]]") %> node/source/qoutes
 ---
 > <% tp.file.title %>
 >

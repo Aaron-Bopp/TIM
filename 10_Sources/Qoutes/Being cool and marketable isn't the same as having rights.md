@@ -1,8 +1,8 @@
 ---
-created: 2021-11-04 
+created: 2021-11-04
 aliases:
   - null
-tags: node/source/qoute
+tags: node/source/qoutes
 ---
 > Being cool and marketable isn't the same as having rights
 >

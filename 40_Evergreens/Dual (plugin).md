@@ -1,7 +1,7 @@
 
 ---
 created: 2021-06-13
-tags: node/tool
+tags: node/topic/tool
 ---
 
 #### [[Dual (plugin)]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -79,7 +79,7 @@ source: null
 
 
 ## Lifespan development
-- **Temperament** (in [[early childhood development]]) => biologically based emotional and behavioral traits that appear early in life and predict later behaviors, personality, and pyschological problems.
+- **Temperament** (in [[childhood]]) => biologically based emotional and behavioral traits that appear early in life and predict later behaviors, personality, and pyschological problems.
 	- few gender differences exist in temperament 
 		- activity differences (males more active) this difference grows into adolescence and shrinks into near obscurity in adulthood
 		- impulsivity (less in females)

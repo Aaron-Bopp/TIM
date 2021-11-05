@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Rank and File — Real Life"
-- "Rank and File — Real Life by Os Keyes"
-- "Os Keyes"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "Rank and File — Real Life"
+  - "Rank and File — Real Life by Os Keyes"
+  - "Os Keyes"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # Rank and File — Real Life
 

@@ -1,15 +1,16 @@
 ---
 created: 2021-11-02
 aliases:
-- "Semantic Battleground: The War of Neurodiversity"
-- "Semantic Battleground: The War of Neurodiversity by threetrackmind.wordpress.com"
-- "threetrackmind.wordpress.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Semantic Battleground: The War of Neurodiversity"
+  - "Semantic Battleground: The War of Neurodiversity by
+    threetrackmind.wordpress.com"
+  - "threetrackmind.wordpress.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Semantic Battleground: The War of Neurodiversity
 

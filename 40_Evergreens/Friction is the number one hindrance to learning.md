@@ -2,10 +2,9 @@
 created: 2021-10-20
 aliases:
   - null
-
 tags: node/evergreen
-sr-due: 2021-10-31
-sr-interval: 1
+sr-due: 2021-11-11
+sr-interval: 7
 sr-ease: 230
 ---
 #### [[Friction is the number one hindrance to learning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,6 +15,7 @@ What causes friction?
 - [[ADHD]]
 - A bad learning environment
 - A bad teacher
+- [[The fragility of nodes in a second brain|Fragile tools]]
 
 These force you to keep focusing back on the problem from distractions. Prerequisite knowledge you need, constantly shifting things in and out of your working memory, avoiding and pushing past loud noises or strong emotions, figuring out something you were told is wrong.
 
@@ -24,8 +24,9 @@ Good systems for learning reduce this friction:
 - [[Adderall]]
 - [[Spaced repetition]]
 - Good teachers 
-- [[internet| The Internet]]
-- [[Obsidian (software)]]
+- Good systems
+	- [[internet| The Internet]]
+	- [[Obsidian (software)]]
 - Knowing your tools
 - Breaking down problems into smaller pieces
 
@@ -33,10 +34,10 @@ Good systems for learning reduce this friction:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**::
+**Topics**:: [[knowledge management]], [[second brain]], [[social progress]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

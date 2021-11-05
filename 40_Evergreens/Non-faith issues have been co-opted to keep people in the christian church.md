@@ -11,7 +11,7 @@ Be in the world not of the world because if you are of the world you start belie
 
 The main benefit from doing this comes down to [[Politics]] and [[The Politicization of the Christian Church]]
 
-To people who believe [[The bible is god breathed]], this propaganda can be very confusing, because it is often supported by scripture, but the beliefs are obviously against the teaching of Jesus Christ ([[Were Jesus' teachings are anti-thetical to the modern christian church]]). It is hard to understand why the bible would be so confusing if it is "[[The bible is god breathed | god breathed.]]"
+To people who believe [[The bible is god breathed]], this propaganda can be very confusing, because it is often supported by scripture, but the beliefs are obviously against the teaching of Jesus Christ ([[Were Jesus' teachings anti-thetical to the modern christian church]]). It is hard to understand why the bible would be so confusing if it is "[[The bible is god breathed | god breathed.]]"
 
 ---
 

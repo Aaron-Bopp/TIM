@@ -1,15 +1,16 @@
 ---
 created: 2021-11-02
 aliases:
-- "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress"
-- "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress by radicalinprogress.org"
-- "radicalinprogress.org"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress"
+  - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress
+    by radicalinprogress.org"
+  - "radicalinprogress.org"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress
 

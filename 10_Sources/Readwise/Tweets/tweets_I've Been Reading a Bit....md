@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "I've Been Reading a Bit..."
-- "I've Been Reading a Bit... by @visakanv on Twitter"
-- "@visakanv on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "I've Been Reading a Bit..."
+  - "I've Been Reading a Bit... by @visakanv on Twitter"
+  - "@visakanv on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # I've Been Reading a Bit...
 

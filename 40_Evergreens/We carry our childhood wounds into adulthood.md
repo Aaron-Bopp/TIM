@@ -14,7 +14,7 @@ sr-ease: 245
 
 #TO/DO/FIND video about childhood wounds
 
-Especially in [[early childhood development]], negative experiences cause us to make us to make wide assumptions about the world. These experiences can become integral parts of our [[personality|personalities]] or form into [[mental disorders]].
+Especially in [[childhood]], negative experiences cause us to make us to make wide assumptions about the world. These experiences can become integral parts of our [[personality|personalities]] or form into [[mental disorders]].
 
 Childhood [[trauma]] causes use to make massive, sweeping assumptions about our lives, because our understanding of the world is so limited and [[Our brains are built around survival]]. Any formative experience will impact a large portion of our understanding of the world because we do not understand the context or the importance of that experience. 
 
@@ -25,5 +25,5 @@ Childhood [[trauma]] causes use to make massive, sweeping assumptions about our 
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[mental health]], [[early childhood development]], [[trauma]]
+**Topics**:: [[mental health]], [[childhood]], [[trauma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -12,10 +12,10 @@ A second brain is a term that refers to a system of written thought that allows 
 - Why are you creating a Second Brain
 	- Are you taking notes to collect content or to create content
 		- [[Creating Thought with a Second Brain]]
-		- [[Collecting Thought with a Second Brain]]
+		- [[How to collect thought in a second brain without creating friction]]
 	- Starting your [[second brain]]
 		- [[Write your notes like you're planting an evergreen forest]]
-		- [[write what you think]]
+		- [[Write what you think]]
 		- [[Learning how systems work can be a gateway to creating thought]]
 - Methods of Constructing a Second Brain
 	- [[Zettlekassen]]
@@ -28,8 +28,7 @@ A second brain is a term that refers to a system of written thought that allows 
 	- Atom
 - Tips
 	- [[How to title your notes]]
-	- [[How to write atomically]]
-- ![[My Second Brain#My Second Brain customJS dv_funcs topicOutlineHeader dv this]]
+- ![[My TIM#My TIM customJS dv_funcs topicOutlineHeader dv this]]
 
 ### <hr class="dataviews"/>
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

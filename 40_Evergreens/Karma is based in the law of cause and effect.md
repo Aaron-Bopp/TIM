@@ -2,9 +2,9 @@
 created: 2021-10-23
 aliases:
   - null
-tags: node/inbox
-sr-due: 2021-10-28
-sr-interval: 2
+tags: node/evergreen
+sr-due: 2021-11-17
+sr-interval: 13
 sr-ease: 230
 ---
 #### [[Karma is based in the law of cause and effect]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

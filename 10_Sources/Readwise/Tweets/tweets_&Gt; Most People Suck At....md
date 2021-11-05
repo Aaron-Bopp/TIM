@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "&Gt; Most People Suck At..."
-- "&Gt; Most People Suck At... by @visakanv on Twitter"
-- "@visakanv on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "&Gt; Most People Suck At..."
+  - "&Gt; Most People Suck At... by @visakanv on Twitter"
+  - "@visakanv on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # &Gt; Most People Suck At...
 

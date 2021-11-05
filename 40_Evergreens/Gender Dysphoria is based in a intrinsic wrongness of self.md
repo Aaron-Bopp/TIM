@@ -3,16 +3,21 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-01
-sr-interval: 2
+sr-due: 2021-11-10
+sr-interval: 6
 sr-ease: 212
 ---
 
 #### [[Gender Dysphoria is based in a intrinsic wrongness of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-[[Any experience of gender dysphoria is acceptable]] and [[Any experience of gender is acceptable]], but this note explores gender as related to [[self-image]].
+
+```ad-warning
+Remember, [[Any experience of gender dysphoria is acceptable]] and [[Any experience of gender is acceptable]] are still true. This note explores specifically how [[gender dysphoria]] as it can relate to [[self-image]].
+```
+
 
  > In principle, [[Gender Dysphoria]] is a feeling of wrongness intrinsic to the [[self]]. There is no logical backing to this wrongness, there is nothing which explains it, you can not describe why you feel this way, it is just there. Things in your existence are incorrect, and even knowing which things _are_ incorrect can be hard to properly identify.
- > [[2 A Brief History of Gender Dysphoria]]
+ >
+ >  <cite>[[2 A Brief History of Gender Dysphoria]]</cite>
 
 This incongruity can create a frustration that is incredibly hard to root out and causes [[Trans people will look for any other solution than being trans]]
 
@@ -20,9 +25,9 @@ This incongruity can create a frustration that is incredibly hard to root out an
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender dysphoria]], [[mental disorders]], [[self]]
+**Topics**:: [[gender dysphoria]], [[mental disorders]], [[self]], [[transgender]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

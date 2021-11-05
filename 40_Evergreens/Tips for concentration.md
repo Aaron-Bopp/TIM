@@ -1,14 +1,14 @@
 ---
 created: 2021-05-02
 tags: node/evergreen
-sr-due: 2021-11-01
-sr-interval: 13
+sr-due: 2021-12-16
+sr-interval: 42
 sr-ease: 290
 ---
 
 #### [[Tips for concentration]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Concentration is something that is required to most things done in today's society. Many things can cause a lack of concentration ranging from simple distraction to serious illness's like [[depression]] and [[neurodiversity]] like [[ADHD]]. Here some ways that I have found to help concentrate
+Concentration is limited resource in the modern world. Cause for lack of concentration range from simple distraction, to illness's like [[depression]], to [[neurodiversity|neurodiverse]] minds. Here some ways that I have found to help concentrate:
 
 1. Interact with what you are trying to understand in more than one way. 
 	- If you are reading: write notes/highlight, and/or have it read aloud while you read. 
@@ -17,8 +17,7 @@ Concentration is something that is required to most things done in today's socie
 3. Be willing to give yourself breaks, but try to do activities that will rest your brain instead of stimulate it. I.E go for a walk  or meditate instead of looking at social [[media]] for 20 mins.
 4. If it's possible and your lack of concentration is common reach out to your doctor to see if you can get a diagnosis and medication would help. For some, medication is the tool they need to survive and for others it is jumping off point for better habits.
 5. Look into [[mindfullness]] and [[meditation]]. It's okay to get frustrated and upset, but practices likes those help 
-
-#TO/EXPLORE/RESEARCH relation to [[Spaced repetition]]
+6. Find tools that reduce friction thus reducing required concentration, e.g [[Spaced repetition]]: [[Friction is the number one hindrance to learning]]
 
 ### <hr class="footnote"/>
 

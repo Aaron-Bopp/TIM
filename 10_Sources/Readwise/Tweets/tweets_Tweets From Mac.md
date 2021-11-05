@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Tweets From Mac"
-- "Tweets From Mac by @GoodPoliticGuy on Twitter"
-- "@GoodPoliticGuy on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "Tweets From Mac"
+  - "Tweets From Mac by @GoodPoliticGuy on Twitter"
+  - "@GoodPoliticGuy on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # Tweets From Mac
 

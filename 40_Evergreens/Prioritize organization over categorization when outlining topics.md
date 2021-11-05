@@ -16,7 +16,7 @@ Try to create MOC's/[[topic note|topics]] when you are overwhelmed, and stop cre
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[note writing]], [[knowledge management]], [[My Second Brain]]
+**Topics**:: [[note writing]], [[knowledge management]], [[My TIM]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

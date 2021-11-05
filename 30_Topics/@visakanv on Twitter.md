@@ -1,8 +1,8 @@
 ---
-created: 2021-11-02 
+created: 2021-11-02
 aliases:
   - visakanv
-tags: node/person
+tags: node/source/person
 ---
 
 ```dataview

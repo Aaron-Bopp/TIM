@@ -1,13 +1,13 @@
 ---
 created: 2021-11-02
 aliases:
-- "Urn"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Urn"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Urn
 

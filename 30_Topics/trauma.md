@@ -1,7 +1,8 @@
 ---
 created: 2021-06-12
+aliases:
+  - traumatized
 tags: node/topic/outline
-date modified: Sunday, October 3rd 2021, 4:45:38 pm
 ---
 
 **See**:: [[mental health]]
@@ -11,7 +12,7 @@ date modified: Sunday, October 3rd 2021, 4:45:38 pm
 
 ##### [[trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-- [[early childhood development]]
+- [[childhood]]
 - ![[religious trauma#religious trauma customJS dv_funcs topicOutlineHeader dv this]]
 - Defense mechanisms
 	- [[Rationalizations are defense-mechanisms against strong emotions]]

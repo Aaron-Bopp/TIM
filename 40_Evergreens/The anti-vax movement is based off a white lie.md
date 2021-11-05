@@ -3,14 +3,13 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-03
-sr-interval: 1
+sr-due: 2021-11-07
+sr-interval: 3
 sr-ease: 190
 ---
 
 #### [[The anti-vax movement is based off a white lie]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- [[anti-vax]]
 - [[Rise of Misinformation in America]]
 - [[MAGA is built off nostalgia not facts]]
 - [[Creationism built an anti-science culture]]
@@ -22,6 +21,6 @@ sr-ease: 190
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[politics]], [[cognitive dissonance]]
+**Topics**:: [[politics]], [[cognitive dissonance]],  [[anti-vax]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

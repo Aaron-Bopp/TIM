@@ -3,9 +3,9 @@ created: 2021-11-02
 aliases:
 - 
 tags: node/evergreen
-sr-due: 2021-11-03
+sr-due: 2021-11-05
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 #### [[Why gender exists]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -13,10 +13,10 @@ The gender segregation effect is the way that children seperate themselves into 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**::
+**Topics**:: [[gender]], [[Behavioral Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

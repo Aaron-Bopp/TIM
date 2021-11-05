@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd1b05b7d52d17b",
+        "id": "8ad50b7e1fc506cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/QOUTES.md",
-            "mode": "source"
+            "file": "20_Entry/_gallery_.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/qoute",
+                "query": "\"stub notes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/QOUTES.md",
+                "file": "20_Entry/_gallery_.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -99,9 +99,21 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "fda1645ab822e2df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20_Entry/_gallery_.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -121,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/QOUTES.md",
+                "file": "20_Entry/_gallery_.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/QOUTES.md"
+                "file": "20_Entry/_gallery_.md"
               }
             }
           },
@@ -231,18 +243,6 @@
             "state": {
               "type": "recent-files",
               "state": {}
-            }
-          },
-          {
-            "id": "fda1645ab822e2df",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "20_Entry/QOUTES.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           },
           {
@@ -286,7 +286,7 @@
             }
           },
           {
-            "id": "01b3adc904632dd4",
+            "id": "1819fc144b258f89",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-stats",
@@ -294,7 +294,7 @@
             }
           },
           {
-            "id": "9eba6cddd34d0a50",
+            "id": "1de8090f75c73add",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
@@ -309,17 +309,17 @@
     "width": 538.5,
     "collapsed": true
   },
-  "active": "4bd1b05b7d52d17b",
+  "active": "8ad50b7e1fc506cd",
   "lastOpenFiles": [
-    "20_Entry/QOUTES.md",
-    "10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md",
-    "10_Sources/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
-    "00_Meta/Templates/TOPICNOTE.md",
-    "00_Meta/Templates/TOPIC_OUTLINE_HEADER.md",
-    "10_Sources/'Don't be the reason that rules exist' - Nathan Eloe.md",
-    "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
-    "00_Meta/Templates/QOUTE-TEMPLATE.md",
-    "10_Sources/videoTransComingOutStory.md",
-    "30_Topics/Computer Science.md"
+    "20_Entry/_gallery_.md",
+    "10_Sources/Readwise/Articles/articles_Highlights From twitter.com.md",
+    "10_Sources/Mental Health/videoWhat is Ego.md",
+    "What is Ego.md",
+    "00_Meta/unresolved links output.md",
+    "40_Evergreens/Creating Thought with a Second Brain.md",
+    "40_Evergreens/Journeys.md",
+    "40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md",
+    "40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md",
+    "20_Entry/QUICKNOTE.md"
   ]
 }

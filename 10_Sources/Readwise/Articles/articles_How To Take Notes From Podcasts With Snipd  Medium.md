@@ -1,15 +1,15 @@
 ---
 created: 2021-11-03
 aliases:
-- "How To Take Notes From Podcasts With Snipd | Medium"
-- "How To Take Notes From Podcasts With Snipd | Medium by Snipd"
-- "Snipd"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "How To Take Notes From Podcasts With Snipd | Medium"
+  - "How To Take Notes From Podcasts With Snipd | Medium by Snipd"
+  - "Snipd"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # How To Take Notes From Podcasts With Snipd | Medium
 

@@ -1,6 +1,6 @@
 ---
 created: 2021-10-11
-tags: node/tool
+tags: node/topic/tool
 ---
 # [[Vim]] `$=customJS.dv_funcs.topicHeader(dv, this)`
  

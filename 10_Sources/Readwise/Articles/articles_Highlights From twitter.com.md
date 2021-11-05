@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Highlights From twitter.com"
-- "Highlights From twitter.com by twitter.com"
-- "twitter.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "web_clipper"
+  - "Highlights From twitter.com"
+  - "Highlights From twitter.com by twitter.com"
+  - "twitter.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "web_clipper"
 ---
 # Highlights From twitter.com
 

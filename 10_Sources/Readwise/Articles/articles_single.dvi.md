@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "single.dvi"
-- "single.dvi by pages.cs.wisc.edu"
-- "pages.cs.wisc.edu"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "single.dvi"
+  - "single.dvi by pages.cs.wisc.edu"
+  - "pages.cs.wisc.edu"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # single.dvi
 

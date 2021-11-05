@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Misidentifying 4 and 5 — The Enneagram Institute"
-- "Misidentifying 4 and 5 — The Enneagram Institute by enneagraminstitute.com"
-- "enneagraminstitute.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Misidentifying 4 and 5 — The Enneagram Institute"
+  - "Misidentifying 4 and 5 — The Enneagram Institute by enneagraminstitute.com"
+  - "enneagraminstitute.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Misidentifying 4 and 5 — The Enneagram Institute
 

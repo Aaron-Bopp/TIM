@@ -1,13 +1,13 @@
 ---
 created: 2021-11-02
 aliases:
-- "“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # “I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”
 

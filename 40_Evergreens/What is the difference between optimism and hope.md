@@ -3,10 +3,10 @@ created: 2021-10-18
 aliases:
   - What is the difference between hope and optimism
 
-tags: node/evergreen, node/question
-sr-due: 2021-11-02
-sr-interval: 3
-sr-ease: 210
+tags: node/evergreen, node/evergreen/question
+sr-due: 2021-11-19
+sr-interval: 15
+sr-ease: 230
 ---
 #### [[What is the difference between optimism and hope]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

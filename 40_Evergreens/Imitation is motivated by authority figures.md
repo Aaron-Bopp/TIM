@@ -3,11 +3,11 @@ created: 2021-10-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-10-31
+sr-due: 2021-11-05
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
-#### [[Imitation is motivated authority figures]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Imitation is motivated by authority figures]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 In [[Social Learning Theory]], imitation is one of four key mechanism for social learning. This means that children are more likely to imitate the actions of authority figures, most often parents. When combined with idea of [[gender schema]], this means that children will primarily imitate the actions of the parent of their same gender, leading to the existence and perpetuation of [[gender roles]]
 

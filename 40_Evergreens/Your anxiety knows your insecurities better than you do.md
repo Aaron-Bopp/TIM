@@ -1,9 +1,9 @@
 ---
 created: 2021-06-15
 tags: node/evergreen
-sr-due: 2021-11-02
-sr-interval: 5
-sr-ease: 202
+sr-due: 2021-11-07
+sr-interval: 3
+sr-ease: 162
 ---
 
 #### [[Your anxiety knows your insecurities better than you do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -12,9 +12,11 @@ When you are feeling [[anxiety]] it can often be very difficult to understand wh
 
 As you are trying to deal with your [[anxiety]] you may start removing many perceived sources of [[anxiety]] to no success. This because the perceived causes of the anxiety are actually a sypmtom of a much deeper fear or insecurity. This is by design because your mind is [[Human's will find explanations for inexplainable things|finding explanations for an inexplainable thing]], and your anxiety is just a [[Rationalizations are defense-mechanisms against strong emotions| rationalization]] of these [[Complex emotions are intellectual understandings of primal urges|deeper emotions]] #TO/TEND/REFACTOR these three notes
 
-#TO/TEND/REFACTOR are these the same concept[[Your insecurity is just more avenues for your anxiety to take advantage of]]
+Discovering what deaper mechanism is behind your anxiety can be difficult task, for many it takes years of [[self-actualization|introspection]]
  
-One mechanism behind this is if your [[self|identity]] is severely repressed ([[Identity is your understanding of yourself vs your interaction with the world]]) If you do not have an accurate identity, then you will be feeling things without understanding them. This will generate a large amount of [[anxiety]] because you do not understand the sources of the feelings well enough to predict when and understand why they happen. For example, because [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]] [[transgender|trans]] children will often have lots of untrackable anxiety.
+If your [[self|identity]] is severely repressed you will interacting with the world with a massive blindspot: [[Identity is your understanding of yourself vs your interaction with the world]] You will be feeling things without understanding them. This will generates [[anxiety]] because you do not understand the sources of the feelings well enough to predict when and understand why they happen. For example, because [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]] [[transgender|trans]] children will often have lots of untrackable anxiety.
+
+Material insecurity can create this sensation: [[Insecure material conditions increase cognitive load and reduces outcomes]]. In recent years this has taken the form of [[existential dread]] and [[climate change]] looms and billionaires grow ever richer, people fathom the peril we are in. This leads to increasing levels of [[anxiety]] and [[depression]] as people try to grapple with this uncurable anxiety: [[What is the cognitive effect of living in a unjust world|What is the cognitive effect of living in a unjust world?]]
 
 Another example, people who are mentally handicapped often have very deep [[anxiety]] because they do not have the ability to understand situations and thus aren't able to find the source of the situation and [[anxiety]]. #TO/EXPLORE/RESEARCH Mental handicaps affect on [[anxiety]]. 
 

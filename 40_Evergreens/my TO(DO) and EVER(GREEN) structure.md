@@ -8,7 +8,7 @@ sr-ease: 290
 
 #### [[my TO(DO) and EVER(GREEN) structure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This structure is how I [[Make your inbox into an entry point]] and is deeply entwined with [[Use Obsidian tags as temporal classifiers]] as a part of [[My Second Brain]]. 
+This structure is how I [[Make your inbox into an entry point]] and is deeply entwined with [[Use Obsidian tags as temporal classifiers]] as a part of [[My TIM]]. 
 
 I prefer this kind of todo list because I can create it from anywhere in my vault and easily access them from the tag pane. These help organize my todo's so I can do them when I am in a certain mood. 
 

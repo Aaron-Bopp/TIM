@@ -3,8 +3,8 @@ created: 2021-07-29
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-04
-sr-interval: 12
+sr-due: 2021-12-07
+sr-interval: 33
 sr-ease: 272
 ---
 
@@ -14,7 +14,7 @@ See [[How ADHD effects concentration]] to understand why lack of attention is no
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[ADHD]], [[executive function]]

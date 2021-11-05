@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Autism Adhd Field Report..."
-- "Autism Adhd Field Report... by @davidfactorial on Twitter"
-- "@davidfactorial on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "Autism Adhd Field Report..."
+  - "Autism Adhd Field Report... by @davidfactorial on Twitter"
+  - "@davidfactorial on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # Autism Adhd Field Report...
 

@@ -1,6 +1,6 @@
 ---
 created: 2021-08-17
-tags: node/evergreen, node/personal
+tags: node/personal
 aliases:
   - null
 sr-due: 2021-10-31

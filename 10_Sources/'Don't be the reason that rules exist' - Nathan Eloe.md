@@ -1,8 +1,8 @@
 ---
-created: 2021-11-04 
+created: 2021-11-04
 aliases:
   - null
-tags: node/source/qoute
+tags: node/source/qoutes
 ---
 > Don't be the reason that rules exist
 >

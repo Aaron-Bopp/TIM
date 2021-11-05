@@ -2,7 +2,7 @@
 created: 2021-09-22
 aliases:
   - null
-tags: node/source/qoute
+tags: node/source/qoutes
 ---
 > I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander
 >

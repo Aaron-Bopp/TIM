@@ -6,7 +6,7 @@ aliases:
 - sources
 ---
 
-#### [[source note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[source notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 A source note is made up of notes taken while consuming some form of source such as a book, article, video, or podcast. A source note does not contain thoughts or ideas based on the source, just an organization of interesting moments and thoughts within the source.
 
@@ -16,7 +16,7 @@ Template: [[source]]
 
 - Very similar to literature notes in a [[Zettlekassen]]
 - This is note a [[evergreen notes]]
-- this is how I [[Collecting Thought with a Second Brain | collect thought]] in [[My Second Brain]]
+- this is how I [[How to collect thought in a second brain without creating friction | collect thought]] in [[My TIM]]
 
 ### <hr class="dataviews"/>
 

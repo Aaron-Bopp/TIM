@@ -15,7 +15,7 @@ aliases:
 - [[The many transgressions of the christian church]]
 	- [[Fear of hell is baked into Christianity]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
-- [[Were Jesus' teachings are anti-thetical to the modern christian church]]
+- [[Were Jesus' teachings anti-thetical to the modern christian church]]
 	- [[The church will fail if christians keep aligning themselves with hate instead of love]]
 	- [[Loving a a non-believer requires loving the fact that they are going to hell]]
 - ![[Deconstruction (Christianity)#Deconstruction (Christianity) customJS dv_funcs topicOutlineHeader dv this]]

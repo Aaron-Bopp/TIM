@@ -11,7 +11,7 @@ parent: [[anxiety]]
 - [[socialization]]
 	- [[social anxiety]]
 	- [[self-hate]]
-		- [[Your insecurity is just more avenues for your anxiety to take advantage of]]
+		- [[Insecure material conditions increase cognitive load and reduces outcomes]]
 		- [[Constantly working on yourself is a form a self-hatred]]
 
 

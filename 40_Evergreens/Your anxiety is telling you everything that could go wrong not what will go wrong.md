@@ -16,7 +16,7 @@ The reason this happens is rooted in [[Neuroscience]]. [[Anxiety]] is at it's co
 
 #TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[OCD]]?
 
-[[Your insecurity is just more avenues for your anxiety to take advantage of]] which is only made worse by the fact [[Your anxiety knows your insecurities better than you do]].
+[[Insecure material conditions increase cognitive load and reduces outcomes]] which is only made worse by the fact [[Your anxiety knows your insecurities better than you do]].
 
 ### <hr class="footnote"/>
 

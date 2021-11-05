@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Tweets From Lilah Sturges"
-- "Tweets From Lilah Sturges by @LilahSturges on Twitter"
-- "@LilahSturges on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "Tweets From Lilah Sturges"
+  - "Tweets From Lilah Sturges by @LilahSturges on Twitter"
+  - "@LilahSturges on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # Tweets From Lilah Sturges
 

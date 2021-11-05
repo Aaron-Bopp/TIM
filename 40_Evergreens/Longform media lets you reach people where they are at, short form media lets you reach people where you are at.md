@@ -2,16 +2,18 @@
 created: 2021-10-19
 aliases:
   - null
-
 tags: node/evergreen
-sr-due: 2021-11-02
-sr-interval: 10
-sr-ease: 250
+sr-due: 2021-11-09
+sr-interval: 5
+sr-ease: 230
 ---
 #### [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 With long form media you can take people on journeys to your conclusion, but with short form media you let people into your journey.
-![[tweets_&Gt; Most People Suck At...#^065104]]
+
+> [I would] shill my book but...I still don't feel 95% confident + assured in my conscience in saying "this will help you". I'm at like 65% confidence. I expect to get to ~80% as I finish it, then the responses will tell  [^1]
+>
+> <cite>[[@visakanv on Twitter|visakanv]]</cite>
 
 ### <hr class="footnote"/>
 
@@ -21,3 +23,4 @@ With long form media you can take people on journeys to your conclusion, but wit
 **Topics**:: [[note writing]], [[socialization|inter-personal communication]], [[influence]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+[^1]: ![[tweets_&Gt; Most People Suck At...#Highlights]]

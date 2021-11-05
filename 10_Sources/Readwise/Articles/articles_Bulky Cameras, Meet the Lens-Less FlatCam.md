@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Bulky Cameras, Meet the Lens-Less FlatCam"
-- "Bulky Cameras, Meet the Lens-Less FlatCam by npr.org"
-- "npr.org"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "hypothesis"
+  - "Bulky Cameras, Meet the Lens-Less FlatCam"
+  - "Bulky Cameras, Meet the Lens-Less FlatCam by npr.org"
+  - "npr.org"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "hypothesis"
 ---
 # Bulky Cameras, Meet the Lens-Less FlatCam
 

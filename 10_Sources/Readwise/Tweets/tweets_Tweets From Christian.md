@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "Tweets From Christian"
-- "Tweets From Christian by @CXGonzalez_ on Twitter"
-- "@CXGonzalez_ on Twitter"
-tags: source/tweets
-type: 
-- tweets
-deliveredBy: 
-- "readwise"
-- "twitter"
+  - "Tweets From Christian"
+  - "Tweets From Christian by @CXGonzalez_ on Twitter"
+  - "@CXGonzalez_ on Twitter"
+tags: node/source/tweets
+type:
+  - tweets
+deliveredBy:
+  - "readwise"
+  - "twitter"
 ---
 # Tweets From Christian
 

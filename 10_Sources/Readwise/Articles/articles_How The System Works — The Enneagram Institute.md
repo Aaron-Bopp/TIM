@@ -1,15 +1,15 @@
 ---
 created: 2021-11-02
 aliases:
-- "How The System Works — The Enneagram Institute"
-- "How The System Works — The Enneagram Institute by enneagraminstitute.com"
-- "enneagraminstitute.com"
-tags: source/articles
-type: 
-- articles
-deliveredBy: 
-- "readwise"
-- "api_article"
+  - "How The System Works — The Enneagram Institute"
+  - "How The System Works — The Enneagram Institute by enneagraminstitute.com"
+  - "enneagraminstitute.com"
+tags: node/source/articles
+type:
+  - articles
+deliveredBy:
+  - "readwise"
+  - "api_article"
 ---
 # How The System Works — The Enneagram Institute
 

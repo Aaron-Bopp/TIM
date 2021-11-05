@@ -1,6 +1,6 @@
 ---
 created: 2021-05-31
-tags: node/technique
+tags: node/evergreen/technique
 ---
 
 Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
