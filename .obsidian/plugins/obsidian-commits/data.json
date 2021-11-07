@@ -3838,7 +3838,7 @@
     "10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md": {
       "size": 9062,
       "tags": 1,
-      "links": 26
+      "links": 27
     },
     "10_Sources/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md": {
       "size": 4593,
@@ -4018,7 +4018,7 @@
     "30_Topics/Christianity.md": {
       "size": 1039,
       "tags": 1,
-      "links": 12
+      "links": 11
     },
     "30_Topics/cis.md": {
       "size": 179,
@@ -4524,11 +4524,6 @@
       "size": 738,
       "tags": 1,
       "links": 5
-    },
-    "30_Topics/mental disorders.md": {
-      "size": 495,
-      "tags": 1,
-      "links": 10
     },
     "30_Topics/mental health.md": {
       "size": 1328,
@@ -5103,7 +5098,7 @@
     "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md": {
       "size": 594,
       "tags": 2,
-      "links": 6
+      "links": 10
     },
     "40_Evergreens/Accepting responsibility is not only about your actions.md": {
       "size": 1823,
@@ -5158,7 +5153,7 @@
     "40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md": {
       "size": 652,
       "tags": 2,
-      "links": 7
+      "links": 14
     },
     "40_Evergreens/Any experience of gender dysphoria is acceptable.md": {
       "size": 1359,
@@ -5190,15 +5185,10 @@
       "tags": 3,
       "links": 4
     },
-    "40_Evergreens/Children do what they see.md": {
-      "size": 943,
-      "tags": 2,
-      "links": 10
-    },
     "40_Evergreens/Children in traumatic households expect more love than their parents can give.md": {
       "size": 1003,
       "tags": 3,
-      "links": 7
+      "links": 8
     },
     "40_Evergreens/Choosing a note writing system.md": {
       "size": 703,
@@ -5208,12 +5198,7 @@
     "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md": {
       "size": 2090,
       "tags": 2,
-      "links": 15
-    },
-    "40_Evergreens/Complex emotions are intellectual understandings of primal urges.md": {
-      "size": 1149,
-      "tags": 3,
-      "links": 11
+      "links": 17
     },
     "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md": {
       "size": 2056,
@@ -5255,11 +5240,6 @@
       "tags": 2,
       "links": 8
     },
-    "40_Evergreens/Democracy is about and open forum of ideas.md": {
-      "size": 529,
-      "tags": 3,
-      "links": 3
-    },
     "40_Evergreens/do math.md": {
       "size": 131,
       "tags": 0,
@@ -5279,11 +5259,6 @@
       "size": 494,
       "tags": 2,
       "links": 4
-    },
-    "40_Evergreens/empathy isn't understanding how you would make the decision it's understanding why they made the decision.md": {
-      "size": 1222,
-      "tags": 2,
-      "links": 6
     },
     "40_Evergreens/Every person has an experience of gender.md": {
       "size": 771,
@@ -5338,12 +5313,12 @@
     "40_Evergreens/Gender has historically been non-binary.md": {
       "size": 1120,
       "tags": 2,
-      "links": 6
+      "links": 9
     },
     "40_Evergreens/Gender is a social construct.md": {
-      "size": 776,
+      "size": 3110,
       "tags": 2,
-      "links": 11
+      "links": 41
     },
     "40_Evergreens/Gender is both an intrinsic experience and an necessary expression.md": {
       "size": 1301,
@@ -5362,7 +5337,7 @@
     },
     "40_Evergreens/How ADHD effects concentration.md": {
       "size": 1756,
-      "tags": 2,
+      "tags": 3,
       "links": 12
     },
     "40_Evergreens/How and when Obsidian's graph can be useful.md": {
@@ -5375,15 +5350,10 @@
       "tags": 2,
       "links": 9
     },
-    "40_Evergreens/How Neuroscience impacts our daily lives.md": {
-      "size": 655,
-      "tags": 2,
-      "links": 8
-    },
     "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md": {
       "size": 1187,
       "tags": 5,
-      "links": 12
+      "links": 13
     },
     "40_Evergreens/How to title your notes.md": {
       "size": 2253,
@@ -5440,11 +5410,6 @@
       "tags": 1,
       "links": 4
     },
-    "40_Evergreens/Is cognitive dissonance part of being a human.md": {
-      "size": 606,
-      "tags": 2,
-      "links": 6
-    },
     "40_Evergreens/Is your self-talk bullying you or bodyguarding you.md": {
       "size": 648,
       "tags": 3,
@@ -5490,11 +5455,6 @@
       "tags": 2,
       "links": 19
     },
-    "40_Evergreens/Mental illness is a reaction to ones environment.md": {
-      "size": 1326,
-      "tags": 2,
-      "links": 13
-    },
     "40_Evergreens/Mermaid (software).md": {
       "size": 388,
       "tags": 5,
@@ -5516,9 +5476,9 @@
       "links": 10
     },
     "40_Evergreens/My Deconstruction journey.md": {
-      "size": 3471,
-      "tags": 4,
-      "links": 29
+      "size": 4316,
+      "tags": 3,
+      "links": 43
     },
     "40_Evergreens/My relationship with my parents.md": {
       "size": 1079,
@@ -5578,7 +5538,7 @@
     "40_Evergreens/Our brains are built around survival.md": {
       "size": 2154,
       "tags": 2,
-      "links": 20
+      "links": 18
     },
     "40_Evergreens/Our ego is our subconscious defense of our self.md": {
       "size": 831,
@@ -5628,7 +5588,7 @@
     "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md": {
       "size": 1809,
       "tags": 3,
-      "links": 11
+      "links": 12
     },
     "40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md": {
       "size": 1534,
@@ -5702,8 +5662,8 @@
     },
     "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md": {
       "size": 1350,
-      "tags": 2,
-      "links": 9
+      "tags": 3,
+      "links": 13
     },
     "40_Evergreens/Separate stub notes from the rest of your vault so you don't get overwhelmed.md": {
       "size": 1100,
@@ -5753,7 +5713,7 @@
     "40_Evergreens/Sympathy does not dissallow judgment.md": {
       "size": 2163,
       "tags": 2,
-      "links": 16
+      "links": 17
     },
     "40_Evergreens/Templater.md": {
       "size": 403,
@@ -5778,7 +5738,7 @@
     "40_Evergreens/The biblical christian God is evil and does not deserved to be worshipped.md": {
       "size": 795,
       "tags": 2,
-      "links": 6
+      "links": 14
     },
     "40_Evergreens/The brain is powerful enough to create supernatural experiences.md": {
       "size": 1181,
@@ -5793,7 +5753,7 @@
     "40_Evergreens/The danger of religious beliefs in early childhood.md": {
       "size": 1246,
       "tags": 2,
-      "links": 9
+      "links": 10
     },
     "40_Evergreens/The difference between identity and presentation.md": {
       "size": 1057,
@@ -5815,11 +5775,6 @@
       "tags": 3,
       "links": 10
     },
-    "40_Evergreens/The many transgressions of the christian church.md": {
-      "size": 983,
-      "tags": 2,
-      "links": 10
-    },
     "40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md": {
       "size": 1103,
       "tags": 3,
@@ -5834,11 +5789,6 @@
       "size": 481,
       "tags": 2,
       "links": 2
-    },
-    "40_Evergreens/The scientific basis of gender.md": {
-      "size": 1151,
-      "tags": 2,
-      "links": 15
     },
     "40_Evergreens/The three main questions of life.md": {
       "size": 404,
@@ -5873,7 +5823,7 @@
     "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable.md": {
       "size": 1061,
       "tags": 3,
-      "links": 12
+      "links": 14
     },
     "40_Evergreens/Trans people will look for any other solution than being trans.md": {
       "size": 1896,
@@ -5938,7 +5888,7 @@
     "40_Evergreens/What is the cognitive effect of living in a unjust world.md": {
       "size": 852,
       "tags": 3,
-      "links": 17
+      "links": 18
     },
     "40_Evergreens/What is the difference between a evergreen note and a topic note.md": {
       "size": 956,
@@ -5978,12 +5928,12 @@
     "40_Evergreens/You can be taught to invalidate your own emotions.md": {
       "size": 909,
       "tags": 2,
-      "links": 8
+      "links": 9
     },
     "40_Evergreens/You can discover your transness at any point in life.md": {
       "size": 894,
       "tags": 2,
-      "links": 6
+      "links": 9
     },
     "40_Evergreens/You can leave the church and still believe in the christian god.md": {
       "size": 1329,
@@ -7315,11 +7265,6 @@
       "tags": 1,
       "links": 4
     },
-    "40_Evergreens/Why gender exists.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 3
-    },
     "30_Topics/childhood.md": {
       "size": 0,
       "tags": 1,
@@ -7373,7 +7318,7 @@
     "10_Sources/Readwise/Articles/articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia.md": {
       "size": 981,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Articles/articles_Highlights From philosophy.ucsc.edu.md": {
       "size": 677,
@@ -7428,7 +7373,7 @@
     "10_Sources/Readwise/Articles/articles_Semantic Battleground The War of Neurodiversity.md": {
       "size": 2527,
       "tags": 1,
-      "links": 4
+      "links": 5
     },
     "10_Sources/Readwise/Articles/articles_Historical Foundations of Race.md": {
       "size": 3904,
@@ -7588,7 +7533,7 @@
     "10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md": {
       "size": 835,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md": {
       "size": 671,
@@ -7668,7 +7613,7 @@
     "40_Evergreens/Everybody can't be a capitalist.md": {
       "size": 0,
       "tags": 2,
-      "links": 4
+      "links": 10
     },
     "10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md": {
       "size": 377,
@@ -7720,20 +7665,10 @@
       "tags": 2,
       "links": 12
     },
-    "40_Evergreens/Imitation is motivated by authority figures.md": {
-      "size": 820,
-      "tags": 2,
-      "links": 6
-    },
     "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md": {
       "size": 1912,
       "tags": 2,
       "links": 7
-    },
-    "40_Evergreens/How to store source notes and definitions in your vault without getting overwhelmed.md": {
-      "size": 2426,
-      "tags": 3,
-      "links": 11
     },
     "40_Evergreens/How to collect thought in a second brain without creating friction.md": {
       "size": 2094,
@@ -7779,14 +7714,119 @@
       "size": 923,
       "tags": 2,
       "links": 1
+    },
+    "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md": {
+      "size": 7091,
+      "tags": 2,
+      "links": 1
+    },
+    "30_Topics/32_Terms/gender segregation.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "40_Evergreens/Gender segregation increases gendered play.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 9
+    },
+    "40_Evergreens/Children will imitate whatever is modeled for them.md": {
+      "size": 943,
+      "tags": 2,
+      "links": 10
+    },
+    "10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md": {
+      "size": 1238,
+      "tags": 1,
+      "links": 2
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md": {
+      "size": 674,
+      "tags": 1,
+      "links": 1
+    },
+    "40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md": {
+      "size": 820,
+      "tags": 2,
+      "links": 6
+    },
+    "30_Topics/32_Terms/TERFS.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md": {
+      "size": 1222,
+      "tags": 2,
+      "links": 7
+    },
+    "40_Evergreens/Do we have free will.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    },
+    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md": {
+      "size": 2466,
+      "tags": 2,
+      "links": 22
+    },
+    "40_Evergreens/Mental health is a reaction to one's environment.md": {
+      "size": 2341,
+      "tags": 4,
+      "links": 24
+    },
+    "30_Topics/mental illness.md": {
+      "size": 495,
+      "tags": 1,
+      "links": 10
+    },
+    "40_Evergreens/Complex emotions are intellectual understandings of primal urges.md": {
+      "size": 1134,
+      "tags": 3,
+      "links": 11
+    },
+    "40_Evergreens/Mental illness is a reaction to ones environment.md": {
+      "size": 1317,
+      "tags": 2,
+      "links": 13
+    },
+    "40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md": {
+      "size": 2426,
+      "tags": 2,
+      "links": 12
+    },
+    "40_Evergreens/Biology supports the validity of trans people.md": {
+      "size": 1151,
+      "tags": 3,
+      "links": 18
+    },
+    "40_Evergreens/Democracy is about an open forum of ideas.md": {
+      "size": 529,
+      "tags": 3,
+      "links": 3
+    },
+    "40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 2
+    },
+    "30_Topics/privilege.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/Indigenous.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 854,
-      "Create": 1516,
-      "Link": 1969,
-      "Expand": 18
+      "Refactor": 897,
+      "Create": 1532,
+      "Link": 2067,
+      "Expand": 25
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -7797,8 +7837,8 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 28,
-      "1": 32,
+      "0": 29,
+      "1": 36,
       "2": 0,
       "3": 2,
       "4": 0,
@@ -7808,19 +7848,19 @@
       "8": 0,
       "9": 281,
       "10": 15,
-      "11": 2,
-      "12": 5,
-      "13": 21,
-      "14": 2111,
-      "15": 52,
-      "16": 753,
-      "17": 806,
-      "18": 122,
-      "19": 6,
+      "11": 21,
+      "12": 13,
+      "13": 26,
+      "14": 2136,
+      "15": 78,
+      "16": 785,
+      "17": 812,
+      "18": 124,
+      "19": 21,
       "20": 30,
-      "21": 25,
-      "22": 30,
-      "23": 36
+      "21": 38,
+      "22": 36,
+      "23": 38
     },
     "40 Evergreens": {
       "0": 9,
@@ -7855,9 +7895,9 @@
       "Tue": 345,
       "Wed": 24,
       "Thu": 194,
-      "Fri": 9,
+      "Fri": 27,
       "Sat": 0,
-      "Sun": 3758
+      "Sun": 3904
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -7889,9 +7929,32 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought in a second brain without creating friction.md\"> How to collect thought in a second brain without creating friction </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental Health is a reaction to one's environment.md\"> Mental Health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Indigenous.md\"> Indigenous </a>",
+        "<a class=\"internal-link\" href=\"Marriage.md\"> Marriage </a>",
+        "<a class=\"internal-link\" href=\"The Impossible Knife.md\"> The Impossible Knife </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental illness is a reaction to ones environment.md\"> Mental illness is a reaction to ones environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Complex emotions are intellectual understandings of primal urges.md\"> Complex emotions are intellectual understandings of primal urges </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"privilege.md\"> privilege </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/TERFS.md\"> TERFS </a>",
+        "<a class=\"internal-link\" href=\"Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md\"> tweets_Tweets From Completely Stable Genius </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md\"> tweets_Me Peers Nervously At... </a>",
+        "<a class=\"internal-link\" href=\"Do we have free will.md\"> Do we have free will </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender segregation.md\"> gender segregation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender segregation.md\"> gender segregation </a>",
+        "<a class=\"internal-link\" href=\"30 Topics/gender segregation.md\"> gender segregation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\"> tweets_1 Thread For Years, We... </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md\"> tweets_Tweets From Visa Is Stretching (Hips) 🪔 </a>",
         "<a class=\"internal-link\" href=\"What is Ego.md\"> What is Ego </a>",
@@ -7926,25 +7989,32 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md\"> tweets_Tweets From Christian </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md\"> articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md\"> articles_Research Recitation - GitHub Docs </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md\"> articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Five-Factor Model of Personality  Psychology.md\"> articles_Five-Factor Model of Personality  Psychology </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Five-Factor Model of Personality.md\"> articles_Five-Factor Model of Personality </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Urn-2.md\"> articles_Urn-2 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Despite what you've been told, you aren't 'left-brained' or 'right-brained'  Amy Novotney  The Guardian.md\"> articles_Despite what you've been told, you aren't 'left-brained' or 'right-brained'  Amy Novotney  The Guardian </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging.md\"> articles_An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md\"> articles_Bulky Cameras, Meet the Lens-Less FlatCam </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying.md\"> articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md\"> tweets_Tweets From Visa Is Stretching </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\"> tweets_I've Been Reading a Bit... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_How Did the “men Will Li....md\"> tweets_How Did the “men Will Li... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality.md\"> articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Taxonomy of note types  Daily working log  Backlinks can be used to implicitly define nodes in knowledge management systems.md\"> articles_Taxonomy of note types  Daily working log  Backlinks can be used to implicitly define nodes in knowledge management systems </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md\"> articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly” </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md\"> articles_Research Recitation - GitHub Docs </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/Indigenous.md\"> Indigenous </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/privilege.md\"> privilege </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your vault without getting overwhelmed.md\"> Curate source notes and definitions in your vault without getting overwhelmed </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/mental illness.md\"> mental illness </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental ealth is a reaction to one's environment.md\"> Mental ealth is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental Health is a reaction to one's environment.md\"> Mental Health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Complex emotions are intellectual understandings of our chemical environment.md\"> Complex emotions are intellectual understandings of our chemical environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Do we have free will.md\"> Do we have free will </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/BIology supports the validity of trans people.md\"> BIology supports the validity of trans people </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our pre-natal and hormonal environment are the scientific basis of our gender.md\"> Our pre-natal and hormonal environment are the scientific basis of our gender </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our pre-natal and hormonal environment are scientific basis of our gender.md\"> Our pre-natal and hormonal environment are scientific basis of our gender </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation shows how gender has been socially constructed.md\"> Gender segregation shows how gender has been socially constructed </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why does gender exist.md\"> Why does gender exist </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md\"> How Masculinity and the black identity model are represented in 'Moonlight' </a>",
         "<a class=\"internal-link\" href=\"30_Topics/struggle.md\"> struggle </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Were Jesus' teachings are anti-thetical to the modern christian church.md\"> Were Jesus' teachings are anti-thetical to the modern christian church </a>",
@@ -7972,32 +8042,29 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/@visakanv on Twitter.md\"> @visakanv on Twitter </a>",
         "<a class=\"internal-link\" href=\"30_Topics/@visakanv on Twitter.md\"> @visakanv on Twitter </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Everybody can't be a capitalist.md\"> Everybody can't be a capitalist </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/'I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander' - John Green.md\"> 'I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander' - John Green </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/'I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander'.md\"> 'I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander' </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander'.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander' </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/'Don't be the reason that rules exist' - Nathan Eloe.md\"> 'Don't be the reason that rules exist' - Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write what you think.md\"> Write what you think </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduces outcomes.md\"> Insecure material conditions increase cognitive load and reduces outcomes </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/unresolved links output.md\"> unresolved links output </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Imitation is motivated by authority figures.md\"> Imitation is motivated by authority figures </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to store source notes in your vault without getting overwhelmed.md\"> How to store source notes in your vault without getting overwhelmed </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to store source notes and definitions in your vault without getting overwhelmed.md\"> How to store source notes and definitions in your vault without getting overwhelmed </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Collecting thought in without creating friction.md\"> Collecting thought in without creating friction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought without creating friction.md\"> How to collect thought without creating friction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought in a second brain without creating friction.md\"> How to collect thought in a second brain without creating friction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/source notes.md\"> source notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md\"> Were Jesus' teachings anti-thetical to the modern christian church </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/CustomJS/compassion.md\"> compassion </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/compassion.md\"> compassion </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Everybody can't be a capitalist.md\"> Everybody can't be a capitalist </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Indigenous.md\"> Indigenous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Complex emotions are intellectual understandings of primal urges.md\"> Complex emotions are intellectual understandings of primal urges </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental illness is a reaction to ones environment.md\"> Mental illness is a reaction to ones environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental Health is a reaction to one's environment.md\"> Mental Health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"privilege.md\"> privilege </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/TERFS.md\"> TERFS </a>",
+        "<a class=\"internal-link\" href=\"Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md\"> Self-reppression is the most natural response for trans people in strongly gendered environments </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How ADHD effects concentration.md\"> How ADHD effects concentration </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md\"> tweets_Me Peers Nervously At... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md\"> tweets_Tweets From Completely Stable Genius </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
+        "<a class=\"internal-link\" href=\"Do we have free will.md\"> Do we have free will </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender segregation.md\"> gender segregation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\"> tweets_1 Thread For Years, We... </a>",
+        "<a class=\"internal-link\" href=\"30 Topics/gender segregation.md\"> gender segregation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md\"> tweets_Tweets From Visa Is Stretching (Hips) 🪔 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/struggle.md\"> struggle </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
@@ -8028,33 +8095,21 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Eight — The Enneagram Institute.md\"> articles_Type Eight — The Enneagram Institute </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Nine — The Enneagram Institute.md\"> articles_Type Nine — The Enneagram Institute </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Enneagram Type 8w9 - The Diplomat.md\"> articles_Enneagram Type 8w9 - The Diplomat </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia.md\"> articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Highlights From philosophy.ucsc.edu.md\"> articles_Highlights From philosophy.ucsc.edu </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_What We Do — Radical in Progress.md\"> articles_What We Do — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Four.md\"> articles_Type Four </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Misidentifying 4 and 5 — The Enneagram Institute.md\"> articles_Misidentifying 4 and 5 — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Six — The Enneagram Institute.md\"> articles_Type Six — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, Part 1  the Stonewall Reader  Study Guide — Radical in Progress.md\"> articles_Summary, Part 1  the Stonewall Reader  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators.md\"> articles_National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Replacement prod.pdf.md\"> articles_Replacement prod.pdf </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Semantic Battleground The War of Neurodiversity.md\"> articles_Semantic Battleground The War of Neurodiversity </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Historical Foundations of Race.md\"> articles_Historical Foundations of Race </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_7 Ways We Know Systemic Racism Is Real.md\"> articles_7 Ways We Know Systemic Racism Is Real </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Black Identity Development.md\"> articles_Black Identity Development </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Urn.md\"> articles_Urn </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_What if Psychology Took Intersectionality Seriously Changing How Psychologists Think About Participants.md\"> articles_What if Psychology Took Intersectionality Seriously Changing How Psychologists Think About Participants </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_COVID-19 and the Other Pandemic.md\"> articles_COVID-19 and the Other Pandemic </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Highlights From twitter.com.md\"> articles_Highlights From twitter.com </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_VSCodeVimVim Vim for Visual Studio Code.md\"> articles_VSCodeVimVim Vim for Visual Studio Code </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_VIM Mode - Quality of Life Improvements.md\"> articles_VIM Mode - Quality of Life Improvements </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia.md\"> articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"The Impossible Knife.md\"> The Impossible Knife </a>",
+        "<a class=\"internal-link\" href=\"Marriage.md\"> Marriage </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The many transgressions of the christian church.md\"> The many transgressions of the christian church </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental illness is a reaction to ones environment.md\"> Mental illness is a reaction to ones environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance part of being a human.md\"> Is cognitive dissonance part of being a human </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How Neuroscience impacts our daily lives.md\"> How Neuroscience impacts our daily lives </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender segregation.md\"> gender segregation </a>",
+        "<a class=\"internal-link\" href=\"30 Topics/gender segregation.md\"> gender segregation </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"What is Ego.md\"> What is Ego </a>",
         "<a class=\"internal-link\" href=\"00_Meta/unresolved links output.md\"> unresolved links output </a>",
@@ -8097,68 +8152,60 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Next Chapter of Readwise Our Own Reading App.md\"> articles_The Next Chapter of Readwise Our Own Reading App </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying.md\"> articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Taxonomy of note types  Daily working log  Backlinks can be used to implicitly define nodes in knowledge management systems.md\"> articles_Taxonomy of note types  Daily working log  Backlinks can be used to implicitly define nodes in knowledge management systems </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, Part 1  the Stonewall Reader  Study Guide — Radical in Progress.md\"> articles_Summary, Part 1  the Stonewall Reader  Study Guide — Radical in Progress </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_single.dvi.md\"> articles_single.dvi </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Semantic Battleground The War of Neurodiversity.md\"> articles_Semantic Battleground The War of Neurodiversity </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md\"> articles_Research Recitation - GitHub Docs </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Replacement prod.pdf.md\"> articles_Replacement prod.pdf </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Rank and File — Real Life.md\"> articles_Rank and File — Real Life </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Quantum computing for the very curious.md\"> articles_Quantum computing for the very curious </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>"
       ],
       "Linked": [
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md\"> tweets_Tweets From Visa Is Stretching (Hips) 🪔 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md\"> How Masculinity and the black identity model are represented in 'Moonlight' </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md\"> Stereotyping has the pyschological goal of comprehension and self-enhancement </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md\"> You will never be pushed to understand marginalization unless you are part of a marginalized group </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communites </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\"> The actual work of being a good person isn't explored by Christianity </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia.md\"> articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Semantic Battleground The War of Neurodiversity.md\"> articles_Semantic Battleground The War of Neurodiversity </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md\"> textbook_Hyde&Elsequest_pyschology of women and gender </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\"> Rationalizations are defense-mechanisms against strong emotions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md\"> Self-reppression is the most natural response for trans people in strongly gendered environments </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Everybody can't be a capitalist.md\"> Everybody can't be a capitalist </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Why gender exists.md\"> Why gender exists </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\"> Longform media lets you reach people where they are at, short form media lets you reach people where you are at </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance part of being a human.md\"> Is cognitive dissonance part of being a human </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The difference between identity and presentation.md\"> The difference between identity and presentation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Worldviews are wrong if they make life seem easy and simple.md\"> Worldviews are wrong if they make life seem easy and simple </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\"> Is your self-talk bullying you or bodyguarding you </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
-        "<a class=\"internal-link\" href=\"Dictionary (plugin, obsidian).md\"> Dictionary (plugin, obsidian) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to store source notes and definitions in your vault without getting overwhelmed.md\"> How to store source notes and definitions in your vault without getting overwhelmed </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought in a second brain without creating friction.md\"> How to collect thought in a second brain without creating friction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to store source notes and definitions in your vault without getting overwhelmed.md\"> How to store source notes and definitions in your vault without getting overwhelmed </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought in a second brain without creating friction.md\"> How to collect thought in a second brain without creating friction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought without creating friction.md\"> How to collect thought without creating friction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Collecting thought in without creating friction.md\"> Collecting thought in without creating friction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/First Amendment rights impacts groups not individuals.md\"> First Amendment rights impacts groups not individuals </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/unresolved links output.md\"> unresolved links output </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduces outcomes.md\"> Insecure material conditions increase cognitive load and reduces outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md\"> Being cool and marketable isn't the same as having rights </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/videoTransComingOutStory.md\"> videoTransComingOutStory </a>",
-        "<a class=\"internal-link\" href=\"QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md\"> Self-reppression is the most natural response for trans people in strongly gendered environments </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender has historically been non-binary.md\"> Gender has historically been non-binary </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender has historically been non-binary.md\"> Gender has historically been non-binary </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The biblical christian God is evil and does not deserved to be worshipped.md\"> The biblical christian God is evil and does not deserved to be worshipped </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in a unjust world.md\"> What is the cognitive effect of living in a unjust world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Computer Science.md\"> Computer Science </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Poison.md\"> articles_Poison </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Don't be the reason that rules exist.md\"> Don't be the reason that rules exist </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The many transgressions of the christian church.md\"> The many transgressions of the christian church </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can discover your transness at any point in life.md\"> You can discover your transness at any point in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can discover your transness at any point in life.md\"> You can discover your transness at any point in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Complex emotions are intellectual understandings of primal urges.md\"> Complex emotions are intellectual understandings of primal urges </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental illness is a reaction to ones environment.md\"> Mental illness is a reaction to ones environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental Health is a reaction to one's environment.md\"> Mental Health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brains are built around survival.md\"> Our brains are built around survival </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Complex emotions are intellectual understandings of our chemical environment.md\"> Complex emotions are intellectual understandings of our chemical environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/TERFS.md\"> TERFS </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
@@ -8179,7 +8226,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How I process repressed emotions.md\"> How I process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Tips for concentration.md\"> Tips for concentration </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to store source notes and definitions in your vault without getting overwhelmed.md\"> How to store source notes and definitions in your vault without getting overwhelmed </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"10 Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md\"> articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace </a>",
@@ -8217,7 +8269,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear of hell is baked into Christianity.md\"> Fear of hell is baked into Christianity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoWhat is Ego.md\"> videoWhat is Ego </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoWhat is Ego.md\"> videoWhat is Ego </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brains are built around survival.md\"> Our brains are built around survival </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Christianity.md\"> Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>"
       ]
     },
     "40 Evergreens": {

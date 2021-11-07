@@ -9,7 +9,7 @@ tags: node/topic/outline
 ##### [[Behavioral Pyschology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Observational learning]]
-	- [[Children do what they see]]
+	- [[Children will imitate whatever is modeled for them]]
 
 ### <hr class="dataviews"/>
 

@@ -14,7 +14,7 @@ For the most part [[anxiety]] is completely natural and normal [[Neuroscience|ne
 
 - [[Anxiety should be a tool at your disposal not an impedance to your life]]
 - [[Your anxiety knows your insecurities better than you do]]
-- [[How Neuroscience impacts our daily lives]]
+- [[Humans are primarily irrational, illogical, emotional beings]]
 - [[Our brains are built around survival]]
 
 ### <hr class="footnote"/>

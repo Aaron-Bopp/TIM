@@ -19,5 +19,5 @@ Additionally this does not mean that working through trauma will not be hard, or
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[my emotions]], [[depression]], [[trauma]], [[mental health]], [[mental disorders]]
+**Topics**:: [[my emotions]], [[depression]], [[trauma]], [[mental health]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

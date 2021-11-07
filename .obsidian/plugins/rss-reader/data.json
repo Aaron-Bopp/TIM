@@ -1,0 +1,43 @@
+{
+  "feeds": [
+    {
+      "name": "The Iceberg",
+      "url": "https://newsletter.eleanorkonik.com/rss/"
+    },
+    {
+      "name": "Round up",
+      "url": "https://www.obsidianroundup.org/blog/rss/"
+    }
+  ],
+  "read": {
+    "items": [
+      {
+        "title": "The Impossible Knife",
+        "description": "Snowshoeing is hiking in god-mode",
+        "content": "Snowshoeing is hiking in god-mode",
+        "category": "Story & Analysis",
+        "link": "https://newsletter.eleanorkonik.com/the-impossible-knife/",
+        "creator": "Eleanor Konik",
+        "pubDate": "Wed, 03 Nov 2021 08:15:00 GMT",
+        "feed": "The Iceberg"
+      },
+      {
+        "title": "Marriage",
+        "description": "Trial marriage, inter-marriage, & the creation of castes",
+        "content": "<blockquote>Ever since I wrote <a href=\"https://newsletter.eleanorkonik.com/furtive/\">Furtive</a> I&apos;ve been thinking more and more about ancient marriage practices and how different ways of thinking about marriage can manifest in my storytelling.</blockquote><h2 id=\"quick-facts\"><strong><strong>Quick Facts</strong></strong></h2><ul><li>Most civilizations in the Fertile Crescent treated <a href=\"https://eleanorkonik.com/ancient-princesses-ambassador/\" rel=\"noopener\">princesses as a diplomatic corps</a>.</li><li>There was a strong cultural taboo against the daughters of Egyptian Pharaohs were being married off to foreign rulers.</li><li>In Ptolemaic Egypt, second- or third-generation Greek immigrants born in Egypt were most likely to marry outside their ethnic group. (<a href=\"https://www.cambridge.org/core/books/army-and-society-in-ptolemaic-egypt/CE0AAFBE739C936317C3475C95A61E97\" rel=\"noopener\">Source</a>)</li><li>In Japan during the early Kamakura period, <a href=\"https://www.jstor.org/stable/179066\" rel=\"noopener\">marriage had no impact on a daughter&apos;s inheritance rights</a>; she kept her name and her husband had no claim on her property.</li><li>The Inca practiced <em>pantanacuy</em>, a &quot;trial marriage&quot; period of &quot;premarital cohabitation.&quot; <a href=\"https://www.jstor.org/stable/3772990\" rel=\"noopener\">The Augustinian missionaries were pretty upset about it.</a></li></ul><h2 id=\"guilds-to-castes\"><strong><strong>Guilds to Castes</strong></strong></h2><img src=\"https://newsletter.eleanorkonik.com/content/images/2021/10/pexels-qazi-ikram-ul-haq-1199605.jpg\" alt=\"Marriage\"><p>In West Africa&apos;s first &quot;Commercial Age,&quot; villages would specialize in different kinds of manufacturing, then sell products at a central market town. Ironworkers took this specialization to an extreme, creating so many taboos and rituals that they monopolized the skill, creating guilds. Leather workers, potters and other tradesmen started doing the same thing. They wanted to make sure their grandkids continued in the tradition and started marrying their kids to each other. So basically, one way castes can develop is basically through the marriage practices of monopolistic trade guilds. (<a href=\"https://www.upress.virginia.edu/title/2705\" rel=\"noopener\">Source</a>)</p><h2 id=\"tradition-keepers\"><strong><strong>Tradition Keepers</strong></strong></h2><p>Wives who marry into a foreign tribe often feel so &quot;exposed and insecure&quot; that they start imitating the social norms of their adopted culture with exacting precision. This is important because it offers a counterpoint to the idea that intermarriage between tribal groups might be a reason for changes in culture. (<a href=\"https://press.princeton.edu/books/paperback/9780691148182/the-horse-the-wheel-and-language\" rel=\"noopener\">Source</a>)</p><h2 id=\"corruption-support\"><strong><strong>Corruption</strong> Support</strong></h2><p>As clan chiefs in East Africa started to take advantage of their position to build enormous cattle herds around 1000 CE, strategic marriages helped them preserve power. The chiefs would contract marriage alliances with many families in different places in order to give those families a stake in the &quot;new order.&quot; The rise of cattle-keeping also led directly to the elimination of women as chiefs. (<a href=\"https://www.upress.virginia.edu/title/2705\">Source</a>)</p><h2 id=\"no-equal\"><strong><strong>No Equal</strong></strong></h2><p>We don&apos;t know that much about <a href=\"https://www.reddit.com/r/AskHistorians/comments/mnk6yr/how_much_do_we_know_about_what_the_ottoman/\" rel=\"noopener\">Ottoman harems</a>, but they were basically large households. The harem of a prosperous household would include wives and/or concubines. Concubines were relatively high status, but technically slaves. Once they had a child they couldn&apos;t be sold, and they were freed upon their husband&apos;s death. As the power of the Ottomans grew, sultans stopped taking wives entirely; subsequent rulers were all the children of concubines.</p><hr><!--kg-card-begin: html--><div class=\"infobox\">If you found this interesting, you may also enjoy <a href=\"https://eleanorkonik.com/failed-marriages-folklore/\">my article about failed marriages in folklore</a>.</div><!--kg-card-end: html-->",
+        "category": "Research Overview",
+        "link": "https://newsletter.eleanorkonik.com/marriage/",
+        "creator": "Eleanor Konik",
+        "pubDate": "Mon, 01 Nov 2021 08:15:00 GMT",
+        "feed": "The Iceberg"
+      }
+    ]
+  },
+  "favorites": {
+    "items": []
+  },
+  "updateTime": 60,
+  "saveLocation": "default",
+  "saveLocationFolder": "",
+  "template": "---\nlink: {{link}}\nauthor: {{author}}\npublished: {{published}}\n---\n{{content}}"
+}

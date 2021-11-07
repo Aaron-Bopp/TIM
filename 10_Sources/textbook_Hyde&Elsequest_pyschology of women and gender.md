@@ -95,7 +95,7 @@ source: null
 	- --> **[[gender consistency]]** understanding that gender is consistent despite superfical changes in appearance
 	- "Preschoolers rapidly become gender essentialists, believing that differences between woman and men are large and unalterable, and that there can be no behavioral overlap between the categories"
 - **[[Gender self-socialization model]]** => Children do not have to be forced to conform to their assigned gender, they will self-socialize to fit their assigned gender once they have an understanding of what that gender entails.
-- **[[Channeling]]** => the differential treatment in which parents select differenct toys, activities for boys and girls can also involve modeling
+- **[[Channeling]]** => the differential treatment in which [[parents]] select differenct toys, activities for boys and girls can also involve modeling
 - Removing people from negative gendered sterotypes does not mean you are not stereotyping them by gender.
 - Male sterotypes are less broad but more harshly inforced, while female stereotypes are more rigid but more lenient
 # Chapter 3

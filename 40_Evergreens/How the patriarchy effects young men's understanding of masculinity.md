@@ -3,9 +3,9 @@ created: 2021-10-10
 tags: node/evergreen, node/question
 aliases:
   - null
-sr-due: 2021-11-06
-sr-interval: 2
-sr-ease: 170
+sr-due: 2021-11-07
+sr-interval: 1
+sr-ease: 150
 ---
 #### [[How the patriarchy effects young men's understanding of masculinity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 #TO/TEND/REFACTOR title #TO/DO/WRITE/ANSWER 
@@ -22,6 +22,7 @@ sr-ease: 170
 - [[Our understanding of gender begins at a very early age]]
 - [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 - [[Human's will find explanations for inexplainable things]]
+- [[Gender is a social construct]]
 
 ### <hr class="footnote"/>
 

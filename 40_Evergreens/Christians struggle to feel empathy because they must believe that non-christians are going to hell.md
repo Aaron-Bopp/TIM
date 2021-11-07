@@ -1,9 +1,9 @@
 ---
 created: 2021-06-11
 tags: node/evergreen
-sr-due: 2021-11-05
-sr-interval: 13
-sr-ease: 272
+sr-due: 2021-12-29
+sr-interval: 53
+sr-ease: 292
 ---
 
 #### [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -14,8 +14,7 @@ Because [[free-will]] is so integral to loving god and avoiding punishment, it b
 
 How can you love someone you know is condemned to death? How can you bear to live in a world where some people will suffer eternally? How can you bear it?
 
-If christian's were feeling empathy fully for these people that would recieve enternal punishment they wouldn't be able to go on, they wouldn't be able to do anything but evangelize or praise god for allowing them to be spared. Christians that don't do this are experiencing [[cognitive dissonance]], but it has been so ingrained into them that will never acknowledge it [[Rationalizations are defense-mechanisms against strong emotions]]. 
-
+If christian's were feeling empathy fully for these people that would recieve enternal punishment they wouldn't be able to go on, they wouldn't be able to do anything but evangelize or praise god for allowing them to be spared [[Human's will find explanations for inexplainable things]] and Christians will find endless rationalizations around why this is something they can accept, this [[cognitive dissonance]] is fueled by the fear that [[The biblical christian God is evil and does not deserved to be worshipped]] because [[Rationalizations are defense-mechanisms against strong emotions]]. 
 
 ### <hr class="footnote"/>
 

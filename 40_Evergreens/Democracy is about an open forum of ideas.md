@@ -8,7 +8,7 @@ sr-due: 2021-11-11
 sr-interval: 19
 sr-ease: 290
 ---
-#### [[Democracy is about and open forum of ideas]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Democracy is about an open forum of ideas]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/EXPLORE/RESEARCH 
 

@@ -23,7 +23,7 @@
     },
     "Capitalize Headings": {
       "Headings should be formatted with capitalization": true,
-      "Style": "Title Case",
+      "Style": "First Letter",
       "Ignore Cased Words": true,
       "Ignore Words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript, dv, this",
       "Lowercase Words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
@@ -35,7 +35,7 @@
       "Re-indexes footnote keys and footnote, based on the order of occurence (NOTE: This rule deliberately does *not* preserve the relation between key and footnote, to be able to re-index duplicate keys.)": false
     },
     "Footnote after Punctuation": {
-      "Ensures that footnote references are placed after punctuation, not before.": false
+      "Ensures that footnote references are placed after punctuation, not before.": true
     },
     "Remove Multiple Spaces": {
       "Removes two or more consecutive spaces. Ignores spaces at the beginning and ending of the line. ": true
@@ -79,5 +79,7 @@
   },
   "lintOnSave": true,
   "displayChanged": true,
-  "foldersToIgnore": []
+  "foldersToIgnore": [
+    "10_Sources"
+  ]
 }

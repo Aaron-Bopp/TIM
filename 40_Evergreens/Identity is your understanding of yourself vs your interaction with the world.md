@@ -18,7 +18,7 @@ Many people will think they have a strong [[self]], but in actuality this [[self
 
 Those who think they have a weak [[self]] have either realized that they do not have a sense of [[self]] outside of how other's treat them, or that they do not reveal their inner sense of [[self]] to other people. [[Your anxiety knows your insecurities better than you do]]
 
-However, [[self]] is more than just an objective viewing of our actions. [[self]] is also impacted by the physical reactions that our bodies go through.   If we feel a certain way during an interaction that will impact our [[self]], either through a [[conscious]] viewing and reflection on that feeling, or a [[subconscious]] reaction to either avoid or pursue that feeling again. [[Complex emotions are intellectual understandings of primal urges]]
+However, [[self]] is more than just an objective viewing of our actions. [[self]] is also impacted by the physical reactions that our bodies go through.   If we feel a certain way during an interaction that will impact our [[self]], either through a [[conscious]] viewing and reflection on that feeling, or a [[subconscious]] reaction to either avoid or pursue that feeling again. [[Mental health is a reaction to one's environment]]
 
 If your understanding of the world is impaired that means that your [[self]] will be hard to understand.
 

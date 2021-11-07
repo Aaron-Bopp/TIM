@@ -203,7 +203,7 @@ source: NWMSU
                 - National Indian Youth Council 
                 - American Indian Movement
                 - Advocated for [[Indigenous]] [[liberation]]
-                - Reclaim Alcatraz Island for price that was payed for Manhattan it and help not [[indigenous]] people learn of their culture
+                - Reclaim Alcatraz Island for price that was payed for Manhattan it and help not [[Indigenous]] people learn of their culture
                     - Got discussion with President [[Nixon]]
                     - Advocated for many different thigns
         - [[Latine]] Rights

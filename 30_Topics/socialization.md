@@ -25,10 +25,10 @@ Social fitness is a big part of [[human survival]] and [[human advancement]]
 	- [[Gender is a social construct]]
 	- [[Every person has an experience of gender]]
 - Science impacts this experience
-	- [[How Neuroscience impacts our daily lives]]
-	- [[The scientific basis of gender]]
+	- [[Humans are primarily irrational, illogical, emotional beings]]
+	- [[Biology supports the validity of trans people]]
 	- [[Our brains are built around survival]]
-	- [[Complex emotions are intellectual understandings of primal urges]]
+	- [[Mental health is a reaction to one's environment]]
 - Modern Experience
 	- [[Social media]]
 		- [[Tiktok]]

@@ -6,7 +6,7 @@ date modified: Monday, October 4th 2021, 1:21:57 am
 
 #### [[A secure identity is the best defense against social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
- [[Our brains are built around survival]] and what will increase our fitness ([[Neuroscience]]) and one of those is [[socialization|social fitness]]. If you are able to interact and win favor among other humans you are more likely to pass on your genes which thus increases your [[socialization|social fitness]]. The way that this primal urge manifests in our complex understanding of emotion is in [[self-worth]] and by contradiction [[insecurity]] of [[self]]. ([[Complex emotions are intellectual understandings of primal urges]]) 
+ [[Our brains are built around survival]] and what will increase our fitness ([[Neuroscience]]) and one of those is [[socialization|social fitness]]. If you are able to interact and win favor among other humans you are more likely to pass on your genes which thus increases your [[socialization|social fitness]]. The way that this primal urge manifests in our complex understanding of emotion is in [[self-worth]] and by contradiction [[insecurity]] of [[self]]. ([[Mental health is a reaction to one's environment]]) 
 
  If you are insecure in your [[self]], you may feel levels of [[social discomfort]] during [[socialization]]. Part of this is because any slight to you, any level of ineptitude, or feeling of disapproval has nothing to be respelled by. [[A secure identity is the best defense against social anxiety]], but [[self]] is not always the thing being attacked.
 

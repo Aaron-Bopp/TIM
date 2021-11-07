@@ -5,9 +5,9 @@ tags: node/evergreen
 
 #### [[The three main questions of life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Where did we come from? 
-What happens when we die?
-What is our [[purpose]]?
+1. Where did we come from? 
+1. What happens when we die?
+1. What is our [[purpose]]?
 
 
 ---

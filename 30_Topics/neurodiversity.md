@@ -11,7 +11,7 @@ aliases:
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**See**:: [[mental health]], [[mental disorders]]
+**See**:: [[mental health]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[neurodiversity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

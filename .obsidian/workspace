@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ad50b7e1fc506cd",
+        "id": "b2e571db4a2ae103",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/GREEN/GROWING",
+                "query": "tag:#node",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -54,13 +51,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "byModifiedTime",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
+                "showSearch": true,
+                "searchQuery": "-path:00_Meta",
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -70,14 +66,6 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "78928910cc289bc9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
               "state": {}
             }
           },
@@ -95,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,12 +106,20 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "f917f9dfefb62695",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 419
+    "width": 483
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -140,7 +135,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +214,7 @@
                   "repelStrength": 11.2684989429175,
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
-                  "scale": 0.8423636175794158,
+                  "scale": 0.7920320640530745,
                   "close": false
                 }
               }
@@ -239,45 +233,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md"
-              }
-            }
-          },
-          {
-            "id": "3beb092861bf6659",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
               "state": {}
             }
           },
           {
-            "id": "24878a54d8e13ee7",
+            "id": "05507bf410ab41be",
             "type": "leaf",
             "state": {
-              "type": "juggl_nodes",
+              "type": "review-queue-list-view",
               "state": {}
             }
           },
           {
-            "id": "324e384c39c95fe5",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
-            "id": "a18eb2b34d878bff",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "1137047a51639363",
+            "id": "36fb9ad48df96589",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -285,7 +253,39 @@
             }
           },
           {
-            "id": "cf6a87e7226fd02f",
+            "id": "47cd0ab9d043f154",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "78cf38f6e811c2e6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "646e0547e33649b0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "5dd332065265a55a",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "e241a1c9ce083085",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-stats",
@@ -293,30 +293,32 @@
             }
           },
           {
-            "id": "6b42d16f14645e2e",
+            "id": "d3df654d9b109276",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 997
+    "width": 575,
+    "collapsed": true
   },
-  "active": "8ad50b7e1fc506cd",
+  "active": "b2e571db4a2ae103",
   "lastOpenFiles": [
-    "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
-    "30_Topics/note writing.md",
-    "40_Evergreens/Topics are terms that are too broadly defined.md",
-    "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
-    "40_Evergreens/Creating Thought with a Second Brain.md",
-    "30_Topics/second brain.md",
-    "30_Topics/Computer Science.md",
-    "40_Evergreens/Using multiple processes vs multiple threads.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md",
-    "00_Meta/Templates/NOTESCREATEDLISTS.md"
+    "30_Topics/Indigenous.md",
+    "40_Evergreens/The three main questions of life.md",
+    "40_Evergreens/Mental health is a reaction to one's environment.md",
+    "40_Evergreens/Complex emotions are intellectual understandings of primal urges.md",
+    "40_Evergreens/Mental illness is a reaction to ones environment.md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md",
+    "40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
+    "00_Meta/Primary Sources/gender-dysphoria-bible/2 A Brief History of Gender Dysphoria.md",
+    "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md",
+    "The Impossible Knife.md"
   ]
 }

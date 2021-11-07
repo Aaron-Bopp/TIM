@@ -4,4 +4,4 @@ aliases:
 - dissasociate
 tags: node/topic/term
 ---
-**See**::[[anxiety]], [[mental disorders]], [[Neuroscience]]
+**See**::[[anxiety]], [[mental illness]], [[Neuroscience]]

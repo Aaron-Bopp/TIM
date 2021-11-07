@@ -7,5 +7,6 @@
     "flags": "",
     "regexQ": true
   },
-  "openViewOnload": true
+  "openViewOnload": true,
+  "showFunctionNotifications": true
 }

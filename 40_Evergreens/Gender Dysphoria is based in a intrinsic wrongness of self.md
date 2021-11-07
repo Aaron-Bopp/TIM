@@ -11,7 +11,7 @@ sr-ease: 212
 #### [[Gender Dysphoria is based in a intrinsic wrongness of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 ```ad-warning
-Remember, [[Any experience of gender dysphoria is acceptable]] and [[Any experience of gender is acceptable]] are still true. This note explores specifically how [[gender dysphoria]] as it can relate to [[self-image]].
+Remember, [[Any experience of gender dysphoria is acceptable]] and [[Any experience of gender is acceptable]] are still true. This explores specifically how [[gender dysphoria]] as it can relate to [[self-image]].
 ```
 
 
@@ -28,6 +28,6 @@ This incongruity can create a frustration that is incredibly hard to root out an
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender dysphoria]], [[mental disorders]], [[self]], [[transgender]]
+**Topics**:: [[gender dysphoria]], [[mental illness]], [[self]], [[transgender]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

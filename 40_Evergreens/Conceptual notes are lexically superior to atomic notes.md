@@ -3,9 +3,9 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-05
+sr-due: 2021-11-07
 sr-interval: 1
-sr-ease: 192
+sr-ease: 172
 ---
 #### [[Conceptual notes are lexically superior to atomic notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

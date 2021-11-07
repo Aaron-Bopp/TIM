@@ -24,5 +24,5 @@ sr-ease: 186
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender dysphoria]], [[mental disorders]]
+**Topics**:: [[gender dysphoria]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

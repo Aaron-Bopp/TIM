@@ -5,5 +5,5 @@ aliases:
 tags: node/topic/term
 ---
 
-**See**:: [[neurodiversity]], [[mental disorders]]
+**See**:: [[neurodiversity]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

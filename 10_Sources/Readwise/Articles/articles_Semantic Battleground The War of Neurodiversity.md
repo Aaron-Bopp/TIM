@@ -24,7 +24,7 @@ deliveredBy:
 # Highlights
 ##### ^217948693
   
-> The notion of neurodiversity is very compatible with the civil rights plea for minorities to be accorded dignity and acceptance, and not to be pathologized. And while the neurodiversity movement acknowledges that parents or autistic people may choose to try different interventions for specific symptoms that may be causing suffering, it challenges the default assumption that autism itself is a disease or disorder that needs to be eradicated, prevented, treated or cured. 
+> The notion of neurodiversity is very compatible with the civil rights plea for minorities to be accorded dignity and acceptance, and not to be pathologized. And while the neurodiversity movement acknowledges that [[parents]] or autistic people may choose to try different interventions for specific symptoms that may be causing suffering, it challenges the default assumption that autism itself is a disease or disorder that needs to be eradicated, prevented, treated or cured. 
 
 ##### ^217948694
 The phrase standardized measure of functioning strikes me as a important part of this debate. Any standardization cannot encapsulate the experiences of everybody it effects. There is a difference between trying to standardize Autism and ADHD and trying to cure it  

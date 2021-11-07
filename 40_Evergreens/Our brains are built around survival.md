@@ -12,11 +12,9 @@ This is a biological fact reinforced by [[socialization]], [[natural selection]]
 
 This ability to pattern match is a major part of why we have survived as a species (and how we may evolve see [[neurodiversity]]). [[Human's will find explanations for inexplainable things]], if a prehistoric human was attacked by a tiger and survived the rest of their life needed to be focused on avoiding tigers. They needed to be able to remember everything that lead up to the encounter, exactly how it happened, and exactly how to get out of it. However, in modern times, these natural instincts are not always needed to survive, and can even cause more emotional anguish than they prevent. This is the basis for [[PTSD]] and [[anxiety]]. 
 
-[[Complex emotions are intellectual understandings of primal urges]], When the human body is put under stress it will produce various chemicals in order to heighten its chance of survival. These include [[Adrenaline]] and [[Cortisol]]. Adrenaline will hit in seconds and last for minutes after it allows for fast action and hyper awareness of the situation. Cortisol will last for 4-24 hours depending on the duration of the encounter and it keeps you aware and ready to act at a moments notice. [^2] These are the chemicals that allow us to survive incredibly dangerous situations without extraordinary strength or resilience, but they can also be activated at times when they are not really needed.
+When the human body is put under stress it will produce various chemicals in order to heighten its chance of survival. These include [[Adrenaline]] and [[Cortisol]]. Adrenaline will hit in seconds and last for minutes after it allows for fast action and hyper awareness of the situation. Cortisol will last for 4-24 hours depending on the duration of the encounter and it keeps you aware and ready to act at a moments notice. [^2] These are the chemicals that allow us to survive incredibly dangerous situations without extraordinary strength or resilience, but they can also be activated at times when they are not really needed. Anxiety is result of this [^3]  [[Your anxiety is telling you everything that could go wrong not what will go wrong]]
 
-[[Human's have an inability to admit that they are wrong]], [[cognitive dissonance]], [[feedback loop]] possibly related 
-
-For more see [[How Neuroscience impacts our daily lives]]
+For more see [[Humans are primarily irrational, illogical, emotional beings]]
 
 ### <hr class="footnote"/>
 
@@ -27,3 +25,4 @@ For more see [[How Neuroscience impacts our daily lives]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^2]: ![[videoExistential Dread#Chemicals that cause the brain to focus]]
+[^3]: [[Mental health is a reaction to one's environment]]

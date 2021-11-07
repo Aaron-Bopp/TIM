@@ -16,7 +16,7 @@ sr-ease: 280
 > 
 > [[1 What is Gender#^iaqtza]]
 
-This is an important part about accepting yourself as [[transgender]] and because [[Gender is a social construct]] and [[The scientific basis of gender]].
+This is an important part about accepting yourself as [[transgender]] and because [[Gender is a social construct]] and [[Biology supports the validity of trans people]].
 
 This beautiful because of it allows for such a [[diverse]] [[queer]] [[community]].
 

@@ -1,0 +1,8 @@
+{
+  "pluginList": [
+    "joethei/obsidian-rss",
+    "chrisgrieser/obsidian-extra-md-html-syntax"
+  ],
+  "updateAtStartup": false,
+  "ribbonIconEnabled": true
+}

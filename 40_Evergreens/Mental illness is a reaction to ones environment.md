@@ -3,9 +3,9 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-05
-sr-interval: 10
-sr-ease: 256
+sr-due: 2021-11-11
+sr-interval: 5
+sr-ease: 236
 ---
 
 #### [[Mental illness is a reaction to ones environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

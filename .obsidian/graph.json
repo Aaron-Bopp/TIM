@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#node/topic/stub -path:10_Sources -path:\"00_Meta\"",
+  "search": "-path:\"20_Entry\" -path:\"00_Meta\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -71,16 +71,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 0.907058823529412,
   "lineSizeMultiplier": 0.532352941176471,
   "collapse-forces": false,
-  "centerStrength": 0.585365853658537,
+  "centerStrength": 0.536585365853659,
   "repelStrength": 20,
   "linkStrength": 0.987804878048781,
   "linkDistance": 30,
-  "scale": 0.08178090377643338,
+  "scale": 0.030182895067329085,
   "close": false
 }

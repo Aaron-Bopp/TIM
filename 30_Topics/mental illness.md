@@ -9,7 +9,7 @@ parent: [[mental health]]
 **See**:: [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### [[mental disorders]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+##### [[mental illness]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[OCD]]
 - [[ADHD]]
 - [[anxiety]]

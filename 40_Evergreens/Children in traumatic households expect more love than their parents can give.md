@@ -12,7 +12,7 @@ sr-ease: 210
 
 #TO/DO/FIND Dr.K qoute about all children being traumatized
 
-This is because the reason the child's home is traumatic is because of the parents and there is no way the parents can overcome this. The parents are unable to give [[unconditional love]] because they are showing that there are conditions where they do not love the child. If parents [[Parents need to model the ability to deal with emotion to their children|model the ability to deal with emotion to their children]], then the child can be less traumatized.
+This is because the reason the child's home is traumatic is because of the [[parents]] and there is no way the parents can overcome this. The parents are unable to give [[unconditional love]] because they are showing that there are conditions where they do not love the child. If parents [[Parents need to model the ability to deal with emotion to their children|model the ability to deal with emotion to their children]], then the child can be less traumatized.
 
 [[A inwardly judgementful and outwardly accepting home creates trust issues]]
 

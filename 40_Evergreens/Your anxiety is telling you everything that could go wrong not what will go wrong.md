@@ -23,5 +23,5 @@ The reason this happens is rooted in [[Neuroscience]]. [[Anxiety]] is at it's co
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[mental health]], [[mental disorders]], [[self-actualization]], , 
+**Topics**:: [[mental health]], [[mental illness]], [[self-actualization]], , 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,7 +10,7 @@ sr-ease: 275
 ---
 #### [[ADHD reduces working memory]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Our brains are built around survival]] is most true for people with ADHD. [[How Neuroscience impacts our daily lives]]
+[[Our brains are built around survival]] is most true for people with ADHD. [[Humans are primarily irrational, illogical, emotional beings]]
 - [[How ADHD effects concentration]]
 - [[ADHD is primarily an executive function disorder]]
 
@@ -19,7 +19,7 @@ sr-ease: 275
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[ADHD]], [[neurodiversity]], [[mental disorders]]
+**Topics**:: [[ADHD]], [[neurodiversity]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

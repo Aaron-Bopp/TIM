@@ -1,9 +1,11 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Bubble Space",
+  "cssTheme": "Sanctum",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "links"
+    "links",
+    "gradient-hr",
+    "S - Aside"
   ],
   "translucency": false,
   "baseFontSizeAction": false

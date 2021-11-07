@@ -4,17 +4,17 @@ tag:
   - node/evergreen
 aliases:
   - A inwardly judgementful and outwardly accepting home creates trust issues
-sr-due: 2021-11-06
-sr-interval: 4
-sr-ease: 231
+sr-due: 2021-11-08
+sr-interval: 2
+sr-ease: 211
 ---
 
 #### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Parents need to model the ability to deal with emotion to their children]]
 - [[Children in traumatic households expect more love than their parents can give]]
-- [[Children do what they see]]
-- [[Imitation is motivated by authority figures]]
+- [[Children will imitate whatever is modeled for them]]
+- [[Our authority figures curate and reinforce what we are allowed to imitate]]
 - [[childhood]]
 - [[Self-hatred is born out of dissonance between self-image and self-perception]]
 - [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]

@@ -21,7 +21,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 - [[Every person has an experience of gender]]
 	- [[Gender is both an intrinsic experience and an necessary expression]]
 	- [[Any experience of gender is acceptable]]
-- [[The scientific basis of gender]]
+- [[Biology supports the validity of trans people]]
 	- [[Sex determines phenotype and genotype but not gender]]
 - [[transgender]]
 	- [[gender dysphoria]]

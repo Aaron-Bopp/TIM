@@ -12,9 +12,11 @@ sr-ease: 231
 
 #TO/PONDER/ME My experience
 
-[[We carry our childhood wounds into adulthood]] and [[Our understanding of gender begins at a very early age]], so it only follows that [[trauma]] related to our [[gender]] would cause us to repress and [[dissociation|dissasociate]], and this trauma does not require us actually verbalizing our need to transition due to the [[Gender self-socialization model]]. [[Parents need to model the ability to deal with emotion to their children]] and that includes confusion about [[gender]].
+ [[Our understanding of gender begins at a very early age]] and [[We carry our childhood wounds into adulthood]], so it only follows that [[trauma]] related to our [[gender]] would cause us to repress and [[dissociation|dissasociate]]. Even if we never verbalized this our dysphoria because of the [[Gender self-socialization model]] we can still experience this.
+ 
+ [[Parents need to model the ability to deal with emotion to their children]] and that includes confusion about [[gender]]. [[Studies show early acceptance of trans children normalizes mental health outcomes with peers]].
 
-This is why [[You can discover your transness at any point in life]] and [[Any experience of gender is acceptable]]
+Without early acceptance and especially with the onset of puberty, this repression will develop into stronger warning signs: [[Biology supports the validity of trans people]]. This is why [[You can discover your transness at any point in life]] and [[Any experience of gender is acceptable]]
 
 ### <hr class="footnote"/>
 

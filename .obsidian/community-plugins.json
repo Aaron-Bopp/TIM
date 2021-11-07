@@ -59,12 +59,16 @@
   "breadcrumbs",
   "graph-analysis",
   "obsidian-contextual-typography",
-  "obsidian-webhooks",
   "obsidian-html-tags-autocomplete",
   "juggl",
   "obsidian-fullscreen-plugin",
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
+  "obsidian-hider",
+  "obsidian42-brat",
+  "obsidian-extra-md-html-syntax",
+  "sliding-panes-obsidian",
   "obsidian-codemirror-options",
-  "obsidian-hider"
+  "obsidian-languagetool-plugin",
+  "rss-reader"
 ]

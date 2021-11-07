@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2147441,
+  "lastSavedStatusID": 2155512,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -286,7 +286,10 @@
     "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md": "11688276",
     "10_Sources/Readwise/Articles/articles_How To Take Notes From Podcasts With Snipd  Medium.md": "11700445",
     "10_Sources/Readwise/Articles/articles_Poison.md": "11699643",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md": "11731014"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md": "11731014",
+    "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md": "11742871",
+    "10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md": "11744802",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md": "11746280"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false

@@ -21,7 +21,7 @@ There is a difference between idly grabbing every article you read the headline 
 
 Without the knowledge of [[The fragility of nodes in a second brain|which notes introduce fragility]] into your [[second brain]], you can easly become overwhelmed. Here are some guidelines to collect thought without generating friction:
 - [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]. 
-- [[How to store source notes and definitions in your vault without getting overwhelmed]]
+- [[Curate source notes and definitions in your second brain to avoid junk text]]
 - [[Prioritize organization over categorization when outlining topics]]
 - [[Write your notes like you're planting an evergreen forest]]
 - [[Webs of thought are densely linked]]

@@ -3,9 +3,9 @@ created: 2021-10-23
 aliases:
   - A bad decision for a beginner is not the same a bad decision for an expert
 tags: node/evergreen
-sr-due: 2021-11-05
+sr-due: 2021-11-07
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[The more mistakes you've fixed the more bad decisions you can afford]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -21,7 +21,7 @@ Repeatedly failing and fixing it gives you the right to make bad decisions. When
 An experienced note taker know when to just delete a note.
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/CULTIVATE 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Software Development]], [[note writing]]

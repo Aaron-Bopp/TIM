@@ -11,7 +11,7 @@ embedded:
 tags: node/topic/outline
 ---
 
-[[mental health]] covers concepts that vary from [[mental disorders]] to [[neurodiversity]] to [[spirituality]] and how it effects us. 
+[[mental health]] covers concepts that vary from [[mental illness]] to [[neurodiversity]] to [[spirituality]] and how it effects us. 
 
 **See**:: [[INDEX]], [[Neuroscience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
@@ -23,7 +23,7 @@ tags: node/topic/outline
 - How [[neurodiversity]] affects mental health
 	- ![[neurodiversity#neurodivergency customJS dv_funcs topicOutlineHeader dv this]]
 - ![[trauma#trauma customJS dv_funcs topicOutlineHeader dv this]]
-- [[mental disorders]]
+- [[mental illness]]
 - Techniques to improve mental health
 	- [[Tips for concentration]]
 	- [[mindfullness]]

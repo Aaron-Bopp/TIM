@@ -23,6 +23,6 @@ What does this mean for the bible? Moses could have seen a burning bush. Why not
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[mental health]], [[mental disorders]], [[Christianity]], [[Neuroscience]], [[faith]]
+**Topics**:: [[mental health]], [[mental illness]], [[Christianity]], [[Neuroscience]], [[faith]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

@@ -12,7 +12,7 @@ aliases:
 - [[The biblical christian God is evil and does not deserved to be worshipped]]
 - [[The Politicization of the Christian Church]]
 - [[Evangelicalism]]
-- [[The many transgressions of the christian church]]
+- [[The biblical christian God is evil and does not deserved to be worshipped]]
 	- [[Fear of hell is baked into Christianity]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - [[Were Jesus' teachings anti-thetical to the modern christian church]]

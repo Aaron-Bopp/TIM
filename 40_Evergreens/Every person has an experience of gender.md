@@ -3,8 +3,8 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-05
-sr-interval: 3
+sr-due: 2021-11-17
+sr-interval: 11
 sr-ease: 252
 ---
 
@@ -14,7 +14,7 @@ sr-ease: 252
 - [[Our understanding of gender begins at a very early age]]
 - [[Gender self-socialization model]]
 
-While [[Gender is a social construct]] it still has very real impact on our [[human experience]] due to our [[gender schema]]. see [[Why gender exists]]
+While [[Gender is a social construct]] it still has very real impact on our [[human experience]] due to our [[gender schema]]. see [[Gender segregation increases gendered play]]
 
 ### <hr class="footnote"/>
 

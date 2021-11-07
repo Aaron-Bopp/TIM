@@ -3,9 +3,9 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-06
-sr-interval: 4
-sr-ease: 212
+sr-due: 2021-11-18
+sr-interval: 12
+sr-ease: 232
 ---
 
 #### [[Sex determines phenotype and genotype but not gender]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
