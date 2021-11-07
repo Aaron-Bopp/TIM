@@ -13,7 +13,6 @@
   "recent-files-obsidian",
   "mrj-add-codemirror-matchbrackets",
   "quickadd",
-  "supercharged-links-obsidian",
   "darlal-switcher-plus",
   "quick-explorer",
   "obsidian-copy-block-link",
@@ -68,7 +67,9 @@
   "obsidian42-brat",
   "obsidian-extra-md-html-syntax",
   "sliding-panes-obsidian",
-  "obsidian-codemirror-options",
   "obsidian-languagetool-plugin",
-  "rss-reader"
+  "rss-reader",
+  "obsidian-codemirror-options",
+  "supercharged-links-obsidian",
+  "adjacency-matrix-maker"
 ]

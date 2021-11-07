@@ -118,7 +118,7 @@ deliveredBy:
 
 ##### ^238994009
   
-> I wanted to share some of my observations in the hopes that it might be helpful to ADHDers who have experienced trauma — especially emotional abandonment by caregivers, which is so common in our community and yet hardly spoken about. 
+> I wanted to share some of my observations in the hopes that it might be helpful to ADHDers who have experienced trauma — especially emotional abandonment by caregivers, which is so common in our [[community]] and yet hardly spoken about. 
   [^238994009]
 
 [^238994009]:  https://twitter.com/samdylanfinch/status/1448640064578199557

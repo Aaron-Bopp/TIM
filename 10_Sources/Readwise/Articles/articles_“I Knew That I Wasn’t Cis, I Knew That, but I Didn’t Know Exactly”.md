@@ -19,7 +19,7 @@ deliveredBy:
 **Creator**::
 
 # Highlights
-### “I knew that I wasn’t cis, I knew that, but I didn’tknow exactly”: Gender identity development,expression and affirmation in youth who accessgender affirming medical care
+### “I knew that I wasn’t [[cis]], I knew that, but I didn’tknow exactly”: Gender identity development,expression and affirmation in youth who accessgender affirming medical care
 ##### ^239481822
   
 > Gender identitydevelopment; transchildren; trans youth;gender affirming care;gender dysphoria;qualitative research 

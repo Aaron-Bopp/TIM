@@ -195,7 +195,7 @@ ego can consume
 
 ##### ^212156782
   
-> Moreover, Sexual types seek intimacy, Social types seek *personal connection*: they want to stay in long-term contact with people and to be involved in their world. Social types are the most concerned with doing things that will have some impact on their community, or even broader domains. 
+> Moreover, Sexual types seek intimacy, Social types seek *personal connection*: they want to stay in long-term contact with people and to be involved in their world. Social types are the most concerned with doing things that will have some impact on their [[community]], or even broader domains. 
   [^212156782]
 
 [^212156782]:  https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=2%2F12%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A221%2C4%2F12%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A213#:~:text=Moreover%2C%20Sexual%20types%20seek%20intimacy%2C%2Ccommunity%2C%20or%20even%20broader%20domains.

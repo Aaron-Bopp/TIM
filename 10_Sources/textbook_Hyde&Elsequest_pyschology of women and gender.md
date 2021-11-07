@@ -112,7 +112,7 @@ source: null
 - Q: What is [[deindividuation]]?
 	- A state where the person is anonymous and the [[self|identity]] is not emphasized or demphasized. Individuation brings the identity to the front and of mind and places the person in a social situation. Deindividuation has been shown to remove gender differentials in some studies.
 - [[Identity is a sense of self, not a pattern of traits or behavior]]
-	- Most people who score high on adrogyny scales have definitie cisgender indentities
+	- Most people who score high on adrogyny scales have definitie [[cis|cisgender]] indentities
 # Chapter 10 Biology and gender
 - [[Epigenetics]] - changes in the gene expressions caused by factors other than DNA
 - Q: What is a brain mosaic?

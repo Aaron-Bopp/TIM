@@ -75,7 +75,7 @@ deliveredBy:
 > 5. “Crowding out the police in our communities” (*ibid*).
 > 6. “Disarming the police” (*ibid*).
 > 7. “Creating abolitionist messages that penetrate the public consciousness to disrupt the idea that cops = safety” (*ibid*).
-> 8. “Building community-based interventions that address harms without relying on police” (*ibid*).
+> 8. “Building [[community]]-based interventions that address harms without relying on police” (*ibid*).
 > 9. “Evaluating any reforms based on these criteria” (*ibid*).
 > 10. “Thinking through the end of the police and imagining alternatives” (*ibid*). 
   [^212884910]

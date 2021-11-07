@@ -6,7 +6,7 @@ aliases:
   - the scientific basis of gender
   - why does gender exist
   - The history of gender
-  - the politisization of gender
+  - the politicization of gender
 sr-due: 2021-11-09
 sr-interval: 17
 sr-ease: 290
@@ -22,15 +22,15 @@ Current discussion of [[gender roles]], [[Patriarchy]], [[feminism]], [[sexism]]
 
 The answer is unfortunately in [[Politics]], and the [[Rise of Modern Conservatism]]
 
-[[Transgender]] people have been demonized in our society, and [[religion|religious]] fundamentalism has caused endless [[childhood]] [[trauma]]: [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+[[Transgender]] people have been demonized in our [[society]], and [[religion|religious]] fundamentalism has caused endless [[childhood]] [[trauma]]: [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
 
-Especially within the last thirty years, trans [[activism|activists]] have built support for the [[Queer]] community, and pushed doctors and the government to support treatement for [[gender dysphoria]]. They have advocated that [[Any experience of gender is acceptable]] and improved the lives of trans people, but as these beliefs have become more main stream they have received backlash.
+Especially within the last thirty years, trans [[activism|activists]] have built support for the [[Queer]] [[community]], and pushed doctors and the government to support treatement for [[gender dysphoria]]. They have advocated that [[Any experience of gender is acceptable]] and improved the lives of trans people, but as these beliefs have become more main stream they have received backlash.
 
-The prominence of the [[gender binary]] in our [[socialization]], the politisization of [[gender]], and the fact [[Every person has an experience of gender]], means that a lot of personal and systemic privilege comes with being [[cis|cisgender]]. [^2] Most people's [[gender schema]] does not allow for [[gender non-comformity]], and they implicitely understand that allowing for that will attack their place in the [[Patriarchy]].[^3] For this reason [[transphobia]] is more prominent in men (see [[Masculinism]]) and [[religion|religious]] people, but unfortunately it has also invaded [[feminism|feminist]] spaces and created the phenomina of [[TERFS]]. 
+The prominence of the [[gender binary]] in our [[socialization]], the politicization of [[gender]], and the fact [[Every person has an experience of gender]], means that a lot of personal and systemic [[privilege]] comes with being [[cis|cisgender]]. [^2] Most people's [[gender schema]] does not allow for [[gender non-comformity]], and they implicitely understand that allowing for that will attack their place in the [[Patriarchy]].[^3] For this reason [[transphobia]] is more prominent in men (see [[Masculinism]]) and [[religion|religious]] people, but unfortunately it has also invaded [[feminism|feminist]] spaces and created the phenomina of [[TERFS]]. 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[human experience]], [[Psychology]]

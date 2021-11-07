@@ -24,7 +24,7 @@ deliveredBy:
 ##### ^246026369
   
 > Me: *peers nervously at transphobia*
-> “Hey uh, wifey, perhaps I can find some coping mechanisms and be cis…”
+> “Hey uh, wifey, perhaps I can find some coping mechanisms and be [[cis]]…”
 > Wife: “Oh no you don’t. I am not having a nervous breakdown because you’ve decided to be miserable, depressed and suicidal.” 
   [^246026369]
 

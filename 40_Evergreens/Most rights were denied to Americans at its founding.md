@@ -7,7 +7,7 @@ aliases:
 
 #### [[Most rights were denied to Americans at its founding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Many rights that now exist were denied to [[women]], [[black people]], and [[indigenous]] peoples by our [[founding fathers]] like healthcare, housing, [[education]], fair trial, to vote, etc., 
+Many rights that now exist were denied to [[women]], [[black people]], and [[Indigenous]] peoples by our [[founding fathers]] like healthcare, housing, [[education]], fair trial, to vote, etc., 
 
 ### <hr class="footnote"/>
 

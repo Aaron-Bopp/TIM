@@ -157,67 +157,62 @@ class dv_funcs {
         dv.header(3, `Notes not in ${dv.current().file.name} outline`)
         this.statusTable({
             ...args,
-            folder: "TopicNotes"
+            folder: "30_Topics"
         })
         this.statusTable({
             ...args,
-            folder: "EvergreenNotes"
+            folder: "40_Evergreens"
         })
         this.defaultTable({
             ...args,
-            pagesArray: this.notLinkedPages({ dv, folder: "ContentNotes", that }),
+            pagesArray: this.notLinkedPages({ dv, folder: "10_Sources", that }),
             title: "ContentNotes"
         })
     }
 
     outlinedIn(dv, that, page = dv.current(), excludeAlreadyLinked = true) {
-        console.log(page)
-        const linkedNotes = page.parents || page.topics || []
-        const linkedNames = []
-        try {
-            linkedNames = linkedNotes.type === 'file' ? [linkedNotes.path] : linkedNotes.map(l => l.path) //path only has names 
-        } catch {
+            const linkedNotes = page.parents || page.topics || []
+            const linkedNames = []
+            try {
+                linkedNames = linkedNotes.type === 'file' ? [linkedNotes.path] : linkedNotes.map(l => l.path) //path only has names 
+            } catch {
 
+            }
+
+            const inlinks = page.file.inlinks.filter(l => l.path.contains("TopicNotes"))
+                //grab names
+                .map(l => this.getFileNameFromPath(l.path))
+                //if exclude aloow filter
+                .filter(name => excludeAlreadyLinked && linkedNames.includes(name))
+                // console.log(inlinks)
+
+            let outlinedIn = inlinks.filter(name =>
+                name !== dv.current().file.name &&
+                this.getNotesInOutline(name, dv, that).includes(dv.current().file.name) &&
+                !this.getFileNameFromPath(page.file.path) !== name
+            )
+
+            if (!outlinedIn || outlinedIn.length === 0) {
+                return ""
+            }
+            if (outlinedIn.length > 0) {
+                // console.log(linkedNotes)
+                // if (linkedNames.length > 0) {
+                //     return '\\- ' + outlinedIn.map(n => dv.fileLink(n)).join(',')
+                // }
+                // console.log(outlinedIn.map(n => dv.fileLink(n)))
+                return outlinedIn.map(n => dv.fileLink(n))
+            }
         }
-
-        const inlinks = page.file.inlinks.filter(l => l.path.contains("TopicNotes"))
-            //grab names
-            .map(l => this.getFileNameFromPath(l.path))
-            //if exclude aloow filter
-            .filter(name => excludeAlreadyLinked && linkedNames.includes(name))
-            // console.log(inlinks)
-
-        let outlinedIn = inlinks.filter(name =>
-            name !== dv.current().file.name &&
-            this.getNotesInOutline(name, dv, that).includes(dv.current().file.name) &&
-            !this.getFileNameFromPath(page.file.path) !== name
-        )
-
-        if (!outlinedIn || outlinedIn.length === 0) {
-            return ""
-        }
-        if (outlinedIn.length > 0) {
-            // console.log(linkedNotes)
-            // if (linkedNames.length > 0) {
-            //     return '\\- ' + outlinedIn.map(n => dv.fileLink(n)).join(',')
-            // }
-            // console.log(outlinedIn.map(n => dv.fileLink(n)))
-            return outlinedIn.map(n => dv.fileLink(n))
-        }
+        // get the number of topics, evergreens, and source notes and return them as a string
+    mentionedIn(dv) {
+        const inlinks = dv.current().file.inlinks
+        const topics = inlinks.filter(l => l.path.contains("30_Topics")).length
+        const evergreens = inlinks.filter(l => l.path.contains("40_Evergreens")).length
+        const sources = inlinks.filter(l => l.path.contains("10_Sources")).length
+        return `<s class="aside-in">*mentioned in ${topics} topics, ${evergreens} evergreens, ${sources} sources*</s>`
     }
 
-    uncreatedLinks(dv, that) {
-        let allPages = dv.pages('"SecondBrain"')
-        let allNames = allPages.map(p => p.file.name)
-        let unlinkedAll = Array.from(allPages.map((p) => {
-            let text = this.getFileText(p.file.path, that)
-            return Array.from(text.matchAll(/\[\[([^\]\#\|]+)[^\]]*\]\]/g), m => m[1])
-                .filter((n => !allNames.includes(n))).flat()
-                //  .forEach(n => unlinked[n] ? unlinked[n] += 1 : unlinked[n] = 1)
-        })).flat()
-        let unlinkedSet = dv.array(Array.from(new Set(unlinkedAll))).sort(n => unlinkedAll.filter(p => p === n).length, 'desc')
-        return unlinkedSet.map(n => `| ${dv.fileLink(n)} | ${dv.fileLink('SecondBrain\\TopicNotes\\' + n)} | ${dv.fileLink('SecondBrain\\EvergreenNotes\\' + n)} | ${unlinkedAll.filter(p=> p === n).length} |`).join("\n\n")
-    }
     topicOutlineHeader(dv, that) {
         return this.getIO(dv.current(), dv, that, true)
     }

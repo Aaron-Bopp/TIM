@@ -3,7 +3,7 @@
   "search": "-path:\"20_Entry\" -path:\"00_Meta\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 0.987804878048781,
   "linkDistance": 30,
-  "scale": 0.030182895067329085,
-  "close": false
+  "scale": 0.19420358808996155,
+  "close": true
 }

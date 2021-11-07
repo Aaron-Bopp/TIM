@@ -25,7 +25,7 @@ deliveredBy:
 # Highlights
 ##### ^212893712
   
-> **Transformative justice**, as Kaba defines it, is “a community process developed by anti-violence activists of color, in particular, who wanted to create responses to violence that do what criminal punishment systems fail to do: build support and more safety for the person harmed, figure out how the broader context was set up for this harm to happen, and how that context can be changed so that this harm is less likely to happen again” (p. 59). 
+> **Transformative justice**, as Kaba defines it, is “a [[community]] process developed by anti-violence activists of color, in particular, who wanted to create responses to violence that do what criminal punishment systems fail to do: build support and more safety for the person harmed, figure out how the broader context was set up for this harm to happen, and how that context can be changed so that this harm is less likely to happen again” (p. 59). 
   [^212893712]
 
 [^212893712]:  https://radicalinprogress.org/kaba-2021-3?__readwiseLocation=0%2F0%2F3%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A0%2C1%2F3%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A423#:~:text=Transformative%20justice%2C%20as%20Kaba%20defines%2Cto%20happen%20again%E2%80%9D%20(p.%2059).

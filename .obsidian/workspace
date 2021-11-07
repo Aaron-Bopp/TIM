@@ -4,11 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e571db4a2ae103",
+        "id": "6370bfb22277c050",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "3a883996ec8e2337",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/anxiety.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "feba6305fa2a3d61",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/mindfullness.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node",
+                "query": "tag:#EVER/SPROUT",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -51,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "30_Topics/mindfullness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -83,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "30_Topics/mindfullness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,6 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "30_Topics/mindfullness.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,7 +262,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "30_Topics/mindfullness.md"
+              }
             }
           },
           {
@@ -285,7 +316,7 @@
             }
           },
           {
-            "id": "e241a1c9ce083085",
+            "id": "3a7d60af8c26b5ee",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-stats",
@@ -293,7 +324,7 @@
             }
           },
           {
-            "id": "d3df654d9b109276",
+            "id": "1f33c6bf4219550f",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
@@ -308,17 +339,17 @@
     "width": 575,
     "collapsed": true
   },
-  "active": "b2e571db4a2ae103",
+  "active": "feba6305fa2a3d61",
   "lastOpenFiles": [
-    "30_Topics/Indigenous.md",
-    "40_Evergreens/The three main questions of life.md",
+    "30_Topics/mindfullness.md",
+    "30_Topics/anxiety.md",
+    "40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md",
     "40_Evergreens/Mental health is a reaction to one's environment.md",
-    "40_Evergreens/Complex emotions are intellectual understandings of primal urges.md",
-    "40_Evergreens/Mental illness is a reaction to ones environment.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md",
-    "40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
-    "00_Meta/Primary Sources/gender-dysphoria-bible/2 A Brief History of Gender Dysphoria.md",
-    "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md",
-    "The Impossible Knife.md"
+    "Marsh P Johnson.md",
+    "30_Topics/cis.md",
+    "30_Topics/masking.md",
+    "30_Topics/dissociation.md",
+    "30_Topics/realism.md",
+    "30_Topics/Tiktok.md"
   ]
 }

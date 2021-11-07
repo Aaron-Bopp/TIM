@@ -44,7 +44,7 @@ Some of these core wounds sound like:
 These are just a few of the themes I’ve noticed in trauma survivors with ADHD. 
 Oftentimes, we are perfectionists driven to perform in hopes of securing the unconditional care and love we didn’t receive as young people. [](https://twitter.com/samdylanfinch/status/1448639694900641794)
 ###### 
-I wanted to share some of my observations in the hopes that it might be helpful to ADHDers who have experienced trauma — especially emotional abandonment by caregivers, which is so common in our community and yet hardly spoken about. [](https://twitter.com/samdylanfinch/status/1448640064578199557)
+I wanted to share some of my observations in the hopes that it might be helpful to ADHDers who have experienced trauma — especially emotional abandonment by caregivers, which is so common in our [[community]] and yet hardly spoken about. [](https://twitter.com/samdylanfinch/status/1448640064578199557)
 ###### 
 IMO: This is also why ADHD clinicians need to be trauma-informed, too.
 It’s not enough to just address executive dysfunction. Our hearts deserve true healing, too, which begins and ends with deep self-acceptance work. [](https://twitter.com/samdylanfinch/status/1448640658336481281)

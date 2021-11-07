@@ -25,7 +25,7 @@ deliveredBy:
 # Highlights
 ##### ^241310233
   
-> The neuroscience community has never accepted the idea of 'left-dominant' or 'right-dominant' personality types. Lesion studies don't support it, and the truth is that it would be highly inefficient for one half of the brain to consistently be more active than the other 
+> The neuroscience [[community]] has never accepted the idea of 'left-dominant' or 'right-dominant' personality types. Lesion studies don't support it, and the truth is that it would be highly inefficient for one half of the brain to consistently be more active than the other 
   [^241310233]
 
 [^241310233]:  https://theguardian.com/commentisfree/2013/nov/16/left-right-brain-distinction-myth?__readwiseLocation=0%2F1%2F1%2F11%2F0%2F0%2F0%2F0%2F7%2F0%2F0%2F8%3A0%2C0%2F1%2F1%2F11%2F0%2F0%2F0%2F0%2F7%2F0%2F0%2F8%3A270#:~:text=The%20neuroscience%20community%20has%20never%2Cmore%20active%20than%20the%20other

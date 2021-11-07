@@ -34,18 +34,21 @@ div.nav-file-title-content[data-link-tags*="#EVER/GREEN" i]::before {
 [data-link-tags*="topic"],
 a.internal-link[data-link-tags*="topic"] {
     color: rgb(202, 116, 17) !important;
+    transition: rgb(202, 116, 17) !important;
 }
 
 [data-link-tags*="evergreen"],
 a.internal-link[data-link-tags*="evergreen"] {
     color: rgba(84, 202, 37, 0.863) !important;
+    transition: rgba(84, 202, 37, 0.863) !important;
 }
 
-[data-link-tags*="term"],
+
+/* [data-link-tags*="term"],
 a.internal-link[data-link-tags*="term"] {
     color: #50fa7b;
     font-weight: 550;
-}
+} */
 
 a.internal-link[data-link-tags*="term"]::before,
 div.nav-file-title-content[data-link-tags*="term"]::before {

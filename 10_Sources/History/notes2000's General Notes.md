@@ -17,7 +17,7 @@ source: NWMSU
     - [[Domestic Policy]]
         - Compassionate conservatism
             - traditional conservative ideas + social goals
-            - faith based and community initiatives
+            - faith based and [[community]] initiatives
                 - qualms over separation of church and state
             - stem cell debate
         - education reform

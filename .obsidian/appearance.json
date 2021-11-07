@@ -1,11 +1,12 @@
 {
   "baseFontSize": 16,
   "cssTheme": "Sanctum",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "links",
     "gradient-hr",
-    "S - Aside"
+    "S - Aside",
+    "aside"
   ],
   "translucency": false,
   "baseFontSizeAction": false
