@@ -1,15 +1,11 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Clair de Lune",
+  "cssTheme": "Dracula for Obsidian",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "links",
-    "S - Aside",
     "aside",
-    "S - Images Adjustments",
-    "S - External Link Icons",
-    "S - Embed Adjustments",
-    "S - Admonitions"
+    "S - Aside",
+    "links"
   ],
   "translucency": false,
   "baseFontSizeAction": false

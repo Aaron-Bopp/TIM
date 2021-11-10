@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "ead9507d23e8a6a8",
+    "id": "fa59feeb4c6ed1c1",
     "type": "split",
     "children": [
       {
-        "id": "cb3ae875bf86c0fd",
+        "id": "979c8aa80c4556c7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/DID (Dissociative Idenitty Disorder).md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/source/tweets",
+                "query": "tag:#node/topic/stub",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -51,6 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "30_Topics/DID (Dissociative Idenitty Disorder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -62,19 +66,12 @@
             }
           },
           {
-            "id": "0c769aef4d9945f1",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
-          },
-          {
             "id": "fda1645ab822e2df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "30_Topics/DID (Dissociative Idenitty Disorder).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -92,7 +89,7 @@
             }
           },
           {
-            "id": "5b36959cc250803a",
+            "id": "ae91071cbfd77785",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -119,11 +116,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "30_Topics/DID (Dissociative Idenitty Disorder).md"
+              }
             }
           },
           {
-            "id": "67a971758c440a71",
+            "id": "e48a69cf0cb8f3bf",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -131,7 +130,7 @@
             }
           },
           {
-            "id": "acd3fde621257558",
+            "id": "3ddadcad7df49aee",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -139,7 +138,15 @@
             }
           },
           {
-            "id": "79527a796824c9ae",
+            "id": "7725dfd7c09e7901",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "27f8b7b9a1bb500b",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -147,7 +154,7 @@
             }
           },
           {
-            "id": "96b6002aaf7326ff",
+            "id": "c196be09245c56ca",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -155,39 +162,14 @@
             }
           },
           {
-            "id": "7fc53da45c28c58e",
+            "id": "9c9cb8621dcbb86d",
             "type": "leaf",
             "state": {
               "type": "RSS_FEED",
               "state": {}
             }
-          },
-          {
-            "id": "c1cded4ee8768665",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "029f8504b58bfd36",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f492766586fcc65",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "84f4f33f118f4527",
@@ -200,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "30_Topics/DID (Dissociative Idenitty Disorder).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,17 +275,17 @@
     "width": 611.5,
     "collapsed": true
   },
-  "active": "cb3ae875bf86c0fd",
+  "active": "979c8aa80c4556c7",
   "lastOpenFiles": [
-    "asdf.md",
-    "10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md",
-    "10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md",
-    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-    "40_Evergreens/Karma is based in the law of cause and effect.md",
+    "30_Topics/DID (Dissociative Idenitty Disorder).md",
     "20_Entry/KANBAN.md",
-    "20_Entry/INDEX.md",
-    "30_Topics/31_Stubs/friction.md",
-    "10_Sources/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md"
+    "20_Entry/NOW.md",
+    "20_Entry/CONTENTNOTES.md",
+    "20_Entry/Commits.md",
+    "10_Sources/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md",
+    "10_Sources/Personal/Nathan Eloe.md",
+    "30_Topics/Monolithic Kernel.md",
+    "10_Sources/Operating Systems/notes_OS_Operating Systems.md",
+    "10_Sources/Operating Systems/notes_OS_Deadlock.md"
   ]
 }

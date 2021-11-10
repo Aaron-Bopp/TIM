@@ -9,11 +9,11 @@ sr-ease: 230
 ---
 #### [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-First: Maximize link force, minimize link distance, and find a balance between repel force and centering force where you can start to see groupings of related notes. This will work somewhat for just [[evergreen notes]], but will work even better if you have topic notes that naturally appear in notes without you having to think about linking them (you still need to create the links, either with the outgoing links pane or scripts or manually). Maps of content can either be helpful or hindering, depending on how many you have and how many notes link out of each one.
+First: Maximize link force, minimize link distance, and find a balance between repel force and centering force where you can start to see groupings of related notes. You may need to filter out large index's or add links to get groupings to appear.
 
 There will start to be noticeable stuctures:
-- Large groupings of evergreen notes around large topics 
-- Related topics growing closer together with more shared notes
+- Large groupings of evergreen notes around topics 
+- Related topics intersecting each other
 - New areas of study/thought can be seen as penninsulas and islands
 - Interdisciplinary notes can be seen as connecting two largely seperate topic groups. 
 
@@ -23,6 +23,7 @@ These relations become useful as your graph becomes larger. You should be surpri
 
 If have less than ~200 notes, don't think too much about the graph. It can be really fun to look at, but you will be tempted to overlink, to make notes just to add links to them and it will distract you from actually adding value to your vault. [[Powerful tools make dangerous toys]]. Instead, focus on [[Your second brain should be frictionless access to a curated base of knowledge]], [[Write your notes like you're planting an evergreen forest]] 
 
+This will work somewhat for just [[evergreen notes]], but will work even better if you have topic notes that naturally appear in notes without you having to think about linking them (you still need to create the links, either with the outgoing links pane or scripts or manually). Maps of content can either be helpful or hindering, depending on how many you have and how many notes link out of each one.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

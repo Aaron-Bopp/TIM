@@ -6,6 +6,7 @@ tags: node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
+Prejudice based on someone's sex or [[gender identity]]
 
-**See**::
+**See**:: [[gender]]. [[social justice]], [[women]], [[queerphobia]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

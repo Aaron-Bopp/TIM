@@ -37,9 +37,9 @@ I prefer this kind of todo list because I can create it from anywhere in my vaul
 - This structure is both a reference for what kind of note it is, but also an entry point to work on [[evergreen notes]]s
 - **\#EVER** see all the [[evergreen notes]] in the [[Obsidian (software)]]
 	- These essentially functions as my writing inbox. If it doesn't have a body or links it cannot store for long and I needs to be looked at 
-	- **\#EVER/SEED** a seed of thought which could lie dormant or could flower quickly
-		- **#EVER/SEED/UNPLANTED** has no links into the [[web of thought]]
-		- **#EVER/SEED/WATER** has no body
+	- **\#EVER\/SEED** a seed of thought which could lie dormant or could flower quickly
+		- **#EVER\/SEED/UNPLANTED** has no links into the [[web of thought]]
+		- **#EVER\/SEED/WATER** has no body
 	- Once I have gotten my initial thoughts out I like to let notes mature for a while (so I can gain clarity and find opportunitys to link them elsewhere) before they become evergreens.
 	- **\#EVER/SPROUT** a concept that has information and value, but I have no current intention of expanding
 		- **#EVER/SPROUT/WATER** I have source notes or ideas that I want to add 
@@ -55,4 +55,3 @@ I prefer this kind of todo list because I can create it from anywhere in my vaul
 
 **Topics**:: [[second brain]], [[Obsidian (software)]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

@@ -3765,11 +3765,6 @@
       "tags": 0,
       "links": 35
     },
-    "20_Entry/Journal.md": {
-      "size": 22860,
-      "tags": 2,
-      "links": 47
-    },
     "20_Entry/KANBAN.md": {
       "size": 518,
       "tags": 0,
@@ -5095,11 +5090,6 @@
       "tags": 2,
       "links": 9
     },
-    "40_Evergreens/Acting Bio.md": {
-      "size": 849,
-      "tags": 3,
-      "links": 4
-    },
     "40_Evergreens/ADHD is primarily an executive function disorder.md": {
       "size": 601,
       "tags": 2,
@@ -5320,11 +5310,6 @@
       "tags": 3,
       "links": 12
     },
-    "40_Evergreens/How I process repressed emotions.md": {
-      "size": 4519,
-      "tags": 2,
-      "links": 9
-    },
     "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md": {
       "size": 1187,
       "tags": 5,
@@ -5355,16 +5340,6 @@
       "tags": 3,
       "links": 6
     },
-    "40_Evergreens/I have a stored up emotion of hating myself.md": {
-      "size": 1270,
-      "tags": 4,
-      "links": 9
-    },
-    "40_Evergreens/I thought negative emotions were natural and that positive emotions weren't real.md": {
-      "size": 2428,
-      "tags": 2,
-      "links": 15
-    },
     "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md": {
       "size": 2165,
       "tags": 2,
@@ -5374,11 +5349,6 @@
       "size": 128,
       "tags": 1,
       "links": 0
-    },
-    "40_Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md": {
-      "size": 1799,
-      "tags": 3,
-      "links": 11
     },
     "40_Evergreens/index note.md": {
       "size": 349,
@@ -5455,19 +5425,9 @@
       "tags": 3,
       "links": 43
     },
-    "40_Evergreens/My relationship with my parents.md": {
-      "size": 1079,
-      "tags": 3,
-      "links": 11
-    },
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md": {
       "size": 3556,
-      "tags": 18,
-      "links": 8
-    },
-    "40_Evergreens/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md": {
-      "size": 911,
-      "tags": 4,
+      "tags": 17,
       "links": 8
     },
     "40_Evergreens/My worldview is not about conversion it is about acceptance.md": {
@@ -5845,11 +5805,6 @@
       "tags": 2,
       "links": 7
     },
-    "40_Evergreens/What is my path to happiness.md": {
-      "size": 867,
-      "tags": 3,
-      "links": 9
-    },
     "40_Evergreens/What is the cognitive effect of living in a unjust world.md": {
       "size": 852,
       "tags": 3,
@@ -5937,7 +5892,7 @@
     },
     "00_Meta/Templates/1NEWTOPICNOTE.md": {
       "size": 187,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "00_Meta/Templates/BIONOTE.md": {
@@ -6022,7 +5977,7 @@
     },
     "00_Meta/Templates/TOPICNOTE.md": {
       "size": 302,
-      "tags": 0,
+      "tags": 1,
       "links": 2
     },
     "00_Meta/Templates/TOPIC_HEADER.md": {
@@ -6404,11 +6359,6 @@
       "size": 10676,
       "tags": 0,
       "links": 18
-    },
-    "00_Meta/Primary Sources/gender-dysphoria-bible/I relate to.md": {
-      "size": 13186,
-      "tags": 1,
-      "links": 26
     },
     "00_Meta/Primary Sources/Classes/Comp Sci/ADB Assignment-10.md": {
       "size": 3305,
@@ -7078,7 +7028,7 @@
     "00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md": {
       "size": 11352,
       "tags": 0,
-      "links": 37
+      "links": 40
     },
     "00_Meta/Primary Sources/Classes/Pyschology/White Privilege write-up.md": {
       "size": 3708,
@@ -7229,11 +7179,6 @@
       "size": 1107,
       "tags": 1,
       "links": 14
-    },
-    "40_Evergreens/Nathan Eloe.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
     },
     "40_Evergreens/Negative influences are stronger than positive influences.md": {
       "size": 0,
@@ -7515,11 +7460,6 @@
       "tags": 0,
       "links": 1
     },
-    "10_Sources/'Don't be the reason that rules exist' - Nathan Eloe.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 1
-    },
     "40_Evergreens/The fragility of nodes in a second brain.md": {
       "size": 3371,
       "tags": 2,
@@ -7668,7 +7608,7 @@
     "30_Topics/sexism.md": {
       "size": 0,
       "tags": 1,
-      "links": 0
+      "links": 5
     },
     "40_Evergreens/The triad of ever increasing social anxiety.md": {
       "size": 1177,
@@ -7959,13 +7899,83 @@
       "size": 6058,
       "tags": 2,
       "links": 1
+    },
+    "30_Topics/31_Stubs/queerphobia.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "30_Topics/32_Terms/modern sexism.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "10_Sources/Personal/I relate to.md": {
+      "size": 13186,
+      "tags": 1,
+      "links": 26
+    },
+    "10_Sources/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md": {
+      "size": 911,
+      "tags": 4,
+      "links": 8
+    },
+    "10_Sources/Personal/Acting Bio.md": {
+      "size": 849,
+      "tags": 3,
+      "links": 4
+    },
+    "10_Sources/Personal/How I process repressed emotions.md": {
+      "size": 4519,
+      "tags": 2,
+      "links": 9
+    },
+    "10_Sources/Personal/I have a stored up emotion of hating myself.md": {
+      "size": 1270,
+      "tags": 4,
+      "links": 9
+    },
+    "10_Sources/Personal/I thought negative emotions were natural and that positive emotions weren't real.md": {
+      "size": 2428,
+      "tags": 2,
+      "links": 15
+    },
+    "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md": {
+      "size": 1799,
+      "tags": 3,
+      "links": 11
+    },
+    "10_Sources/Personal/My relationship with my parents.md": {
+      "size": 1079,
+      "tags": 3,
+      "links": 11
+    },
+    "10_Sources/Personal/What is my path to happiness.md": {
+      "size": 867,
+      "tags": 3,
+      "links": 9
+    },
+    "10_Sources/Personal/Journal.md": {
+      "size": 22860,
+      "tags": 2,
+      "links": 47
+    },
+    "10_Sources/Personal/Nathan Eloe.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "10_Sources/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1026,
-      "Create": 1644,
-      "Link": 2402,
+      "Refactor": 1039,
+      "Create": 1646,
+      "Link": 2413,
       "Expand": 41
     },
     "40 Evergreens": {
@@ -7991,9 +8001,9 @@
       "11": 21,
       "12": 320,
       "13": 41,
-      "14": 2140,
+      "14": 2151,
       "15": 80,
-      "16": 794,
+      "16": 809,
       "17": 812,
       "18": 124,
       "19": 36,
@@ -8033,7 +8043,7 @@
     "/": {
       "Mon": 64,
       "Tue": 464,
-      "Wed": 344,
+      "Wed": 370,
       "Thu": 194,
       "Fri": 27,
       "Sat": 0,
@@ -8095,6 +8105,8 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/modern sexism.md\"> modern sexism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/queerphobia.md\"> queerphobia </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md\"> tweets_This Book (‘No Contest’... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching-2.md\"> tweets_Tweets From Visa Is Stretching-2 </a>",
@@ -8143,11 +8155,21 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md\"> tweets_Tweets From Visa Is Stretching </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\"> tweets_I've Been Reading a Bit... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md\"> 'Don't be the reason that rules exist' - Nathan Eloe </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/Nathan Eloe.md\"> Nathan Eloe </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/My relationship with my parents.md\"> My relationship with my parents </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\"> In order to for my parents to love me, they need to admit they might be wrong </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\"> I thought negative emotions were natural and that positive emotions weren't real </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/How I process repressed emotions.md\"> How I process repressed emotions </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/Acting Bio.md\"> Acting Bio </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md\"> My unfulfilled need for parental validation became a fear of rejection and disregarment of affection </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/I relate to.md\"> I relate to </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
@@ -8186,21 +8208,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your vault without getting overwhelmed.md\"> Curate source notes and definitions in your vault without getting overwhelmed </a>",
         "<a class=\"internal-link\" href=\"30_Topics/mental illness.md\"> mental illness </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental ealth is a reaction to one's environment.md\"> Mental ealth is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental Health is a reaction to one's environment.md\"> Mental Health is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Complex emotions are intellectual understandings of our chemical environment.md\"> Complex emotions are intellectual understandings of our chemical environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Do we have free will.md\"> Do we have free will </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/BIology supports the validity of trans people.md\"> BIology supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our pre-natal and hormonal environment are the scientific basis of our gender.md\"> Our pre-natal and hormonal environment are the scientific basis of our gender </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our pre-natal and hormonal environment are scientific basis of our gender.md\"> Our pre-natal and hormonal environment are scientific basis of our gender </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/1NEWTOPICNOTE.md\"> 1NEWTOPICNOTE </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/TOPICNOTE.md\"> TOPICNOTE </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/modern sexism.md\"> modern sexism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/queerphobia.md\"> queerphobia </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>",
@@ -8247,11 +8261,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md\"> tweets_I’m Planning to Go to Si... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md\"> tweets_It’s Funny How Sometimes... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md\"> tweets_Every Week, I Post a Thr... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md\"> tweets_Filters Have Almost Neve... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching-2.md\"> tweets_Tweets From Visa Is Stretching-2 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md\"> tweets_This Book (‘No Contest’... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md\"> tweets_Filters Have Almost Neve... </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -8311,6 +8321,13 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/modern sexism.md\"> modern sexism </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/queerphobia.md\"> queerphobia </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/sexism.md\"> sexism </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/sexism.md\"> sexism </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>",
@@ -8354,14 +8371,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md\"> tweets_Me Peers Nervously At... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md\"> tweets_Tweets From Completely Stable Genius </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Clarifying It Seems Lik....md\"> tweets_Clarifying It Seems Lik... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md\"> tweets_I’m Planning to Go to Si... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md\"> tweets_It’s Funny How Sometimes... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md\"> tweets_Every Week, I Post a Thr... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md\"> tweets_Filters Have Almost Neve... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching-2.md\"> tweets_Tweets From Visa Is Stretching-2 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md\"> tweets_This Book (‘No Contest’... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md\"> tweets_I’m Planning to Go to Si... </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
@@ -8392,7 +8402,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Creating Thought with a Second Brain.md\"> Creating Thought with a Second Brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mermaid (software).md\"> Mermaid (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",

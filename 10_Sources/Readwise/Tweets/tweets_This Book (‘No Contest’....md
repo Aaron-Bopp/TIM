@@ -43,7 +43,7 @@ highlight_tags:: [[self]]
 > “Those who work with, rather than against, others feel more in control of their own lives.” 
   [^247738275]
 
-[^247738275]: https://twitter.com/roryreckons/status/1458286972724678658
+[^247738275]:  https://twitter.com/roryreckons/status/1458286972724678658 
 
 ##### ^247738276
   
@@ -51,6 +51,7 @@ highlight_tags:: [[self]]
   [^247738276]
 
 [^247738276]: https://twitter.com/roryreckons/status/1458288034563035139
+
 
 ##### ^247738277
   

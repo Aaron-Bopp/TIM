@@ -1,11 +1,11 @@
 ---
-created: 2021-11-09
+created: 2021-11-10 
 aliases:
   - null
-tags: node/topic/stub
+tags: stub/topic
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-**See**::
+**See**:: [[transphobia]], [[homophobia]], [[sexism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`* 
 

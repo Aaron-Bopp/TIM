@@ -211,6 +211,15 @@
 2.  “[Sexism May Be Harmful to Men’s Mental Health](https://www.apa.org/news/press/releases/2016/11/sexism-harmful),” web article from _American Psychological Association_.
 3.  [[Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
 
+## Notes
+- [[sexism]]
+- [[modern sexism]] - a more subtle form of sexism not involving explicit admission of sexist beliefs, i.e denial of sexism, complainst about "special treatment," endorsement of double-standards
+- [[How the patriarchy effects young men's understanding of masculinity]]
+	- higher levels of sexist behavior
+	- higher levels of negative mental health outcomes
+	- lower likelihood of seeking help
+	- Generally masculine people can be affected by this even if they are not toxically masculine
+
 # Week 14 
 
 1.  Chapter 4, Focus 4.1: Racial Microaggressions, pp. 90-91. Access through your Else-Quest & Hyde (2018) textbook.
@@ -224,6 +233,3 @@ No assigned readings.
 
 1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact 1.pdf]] 
 2.  “[The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice),” web article from _Greater Good Magazine_, published by University of California, Berkeley.
-
-
-==link==
