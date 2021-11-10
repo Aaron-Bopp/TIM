@@ -15,7 +15,7 @@ Since March 2021 I have become very interested in [[knowledge management]] and t
 	- [[Write your notes like you're planting an evergreen forest]]
 	- [[Webs of thought are densely linked]]
 	- [[The fragility of nodes in a second brain]]
-	- [[Write what you think]]
+	- [[When in doubt, write what you think]]
 	- [[Make your inbox into an entry point]]
 - Organization
 	- [[Capture your fleeting thoughts]]

@@ -9,6 +9,12 @@ sr-ease: 230
 ---
 #### [[Friction is the number one hindrance to learning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+```ad-note
+title: How does this apply to a [[second brain]]?
+1. [[Your second brain should be frictionless access to a curated base of knowledge]]
+2. [[Your second brain should be an inspirational hub of creativity]]
+```
+
 What causes friction?
 - A difficult problem 
 - Forgetting what you already learned 

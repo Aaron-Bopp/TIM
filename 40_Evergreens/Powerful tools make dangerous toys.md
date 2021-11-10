@@ -4,8 +4,11 @@ aliases:
   - null
 
 tags: node/evergreen
+sr-due: 2021-11-10
+sr-interval: 1
+sr-ease: 230
 ---
-#### [[Programming is a powerful tool and a dangerous toy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Powerful tools make dangerous toys]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 I have wasted so much time on a coding tasks because I either didn't comprehend the amount of work that would be required to actually get a result or did not spend time looking for existing alternatives. Is this really wasted time when the act of programming in itself can be a learning process depends on how you approach the project.
 

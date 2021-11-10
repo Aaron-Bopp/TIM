@@ -20,10 +20,10 @@ Startup Dual Server (after installation):: `python3 server.py --path "c:\Users\s
 
 Dual Skills
 - [[find related concepts]]
-- [[SecondBrain/EvergreenNotes/Answer open questions]]
-- [[SecondBrain/EvergreenNotes/Fomulate questions]]
-- [[SecondBrain/EvergreenNotes/do math]]
-- [[SecondBrain/EvergreenNotes/related topics]]
+- [[Answer open questions]]
+- [[Fomulate questions]]
+- [[do math]]
+- [[related topics]]
 
 ### <hr class="footnote"/>
 

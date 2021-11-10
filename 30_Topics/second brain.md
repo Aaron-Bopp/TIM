@@ -13,11 +13,11 @@ A second brain is a term that refers to a system of written thought that allows 
 ##### [[second brain]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Why are you creating a Second Brain
 	- Are you taking notes to collect content or to create content
-		- [[Creating Thought with a Second Brain]]
+		- [[Your second brain should be an inspirational hub of creativity]]
 		- [[Your second brain should be frictionless access to a curated base of knowledge]]
 	- Starting your [[second brain]]
 		- [[Write your notes like you're planting an evergreen forest]]
-		- [[Write what you think]]
+		- [[When in doubt, write what you think]]
 		- [[Learning how systems work can be a gateway to creating thought]]
 - Methods of Constructing a Second Brain
 	- [[Zettlekassen]]

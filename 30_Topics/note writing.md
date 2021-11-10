@@ -24,7 +24,7 @@ aliases:
 	- [[source notes]]
 	- [[topic note]]
 - How to write notes
-	- [[Write what you think]]
+	- [[When in doubt, write what you think]]
 	- 
 
 ### <hr class="dataviews"/>

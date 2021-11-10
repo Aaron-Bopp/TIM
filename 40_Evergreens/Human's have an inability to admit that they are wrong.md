@@ -11,6 +11,8 @@ sr-ease: 219
 
 Once the [[subconscious|ego]] has internalized a belief as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]].
 
+[[We are confined to the tools of our time]]
+
 The fundamental [[Neuroscience|neurological]] process behind this is [[Rationalizations are defense-mechanisms against strong emotions]]
 
 - [ ] It is a reason for [[Conservatism|Conservatives]] [[cognitive dissonance]] #TO/PONDER/SOCIETY [[What is the cognitive effect of living in a unjust world]] as related to [[Human's will find explanations for inexplainable things]]

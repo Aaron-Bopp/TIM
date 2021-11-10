@@ -3,6 +3,9 @@ created: 2021-07-30
 tags: node/evergreen
 aliases:
   - null
+sr-due: 2021-11-10
+sr-interval: 1
+sr-ease: 211
 ---
 
 #### [[We value our biggest insecurities because they protect us from the biggest threats]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,6 +18,7 @@ With a small fear, we are often annoyed at it but for a large one, while we may 
 
 This valuing is often not conscious, or the threat cannot be named easily both because of the same process of [[rationalization]].
 #TO/EXPLORE/WATCH video drk made on this
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 

@@ -21,7 +21,7 @@ As you spend more time in the graph, you will start to recognize related structu
 
 These relations become useful as your graph becomes larger. You should be surprised at the links and the closness you are seeing between nodes, and often this only happen when you have so many nodes and working in your vault frequently enough to forget how many links you add.
 
-If have less than ~200 notes, don't think too much about the graph. It can be really fun to look at, but you will be tempted to overlink, to make notes just to add links to them and it will distract you from actually adding value to your vault. [[Programming is a powerful tool and a dangerous toy]]. Instead, focus on [[Your second brain should be frictionless access to a curated base of knowledge]], [[Write your notes like you're planting an evergreen forest]] 
+If have less than ~200 notes, don't think too much about the graph. It can be really fun to look at, but you will be tempted to overlink, to make notes just to add links to them and it will distract you from actually adding value to your vault. [[Powerful tools make dangerous toys]]. Instead, focus on [[Your second brain should be frictionless access to a curated base of knowledge]], [[Write your notes like you're planting an evergreen forest]] 
 
 ### <hr class="footnote"/>
 

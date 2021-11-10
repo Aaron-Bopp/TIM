@@ -1,5 +1,7 @@
 ---
 created: 2021-05-22
+aliases:
+  - Collecting thought with a second brain
 tags: node/evergreen
 sr-due: 2021-11-16
 sr-interval: 7
@@ -22,7 +24,7 @@ There is a difference between idly grabbing every article you read the headline 
 Without the knowledge of [[The fragility of nodes in a second brain|which notes introduce fragility]] into your [[second brain]], you can easly become overwhelmed. Here are some guidelines to collect thought without generating friction:
 - [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]. 
 - [[Curate source notes and definitions in your second brain to avoid junk text]]
-- [[Prioritize organization over categorization when outlining topics]]
+- [[Prioritize organization over categorization to avoid wasted energy]]
 - [[Write your notes like you're planting an evergreen forest]]
 - [[Webs of thought are densely linked]]
 

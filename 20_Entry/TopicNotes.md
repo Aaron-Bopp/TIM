@@ -1,10 +1,6 @@
 ---
 date modified: Thursday, September 30th 2021, 9:39:19 am
 ---
-`$=(dv.pages().where(p => p.file.path.contains("OrganizationalNotes")).map(p => dv.fileLink(p.file.path)))`
-```ActivityHistory
-SecondBrain/TopicNotes
-```
 
 # TopicNotes Overview
 

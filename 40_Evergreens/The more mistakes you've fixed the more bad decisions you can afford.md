@@ -3,22 +3,24 @@ created: 2021-10-23
 aliases:
   - A bad decision for a beginner is not the same a bad decision for an expert
 tags: node/evergreen
-sr-due: 2021-11-09
-sr-interval: 2
-sr-ease: 190
+sr-due: 2021-11-10
+sr-interval: 1
+sr-ease: 170
 ---
 
 #### [[The more mistakes you've fixed the more bad decisions you can afford]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-A bad decision for a beginner is not the same a bad decision for an expert
+##### Repeatedly failing and fixing it gives you the right to make bad decisions.
 
-A bad decision for an expert is one that takes away their time from the most meaningful tasks for less fruitful or fullfilling tasks [[Programming is a powerful tool and a dangerous toy]]
+A bad decision for a beginner is not the same a bad decision for an expert. A bad decision for an expert is one that takes away their time from the most meaningful tasks for less fruitful or fullfilling tasks: [[Powerful tools make dangerous toys]]
 
-A bad decision for a beginner is one the will not teach them how to succeed or teach them to make more mistakes. ex [5 Minutes Per Stage - YouTube](https://www.youtube.com/watch?v=wfasQwNJ1G0) A hard rule may be the more difficult path but will setup future success. Hard disciplines breed masters, easy disciplines attract wannabes.
+A bad decision for a beginner is one the will not teach them how to succeed or teach them to make more mistakes. [^1] A hard rule may be the more difficult path but will setup future success. Hard disciplines breed masters, easy disciplines attract wannabes.
 
-Repeatedly failing and fixing it gives you the right to make bad decisions. An experienced note taker know when to just delete a note.
+[^1]: ex [5 Minutes Per Stage - YouTube](https://www.youtube.com/watch?v=wfasQwNJ1G0)
 
- When I stared my [[second brain]], I made a lot of really specific [[evergreen notes]] and had no methodology for surfacing old notes except by stumbling upon them. They were linked into other notes, but there were so many new notes being created that many fell through the cracks. This caused me to make lots of duplicate notes that essentially had the same meaning as other notes. This was wasted thought because I didn't have access to those relevant notes. When I started to use [[Spaced repetition]] for my notes these "duplicate" notes started coming out through the woodwork and I had to spend time refactoring them and deciding how to incorporate these notes: [[The fragility of nodes in a second brain]], [[Curate source notes and definitions in your second brain to avoid junk text]], [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
+ ##### An experienced note taker know when to just delete a note.
+
+ When I stared my [[second brain]], I made a lot of really specific [[evergreen notes]] and had no methodology for surfacing old notes except by stumbling upon them. They were linked into other notes, but there were so many new notes being created that many fell through the cracks leading me to duplicate thoughts because I could not find the relevant note. When I started to use [[Spaced repetition]] for my notes, these "duplicate" notes started coming out through the woodwork and I had to spend time refactoring them and deciding how to incorporate these notes: [[Friction is the number one hindrance to learning]].
 
 ### <hr class="footnote"/>
 

@@ -3,8 +3,8 @@ created: 2021-10-19
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-09
-sr-interval: 5
+sr-due: 2021-11-21
+sr-interval: 12
 sr-ease: 230
 ---
 #### [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,9 +15,10 @@ With long form media you can take people on journeys to your conclusion, but wit
 >
 > <cite>[[@visakanv on Twitter|visakanv]]</cite>
 
+[[Evergreen notes]] are the intersection of this. Conceptually they are small enough to reach people where they are at, but they are interconnected with your entire [[second brain]], making your entire base of knowledge available: [[Communities are knowledge graphs]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT/WATER  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[socialization|inter-personal communication]], [[influence]]
