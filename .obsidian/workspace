@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "4cc3a9c0d96fc1b2",
+    "id": "c8fbefb8202f4070",
     "type": "split",
     "children": [
       {
-        "id": "95c8dbe2301a7954",
+        "id": "a85bb93100415d2e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,10 +36,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SPROUT/wa",
+                "query": "tag:#TO",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
@@ -62,14 +62,6 @@
             }
           },
           {
-            "id": "688f422485480db5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "0c769aef4d9945f1",
             "type": "leaf",
             "state": {
@@ -89,14 +81,6 @@
             }
           },
           {
-            "id": "555e9b453997c003",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "e5b4565528193b1b",
             "type": "leaf",
             "state": {
@@ -108,18 +92,19 @@
             }
           },
           {
-            "id": "86fd84d999bd5189",
+            "id": "5b36959cc250803a",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
+              "type": "recent-files",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 707
+    "width": 442.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -128,7 +113,7 @@
       {
         "id": "b7b3aaa71b0c0df5",
         "type": "tabs",
-        "dimension": 44.87951807228915,
+        "dimension": 44.879518072289144,
         "children": [
           {
             "id": "b977b5a232ac5471",
@@ -187,7 +172,7 @@
             }
           },
           {
-            "id": "3e2be5d128f38cb6",
+            "id": "c30af952fb5c7133",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-stats",
@@ -195,7 +180,7 @@
             }
           },
           {
-            "id": "668fd10f462e4e84",
+            "id": "78d12dc2c6e0c754",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
@@ -203,12 +188,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "84f4f33f118f4527",
         "type": "tabs",
-        "dimension": 55.12048192771085,
+        "dimension": 55.120481927710856,
         "children": [
           {
             "id": "031fe1b37666a6d6",
@@ -305,20 +290,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 735,
+    "width": 611.5,
     "collapsed": true
   },
-  "active": "95c8dbe2301a7954",
+  "active": "a85bb93100415d2e",
   "lastOpenFiles": [
+    "10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md",
+    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
+    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+    "40_Evergreens/Karma is based in the law of cause and effect.md",
+    "20_Entry/KANBAN.md",
+    "20_Entry/INDEX.md",
+    "30_Topics/31_Stubs/friction.md",
     "10_Sources/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
     "10_Sources/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md",
-    "10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md",
-    "10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md",
-    "30_Topics/@visakanv on Twitter.md",
-    "10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md",
-    "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
-    "40_Evergreens/Fear is the number one hindrance to trying.md",
-    "40_Evergreens/Friction is the number one hindrance to learning.md",
-    "40_Evergreens/When in doubt, write what you think.md"
+    "10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md"
   ]
 }

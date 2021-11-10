@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2177410,
+  "lastSavedStatusID": 2180632,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -292,7 +292,11 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md": "11746280",
     "10_Sources/Readwise/Tweets/tweets_Clarifying It Seems Lik....md": "11800086",
     "10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md": "11800248",
-    "10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md": "11807041"
+    "10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md": "11807041",
+    "10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md": "11809720",
+    "10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md": "11809742",
+    "10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md": "11809941",
+    "10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md": "11810009"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false

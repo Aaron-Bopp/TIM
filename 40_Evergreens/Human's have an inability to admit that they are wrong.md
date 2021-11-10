@@ -15,7 +15,7 @@ Once the [[subconscious|ego]] has internalized a belief as true it will work ver
 
 The fundamental [[Neuroscience|neurological]] process behind this is [[Rationalizations are defense-mechanisms against strong emotions]]
 
-- [ ] It is a reason for [[Conservatism|Conservatives]] [[cognitive dissonance]] #TO/PONDER/SOCIETY [[What is the cognitive effect of living in a unjust world]] as related to [[Human's will find explanations for inexplainable things]]
+- [ ] It is a reason for [[Conservatism|Conservatives]] [[cognitive dissonance]] [[What is the cognitive effect of living in a unjust world]] as related to [[Human's will find explanations for inexplainable things]] #TO/PONDER/SOCIETY 
 
 ### <hr class="footnote"/>
 

@@ -53,7 +53,6 @@
   "customjs",
   "advanced-cursors",
   "cross-reference-navigation",
-  "file-tree-alternative",
   "obsidian-gallery",
   "breadcrumbs",
   "graph-analysis",
@@ -74,5 +73,6 @@
   "obsidian-frontmatter-tag-suggest",
   "obsidian-tidy-footnotes",
   "obsidian-mind-map",
-  "obsidian-codemirror-options"
+  "obsidian-codemirror-options",
+  "card-board"
 ]

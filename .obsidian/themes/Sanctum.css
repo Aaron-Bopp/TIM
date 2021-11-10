@@ -162,15 +162,15 @@ Table of Contents
 :root {
 /* ────────────────────────────── Font Families ───────────────────────────── */
 
---font-sans: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', Arial, sans-serif;
+--font-sans: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', 'Inter', sans-serif;
 --font-serif: 'IBM Plex Serif', 'Georgia', Times, serif;
 --font-mono: 'IBM Plex Mono', 'iA Writer Mono V', 'iA IBM Plex Mono', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Courier, monospace;
 --mermaid-font: var(--font-sans);
 
---font-preview: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', Arial, sans-serif;
---font-editor: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', Arial, sans-serif;
---font-ui: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', Arial, sans-serif;
---font-heading: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', Arial, sans-serif;
+--font-preview: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', 'Inter', sans-serif;
+--font-editor: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', 'Inter', sans-serif;
+--font-ui: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', 'Inter', sans-serif;
+--font-heading: 'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', 'Inter', sans-serif;
 --footnote-id: 'Footnotes';
 
 /* ────────────────────────────── Font Weights ────────────────────────────── */
@@ -1256,6 +1256,11 @@ border-left: 0px solid transparent;
     margin-bottom: var(--size-3);
 }
 
+.workspace-drawer .side-dock-settings {
+    margin-top: auto;
+    margin-bottom: var(--size-9);
+}
+
 /* ────────────────────────────── File Explorer ───────────────────────────── */
 /*-- File Explorer padding --*/
 .nav-files-container {
@@ -1783,18 +1788,22 @@ body:not(.no-sanctum-icons) div.view-header-icon > svg {
 
 .view-header-title,
 .workspace-leaf.mod-active .view-header-title {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: pre;
+    overflow: auto;
     font-size: var(--font-scale-00);
     font-weight: var(--font-semi-bold);
     line-height: var(--leading-3);
     letter-spacing: var(--tracking-0);
     padding: var(--size-3)
-             var(--size-0)
+             var(--size-5)
              var(--size-0)
              var(--size-0);
     color: var(--text-normal);
+    word-wrap: normal;
+}
+
+.view-header-title-container div.view-header-title::-webkit-scrollbar {
+    display: none;
 }
 
 .wrap-note-title .view-header-title,
@@ -4243,6 +4252,12 @@ textarea.sync-history-content {
     background-color: var(--color-hover);
 }
 
+.suggestion-container .suggestion .suggestion-flair {
+    margin-left: -4px;
+    transform: scale(.8);
+    margin-top: -2px
+}
+
 .prompt-results .suggestion-flair {
     left: 0px;
     transform: scale(0.8);
@@ -5491,10 +5506,10 @@ body.is-mobile .nav-action-button svg {
     padding: 8px 0;
     margin: 8px 0;
 }
-
+/*
 .workspace-drawer-ribbon .side-dock-settings:last-child {
     margin-bottom: 16px;
-}
+}*/
 
 /* ───────────────────────────── Plugin Support ───────────────────────────── */
 
@@ -5657,11 +5672,57 @@ button.table-close::before {
 #calendar-container.fantasy-calendar .arrow.right svg {
     transform: rotate(180deg);    
 }
+
+#calendar-container.fantasy-calendar .fantasy-nav {
+    padding-left: 12px;
+}
+
+#calendar-container div.reset-button {
+    color: var(--text-muted);
+}
+
+#calendar-container.fantasy-calendar .clickable-icon svg.gear{
+    opacity: .8;
+}
+
 /* highlighted day */
 #calendar-container.fantasy-calendar .day.fantasy-day.viewing {
     background-color: var(--color-hover);
     border: none;
     padding: 10px 8px 2px 8px;
+}
+
+#calendar-container.fantasy-calendar .day.fantasy-day.active {
+    background-color: var(--background-primary);
+    border-bottom: 2px solid var(--color-accent);
+    padding: 10px 8px 2px 8px;
+    border-radius: 50px;
+}
+
+#calendar-container.fantasy-calendar .day.fantasy-day.active:hover {
+    background-color: var(--color-hover);
+    transition: background-color var(--duration-slow-2) var(--motion-entrance-expressive);
+}
+
+.theme-dark #calendar-container.fantasy-calendar .day.fantasy-day.active:hover {
+    background-color: var(--color-primary-20);
+}
+
+#calendar-container.fantasy-calendar div.weeks {
+    border-radius: 0px;
+    border-right: 0px solid var(--color-border-1);
+}
+
+#calendar-container.fantasy-calendar .weeks > span.week-num {
+    border-radius: 0px;
+    border-bottom: 1px solid var(--color-border-2);
+    padding-bottom: 6px;
+    padding-top: 4px;
+}
+
+#calendar-container.fantasy-calendar .weekdays {
+    border-radius: 0px;
+    border-bottom: 1px solid var(--color-border-2);
 }
 
 #calendar-container {
@@ -7280,22 +7341,22 @@ settings:
         id: font-preview
         title: Preview Mode Font
         type: variable-text
-        default: "'iA Writer Quattro V', 'Helvetica Neue', Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        default: "'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
     - 
         id: font-editor
         title: Edit Mode Font
         type: variable-text
-        default: "'iA Writer Quattro V', 'Helvetica Neue', Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        default: "'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
     - 
         id: font-ui
         title: UI font
         type: variable-text
-        default: "'iA Writer Quattro V', 'Helvetica Neue', Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        default: "'IBM Plex Sans', 'iA Writer Quattro V', 'Helvetica Neue', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
     - 
         id: font-mono
         title: Monospace Font
         type: variable-text
-        default: "'iA Writer Mono V', 'iA IBM Plex Mono', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Courier, monospace"
+        default: "'IBM Plex Mono', 'iA Writer Mono V', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Courier, monospace"
     - 
         id: headings-title
         title: Headings
@@ -7306,7 +7367,7 @@ settings:
         id: font-heading
         title: Heading Font
         type: variable-text
-        default: "'iA Writer Quattro V', 'Helvetica Neue', Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        default: "'iA Writer Quattro V', 'Helvetica Neue', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
     -
         id: heading-1
         title: Heading 1 Size

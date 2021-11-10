@@ -1,10 +1,9 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "everforest",
+  "cssTheme": "Clair de Lune",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "links",
-    "gradient-hr",
     "S - Aside",
     "aside",
     "S - Images Adjustments",

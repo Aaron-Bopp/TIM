@@ -28,3 +28,11 @@ deliveredBy:
 
 [^245658317]:  https://twitter.com/visakanv/status/1456431617082150912
 
+# New highlights added November 10, 2021 at 9:34 AM
+##### ^247735957
+[[Fear is the number one hindrance to trying]]  
+> think i've been spending ~80% of my writing/editing time on the first 2/3rds of the book, and it's the final 1/3rd that's weak that I have been avoiding, that's also keeping me from publishing. extra funny because I have a whole section in the middle about this exact phenomena 
+  [^247735957]
+
+[^247735957]:  https://twitter.com/visakanv/status/1458298790989885440
+

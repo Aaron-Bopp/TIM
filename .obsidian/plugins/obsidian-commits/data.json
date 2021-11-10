@@ -7648,7 +7648,7 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md": {
       "size": 923,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md": {
       "size": 7091,
@@ -7939,13 +7939,33 @@
       "size": 0,
       "tags": 3,
       "links": 7
+    },
+    "10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md": {
+      "size": 10915,
+      "tags": 2,
+      "links": 1
+    },
+    "10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md": {
+      "size": 2179,
+      "tags": 2,
+      "links": 2
+    },
+    "10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md": {
+      "size": 2117,
+      "tags": 2,
+      "links": 2
+    },
+    "10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md": {
+      "size": 2423,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 950,
-      "Create": 1564,
-      "Link": 2243,
+      "Create": 1568,
+      "Link": 2252,
       "Expand": 40
     },
     "40 Evergreens": {
@@ -7966,7 +7986,7 @@
       "6": 0,
       "7": 0,
       "8": 0,
-      "9": 287,
+      "9": 300,
       "10": 30,
       "11": 21,
       "12": 17,
@@ -8013,7 +8033,7 @@
     "/": {
       "Mon": 64,
       "Tue": 464,
-      "Wed": 28,
+      "Wed": 41,
       "Thu": 194,
       "Fri": 27,
       "Sat": 0,
@@ -8074,6 +8094,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md\"> tweets_This Book (‘No Contest’... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md\"> tweets_Filters Have Almost Neve... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md\"> tweets_Every Week, I Post a Thr... </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/systems for thought.md\"> systems for thought </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md\"> tweets_It’s Funny How Sometimes... </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined the tools of our time.md\"> We are confined the tools of our time </a>",
@@ -8120,11 +8144,7 @@
         "<a class=\"internal-link\" href=\"Do we have free will.md\"> Do we have free will </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender segregation.md\"> gender segregation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender segregation.md\"> gender segregation </a>",
-        "<a class=\"internal-link\" href=\"30 Topics/gender segregation.md\"> gender segregation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\"> tweets_1 Thread For Years, We... </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md\"> tweets_Tweets From Visa Is Stretching (Hips) 🪔 </a>",
-        "<a class=\"internal-link\" href=\"What is Ego.md\"> What is Ego </a>"
+        "<a class=\"internal-link\" href=\"30 Topics/gender segregation.md\"> gender segregation </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
@@ -8180,6 +8200,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md\"> tweets_Every Week, I Post a Thr... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md\"> tweets_Filters Have Almost Neve... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md\"> tweets_This Book (‘No Contest’... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/systems for thought.md\"> systems for thought </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md\"> tweets_It’s Funny How Sometimes... </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/friction.md\"> friction </a>",
@@ -8226,11 +8250,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"privilege.md\"> privilege </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/TERFS.md\"> TERFS </a>",
-        "<a class=\"internal-link\" href=\"Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md\"> Self-reppression is the most natural response for trans people in strongly gendered environments </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How ADHD effects concentration.md\"> How ADHD effects concentration </a>"
+        "<a class=\"internal-link\" href=\"Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -8290,6 +8310,11 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Six — The Enneagram Institute.md\"> articles_Type Six — The Enneagram Institute </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md\"> tweets_Tweets From Visa Is Stretching (Hips) 🪔 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md\"> tweets_Every Week, I Post a Thr... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md\"> tweets_Filters Have Almost Neve... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md\"> tweets_This Book (‘No Contest’... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>",
@@ -8335,12 +8360,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A story will end where it began, or somewhere else.md\"> A story will end where it began, or somewhere else </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be a frictionless and inspirational hub of creativity.md\"> Your second brain should be a frictionless and inspirational hub of creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are support systems.md\"> Communities are support systems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be a frictionlessa and inspirational hub of creativity.md\"> Your second brain should be a frictionlessa and inspirational hub of creativity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism outlines a path and practice to end suffering, but does not promise it.md\"> Bhuddism outlines a path and practice to end suffering, but does not promise it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md\"> Self-reppression is the most natural response for trans people in strongly gendered environments </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

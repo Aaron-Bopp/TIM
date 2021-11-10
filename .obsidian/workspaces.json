@@ -1,0 +1,644 @@
+{
+  "workspaces": {
+    "Laptop sidebars": {
+      "main": {
+        "id": "47078aaf2e30127a",
+        "type": "split",
+        "children": [
+          {
+            "id": "b44434e8361b9cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/31_Stubs/friction.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e6fd778783afca8a",
+        "type": "split",
+        "children": [
+          {
+            "id": "585cafeabcc86a62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "208d80cb45f52f85",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7f4634a1f9c650de",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "SPROUT/wa",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTime"
+                  }
+                }
+              },
+              {
+                "id": "945ffe61918129cd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "30_Topics/31_Stubs/friction.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "688f422485480db5",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0c769aef4d9945f1",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fda1645ab822e2df",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "30_Topics/31_Stubs/friction.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "555e9b453997c003",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e5b4565528193b1b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "86fd84d999bd5189",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 442.5
+      },
+      "right": {
+        "id": "ca88ebed3efba281",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7b3aaa71b0c0df5",
+            "type": "tabs",
+            "dimension": 44.879518072289144,
+            "children": [
+              {
+                "id": "b977b5a232ac5471",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "30_Topics/31_Stubs/friction.md"
+                  }
+                }
+              },
+              {
+                "id": "67a971758c440a71",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "acd3fde621257558",
+                "type": "leaf",
+                "state": {
+                  "type": "Saved Queries View",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6029732c33ad196e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                }
+              },
+              {
+                "id": "79527a796824c9ae",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_nodes",
+                  "state": {}
+                }
+              },
+              {
+                "id": "96b6002aaf7326ff",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_style",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7fc53da45c28c58e",
+                "type": "leaf",
+                "state": {
+                  "type": "RSS_FEED",
+                  "state": {}
+                }
+              },
+              {
+                "id": "44ed786f3c3fd53d",
+                "type": "leaf",
+                "state": {
+                  "type": "breadcrumbs-stats",
+                  "state": {}
+                }
+              },
+              {
+                "id": "cf1349fdfe6b6e2f",
+                "type": "leaf",
+                "state": {
+                  "type": "breadcrumbs-matrix",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "84f4f33f118f4527",
+            "type": "tabs",
+            "dimension": 55.120481927710856,
+            "children": [
+              {
+                "id": "031fe1b37666a6d6",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "30_Topics/31_Stubs/friction.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#topic/outline",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9785102
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/term",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16162052
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/stub",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13413478
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/technique",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16056320
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/GREEN",
+                          "color": {
+                            "a": 1,
+                            "rgb": 356867
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SEED",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3251005
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SPROUT",
+                          "color": {
+                            "a": 1,
+                            "rgb": 10610705
+                          }
+                        },
+                        {
+                          "query": "tag:#content",
+                          "color": {
+                            "a": 1,
+                            "rgb": 1594594
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.3,
+                      "nodeSizeMultiplier": 1.30456647398844,
+                      "lineSizeMultiplier": 1.55378676470588,
+                      "collapse-forces": false,
+                      "centerStrength": 0.28428911205074,
+                      "repelStrength": 11.2684989429175,
+                      "linkStrength": 0.927061310782241,
+                      "linkDistance": 199,
+                      "scale": 0.40295572634687454,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 611.5
+      },
+      "active": "b44434e8361b9cb8"
+    },
+    "Laptop graph and analysis": {
+      "main": {
+        "id": "47078aaf2e30127a",
+        "type": "split",
+        "children": [
+          {
+            "id": "b44434e8361b9cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/31_Stubs/friction.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e6fd778783afca8a",
+        "type": "split",
+        "children": [
+          {
+            "id": "585cafeabcc86a62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "208d80cb45f52f85",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7f4634a1f9c650de",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "SPROUT/wa",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTime"
+                  }
+                }
+              },
+              {
+                "id": "945ffe61918129cd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "30_Topics/31_Stubs/friction.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "688f422485480db5",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0c769aef4d9945f1",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fda1645ab822e2df",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "30_Topics/31_Stubs/friction.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "555e9b453997c003",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e5b4565528193b1b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "86fd84d999bd5189",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 442.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "ca88ebed3efba281",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7b3aaa71b0c0df5",
+            "type": "tabs",
+            "dimension": 44.879518072289144,
+            "children": [
+              {
+                "id": "b977b5a232ac5471",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "30_Topics/31_Stubs/friction.md"
+                  }
+                }
+              },
+              {
+                "id": "67a971758c440a71",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "acd3fde621257558",
+                "type": "leaf",
+                "state": {
+                  "type": "Saved Queries View",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6029732c33ad196e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                }
+              },
+              {
+                "id": "79527a796824c9ae",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_nodes",
+                  "state": {}
+                }
+              },
+              {
+                "id": "96b6002aaf7326ff",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_style",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7fc53da45c28c58e",
+                "type": "leaf",
+                "state": {
+                  "type": "RSS_FEED",
+                  "state": {}
+                }
+              },
+              {
+                "id": "44ed786f3c3fd53d",
+                "type": "leaf",
+                "state": {
+                  "type": "breadcrumbs-stats",
+                  "state": {}
+                }
+              },
+              {
+                "id": "cf1349fdfe6b6e2f",
+                "type": "leaf",
+                "state": {
+                  "type": "breadcrumbs-matrix",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "84f4f33f118f4527",
+            "type": "tabs",
+            "dimension": 55.120481927710856,
+            "children": [
+              {
+                "id": "031fe1b37666a6d6",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "30_Topics/31_Stubs/friction.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#topic/outline",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9785102
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/term",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16162052
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/stub",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13413478
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/technique",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16056320
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/GREEN",
+                          "color": {
+                            "a": 1,
+                            "rgb": 356867
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SEED",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3251005
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SPROUT",
+                          "color": {
+                            "a": 1,
+                            "rgb": 10610705
+                          }
+                        },
+                        {
+                          "query": "tag:#content",
+                          "color": {
+                            "a": 1,
+                            "rgb": 1594594
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.3,
+                      "nodeSizeMultiplier": 1.30456647398844,
+                      "lineSizeMultiplier": 1.55378676470588,
+                      "collapse-forces": false,
+                      "centerStrength": 0.28428911205074,
+                      "repelStrength": 11.2684989429175,
+                      "linkStrength": 0.927061310782241,
+                      "linkDistance": 199,
+                      "scale": 0.40295572634687454,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 611.5
+      },
+      "active": "b44434e8361b9cb8"
+    }
+  },
+  "active": "Laptop graph and analysis"
+}
