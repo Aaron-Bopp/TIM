@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "fa59feeb4c6ed1c1",
+    "id": "791fea60d7de1c3c",
     "type": "split",
     "children": [
       {
-        "id": "979c8aa80c4556c7",
+        "id": "992f9f2876356633",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/DID (Dissociative Idenitty Disorder).md",
-            "mode": "source"
+            "file": "30_Topics/Psychology.md",
+            "mode": "preview"
           }
         }
       }
@@ -54,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/DID (Dissociative Idenitty Disorder).md",
+                "file": "30_Topics/Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/DID (Dissociative Idenitty Disorder).md",
+                "file": "30_Topics/Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/DID (Dissociative Idenitty Disorder).md"
+                "file": "30_Topics/Psychology.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/DID (Dissociative Idenitty Disorder).md",
+                "file": "30_Topics/Psychology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,17 +275,17 @@
     "width": 611.5,
     "collapsed": true
   },
-  "active": "979c8aa80c4556c7",
+  "active": "992f9f2876356633",
   "lastOpenFiles": [
-    "30_Topics/DID (Dissociative Idenitty Disorder).md",
-    "20_Entry/KANBAN.md",
-    "20_Entry/NOW.md",
-    "20_Entry/CONTENTNOTES.md",
-    "20_Entry/Commits.md",
-    "10_Sources/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md",
-    "10_Sources/Personal/Nathan Eloe.md",
-    "30_Topics/Monolithic Kernel.md",
-    "10_Sources/Operating Systems/notes_OS_Operating Systems.md",
-    "10_Sources/Operating Systems/notes_OS_Deadlock.md"
+    "30_Topics/Psychology.md",
+    "30_Topics/Reagan.md",
+    "40_Evergreens/Develop Obsidian plugins.md",
+    "30_Topics/31_Stubs/sympathy.md",
+    "30_Topics/31_Stubs/the culture war.md",
+    "30_Topics/31_Stubs/Suicide.md",
+    "30_Topics/31_Stubs/transphobia.md",
+    "30_Topics/31_Stubs/unconditional love.md",
+    "30_Topics/31_Stubs/white supremacy.md",
+    "30_Topics/31_Stubs/women.md"
   ]
 }

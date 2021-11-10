@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Psychology",
+      "path": "30_Topics/Psychology.md"
+    },
+    {
+      "basename": "Reagan",
+      "path": "30_Topics/Reagan.md"
+    },
+    {
+      "basename": "Develop Obsidian plugins",
+      "path": "40_Evergreens/Develop Obsidian plugins.md"
+    },
+    {
+      "basename": "sympathy",
+      "path": "30_Topics/31_Stubs/sympathy.md"
+    },
+    {
+      "basename": "the culture war",
+      "path": "30_Topics/31_Stubs/the culture war.md"
+    },
+    {
+      "basename": "Suicide",
+      "path": "30_Topics/31_Stubs/Suicide.md"
+    },
+    {
+      "basename": "transphobia",
+      "path": "30_Topics/31_Stubs/transphobia.md"
+    },
+    {
+      "basename": "unconditional love",
+      "path": "30_Topics/31_Stubs/unconditional love.md"
+    },
+    {
+      "basename": "white supremacy",
+      "path": "30_Topics/31_Stubs/white supremacy.md"
+    },
+    {
+      "basename": "women",
+      "path": "30_Topics/31_Stubs/women.md"
+    },
+    {
+      "basename": "worldview",
+      "path": "30_Topics/31_Stubs/worldview.md"
+    },
+    {
+      "basename": "ADHD",
+      "path": "30_Topics/32_Terms/ADHD.md"
+    },
+    {
+      "basename": "religion",
+      "path": "30_Topics/religion.md"
+    },
+    {
       "basename": "DID (Dissociative Idenitty Disorder)",
       "path": "30_Topics/DID (Dissociative Idenitty Disorder).md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "Psychology of Race and Gender notes",
       "path": "00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md"
-    },
-    {
-      "basename": "modern sexism",
-      "path": "30_Topics/32_Terms/modern sexism.md"
-    },
-    {
-      "basename": "sexism",
-      "path": "30_Topics/sexism.md"
-    },
-    {
-      "basename": "queerphobia",
-      "path": "30_Topics/31_Stubs/queerphobia.md"
-    },
-    {
-      "basename": "Humans are primarily irrational, illogical, emotional beings",
-      "path": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
-    },
-    {
-      "basename": "Karma is based in the law of cause and effect",
-      "path": "40_Evergreens/Karma is based in the law of cause and effect.md"
-    },
-    {
-      "basename": "INDEX",
-      "path": "20_Entry/INDEX.md"
-    },
-    {
-      "basename": "friction",
-      "path": "30_Topics/31_Stubs/friction.md"
-    },
-    {
-      "basename": "textbook_Hyde&Elsequest_pyschology of women and gender",
-      "path": "10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md"
-    },
-    {
-      "basename": "@visakanv on Twitter",
-      "path": "30_Topics/@visakanv on Twitter.md"
-    },
-    {
-      "basename": "Fear is the number one hindrance to trying",
-      "path": "40_Evergreens/Fear is the number one hindrance to trying.md"
-    },
-    {
-      "basename": "Friction is the number one hindrance to learning",
-      "path": "40_Evergreens/Friction is the number one hindrance to learning.md"
-    },
-    {
-      "basename": "When in doubt, write what you think",
-      "path": "40_Evergreens/When in doubt, write what you think.md"
-    },
-    {
-      "basename": "systems for thought",
-      "path": "30_Topics/31_Stubs/systems for thought.md"
     }
   ],
   "omittedPaths": [],
