@@ -1,13 +1,13 @@
 ---
-created: 2021-11-02
+created: 2021-10-19
 aliases:
   - "'What’s *In* the #BuildB..."
   - "'What’s *In* the #BuildB... by @RepBonnie on Twitter"
   - "@RepBonnie on Twitter"
 tags: node/source/tweets
-type:
+type: 
   - tweets
-deliveredBy:
+deliveredBy: 
   - "readwise"
   - "twitter"
 ---
@@ -28,7 +28,7 @@ deliveredBy:
 > thread below https://t.co/1i90FkFx3d 
   [^239970883]
 
-[^239970883]:  https://twitter.com/RepBonnie/status/1450493642657964035
+[^239970883]: https://twitter.com/RepBonnie/status/1450493642657964035
 
 ##### ^239970884
   
@@ -40,7 +40,7 @@ deliveredBy:
 > (2/5) 
   [^239970884]
 
-[^239970884]:  https://twitter.com/RepBonnie/status/1450493644398542848
+[^239970884]: https://twitter.com/RepBonnie/status/1450493644398542848
 
 ##### ^239970885
   
@@ -52,7 +52,7 @@ deliveredBy:
 > (3/5) 
   [^239970885]
 
-[^239970885]:  https://twitter.com/RepBonnie/status/1450493645858164749
+[^239970885]: https://twitter.com/RepBonnie/status/1450493645858164749
 
 ##### ^239970886
   
@@ -65,7 +65,7 @@ deliveredBy:
 > (4/5) 
   [^239970886]
 
-[^239970886]:  https://twitter.com/RepBonnie/status/1450493647238086656
+[^239970886]: https://twitter.com/RepBonnie/status/1450493647238086656
 
 ##### ^239970887
   
@@ -75,5 +75,5 @@ deliveredBy:
 > (5/5) 
   [^239970887]
 
-[^239970887]:  https://twitter.com/RepBonnie/status/1450493648727072773
+[^239970887]: https://twitter.com/RepBonnie/status/1450493648727072773
 

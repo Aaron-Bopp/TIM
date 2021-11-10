@@ -1,15 +1,15 @@
 ---
 created: 2021-11-10
 aliases:
-- "Every Week, I Post a Thr..."
-- "Every Week, I Post a Thr... by @stevemagness on Twitter"
-- "@stevemagness on Twitter"
+  - "Every Week, I Post a Thr..."
+  - "Every Week, I Post a Thr... by @stevemagness on Twitter"
+  - "@stevemagness on Twitter"
 tags: node/source/tweets
 type: 
-- tweets
+  - tweets
 deliveredBy: 
-- "readwise"
-- "twitter"
+  - "readwise"
+  - "twitter"
 ---
 # Every Week, I Post a Thr...
 
@@ -34,7 +34,7 @@ deliveredBy:
 > This is my continually updated mega-thread, linking to every topic I've covered: 
   [^247733303]
 
-[^247733303]:  https://twitter.com/stevemagness/status/1371847907259916298
+[^247733303]: https://twitter.com/stevemagness/status/1371847907259916298
 
 ##### ^247733304
   
@@ -43,7 +43,7 @@ deliveredBy:
 > https://t.co/CvHkay04XR 
   [^247733304]
 
-[^247733304]:  https://twitter.com/stevemagness/status/1371847908111351829
+[^247733304]: https://twitter.com/stevemagness/status/1371847908111351829
 
 ##### ^247733305
   
@@ -52,7 +52,7 @@ deliveredBy:
 > https://t.co/89IuEBLRxb 
   [^247733305]
 
-[^247733305]:  https://twitter.com/stevemagness/status/1371847909302501386
+[^247733305]: https://twitter.com/stevemagness/status/1371847909302501386
 
 ##### ^247733306
   
@@ -60,7 +60,7 @@ deliveredBy:
 > This thread is all about the science of recovery, taking breaks, repairing muscle, shutting your mind off, and much more: https://t.co/nLyYbfjOLl 
   [^247733306]
 
-[^247733306]:  https://twitter.com/stevemagness/status/1371847910426607633
+[^247733306]: https://twitter.com/stevemagness/status/1371847910426607633
 
 ##### ^247733307
   
@@ -68,7 +68,7 @@ deliveredBy:
 > This thread is on the benefits of getting outside and how we can utilize nature to be happier, healthier human beings: https://t.co/HwTO41V1FY 
   [^247733307]
 
-[^247733307]:  https://twitter.com/stevemagness/status/1371847911617757192
+[^247733307]: https://twitter.com/stevemagness/status/1371847911617757192
 
 ##### ^247733308
   
@@ -78,7 +78,7 @@ deliveredBy:
 > https://t.co/2fmmKKAQRg 
   [^247733308]
 
-[^247733308]:  https://twitter.com/stevemagness/status/1371847912729219074
+[^247733308]: https://twitter.com/stevemagness/status/1371847912729219074
 
 ##### ^247733309
   
@@ -88,7 +88,7 @@ deliveredBy:
 > https://t.co/8wFQoudKso 
   [^247733309]
 
-[^247733309]:  https://twitter.com/stevemagness/status/1371847914251780100
+[^247733309]: https://twitter.com/stevemagness/status/1371847914251780100
 
 ##### ^247733310
   
@@ -96,7 +96,7 @@ deliveredBy:
 > Here are 9 lessons on learning, leading, and coaching to achieve better performance: https://t.co/PDEMHj6Oct 
   [^247733310]
 
-[^247733310]:  https://twitter.com/stevemagness/status/1371847915451387904
+[^247733310]: https://twitter.com/stevemagness/status/1371847915451387904
 
 ##### ^247733311
   
@@ -104,7 +104,7 @@ deliveredBy:
 > Here are a few lessons on leading and creating an environment that helps us perform in sport and life: https://t.co/gSJ8HTl5vy 
   [^247733311]
 
-[^247733311]:  https://twitter.com/stevemagness/status/1371847916873252868
+[^247733311]: https://twitter.com/stevemagness/status/1371847916873252868
 
 ##### ^247733312
   
@@ -112,7 +112,7 @@ deliveredBy:
 > This is a thread about presenting and teaching in an environment where those you are trying to reach may doubt you: https://t.co/EU4B6JpjeD 
   [^247733312]
 
-[^247733312]:  https://twitter.com/stevemagness/status/1371847918030893065
+[^247733312]: https://twitter.com/stevemagness/status/1371847918030893065
 
 ##### ^247733313
   
@@ -120,7 +120,7 @@ deliveredBy:
 > A thread on why the 'tough/hardass' model of leading often fails: https://t.co/q4Unz9Cspu 
   [^247733313]
 
-[^247733313]:  https://twitter.com/stevemagness/status/1371847919146561550
+[^247733313]: https://twitter.com/stevemagness/status/1371847919146561550
 
 ##### ^247733314
   
@@ -129,7 +129,7 @@ deliveredBy:
 > https://t.co/hIyrVEbm9B 
   [^247733314]
 
-[^247733314]:  https://twitter.com/stevemagness/status/1371847920367046656
+[^247733314]: https://twitter.com/stevemagness/status/1371847920367046656
 
 ##### ^247733315
   
@@ -138,7 +138,7 @@ deliveredBy:
 > A thread on what science is, and how best to utilize it: https://t.co/X1wxxgafOM 
   [^247733315]
 
-[^247733315]:  https://twitter.com/stevemagness/status/1371847922447491077
+[^247733315]: https://twitter.com/stevemagness/status/1371847922447491077
 
 ##### ^247733316
   
@@ -148,7 +148,7 @@ deliveredBy:
 > https://t.co/358iSbfXD0 
   [^247733316]
 
-[^247733316]:  https://twitter.com/stevemagness/status/1371847924162953218
+[^247733316]: https://twitter.com/stevemagness/status/1371847924162953218
 
 ##### ^247733317
   
@@ -159,7 +159,7 @@ deliveredBy:
 > https://t.co/jWE2JSNigv 
   [^247733317]
 
-[^247733317]:  https://twitter.com/stevemagness/status/1371847925920374790
+[^247733317]: https://twitter.com/stevemagness/status/1371847925920374790
 
 ##### ^247733318
   
@@ -168,7 +168,7 @@ deliveredBy:
 > https://t.co/7UNICOmW60 
   [^247733318]
 
-[^247733318]:  https://twitter.com/stevemagness/status/1371847927631581189
+[^247733318]: https://twitter.com/stevemagness/status/1371847927631581189
 
 ##### ^247733319
   
@@ -176,7 +176,7 @@ deliveredBy:
 > A thread on the role of effort, performance, and understanding what we can control: https://t.co/M8OIJq2S6F 
   [^247733319]
 
-[^247733319]:  https://twitter.com/stevemagness/status/1371847929355513867
+[^247733319]: https://twitter.com/stevemagness/status/1371847929355513867
 
 ##### ^247733320
   
@@ -185,7 +185,7 @@ deliveredBy:
 > https://t.co/YMWG2LqdLx 
   [^247733320]
 
-[^247733320]:  https://twitter.com/stevemagness/status/1371847930466959375
+[^247733320]: https://twitter.com/stevemagness/status/1371847930466959375
 
 ##### ^247733321
   
@@ -198,7 +198,7 @@ deliveredBy:
 > https://t.co/VKrm7GQAe7 
   [^247733321]
 
-[^247733321]:  https://twitter.com/stevemagness/status/1382137819313881088
+[^247733321]: https://twitter.com/stevemagness/status/1382137819313881088
 
 ##### ^247733322
   
@@ -206,7 +206,7 @@ deliveredBy:
 > We confuse hard work aiding in our own improvement, with hard work separating us from others. It doesn't. https://t.co/vtSFrcDL5g 
   [^247733322]
 
-[^247733322]:  https://twitter.com/stevemagness/status/1382137820454793219
+[^247733322]: https://twitter.com/stevemagness/status/1382137820454793219
 
 ##### ^247733323
   
@@ -215,7 +215,7 @@ deliveredBy:
 > https://t.co/EIAA1GcsJJ 
   [^247733323]
 
-[^247733323]:  https://twitter.com/stevemagness/status/1382137821528489991
+[^247733323]: https://twitter.com/stevemagness/status/1382137821528489991
 
 ##### ^247733324
   
@@ -223,7 +223,7 @@ deliveredBy:
 > A thread on learning and the status game we unnecessarily play: https://t.co/hKcTbVNdVf 
   [^247733324]
 
-[^247733324]:  https://twitter.com/stevemagness/status/1382137822598078465
+[^247733324]: https://twitter.com/stevemagness/status/1382137822598078465
 
 ##### ^247733325
   
@@ -233,7 +233,7 @@ deliveredBy:
 > https://t.co/djI3Jd2B4f 
   [^247733325]
 
-[^247733325]:  https://twitter.com/stevemagness/status/1390367346297131008
+[^247733325]: https://twitter.com/stevemagness/status/1390367346297131008
 
 ##### ^247733326
   
@@ -242,7 +242,7 @@ deliveredBy:
 > https://t.co/YOjfhVBfZw 
   [^247733326]
 
-[^247733326]:  https://twitter.com/stevemagness/status/1399394438393237513
+[^247733326]: https://twitter.com/stevemagness/status/1399394438393237513
 
 ##### ^247733327
   
@@ -251,7 +251,7 @@ deliveredBy:
 > https://t.co/DWj3qy78zW 
   [^247733327]
 
-[^247733327]:  https://twitter.com/stevemagness/status/1399394439576096774
+[^247733327]: https://twitter.com/stevemagness/status/1399394439576096774
 
 ##### ^247733328
   
@@ -260,7 +260,7 @@ deliveredBy:
 > https://t.co/SvzXQiw57p 
   [^247733328]
 
-[^247733328]:  https://twitter.com/stevemagness/status/1413635851989487618
+[^247733328]: https://twitter.com/stevemagness/status/1413635851989487618
 
 ##### ^247733329
   
@@ -269,7 +269,7 @@ deliveredBy:
 > https://t.co/hTsyIbE8ej 
   [^247733329]
 
-[^247733329]:  https://twitter.com/stevemagness/status/1438940505140781056
+[^247733329]: https://twitter.com/stevemagness/status/1438940505140781056
 
 ##### ^247733330
   
@@ -278,7 +278,7 @@ deliveredBy:
 > https://t.co/F45j4GsQCE 
   [^247733330]
 
-[^247733330]:  https://twitter.com/stevemagness/status/1438940506642436100
+[^247733330]: https://twitter.com/stevemagness/status/1438940506642436100
 
 ##### ^247733331
   
@@ -286,7 +286,7 @@ deliveredBy:
 > Here's the science of spreading motivation and morality: https://t.co/MjUCC73GD9 
   [^247733331]
 
-[^247733331]:  https://twitter.com/stevemagness/status/1438940508496224258
+[^247733331]: https://twitter.com/stevemagness/status/1438940508496224258
 
 ##### ^247733332
   
@@ -294,7 +294,7 @@ deliveredBy:
 > What's that foundation? A thread: https://t.co/sJOkql2Kww 
   [^247733332]
 
-[^247733332]:  https://twitter.com/stevemagness/status/1438940510178222080
+[^247733332]: https://twitter.com/stevemagness/status/1438940510178222080
 
 ##### ^247733333
   
@@ -302,7 +302,7 @@ deliveredBy:
 > What in the world is the process? A thread on the science of having a process versus outcome focus. https://t.co/NnuZ0vW9gj 
   [^247733333]
 
-[^247733333]:  https://twitter.com/stevemagness/status/1438940511407071237
+[^247733333]: https://twitter.com/stevemagness/status/1438940511407071237
 
 ##### ^247733334
   
@@ -310,7 +310,7 @@ deliveredBy:
 > From dealing with success to working as a team to taking notes, Kipchoge teaches us how to perform better in a healthy and sustainable way: https://t.co/3C19OZJaPK 
   [^247733334]
 
-[^247733334]:  https://twitter.com/stevemagness/status/1438940513667846150
+[^247733334]: https://twitter.com/stevemagness/status/1438940513667846150
 
 ##### ^247733335
   
@@ -319,5 +319,5 @@ deliveredBy:
 > https://t.co/aLYQCVLkgr 
   [^247733335]
 
-[^247733335]:  https://twitter.com/stevemagness/status/1447308599752118273
+[^247733335]: https://twitter.com/stevemagness/status/1447308599752118273
 

@@ -7798,9 +7798,10 @@ const DEFAULT_SETTINGS = {
     lastSyncFailed: false,
     lastSavedStatusID: 0,
     currentSyncStatusID: 0,
-    refreshBooks: true,
+    refreshBooks: false,
     booksToRefresh: [],
-    booksIDsMap: {}
+    booksIDsMap: {},
+    reimportShowConfirmation: true,
 };
 class ReadwisePlugin extends obsidian.Plugin {
     constructor() {
@@ -7890,12 +7891,15 @@ class ReadwisePlugin extends obsidian.Plugin {
             }
         });
     }
-    requestArchive(buttonContext, statusId) {
+    requestArchive(buttonContext, statusId, auto) {
         return __awaiter(this, void 0, void 0, function* () {
             const parentDeleted = !(yield this.app.vault.adapter.exists(this.settings.readwiseDir));
             let url = `${baseURL}/api/obsidian/init?parentPageDeleted=${parentDeleted}`;
             if (statusId) {
                 url += `&statusID=${statusId}`;
+            }
+            if (auto) {
+                url += `&auto=${auto}`;
             }
             let response, data;
             try {
@@ -7915,8 +7919,14 @@ class ReadwisePlugin extends obsidian.Plugin {
                 }
                 this.settings.currentSyncStatusID = data.latest_id;
                 yield this.saveSettings();
-                this.notice("Syncing Readwise data");
-                return this.getExportStatus(data.latest_id, buttonContext);
+                if (response.status === 201) {
+                    this.notice("Syncing Readwise data");
+                    return this.getExportStatus(data.latest_id, buttonContext);
+                }
+                else {
+                    this.handleSyncSuccess(buttonContext); // should we pass the export id to update lastSavedStatusID?
+                    this.notice("Latest sync happened on different device...", false, 4, true);
+                }
             }
             else {
                 console.log("Readwise Official plugin: bad response in requestArchive: ", response);
@@ -7929,7 +7939,15 @@ class ReadwisePlugin extends obsidian.Plugin {
         if (show) {
             new obsidian.Notice(msg);
         }
-        this.statusBar.displayMessage(msg.toLowerCase(), timeout, forcing);
+        // @ts-ignore
+        if (!this.app.isMobile) {
+            this.statusBar.displayMessage(msg.toLowerCase(), timeout, forcing);
+        }
+        else {
+            if (!show) {
+                new obsidian.Notice(msg);
+            }
+        }
     }
     showInfoStatus(container, msg, className = "") {
         let info = container.find('.rw-info-container');
@@ -8021,6 +8039,10 @@ class ReadwisePlugin extends obsidian.Plugin {
             yield this.acknowledgeSyncCompleted(buttonContext);
             this.handleSyncSuccess(buttonContext, "Synced!", exportID);
             this.notice("Readwise sync completed", true, 1, true);
+            // @ts-ignore
+            if (this.app.isMobile) {
+                this.notice("If you don't see all of your readwise files reload obsidian app", true);
+            }
         });
     }
     acknowledgeSyncCompleted(buttonContext) {
@@ -8056,7 +8078,7 @@ class ReadwisePlugin extends obsidian.Plugin {
                 // we got manual option
                 return;
             }
-            this.scheduleInterval = window.setInterval(() => this.requestArchive(), milliseconds);
+            this.scheduleInterval = window.setInterval(() => this.requestArchive(null, null, true), milliseconds);
             this.registerInterval(this.scheduleInterval);
         });
     }
@@ -8099,10 +8121,48 @@ class ReadwisePlugin extends obsidian.Plugin {
             yield this.saveSettings();
         });
     }
+    reimportFile(vault, fileName) {
+        const bookId = this.settings.booksIDsMap[fileName];
+        try {
+            fetch(`${baseURL}/api/refresh_book_export`, {
+                headers: Object.assign(Object.assign({}, this.getAuthHeaders()), { 'Content-Type': 'application/json' }),
+                method: "POST",
+                body: JSON.stringify({ exportTarget: 'obsidian', books: [bookId] })
+            }).then(response => {
+                if (response && response.ok) {
+                    let booksToRefresh = this.settings.booksToRefresh;
+                    this.settings.booksToRefresh = booksToRefresh.filter(n => ![bookId].includes(n));
+                    this.saveSettings();
+                    vault.delete(vault.getAbstractFileByPath(fileName));
+                    this.startSync();
+                }
+                else {
+                    this.notice("Failed to reimport. Please try again", true);
+                }
+            });
+        }
+        catch (e) {
+            console.log("Readwise Official plugin: fetch failed in Reimport current file: ", e);
+        }
+    }
+    startSync() {
+        if (this.settings.isSyncing) {
+            this.notice("Readwise sync already in progress", true);
+        }
+        else {
+            this.settings.isSyncing = true;
+            this.saveSettings();
+            this.requestArchive();
+        }
+        console.log("started sync");
+    }
     onload() {
         return __awaiter(this, void 0, void 0, function* () {
-            this.statusBar = new StatusBar(this.addStatusBarItem());
-            this.registerInterval(window.setInterval(() => this.statusBar.display(), 1000));
+            // @ts-ignore
+            if (!this.app.isMobile) {
+                this.statusBar = new StatusBar(this.addStatusBarItem());
+                this.registerInterval(window.setInterval(() => this.statusBar.display(), 1000));
+            }
             yield this.loadSettings();
             this.refreshBookExport = obsidian.debounce(this.refreshBookExport.bind(this), 800, true);
             this.refreshBookExport(this.settings.booksToRefresh);
@@ -8136,20 +8196,53 @@ class ReadwisePlugin extends obsidian.Plugin {
                 id: 'readwise-official-sync',
                 name: 'Sync your data now',
                 callback: () => {
-                    if (this.settings.isSyncing) {
-                        this.notice("Readwise sync already in progress", true);
-                    }
-                    else {
-                        this.settings.isSyncing = true;
-                        this.saveSettings();
-                        this.requestArchive();
-                    }
+                    this.startSync();
                 }
             });
             this.addCommand({
                 id: 'readwise-official-format',
                 name: 'Customize formatting',
                 callback: () => window.open(`${baseURL}/export/obsidian/preferences`)
+            });
+            this.addCommand({
+                id: 'readwise-official-reimport-file',
+                name: 'Delete and reimport this document',
+                editorCheckCallback: (checking, editor, view) => {
+                    const activeFilePath = view.file.path;
+                    const isRWfile = activeFilePath in this.settings.booksIDsMap;
+                    if (checking) {
+                        return isRWfile;
+                    }
+                    if (this.settings.reimportShowConfirmation) {
+                        const modal = new obsidian.Modal(view.app);
+                        modal.contentEl.createEl('p', {
+                            'text': 'Warning: Proceeding will delete this file entirely (including any changes you made) ' +
+                                'and then reimport a new copy of your highlights from Readwise.'
+                        });
+                        const buttonsContainer = modal.contentEl.createEl('div', { "cls": "rw-modal-btns" });
+                        const cancelBtn = buttonsContainer.createEl("button", { "text": "Cancel" });
+                        const confirmBtn = buttonsContainer.createEl("button", { "text": "Proceed", 'cls': 'mod-warning' });
+                        const showConfContainer = modal.contentEl.createEl('div', { 'cls': 'rw-modal-confirmation' });
+                        showConfContainer.createEl("label", { "attr": { "for": "rw-ask-nl" }, "text": "Don't ask me in the future" });
+                        const showConf = showConfContainer.createEl("input", { "type": "checkbox", "attr": { "name": "rw-ask-nl" } });
+                        showConf.addEventListener('change', (ev) => {
+                            // @ts-ignore
+                            this.settings.reimportShowConfirmation = !ev.target.checked;
+                            this.saveSettings();
+                        });
+                        cancelBtn.onClickEvent(() => {
+                            modal.close();
+                        });
+                        confirmBtn.onClickEvent(() => {
+                            this.reimportFile(view.app.vault, activeFilePath);
+                            modal.close();
+                        });
+                        modal.open();
+                    }
+                    else {
+                        this.reimportFile(view.app.vault, activeFilePath);
+                    }
+                }
             });
             this.registerMarkdownPostProcessor((el, ctx) => {
                 if (!ctx.sourcePath.startsWith(this.settings.readwiseDir)) {
@@ -8178,7 +8271,7 @@ class ReadwisePlugin extends obsidian.Plugin {
             yield this.configureSchedule();
             if (this.settings.token && this.settings.triggerOnLoad && !this.settings.isSyncing) {
                 yield this.saveSettings();
-                yield this.requestArchive();
+                yield this.requestArchive(null, null, true);
             }
         });
     }

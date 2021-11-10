@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2180632,
+  "lastSavedStatusID": 2181608,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -296,8 +296,10 @@
     "10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md": "11809720",
     "10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md": "11809742",
     "10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md": "11809941",
-    "10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md": "11810009"
+    "10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md": "11810009",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching-2.md": "11731014"
   },
+  "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false
 }

@@ -1,13 +1,13 @@
 ---
-created: 2021-11-02
+created: 2021-10-26
 aliases:
   - "Someone (Was It JKR? Lol..."
   - "Someone (Was It JKR? Lol... by @visakanv on Twitter"
   - "@visakanv on Twitter"
 tags: node/source/tweets
-type:
+type: 
   - tweets
-deliveredBy:
+deliveredBy: 
   - "readwise"
   - "twitter"
 ---
@@ -23,8 +23,8 @@ deliveredBy:
 # Highlights
 ##### ^242197333
   
-> someone (was it JKR? lol) once said something like “there has to be an expiry date for when you blame your [[parents]] for everything wrong with you”, and I feel similarly about getting upset with the behavior of others. There has to be a point where it stops being useful 
+> someone (was it JKR? lol) once said something like “there has to be an expiry date for when you blame your parents for everything wrong with you”, and I feel similarly about getting upset with the behavior of others. There has to be a point where it stops being useful 
   [^242197333]
 
-[^242197333]:  https://twitter.com/visakanv/status/1452562147825762304
+[^242197333]: https://twitter.com/visakanv/status/1452562147825762304
 

@@ -5,9 +5,9 @@ aliases:
   - "Autism Adhd Field Report... by @davidfactorial on Twitter"
   - "@davidfactorial on Twitter"
 tags: node/source/tweets
-type:
+type: 
   - tweets
-deliveredBy:
+deliveredBy: 
   - "readwise"
   - "twitter"
 ---
@@ -30,7 +30,7 @@ deliveredBy:
 > if i tell 
   [^244686043]
 
-[^244686043]:  https://twitter.com/davidfactorial/status/1455346226233237509
+[^244686043]: https://twitter.com/davidfactorial/status/1455346226233237509
 
 ##### ^244686044
   
@@ -42,5 +42,5 @@ deliveredBy:
 > can go lower yet 
   [^244686044]
 
-[^244686044]:  https://twitter.com/davidfactorial/status/1455346227881648130
+[^244686044]: https://twitter.com/davidfactorial/status/1455346227881648130
 

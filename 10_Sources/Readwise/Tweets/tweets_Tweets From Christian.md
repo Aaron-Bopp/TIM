@@ -1,13 +1,13 @@
 ---
-created: 2021-11-02
+created: 2021-10-26
 aliases:
   - "Tweets From Christian"
   - "Tweets From Christian by @CXGonzalez_ on Twitter"
   - "@CXGonzalez_ on Twitter"
 tags: node/source/tweets
-type:
+type: 
   - tweets
-deliveredBy:
+deliveredBy: 
   - "readwise"
   - "twitter"
 ---
@@ -28,5 +28,5 @@ deliveredBy:
 > -intuitions are refined models 
   [^242208335]
 
-[^242208335]:  https://twitter.com/CXGonzalez_/status/1452644124860030984
+[^242208335]: https://twitter.com/CXGonzalez_/status/1452644124860030984
 

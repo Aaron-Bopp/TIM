@@ -1,13 +1,13 @@
 ---
-created: 2021-11-02
+created: 2021-11-01
 aliases:
   - "Tweets From Mac"
   - "Tweets From Mac by @GoodPoliticGuy on Twitter"
   - "@GoodPoliticGuy on Twitter"
 tags: node/source/tweets
-type:
+type: 
   - tweets
-deliveredBy:
+deliveredBy: 
   - "readwise"
   - "twitter"
 ---
@@ -20,7 +20,6 @@ deliveredBy:
 
 **Creator**:: [[@GoodPoliticGuy on Twitter]]
 
-
 # Highlights
 ##### ^244469238
   
@@ -28,5 +27,5 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/FDHR-D-XEAUtmZk.jpg) 
   [^244469238]
 
-[^244469238]:  https://twitter.com/GoodPoliticGuy/status/1455175026274181120
+[^244469238]: https://twitter.com/GoodPoliticGuy/status/1455175026274181120
 

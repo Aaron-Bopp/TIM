@@ -1,15 +1,15 @@
 ---
 created: 2021-11-06
 aliases:
-- "Me: *Peers Nervously At..."
-- "Me: *Peers Nervously At... by @CharlotteEowyn on Twitter"
-- "@CharlotteEowyn on Twitter"
+  - "Me: *Peers Nervously At..."
+  - "Me: *Peers Nervously At... by @CharlotteEowyn on Twitter"
+  - "@CharlotteEowyn on Twitter"
 tags: node/source/tweets
 type: 
-- tweets
+  - tweets
 deliveredBy: 
-- "readwise"
-- "twitter"
+  - "readwise"
+  - "twitter"
 ---
 # Me: *Peers Nervously At...
 
@@ -24,11 +24,11 @@ deliveredBy:
 ##### ^246026369
   
 > Me: *peers nervously at transphobia*
-> “Hey uh, wifey, perhaps I can find some coping mechanisms and be [[cis]]…”
+> “Hey uh, wifey, perhaps I can find some coping mechanisms and be cis…”
 > Wife: “Oh no you don’t. I am not having a nervous breakdown because you’ve decided to be miserable, depressed and suicidal.” 
   [^246026369]
 
-[^246026369]:  https://twitter.com/CharlotteEowyn/status/1456599726875348994
+[^246026369]: https://twitter.com/CharlotteEowyn/status/1456599726875348994
 %%
 highlight_tags:: [[transgender]]
 %%
@@ -41,5 +41,5 @@ highlight_tags:: [[transgender]]
 > Love my wife. 
   [^246026370]
 
-[^246026370]:  https://twitter.com/CharlotteEowyn/status/1456599985735323660
+[^246026370]: https://twitter.com/CharlotteEowyn/status/1456599985735323660
 

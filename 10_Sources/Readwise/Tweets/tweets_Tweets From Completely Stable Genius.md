@@ -1,15 +1,15 @@
 ---
 created: 2021-11-06
 aliases:
-- "Tweets From Completely Stable Genius"
-- "Tweets From Completely Stable Genius by @yes_allcops on Twitter"
-- "@yes_allcops on Twitter"
+  - "Tweets From Completely Stable Genius"
+  - "Tweets From Completely Stable Genius by @yes_allcops on Twitter"
+  - "@yes_allcops on Twitter"
 tags: node/source/tweets
 type: 
-- tweets
+  - tweets
 deliveredBy: 
-- "readwise"
-- "twitter"
+  - "readwise"
+  - "twitter"
 ---
 # Tweets From Completely Stable Genius
 
@@ -26,5 +26,5 @@ deliveredBy:
 > If you grew up poor, then you got this shit! Rich people don't know what's coming. 
   [^246086620]
 
-[^246086620]:  https://twitter.com/yes_allcops/status/1456765663914053633
+[^246086620]: https://twitter.com/yes_allcops/status/1456765663914053633
 

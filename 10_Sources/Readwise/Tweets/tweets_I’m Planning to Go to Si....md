@@ -1,15 +1,15 @@
 ---
 created: 2021-11-09
 aliases:
-- "I’m Planning to Go to Si..."
-- "I’m Planning to Go to Si... by @visakanv on Twitter"
-- "@visakanv on Twitter"
+  - "I’m Planning to Go to Si..."
+  - "I’m Planning to Go to Si... by @visakanv on Twitter"
+  - "@visakanv on Twitter"
 tags: node/source/tweets
 type: 
-- tweets
+  - tweets
 deliveredBy: 
-- "readwise"
-- "twitter"
+  - "readwise"
+  - "twitter"
 ---
 # I’m Planning to Go to Si...
 
@@ -26,7 +26,7 @@ deliveredBy:
 > I’m planning to go to Singapore’s Indian heritage centre / museum tomorrow and I’m excited like a kid on a field trip 
   [^247468460]
 
-[^247468460]:  https://twitter.com/visakanv/status/1050459395685998592
+[^247468460]: https://twitter.com/visakanv/status/1050459395685998592
 
 ##### ^247468462
   
@@ -34,7 +34,7 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/DpdV5wKUUAINssV.jpg) 
   [^247468462]
 
-[^247468462]:  https://twitter.com/visakanv/status/1051403551706992640
+[^247468462]: https://twitter.com/visakanv/status/1051403551706992640
 
 ##### ^247468464
   
@@ -43,16 +43,7 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/DpdWnRlUcAAoal9.jpg) 
   [^247468464]
 
-[^247468464]:  https://twitter.com/visakanv/status/1051404282459615232
-
-##### ^247468465
-  
-> at the start of the exhibit is a collection of items they found while excavating the site of the heritage centre – which is a taste of what's to come – a bunch of old items hanging around and not much story or context to help you make any sense of it. (wow visa, harsh) true tho 
-> ![](https://pbs.twimg.com/media/DpdXIUXVAAA-_AI.jpg) 
-> ![](https://pbs.twimg.com/media/DpdXPoXVsAAjt1X.jpg) 
-  [^247468465]
-
-[^247468465]:  https://twitter.com/visakanv/status/1051405060129714177
+[^247468464]: https://twitter.com/visakanv/status/1051404282459615232
 
 ##### ^247468467
   
@@ -65,7 +56,7 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/DpdYWSeVAAAnDJ3.jpg) 
   [^247468467]
 
-[^247468467]:  https://twitter.com/visakanv/status/1051406218600706048
+[^247468467]: https://twitter.com/visakanv/status/1051406218600706048
 
 ##### ^247468468
   
@@ -77,14 +68,14 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/DpdcHjWUYAAC5m6.jpg) 
   [^247468468]
 
-[^247468468]:  https://twitter.com/visakanv/status/1051410351474917376
+[^247468468]: https://twitter.com/visakanv/status/1051410351474917376
 
 ##### ^247468469
   
 > those are the low-caste convicts who built so much of Singapore, housed in a forgotten prison that no longer exists. hey, do you think we're going to hear anything at all about caste in a museum about Indian heritage? 🤔 https://t.co/7V0Tw5WDwp 
   [^247468469]
 
-[^247468469]:  https://twitter.com/visakanv/status/1051410804744962048
+[^247468469]: https://twitter.com/visakanv/status/1051410804744962048
 
 ##### ^247468470
   
@@ -92,21 +83,21 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/Dpdc1LdUcAAe52S.jpg) 
   [^247468470]
 
-[^247468470]:  https://twitter.com/visakanv/status/1051413154461147137
+[^247468470]: https://twitter.com/visakanv/status/1051413154461147137
 
 ##### ^247468471
   
 > (my gut instinct is that there are a bunch of thoughtful historians who worked on this project who *wanted* to include all sorts of interesting, compelling details and stories, but were probably forced to keep things vague and sanitized by their bosses. just a guess) 
   [^247468471]
 
-[^247468471]:  https://twitter.com/visakanv/status/1051413824824168448
+[^247468471]: https://twitter.com/visakanv/status/1051413824824168448
 
 ##### ^247468472
   
 > (also, I went to the museum pretty late and had just under 2 hours to go through all of it – so there's a chance that I'm getting a little frustrated over nothing, and that I missed some of the details I was looking for... I shall probably go again and look more closely) 
   [^247468472]
 
-[^247468472]:  https://twitter.com/visakanv/status/1051414105016291329
+[^247468472]: https://twitter.com/visakanv/status/1051414105016291329
 
 ##### ^247468473
   
@@ -117,8 +108,10 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/Dpdh8FdU8AA_3cP.jpg) 
   [^247468473]
 
-[^247468473]:  https://twitter.com/visakanv/status/1051416765991796736
-
+[^247468473]: https://twitter.com/visakanv/status/1051416765991796736
+%%
+highlight_tags:: [[history]]
+%%
 ##### ^247468474
   
 > contact between South India and the Srivijaya empire in SEA dates back to ~ 100 CE. The Indian influence on Southeast Asia itself has many, many lifetimes worth of story and history to explore and uncover. We still live in it 
@@ -128,7 +121,7 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/Dpdi7TKVAAENYkL.jpg) 
   [^247468474]
 
-[^247468474]:  https://twitter.com/visakanv/status/1051417829012992001
+[^247468474]: https://twitter.com/visakanv/status/1051417829012992001
 
 ##### ^247468475
   
@@ -139,7 +132,7 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/DpdkhkTUcAEJRcG.jpg) 
   [^247468475]
 
-[^247468475]:  https://twitter.com/visakanv/status/1051419655330443265
+[^247468475]: https://twitter.com/visakanv/status/1051419655330443265
 
 ##### ^247468478
   
@@ -148,7 +141,7 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/DpdlWmoUYAAew4w.jpg) 
   [^247468478]
 
-[^247468478]:  https://twitter.com/visakanv/status/1051421210897076224
+[^247468478]: https://twitter.com/visakanv/status/1051421210897076224
 
 ##### ^247468479
   
@@ -159,7 +152,7 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/DpdnZYwU0AAGmGu.jpg) 
   [^247468479]
 
-[^247468479]:  https://twitter.com/visakanv/status/1051422979781849088
+[^247468479]: https://twitter.com/visakanv/status/1051422979781849088
 
 ##### ^247468480
   
@@ -174,7 +167,7 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/DpdqDW4U0AEWfgu.jpg) 
   [^247468480]
 
-[^247468480]:  https://twitter.com/visakanv/status/1051425664178343936
+[^247468480]: https://twitter.com/visakanv/status/1051425664178343936
 
 ##### ^247468481
   
@@ -187,7 +180,7 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/DpdtW5nVsAIuF3v.jpg) 
   [^247468481]
 
-[^247468481]:  https://twitter.com/visakanv/status/1051429453161590784
+[^247468481]: https://twitter.com/visakanv/status/1051429453161590784
 
 ##### ^247468482
   
@@ -199,5 +192,5 @@ deliveredBy:
 > ![](https://pbs.twimg.com/media/Dxh1A5mUUAAis8V.jpg) 
   [^247468482]
 
-[^247468482]:  https://twitter.com/visakanv/status/1087749447163863040
+[^247468482]: https://twitter.com/visakanv/status/1087749447163863040
 

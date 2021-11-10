@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "c8fbefb8202f4070",
+    "id": "ead9507d23e8a6a8",
     "type": "split",
     "children": [
       {
-        "id": "a85bb93100415d2e",
+        "id": "cb3ae875bf86c0fd",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO",
+                "query": "tag:#node/source/tweets",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -99,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,14 +139,6 @@
             }
           },
           {
-            "id": "6029732c33ad196e",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
             "id": "79527a796824c9ae",
             "type": "leaf",
             "state": {
@@ -172,7 +163,7 @@
             }
           },
           {
-            "id": "c30af952fb5c7133",
+            "id": "c1cded4ee8768665",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-stats",
@@ -180,10 +171,18 @@
             }
           },
           {
-            "id": "78d12dc2c6e0c754",
+            "id": "029f8504b58bfd36",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f492766586fcc65",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
               "state": {}
             }
           }
@@ -293,8 +292,10 @@
     "width": 611.5,
     "collapsed": true
   },
-  "active": "a85bb93100415d2e",
+  "active": "cb3ae875bf86c0fd",
   "lastOpenFiles": [
+    "asdf.md",
+    "10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md",
     "10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md",
     "40_Evergreens/Human's have an inability to admit that they are wrong.md",
     "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
@@ -302,8 +303,6 @@
     "20_Entry/KANBAN.md",
     "20_Entry/INDEX.md",
     "30_Topics/31_Stubs/friction.md",
-    "10_Sources/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
-    "10_Sources/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md",
-    "10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md"
+    "10_Sources/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md"
   ]
 }
