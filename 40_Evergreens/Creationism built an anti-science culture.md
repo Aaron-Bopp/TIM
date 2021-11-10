@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-07
-sr-interval: 5
+sr-due: 2021-11-19
+sr-interval: 12
 sr-ease: 230
 ---
 
@@ -14,6 +14,7 @@ sr-ease: 230
 - [[Rise of Misinformation in America]]
 - [[The Politicization of the Christian Church]]
 - [[Single issue voters are anti-democratic]]
+- [[Republican voters do not hold their leaders accountable]]
 - [[Rise of Conspiracy Culture]]
 
 ### <hr class="footnote"/>

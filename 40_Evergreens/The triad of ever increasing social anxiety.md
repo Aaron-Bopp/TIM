@@ -5,6 +5,8 @@ sr-due: 2021-11-12
 sr-interval: 8
 sr-ease: 196
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 #### [[The triad of ever increasing social anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[A secure identity is the best defense against social anxiety]] but you don't have a secure identity because => [[Your anxiety knows your insecurities better than you do]] so you have no way of treating this anxiety which leads to [[social discomfort]] => which weakens your identity because [[Identity is your understanding of yourself vs your interaction with the world]] => which leads to a lack of secure identity, and the [[feedback loop]] repeats.

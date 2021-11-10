@@ -5,6 +5,8 @@ aliases:
 - consciousness
 - consciously
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 consciousness
 
 **See**:: 

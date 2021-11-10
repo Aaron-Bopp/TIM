@@ -3,8 +3,8 @@ created: 2021-10-11
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-07
-sr-interval: 3
+sr-due: 2021-11-13
+sr-interval: 6
 sr-ease: 210
 ---
 #### [[Topics are terms that are too broadly defined]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,5 +20,3 @@ sr-ease: 210
 
 **Topics**:: [[note writing]], [[second brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

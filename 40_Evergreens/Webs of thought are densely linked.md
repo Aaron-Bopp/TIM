@@ -8,6 +8,8 @@ aliases:
 #### [[Webs of thought are densely linked]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Every thought exists in time and space only through it's connection to other thoughts.  
+- [[Nodes in the second brain are an abstraction of our first brain]]
+- [[Nodes in the second brain are made up of their data and metadata]]
 
 ### <hr class="footnote"/>
 

@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "jmilldotdev/obsidian-frontmatter-tag-suggest",
     "joethei/obsidian-rss",
     "chrisgrieser/obsidian-extra-md-html-syntax"
   ],

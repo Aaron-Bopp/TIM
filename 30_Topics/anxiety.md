@@ -5,9 +5,7 @@ aliases:
 - anxious
 date modified: Wednesday, October 6th 2021, 2:34:37 pm
 ---
-%%<cite>*mentioned in `$=dv.current().file.inlinks.length` topics, 7 evergreens, 8 sources *</cite>
-%% 
-<s class="aside-in">*mentioned in `$=dv.current().file.inlinks.length` topics, 7 evergreens, 8 sources *</s>
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
 a feeling of worry, nervousness, or unease about something with an uncertain outcome ^fc54c3
 

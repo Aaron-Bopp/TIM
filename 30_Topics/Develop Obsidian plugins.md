@@ -6,6 +6,8 @@ aliases:
   - Plugin Ideas
 tags: node/evergreen/technique
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[programming]], [[Software Development]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

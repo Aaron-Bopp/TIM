@@ -9,7 +9,7 @@ The titles of your notes are often the most important piece about them. Whether 
 
 Many different systems have different ways of titling notes. In traditional [[Zettlekassen]] systems the note is often titled with a UUID or time stamp that means any note created will not collide with any existing note. Part of the reason this is done so that the note can have a consistent reference, and another is so that there is as little barrier as possible to creating a note. Both of these can be solved in other ways and often are to avoid have a long string of unintelligible characters on every note.
 
-[[evergreen notes]] systems take a different approach. Note's are usually written completely in plain text and sometimes contain special marker symbols. [[Andy Matuschak]] said that note title's should be like [[API]]'s. This is to mean that note titles convey the necessary information for knowing what kind of information is in the note. This method provides notes that are more easily interpreted when linked, or when seen in a file structure.
+[[evergreen notes]] systems take a different approach. Note's are usually written completely in plain text and sometimes contain special marker symbols. [[Andy Matuschak]] said that note title's should be like [[API (Application Programming Interface)|]]'s. This is to mean that note titles convey the necessary information for knowing what kind of information is in the note. This method provides notes that are more easily interpreted when linked, or when seen in a file structure.
 
 In [[My TIM]] this is how I title note's
 The only constraint on the way notes are titled is uniqueness. If you are creating a new note and run into a naming conflict it can mean one of a few things.

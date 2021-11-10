@@ -2,6 +2,8 @@
 created: 2021-10-13
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 restricted memory locations from which process cannot access harware or kernel memory directly  [^1]
 

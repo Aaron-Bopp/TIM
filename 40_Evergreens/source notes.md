@@ -16,7 +16,7 @@ Template: [[source]]
 
 - Very similar to literature notes in a [[Zettlekassen]]
 - This is note a [[evergreen notes]]
-- this is how I [[How to collect thought in a second brain without creating friction | collect thought]] in [[My TIM]]
+- this is how I [[Your second brain should be frictionless access to a curated base of knowledge | collect thought]] in [[My TIM]]
 
 ### <hr class="dataviews"/>
 

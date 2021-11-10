@@ -5,6 +5,8 @@ aliases:
 - trans
 - transness
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[Queer]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

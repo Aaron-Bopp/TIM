@@ -4,6 +4,8 @@ tags: node/topic/outline
 aliases:
 - "note-writing"
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **Status**:: #EVER/SEED
 

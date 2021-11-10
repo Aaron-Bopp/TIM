@@ -4,6 +4,8 @@ aliases:
   - evolutionary
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 the process by which different kinds of living organism are believed to have developed from earlier forms during the history of the earth.
 

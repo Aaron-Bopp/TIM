@@ -7,8 +7,8 @@ aliases:
   - why does gender exist
   - The history of gender
   - the politicization of gender
-sr-due: 2021-11-09
-sr-interval: 17
+sr-due: 2021-12-28
+sr-interval: 49
 sr-ease: 290
 ---
 
@@ -26,7 +26,7 @@ The answer is unfortunately in [[Politics]], and the [[Rise of Modern Conservati
 
 Especially within the last thirty years, trans [[activism|activists]] have built support for the [[Queer]] [[community]], and pushed doctors and the government to support treatement for [[gender dysphoria]]. They have advocated that [[Any experience of gender is acceptable]] and improved the lives of trans people, but as these beliefs have become more main stream they have received backlash.
 
-The prominence of the [[gender binary]] in our [[socialization]], the politicization of [[gender]], and the fact [[Every person has an experience of gender]], means that a lot of personal and systemic [[privilege]] comes with being [[cis|cisgender]]. [^2] Most people's [[gender schema]] does not allow for [[gender non-comformity]], and they implicitely understand that allowing for that will attack their place in the [[Patriarchy]].[^3] For this reason [[transphobia]] is more prominent in men (see [[Masculinism]]) and [[religion|religious]] people, but unfortunately it has also invaded [[feminism|feminist]] spaces and created the phenomina of [[TERFS]]. 
+The prominence of the [[gender binary]] in our [[socialization]], the politicization of [[gender]], and the fact [[Every person has an experience of gender]], means that a lot of personal and systemic [[privilege]] comes with being [[cis|cisgender]]. [^2] Most people's [[gender schema]] does not allow for [[gender non-comformity]], and they implicitely understand that allowing for that will attack their place in the [[Patriarchy]].[^3] For this reason [[transphobia]] is more prominent in men (see [[Masculinism]]) and [[religion|religious]] people, but unfortunately it has also invaded [[feminism|feminist]] spaces and created the phenomina of [[TERFS]].  
 
 ### <hr class="footnote"/>
 

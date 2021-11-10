@@ -6,6 +6,8 @@ aliases:
   - anti science
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 
 **See**:: [[Politics]], [[Rise of Misinformation in America]]

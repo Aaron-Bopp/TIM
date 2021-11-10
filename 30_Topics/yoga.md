@@ -2,6 +2,8 @@
 created: 2021-05-31
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 - [[yoga]] is based off of the principle of doing something that forces your mind to be in the present.
 
 **See**:: [[mental health]]

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"20_Entry\" -path:\"00_Meta\"",
+  "search": " -path:10 -path:20 -path:00",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -18,7 +18,7 @@
       "query": "tag:#node/evergreen",
       "color": {
         "a": 1,
-        "rgb": 2590212
+        "rgb": 2715664
       }
     },
     {
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 0.907058823529412,
   "lineSizeMultiplier": 0.532352941176471,
   "collapse-forces": false,
-  "centerStrength": 0.536585365853659,
+  "centerStrength": 0.487179487179487,
   "repelStrength": 20,
   "linkStrength": 0.987804878048781,
   "linkDistance": 30,
-  "scale": 0.19420358808996155,
-  "close": true
+  "scale": 0.6230440935737658,
+  "close": false
 }

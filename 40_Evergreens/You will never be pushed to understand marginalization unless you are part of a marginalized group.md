@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-07
-sr-interval: 3
+sr-due: 2021-11-11
+sr-interval: 4
 sr-ease: 150
 ---
 #### [[You will never be pushed to understand marginalization unless you are part of a marginalized group]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,7 +15,7 @@ This is part of why [[Worldviews are wrong if they make life seem easy and simpl
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social justice]], [[self-actualization]]

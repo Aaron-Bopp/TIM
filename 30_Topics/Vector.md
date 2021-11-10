@@ -2,6 +2,8 @@
 created: 2021-10-16
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 a numerical representation of a direction and distance ([[Computer Science|CS]] perspective), or a visual representation of a value of a movement on multiple axis ([[physics]] perspective)   [^1]
 

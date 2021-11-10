@@ -3,9 +3,9 @@ created: 2021-06-20
 tags: node/evergreen
 aliases:
   - Complex emotions are intellectual understandings of primal urges
-sr-due: 2021-11-08
-sr-interval: 13
-sr-ease: 232
+sr-due: 2021-11-17
+sr-interval: 9
+sr-ease: 212
 ---
 
 #### [[Mental health is a reaction to one's environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

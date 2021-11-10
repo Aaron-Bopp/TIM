@@ -2,6 +2,8 @@
 created: 2021-05-03
 tags: node/topic/outline
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 - Catch the moment between inhalation and exhalation [^1]
 	- What is the moment between inhalation and exhalation

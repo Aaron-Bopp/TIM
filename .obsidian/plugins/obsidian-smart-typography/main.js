@@ -120,7 +120,7 @@ const pairedDoubleQuote = {
         ]);
     },
     performRevert: (instance, delta, settings) => {
-        if (instance.getRange(delta.from, delta.to) === settings.closeDouble) {
+        if (instance.getRange(delta.from, delta.to) === settings.openDouble) {
             delta.update(delta.from, Object.assign(Object.assign({}, delta.to), { ch: delta.to.ch + 1 }), ['""']);
             setTimeout(() => instance.setCursor(Object.assign(Object.assign({}, delta.from), { ch: delta.from.ch + 1 })));
         }
@@ -169,7 +169,7 @@ const pairedSingleQuote = {
         ]);
     },
     performRevert: (instance, delta, settings) => {
-        if (instance.getRange(delta.from, delta.to) === settings.closeSingle) {
+        if (instance.getRange(delta.from, delta.to) === settings.openSingle) {
             delta.update(delta.from, Object.assign(Object.assign({}, delta.to), { ch: delta.to.ch + 1 }), ["''"]);
             setTimeout(() => instance.setCursor(Object.assign(Object.assign({}, delta.from), { ch: delta.from.ch + 1 })));
         }

@@ -2,9 +2,9 @@
 created: 2021-06-12
 tags: node/evergreen
 date modified: Monday, October 18th 2021, 11:16:49 pm
-sr-due: 2021-11-09
-sr-interval: 12
-sr-ease: 239
+sr-due: 2021-11-15
+sr-interval: 6
+sr-ease: 219
 ---
 
 #### [[Human's have an inability to admit that they are wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -13,7 +13,7 @@ Once the [[subconscious|ego]] has internalized a belief as true it will work ver
 
 The fundamental [[Neuroscience|neurological]] process behind this is [[Rationalizations are defense-mechanisms against strong emotions]]
 
-- [ ] It is a reason for [[Conservatism|Conservatives]] [[cognitive dissonance]] #TO/PONDER/SOCIETY [[Is cognitive dissonance part of being a human]] as related to [[Human's will find explanations for inexplainable things]]
+- [ ] It is a reason for [[Conservatism|Conservatives]] [[cognitive dissonance]] #TO/PONDER/SOCIETY [[What is the cognitive effect of living in a unjust world]] as related to [[Human's will find explanations for inexplainable things]]
 
 ### <hr class="footnote"/>
 

@@ -2,6 +2,8 @@
 created: 2021-05-22
 tags: node/topic/outline
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 A second brain is a term that refers to a system of written thought that allows the writer to make permanent meaningful thought, access those thoughts in a meaningful way, and use as a conduit for new thought. 
 #TO/DO/WRITE/LONGTERM Article with my flavor of [[knowledge management]]
 
@@ -12,7 +14,7 @@ A second brain is a term that refers to a system of written thought that allows 
 - Why are you creating a Second Brain
 	- Are you taking notes to collect content or to create content
 		- [[Creating Thought with a Second Brain]]
-		- [[How to collect thought in a second brain without creating friction]]
+		- [[Your second brain should be frictionless access to a curated base of knowledge]]
 	- Starting your [[second brain]]
 		- [[Write your notes like you're planting an evergreen forest]]
 		- [[Write what you think]]

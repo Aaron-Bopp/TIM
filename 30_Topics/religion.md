@@ -5,6 +5,8 @@ aliases:
   - religious
   - religions
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[INDEX]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

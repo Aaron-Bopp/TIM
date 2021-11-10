@@ -16,7 +16,7 @@ aliases:
 
 ## Highlights
 ![](https://pbs.twimg.com/media/FBqYm73UcAo0NlN.jpg)
-Let’s talk about the core wounds that trauma survivors with \#ADHD often struggle with. 💬[](https://twitter.com/samdylanfinch/status/1448638027505430540)
+Let’s talk about the core wounds that [[trauma]] survivors with \#ADHD often struggle with. 💬[](https://twitter.com/samdylanfinch/status/1448638027505430540)
 ###### ^3p7r0d
 Many folks with \#ADHD have also experienced some kind of developmental trauma. We often see neglect and emotional abandonment especially when caregivers are unable (or unwilling) to offer competent support for their neurodivergent child. [](https://twitter.com/samdylanfinch/status/1448638192937168901) 
 ###### 

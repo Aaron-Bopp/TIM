@@ -250,6 +250,7 @@ var DEFAULT_SETTINGS = {
     renderMath: false,
     renderMathPreview: false,
     renderBanner: false,
+    renderEmbeds: false,
     renderTasks: false,
     showBacklinks: false,
     styleCheckBox: true,
@@ -327,6 +328,7 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                     html: _this.plugin.settings.renderHTML,
                     code: _this.plugin.settings.renderCode,
                     math: _this.plugin.settings.renderMath,
+                    embed: _this.plugin.settings.renderEmbeds,
                 });
             });
         });
@@ -344,6 +346,7 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                     html: _this.plugin.settings.renderHTML,
                     code: _this.plugin.settings.renderCode,
                     math: _this.plugin.settings.renderMath,
+                    embed: _this.plugin.settings.renderEmbeds,
                 });
             });
         });
@@ -371,6 +374,23 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
             text: "Edit Mode Code Rendering",
         });
         new obsidian.Setting(containerEl)
+            .setName("⚠️⚠️ Render Embeds")
+            .setDesc("")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.renderEmbeds).onChange(function (value) {
+                _this.plugin.settings.renderEmbeds = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.updateCodeMirrorOption("hmdFold", {
+                    image: _this.plugin.settings.foldImages,
+                    link: _this.plugin.settings.foldLinks,
+                    html: _this.plugin.settings.renderHTML,
+                    code: _this.plugin.settings.renderCode,
+                    math: _this.plugin.settings.renderMath,
+                    embed: _this.plugin.settings.renderEmbeds,
+                });
+            });
+        });
+        new obsidian.Setting(containerEl)
             .setName("Render HTML")
             .setDesc("")
             .addToggle(function (toggle) {
@@ -383,6 +403,7 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                     html: _this.plugin.settings.renderHTML,
                     code: _this.plugin.settings.renderCode,
                     math: _this.plugin.settings.renderMath,
+                    embed: _this.plugin.settings.renderEmbeds,
                 });
             });
         });
@@ -399,6 +420,7 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                     html: _this.plugin.settings.renderHTML,
                     code: _this.plugin.settings.renderCode,
                     math: _this.plugin.settings.renderMath,
+                    embed: _this.plugin.settings.renderEmbeds,
                 });
             });
         });
@@ -438,6 +460,7 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                     html: _this.plugin.settings.renderHTML,
                     code: _this.plugin.settings.renderCode,
                     math: _this.plugin.settings.renderMath,
+                    embed: _this.plugin.settings.renderEmbeds,
                 });
             });
         });
@@ -3787,14 +3810,25 @@ var ___extends = (function () {
           cm.on("changes", _this.onChange);
           cm.on("viewportChange", _this.onViewportChange);
           cm.on("cursorActivity", _this.onCursorActivity);
+          cm.on("gutterClick", _this.onGutterClick);
         } else {
           cm.off("changes", _this.onChange);
           cm.off("viewportChange", _this.onViewportChange);
           cm.off("cursorActivity", _this.onCursorActivity);
+          cm.off("gutterClick", _this.onGutterClick);
         }
       };
       this.onViewportChange = function (cm, from, to) {
         _this.startFold(from, to);
+      };
+      this.onGutterClick = function (cm, line, gutter, clickEvent) {
+        // check for widgets to render when lists or headers are expanded
+        if (
+          gutter === "CodeMirror-foldgutter" &&
+          clickEvent.composedPath()[0]?.hasClass("CodeMirror-foldgutter-folded")
+        ) {
+          _this.startFoldImmediately(line, cm.getViewport().to + 1);
+        }
       };
       this.checkForPreview = obsidian.debounce(
         function () {
@@ -4908,13 +4942,20 @@ var ___extends = (function () {
         // this causes any text selection to immediately stop if the cursor is coming out of a block html element
         // without this, the line widget will get duplicated on cursor selection. see issue #51
         if (cm.state.selectingText) cm.state.selectingText();
-        var lineWidget_1 = cm.addLineWidget(to.line, el, {
-          above: false,
-          coverGutter: false,
-          className: "rendered-html rendered-html-block rendered-widget",
-          noHScroll: false,
-          showIfHidden: false,
-        });
+        var lineWidget_1;
+        if (!cm.getLineHandle(from.line).widgets || cm.getLineHandle(from.line).widgets?.length === 0) {
+          lineWidget_1 = cm.addLineWidget(to.line, el, {
+            above: false,
+            coverGutter: false,
+            className: "rendered-html rendered-html-block rendered-widget",
+            noHScroll: false,
+            showIfHidden: false,
+          });
+        } else if (cm.getLineHandle(from.line).widgets?.length) {
+          lineWidget_1 = cm.getLineHandle(from.line).widgets[0];
+        } else {
+          return;
+        }
         var wrapperLine = from.line;
         cm.addLineClass(wrapperLine, "wrap", "rendered-html-block-wrapper");
 
@@ -4958,6 +4999,7 @@ var ___extends = (function () {
         inclusiveRight: isBlock,
       });
       marker.associatedLineWidget = lineWidget_1;
+
       return marker;
     };
     FoldHTML.prototype.makeStub = function () {
@@ -5809,6 +5851,310 @@ var gte_1 = gte;
     renderer: exports.TasksRenderer,
     suggested: false,
   });
+});
+
+// HyperMD, copyright (c) by laobubu
+
+(function (mod) {
+  mod(null, {}, CodeMirror, HyperMD.Fold, HyperMD.ReadLink);
+})(function (require, exports, CodeMirror, fold_1) {
+  Object.defineProperty(exports, "__esModule", { value: true });
+  exports.EmbedFolder = void 0;
+  var debug = false;
+  var EmbedFolder = function (stream, token) {
+    var cm = stream.cm;
+    var embedRE = /(\bformatting-embed\b)/;
+    var extRE = /\.(jpe?g|png|gif|svg|bmp)/;
+    var urlRE = /(\bformatting-link-string\b)|(\bformatting-link\b)/; // matches the parentheses
+    if (embedRE.test(token.type) && (token.string === "!" || token.string === "![[")) {
+      var replacedWith;
+      var lineNo = stream.lineNo;
+      // find the begin and end of url part
+      var since = { line: lineNo, ch: token.start };
+      var url_begin = stream.findNext(urlRE, 0, since);
+      if (!url_begin) {
+        return null;
+      }
+      var url_end = stream.findNext(urlRE, url_begin.i_token + 1);
+      var rawurl = cm.getRange({ line: lineNo, ch: url_begin.token.end }, { line: lineNo, ch: url_end.token.start });
+      // bail if the embed is an image
+      if (extRE.test(rawurl)) return null;
+      var from = { line: lineNo, ch: token.start };
+      var to = { line: lineNo, ch: url_end.token.end };
+      var inlineMode = from.ch != 0 || to.ch < cm.getLine(to.line).length;
+      var rngReq = stream.requestRange(from, to, from, from);
+      var stubClassOmittable = "hmd-fold-embed-stub omittable";
+      if (rngReq === fold_1.RequestRangeResult.OK) {
+        var info = {
+          editor: cm,
+          lang: "embed",
+          attributes: null,
+          marker: null,
+          lineWidget: null,
+          el: null,
+          break: undefined_function,
+          changed: undefined_function,
+        };
+        var breakFn = function () {
+          return fold_1.breakMark(cm, marker);
+        };
+        // Renderer
+        var code = cm.getRange(from, to);
+        var el = document.createElement("div");
+        var ctx = new obsidian.Component();
+        ctx.sourcePath = cm.state.fileName;
+        const previewMode = window.app.workspace.activeLeaf.view.previewMode,
+          renderer = previewMode.renderer;
+        try {
+          // process the markdown
+          obsidian.MarkdownRenderer.renderMarkdown(code, el, cm.state.fileName, ctx);
+          // kick off the preview mode process that renders the embed
+          renderer.owner.postProcess({ el: el }, [], renderer.frontmatter);
+          var targetChild;
+          Array.from(renderer.owner._children).forEach(child => {
+            if (child.containerEl === el.querySelector(".markdown-embed-content")) {
+              targetChild = child;
+            }
+          });
+        } catch (error) {
+          el.innerText = "Failed to render embed: " + error;
+        }
+        function unload() {
+          previewMode.removeChild(targetChild);
+          renderer.owner._children.remove(targetChild);
+          targetChild.unload();
+          targetChild = null;
+        }
+        info.unload = unload;
+        var type = "embed";
+        var stub = document.createElement("span");
+        stub.className = stubClass;
+        stub.textContent = "<EMBED>";
+        stub.addEventListener("click", breakFn, false);
+        var marker, lineWidget;
+        function updateWidgetByEl(targetEl) {
+          const found = cm.hmd.Fold.folded.embed?.filter(
+            el => el.replacedWith?.contains(targetEl) || el.associatedLineWidget?.node?.contains(targetEl)
+          );
+          if (found?.length) {
+            found[0].changed();
+          }
+        }
+        var updateWidgetByElDebounced = obsidian.debounce(updateWidgetByEl, 250);
+        function watchInlineSize(w, h, el) {
+          try {
+            if (debug) ;
+            updateWidgetByElDebounced(el);
+          } catch (err) {
+          }
+        }
+
+        const embedObserverCallback = entries => {
+          for (let entry of entries) {
+            if (entry.contentRect) {
+              var width = entry.contentRect.width,
+                height = entry.contentRect.height;
+              try {
+                watchInlineSize(width, height, entry.target);
+              } catch (err) {
+              }
+              entry = null;
+            }
+          }
+        };
+
+        if (!cm.embedObserver) {
+          cm.embedObserver = new ResizeObserver(embedObserverCallback);
+        }
+
+        if (inlineMode) {
+          stub.className = stubClassOmittable;
+
+          var displayType, embedType;
+          var span = document.createElement("span");
+          if (code.contains("^")) {
+            displayType = "inline";
+            embedType = "block";
+          } else if (code.contains("#")) {
+            displayType = "flex";
+            embedType = "header";
+          } else {
+            displayType = "flex";
+            embedType = "page";
+          }
+          span.setAttribute("class", "rendered-inline-embed rendered-widget embed-type-" + embedType);
+          span.setAttribute("style", `display: ${displayType};`);
+          if (token.start < 7) {
+            stub.addClass("flip-stub");
+          }
+          span.appendChild(stub);
+          span.appendChild(el);
+          var targetFile = rawurl.match(/^([^#]*)#/);
+          if (targetFile && targetFile.length > 1 && targetFile[1]) {
+            targetFile = targetFile[1];
+          } else {
+            targetFile = cm.state.fileName?.replace(/\.md$/, "");
+          }
+          span.setAttribute("aria-label", targetFile);
+          HTMLElement.prototype.onClickEvent = function (e, t) {
+            this.addEventListener("click", e, t), this.addEventListener("auxclick", e, t);
+          };
+          el.onClickEvent(function (e) {
+            if (e.composedPath()[0].className === "internal-link") return;
+            (0 !== e.button && 1 !== e.button) ||
+              (e.preventDefault(), window.app.workspace.openLinkText(rawurl, cm.state.fileName, false));
+          });
+
+          replacedWith = span;
+
+          cm.embedObserver.observe(span);
+          info.changed = function () {
+            try {
+              marker.changed();
+            } catch (err) {
+            }
+          };
+          info.break = function () {
+            fold_1.breakMark(cm, marker);
+          };
+          function onInlineMarkClear() {
+            cm.embedObserver.unobserve(el);
+            if (info.unload) {
+              try {
+                info.unload();
+                if (debug) ;
+              } catch (err) {
+              }
+            }
+            // var markers = cm.hmd.Fold.folded.embed;
+            // var idx;
+            // if (markers && (idx = markers.indexOf(marker)) !== -1) {
+            //   if (debug) console.log("found inline marker in registry", markers, marker);
+            //   markers.splice(idx, 1);
+            // } else {
+            //   if (debug) console.log("unable to find inline wiget in fold registry", markers, marker);
+            // }
+            marker.off("clear", onInlineMarkClear);
+            stub.removeEventListener("click", breakFn);
+            el.removeEventListener("click", breakFn);
+            stub = null;
+            el = null;
+            marker.replacedWith = null;
+            marker.widgetNode = null;
+            marker = null;
+            info = null;
+          }
+
+          setTimeout(function () {
+            marker.on("clear", onInlineMarkClear);
+          }, 100);
+        } else {
+          // Block Placement
+          var $wrapper = document.createElement("div");
+          $wrapper.className = contentClass;
+          $wrapper.style.minHeight = "1em";
+          $wrapper.appendChild(el);
+          if (code.contains("^")) {
+            displayType = "inline";
+            embedType = "block";
+          } else if (code.contains("#")) {
+            displayType = "flex";
+            embedType = "header";
+          } else {
+            displayType = "flex";
+            embedType = "page";
+          }
+          $wrapper.setAttribute("class", "rendered-embed rendered-widget embed-type-" + embedType);
+          if (!cm.getLineHandle(lineNo).widgets || cm.getLineHandle(lineNo).widgets?.length === 0) {
+            lineWidget = cm.addLineWidget(to.line, $wrapper, {
+              above: false,
+              coverGutter: false,
+              handleMouseEvents: false,
+              className: "rendered-block-embed rendered-widget",
+              noHScroll: false,
+              showIfHidden: false,
+            });
+          } else if (cm.getLineHandle(lineNo).widgets?.length) {
+            lineWidget = cm.getLineHandle(lineNo).widgets[0];
+          } else {
+            return;
+          }
+
+          var wrapperLine = stream.lineNo;
+          cm.addLineClass(wrapperLine, "wrap", `rendered-${type}-wrapper`);
+
+          cm.embedObserver.observe($wrapper);
+
+          replacedWith = stub;
+
+          info.changed = function () {
+            try {
+              lineWidget.changed();
+            } catch (err) {
+            }
+          };
+          info.break = function () {
+            cm.embedObserver.unobserve($wrapper);
+            fold_1.breakMark(cm, marker);
+          };
+          stub.addEventListener("click", info.break, false);
+          var redraw = info.redraw;
+          if (redraw) {
+            lineWidget.on("redraw", info.redraw);
+          }
+          function onCodeBlockClear() {
+            cm.embedObserver.unobserve($wrapper);
+            if (redraw) {
+              lineWidget.off("redraw", info.redraw);
+            }
+            marker.off("clear", onCodeBlockClear);
+            stub.removeEventListener("click", info.break);
+            if (info.unload) {
+              try {
+                info.unload();
+                if (debug) ;
+              } catch (err) {
+              }
+            }
+            var markers = cm.hmd.Fold.folded.embed;
+            var idx;
+            if (markers && (idx = markers.indexOf(marker)) !== -1) {
+              markers.splice(idx, 1);
+            }
+            cm.removeLineClass(wrapperLine, "wrap", `rendered-${type}-wrapper`);
+            cm.removeLineClass(wrapperLine, "wrap", "rendered-code-block-wrapper");
+            lineWidget.clear();
+            lineWidget = null;
+            marker.replacedWith = null;
+            marker.widgetNode = null;
+            marker = null;
+            info.unload = null;
+            info = null;
+          }
+          setTimeout(function () {
+            marker.on("clear", onCodeBlockClear);
+          }, 0);
+        }
+        marker = cm.markText(from, to, {
+          replacedWith: replacedWith,
+          inclusiveLeft: false,
+          inclusiveRight: false,
+        });
+        marker.associatedLineWidget = lineWidget;
+        setTimeout(() => {
+          marker.changed();
+        }, 0);
+        return marker;
+      }
+    }
+    return null;
+  };
+  var contentClass = "hmd-fold-embed-content hmd-fold-embed"; // + renderer_type
+  var stubClass = "hmd-fold-embed-stub hmd-fold-embed"; // + renderer_type
+  // eslint-disable-next-line @typescript-eslint/no-empty-function
+  var undefined_function = function () {};
+  exports.EmbedFolder = EmbedFolder;
+  fold_1.registerFolder("embed", exports.EmbedFolder, true);
 });
 
 // HyperMD, copyright (c) by laobubu
@@ -6771,6 +7117,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
                     math: _this_1.settings.renderMath,
+                    embed: _this_1.settings.renderEmbeds,
                 });
             },
         });
@@ -6787,6 +7134,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
                     math: _this_1.settings.renderMath,
+                    embed: _this_1.settings.renderEmbeds,
                 });
             },
         });
@@ -6803,6 +7151,24 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
                     math: _this_1.settings.renderMath,
+                    embed: _this_1.settings.renderEmbeds,
+                });
+            },
+        });
+        this.addCommand({
+            id: "toggle-render-embeds",
+            name: "Toggle Render Embeds",
+            callback: function () {
+                _this_1.settings.renderEmbeds = !_this_1.settings.renderEmbeds;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFold", {
+                    image: _this_1.settings.foldImages,
+                    link: _this_1.settings.foldLinks,
+                    html: _this_1.settings.renderHTML,
+                    code: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderMath,
+                    embed: _this_1.settings.renderEmbeds,
                 });
             },
         });
@@ -6819,6 +7185,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
                     math: _this_1.settings.renderMath,
+                    embed: _this_1.settings.renderEmbeds,
                 });
             },
         });
@@ -6858,6 +7225,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
                     math: _this_1.settings.renderMath,
+                    embed: _this_1.settings.renderEmbeds,
                 });
             },
         });
@@ -7126,6 +7494,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                 html: _this_1.settings.renderHTML,
                 code: _this_1.settings.renderCode,
                 math: _this_1.settings.renderMath,
+                embed: _this_1.settings.renderEmbeds,
             });
             cm.setOption("hmdFoldCode", {
                 admonition: _this_1.settings.renderAdmonition,

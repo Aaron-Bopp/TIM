@@ -1,0 +1,25 @@
+---
+created: 2021-11-07 
+aliases:
+  - null
+tags: node/evergreen
+sr-due: 2021-11-12
+sr-interval: 3
+sr-ease: 226
+---
+#### [[Communities are knowledge graphs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+When I first started looking for a [[note writing]] system, I did what anybody would do, I googled "Best note-taking apps 2021." Of course, I immediately stumbled upon an article that listed [[Notion]] as the highest and then [[Evernote]] and [[Bear]] and [[Typora]], etc--I only read the first five. I remeber spending three hours fiddling with Notion buttons to creat a bullet-note system. After a week or two I got sick of messing with Notion, and so I went back to that article and scrolled down to the bottom half of the list and saw an interesting app called [[Roam Research]]. This is where I was first introduced to the concept of bidirectional links and of course the idea of a knowledge graph. I ended up using Roam for about a month, and during that time I started to get hooked into the [[knowledge management|personal knowledge management]] community. I started seeing articles that mentioned [[Zettlekassen]] or talked about how life changing "How to take smart notes" was. I said to myself, "I think I'm going to have to look into those." As I started to read more about [[Zettlekassen]], I started seeing [[Obsidian (software)|]] pop up more and more, and eventually stumbled accross [[Bryan Jenks]] youtube channel. This is where I really dove in, downloaded obsidian and started really creating a web of thought. I started crafting my own system based off of everything that I had read, tweaking and expanding it to my liking, until I finally stumbled up [[Andy Matuschak's Evergreen Notes]]. As I started to read [[Andy Matuschak|Andy's]] [[philosophy]], I realized that this is exactly the system that I had been designing. At the time, I was a little taken aback to see everthign that I had been dreaming up so accurately reflected in [[evergreen notes]], but I now realize that I had been *implicitely* learning Andy's system through the knowledge graph of the PKM community. 
+
+All it took was one node that linked into the graph for me to start crawling the [[web of thought]]. I read about things upstream and downstream of [[evergreen notes]] and implicitely learned that concept. This is the power of the knowledge graph. It expands your learning by placing thoughts in context. [^1] That context can be used to help you learn concepts better, but you can also start to learn context indirectly: [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
+
+### <hr class="footnote"/>
+
+**Status**:: #EVER/SPROUT 
+*edited `=this.file.mtime`*
+
+**Topics**:: [[community]], [[human experience]], [[knowledge management]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+
+[^1]: [[Nodes in the second brain are an abstraction of our first brain]]

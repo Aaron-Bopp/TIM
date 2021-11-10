@@ -5,6 +5,8 @@ aliases:
 - self-care
 - self-validation
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 
 **See**:: [[self-image]]

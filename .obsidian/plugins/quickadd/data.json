@@ -244,16 +244,16 @@
             "type": "Capture",
             "command": false,
             "appendLink": false,
-            "captureTo": "30 Topics/31_Stubs/{{VALUE}}.md",
+            "captureTo": "30_Topics/31_Stubs/{{VALUE}}.md",
             "captureToActiveFile": false,
             "createFileIfItDoesntExist": {
               "enabled": true,
-              "createWithTemplate": true,
-              "template": "00 Meta/Templates/STUB.md"
+              "createWithTemplate": false,
+              "template": ""
             },
             "format": {
               "enabled": true,
-              "format": "{{TEMPLATE:00_Meta/Templates/META.md}} stub/topic\n---\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n"
+              "format": "{{TEMPLATE:00_Meta/Templates/META.md}} stub/topic\n---\n`$=customJS.dv_funcs.mentionedIn(dv)`\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n"
             },
             "insertAfter": {
               "enabled": false,

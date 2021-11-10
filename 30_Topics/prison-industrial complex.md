@@ -5,6 +5,8 @@ aliases:
 - PIC
 - prison industrial complex
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[Prison]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -8,6 +8,8 @@ aliases:
 - samadhi
 - Moksha
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 enlightenment, [[liberation]], [[Self]]-Realization, God-Realization, nirvikalpa samadhi and finally Moksha
 

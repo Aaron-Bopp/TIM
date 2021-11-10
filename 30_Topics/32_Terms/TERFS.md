@@ -4,6 +4,8 @@ aliases:
   - null
 tags: topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 [[transgender|Trans]] Exclusionary Radical [[Feminism|feminist]]
 
 **See**::

@@ -2,6 +2,8 @@
 created: 2021-10-13
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 memory locations the kernel and other processes (that have no restrictions in access to harware, instructions or memory locations) execute from [^1]
 

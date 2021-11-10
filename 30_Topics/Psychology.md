@@ -2,6 +2,8 @@
 created: 2021-08-12
 tags: node/topic/outline
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

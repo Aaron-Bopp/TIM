@@ -7,6 +7,8 @@ aliases:
   - knowledge management system
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 
 **See**::

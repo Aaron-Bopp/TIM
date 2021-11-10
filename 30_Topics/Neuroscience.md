@@ -8,6 +8,8 @@ sr-due: 2021-10-22
 sr-interval: 4
 sr-ease: 272
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[INDEX]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

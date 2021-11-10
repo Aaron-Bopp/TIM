@@ -2,6 +2,8 @@
 created: 2021-10-19
 tags: node/topic/tool
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[Obsidian (software)]], [[Dataview]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-07
-sr-interval: 5
+sr-due: 2021-11-20
+sr-interval: 13
 sr-ease: 230
 ---
 
@@ -14,9 +14,10 @@ sr-ease: 230
 
 This is beginning of the [[Rise of Modern Conservatism]] because [[Ronald Reagan invented modern conservatism]]
 
+It's interesting to look at the way [[Watergate]] was handled, and then look at the scandals of recent presidents: [[Republican voters do not hold their leaders accountable]].
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Reagan]], [[political strategy]]

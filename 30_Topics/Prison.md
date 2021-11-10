@@ -4,6 +4,8 @@ tags: node/topic/outline
 aliases:
 - prisons
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 This topic serves as a bride between [[Prison abolition]] and the [[prison-industrial complex]].
 

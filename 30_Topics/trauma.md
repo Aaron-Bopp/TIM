@@ -4,6 +4,8 @@ aliases:
   - traumatized
 tags: node/topic/outline
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

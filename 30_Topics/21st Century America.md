@@ -2,6 +2,8 @@
 created: 2021-07-25
 tags: node/topic/stub
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 - [[America]]'s changing population
     - Ethnic makeup of [[America]] is majorly shifting
         - majority minority by 2050

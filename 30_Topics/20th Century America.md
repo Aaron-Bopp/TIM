@@ -2,6 +2,8 @@
 created: 2021-05-31
 tags: node/source/outline
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 - [[notes1920's General Notes]]
 - [[notes1930's General Notes]]

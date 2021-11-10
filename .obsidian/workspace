@@ -1,38 +1,16 @@
 {
   "main": {
-    "id": "6d123b5dfd8473d1",
+    "id": "b9e3b603f89f7460",
     "type": "split",
     "children": [
       {
-        "id": "6370bfb22277c050",
+        "id": "d4cc7b3e6f49769e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md",
+            "file": "00_Meta/Primary Sources/Classes/Pyschology/Marsha P Johnson.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "3a883996ec8e2337",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/anxiety.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "feba6305fa2a3d61",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/mindfullness.md",
-            "mode": "source"
           }
         }
       }
@@ -61,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/SPROUT",
+                "query": "attention cognitive",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
@@ -76,13 +54,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/mindfullness.md",
+                "file": "00_Meta/Primary Sources/Classes/Pyschology/Marsha P Johnson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
                 "showSearch": true,
                 "searchQuery": "-path:00_Meta",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -109,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/mindfullness.md",
+                "file": "00_Meta/Primary Sources/Classes/Pyschology/Marsha P Johnson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,19 +113,18 @@
             }
           },
           {
-            "id": "f917f9dfefb62695",
+            "id": "86fd84d999bd5189",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 483
+    "width": 707
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -156,6 +133,89 @@
       {
         "id": "b7b3aaa71b0c0df5",
         "type": "tabs",
+        "dimension": 44.87951807228915,
+        "children": [
+          {
+            "id": "b977b5a232ac5471",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Meta/Primary Sources/Classes/Pyschology/Marsha P Johnson.md"
+              }
+            }
+          },
+          {
+            "id": "67a971758c440a71",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "acd3fde621257558",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          },
+          {
+            "id": "6029732c33ad196e",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "79527a796824c9ae",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "96b6002aaf7326ff",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fc53da45c28c58e",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "c187ca7bacabcbb3",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "39adc5a595ae7e4c",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "84f4f33f118f4527",
+        "type": "tabs",
+        "dimension": 55.12048192771084,
         "children": [
           {
             "id": "031fe1b37666a6d6",
@@ -163,9 +223,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/mindfullness.md",
+                "file": "00_Meta/Primary Sources/Classes/Pyschology/Marsha P Johnson.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -243,113 +303,29 @@
                   "repelStrength": 11.2684989429175,
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
-                  "scale": 0.7920320640530745,
-                  "close": false
+                  "scale": 0.5649370368992646,
+                  "close": true
                 }
               }
             }
-          },
-          {
-            "id": "2655aed1bf94a8be",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "17b4d267df1e074f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "30_Topics/mindfullness.md"
-              }
-            }
-          },
-          {
-            "id": "05507bf410ab41be",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "36fb9ad48df96589",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {}
-            }
-          },
-          {
-            "id": "47cd0ab9d043f154",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "78cf38f6e811c2e6",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "646e0547e33649b0",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
-            "id": "5dd332065265a55a",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            }
-          },
-          {
-            "id": "3a7d60af8c26b5ee",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "1f33c6bf4219550f",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 575,
-    "collapsed": true
+    "width": 735
   },
-  "active": "feba6305fa2a3d61",
+  "active": "d4cc7b3e6f49769e",
   "lastOpenFiles": [
-    "30_Topics/mindfullness.md",
-    "30_Topics/anxiety.md",
-    "40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md",
-    "40_Evergreens/Mental health is a reaction to one's environment.md",
-    "Marsh P Johnson.md",
-    "30_Topics/cis.md",
-    "30_Topics/masking.md",
-    "30_Topics/dissociation.md",
-    "30_Topics/realism.md",
-    "30_Topics/Tiktok.md"
+    "00_Meta/Primary Sources/Classes/Pyschology/Marsha P Johnson.md",
+    "Summary, Part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
+    "40_Evergreens/Creating Thought with a Second Brain.md",
+    "40_Evergreens/Bhuddism outlines a path and practice to end suffering, but does not promise it.md",
+    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
+    "Ror2 mindmap.md",
+    "40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md",
+    "40_Evergreens/Gender is a social construct.md",
+    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+    "40_Evergreens/Communities are knowledge graphs.md"
   ]
 }

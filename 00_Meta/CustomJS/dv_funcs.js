@@ -55,7 +55,6 @@ class dv_funcs {
     }
 
     getIO(page, dv, that, justInOutline = false) {
-        page = dv.current()
         const inlinks = page.file.inlinks.filter(l => l.path !== page.file.path && !l.path.contains("aliases"))
         const inOutline = this.getNotesInOutline(dv.current().file.name, dv, that).length - 1
         const totalOutlinks = this.getTotalLinks(page.file.name, dv, that).filter(l => l !== page.file.name).length
@@ -97,7 +96,7 @@ class dv_funcs {
     notLinkedPages(args) {
         const { dv, folder, that, all = false } = args;
         // const allEmbeds = this.getEmbeds(dv.current().file.name, dv, that).map(f => f.file.outlinks).flat().map(l => l.path)
-        const allNotes = this.getNotesInOutline(dv.current().file.name, dv, that)
+        let allNotes = this.getNotesInOutline(dv.current().file.name, dv, that)
         let parents = this.outlinedIn(dv, that, dv.current(), true)
         parents = parents ? parents.map(l => l.path) : []
         return dv.pages(all ? "" : this.wrap(dv.current().file.name)).where(p => {
@@ -116,11 +115,13 @@ class dv_funcs {
             sortCheck = ((p) => this.getTotalLinks(p.file.name, args.dv, args.that)),
             sortDir = 'asc',
             lastEdited = true,
-            columnTitles = [title, "I/O", "Outlined In", "Edited", "Created"],
+            columnTitles = [title, "I/O", "Outlined In", "Mentioned In", "Edited", "Created"],
             columns = ((p) => [
                 p.file.link,
                 this.getIO(p, dv, that),
-                dv.array(this.outlinedIn(dv, that, p, true)),
+                // this.outlinedIn(dv, that, p, true),
+                p.file.inlinks.filter(l => dv.page(l.path).file.tags.includes("#node/topic/outline")),
+                this.pageMentions(dv, p),
                 lastEdited ? moment(p.file.mtime.ts).fromNow() : p.file.mtime,
                 this.formatDate(p.created || p.file.ctime)
             ])
@@ -155,13 +156,15 @@ class dv_funcs {
     topicNoteDataviews(args) {
         const { dv, that } = args
         dv.header(3, `Notes not in ${dv.current().file.name} outline`)
-        this.statusTable({
+        this.defaultTable({
             ...args,
-            folder: "30_Topics"
+            pagesArray: this.notLinkedPages({ dv, folder: "30_Topics", that }),
+            title: "30_Topics"
         })
-        this.statusTable({
+        this.defaultTable({
             ...args,
-            folder: "40_Evergreens"
+            pagesArray: this.notLinkedPages({ dv, folder: "40_Evergreens", that }),
+            title: "40_Evergreens"
         })
         this.defaultTable({
             ...args,
@@ -205,12 +208,27 @@ class dv_funcs {
             }
         }
         // get the number of topics, evergreens, and source notes and return them as a string
-    mentionedIn(dv) {
-        const inlinks = dv.current().file.inlinks
-        const topics = inlinks.filter(l => l.path.contains("30_Topics")).length
-        const evergreens = inlinks.filter(l => l.path.contains("40_Evergreens")).length
-        const sources = inlinks.filter(l => l.path.contains("10_Sources")).length
-        return `<s class="aside-in">*mentioned in ${topics} topics, ${evergreens} evergreens, ${sources} sources*</s>`
+    pageMentions(dv, page) {
+        let inlinks = []
+        if (page) {
+            inlinks = page.file.inlinks
+            console.log(inlinks)
+        } else {
+            inlinks = dv.current().file.inlinks
+        }
+        let topics = inlinks.filter(l => l.path.contains("30_Topics")).length
+        let evergreens = inlinks.filter(l => l.path.contains("40_Evergreens")).length
+        let sources = inlinks.filter(l => l.path.contains("10_Sources")).length
+        topics = topics > 0 ? (topics > 1 ? `${topics} topics` : "1 topic") : ""
+        evergreens = evergreens > 0 ? (evergreens > 1 ? `${evergreens} evergreens` : "1 evergreen") : ""
+        sources = sources > 0 ? (sources > 1 ? `${sources} sources` : "1 source") : ""
+        return `${topics}${topics && evergreens ? ', '+evergreens : evergreens}${(evergreens || topics) && sources ? ', '+sources : sources}`
+    }
+    mentionedIn(dv, page) {
+        let mentions = this.pageMentions(dv, page)
+        if (mentions) {
+            return `<s class="aside-in">*mentioned in ${mentions}*</s>`
+        }
     }
 
     topicOutlineHeader(dv, that) {

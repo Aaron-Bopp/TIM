@@ -3,9 +3,9 @@ created: 2021-08-14
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-08
-sr-interval: 6
-sr-ease: 230
+sr-due: 2021-11-11
+sr-interval: 3
+sr-ease: 210
 ---
 #### [[Transformative justice is the alternative to punitive justice]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -23,4 +23,4 @@ Transformative justice is focused on building support and safety for victims thr
 **Topics**:: [[justice]], [[Civil Rights]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^1]: [[Summary, Part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress#^b99f1a]]
+[^1]: ![[articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress#212893827]]

@@ -2,6 +2,8 @@
 created: 2021-05-08
 tags: node/source/outline
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 
 **See**:: [[pyschology]]

@@ -4,4 +4,6 @@ aliases:
   - individualistic
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 **See**:: [[America]], [[Christianity]], [[philosophy]], [[Psychology]]

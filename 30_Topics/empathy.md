@@ -2,6 +2,8 @@
 created: 2021-06-17
 tags: node/topic/stub
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 **empathy**
 understanding and entering into another's feelings  
 **empathic**

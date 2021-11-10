@@ -1,15 +1,15 @@
 ---
 created: 2021-05-22
-tags: node/evergreen/question
-sr-due: 2021-11-05
-sr-interval: 1
+tags: node/evergreen
+sr-due: 2021-11-16
+sr-interval: 7
 sr-ease: 220
 ---
 
-#### [[How to collect thought in a second brain without creating friction]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Your second brain should be frictionless access to a curated base of knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 ```ad-summary
-Your priorities for collecting thought in your [[second brain]] should be 
+Your priorities for collecting thought in your [[second brain]] should be: 
 1. The relation between your thoughts and other peoples thoughts
 2. The organization of your thoughts and others thoughts
 3. The accessibility of these thoughts

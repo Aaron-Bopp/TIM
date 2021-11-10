@@ -1,0 +1,42 @@
+---
+created: 2021-11-07 
+aliases:
+  - null
+tags: node/evergreen
+sr-due: 2021-11-10
+sr-interval: 2
+sr-ease: 227
+---
+#### [[Our brain will do anything it can to protect itself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/TEND/CREATE this bridge note
+- [[self]]
+	- [[Our ego is our subconscious defense of our self]]
+	- [[We value our biggest insecurities because they protect us from the biggest threats]]
+	- [[Your anxiety knows your insecurities better than you do]]
+- [[Evolutionary Pyschology]]
+	- [[Our brains are built around survival]]
+	- [[The brain is powerful enough to create supernatural experiences]]
+	- [[Humans are primarily irrational, illogical, emotional beings]]
+- [[mental health]]
+	- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+	- [[Repressed identity creates a mistrust of self-love and self-esteem]]
+	- [[Avoidance IS the most-efficient way of dealing with emotion]]
+    - [[Social anxiety isn't irrational it's just overcompensation]]
+	- [[How can parent's best help their children]]
+		- [[Parents need to model the ability to deal with emotion to their children]]
+		- [[Working through trauma can involve of a lot of letting go]]
+ 	
+This is the basis for [[PTSD]], [[anxiety]], [[DID (Dissociative Idenitty Disorder)]]
+
+This ability to pattern match is a major part of why we have survived as a species (and how we may evolve see [[neurodiversity]]). [[Human's will find explanations for inexplainable things]].
+
+### <hr class="footnote"/>
+
+**Status**:: #EVER/SEED/UNPLANTED
+*edited `=this.file.mtime`*
+
+**Topics**:: [[trauma]], [[subconscious]], [[mental health]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+

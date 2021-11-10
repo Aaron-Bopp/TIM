@@ -1,12 +1,16 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Sanctum",
-  "theme": "moonstone",
+  "cssTheme": "Bubble Space",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "links",
     "gradient-hr",
     "S - Aside",
-    "aside"
+    "aside",
+    "S - Images Adjustments",
+    "S - External Link Icons",
+    "S - Embed Adjustments",
+    "S - Admonitions"
   ],
   "translucency": false,
   "baseFontSizeAction": false

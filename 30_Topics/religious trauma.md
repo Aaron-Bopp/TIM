@@ -3,6 +3,8 @@ created: 2021-06-29
 tags: node/topic/outline
 date modified: Monday, October 4th 2021, 12:06:19 am
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[trauma]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

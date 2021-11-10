@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-07
-sr-interval: 3
+sr-due: 2021-11-13
+sr-interval: 6
 sr-ease: 190
 ---
 
@@ -18,7 +18,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[politics]], [[cognitive dissonance]],  [[anti-vax]]

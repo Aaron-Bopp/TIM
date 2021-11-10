@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2162283,
+  "lastSavedStatusID": 2177410,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -289,7 +289,10 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching (Hips) 🪔.md": "11731014",
     "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md": "11742871",
     "10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md": "11744802",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md": "11746280"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md": "11746280",
+    "10_Sources/Readwise/Tweets/tweets_Clarifying It Seems Lik....md": "11800086",
+    "10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md": "11800248",
+    "10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md": "11807041"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false

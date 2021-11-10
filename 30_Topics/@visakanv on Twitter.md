@@ -4,6 +4,8 @@ aliases:
   - visakanv
 tags: node/source/person
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 ```dataview
 TABLE 

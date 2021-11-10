@@ -4,6 +4,8 @@ tags: node/topic/outline
 aliases:
   - christian
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[religion]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

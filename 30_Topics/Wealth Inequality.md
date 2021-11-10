@@ -2,6 +2,8 @@
 created: 2021-07-21
 tags: node/topic/outline
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 **See**:: [[Capitalism]], [[Marxism]], [[Communism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

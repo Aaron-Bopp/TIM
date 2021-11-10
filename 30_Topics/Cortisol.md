@@ -2,6 +2,8 @@
 created: 2021-10-19
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 Cortisol will last for 4-24 hours depending on the duration of the encounter and it keeps you aware and ready to act at a moments notice [^1]
 

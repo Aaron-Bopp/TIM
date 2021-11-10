@@ -1,9 +1,9 @@
 ---
 created: 2021-05-18
 tags: node/evergreen
-sr-due: 2021-11-07
-sr-interval: 14
-sr-ease: 290
+sr-due: 2022-01-02
+sr-interval: 56
+sr-ease: 310
 ---
 
 #### [[Yang's political failure was due to lack of activism and poltical inneficacy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

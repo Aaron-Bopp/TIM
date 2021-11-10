@@ -4,6 +4,8 @@ aliases:
 - sympathize
 tags: node/topic/stub
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in close sympathy"  
 
 sharing the feelings of others (especially feelings of sorrow or anguish)  

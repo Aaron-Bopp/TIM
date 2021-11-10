@@ -4,9 +4,9 @@ tag:
   - node/evergreen
 aliases:
   - A inwardly judgementful and outwardly accepting home creates trust issues
-sr-due: 2021-11-08
-sr-interval: 2
-sr-ease: 211
+sr-due: 2021-11-09
+sr-interval: 1
+sr-ease: 191
 ---
 
 #### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

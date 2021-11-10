@@ -2,6 +2,8 @@
 created: 2021-10-03
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 A theory of human developement that prioritizes four key social pressures: reinforcement, punishment, imitation, and [[Observational learning]] [^1]
 

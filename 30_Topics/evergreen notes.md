@@ -6,6 +6,8 @@ aliases:
 - zettle
 - evergreens
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 An evergreen note is one that is both easy to start and easy to add on to.
 

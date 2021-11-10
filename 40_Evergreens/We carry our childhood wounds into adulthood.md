@@ -5,16 +5,16 @@ aliases:
   - we make wide assumptions about the world
   - the wide assumptions we make in early childhood
   - childhood trauma causes us to make wide assumptions about the world
-sr-due: 2021-11-07
-sr-interval: 6
-sr-ease: 245
+sr-due: 2021-11-10
+sr-interval: 3
+sr-ease: 225
 ---
 
 #### [[We carry our childhood wounds into adulthood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/DO/FIND video about childhood wounds
 
-Especially in [[childhood]], negative experiences cause us to make us to make wide assumptions about the world. These experiences can become integral parts of our [[personality|personalities]] or form into [[mental illness]].
+Especially in [[childhood]], negative experiences cause us to make us to make wide assumptions about the world. Because [[Negative influences are stronger than positive influences]], these experiences can become integral parts of our [[personality|personalities]] or form into [[mental illness]].
 
 Childhood [[trauma]] causes use to make massive, sweeping assumptions about our lives, because our understanding of the world is so limited and [[Our brains are built around survival]]. Any formative experience will impact a large portion of our understanding of the world because we do not understand the context or the importance of that experience. 
 
@@ -22,7 +22,7 @@ Childhood [[trauma]] causes use to make massive, sweeping assumptions about our 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SPROUT/CULTIVATE  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[childhood]], [[trauma]]

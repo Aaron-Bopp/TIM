@@ -2,6 +2,8 @@
 created: 2021-10-03
 tags: node/topic/term
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 the applicatoin of evolutionary theory (natural selection) to social behavior [[socialization|social fitness]] [^1]
 

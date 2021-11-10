@@ -36,7 +36,7 @@
 
     -   Application that is executed on multiple computers within a network
 
--   [[API]]
+-   [[API (Application Programming Interface)]]
 
     -   Application program interface -- set of routines protocols and tools for building software
 
@@ -164,7 +164,7 @@
 
 -   SOCKET -- in between application and transport layer. Sends and receives messages
 
--   [[API]] (again!)
+-   [[API (Application Programming Interface)]] (again!)
 
 -   IP Address -- 32-bit unique address
 

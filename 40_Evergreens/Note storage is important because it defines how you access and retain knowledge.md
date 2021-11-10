@@ -3,8 +3,8 @@ created: 2021-07-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-07
-sr-interval: 13
+sr-due: 2021-12-11
+sr-interval: 34
 sr-ease: 270
 ---
 
@@ -16,7 +16,7 @@ Systems change. Security is important. You want ultimate control over your data.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My TIM]], [[second brain]], 

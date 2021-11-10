@@ -10,6 +10,8 @@ embedded:
 
 tags: node/topic/outline
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
 
 [[mental health]] covers concepts that vary from [[mental illness]] to [[neurodiversity]] to [[spirituality]] and how it effects us. 
 

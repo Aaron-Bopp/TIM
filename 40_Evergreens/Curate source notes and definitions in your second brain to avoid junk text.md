@@ -9,7 +9,7 @@ sr-ease: 210
 ---
 #### [[Curate source notes and definitions in your second brain to avoid junk text]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This is an intergral part of [[How to collect thought in a second brain without creating friction]].
+This is an intergral part of [[Your second brain should be frictionless access to a curated base of knowledge]].
 
 I believe the difference lies in curating the information in your vault and controlling the way you can access that information. For me this process looks this this:
 1. Import highlights that are relevant to my learning from what I read so that they are accessible through [[Obsidian (software)|]] search and I can return to the primary source easily.

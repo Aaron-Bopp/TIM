@@ -11,7 +11,7 @@ deliveredBy:
   - "readwise"
   - "web_clipper"
 ---
-# VIM Mode - Quality of Life Improvements
+# [[VIM]] Mode - Quality of Life Improvements
 
 **Related**:: 
 *`=this.highlight_tags`*
