@@ -1,6 +1,142 @@
 {
   "recentFiles": [
     {
+      "basename": "_Welcome",
+      "path": "20_Entry/_Welcome.md"
+    },
+    {
+      "basename": "therapy",
+      "path": "30_Topics/31_Stubs/therapy.md"
+    },
+    {
+      "basename": "Self-hatred is born out of dissonance between self-image and self-perception",
+      "path": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md"
+    },
+    {
+      "basename": "JUSTEVERGREENS",
+      "path": "JUSTEVERGREENS.md"
+    },
+    {
+      "basename": "What is the cognitive effect of living in an unjust world",
+      "path": "40_Evergreens/What is the cognitive effect of living in an unjust world.md"
+    },
+    {
+      "basename": "Rise of Modern Conservatism",
+      "path": "40_Evergreens/Rise of Modern Conservatism.md"
+    },
+    {
+      "basename": "Ronald Reagan invented modern conservatism",
+      "path": "40_Evergreens/Ronald Reagan invented modern conservatism.md"
+    },
+    {
+      "basename": "EVERGREENS",
+      "path": "20_Entry/EVERGREENS.md"
+    },
+    {
+      "basename": "_INDEX",
+      "path": "20_Entry/_INDEX.md"
+    },
+    {
+      "basename": "Your anxiety knows your insecurities better than you do",
+      "path": "40_Evergreens/Your anxiety knows your insecurities better than you do.md"
+    },
+    {
+      "basename": "Autism",
+      "path": "30_Topics/31_Stubs/Autism.md"
+    },
+    {
+      "basename": "philosophy",
+      "path": "30_Topics/31_Stubs/philosophy.md"
+    },
+    {
+      "basename": "conceptual notes",
+      "path": "30_Topics/31_Stubs/conceptual notes.md"
+    },
+    {
+      "basename": "Your second brain should be frictionless access to a curated base of knowledge",
+      "path": "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md"
+    },
+    {
+      "basename": "bi-directional links",
+      "path": "30_Topics/32_Terms/bi-directional links.md"
+    },
+    {
+      "basename": "defense-mechanisms",
+      "path": "30_Topics/32_Terms/defense-mechanisms.md"
+    },
+    {
+      "basename": "KANBAN",
+      "path": "20_Entry/KANBAN.md"
+    },
+    {
+      "basename": "QUICKNOTE",
+      "path": "20_Entry/QUICKNOTE.md"
+    },
+    {
+      "basename": "RELATED-TOPICS",
+      "path": "20_Entry/RELATED-TOPICS.md"
+    },
+    {
+      "basename": "LAST-WEEK",
+      "path": "20_Entry/LAST-WEEK.md"
+    },
+    {
+      "basename": "EVERSPROUTS",
+      "path": "20_Entry/EVERSPROUTS.md"
+    },
+    {
+      "basename": "EVERSEEDS",
+      "path": "20_Entry/EVERSEEDS.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "20_Entry/TODO.md"
+    },
+    {
+      "basename": "RECENTLY-MODIFIED",
+      "path": "20_Entry/RECENTLY-MODIFIED.md"
+    },
+    {
+      "basename": "File Sizes",
+      "path": "20_Entry/File Sizes.md"
+    },
+    {
+      "basename": "CONTENTNOTES",
+      "path": "20_Entry/CONTENTNOTES.md"
+    },
+    {
+      "basename": "_NOW",
+      "path": "20_Entry/_NOW.md"
+    },
+    {
+      "basename": "Templater",
+      "path": "30_Topics/33_Tools/Templater.md"
+    },
+    {
+      "basename": "Mermaid (software)",
+      "path": "30_Topics/33_Tools/Mermaid (software).md"
+    },
+    {
+      "basename": "neurodiversity",
+      "path": "30_Topics/neurodiversity.md"
+    },
+    {
+      "basename": "note writing",
+      "path": "30_Topics/note writing.md"
+    },
+    {
+      "basename": "self",
+      "path": "30_Topics/self.md"
+    },
+    {
+      "basename": "DrK Interviews",
+      "path": "30_Topics/DrK Interviews.md"
+    },
+    {
+      "basename": "@visakanv on Twitter",
+      "path": "30_Topics/@visakanv on Twitter.md"
+    },
+    {
       "basename": "Psychology",
       "path": "30_Topics/Psychology.md"
     },
@@ -57,148 +193,12 @@
       "path": "30_Topics/DID (Dissociative Idenitty Disorder).md"
     },
     {
-      "basename": "KANBAN",
-      "path": "20_Entry/KANBAN.md"
-    },
-    {
-      "basename": "NOW",
-      "path": "20_Entry/NOW.md"
-    },
-    {
-      "basename": "CONTENTNOTES",
-      "path": "20_Entry/CONTENTNOTES.md"
-    },
-    {
       "basename": "Commits",
       "path": "20_Entry/Commits.md"
     },
     {
       "basename": "'Don't be the reason that rules exist' - Nathan Eloe",
       "path": "10_Sources/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md"
-    },
-    {
-      "basename": "Nathan Eloe",
-      "path": "10_Sources/Personal/Nathan Eloe.md"
-    },
-    {
-      "basename": "Monolithic Kernel",
-      "path": "30_Topics/Monolithic Kernel.md"
-    },
-    {
-      "basename": "notes_OS_Operating Systems",
-      "path": "10_Sources/Operating Systems/notes_OS_Operating Systems.md"
-    },
-    {
-      "basename": "notes_OS_Deadlock",
-      "path": "10_Sources/Operating Systems/notes_OS_Deadlock.md"
-    },
-    {
-      "basename": "1NEWTOPICNOTE",
-      "path": "00_Meta/Templates/1NEWTOPICNOTE.md"
-    },
-    {
-      "basename": "TOPICNOTE",
-      "path": "00_Meta/Templates/TOPICNOTE.md"
-    },
-    {
-      "basename": "We are confined to the tools of our time",
-      "path": "40_Evergreens/We are confined to the tools of our time.md"
-    },
-    {
-      "basename": "You're never sure if you're trans",
-      "path": "40_Evergreens/You're never sure if you're trans.md"
-    },
-    {
-      "basename": "Obsidian's graph is useful in the implicit and dynamic relations it can reveal",
-      "path": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md"
-    },
-    {
-      "basename": "Human's have an inability to admit that they are wrong",
-      "path": "40_Evergreens/Human's have an inability to admit that they are wrong.md"
-    },
-    {
-      "basename": "my TO(DO) and EVER(GREEN) structure",
-      "path": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md"
-    },
-    {
-      "basename": "related topics",
-      "path": "40_Evergreens/related topics.md"
-    },
-    {
-      "basename": "Fomulate questions",
-      "path": "40_Evergreens/Fomulate questions.md"
-    },
-    {
-      "basename": "do math",
-      "path": "40_Evergreens/do math.md"
-    },
-    {
-      "basename": "Dual (plugin)",
-      "path": "40_Evergreens/Dual (plugin).md"
-    },
-    {
-      "basename": "Write your notes like you're planting an evergreen forest",
-      "path": "40_Evergreens/Write your notes like you're planting an evergreen forest.md"
-    },
-    {
-      "basename": "Journal",
-      "path": "10_Sources/Personal/Journal.md"
-    },
-    {
-      "basename": "Curate source notes and definitions in your second brain to avoid junk text",
-      "path": "40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md"
-    },
-    {
-      "basename": "What is my path to happiness",
-      "path": "10_Sources/Personal/What is my path to happiness.md"
-    },
-    {
-      "basename": "My relationship with my parents",
-      "path": "10_Sources/Personal/My relationship with my parents.md"
-    },
-    {
-      "basename": "My Deconstruction journey",
-      "path": "40_Evergreens/My Deconstruction journey.md"
-    },
-    {
-      "basename": "In order to for my parents to love me, they need to admit they might be wrong",
-      "path": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md"
-    },
-    {
-      "basename": "I thought negative emotions were natural and that positive emotions weren't real",
-      "path": "10_Sources/Personal/I thought negative emotions were natural and that positive emotions weren't real.md"
-    },
-    {
-      "basename": "I have a stored up emotion of hating myself",
-      "path": "10_Sources/Personal/I have a stored up emotion of hating myself.md"
-    },
-    {
-      "basename": "How I process repressed emotions",
-      "path": "10_Sources/Personal/How I process repressed emotions.md"
-    },
-    {
-      "basename": "Acting Bio",
-      "path": "10_Sources/Personal/Acting Bio.md"
-    },
-    {
-      "basename": "My unfulfilled need for parental validation became a fear of rejection and disregarment of affection",
-      "path": "10_Sources/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md"
-    },
-    {
-      "basename": "I relate to",
-      "path": "10_Sources/Personal/I relate to.md"
-    },
-    {
-      "basename": "Your second brain should be an inspirational hub of creativity",
-      "path": "40_Evergreens/Your second brain should be an inspirational hub of creativity.md"
-    },
-    {
-      "basename": "Your second brain should be frictionless access to a curated base of knowledge",
-      "path": "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md"
-    },
-    {
-      "basename": "Psychology of Race and Gender notes",
-      "path": "00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md"
     }
   ],
   "omittedPaths": [],

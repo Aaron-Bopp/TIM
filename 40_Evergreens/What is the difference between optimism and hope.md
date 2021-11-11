@@ -14,7 +14,7 @@ sr-ease: 230
 
 - [[Realism must acknowledge optimism's existence and effectiveness]]
 - [[Happiness is enlightenment and sadness is delusion]]
-- [[What is the cognitive effect of living in a unjust world]]
+- [[What is the cognitive effect of living in an unjust world]]
 
 ### <hr class="footnote"/>
 

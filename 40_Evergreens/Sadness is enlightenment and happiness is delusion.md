@@ -14,7 +14,7 @@ aliases:
 
 If a person internalizes the narrative that negative emotions are a sign of intelligence, it can warp their [[realism|realistic]] [[perception]] of the world, because [[Human's have an inability to admit that they are wrong]].
 
-<u>[[What is the cognitive effect of living in a unjust world|What is the cognitive effect of living in a unjust world?]]</u>
+<u>[[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]</u>
 
 Once a person has set up this belief that negative emotion is associated with intelligence, you can struggle to find [[happiness]] in bleak situations, and find it easy to find [[sadness]] in neutral situations. Often as your intelligence and knowledge of the world increases, you will find that the only proper reaction is increasing sadness. [[Knowledge of the world is painful]], but [[Accepting responsibility is not only about your actions]].
 

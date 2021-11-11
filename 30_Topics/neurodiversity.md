@@ -10,7 +10,7 @@ aliases:
 
  differing in mental or neurological function from what is considered typical or normal (frequently used with reference to autistic spectrum disorders); not neurotypical.
  
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **See**:: [[mental health]], [[mental illness]]

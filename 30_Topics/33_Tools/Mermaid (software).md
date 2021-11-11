@@ -10,13 +10,5 @@ https://mermaid-js.github.io/mermaid/#/
 
 #TO/EXPLORE/WATCH https://www.youtube.com/watch?v=Tsu02d6Qti0
 
----
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
 **Topics**:: [[Obsidian (software)]], [[Javascript]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-**Outline**::
-

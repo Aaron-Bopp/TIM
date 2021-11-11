@@ -8,7 +8,7 @@ sr-interval: 9
 sr-ease: 217
 ---
 
-#### [[What is the cognitive effect of living in a unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the cognitive effect of living in an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[Sadness is enlightenment and happiness is delusion]]

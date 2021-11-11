@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:20 -path:00",
+  "search": "-path:20 -path:00 tag:EVER/green",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 0.987804878048781,
   "linkDistance": 30,
-  "scale": 0.4792859901290639,
-  "close": false
+  "scale": 0.34186293633776577,
+  "close": true
 }

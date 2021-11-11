@@ -15,7 +15,7 @@ These experiences have often been core to [[human advancement]] and [[self-actua
 [^1]:  [[Human's will find explanations for inexplainable things]]
 [^2]: [[The materialistic view of religions examines why humans invented and clung to religion]]
 
-[[What is the cognitive effect of living in a unjust world|What is the cognitive effect of living in a unjust world?]]
+[[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
 
 The driver behind this biological process could be a [[morality|moral]] reaction. How do we justify killing another person? God told us to do it. How do we justify killing and entire village to steal their resources? They didn't worship the same god as us. [[Faith is an abstraction of cognitive dissonance]] 
 

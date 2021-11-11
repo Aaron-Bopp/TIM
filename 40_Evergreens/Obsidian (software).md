@@ -26,7 +26,7 @@ It also has a variety of plugins that help the workflow
 - [hot reload for plugin development](https://forum.obsidian.md/t/plugin-release-for-developers-hot-reload-the-plugin-s-youre-developing/12185)
 
 #### Example Vaults
-- [good examples for [[INDEX]] card size snippets of info](https://publish.obsidian.md/myquantumwell/Knowledge+Management)
+- [good examples for [[_INDEX]] card size snippets of info](https://publish.obsidian.md/myquantumwell/Knowledge+Management)
 	- academic, math-related
 - [large database with lots of dataview](https://publish.obsidian.md/slrvb/50+Nebula/30-N+Nebula/N+-+MediaDB+Vault+Setup)
 - [journaling setup w/ dataview](https://forum.obsidian.md/t/slrvbs-journaling-setup/22346/5)

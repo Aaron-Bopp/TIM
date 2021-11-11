@@ -11,7 +11,7 @@ sr-ease: 272
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 
-**See**:: [[INDEX]], [[mental health]]
+**See**:: [[_INDEX]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

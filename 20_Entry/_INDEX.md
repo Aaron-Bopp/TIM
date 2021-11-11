@@ -9,18 +9,18 @@ This is a constantly updated index of entry points and topics for my personal fl
 
 # Entry Points
 
-- [[NOW]]
+- [[_NOW]]
 - [[TODO]]
 	- [[KANBAN]]
 	- [[QUICKNOTE]]
 - [[Journal]]
 - Forest
-	- [[EvergreenNotes]]
+	- [[EVERGREENS]]
 	- [[EVERSPROUTS]]
 	- [[EVERSEEDS]]
 - Notes not in outline
 	- [[TopicNotes]]
-	- [[EvergreenNotes]]
+	- [[EVERGREENS]]
 	- [[CONTENTNOTES]]
 
 # Map of Content

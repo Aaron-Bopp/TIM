@@ -7,13 +7,5 @@ tags: node/topic/tool
 Source Code:: https://github.com/SilentVoid13/Templater
 Docs:: https://silentvoid13.github.io/Templater/
 
-
-
----
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
 **Topics**:: [[Obsidian (software)]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

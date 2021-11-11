@@ -3735,11 +3735,6 @@
       "tags": 0,
       "links": 0
     },
-    "20_Entry/EvergreenNotes.md": {
-      "size": 859,
-      "tags": 0,
-      "links": 0
-    },
     "20_Entry/EVERSEEDS.md": {
       "size": 529,
       "tags": 1,
@@ -3760,11 +3755,6 @@
       "tags": 0,
       "links": 0
     },
-    "20_Entry/INDEX.md": {
-      "size": 1446,
-      "tags": 0,
-      "links": 35
-    },
     "20_Entry/KANBAN.md": {
       "size": 518,
       "tags": 0,
@@ -3774,11 +3764,6 @@
       "size": 240,
       "tags": 1,
       "links": 0
-    },
-    "20_Entry/NOW.md": {
-      "size": 1144,
-      "tags": 0,
-      "links": 3
     },
     "20_Entry/QOUTES.md": {
       "size": 165,
@@ -5025,11 +5010,6 @@
       "tags": 2,
       "links": 19
     },
-    "40_Evergreens/Mermaid (software).md": {
-      "size": 388,
-      "tags": 4,
-      "links": 2
-    },
     "40_Evergreens/Monolithic vs Micro Kernels.md": {
       "size": 1704,
       "tags": 2,
@@ -5265,11 +5245,6 @@
       "tags": 2,
       "links": 17
     },
-    "40_Evergreens/Templater.md": {
-      "size": 403,
-      "tags": 2,
-      "links": 2
-    },
     "40_Evergreens/The actual work of being a good person isn't explored by Christianity.md": {
       "size": 723,
       "tags": 2,
@@ -5429,11 +5404,6 @@
       "size": 493,
       "tags": 2,
       "links": 7
-    },
-    "40_Evergreens/What is the cognitive effect of living in a unjust world.md": {
-      "size": 852,
-      "tags": 3,
-      "links": 18
     },
     "40_Evergreens/What is the difference between a evergreen note and a topic note.md": {
       "size": 956,
@@ -7568,1090 +7538,1145 @@
     "00_Meta/Templates/STUB.md": {
       "size": 148,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "30_Topics/32_Terms/Abolition.md": {
       "size": 411,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/abortion.md": {
       "size": 324,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/Acting.md": {
       "size": 326,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/activism.md": {
       "size": 367,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/Adderall.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/ADHD.md": {
       "size": 249,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/Adrenaline.md": {
       "size": 384,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/Agoraphobia.md": {
       "size": 416,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/Alexithymia.md": {
       "size": 200,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/capitalism.md": {
       "size": 159,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/Channeling.md": {
       "size": 364,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/childhood.md": {
       "size": 172,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/cis.md": {
       "size": 273,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/cognitive dissonance.md": {
       "size": 141,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/Communism.md": {
       "size": 159,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/community.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/compassion.md": {
       "size": 173,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/conscious.md": {
       "size": 214,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Conservatism.md": {
       "size": 204,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/economy.md": {
       "size": 179,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/emotional invalidation.md": {
       "size": 165,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/empathy.md": {
       "size": 487,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/endurance.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Enneagram.md": {
       "size": 223,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/envy.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Evangelicalism.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/evergreen notes.md": {
       "size": 545,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/Evolution.md": {
       "size": 352,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/grassroot support.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/guilt.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/happiness.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Hierarchy of needs.md": {
       "size": 162,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Hinduism.md": {
       "size": 188,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/homophobia.md": {
       "size": 190,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/hope.md": {
       "size": 159,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/hyperfocus.md": {
       "size": 163,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/i-hat.md": {
       "size": 235,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/implicit bias.md": {
       "size": 241,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/Indigenous.md": {
       "size": 173,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/individualism.md": {
       "size": 197,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 4
     },
     "30_Topics/32_Terms/indoctrination.md": {
       "size": 139,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/influence.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/injustice.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/inter-generational trauma.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Nuclear Fear.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/Observational learning.md": {
       "size": 346,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/31_Stubs/OCD.md": {
       "size": 289,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/optimism.md": {
       "size": 186,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/pandoc.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/panic attacks.md": {
       "size": 134,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/parents.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/partisanship.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/patient.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/reppressed.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/resentment.md": {
       "size": 213,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Revolt.md": {
       "size": 167,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Revolution.md": {
       "size": 175,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/sadness.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/Samskara.md": {
       "size": 353,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/Scalars.md": {
       "size": 242,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/Social Learning Theory.md": {
       "size": 429,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 4
     },
     "30_Topics/31_Stubs/subconscious.md": {
       "size": 192,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Suicide.md": {
       "size": 159,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/supply-side economics.md": {
       "size": 537,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/31_Stubs/sympathy.md": {
       "size": 579,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/Term notes.md": {
       "size": 610,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/the culture war.md": {
       "size": 171,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/theology.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/Tiktok.md": {
       "size": 175,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/transphobia.md": {
       "size": 216,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/unconditional love.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/33_Tools/Unity (game engine).md": {
       "size": 496,
-      "tags": 0,
-      "links": 0
+      "tags": 2,
+      "links": 4
     },
     "30_Topics/32_Terms/User Space.md": {
       "size": 372,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/Vector.md": {
       "size": 402,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/33_Tools/Vim.md": {
       "size": 2451,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/white supremacy.md": {
       "size": 216,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/33_Tools/Wikipedia (plugin, obsidian).md": {
       "size": 334,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/women.md": {
       "size": 325,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/worldview.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/yoga.md": {
       "size": 277,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/America.md": {
       "size": 465,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/anger.md": {
       "size": 325,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/anti-vax.md": {
       "size": 234,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/atheism.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Attachment Theory.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Autism.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/belief systems.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Bernie Sanders.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Bhuddism.md": {
       "size": 169,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/business.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Consumer Culture.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Consumerism.md": {
       "size": 189,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/counter-culture.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/creationism.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Cultural Fundamentalism.md": {
       "size": 166,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/desire.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/DID (Dissociative Idenitty Disorder).md": {
       "size": 132,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/digital garden.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/diverse.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/eastern philosophy.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/executive function.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/existential dread.md": {
       "size": 134,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/fairness.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/feedback loop.md": {
       "size": 130,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/five-factor model.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/founding fathers.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/free-will.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/gender binary.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/gender identity.md": {
       "size": 115,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/gender non-comformity.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/gender roles.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/internet.md": {
       "size": 181,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/intersectionality.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/judgement.md": {
       "size": 172,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/justice.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/liberation.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Machine Learning.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/marginalized.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Marxism.md": {
       "size": 178,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/masking.md": {
       "size": 193,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/31_Stubs/mass media.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/materialism.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Meyers Briggs.md": {
       "size": 176,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/mindfullness.md": {
       "size": 399,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/morality.md": {
       "size": 178,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Personality Tests.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/philosophy.md": {
       "size": 168,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/powershell.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Prison abolition.md": {
       "size": 165,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/prison-industrial complex.md": {
       "size": 213,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/privilege.md": {
       "size": 178,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/programming.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/purpose.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Queer.md": {
       "size": 184,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/racism.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Reincarnation.md": {
       "size": 190,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/relationships.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/self care.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/self-enhancement.md": {
       "size": 115,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/selfless.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/sexism.md": {
       "size": 289,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 5
     },
     "30_Topics/31_Stubs/social justice.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Social media.md": {
       "size": 174,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/31_Stubs/social progress.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/societal trauma.md": {
       "size": 155,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/society.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Software Development.md": {
       "size": 247,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/31_Stubs/soul.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/Spaced repetition.md": {
       "size": 161,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/31_Stubs/struggle.md": {
       "size": 173,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/algorithmic content.md": {
       "size": 307,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/anti-liberalism.md": {
       "size": 159,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/anti-science.md": {
       "size": 274,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/API (Application Programming Interface).md": {
       "size": 301,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/BIPOC.md": {
       "size": 248,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/Black Identity model.md": {
       "size": 220,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/brain mosaic.md": {
       "size": 480,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/Cortisol.md": {
       "size": 398,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/defense-mechanisms.md": {
       "size": 125,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/deindividuation.md": {
       "size": 317,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 4
     },
     "30_Topics/32_Terms/depersonalization.md": {
       "size": 154,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/depression.md": {
       "size": 175,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/derealization.md": {
       "size": 154,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/discrimination.md": {
       "size": 324,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 4
     },
     "30_Topics/32_Terms/dissociation.md": {
       "size": 179,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/Dyslexithymia.md": {
       "size": 203,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/Evolutionary Pyschology.md": {
       "size": 174,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/faith.md": {
       "size": 248,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/feminism.md": {
       "size": 201,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/gender consistency.md": {
       "size": 313,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/gender constancy.md": {
       "size": 300,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/gender dysphoria.md": {
       "size": 592,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 10
     },
     "30_Topics/32_Terms/Gender Euphoria.md": {
       "size": 123,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/gender schema.md": {
       "size": 333,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/Gender self-socialization model.md": {
       "size": 486,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/government.md": {
       "size": 159,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/j-hat.md": {
       "size": 236,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/karma.md": {
       "size": 322,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/Kernel Space.md": {
       "size": 459,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/32_Terms/knowledge management.md": {
       "size": 274,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/late capitalism.md": {
       "size": 262,
-      "tags": 0,
-      "links": 0
+      "tags": 2,
+      "links": 1
     },
     "30_Topics/32_Terms/love.md": {
       "size": 152,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/Masculinism.md": {
       "size": 586,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/Masculinity.md": {
       "size": 493,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 4
     },
     "30_Topics/32_Terms/media.md": {
       "size": 159,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/Micro Kernel.md": {
       "size": 402,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 4
     },
     "30_Topics/32_Terms/Minority stress.md": {
       "size": 331,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/Monolithic Kernel.md": {
       "size": 395,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 4
     },
     "30_Topics/32_Terms/Moral majority.md": {
       "size": 159,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/natural selection.md": {
       "size": 520,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/neurosis.md": {
       "size": 222,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/neuroticism.md": {
       "size": 340,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/non-binary.md": {
       "size": 168,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/non-punitive justice.md": {
       "size": 178,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/perception.md": {
       "size": 226,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/personality.md": {
       "size": 367,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/pessimism.md": {
       "size": 133,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/prejudice.md": {
       "size": 323,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 4
     },
     "30_Topics/32_Terms/realism.md": {
       "size": 281,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/Rejection Sensitivity.md": {
       "size": 289,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/self soothing.md": {
       "size": 157,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/self-actualization.md": {
       "size": 232,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/self-hate.md": {
       "size": 213,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/self-image.md": {
       "size": 488,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 6
     },
     "30_Topics/32_Terms/self-improvement.md": {
       "size": 158,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/self-love.md": {
       "size": 213,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/self-perception.md": {
       "size": 505,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 7
     },
     "30_Topics/32_Terms/small government.md": {
       "size": 173,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/32_Terms/sociobiology.md": {
       "size": 341,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "30_Topics/32_Terms/stereotype threat.md": {
       "size": 920,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 7
     },
     "30_Topics/32_Terms/Stereotype.md": {
       "size": 321,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 4
     },
     "30_Topics/33_Tools/Dictionary (plugin, obsidian).md": {
       "size": 590,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
     },
     "30_Topics/33_Tools/Dungeons and Dragons.md": {
       "size": 194,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "30_Topics/33_Tools/Spaced Repetition (plugin).md": {
       "size": 383,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 3
     },
     "40_Evergreens/Develop Obsidian plugins.md": {
       "size": 2183,
       "tags": 1,
       "links": 4
+    },
+    "30_Topics/33_Tools/Templater.md": {
+      "size": 403,
+      "tags": 1,
+      "links": 2
+    },
+    "30_Topics/33_Tools/Mermaid (software).md": {
+      "size": 388,
+      "tags": 3,
+      "links": 2
+    },
+    "20_Entry/EVERGREENS.md": {
+      "size": 859,
+      "tags": 0,
+      "links": 0
+    },
+    "20_Entry/_Welcome.md": {
+      "size": 4303,
+      "tags": 0,
+      "links": 41
+    },
+    "20_Entry/_NOW.md": {
+      "size": 1144,
+      "tags": 0,
+      "links": 3
+    },
+    "20_Entry/_INDEX.md": {
+      "size": 1446,
+      "tags": 0,
+      "links": 35
+    },
+    "30_Topics/32_Terms/bi-directional links.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "30_Topics/31_Stubs/conceptual notes.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/therapy.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "JUSTEVERGREENS.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "40_Evergreens/What is the cognitive effect of living in an unjust world.md": {
+      "size": 852,
+      "tags": 3,
+      "links": 18
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1121,
-      "Create": 1862,
-      "Link": 2413,
-      "Expand": 41
+      "Refactor": 1130,
+      "Create": 1867,
+      "Link": 2753,
+      "Expand": 46
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8679,9 +8704,9 @@
       "14": 2151,
       "15": 80,
       "16": 809,
-      "17": 1110,
-      "18": 124,
-      "19": 36,
+      "17": 1439,
+      "18": 133,
+      "19": 57,
       "20": 57,
       "21": 94,
       "22": 85,
@@ -8718,7 +8743,7 @@
     "/": {
       "Mon": 64,
       "Tue": 464,
-      "Wed": 668,
+      "Wed": 1027,
       "Thu": 194,
       "Fri": 27,
       "Sat": 0,
@@ -8777,9 +8802,19 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"JUSTEVERGREENS.md\"> JUSTEVERGREENS </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/therapy.md\"> therapy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Spaced Repetition (plugin).md\"> Spaced Repetition (plugin) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dungeons and Dragons.md\"> Dungeons and Dragons </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dictionary (plugin, obsidian).md\"> Dictionary (plugin, obsidian) </a>",
@@ -8825,14 +8860,16 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender dysphoria.md\"> gender dysphoria </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender constancy.md\"> gender constancy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender consistency.md\"> gender consistency </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feminism.md\"> feminism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/faith.md\"> faith </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Evolutionary Pyschology.md\"> Evolutionary Pyschology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dyslexithymia.md\"> Dyslexithymia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/dissociation.md\"> dissociation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/discrimination.md\"> discrimination </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feminism.md\"> feminism </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_INDEX.md\"> _INDEX </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_NOW.md\"> _NOW </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/EVERGREENS.md\"> EVERGREENS </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Mermaid (software).md\"> Mermaid (software) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Templater.md\"> Templater </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Develop Obsidian plugins.md\"> Develop Obsidian plugins </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md\"> 'Don't be the reason that rules exist' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/Nathan Eloe.md\"> Nathan Eloe </a>",
@@ -8876,67 +8913,60 @@
         "<a class=\"internal-link\" href=\"Marsha P Johnson.md\"> Marsha P Johnson </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The triad of ever increasing social anxiety.md\"> The triad of ever increasing social anxiety </a>",
         "<a class=\"internal-link\" href=\"30_Topics/sexism.md\"> sexism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Indigenous.md\"> Indigenous </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/privilege.md\"> privilege </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your vault without getting overwhelmed.md\"> Curate source notes and definitions in your vault without getting overwhelmed </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/mental illness.md\"> mental illness </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/Indigenous.md\"> Indigenous </a>"
       ],
       "Tagged": [
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/1NEWTOPICNOTE.md\"> 1NEWTOPICNOTE </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/TOPICNOTE.md\"> TOPICNOTE </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/modern sexism.md\"> modern sexism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/queerphobia.md\"> queerphobia </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\"> tweets_I've Been Reading a Bit... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md\"> tweets_Tweets From Visa Is Stretching </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md\"> tweets_Tweets From Christian </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md\"> tweets_Tweets From Lilah Sturges </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I Don’t Hate TERFs. I Th....md\"> tweets_I Don’t Hate TERFs. I Th... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md\"> tweets_Tweets From Mac </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md\"> tweets_1 It's Very Interesting... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md\"> tweets_How to DM Your Heroes Wh... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md\"> tweets_Autism Adhd Field Report... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\"> tweets_1 Thread For Years, We... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md\"> tweets_Me Peers Nervously At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md\"> tweets_Tweets From Completely Stable Genius </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Clarifying It Seems Lik....md\"> tweets_Clarifying It Seems Lik... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md\"> tweets_I’m Planning to Go to Si... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md\"> tweets_It’s Funny How Sometimes... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md\"> tweets_Every Week, I Post a Thr... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md\"> tweets_Filters Have Almost Neve... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching-2.md\"> tweets_Tweets From Visa Is Stretching-2 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md\"> tweets_This Book (‘No Contest’... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\"> tweets_I've Been Reading a Bit... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md\"> tweets_Tweets From Visa Is Stretching </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md\"> tweets_Tweets From Christian </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md\"> tweets_Tweets From Lilah Sturges </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I Don’t Hate TERFs. I Th....md\"> tweets_I Don’t Hate TERFs. I Th... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md\"> tweets_Tweets From Mac </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md\"> tweets_1 It's Very Interesting... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md\"> tweets_How to DM Your Heroes Wh... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md\"> tweets_Autism Adhd Field Report... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\"> tweets_1 Thread For Years, We... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md\"> tweets_Me Peers Nervously At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md\"> tweets_Tweets From Completely Stable Genius </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Clarifying It Seems Lik....md\"> tweets_Clarifying It Seems Lik... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md\"> tweets_I’m Planning to Go to Si... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md\"> tweets_It’s Funny How Sometimes... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md\"> tweets_Every Week, I Post a Thr... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md\"> tweets_Filters Have Almost Neve... </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/therapy.md\"> therapy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/abortion.md\"> abortion </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Acting.md\"> Acting </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/activism.md\"> activism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Adderall.md\"> Adderall </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/America.md\"> America </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anger.md\"> anger </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anti-vax.md\"> anti-vax </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/atheism.md\"> atheism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Attachment Theory.md\"> Attachment Theory </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Autism.md\"> Autism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief systems.md\"> belief systems </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Bernie Sanders.md\"> Bernie Sanders </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Bhuddism.md\"> Bhuddism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/business.md\"> business </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/childhood.md\"> childhood </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cognitive dissonance.md\"> cognitive dissonance </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Communism.md\"> Communism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/community.md\"> community </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/compassion.md\"> compassion </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conscious.md\"> conscious </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Conservatism.md\"> Conservatism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Consumer Culture.md\"> Consumer Culture </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Consumerism.md\"> Consumerism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/counter-culture.md\"> counter-culture </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/creationism.md\"> creationism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Cultural Fundamentalism.md\"> Cultural Fundamentalism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/desire.md\"> desire </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DID (Dissociative Idenitty Disorder).md\"> DID (Dissociative Idenitty Disorder) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/digital garden.md\"> digital garden </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/diverse.md\"> diverse </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/eastern philosophy.md\"> eastern philosophy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional invalidation.md\"> emotional invalidation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/empathy.md\"> empathy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/endurance.md\"> endurance </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Enneagram.md\"> Enneagram </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/envy.md\"> envy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Evangelicalism.md\"> Evangelicalism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/executive function.md\"> executive function </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/existential dread.md\"> existential dread </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fairness.md\"> fairness </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/feedback loop.md\"> feedback loop </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/five-factor model.md\"> five-factor model </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/founding fathers.md\"> founding fathers </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/free-will.md\"> free-will </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender binary.md\"> gender binary </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender identity.md\"> gender identity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender non-comformity.md\"> gender non-comformity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender roles.md\"> gender roles </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -8996,57 +9026,57 @@
         "<a class=\"internal-link\" href=\"30_Topics/Evolution.md\"> Evolution </a>"
       ],
       "Linked": [
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/modern sexism.md\"> modern sexism </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/queerphobia.md\"> queerphobia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/sexism.md\"> sexism </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/sexism.md\"> sexism </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\"> tweets_I've Been Reading a Bit... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md\"> tweets_Tweets From Visa Is Stretching </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md\"> tweets_Tweets From Christian </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md\"> tweets_Tweets From Lilah Sturges </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I Don’t Hate TERFs. I Th....md\"> tweets_I Don’t Hate TERFs. I Th... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md\"> tweets_Tweets From Mac </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md\"> tweets_1 It's Very Interesting... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md\"> tweets_How to DM Your Heroes Wh... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md\"> tweets_Autism Adhd Field Report... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\"> tweets_1 Thread For Years, We... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md\"> tweets_Me Peers Nervously At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md\"> tweets_Tweets From Completely Stable Genius </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Clarifying It Seems Lik....md\"> tweets_Clarifying It Seems Lik... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md\"> tweets_I’m Planning to Go to Si... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Funny How Sometimes....md\"> tweets_It’s Funny How Sometimes... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md\"> tweets_Every Week, I Post a Thr... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Filters Have Almost Neve....md\"> tweets_Filters Have Almost Neve... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching-2.md\"> tweets_Tweets From Visa Is Stretching-2 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md\"> tweets_This Book (‘No Contest’... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\"> tweets_What’s In the #BuildB... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\"> tweets_&Gt; Most People Suck At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\"> tweets_I've Been Reading a Bit... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md\"> tweets_Tweets From Visa Is Stretching </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md\"> tweets_Tweets From Christian </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md\"> tweets_Tweets From Lilah Sturges </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I Don’t Hate TERFs. I Th....md\"> tweets_I Don’t Hate TERFs. I Th... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md\"> tweets_Tweets From Mac </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md\"> tweets_1 It's Very Interesting... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md\"> tweets_How to DM Your Heroes Wh... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md\"> tweets_Autism Adhd Field Report... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\"> tweets_1 Thread For Years, We... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Me Peers Nervously At....md\"> tweets_Me Peers Nervously At... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Completely Stable Genius.md\"> tweets_Tweets From Completely Stable Genius </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Clarifying It Seems Lik....md\"> tweets_Clarifying It Seems Lik... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_I’m Planning to Go to Si....md\"> tweets_I’m Planning to Go to Si... </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/STUB.md\"> STUB </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/abortion.md\"> abortion </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Acting.md\"> Acting </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/activism.md\"> activism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/America.md\"> America </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anger.md\"> anger </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Bhuddism.md\"> Bhuddism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cognitive dissonance.md\"> cognitive dissonance </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Cultural Fundamentalism.md\"> Cultural Fundamentalism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional invalidation.md\"> emotional invalidation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Enneagram.md\"> Enneagram </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/existential dread.md\"> existential dread </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/feedback loop.md\"> feedback loop </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender identity.md\"> gender identity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Hinduism.md\"> Hinduism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/homophobia.md\"> homophobia </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hyperfocus.md\"> hyperfocus </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/masking.md\"> masking </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Meyers Briggs.md\"> Meyers Briggs </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mindfullness.md\"> mindfullness </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/OCD.md\"> OCD </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/panic attacks.md\"> panic attacks </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Prison abolition.md\"> Prison abolition </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/prison-industrial complex.md\"> prison-industrial complex </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-enhancement.md\"> self-enhancement </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sexism.md\"> sexism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Social media.md\"> Social media </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Software Development.md\"> Software Development </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transphobia.md\"> transphobia </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/women.md\"> women </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Abolition.md\"> Abolition </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/ADHD.md\"> ADHD </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
@@ -9078,7 +9108,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mermaid (software).md\"> Mermaid (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Mermaid (software).md\"> Mermaid (software) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Templater.md\"> Templater </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",

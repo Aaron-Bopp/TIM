@@ -16,7 +16,7 @@ You should never be forced to endure. [[Endurance]] is a choice you make to push
 
 This is the most soul-crushing part of living in [[late capitalism]]. You are forced to get up everyday and sell your body just to not starve, and for most people there now avenues to escape. [[Hierarchy of needs]]
 
-[[What is the cognitive effect of living in a unjust world|What is the cognitive effect of living in a unjust world?]]
+[[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
 
 ### <hr class="footnote"/>
 
