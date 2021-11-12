@@ -213,12 +213,26 @@
 
 ## Notes
 - [[sexism]]
-- [[modern sexism]] - a more subtle form of sexism not involving explicit admission of sexist beliefs, i.e denial of sexism, complainst about "special treatment," endorsement of double-standards
-- [[How the patriarchy effects young men's understanding of masculinity]]
-	- higher levels of sexist behavior
-	- higher levels of negative mental health outcomes
-	- lower likelihood of seeking help
-	- Generally masculine people can be affected by this even if they are not toxically masculine
+	- [[modern sexism]] - a more subtle form of sexism not involving explicit admission of sexist beliefs, i.e denial of sexism, complainst about "special treatment," endorsement of double-standards
+	- [[How the patriarchy effects young men's understanding of masculinity]]
+		- higher levels of sexist behavior
+		- higher levels of negative mental health outcomes
+		- lower likelihood of seeking help
+		- Generally masculine people can be affected by this even if they are not toxically masculine
+	- [[Ambivalent sexism theory]]: sexism takes the form of both over negativity and covert positivity
+		- Hostile [[sexism]]: overtly negative sexist beliefs
+			- Accompanied with innacurate beliefs of how the worlds works ie
+				- women control everything
+		- Benevolent [[sexism]]: controlling women through positive but patronizing views about women.  Women are superior only in ways that don't threaten male superiority.
+			-  Protective paternalism - women need to be protected by men
+			-  Complementary gender differentiation - complementing women for exercising stereotypes
+			-  Heterosexual Intimacy - women are viewed as sexual objects
+			- Benevolent sexism is directly linked to Hostile sexism
+				- Endorsement of gender stereotypes
+				- Negative reactions to victims of rape
+				- Beliefs that domestic violence is acceptable
+	- [[mysogyny]]: hatred of women
+- 
 
 # Week 14 
 

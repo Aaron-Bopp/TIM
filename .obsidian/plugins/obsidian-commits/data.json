@@ -6605,11 +6605,6 @@
       "tags": 0,
       "links": 8
     },
-    "00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md": {
-      "size": 11352,
-      "tags": 0,
-      "links": 40
-    },
     "00_Meta/Primary Sources/Classes/Pyschology/White Privilege write-up.md": {
       "size": 3708,
       "tags": 0,
@@ -8679,13 +8674,18 @@
       "size": 1057,
       "tags": 3,
       "links": 10
+    },
+    "10_Sources/Psychology of Race and Gender notes.md": {
+      "size": 11352,
+      "tags": 0,
+      "links": 42
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1149,
+      "Refactor": 1150,
       "Create": 1869,
-      "Link": 2770,
+      "Link": 2772,
       "Expand": 47
     },
     "40 Evergreens": {
@@ -8711,7 +8711,7 @@
       "11": 21,
       "12": 320,
       "13": 41,
-      "14": 2151,
+      "14": 2154,
       "15": 80,
       "16": 819,
       "17": 1442,
@@ -8755,7 +8755,7 @@
       "Tue": 464,
       "Wed": 1053,
       "Thu": 207,
-      "Fri": 27,
+      "Fri": 30,
       "Sat": 0,
       "Sun": 4020
     },
@@ -8874,6 +8874,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender constancy.md\"> gender constancy </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of impermanent data and permanent metadata </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of data impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of data impermanent data and permanent metadata </a>",
@@ -8923,8 +8924,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"How can parent's best help their children.md\"> How can parent's best help their children </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/API (Application Programming Interface).md\"> API (Application Programming Interface) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/biology.md\"> biology </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/API (Application Programming Interface).md\"> API (Application Programming Interface) </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/AI (artificial intelligence).md\"> AI (artificial intelligence) </a>",
@@ -9038,6 +9038,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/Evolution.md\"> Evolution </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md\"> Anxiety should be a tool at your disposal not an impedance to your life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
@@ -9086,9 +9088,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/existential dread.md\"> existential dread </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/feedback loop.md\"> feedback loop </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender identity.md\"> gender identity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Hinduism.md\"> Hinduism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/homophobia.md\"> homophobia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hyperfocus.md\"> hyperfocus </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Hinduism.md\"> Hinduism </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

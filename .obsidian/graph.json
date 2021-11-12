@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:10 -path:20 -path:00",
+  "search": "-path:20 -path:00",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1166089157945734,
+  "scale": 0.34399208140866805,
   "close": true
 }
