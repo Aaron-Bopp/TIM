@@ -9,7 +9,7 @@ aliases:
 
 Every thought exists in time and space only through it's connection to other thoughts.  
 - [[Nodes in the second brain are an abstraction of our first brain]]
-- [[Nodes in the second brain are made up of their data and metadata]]
+- [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
 ### <hr class="footnote"/>
 

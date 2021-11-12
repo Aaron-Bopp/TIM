@@ -1,8 +1,8 @@
 ---
-created: 2021-11-07 
+created: 2021-11-07
 aliases:
   - null
-tags: stub/topic
+tags: node/topic/stub
 ---
 
 **See**::

@@ -1,8 +1,8 @@
 ---
-created: 2021-11-09 
+created: 2021-11-09
 aliases:
   - a system for thought
-tags: stub/topic
+tags: node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

@@ -1,11 +1,16 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "everforest",
+  "cssTheme": "Bubble Space",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "aside",
     "S - Aside",
-    "links"
+    "links",
+    "star-meta",
+    "adjust-footnotehrpadding",
+    "gradient-hr",
+    "S - Embed Adjustments",
+    "S - External Link Icons"
   ],
   "translucency": false,
   "baseFontSizeAction": false

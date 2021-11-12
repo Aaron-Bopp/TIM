@@ -13,7 +13,7 @@ Choosing a note writing system is not about finding the right [[software]] to wr
 - [[Write your notes like you're planting an evergreen forest]]
 - [[second brain]]
 	- [[Nodes in the second brain are an abstraction of our first brain]]
-	- [[Nodes in the second brain are made up of their data and metadata]]
+	- [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 	- [[Your second brain should be an inspirational hub of creativity]]
 	- [[Your second brain should be frictionless access to a curated base of knowledge]]
 	- [[The fragility of nodes in a second brain]]

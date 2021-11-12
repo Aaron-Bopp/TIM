@@ -23,7 +23,7 @@ However, [[self]] is more than just an objective viewing of our actions. [[self]
 
 If your understanding of the world is impaired that means that your [[self]] will be hard to understand.
 
-This concept relates [[The difference between identity and presentation|the differenent concepts of identity and presentation]].
+This concept relates [[Presentation is the realization of our self-perception and identity is the realization of our self-image|the differenent concepts of identity and presentation]].
 
 ### <hr class="footnote"/>
 

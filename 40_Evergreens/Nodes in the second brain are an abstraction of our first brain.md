@@ -11,7 +11,7 @@ sr-ease: 230
 
 In our first brain there is no such thing as "fragility" there is only learning and forgetting, but in the second brain learning doesn't happen on it's own and forgetting is impossible: [[The fragility of nodes in a second brain]]
 
-All thoughts are made up of the electrons connecting neurons. The path's between these neurons are strengthed through use and weakened by disuse, and through a [[web of thought]] create [[conscious|consciousness]]. The purpose of our [[second brain]] is to compliment this as well as possible.
+All thoughts are made up of the electrons connecting neurons. The path's between these neurons are strengthed through use and weakened by disuse, and through a [[web of thought]] create [[conscious|consciousness]]. The purpose of our [[second brain]] is to compliment and augment this process: [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
 The easiest way that we can surpass the first braing is *permanency.* Data can sit for #TO/DO/FIND years and still be accessible, but unlike in our first brain, information will not grow over time. 
 

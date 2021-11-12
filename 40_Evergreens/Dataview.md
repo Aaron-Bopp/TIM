@@ -5,7 +5,7 @@ tags: node/topic, node/topic/tool
 
 [[dataview]] is an plugin for [[obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
 
-**Topics**:: [[_INDEX]]
+**Topics**:: [[INDEX]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

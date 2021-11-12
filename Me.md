@@ -1,0 +1,27 @@
+
+## My life in [[evergreen notes]]
+##### No, like I can't stop thinking about the [[human experience]]... ever
+
+- [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
+- [[Humans are primarily irrational, illogical, emotional beings]]
+- [[Our brain will do anything it can to protect itself]]
+
+##### Screw it, it's [[religious trauma]] time
+
+- [[My Deconstruction journey]]
+- [[There aren't any downsides to working through trauma]]
+- [[The brain is powerful enough to create supernatural experiences]]
+
+##### I'm not just an angry kid! I'm an angry [[transgender|trans]] kid!
+
+- [[Gender is a social construct]]
+- [[Biology supports the validity of trans people]]
+- [[Your anxiety knows your insecurities better than you do]]
+- [[Self-hatred is born out of dissonance between self-image and self-perception]]
+
+##### Sometimes I'm happy though
+
+- [[Realism must acknowledge optimism's existence and effectiveness]]
+- [[True optimism is acknowledging the suffering of the world and defying it anyway]]
+
+**For more:** [[INDEX]]

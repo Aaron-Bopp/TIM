@@ -1,28 +1,46 @@
 {
   "main": {
-    "id": "791fea60d7de1c3c",
+    "id": "660c8e86a242c789",
     "type": "split",
     "children": [
       {
-        "id": "8717fc52fb73834a",
+        "id": "92ab4f0b2bba22f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+            "file": "40_Evergreens/Fear is the number one hindrance to trying.md",
             "mode": "preview"
           }
-        }
-      },
-      {
-        "id": "9e93e16a8b4e35d2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "20_Entry/_Welcome.md",
-            "mode": "source"
-          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear is the number one hindrance to trying.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/TOPICNOTE.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Templater.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"INDEX.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
         }
       }
     ],
@@ -50,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/topic",
+                "query": "tag:#node",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/_Welcome.md",
+                "file": "40_Evergreens/Fear is the number one hindrance to trying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -82,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/_Welcome.md",
+                "file": "40_Evergreens/Fear is the number one hindrance to trying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,21 +116,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "ae91071cbfd77785",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 529
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -121,34 +130,7 @@
       {
         "id": "b7b3aaa71b0c0df5",
         "type": "tabs",
-        "dimension": 44.879518072289144,
         "children": [
-          {
-            "id": "b977b5a232ac5471",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "20_Entry/_Welcome.md"
-              }
-            }
-          },
-          {
-            "id": "e48a69cf0cb8f3bf",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ddadcad7df49aee",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {}
-            }
-          },
           {
             "id": "7725dfd7c09e7901",
             "type": "leaf",
@@ -180,13 +162,29 @@
               "type": "RSS_FEED",
               "state": {}
             }
+          },
+          {
+            "id": "107d360501b59104",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d4461b95cdf55ed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "84f4f33f118f4527",
         "type": "tabs",
-        "dimension": 55.120481927710856,
         "children": [
           {
             "id": "031fe1b37666a6d6",
@@ -194,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/_Welcome.md",
+                "file": "40_Evergreens/Fear is the number one hindrance to trying.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,30 +272,38 @@
                   "repelStrength": 11.2684989429175,
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
-                  "scale": 0.40295572634687454,
+                  "scale": 0.2874184321264291,
                   "close": true
                 }
               }
             }
+          },
+          {
+            "id": "4264efe9388c363f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 611.5,
-    "collapsed": true
+    "width": 961
   },
-  "active": "9e93e16a8b4e35d2",
+  "active": "92ab4f0b2bba22f7",
   "lastOpenFiles": [
-    "20_Entry/_Welcome.md",
-    "30_Topics/31_Stubs/therapy.md",
-    "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
-    "JUSTEVERGREENS.md",
-    "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
-    "40_Evergreens/Rise of Modern Conservatism.md",
-    "40_Evergreens/Ronald Reagan invented modern conservatism.md",
-    "20_Entry/EVERGREENS.md",
-    "20_Entry/_INDEX.md",
-    "40_Evergreens/Your anxiety knows your insecurities better than you do.md"
+    "40_Evergreens/Fear is the number one hindrance to trying.md",
+    "00_Meta/Templates/TOPICNOTE.md",
+    "30_Topics/33_Tools/Templater.md",
+    "INDEX.md",
+    "40_Evergreens/Sadness is enlightenment and happiness is delusion.md",
+    "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md",
+    "40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md",
+    "40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
+    "40_Evergreens/There aren't any downsides to working through trauma.md",
+    "40_Evergreens/Using multiple processes vs multiple threads.md"
   ]
 }

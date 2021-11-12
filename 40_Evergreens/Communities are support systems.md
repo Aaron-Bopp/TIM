@@ -3,13 +3,13 @@ created: 2021-11-09
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-10
+sr-due: 2021-11-12
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 #### [[Communities are support systems]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
+This is something we have lost as a part of [[individualism|individualistic]] [[America|american]] [[culture]].
 
 
 ### <hr class="footnote"/>
@@ -17,7 +17,7 @@ sr-ease: 230
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**::
+**Topics**:: [[community]], [[activism]]. [[Civil Rights]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

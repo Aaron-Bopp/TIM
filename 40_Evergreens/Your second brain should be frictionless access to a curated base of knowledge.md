@@ -17,13 +17,13 @@ Your priorities for collecting thought in your [[second brain]] should be:
 3. The accessibility of these thoughts
 ```
 
-Many a [[knowledge management|PKM]] guru has warned against "collecting thought vs creating thought" or said "don't make your vault a second wikipedia" [^1] and I whole heartedly agree... for beginners.  As you refine your [[knowledge management|knowledge management system]] you will find what are the hard rules and what are the soft rules: [[The more mistakes you've fixed the more bad decisions you can afford]].
+Many a [[knowledge management|PKM]] guru has warned against "collecting thought vs creating thought" or said "don't make your vault a second wikipedia" which I think is very wise advice for people who do not have reason to process their collections. *There is a difference between collecting something because it is __useful__ and collecting something __to use it.__*
 
-There is a difference between idly grabbing every article you read the headline of and absorbing relevant qoutes into you [[second brain]]. There is a difference from creating friction for yourself with unfamiliar information that was copy pasted from wikipedia and using term notes to reduce friction. There is difference creating empty notes just for the graph and using note stubs to find spontaneous connections.
+As you refine your [[knowledge management|knowledge management system]] you will find what are the hard rules and what are the soft rules around what should be collected into your vault: [[The more mistakes you've fixed the more bad decisions you can afford]].
 
 Without the knowledge of [[The fragility of nodes in a second brain|which notes introduce fragility]] into your [[second brain]], you can easly become overwhelmed. Here are some guidelines to collect thought without generating friction:
-- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]. 
 - [[Curate source notes and definitions in your second brain to avoid junk text]]
+- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]. 
 - [[Prioritize organization over categorization to avoid wasted energy]]
 - [[Write your notes like you're planting an evergreen forest]]
 - [[Webs of thought are densely linked]]

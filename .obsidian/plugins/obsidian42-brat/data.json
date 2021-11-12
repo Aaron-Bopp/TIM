@@ -1,10 +1,13 @@
 {
   "pluginList": [
-    "roovo/obsidian-card-board",
     "jmilldotdev/obsidian-frontmatter-tag-suggest",
     "joethei/obsidian-rss",
     "chrisgrieser/obsidian-extra-md-html-syntax"
   ],
-  "updateAtStartup": false,
-  "ribbonIconEnabled": true
+  "updateAtStartup": true,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true
 }

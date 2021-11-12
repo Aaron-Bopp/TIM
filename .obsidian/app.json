@@ -54,6 +54,6 @@
   "useTab": true,
   "lineWrap": true,
   "defaultViewMode": "preview",
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "livePreview": false
 }

@@ -18,7 +18,7 @@ This is very common among [[transgender]] people because as their authentic [[se
 
 If your [[self-image]] is correct, your [[self-perception]] may be off. You may have some form of [[body dysmorphia]] that prevents you from seeing your [[self]] accurately, or you may have outside forces that are influencing the way you perceive yourself. 
 
-[[The difference between identity and presentation]] 
+[[Presentation is the realization of our self-perception and identity is the realization of our self-image]] 
 
 ### <hr class="footnote"/>
 

@@ -1,8 +1,8 @@
 ---
-created: 2021-11-10 
+created: 2021-11-10
 aliases:
   - null
-tags: stub/topic
+tags: node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

@@ -1,8 +1,8 @@
 ---
-created: 2021-11-10 
+created: 2021-11-10
 aliases:
   - null
-tags: topic/term
+tags: node/topic/term
 ---
 a more subtle form of sexism not involving explicit admission of sexist beliefs, i.e denial of sexism, complainst about "special treatment," endorsement of double-standards [^1]
 

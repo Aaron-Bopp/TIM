@@ -169,7 +169,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "{{TEMPLATE:00_Meta/Templates/META.md}} topic/term\n---\n<% tp.system.clipboard() %> [^1]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n\n[^1]: {{LINKCURRENT}}\n"
+              "format": "{{TEMPLATE:00_Meta/Templates/META.md}} node/topic/term\n---\n<% tp.system.clipboard() %> [^1]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n\n[^1]: {{LINKCURRENT}}\n"
             },
             "insertAfter": {
               "enabled": false,
@@ -253,7 +253,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "{{TEMPLATE:00_Meta/Templates/META.md}} stub/topic\n---\n`$=customJS.dv_funcs.mentionedIn(dv)`\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n"
+              "format": "{{TEMPLATE:00_Meta/Templates/META.md}} node/topic/stub\n---\n`$=customJS.dv_funcs.mentionedIn(dv)`\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n"
             },
             "insertAfter": {
               "enabled": false,

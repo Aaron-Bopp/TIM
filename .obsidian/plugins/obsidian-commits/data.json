@@ -4500,11 +4500,6 @@
       "tags": 1,
       "links": 0
     },
-    "30_Topics/second brain.md": {
-      "size": 1350,
-      "tags": 2,
-      "links": 15
-    },
     "30_Topics/self care.md": {
       "size": 130,
       "tags": 1,
@@ -4743,7 +4738,7 @@
     "40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md": {
       "size": 652,
       "tags": 2,
-      "links": 14
+      "links": 15
     },
     "40_Evergreens/Any experience of gender dysphoria is acceptable.md": {
       "size": 1359,
@@ -5280,11 +5275,6 @@
       "tags": 2,
       "links": 10
     },
-    "40_Evergreens/The difference between identity and presentation.md": {
-      "size": 1057,
-      "tags": 3,
-      "links": 10
-    },
     "40_Evergreens/The ethnic makeup is a significant driver of change.md": {
       "size": 733,
       "tags": 2,
@@ -5323,7 +5313,7 @@
     "40_Evergreens/There aren't any downsides to working through trauma.md": {
       "size": 2535,
       "tags": 2,
-      "links": 16
+      "links": 17
     },
     "40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md": {
       "size": 955,
@@ -5383,12 +5373,12 @@
     "40_Evergreens/We carry our childhood wounds into adulthood.md": {
       "size": 1719,
       "tags": 4,
-      "links": 12
+      "links": 13
     },
     "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md": {
       "size": 1094,
       "tags": 4,
-      "links": 9
+      "links": 16
     },
     "40_Evergreens/Wealth Inequality creates a need for change.md": {
       "size": 707,
@@ -7051,9 +7041,9 @@
       "links": 14
     },
     "30_Topics/My TIM.md": {
-      "size": 1712,
+      "size": 2039,
       "tags": 1,
-      "links": 19
+      "links": 25
     },
     "40_Evergreens/Insecure material conditions increase cognitive load and reduces outcomes.md": {
       "size": 1067,
@@ -7218,12 +7208,7 @@
     "40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md": {
       "size": 0,
       "tags": 3,
-      "links": 7
-    },
-    "40_Evergreens/Nodes in the second brain are made up of their data and metadata.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 7
+      "links": 8
     },
     "30_Topics/DID (Dissociative Idenitty Disorder).md": {
       "size": 0,
@@ -7263,7 +7248,7 @@
     "40_Evergreens/Communities are support systems.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 7
     },
     "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md": {
       "size": 0,
@@ -7273,7 +7258,7 @@
     "40_Evergreens/A story will end where it began, or somewhere else.md": {
       "size": 0,
       "tags": 3,
-      "links": 1
+      "links": 5
     },
     "30_Topics/31_Stubs/validation.md": {
       "size": 0,
@@ -8630,21 +8615,6 @@
       "tags": 0,
       "links": 0
     },
-    "20_Entry/_Welcome.md": {
-      "size": 4303,
-      "tags": 0,
-      "links": 41
-    },
-    "20_Entry/_NOW.md": {
-      "size": 1144,
-      "tags": 0,
-      "links": 3
-    },
-    "20_Entry/_INDEX.md": {
-      "size": 1446,
-      "tags": 0,
-      "links": 35
-    },
     "30_Topics/32_Terms/bi-directional links.md": {
       "size": 0,
       "tags": 1,
@@ -8660,23 +8630,63 @@
       "tags": 1,
       "links": 0
     },
-    "JUSTEVERGREENS.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md": {
       "size": 852,
       "tags": 3,
       "links": 18
+    },
+    "20_Entry/JUSTEVERGREENS.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "30_Topics/32_Terms/second brain.md": {
+      "size": 1350,
+      "tags": 1,
+      "links": 4
+    },
+    "30_Topics/31_Stubs/AI (artificial intelligence).md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Me.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 17
+    },
+    "Welcome.md": {
+      "size": 3136,
+      "tags": 0,
+      "links": 25
+    },
+    "NOW.md": {
+      "size": 1144,
+      "tags": 0,
+      "links": 3
+    },
+    "INDEX.md": {
+      "size": 1446,
+      "tags": 0,
+      "links": 23
+    },
+    "40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 12
+    },
+    "40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md": {
+      "size": 1057,
+      "tags": 3,
+      "links": 10
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1130,
-      "Create": 1867,
-      "Link": 2753,
-      "Expand": 46
+      "Refactor": 1149,
+      "Create": 1869,
+      "Link": 2770,
+      "Expand": 47
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8703,12 +8713,12 @@
       "13": 41,
       "14": 2151,
       "15": 80,
-      "16": 809,
-      "17": 1439,
+      "16": 819,
+      "17": 1442,
       "18": 133,
       "19": 57,
-      "20": 57,
-      "21": 94,
+      "20": 74,
+      "21": 103,
       "22": 85,
       "23": 107
     },
@@ -8743,8 +8753,8 @@
     "/": {
       "Mon": 64,
       "Tue": 464,
-      "Wed": 1027,
-      "Thu": 194,
+      "Wed": 1053,
+      "Thu": 207,
       "Fri": 27,
       "Sat": 0,
       "Sun": 4020
@@ -8807,9 +8817,12 @@
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/AI (artificial intelligence).md\"> AI (artificial intelligence) </a>",
+        "<a class=\"internal-link\" href=\"_Me.md\"> _Me </a>",
         "<a class=\"internal-link\" href=\"JUSTEVERGREENS.md\"> JUSTEVERGREENS </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/therapy.md\"> therapy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
@@ -8858,11 +8871,22 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender schema.md\"> gender schema </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Gender Euphoria.md\"> Gender Euphoria </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender dysphoria.md\"> gender dysphoria </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender constancy.md\"> gender constancy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender consistency.md\"> gender consistency </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feminism.md\"> feminism </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender constancy.md\"> gender constancy </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of impermanent data and permanent metadata </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of data impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of data impermanent data and permanent metadata </a>",
+        "<a class=\"internal-link\" href=\"INDEX.md\"> INDEX </a>",
+        "<a class=\"internal-link\" href=\"_=INDEX.md\"> _=INDEX </a>",
+        "<a class=\"internal-link\" href=\"NOW.md\"> NOW </a>",
+        "<a class=\"internal-link\" href=\"Welcome.md\"> Welcome </a>",
+        "<a class=\"internal-link\" href=\"Me.md\"> Me </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
+        "<a class=\"internal-link\" href=\"_INDEX.md\"> _INDEX </a>",
+        "<a class=\"internal-link\" href=\"_NOW.md\"> _NOW </a>",
+        "<a class=\"internal-link\" href=\"_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/JUSTEVERGREENS.md\"> JUSTEVERGREENS </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_INDEX.md\"> _INDEX </a>",
@@ -8900,22 +8924,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"How can parent's best help their children.md\"> How can parent's best help their children </a>",
         "<a class=\"internal-link\" href=\"30_Topics/API (Application Programming Interface).md\"> API (Application Programming Interface) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/biology.md\"> biology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/the culture war.md\"> the culture war </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/DID (Dissociative Idenitty Disorder).md\"> DID (Dissociative Idenitty Disorder) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Marsha P Johnson.md\"> Marsha P Johnson </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of their data and metadata.md\"> Nodes in the second brain are made up of their data and metadata </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/API (Application Programming Interface).md\"> API (Application Programming Interface) </a>",
-        "<a class=\"internal-link\" href=\"Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
-        "<a class=\"internal-link\" href=\"Marsha P Johnson.md\"> Marsha P Johnson </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The triad of ever increasing social anxiety.md\"> The triad of ever increasing social anxiety </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/sexism.md\"> sexism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Indigenous.md\"> Indigenous </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/biology.md\"> biology </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/AI (artificial intelligence).md\"> AI (artificial intelligence) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/therapy.md\"> therapy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>",
@@ -8965,12 +8977,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/free-will.md\"> free-will </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender binary.md\"> gender binary </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender identity.md\"> gender identity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender non-comformity.md\"> gender non-comformity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender roles.md\"> gender roles </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender non-comformity.md\"> gender non-comformity </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>",
+        "<a class=\"internal-link\" href=\"_Welcome.md\"> _Welcome </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/21st Century America.md\"> 21st Century America </a>",
@@ -9026,6 +9038,22 @@
         "<a class=\"internal-link\" href=\"30_Topics/Evolution.md\"> Evolution </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md\"> Anxiety should be a tool at your disposal not an impedance to your life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A story will end where it began, or somewhere else.md\"> A story will end where it began, or somewhere else </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are support systems.md\"> Communities are support systems </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of data impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of data impermanent data and permanent metadata </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of their data and metadata.md\"> Nodes in the second brain are made up of their data and metadata </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
+        "<a class=\"internal-link\" href=\"_Me.md\"> _Me </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
@@ -9060,23 +9088,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender identity.md\"> gender identity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Hinduism.md\"> Hinduism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/homophobia.md\"> homophobia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hyperfocus.md\"> hyperfocus </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/masking.md\"> masking </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Meyers Briggs.md\"> Meyers Briggs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mindfullness.md\"> mindfullness </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/OCD.md\"> OCD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/panic attacks.md\"> panic attacks </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Prison abolition.md\"> Prison abolition </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/prison-industrial complex.md\"> prison-industrial complex </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-enhancement.md\"> self-enhancement </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sexism.md\"> sexism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Social media.md\"> Social media </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Software Development.md\"> Software Development </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transphobia.md\"> transphobia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/women.md\"> women </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Abolition.md\"> Abolition </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/ADHD.md\"> ADHD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hyperfocus.md\"> hyperfocus </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
@@ -9110,9 +9122,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Mermaid (software).md\"> Mermaid (software) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Templater.md\"> Templater </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Templater.md\"> Templater </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/second brain.md\"> second brain </a>",
+        "<a class=\"internal-link\" href=\"_Welcome.md\"> _Welcome </a>",
+        "<a class=\"internal-link\" href=\"_INDEX.md\"> _INDEX </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"10 Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md\"> articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace </a>",
@@ -9159,11 +9176,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/Christianity.md\"> Christianity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/notes1960's General Notes.md\"> notes1960's General Notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our brains are built around survival.md\"> Our brains are built around survival </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/MAth/Homework 10.md\"> Homework 10 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>"
       ]
     },
     "40 Evergreens": {

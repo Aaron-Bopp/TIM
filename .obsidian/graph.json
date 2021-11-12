@@ -1,54 +1,12 @@
 {
   "collapse-filter": false,
-  "search": "-path:20 -path:00 tag:EVER/green",
+  "search": "-path:20 -path:00",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "tag:person",
-      "color": {
-        "a": 1,
-        "rgb": 4857579
-      }
-    },
-    {
-      "query": "tag:#node/evergreen",
-      "color": {
-        "a": 1,
-        "rgb": 2715664
-      }
-    },
-    {
-      "query": "path:\"20_Entry\"",
-      "color": {
-        "a": 1,
-        "rgb": 15188749
-      }
-    },
-    {
-      "query": "tag:#node/topic/tool",
-      "color": {
-        "a": 1,
-        "rgb": 11480218
-      }
-    },
-    {
-      "query": "tag:#node/topic/stub",
-      "color": {
-        "a": 1,
-        "rgb": 9601093
-      }
-    },
-    {
-      "query": "tag:#node/topic/term",
-      "color": {
-        "a": 1,
-        "rgb": 12087090
-      }
-    },
     {
       "query": "tag:#node/evergreen/technique",
       "color": {
@@ -57,30 +15,51 @@
       }
     },
     {
-      "query": "tag:#node/topic/outline",
+      "query": "tag:#node/evergreen",
       "color": {
         "a": 1,
-        "rgb": 8079882
+        "rgb": 1546039
       }
     },
     {
-      "query": "path:Sources",
+      "query": "tag:node/topic/stub",
       "color": {
         "a": 1,
-        "rgb": 5138143
+        "rgb": 9465665
+      }
+    },
+    {
+      "query": "tag:node/topic/term",
+      "color": {
+        "a": 1,
+        "rgb": 12216620
+      }
+    },
+    {
+      "query": "tag:#node/topic",
+      "color": {
+        "a": 1,
+        "rgb": 10046725
+      }
+    },
+    {
+      "query": "tag:#node/source",
+      "color": {
+        "a": 1,
+        "rgb": 5926350
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 0.907058823529412,
+  "nodeSizeMultiplier": 0.749397590361446,
   "lineSizeMultiplier": 0.532352941176471,
-  "collapse-forces": false,
-  "centerStrength": 0.623529411764706,
+  "collapse-forces": true,
+  "centerStrength": 0.674698795180723,
   "repelStrength": 20,
-  "linkStrength": 0.987804878048781,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.34186293633776577,
+  "scale": 0.5174475147688391,
   "close": true
 }

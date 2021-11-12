@@ -3,19 +3,19 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-10
-sr-interval: 6
-sr-ease: 212
+sr-due: 2021-11-14
+sr-interval: 3
+sr-ease: 192
 ---
 
 #### [[Gender Dysphoria is based in a intrinsic wrongness of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 ```ad-warning
-Remember, [[Any experience of gender dysphoria is acceptable]] and [[Any experience of gender is acceptable]] are still true. This explores specifically how [[gender dysphoria]] as it can relate to [[self-image]].
+Remember, [[Any experience of gender dysphoria is acceptable]] and [[Any experience of gender is acceptable]] are still true. This is just one experience of [[gender dysphoria]].
 ```
 
 
- > In principle, [[Gender Dysphoria]] is a feeling of wrongness intrinsic to the [[self]]. There is no logical backing to this wrongness, there is nothing which explains it, you can not describe why you feel this way, it is just there. Things in your existence are incorrect, and even knowing which things _are_ incorrect can be hard to properly identify.
+ > In principle, [[Gender Dysphoria]] is a feeling of wrongness intrinsic to the [[self]]. There is no logical backing to this wrongness, there is nothing which explains it, you cannot describe why you feel this way, it is just there. Things in your existence are incorrect, and even knowing which things _are_ incorrect can be hard to properly identify.
  >
  >  <cite>[[2 A Brief History of Gender Dysphoria]]</cite>
 
