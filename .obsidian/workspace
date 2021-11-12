@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "92ab4f0b2bba22f7",
+        "id": "3b7f1d5f33705245",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Fear is the number one hindrance to trying.md",
+            "file": "30_Topics/32_Terms/self-improvement.md",
             "mode": "preview"
           }
         },
@@ -17,28 +17,22 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "92ab4f0b2bba22f7",
+              "leaf": "3b7f1d5f33705245",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/self-improvement.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3b7f1d5f33705245",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear is the number one hindrance to trying.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "92ab4f0b2bba22f7",
+              "leaf": "3b7f1d5f33705245",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/TOPICNOTE.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "92ab4f0b2bba22f7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Templater.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "92ab4f0b2bba22f7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"INDEX.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -83,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Fear is the number one hindrance to trying.md",
+                "file": "30_Topics/32_Terms/self-improvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -100,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Fear is the number one hindrance to trying.md",
+                "file": "30_Topics/32_Terms/self-improvement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Fear is the number one hindrance to trying.md",
+                "file": "30_Topics/32_Terms/self-improvement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,8 +287,9 @@
     "direction": "horizontal",
     "width": 961
   },
-  "active": "92ab4f0b2bba22f7",
+  "active": "3b7f1d5f33705245",
   "lastOpenFiles": [
+    "30_Topics/32_Terms/self-improvement.md",
     "40_Evergreens/Fear is the number one hindrance to trying.md",
     "00_Meta/Templates/TOPICNOTE.md",
     "30_Topics/33_Tools/Templater.md",
@@ -303,7 +298,6 @@
     "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md",
     "40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md",
     "40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
-    "40_Evergreens/There aren't any downsides to working through trauma.md",
-    "40_Evergreens/Using multiple processes vs multiple threads.md"
+    "40_Evergreens/There aren't any downsides to working through trauma.md"
   ]
 }

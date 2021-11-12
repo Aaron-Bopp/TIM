@@ -251,14 +251,6 @@
       "key": ","
     }
   ],
-  "leader-hotkeys-obsidian:leader": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": " "
-    }
-  ],
   "obsidian-toggle-vim:toggle-vim-mode": [
     {
       "modifiers": [
@@ -319,6 +311,14 @@
         "Mod"
       ],
       "key": ","
+    }
+  ],
+  "leader-hotkeys-obsidian:leader": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }

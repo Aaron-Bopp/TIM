@@ -1,0 +1,46 @@
+{
+  "hotkeys": [
+    {
+      "key": "H",
+      "meta": false,
+      "shift": true,
+      "commandID": "editor:focus-left"
+    },
+    {
+      "key": "j",
+      "meta": false,
+      "shift": false,
+      "commandID": "editor:focus-bottom"
+    },
+    {
+      "key": "k",
+      "meta": false,
+      "shift": false,
+      "commandID": "editor:focus-top"
+    },
+    {
+      "key": "L",
+      "meta": false,
+      "shift": true,
+      "commandID": "editor:focus-right"
+    },
+    {
+      "key": "g",
+      "shift": false,
+      "meta": false,
+      "commandID": "obsidian-spaced-repetition:srs-note-review-good"
+    },
+    {
+      "key": "h",
+      "shift": false,
+      "meta": false,
+      "commandID": "obsidian-spaced-repetition:srs-note-review-hard"
+    },
+    {
+      "key": "R",
+      "shift": true,
+      "meta": false,
+      "commandID": "obsidian-spaced-repetition:srs-note-review-open-note"
+    }
+  ]
+}
