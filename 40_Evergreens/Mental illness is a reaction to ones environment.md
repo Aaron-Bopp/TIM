@@ -16,6 +16,7 @@ This environment includes our physical environment (the one we experience), our 
 
 While some of these stimuli are unavoidable ([[capitalism]]) other can be affected and regulated.
 
+[[Biology supports the validity of trans people]] and [[Mental health is a reaction to one's environment]], so often there will be many comorbid [[mental illness]] that can be treated, when the chemical imbalances in your brain are the root cause. 
 Ways to alter our environment:
 - [[Tips for concentration]]
 

@@ -17,9 +17,10 @@ sr-ease: 230
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
 ![[tweets_It’s Funny How Sometimes...#247641489]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive dissonance]], [[human experience]], [[human advancement]], [[self-improvement]], [[social justice]], [[socialization|inter-personal communication]]

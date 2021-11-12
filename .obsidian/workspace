@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Psychology of Race and Gender notes.md",
+            "file": "40_Evergreens/We are confined to the tools of our time.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,44 @@
             {
               "leaf": "60250b4b39a95986",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":48},\"to\":{\"line\":18,\"ch\":48}}}"
+            },
+            {
+              "leaf": "60250b4b39a95986",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":39.334647078493084}"
+            },
+            {
+              "leaf": "60250b4b39a95986",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Ronald Reagan invented modern conservatism.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":14.606508686280305}"
+            },
+            {
+              "leaf": "60250b4b39a95986",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Trans people will look for any other solution than being trans.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":31},\"to\":{\"line\":25,\"ch\":31}},\"scroll\":10.347305464724903}"
+            },
+            {
+              "leaf": "60250b4b39a95986",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear is the number one hindrance to trying.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":6}"
+            },
+            {
+              "leaf": "60250b4b39a95986",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":2.4857142312186107}"
+            },
+            {
+              "leaf": "60250b4b39a95986",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":228,\"ch\":64},\"to\":{\"line\":228,\"ch\":64}},\"scroll\":210.27593280431387}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":234,\"ch\":0},\"to\":{\"line\":234,\"ch\":0}},\"scroll\":209.1394747232547}"
             }
           ]
         }
@@ -73,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md",
+                "file": "40_Evergreens/We are confined to the tools of our time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -106,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md",
+                "file": "40_Evergreens/We are confined to the tools of our time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md"
+                "file": "40_Evergreens/We are confined to the tools of our time.md"
               }
             },
             "pane-relief:history-v1": {
@@ -272,7 +308,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md",
+                "file": "40_Evergreens/We are confined to the tools of our time.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -383,15 +419,15 @@
   },
   "active": "60250b4b39a95986",
   "lastOpenFiles": [
+    "40_Evergreens/We are confined to the tools of our time.md",
+    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+    "40_Evergreens/Ronald Reagan invented modern conservatism.md",
+    "40_Evergreens/Trans people will look for any other solution than being trans.md",
+    "40_Evergreens/Fear is the number one hindrance to trying.md",
+    "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
+    "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
     "10_Sources/Psychology of Race and Gender notes.md",
     "30_Topics/@visakanv on Twitter.md",
-    "40_Evergreens/Friction is the number one hindrance to learning.md",
-    "40_Evergreens/Fear is the number one hindrance to trying.md",
-    "30_Topics/32_Terms/self-improvement.md",
-    "00_Meta/Templates/TOPICNOTE.md",
-    "30_Topics/33_Tools/Templater.md",
-    "INDEX.md",
-    "40_Evergreens/Sadness is enlightenment and happiness is delusion.md",
-    "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md"
+    "40_Evergreens/Friction is the number one hindrance to learning.md"
   ]
 }

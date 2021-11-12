@@ -232,7 +232,6 @@
 				- Negative reactions to victims of rape
 				- Beliefs that domestic violence is acceptable
 	- [[mysogyny]]: hatred of women
-- 
 
 # Week 14 
 

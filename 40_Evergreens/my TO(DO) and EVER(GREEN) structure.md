@@ -1,8 +1,8 @@
 ---
 created: 2021-05-25
 tags: node/evergreen
-sr-due: 2021-11-10
-sr-interval: 18
+sr-due: 2022-01-03
+sr-interval: 52
 sr-ease: 290
 ---
 
@@ -10,7 +10,7 @@ sr-ease: 290
 
 This structure is how I [[Make your inbox into an entry point]] and is deeply entwined with [[Use Obsidian tags as temporal classifiers]] as a part of [[My TIM]]. 
 
-I prefer this kind of todo list because I can create it from anywhere in my vault and easily access them from the tag pane. These help organize my todo's so I can do them when I am in a certain mood. 
+This stucture could be applied to any system, but it works best in [[Obsidian (software)|Obsidian]], or other systems that treat tags the same way. I prefer this kind of todo list because I can create it from anywhere in my vault and easily access them from the tag pane. These help organize my todo's so I can do them when I am in a certain mood. 
 
 - **\#TO** tags should be used for specific items, not general tasks	
 - **\#TO** tags are not daily todo list they are a way to specify a task inline the to be done in the future. These tags should be temporary, but they are not scheduled 
@@ -50,7 +50,7 @@ I prefer this kind of todo list because I can create it from anywhere in my vaul
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE 
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[Obsidian (software)]]
