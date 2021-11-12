@@ -6,14 +6,15 @@ tags: node/evergreen
 sr-due: 2021-11-10
 sr-interval: 1
 sr-ease: 228
+cssclass: admonitions 
 ---
 #### [[Fear is the number one hindrance to trying]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/DO/REFERENCE [[@visakanv on Twitter|visakanv]]'s "do 100 things"
 
-- [[The most reliable path to success is repeatedly trying to succeed]]
-- [[Friction is the number one hindrance to learning]]
-- [[Write your notes like you're planting an evergreen forest]]
+- [!] [[The most reliable path to success is repeatedly trying to succeed]]
+	- [[Friction is the number one hindrance to learning]]	
+	- [[Write your notes like you're planting an evergreen forest]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED

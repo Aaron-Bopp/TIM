@@ -20,7 +20,6 @@ hr {
     height: 0.25rem;
     display: block;
     margin: 0.35em !important;
-    background-image: -webkit-linear-gradient( 0deg, transparent, #f6c177, #eb6f92, #ea9a97, #C5A3FF, #9ccfd8, transparent);
     clear: both;
 }
 

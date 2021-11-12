@@ -8,9 +8,9 @@
     "links",
     "star-meta",
     "adjust-footnotehrpadding",
-    "gradient-hr",
     "S - Embed Adjustments",
-    "S - External Link Icons"
+    "S - External Link Icons",
+    "gradient-hr"
   ],
   "translucency": false,
   "baseFontSizeAction": false
