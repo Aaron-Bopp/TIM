@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/We are confined to the tools of our time.md",
-            "mode": "source"
+            "file": "40_Evergreens/Powerful tools make dangerous toys.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,14 @@
             {
               "leaf": "60250b4b39a95986",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "60250b4b39a95986",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":48},\"to\":{\"line\":18,\"ch\":48}}}"
+              "eState": "{}"
             },
             {
               "leaf": "60250b4b39a95986",
@@ -109,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/We are confined to the tools of our time.md",
+                "file": "40_Evergreens/Powerful tools make dangerous toys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -142,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/We are confined to the tools of our time.md",
+                "file": "40_Evergreens/Powerful tools make dangerous toys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/We are confined to the tools of our time.md"
+                "file": "40_Evergreens/Powerful tools make dangerous toys.md"
               }
             },
             "pane-relief:history-v1": {
@@ -308,7 +314,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/We are confined to the tools of our time.md",
+                "file": "40_Evergreens/Powerful tools make dangerous toys.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -419,6 +425,7 @@
   },
   "active": "60250b4b39a95986",
   "lastOpenFiles": [
+    "40_Evergreens/Powerful tools make dangerous toys.md",
     "40_Evergreens/We are confined to the tools of our time.md",
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
     "40_Evergreens/Ronald Reagan invented modern conservatism.md",
@@ -427,7 +434,6 @@
     "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
     "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
     "10_Sources/Psychology of Race and Gender notes.md",
-    "30_Topics/@visakanv on Twitter.md",
-    "40_Evergreens/Friction is the number one hindrance to learning.md"
+    "30_Topics/@visakanv on Twitter.md"
   ]
 }

@@ -2,7 +2,6 @@
 created: 2021-10-17
 aliases:
   - null
-
 tags: node/evergreen
 sr-due: 2021-11-10
 sr-interval: 1
@@ -14,7 +13,7 @@ I have wasted so much time on a coding tasks because I either didn't comprehend 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT/WATER  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[programming]], [[self-improvement]]

@@ -3,8 +3,8 @@ created: 2021-11-09
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-10
-sr-interval: 1
+sr-due: 2021-11-17
+sr-interval: 5
 sr-ease: 230
 ---
 #### [[We are confined to the tools of our time]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
