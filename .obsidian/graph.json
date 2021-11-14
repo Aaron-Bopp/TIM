@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:20 -path:00",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#node/evergreen/technique",
@@ -50,9 +50,9 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.2,
+  "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 0.749397590361446,
   "lineSizeMultiplier": 0.532352941176471,
   "collapse-forces": true,
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.0078125,
+  "scale": 0.4505081176757913,
   "close": true
 }
