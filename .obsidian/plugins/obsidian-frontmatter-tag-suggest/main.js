@@ -65,18 +65,13 @@ var TagSuggest = class extends import_obsidian.EditorSuggest {
     this.plugin = plugin;
   }
   getTags() {
-    const app = this.plugin.app;
-    let tags = [];
-    const files = app.vault.getMarkdownFiles();
-    files.forEach((p) => {
-      const cache = app.metadataCache.getFileCache(p);
-      tags.push(...(0, import_obsidian.getAllTags)(cache));
-    });
-    return [...new Set(tags)].sort().map((p) => p.split("#").pop());
+    const tags = this.plugin.app.metadataCache.getTags();
+    return [...Object.keys(tags)].map((p) => p.split("#").pop());
   }
   onTrigger(cursor, editor, _) {
     var _a;
-    const onFrontmatterTagLine = editor.getLine(cursor.line).toLowerCase().startsWith("tags:");
+    const lineContents = editor.getLine(cursor.line).toLowerCase();
+    const onFrontmatterTagLine = lineContents.startsWith("tags:") || lineContents.startsWith("tag:");
     if (onFrontmatterTagLine) {
       const sub = editor.getLine(cursor.line).substring(0, cursor.ch);
       const match = (_a = sub.match(/(?<= )\S+$/)) == null ? void 0 : _a.first();
