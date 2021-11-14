@@ -6720,11 +6720,6 @@
       "tags": 0,
       "links": 2
     },
-    "00_Meta/Scripts/obs_tools/forward_linker/README.md": {
-      "size": 5926,
-      "tags": 0,
-      "links": 0
-    },
     "00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md": {
       "size": 8097,
       "tags": 1,
@@ -8698,7 +8693,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1154,
+      "Refactor": 1155,
       "Create": 1872,
       "Link": 2796,
       "Expand": 48
@@ -8724,7 +8719,7 @@
       "9": 300,
       "10": 49,
       "11": 23,
-      "12": 320,
+      "12": 321,
       "13": 41,
       "14": 2154,
       "15": 90,
@@ -8772,7 +8767,7 @@
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
-      "Sun": 4044
+      "Sun": 4045
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9001,6 +8996,7 @@
         "<a class=\"internal-link\" href=\"_Welcome.md\"> _Welcome </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"00_Meta/Scripts/obs_tools/forward_linker/README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/21st Century America.md\"> 21st Century America </a>",
         "<a class=\"internal-link\" href=\"30_Topics/yoga.md\"> yoga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/worldview.md\"> worldview </a>",
@@ -9050,8 +9046,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/Hinduism.md\"> Hinduism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Hierarchy of needs.md\"> Hierarchy of needs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/happiness.md\"> happiness </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/guilt.md\"> guilt </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Evolution.md\"> Evolution </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/guilt.md\"> guilt </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",

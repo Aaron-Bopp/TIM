@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NOW.md",
+            "file": "20_Entry/CONTENTNOTES.md",
             "mode": "source"
           }
         },
@@ -19,38 +19,122 @@
             {
               "leaf": "5489bb4db8ca87cc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NOW.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/CONTENTNOTES.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
             },
             {
               "leaf": "5489bb4db8ca87cc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":12.543015229342783}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/Commits.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "5489bb4db8ca87cc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":4.657142639160156}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/KANBAN.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "5489bb4db8ca87cc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/JUSTEVERGREENS.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/EVERGREENS.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/CHARTS.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/find related concepts.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/File Sizes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/TODO.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/EVERSPROUTS.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/RELATED-TOPICS.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/LAST-WEEK.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/QUICKNOTE.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/_gallery_.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/QOUTES.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/BOOKLIST.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/TopicNotes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/RECENTLY-MODIFIED.md\",\"mode\":\"preview\"}}",
               "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "5489bb4db8ca87cc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/Journal.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":662},\"to\":{\"line\":8,\"ch\":662}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/TODO.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.016666666915019352}"
             },
             {
               "leaf": "5489bb4db8ca87cc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"INDEX.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0.08888889021343654}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/QOUTES.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -62,7 +146,7 @@
           "type": "markdown",
           "state": {
             "file": "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
@@ -71,8 +155,8 @@
             {
               "leaf": "b02a2935e7015556",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -125,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOW.md",
+                "file": "20_Entry/CONTENTNOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -158,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOW.md",
+                "file": "20_Entry/CONTENTNOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,13 +267,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -206,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOW.md"
+                "file": "20_Entry/CONTENTNOTES.md"
               }
             },
             "pane-relief:history-v1": {
@@ -324,7 +406,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NOW.md",
+                "file": "20_Entry/CONTENTNOTES.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -431,19 +513,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 611.5,
+    "collapsed": true
   },
   "active": "5489bb4db8ca87cc",
   "lastOpenFiles": [
-    "NOW.md",
-    "40_Evergreens/Our brain will do anything it can to protect itself.md",
-    "40_Evergreens/Powerful tools make dangerous toys.md",
-    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
-    "40_Evergreens/What is the difference between blame and judgement.md",
-    "30_Topics/31_Stubs/blame.md",
-    "30_Topics/31_Stubs/judgement.md",
-    "10_Sources/Enneagram/articleType Five — The Enneagram Institute.md",
-    "10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md",
-    "10_Sources/Personal/Journal.md"
+    "20_Entry/CONTENTNOTES.md",
+    "20_Entry/Commits.md",
+    "20_Entry/KANBAN.md",
+    "20_Entry/JUSTEVERGREENS.md",
+    "20_Entry/EVERGREENS.md",
+    "20_Entry/CHARTS.md",
+    "20_Entry/find related concepts.md",
+    "20_Entry/File Sizes.md",
+    "20_Entry/TODO.md",
+    "20_Entry/EVERSPROUTS.md"
   ]
 }

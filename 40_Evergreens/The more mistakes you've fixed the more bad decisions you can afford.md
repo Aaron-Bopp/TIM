@@ -10,6 +10,8 @@ sr-ease: 170
 
 #### [[The more mistakes you've fixed the more bad decisions you can afford]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Gaining experience requires failure
+
 ##### Repeatedly failing and fixing it gives you the right to make bad decisions.
 
 A bad decision for a beginner is not the same a bad decision for an expert. A bad decision for an expert is one that takes away their time from the most meaningful tasks for less fruitful or fullfilling tasks: [[Powerful tools make dangerous toys]]
