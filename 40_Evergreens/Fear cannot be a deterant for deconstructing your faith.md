@@ -7,7 +7,7 @@ tags: node/evergreen
 
 [[Fear of hell is baked into Christianity]] Another fear people have is fear of social consequences, especially the reaction of [[parents]] who have worked in or attended the church for a long time.
 
-[[Deconstructing your faith is like climbing through a jungle canopy]], and often you can't view [[Christianity]] objectively until you reach the top. Depending on your level of [[indoctrination]] and your continued involvement in the church you may have a more objective view of the [[Christianity]] already, but I don't think you can get rid of the fear of hell, or the fear of judgment, or the fear of "worldlyness" until you get to the top. 
+[[Deconstructing your faith is like climbing through a jungle canopy]], and often you can't view [[Christianity]] objectively until you reach the top. Depending on your level of [[indoctrination]] and your continued involvement in the church you may have a more objective view of the [[Christianity]] already, but I don't think you can get rid of the fear of hell, or the fear of [[judgement|judgment]], or the fear of "worldlyness" until you get to the top. 
 
 Some people can never truly reach objectivity with [[Christianity]] because they have had legitimate spiritual experiences or have experienced a personal relationship with god. Despite the reality of these things, those experiences are very much real and are often the main reason people stay in the church.
 

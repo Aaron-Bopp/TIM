@@ -4848,7 +4848,7 @@
     "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md": {
       "size": 1594,
       "tags": 2,
-      "links": 11
+      "links": 12
     },
     "40_Evergreens/Fear of hell is baked into Christianity.md": {
       "size": 924,
@@ -5228,7 +5228,7 @@
     "40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md": {
       "size": 1296,
       "tags": 2,
-      "links": 12
+      "links": 13
     },
     "40_Evergreens/Stupid rules are meant to be broken.md": {
       "size": 1009,
@@ -5463,7 +5463,7 @@
     "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md": {
       "size": 2296,
       "tags": 3,
-      "links": 21
+      "links": 22
     },
     "40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md": {
       "size": 1109,
@@ -7183,7 +7183,7 @@
     "40_Evergreens/Faith is an abstraction of cognitive dissonance.md": {
       "size": 0,
       "tags": 2,
-      "links": 9
+      "links": 10
     },
     "30_Topics/32_Terms/REST (Representational State Transfer).md": {
       "size": 0,
@@ -7272,8 +7272,8 @@
     },
     "40_Evergreens/Powerful tools make dangerous toys.md": {
       "size": 701,
-      "tags": 2,
-      "links": 3
+      "tags": 3,
+      "links": 4
     },
     "30_Topics/31_Stubs/creativity.md": {
       "size": 0,
@@ -7348,7 +7348,7 @@
     "10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md": {
       "size": 851,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Christian.md": {
       "size": 687,
@@ -7368,7 +7368,7 @@
     "10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md": {
       "size": 6610,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md": {
       "size": 622,
@@ -7443,7 +7443,7 @@
     "10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md": {
       "size": 6058,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/31_Stubs/queerphobia.md": {
       "size": 0,
@@ -7503,7 +7503,7 @@
     "10_Sources/Personal/Journal.md": {
       "size": 22860,
       "tags": 2,
-      "links": 47
+      "links": 50
     },
     "10_Sources/Personal/Nathan Eloe.md": {
       "size": 0,
@@ -8138,7 +8138,7 @@
     "30_Topics/31_Stubs/mindfullness.md": {
       "size": 399,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "30_Topics/31_Stubs/morality.md": {
       "size": 178,
@@ -8684,14 +8684,24 @@
       "size": 838,
       "tags": 1,
       "links": 2
+    },
+    "40_Evergreens/What is the difference between blame and judgement.md": {
+      "size": 2812,
+      "tags": 3,
+      "links": 3
+    },
+    "30_Topics/31_Stubs/blame.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1152,
-      "Create": 1870,
-      "Link": 2780,
-      "Expand": 47
+      "Refactor": 1154,
+      "Create": 1872,
+      "Link": 2796,
+      "Expand": 48
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8712,8 +8722,8 @@
       "7": 0,
       "8": 0,
       "9": 300,
-      "10": 30,
-      "11": 21,
+      "10": 49,
+      "11": 23,
       "12": 320,
       "13": 41,
       "14": 2154,
@@ -8762,7 +8772,7 @@
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
-      "Sun": 4023
+      "Sun": 4044
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -8823,9 +8833,12 @@
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
+        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
+        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/AI (artificial intelligence).md\"> AI (artificial intelligence) </a>",
         "<a class=\"internal-link\" href=\"_Me.md\"> _Me </a>",
@@ -8874,11 +8887,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/j-hat.md\"> j-hat </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/government.md\"> government </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Gender self-socialization model.md\"> Gender self-socialization model </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender schema.md\"> gender schema </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Gender Euphoria.md\"> Gender Euphoria </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender dysphoria.md\"> gender dysphoria </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender schema.md\"> gender schema </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/blame.md\"> blame </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of impermanent data and permanent metadata </a>",
@@ -8927,11 +8940,13 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Marsha P Johnson.md\"> Marsha P Johnson </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"How can parent's best help their children.md\"> How can parent's best help their children </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/API (Application Programming Interface).md\"> API (Application Programming Interface) </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
+        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
+        "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
+        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>",
@@ -8978,11 +8993,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Evangelicalism.md\"> Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/executive function.md\"> executive function </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/existential dread.md\"> existential dread </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fairness.md\"> fairness </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/feedback loop.md\"> feedback loop </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/five-factor model.md\"> five-factor model </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/founding fathers.md\"> founding fathers </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/free-will.md\"> free-will </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fairness.md\"> fairness </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9043,6 +9054,18 @@
         "<a class=\"internal-link\" href=\"30_Topics/Evolution.md\"> Evolution </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mindfullness.md\"> mindfullness </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md\"> Stereotyping has the pyschological goal of comprehension and self-enhancement </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental illness is a reaction to ones environment.md\"> Mental illness is a reaction to ones environment </a>",
@@ -9081,19 +9104,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/STUB.md\"> STUB </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/abortion.md\"> abortion </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Acting.md\"> Acting </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/activism.md\"> activism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/America.md\"> America </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anger.md\"> anger </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Bhuddism.md\"> Bhuddism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cognitive dissonance.md\"> cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Cultural Fundamentalism.md\"> Cultural Fundamentalism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional invalidation.md\"> emotional invalidation </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

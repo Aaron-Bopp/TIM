@@ -4,7 +4,7 @@ tags: node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Mindfulness is the practice of purposely bringing one's attention to experiences occurring in the present moment without judgment. [^1]
+Mindfulness is the practice of purposely bringing one's attention to experiences occurring in the present moment without [[judgement|judgment]]. [^1]
 
 
 **See**:: [[mental health]]

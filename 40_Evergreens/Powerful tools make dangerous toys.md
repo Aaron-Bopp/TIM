@@ -3,17 +3,24 @@ created: 2021-10-17
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-10
-sr-interval: 1
+sr-due: 2021-11-23
+sr-interval: 9
 sr-ease: 230
 ---
 #### [[Powerful tools make dangerous toys]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+How many times have been suggested a tool to use that will save so much time only for you to spend hours just trying to get it to do the most basic thing?
+
+Often times the best tool for the job is thrown around like it is the only acceptable option, but in reality the people who are the best rarily started out with the best tool, and when they found they had the experience of worse tools to back them up. 
+
 I have wasted so much time on a coding tasks because I either didn't comprehend the amount of work that would be required to actually get a result or did not spend time looking for existing alternatives. Is this really wasted time when the act of programming in itself can be a learning process depends on how you approach the project.
 
+[[Obsidian (software)|Obsidian]] is one such tool, as it has a high learning curve, and can be very confusing for newcomers.
+
+#TO/TEND/DEOBFUSCATE  what this note is actually about
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[programming]], [[self-improvement]]

@@ -141,7 +141,7 @@ deliveredBy:
 ##### ^244104980
   
 > TW / abuse
-> I remember now why ADHD books that tackle tough origins and mediating factors are hard to read.. There's a section here on how children blame themselves for their abuse - "I was a difficult child", but we wouldn't say that if we saw it happen to someone else. 
+> I remember now why ADHD books that tackle tough origins and mediating factors are hard to read.. There's a section here on how children [[blame]] themselves for their abuse - "I was a difficult child", but we wouldn't say that if we saw it happen to someone else. 
   [^244104980]
 
 [^244104980]: https://twitter.com/roryreckons/status/1454707309532254216

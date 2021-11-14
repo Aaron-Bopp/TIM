@@ -1,15 +1,67 @@
 {
   "main": {
-    "id": "660c8e86a242c789",
+    "id": "1b650a4e565b6cee",
     "type": "split",
     "children": [
       {
-        "id": "92ab4f0b2bba22f7",
+        "id": "5489bb4db8ca87cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INDEX.md",
+            "file": "NOW.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NOW.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":12.543015229342783}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":4.657142639160156}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/Journal.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":662},\"to\":{\"line\":8,\"ch\":662}}}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"INDEX.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0.08888889021343654}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "b02a2935e7015556",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
             "mode": "preview"
           }
         },
@@ -17,10 +69,10 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "92ab4f0b2bba22f7",
+              "leaf": "b02a2935e7015556",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"INDEX.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -42,6 +94,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -50,13 +106,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node",
+                "query": "loving yourself",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -65,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
+                "file": "NOW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -74,6 +134,22 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "0c769aef4d9945f1",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -82,10 +158,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INDEX.md",
+                "file": "NOW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -97,13 +177,19 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 529
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -112,62 +198,125 @@
       {
         "id": "b7b3aaa71b0c0df5",
         "type": "tabs",
-        "dimension": 44.10609037328094,
+        "dimension": 44.879518072289144,
         "children": [
           {
-            "id": "7725dfd7c09e7901",
+            "id": "b977b5a232ac5471",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "NOW.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "27f8b7b9a1bb500b",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "c196be09245c56ca",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c9cb8621dcbb86d",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            }
-          },
-          {
-            "id": "107d360501b59104",
+            "id": "67a971758c440a71",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "5d4461b95cdf55ed",
+            "id": "acd3fde621257558",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "Saved Queries View",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "6029732c33ad196e",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "79527a796824c9ae",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "96b6002aaf7326ff",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "7fc53da45c28c58e",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "44ed786f3c3fd53d",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-stats",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "cf1349fdfe6b6e2f",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "84f4f33f118f4527",
         "type": "tabs",
-        "dimension": 55.89390962671905,
+        "dimension": 55.120481927710856,
         "children": [
           {
             "id": "031fe1b37666a6d6",
@@ -175,7 +324,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "INDEX.md",
+                "file": "NOW.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,18 +404,26 @@
                   "repelStrength": 11.2684989429175,
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
-                  "scale": 0.2874184321264291,
+                  "scale": 0.40295572634687454,
                   "close": true
                 }
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "4264efe9388c363f",
+            "id": "09673ad2328b85b1",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -274,19 +431,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 961
+    "width": 611.5
   },
-  "active": "92ab4f0b2bba22f7",
+  "active": "5489bb4db8ca87cc",
   "lastOpenFiles": [
-    "INDEX.md",
+    "NOW.md",
+    "40_Evergreens/Our brain will do anything it can to protect itself.md",
     "40_Evergreens/Powerful tools make dangerous toys.md",
-    "40_Evergreens/We are confined to the tools of our time.md",
-    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
-    "40_Evergreens/Ronald Reagan invented modern conservatism.md",
-    "40_Evergreens/Trans people will look for any other solution than being trans.md",
-    "40_Evergreens/Fear is the number one hindrance to trying.md",
-    "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
-    "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
-    "10_Sources/Psychology of Race and Gender notes.md"
+    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
+    "40_Evergreens/What is the difference between blame and judgement.md",
+    "30_Topics/31_Stubs/blame.md",
+    "30_Topics/31_Stubs/judgement.md",
+    "10_Sources/Enneagram/articleType Five — The Enneagram Institute.md",
+    "10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md",
+    "10_Sources/Personal/Journal.md"
   ]
 }

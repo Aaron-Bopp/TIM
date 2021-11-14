@@ -101,7 +101,7 @@ deliveredBy:
 
 ##### ^247906190
   
-> Then teachers, other students, and family members kept mocking me when I said words incorrectly but used them in the right context. Pronunciation was always hard for me. Reading out loud was hard due to word issues and judgement. 
+> Then teachers, other students, and family members kept mocking me when I said words incorrectly but used them in the right context. Pronunciation was always hard for me. Reading out loud was hard due to word issues and [[judgement]]. 
   [^247906190]
 
 [^247906190]: https://twitter.com/roryreckons/status/1458335958579830784

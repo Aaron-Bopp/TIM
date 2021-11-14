@@ -4,6 +4,9 @@ tags: node/personal-note
 aliases:
 -
 ---
+## November
+### 2021-11-14 10:29pm
+I've been thinking about the relationship between [[Sympathy does not dissallow judgment]] and [[You can't blame people for failing to rise above their circumstances]] recently in relation to the whole Gus Johnson situation. I realized that I was judging him, had no sympathy for him. I think it stems from the fact that we do have a similar background (grew up in the midwest), and that we are at a fairly similar stage in life. But Idk if that should rule out those two notes. Would I have done differently in his place, yes absolutely. Can I judge him for it? On principle I think no, but in practice I do. [[What is the difference between blame and judgement]]
 ## October
 ### 2021-10-26 8:42pm
 I was fascinated by the concept of [[endurance]] when I was a kid. Was it because of [[ADHD]]? Enduring isn't effiecient? Was it because of [[transgender|trans]]? I was enduring so much? Was it because of [[Autism]]? lack of understanding emotion? #TO/PONDER/ME 

@@ -6,7 +6,7 @@ parent: [ [ anxiety ] ]
 
 #### [[Your anxiety is telling you everything that could go wrong not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-If you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the judgment on whether you should go through with the thing or not. [[Social anxiety isn't irrational it's just overcompensation]]
+If you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with the thing or not. [[Social anxiety isn't irrational it's just overcompensation]]
 
 Being able to do this requires a very healthy amount of [[mindfullness]], and a large amount of [[self]]-awareness. Once you've achieved these things you're [[anxiety]] can start to be an aspect of your [[mindfullness]] rather than an inhibitor. ([[Anxiety should be a tool at your disposal not an impedance to your life]]) [[Self-hatred is born out of dissonance between self-image and self-perception]]
 

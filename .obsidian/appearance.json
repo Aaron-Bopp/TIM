@@ -1,7 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Primary",
-  "theme": "obsidian",
+  "cssTheme": "Bubble Space",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "aside",
     "S - Aside",
