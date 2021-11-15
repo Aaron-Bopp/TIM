@@ -1,137 +1,140 @@
 {
   "main": {
-    "id": "1b650a4e565b6cee",
+    "id": "660c8e86a242c789",
     "type": "split",
     "children": [
       {
-        "id": "5489bb4db8ca87cc",
+        "id": "92ab4f0b2bba22f7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":175},\"to\":{\"line\":27,\"ch\":175}},\"scroll\":8.75420673076923}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Me.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":2},\"to\":{\"line\":47,\"ch\":2}},\"scroll\":26.791466346153847}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The three main questions of life.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NOW.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"INDEX.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Transformative justice is the alternative to punitive justice.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":29.318810096153847}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":32},\"to\":{\"line\":19,\"ch\":32}},\"scroll\":0}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Transformative justice is the alternative to punitive justice.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The moral majority movement was the original 'making things political'.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The moral majority movement was the original 'making things political'.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Any experience of gender is acceptable.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.3333333333333333}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anti-government stances lead to economic crashes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "92ab4f0b2bba22f7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/self-actualization.md\",\"mode\":\"source\"}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":34},\"to\":{\"line\":20,\"ch\":34}},\"scroll\":9.369591346153847}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/CONTENTNOTES.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.44680851063829785}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/Commits.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The triad of ever increasing social anxiety.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/KANBAN.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.44680851063829785}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/JUSTEVERGREENS.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/EVERGREENS.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender segregation increases gendered play.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.0851063829787234}"
             },
             {
-              "leaf": "5489bb4db8ca87cc",
+              "leaf": "92ab4f0b2bba22f7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/CHARTS.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/find related concepts.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/File Sizes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/TODO.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/EVERSPROUTS.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/RELATED-TOPICS.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Negative influences are stronger than positive influences.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":27},\"to\":{\"line\":20,\"ch\":27}},\"scroll\":0.2978723404255319}"
             }
           ]
         }
@@ -153,10 +156,6 @@
             "state": {
               "type": "file-explorer",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -165,17 +164,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loving yourself",
+                "query": "tag:#EVER/SEED",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -184,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -192,22 +188,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "0c769aef4d9945f1",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -216,13 +196,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -234,17 +211,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 529
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -253,123 +227,61 @@
       {
         "id": "b7b3aaa71b0c0df5",
         "type": "tabs",
-        "dimension": 44.879518072289144,
         "children": [
           {
-            "id": "b977b5a232ac5471",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "67a971758c440a71",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "acd3fde621257558",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "6029732c33ad196e",
+            "id": "7725dfd7c09e7901",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "79527a796824c9ae",
+            "id": "27f8b7b9a1bb500b",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "96b6002aaf7326ff",
+            "id": "c196be09245c56ca",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "7fc53da45c28c58e",
+            "id": "9c9cb8621dcbb86d",
             "type": "leaf",
             "state": {
               "type": "RSS_FEED",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "44ed786f3c3fd53d",
+            "id": "107d360501b59104",
             "type": "leaf",
             "state": {
-              "type": "breadcrumbs-stats",
+              "type": "review-queue-list-view",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "cf1349fdfe6b6e2f",
+            "id": "5d4461b95cdf55ed",
             "type": "leaf",
             "state": {
-              "type": "breadcrumbs-matrix",
+              "type": "advanced-tables-toolbar",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "84f4f33f118f4527",
         "type": "tabs",
-        "dimension": 55.120481927710856,
         "children": [
           {
             "id": "031fe1b37666a6d6",
@@ -377,6 +289,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -456,26 +369,18 @@
                   "repelStrength": 11.2684989429175,
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
-                  "scale": 0.40295572634687454,
+                  "scale": 0.2874184321264291,
                   "close": true
                 }
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "09673ad2328b85b1",
+            "id": "4264efe9388c363f",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ],
@@ -483,20 +388,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5,
-    "collapsed": true
+    "width": 961
   },
-  "active": "5489bb4db8ca87cc",
+  "active": "92ab4f0b2bba22f7",
   "lastOpenFiles": [
-    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
-    "Welcome.md",
-    "Me.md",
-    "30_Topics/32_Terms/bi-directional links.md",
-    "40_Evergreens/Our brain will do anything it can to protect itself.md",
-    "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
-    "NOW.md",
-    "INDEX.md",
-    "40_Evergreens/The fragility of nodes in a second brain.md",
-    "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md"
+    "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
+    "40_Evergreens/The three main questions of life.md",
+    "40_Evergreens/Transformative justice is the alternative to punitive justice.md",
+    "40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md",
+    "40_Evergreens/The moral majority movement was the original 'making things political'.md",
+    "40_Evergreens/People have been conditioned to believe the bible has to be infallible.md",
+    "40_Evergreens/Any experience of gender is acceptable.md",
+    "40_Evergreens/Anti-government stances lead to economic crashes.md",
+    "30_Topics/32_Terms/self-actualization.md",
+    "40_Evergreens/A secure identity is the best defense against social anxiety.md"
   ]
 }

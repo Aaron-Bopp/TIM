@@ -17,7 +17,7 @@ The best worldviews focus on producing this mindset e.g. [[Bhuddism outlines a p
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[optimism]], [[pessimism]], [[realism]], [[human experience]], [[self-actualization]]

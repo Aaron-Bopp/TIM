@@ -13,7 +13,7 @@ This is true especially in childhood, because we [[We carry our childhood wounds
 
 #TO/DO/FIND William osman comment video
 
-There may be a root in [[Evolutionary Pyschology]] [^1]  or it could be morerelated to [[Humans are primarily irrational, illogical, emotional beings]]. Either way, negative influences root theirselves in our [[insecurity|insecurities]] and [[We value our biggest insecurities because they protect us from the biggest threats]]. Valueing a negative [[influence]] more than a positive one could mean we are more prepared against negative outcomes.
+There may be a root in [[Evolutionary Pyschology]] [^1]  or it could be more related to [[Humans are primarily irrational, illogical, emotional beings]]. Either way, negative influences root theirselves in our [[insecurity|insecurities]] and [[We value our biggest insecurities because they protect us from the biggest threats]]. Valueing a negative [[influence]] more than a positive one could mean we are more prepared against negative outcomes.
 
 ### <hr class="footnote"/>
 

@@ -4,16 +4,7 @@
       "main": {
         "id": "47078aaf2e30127a",
         "type": "split",
-        "children": [
-          {
-            "id": "7677b08d093c0ff0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
+        "children": [],
         "direction": "vertical"
       },
       "left": {
@@ -80,14 +71,6 @@
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
-                }
-              },
-              {
-                "id": "555e9b453997c003",
-                "type": "leaf",
-                "state": {
-                  "type": "recent-files",
-                  "state": {}
                 }
               },
               {
@@ -861,5 +844,5 @@
       "active": "61d175af614c6151"
     }
   },
-  "active": "Laptop sidebars"
+  "active": "Just One - 21:9"
 }

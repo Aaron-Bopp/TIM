@@ -3,6 +3,7 @@
 - Work through all of my [[evergreen notes]] using [[Spaced Repetition (plugin)]] 
 	- 144/201 as of 11.10.2021
 	- <progress max="201" value="144"/>  
+- Work up the courage to share my publish site with more people
 # What are my long term goals 
 - Create my first obsidian plugin
 	-  [[Develop Obsidian plugins|Plugin Ideas]]

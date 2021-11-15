@@ -14,9 +14,10 @@ sr-ease: 250
 > <cite>[[articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace|headspace.com]]</cite>
 - [[Human's will find explanations for inexplainable things]]
 - [[Our brains are built around survival]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[Neuroscience]]

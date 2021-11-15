@@ -6,5 +6,5 @@
   "hideTooltips": false,
   "hideSearchSuggestions": true,
   "hideInstructions": false,
-  "hideMeta": false
+  "hideMeta": true
 }

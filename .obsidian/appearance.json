@@ -6,11 +6,11 @@
     "aside",
     "S - Aside",
     "links",
-    "star-meta",
     "adjust-footnotehrpadding",
     "S - Embed Adjustments",
     "S - External Link Icons",
-    "gradient-hr"
+    "gradient-hr",
+    "space-fixes"
   ],
   "translucency": false,
   "baseFontSizeAction": false

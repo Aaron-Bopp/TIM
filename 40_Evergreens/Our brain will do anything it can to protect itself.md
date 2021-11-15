@@ -10,6 +10,9 @@ sr-ease: 227
 #### [[Our brain will do anything it can to protect itself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/TEND/CREATE this bridge note
+
+Possibly an answer to [[What is the cognitive effect of living in an unjust world]]
+
 - [[self]]
 	- [[Our ego is our subconscious defense of our self]]
 	- [[We value our biggest insecurities because they protect us from the biggest threats]]

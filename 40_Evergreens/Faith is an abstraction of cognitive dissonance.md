@@ -17,7 +17,7 @@ Christian's use faith as a shield to protect themselves from the horrors of the 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive dissonance]], [[faith]]

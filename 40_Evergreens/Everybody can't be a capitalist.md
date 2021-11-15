@@ -15,7 +15,7 @@ One of the successes of the [[Rise of Modern Conservatism]] is to have convinced
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[capitalism]], [[human advancement]], [[Marxism]]

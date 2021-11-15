@@ -3343,7 +3343,7 @@ SPACE A1- Panes
 }
 
 .theme-dark .graph-view.color-line {
-    color: rgba(139, 155, 241, 0.452);
+    color: rgb(39, 45, 82);
 }
 
 .theme-dark .graph-view.color-text {
