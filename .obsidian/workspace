@@ -9,13 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/24 Vault Stats/GALLERY.md",
-            "mode": "preview"
+            "file": "10_Sources/podcastINVCEL.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "d01cb910d230f5b7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcastINVCEL.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d01cb910d230f5b7",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
             {
               "leaf": "d01cb910d230f5b7",
               "group": null,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/24 Vault Stats/GALLERY.md",
+                "file": "10_Sources/podcastINVCEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/24 Vault Stats/GALLERY.md",
+                "file": "10_Sources/podcastINVCEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/24 Vault Stats/GALLERY.md"
+                "file": "10_Sources/podcastINVCEL.md"
               }
             },
             "pane-relief:history-v1": {
@@ -255,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/24 Vault Stats/GALLERY.md",
+                "file": "10_Sources/podcastINVCEL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -367,6 +379,7 @@
   },
   "active": "d01cb910d230f5b7",
   "lastOpenFiles": [
+    "10_Sources/podcastINVCEL.md",
     "20_Entry/24 Vault Stats/GALLERY.md",
     "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
@@ -375,7 +388,6 @@
     "40_Evergreens/The danger of religious beliefs in early childhood.md",
     "40_Evergreens/Negative influences are stronger than positive influences.md",
     "40_Evergreens/Security.md",
-    "40_Evergreens/Mental illness is a reaction to ones environment.md",
-    "40_Evergreens/Mental health is a reaction to one's environment.md"
+    "40_Evergreens/Mental illness is a reaction to ones environment.md"
   ]
 }

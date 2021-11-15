@@ -8689,14 +8689,19 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "10_Sources/podcastINVCEL.md": {
+      "size": 2227,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1212,
-      "Create": 1876,
-      "Link": 2808,
-      "Expand": 49
+      "Refactor": 1214,
+      "Create": 1877,
+      "Link": 2810,
+      "Expand": 50
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8720,7 +8725,7 @@
       "10": 49,
       "11": 24,
       "12": 321,
-      "13": 41,
+      "13": 47,
       "14": 2154,
       "15": 90,
       "16": 820,
@@ -8761,7 +8766,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 70,
+      "Mon": 76,
       "Tue": 464,
       "Wed": 1053,
       "Thu": 207,
@@ -8830,9 +8835,11 @@
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Security.md\"> Security </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"WORDCOUNT.md\"> WORDCOUNT </a>",
@@ -8882,8 +8889,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/love.md\"> love </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/late capitalism.md\"> late capitalism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/knowledge management.md\"> knowledge management </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kernel Space.md\"> Kernel Space </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/karma.md\"> karma </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kernel Space.md\"> Kernel Space </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/index note.md\"> index note </a>",
@@ -8939,6 +8945,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of impermanent data and permanent metadata </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
@@ -8988,8 +8995,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/envy.md\"> envy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Evangelicalism.md\"> Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/executive function.md\"> executive function </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/existential dread.md\"> existential dread </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fairness.md\"> fairness </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/existential dread.md\"> existential dread </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9050,6 +9056,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/homophobia.md\"> homophobia </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
@@ -9099,7 +9106,6 @@
         "<a class=\"internal-link\" href=\"_Me.md\"> _Me </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>"
       ],
       "Removed Tags from": [
@@ -9139,9 +9145,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
         "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSEEDS.md\"> EVERSEEDS </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/evergreen notes.md\"> evergreen notes </a>",
@@ -9191,8 +9199,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoWhat is Ego.md\"> videoWhat is Ego </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brains are built around survival.md\"> Our brains are built around survival </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
       ]
     },
     "40 Evergreens": {
