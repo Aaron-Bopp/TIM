@@ -33,7 +33,7 @@ This ability to pattern match is a major part of why we have survived as a speci
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[subconscious]], [[mental health]]

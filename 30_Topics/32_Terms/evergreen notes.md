@@ -2,18 +2,21 @@
 created: 2021-05-29
 tags: node/topic/term
 aliases:
-- permanent note
-- zettle
-- evergreens
+  - permanent note
+  - zettle
+  - evergreens
+  - evergreen note
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
+> _Evergreen notes_ are written and organized to evolve, contribute, and accumulate over time, across projects.[^1]
+> 
+> <cite>[[Andy Matuschak]]</cite>
 
-An evergreen note is one that is both easy to start and easy to add on to.
+Evergreen notes are the fundamental unit of knowledge in [[My TIM]]. 
 
-A permanent note is a singular concept that you have conceptualized and written down. This term is used across [[knowledge management]] and [[Zettlekassen]] systems but its use within specific systems varies.  
-
-**See**:: [[second brain]], [[knowledge management]]
+**See**:: [[My TIM]], [[second brain]], [[knowledge management]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
+[^1]: https://notes.andymatuschak.org/Evergreen_notes

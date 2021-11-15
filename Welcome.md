@@ -4,7 +4,7 @@ Whether you are a freind, foe, or simple traveler, welcome to a look into my [[s
 
 ## Wtf is going on, who are you, and how did I get here?
 
-It's okay, I sometimes click on links and forget about it by the time I open them too. This is [[My TIM| my Totally Integrated Machine]] or at least the window into it's inner workings. This is an accumulation of years of thinking and months of writing in an app called [[Obsidian (software)|]], you will find notes covering all the topics that I am interested in.  
+It's okay, I sometimes click on links and forget about it by the time I open them too. This is [[My TIM| my Totally Integrated Machine]] or at least the window into it's inner workings. This is an accumulation of years of thinking and months of writing in an app called [[Obsidian (software)|Obsidian]], you will find notes covering all the topics that I am interested in.  
 
 The core features of this site are the [[bi-directional links]] and the graph view in the top right. Use them to navigate, you can also search or scroll through all of my notes on the left, or start from here:
 
@@ -15,7 +15,7 @@ The core features of this site are the [[bi-directional links]] and the graph vi
 
 ## Stop blabbering I just want to know how to do the cool thing in the notes app
 
-If you are already familiar with Obsidian and want to see [[Templater|templates]] and [[Dataview]] scripts look in 20_Entry or 00_Meta\\Templates. 
+If you are already familiar with [[Obsidian (software)|Obsidian]] and want to see [[Templater|templates]] and [[Dataview]] scripts look in 20_Entry or 00_Meta\\Templates. I've surrounded them all in code fences, so you can see my exact syntax
 
 Thought's directly helpful to obsidian users:
 
@@ -23,9 +23,9 @@ Thought's directly helpful to obsidian users:
 - [[my TO(DO) and EVER(GREEN) structure]]
 - [[The fragility of nodes in a second brain]]
 
-## Wow, you don't have a high view of yourself, I actually just wanted to learn more about how to do all this note-taking stuff
+## Obsidian? Note-taking? What are you talking about?
 
-I appreciate you! It's just a [[defense-mechanisms|defense-mechanism]] I swear. Here are some starting points for you:
+Welcome to the world of [[knowledge management|personal knowledge management]] or PKM. This is a thriving community around curating and creating knowledge, I hope you jump in.
 
 If you have twenty minutes, this video is a great introduction to [[conceptual notes]]: [How to achieve more while studying less - Obsidian & Conceptual Notes - YouTube](https://www.youtube.com/watch?v=MYJsGksojms)
 

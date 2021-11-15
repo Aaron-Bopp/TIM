@@ -5325,11 +5325,6 @@
       "tags": 2,
       "links": 10
     },
-    "40_Evergreens/topic note.md": {
-      "size": 1690,
-      "tags": 3,
-      "links": 6
-    },
     "40_Evergreens/Topics are terms that are too broadly defined.md": {
       "size": 893,
       "tags": 3,
@@ -5418,7 +5413,7 @@
     "40_Evergreens/Write your notes like you're planting an evergreen forest.md": {
       "size": 2245,
       "tags": 2,
-      "links": 14
+      "links": 15
     },
     "40_Evergreens/Yang's political failure was due to lack of activism and poltical inneficacy.md": {
       "size": 2571,
@@ -7216,9 +7211,9 @@
       "links": 0
     },
     "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md": {
-      "size": 2220,
+      "size": 2781,
       "tags": 2,
-      "links": 7
+      "links": 10
     },
     "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md": {
       "size": 2094,
@@ -7648,7 +7643,7 @@
     "30_Topics/32_Terms/evergreen notes.md": {
       "size": 545,
       "tags": 1,
-      "links": 3
+      "links": 5
     },
     "30_Topics/32_Terms/Evolution.md": {
       "size": 352,
@@ -8608,7 +8603,7 @@
     "30_Topics/32_Terms/bi-directional links.md": {
       "size": 0,
       "tags": 1,
-      "links": 3
+      "links": 5
     },
     "30_Topics/31_Stubs/conceptual notes.md": {
       "size": 0,
@@ -8689,14 +8684,19 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "30_Topics/32_Terms/topic note.md": {
+      "size": 1690,
+      "tags": 1,
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1155,
+      "Refactor": 1160,
       "Create": 1872,
-      "Link": 2796,
-      "Expand": 48
+      "Link": 2802,
+      "Expand": 49
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8725,8 +8725,8 @@
       "15": 90,
       "16": 820,
       "17": 1442,
-      "18": 133,
-      "19": 57,
+      "18": 144,
+      "19": 58,
       "20": 74,
       "21": 103,
       "22": 85,
@@ -8767,7 +8767,7 @@
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
-      "Sun": 4045
+      "Sun": 4057
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -8829,7 +8829,8 @@
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
-        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>"
+        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
@@ -8885,6 +8886,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender schema.md\"> gender schema </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/blame.md\"> blame </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
@@ -8934,8 +8936,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be a frictionlessa and inspirational hub of creativity.md\"> Your second brain should be a frictionlessa and inspirational hub of creativity </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Marsha P Johnson.md\"> Marsha P Johnson </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
@@ -9049,6 +9050,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/guilt.md\"> guilt </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/evergreen notes.md\"> evergreen notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/topic note.md\"> topic note </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
@@ -9093,12 +9100,6 @@
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>"
       ],
       "Removed Tags from": [
@@ -9135,9 +9136,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Mermaid (software).md\"> Mermaid (software) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Templater.md\"> Templater </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/evergreen notes.md\"> evergreen notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>",
         "<a class=\"internal-link\" href=\"30_Topics/second brain.md\"> second brain </a>",
         "<a class=\"internal-link\" href=\"_Welcome.md\"> _Welcome </a>",
@@ -9185,10 +9190,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brains are built around survival.md\"> Our brains are built around survival </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Christianity.md\"> Christianity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/History/notes1960's General Notes.md\"> notes1960's General Notes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>"
       ]
     },
     "40 Evergreens": {
