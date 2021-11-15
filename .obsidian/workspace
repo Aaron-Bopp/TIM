@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/CONTENTNOTES.md",
+            "file": "40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,14 @@
             {
               "leaf": "5489bb4db8ca87cc",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/CONTENTNOTES.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "5489bb4db8ca87cc",
@@ -129,12 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/TODO.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.016666666915019352}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/QOUTES.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/CONTENTNOTES.md",
+                "file": "40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/CONTENTNOTES.md",
+                "file": "40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/CONTENTNOTES.md"
+                "file": "40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md"
               }
             },
             "pane-relief:history-v1": {
@@ -406,7 +406,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/CONTENTNOTES.md",
+                "file": "40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -518,6 +518,7 @@
   },
   "active": "5489bb4db8ca87cc",
   "lastOpenFiles": [
+    "40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md",
     "20_Entry/CONTENTNOTES.md",
     "20_Entry/Commits.md",
     "20_Entry/KANBAN.md",
@@ -526,7 +527,6 @@
     "20_Entry/CHARTS.md",
     "20_Entry/find related concepts.md",
     "20_Entry/File Sizes.md",
-    "20_Entry/TODO.md",
-    "20_Entry/EVERSPROUTS.md"
+    "20_Entry/TODO.md"
   ]
 }
