@@ -8,5 +8,16 @@ Her and this person had never been on a date. For her, social things just didn't
 
 **<u>Section 2 (Reading Connection):</u>** Discuss at least one **<u>reading from this week</u>** that relates to the piece. Be sure to explain which reading you are discussing, what the reading said about the topic, and how the reading is connected to the piece.
 
+Part of the reason the incel movement failed was because it was designed about being able to leave it. The movement didn't have the benefit of the old guard to guide people along the journey and keep the movement a positive place. 
+The incel movement has grown to include many ideologies that otherize woman and support toxic masculinity.
+In the APA meta-analysis of sexist beliefs effects on men's mental health, they identified self-reliance, pursuit of playboy behavior, and power over women.
+The most common trait I have seen of the incel community is either worship or disdain of "alpha males." These being males that are successful with women, and I think that incels would point to fulfillment of these three traits as the reason that an alpha male is successful.
+Alpha males are achieve playboy behavior by being able to sleep with multiple women, they are self-reliant in that they are confident in their abilities, and they have power over women in that they have the physical traits that women "desire."
+
 
 **<u>Section 3 (Personal Reflection):</u>** Discuss how the piece relates to your own life experiences. Consider how the stories or information presented is similar to, or different from, what you've experienced. If the piece focuses on an identity very different from your own, you can think about how not having that identity has led to a different life. You can also discuss memories that the piece made you think of. You should <u>not</u> give your opinion or evaluation of the piece, and you should <u>not</u> just talk about how it made you feel (e.g. "this topic makes me sad").
+
+I have unfortunately been exposed to a lot of the incel movement because of being a part of gaming circles, which are predominantly male. I easily could have been swept up into the incel movement because of this, but thankfully my own gender and sexuality has led me away from both being attracted to having sex with people and being a man. The asexual and trans communities have helped to explain feelings that I think could have been misplaced. 
+As the incel movement has grown, I have seen a lot of references to male behavior as "alpha," "beta," or "sigma."
+In the podcast one of the ideologies they talked about focused on the superiority of men and the worthlessness of woman which I see lineing up with the "sigma" mindset and the power over women masculine trait. Basically saying that by removing women's power to give or withhold sex, you then gain power over women and acheive a "sigma mindset."
+An interesting crossover is I see the incel community focusing a lot on physical traits such as strong jawlines, face structure, or height. I wonder if these kinds of beliefs could even lead to some level of body dysmorphia, furthering negative mental health outcomes.

@@ -8691,7 +8691,7 @@
       "links": 0
     },
     "10_Sources/podcastINVCEL.md": {
-      "size": 2227,
+      "size": 4712,
       "tags": 0,
       "links": 0
     },
@@ -8716,7 +8716,7 @@
       "Refactor": 1215,
       "Create": 1880,
       "Link": 2812,
-      "Expand": 50
+      "Expand": 54
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8742,7 +8742,7 @@
       "12": 321,
       "13": 47,
       "14": 2160,
-      "15": 90,
+      "15": 94,
       "16": 820,
       "17": 1442,
       "18": 144,
@@ -8781,7 +8781,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 82,
+      "Mon": 86,
       "Tue": 464,
       "Wed": 1053,
       "Thu": 207,
@@ -8802,6 +8802,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
@@ -8849,9 +8852,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
-        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>"
+        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"00_Meta/Templates/buttons.md\"> buttons </a>",

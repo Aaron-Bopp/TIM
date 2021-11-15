@@ -4,34 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "8d437e90cd368b2e",
+        "id": "83ba86844c851d90",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "10_Sources/podcastINVCEL.md",
-            "mode": "source"
+            "file": "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 12 S21 soln.pdf"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "8d437e90cd368b2e",
+              "leaf": "83ba86844c851d90",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcastINVCEL.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":147},\"to\":{\"line\":4,\"ch\":147}},\"scroll\":0.9482758620689655}"
-            },
-            {
-              "leaf": "8d437e90cd368b2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_MongoDB and Mongoose.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 12 S21 soln.pdf\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "8d437e90cd368b2e",
+              "leaf": "83ba86844c851d90",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "bce3319185120e06",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 11 S21 soln.pdf"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "bce3319185120e06",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 11 S21 soln.pdf\"}}",
               "eState": "{}"
             }
           ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/podcastINVCEL.md",
+                "file": "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 11 S21 soln.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -118,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/podcastINVCEL.md",
+                "file": "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 11 S21 soln.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -223,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/podcastINVCEL.md"
+                "file": "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 11 S21 soln.pdf"
               }
             },
             "pane-relief:history-v1": {
@@ -255,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/podcastINVCEL.md",
+                "file": "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 11 S21 soln.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -365,8 +380,10 @@
     "width": 710.2000122070312,
     "collapsed": true
   },
-  "active": "8d437e90cd368b2e",
+  "active": "bce3319185120e06",
   "lastOpenFiles": [
+    "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 11 S21 soln.pdf",
+    "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 12 S21 soln.pdf",
     "10_Sources/podcastINVCEL.md",
     "10_Sources/notes_MongoDB and Mongoose.md",
     "00_Meta/Templates/buttons.md",
@@ -374,8 +391,6 @@
     "30_Topics/33_Tools/Templater.md",
     "00_Meta/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md",
     "20_Entry/24 Vault Stats/GALLERY.md",
-    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
-    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
-    "40_Evergreens/Write your notes like you're planting an evergreen forest.md"
+    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md"
   ]
 }
