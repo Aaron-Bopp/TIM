@@ -7,11 +7,8 @@
         "id": "5489bb4db8ca87cc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Welcome.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
@@ -19,8 +16,14 @@
             {
               "leaf": "5489bb4db8ca87cc",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5489bb4db8ca87cc",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.239182692307692}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":175},\"to\":{\"line\":27,\"ch\":175}},\"scroll\":8.75420673076923}"
             },
             {
               "leaf": "5489bb4db8ca87cc",
@@ -129,34 +132,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/RELATED-TOPICS.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "5489bb4db8ca87cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/LAST-WEEK.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "b02a2935e7015556",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "b02a2935e7015556",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -209,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -242,7 +216,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -287,9 +260,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -406,7 +377,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Welcome.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -518,6 +488,7 @@
   },
   "active": "5489bb4db8ca87cc",
   "lastOpenFiles": [
+    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
     "Welcome.md",
     "Me.md",
     "30_Topics/32_Terms/bi-directional links.md",
@@ -526,7 +497,6 @@
     "NOW.md",
     "INDEX.md",
     "40_Evergreens/The fragility of nodes in a second brain.md",
-    "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
-    "30_Topics/32_Terms/topic note.md"
+    "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md"
   ]
 }

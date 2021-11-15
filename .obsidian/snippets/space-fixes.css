@@ -1,0 +1,11 @@
+hr {
+    border: 0 !important;
+    height: 0.25rem;
+    display: block;
+    margin: 0.35em !important;
+    clear: both;
+}
+
+cite {
+    padding-top: 0 !important;
+}
