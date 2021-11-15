@@ -8658,7 +8658,7 @@
     "30_Topics/33_Tools/Obsidian (software).md": {
       "size": 1893,
       "tags": 3,
-      "links": 14
+      "links": 13
     },
     "30_Topics/Andy Matuschak.md": {
       "size": 323,
@@ -8688,7 +8688,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1210,
+      "Refactor": 1211,
       "Create": 1875,
       "Link": 2803,
       "Expand": 49
@@ -8724,7 +8724,7 @@
       "19": 58,
       "20": 76,
       "21": 107,
-      "22": 133,
+      "22": 134,
       "23": 107
     },
     "40 Evergreens": {
@@ -8762,7 +8762,7 @@
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
-      "Sun": 4111
+      "Sun": 4112
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9136,6 +9136,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSEEDS.md\"> EVERSEEDS </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/evergreen notes.md\"> evergreen notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
@@ -9185,8 +9186,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brains are built around survival.md\"> Our brains are built around survival </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>"
       ]
     },
     "40 Evergreens": {
