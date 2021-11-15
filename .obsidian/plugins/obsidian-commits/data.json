@@ -8694,12 +8694,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "{WORDCOUNT.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1160,
-      "Create": 1873,
+      "Refactor": 1162,
+      "Create": 1875,
       "Link": 2803,
       "Expand": 49
     },
@@ -8733,7 +8738,7 @@
       "18": 144,
       "19": 58,
       "20": 76,
-      "21": 103,
+      "21": 107,
       "22": 85,
       "23": 107
     },
@@ -8772,7 +8777,7 @@
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
-      "Sun": 4059
+      "Sun": 4063
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -8838,6 +8843,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"WORDCOUNT.md\"> WORDCOUNT </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Average links per note type.md\"> Average links per note type </a>",
         "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
@@ -8886,11 +8893,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/knowledge management.md\"> knowledge management </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kernel Space.md\"> Kernel Space </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/karma.md\"> karma </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/j-hat.md\"> j-hat </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/government.md\"> government </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Gender self-socialization model.md\"> Gender self-socialization model </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/j-hat.md\"> j-hat </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"{WORDCOUNT.md\"> {WORDCOUNT </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/blame.md\"> blame </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
@@ -8940,8 +8946,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be a frictionless and inspirational hub of creativity.md\"> Your second brain should be a frictionless and inspirational hub of creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be a frictionlessa and inspirational hub of creativity.md\"> Your second brain should be a frictionlessa and inspirational hub of creativity </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Marsha P Johnson.md\"> Marsha P Johnson </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
@@ -9002,6 +9007,7 @@
         "<a class=\"internal-link\" href=\"_Welcome.md\"> _Welcome </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"1.md\"> 1 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Scripts/obs_tools/forward_linker/README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/21st Century America.md\"> 21st Century America </a>",
         "<a class=\"internal-link\" href=\"30_Topics/yoga.md\"> yoga </a>",
@@ -9051,8 +9057,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/homophobia.md\"> homophobia </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Hinduism.md\"> Hinduism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Hierarchy of needs.md\"> Hierarchy of needs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/happiness.md\"> happiness </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/guilt.md\"> guilt </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/happiness.md\"> happiness </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",

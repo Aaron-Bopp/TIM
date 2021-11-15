@@ -9,3 +9,11 @@ hr {
 cite {
     padding-top: 0 !important;
 }
+
+.theme-dark .graph-view.color-line {
+    color: #072041;
+}
+
+.workspace-leaf-content[data-type="graph"] .view-content {
+    background-color: #000000;
+}
