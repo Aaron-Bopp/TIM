@@ -5138,7 +5138,7 @@
     "40_Evergreens/The danger of religious beliefs in early childhood.md": {
       "size": 1246,
       "tags": 2,
-      "links": 10
+      "links": 13
     },
     "40_Evergreens/The ethnic makeup is a significant driver of change.md": {
       "size": 733,
@@ -7033,7 +7033,7 @@
     "40_Evergreens/Our brain will do anything it can to protect itself.md": {
       "size": 0,
       "tags": 3,
-      "links": 25
+      "links": 27
     },
     "40_Evergreens/Sometimes we can't grow until we change our environment.md": {
       "size": 0,
@@ -7088,7 +7088,7 @@
     "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md": {
       "size": 0,
       "tags": 2,
-      "links": 7
+      "links": 8
     },
     "40_Evergreens/A story will end where it began, or somewhere else.md": {
       "size": 0,
@@ -8684,13 +8684,18 @@
       "size": 349,
       "tags": 1,
       "links": 4
+    },
+    "40_Evergreens/Security.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1211,
-      "Create": 1875,
-      "Link": 2804,
+      "Create": 1876,
+      "Link": 2808,
       "Expand": 49
     },
     "40 Evergreens": {
@@ -8711,7 +8716,7 @@
       "6": 0,
       "7": 0,
       "8": 0,
-      "9": 300,
+      "9": 305,
       "10": 49,
       "11": 23,
       "12": 321,
@@ -8756,7 +8761,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 64,
+      "Mon": 69,
       "Tue": 464,
       "Wed": 1053,
       "Thu": 207,
@@ -8828,6 +8833,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Security.md\"> Security </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"WORDCOUNT.md\"> WORDCOUNT </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Average links per note type.md\"> Average links per note type </a>",
@@ -8877,8 +8883,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/late capitalism.md\"> late capitalism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/knowledge management.md\"> knowledge management </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kernel Space.md\"> Kernel Space </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/karma.md\"> karma </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/j-hat.md\"> j-hat </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/karma.md\"> karma </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/index note.md\"> index note </a>",
@@ -9045,6 +9050,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/homophobia.md\"> homophobia </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>",
@@ -9088,10 +9097,6 @@
         "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
         "<a class=\"internal-link\" href=\"_Me.md\"> _Me </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",

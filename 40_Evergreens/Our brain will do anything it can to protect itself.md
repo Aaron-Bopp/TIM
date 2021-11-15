@@ -12,23 +12,24 @@ sr-ease: 227
 #TO/TEND/CREATE this bridge note
 
 Possibly an answer to [[What is the cognitive effect of living in an unjust world]]
-
-- [[self]]
-	- [[Our ego is our subconscious defense of our self]]
-	- [[We value our biggest insecurities because they protect us from the biggest threats]]
-	- [[Your anxiety knows your insecurities better than you do]]
 - [[Evolutionary Pyschology]]
 	- [[Our brains are built around survival]]
 	- [[The brain is powerful enough to create supernatural experiences]]
 	- [[Humans are primarily irrational, illogical, emotional beings]]
+		- [[Rationalizations are defense-mechanisms against strong emotions]]
 - [[mental health]]
 	- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
-	- [[Repressed identity creates a mistrust of self-love and self-esteem]]
-	- [[Avoidance IS the most-efficient way of dealing with emotion]]
-    - [[Social anxiety isn't irrational it's just overcompensation]]
+	- [[We carry our childhood wounds into adulthood]]
+		- [[Repressed identity creates a mistrust of self-love and self-esteem]]
+		- [[Avoidance IS the most-efficient way of dealing with emotion]]
+		- [[Social anxiety isn't irrational it's just overcompensation]]
 	- [[How can parent's best help their children]]
 		- [[Parents need to model the ability to deal with emotion to their children]]
 		- [[Working through trauma can involve of a lot of letting go]]
+- [[self]]
+	- [[Our ego is our subconscious defense of our self]]
+	- [[We value our biggest insecurities because they protect us from the biggest threats]]
+	- [[Your anxiety knows your insecurities better than you do]]
  	
 This is the basis for [[PTSD]], [[anxiety]], [[DID (Dissociative Idenitty Disorder)]]
 

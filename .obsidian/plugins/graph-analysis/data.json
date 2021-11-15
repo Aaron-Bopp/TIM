@@ -1,7 +1,12 @@
 {
   "noInfinity": true,
   "noZero": true,
-  "defaultAnalysisType": "Co-Citations",
+  "allFileExtensions": true,
+  "addUnresolved": true,
+  "coTags": true,
+  "defaultSubtypeType": "Co-Citations",
   "debugMode": false,
-  "superDebugMode": false
+  "superDebugMode": false,
+  "exclusionRegex": "00",
+  "defaultAnalysisType": "Co-Citations"
 }

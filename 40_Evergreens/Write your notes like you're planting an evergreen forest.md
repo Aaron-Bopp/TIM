@@ -35,7 +35,8 @@ but [[Choosing a note writing system is choosing a system for thought]]
 
 If you want my advice, start with [[evergreen notes]]:
 [[Evergreen notes organize knowledge so that it can grow]] 
-
+ If you have a seed, plant it and let it grow. Often times an imperative, descriptive title and backlinks are all note needs to have longevity, other time you may need to a sentence or two of context so that you don't forget what you were thinking.
+ 
 If you spend too much time is a system that won't be able to flourish into an evergreen forest, you will be reluctant to switch: [[Human's have an inability to admit that they are wrong]]
 
 ### <hr class="footnote"/>

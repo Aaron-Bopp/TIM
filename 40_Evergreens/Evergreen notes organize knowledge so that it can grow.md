@@ -17,6 +17,8 @@ and writing evergreen notes is just practice for future thought.
 [[Fear is the number one hindrance to trying]], but evergreen notes should not inspire fear,
 they should inspire [[creativity]]:
 [[Your second brain should be an inspirational hub of creativity]]
+
+[[Write your notes like you're planting an evergreen forest]], you don't need to have a fully formulated idea to start writing.
  
 
 ### <hr class="footnote"/>

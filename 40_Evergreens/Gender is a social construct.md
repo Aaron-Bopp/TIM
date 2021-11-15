@@ -18,7 +18,7 @@ Current discussion of [[gender roles]], [[Patriarchy]], [[feminism]], [[sexism]]
 
 [[Our understanding of gender begins at a very early age]], and through behaviors like [[gender segregation]] [^1] and [[Gender self-socialization model|gender self-socialization]] we develop a [[gender schema]].  But despite these strong roots for our gender we still observe that [[Gender has historically been non-binary]] and [[Biology supports the validity of trans people]].
 
-##### Why is [[gender]] such a debated topic then, when it has been around for centuries?
+##### Why is [[gender]] such a debated topic?
 
 The answer is unfortunately in [[Politics]], and the [[Rise of Modern Conservatism]]
 
