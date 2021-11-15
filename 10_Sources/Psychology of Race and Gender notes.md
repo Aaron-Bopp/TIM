@@ -48,7 +48,7 @@
 	- now known as a pseudo-science 
 - r/K theory: species can be ordered on a continuum based on number and quality of offspring
 	- lower species have more/worse offspring, "higher" species have fewer/better
-- cephalic [[INDEX]]: some races have smaller brains == lower IQ scores
+- cephalic [[202 INDEX]]: some races have smaller brains == lower IQ scores
 - IQ scores increasing over time
 	- black scores are increasing faster than other groups
 - racial admixture

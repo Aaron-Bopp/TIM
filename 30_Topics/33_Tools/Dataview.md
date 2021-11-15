@@ -3,9 +3,9 @@ created: 2021-05-29
 tags: node/topic, node/topic/tool
 ---
 
-[[dataview]] is an plugin for [[obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
+[[Dataview]] is an plugin for [[Obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
 
-**Topics**:: [[INDEX]]
+**Topics**:: [[202 INDEX]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
@@ -18,14 +18,14 @@ snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, http
 - inline query
 	- can be used to perform expressions inline with `"= <expression>"`
 		- today's date: **`= date(today)`** 
-		- [[dataview]]'s note types: *`= [[dataview]].note-type`*
+		- [[Dataview]]'s note types: *`= [[dataview]].note-type`*
 	- some don't work outside of a dataview block
 		- `= [[dataview]].mtime`
 		- `= [[dataview]].tags`
 - expressions
 	- anything that yields a value
 - fields
-	- [[dataview]] simplifies fields defined in line to lower-case-no-special-characters
+	- [[Dataview]] simplifies fields defined in line to lower-case-no-special-characters
 - functions
 	- `replace([string], replaced, inserted)`
 

@@ -4,19 +4,136 @@
     "type": "split",
     "children": [
       {
-        "id": "168e2b6c29393bd2",
+        "id": "48e822a994e46a0f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/32_Terms/index note.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "168e2b6c29393bd2",
+              "leaf": "48e822a994e46a0f",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/index note.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/ignorance.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dual (plugin).md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dataview.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":85},\"to\":{\"line\":27,\"ch\":85}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/Andy Matuschak.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":22},\"to\":{\"line\":17,\"ch\":22}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":55},\"to\":{\"line\":14,\"ch\":55}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Regex.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":14},\"to\":{\"line\":14,\"ch\":14}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/source notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":9},\"to\":{\"line\":5,\"ch\":9}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/web of thought.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Dual/related topics.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":33},\"to\":{\"line\":2,\"ch\":33}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Dual/Fomulate questions.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Dual/do math.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":33},\"to\":{\"line\":8,\"ch\":33}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Dual/Answer open questions.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/BOOKLIST.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERSPROUTS.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/LAST-WEEK.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":3},\"to\":{\"line\":9,\"ch\":3}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERSEEDS.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERGREENS.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/File Sizes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+            },
+            {
+              "leaf": "48e822a994e46a0f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERSPROUTS.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             }
           ]
@@ -70,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "30_Topics/32_Terms/index note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -90,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "30_Topics/32_Terms/index note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529
+    "width": 521
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -213,6 +332,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "30_Topics/32_Terms/index note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,17 +442,17 @@
     "width": 961,
     "collapsed": true
   },
-  "active": "168e2b6c29393bd2",
+  "active": "48e822a994e46a0f",
   "lastOpenFiles": [
-    "{WORDCOUNT.md",
-    "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md",
-    "40_Evergreens/My Deconstruction journey.md",
-    "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
-    "40_Evergreens/1968 was a major setback for the American left.md",
-    "1.md",
-    "40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md",
-    "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
-    "40_Evergreens/The three main questions of life.md",
-    "40_Evergreens/Transformative justice is the alternative to punitive justice.md"
+    "30_Topics/32_Terms/index note.md",
+    "30_Topics/32_Terms/ignorance.md",
+    "30_Topics/33_Tools/Dual (plugin).md",
+    "30_Topics/33_Tools/Dataview.md",
+    "30_Topics/Andy Matuschak.md",
+    "30_Topics/33_Tools/Obsidian (software).md",
+    "30_Topics/33_Tools/Regex.md",
+    "30_Topics/32_Terms/source notes.md",
+    "30_Topics/32_Terms/web of thought.md",
+    "00_Meta/Dual/related topics.md"
   ]
 }

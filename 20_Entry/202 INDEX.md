@@ -9,13 +9,13 @@ This is a constantly updated index of entry points and topics for my personal fl
 
 # Entry Points
 
-- [[Welcome]]
-- [[NOW]]
-- [[Me]]
+- [[201 Welcome]]
+- [[203 NOW]]
+- [[204 Me]]
 %%
 - [[TODO]]
 	- [[KANBAN]]
-	- [[QUICKNOTE]]
+	- [[205 QUICKNOTE]]
 - [[Journal]]
 - Forest
 	- [[EVERGREENS]]

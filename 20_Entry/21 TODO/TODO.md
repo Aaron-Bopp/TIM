@@ -1,13 +1,3 @@
----
-created: 2021-07-05
-parent: [[Dataview]]
-
-tags: evergreen
-- organizational-note
-aliases:
-- 
----
-`$=(dv.pages().where(p => p.file.path.contains("OrganizationalNotes")).map(p => dv.fileLink(p.file.path)))`
 ```dataviewjs
 let todoTags = [
 	"#TO/DO/WRITE",

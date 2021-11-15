@@ -1,7 +1,7 @@
 
 ```dataview
 TABLE round(file.size / 1024, 2) as "File Size (kb)"  
-FROM #evergreen
+FROM #node/evergreen
 SORT file.size desc
 ```
 
