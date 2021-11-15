@@ -4907,7 +4907,7 @@
     },
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md": {
       "size": 3556,
-      "tags": 18,
+      "tags": 2,
       "links": 8
     },
     "40_Evergreens/My worldview is not about conversion it is about acceptance.md": {
@@ -8693,7 +8693,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1211,
+      "Refactor": 1212,
       "Create": 1876,
       "Link": 2808,
       "Expand": 49
@@ -8718,7 +8718,7 @@
       "8": 0,
       "9": 305,
       "10": 49,
-      "11": 23,
+      "11": 24,
       "12": 321,
       "13": 41,
       "14": 2154,
@@ -8761,7 +8761,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 69,
+      "Mon": 70,
       "Tue": 464,
       "Wed": 1053,
       "Thu": 207,
@@ -9138,7 +9138,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSEEDS.md\"> EVERSEEDS </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSEEDS.md\"> EVERSEEDS </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",

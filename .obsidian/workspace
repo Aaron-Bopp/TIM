@@ -4,89 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5bb43b5e474a2892",
+        "id": "d01cb910d230f5b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
-            "mode": "source"
+            "file": "20_Entry/24 Vault Stats/GALLERY.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "d01cb910d230f5b7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":8.485714503696986}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The danger of religious beliefs in early childhood.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Security.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}}}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental illness is a reaction to ones environment.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "d01cb910d230f5b7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":26},\"to\":{\"line\":25,\"ch\":26}},\"scroll\":0.23333332935969034}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":71},\"to\":{\"line\":18,\"ch\":71}},\"scroll\":23.963693320510494}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brains are built around survival.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "d01cb910d230f5b7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Any experience of gender is acceptable.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":1.5686274509803921}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is a social construct.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":17.30817610062893}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 NOW.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -108,6 +54,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -116,13 +66,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loving yourself",
+                "query": "tag:#TO/DO/REFERENCE",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -131,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
+                "file": "20_Entry/24 Vault Stats/GALLERY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -140,6 +94,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -148,6 +106,10 @@
             "state": {
               "type": "dictionary-view",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -156,10 +118,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
+                "file": "20_Entry/24 Vault Stats/GALLERY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -171,15 +137,17 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -195,6 +163,10 @@
             "state": {
               "type": "graph-analysis",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -203,6 +175,10 @@
             "state": {
               "type": "juggl_nodes",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -211,6 +187,10 @@
             "state": {
               "type": "juggl_style",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -219,6 +199,10 @@
             "state": {
               "type": "RSS_FEED",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -227,6 +211,10 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -235,8 +223,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Write your notes like you're planting an evergreen forest.md"
+                "file": "20_Entry/24 Vault Stats/GALLERY.md"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -245,6 +237,10 @@
             "state": {
               "type": "Saved Queries View",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -259,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
+                "file": "20_Entry/24 Vault Stats/GALLERY.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -343,6 +339,10 @@
                   "close": true
                 }
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -351,25 +351,31 @@
             "state": {
               "type": "graph",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312
+    "width": 710.2000122070312,
+    "collapsed": true
   },
-  "active": "5bb43b5e474a2892",
+  "active": "d01cb910d230f5b7",
   "lastOpenFiles": [
+    "20_Entry/24 Vault Stats/GALLERY.md",
+    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
+    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
     "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
     "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
     "40_Evergreens/The danger of religious beliefs in early childhood.md",
     "40_Evergreens/Negative influences are stronger than positive influences.md",
     "40_Evergreens/Security.md",
     "40_Evergreens/Mental illness is a reaction to ones environment.md",
-    "40_Evergreens/Mental health is a reaction to one's environment.md",
-    "40_Evergreens/Our brain will do anything it can to protect itself.md",
-    "40_Evergreens/Our brains are built around survival.md",
-    "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md"
+    "40_Evergreens/Mental health is a reaction to one's environment.md"
   ]
 }

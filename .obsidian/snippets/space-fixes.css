@@ -11,9 +11,13 @@ cite {
 }
 
 .theme-dark .graph-view.color-line {
-    color: #072041;
+    color: #04244b;
 }
 
 .workspace-leaf-content[data-type="graph"] .view-content {
-    background-color: #000000;
+    background-color: #20142486;
+}
+
+.theme-dark .graph-view.color-circle {
+    color: rgb(221, 15, 15) !important;
 }
