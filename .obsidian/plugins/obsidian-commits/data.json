@@ -7018,7 +7018,7 @@
     "40_Evergreens/Communities are knowledge graphs.md": {
       "size": 2797,
       "tags": 2,
-      "links": 20
+      "links": 21
     },
     "40_Evergreens/Faith is an abstraction of cognitive dissonance.md": {
       "size": 0,
@@ -8690,7 +8690,7 @@
     "/": {
       "Refactor": 1211,
       "Create": 1875,
-      "Link": 2803,
+      "Link": 2804,
       "Expand": 49
     },
     "40 Evergreens": {
@@ -8725,7 +8725,7 @@
       "20": 76,
       "21": 107,
       "22": 134,
-      "23": 107
+      "23": 108
     },
     "40 Evergreens": {
       "0": 9,
@@ -8762,7 +8762,7 @@
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
-      "Sun": 4112
+      "Sun": 4113
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9045,6 +9045,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/homophobia.md\"> homophobia </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
@@ -9087,7 +9088,6 @@
         "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
         "<a class=\"internal-link\" href=\"_Me.md\"> _Me </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
