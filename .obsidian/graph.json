@@ -18,7 +18,7 @@
       "query": "tag:#node/evergreen",
       "color": {
         "a": 1,
-        "rgb": 587588
+        "rgb": 61183
       }
     },
     {
@@ -39,7 +39,7 @@
       "query": "tag:#node/topic",
       "color": {
         "a": 1,
-        "rgb": 15693574
+        "rgb": 15031071
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.053591286533955465,
+  "scale": 0.31719601703511635,
   "close": true
 }

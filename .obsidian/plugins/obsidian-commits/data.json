@@ -8694,13 +8694,28 @@
       "size": 2227,
       "tags": 0,
       "links": 0
+    },
+    "00_Meta/Templates/FLASHCARD.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "00_Meta/Templates/buttons.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "10_Sources/notes_MongoDB and Mongoose.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1214,
-      "Create": 1877,
-      "Link": 2810,
+      "Refactor": 1215,
+      "Create": 1880,
+      "Link": 2812,
       "Expand": 50
     },
     "40 Evergreens": {
@@ -8726,7 +8741,7 @@
       "11": 24,
       "12": 321,
       "13": 47,
-      "14": 2154,
+      "14": 2160,
       "15": 90,
       "16": 820,
       "17": 1442,
@@ -8766,7 +8781,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 76,
+      "Mon": 82,
       "Tue": 464,
       "Wed": 1053,
       "Thu": 207,
@@ -8839,6 +8854,9 @@
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/buttons.md\"> buttons </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/FLASHCARD.md\"> FLASHCARD </a>",
+        "<a class=\"internal-link\" href=\"notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Security.md\"> Security </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -8886,12 +8904,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/media.md\"> media </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Masculinity.md\"> Masculinity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Masculinism.md\"> Masculinism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/love.md\"> love </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/late capitalism.md\"> late capitalism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/knowledge management.md\"> knowledge management </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kernel Space.md\"> Kernel Space </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/love.md\"> love </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/index note.md\"> index note </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/ignorance.md\"> ignorance </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dual (plugin).md\"> Dual (plugin) </a>",
@@ -8941,10 +8957,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/blame.md\"> blame </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of impermanent data and permanent metadata </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
@@ -8994,8 +9010,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Enneagram.md\"> Enneagram </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/envy.md\"> envy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Evangelicalism.md\"> Evangelicalism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/executive function.md\"> executive function </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/existential dread.md\"> existential dread </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/executive function.md\"> executive function </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9056,6 +9071,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/homophobia.md\"> homophobia </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
@@ -9104,7 +9120,6 @@
         "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
         "<a class=\"internal-link\" href=\"_Me.md\"> _Me </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>"
       ],

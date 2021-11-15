@@ -8,24 +8,28 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "40 Evergreens",
+      "folder": "40_Evergreens",
       "template": "00_Meta/Templates/EGNOTE.md"
     },
     {
-      "folder": "30 Topics",
+      "folder": "30_Topics/31_Stubs",
       "template": "00_Meta/Templates/STUB.md"
+    },
+    {
+      "folder": "30_Topics/32_Terms",
+      "template": "00_Meta/Templates/TERM.md"
     }
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    ""
+    "00_Meta/Templates/FLASHCARD.md"
   ],
   "startup_templates": [
     ""

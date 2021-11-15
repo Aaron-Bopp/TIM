@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d01cb910d230f5b7",
+        "id": "8d437e90cd368b2e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -17,31 +17,19 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "d01cb910d230f5b7",
+              "leaf": "8d437e90cd368b2e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcastINVCEL.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":147},\"to\":{\"line\":4,\"ch\":147}},\"scroll\":0.9482758620689655}"
             },
             {
-              "leaf": "d01cb910d230f5b7",
+              "leaf": "8d437e90cd368b2e",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_MongoDB and Mongoose.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "d01cb910d230f5b7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d01cb910d230f5b7",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d01cb910d230f5b7",
+              "leaf": "8d437e90cd368b2e",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -377,17 +365,17 @@
     "width": 710.2000122070312,
     "collapsed": true
   },
-  "active": "d01cb910d230f5b7",
+  "active": "8d437e90cd368b2e",
   "lastOpenFiles": [
     "10_Sources/podcastINVCEL.md",
+    "10_Sources/notes_MongoDB and Mongoose.md",
+    "00_Meta/Templates/buttons.md",
+    "00_Meta/Templates/FLASHCARD.md",
+    "30_Topics/33_Tools/Templater.md",
+    "00_Meta/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md",
     "20_Entry/24 Vault Stats/GALLERY.md",
     "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
-    "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
-    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
-    "40_Evergreens/The danger of religious beliefs in early childhood.md",
-    "40_Evergreens/Negative influences are stronger than positive influences.md",
-    "40_Evergreens/Security.md",
-    "40_Evergreens/Mental illness is a reaction to ones environment.md"
+    "40_Evergreens/Write your notes like you're planting an evergreen forest.md"
   ]
 }

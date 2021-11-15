@@ -320,5 +320,23 @@
       ],
       "key": "L"
     }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:00_Meta/Templates/FLASHCARD.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }
