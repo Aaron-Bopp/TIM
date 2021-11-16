@@ -4,118 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "5bb43b5e474a2892",
+        "id": "769aa4c90c7596a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
-            "mode": "preview"
+            "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "769aa4c90c7596a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":2.571428571428571}"
             },
             {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "769aa4c90c7596a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Do we have free will.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":10.618182095614348}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children will imitate whatever is modeled for them.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":5.714285714285714}"
             },
             {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "769aa4c90c7596a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Transformative justice is the alternative to punitive justice.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":26},\"to\":{\"line\":19,\"ch\":26}},\"scroll\":0}"
+            },
+            {
+              "leaf": "769aa4c90c7596a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can be taught to invalidate your own emotions.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.016666666915019352}"
+            },
+            {
+              "leaf": "769aa4c90c7596a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sometimes we can't grow until we change our environment.md\",\"mode\":\"source\"}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "769aa4c90c7596a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.016666666915019352}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The bible is god breathed.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":1.8327273282137784}"
             },
             {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.11666666467984517}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":98},\"to\":{\"line\":21,\"ch\":98}},\"scroll\":0}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":8.857142857142858}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":95},\"to\":{\"line\":18,\"ch\":95}},\"scroll\":9.27272773511482}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "769aa4c90c7596a8",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "769aa4c90c7596a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":8.535433191014087}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":10.946107832578198}"
             },
             {
-              "leaf": "5bb43b5e474a2892",
+              "leaf": "769aa4c90c7596a8",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":93},\"to\":{\"line\":76,\"ch\":93}},\"scroll\":59.91003558129976}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":0},\"to\":{\"line\":70,\"ch\":0}},\"scroll\":58.77999488830551}"
-            },
-            {
-              "leaf": "5bb43b5e474a2892",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 NOW.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -169,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
+                "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -202,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
+                "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md"
+                "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md"
               }
             },
             "pane-relief:history-v1": {
@@ -341,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
+                "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -421,7 +373,7 @@
                   "repelStrength": 17.4588235294118,
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
-                  "scale": 0.3687545340589428,
+                  "scale": 0.3403188256370583,
                   "close": true
                 }
               }
@@ -443,23 +395,24 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 710.2000122070312
   },
-  "active": "5bb43b5e474a2892",
+  "active": "769aa4c90c7596a8",
   "lastOpenFiles": [
-    "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
-    "40_Evergreens/Do we have free will.md",
-    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
-    "10_Sources/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md",
-    "10_Sources/Personal/Nathan Eloe.md",
-    "40_Evergreens/The actual work of being a good person isn't explored by Christianity.md",
-    "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
-    "40_Evergreens/Sympathy does not dissallow judgment.md",
-    "40_Evergreens/Neurodiverse people can use their brain to their advantage.md",
-    "40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md"
+    "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
+    "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
+    "40_Evergreens/Children will imitate whatever is modeled for them.md",
+    "40_Evergreens/Transformative justice is the alternative to punitive justice.md",
+    "40_Evergreens/You can be taught to invalidate your own emotions.md",
+    "40_Evergreens/Sometimes we can't grow until we change our environment.md",
+    "40_Evergreens/The bible is god breathed.md",
+    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md",
+    "40_Evergreens/Knowledge of the world is painful.md",
+    "40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md"
   ]
 }

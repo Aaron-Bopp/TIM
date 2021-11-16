@@ -3,9 +3,9 @@ created: 2021-11-08
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-11-11
+sr-due: 2021-11-17
 sr-interval: 2
-sr-ease: 226
+sr-ease: 206
 ---
 
 #### [[How can parent's best help their children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,7 +16,7 @@ sr-ease: 226
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**::[[parents]], [[childhood]], [[mental health]]. [[self-love]], [[human experience]]

@@ -16,7 +16,7 @@ sr-ease: 192
 
 In [[My TIM]] I have created a classification structure and one of it's purposes is to group nodes that are most fragile together. The fragility of these nodes define how likely they are to be removed, or to become irrelevant. 
 
-[[source notes]] are the most fragile because we interact with them the least. New studies come out, new books are published, the tide of public opinion turns and suddenly your source is no longer relevant. Sources become obsolete over time, but the knowledge we glean from them grows over time, which is why we place it in [[evergreen notes]].
+[[Source notes]] are the most fragile because we interact with them the least. New studies come out, new books are published, the tide of public opinion turns and suddenly your source is no longer relevant. Sources become obsolete over time, but the knowledge we glean from them grows over time, which is why we place it in [[evergreen notes]].
 
 [[topic note|Topics]] rarely become irrelevant but can easily become clutter. Any simple idea can have large affects on the world, but that does not mean they will all have large effects in our mind specifically, that is why I subcategorize them into [[stub notes|stubs]] (there to provide the possibility of connection), [[Term notes|terms]] (there to provide easy access to their definition), and outlines (there to provide a structure). Stub's and terms can be filtered out or be included in outlines until they become important enough on to be on their own.
 
@@ -33,7 +33,7 @@ There are more subcategorizations that provide clarification on what a node will
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GREEN/GROWING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[web of thought]], [[second brain]]

@@ -30,7 +30,7 @@ Without the knowledge of [[The fragility of nodes in a second brain|which notes 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[evergreen notes]] 

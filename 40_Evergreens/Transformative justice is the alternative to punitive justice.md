@@ -3,8 +3,8 @@ created: 2021-08-14
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-11
-sr-interval: 3
+sr-due: 2021-11-28
+sr-interval: 13
 sr-ease: 210
 ---
 #### [[Transformative justice is the alternative to punitive justice]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,7 +17,7 @@ Transformative justice is focused on building support and safety for victims thr
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[justice]], [[Civil Rights]], 

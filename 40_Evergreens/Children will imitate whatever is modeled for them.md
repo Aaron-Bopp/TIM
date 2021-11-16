@@ -3,11 +3,14 @@ created: 2021-10-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-12
-sr-interval: 4
+sr-due: 2021-11-29
+sr-interval: 14
 sr-ease: 210
 ---
+
 #### [[Children will imitate whatever is modeled for them]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/TEND/DEOBFUSCATE this, [[Parents need to model the ability to deal with emotion to their children]], [[Our authority figures curate and reinforce what we are allowed to imitate]]
 
 This fact of imitation and modeling is key in [[Social Learning Theory]]. This leads to so many elements of modern society such as [[gender roles]], [[racism]], and [[inter-generational trauma]]. Primarily because [[Parents need to model the ability to deal with emotion to their children]].
 
@@ -17,7 +20,8 @@ This fact is true in both synchronous interactions like fear responses and [[sel
 
 Parent's need to be aware of how their behaviors can affect their children: [[Our authority figures curate and reinforce what we are allowed to imitate]]. [[Trauma]] in the home will very much transfer to the child in some way: [[Children in traumatic households expect more love than their parents can give]]
 
-[[How can parent's best help their children]]
+See:: [[How can parent's best help their children]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

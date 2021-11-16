@@ -1,31 +1,27 @@
 ---
-created: 2021-06-20
+created: 2021-08-08
 tags: node/evergreen
 aliases:
-  - Complex emotions are intellectual understandings of primal urges
+  - null
 sr-due: 2021-11-17
 sr-interval: 9
 sr-ease: 212
 ---
 
 #### [[Mental health is a reaction to one's environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-#TO/TEND/REFACTOR retry combining these notes [[Mental illness is a reaction to ones environment]], [[Complex emotions are intellectual understandings of primal urges]]
+#TO/TEND/REFACTOR backlinks, some should be [[Complex emotions are intellectual understandings of primal urges]]
 
 This environment includes our physical environment (the one we experience), our chemical environment (what is going into the body, and what is the brain producing), and our emotional environment (how our brain is reacting to our physical and chemical environments). Whether through chemical imbalances [^1] or [[reppressed]] [[emotions]] [^4] it makes sense that these internal stimuli our mental state would reflect our environment, but sometimes external stimuli like societal structure [^3] or [[material conditions]],[^2] produce more complex emotional reactions.
 
-These stimuli manifest in a few ways: [[mental illness]] and [[Rationalizations are defense-mechanisms against strong emotions| rationalizations]] are reactions to internal stimuli. Complex emotions are reactions to external stimuli
+[[Complex emotions are intellectual understandings of primal urges]], is an internal reaction to an internal stimuli
 
-What is [[existential dread]] other than a complex understanding our fear of death? 
+[[Biology supports the validity of trans people]] and [[Complex emotions are intellectual understandings of primal urges]], so often there will be many comorbid [[mental illness]] that can be treated, when the chemical imbalances in your brain are the root cause. 
+Ways to alter our environment:
 
-What is [[Humans love to group eachother|humans love for grouping eachother]] other than a complex understanding of [[natural selection|kin selection]]?
-
-These complex emotions are because [[Humans are primarily irrational, illogical, emotional beings]] 
-
-#TO/EXPLORE/RESEARCH What is the primal urge behind [[The brain is powerful enough to create supernatural experiences]] is it related to [[Human's will find explanations for inexplainable things]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN 
+**Status**:: #EVER/SPROUT  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Pyschology]], [[mental illness]]

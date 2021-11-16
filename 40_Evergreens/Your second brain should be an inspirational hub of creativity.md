@@ -23,7 +23,7 @@ As you are creating thought it is important to recoginize [[The fragility of nod
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[creativity]], [[note writing]], [[My TIM]]

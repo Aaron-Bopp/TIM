@@ -1,6 +1,9 @@
 ---
 created: 2021-06-12
 tags: node/evergreen
+sr-due: 2021-11-16
+sr-interval: 1
+sr-ease: 238
 ---
 
 #### [[Knowledge of the world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
