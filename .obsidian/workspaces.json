@@ -636,7 +636,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/What is language's fundamental unit .md",
+                "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
                 "mode": "source"
               }
             },
@@ -646,8 +646,14 @@
                 {
                   "leaf": "195562d74aad7e8c",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.696969465775924}"
+                },
+                {
+                  "leaf": "195562d74aad7e8c",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is language's fundamental unit .md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "195562d74aad7e8c",
@@ -736,7 +742,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/What is language's fundamental unit .md",
+                    "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -769,7 +775,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/What is language's fundamental unit .md",
+                    "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -876,7 +882,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/What is language's fundamental unit .md"
+                    "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -909,7 +915,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/What is language's fundamental unit .md",
+                    "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",

@@ -8724,13 +8724,18 @@
       "size": 0,
       "tags": 2,
       "links": 9
+    },
+    "40_Evergreens/What is language's fundamental unit .md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1226,
-      "Create": 1884,
-      "Link": 2862,
+      "Create": 1885,
+      "Link": 2865,
       "Expand": 59
     },
     "40 Evergreens": {
@@ -8742,9 +8747,9 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 35,
+      "0": 38,
       "1": 36,
-      "2": 0,
+      "2": 1,
       "3": 2,
       "4": 0,
       "5": 0,
@@ -8797,7 +8802,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 155,
-      "Tue": 465,
+      "Tue": 469,
       "Wed": 1053,
       "Thu": 207,
       "Fri": 38,
@@ -8870,6 +8875,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>",
         "<a class=\"internal-link\" href=\"We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
         "<a class=\"internal-link\" href=\"Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
@@ -8919,8 +8925,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/natural selection.md\"> natural selection </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Moral majority.md\"> Moral majority </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Monolithic Kernel.md\"> Monolithic Kernel </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Minority stress.md\"> Minority stress </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Micro Kernel.md\"> Micro Kernel </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Minority stress.md\"> Minority stress </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
@@ -8976,6 +8981,7 @@
         "<a class=\"internal-link\" href=\"{WORDCOUNT.md\"> {WORDCOUNT </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
         "<a class=\"internal-link\" href=\"20_Entry/203 NOW.md\"> 203 NOW </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
@@ -9025,8 +9031,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/compassion.md\"> compassion </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conscious.md\"> conscious </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Conservatism.md\"> Conservatism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Consumer Culture.md\"> Consumer Culture </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Consumerism.md\"> Consumerism </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Consumer Culture.md\"> Consumer Culture </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9087,6 +9092,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/hope.md\"> hope </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Vim.md\"> Vim </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoLife after a cult.md\"> videoLife after a cult </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -9135,9 +9142,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/evergreen notes.md\"> evergreen notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/topic note.md\"> topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
