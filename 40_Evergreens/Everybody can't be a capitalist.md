@@ -3,10 +3,11 @@ created: 2021-11-02
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-14
-sr-interval: 5
+sr-due: 2021-11-29
+sr-interval: 13
 sr-ease: 210
 ---
+
 #### [[Everybody can't be a capitalist]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 One of the successes of the [[Rise of Modern Conservatism]] is to have convinced [[Conservatism|Conservatives]] that capitalism works for the working class by demonizing [[Communism]] and shifting the [[overton window]] so far right: [[McCarthyism is an attack on totalitarianism not communism]] 
@@ -20,5 +21,3 @@ One of the successes of the [[Rise of Modern Conservatism]] is to have convinced
 
 **Topics**:: [[capitalism]], [[human advancement]], [[Marxism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

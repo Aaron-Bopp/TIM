@@ -16,7 +16,7 @@ When meet a new person or interact with a new situation, we fill in assumed info
 [^1]: [[Humans love to group eachother]]
 [^2]: ![[textbook_Hyde&Elsequest_pyschology of women and gender#Chapter 3]]
 
-[[Stereotypes are social constructs]], but they have real effects, e.g. [[stereotype threat]], [[Insecure material conditions increase cognitive load and reduces outcomes]]
+[[Stereotypes are social constructs]], but they have real effects, e.g. [[stereotype threat]], [[Insecure material conditions increase cognitive load and reduce outcomes]]
 
 ### <hr class="footnote"/>
 

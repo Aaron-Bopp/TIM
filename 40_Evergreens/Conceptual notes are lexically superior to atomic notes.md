@@ -3,14 +3,14 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-12
-sr-interval: 3
+sr-due: 2021-11-25
+sr-interval: 9
 sr-ease: 172
 ---
 
 #### [[Conceptual notes are lexically superior to atomic notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/DEOBFUSCATE 
+#TO/TEND/PRUNE 
 
 You may be asking, aren't these the same concept? In theory yes, but atomic notes is a misnomer inspired by physical limitations that has affected the way people approach a [[Zettlekassen]] style [[knowledge management]] system in the modern day. At first thought (unless you're a chemist) an atom is a uniformly sized building block. It never gets bigger, it never gets smaller, and it can fit together to create molecules. This is similar to the [[Niklas Luhmann]]'s original [[Zettlekassen]], which enscribed all notes on 3x5 cards and then layed them out to create larger thoughts, but in the era of computer's this process is different. We no longer have the limitation of a small card that can easily fit into filing cabinets, and we no longer have access to the 3d plane. Trying to exactly recreate a Zettlekassen with these limitations would introduce [[friction]]: [[Friction is the number one hindrance to learning]]
 

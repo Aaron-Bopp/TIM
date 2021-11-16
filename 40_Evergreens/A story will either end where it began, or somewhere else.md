@@ -3,11 +3,11 @@ created: 2021-11-09
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-12
-sr-interval: 1
+sr-due: 2021-11-22
+sr-interval: 6
 sr-ease: 210
 ---
-#### [[A story will end where it began, or somewhere else]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A story will either end where it began, or somewhere else]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is an obvious but profound fact.
 
@@ -17,7 +17,7 @@ This is an obvious but profound fact.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[socialization|inter-personal communication]], [[storytelling]], [[TTRPG]]

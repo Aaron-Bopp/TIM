@@ -3,14 +3,15 @@ created: 2021-11-09
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-12
-sr-interval: 1
+sr-due: 2021-11-21
+sr-interval: 5
 sr-ease: 210
 ---
 #### [[Communities are support systems]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is something we have lost as a part of [[individualism|individualistic]] [[America|american]] [[culture]].
 
+- [[Communities are knowledge graphs]]
 
 ### <hr class="footnote"/>
 

@@ -1,8 +1,8 @@
 ---
 created: 2021-05-03
 tags: node/evergreen, node/personal
-sr-due: 2021-11-13
-sr-interval: 7
+sr-due: 2021-12-08
+sr-interval: 22
 sr-ease: 251
 ---
 
@@ -20,7 +20,9 @@ Despite all that I still think [[Faith can be a useful tool for grounding yourse
 
 ##### How has my worldview evolved since leaving the church?
 
-I went through a time of [[depression]], where fell into the fallacy that [[Sadness is enlightenment and happiness is delusion]], because I was really struggling with realizing the injustice of the world[^2] and with forgiving my [[parents]]. [^3]  But I started to realize, [[Realism must acknowledge optimism's existence and effectiveness]].
+I went through a time of [[depression]], where fell into the fallacy that [[Sadness is enlightenment and happiness is delusion]], because I was really struggling with realizing the injustice of the world[^2] and with forgiving my [[parents]]. [^3] As part of my [[self-actualization]], I started to forgive my parents: [[Children in traumatic households expect more love than their parents can give|Parents will not be able to protect their children from every source of trauma]].
+
+[[Realism must acknowledge optimism's existence and effectiveness]]
 
 My feelings being a follower of Jesus have somewhat mellowed with time, but my feelings towards the church has not, and I still believe [[The biblical christian God is evil and does not deserved to be worshipped]]
 
@@ -35,7 +37,7 @@ I have started to look other belief systems to contrast them to [[Christianity]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN 
+**Status**:: #EVER/GREEN/PRUNE 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[belief systems]], [[worldview]], [[faith]], [[self-love]], [[self-hate]], [[Evangelicalism]]

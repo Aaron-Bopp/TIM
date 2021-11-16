@@ -3,10 +3,11 @@ created: 2021-10-23
 aliases:
   - Acknowledging the suffering of the world and defying it anyway
 tags: node/evergreen
-sr-due: 2021-11-14
-sr-interval: 10
+sr-due: 2021-12-10
+sr-interval: 24
 sr-ease: 191
 ---
+
 #### [[True optimism is acknowledging the suffering of the world and defying it anyway]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 True optimism is an evolution of hope, becaues [[Hope is not optimism it is a practice for producing change]], and true optimism is the fulfillment of this mindset.
@@ -22,4 +23,3 @@ The best worldviews focus on producing this mindset e.g. [[Bhuddism outlines a p
 
 **Topics**:: [[optimism]], [[pessimism]], [[realism]], [[human experience]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

@@ -27,7 +27,7 @@ For example, because [[Trans children will repress their dysphoria if they have 
 
 ##### Cause:: material insecurity
 
-Material insecurity can create this sensation: [[Insecure material conditions increase cognitive load and reduces outcomes]]. In recent years this has taken the form of [[existential dread]] as [[climate change]] looms and billionaires grow ever richer, people fathom the peril we are in. This leads to increasing levels of [[anxiety]] and [[depression]] as people try to grapple with this uncurable anxiety: [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
+Material insecurity can create this sensation: [[Insecure material conditions increase cognitive load and reduce outcomes]]. In recent years this has taken the form of [[existential dread]] as [[climate change]] looms and billionaires grow ever richer, people fathom the peril we are in. This leads to increasing levels of [[anxiety]] and [[depression]] as people try to grapple with this uncurable anxiety: [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
 
 ##### Cause:: mental illness
 

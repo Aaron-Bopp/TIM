@@ -3,8 +3,8 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-13
-sr-interval: 9
+sr-due: 2021-12-07
+sr-interval: 21
 sr-ease: 186
 ---
 
@@ -18,6 +18,8 @@ sr-ease: 186
  
  Various experiences of gender dysphoria:
  - [[Gender Dysphoria is based in a intrinsic wrongness of self]]
+ - [[A repressed identity creates a mistrust of self-love and self-esteem]]
+- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
 
 ### <hr class="footnote"/>
 

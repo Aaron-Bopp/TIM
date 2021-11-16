@@ -19,7 +19,7 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 	- Acutely aware of [[social discomfort]]
 		- [[Anxiety should be a tool at your disposal not an impedance to your life]]
 - Causes
-	- [[Insecure material conditions increase cognitive load and reduces outcomes]]
+	- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 		- [[Your anxiety knows your insecurities better than you do]]
 	- [[childhood trauma]] can create a person predisposed to social [[anxiety]]
 		- [[There aren't any downsides to working through trauma]]

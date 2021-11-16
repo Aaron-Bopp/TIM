@@ -4653,7 +4653,7 @@
     "40_Evergreens/Any experience of gender dysphoria is acceptable.md": {
       "size": 1359,
       "tags": 2,
-      "links": 12
+      "links": 14
     },
     "40_Evergreens/Any experience of gender is acceptable.md": {
       "size": 1028,
@@ -4807,7 +4807,7 @@
     },
     "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md": {
       "size": 1187,
-      "tags": 5,
+      "tags": 6,
       "links": 13
     },
     "40_Evergreens/How to title your notes.md": {
@@ -4867,8 +4867,8 @@
     },
     "40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md": {
       "size": 625,
-      "tags": 2,
-      "links": 6
+      "tags": 3,
+      "links": 9
     },
     "40_Evergreens/MAGA is built off nostalgia not facts.md": {
       "size": 694,
@@ -4901,9 +4901,9 @@
       "links": 10
     },
     "40_Evergreens/My Deconstruction journey.md": {
-      "size": 4316,
+      "size": 5156,
       "tags": 3,
-      "links": 43
+      "links": 45
     },
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md": {
       "size": 3556,
@@ -5188,7 +5188,7 @@
     "40_Evergreens/Topics are terms that are too broadly defined.md": {
       "size": 893,
       "tags": 3,
-      "links": 5
+      "links": 6
     },
     "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable.md": {
       "size": 1061,
@@ -6592,8 +6592,8 @@
     },
     "40_Evergreens/The Politicization of the Christian Church.md": {
       "size": 1107,
-      "tags": 1,
-      "links": 14
+      "tags": 2,
+      "links": 15
     },
     "40_Evergreens/Negative influences are stronger than positive influences.md": {
       "size": 0,
@@ -6880,11 +6880,6 @@
       "tags": 1,
       "links": 25
     },
-    "40_Evergreens/Insecure material conditions increase cognitive load and reduces outcomes.md": {
-      "size": 1067,
-      "tags": 2,
-      "links": 12
-    },
     "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md": {
       "size": 1912,
       "tags": 2,
@@ -7073,17 +7068,12 @@
     "40_Evergreens/Communities are support systems.md": {
       "size": 0,
       "tags": 2,
-      "links": 7
+      "links": 8
     },
     "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md": {
       "size": 0,
       "tags": 2,
       "links": 8
-    },
-    "40_Evergreens/A story will end where it began, or somewhere else.md": {
-      "size": 0,
-      "tags": 3,
-      "links": 5
     },
     "30_Topics/31_Stubs/validation.md": {
       "size": 0,
@@ -8729,14 +8719,24 @@
       "size": 0,
       "tags": 2,
       "links": 4
+    },
+    "40_Evergreens/A story will either end where it began, or somewhere else.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 5
+    },
+    "40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md": {
+      "size": 1067,
+      "tags": 2,
+      "links": 12
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1226,
+      "Refactor": 1228,
       "Create": 1885,
-      "Link": 2865,
-      "Expand": 59
+      "Link": 2874,
+      "Expand": 60
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8752,7 +8752,7 @@
       "2": 1,
       "3": 2,
       "4": 0,
-      "5": 0,
+      "5": 12,
       "6": 0,
       "7": 0,
       "8": 0,
@@ -8802,7 +8802,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 155,
-      "Tue": 469,
+      "Tue": 481,
       "Wed": 1053,
       "Thu": 207,
       "Fri": 38,
@@ -8822,6 +8822,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
@@ -8871,7 +8872,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>"
       ],
       "Created": [
@@ -8928,6 +8928,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Minority stress.md\"> Minority stress </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -8976,11 +8978,12 @@
         "<a class=\"internal-link\" href=\"20_Entry/202 INDEX.md\"> 202 INDEX </a>",
         "<a class=\"internal-link\" href=\"203 NOW.md\"> 203 NOW </a>",
         "<a class=\"internal-link\" href=\"202 INDEX.md\"> 202 INDEX </a>",
-        "<a class=\"internal-link\" href=\"204 Me.md\"> 204 Me </a>",
-        "<a class=\"internal-link\" href=\"201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"{WORDCOUNT.md\"> {WORDCOUNT </a>"
+        "<a class=\"internal-link\" href=\"204 Me.md\"> 204 Me </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
         "<a class=\"internal-link\" href=\"20_Entry/203 NOW.md\"> 203 NOW </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -9028,10 +9031,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cognitive dissonance.md\"> cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Communism.md\"> Communism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/community.md\"> community </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/compassion.md\"> compassion </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conscious.md\"> conscious </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Conservatism.md\"> Conservatism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Consumer Culture.md\"> Consumer Culture </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/compassion.md\"> compassion </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9092,6 +9092,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/hope.md\"> hope </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are support systems.md\"> Communities are support systems </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Vim.md\"> Vim </a>",
@@ -9136,13 +9142,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/evergreen notes.md\"> evergreen notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/topic note.md\"> topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

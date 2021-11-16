@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-13
-sr-interval: 7
+sr-due: 2021-12-06
+sr-interval: 20
 sr-ease: 230
 ---
 #### [[Prioritize organization over categorization to avoid wasted energy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

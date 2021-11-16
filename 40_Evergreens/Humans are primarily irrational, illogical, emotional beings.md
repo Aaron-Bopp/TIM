@@ -3,8 +3,8 @@ created: 2021-11-06
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-14
-sr-interval: 5
+sr-due: 2021-12-01
+sr-interval: 15
 sr-ease: 231
 ---
 
@@ -49,9 +49,9 @@ Across the hill you find a bush! Aha! If we had walked the other way, the bush w
     - disorganization
     - falling victim to confidence tricks
 
-These more contemporary normative conceptions of what constitutes a manifestation of irrationality are difficult to demonstrate empirically because it is not clear by whose standards we are to judge the behavior rational or irrational. [^6]
+These more contemporary normative conceptions of what constitutes a manifestation of irrationality are difficult to demonstrate empirically because it is not clear by whose standards we are to judge the behavior rational or irrational. [^5]
 
-[^6]: https://en.wikipedia.org/wiki/Irrationality
+[^4]: https://en.wikipedia.org/wiki/Irrationality
 
 - [[We carry our childhood wounds into adulthood]]
 	- [[Our ego is our subconscious defense of our self]]
@@ -66,9 +66,9 @@ This is a fundamental fact behind [[human advancement]].
 Pattern recoginition is one of the main things that set us apart from other species, but we are far more subject to our environments than we think.
 
 Despite the fact these traits have been a neccesary part of [[human survival]], they are not purely positive. 
-Much of human [[suffering]] has been the fulfillment of these behaviors in the hands of people with power, and on an individual level, the stubborness that these produce warps our [[self-image]] and [[self-perception]].[^5]  
+Much of human [[suffering]] has been the fulfillment of these behaviors in the hands of people with power, and on an individual level, the stubborness that these produce warps our [[self-image]] and [[self-perception]].[^6]  
 
-[^4]: [[Self-hatred is born out of dissonance between self-image and self-perception]]
+[^5]: [[Self-hatred is born out of dissonance between self-image and self-perception]]
 
 - [[The church will fail if christians keep aligning themselves with hate instead of love]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]

@@ -13,7 +13,7 @@ parent: [[anxiety]]
 - [[socialization]]
 	- [[social anxiety]]
 	- [[self-hate]]
-		- [[Insecure material conditions increase cognitive load and reduces outcomes]]
+		- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 		- [[Constantly working on yourself is a form a self-hatred]]
 
 

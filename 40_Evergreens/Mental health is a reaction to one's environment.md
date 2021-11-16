@@ -28,6 +28,6 @@ Ways to alter our environment:
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: [[ADHD]], [[gender dysphoria]], [[depression]]
-[^2]: [[Insecure material conditions increase cognitive load and reduces outcomes]]
+[^2]: [[Insecure material conditions increase cognitive load and reduce outcomes]]
 [^3]: [[capitalism]]
 [^4]: [[Your anxiety knows your insecurities better than you do]]

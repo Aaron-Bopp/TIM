@@ -3,12 +3,14 @@ created: 2021-10-10
 tags: node/evergreen, node/question
 aliases:
   - null
-sr-due: 2021-11-12
-sr-interval: 3
+sr-due: 2021-11-26
+sr-interval: 10
 sr-ease: 150
 ---
 #### [[How the patriarchy effects young men's understanding of masculinity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 #TO/TEND/REFACTOR title #TO/DO/WRITE/ANSWER 
+
+#TO/DO/FIND psychology notes related to this
 
 > Those people who speak of masculinity as an essence, as an inborn characteristic, are confusing [[masculinity]] with [[masculinism]], the masculine ideology. Masculinism is the ideology that justifies and naturalizes male domination.
 > 

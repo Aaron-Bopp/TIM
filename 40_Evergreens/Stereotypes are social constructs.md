@@ -6,7 +6,7 @@ tags: node/evergreen
 ---
 #### [[Stereotypes are social constructs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- [[Insecure material conditions increase cognitive load and reduces outcomes|Sterotype threat increases cognitive load and reduces outcomes]]
+- [[Insecure material conditions increase cognitive load and reduce outcomes|Sterotype threat increases cognitive load and reduces outcomes]]
 - [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]
 - [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]
 ### <hr class="footnote"/>

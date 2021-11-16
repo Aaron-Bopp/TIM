@@ -3,10 +3,11 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-14
-sr-interval: 6
+sr-due: 2021-12-04
+sr-interval: 18
 sr-ease: 230
 ---
+
 #### [[Nodes in the second brain are an abstraction of our first brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 In our first brain there is no such thing as "fragility" there is only learning and forgetting, but in the second brain learning doesn't happen on it's own and forgetting is impossible: [[The fragility of nodes in a second brain]]
@@ -22,5 +23,3 @@ The easiest way that we can surpass the first braing is *permanency.* Data can s
 
 **Topics**:: [[second brain]], [[My TIM]], [[web of thought]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

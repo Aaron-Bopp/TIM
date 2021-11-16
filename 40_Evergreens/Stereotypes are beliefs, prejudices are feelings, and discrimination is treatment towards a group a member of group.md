@@ -12,7 +12,7 @@ date modified: Monday, November 1st 2021, 2:26:21 pm
 [[Stereotype]]s are beliefs => [[prejudice]]s are feelings => [[discrimination]] is treatment towards a group a member of group
 
 - [[stereotype threat]]
-- [[Insecure material conditions increase cognitive load and reduces outcomes]]
+- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 - [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]
 - [[Stereotypes are social constructs]]
 
