@@ -3,12 +3,14 @@ created: 2021-10-23
 aliases:
   - A bad decision for a beginner is not the same a bad decision for an expert
 tags: node/evergreen
-sr-due: 2021-11-10
-sr-interval: 1
+sr-due: 2021-11-21
+sr-interval: 6
 sr-ease: 170
 ---
 
 #### [[The more mistakes you've fixed the more bad decisions you can afford]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+![['Don't be the reason that rules exist' - Nathan Eloe#qoute]]
 
 Gaining experience requires failure
 
@@ -22,7 +24,9 @@ A bad decision for a beginner is one the will not teach them how to succeed or t
 
  ##### An experienced note taker know when to just delete a note.
 
- When I stared my [[second brain]], I made a lot of really specific [[evergreen notes]] and had no methodology for surfacing old notes except by stumbling upon them. They were linked into other notes, but there were so many new notes being created that many fell through the cracks leading me to duplicate thoughts because I could not find the relevant note. When I started to use [[Spaced repetition]] for my notes, these "duplicate" notes started coming out through the woodwork and I had to spend time refactoring them and deciding how to incorporate these notes: [[Friction is the number one hindrance to learning]].
+ When I stared my [[second brain]], I made a lot of really specific [[evergreen notes]] and had no methodology for surfacing old notes except by stumbling upon them. They were linked into other notes, but there were so many new notes being created that many fell through the cracks, leading me to duplicate thoughts because I could not find the relevant note. When I started to use [[Spaced repetition]] for my notes, these "duplicate" notes started coming out through the woodwork and I had to spend time refactoring them and deciding how to incorporate these notes: [[Friction is the number one hindrance to learning]].
+ 
+ If you [[Write your notes like you're planting an evergreen forest]], you make it easy to delete notes.
 
 ### <hr class="footnote"/>
 
@@ -31,4 +35,3 @@ A bad decision for a beginner is one the will not teach them how to succeed or t
 
 **Topics**:: [[Software Development]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

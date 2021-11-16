@@ -9,24 +9,108 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+            "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
             "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "5bb43b5e474a2892",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Do we have free will.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":10.618182095614348}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.016666666915019352}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.11666666467984517}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":98},\"to\":{\"line\":21,\"ch\":98}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":8.857142857142858}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":95},\"to\":{\"line\":18,\"ch\":95}},\"scroll\":9.27272773511482}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
               "leaf": "5bb43b5e474a2892",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":25.11069167035181}"
+              "eState": "{\"scroll\":8.535433191014087}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":93},\"to\":{\"line\":76,\"ch\":93}},\"scroll\":59.91003558129976}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5bb43b5e474a2892",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":0},\"to\":{\"line\":70,\"ch\":0}},\"scroll\":58.77999488830551}"
             },
             {
               "leaf": "5bb43b5e474a2892",
@@ -54,6 +138,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -62,13 +150,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loving yourself",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -77,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -86,6 +178,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -94,6 +190,10 @@
             "state": {
               "type": "dictionary-view",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -102,10 +202,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -117,10 +221,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,6 +249,10 @@
             "state": {
               "type": "graph-analysis",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -149,6 +261,10 @@
             "state": {
               "type": "juggl_nodes",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -157,6 +273,10 @@
             "state": {
               "type": "juggl_style",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -165,6 +285,10 @@
             "state": {
               "type": "RSS_FEED",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -173,6 +297,36 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "afac3dc49b00c8ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "001337520a72cfd3",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -187,7 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                "file": "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,10 +421,14 @@
                   "repelStrength": 17.4588235294118,
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
-                  "scale": 0.43847315648331,
+                  "scale": 0.3687545340589428,
                   "close": true
                 }
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -279,6 +437,10 @@
             "state": {
               "type": "graph",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -289,15 +451,15 @@
   },
   "active": "5bb43b5e474a2892",
   "lastOpenFiles": [
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-    "40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md",
-    "20_Entry/203 NOW.md",
-    "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 12 S21 soln.pdf",
-    "00_Meta/Primary Sources/Classes/Discrete Math/BB Homework 11 S21 soln.pdf",
-    "10_Sources/podcastINVCEL.md",
-    "10_Sources/notes_MongoDB and Mongoose.md",
-    "00_Meta/Templates/buttons.md",
-    "00_Meta/Templates/FLASHCARD.md",
-    "30_Topics/33_Tools/Templater.md"
+    "40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md",
+    "40_Evergreens/Do we have free will.md",
+    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
+    "10_Sources/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md",
+    "10_Sources/Personal/Nathan Eloe.md",
+    "40_Evergreens/The actual work of being a good person isn't explored by Christianity.md",
+    "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
+    "40_Evergreens/Sympathy does not dissallow judgment.md",
+    "40_Evergreens/Neurodiverse people can use their brain to their advantage.md",
+    "40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md"
   ]
 }

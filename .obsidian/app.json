@@ -51,9 +51,10 @@
     "downscalePercent": 100
   },
   "showLineNumber": true,
-  "useTab": true,
+  "useTab": false,
   "lineWrap": true,
   "defaultViewMode": "preview",
   "showFrontmatter": true,
-  "livePreview": false
+  "livePreview": false,
+  "smartIndentList": false
 }

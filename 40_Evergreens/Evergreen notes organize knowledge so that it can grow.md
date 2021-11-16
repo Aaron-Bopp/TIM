@@ -3,9 +3,9 @@ created: 2021-11-09
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-10
-sr-interval: 1
-sr-ease: 230
+sr-due: 2021-12-05
+sr-interval: 20
+sr-ease: 250
 ---
 
 #### [[Evergreen notes organize knowledge so that it can grow]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2212290,
+  "lastSavedStatusID": 2216149,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -298,7 +298,8 @@
     "10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md": "11809941",
     "10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md": "11810009",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching-2.md": "11731014",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md": "11862032"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md": "11862032",
+    "10_Sources/Readwise/Articles/articles_Sexism may be harmful to men's mental health.md": "11893899"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",

@@ -3,8 +3,8 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-10
-sr-interval: 2
+sr-due: 2021-11-26
+sr-interval: 11
 sr-ease: 227
 ---
 #### [[Our brain will do anything it can to protect itself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -31,7 +31,7 @@ Possibly an answer to [[What is the cognitive effect of living in an unjust worl
 	- [[We value our biggest insecurities because they protect us from the biggest threats]]
 	- [[Your anxiety knows your insecurities better than you do]]
  	
-This is the basis for [[PTSD]], [[anxiety]], [[DID (Dissociative Idenitty Disorder)]]
+This is the basis for [[PTSD]], [[anxiety]], [[DID (Dissociative Identity Disorder)]]
 
 This ability to pattern match is a major part of why we have survived as a species (and how we may evolve see [[neurodiversity]]). [[Human's will find explanations for inexplainable things]].
 

@@ -41,6 +41,18 @@ Across the hill you find a bush! Aha! If we had walked the other way, the bush w
 
 ##### Humans are irrational
 
+- It is more specifically described as an action or opinion given through inadequate use of reason, or through emotional distress or cognitive deficiency. Irrational behaviors of individuals include:
+    - taking offense or becoming angry about a situation that has not yet occurred
+    - expressing emotions exaggeratedly (such as crying hysterically)
+    - maintaining unrealistic expectations
+    - engaging in irresponsible conduct such as problem intoxication
+    - disorganization
+    - falling victim to confidence tricks
+
+These more contemporary normative conceptions of what constitutes a manifestation of irrationality are difficult to demonstrate empirically because it is not clear by whose standards we are to judge the behavior rational or irrational. [^6]
+
+[^6]: https://en.wikipedia.org/wiki/Irrationality
+
 - [[We carry our childhood wounds into adulthood]]
 	- [[Our ego is our subconscious defense of our self]]
 - [[Our brain will do anything it can to protect itself]]
@@ -63,10 +75,16 @@ Much of human [[suffering]] has been the fulfillment of these behaviors in the h
 - [[Identity is your understanding of yourself vs your interaction with the world]]
 	- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
 
+##### Is it worth it?
+
+- [[What is the cognitive effect of living in an unjust world]]
+- [[Happiness is enlightenment and sadness is delusion]]
+- [[Realism must acknowledge optimism's existence and effectiveness]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN/GROWING  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[mental health]], [[mental illness]], [[Neuroscience]] 
+**Topics**:: [[mental health]], [[self]], [[Evolutionary Pyschology]], [[political strategy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

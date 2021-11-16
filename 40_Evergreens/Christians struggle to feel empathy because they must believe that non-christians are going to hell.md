@@ -16,6 +16,8 @@ How can you love someone you know is condemned to death? How can you bear to liv
 
 If christian's were feeling empathy fully for these people that would recieve enternal punishment they wouldn't be able to go on, they wouldn't be able to do anything but evangelize or praise god for allowing them to be spared [[Human's will find explanations for inexplainable things]] and Christians will find endless rationalizations around why this is something they can accept, this [[cognitive dissonance]] is fueled by the fear that [[The biblical christian God is evil and does not deserved to be worshipped]] because [[Rationalizations are defense-mechanisms against strong emotions]]. 
 
+[[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN  

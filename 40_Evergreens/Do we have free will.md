@@ -3,8 +3,8 @@ created: 2021-11-06
 aliases:
   - null
 tags: node/evergreen, node/question 
-sr-due: 2021-11-10
-sr-interval: 1
+sr-due: 2021-11-24
+sr-interval: 9
 sr-ease: 210
 ---
 #### [[Do we have free will]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
