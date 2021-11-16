@@ -4843,7 +4843,7 @@
     "40_Evergreens/Is your self-talk bullying you or bodyguarding you.md": {
       "size": 648,
       "tags": 3,
-      "links": 5
+      "links": 6
     },
     "40_Evergreens/Karma is based in the law of cause and effect.md": {
       "size": 571,
@@ -6598,7 +6598,7 @@
     "40_Evergreens/Negative influences are stronger than positive influences.md": {
       "size": 0,
       "tags": 3,
-      "links": 14
+      "links": 15
     },
     "10_Sources/Readwise/Articles/articles_How The System Works — The Enneagram Institute.md": {
       "size": 15084,
@@ -8735,7 +8735,7 @@
     "/": {
       "Refactor": 1228,
       "Create": 1885,
-      "Link": 2874,
+      "Link": 2876,
       "Expand": 60
     },
     "40 Evergreens": {
@@ -8752,7 +8752,7 @@
       "2": 1,
       "3": 2,
       "4": 0,
-      "5": 12,
+      "5": 14,
       "6": 0,
       "7": 0,
       "8": 0,
@@ -8802,7 +8802,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 155,
-      "Tue": 481,
+      "Tue": 483,
       "Wed": 1053,
       "Thu": 207,
       "Fri": 38,
@@ -9092,6 +9092,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/hope.md\"> hope </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\"> Is your self-talk bullying you or bodyguarding you </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
@@ -9140,8 +9142,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>"
       ],
       "Removed Tags from": [

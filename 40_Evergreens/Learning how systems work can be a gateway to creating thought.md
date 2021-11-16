@@ -1,9 +1,9 @@
 ---
 created: 2021-06-27
 tags: node/evergreen
-sr-due: 2021-11-15
-sr-interval: 13
-sr-ease: 266
+sr-due: 2021-11-23
+sr-interval: 7
+sr-ease: 246
 ---
 
 #### [[Learning how systems work can be a gateway to creating thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,7 +18,7 @@ One major example of this is [[Your second brain should be an inspirational hub 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[note writing]] 

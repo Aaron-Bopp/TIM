@@ -7,11 +7,8 @@
         "id": "195562d74aad7e8c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Hope is not optimism it is a practice for producing change.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
@@ -19,8 +16,32 @@
             {
               "leaf": "195562d74aad7e8c",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "195562d74aad7e8c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender segregation increases gendered play.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "195562d74aad7e8c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "195562d74aad7e8c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Negative influences are stronger than positive influences.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":9.242424011230469}"
+            },
+            {
+              "leaf": "195562d74aad7e8c",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hope is not optimism it is a practice for producing change.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":5.571428571428571}"
             },
             {
               "leaf": "195562d74aad7e8c",
@@ -111,30 +132,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\"}}",
               "eState": "{\"scroll\":1.914285659790039}"
-            },
-            {
-              "leaf": "195562d74aad7e8c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My Deconstruction journey.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":31},\"to\":{\"line\":39,\"ch\":31}},\"scroll\":24.939392841223498}"
-            },
-            {
-              "leaf": "195562d74aad7e8c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be an inspirational hub of creativity.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.621211658824576}"
-            },
-            {
-              "leaf": "195562d74aad7e8c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.171428680419922}"
-            },
-            {
-              "leaf": "195562d74aad7e8c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be an inspirational hub of creativity.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":7.657142639160156}"
             }
           ]
         }
@@ -187,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Hope is not optimism it is a practice for producing change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -220,7 +216,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Hope is not optimism it is a practice for producing change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -326,9 +321,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40_Evergreens/Hope is not optimism it is a practice for producing change.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -360,7 +353,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Hope is not optimism it is a practice for producing change.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -466,19 +458,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312
+    "width": 710.2000122070312,
+    "collapsed": true
   },
   "active": "195562d74aad7e8c",
   "lastOpenFiles": [
+    "40_Evergreens/Gender segregation increases gendered play.md",
+    "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+    "40_Evergreens/Negative influences are stronger than positive influences.md",
     "40_Evergreens/Hope is not optimism it is a practice for producing change.md",
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
     "40_Evergreens/Is your self-talk bullying you or bodyguarding you.md",
     "40_Evergreens/Human's have an inability to admit that they are wrong.md",
     "40_Evergreens/Everybody can't be a capitalist.md",
     "40_Evergreens/Republican voters do not hold their leaders accountable.md",
-    "40_Evergreens/Ronald Reagan invented modern conservatism.md",
-    "40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md",
-    "40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md",
-    "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md"
+    "40_Evergreens/Ronald Reagan invented modern conservatism.md"
   ]
 }

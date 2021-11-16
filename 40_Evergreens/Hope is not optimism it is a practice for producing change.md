@@ -3,8 +3,8 @@ created: 2021-08-09
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-15
-sr-interval: 6
+sr-due: 2021-12-01
+sr-interval: 15
 sr-ease: 210
 ---
 
@@ -22,7 +22,7 @@ If you can find [[hope]] within yourself or within other people its all worth it
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[hope]], [[optimism]], [[anger]], [[activism]]
