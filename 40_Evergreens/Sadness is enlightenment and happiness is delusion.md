@@ -8,6 +8,7 @@ sr-ease: 288
 aliases:
   - "Sadness is not enlightenment and happiness is not delusion"
   - "A intelligent view of the world is hopeless so hope is a delusion"
+  - "The fallacy that sadness is enlightenment and happiness is delusion"
 ---
 
 #### [[Sadness is enlightenment and happiness is delusion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

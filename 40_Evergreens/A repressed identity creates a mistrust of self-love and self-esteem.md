@@ -3,7 +3,7 @@ created: 2021-06-28
 tags: node/evergreen
 ---
 
-#### [[Repressed identity creates a mistrust of self-love and self-esteem]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A repressed identity creates a mistrust of self-love and self-esteem]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/PONDER/ME 
 

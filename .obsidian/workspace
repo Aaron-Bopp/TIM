@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "769aa4c90c7596a8",
+        "id": "38fc103ced6cb561",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
+            "file": "10_Sources/notes_MongoDB and Mongoose.md",
             "mode": "source"
           }
         },
@@ -17,55 +17,67 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "769aa4c90c7596a8",
+              "leaf": "38fc103ced6cb561",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":2.571428571428571}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_MongoDB and Mongoose.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
             },
             {
-              "leaf": "769aa4c90c7596a8",
+              "leaf": "38fc103ced6cb561",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children will imitate whatever is modeled for them.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":5.714285714285714}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":6.281818043101918}"
             },
             {
-              "leaf": "769aa4c90c7596a8",
+              "leaf": "38fc103ced6cb561",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Transformative justice is the alternative to punitive justice.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":26},\"to\":{\"line\":19,\"ch\":26}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Wealth Inequality creates a need for change.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":4.402138980314693}"
             },
             {
-              "leaf": "769aa4c90c7596a8",
+              "leaf": "38fc103ced6cb561",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can be taught to invalidate your own emotions.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.016666666915019352}"
-            },
-            {
-              "leaf": "769aa4c90c7596a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sometimes we can't grow until we change our environment.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\",\"mode\":\"preview\"}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "769aa4c90c7596a8",
+              "leaf": "38fc103ced6cb561",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The bible is god breathed.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":1.8327273282137784}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":28.573882322540808}"
             },
             {
-              "leaf": "769aa4c90c7596a8",
+              "leaf": "38fc103ced6cb561",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":6.385559687975942}"
             },
             {
-              "leaf": "769aa4c90c7596a8",
+              "leaf": "38fc103ced6cb561",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":10.946107832578198}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":1.0166065133435631}"
             },
             {
-              "leaf": "769aa4c90c7596a8",
+              "leaf": "38fc103ced6cb561",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":3.335740072202166}"
+            },
+            {
+              "leaf": "38fc103ced6cb561",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":1.6981949788999042}"
+            },
+            {
+              "leaf": "38fc103ced6cb561",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoDestiny Interviews Dr. K.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":12.209091186523438}"
+            },
+            {
+              "leaf": "38fc103ced6cb561",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -102,12 +114,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TO",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTimeReverse"
               }
             },
             "pane-relief:history-v1": {
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
+                "file": "10_Sources/notes_MongoDB and Mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
+                "file": "10_Sources/notes_MongoDB and Mongoose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,8 +191,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -261,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md"
+                "file": "10_Sources/notes_MongoDB and Mongoose.md"
               }
             },
             "pane-relief:history-v1": {
@@ -281,7 +292,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "84f4f33f118f4527",
@@ -293,7 +305,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
+                "file": "10_Sources/notes_MongoDB and Mongoose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -400,19 +412,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312
+    "width": 710.2000122070312,
+    "collapsed": true
   },
-  "active": "769aa4c90c7596a8",
+  "active": "38fc103ced6cb561",
   "lastOpenFiles": [
-    "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
-    "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
-    "40_Evergreens/Children will imitate whatever is modeled for them.md",
-    "40_Evergreens/Transformative justice is the alternative to punitive justice.md",
-    "40_Evergreens/You can be taught to invalidate your own emotions.md",
-    "40_Evergreens/Sometimes we can't grow until we change our environment.md",
-    "40_Evergreens/The bible is god breathed.md",
-    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md",
-    "40_Evergreens/Knowledge of the world is painful.md",
-    "40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md"
+    "10_Sources/notes_MongoDB and Mongoose.md",
+    "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
+    "40_Evergreens/Wealth Inequality creates a need for change.md",
+    "40_Evergreens/What is the difference between a evergreen note and a topic note.md",
+    "10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md",
+    "10_Sources/Mental Health/videoHealing from Festered Emotions.md",
+    "10_Sources/Mental Health/videoDrK and DrMike conversation.md",
+    "10_Sources/Mental Health/videoHow We're Shaped Mentally.md",
+    "10_Sources/Mental Health/videoDestiny Interviews Dr. K.md",
+    "10_Sources/Mental Health/videoLife after a cult.md"
   ]
 }

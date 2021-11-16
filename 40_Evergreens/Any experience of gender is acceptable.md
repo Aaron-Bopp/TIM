@@ -3,9 +3,9 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-12
-sr-interval: 15
-sr-ease: 280
+sr-due: 2022-01-24
+sr-interval: 70
+sr-ease: 300
 ---
 
 #### [[Any experience of gender is acceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -22,7 +22,7 @@ This beautiful because of it allows for such a [[diverse]] [[queer]] [[community
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[Queer]], [[transgender]]

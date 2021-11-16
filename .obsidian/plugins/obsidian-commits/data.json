@@ -4603,7 +4603,7 @@
     "40_Evergreens/A secure identity is the best defense against social anxiety.md": {
       "size": 1798,
       "tags": 2,
-      "links": 13
+      "links": 15
     },
     "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md": {
       "size": 594,
@@ -5000,11 +5000,6 @@
       "tags": 3,
       "links": 11
     },
-    "40_Evergreens/Repressed identity creates a mistrust of self-love and self-esteem.md": {
-      "size": 431,
-      "tags": 3,
-      "links": 6
-    },
     "40_Evergreens/Republican voters do not hold their leaders accountable.md": {
       "size": 1253,
       "tags": 2,
@@ -5326,9 +5321,9 @@
       "links": 8
     },
     "40_Evergreens/Your anxiety knows your insecurities better than you do.md": {
-      "size": 3008,
-      "tags": 3,
-      "links": 23
+      "size": 3642,
+      "tags": 5,
+      "links": 26
     },
     "00_Meta/Templates/1NEWTOPICNOTE.md": {
       "size": 187,
@@ -5603,7 +5598,7 @@
     "10_Sources/Mental Health/videoLife after a cult.md": {
       "size": 1718,
       "tags": 2,
-      "links": 5
+      "links": 9
     },
     "10_Sources/Mental Health/videoRejection Sensitivity.md": {
       "size": 1386,
@@ -7003,7 +6998,7 @@
     "40_Evergreens/The triad of ever increasing social anxiety.md": {
       "size": 1177,
       "tags": 3,
-      "links": 11
+      "links": 14
     },
     "30_Topics/32_Terms/stub notes.md": {
       "size": 0,
@@ -8517,7 +8512,7 @@
     },
     "20_Entry/203 NOW.md": {
       "size": 1144,
-      "tags": 0,
+      "tags": 1,
       "links": 3
     },
     "20_Entry/23 Note by type/TopicNotes.md": {
@@ -8710,23 +8705,33 @@
       "tags": 1,
       "links": 0
     },
-    "Stub notes are data structures for implicit knowledge gathering.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 9
+    "40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md": {
+      "size": 431,
+      "tags": 3,
+      "links": 6
     },
-    "We will evolve when we make learning as easy as thinking.md": {
+    "40_Evergreens/What makes a note evergreen.md": {
+      "size": 0,
+      "tags": 4,
+      "links": 12
+    },
+    "40_Evergreens/We will evolve when we make learning as easy as thinking.md": {
       "size": 0,
       "tags": 2,
       "links": 4
+    },
+    "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 9
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1222,
-      "Create": 1883,
-      "Link": 2847,
-      "Expand": 58
+      "Refactor": 1226,
+      "Create": 1884,
+      "Link": 2861,
+      "Expand": 59
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8759,8 +8764,8 @@
       "19": 60,
       "20": 87,
       "21": 136,
-      "22": 141,
-      "23": 108
+      "22": 151,
+      "23": 118
     },
     "40 Evergreens": {
       "0": 9,
@@ -8791,7 +8796,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 135,
+      "Mon": 155,
       "Tue": 464,
       "Wed": 1053,
       "Thu": 207,
@@ -8812,6 +8817,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
@@ -8861,10 +8867,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>",
         "<a class=\"internal-link\" href=\"We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
         "<a class=\"internal-link\" href=\"Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Sexism may be harmful to men's mental health.md\"> articles_Sexism may be harmful to men's mental health </a>",
@@ -8914,10 +8920,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Moral majority.md\"> Moral majority </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Monolithic Kernel.md\"> Monolithic Kernel </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Minority stress.md\"> Minority stress </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Micro Kernel.md\"> Micro Kernel </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/media.md\"> media </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Micro Kernel.md\"> Micro Kernel </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DID (Dissociative Identity Disorder).md\"> DID (Dissociative Identity Disorder) </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/index note.md\"> index note </a>",
@@ -8964,13 +8973,14 @@
         "<a class=\"internal-link\" href=\"202 INDEX.md\"> 202 INDEX </a>",
         "<a class=\"internal-link\" href=\"204 Me.md\"> 204 Me </a>",
         "<a class=\"internal-link\" href=\"201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"{WORDCOUNT.md\"> {WORDCOUNT </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/blame.md\"> blame </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>"
+        "<a class=\"internal-link\" href=\"{WORDCOUNT.md\"> {WORDCOUNT </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"20_Entry/203 NOW.md\"> 203 NOW </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
@@ -9016,12 +9026,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conscious.md\"> conscious </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Conservatism.md\"> Conservatism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Consumer Culture.md\"> Consumer Culture </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Consumerism.md\"> Consumerism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/counter-culture.md\"> counter-culture </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/creationism.md\"> creationism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Cultural Fundamentalism.md\"> Cultural Fundamentalism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/desire.md\"> desire </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DID (Dissociative Idenitty Disorder).md\"> DID (Dissociative Idenitty Disorder) </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Consumerism.md\"> Consumerism </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9082,6 +9087,15 @@
         "<a class=\"internal-link\" href=\"30_Topics/hope.md\"> hope </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoLife after a cult.md\"> videoLife after a cult </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The triad of ever increasing social anxiety.md\"> The triad of ever increasing social anxiety </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
@@ -9123,16 +9137,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Thinking About the Fact....md\"> tweets_Thinking About the Fact... </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mindfullness.md\"> mindfullness </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md\"> Stereotyping has the pyschological goal of comprehension and self-enhancement </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/Journal.md\"> Journal </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

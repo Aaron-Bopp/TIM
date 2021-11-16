@@ -20,7 +20,7 @@ Possibly an answer to [[What is the cognitive effect of living in an unjust worl
 - [[mental health]]
 	- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
 	- [[We carry our childhood wounds into adulthood]]
-		- [[Repressed identity creates a mistrust of self-love and self-esteem]]
+		- [[A repressed identity creates a mistrust of self-love and self-esteem]]
 		- [[Avoidance IS the most-efficient way of dealing with emotion]]
 		- [[Social anxiety isn't irrational it's just overcompensation]]
 	- [[How can parent's best help their children]]

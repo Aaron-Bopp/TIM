@@ -19,7 +19,7 @@ sr-ease: 151
 - [[self]]
     - [[Self-hatred is born out of dissonance between self-image and self-perception]]
     - [[Identity is your understanding of yourself vs your interaction with the world]]
-    - [[Repressed identity creates a mistrust of self-love and self-esteem]] #TO/TEND/DEOBFUSCATE 
+    - [[A repressed identity creates a mistrust of self-love and self-esteem]] #TO/TEND/DEOBFUSCATE 
 - results
     - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
     - [[We carry our childhood wounds into adulthood]]

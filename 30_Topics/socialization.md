@@ -8,6 +8,7 @@ aliases:
 - personality
 - socialize
 - inter-personal communication
+- social
 date modified: Sunday, October 3rd 2021, 11:32:52 pm
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
