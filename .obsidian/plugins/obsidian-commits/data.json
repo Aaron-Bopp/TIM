@@ -7723,7 +7723,7 @@
     "30_Topics/33_Tools/Vim.md": {
       "size": 2451,
       "tags": 1,
-      "links": 2
+      "links": 3
     },
     "30_Topics/31_Stubs/white supremacy.md": {
       "size": 216,
@@ -8730,7 +8730,7 @@
     "/": {
       "Refactor": 1226,
       "Create": 1884,
-      "Link": 2861,
+      "Link": 2862,
       "Expand": 59
     },
     "40 Evergreens": {
@@ -8742,7 +8742,7 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 34,
+      "0": 35,
       "1": 36,
       "2": 0,
       "3": 2,
@@ -8797,7 +8797,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 155,
-      "Tue": 464,
+      "Tue": 465,
       "Wed": 1053,
       "Thu": 207,
       "Fri": 38,
@@ -9087,6 +9087,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/hope.md\"> hope </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Vim.md\"> Vim </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoLife after a cult.md\"> videoLife after a cult </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -9136,8 +9137,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/topic note.md\"> topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md\"> tweets_Someone (Was It JKR Lol... </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Many People With ADD Ha....md\"> tweets_Many People With ADD Ha... </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

@@ -19,13 +19,11 @@ Q:: What is Atlas?
 A::
 A cloud based service for MongoDB
 
-Q::   The following code will create a User model from a userSchema
-
-`const User = compile(userSchema, mongoose)`
+Q:: The following code will create a User model from a userSchema  
 A::
-false
+`const User = ccompile(userSchema, mongoose)`
 
-Q::   In mongoose, we can use SQL to restrict search results on Number properties.
+Q:: In mongoose, we can use SQL to restrict search results on Number properties.
 A::
 false  
 
@@ -45,7 +43,7 @@ Q:: Given that user1 is an instance of a User, how can we store the instance in 
 A::
 User.save(user1, callback)  
 
-Q::   Which of the following kinds of data bases can be used by Express?
+Q:: Which of the following kinds of data bases can be used by Express?
 A::
 Both SQL and Mongo
 
@@ -65,16 +63,7 @@ Q:: Given that user1 is an instance of a User, how can we store the instance in 
 A::
 `user1.save with a callback`  
 
-Q::   If user1 is an instance of the User model, we can delete it from the MongoDB by doing
-
+Q:: If user1 is an instance of the User model, we can delete it from the MongoDB by doing  
 A::
-`user1.delete()``
-
-
-
-
-
-
-
-
+`user1.delete()`
 

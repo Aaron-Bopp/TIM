@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "38fc103ced6cb561",
+        "id": "195562d74aad7e8c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/notes_MongoDB and Mongoose.md",
+            "file": "40_Evergreens/What is language's fundamental unit .md",
             "mode": "source"
           }
         },
@@ -17,67 +17,43 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "38fc103ced6cb561",
+              "leaf": "195562d74aad7e8c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_MongoDB and Mongoose.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is language's fundamental unit .md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "38fc103ced6cb561",
+              "leaf": "195562d74aad7e8c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":6.281818043101918}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":10.19591842962771}"
             },
             {
-              "leaf": "38fc103ced6cb561",
+              "leaf": "195562d74aad7e8c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Wealth Inequality creates a need for change.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":4.402138980314693}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":2.2857142857142856}"
             },
             {
-              "leaf": "38fc103ced6cb561",
+              "leaf": "195562d74aad7e8c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":36},\"to\":{\"line\":20,\"ch\":36}},\"scroll\":0.549999992052714}"
+            },
+            {
+              "leaf": "195562d74aad7e8c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Q justifies conservatives discontent.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":33},\"to\":{\"line\":16,\"ch\":33}},\"scroll\":0}"
+            },
+            {
+              "leaf": "195562d74aad7e8c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md\",\"mode\":\"source\"}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "38fc103ced6cb561",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":28.573882322540808}"
-            },
-            {
-              "leaf": "38fc103ced6cb561",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":6.385559687975942}"
-            },
-            {
-              "leaf": "38fc103ced6cb561",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":1.0166065133435631}"
-            },
-            {
-              "leaf": "38fc103ced6cb561",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":3.335740072202166}"
-            },
-            {
-              "leaf": "38fc103ced6cb561",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":1.6981949788999042}"
-            },
-            {
-              "leaf": "38fc103ced6cb561",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoDestiny Interviews Dr. K.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":12.209091186523438}"
-            },
-            {
-              "leaf": "38fc103ced6cb561",
+              "leaf": "195562d74aad7e8c",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -133,14 +109,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/notes_MongoDB and Mongoose.md",
+                "file": "40_Evergreens/What is language's fundamental unit .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             },
             "pane-relief:history-v1": {
@@ -166,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/notes_MongoDB and Mongoose.md",
+                "file": "40_Evergreens/What is language's fundamental unit .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +167,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -272,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/notes_MongoDB and Mongoose.md"
+                "file": "40_Evergreens/What is language's fundamental unit .md"
               }
             },
             "pane-relief:history-v1": {
@@ -305,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/notes_MongoDB and Mongoose.md",
+                "file": "40_Evergreens/What is language's fundamental unit .md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -412,20 +389,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312,
-    "collapsed": true
+    "width": 710.2000122070312
   },
-  "active": "38fc103ced6cb561",
+  "active": "195562d74aad7e8c",
   "lastOpenFiles": [
+    "40_Evergreens/What is language's fundamental unit .md",
+    "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
+    "40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md",
+    "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
+    "40_Evergreens/Q justifies conservatives discontent.md",
+    "40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md",
+    "30_Topics/33_Tools/Vim.md",
     "10_Sources/notes_MongoDB and Mongoose.md",
     "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
-    "40_Evergreens/Wealth Inequality creates a need for change.md",
-    "40_Evergreens/What is the difference between a evergreen note and a topic note.md",
-    "10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md",
-    "10_Sources/Mental Health/videoHealing from Festered Emotions.md",
-    "10_Sources/Mental Health/videoDrK and DrMike conversation.md",
-    "10_Sources/Mental Health/videoHow We're Shaped Mentally.md",
-    "10_Sources/Mental Health/videoDestiny Interviews Dr. K.md",
-    "10_Sources/Mental Health/videoLife after a cult.md"
+    "40_Evergreens/Wealth Inequality creates a need for change.md"
   ]
 }

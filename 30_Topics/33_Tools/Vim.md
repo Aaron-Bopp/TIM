@@ -2,8 +2,8 @@
 created: 2021-10-11
 tags: node/topic/tool
 ---
-`$=customJS.dv_funcs.mentionedIn(dv)`
 
+`$=customJS.dv_funcs.mentionedIn(dv)`
 # [[Vim]] `$=customJS.dv_funcs.topicHeader(dv, this)`
  
 
@@ -17,4 +17,6 @@ tags: node/topic/tool
 
 <cite>[[articles_VSCodeVimVim Vim for Visual Studio Code|github.com]]</cite>
 
+# A tale as old as Vim
+![[Pasted image 20211116002504.png|ctr|400]]
 
