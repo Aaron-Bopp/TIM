@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
+            "file": "20_Entry/203 NOW.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,14 @@
             {
               "leaf": "195562d74aad7e8c",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 NOW.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":20},\"to\":{\"line\":4,\"ch\":20}},\"scroll\":0}"
+            },
+            {
+              "leaf": "195562d74aad7e8c",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.696969465775924}"
+              "eState": "{\"scroll\":2}"
             },
             {
               "leaf": "195562d74aad7e8c",
@@ -115,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
+                "file": "20_Entry/203 NOW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -148,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
+                "file": "20_Entry/203 NOW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -255,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md"
+                "file": "20_Entry/203 NOW.md"
               }
             },
             "pane-relief:history-v1": {
@@ -288,7 +294,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
+                "file": "20_Entry/203 NOW.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -399,6 +405,7 @@
   },
   "active": "195562d74aad7e8c",
   "lastOpenFiles": [
+    "20_Entry/203 NOW.md",
     "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
     "40_Evergreens/What is language's fundamental unit .md",
     "40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md",
@@ -407,7 +414,6 @@
     "40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md",
     "30_Topics/33_Tools/Vim.md",
     "10_Sources/notes_MongoDB and Mongoose.md",
-    "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
-    "40_Evergreens/Wealth Inequality creates a need for change.md"
+    "40_Evergreens/My worldview is not about conversion it is about acceptance.md"
   ]
 }
