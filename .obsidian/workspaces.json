@@ -634,12 +634,39 @@
             "id": "195562d74aad7e8c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                "mode": "source"
+              }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "leaf": "195562d74aad7e8c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/markup.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":38},\"to\":{\"line\":9,\"ch\":38}},\"scroll\":0.45000000794728595}"
+                },
+                {
+                  "leaf": "195562d74aad7e8c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Converting existing file formats to plaintext.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0.033333333830038704}"
+                },
+                {
+                  "leaf": "195562d74aad7e8c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":16.947760996985323}"
+                },
+                {
+                  "leaf": "195562d74aad7e8c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
                 {
                   "leaf": "195562d74aad7e8c",
                   "group": null,
@@ -735,30 +762,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\",\"mode\":\"source\"}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":30},\"to\":{\"line\":18,\"ch\":30}},\"scroll\":3.942856924874442}"
-                },
-                {
-                  "leaf": "195562d74aad7e8c",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":36},\"to\":{\"line\":18,\"ch\":36}},\"scroll\":1.7637794975220689}"
-                },
-                {
-                  "leaf": "195562d74aad7e8c",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Biology supports the validity of trans people.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":396},\"to\":{\"line\":16,\"ch\":396}},\"scroll\":5.571428571428571}"
-                },
-                {
-                  "leaf": "195562d74aad7e8c",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "195562d74aad7e8c",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":1.914285659790039}"
                 }
               ]
             }
@@ -811,6 +814,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -843,6 +847,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -867,13 +872,11 @@
                   "stack": []
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 442.5,
-        "collapsed": true
+        "width": 442.5
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -948,7 +951,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -980,6 +985,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
