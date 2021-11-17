@@ -101,24 +101,6 @@
       "key": "D"
     }
   ],
-  "sliding-panes-obsidian:toggle-sliding-panes": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "W"
-    }
-  ],
-  "sliding-panes-obsidian:toggle-sliding-panes-header-alt": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -337,6 +319,15 @@
         "Mod"
       ],
       "key": "C"
+    }
+  ],
+  "sliding-panes-obsidian:toggle-sliding-panes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
     }
   ]
 }

@@ -4,14 +4,14 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#node/evergreen/technique",
       "color": {
         "a": 1,
-        "rgb": 10693903
+        "rgb": 16711927
       }
     },
     {
@@ -25,28 +25,28 @@
       "query": "tag:node/topic/stub",
       "color": {
         "a": 1,
-        "rgb": 14855781
+        "rgb": 16758093
       }
     },
     {
       "query": "tag:node/topic/term",
       "color": {
         "a": 1,
-        "rgb": 12347689
+        "rgb": 16746798
       }
     },
     {
       "query": "tag:#node/topic",
       "color": {
         "a": 1,
-        "rgb": 15031071
+        "rgb": 16732165
       }
     },
     {
       "query": "tag:#node/source",
       "color": {
         "a": 1,
-        "rgb": 931323
+        "rgb": 9175295
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11660891579457362,
+  "scale": 0.5053890949440446,
   "close": true
 }

@@ -1,4 +1,0 @@
-- When encrypting a password and the user changes the password add in salt (random string) of characters to change the encryption process
-- Modern security
-	- Use more bits for key and for salt
-	- 

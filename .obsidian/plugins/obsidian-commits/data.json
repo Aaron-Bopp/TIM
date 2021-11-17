@@ -5150,11 +5150,6 @@
       "tags": 0,
       "links": 0
     },
-    "00_Meta/Templates/CONTENT.md": {
-      "size": 173,
-      "tags": 0,
-      "links": 2
-    },
     "00_Meta/Templates/DATAVIEWH3.md": {
       "size": 27,
       "tags": 0,
@@ -8810,17 +8805,22 @@
       "tags": 1,
       "links": 6
     },
-    "10_Sources/Security.md": {
+    "10_Sources/notes_WebDev FA21.md": {
       "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "00_Meta/Templates/SOURCETEMPLATE.md": {
+      "size": 173,
       "tags": 0,
-      "links": 0
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1346,
+      "Refactor": 1349,
       "Create": 1906,
-      "Link": 2942,
+      "Link": 2946,
       "Expand": 72
     },
     "40 Evergreens": {
@@ -8841,7 +8841,7 @@
       "6": 0,
       "7": 0,
       "8": 0,
-      "9": 305,
+      "9": 312,
       "10": 49,
       "11": 24,
       "12": 321,
@@ -8888,7 +8888,7 @@
     "/": {
       "Mon": 155,
       "Tue": 594,
-      "Wed": 1159,
+      "Wed": 1166,
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
@@ -9013,6 +9013,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/small government.md\"> small government </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/SOURCETEMPLATE.md\"> SOURCETEMPLATE </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Security.md\"> Security </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Politics.md\"> Politics </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/trauma.md\"> trauma </a>",
@@ -9061,11 +9063,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/34_People/@visakanv on Twitter.md\"> @visakanv on Twitter </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Niklas Luhmann.md\"> Niklas Luhmann </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Niklas Luhmann.md\"> Niklas Luhmann </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Intro to Obsidian.md\"> Intro to Obsidian </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/HTML.md\"> HTML </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Niklas Luhmann.md\"> Niklas Luhmann </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/my parents.md\"> my parents </a>",
         "<a class=\"internal-link\" href=\"Niklas Luhmann.md\"> Niklas Luhmann </a>",
@@ -9115,8 +9116,7 @@
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9178,6 +9178,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/Indigenous.md\"> Indigenous </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/SOURCETEMPLATE.md\"> SOURCETEMPLATE </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Me.md\"> 204 Me </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/transgender.md\"> transgender </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
@@ -9225,10 +9228,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are support systems.md\"> Communities are support systems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
@@ -9276,6 +9276,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/CONTENT.md\"> CONTENT </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/Moonlight Essay.md\"> Moonlight Essay </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md\"> It’s All About the Jeffersons - This American Life </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 2.md\"> Worksheet 2 </a>",
@@ -9325,8 +9326,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ]
     },
     "40 Evergreens": {

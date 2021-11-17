@@ -636,18 +636,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Entry/23 Note by type/File Sizes.md",
-                "mode": "preview"
+                "file": "10_Sources/notes_WebDev FA21.md",
+                "mode": "source"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
                   "leaf": "9ca0c068f5896717",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/File Sizes.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/SOURCETEMPLATE.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "9ca0c068f5896717",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_WebDev FA21.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":6.085714067731585}"
+                },
+                {
+                  "leaf": "9ca0c068f5896717",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
+                },
+                {
+                  "leaf": "9ca0c068f5896717",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/WORDCOUNT.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0.6732429099876696}"
+                },
+                {
+                  "leaf": "9ca0c068f5896717",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/File Sizes.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "9ca0c068f5896717",
@@ -738,30 +762,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Average links per note type.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/WORDCOUNT.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Commits.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/WORDCOUNT.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Me.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
                 }
               ]
             }
@@ -814,7 +814,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "20_Entry/23 Note by type/File Sizes.md",
+                    "file": "10_Sources/notes_WebDev FA21.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +847,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "20_Entry/23 Note by type/File Sizes.md",
+                    "file": "10_Sources/notes_WebDev FA21.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -876,7 +876,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5
+        "width": 442.5,
+        "collapsed": true
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -952,7 +953,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "20_Entry/23 Note by type/File Sizes.md"
+                    "file": "10_Sources/notes_WebDev FA21.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -985,7 +986,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "20_Entry/23 Note by type/File Sizes.md",
+                    "file": "10_Sources/notes_WebDev FA21.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
