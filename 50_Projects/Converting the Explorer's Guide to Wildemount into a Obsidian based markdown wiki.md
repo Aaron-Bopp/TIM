@@ -10,7 +10,7 @@ tags: node/evergreen
 This is a documentation of how I converted *[The Explorer's Guide to Wildemount](https://dnd.wizards.com/products/wildemount)* into Obsidian specific markdown.
 The goal for this project was to take a mainly linear campaign guide and convert it into a wiki-style Obsidian vault that could be used to run [[DnD (Dungeons and Dragons)]] campaigns in the setting. The results were quite successful:
 
-![[20210721Exandria.png|ctr]]
+![[20210721Exandria.png]]
 
 ## Background
 
@@ -44,25 +44,41 @@ If you are an [[TTRPG]] game master with a lot of motivation, or a novice progra
 
 ### A note on unfamiliar tools
 
-While I had experience going into this project, I do believe that these tools are entry level enough to be approached by a novice or non-programmer (yes, even [[Regex]]). There are plenty of resources out there for learning the basics, [^3] and I hope that this article can give you enough of a framework to go out and learn these tools. That said, this is still largely a manual process, and depending on how anal you are could suck up hours. If this isn't your cup of tea, I hope to design tools that are even more helpful in the future: [[Modular Markup Processor]]
+While I had experience going into this project, I do believe that these tools are entry level enough to be approached by a novice or non-programmer (yes, even [[Regex]]). There are plenty of resources out there for learning the basics, [^2] and I hope that this article can give you enough of a framework to go out and learn these tools. That said, this is still largely a manual process, and depending on how anal you are could suck up hours. If this isn't your cup of tea, I hope to design tools that are even more helpful in the future: [[Modular Markup Processor]]
 
-[^3]: [[Basic tools for working with plaintext]]
+[^2]: [[Basic tools for working with plaintext]]
 
 ## Process
 
 ### Getting the book into plaintext
 
-There are many tools for [[Converting existing file formats to plaintext]], but for this project I used a tool from Obsidian community member [[death.au]]: [MarkDownload - Obsidian Showcase](https://forum.obsidian.md/t/markdownload-markdown-web-clipper/173). One benefit we have here is that DndBeyond displays all of their source books in [[HTML]] which is much easier to parse into plaintext than [[PDF]]s, [^2] which is what most [[DnD (Dungeons and Dragons)]] source books are distributed as.
+There are many tools for [[Converting existing file formats to plaintext]], but for this project I used a tool from Obsidian community member [[death.au]]: [MarkDownload - Obsidian Showcase](https://forum.obsidian.md/t/markdownload-markdown-web-clipper/173). One benefit we have here is that DndBeyond displays all of their source books in [[HTML]] which is much easier to parse into plaintext than [[PDF]]s, [^3] which is what most [[DnD (Dungeons and Dragons)]] source books are distributed as.
 
-[^2]: [[Converting existing file formats to plaintext#Converting PDFs to markdown]]
+[^3]: [[Converting existing file formats to plaintext#Converting PDFs to markdown]]
 
 The EGtW is divided into eight sections, and twenty seperate webpages. I opened all these pages at once and used Markdownload to download all tabs. 
 
  ### Pre-process processing
  
- While Markdownload did a very good job, due to the nature [[markup]] formatting there are still some artifacts that will not work perfectly with [[Obsidian (software)|Obsidian]].
+ While MarkDownload did a very good job, due to the nature [[markup]] formatting there are still some artifacts that will not work perfectly with [[Obsidian (software)|Obsidian]].
  
- These mainly included embedded images in headers: `### ![]() Title` and other small idiosyncracies
+ These mainly included embedded images in headers: `### ![]() Title` and other small idiosyncracies.
+ 
+For this I used a [[Regex]] like this `^(#+)\s*(!\[[^\]]*\]\([^\)]+\))(.*)` and used [[Visual Studio Code]] to replace it like this `$1 $3\n$2`
+
+So not that bad, :D
+
+Just kidding, let me break it down a little more:
+1. `^(#+)` matches 1 or more `#`'s at the beginning of the line. The parenthesis denote capture group 1 (`$1`)
+2. `(!\[[^\]]*\]\([^\)]*\))` matches `![]()` aka our embedded image with any number of characters in between the brackets and any number between the parenthesis
+3. `(.*)` matches anything else until the end of the line
+4. Finally, we replace the whole line, putting our first and third capture group basically back where they were and our image on the line below (`\n` starts a new line)
+
+The final result would look like this:
+```md
+### Title
+![]()
+```
 
 ### Creating note structure
 
@@ -74,14 +90,19 @@ The EGtW is divided into eight sections, and twenty seperate webpages. I opened 
  
  Unfortunately, not all sections that I wanted to split had headings. Some were just denoted by **bold** text or others would have even more markdown, i.e `_**Text**_`. This was helpful as it made it easier to match desired lines using Regex, so for these sections I used [[Python]] scripts and created my own Regex statements to create the notes. 
  
- #TO/DO/CREATE gh gist
+ ### Finding and creating inline fields
  
-
-### <hr class="footnote"/>
-
-**Status**:: #EVER/SEED/UNPLANTED
-*edited `=this.file.mtime`*
-
-**Topics**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
+ ### Autolinking note titles
+ ## Obsidian Integration
+ ### Breadcrumbs
+ ### Dataview
+ ### Tags
+ 
+ ## Results
+ ### Graph
+ ### Dataview queries
+ ### New connections
+ 
+ 
+ #TO/DO/CREATE [[Github]] gists
+ 

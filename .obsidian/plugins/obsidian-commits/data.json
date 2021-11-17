@@ -8741,9 +8741,9 @@
       "links": 9
     },
     "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md": {
-      "size": 5764,
-      "tags": 3,
-      "links": 20
+      "size": 6807,
+      "tags": 2,
+      "links": 21
     },
     "30_Topics/31_Stubs/Github.md": {
       "size": 2379,
@@ -8789,14 +8789,24 @@
       "size": 0,
       "tags": 1,
       "links": 4
+    },
+    "10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md": {
+      "size": 9752,
+      "tags": 2,
+      "links": 1
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md": {
+      "size": 910,
+      "tags": 1,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1244,
-      "Create": 1899,
-      "Link": 2922,
-      "Expand": 70
+      "Refactor": 1246,
+      "Create": 1901,
+      "Link": 2928,
+      "Expand": 71
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8827,7 +8837,7 @@
       "17": 1457,
       "18": 169,
       "19": 84,
-      "20": 90,
+      "20": 101,
       "21": 136,
       "22": 151,
       "23": 118
@@ -8862,7 +8872,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 155,
-      "Tue": 569,
+      "Tue": 580,
       "Wed": 1053,
       "Thu": 207,
       "Fri": 38,
@@ -8882,6 +8892,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Regex.md\"> Regex </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Github.md\"> Github </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
@@ -8931,10 +8942,11 @@
         "<a class=\"internal-link\" href=\"Marsha P Johnson.md\"> Marsha P Johnson </a>",
         "<a class=\"internal-link\" href=\"Marsha P Johnson.md\"> Marsha P Johnson </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/plaintext.md\"> plaintext </a>",
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DnD.md\"> DnD </a>",
@@ -8983,9 +8995,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-love.md\"> self-love </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-improvement.md\"> self-improvement </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-image.md\"> self-image </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-hate.md\"> self-hate </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-actualization.md\"> self-actualization </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self soothing.md\"> self soothing </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-hate.md\"> self-hate </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/HTML.md\"> HTML </a>",
@@ -9041,6 +9051,9 @@
         "<a class=\"internal-link\" href=\"20_Entry/GALLERY.md\"> GALLERY </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/plaintext.md\"> plaintext </a>",
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"HTML.md\"> HTML </a>",
@@ -9088,10 +9101,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/AI (artificial intelligence).md\"> AI (artificial intelligence) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/therapy.md\"> therapy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/abortion.md\"> abortion </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Acting.md\"> Acting </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/activism.md\"> activism </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9154,6 +9164,9 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
@@ -9200,10 +9213,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The triad of ever increasing social anxiety.md\"> The triad of ever increasing social anxiety </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
@@ -9245,6 +9255,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Removed Links from": [

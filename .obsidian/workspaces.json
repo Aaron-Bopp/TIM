@@ -636,24 +636,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
-                "mode": "preview"
+                "file": "40_Evergreens/Basic tools for working with plaintext.md",
+                "mode": "source"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
                   "leaf": "c1663952c31ab311",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":33},\"to\":{\"line\":22,\"ch\":33}},\"scroll\":2.962962962962963}"
                 },
                 {
                   "leaf": "c1663952c31ab311",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":36.44303797468355}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Regex.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "c1663952c31ab311",
@@ -784,7 +790,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                    "file": "40_Evergreens/Basic tools for working with plaintext.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -817,7 +823,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                    "file": "40_Evergreens/Basic tools for working with plaintext.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -922,7 +928,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
+                    "file": "40_Evergreens/Basic tools for working with plaintext.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -955,7 +961,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                    "file": "40_Evergreens/Basic tools for working with plaintext.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",

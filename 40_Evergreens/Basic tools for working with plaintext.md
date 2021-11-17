@@ -20,7 +20,7 @@ Now if you are ready to learn or just need to brush up on your skills, here are 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[programming]], [[knowledge management]], [[note writing]]

@@ -9,24 +9,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
-            "mode": "preview"
+            "file": "40_Evergreens/Basic tools for working with plaintext.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "c1663952c31ab311",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "c1663952c31ab311",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":36.44303797468355}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Regex.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "c1663952c31ab311",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "c1663952c31ab311",
@@ -157,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                "file": "40_Evergreens/Basic tools for working with plaintext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -190,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                "file": "40_Evergreens/Basic tools for working with plaintext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
+                "file": "40_Evergreens/Basic tools for working with plaintext.md"
               }
             },
             "pane-relief:history-v1": {
@@ -328,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                "file": "40_Evergreens/Basic tools for working with plaintext.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -439,10 +445,10 @@
   },
   "active": "c1663952c31ab311",
   "lastOpenFiles": [
-    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
     "40_Evergreens/Basic tools for working with plaintext.md",
-    "30_Topics/31_Stubs/Python.md",
     "30_Topics/33_Tools/Regex.md",
+    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+    "30_Topics/31_Stubs/Python.md",
     "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
     "30_Topics/Psychology.md",
     "30_Topics/Andy Matuschak.md",
