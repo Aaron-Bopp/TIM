@@ -8288,7 +8288,7 @@
     "20_Entry/204 Me.md": {
       "size": 0,
       "tags": 0,
-      "links": 17
+      "links": 18
     },
     "20_Entry/203 NOW.md": {
       "size": 1144,
@@ -8820,7 +8820,7 @@
     "/": {
       "Refactor": 1346,
       "Create": 1906,
-      "Link": 2941,
+      "Link": 2942,
       "Expand": 72
     },
     "40 Evergreens": {
@@ -8832,7 +8832,7 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 143,
+      "0": 144,
       "1": 36,
       "2": 1,
       "3": 2,
@@ -8888,7 +8888,7 @@
     "/": {
       "Mon": 155,
       "Tue": 594,
-      "Wed": 1158,
+      "Wed": 1159,
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
@@ -9178,6 +9178,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/Indigenous.md\"> Indigenous </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"20_Entry/204 Me.md\"> 204 Me </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/transgender.md\"> transgender </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Psychology.md\"> Psychology </a>",
@@ -9227,7 +9228,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are support systems.md\"> Communities are support systems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>"
       ],
       "Removed Tags from": [
