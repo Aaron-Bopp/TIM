@@ -1,10 +1,10 @@
 **Dungeons and Dragons**
 
-The E-R diagram for [[DnD]] will have the following entities. (If the person grading this plays [[DnD]] this isn't exactly how it is. Somethings have been simplified)
+The E-R diagram for [[DnD (Dungeons and Dragons)]] will have the following entities. (If the person grading this plays [[DnD (Dungeons and Dragons)]] this isn't exactly how it is. Somethings have been simplified)
 
 -   Campaign - Dungeon master prepares a story for players to play in. Each campaign must specify who the dungeon master is.
 
--   Player -- somebody who plays or has played [[DnD]]. Each player has a name as well as Experience which is how many years they have played and how many different campaigns they have played.
+-   Player -- somebody who plays or has played [[DnD (Dungeons and Dragons)]]. Each player has a name as well as Experience which is how many years they have played and how many different campaigns they have played.
 
 -   Character -- a character is a part of the story. A character has a name and a level. The character also has six different ability scores and an HP (health points) that is based off the level and the size of the HPDice from its class.
 

@@ -8,57 +8,56 @@ tags: node/evergreen
 # [[Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is a documentation of how I converted *[The Explorer's Guide to Wildemount](https://dnd.wizards.com/products/wildemount)* into Obsidian specific markdown.
-The goal for this project was to take a mainly linear campaign guide and convert it into a wiki-style Obsidian vault that could be used to run [[DnD]] campaigns in the session. The results were quite successful:
+The goal for this project was to take a mainly linear campaign guide and convert it into a wiki-style Obsidian vault that could be used to run [[DnD (Dungeons and Dragons)]] campaigns in the session. The results were quite successful:
 
 ![[20210721Exandria.png|ctr]]
 
 ## Background
 
-Prior to starting this project and I had bought and read [Explorer's Guide to Wildemount on DnD Beyond](https://www.dndbeyond.com/marketplace/sourcebooks/explorers-guide-to-wildemount), this meant that I was familiar with navigating the content and the content itself. The campaign guide is written linearly, and while there are hyper-links to other parts of the book in places, it was nowhere near the level of your average wiki. [^1] 
+Prior to starting this project and I had bought and read [Explorer's Guide to Wildemount on DnD Beyond](https://www.dndbeyond.com/marketplace/sourcebooks/explorers-guide-to-wildemount), this meant that I was familiar with the content of the book and how it was organized. The campaign guide is written linearly, and while there are hyperlinks to other parts of the book in places, it was nowhere near the level of your average wiki. [^1] 
+
+[^1]: [Mighty Nein | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/Mighty_Nein)
 
 I also had familiarity with tools in [[Obsidian (software)|Obsidian]] that lend themselves well to a wiki-style database, i.e [[Dataview]], [[Breadcrumbs]]. Additionally, there are many Obsidian plugins that [lend themselves well](https://www.youtube.com/watch?v=Ovqu_1aW3Sw) to running [[TTRPG]]'s, which means that converting this book could work very well for running a campaign in Obsidian.
 
-Finally, I had experience with processing text using [[Python]] and [[Regex]], add I wanted to use this project to increase those skills. This note will be a documentation of what I was able to achieve and the tools I used, and I am intending to make a more general purpose guide that will go into more detail on how one could replicate this process for other source books: [[Parsing markup text for Obsidian projects]]
+Finally, I had experience with processing text using [[Python]] and [[Regex]], and I wanted to use this project to increase those skills. 
+
+## What is this article and who is it for
+
+This note will be a documentation of what I was able to achieve and the tools I used, but it is not going to be an in-depth tutorial. I am intending to make a more general purpose guide that will go into more detail on how one could replicate this process for other source books: [[Parsing markup text for Obsidian projects]], and I am hoping to create a more general purpose tool that can be applied to these scenarios: [[Modular Markup Processor]].
+
+If you are an [[TTRPG]] game master with a lot of motivation, or a novice programmer with some time on your hands, I think this article could definitely be enough for you to replicate this process.  
 
 ## Tools
 
 - Getting plaintext files
-    - [MarkDownload - Markdown Web Clipper - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/markdownload-markdown-web-clipper/173)
+    - [MarkDownload - Markdown Web Clipper](https://forum.obsidian.md/t/markdownload-markdown-web-clipper/173)
 - Seperating sections in seperate files
     - [Note Refactor Plugin](https://github.com/lynchjames/note-refactor-obsidian)
     - [[Python]] scripts
 - Converting data into [[Dataview]] fields and tags
     - [[Regex]] statements in scripts and [[Visual Studio Code]]'s mass search and replace
 - Automatically linking all note names
-    - Fork of [obstools/forward-linker: Auto-Linking Tool](https://forum.obsidian.md/t/auto-linking-tool/2218) that I modified to work on all files
+    - Fork of [obstools/forward-linker: Auto-Linking Tool](https://forum.obsidian.md/t/auto-linking-tool/2218) 
 - Version control
-    - [GitHub Desktop](https://desktop.github.com/) is by far the most simple way using [[Git]]'s version control and let's you iterate quick as you can easily save changes, revert changes, and test your code. It's [[GUI]] is powerful and intuitive, and the ways it displays changes will help you spot errors. At the very least it works well so that you easily undo if you mess up.
+    - [[Github#Github Desktop]]
 
 ### A note on unfamiliar tools
 
-While I had experience going into this project, I do believe that these tools are entry level enough to be approached by a novice or non-programmer (yes, even [[Regex]]). There are plenty of tools out there for learning the basics (I will link some below), and I hope that this article can give you enough of a framework to go out and learn these tools. That said, this is still largely a manual process, and depending on how anal you are could suck up hours. If this isn't your cup of tea, I hope to design tools that are even more helpful in the future: [[Modular Markup Processor]]
+While I had experience going into this project, I do believe that these tools are entry level enough to be approached by a novice or non-programmer (yes, even [[Regex]]). There are plenty of resources out there for learning the basics, [^3] and I hope that this article can give you enough of a framework to go out and learn these tools. That said, this is still largely a manual process, and depending on how anal you are could suck up hours. If this isn't your cup of tea, I hope to design tools that are even more helpful in the future: [[Modular Markup Processor]]
 
-#TO/TEND/REFACTOR these resources into respective topic notes, and move this section to [[Parsing markup text for Obsidian projects]]
+[^3]: [[Converting existing file formats to plaintext#Basic tools for working with plaintext]]
 
-Now if you are ready to learn or just need to brush up on your skills, here are some resources:
-- [[Regex]]
-    - [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) is extremely handy for building and check expressions before you start using them. It also has a quick reference that should job your memory if you are already familiar with [[Regex]]
-    - [Regular Expressions for Non-Programmers](https://medium.com/geekculture/regular-expressions-for-non-programmers-ed2047d2181f) is good starting place and links to more resources
-    - [Visual Studio Code's Search and Replace Multiline Mode](https://code.visualstudio.com/updates/v1_29#_multiline-search)
-- [[Python]]
-    - [How to Read a Text file In Python Effectively](https://www.pythontutorial.net/python-basics/python-read-text-file/) this is very basic, but if you are completely unfamiliar with Python it will help the gists make more sense
-    - #TO/DO/FIND Good resource for python basics so that people can better understand gh gists
-- [[Github]] 
-    - [Getting Started with Git and GitHub Desktop | Codecademy](https://www.codecademy.com/articles/what-is-git-and-github-desktop)
-    - [Getting started with GitHub Desktop - GitHub Docs](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
-- [[Intro to Obsidian]]
+
     
 
 ## Process
 
 ### Getting book in plaintext
 
-There are many tools for [[Converting existing file formats to plaintext]], but for this project I used a tool from Obsidian community member [[death.au]]: [MarkDownload - Markdown Web Clipper - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/markdownload-markdown-web-clipper/173). One benefit we have here is that DndBeyond displays all of their source books in [[HTML]] which is much easier to parse into plaintext than [[PDF]]s, [^2] which is what most [[DnD]] source books are distributed as.
+There are many tools for [[Converting existing file formats to plaintext]], but for this project I used a tool from Obsidian community member [[death.au]]: [MarkDownload - Obsidian Showcase](https://forum.obsidian.md/t/markdownload-markdown-web-clipper/173). One benefit we have here is that DndBeyond displays all of their source books in [[HTML]] which is much easier to parse into plaintext than [[PDF]]s, [^2] which is what most [[DnD (Dungeons and Dragons)]] source books are distributed as.
+
+[^2]: [[Converting existing file formats to plaintext#Converting PDFs to markdown]]
 
 The EGtW is divided into eight sections, and twenty seperate webpages. I opened all these pages at once and used Markdownload to download all tabs. 
 
@@ -87,5 +86,3 @@ The EGtW is divided into eight sections, and twenty seperate webpages. I opened 
 **Topics**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^1]: [Mighty Nein | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/Mighty_Nein)
-[^2]: [[Converting existing file formats to plaintext#Converting PDFs to markdown]]

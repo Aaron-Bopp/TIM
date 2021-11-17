@@ -2,14 +2,17 @@
 created: 2021-11-16 
 aliases:
   - null
-tags: node/evergreen
+tags: node/evergreen/technique 
 ---
 
-#### [[Converting existing file formats to plaintext]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+# [[Converting existing file formats to plaintext]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-##### Converting HTML to markdown
+Most text editing program have some way of formatting text. The two most common are [[markup]] text formatting and [[rich text formatting]]. [[rich text formatting]] usually relies on a proprietery software the Word, Pages, etc, but [[markup]] is designed to work with [[plaintext]].
 
-##### Converting PDFs to markdown
+[[Basic tools for working with plaintext]]
+##### Converting HTML to plaintext
+
+##### Converting PDFs to plaintext
 
 Compared to [[HTML]], [[Markdown]], or even [[XML]], [[PDF]] is exceptionally hard to convert to plain text. This because while those other three are [[markup]] file formats, [[PDF]]s are binary files that draw characters and images on the screen. This means that if a tool wants to extract the text from a PDF, it has to infer characters and structure from the binary, rather than being able to read it in explicitely. This means that getting complex structure like tables, columns, asides, or even heading structure from PDFs can be quite difficult and result in messy or unusable markdown.
 

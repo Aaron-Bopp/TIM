@@ -5996,7 +5996,7 @@ var gte_1 = gte;
             targetFile = cm.state.fileName?.replace(/\.md$/, "");
           }
           span.setAttribute("aria-label", targetFile);
-          HTMLElement.prototype.onClickEvent = function (e, t) {
+          el.onClickEvent = function (e, t) {
             this.addEventListener("click", e, t), this.addEventListener("auxclick", e, t);
           };
           el.onClickEvent(function (e) {
@@ -6018,7 +6018,7 @@ var gte_1 = gte;
             fold_1.breakMark(cm, marker);
           };
           function onInlineMarkClear() {
-            cm.embedObserver.unobserve(el);
+            cm.embedObserver.unobserve(span);
             if (info.unload) {
               try {
                 info.unload();
@@ -6856,37 +6856,43 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
         return _this_1;
     }
     ObsidianCodeMirrorOptionsPlugin.prototype.onload = function () {
+        var _a, _b;
         return __awaiter(this, void 0, void 0, function () {
             var _this_1 = this;
-            return __generator(this, function (_a) {
-                switch (_a.label) {
+            return __generator(this, function (_c) {
+                switch (_c.label) {
                     case 0:
                         // patch the default Obsidian methods, ASAP
-                        this.applyMonkeyPatches();
+                        //@ts-ignore
+                        if (!((_a = this.app.vault.config) === null || _a === void 0 ? void 0 : _a.livePreview))
+                            this.applyMonkeyPatches();
                         // load settings
                         return [4 /*yield*/, this.loadSettings()];
                     case 1:
                         // load settings
-                        _a.sent();
+                        _c.sent();
                         // add the settings tab
                         this.addSettingTab(new ObsidianCodeMirrorOptionsSettingsTab(this.app, this));
-                        // initial-file-load is a custom event emitted by a patched MarkdownView.onLoadFile
-                        this.registerEvent(this.app.workspace.on("initial-file-load", this.onFileLoad));
-                        // file-unload is a custom event emitted by a patched MarkdownView.onUnloadFile
-                        this.registerEvent(this.app.workspace.on("file-unload", this.onFileUnload));
-                        // editor-close is a custom event emitted by a patched MarkdownView.onClose
-                        this.registerEvent(this.app.workspace.on("editor-close", this.onEditorClose));
-                        this.app.workspace.onLayoutReady(function () {
-                            _this_1.registerCodeMirrorSettings();
-                            _this_1.applyBodyClasses();
-                            _this_1.registerCommands();
-                            setTimeout(function () {
-                                // workaround to ensure our plugin registers properly with Style Settings
-                                _this_1.app.workspace.trigger("css-change");
-                            }, 1000);
-                        });
-                        document.on("contextmenu", "img.hmd-image", this.onImageContextMenu, false);
-                        document.on("contextmenu", ".rendered-widget img:not(.hmd-image)", this.onImageContextMenu, false);
+                        //@ts-ignore
+                        if (!((_b = this.app.vault.config) === null || _b === void 0 ? void 0 : _b.livePreview)) {
+                            // initial-file-load is a custom event emitted by a patched MarkdownView.onLoadFile
+                            this.registerEvent(this.app.workspace.on("initial-file-load", this.onFileLoad));
+                            // file-unload is a custom event emitted by a patched MarkdownView.onUnloadFile
+                            this.registerEvent(this.app.workspace.on("file-unload", this.onFileUnload));
+                            // editor-close is a custom event emitted by a patched MarkdownView.onClose
+                            this.registerEvent(this.app.workspace.on("editor-close", this.onEditorClose));
+                            this.app.workspace.onLayoutReady(function () {
+                                _this_1.registerCodeMirrorSettings();
+                                _this_1.applyBodyClasses();
+                                _this_1.registerCommands();
+                                setTimeout(function () {
+                                    // workaround to ensure our plugin registers properly with Style Settings
+                                    _this_1.app.workspace.trigger("css-change");
+                                }, 1000);
+                            });
+                            document.on("contextmenu", "img.hmd-image", this.onImageContextMenu, false);
+                            document.on("contextmenu", ".rendered-widget img:not(.hmd-image)", this.onImageContextMenu, false);
+                        }
                         return [2 /*return*/];
                 }
             });
@@ -7034,8 +7040,8 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                 return function () {
                     var _this_1 = this;
                     setTimeout(function () {
-                        var _a;
-                        var editor = (_a = _this_1.owner.app.workspace.activeLeaf) === null || _a === void 0 ? void 0 : _a.view.sourceMode.editorEl;
+                        var _a, _b, _c;
+                        var editor = (_c = (_b = (_a = _this_1.owner.app.workspace.activeLeaf) === null || _a === void 0 ? void 0 : _a.view) === null || _b === void 0 ? void 0 : _b.sourceMode) === null || _c === void 0 ? void 0 : _c.editorEl;
                         if (editor && !_this_1.widgetHandlersRegistered && _this_1.owner.type === "preview") {
                             _this_1.widgetHandlersRegistered = true;
                             editor.on("click", ".rendered-widget a.internal-link", _this_1.onInternalLinkClick.bind(_this_1));

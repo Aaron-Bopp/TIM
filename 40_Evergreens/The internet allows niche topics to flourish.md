@@ -13,7 +13,7 @@ The [[internet]] has allowed for people with niche interests to connect like nev
 
 This fact has both good and bad consequences. While anonymous boards like 4chan have allowed for the spread of unsavory and sometimes despicable content, many people have also had access to life saving information like the [[transgender]] community. 
 
-It has also allowed for a culture shift, where previously niche topics like [[Dungeons and Dragons| DnD]] can gain a wider audience, and thus gain a larger player base.
+It has also allowed for a culture shift, where previously niche topics like [[DnD (Dungeons and Dragons)| DnD]] can gain a wider audience, and thus gain a larger player base.
 
 [[Tiktok]] and it's algorithm based method of delivering content allows people to easily connect to people with similar interests to them: [[Tiktok creates a false sense of unbreakable, expansive, and influential communites]]
 
