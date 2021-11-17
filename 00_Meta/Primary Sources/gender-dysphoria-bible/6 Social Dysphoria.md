@@ -13,7 +13,7 @@ author: Jocelyn Badgley
 ---
 **The [[Gender Dysphoria]] Bible is a Living Document**
 
-The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third [[Gender]] narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
+The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third [[gender]] narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
 [[[Yes]] ==When you interact with very masculine men, you're nervous. You don't really know how to carry on a conversation with them, or want to. ==You feel an expectation, from them, to be something you're not. You quietly judge them for being too "bro"-y, "basic."](https://twitter.com/NightlingBug/status/1215718003310039040)
 
@@ -32,7 +32,7 @@ The contents of this site will change over time as new additions and revisions a
 [[[Yes]] ==When an AFAB friend expresses disapproval, you're devastated. You scramble to get their approval back. You're worried you're coming across as a simpering "nice guy," all of whom you despise. You just value your AFAB friends' opinions more highly, for reasons you can't explain.==
 ](https://twitter.com/NightlingBug/status/1215731319973523456)
 
-All social [[gender dysphoria]] orbits around one central concept: What [[Gender]] do people believe me to be? Social Dysphoria is about how the outside world perceives you, how others address you, and how you are expected to address them. This applies differently prior to the [[transgender|trans]] person becoming [[self]]-aware of their own [[gender]], versus how Social Dysphoria is experienced after a [[transgender|trans]] awakening (cracking one’s shell).
+All social [[gender dysphoria]] orbits around one central concept: What [[gender]] do people believe me to be? Social Dysphoria is about how the outside world perceives you, how others address you, and how you are expected to address them. This applies differently prior to the [[transgender|trans]] person becoming [[self]]-aware of their own [[gender]], versus how Social Dysphoria is experienced after a [[transgender|trans]] awakening (cracking one’s shell).
 
 ==While still in the dark, the only awareness is that something seems off about the way you interact with your interactions with other people.== People of your assigned [[gender]] seem to interact with each other in ways that do not feel natural to you. [[No]] ==Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true [[gender]] feel easier.== You relate to people closer to your own truth.
 
@@ -42,7 +42,7 @@ This feeling of wrongness intensifies as the person becomes more and more aware 
 
 Social dysphoria is where pronouns and misgendering come into play; being addressed with a gendered pronoun such as she, he, him, or her which is not the pronoun that aligns with our [[gender]] is extremely discomforting. Granted, this is true for _all_ people, including cisgender people, but where a cis person will be insulted by being misgendered, a [[transgender|trans]] person will feel hurt. It’s like nails on a chalkboard, or steel wool across skin. Hearing the wrong pronoun is a reminder that the person you are talking to does not recognize you for the [[gender]] that you are.
 
-[[Gender]] neutral pronouns can also be unsettling for binary [[transgender|trans]] people if used in a way that make it clear the person is avoiding the pronoun that matches them. This often is an indication that a person has been read as being [[transgender]], and the person addressing them doesn’t know what pronouns they use. Asking their pronouns can resolve this situation immediately, but the paradox is that even in that scenario, having their pronouns asked may itself induce dysphoria around having been recognized as being [[transgender|trans]]. It is sort of a catch-22.
+[[gender]] neutral pronouns can also be unsettling for binary [[transgender|trans]] people if used in a way that make it clear the person is avoiding the pronoun that matches them. This often is an indication that a person has been read as being [[transgender]], and the person addressing them doesn’t know what pronouns they use. Asking their pronouns can resolve this situation immediately, but the paradox is that even in that scenario, having their pronouns asked may itself induce dysphoria around having been recognized as being [[transgender|trans]]. It is sort of a catch-22.
 
 Singular they can also be used maliciously when a transphobic individual refuses to use the correct pronoun, but knows they will get in trouble for using the wrong pronouns. Tone and intent matter a lot.
 

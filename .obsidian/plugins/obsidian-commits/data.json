@@ -3755,11 +3755,6 @@
       "tags": 1,
       "links": 2
     },
-    "30_Topics/20th Century America.md": {
-      "size": 322,
-      "tags": 1,
-      "links": 8
-    },
     "30_Topics/America.md": {
       "size": 426,
       "tags": 1,
@@ -3785,11 +3780,6 @@
       "tags": 1,
       "links": 0
     },
-    "30_Topics/anxiety.md": {
-      "size": 1284,
-      "tags": 1,
-      "links": 21
-    },
     "30_Topics/atheism.md": {
       "size": 124,
       "tags": 1,
@@ -3804,11 +3794,6 @@
       "size": 130,
       "tags": 1,
       "links": 0
-    },
-    "30_Topics/Behavioral Pyschology.md": {
-      "size": 384,
-      "tags": 1,
-      "links": 4
     },
     "30_Topics/belief systems.md": {
       "size": 124,
@@ -3850,21 +3835,6 @@
       "tags": 1,
       "links": 0
     },
-    "30_Topics/Christianity.md": {
-      "size": 1039,
-      "tags": 1,
-      "links": 11
-    },
-    "30_Topics/Civil Rights.md": {
-      "size": 415,
-      "tags": 1,
-      "links": 4
-    },
-    "30_Topics/Computer Science.md": {
-      "size": 1019,
-      "tags": 1,
-      "links": 13
-    },
     "30_Topics/Consumerism.md": {
       "size": 147,
       "tags": 1,
@@ -3889,11 +3859,6 @@
       "size": 141,
       "tags": 1,
       "links": 1
-    },
-    "30_Topics/Deconstruction (Christianity).md": {
-      "size": 1107,
-      "tags": 1,
-      "links": 12
     },
     "30_Topics/defense-mechanisms.md": {
       "size": 98,
@@ -3940,11 +3905,6 @@
       "tags": 1,
       "links": 0
     },
-    "30_Topics/DrK Interviews.md": {
-      "size": 432,
-      "tags": 1,
-      "links": 8
-    },
     "30_Topics/Dungeons and Dragons.md": {
       "size": 153,
       "tags": 1,
@@ -3959,11 +3919,6 @@
       "size": 131,
       "tags": 1,
       "links": 0
-    },
-    "30_Topics/enlightenment.md": {
-      "size": 540,
-      "tags": 1,
-      "links": 5
     },
     "30_Topics/Evolutionary Pyschology.md": {
       "size": 145,
@@ -4014,11 +3969,6 @@
       "size": 112,
       "tags": 1,
       "links": 0
-    },
-    "30_Topics/game design.md": {
-      "size": 360,
-      "tags": 1,
-      "links": 4
     },
     "30_Topics/gender binary.md": {
       "size": 112,
@@ -4079,26 +4029,6 @@
       "size": 124,
       "tags": 1,
       "links": 0
-    },
-    "30_Topics/gender.md": {
-      "size": 1628,
-      "tags": 1,
-      "links": 23
-    },
-    "30_Topics/human advancement.md": {
-      "size": 623,
-      "tags": 1,
-      "links": 8
-    },
-    "30_Topics/human experience.md": {
-      "size": 770,
-      "tags": 1,
-      "links": 8
-    },
-    "30_Topics/human survival.md": {
-      "size": 502,
-      "tags": 1,
-      "links": 4
     },
     "30_Topics/internet.md": {
       "size": 142,
@@ -4205,11 +4135,6 @@
       "tags": 1,
       "links": 5
     },
-    "30_Topics/mental health.md": {
-      "size": 1328,
-      "tags": 1,
-      "links": 17
-    },
     "30_Topics/Meyers Briggs.md": {
       "size": 141,
       "tags": 1,
@@ -4245,30 +4170,10 @@
       "tags": 1,
       "links": 0
     },
-    "30_Topics/my emotions.md": {
-      "size": 380,
-      "tags": 1,
-      "links": 2
-    },
-    "30_Topics/my parents.md": {
-      "size": 302,
-      "tags": 1,
-      "links": 1
-    },
     "30_Topics/natural selection.md": {
       "size": 476,
       "tags": 1,
       "links": 2
-    },
-    "30_Topics/neurodiversity.md": {
-      "size": 784,
-      "tags": 2,
-      "links": 9
-    },
-    "30_Topics/Neuroscience.md": {
-      "size": 736,
-      "tags": 1,
-      "links": 8
     },
     "30_Topics/neurosis.md": {
       "size": 179,
@@ -4290,16 +4195,6 @@
       "tags": 1,
       "links": 2
     },
-    "30_Topics/note writing.md": {
-      "size": 707,
-      "tags": 2,
-      "links": 8
-    },
-    "30_Topics/Patriarchy.md": {
-      "size": 329,
-      "tags": 1,
-      "links": 3
-    },
     "30_Topics/perception.md": {
       "size": 197,
       "tags": 1,
@@ -4319,16 +4214,6 @@
       "size": 105,
       "tags": 1,
       "links": 1
-    },
-    "30_Topics/political strategy.md": {
-      "size": 528,
-      "tags": 1,
-      "links": 4
-    },
-    "30_Topics/Politics.md": {
-      "size": 530,
-      "tags": 1,
-      "links": 6
     },
     "30_Topics/powershell.md": {
       "size": 135,
@@ -4350,20 +4235,10 @@
       "tags": 1,
       "links": 1
     },
-    "30_Topics/Prison.md": {
-      "size": 467,
-      "tags": 1,
-      "links": 4
-    },
     "30_Topics/programming.md": {
       "size": 112,
       "tags": 1,
       "links": 0
-    },
-    "30_Topics/Psychology.md": {
-      "size": 412,
-      "tags": 1,
-      "links": 3
     },
     "30_Topics/purpose.md": {
       "size": 130,
@@ -4379,11 +4254,6 @@
       "size": 130,
       "tags": 1,
       "links": 0
-    },
-    "30_Topics/Reagan.md": {
-      "size": 932,
-      "tags": 1,
-      "links": 17
     },
     "30_Topics/realism.md": {
       "size": 252,
@@ -4404,16 +4274,6 @@
       "size": 112,
       "tags": 1,
       "links": 0
-    },
-    "30_Topics/religion.md": {
-      "size": 348,
-      "tags": 1,
-      "links": 5
-    },
-    "30_Topics/religious trauma.md": {
-      "size": 836,
-      "tags": 1,
-      "links": 9
     },
     "30_Topics/reppressed.md": {
       "size": 124,
@@ -4465,16 +4325,6 @@
       "tags": 1,
       "links": 7
     },
-    "30_Topics/self-worth.md": {
-      "size": 320,
-      "tags": 1,
-      "links": 3
-    },
-    "30_Topics/self.md": {
-      "size": 1078,
-      "tags": 2,
-      "links": 14
-    },
     "30_Topics/selfless.md": {
       "size": 130,
       "tags": 1,
@@ -4484,21 +4334,6 @@
       "size": 144,
       "tags": 1,
       "links": 1
-    },
-    "30_Topics/social anxiety.md": {
-      "size": 1287,
-      "tags": 2,
-      "links": 12
-    },
-    "30_Topics/social construct.md": {
-      "size": 406,
-      "tags": 1,
-      "links": 4
-    },
-    "30_Topics/social discomfort.md": {
-      "size": 525,
-      "tags": 1,
-      "links": 7
     },
     "30_Topics/social justice.md": {
       "size": 130,
@@ -4519,11 +4354,6 @@
       "size": 131,
       "tags": 1,
       "links": 0
-    },
-    "30_Topics/socialization.md": {
-      "size": 1141,
-      "tags": 1,
-      "links": 15
     },
     "30_Topics/societal trauma.md": {
       "size": 130,
@@ -4569,26 +4399,6 @@
       "size": 289,
       "tags": 1,
       "links": 4
-    },
-    "30_Topics/suffering.md": {
-      "size": 445,
-      "tags": 1,
-      "links": 3
-    },
-    "30_Topics/transgender.md": {
-      "size": 539,
-      "tags": 1,
-      "links": 6
-    },
-    "30_Topics/trauma.md": {
-      "size": 632,
-      "tags": 1,
-      "links": 5
-    },
-    "30_Topics/Wealth Inequality.md": {
-      "size": 393,
-      "tags": 1,
-      "links": 5
     },
     "40_Evergreens/1968 was a major setback for the American left.md": {
       "size": 1966,
@@ -4658,7 +4468,7 @@
     "40_Evergreens/Any experience of gender is acceptable.md": {
       "size": 1028,
       "tags": 2,
-      "links": 11
+      "links": 10
     },
     "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md": {
       "size": 985,
@@ -4788,7 +4598,7 @@
     "40_Evergreens/Gender is both an intrinsic experience and an necessary expression.md": {
       "size": 1301,
       "tags": 2,
-      "links": 17
+      "links": 16
     },
     "40_Evergreens/Happiness is enlightenment and sadness is delusion.md": {
       "size": 1727,
@@ -5313,7 +5123,7 @@
     "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md": {
       "size": 2296,
       "tags": 3,
-      "links": 22
+      "links": 21
     },
     "40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md": {
       "size": 1109,
@@ -5423,7 +5233,7 @@
     "10_Sources/Enneagram/articleHow The System Works — The Enneagram Institute.md": {
       "size": 41643,
       "tags": 0,
-      "links": 11
+      "links": 9
     },
     "10_Sources/Enneagram/articleRelationships (Type Combinations) — The Enneagram Institute.md": {
       "size": 1441,
@@ -5463,12 +5273,12 @@
     "10_Sources/History/discussionRed Summer of 1919.md": {
       "size": 14769,
       "tags": 2,
-      "links": 36
+      "links": 35
     },
     "10_Sources/History/discussionSecond Red Scare Discussion.md": {
       "size": 12662,
       "tags": 0,
-      "links": 30
+      "links": 29
     },
     "10_Sources/History/notes1920's General Notes.md": {
       "size": 2041,
@@ -5493,12 +5303,12 @@
     "10_Sources/History/notes1960's General Notes.md": {
       "size": 30383,
       "tags": 1,
-      "links": 66
+      "links": 65
     },
     "10_Sources/History/notes1970's General Notes.md": {
       "size": 6995,
       "tags": 1,
-      "links": 21
+      "links": 20
     },
     "10_Sources/History/notes1980's General Notes.md": {
       "size": 5276,
@@ -5533,7 +5343,7 @@
     "10_Sources/History/primarysourceFirst Amendment to the U.S. Constitution.md": {
       "size": 6214,
       "tags": 1,
-      "links": 9
+      "links": 8
     },
     "10_Sources/History/speechRonald Reagan Evil Empire Speech.md": {
       "size": 29291,
@@ -5668,7 +5478,7 @@
     "10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md": {
       "size": 12753,
       "tags": 1,
-      "links": 16
+      "links": 15
     },
     "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md": {
       "size": 37225,
@@ -5678,7 +5488,7 @@
     "00_Meta/Primary Sources/Classes/Analogies_of_Religious_Violence_in_Minec.md": {
       "size": 46059,
       "tags": 0,
-      "links": 31
+      "links": 30
     },
     "00_Meta/Primary Sources/Classes/Excerpts from the 2016 Republican Party Platform.md": {
       "size": 13287,
@@ -5693,42 +5503,42 @@
     "00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md": {
       "size": 9706,
       "tags": 0,
-      "links": 20
+      "links": 19
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/11 Managed Dysphoria Gender in Disguise.md": {
       "size": 5248,
       "tags": 0,
-      "links": 15
+      "links": 14
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/10 Existential Euphoria.md": {
       "size": 3136,
       "tags": 0,
-      "links": 7
+      "links": 6
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/12 Impostor Syndrome, but make it Trans.md": {
       "size": 13836,
       "tags": 0,
-      "links": 23
+      "links": 22
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/13 Diagnosing Gender Dysphoria.md": {
       "size": 6712,
       "tags": 0,
-      "links": 15
+      "links": 14
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/14 Treating Gender Dysphoria.md": {
       "size": 8134,
       "tags": 0,
-      "links": 8
+      "links": 7
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/15 What is the Cause of Gender Incongruence.md": {
       "size": 11476,
       "tags": 0,
-      "links": 12
+      "links": 11
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/16 Disorders of Sex Development Gender is not Chromosomal.md": {
       "size": 9336,
       "tags": 0,
-      "links": 8
+      "links": 7
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/17 Hormones How do they work.md": {
       "size": 13455,
@@ -5738,7 +5548,7 @@
     "00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md": {
       "size": 15976,
       "tags": 0,
-      "links": 13
+      "links": 12
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/19 Estrogenic Second Puberty 101.md": {
       "size": 22985,
@@ -5753,12 +5563,12 @@
     "00_Meta/Primary Sources/gender-dysphoria-bible/20 In Conclusion.md": {
       "size": 2428,
       "tags": 0,
-      "links": 5
+      "links": 4
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/3 Gender Euporia.md": {
       "size": 6405,
       "tags": 0,
-      "links": 12
+      "links": 11
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/4 Physical Dysphoria.md": {
       "size": 8365,
@@ -5773,12 +5583,12 @@
     "00_Meta/Primary Sources/gender-dysphoria-bible/6 Social Dysphoria.md": {
       "size": 10731,
       "tags": 0,
-      "links": 16
+      "links": 15
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/7 Societal Dysphoria.md": {
       "size": 12269,
       "tags": 0,
-      "links": 16
+      "links": 15
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/8 Sexual Dysphoria.md": {
       "size": 9283,
@@ -5788,7 +5598,7 @@
     "00_Meta/Primary Sources/gender-dysphoria-bible/9 Presentational Dysphoria.md": {
       "size": 10676,
       "tags": 0,
-      "links": 18
+      "links": 17
     },
     "00_Meta/Primary Sources/Classes/Comp Sci/ADB Assignment-10.md": {
       "size": 3305,
@@ -5938,7 +5748,7 @@
     "00_Meta/Primary Sources/Classes/Comp Sci/Exam1_review_guide_chpt1-3.md": {
       "size": 9592,
       "tags": 0,
-      "links": 8
+      "links": 7
     },
     "00_Meta/Primary Sources/Classes/Comp Sci/Exam2_review_guide_chpt4-5.md": {
       "size": 8148,
@@ -6263,7 +6073,7 @@
     "00_Meta/Primary Sources/Classes/History/3 Gerrymandering and Voter Laws 2020 poa.md": {
       "size": 48044,
       "tags": 0,
-      "links": 42
+      "links": 40
     },
     "00_Meta/Primary Sources/Classes/History/4 March 6th Reading -- Fake News Bots Elections.md": {
       "size": 57609,
@@ -6323,7 +6133,7 @@
     "00_Meta/Primary Sources/Classes/History/From Bronze to Iron.md": {
       "size": 3897,
       "tags": 0,
-      "links": 4
+      "links": 3
     },
     "00_Meta/Primary Sources/Classes/History/Gov notes.md": {
       "size": 940,
@@ -6338,7 +6148,7 @@
     "00_Meta/Primary Sources/Classes/History/Government Exam #2 Study Guide.md": {
       "size": 19974,
       "tags": 0,
-      "links": 39
+      "links": 38
     },
     "00_Meta/Primary Sources/Classes/History/Hellenistic Society Lecutre Outline.md": {
       "size": 1361,
@@ -6363,7 +6173,7 @@
     "00_Meta/Primary Sources/Classes/History/Research Paper Thoughts.md": {
       "size": 14556,
       "tags": 0,
-      "links": 13
+      "links": 12
     },
     "00_Meta/Primary Sources/Classes/History/The Founding of Rome.md": {
       "size": 1735,
@@ -6388,12 +6198,12 @@
     "00_Meta/Primary Sources/Classes/History/THE HEBREWS_Lecture Outline.md": {
       "size": 3897,
       "tags": 0,
-      "links": 5
+      "links": 4
     },
     "00_Meta/Primary Sources/Classes/History/THE PERSIANS_Lecture Outline.md": {
       "size": 2517,
       "tags": 0,
-      "links": 4
+      "links": 3
     },
     "00_Meta/Primary Sources/Classes/Lit/Acting  History Research Paper.md": {
       "size": 9258,
@@ -6413,7 +6223,7 @@
     "00_Meta/Primary Sources/Classes/Lit/Moonlight Essay.md": {
       "size": 6510,
       "tags": 0,
-      "links": 14
+      "links": 13
     },
     "00_Meta/Primary Sources/Classes/Lit/Saudi Arabia Essay.md": {
       "size": 5367,
@@ -6428,7 +6238,7 @@
     "00_Meta/Primary Sources/Classes/Lit/Totsi Essay.md": {
       "size": 6089,
       "tags": 0,
-      "links": 13
+      "links": 12
     },
     "00_Meta/Primary Sources/Classes/Lit/Under Milkwood Play Critique.md": {
       "size": 2626,
@@ -6443,7 +6253,7 @@
     "00_Meta/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md": {
       "size": 4583,
       "tags": 0,
-      "links": 7
+      "links": 6
     },
     "00_Meta/Primary Sources/Classes/Pyschology/Moonlight Companion Peice.md": {
       "size": 5732,
@@ -6468,7 +6278,7 @@
     "00_Meta/Primary Sources/Classes/Pyschology/Worksheet 2.md": {
       "size": 11338,
       "tags": 0,
-      "links": 17
+      "links": 16
     },
     "00_Meta/Primary Sources/Classes/MAth/Calc1WellWrit1- AaronBopp.md": {
       "size": 2005,
@@ -6840,11 +6650,6 @@
       "tags": 2,
       "links": 1
     },
-    "30_Topics/@visakanv on Twitter.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
     "40_Evergreens/Everybody can't be a capitalist.md": {
       "size": 0,
       "tags": 2,
@@ -6950,11 +6755,6 @@
       "tags": 3,
       "links": 17
     },
-    "30_Topics/mental illness.md": {
-      "size": 495,
-      "tags": 1,
-      "links": 10
-    },
     "40_Evergreens/Complex emotions are intellectual understandings of primal urges.md": {
       "size": 1134,
       "tags": 3,
@@ -7031,11 +6831,6 @@
       "links": 8
     },
     "30_Topics/DID (Dissociative Idenitty Disorder).md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "30_Topics/biology.md": {
       "size": 0,
       "tags": 1,
       "links": 0
@@ -7323,7 +7118,7 @@
     "10_Sources/Personal/Journal.md": {
       "size": 22860,
       "tags": 2,
-      "links": 50
+      "links": 49
     },
     "10_Sources/Personal/Nathan Eloe.md": {
       "size": 0,
@@ -8353,7 +8148,7 @@
     "30_Topics/32_Terms/self-image.md": {
       "size": 488,
       "tags": 1,
-      "links": 6
+      "links": 5
     },
     "30_Topics/32_Terms/self-improvement.md": {
       "size": 158,
@@ -8401,7 +8196,7 @@
       "links": 3
     },
     "40_Evergreens/Develop Obsidian plugins.md": {
-      "size": 2183,
+      "size": 2626,
       "tags": 1,
       "links": 4
     },
@@ -8458,7 +8253,7 @@
     "10_Sources/Psychology of Race and Gender notes.md": {
       "size": 11352,
       "tags": 0,
-      "links": 42
+      "links": 41
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md": {
       "size": 838,
@@ -8488,7 +8283,7 @@
     "20_Entry/201 Welcome.md": {
       "size": 3136,
       "tags": 0,
-      "links": 25
+      "links": 26
     },
     "20_Entry/204 Me.md": {
       "size": 0,
@@ -8627,13 +8422,8 @@
     },
     "30_Topics/33_Tools/Obsidian (software).md": {
       "size": 1893,
-      "tags": 3,
-      "links": 13
-    },
-    "30_Topics/Andy Matuschak.md": {
-      "size": 323,
       "tags": 1,
-      "links": 0
+      "links": 16
     },
     "30_Topics/33_Tools/Dataview.md": {
       "size": 4505,
@@ -8654,11 +8444,6 @@
       "size": 349,
       "tags": 1,
       "links": 4
-    },
-    "40_Evergreens/Security.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
     },
     "10_Sources/podcastINVCEL.md": {
       "size": 4712,
@@ -8799,14 +8584,244 @@
       "size": 910,
       "tags": 1,
       "links": 2
+    },
+    "30_Topics/32_Terms/Zettlekassen.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 5
+    },
+    "20_Entry/206 Contact Me.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "30_Topics/34_People/Niklas Luhmann.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/34_People/@visakanv on Twitter.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/34_People/Andy Matuschak.md": {
+      "size": 323,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/35_Outlines/social discomfort.md": {
+      "size": 525,
+      "tags": 1,
+      "links": 7
+    },
+    "30_Topics/35_Outlines/social anxiety.md": {
+      "size": 1287,
+      "tags": 2,
+      "links": 12
+    },
+    "30_Topics/35_Outlines/anxiety.md": {
+      "size": 1284,
+      "tags": 1,
+      "links": 20
+    },
+    "30_Topics/35_Outlines/socialization.md": {
+      "size": 1141,
+      "tags": 1,
+      "links": 15
+    },
+    "30_Topics/35_Outlines/human experience.md": {
+      "size": 770,
+      "tags": 1,
+      "links": 8
+    },
+    "30_Topics/35_Outlines/human advancement.md": {
+      "size": 623,
+      "tags": 1,
+      "links": 8
+    },
+    "30_Topics/35_Outlines/Neuroscience.md": {
+      "size": 736,
+      "tags": 1,
+      "links": 8
+    },
+    "30_Topics/35_Outlines/mental health.md": {
+      "size": 1328,
+      "tags": 1,
+      "links": 17
+    },
+    "30_Topics/35_Outlines/religion.md": {
+      "size": 348,
+      "tags": 1,
+      "links": 5
+    },
+    "30_Topics/31_Stubs/biology.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/35_Outlines/note writing.md": {
+      "size": 707,
+      "tags": 2,
+      "links": 8
+    },
+    "30_Topics/35_Outlines/neurodiversity.md": {
+      "size": 784,
+      "tags": 2,
+      "links": 9
+    },
+    "30_Topics/35_Outlines/20th Century America.md": {
+      "size": 322,
+      "tags": 1,
+      "links": 8
+    },
+    "30_Topics/35_Outlines/Christianity.md": {
+      "size": 1039,
+      "tags": 1,
+      "links": 19
+    },
+    "30_Topics/35_Outlines/Civil Rights.md": {
+      "size": 415,
+      "tags": 1,
+      "links": 4
+    },
+    "30_Topics/35_Outlines/Computer Science.md": {
+      "size": 1019,
+      "tags": 1,
+      "links": 13
+    },
+    "30_Topics/32_Terms/Behavioral Pyschology.md": {
+      "size": 384,
+      "tags": 1,
+      "links": 1
+    },
+    "30_Topics/32_Terms/enlightenment.md": {
+      "size": 540,
+      "tags": 1,
+      "links": 5
+    },
+    "30_Topics/35_Outlines/self.md": {
+      "size": 1078,
+      "tags": 2,
+      "links": 14
+    },
+    "30_Topics/35_Outlines/Psychology.md": {
+      "size": 412,
+      "tags": 1,
+      "links": 4
+    },
+    "30_Topics/32_Terms/Deconstruction (Christianity).md": {
+      "size": 1107,
+      "tags": 1,
+      "links": 1
+    },
+    "30_Topics/35_Outlines/gender.md": {
+      "size": 1628,
+      "tags": 1,
+      "links": 23
+    },
+    "30_Topics/31_Stubs/game design.md": {
+      "size": 360,
+      "tags": 1,
+      "links": 2
+    },
+    "30_Topics/32_Terms/transgender.md": {
+      "size": 539,
+      "tags": 1,
+      "links": 7
+    },
+    "30_Topics/31_Stubs/human survival.md": {
+      "size": 502,
+      "tags": 1,
+      "links": 2
+    },
+    "30_Topics/35_Outlines/DrK Interviews.md": {
+      "size": 432,
+      "tags": 1,
+      "links": 8
+    },
+    "30_Topics/35_Outlines/mental illness.md": {
+      "size": 495,
+      "tags": 1,
+      "links": 10
+    },
+    "10_Sources/Personal/my emotions.md": {
+      "size": 380,
+      "tags": 2,
+      "links": 2
+    },
+    "10_Sources/Personal/my parents.md": {
+      "size": 302,
+      "tags": 2,
+      "links": 1
+    },
+    "30_Topics/31_Stubs/political strategy.md": {
+      "size": 528,
+      "tags": 1,
+      "links": 1
+    },
+    "30_Topics/35_Outlines/Reagan.md": {
+      "size": 932,
+      "tags": 1,
+      "links": 17
+    },
+    "30_Topics/35_Outlines/Prison.md": {
+      "size": 467,
+      "tags": 1,
+      "links": 4
+    },
+    "30_Topics/35_Outlines/religious trauma.md": {
+      "size": 836,
+      "tags": 1,
+      "links": 9
+    },
+    "30_Topics/35_Outlines/Wealth Inequality.md": {
+      "size": 393,
+      "tags": 1,
+      "links": 5
+    },
+    "30_Topics/35_Outlines/suffering.md": {
+      "size": 445,
+      "tags": 1,
+      "links": 3
+    },
+    "30_Topics/35_Outlines/social construct.md": {
+      "size": 406,
+      "tags": 1,
+      "links": 4
+    },
+    "30_Topics/31_Stubs/self-worth.md": {
+      "size": 320,
+      "tags": 1,
+      "links": 2
+    },
+    "30_Topics/32_Terms/Patriarchy.md": {
+      "size": 329,
+      "tags": 1,
+      "links": 3
+    },
+    "30_Topics/35_Outlines/trauma.md": {
+      "size": 632,
+      "tags": 1,
+      "links": 5
+    },
+    "30_Topics/35_Outlines/Politics.md": {
+      "size": 530,
+      "tags": 1,
+      "links": 6
+    },
+    "10_Sources/Security.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1246,
-      "Create": 1901,
-      "Link": 2928,
-      "Expand": 71
+      "Refactor": 1346,
+      "Create": 1906,
+      "Link": 2941,
+      "Expand": 72
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8817,7 +8832,7 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 38,
+      "0": 143,
       "1": 36,
       "2": 1,
       "3": 2,
@@ -8840,7 +8855,7 @@
       "20": 101,
       "21": 136,
       "22": 151,
-      "23": 118
+      "23": 132
     },
     "40 Evergreens": {
       "0": 9,
@@ -8872,8 +8887,8 @@
   "weeklyCommits": {
     "/": {
       "Mon": 155,
-      "Tue": 580,
-      "Wed": 1053,
+      "Tue": 594,
+      "Wed": 1158,
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
@@ -8892,6 +8907,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Develop Obsidian plugins.md\"> Develop Obsidian plugins </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Regex.md\"> Regex </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Github.md\"> Github </a>",
@@ -8941,10 +8957,14 @@
         "<a class=\"internal-link\" href=\"Marsh P Johnson.md\"> Marsh P Johnson </a>",
         "<a class=\"internal-link\" href=\"Marsha P Johnson.md\"> Marsha P Johnson </a>",
         "<a class=\"internal-link\" href=\"Marsha P Johnson.md\"> Marsha P Johnson </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Niklas Luhmann.md\"> Niklas Luhmann </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettlekassen.md\"> Zettlekassen </a>",
+        "<a class=\"internal-link\" href=\"Intro to Obsidian.md\"> Intro to Obsidian </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/plaintext.md\"> plaintext </a>",
@@ -8990,67 +9010,67 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Stereotype.md\"> Stereotype </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/stereotype threat.md\"> stereotype threat </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/sociobiology.md\"> sociobiology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/small government.md\"> small government </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-perception.md\"> self-perception </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-love.md\"> self-love </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-improvement.md\"> self-improvement </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-image.md\"> self-image </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-hate.md\"> self-hate </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/small government.md\"> small government </a>"
       ],
       "Renamed": [
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/HTML.md\"> HTML </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Git.md\"> Git </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/HTML.md\"> HTML </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/DnD (Dungeons and Dragons).md\"> DnD (Dungeons and Dragons) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Git.md\"> Git </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DID (Dissociative Identity Disorder).md\"> DID (Dissociative Identity Disorder) </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/index note.md\"> index note </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/ignorance.md\"> ignorance </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dual (plugin).md\"> Dual (plugin) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dataview.md\"> Dataview </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Andy Matuschak.md\"> Andy Matuschak </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Regex.md\"> Regex </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/source notes.md\"> source notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/web of thought.md\"> web of thought </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Dual/related topics.md\"> related topics </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Dual/Fomulate questions.md\"> Fomulate questions </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Dual/do math.md\"> do math </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Dual/Answer open questions.md\"> Answer open questions </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/WORDCOUNT.md\"> WORDCOUNT </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/TODO.md\"> TODO </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md\"> RECENTLY-MODIFIED </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/GALLERY.md\"> GALLERY </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/LAST-WEEK.md\"> LAST-WEEK </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/KANBAN.md\"> KANBAN </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/JUSTEVERGREENS.md\"> JUSTEVERGREENS </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Dual/find related concepts.md\"> find related concepts </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/File Sizes.md\"> File Sizes </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSPROUTS.md\"> EVERSPROUTS </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSEEDS.md\"> EVERSEEDS </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/EVERSEEDS.md\"> EVERSEEDS </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERGREENS.md\"> EVERGREENS </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Commits.md\"> Commits </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/BOOKLIST.md\"> BOOKLIST </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Average links per note type.md\"> Average links per note type </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/TopicNotes.md\"> TopicNotes </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by type/TopicNotes.md\"> TopicNotes </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/GALLERY.md\"> GALLERY </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Security.md\"> Security </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Politics.md\"> Politics </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/trauma.md\"> trauma </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Patriarchy.md\"> Patriarchy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-worth.md\"> self-worth </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social construct.md\"> social construct </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/suffering.md\"> suffering </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Wealth Inequality.md\"> Wealth Inequality </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religious trauma.md\"> religious trauma </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Prison.md\"> Prison </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Reagan.md\"> Reagan </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/my parents.md\"> my parents </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/my emotions.md\"> my emotions </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/mental illness.md\"> mental illness </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/DrK Interviews.md\"> DrK Interviews </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human survival.md\"> human survival </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/transgender.md\"> transgender </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/game design.md\"> game design </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/gender.md\"> gender </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Deconstruction (Christianity).md\"> Deconstruction (Christianity) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Psychology.md\"> Psychology </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/self.md\"> self </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/enlightenment.md\"> enlightenment </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Behavioral Pyschology.md\"> Behavioral Pyschology </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Computer Science.md\"> Computer Science </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Civil Rights.md\"> Civil Rights </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/20th Century America.md\"> 20th Century America </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/neurodiversity.md\"> neurodiversity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/neurodiversity.md\"> neurodiversity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/note writing.md\"> note writing </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurodiversity.md\"> neurodiversity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/biology.md\"> biology </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religion.md\"> religion </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/mental health.md\"> mental health </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Neuroscience.md\"> Neuroscience </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human advancement.md\"> human advancement </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/socialization.md\"> socialization </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/anxiety.md\"> anxiety </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social anxiety.md\"> social anxiety </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social discomfort.md\"> social discomfort </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Andy Matuschak.md\"> Andy Matuschak </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/@visakanv on Twitter.md\"> @visakanv on Twitter </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Niklas Luhmann.md\"> Niklas Luhmann </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Niklas Luhmann.md\"> Niklas Luhmann </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Intro to Obsidian.md\"> Intro to Obsidian </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/HTML.md\"> HTML </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/my parents.md\"> my parents </a>",
+        "<a class=\"internal-link\" href=\"Niklas Luhmann.md\"> Niklas Luhmann </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettlekassen.md\"> Zettlekassen </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Intro to Obsidian.md\"> Intro to Obsidian </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
@@ -9096,12 +9116,7 @@
         "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/AI (artificial intelligence).md\"> AI (artificial intelligence) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/therapy.md\"> therapy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9110,6 +9125,8 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Intro to Obsidian.md\"> Intro to Obsidian </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/plaintext.md\"> plaintext </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DnD.md\"> DnD </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental illness is a reaction to ones environment.md\"> Mental illness is a reaction to ones environment </a>",
@@ -9158,11 +9175,17 @@
         "<a class=\"internal-link\" href=\"30_Topics/influence.md\"> influence </a>",
         "<a class=\"internal-link\" href=\"30_Topics/indoctrination.md\"> indoctrination </a>",
         "<a class=\"internal-link\" href=\"30_Topics/individualism.md\"> individualism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Indigenous.md\"> Indigenous </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/implicit bias.md\"> implicit bias </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/i-hat.md\"> i-hat </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/Indigenous.md\"> Indigenous </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/transgender.md\"> transgender </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Psychology.md\"> Psychology </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettlekassen.md\"> Zettlekassen </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Intro to Obsidian.md\"> Intro to Obsidian </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
@@ -9205,15 +9228,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are support systems.md\"> Communities are support systems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Vim.md\"> Vim </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoLife after a cult.md\"> videoLife after a cult </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The triad of ever increasing social anxiety.md\"> The triad of ever increasing social anxiety </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
@@ -9257,60 +9272,61 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/Moonlight Essay.md\"> Moonlight Essay </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md\"> It’s All About the Jeffersons - This American Life </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 2.md\"> Worksheet 2 </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md\"> 1 What is Gender </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/10 Existential Euphoria.md\"> 10 Existential Euphoria </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/11 Managed Dysphoria Gender in Disguise.md\"> 11 Managed Dysphoria Gender in Disguise </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/12 Impostor Syndrome, but make it Trans.md\"> 12 Impostor Syndrome, but make it Trans </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/13 Diagnosing Gender Dysphoria.md\"> 13 Diagnosing Gender Dysphoria </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/14 Treating Gender Dysphoria.md\"> 14 Treating Gender Dysphoria </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/15 What is the Cause of Gender Incongruence.md\"> 15 What is the Cause of Gender Incongruence </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/16 Disorders of Sex Development Gender is not Chromosomal.md\"> 16 Disorders of Sex Development Gender is not Chromosomal </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/20 In Conclusion.md\"> 20 In Conclusion </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/3 Gender Euporia.md\"> 3 Gender Euporia </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/7 Societal Dysphoria.md\"> 7 Societal Dysphoria </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/6 Social Dysphoria.md\"> 6 Social Dysphoria </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/9 Presentational Dysphoria.md\"> 9 Presentational Dysphoria </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/game design.md\"> game design </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human survival.md\"> human survival </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/self-worth.md\"> self-worth </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender is acceptable.md\"> Any experience of gender is acceptable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and an necessary expression.md\"> Gender is both an intrinsic experience and an necessary expression </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/Exam1_review_guide_chpt1-3.md\"> Exam1_review_guide_chpt1-3 </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Analogies_of_Religious_Violence_in_Minec.md\"> Analogies_of_Religious_Violence_in_Minec </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/3 Gerrymandering and Voter Laws 2020 poa.md\"> 3 Gerrymandering and Voter Laws 2020 poa </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/From Bronze to Iron.md\"> From Bronze to Iron </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Government Exam #2 Study Guide.md\"> Government Exam #2 Study Guide </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Research Paper Thoughts.md\"> Research Paper Thoughts </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE HEBREWS_Lecture Outline.md\"> THE HEBREWS_Lecture Outline </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE PERSIANS_Lecture Outline.md\"> THE PERSIANS_Lecture Outline </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/Totsi Essay.md\"> Totsi Essay </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md\"> 18 Androgenic Second Puberty 101 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Enneagram/articleHow The System Works — The Enneagram Institute.md\"> articleHow The System Works — The Enneagram Institute </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/discussionRed Summer of 1919.md\"> discussionRed Summer of 1919 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/discussionSecond Red Scare Discussion.md\"> discussionSecond Red Scare Discussion </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1960's General Notes.md\"> notes1960's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1970's General Notes.md\"> notes1970's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/primarysourceFirst Amendment to the U.S. Constitution.md\"> primarysourceFirst Amendment to the U.S. Constitution </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md\"> articleDifference between reincarnation in Hinduism and Bhudism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-image.md\"> self-image </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Behavioral Pyschology.md\"> Behavioral Pyschology </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Deconstruction (Christianity).md\"> Deconstruction (Christianity) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/anxiety.md\"> anxiety </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The biblical christian God is evil and does not deserved to be worshipped.md\"> The biblical christian God is evil and does not deserved to be worshipped </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\"> The actual work of being a good person isn't explored by Christianity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md\"> Stereotyping has the pyschological goal of comprehension and self-enhancement </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/evergreen notes.md\"> evergreen notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/second brain.md\"> second brain </a>",
-        "<a class=\"internal-link\" href=\"_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"_INDEX.md\"> _INDEX </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"10 Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md\"> articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace </a>",
-        "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
-        "<a class=\"internal-link\" href=\"30 Topics/evergreen notes.md\"> evergreen notes </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Early childhood trauma causes us to make wide assumptions about the world.md\"> Early childhood trauma causes us to make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
-        "<a class=\"internal-link\" href=\"files without tags.md\"> files without tags </a>",
-        "<a class=\"internal-link\" href=\"files without tags.md\"> files without tags </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/My Second Brain.md\"> My Second Brain </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Ancient Greek Thinking Lecture Outline.md\"> Ancient Greek Thinking Lecture Outline </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Every person has an experience of gender.md\"> Every person has an experience of gender </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/BIONOTE.md\"> BIONOTE </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Computer Science.md\"> Computer Science </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/My TIM.md\"> My TIM </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/second brain.md\"> second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Monster of the Week.md\"> Monster of the Week </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduces outcomes.md\"> Insecure material conditions increase cognitive load and reduces outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Journeys.md\"> Journeys </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/The triad of ever increasing social anxiety.md\"> The triad of ever increasing social anxiety </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to store source notes and definitions in your vault without getting overwhelmed.md\"> How to store source notes and definitions in your vault without getting overwhelmed </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/topic note.md\"> topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The difference between identity and presentation.md\"> The difference between identity and presentation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>"
       ]
     },
     "40 Evergreens": {

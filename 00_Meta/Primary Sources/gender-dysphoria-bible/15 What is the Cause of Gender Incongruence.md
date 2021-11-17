@@ -13,7 +13,7 @@ author: Jocelyn Badgley
 ---
 **The [[Gender Dysphoria]] Bible is a Living Document**
 
-The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third [[Gender]] narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
+The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third [[gender]] narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
 To put it bluntly: We don’t know, not firmly. Science and modern psychology has proven that it is **not** caused by nurture; no one _becomes_ [[transgender]], [[gender identity]] is congenital, solidifying before we even exit the womb. It also appears to sometimes be hereditary; [[transgender]] [[parents]] have a higher likelihood of having [[transgender]] children, and many times they realize this in reverse. The child comes out to the parent, and that helps the parent realize they can come out as well.
 

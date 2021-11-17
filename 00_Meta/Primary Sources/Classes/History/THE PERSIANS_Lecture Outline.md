@@ -92,7 +92,7 @@
 
 8.  **Persian Men and [[Women]]**
 
-9.  **Persian [[Religion]]: Zoroastrianism**
+9.  **Persian [[religion]]: Zoroastrianism**
 
     a.  Zarathustra (aka Zoroaster)
 

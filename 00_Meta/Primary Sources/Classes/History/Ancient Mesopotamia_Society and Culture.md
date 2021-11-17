@@ -4,7 +4,7 @@
 
     b.  In what ways do we see the presence of inequality in Mesopotamian life? Where do we see equality?
 
-2.  **[[Religion]]: Gods and Humans**
+2.  **[[religion]]: Gods and Humans**
 
     a.  Polytheism
 

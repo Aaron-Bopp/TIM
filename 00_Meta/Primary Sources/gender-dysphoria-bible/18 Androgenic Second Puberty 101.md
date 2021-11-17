@@ -121,7 +121,7 @@ DHT (mentioned above) plays a critical role in the development of the erectile t
 [[@salenby](https://twitter.com/salenby) [@FoxxyGlamKitty](https://twitter.com/FoxxyGlamKitty) I've been on T for literally a week and a half, and all I will say is that bottom growth and increased libido starts waaaayyyy quicker than you might think.
 ](https://twitter.com/zeghostboy/status/1374094470753423360)
 
-The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. [[Self]] lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
+The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. [[self]] lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
 
 ##### Increased Emissions During Climax 
 With the swelling of the prostate comes more prostate fluid. If you weren’t a squirter before, you may become one now.

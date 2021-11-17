@@ -18,7 +18,7 @@ This fact is true in both synchronous interactions like fear responses and [[sel
 
 [^1]: [[Our brain will do anything it can to protect itself]]
 
-Parent's need to be aware of how their behaviors can affect their children: [[Our authority figures curate and reinforce what we are allowed to imitate]]. [[Trauma]] in the home will very much transfer to the child in some way: [[Children in traumatic households expect more love than their parents can give]]
+Parent's need to be aware of how their behaviors can affect their children: [[Our authority figures curate and reinforce what we are allowed to imitate]]. [[trauma]] in the home will very much transfer to the child in some way: [[Children in traumatic households expect more love than their parents can give]]
 
 See:: [[How can parent's best help their children]]
 

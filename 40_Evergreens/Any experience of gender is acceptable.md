@@ -10,7 +10,7 @@ sr-ease: 300
 
 #### [[Any experience of gender is acceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-> [[Gender]], however, is a lot more… esoteric. There are a lot of different ways that people have attempted to illustrate the [[gender]] spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
+> [[gender]], however, is a lot more… esoteric. There are a lot of different ways that people have attempted to illustrate the [[gender]] spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
 > 
 > Only an individual can identify their own [[gender]], no one else can dictate it for them
 > 

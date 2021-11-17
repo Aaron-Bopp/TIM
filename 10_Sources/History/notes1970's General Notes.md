@@ -65,7 +65,7 @@ source: NWMSU
           - Silent majority
      - Election of 1972
           - Used southern strategy
-               - oppose [[civil rights]], affirmative action
+               - oppose [[Civil Rights]], affirmative action
                - tried to outlaw personal decisions
           - Realigned parties closer to what they are today
                - republicans
@@ -73,7 +73,7 @@ source: NWMSU
                     - small government
                     - fiscally conservative
                - democrats
-                    - [[civil rights]]
+                    - [[Civil Rights]]
                     - social rights
      - Foreign policy
           - Withdrew from Vietnam

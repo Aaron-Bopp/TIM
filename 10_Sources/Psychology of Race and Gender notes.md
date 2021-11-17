@@ -162,11 +162,11 @@
 
 # Week 7 
 
-1.  Chapter 2: Theoretical Perspectives on [[Gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
+1.  Chapter 2: Theoretical Perspectives on [[gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
 
 # Week 8 
 - [[textbook_Hyde&Elsequest_pyschology of women and gender]]
-	1.  Chapter 2: Theoretical Perspectives on [[Gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
+	1.  Chapter 2: Theoretical Perspectives on [[gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
 	2.  Chapter 7: Lifespan Development, pp. 151-179. Access through your Else-Quest & Hyde (2018) textbook.
 
 ## Gender schema theory
@@ -176,8 +176,8 @@
 - 
 # Week 9 
 
-1.  Chapter 3: [[Gender]] Stereotypes and [[Gender]] Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
-2.  Chapter 10: Biology and [[Gender]], pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
+1.  Chapter 3: [[gender]] Stereotypes and [[gender]] Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
+2.  Chapter 10: Biology and [[gender]], pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
 - [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]
 - Difference between [[stereotype threat]] and [[self-fullfilling prophecy]]
 	- [[stereotype threat]] is state-dependent (sterotype threat needs to be reinforced) and usually affects performance that the individual is good at
@@ -236,8 +236,8 @@
 # Week 14 
 
 1.  Chapter 4, Focus 4.1: Racial Microaggressions, pp. 90-91. Access through your Else-Quest & Hyde (2018) textbook.
-2.  Chapter 9: [[Gender]] and Work, pp. 210-216. Access through your Else-Quest & Hyde (2018) textbook.
-3.  Chapter 14: [[Gender]] and Victimization, pp. 311-336. Access through your Else-Quest & Hyde (2018) textbook.
+2.  Chapter 9: [[gender]] and Work, pp. 210-216. Access through your Else-Quest & Hyde (2018) textbook.
+3.  Chapter 14: [[gender]] and Victimization, pp. 311-336. Access through your Else-Quest & Hyde (2018) textbook.
 
 # Week 15
 No assigned readings. 

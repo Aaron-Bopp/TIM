@@ -1,6 +1,6 @@
 ---
 created: 2021-07-21
-tags: node/topic/outline
+tags: node/topic/outline, node/personal
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

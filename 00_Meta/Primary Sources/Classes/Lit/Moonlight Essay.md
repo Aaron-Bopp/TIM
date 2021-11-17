@@ -15,6 +15,6 @@ In part three the lanky, skinny Chiron is now replaced by a muscular, masculine 
 
 Works Cited
 
-Errol Lamont Fields, Laura M. Bogart, Katherine C. Smith, David J. Malebranche, Jonathan Ellen, Mark A. Schuster. (2015) "I Always Felt I Had to Prove My Manhood": Homosexuality, Masculinity, [[Gender]] Role Strain, and HIV Risk Among Young Black Men Who Have Sex With Men." Am J Public Health. 2015 Jan; 105(1): 122--131. DOI: 10.2105/AJPH.2013.301866
+Errol Lamont Fields, Laura M. Bogart, Katherine C. Smith, David J. Malebranche, Jonathan Ellen, Mark A. Schuster. (2015) "I Always Felt I Had to Prove My Manhood": Homosexuality, Masculinity, [[gender]] Role Strain, and HIV Risk Among Young Black Men Who Have Sex With Men." Am J Public Health. 2015 Jan; 105(1): 122--131. DOI: 10.2105/AJPH.2013.301866
 
-Paul Horton (2018) "The bullied boy: masculinity, embodiment, and the gendered social-ecology of [[Vietnam|Vietnamese]] school bullying," [[Gender]] and [[Education]], DOI: 10.1080/09540253.2018.1458076
+Paul Horton (2018) "The bullied boy: masculinity, embodiment, and the gendered social-ecology of [[Vietnam|Vietnamese]] school bullying," [[gender]] and [[Education]], DOI: 10.1080/09540253.2018.1458076

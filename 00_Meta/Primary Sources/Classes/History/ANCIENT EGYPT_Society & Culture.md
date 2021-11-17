@@ -6,7 +6,7 @@
 
     iii. In what ways was Egyptian life "easier" than Mesopotamian?
 
-2.  ***Egyptian [[Religion]]***
+2.  ***Egyptian [[religion]]***
 
     i.  Polytheism
 

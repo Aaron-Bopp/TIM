@@ -20,7 +20,17 @@ aliases:
 - [[Were Jesus' teachings anti-thetical to the modern christian church]]
 	- [[The church will fail if christians keep aligning themselves with hate instead of love]]
 	- [[Loving a a non-believer requires loving the fact that they are going to hell]]
-- ![[Deconstruction (Christianity)#Deconstruction (Christianity) customJS dv_funcs topicOutlineHeader dv this]]
+- [[Deconstruction (Christianity)]]
+	- [[My Deconstruction journey]]
+	- [[My worldview is not about conversion it is about acceptance]]
+    - [[You can leave the church and still believe in the christian god]]
+        - [[Fear cannot be a deterant for deconstructing your faith]]
+    - Analogies
+        - [[Deconstructing your faith is like climbing through a jungle canopy]]
+        - [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]]
+    - Why people deconstruct
+        - [[Non-faith issues have been co-opted to keep people in the christian church]]
+        - [[religious trauma]]
 
 ### <hr class="dataviews"/>
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

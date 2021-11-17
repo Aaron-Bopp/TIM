@@ -96,7 +96,7 @@
 
     c.  Sexual Promiscuity (adultery)-- could lead to exile
 
-    d.  [[Self]]-Control & Moderation -- polis held above all else
+    d.  [[self]]-Control & Moderation -- polis held above all else
 
 7.  **Greek [Women]{.ul} in the Classical Age**
 

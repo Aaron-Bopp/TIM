@@ -12,7 +12,7 @@ a feeling of worry, nervousness, or unease about something with an uncertain out
 **See**:: [[mental health]], [[mental illness]], [[self]], [[mindfullness]], [[conscious]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### [[Anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+##### [[anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Your anxiety is telling you everything that could go wrong not what will go wrong]]
 - [[Social anxiety isn't irrational it's just overcompensation]]

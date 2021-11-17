@@ -109,4 +109,4 @@ These people will stop at nothing to invalidate your existence. Do not give them
 ### Gender Abolitionism / Postgenderism 
 [Postgenderism](https://en.wikipedia.org/wiki/Postgenderism) is a [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [[philosophy]] originating in radical feminism which states that [[gender]] causes more harm than good, and seeks to eradicate it from our society. GAs believe that all [[gender]] is a construct and that anyone who feels strongly connected to a binary [[gender]] is either nefariously propagating [[gender]] stereotypes or ignorantly following systemic [[indoctrination]].
 
-GAs do not believe in the existence of [[gender dysphoria]], and will attempt to invalidate those who experience it. They’re functionally the extreme leftist version of the [[Gender]] Critical movement.
+GAs do not believe in the existence of [[gender dysphoria]], and will attempt to invalidate those who experience it. They’re functionally the extreme leftist version of the [[gender]] Critical movement.

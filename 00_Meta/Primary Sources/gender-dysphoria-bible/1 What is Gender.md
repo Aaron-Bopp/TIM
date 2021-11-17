@@ -8,10 +8,10 @@ author: Jocelyn Badgley
 # What is Gender? :: That's Gender Dysphoria, FYI
 
 > ## Excerpt
-> How do we define the concept of [[Gender]], and how does it differ from Sex?
+> How do we define the concept of [[gender]], and how does it differ from Sex?
 
 ---
-> [[Def]] **[[Gender]]** - The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., [[gender]] roles), or [[gender identity]] (the personal sense of one's own [[gender]]).
+> [[Def]] **[[gender]]** - The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., [[gender]] roles), or [[gender identity]] (the personal sense of one's own [[gender]]).
 
 If you trace the etymology of the word to its Latin roots, [[gender]] simply means “type”. The Norman [[France|French]] term **gendre** was in use in the 12th century to describe “the quality of being male or female.”
 
@@ -24,7 +24,7 @@ Many people attribute the term to psychologist [John Money], who proposed using 
 
 [@KatyMontgomerie](https://twitter.com/KatyMontgomerie) Magnus Hirschfield was writing about Third Genders and transitioning between sex and [[gender]] in the late 1800s.
 
-This book of his, entitled "What do people need to know about the Third [[Gender]]?" was written in 1901.
+This book of his, entitled "What do people need to know about the Third [[gender]]?" was written in 1901.
 
 This stuff isn't new, it was just sidelined.
 
@@ -42,11 +42,11 @@ Any of these three aspects can fall into a position on a range of values. Your e
 
 Likewise, many people believe that Phenotype is also binary, but biology has recognized for hundreds of years that when you plot out all sexual characteristics across a population, you actually end up with a bimodal distribution where the majority of the population falls within a percentile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
 
-[[Gender]], however, is a lot more… esoteric. There are a lot of different ways that people have attempted to illustrate the [[gender]] spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
+[[gender]], however, is a lot more… esoteric. There are a lot of different ways that people have attempted to illustrate the [[gender]] spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
 
 [[Any experience of gender is acceptable]] The short of it is, some people are very male, some people are very female, some people feel no [[gender]] at all, some people feel both, some are smack in the middle, some land along the edges. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Only an individual can identify their own [[gender]], no one else can dictate it for them. ^iaqtza
 
-==[[Gender]] is part social construct, part learned behaviors, and part biological processes which form very early in a person’s life.==
+==[[gender]] is part social construct, part learned behaviors, and part biological processes which form very early in a person’s life.==
 
 [[Biology supports the validity of trans people]] ==Present evidence seems to suggest that a person’s [[gender]] is established during gestation while the cerebral cortex of the brain is forming== (more about that in the Causes of [[Gender Dysphoria]] section). This mental model then informs, at a [[subconscious]] level, what aspects of the [[gender]] spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people.
 
@@ -62,7 +62,7 @@ On the social side, [[gender]] involves our [habitus](https://en.wikipedia.org/w
 
 Indeed, these are all cultural factors; things which have developed within the population over time. Regardless of being essentially “made up”, they are still strongly gendered and a person tends to connect to the gendered habitus of their internal [[self]], without even realizing they are doing it. When we are denied access to those social aspects, this results in discomfort with one’s social position in life.
 
-John Money’s experiments attempted to confirm his belief that [[gender]] is entirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experiment was a massive failure (see the Biochemical Dysphoria section). [[Gender]] does not change, every human is the same [[gender]] at 40 that they were at 4. What changes is our own personal understanding of our [[gender]] as we mature as individuals.
+John Money’s experiments attempted to confirm his belief that [[gender]] is entirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experiment was a massive failure (see the Biochemical Dysphoria section). [[gender]] does not change, every human is the same [[gender]] at 40 that they were at 4. What changes is our own personal understanding of our [[gender]] as we mature as individuals.
 
 These negative symptoms ([[depression]], [[derealization]], [[social discomfort]]) are the symptoms of [[gender dysphoria]].
 

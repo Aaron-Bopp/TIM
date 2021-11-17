@@ -36,7 +36,7 @@ Type: Discussion
         - Bootlegging helped the rise of the mafia
     - Unions 816
     - NAACP 797
-    - Newspaper Headline accused [[civil rights]] activists of being guided by communists "REDS TRY TO STIR NEGROES TO [[Revolution]]" (Textbook 776)
+    - Newspaper Headline accused [[Civil Rights]] activists of being guided by communists "REDS TRY TO STIR NEGROES TO [[Revolution]]" (Textbook 776)
     - White workers resented black workers who were hired as strike breakers. (Textbook 776)
 
 [Red Summer | National WWI Museum and Memorial](https://www.theworldwar.org/learn/wwi/red-summer)
@@ -79,7 +79,7 @@ Type: Discussion
 
     [**The Crisis October 1919**](
 
-    - [Walter Francis White](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4nvrpu97vAhVRZ80KHdliBvMQFjAAegQIBxAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWalter_Francis_White&usg=AOvVaw3aYbq2KASObi4jgBqJAzec) (July 1, 1893 � March 21, 1955) was an African-American [[civil rights]] activist who led the National Association for the Advancement of Colored People (NAACP) for a quarter of a century, 1929�1955
+    - [Walter Francis White](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4nvrpu97vAhVRZ80KHdliBvMQFjAAegQIBxAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWalter_Francis_White&usg=AOvVaw3aYbq2KASObi4jgBqJAzec) (July 1, 1893 � March 21, 1955) was an African-American [[Civil Rights]] activist who led the National Association for the Advancement of Colored People (NAACP) for a quarter of a century, 1929�1955
     - Unions blamed packers, and packers blamed unions
     - **8 General causes for the riots**
         1. Race Prejudice
@@ -138,7 +138,7 @@ Type: Discussion
 
 - Part B:  What parallels do you see between the causes, [[media]] coverage, and [[government]] reactions between your Red Summer event and the Black Lives Matter [[protests]] of the past 12 months?  What does this suggest about how much [[America|the United States]] has changed or not changed in the past century?
 
-    The parallel is murder fueled by [[racism]] that is upheld by the state and enforced by the police. A full comparison between the Red Summer and 2020 is an extremely difficult one to make, involving a hundred years of [[civil rights]] activists and a hundred years of unresponsive politicians, but the question of how much we have changed is very easy to answer: not enough.  It has been 156 years since the Thirteenth Amendment, 102 years since the Red Summer, 67 years since the [[Civil Rights]] Act, 66 years since the Voting Rights Act, 53 years since the Fair Housing Act, and yet last summer millions of people in at least 40 countries gathered to protest police brutality. ([NBC](https://www.nbcnews.com/news/world/map-george-floyd-[[protests]]-countries-worldwide-n1228391)) All these laws were either too little, too late or both. The constructors of oppression were legislated faster than their deconstructors, so the effects have remained. [[BIPOC]] are still oppressed by systems that are built to protect and uphold [[white supremacy]].
+    The parallel is murder fueled by [[racism]] that is upheld by the state and enforced by the police. A full comparison between the Red Summer and 2020 is an extremely difficult one to make, involving a hundred years of [[Civil Rights]] activists and a hundred years of unresponsive politicians, but the question of how much we have changed is very easy to answer: not enough.  It has been 156 years since the Thirteenth Amendment, 102 years since the Red Summer, 67 years since the [[Civil Rights]] Act, 66 years since the Voting Rights Act, 53 years since the Fair Housing Act, and yet last summer millions of people in at least 40 countries gathered to protest police brutality. ([NBC](https://www.nbcnews.com/news/world/map-george-floyd-[[protests]]-countries-worldwide-n1228391)) All these laws were either too little, too late or both. The constructors of oppression were legislated faster than their deconstructors, so the effects have remained. [[BIPOC]] are still oppressed by systems that are built to protect and uphold [[white supremacy]].
 
 - An analysis of more than 7,750 demonstrations in 2,400 locations across the country found that 93% happened with no violence, according to [[America|the US]] Crisis Monitor, a joint effort by Princeton University and the Armed Conflict Location & Event Data Project.
 

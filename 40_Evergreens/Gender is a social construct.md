@@ -22,7 +22,7 @@ Current discussion of [[gender roles]], [[Patriarchy]], [[feminism]], [[sexism]]
 
 The answer is unfortunately in [[Politics]], and the [[Rise of Modern Conservatism]]
 
-[[Transgender]] people have been demonized in our [[society]], and [[religion|religious]] fundamentalism has caused endless [[childhood]] [[trauma]]: [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+[[transgender]] people have been demonized in our [[society]], and [[religion|religious]] fundamentalism has caused endless [[childhood]] [[trauma]]: [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
 
 Especially within the last thirty years, trans [[activism|activists]] have built support for the [[Queer]] [[community]], and pushed doctors and the government to support treatement for [[gender dysphoria]]. They have advocated that [[Any experience of gender is acceptable]] and improved the lives of trans people, but as these beliefs have become more main stream they have received backlash.
 

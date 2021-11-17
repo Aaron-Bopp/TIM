@@ -26,7 +26,7 @@
 
     d.  Writing and Diplomacy as Power more powerful than armys. Formed old Babylonian empire
 
-    e.  [[Religion]] and Marduk -- polytheism, but marduk is most important
+    e.  [[religion]] and Marduk -- polytheism, but marduk is most important
 
     f.  The Code of Hammurabi -- new standard of kingship, could not pass onto son
 

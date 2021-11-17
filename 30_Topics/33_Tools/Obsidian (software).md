@@ -4,14 +4,48 @@ aliases:
   - Obsidian
 tags: node/topic/tool
 ---
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#TO/TEND/REFACTOR whole note
+# [[Obsidian (software)|Obsidian]]
+
 Obsidian is a markdown editor that includes many features that are valuable to [[knowledge management]] systems.
 
-Snippets:: https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/develop/Snippets
+**See**:: [[Zettlekassen]], [[second brain]], [[Use Obsidian tags as temporal classifiers]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-It supports helpful technologies
+## Getting Started
+
+List of resources https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp for learning obsidian 
+
+[The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is more well-kept then this note will ever be
+
+### Example Vaults
+
+- [The quantum well](https://publish.obsidian.md/myquantumwell/Knowledge+Management) academic, math-related
+- [Bullet journalling setup](https://forum.obsidian.md/t/slrvbs-journaling-setup/22346/5) from [[SIRvb]]
+
+## Built-ins
+
+These are things that are built into obsidian:
 - [[Mermaid (software)]]
+- CodeJax
+
+### CSS
+
+You can use [[CSS]] to alter the visuals of the app and add some fun and interesting features
+
+- [Snippets](https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/develop/Snippets)
+    - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme)
+    - [Position images](https://slrvb.github.io/Site/3_Nebula/ITS-Theme/ITST_Image-Positions/)
+- Themes
+    - Sanctum adds pseudo-admonitions
+
+### HTML
+
+You can embed [[HTML]] directly into your notes which allows you to do things like have iframes display web content
+
+## Plugins
+
 It also has a variety of plugins that help the workflow
 - [[Templater]]
 	- Allows for advanced code execution and pre-built templates in [[Obsidian (software)]]
@@ -23,25 +57,5 @@ It also has a variety of plugins that help the workflow
 	- Named after the prolific [[Andy Matuschak]]
 - [[Dual (plugin)]]
 - [obsidian text expand](https://github.com/mrjackphil/obsidian-text-expand) 
-- [Position images](https://slrvb.github.io/Site/3_Nebula/ITS-Theme/ITST_Image-Positions/)
-- [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme)
-- [hot reload for plugin development](https://forum.obsidian.md/t/plugin-release-for-developers-hot-reload-the-plugin-s-youre-developing/12185)
 
-#### Example Vaults
-- [good examples for [[202 INDEX]] card size snippets of info](https://publish.obsidian.md/myquantumwell/Knowledge+Management)
-	- academic, math-related
-- [large database with lots of dataview](https://publish.obsidian.md/slrvb/50+Nebula/30-N+Nebula/N+-+MediaDB+Vault+Setup)
-- [journaling setup w/ dataview](https://forum.obsidian.md/t/slrvbs-journaling-setup/22346/5)
-	- mainly dat to day stuff but lots of advanced [[Dataview]] (without dataviewjs)
-
-
----
-
-**Status**:: #EVER/GREEN 
-*edited `=this.file.mtime`*
-
-**Topics**:: [[Zettlekassen]], [[second brain]], [[Use Obsidian tags as temporal classifiers]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-**Outline**::
-
+See:: [[Develop Obsidian plugins]]

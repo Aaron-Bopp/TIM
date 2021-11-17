@@ -41,6 +41,8 @@ If you'd like to hear more about [[evergreen notes]], which are core to this sys
 
 [^2]: [[Evergreen notes organize knowledge so that it can grow]]
 
+Or if you just want to know more about [[Obsidian (software)|Obsidian]] checkout: [[Obsidian (software)#Getting Started]]
+
 ## I am not looking through all this crap, tell me what you're all about
 
 I get it, we aren't all [[Autism|autistic]] pastor's kids with savior complex's set out to save everything and everyone in the ultimate search for a system of thought that will lead us to [[enlightenment]]. *That's fine.* **I am in therapy.** It's all good. However, if you've made it this far and want to hear my thoughts on anything besides [[note writing]] click here: [[204 Me]]

@@ -272,7 +272,7 @@ Chapter 5
 
     -   Switch table -- mac address and interface
 
-    -   [[Self]]-learning -- learns where hosts are
+    -   [[self]]-learning -- learns where hosts are
 
     -   Plug and play device
 

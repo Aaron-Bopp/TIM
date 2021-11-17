@@ -3,7 +3,7 @@ A Case Study of 2b2t
 
 Kit Apostolacus
 
-[[Religion]], Violence, and Peace
+[[religion]], Violence, and Peace
 
 Dr. Patrick Mason
 
@@ -61,7 +61,7 @@ Religiosity and play may both characterized in some individual cases by a transc
 
 # A Religion of Anarchic Irony
 
-[[Religion]] is often understood as a very serious enterprise. We may be able to think of God as one who weeps (John 11:35) but it is harder to imagine God as one who laughs (at jokes, not the devil's demise). We like to think of [[religion]] as "structured" and mildly predictable. It may be surprising to some that, in the case of 2b2t, we find a [[religion]] oriented toward anarchy inundated with irony. But as mentioned earlier, there comes a point where it is unclear whether the players are being ironic anymore. This [[religion]] is maintained, in large part, through violent rebellion against those who seek to establish order in the server. In short, the believers of 2b2t worship an established state of affairs that makes their lives on the server possible. Some may interpret certain actions as hostility toward [[religion]], but a closer look reveals that those actions are better characterized as either an aversion to imposed order or an appendage of the natural law of 2b2t---creation and destruction. The true nature of Minecraft, as manifest in 2b2t, "makes you a better Minecrafter."[^26]
+[[religion]] is often understood as a very serious enterprise. We may be able to think of God as one who weeps (John 11:35) but it is harder to imagine God as one who laughs (at jokes, not the devil's demise). We like to think of [[religion]] as "structured" and mildly predictable. It may be surprising to some that, in the case of 2b2t, we find a [[religion]] oriented toward anarchy inundated with irony. But as mentioned earlier, there comes a point where it is unclear whether the players are being ironic anymore. This [[religion]] is maintained, in large part, through violent rebellion against those who seek to establish order in the server. In short, the believers of 2b2t worship an established state of affairs that makes their lives on the server possible. Some may interpret certain actions as hostility toward [[religion]], but a closer look reveals that those actions are better characterized as either an aversion to imposed order or an appendage of the natural law of 2b2t---creation and destruction. The true nature of Minecraft, as manifest in 2b2t, "makes you a better Minecrafter."[^26]
 
 The [[religion]] of 2b2t manifests in three ways: unironic, ironic, and analogical. Unironic manifestations are most often seen in the construction and griefing of churches, cathedrals, temples, monuments, and sanctuaries. Doctrzombie points out, however, that these aren't "specific to 2b2t although it is interesting given the server\'s notorious history, but for some reason people like to build churches in block games."[^27] But there are structures unique to 2b2t that have acquired a religious specter. The Valley of Wheat is a fantastic monument, adorned with sandstone sphinxes, which is so revered on the server that even PopBob, the server's most notorious and ruthless griefer, went there to kill Jang (the builder of the Valley) but did not touch the Valley at all.[^28] While some have griefed it in the past (e.g. various Rushers) those griefers are widely discredited by older players on 2b2t.
 
@@ -153,7 +153,7 @@ Allaby, Michael, editor. "Rhizome." *Oxford Dictionary of Plant Sciences*. Oxfor
 
 Building 429, "Where I Belong," *Listen to the Sound*. Produced by Jason Ingram and Rusty Varenkamp. 2011.
 
-Campbell, Heidi A., Rachel Wagner, Shanny Luft, Rabia Gregory, Gregory Price Grieve, and Xenia Zeiler. "Gaming Religionworlds: Why Religious Studies Should Pay Attention to [[Religion]] in Gaming." *[[Journal]] of the American Academy of [[Religion]]* 84:3 (September 2016): 641-64.
+Campbell, Heidi A., Rachel Wagner, Shanny Luft, Rabia Gregory, Gregory Price Grieve, and Xenia Zeiler. "Gaming Religionworlds: Why Religious Studies Should Pay Attention to [[religion]] in Gaming." *[[Journal]] of the American Academy of [[religion]]* 84:3 (September 2016): 641-64.
 
 Deleuze, Gilles and Felix Guattari. *A Thousand Plateaus: [[Capitalism]] and Schizophrenia*. Translated by Brian Massumi. Minneapolis, Minn.: University of Minnesota, 2007.
 
@@ -209,7 +209,7 @@ Torogadude, username. "5000 Subscriber Special -- Kill me at spawn -- Livestream
 
 Torogadude, username. "My priority access to 2b2t has been revoked." *YouTube*. 2:57. August 19, 2016. \<https://www.youtube.com/watch?v=smXOnRO4xSI&list=PLpmrJ8aHeceg85USQMe6SP9uXlblltvYa&[[index]]=13>.
 
-Tweed, Thomas. *Crossing and Dwelling: A Theory of [[Religion]]*. Cambridge, Mass.: Harvard University Press, 2006.
+Tweed, Thomas. *Crossing and Dwelling: A Theory of [[religion]]*. Cambridge, Mass.: Harvard University Press, 2006.
 
 [^1]: 2b2t is an acronym for "2 Builders, 2 Tools." However, the etymology is not important for the purposes of this paper, so I will not explore it in this paper. Colloquially, 2b2t is known as "The World's Worst Server" (seen in the earliest of DoctrZombie's videos), "The World's Oldest Server" (seen in TheCampingRusher's videos) and "The World's Second Oldest Server" (seen in various contexts correcting or mocking TheCampingRusher). 2b2t was started in December 2010, ten months before the game's official release date (October 2011). It is located at the IP: 2b2t.org.
 
@@ -233,7 +233,7 @@ Tweed, Thomas. *Crossing and Dwelling: A Theory of [[Religion]]*. Cambridge, Mas
 
 [^11]: One of the deadliest mobs in vanilla Minecraft. They can be created in any realm with [[soul]] sand and Wither skeleton heads. They fire wither heads at players and animals which explode on impact and give a status effect called "wither." See Figure IV.
 
-[^12]: Owen Gottlieb, "Current Key Perspectives in Video Gaming and [[Religion]]: Theses by Owen Gottlieb," *Gamevironments* 1.3 (2016): 23.
+[^12]: Owen Gottlieb, "Current Key Perspectives in Video Gaming and [[religion]]: Theses by Owen Gottlieb," *Gamevironments* 1.3 (2016): 23.
 
 [^13]: Ibid., 19.
 
@@ -243,17 +243,17 @@ Tweed, Thomas. *Crossing and Dwelling: A Theory of [[Religion]]*. Cambridge, Mas
 
 [^16]: Personal correspondence with doctrzombie, November 12, 2016.
 
-[^17]: Heidi A. Campbell, Rachel Wagner, Shanny Luft, Rabia Gregory, Gregory Price Grieve, and Xenia Zeiler, "Gaming Religionworlds: Why Religious Studies Should Pay Attention to [[Religion]] in Gaming," *JAAR* 84.3 (September 2016): 643-46.
+[^17]: Heidi A. Campbell, Rachel Wagner, Shanny Luft, Rabia Gregory, Gregory Price Grieve, and Xenia Zeiler, "Gaming Religionworlds: Why Religious Studies Should Pay Attention to [[religion]] in Gaming," *JAAR* 84.3 (September 2016): 643-46.
 
 [^18]: Michael Allaby, ed. "Rhizome" *Oxford Dictionary of Plant Sciences* (Oxford: Oxford University Press, 2012), 439.
 
 [^19]: Gilles Deleuze and Felix Guattari, *A Thousand Plateaus: [[Capitalism]] and Schizophrenia*, [[transgender|trans]]. by Brian Massumi (Minneapolis, Minn.: University of Minnesota, 2007), 7, 25.
 
-[^20]: Thomas Tweed, *Crossing and Dwelling: A Theory of [[Religion]]* (Cambridge, Mass.: Harvard University Press, 2006), 21.
+[^20]: Thomas Tweed, *Crossing and Dwelling: A Theory of [[religion]]* (Cambridge, Mass.: Harvard University Press, 2006), 21.
 
 [^21]: Ibid., 70.
 
-[^22]: Campbell, Wagner, Luft, Gregory, Grieve, and Zeiler, "Gaming Religionworlds: Why Religious Studies Should Pay Attention to [[Religion]] in Gaming," 645.
+[^22]: Campbell, Wagner, Luft, Gregory, Grieve, and Zeiler, "Gaming Religionworlds: Why Religious Studies Should Pay Attention to [[religion]] in Gaming," 645.
 
 [^23]: Ibid.
 

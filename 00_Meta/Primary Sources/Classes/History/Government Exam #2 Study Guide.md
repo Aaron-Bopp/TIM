@@ -6,7 +6,7 @@
 
         i.  States like alabama were claiming that the constitution only applied in federal areas (after the [[civil war]])
 
-    b.  Civil liberties are the end, [[civil rights]] are the means to the end. We should have certain civil liberties, [[civil rights]] protects them
+    b.  Civil liberties are the end, [[Civil Rights]] are the means to the end. We should have certain civil liberties, [[Civil Rights]] protects them
 
 2.  What is "the press"?
 
@@ -179,7 +179,7 @@ B. Key terms/concepts
 
 \-- How do you measure "effective policing"? Baltimore and Ferguson case studies.
 
-\-- "The System": heavily policing poor areas and the arrest of poor people... bail realities (see reading); under-resourced public defenders; prosecutors' and plea bargains; inmates being billed for room and board while behind bars means emerging from [[prison]] with [[debt]]; parole officers requiring payment for [[prison]]-related debt\...
+\-- "The System": heavily policing poor areas and the arrest of poor people... bail realities (see reading); under-resourced public defenders; prosecutors' and plea bargains; inmates being billed for room and board while behind bars means emerging from [[Prison]] with [[debt]]; parole officers requiring payment for [[Prison]]-related debt\...
 
 D. Police Militarization \-- How does this affect civil-police relations. How does this affect the delivery of [[SEARCH]] warrants?
 
@@ -279,7 +279,7 @@ ii. *Obergefell v. Hodges* \-- see [[https://www.oyez.org/cases/2014/14-556]{.ul
 >
 > Iv. Do [[government]] employees have to issue marriage licenses to same-sex couples, even if said employees' religious beliefs say they should not? (Kim Davis example)
 
-B. LGBTQ+ Claims for [[civil rights]] and ...
+B. LGBTQ+ Claims for [[Civil Rights]] and ...
 
 1\. Indiana's 2015 "[[Religious Freedom]] Restoration Act"
 
@@ -315,7 +315,7 @@ C. LGBTQ+ issues in the Trump Presidency
 
 4.  TITLE IX DISCUSSION
 
-    a.  As discussed in class, which federal [[civil rights]] law is Title IX associated with?
+    a.  As discussed in class, which federal [[Civil Rights]] law is Title IX associated with?
 
     b.  What "due process" did the [[Obama]] administration favor for universities to use when investigating sexual assault claims? Who is given the most benefit of the doubt: the accuser or the accused?
 

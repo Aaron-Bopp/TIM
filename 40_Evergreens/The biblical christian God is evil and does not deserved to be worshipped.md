@@ -28,5 +28,5 @@ It is hard to look at the god described in the bible and not think he is either 
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[christianity]], [[Conservatism]], [[Evangelicalism]]
+**Topics**:: [[Christianity]], [[Conservatism]], [[Evangelicalism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

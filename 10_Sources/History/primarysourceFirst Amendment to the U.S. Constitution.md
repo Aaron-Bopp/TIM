@@ -50,7 +50,7 @@ What does the First Amendment say about freedom of speech? Can speech be restric
 
 How did freedom of the press come about? Are there restrictions on press freedom? The ways in which this core freedom has developed in law are explained in this overview by a First Amendment scholar. In quotations from one court ruling, “‘\[F\]reedom of expression upon public questions is secured by the First Amendment’” so that “‘debate on public issues should be uninhibited, robust and wide-open.’”
 
-[**[[Religion]]**](http://www.newseuminstitute.org/first-amendment-center/topics/freedom-of-religion/religious-liberty-in-[[america]]-overview/)
+[**[[religion]]**](http://www.newseuminstitute.org/first-amendment-center/topics/freedom-of-religion/religious-liberty-in-[[america]]-overview/)
 
 The First Amendment introduced bold new ideas to the world: that [[government]] must not impose a state [[religion]] on the public, or place undue restrictions on religious practice, but must recognize the right of the people to believe and worship, or not, as their conscience dictates. This First Amendment scholar’s overview makes clear the many aspects of our [[religious freedom]], saying, “That bold constitutional experiment in granting [[religious freedom]] to all remains in place, and in progress, in [[America|the United States]].”
 

@@ -35,7 +35,7 @@ In conclusion, Buddhism regards rebirth as a flow of life from one to the other,
 
 Works Cited
 
-Bhikshu, Kusala. “Buddhist [[Enlightenment]] vs. Nirvana.” _UrbanDharma_. Urban Dharma, n.d. Web. 24 Aug. 2013. <http://www.urbandharma.org/udharma6/enlightnirvana.html>.
+Bhikshu, Kusala. “Buddhist [[enlightenment]] vs. Nirvana.” _UrbanDharma_. Urban Dharma, n.d. Web. 24 Aug. 2013. <http://www.urbandharma.org/udharma6/enlightnirvana.html>.
 
 “Buddhism Origins.” _Patheos Library_. Avalon Consulting, n.d. Web. 24 Aug. 2013. <http://www.patheos.com/Library/Buddhism.html>.
 
@@ -70,7 +70,7 @@ In conclusion, Buddhism regards rebirth as a flow of life from one to the other,
 
 Works Cited
 
-Bhikshu, Kusala. “Buddhist [[Enlightenment]] vs. Nirvana.” _UrbanDharma_. Urban Dharma, n.d. Web. 24 Aug. 2013. <http://www.urbandharma.org/udharma6/enlightnirvana.html>.
+Bhikshu, Kusala. “Buddhist [[enlightenment]] vs. Nirvana.” _UrbanDharma_. Urban Dharma, n.d. Web. 24 Aug. 2013. <http://www.urbandharma.org/udharma6/enlightnirvana.html>.
 
 “Buddhism Origins.” _Patheos Library_. Avalon Consulting, n.d. Web. 24 Aug. 2013. <http://www.patheos.com/Library/Buddhism.html>.
 

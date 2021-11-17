@@ -2,8 +2,7 @@
 created: 2021-06-25
 tags: node/topic/outline
 aliases:
-- mental illness
-parent: [[mental health]]
+  - null
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

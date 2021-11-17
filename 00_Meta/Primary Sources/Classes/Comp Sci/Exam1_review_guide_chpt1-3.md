@@ -154,7 +154,7 @@
 
         -   Every peer acts as client and server, scales with amount of peers. Management is complex as IPs are changing and peers and intermittently connected
 
--   [[Self]]-scalability
+-   [[self]]-scalability
 
     -   New peers bring new service capacity and new demands
 

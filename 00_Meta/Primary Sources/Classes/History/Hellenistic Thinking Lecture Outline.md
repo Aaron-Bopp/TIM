@@ -46,7 +46,7 @@
 
     -   What hinders a free life?
 
-    -   [[Self]]-Sufficiency and Spiritual Security
+    -   [[self]]-Sufficiency and Spiritual Security
 
 -   **Astronomy**
 

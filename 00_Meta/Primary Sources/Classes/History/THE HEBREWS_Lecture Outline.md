@@ -82,7 +82,7 @@
 
         ii. Judah & the Babylonians (689 BCE)
 
-6.  [[Religion]] in Ancient [[Israel]]
+6.  [[religion]] in Ancient [[Israel]]
 
     a.  Henotheism vs. Monotheism henotheistic before capitivity mono after
 

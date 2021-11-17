@@ -21,6 +21,6 @@ sr-ease: 170
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[politics]], [[cognitive dissonance]],  [[anti-vax]]
+**Topics**:: [[Politics]], [[cognitive dissonance]],  [[anti-vax]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

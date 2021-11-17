@@ -28,7 +28,7 @@ deliveredBy:
 
 [^212168948]:  https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F2%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A0%2C2%2F2%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A140#:~:text=Everyone%20emerges%20from%20childhood%20with%2Cmain%20determinants%20of%20our%20type
 %%
-highlight_tags:: [[early childhood]], [[neuroscience]]
+highlight_tags:: [[early childhood]], [[Neuroscience]]
 %%
 ##### ^212169663
   

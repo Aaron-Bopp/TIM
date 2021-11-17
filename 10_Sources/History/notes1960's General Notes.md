@@ -40,7 +40,7 @@ source: NWMSU
                 - increased [[education]]
                 - medical care for elderly
                 - Urband reforms (city housing)
-                - [[Civil rights]] legislation
+                - [[Civil Rights]] legislation
                 - end to [[poverty]]
                 - containment of [[Communism]]
                     - [[Vietnam]]
@@ -144,7 +144,7 @@ source: NWMSU
                     - Abandoned Interracial Collaboration
                     - Lowndes County Freedom Party
                 - The [[Black Panthers]]
-                    - Black Panther Party for [[Self]] Defense
+                    - Black Panther Party for [[self]] Defense
                         - [[The Vanguard]]
                             - Studied law and said that anybody without a felony could carry firearm
                             - Kept police in line with intimidation and non-violence
@@ -289,7 +289,7 @@ source: NWMSU
                 - increased education
                 - medical care for elderly
                 - Urband reforms (city housing)
-                - [[Civil rights]] legislation
+                - [[Civil Rights]] legislation
                 - end to poverty
                 - containment of [[Communism]]
                     - Vietnam
@@ -393,7 +393,7 @@ source: NWMSU
                     - Abandoned Interracial Collaboration
                     - Lowndes County Freedom Party
                 - The [[Black Panthers]]
-                    - Black Panther Party for [[Self]] Defense
+                    - Black Panther Party for [[self]] Defense
                         - The Vanguard
                             - Studied law and said that anybody without a felony could carry firearm
                             - Kept police in line with intimidation and non-violence

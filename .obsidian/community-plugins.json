@@ -73,5 +73,6 @@
   "txt-as-md-obsidian",
   "workspaces-plus",
   "buttons",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-codemirror-options"
 ]

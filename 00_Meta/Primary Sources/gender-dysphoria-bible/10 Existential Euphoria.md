@@ -13,7 +13,7 @@ author: Jocelyn Badgley
 ---
 **The [[Gender Dysphoria]] Bible is a Living Document**
 
-The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third [[Gender]] narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
+The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third [[gender]] narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
 When you grow up as the wrong assigned [[gender]], you are going to miss out on a lot of things that should have been available to you if only people had known. Sleepovers, camping trips, girl/boy scouts, shopping trips, cheerleading or sports. Events that are co-ed may have very different feelings attached to them based on how you engage with them, like going to prom, religious ceremonies (such as having a bat mitzvah instead of a bar mitzvah), and even just the act of courtship. This dysphoria may also be biological in origin, such as a sorrow over having not given birth to or breastfed your children.
 
