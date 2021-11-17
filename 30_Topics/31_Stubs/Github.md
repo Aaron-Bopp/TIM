@@ -16,8 +16,10 @@ GitHub is a provider of Internet hosting for software development and version co
  [GitHub Desktop](https://desktop.github.com/) is by far the most simple way using [[Git]]'s version control and let's you iterate quick as you can easily save changes, revert changes, and test your code. It's [[GUI]] is powerful and intuitive, and the ways it displays changes will help you spot errors. 
 
 ### Getting started
+
 - [Getting Started with Git and GitHub Desktop | Codecademy](https://www.codecademy.com/articles/what-is-git-and-github-desktop)
 - [Getting started with GitHub Desktop - GitHub Docs](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
+
 ### <hr class="footnote"/>
 
 **See**:: [[Software Development]], [[programming]]

@@ -631,38 +631,104 @@
         "type": "split",
         "children": [
           {
-            "id": "50e8e6cf5b2c0bcc",
+            "id": "c1663952c31ab311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Topics/32_Terms/plaintext.md",
-                "mode": "source"
+                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "leaf": "50e8e6cf5b2c0bcc",
+                  "leaf": "c1663952c31ab311",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/plaintext.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
                 },
                 {
-                  "leaf": "50e8e6cf5b2c0bcc",
+                  "leaf": "c1663952c31ab311",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":280},\"to\":{\"line\":9,\"ch\":271}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":36.44303797468355}"
                 },
                 {
-                  "leaf": "50e8e6cf5b2c0bcc",
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":40}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/Psychology.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/Andy Matuschak.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/transgender.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/self.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/game design.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/My TIM.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.111444277861068}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/HTML.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Negative influences are stronger than positive influences.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "c1663952c31ab311",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":0},\"to\":{\"line\":50,\"ch\":0}},\"scroll\":41.019490254872565}"
+                  "eState": "{\"scroll\":52.640618470539074}"
                 },
                 {
-                  "leaf": "50e8e6cf5b2c0bcc",
+                  "leaf": "c1663952c31ab311",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
@@ -718,7 +784,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "30_Topics/32_Terms/plaintext.md",
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -751,7 +817,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "30_Topics/32_Terms/plaintext.md",
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -856,7 +922,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "30_Topics/32_Terms/plaintext.md"
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -889,7 +955,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "30_Topics/32_Terms/plaintext.md",
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -969,7 +1035,7 @@
                       "repelStrength": 17.4588235294118,
                       "linkStrength": 0.927061310782241,
                       "linkDistance": 199,
-                      "scale": 0.3403188256370584,
+                      "scale": 0.34031882563705856,
                       "close": true
                     }
                   }
@@ -991,13 +1057,14 @@
                   "stack": []
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
         "width": 710.2000122070312
       },
-      "active": "50e8e6cf5b2c0bcc"
+      "active": "c1663952c31ab311"
     }
   },
   "active": "16:9 NOW"
