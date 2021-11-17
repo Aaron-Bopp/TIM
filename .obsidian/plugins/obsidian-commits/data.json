@@ -8735,28 +8735,43 @@
       "tags": 2,
       "links": 4
     },
-    "40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md": {
-      "size": 3497,
-      "tags": 2,
-      "links": 16
-    },
-    "Converting existing file formats to plaintext.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 7
-    },
     "30_Topics/32_Terms/markup.md": {
       "size": 0,
       "tags": 1,
       "links": 3
+    },
+    "40_Evergreens/Converting existing file formats to plaintext.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 7
+    },
+    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md": {
+      "size": 6360,
+      "tags": 5,
+      "links": 21
+    },
+    "30_Topics/31_Stubs/Github.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/Python.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/Visual Studio Code.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1229,
-      "Create": 1889,
-      "Link": 2892,
-      "Expand": 64
+      "Refactor": 1231,
+      "Create": 1892,
+      "Link": 2903,
+      "Expand": 67
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8784,8 +8799,8 @@
       "14": 2160,
       "15": 94,
       "16": 839,
-      "17": 1448,
-      "18": 144,
+      "17": 1457,
+      "18": 154,
       "19": 60,
       "20": 87,
       "21": 136,
@@ -8822,7 +8837,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 155,
-      "Tue": 508,
+      "Tue": 527,
       "Wed": 1053,
       "Thu": 207,
       "Fri": 38,
@@ -8842,6 +8857,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
@@ -8889,12 +8907,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\"> Rationalizations are defense-mechanisms against strong emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Python.md\"> Python </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Github.md\"> Github </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/markup.md\"> markup </a>",
         "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into markdown in Obsidian.md\"> Converting the Explorer's Guide to Wildemount into markdown in Obsidian </a>",
@@ -8942,12 +8960,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/pessimism.md\"> pessimism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/personality.md\"> personality </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/perception.md\"> perception </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/non-punitive justice.md\"> non-punitive justice </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/non-binary.md\"> non-binary </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/neuroticism.md\"> neuroticism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/neurosis.md\"> neurosis </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/non-punitive justice.md\"> non-punitive justice </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
@@ -8996,11 +9013,15 @@
         "<a class=\"internal-link\" href=\"20_Entry/203 NOW.md\"> 203 NOW </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Me.md\"> 204 Me </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/202 INDEX.md\"> 202 INDEX </a>",
-        "<a class=\"internal-link\" href=\"203 NOW.md\"> 203 NOW </a>",
-        "<a class=\"internal-link\" href=\"202 INDEX.md\"> 202 INDEX </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/202 INDEX.md\"> 202 INDEX </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Github.md\"> Github </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Python.md\"> Python </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/markup.md\"> markup </a>",
         "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
@@ -9045,13 +9066,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anger.md\"> anger </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anti-vax.md\"> anti-vax </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/atheism.md\"> atheism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Attachment Theory.md\"> Attachment Theory </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Autism.md\"> Autism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief systems.md\"> belief systems </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Bernie Sanders.md\"> Bernie Sanders </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Bhuddism.md\"> Bhuddism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/business.md\"> business </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/childhood.md\"> childhood </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Attachment Theory.md\"> Attachment Theory </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9112,6 +9127,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/hope.md\"> hope </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/markup.md\"> markup </a>",
@@ -9157,12 +9177,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\"> The actual work of being a good person isn't explored by Christianity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\"> The actual work of being a good person isn't explored by Christianity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md\"> Stereotyping has the pyschological goal of comprehension and self-enhancement </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
