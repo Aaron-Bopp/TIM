@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Basic tools for working with plaintext.md",
-            "mode": "source"
+            "file": "Intro to Obsidian.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,14 @@
             {
               "leaf": "c1663952c31ab311",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Intro to Obsidian.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":2.814814814814815}"
+            },
+            {
+              "leaf": "c1663952c31ab311",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":17},\"to\":{\"line\":18,\"ch\":17}},\"scroll\":2.962962962962963}"
             },
             {
               "leaf": "c1663952c31ab311",
@@ -163,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Basic tools for working with plaintext.md",
+                "file": "Intro to Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -196,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Basic tools for working with plaintext.md",
+                "file": "Intro to Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -301,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Basic tools for working with plaintext.md"
+                "file": "Intro to Obsidian.md"
               }
             },
             "pane-relief:history-v1": {
@@ -334,7 +340,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Basic tools for working with plaintext.md",
+                "file": "Intro to Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -445,6 +451,7 @@
   },
   "active": "c1663952c31ab311",
   "lastOpenFiles": [
+    "Intro to Obsidian.md",
     "40_Evergreens/Basic tools for working with plaintext.md",
     "30_Topics/33_Tools/Regex.md",
     "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
@@ -453,7 +460,6 @@
     "30_Topics/Psychology.md",
     "30_Topics/Andy Matuschak.md",
     "30_Topics/transgender.md",
-    "30_Topics/self.md",
-    "30_Topics/game design.md"
+    "30_Topics/self.md"
   ]
 }
