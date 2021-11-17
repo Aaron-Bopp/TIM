@@ -231,7 +231,7 @@
 				- Endorsement of gender stereotypes
 				- Negative reactions to victims of rape
 				- Beliefs that domestic violence is acceptable
-	- [[mysogyny]]: hatred of women
+	- [[mysogyny]]: hatred of women 
 
 # Week 14 
 
@@ -239,6 +239,23 @@
 2.  Chapter 9: [[gender]] and Work, pp. 210-216. Access through your Else-Quest & Hyde (2018) textbook.
 3.  Chapter 14: [[gender]] and Victimization, pp. 311-336. Access through your Else-Quest & Hyde (2018) textbook.
 
+## Notes
+- [[Microaggressions]]
+    - Microassaults - explicit or intentional bigoted statements/behaviors
+    - Microinsults - statements/behaviors minimizing or sterotyping a marginalized group, i.e. second class citizenship, ascription of intelligence, pathologized discriminatory behavior
+    - Microinvalidations - statements meant to ignore group's experiences or otherize a minority group, i.e. "Where are you actually from?", exoticization/immasculation, invalidation of specific ethnicity
+- Psychological dilemmas
+    1. Clash of identity realities
+        - How can a statement be percieved so differently
+    2. Invisibility of Unintentional Expression of bias
+        - how can the target prove that a microaggression occurred
+    3. Percieved as minimally harmful
+        -  how can I get social support if no one sees it as harmful
+    4. Defensive responses from microagressors 
+        - call it out and get accused of being too sensitive or be forced to put up with the microaggresions
+ - Microaggressions are common stressors (contribute to [[stereotype threat]]) and can be associated with [[trauma responses]]
+ - Microagresions can be benevolent but don't have to be
+ 
 # Week 15
 No assigned readings. 
 

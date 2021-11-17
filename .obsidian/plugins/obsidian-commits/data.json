@@ -8246,9 +8246,9 @@
       "links": 10
     },
     "10_Sources/Psychology of Race and Gender notes.md": {
-      "size": 11352,
+      "size": 13225,
       "tags": 0,
-      "links": 41
+      "links": 43
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md": {
       "size": 838,
@@ -8814,14 +8814,24 @@
       "size": 173,
       "tags": 0,
       "links": 2
+    },
+    "30_Topics/32_Terms/mysogyny.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "30_Topics/32_Terms/Microaggressions.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1349,
-      "Create": 1906,
-      "Link": 2946,
-      "Expand": 72
+      "Refactor": 1353,
+      "Create": 1910,
+      "Link": 2952,
+      "Expand": 73
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8846,8 +8856,8 @@
       "11": 24,
       "12": 321,
       "13": 47,
-      "14": 2160,
-      "15": 94,
+      "14": 2174,
+      "15": 95,
       "16": 839,
       "17": 1457,
       "18": 169,
@@ -8888,7 +8898,7 @@
     "/": {
       "Mon": 155,
       "Tue": 594,
-      "Wed": 1166,
+      "Wed": 1181,
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
@@ -8907,6 +8917,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Develop Obsidian plugins.md\"> Develop Obsidian plugins </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Regex.md\"> Regex </a>",
@@ -8956,10 +8967,13 @@
         "<a class=\"internal-link\" href=\"Marsh P Johnson.md\"> Marsh P Johnson </a>",
         "<a class=\"internal-link\" href=\"Marsh P Johnson.md\"> Marsh P Johnson </a>",
         "<a class=\"internal-link\" href=\"Marsha P Johnson.md\"> Marsha P Johnson </a>",
-        "<a class=\"internal-link\" href=\"Marsha P Johnson.md\"> Marsha P Johnson </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>"
+        "<a class=\"internal-link\" href=\"Marsha P Johnson.md\"> Marsha P Johnson </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Microagressions.md\"> Microagressions </a>",
+        "<a class=\"internal-link\" href=\"Microagressions.md\"> Microagressions </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mysogyny.md\"> mysogyny </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microagressions.md\"> Microagressions </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Niklas Luhmann.md\"> Niklas Luhmann </a>",
@@ -9006,13 +9020,11 @@
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Spaced Repetition (plugin).md\"> Spaced Repetition (plugin) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dungeons and Dragons.md\"> Dungeons and Dragons </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dictionary (plugin, obsidian).md\"> Dictionary (plugin, obsidian) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Stereotype.md\"> Stereotype </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/stereotype threat.md\"> stereotype threat </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/sociobiology.md\"> sociobiology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/small government.md\"> small government </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dictionary (plugin, obsidian).md\"> Dictionary (plugin, obsidian) </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microaggressions.md\"> Microaggressions </a>",
+        "<a class=\"internal-link\" href=\"Microaggressions.md\"> Microaggressions </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/SOURCETEMPLATE.md\"> SOURCETEMPLATE </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Security.md\"> Security </a>",
@@ -9061,11 +9073,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social discomfort.md\"> social discomfort </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Andy Matuschak.md\"> Andy Matuschak </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/@visakanv on Twitter.md\"> @visakanv on Twitter </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Niklas Luhmann.md\"> Niklas Luhmann </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Niklas Luhmann.md\"> Niklas Luhmann </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Niklas Luhmann.md\"> Niklas Luhmann </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mysogyny.md\"> mysogyny </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microaggressions.md\"> Microaggressions </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/my parents.md\"> my parents </a>",
@@ -9114,9 +9126,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
-        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>"
+        "<a class=\"internal-link\" href=\"blame.md\"> blame </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9125,6 +9135,8 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"Microagressions.md\"> Microagressions </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microagressions.md\"> Microagressions </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Intro to Obsidian.md\"> Intro to Obsidian </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/plaintext.md\"> plaintext </a>",
@@ -9173,11 +9185,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/inter-generational trauma.md\"> inter-generational trauma </a>",
         "<a class=\"internal-link\" href=\"30_Topics/injustice.md\"> injustice </a>",
         "<a class=\"internal-link\" href=\"30_Topics/influence.md\"> influence </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/indoctrination.md\"> indoctrination </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/individualism.md\"> individualism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Indigenous.md\"> Indigenous </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/indoctrination.md\"> indoctrination </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mysogyny.md\"> mysogyny </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microaggressions.md\"> Microaggressions </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/SOURCETEMPLATE.md\"> SOURCETEMPLATE </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
@@ -9224,11 +9238,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into markdown in Obsidian.md\"> Converting the Explorer's Guide to Wildemount into markdown in Obsidian </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\"> Is your self-talk bullying you or bodyguarding you </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

@@ -631,136 +631,34 @@
         "type": "split",
         "children": [
           {
-            "id": "9ca0c068f5896717",
+            "id": "a8634e24e5ffaf82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Sources/notes_WebDev FA21.md",
+                "file": "10_Sources/Psychology of Race and Gender notes.md",
                 "mode": "source"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "leaf": "9ca0c068f5896717",
+                  "leaf": "a8634e24e5ffaf82",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/SOURCETEMPLATE.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":251,\"ch\":7},\"to\":{\"line\":251,\"ch\":7}},\"scroll\":235.00484940603278}"
                 },
                 {
-                  "leaf": "9ca0c068f5896717",
+                  "leaf": "a8634e24e5ffaf82",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_WebDev FA21.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":6.085714067731585}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Microaggressions.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "leaf": "9ca0c068f5896717",
+                  "leaf": "a8634e24e5ffaf82",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/WORDCOUNT.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":0.6732429099876696}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/File Sizes.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/BOOKLIST.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/KANBAN.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/TODO.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":16.790030211480364}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/KANBAN.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/BOOKLIST.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/KANBAN.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/BOOKLIST.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/201 Welcome.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":8.481481481481481}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":13.320754716981131}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/JUSTEVERGREENS.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/File Sizes.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/CHARTS.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "9ca0c068f5896717",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Average links per note type.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
                 }
               ]
@@ -814,7 +712,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "10_Sources/notes_WebDev FA21.md",
+                    "file": "10_Sources/Psychology of Race and Gender notes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +745,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "10_Sources/notes_WebDev FA21.md",
+                    "file": "10_Sources/Psychology of Race and Gender notes.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -876,8 +774,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5,
-        "collapsed": true
+        "width": 442.5
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -953,7 +850,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "10_Sources/notes_WebDev FA21.md"
+                    "file": "10_Sources/Psychology of Race and Gender notes.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -986,7 +883,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "10_Sources/notes_WebDev FA21.md",
+                    "file": "10_Sources/Psychology of Race and Gender notes.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1096,7 +993,7 @@
         "width": 710.2000122070312,
         "collapsed": true
       },
-      "active": "9ca0c068f5896717"
+      "active": "a8634e24e5ffaf82"
     }
   },
   "active": "16:9 NOW"
