@@ -40,7 +40,7 @@ sr-ease: 219
  
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[evergreen notes]], [[note writing]], [[My TIM]]

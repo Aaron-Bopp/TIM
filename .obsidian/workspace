@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+            "file": "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,14 @@
             {
               "leaf": "a8634e24e5ffaf82",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a8634e24e5ffaf82",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":32},\"to\":{\"line\":27,\"ch\":32}},\"scroll\":14.969951923076923}"
             },
             {
               "leaf": "a8634e24e5ffaf82",
@@ -109,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+                "file": "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -142,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+                "file": "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +173,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -247,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md"
+                "file": "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md"
               }
             },
             "pane-relief:history-v1": {
@@ -280,7 +287,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+                "file": "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,15 +398,15 @@
   },
   "active": "a8634e24e5ffaf82",
   "lastOpenFiles": [
+    "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
     "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+    "40_Evergreens/Prioritize organization over categorization to avoid wasted energy.md",
+    "40_Evergreens/The fragility of nodes in a second brain.md",
+    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+    "40_Evergreens/What makes a note evergreen.md",
     "40_Evergreens/Gender segregation increases gendered play.md",
     "00_Meta/Primary Sources/Operating Systems slides/18_producer_consumer.pdf",
     "10_Sources/Psychology of Race and Gender notes.md",
-    "30_Topics/32_Terms/Microaggressions.md",
-    "30_Topics/32_Terms/mysogyny.md",
-    "30_Topics/32_Terms/Microagressions.md",
-    "10_Sources/Readwise/Articles/articles_Enneagram 8w9 The Eight with a Nine-Wing  Psychologia.md",
-    "10_Sources/notes_WebDev FA21.md",
-    "00_Meta/Templates/SOURCETEMPLATE.md"
+    "30_Topics/32_Terms/Microaggressions.md"
   ]
 }

@@ -14,6 +14,8 @@ sr-ease: 192
 
 [^1]: This is because [[Nodes in the second brain are made up of impermanent data and permanent metadata]] and the metadata of nodes connect them to others. Even when you delete a note, the metadata of that note remains explicitely in the vault
 
+##### Node classifcation
+
 In [[My TIM]] I have created a classification structure and one of it's purposes is to group nodes that are most fragile together. The fragility of these nodes define how likely they are to be removed, or to become irrelevant. 
 
 [[Source notes]] are the most fragile because we interact with them the least. New studies come out, new books are published, the tide of public opinion turns and suddenly your source is no longer relevant. Sources become obsolete over time, but the knowledge we glean from them grows over time, which is why we place it in [[evergreen notes]].

@@ -8,19 +8,24 @@ sr-ease: 290
 
 #### [[my TO(DO) and EVER(GREEN) structure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/GRAFT bring in these thoughts[[What makes a note evergreen]]
+
 This structure is how I [[Make your inbox into an entry point]] and is deeply entwined with [[Use Obsidian tags as temporal classifiers]] as a part of [[My TIM]]. 
 
 This stucture could be applied to any system, but it works best in [[Obsidian (software)|Obsidian]], or other systems that treat tags the same way. I prefer this kind of todo list because I can create it from anywhere in my vault and easily access them from the tag pane. These help organize my todo's so I can do them when I am in a certain mood. 
 
-- **\#TO** tags should be used for specific items, not general tasks	
-- **\#TO** tags are not daily todo list they are a way to specify a task inline the to be done in the future. These tags should be temporary, but they are not scheduled 
+This is an incomplete list, and new categories can be added whenever it feels neccesary. [[Use Obsidian tags as temporal classifiers]], they don't need to be perfect.
+
+##### \#TO(DO)
+
+**\#TO** tags should be used for specific items, not general tasks like "review notes" or "write this paper." This means they are a daily todo list, they are a way to specify a task inline to to be done in the future. These tags should be temporary, but they are not scheduled 
+
 - **\#TO**
+    - **\#TO/TEND** tasks relating to [[evergreen notes]] that do not require leaving [[Obsidian (software)|Obsidian]]
 	- **\#TO/DO** 
 		- **\#TO/DO/WRITE** write a specific item, not used for need to write or expand an evergreen note
-		- **\#TO/PROGRAM** 
-		- **\#TO/TEND/CONCEPTUALIZE** the thoughts exist but the need to be written out
+		- **\#TO/DO/PROGRAM** 
 		- **\#TO/DO/REFERENCE** the source is there but unreferenced
-		- **\#TO/TEND/REFACTOR** 
 		- **\#TO/DO/FIND** remeber source but don't have easy access
 	- **\#TO/EXPLORE**
 		- **\#TO/EXPLORE/READ** 
@@ -33,8 +38,14 @@ This stucture could be applied to any system, but it works best in [[Obsidian (s
 	- **\#TO/DONE** 
 	- **\#TO/EXPLORED**
 	- **\#TO/PONDERED**
+ 
 
-- This structure is both a reference for what kind of note it is, but also an entry point to work on [[evergreen notes]]s
+##### \#EVER(GREEN)
+
+This structure is designed to help classify what the state of an [[evergreen notes|evergreen note]] is. [^1] These are not strict and are more done by feel, but do help me decide when and how to work on a note. 
+
+[^1]: [[Evergreen notes organize knowledge so that it can grow]]
+
 - **\#EVER** see all the [[evergreen notes]] in the [[Obsidian (software)]]
 	- These essentially functions as my writing inbox. If it doesn't have a body or links it cannot store for long and I needs to be looked at 
 	- **\#EVER\/SEED** a seed of thought which could lie dormant or could flower quickly
