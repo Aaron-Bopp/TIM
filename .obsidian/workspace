@@ -7,12 +7,51 @@
         "id": "fec48959fdf30d41",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "fec48959fdf30d41",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5531914893617021}"
+            },
+            {
+              "leaf": "fec48959fdf30d41",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/My TIM.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":17.776611694152923}"
+            },
+            {
+              "leaf": "fec48959fdf30d41",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/knowledge management.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fec48959fdf30d41",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When in doubt, write what you think.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "fec48959fdf30d41",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "fec48959fdf30d41",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/socialization.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "fec48959fdf30d41",
               "group": null,
@@ -76,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -108,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,13 +173,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -213,7 +252,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -245,6 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -351,20 +393,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312,
-    "collapsed": true
+    "width": 710.2000122070312
   },
   "active": "fec48959fdf30d41",
   "lastOpenFiles": [
+    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+    "30_Topics/My TIM.md",
+    "30_Topics/32_Terms/knowledge management.md",
+    "30_Topics/32_Terms/Zettlekassen.md",
+    "40_Evergreens/When in doubt, write what you think.md",
+    "30_Topics/35_Outlines/socialization.md",
     "40_Evergreens/We are confined to the tools of our time.md",
     "40_Evergreens/Our brains are built around survival.md",
     "40_Evergreens/American's are scared of the word communism not it's meaning.md",
-    "40_Evergreens/What is the difference between blame and judgement.md",
-    "40_Evergreens/Gender segregation increases gendered play.md",
-    "30_Topics/31_Stubs/Github.md",
-    "40_Evergreens/The fragility of nodes in a second brain.md",
-    "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
-    "40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md",
-    "40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md"
+    "40_Evergreens/What is the difference between blame and judgement.md"
   ]
 }

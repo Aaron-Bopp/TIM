@@ -16,6 +16,7 @@ Starting to write notes can be intimidating for many reasons, one of which being
 > [visa is stretching (hips) (@visakanv) October 19, 2021](https://twitter.com/visakanv/status/1450289708802605056)
 
 Once you have broken through the [[Fear is the number one hindrance to trying|fear of trying]], you will be able to explore [[systems for thought]]: [[Choosing a note writing system is choosing a system for thought]] 
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
