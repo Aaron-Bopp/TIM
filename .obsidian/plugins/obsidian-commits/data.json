@@ -4438,7 +4438,7 @@
     "40_Evergreens/American's are scared of the word communism not it's meaning.md": {
       "size": 833,
       "tags": 2,
-      "links": 7
+      "links": 10
     },
     "40_Evergreens/An unfulfilled need for validation results in a fear of rejection.md": {
       "size": 1157,
@@ -7113,7 +7113,7 @@
     "10_Sources/Personal/Journal.md": {
       "size": 22860,
       "tags": 2,
-      "links": 49
+      "links": 52
     },
     "10_Sources/Personal/Nathan Eloe.md": {
       "size": 0,
@@ -8830,7 +8830,7 @@
     "/": {
       "Refactor": 1354,
       "Create": 1910,
-      "Link": 2960,
+      "Link": 2962,
       "Expand": 76
     },
     "40 Evergreens": {
@@ -8865,7 +8865,7 @@
       "20": 101,
       "21": 136,
       "22": 159,
-      "23": 136
+      "23": 138
     },
     "40 Evergreens": {
       "0": 9,
@@ -8898,7 +8898,7 @@
     "/": {
       "Mon": 155,
       "Tue": 594,
-      "Wed": 1193,
+      "Wed": 1195,
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
@@ -9188,6 +9188,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/indoctrination.md\"> indoctrination </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid wasted energy.md\"> Prioritize organization over categorization to avoid wasted energy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
@@ -9236,9 +9238,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/markup.md\"> markup </a>",
         "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
-        "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
+        "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

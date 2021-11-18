@@ -5,13 +5,18 @@ aliases:
 -
 ---
 ## November
+
+### 2021-11-17 11:41pm
+
+Observation: I don't think I ever struggled to observe social behaviors, I think I just struggled to apply them in my own life, because I was trying to ascribe [[neurotypical]] behaviors onto a [[neurodiversity|neurodiverse]] brain. I can observe and replicate an interaction of sincerity between friends, but I struggle to intuitively know when that sincerity would be met with disgust or appreciation. This is because I was not acting on a feeling of sincerity, I was trying to replicate a behavior and activate it based off percieved motivators. This is not because I cannot feel sincere, it's because the motivators for my form of sincerity are different from neurotypical people. Once I recognize this I can be just as sincere if not more sincere. The dissonance came because I was assumed to be and was trying to be something that I wasn't: [[Your anxiety knows your insecurities better than you do]]
+
 ### 2021-11-14 10:29pm
 I've been thinking about the relationship between [[Sympathy does not dissallow judgment]] and [[You can't blame people for failing to rise above their circumstances]] recently in relation to the whole Gus Johnson situation. I realized that I was judging him, had no sympathy for him. I think it stems from the fact that we do have a similar background (grew up in the midwest), and that we are at a fairly similar stage in life. But Idk if that should rule out those two notes. Would I have done differently in his place, yes absolutely. Can I judge him for it? On principle I think no, but in practice I do. [[What is the difference between blame and judgement]]
 ## October
 ### 2021-10-26 8:42pm
 I was fascinated by the concept of [[endurance]] when I was a kid. Was it because of [[ADHD]]? Enduring isn't effiecient? Was it because of [[transgender|trans]]? I was enduring so much? Was it because of [[Autism]]? lack of understanding emotion? #TO/PONDER/ME 
 ### 2021-10-23 4:10am
-I've started using [[Spaced Repetition (plugin)]] to review the notes in my vault and its been going really well. I'm slowly making progress through my notes. I think it helps a lot with getting notes in my memory so that I can remember them when I need them, but we'll see how that goes as I get through my other 200 notes. I've also been making a lot of updates to my vault. Part of this was just because I discovered the search and replace tool on visual studio code, but it's also because I've just been excited to work in my vault. I've been thinking a lot about the structure (and come to the conclusion that it doesn't really matter), and have made some changes that reduce my stress while in the vault. I'm trying to use my entry points more and keep track of everything, but spaced repetition is the biggest thing.
+I've started using [[Spaced Repetition (plugin)]] to review the notes in my vault and its been going really well. I'm slowly making progress through my notes. I think it helps a lot with getting notes in my memory so that I can remember them when I need them, but we'll see how that goes as I get through my other 200 notes. I've also been making a lot of updates to my vault. Part of this was just because I discovered the search and replace tool on [[Visual Studio Code]], but it's also because I've just been excited to work in my vault. I've been thinking a lot about the structure (and come to the conclusion that it doesn't really matter), and have made some changes that reduce my stress while in the vault. I'm trying to use my entry points more and keep track of everything, but spaced repetition is the biggest thing.
 
 ## August
 ### 2021-8-25

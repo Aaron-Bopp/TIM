@@ -2,21 +2,27 @@
 created: 2021-11-14 
 aliases:
   - null
-tags: node/evergreen, node/question 
-sr-due: 2021-11-15
+tags: node/evergreen, node/question, 
+sr-due: 2021-11-18
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
+
 #### [[What is the difference between blame and judgement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 ##### [[blame]]
 
-Blame is the act of censuring, holding responsible, making negative statements about an individual or group that their actions or inaction are socially or morally irresponsible, the opposite of praise.  When someone is morally responsible for doing something wrong, their action is blameworthy. By contrast, when someone is morally responsible for doing something right, we may say that his or her action is praiseworthy. There are other senses of praise and blame that are not ethically relevant. One may praise someone's good dress sense, and blame their own sense of style for their own dress sense.
+Blame is the act of censuring, holding responsible, making negative statements
+about an individual or group that their actions or inaction are socially or morally irresponsible,
+the opposite of praise.
+When someone is morally responsible for doing something wrong, their action is blameworthy.
+By contrast, when someone is morally responsible for doing something right, we may say that his or her action is praiseworthy.
+There are other senses of praise and blame that are not ethically relevant. One may praise someone's good dress sense, and blame their own sense of style for their own dress sense.
 [blame](https://en.wikipedia.org/wiki/Blame)
 
 #####  [[judgement]]
 
-Judgement (or US spelling judgment) is also known as  adjudication  which means the evaluation of evidence to make a decision.  Judgement is also the ability to make considered decisions. 
+Judgement is also known as adjudication which means the evaluation of evidence to make a decision.  Judgement is also the ability to make considered decisions. 
 
 The term has at least five distinct uses.  Aristotle suggested we think of the opposite of different uses of a term, if one exists, to help determine if the uses are really different.  Some opposites will be included here to help demonstrate their uses are really distinct:
 
@@ -39,5 +45,3 @@ The term has at least five distinct uses.  Aristotle suggested we think of the o
 
 **Topics**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
