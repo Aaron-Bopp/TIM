@@ -636,7 +636,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md",
+                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
                 "mode": "source"
               }
             },
@@ -646,8 +646,32 @@
                 {
                   "leaf": "a8634e24e5ffaf82",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "a8634e24e5ffaf82",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender segregation increases gendered play.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "a8634e24e5ffaf82",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "a8634e24e5ffaf82",
+                  "group": null,
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"00_Meta/Primary Sources/Operating Systems slides/18_producer_consumer.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "a8634e24e5ffaf82",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":257,\"ch\":1},\"to\":{\"line\":257,\"ch\":1}},\"scroll\":233.86504137486216}"
+                  "eState": "{\"scroll\":14.130934532733633}"
                 },
                 {
                   "leaf": "a8634e24e5ffaf82",
@@ -712,7 +736,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md",
+                    "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -745,7 +769,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md",
+                    "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -850,7 +874,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md"
+                    "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -883,7 +907,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md",
+                    "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -990,8 +1014,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 710.2000122070312,
-        "collapsed": true
+        "width": 710.2000122070312
       },
       "active": "a8634e24e5ffaf82"
     }

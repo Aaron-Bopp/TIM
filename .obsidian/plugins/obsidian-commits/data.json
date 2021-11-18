@@ -5023,7 +5023,7 @@
     "40_Evergreens/Use Obsidian tags as temporal classifiers.md": {
       "size": 1181,
       "tags": 2,
-      "links": 7
+      "links": 9
     },
     "40_Evergreens/Using github with Unity projects.md": {
       "size": 925,
@@ -8830,7 +8830,7 @@
     "/": {
       "Refactor": 1353,
       "Create": 1910,
-      "Link": 2952,
+      "Link": 2953,
       "Expand": 73
     },
     "40 Evergreens": {
@@ -8864,7 +8864,7 @@
       "19": 84,
       "20": 101,
       "21": 136,
-      "22": 151,
+      "22": 152,
       "23": 132
     },
     "40 Evergreens": {
@@ -8898,7 +8898,7 @@
     "/": {
       "Mon": 155,
       "Tue": 594,
-      "Wed": 1181,
+      "Wed": 1182,
       "Thu": 207,
       "Fri": 38,
       "Sat": 0,
@@ -9188,6 +9188,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/indoctrination.md\"> indoctrination </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mysogyny.md\"> mysogyny </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microaggressions.md\"> Microaggressions </a>",
@@ -9237,8 +9238,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into markdown in Obsidian.md\"> Converting the Explorer's Guide to Wildemount into markdown in Obsidian </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into markdown in Obsidian.md\"> Converting the Explorer's Guide to Wildemount into markdown in Obsidian </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\"> Is your self-talk bullying you or bodyguarding you </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\"> Is your self-talk bullying you or bodyguarding you </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
