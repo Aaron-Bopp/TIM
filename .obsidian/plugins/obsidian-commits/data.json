@@ -4595,11 +4595,6 @@
       "tags": 2,
       "links": 43
     },
-    "40_Evergreens/Gender is both an intrinsic experience and an necessary expression.md": {
-      "size": 1301,
-      "tags": 2,
-      "links": 16
-    },
     "40_Evergreens/Happiness is enlightenment and sadness is delusion.md": {
       "size": 1727,
       "tags": 3,
@@ -8839,13 +8834,23 @@
       "size": 906,
       "tags": 2,
       "links": 1
+    },
+    "40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
+    },
+    "40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md": {
+      "size": 1301,
+      "tags": 2,
+      "links": 16
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1358,
-      "Create": 1913,
-      "Link": 2971,
+      "Refactor": 1359,
+      "Create": 1914,
+      "Link": 2973,
       "Expand": 76
     },
     "40 Evergreens": {
@@ -8874,7 +8879,7 @@
       "14": 2174,
       "15": 95,
       "16": 839,
-      "17": 1457,
+      "17": 1461,
       "18": 169,
       "19": 84,
       "20": 101,
@@ -8914,7 +8919,7 @@
       "Mon": 155,
       "Tue": 594,
       "Wed": 1195,
-      "Thu": 223,
+      "Thu": 227,
       "Fri": 38,
       "Sat": 0,
       "Sun": 4113
@@ -8985,6 +8990,7 @@
         "<a class=\"internal-link\" href=\"Marsh P Johnson.md\"> Marsh P Johnson </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\"> articles_Various ways to include comments on your static site </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>",
@@ -9034,10 +9040,10 @@
         "<a class=\"internal-link\" href=\"JUSTEVERGREENS.md\"> JUSTEVERGREENS </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/therapy.md\"> therapy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microaggressions.md\"> Microaggressions </a>",
         "<a class=\"internal-link\" href=\"Microaggressions.md\"> Microaggressions </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/SOURCETEMPLATE.md\"> SOURCETEMPLATE </a>",
@@ -9087,10 +9093,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social anxiety.md\"> social anxiety </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social discomfort.md\"> social discomfort </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Andy Matuschak.md\"> Andy Matuschak </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/@visakanv on Twitter.md\"> @visakanv on Twitter </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/Niklas Luhmann.md\"> Niklas Luhmann </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/@visakanv on Twitter.md\"> @visakanv on Twitter </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\"> articles_Various ways to include comments on your static site </a>",
@@ -9140,8 +9146,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Sexism may be harmful to men's mental health.md\"> articles_Sexism may be harmful to men's mental health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Sexism may be harmful to men's mental health.md\"> articles_Sexism may be harmful to men's mental health </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9203,6 +9208,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/indoctrination.md\"> indoctrination </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\"> articles_Various ways to include comments on your static site </a>",
@@ -9252,8 +9258,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

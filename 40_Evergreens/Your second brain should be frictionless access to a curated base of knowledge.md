@@ -3,8 +3,8 @@ created: 2021-05-22
 aliases:
   - Collecting thought with a second brain
 tags: node/evergreen
-sr-due: 2021-11-16
-sr-interval: 7
+sr-due: 2021-12-06
+sr-interval: 18
 sr-ease: 220
 ---
 

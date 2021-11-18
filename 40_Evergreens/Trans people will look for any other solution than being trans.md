@@ -10,9 +10,9 @@ sr-ease: 219
 
 #### [[Trans people will look for any other solution than being trans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Because [[Our understanding of gender begins at a very early age]] and [[Gender is both an intrinsic experience and an necessary expression]], many [[transgender|trans]] people will recognize the effects of [[gender dysphoria]] before they recognize the cause: [[Mental health is a reaction to one's environment]] 
+Because [[Our understanding of gender begins at a very early age]] and [[Gender is both an intrinsic experience and a necessary expression]], many [[transgender|trans]] people will recognize the effects of [[gender dysphoria]] before they recognize the cause: [[Mental health is a reaction to one's environment]] 
 
-Once you discover and accept yourself as [[transgender|trans]], a lot of the seemingly inexplicable or untreated [[mental illness|mental illness]] in your life will be alleviated as well. [^1] Despite being a transformational internal experience, it can often be hard to accept yourself as [[transgender|trans]]. [^2] This leads [[transgender|trans]] people often continue to look into other solutions. This is often due to [[societal trauma | societal stigma]] and can make the life of an out or closeted [[transgender|trans]] person even more difficult. 
+Once you discover and accept yourself as [[transgender|trans]], a lot of the seemingly inexplicable or untreatable [[mental illness|mental illness]] in your life will be alleviated as well. [^1] Despite being a transformational internal experience, it can often be hard to accept yourself as [[transgender|trans]]. [^2] This leads [[transgender|trans]] people often continue to look into other solutions. This is often due to [[societal trauma | societal stigma]] and can make the life of an out or closeted [[transgender|trans]] person even more difficult. 
 
 - [ ] #TO/EXPLORE/RESEARCH Relation to studies from [[Psychology of Race and Gender notes]]
 

@@ -3,8 +3,8 @@ created: 2021-10-11
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-16
-sr-interval: 9
+sr-due: 2021-12-05
+sr-interval: 17
 sr-ease: 192
 ---
 
@@ -14,9 +14,9 @@ sr-ease: 192
 
 [^1]: This is because [[Nodes in the second brain are made up of impermanent data and permanent metadata]] and the metadata of nodes connect them to others. Even when you delete a note, the metadata of that note remains explicitely in the vault
 
-##### Node classifcation
-
 In [[My TIM]] I have created a classification structure and one of it's purposes is to group nodes that are most fragile together. The fragility of these nodes define how likely they are to be removed, or to become irrelevant. 
+
+##### Node classifcation
 
 [[Source notes]] are the most fragile because we interact with them the least. New studies come out, new books are published, the tide of public opinion turns and suddenly your source is no longer relevant. Sources become obsolete over time, but the knowledge we glean from them grows over time, which is why we place it in [[evergreen notes]].
 
@@ -35,7 +35,7 @@ There are more subcategorizations that provide clarification on what a node will
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/GROWING  
+**Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[web of thought]], [[second brain]]

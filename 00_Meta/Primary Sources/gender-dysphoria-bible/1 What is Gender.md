@@ -50,7 +50,7 @@ Likewise, many people believe that Phenotype is also binary, but biology has rec
 
 [[Biology supports the validity of trans people]] ==Present evidence seems to suggest that a person’s [[gender]] is established during gestation while the cerebral cortex of the brain is forming== (more about that in the Causes of [[Gender Dysphoria]] section). This mental model then informs, at a [[subconscious]] level, what aspects of the [[gender]] spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people.
 
-[[Gender is both an intrinsic experience and an necessary expression]]
+[[Gender is both an intrinsic experience and a necessary expression]]
 
 [[gender]] also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of [[depression]], [[depersonalization]], [[derealization]], and [[dissociation]]. ==These are the brain’s [[subconscious]] ways of informing us that something is very wrong.==
 

@@ -18,7 +18,7 @@ date modified: Saturday, October 2nd 2021, 3:45:32 pm
 - [[Mental health is a reaction to one's environment]]
 - The individual nature of the human experience
 	- [[You can discover your transness at any point in life]]
-	- [[Gender is both an intrinsic experience and an necessary expression]]
+	- [[Gender is both an intrinsic experience and a necessary expression]]
 
 ### <hr class="dataviews"/>
 
