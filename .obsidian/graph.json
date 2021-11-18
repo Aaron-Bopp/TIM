@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:20 -path:00",
+  "search": "tag:#node",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -46,7 +46,7 @@
       "query": "tag:#node/source",
       "color": {
         "a": 1,
-        "rgb": 9175295
+        "rgb": 16711914
       }
     }
   ],
@@ -57,9 +57,9 @@
   "lineSizeMultiplier": 0.532352941176471,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 0,
+  "repelStrength": 20,
   "linkStrength": 0.876470588235294,
   "linkDistance": 30,
-  "scale": 0.3604816405005624,
-  "close": true
+  "scale": 0.02869125110970633,
+  "close": false
 }

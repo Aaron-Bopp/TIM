@@ -1,9 +1,3 @@
----
-created: 2021-06-07
-tags: node/organizational
----
-`$=(dv.pages().where(p => p.file.path.contains("OrganizationalNotes")).map(p => dv.fileLink(p.file.path)))`
-
 
 good resource for [[social justice]] https://www.radicalinprogress.org/ #TO/EXPLORE/READ 
 

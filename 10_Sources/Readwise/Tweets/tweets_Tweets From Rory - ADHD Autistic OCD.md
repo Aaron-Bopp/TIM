@@ -46,3 +46,12 @@ highlight_tags:: [[guilt]]
 
 [^250119144]: https://twitter.com/roryreckons/status/1460831498987139074
 
+# New highlights added November 18, 2021 at 9:04 AM
+##### ^250447796
+#TO/EXPLORE/READ  
+> Why do people please? They are in pain.
+> https://t.co/unbdxVZtSS 
+  [^250447796]
+
+[^250447796]: https://twitter.com/roryreckons/status/1461176638775840769
+

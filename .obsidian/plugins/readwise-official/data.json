@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2225542,
-  "currentSyncStatusID": 2231648,
+  "lastSavedStatusID": 2231648,
+  "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
   "booksIDsMap": {
@@ -301,7 +301,10 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md": "11862032",
     "10_Sources/Readwise/Articles/articles_Sexism may be harmful to men's mental health.md": "11893899",
     "10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md": "11897386",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md": "11898728"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md": "11898728",
+    "10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md": "11917333",
+    "10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md": "11917338",
+    "10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md": "11925060"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",
