@@ -1,9 +1,9 @@
 ---
 created: 2021-06-25
 tags: node/evergreen
-sr-due: 2021-11-19
-sr-interval: 1
-sr-ease: 212
+sr-due: 2021-11-22
+sr-interval: 3
+sr-ease: 232
 ---
 
 #### [[Working through trauma can involve of a lot of letting go]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

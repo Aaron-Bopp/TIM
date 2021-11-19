@@ -3,9 +3,9 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-19
-sr-interval: 3
-sr-ease: 170
+sr-due: 2021-11-21
+sr-interval: 2
+sr-ease: 150
 ---
 
 #### [[The anti-vax movement is based off a white lie]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

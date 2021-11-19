@@ -3,12 +3,14 @@ created: 2021-07-04
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-19
-sr-interval: 1
+sr-due: 2021-11-21
+sr-interval: 2
 sr-ease: 227
 ---
 
 #### [[Stupid rules are meant to be broken]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/TEND/PRUNE 
 
 This is really more saying if a rule is stupid you are justified in breaking it. Or if you have a big reason to break a rule you're justified in making it.
 
@@ -23,7 +25,3 @@ This is really more saying if a rule is stupid you are justified in breaking it.
 
 **Topics**:: [[social justice]], [[fairness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
-
-

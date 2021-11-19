@@ -4722,7 +4722,7 @@
     },
     "40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md": {
       "size": 2315,
-      "tags": 2,
+      "tags": 3,
       "links": 22
     },
     "40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md": {
@@ -4828,7 +4828,7 @@
     "40_Evergreens/Searching for THE answer is dangerous.md": {
       "size": 856,
       "tags": 2,
-      "links": 4
+      "links": 12
     },
     "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md": {
       "size": 2329,
@@ -4877,7 +4877,7 @@
     },
     "40_Evergreens/Stupid rules are meant to be broken.md": {
       "size": 1009,
-      "tags": 3,
+      "tags": 4,
       "links": 5
     },
     "40_Evergreens/Sympathy does not dissallow judgment.md": {
@@ -5077,8 +5077,8 @@
     },
     "40_Evergreens/You can't blame people for failing to rise above their circumstances.md": {
       "size": 1420,
-      "tags": 3,
-      "links": 17
+      "tags": 4,
+      "links": 18
     },
     "40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md": {
       "size": 954,
@@ -5092,7 +5092,7 @@
     },
     "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md": {
       "size": 2296,
-      "tags": 4,
+      "tags": 5,
       "links": 22
     },
     "40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md": {
@@ -8808,7 +8808,7 @@
     "40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md": {
       "size": 0,
       "tags": 2,
-      "links": 5
+      "links": 9
     },
     "40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md": {
       "size": 1301,
@@ -8855,7 +8855,7 @@
     "/": {
       "Refactor": 1380,
       "Create": 1919,
-      "Link": 3030,
+      "Link": 3038,
       "Expand": 78
     },
     "40 Evergreens": {
@@ -8883,7 +8883,7 @@
       "13": 47,
       "14": 2178,
       "15": 95,
-      "16": 839,
+      "16": 847,
       "17": 1462,
       "18": 179,
       "19": 84,
@@ -8925,7 +8925,7 @@
       "Tue": 594,
       "Wed": 1195,
       "Thu": 299,
-      "Fri": 51,
+      "Fri": 59,
       "Sat": 0,
       "Sun": 4113
     },
@@ -9101,6 +9101,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social discomfort.md\"> social discomfort </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\"> Non-faith issues have been co-opted to keep people in the christian church </a>",
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
@@ -9147,11 +9151,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Python.md\"> Python </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/markup.md\"> markup </a>",
-        "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into markdown in Obsidian.md\"> Converting the Explorer's Guide to Wildemount into markdown in Obsidian </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>"
+        "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9213,6 +9213,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/Nuclear Fear.md\"> Nuclear Fear </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
@@ -9259,11 +9263,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\"> articles_Various ways to include comments on your static site </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/knowledge management.md\"> knowledge management </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid wasted energy.md\"> Prioritize organization over categorization to avoid wasted energy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Monster of the Week.md\"> Monster of the Week </a>",

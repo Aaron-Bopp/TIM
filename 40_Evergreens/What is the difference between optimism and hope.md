@@ -4,10 +4,11 @@ aliases:
   - What is the difference between hope and optimism
 
 tags: node/evergreen, node/question
-sr-due: 2021-11-19
-sr-interval: 15
+sr-due: 2021-12-24
+sr-interval: 35
 sr-ease: 230
 ---
+
 #### [[What is the difference between optimism and hope]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[True optimism is acknowledging the suffering of the world and defying it anyway]], while [[Hope is not optimism it is a practice for producing change]]
@@ -18,10 +19,8 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[optimism]], [[hope]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

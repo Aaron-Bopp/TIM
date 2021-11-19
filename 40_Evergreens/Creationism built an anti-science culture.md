@@ -3,9 +3,9 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-19
-sr-interval: 12
-sr-ease: 230
+sr-due: 2021-11-25
+sr-interval: 6
+sr-ease: 210
 ---
 
 #### [[Creationism built an anti-science culture]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

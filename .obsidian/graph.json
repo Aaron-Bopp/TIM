@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "tag:#node",
+  "search": "tag:#node/evergreen",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 0.762941176470588,
   "lineSizeMultiplier": 0.532352941176471,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.230514705882353,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.03370484029842067,
-  "close": false
+  "scale": 0.017147738103372463,
+  "close": true
 }

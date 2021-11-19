@@ -3,9 +3,9 @@ created: 2021-11-14
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-11-19
+sr-due: 2021-11-20
 sr-interval: 1
-sr-ease: 190
+sr-ease: 170
 ---
 
 #### [[What is the difference between blame and judgement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

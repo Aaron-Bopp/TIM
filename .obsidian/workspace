@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e90a845cb78d81a2",
+        "id": "5cdd953e348be4be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/flashcards_REST.md",
+            "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
             "mode": "source"
           }
         },
@@ -17,51 +17,123 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "e90a845cb78d81a2",
+              "leaf": "5cdd953e348be4be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/flashcards_REST.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":0},\"to\":{\"line\":74,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":9},\"to\":{\"line\":21,\"ch\":9}},\"scroll\":0}"
             },
             {
-              "leaf": "e90a845cb78d81a2",
+              "leaf": "5cdd953e348be4be",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Classes/econ/Online Assignment 1.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":0},\"to\":{\"line\":60,\"ch\":5}},\"scroll\":52.11538461538461}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "e90a845cb78d81a2",
+              "leaf": "5cdd953e348be4be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Monster of the Week.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.984978480114991}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e90a845cb78d81a2",
+              "leaf": "5cdd953e348be4be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans yearn for a tool with no blood on it.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "e90a845cb78d81a2",
+              "leaf": "5cdd953e348be4be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/My relationship with my parents.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0.08450704561152929}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":4.62962962962963}"
             },
             {
-              "leaf": "e90a845cb78d81a2",
+              "leaf": "5cdd953e348be4be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "e90a845cb78d81a2",
+              "leaf": "5cdd953e348be4be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/I have a stored up emotion of hating myself.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Creationism built an anti-science culture.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "e90a845cb78d81a2",
+              "leaf": "5cdd953e348be4be",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":92},\"to\":{\"line\":16,\"ch\":92}}}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Wealth Inequality creates a need for change.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":96},\"to\":{\"line\":12,\"ch\":96}}}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Knowledge of the world is painful.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between optimism and hope.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are meant to be broken.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":287},\"to\":{\"line\":16,\"ch\":287}}}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mass media promotes the spread of innacurate information.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Searching for THE answer is dangerous.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":138},\"to\":{\"line\":16,\"ch\":138}}}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5cdd953e348be4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             }
           ]
@@ -96,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/TEND",
+                "query": "tag:#TO/TEND/CONCEPTUALIZE",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -115,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/flashcards_REST.md",
+                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -148,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/flashcards_REST.md",
+                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -243,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/flashcards_REST.md"
+                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md"
               }
             },
             "pane-relief:history-v1": {
@@ -284,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/flashcards_REST.md",
+                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,20 +462,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312,
-    "collapsed": true
+    "width": 710.2000122070312
   },
-  "active": "e90a845cb78d81a2",
+  "active": "5cdd953e348be4be",
   "lastOpenFiles": [
-    "10_Sources/flashcards_REST.md",
-    "00_Meta/Templates/FLASHCARD.md",
-    "30_Topics/32_Terms/faith.md",
-    "30_Topics/35_Outlines/Computer Science.md",
-    "40_Evergreens/Monster of the Week.md",
-    "40_Evergreens/We carry our childhood wounds into adulthood.md",
-    "10_Sources/Personal/My relationship with my parents.md",
-    "10_Sources/Personal/I have a stored up emotion of hating myself.md",
-    "40_Evergreens/How to title your notes.md",
-    "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md"
+    "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+    "00_Meta/Primary Sources/Classes/econ/Online Assignment 1.md",
+    "40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md",
+    "40_Evergreens/The anti-vax movement is based off a white lie.md",
+    "40_Evergreens/Humans yearn for a tool with no blood on it.md",
+    "40_Evergreens/What makes a note evergreen.md",
+    "40_Evergreens/Bhuddism is the study of happiness through detachment.md",
+    "40_Evergreens/Creationism built an anti-science culture.md",
+    "40_Evergreens/A secure identity is the best defense against social anxiety.md",
+    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md"
   ]
 }

@@ -3,10 +3,11 @@ created: 2021-10-22
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-19
-sr-interval: 15
-sr-ease: 230
+sr-due: 2021-11-27
+sr-interval: 8
+sr-ease: 210
 ---
+
 #### [[Humans yearn for a tool with no blood on it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [A Tool with No Blood on It - YouTube](https://www.youtube.com/watch?v=DuLuxNfeCn4)
@@ -14,6 +15,7 @@ sr-ease: 230
 This has huge relevance to the [[social justice]] and [[Civil Rights]] movements in america. We are often so obssessed with finding a tool with no blood on it that we will use no tool, while mass murder tools are being used against us. 
 
 #TO/EXPLORE/READ [[vicky-osterweil-in-defense-of-looting_-a-riotous-history-of-uncivil-action-bold-type-books-2020.pdf]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
@@ -21,5 +23,3 @@ This has huge relevance to the [[social justice]] and [[Civil Rights]] movements
 
 **Topics**:: [[human experience]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

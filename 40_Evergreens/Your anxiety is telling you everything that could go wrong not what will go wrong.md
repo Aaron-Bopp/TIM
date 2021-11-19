@@ -1,12 +1,15 @@
 ---
 created: 2021-06-15
 tags: node/evergreen
-sr-due: 2021-11-19
-sr-interval: 1
+sr-due: 2021-11-21
+sr-interval: 2
 sr-ease: 220
 ---
 
 #### [[Your anxiety is telling you everything that could go wrong not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/TEND/WEED
+
 #TO/TEND/GRAFT this onto [[Your anxiety knows your insecurities better than you do]], [[Our brains are built around survival]]
 
 If you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with the thing or not. [[Social anxiety isn't irrational it's just overcompensation]]
@@ -23,7 +26,7 @@ The reason this happens is rooted in [[Neuroscience]]. [[anxiety]] is at it's co
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN 
+**Status**:: #EVER/GREEN/PRUNE 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[mental illness]], [[self-actualization]], , 

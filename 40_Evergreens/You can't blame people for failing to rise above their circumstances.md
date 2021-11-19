@@ -3,8 +3,8 @@ created: 2021-07-04
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-19
-sr-interval: 1
+sr-due: 2021-11-21
+sr-interval: 2
 sr-ease: 214
 ---
 
@@ -14,13 +14,13 @@ Most humans will not rise above their situation. In fact it could be said that n
 
 Blaming people for failing to rise above their situation is not only unfair, it is unsupported by evidence. #TO/EXPLORE/RESEARCH 
 
+#TO/TEND/GRAFT relation to [[Transformative justice is the alternative to punitive justice]]
+
 - [[Sympathy does not dissallow judgment]]
 - [[What is the difference between blame and judgement]]
 - [[Children in traumatic households expect more love than their parents can give]]
 
 
-
-### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*

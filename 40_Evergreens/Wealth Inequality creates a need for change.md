@@ -3,9 +3,9 @@ created: 2021-07-29
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-19
+sr-due: 2021-11-20
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Wealth Inequality creates a need for change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
