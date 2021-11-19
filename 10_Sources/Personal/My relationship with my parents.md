@@ -1,6 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen, node/personal
+sr-due: 2021-11-23
+sr-interval: 4
+sr-ease: 271
 ---
 
 #### [[My relationship with my parents]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

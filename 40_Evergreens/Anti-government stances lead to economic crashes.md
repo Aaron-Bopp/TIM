@@ -3,6 +3,9 @@ created: 2021-07-30
 tags: node/evergreen
 aliases:
   - null
+sr-due: 2021-11-21
+sr-interval: 3
+sr-ease: 252
 ---
 
 #### [[Anti-government stances lead to economic crashes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -13,7 +16,7 @@ aliases:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[economy]]

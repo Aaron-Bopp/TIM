@@ -8,7 +8,7 @@ sr-ease: 225
 
 #### [[Fear cannot be a deterant for deconstructing your faith]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/BRIDGE thoughts about the irrationality and [[cognitive dissonance]] of christians and [[Humans are primarily irrational, illogical, emotional beings]]
+#TO/TEND/BRIDGE thoughts about the irrationality and [[cognitive dissonance]] of christians and [[Humans are primarily irrational, illogical, emotional beings]] ^5dc5d8
 
 [[Fear of hell is baked into Christianity]] Another fear people have is fear of social consequences, especially the reaction of [[parents]] who have worked in or attended the church for a long time.
 

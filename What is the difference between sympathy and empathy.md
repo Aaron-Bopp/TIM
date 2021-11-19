@@ -8,7 +8,9 @@ sr-interval: 1
 sr-ease: 210
 ---
 
-#### [[Humans are a product of evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the difference between sympathy and empathy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+https://github.com/Braweria/Spectrum
 
 ### <hr class="footnote"/>
 

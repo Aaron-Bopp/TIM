@@ -1,6 +1,9 @@
 ---
 created: 2021-06-11
 tags: node/evergreen, node/personal
+sr-due: 2021-11-23
+sr-interval: 4
+sr-ease: 273
 ---
 
 #### [[In order to for my parents to love me, they need to admit they might be wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

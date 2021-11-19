@@ -3,7 +3,11 @@ created: 2021-11-15
 aliases:
   - null
 tags: node/evergreen
+sr-due: 2021-11-21
+sr-interval: 3
+sr-ease: 263
 ---
+
 #### [[Stub notes are data structures for implicit knowledge gathering]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
@@ -13,10 +17,8 @@ tags: node/evergreen
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[second brain]], [[My TIM]], [[evergreen notes]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

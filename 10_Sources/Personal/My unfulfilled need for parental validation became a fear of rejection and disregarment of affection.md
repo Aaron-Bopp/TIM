@@ -3,6 +3,9 @@ created: 2021-07-30
 tags: node/evergreen, node/personal
 aliases:
   - null
+sr-due: 2021-11-21
+sr-interval: 2
+sr-ease: 238
 ---
 
 #### [[My unfulfilled need for parental validation became a fear of rejection and disregarment of affection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -10,7 +13,6 @@ aliases:
 [[An unfulfilled need for validation results in a fear of rejection]] and [[A inwardly judgementful and outwardly accepting home creates trust issues]] were both at play during my childhood. [[my parents]] were very loving and very religious which I think is what brought about my [[religious trauma]] and my intense need for [[emotional validation]] from them. 
 
 #TO/TEND/CONCEPTUALIZE link between [[religious trauma]] and [[emotional validation]]
-
 
 
 ### <hr class="footnote"/>

@@ -631,110 +631,59 @@
         "type": "split",
         "children": [
           {
-            "id": "f5dd6d5f4e01987f",
+            "id": "e90a845cb78d81a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_Evergreens/Stereotypes are social constructs.md",
-                "mode": "source"
-              }
+              "type": "graph",
+              "state": {}
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "leaf": "f5dd6d5f4e01987f",
+                  "leaf": "e90a845cb78d81a2",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotypes are social constructs.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Working through trauma can involve of a lot of letting go.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought are densely linked.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Republicans have become a true opposition party.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/faith.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "f5dd6d5f4e01987f",
+                  "leaf": "e90a845cb78d81a2",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":0.050000001986821495}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":5.653061162209024}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":575},\"to\":{\"line\":16,\"ch\":575}}}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0.4666666587193807}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can leave the church and still believe in the christian god.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":0},\"to\":{\"line\":46,\"ch\":0}},\"scroll\":27.772724845192656}"
-                },
-                {
-                  "leaf": "f5dd6d5f4e01987f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "f5dd6d5f4e01987f",
+                  "leaf": "e90a845cb78d81a2",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":3.571428571428571}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Monster of the Week.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.984978480114991}"
                 },
                 {
-                  "leaf": "f5dd6d5f4e01987f",
+                  "leaf": "e90a845cb78d81a2",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":0.30303030303030304}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
                 },
                 {
-                  "leaf": "f5dd6d5f4e01987f",
+                  "leaf": "e90a845cb78d81a2",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Biology supports the validity of trans people.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":16.630303192138673}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/My relationship with my parents.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0.08450704561152929}"
                 },
                 {
-                  "leaf": "f5dd6d5f4e01987f",
+                  "leaf": "e90a845cb78d81a2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e90a845cb78d81a2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/I have a stored up emotion of hating myself.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e90a845cb78d81a2",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
@@ -771,12 +720,12 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#node/organizational",
+                    "query": "tag:#TO/TEND",
                     "matchingCase": true,
                     "explainSearch": true,
-                    "collapseAll": true,
+                    "collapseAll": false,
                     "extraContext": false,
-                    "sortOrder": "byModifiedTimeReverse"
+                    "sortOrder": "byModifiedTime"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -790,7 +739,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Stereotypes are social constructs.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -823,7 +771,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Stereotypes are social constructs.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -917,9 +864,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "40_Evergreens/Stereotypes are social constructs.md"
-                  }
+                  "state": {}
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -963,7 +908,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Stereotypes are social constructs.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1070,9 +1014,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 710.2000122070312
+        "width": 710.2000122070312,
+        "collapsed": true
       },
-      "active": "f5dd6d5f4e01987f"
+      "active": "e90a845cb78d81a2"
     }
   },
   "active": "16:9 NOW"

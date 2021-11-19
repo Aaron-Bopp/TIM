@@ -1,13 +1,11 @@
 ---
 created: 2021-06-10
-tags: node/evergreen
+tags: node/topic/tool 
 aliases:
   - MOTW
 ---
 
-
-
-#### [[Monster of the Week]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Monster of the Week]] 
 
 In Monster of the Week, the existence of monsters is just below the surface of societies collective [[conscious|consciousness]]. Much like our real world you've heard ghost stories, and watched shows about bigfoot hunting, maybe you even saw a shape in the shadows that you were just never able to explain. Maybe you never thought they were real, or you had an odd fascination with finding out, or maybe you got a little closer than most people that would have wanted, but there wasn't anything special about you, until you were thrust, pulled, or jumped into the world of monsters. ^9b6191
 
@@ -17,18 +15,6 @@ Monster of the Week is a [[TTRPG]] that aims to create condensed and succinct ad
 
 ## Resources:
 [The Trove](https://thetrove.is/reader.html?file=https%3A%2F%2Fthetrove.is%2FBooks%2FMonster%2520of%2520the%2520Week%2520%2528PbtA%2529%2520%255Bmulti%255D%2FMonster%2520of%2520the%2520Week%2520%2528revised%2529%2FPlaybooks%2FMotW%2520-%2520The%2520Hard%2520Case%2520%2528Revised%2529.pdf)
-
-
----
-
-**Status**:: #EVER/SPROUT 
-*edited `=this.file.mtime`*
-
-**Topics**:: [[DnD (Dungeons and Dragons)]], [[TTRPG]], [[role-playing]], [[improv]], [[Acting]], [[socialization|social interaction]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-::
-
 [Sand Thing – Medium monstrosity, unaligned](https://twitter.com/fluffy_folio/status/1442843735008624654)
 
 Feeding on mummified corpses preserved in the hot soils since ancient times, the sand things dig their far reaching tunnels completely unnoticed by the surface-dwelling folks.

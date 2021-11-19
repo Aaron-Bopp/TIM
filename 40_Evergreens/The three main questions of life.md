@@ -1,6 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
+sr-due: 2021-11-21
+sr-interval: 3
+sr-ease: 268
 ---
 
 #### [[The three main questions of life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -9,12 +12,9 @@ tags: node/evergreen
 1. What happens when we die?
 1. What is our [[purpose]]?
 
-
----
-
+### <hr class="footnote"/>
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[worldview]], [[philosophy]], [[theology]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

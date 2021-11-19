@@ -25,7 +25,7 @@
       "query": "tag:node/topic/stub",
       "color": {
         "a": 1,
-        "rgb": 15657959
+        "rgb": 16091904
       }
     },
     {
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 0.739522058823529,
   "lineSizeMultiplier": 0.532352941176471,
   "collapse-forces": false,
-  "centerStrength": 0.270514705882353,
-  "repelStrength": 20,
-  "linkStrength": 0.876470588235294,
+  "centerStrength": 0.370588235294118,
+  "repelStrength": 16.2573529411765,
+  "linkStrength": 0.878823529411765,
   "linkDistance": 30,
-  "scale": 0.4070800377743394,
-  "close": true
+  "scale": 0.03575792004570315,
+  "close": false
 }

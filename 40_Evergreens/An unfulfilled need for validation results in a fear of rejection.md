@@ -3,6 +3,9 @@ created: 2021-07-30
 tags: node/evergreen
 aliases:
   - null
+sr-due: 2021-11-20
+sr-interval: 2
+sr-ease: 246
 ---
 
 #### [[An unfulfilled need for validation results in a fear of rejection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -12,7 +15,7 @@ We seek out validation from other's because it reinforces our need for [[self]].
 In some cases this can get bad enough to be consider [[Rejection Sensitivity]] disorder which is often caused or made worse by [[neurodiversity]] like [[ADHD]]. 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[emotional validation]], [[emotional invalidation]], [[mental health]]

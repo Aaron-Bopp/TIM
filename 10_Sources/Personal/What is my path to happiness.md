@@ -3,6 +3,9 @@ created: 2021-07-29
 tags: node/evergreen, node/personal
 aliases:
   - null
+sr-due: 2021-11-20
+sr-interval: 1
+sr-ease: 230
 ---
 
 #### [[What is my path to happiness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

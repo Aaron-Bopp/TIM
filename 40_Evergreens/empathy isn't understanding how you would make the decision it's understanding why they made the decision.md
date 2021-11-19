@@ -3,6 +3,9 @@ created: 2021-07-04
 tags: node/evergreen
 aliases:
   - null
+sr-due: 2021-11-20
+sr-interval: 2
+sr-ease: 248
 ---
 
 #### [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,7 +18,7 @@ It's a lot easier to understand why somebody did something rather than twist and
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[socialization]], [[inter-personal communication]]

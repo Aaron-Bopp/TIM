@@ -2,14 +2,18 @@
 created: 2021-10-19
 aliases:
   - humans love for grouping eachother
-
 tags: node/evergreen
+sr-due: 2021-11-19
+sr-interval: 1
+sr-ease: 219
 ---
+
 #### [[Humans love to group eachother]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 One reason this might be is because of [[natural selection|kin selection]].
 
 Possible mechanism behind [[racism]], [[homophobia]] [[partisanship]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

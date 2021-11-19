@@ -1,6 +1,9 @@
 ---
 created: 2021-06-24
 tags: node/evergreen
+sr-due: 2021-11-19
+sr-interval: 1
+sr-ease: 229
 ---
 
 #### [[Avoidance IS the most-efficient way of dealing with emotion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -11,10 +14,8 @@ tags: node/evergreen
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[childhood]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
-

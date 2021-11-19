@@ -3,7 +3,9 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-date modified: Tuesday, October 19th 2021, 10:16:13 am
+sr-due: 2021-11-20
+sr-interval: 2
+sr-ease: 247
 ---
 
 #### [[Rise of Misinformation in America]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -25,7 +27,7 @@ Over the last forty years, misinformation has become so potent in [[America]], t
 
 ### <hr class="dataviews"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]]

@@ -4,15 +4,21 @@ tags: node/evergreen
 aliases:
   - The nature of happiness is not doing what you love its detachment from the
     decisions of the life
+sr-due: 2021-11-19
+sr-interval: 1
+sr-ease: 230
 ---
 
 #### [[Bhuddism is the study of happiness through detachment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 The nature of happiness is not doing what you love its detachment from the decisions of the life
-#TO/EXPLORE/RESEARCH 
-[[Sadness is enlightenment and happiness is delusion]], [[Happiness is enlightenment and sadness is delusion]]
 
----
+- [[Sadness is enlightenment and happiness is delusion]]
+- [[Happiness is enlightenment and sadness is delusion]]
+- [[Constantly working on yourself is a form a self-hatred]]
+- [[True optimism is acknowledging the suffering of the world and defying it anyway]]
+
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*

@@ -4,6 +4,9 @@ tags: node/evergreen
 aliases:
   - null
 date modified: Sunday, October 10th 2021, 12:53:06 pm
+sr-due: 2021-11-22
+sr-interval: 4
+sr-ease: 270
 ---
 
 #### [[Source Code]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
