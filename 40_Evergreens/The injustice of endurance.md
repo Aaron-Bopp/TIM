@@ -3,9 +3,9 @@ created: 2021-07-29
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-17
-sr-interval: 18
-sr-ease: 250
+sr-due: 2021-11-27
+sr-interval: 9
+sr-ease: 230
 ---
 
 #### [[The injustice of endurance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

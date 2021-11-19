@@ -7,6 +7,7 @@ sr-due: 2021-11-25
 sr-interval: 21
 sr-ease: 250
 ---
+
 #### [[Our understanding of gender begins at a very early age]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Children can tell the difference between male and female faces between bith and three months and develop a [[gender identity]] around 18 months to two years and [[gender constancy]] develops around 3-4. [^1] 

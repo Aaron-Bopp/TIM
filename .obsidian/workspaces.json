@@ -636,8 +636,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Every person has an experience of gender.md",
-                "mode": "source"
+                "file": "40_Evergreens/We are confined to the tools of our time.md",
+                "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
@@ -646,8 +646,20 @@
                 {
                   "leaf": "7ab5b73bd1cd8789",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "7ab5b73bd1cd8789",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The injustice of endurance.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":32},\"to\":{\"line\":16,\"ch\":32}},\"scroll\":4.028571537562779}"
+                },
+                {
+                  "leaf": "7ab5b73bd1cd8789",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Every person has an experience of gender.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"scroll\":2.171428680419922}"
                 },
                 {
                   "leaf": "7ab5b73bd1cd8789",
@@ -748,7 +760,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Every person has an experience of gender.md",
+                    "file": "40_Evergreens/We are confined to the tools of our time.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -781,7 +793,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Every person has an experience of gender.md",
+                    "file": "40_Evergreens/We are confined to the tools of our time.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -876,7 +888,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Every person has an experience of gender.md"
+                    "file": "40_Evergreens/We are confined to the tools of our time.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -920,7 +932,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Every person has an experience of gender.md",
+                    "file": "40_Evergreens/We are confined to the tools of our time.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1000,7 +1012,7 @@
                       "repelStrength": 17.4588235294118,
                       "linkStrength": 0.927061310782241,
                       "linkDistance": 199,
-                      "scale": 0.34031882563705856,
+                      "scale": 0.36257698487900963,
                       "close": true
                     }
                   }

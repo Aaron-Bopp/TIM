@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Every person has an experience of gender.md",
-            "mode": "source"
+            "file": "40_Evergreens/We are confined to the tools of our time.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,20 @@
             {
               "leaf": "7ab5b73bd1cd8789",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7ab5b73bd1cd8789",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The injustice of endurance.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":32},\"to\":{\"line\":16,\"ch\":32}},\"scroll\":4.028571537562779}"
+            },
+            {
+              "leaf": "7ab5b73bd1cd8789",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Every person has an experience of gender.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":2.171428680419922}"
             },
             {
               "leaf": "7ab5b73bd1cd8789",
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Every person has an experience of gender.md",
+                "file": "40_Evergreens/We are confined to the tools of our time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Every person has an experience of gender.md",
+                "file": "40_Evergreens/We are confined to the tools of our time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Every person has an experience of gender.md"
+                "file": "40_Evergreens/We are confined to the tools of our time.md"
               }
             },
             "pane-relief:history-v1": {
@@ -293,7 +305,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Every person has an experience of gender.md",
+                "file": "40_Evergreens/We are confined to the tools of our time.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -373,7 +385,7 @@
                   "repelStrength": 17.4588235294118,
                   "linkStrength": 0.927061310782241,
                   "linkDistance": 199,
-                  "scale": 0.34031882563705856,
+                  "scale": 0.36257698487900963,
                   "close": true
                 }
               }
@@ -404,15 +416,15 @@
   },
   "active": "7ab5b73bd1cd8789",
   "lastOpenFiles": [
+    "40_Evergreens/We are confined to the tools of our time.md",
+    "40_Evergreens/The injustice of endurance.md",
     "40_Evergreens/Every person has an experience of gender.md",
+    "40_Evergreens/Our understanding of gender begins at a very early age.md",
     "40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md",
     "40_Evergreens/Mental health is a reaction to one's environment.md",
     "40_Evergreens/The actual work of being a good person isn't explored by Christianity.md",
     "40_Evergreens/What makes a note evergreen.md",
     "40_Evergreens/A secure identity is the best defense against social anxiety.md",
-    "Humans are a product of evolution.md",
-    "40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md",
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-    "40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md"
+    "Humans are a product of evolution.md"
   ]
 }

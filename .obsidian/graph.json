@@ -25,7 +25,7 @@
       "query": "tag:node/topic/stub",
       "color": {
         "a": 1,
-        "rgb": 16758093
+        "rgb": 15657959
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 0.876470588235294,
   "linkDistance": 30,
-  "scale": 0.026145396936263766,
+  "scale": 0.02208126153666955,
   "close": true
 }

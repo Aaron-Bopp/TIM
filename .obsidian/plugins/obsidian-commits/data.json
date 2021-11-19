@@ -8853,9 +8853,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1359,
+      "Refactor": 1360,
       "Create": 1915,
-      "Link": 2984,
+      "Link": 2985,
       "Expand": 76
     },
     "40 Evergreens": {
@@ -8888,7 +8888,7 @@
       "18": 179,
       "19": 84,
       "20": 101,
-      "21": 137,
+      "21": 139,
       "22": 159,
       "23": 138
     },
@@ -8924,7 +8924,7 @@
       "Mon": 155,
       "Tue": 594,
       "Wed": 1195,
-      "Thu": 239,
+      "Thu": 241,
       "Fri": 38,
       "Sat": 0,
       "Sun": 4113
@@ -9213,6 +9213,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/indoctrination.md\"> indoctrination </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Every person has an experience of gender.md\"> Every person has an experience of gender </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
@@ -9262,8 +9263,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Python.md\"> Python </a>",
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
-        "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/HTML.md\"> HTML </a>"
+        "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
@@ -9314,6 +9314,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Every person has an experience of gender.md\"> Every person has an experience of gender </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid wasted energy.md\"> Prioritize organization over categorization to avoid wasted energy </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/CONTENT.md\"> CONTENT </a>",
@@ -9363,8 +9364,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Deconstruction (Christianity).md\"> Deconstruction (Christianity) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/anxiety.md\"> anxiety </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>"
       ]
     },
     "40 Evergreens": {

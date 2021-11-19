@@ -3,13 +3,12 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-17
-sr-interval: 11
+sr-due: 2021-12-21
+sr-interval: 33
 sr-ease: 252
 ---
 
 #### [[Every person has an experience of gender]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
 
 - [[Our understanding of gender begins at a very early age]]
 - [[Gender self-socialization model]]
