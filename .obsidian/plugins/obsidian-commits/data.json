@@ -8844,13 +8844,18 @@
       "size": 0,
       "tags": 2,
       "links": 1
+    },
+    "10_Sources/flashcards_REST.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1380,
-      "Create": 1918,
-      "Link": 3027,
+      "Create": 1919,
+      "Link": 3030,
       "Expand": 78
     },
     "40 Evergreens": {
@@ -8876,7 +8881,7 @@
       "11": 24,
       "12": 321,
       "13": 47,
-      "14": 2174,
+      "14": 2178,
       "15": 95,
       "16": 839,
       "17": 1462,
@@ -8920,7 +8925,7 @@
       "Tue": 594,
       "Wed": 1195,
       "Thu": 299,
-      "Fri": 47,
+      "Fri": 51,
       "Sat": 0,
       "Sun": 4113
     },
@@ -8990,6 +8995,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>",
@@ -9039,8 +9045,7 @@
         "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/AI (artificial intelligence).md\"> AI (artificial intelligence) </a>",
-        "<a class=\"internal-link\" href=\"_Me.md\"> _Me </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/AI (artificial intelligence).md\"> AI (artificial intelligence) </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/The biblical christian God is evil and does not deserve to be worshipped.md\"> The biblical christian God is evil and does not deserve to be worshipped </a>",
@@ -9096,6 +9101,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social discomfort.md\"> social discomfort </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
@@ -9145,8 +9151,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into markdown in Obsidian.md\"> Converting the Explorer's Guide to Wildemount into markdown in Obsidian </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9208,6 +9213,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/Nuclear Fear.md\"> Nuclear Fear </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\"> Bhuddism is the study of happiness through detachment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
@@ -9256,9 +9263,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid wasted energy.md\"> Prioritize organization over categorization to avoid wasted energy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Monster of the Week.md\"> Monster of the Week </a>",

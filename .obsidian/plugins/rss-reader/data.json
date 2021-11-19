@@ -464,5 +464,6 @@
   },
   "dateFormat": "YYYY-MM-DDTHH:MM:SS",
   "template": "---\nlink: {{link}}\nauthor: {{author}}\npublished: {{published}}\n---\n{{content}}",
-  "pasteTemplate": "## {{title}}\n{{content}}"
+  "pasteTemplate": "## {{title}}\n{{content}}",
+  "askForFilename": true
 }

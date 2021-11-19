@@ -855,7 +855,7 @@ var themeInstallTheme = (plugin, cssGithubRepository, cssFileName = "") => __asy
   const newNotice = new import_obsidian3.Notice(`BRAT
 ${msg}
 (Click for info)`, 1e4);
-  newNotice.noticeEl.onclick = () => __async(void 0, null, function* () {
+  newNotice.noticeEl.oncontextmenu = () => __async(void 0, null, function* () {
     window.open(`https://github.com/${cssGithubRepository}`);
   });
   setTimeout(() => {
@@ -1333,7 +1333,7 @@ ${msg}`, noticeTimeout);
             const newNotice = new import_obsidian7.Notice(`BRAT
 ${msg}
 (Click for info)`, 3e4);
-            newNotice.noticeEl.onclick = () => __async(this, null, function* () {
+            newNotice.noticeEl.oncontextmenu = () => __async(this, null, function* () {
               window.open(`https://github.com/${repositoryPath}/releases/tag/${primaryManifest.version}`);
             });
           } else {
@@ -1347,7 +1347,7 @@ Plugin has been updated from version ${localManifestJSON.version} to ${primaryMa
             const newNotice = new import_obsidian7.Notice(`BRAT
 ${msg}
 (Click for info)`, 3e4);
-            newNotice.noticeEl.onclick = () => __async(this, null, function* () {
+            newNotice.noticeEl.oncontextmenu = (e) => __async(this, null, function* () {
               window.open(`https://github.com/${repositoryPath}/releases/tag/${primaryManifest.version}`);
             });
           }
@@ -1395,7 +1395,7 @@ ${msg1}`, 3e4);
       if (showInfo) {
         newNotice.hide();
         new import_obsidian7.Notice(`BRAT
-${msg2}}`, 1e4);
+${msg2}`, 1e4);
       }
     });
   }

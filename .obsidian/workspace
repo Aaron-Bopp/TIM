@@ -7,17 +7,20 @@
         "id": "e90a845cb78d81a2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/flashcards_REST.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "e90a845cb78d81a2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/faith.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/flashcards_REST.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":0},\"to\":{\"line\":74,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "e90a845cb78d81a2",
@@ -112,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10_Sources/flashcards_REST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -144,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10_Sources/flashcards_REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -237,7 +242,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10_Sources/flashcards_REST.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -257,15 +264,11 @@
             }
           },
           {
-            "id": "24fc5df760479792",
+            "id": "1f599d561b395de9",
             "type": "leaf",
             "state": {
               "type": "RSS_FEED",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ],
@@ -281,6 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10_Sources/flashcards_REST.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -392,6 +396,8 @@
   },
   "active": "e90a845cb78d81a2",
   "lastOpenFiles": [
+    "10_Sources/flashcards_REST.md",
+    "00_Meta/Templates/FLASHCARD.md",
     "30_Topics/32_Terms/faith.md",
     "30_Topics/35_Outlines/Computer Science.md",
     "40_Evergreens/Monster of the Week.md",
@@ -399,8 +405,6 @@
     "10_Sources/Personal/My relationship with my parents.md",
     "10_Sources/Personal/I have a stored up emotion of hating myself.md",
     "40_Evergreens/How to title your notes.md",
-    "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
-    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
-    "10_Sources/Personal/What is my path to happiness.md"
+    "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md"
   ]
 }
