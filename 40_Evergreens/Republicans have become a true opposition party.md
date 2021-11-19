@@ -3,6 +3,9 @@ created: 2021-07-30
 tags: node/evergreen
 aliases:
   - null
+sr-due: 2021-11-21
+sr-interval: 3
+sr-ease: 251
 ---
 
 #### [[Republicans have become a true opposition party]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

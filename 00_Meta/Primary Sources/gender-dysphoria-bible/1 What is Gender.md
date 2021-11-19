@@ -31,7 +31,7 @@ This stuff isn't new, it was just sidelined.
  [![](https://pbs.twimg.com/media/EQ1IKINWkAAllKR.jpg?name=medium)](https://pbs.twimg.com/media/EQ1IKINWkAAllKR.jpg) 
 
 Human Sex (the adjective, not the verb) is broken down into three categories:
-[[Sex determines phenotype and genotype but not gender]]
+[[Biology supports the validity of trans people]]
 -  [[Def]]**[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically defined chromosomal kareotype of an organism (XX, XY, [and all variants there of](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
 -  [[Def]] **[Phenotype](https://en.wikipedia.org/wiki/Phenotype)**: The observable primary and secondary sexual characteristics (genitals, fat and muscle distribution, bone structure, etc)
 -  [[Def]] **[Gender](https://en.wikipedia.org/wiki/Gender)**: The **un**observable sexual characteristics, the internal mental model of a person’s own sex and the way that they express it.

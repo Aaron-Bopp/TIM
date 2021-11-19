@@ -3,6 +3,9 @@ created: 2021-07-03
 tags: node/evergreen
 aliases:
   - null
+sr-due: 2021-11-21
+sr-interval: 3
+sr-ease: 260
 ---
 
 #### [[Webs of thought are densely linked]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

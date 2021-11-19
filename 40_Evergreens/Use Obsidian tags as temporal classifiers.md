@@ -1,9 +1,14 @@
 ---
 created: 2021-05-25
 tags: node/evergreen
+sr-due: 2021-11-20
+sr-interval: 2
+sr-ease: 244
 ---
 
 #### [[Use Obsidian tags as temporal classifiers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/TEND/GRAFT should these headers be evergreens
 
 In [[Obsidian (software)|Obsidian]] tags are a peice of metadata that you can add to a note, [^1] and functionally do little more than open a search box with the appropriate search query. You cannot add any markdown or metadata to them, which makes them much less powerful than links and notes, but they can still be very valuable in your [[knowledge management|knowledge management system]].  You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category: [[Prioritize organization over categorization to avoid wasted energy]]. 
 
@@ -11,15 +16,15 @@ In [[Obsidian (software)|Obsidian]] tags are a peice of metadata that you can ad
 
 While the nesting of tags can help to provide structure to what notes are, I don't like them to describe what the idea of a note is. [[Evergreen notes organize knowledge so that it can grow]], and applying a hierarchical tag structure to them would inhibit this. This is why I use tags as **temporal classifiers,** meaning that they apply a temporary classification to a note. This is the idea behind my [[my TO(DO) and EVER(GREEN) structure]].
 
-##### Temporary
+##### Temporary metadata is an entry point to your second brain
 
 Temporal tags mean that they can be used in combination with other metadata, such as note modified time. If I search for \#TO tags and sort by ascending time I can see the most recent things I needed to do, and if I sort by descending time I can see the things I've procrastinated the longest. While tags are not directly connected to modified time (I can modify a note without removing the tag), it does mean I have seen that note recently and thus have seen that tag. This is just another way of interacting with your [[second brain]]: [[Your second brain should be frictionless access to a curated base of knowledge]]
 
-##### Classifications
+##### Classifications group notes with similar metadata
 
 Tags become much more powerful through the use of various plugins. Tags can be used as the parameter for a [[Dataview]] search, which means that you don't need to store all notes of a certain in a folder. They can also be used with plugins like [[Spaced Repetition (plugin)]] to allow you to review all or your \#evergreen notes. This is why I usually include tags in all of my major note templates. These classifications do not have to be related to what the note is about, but rather describe some other tangible aspect of the note: [[The fragility of nodes in a second brain#Node classifcation]]
 
-##### counter:: Tags provide organization of ideas 
+##### Counter:: Tags provide organization of ideas 
 
 If tags can be classifiers of types of notes, why can't they be classifiers of the ideas of notes? Information can certainly be classified, and because multiple tags can be added, if an idea spans multiple classifications you can just add more tags. 
 
@@ -29,9 +34,8 @@ While I think there is benefit to organization, I think that notes accomplish th
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN 
+**Status**:: #EVER/GREEN/PRUNE  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My TIM]], [[Obsidian (software)]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

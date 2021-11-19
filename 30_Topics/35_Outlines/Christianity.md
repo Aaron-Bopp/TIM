@@ -11,10 +11,10 @@ aliases:
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Christianity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- [[The biblical christian God is evil and does not deserved to be worshipped]]
+- [[The biblical christian God is evil and does not deserve to be worshipped]]
 - [[The Politicization of the Christian Church]]
 - [[Evangelicalism]]
-- [[The biblical christian God is evil and does not deserved to be worshipped]]
+- [[The biblical christian God is evil and does not deserve to be worshipped]]
 	- [[Fear of hell is baked into Christianity]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - [[Were Jesus' teachings anti-thetical to the modern christian church]]

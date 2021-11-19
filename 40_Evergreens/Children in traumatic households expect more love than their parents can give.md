@@ -3,8 +3,8 @@ created: 2021-07-05
 tags: node/evergreen
 aliases:
   - Parents will not be able to protect their children from every source of trauma
-sr-due: 2021-11-18
-sr-interval: 14
+sr-due: 2021-12-17
+sr-interval: 29
 sr-ease: 210
 ---
 

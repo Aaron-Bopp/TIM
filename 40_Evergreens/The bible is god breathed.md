@@ -13,7 +13,7 @@ This is a belief held by protestant and [[Evangelicalism | evangelical]] church'
 
 It's ironic because [[Were Jesus' teachings anti-thetical to the modern christian church]]
 
-It's a big part of the reason why I think [[The biblical christian God is evil and does not deserved to be worshipped]] and that [[Searching for THE answer is dangerous]], the thought that the bible is infallible means there is a right answer for every question, and ignores many individual's experience's. ([[People have been conditioned to believe the bible has to be infallible]])
+It's a big part of the reason why I think [[The biblical christian God is evil and does not deserve to be worshipped]] and that [[Searching for THE answer is dangerous]], the thought that the bible is infallible means there is a right answer for every question, and ignores many individual's experience's. ([[People have been conditioned to believe the bible has to be infallible]])
 
 ---
 

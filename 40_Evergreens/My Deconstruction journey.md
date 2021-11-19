@@ -12,7 +12,7 @@ My deconstruction started in high school because of a general lack of [[love]] f
 
 I was disconnected from my [[faith]] enough that I was able to stop being a [[Christianity|christian]], before I decided that God wasn't real, and I wasn't really afraid of [[Deconstruction (Christianity)| deconstructing]] my [[faith]] because I only valued the church to please [[my parents]] ([[Fear cannot be a deterant for deconstructing your faith]]) I still practiced [[Christianity]] (christian school, going to church, etc) until I was 19, because I was too scared of [[my parents]] reactions. I lied for four years straight, for really no benefit because I forced myself to live a lie for years and when I did tell them it was still [[religious trauma| traumatic]]. 
 
-It took me two years of complete separation from the church and [[my parents]] on top of four years of not being a [[Christianity|christian]] before I felt like I could look at [[Christianity]] objectively, because [[Deconstructing your faith is like climbing through a jungle canopy]]. It was only when I was able to reach the top that I made the realizations about God ([[The biblical christian God is evil and does not deserved to be worshipped]]) that made me confident enough to be an [[atheism|atheist]].
+It took me two years of complete separation from the church and [[my parents]] on top of four years of not being a [[Christianity|christian]] before I felt like I could look at [[Christianity]] objectively, because [[Deconstructing your faith is like climbing through a jungle canopy]]. It was only when I was able to reach the top that I made the realizations about God ([[The biblical christian God is evil and does not deserve to be worshipped]]) that made me confident enough to be an [[atheism|atheist]].
 
 One of my most major issues with the church is that [[Non-faith issues have been co-opted to keep people in the christian church]]. This is part of the reason why I believe [[You can leave the church and still believe in the christian god]], and why [[My worldview is not about conversion it is about acceptance]]. But I think it is also very important to note [[The church will fail if christians keep aligning themselves with hate instead of love]].
 
@@ -24,7 +24,7 @@ I went through a time of [[depression]], where fell into the fallacy that [[Sadn
 
 [[Realism must acknowledge optimism's existence and effectiveness]]
 
-My feelings being a follower of Jesus have somewhat mellowed with time, but my feelings towards the church has not, and I still believe [[The biblical christian God is evil and does not deserved to be worshipped]]
+My feelings being a follower of Jesus have somewhat mellowed with time, but my feelings towards the church has not, and I still believe [[The biblical christian God is evil and does not deserve to be worshipped]]
 
 Additionally I believe [[Worldviews are wrong if they make life seem easy and simple]] and that [[Christianity]] is one such worldview:
 -  [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] creates a [[cognitive dissonance]] that is unhealthy

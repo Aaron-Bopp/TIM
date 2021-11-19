@@ -3,10 +3,11 @@ created: 2021-11-09
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-17
-sr-interval: 5
-sr-ease: 230
+sr-due: 2021-11-21
+sr-interval: 3
+sr-ease: 210
 ---
+
 #### [[We are confined to the tools of our time]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Choosing a note writing system is choosing a system for thought]]
@@ -23,7 +24,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[cognitive dissonance]], [[human experience]], [[human advancement]], [[self-improvement]], [[social justice]], [[socialization|inter-personal communication]]
+**Topics**:: [[cognitive dissonance]], [[human experience]], [[human advancement]], [[self-improvement]], [[social justice]], [[socialization|inter-personal communication]], [[transhumanism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

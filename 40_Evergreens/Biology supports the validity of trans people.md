@@ -3,8 +3,8 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - Our pre-natal and hormonal environment are the scientific basis of our gender
-sr-due: 2021-12-09
-sr-interval: 23
+sr-due: 2022-01-15
+sr-interval: 58
 sr-ease: 252
 ---
 
@@ -20,6 +20,14 @@ If your assigned gender does not match your true gender your body will produce b
 
 Unfortunately, [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]], which means that most trans children don't receive this kind of support. 
 
+##### Sex determines phenotype and genotype but not gender
+
+- [ ] #TO/TEND/CREATE term notes
+- **[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically defined chromosomal kareotype of an organism (XX, XY, [and all variants there of](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
+
+- **[Phenotype](https://en.wikipedia.org/wiki/Phenotype)**: The observable primary and secondary sexual characteristics (genitals, fat and muscle distribution, bone structure, etc)
+
+- **[Gender](https://en.wikipedia.org/wiki/Gender)**: The **un**observable sexual characteristics, the internal mental model of a person’s own sex and the way that they express it.
 
 ### <hr class="footnote"/>
 

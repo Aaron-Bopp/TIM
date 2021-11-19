@@ -3,8 +3,8 @@ created: 2021-11-08
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-11-17
-sr-interval: 2
+sr-due: 2021-11-23
+sr-interval: 5
 sr-ease: 206
 ---
 
@@ -13,6 +13,9 @@ sr-ease: 206
 - [[Parents need to model the ability to deal with emotion to their children]]
 - [[Children in traumatic households expect more love than their parents can give|Parents will not be able to protect their children from every source of trauma]]
 - [[Children will imitate whatever is modeled for them]]
+- [[Our authority figures curate and reinforce what we are allowed to imitate]]
+- [[You can be taught to invalidate your own emotions]]
+- [[A inwardly judgementful and outwardly accepting home creates trust issues]]
 
 ### <hr class="footnote"/>
 

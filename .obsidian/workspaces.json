@@ -631,83 +631,113 @@
         "type": "split",
         "children": [
           {
-            "id": "7ab5b73bd1cd8789",
+            "id": "f5dd6d5f4e01987f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/We are confined to the tools of our time.md",
-                "mode": "preview"
+                "file": "40_Evergreens/Stereotypes are social constructs.md",
+                "mode": "source"
               }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotypes are social constructs.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "f5dd6d5f4e01987f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Working through trauma can involve of a lot of letting go.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "f5dd6d5f4e01987f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought are densely linked.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "f5dd6d5f4e01987f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Republicans have become a true opposition party.md\",\"mode\":\"source\"}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The injustice of endurance.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":32},\"to\":{\"line\":16,\"ch\":32}},\"scroll\":4.028571537562779}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0.050000001986821495}"
                 },
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Every person has an experience of gender.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":2.171428680419922}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":5.653061162209024}"
                 },
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":10.090908859715316}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":575},\"to\":{\"line\":16,\"ch\":575}}}"
                 },
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":7.779527799351009}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0.4666666587193807}"
                 },
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7ab5b73bd1cd8789",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can leave the church and still believe in the christian god.md\",\"mode\":\"source\"}}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":1.7637794975220689}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":31},\"to\":{\"line\":21,\"ch\":31}},\"scroll\":9.155688432901878}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":0},\"to\":{\"line\":46,\"ch\":0}},\"scroll\":27.772724845192656}"
                 },
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Humans are a product of evolution.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
                 },
                 {
-                  "leaf": "7ab5b73bd1cd8789",
+                  "leaf": "f5dd6d5f4e01987f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":48},\"to\":{\"line\":11,\"ch\":48}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":3.571428571428571}"
+                },
+                {
+                  "leaf": "f5dd6d5f4e01987f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0.30303030303030304}"
+                },
+                {
+                  "leaf": "f5dd6d5f4e01987f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Biology supports the validity of trans people.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":16.630303192138673}"
+                },
+                {
+                  "leaf": "f5dd6d5f4e01987f",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             }
@@ -760,7 +790,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/We are confined to the tools of our time.md",
+                    "file": "40_Evergreens/Stereotypes are social constructs.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -793,7 +823,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/We are confined to the tools of our time.md",
+                    "file": "40_Evergreens/Stereotypes are social constructs.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -888,7 +918,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/We are confined to the tools of our time.md"
+                    "file": "40_Evergreens/Stereotypes are social constructs.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -920,7 +950,8 @@
                   "stack": []
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "84f4f33f118f4527",
@@ -932,7 +963,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/We are confined to the tools of our time.md",
+                    "file": "40_Evergreens/Stereotypes are social constructs.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1041,7 +1072,7 @@
         "direction": "horizontal",
         "width": 710.2000122070312
       },
-      "active": "7ab5b73bd1cd8789"
+      "active": "f5dd6d5f4e01987f"
     }
   },
   "active": "16:9 NOW"
