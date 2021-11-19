@@ -3,14 +3,16 @@ created: 2021-10-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-16
-sr-interval: 7
-sr-ease: 210
+sr-due: 2021-11-22
+sr-interval: 4
+sr-ease: 190
 ---
+
 #### [[Our authority figures curate and reinforce what we are allowed to imitate]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 In [[Social Learning Theory]], imitation is one of four key mechanism for social learning. This means that children are more likely to imitate the actions of authority figures, most often [[parents]]: [[Parents need to model the ability to deal with emotion to their children]]
 
+- [[Children will imitate whatever is modeled for them]] #TO/TEND/DEOBFUSCATE 
 
 ### <hr class="footnote"/>
 

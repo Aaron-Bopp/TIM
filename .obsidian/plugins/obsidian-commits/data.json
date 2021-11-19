@@ -4412,7 +4412,7 @@
     },
     "40_Evergreens/A secure identity is the best defense against social anxiety.md": {
       "size": 1798,
-      "tags": 2,
+      "tags": 3,
       "links": 15
     },
     "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md": {
@@ -4658,7 +4658,7 @@
     "40_Evergreens/Knowledge of the world is painful.md": {
       "size": 595,
       "tags": 2,
-      "links": 5
+      "links": 12
     },
     "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md": {
       "size": 696,
@@ -4868,12 +4868,12 @@
     "40_Evergreens/Single issue voters are anti-democratic.md": {
       "size": 422,
       "tags": 2,
-      "links": 6
+      "links": 7
     },
     "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md": {
       "size": 1147,
       "tags": 2,
-      "links": 11
+      "links": 13
     },
     "40_Evergreens/Source Code.md": {
       "size": 947,
@@ -6717,8 +6717,8 @@
     },
     "40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md": {
       "size": 820,
-      "tags": 2,
-      "links": 6
+      "tags": 3,
+      "links": 7
     },
     "30_Topics/32_Terms/TERFS.md": {
       "size": 0,
@@ -6743,7 +6743,7 @@
     "40_Evergreens/Mental health is a reaction to one's environment.md": {
       "size": 2341,
       "tags": 3,
-      "links": 17
+      "links": 18
     },
     "40_Evergreens/Complex emotions are intellectual understandings of primal urges.md": {
       "size": 1134,
@@ -8843,14 +8843,19 @@
     "40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md": {
       "size": 1301,
       "tags": 2,
-      "links": 16
+      "links": 19
+    },
+    "Humans are a product of evolution.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1359,
-      "Create": 1914,
-      "Link": 2973,
+      "Create": 1915,
+      "Link": 2984,
       "Expand": 76
     },
     "40 Evergreens": {
@@ -8879,11 +8884,11 @@
       "14": 2174,
       "15": 95,
       "16": 839,
-      "17": 1461,
-      "18": 169,
+      "17": 1462,
+      "18": 179,
       "19": 84,
       "20": 101,
-      "21": 136,
+      "21": 137,
       "22": 159,
       "23": 138
     },
@@ -8919,7 +8924,7 @@
       "Mon": 155,
       "Tue": 594,
       "Wed": 1195,
-      "Thu": 227,
+      "Thu": 239,
       "Fri": 38,
       "Sat": 0,
       "Sun": 4113
@@ -8990,6 +8995,7 @@
         "<a class=\"internal-link\" href=\"Marsh P Johnson.md\"> Marsh P Johnson </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\"> articles_Various ways to include comments on your static site </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
@@ -9039,8 +9045,7 @@
         "<a class=\"internal-link\" href=\"_Me.md\"> _Me </a>",
         "<a class=\"internal-link\" href=\"JUSTEVERGREENS.md\"> JUSTEVERGREENS </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/therapy.md\"> therapy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bi-directional links.md\"> bi-directional links </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
@@ -9096,6 +9101,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/34_People/@visakanv on Twitter.md\"> @visakanv on Twitter </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
+        "<a class=\"internal-link\" href=\"Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
@@ -9143,10 +9151,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
         "<a class=\"internal-link\" href=\"We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\"> The actual work of being a good person isn't explored by Christianity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Sexism may be harmful to men's mental health.md\"> articles_Sexism may be harmful to men's mental health </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9208,6 +9213,14 @@
         "<a class=\"internal-link\" href=\"30_Topics/indoctrination.md\"> indoctrination </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Single issue voters are anti-democratic.md\"> Single issue voters are anti-democratic </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
@@ -9250,15 +9263,7 @@
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/HTML.md\"> HTML </a>",
-        "<a class=\"internal-link\" href=\"HTML.md\"> HTML </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Breadcrumbs.md\"> Breadcrumbs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Git.md\"> Git </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Github.md\"> Github </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/HTML.md\"> HTML </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",

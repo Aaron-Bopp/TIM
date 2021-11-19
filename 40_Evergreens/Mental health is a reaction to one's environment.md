@@ -3,9 +3,9 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-17
-sr-interval: 9
-sr-ease: 212
+sr-due: 2021-11-24
+sr-interval: 6
+sr-ease: 192
 ---
 
 #### [[Mental health is a reaction to one's environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,12 +16,12 @@ This environment includes our physical environment (the one we experience), our 
 [[Complex emotions are intellectual understandings of primal urges]], is an internal reaction to an internal stimuli
 
 [[Biology supports the validity of trans people]] and [[Complex emotions are intellectual understandings of primal urges]], so often there will be many comorbid [[mental illness]] that can be treated, when the chemical imbalances in your brain are the root cause. 
-Ways to alter our environment:
+Ways to alter our environment: [[Tips for concentration]]
 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT  
+**Status**:: #EVER/SPROUT/CULTIVATE   
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Pyschology]], [[mental illness]]

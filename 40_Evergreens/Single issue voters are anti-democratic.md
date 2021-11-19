@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-16
-sr-interval: 10
+sr-due: 2021-12-14
+sr-interval: 26
 sr-ease: 234
 ---
 
@@ -13,7 +13,7 @@ sr-ease: 234
 - [[Democracy is about an open forum of ideas]]
 - [[The Politicization of the Christian Church]]
 - [[Abortion and immigration are detrimental to white supremacy]]
-
+- [[Q justifies conservatives discontent]]
 
 ### <hr class="footnote"/>
 

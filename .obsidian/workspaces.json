@@ -627,99 +627,75 @@
     },
     "16:9 NOW": {
       "main": {
-        "id": "5c02cc8afa53f8f4",
+        "id": "32a23a78707a27d9",
         "type": "split",
         "children": [
           {
-            "id": "e7961f0c1d19e6f8",
+            "id": "7ab5b73bd1cd8789",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Trans people will look for any other solution than being trans.md",
+                "file": "40_Evergreens/Every person has an experience of gender.md",
                 "mode": "source"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "leaf": "e7961f0c1d19e6f8",
+                  "leaf": "7ab5b73bd1cd8789",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Every person has an experience of gender.md\",\"mode\":\"source\"}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "leaf": "e7961f0c1d19e6f8",
+                  "leaf": "7ab5b73bd1cd8789",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Trans people will look for any other solution than being trans.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":233},\"to\":{\"line\":14,\"ch\":233}},\"scroll\":6.228571210588727}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":10.090908859715316}"
                 },
                 {
-                  "leaf": "e7961f0c1d19e6f8",
+                  "leaf": "7ab5b73bd1cd8789",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":1},\"to\":{\"line\":17,\"ch\":1}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":7.779527799351009}"
                 },
                 {
-                  "leaf": "e7961f0c1d19e6f8",
+                  "leaf": "7ab5b73bd1cd8789",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "e7961f0c1d19e6f8",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "e7961f0c1d19e6f8",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":14.070722108558105}"
-                },
-                {
-                  "leaf": "e7961f0c1d19e6f8",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The fragility of nodes in a second brain.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":24},\"to\":{\"line\":37,\"ch\":24}},\"scroll\":22.656565560818745}"
-                },
-                {
-                  "leaf": "e7961f0c1d19e6f8",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brains are built around survival.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":9.37878822557854}"
-                },
-                {
-                  "leaf": "e7961f0c1d19e6f8",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "e7961f0c1d19e6f8",
+                  "leaf": "7ab5b73bd1cd8789",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 QUICKNOTE.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":47},\"to\":{\"line\":16,\"ch\":47}},\"scroll\":4.727272496078954}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "e7961f0c1d19e6f8",
+                  "leaf": "7ab5b73bd1cd8789",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/LAST-WEEK.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":1.7637794975220689}"
                 },
                 {
-                  "leaf": "e7961f0c1d19e6f8",
+                  "leaf": "7ab5b73bd1cd8789",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERSPROUTS.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":31},\"to\":{\"line\":21,\"ch\":31}},\"scroll\":9.155688432901878}"
                 },
                 {
-                  "leaf": "e7961f0c1d19e6f8",
+                  "leaf": "7ab5b73bd1cd8789",
                   "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Humans are a product of evolution.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "7ab5b73bd1cd8789",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":48},\"to\":{\"line\":11,\"ch\":48}}}"
                 }
               ]
             }
@@ -772,7 +748,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Trans people will look for any other solution than being trans.md",
+                    "file": "40_Evergreens/Every person has an experience of gender.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -805,7 +781,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Trans people will look for any other solution than being trans.md",
+                    "file": "40_Evergreens/Every person has an experience of gender.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -900,7 +876,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Trans people will look for any other solution than being trans.md"
+                    "file": "40_Evergreens/Every person has an experience of gender.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -932,8 +908,7 @@
                   "stack": []
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "84f4f33f118f4527",
@@ -945,7 +920,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Trans people will look for any other solution than being trans.md",
+                    "file": "40_Evergreens/Every person has an experience of gender.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1054,7 +1029,7 @@
         "direction": "horizontal",
         "width": 710.2000122070312
       },
-      "active": "e7961f0c1d19e6f8"
+      "active": "7ab5b73bd1cd8789"
     }
   },
   "active": "16:9 NOW"

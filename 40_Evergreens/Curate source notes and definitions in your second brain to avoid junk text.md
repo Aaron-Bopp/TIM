@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-16
-sr-interval: 7
+sr-due: 2021-12-05
+sr-interval: 17
 sr-ease: 210
 ---
 
@@ -25,7 +25,7 @@ For me, this process looks like this:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SPROUT/CULTIVATE  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[My TIM]], [[second brain]]

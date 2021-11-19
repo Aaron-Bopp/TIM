@@ -3,8 +3,8 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-16
-sr-interval: 4
+sr-due: 2021-11-29
+sr-interval: 11
 sr-ease: 219
 ---
 
@@ -14,7 +14,7 @@ Because [[Our understanding of gender begins at a very early age]] and [[Gender 
 
 Once you discover and accept yourself as [[transgender|trans]], a lot of the seemingly inexplicable or untreatable [[mental illness|mental illness]] in your life will be alleviated as well. [^1] Despite being a transformational internal experience, it can often be hard to accept yourself as [[transgender|trans]]. [^2] This leads [[transgender|trans]] people often continue to look into other solutions. This is often due to [[societal trauma | societal stigma]] and can make the life of an out or closeted [[transgender|trans]] person even more difficult. 
 
-- [ ] #TO/EXPLORE/RESEARCH Relation to studies from [[Psychology of Race and Gender notes]]
+- [ ] #TO/DO/CONCEPTUALIZE  Relation to studies from [[Psychology of Race and Gender notes]]
 
 [^1]: [[Your anxiety knows your insecurities better than you do]], [[We value our biggest insecurities because they protect us from the biggest threats]]
 [^2]: [[You're never sure if you're trans]]
@@ -23,7 +23,7 @@ Once you discover and accept yourself as [[transgender|trans]], a lot of the see
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT/WATER ``
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]], [[mental illness]], [[human survival]], [[self-actualization]]

@@ -3,9 +3,9 @@ created: 2021-11-15
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-11-16
+sr-due: 2021-11-19
 sr-interval: 1
-sr-ease: 219
+sr-ease: 199
 ---
 
 #### [[What makes a note evergreen]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
