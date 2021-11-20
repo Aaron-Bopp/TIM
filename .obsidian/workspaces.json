@@ -636,7 +636,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                 "mode": "source"
               }
             },
@@ -646,8 +646,14 @@
                 {
                   "leaf": "5cdd953e348be4be",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "5cdd953e348be4be",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":9},\"to\":{\"line\":21,\"ch\":9}},\"scroll\":0}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "5cdd953e348be4be",
@@ -756,12 +762,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\"}}",
                   "eState": "{}"
-                },
-                {
-                  "leaf": "5cdd953e348be4be",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
                 }
               ]
             }
@@ -814,7 +814,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +847,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -941,7 +941,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md"
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -982,7 +982,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
