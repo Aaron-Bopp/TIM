@@ -1,0 +1,31 @@
+/* used to properly align the numbers of the dataviewjs wordcount snippet
+https://gist.github.com/chrisgrieser/ac16a80cdd9e8e0e84606cc24e35ad99 */
+
+.wordcountTable table.dataview.table-view-table td,
+.wordcountTable table.dataview.table-view-table th {
+  border-left: 2px solid;
+}
+.wordcountTable table.dataview.table-view-table td:first-child,
+.wordcountTable table.dataview.table-view-table th:first-child {
+  border-left: none;
+}
+
+.wordcountTable table.dataview.table-view-table td:nth-child(2),
+.wordcountTable table.dataview.table-view-table td:nth-child(3),
+.wordcountTable table.dataview.table-view-table td:nth-child(4),
+.wordcountTable table.dataview.table-view-table td:nth-child(5){
+    text-align: end;
+}
+
+.wordcountTable table.dataview.table-view-table td:last-child{
+    text-align: center;
+}
+
+/* full-width in Preview Mode*/
+.wordcountTable .markdown-preview-section {
+	max-width: 100% !important;
+}
+
+.wordcountTable table.dataview.table-view-table th{
+    text-align: center;
+}

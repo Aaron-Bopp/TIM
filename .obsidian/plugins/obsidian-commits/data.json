@@ -8849,14 +8849,19 @@
       "size": 0,
       "tags": 1,
       "links": 4
+    },
+    "EVERGREENTRACKER.md": {
+      "size": 13413,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1380,
-      "Create": 1919,
-      "Link": 3038,
-      "Expand": 78
+      "Create": 1920,
+      "Link": 3039,
+      "Expand": 79
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8889,7 +8894,7 @@
       "19": 84,
       "20": 101,
       "21": 139,
-      "22": 180,
+      "22": 183,
       "23": 175
     },
     "40 Evergreens": {
@@ -8925,7 +8930,7 @@
       "Tue": 594,
       "Wed": 1195,
       "Thu": 299,
-      "Fri": 59,
+      "Fri": 62,
       "Sat": 0,
       "Sun": 4113
     },
@@ -8942,6 +8947,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\"> Non-faith issues have been co-opted to keep people in the christian church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
@@ -8991,10 +8997,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental Health is a reaction to one's environment.md\"> Mental Health is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental Health is a reaction to one's environment.md\"> Mental Health is a reaction to one's environment </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>",
@@ -9044,8 +9050,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/Average links per note type.md\"> Average links per note type </a>",
         "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
         "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/AI (artificial intelligence).md\"> AI (artificial intelligence) </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/The biblical christian God is evil and does not deserve to be worshipped.md\"> The biblical christian God is evil and does not deserve to be worshipped </a>",
@@ -9101,6 +9106,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social discomfort.md\"> social discomfort </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
@@ -9150,8 +9156,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Github.md\"> Github </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Python.md\"> Python </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/markup.md\"> markup </a>",
-        "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/markup.md\"> markup </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",

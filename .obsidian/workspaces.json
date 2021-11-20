@@ -636,18 +636,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                "file": "EVERGREENTRACKER.md",
                 "mode": "source"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
                   "leaf": "5cdd953e348be4be",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anger fuels change.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "5cdd953e348be4be",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"EVERGREENTRACKER.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":170,\"ch\":0},\"to\":{\"line\":170,\"ch\":0}},\"scroll\":4.25531914893617}"
+                },
+                {
+                  "leaf": "5cdd953e348be4be",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":26},\"to\":{\"line\":10,\"ch\":26}}}"
+                  "eState": "{}"
                 },
                 {
                   "leaf": "5cdd953e348be4be",
@@ -750,18 +762,50 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\",\"mode\":\"source\"}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
+                }
+              ]
+            }
+          },
+          {
+            "id": "e9f2ca14b8a88546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "leaf": "5cdd953e348be4be",
+                  "leaf": "e9f2ca14b8a88546",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Searching for THE answer is dangerous.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":138},\"to\":{\"line\":16,\"ch\":138}}}"
-                },
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":30},\"to\":{\"line\":19,\"ch\":27}}}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "d2e782b330b033d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "leaf": "5cdd953e348be4be",
+                  "leaf": "d2e782b330b033d3",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 }
               ]
             }
@@ -814,7 +858,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "file": "EVERGREENTRACKER.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +891,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "file": "EVERGREENTRACKER.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -941,7 +985,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
+                    "file": "EVERGREENTRACKER.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -990,7 +1034,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "file": "EVERGREENTRACKER.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1097,7 +1141,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 710.2000122070312
+        "width": 710.2000122070312,
+        "collapsed": true
       },
       "active": "5cdd953e348be4be"
     }
