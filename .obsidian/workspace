@@ -341,9 +341,17 @@
               "type": "RSS_FEED",
               "state": {}
             }
+          },
+          {
+            "id": "05543fcaee6d9893",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "84f4f33f118f4527",
