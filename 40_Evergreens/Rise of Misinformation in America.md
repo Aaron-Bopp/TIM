@@ -18,7 +18,7 @@ Over the last forty years, misinformation has become so potent in [[America]], t
 - [[Creationism built an anti-science culture]]
 	- [[The Politicization of the Christian Church]]
 - [[Single issue voters are anti-democratic]]
-	- [[Abortion and immigration are detrimental to white supremacy]]
+	- [[wAbortion and immigration are detrimental to white supremacy]]
 - [[The internet allows niche topics to flourish]]
 	- [[The anti-vax movement is based off a white lie]]
 - [[Mass media promotes the spread of innacurate information]]

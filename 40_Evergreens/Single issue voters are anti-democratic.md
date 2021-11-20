@@ -12,7 +12,7 @@ sr-ease: 234
 
 - [[Democracy is about an open forum of ideas]]
 - [[The Politicization of the Christian Church]]
-- [[Abortion and immigration are detrimental to white supremacy]]
+- [[wAbortion and immigration are detrimental to white supremacy]]
 - [[Q justifies conservatives discontent]]
 
 ### <hr class="footnote"/>

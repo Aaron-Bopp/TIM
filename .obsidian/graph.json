@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#node/evergreen",
+  "search": "tag:#node",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -18,28 +18,28 @@
       "query": "tag:#node/evergreen",
       "color": {
         "a": 1,
-        "rgb": 61183
+        "rgb": 52479
       }
     },
     {
       "query": "tag:node/topic/stub",
       "color": {
         "a": 1,
-        "rgb": 16091904
+        "rgb": 16423710
       }
     },
     {
       "query": "tag:node/topic/term",
       "color": {
         "a": 1,
-        "rgb": 16746798
+        "rgb": 16741386
       }
     },
     {
       "query": "tag:#node/topic",
       "color": {
         "a": 1,
-        "rgb": 16732165
+        "rgb": 16602381
       }
     },
     {
@@ -53,13 +53,13 @@
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 0.762941176470588,
+  "nodeSizeMultiplier": 0.566580882352941,
   "lineSizeMultiplier": 0.532352941176471,
   "collapse-forces": false,
-  "centerStrength": 0.230514705882353,
+  "centerStrength": 0.336397058823529,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.017147738103372463,
-  "close": true
+  "scale": 0.32133638605035997,
+  "close": false
 }

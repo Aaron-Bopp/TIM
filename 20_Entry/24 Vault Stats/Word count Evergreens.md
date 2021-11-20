@@ -156,7 +156,7 @@ let plaintext = text
 
 plaintext = plaintext.replace(/`\$?=[^`]*`/g, "")
 
-plaintext = plaintext.replace(/*edited/g, "")
+plaintext = plaintext.replace(/\*edited/g, "")
 
 
 plaintext = plaintext
@@ -167,12 +167,12 @@ plaintext = plaintext
 
 .replace(/\*|_|\[\[|\]\]|\||==|~~|---|#|> |`/g,""); //Markdown Syntax
 
-plaintext = plaintext.replace(/$[\w\s]*::.*/g, "")
+plaintext = plaintext.replace(/[\w\s]*::.*/g, "")
 
 
 if (!excludeComments) plaintext = plaintext
 
-.replace(/<.*?\/>/sg,"") //HTML comments
+.replace(/\<.*?\/>/sg,"") //HTML comments
 
 .replace(/%%.*?%%/sg,""); //Obsidian comments
 
@@ -559,4 +559,6 @@ dv.span(
 + "</small>"
 
 );
+
+customJS.dv_funcs.sortableColumns()
 ```

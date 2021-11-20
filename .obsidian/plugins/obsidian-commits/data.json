@@ -4415,11 +4415,6 @@
       "tags": 3,
       "links": 15
     },
-    "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md": {
-      "size": 594,
-      "tags": 2,
-      "links": 10
-    },
     "40_Evergreens/Accepting responsibility is not only about your actions.md": {
       "size": 1823,
       "tags": 2,
@@ -8340,11 +8335,6 @@
       "tags": 0,
       "links": 0
     },
-    "20_Entry/24 Vault Stats/WORDCOUNT.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "20_Entry/205 QUICKNOTE.md": {
       "size": 6057,
       "tags": 5,
@@ -8815,11 +8805,6 @@
       "tags": 2,
       "links": 19
     },
-    "Humans are a product of evolution.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 1
-    },
     "30_Topics/31_Stubs/transhumanism.md": {
       "size": 0,
       "tags": 1,
@@ -8835,22 +8820,32 @@
       "tags": 2,
       "links": 11
     },
-    "Mass media promotes the spread of innacurate information.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 3
-    },
-    "What is the difference between sympathy and empathy.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 1
-    },
     "10_Sources/flashcards_REST.md": {
       "size": 0,
       "tags": 1,
       "links": 4
     },
-    "EVERGREENTRACKER.md": {
+    "40_Evergreens/wAbortion and immigration are detrimental to white supremacy.md": {
+      "size": 594,
+      "tags": 2,
+      "links": 10
+    },
+    "40_Evergreens/Mass media promotes the spread of innacurate information.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    },
+    "40_Evergreens/What is the difference between sympathy and empathy.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "40_Evergreens/Humans are a product of evolution.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "20_Entry/24 Vault Stats/Word count Evergreens.md": {
       "size": 13413,
       "tags": 2,
       "links": 0
@@ -8858,7 +8853,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1380,
+      "Refactor": 1387,
       "Create": 1920,
       "Link": 3039,
       "Expand": 79
@@ -8894,8 +8889,8 @@
       "19": 84,
       "20": 101,
       "21": 139,
-      "22": 183,
-      "23": 175
+      "22": 184,
+      "23": 181
     },
     "40 Evergreens": {
       "0": 9,
@@ -8930,7 +8925,7 @@
       "Tue": 594,
       "Wed": 1195,
       "Thu": 299,
-      "Fri": 62,
+      "Fri": 69,
       "Sat": 0,
       "Sun": 4113
     },
@@ -9053,6 +9048,12 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/wAbortion and immigration are detrimental to white supremacy.md\"> wAbortion and immigration are detrimental to white supremacy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The biblical christian God is evil and does not deserve to be worshipped.md\"> The biblical christian God is evil and does not deserve to be worshipped </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit.md\"> What is language's fundamental unit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
@@ -9097,13 +9098,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/biology.md\"> biology </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religion.md\"> religion </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/mental health.md\"> mental health </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Neuroscience.md\"> Neuroscience </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human advancement.md\"> human advancement </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/socialization.md\"> socialization </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/anxiety.md\"> anxiety </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social anxiety.md\"> social anxiety </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social discomfort.md\"> social discomfort </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Neuroscience.md\"> Neuroscience </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
@@ -9165,6 +9160,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/WORDCOUNT.md\"> WORDCOUNT </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to title your notes.md\"> How to title your notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/organizational notes.md\"> organizational notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Capture your fleeting thoughts.md\"> Capture your fleeting thoughts </a>",
@@ -9214,8 +9210,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>",
         "<a class=\"internal-link\" href=\"30_Topics/optimism.md\"> optimism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/OCD.md\"> OCD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Observational learning.md\"> Observational learning </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Nuclear Fear.md\"> Nuclear Fear </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/Observational learning.md\"> Observational learning </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
