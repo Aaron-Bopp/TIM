@@ -631,35 +631,67 @@
         "type": "split",
         "children": [
           {
-            "id": "db9d58a7b394e3d5",
+            "id": "462157e2bb3caadc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
-                "mode": "preview"
+                "file": "30_Topics/31_Stubs/empathy.md",
+                "mode": "source"
               }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "db9d58a7b394e3d5",
+                  "leaf": "462157e2bb3caadc",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":4.629921199768547}"
-                },
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/empathy.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":16.086029772220733}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "338d89bc8472e10c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/What is the difference between sympathy and empathy.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "leaf": "db9d58a7b394e3d5",
+                  "leaf": "338d89bc8472e10c",
                   "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between sympathy and empathy.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":6.257142748151507}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "78c772ed65df2909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/31_Stubs/sympathy.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "leaf": "db9d58a7b394e3d5",
+                  "leaf": "78c772ed65df2909",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/sympathy.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             }
@@ -693,7 +725,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#exclude path:(undefined)",
+                    "query": "ocognitive empathy",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": false,
@@ -712,7 +744,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
+                    "file": "30_Topics/31_Stubs/sympathy.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -745,7 +777,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
+                    "file": "30_Topics/31_Stubs/sympathy.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -770,7 +802,8 @@
                   "stack": []
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -838,7 +871,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Friction is the number one hindrance to learning.md"
+                    "file": "30_Topics/31_Stubs/sympathy.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -876,6 +909,10 @@
                 "state": {
                   "type": "RSS_FEED",
                   "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
                 }
               }
             ],
@@ -891,7 +928,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
+                    "file": "30_Topics/31_Stubs/sympathy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1001,7 +1038,7 @@
         "width": 710.2000122070312,
         "collapsed": true
       },
-      "active": "db9d58a7b394e3d5"
+      "active": "78c772ed65df2909"
     }
   },
   "active": "16:9 NOW"

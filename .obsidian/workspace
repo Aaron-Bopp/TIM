@@ -4,35 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "db9d58a7b394e3d5",
+        "id": "462157e2bb3caadc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
-            "mode": "preview"
+            "file": "30_Topics/31_Stubs/empathy.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "db9d58a7b394e3d5",
+              "leaf": "462157e2bb3caadc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/empathy.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":15.909169060746336}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "338d89bc8472e10c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/What is the difference between sympathy and empathy.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
             {
-              "leaf": "db9d58a7b394e3d5",
+              "leaf": "338d89bc8472e10c",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between sympathy and empathy.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":100}},\"scroll\":4.7999997820172995}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "78c772ed65df2909",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/31_Stubs/sympathy.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
             {
-              "leaf": "db9d58a7b394e3d5",
+              "leaf": "78c772ed65df2909",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/sympathy.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":60},\"to\":{\"line\":11,\"ch\":60}},\"scroll\":2.914285659790039}"
             }
           ]
         }
@@ -66,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#exclude path:(undefined)",
+                "query": "ocognitive empathy",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
+                "file": "30_Topics/31_Stubs/empathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -118,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
+                "file": "30_Topics/31_Stubs/empathy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +175,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Friction is the number one hindrance to learning.md"
+                "file": "30_Topics/31_Stubs/empathy.md"
               }
             },
             "pane-relief:history-v1": {
@@ -249,6 +282,10 @@
             "state": {
               "type": "RSS_FEED",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -264,7 +301,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
+                "file": "30_Topics/31_Stubs/empathy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -374,17 +411,17 @@
     "width": 710.2000122070312,
     "collapsed": true
   },
-  "active": "db9d58a7b394e3d5",
+  "active": "462157e2bb3caadc",
   "lastOpenFiles": [
+    "30_Topics/31_Stubs/empathy.md",
+    "30_Topics/31_Stubs/sympathy.md",
+    "40_Evergreens/What is the difference between sympathy and empathy.md",
+    "40_Evergreens/Empathy does not dissallow judgment.md",
+    "40_Evergreens/Humans are a product of evolution.md",
+    "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
     "40_Evergreens/Friction is the number one hindrance to learning.md",
     "20_Entry/24 Vault Stats/Word count Evergreens.md",
     "40_Evergreens/Hope is not optimism it is a practice for producing change.md",
-    "20_Entry/201 Welcome.md",
-    "20_Entry/202 INDEX.md",
-    "20_Entry/204 Me.md",
-    "10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md",
-    "30_Topics/31_Stubs/Autism.md",
-    "10_Sources/Readwise/Articles/articles_Semantic Battleground The War of Neurodiversity.md",
-    "20_Entry/24 Vault Stats/GALLERY.md"
+    "20_Entry/201 Welcome.md"
   ]
 }

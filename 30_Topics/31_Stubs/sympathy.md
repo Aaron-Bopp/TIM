@@ -6,6 +6,12 @@ tags: node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
+Sympathy is the perception, understanding, and reaction to the distress or need of another life form. 
+^[[sympathy](https://en.wikipedia.org/wiki/Sympathy)]
+
+**See**:: [[empathy]], [[Neuroscience]], [[human experience]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
 a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in close sympathy"  
 
 sharing the feelings of others (especially feelings of sorrow or anguish)  
@@ -13,8 +19,3 @@ sharing the feelings of others (especially feelings of sorrow or anguish)
 Sympathy is the perception, understanding, and reaction to the distress or need of another life form. 
 [^1]
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
-[^1]: [sympathy](https://en.wikipedia.org/wiki/Sympathy)

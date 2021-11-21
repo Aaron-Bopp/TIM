@@ -3,17 +3,22 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-20
-sr-interval: 1
+sr-due: 2021-11-24
+sr-interval: 3
 sr-ease: 210
 ---
 
 #### [[Humans are a product of evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+- [[Our brains are built around survival]]
+    - [[Neuroscience]]
+    - [[Our brain will do anything it can to protect itself]]
+    - [[Humans are primarily irrational, illogical, emotional beings]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**::
+**Topics**:: [[Evolutionary Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

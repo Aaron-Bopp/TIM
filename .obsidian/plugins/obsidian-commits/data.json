@@ -4875,11 +4875,6 @@
       "tags": 4,
       "links": 5
     },
-    "40_Evergreens/Sympathy does not dissallow judgment.md": {
-      "size": 2163,
-      "tags": 2,
-      "links": 18
-    },
     "40_Evergreens/The actual work of being a good person isn't explored by Christianity.md": {
       "size": 723,
       "tags": 3,
@@ -7203,7 +7198,7 @@
     "30_Topics/31_Stubs/empathy.md": {
       "size": 487,
       "tags": 1,
-      "links": 0
+      "links": 4
     },
     "30_Topics/31_Stubs/endurance.md": {
       "size": 155,
@@ -7418,7 +7413,7 @@
     "30_Topics/31_Stubs/sympathy.md": {
       "size": 579,
       "tags": 1,
-      "links": 0
+      "links": 3
     },
     "30_Topics/32_Terms/Term notes.md": {
       "size": 610,
@@ -8838,24 +8833,29 @@
     "40_Evergreens/What is the difference between sympathy and empathy.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "40_Evergreens/Humans are a product of evolution.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 6
     },
     "20_Entry/24 Vault Stats/Word count Evergreens.md": {
       "size": 13413,
       "tags": 2,
       "links": 0
+    },
+    "40_Evergreens/Empathy does not dissallow judgment.md": {
+      "size": 2163,
+      "tags": 2,
+      "links": 18
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1387,
+      "Refactor": 1389,
       "Create": 1920,
-      "Link": 3039,
+      "Link": 3044,
       "Expand": 80
     },
     "40 Evergreens": {
@@ -8879,8 +8879,8 @@
       "9": 323,
       "10": 51,
       "11": 24,
-      "12": 321,
-      "13": 47,
+      "12": 323,
+      "13": 52,
       "14": 2178,
       "15": 95,
       "16": 847,
@@ -8927,7 +8927,7 @@
       "Thu": 299,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4114
+      "Sun": 4121
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9048,6 +9048,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not dissallow judgment.md\"> Empathy does not dissallow judgment </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
@@ -9097,8 +9098,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurodiversity.md\"> neurodiversity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/biology.md\"> biology </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religion.md\"> religion </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/mental health.md\"> mental health </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Neuroscience.md\"> Neuroscience </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/mental health.md\"> mental health </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
@@ -9213,6 +9213,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/Observational learning.md\"> Observational learning </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sympathy.md\"> sympathy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/empathy.md\"> empathy </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
@@ -9258,12 +9263,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Single issue voters are anti-democratic.md\"> Single issue voters are anti-democratic </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\"> articles_Various ways to include comments on your static site </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/knowledge management.md\"> knowledge management </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Monster of the Week.md\"> Monster of the Week </a>",
@@ -9319,6 +9319,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\"> Bhuddism is the study of happiness through detachment </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Monster of the Week.md\"> Monster of the Week </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
@@ -9368,8 +9369,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/History/discussionRed Summer of 1919.md\"> discussionRed Summer of 1919 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/discussionSecond Red Scare Discussion.md\"> discussionSecond Red Scare Discussion </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/notes1960's General Notes.md\"> notes1960's General Notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/History/notes1970's General Notes.md\"> notes1970's General Notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/History/primarysourceFirst Amendment to the U.S. Constitution.md\"> primarysourceFirst Amendment to the U.S. Constitution </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1970's General Notes.md\"> notes1970's General Notes </a>"
       ]
     },
     "40 Evergreens": {

@@ -16,7 +16,7 @@ Blaming people for failing to rise above their situation is not only unfair, it 
 
 #TO/TEND/GRAFT relation to [[Transformative justice is the alternative to punitive justice]]
 
-- [[Sympathy does not dissallow judgment]]
+- [[Empathy does not dissallow judgment]]
 - [[What is the difference between blame and judgement]]
 - [[Children in traumatic households expect more love than their parents can give]]
 

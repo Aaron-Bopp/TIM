@@ -31,9 +31,9 @@ Good systems for learning reduce this friction:
 - [[Adderall]]
 - [[Spaced repetition]]
 - Good teachers 
-- Good systems [^4]
-- Knowing your tools [^5]
-- Breaking down problems into smaller pieces [^6] 
+- Good systems ^[[[Evergreen notes organize knowledge so that it can grow]]] 
+- Knowing your tools ^[[[Learning how systems work can be a gateway to creating thought]]]
+- Breaking down problems into smaller pieces [^4] 
 
 [[Your second brain should be frictionless access to a curated base of knowledge]]:
 **[[We will evolve when we make learning as easy as thinking]]**
@@ -49,6 +49,4 @@ Good systems for learning reduce this friction:
 [^1]: [[Sometimes we can't grow until we change our environment]]
 [^2]: [[internet| The Internet]], [[Obsidian (software)]]
 [^3]: [[How ADHD effects concentration]]
-[^4]: [[The fragility of nodes in a second brain]]
-[^5]: [[Learning how systems work can be a gateway to creating thought]]
-[^6]: [['A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe]]
+[^4]: [['A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe]]
