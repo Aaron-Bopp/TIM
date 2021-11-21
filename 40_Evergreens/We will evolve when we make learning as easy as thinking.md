@@ -11,6 +11,11 @@ sr-ease: 221
 #### [[We will evolve when we make learning as easy as thinking]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Neurodiverse people can use their brain to their advantage]]
+- [[Friction is the number one hindrance to learning]]
+    - [[second brain]]
+        - [[Your second brain should be frictionless access to a curated base of knowledge]]
+        - [[Your second brain should be an inspirational hub of creativity]]
+        - [[Evergreen notes organize knowledge so that it can grow]]
 
 ### <hr class="footnote"/>
 

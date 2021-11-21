@@ -631,12 +631,12 @@
         "type": "split",
         "children": [
           {
-            "id": "7b12ddb161eccec5",
+            "id": "ff4ad61520076362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
+                "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
                 "mode": "source"
               }
             },
@@ -644,124 +644,40 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "7b12ddb161eccec5",
+                  "leaf": "ff4ad61520076362",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\",\"mode\":\"source\"}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "leaf": "7b12ddb161eccec5",
+                  "leaf": "ff4ad61520076362",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Spaced repetition.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are meant to be broken.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":6.228571210588727}"
                 },
                 {
-                  "leaf": "7b12ddb161eccec5",
+                  "leaf": "ff4ad61520076362",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The moral majority movement was the original 'making things political'.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":54},\"to\":{\"line\":19,\"ch\":54}}}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The three main questions of life.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":77},\"to\":{\"line\":18,\"ch\":77}}}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\",\"mode\":\"source\"}}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "7b12ddb161eccec5",
+                  "leaf": "ff4ad61520076362",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":59},\"to\":{\"line\":22,\"ch\":59}},\"scroll\":4.157142911638532}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0.9666666984558105}"
                 },
                 {
-                  "leaf": "7b12ddb161eccec5",
+                  "leaf": "ff4ad61520076362",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":44},\"to\":{\"line\":32,\"ch\":44}},\"scroll\":26.018941250834075}"
+                },
+                {
+                  "leaf": "ff4ad61520076362",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anti-government stances lead to economic crashes.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":0.6166666746139526}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.7999997820172995}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Note structures should be loosely defined.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.20562760654466}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Accepting responsibility is not only about your actions.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":10.696969465775924}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans love to group eachother.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":136},\"to\":{\"line\":14,\"ch\":136}}}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought are densely linked.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":0.033333333830038704}"
-                },
-                {
-                  "leaf": "7b12ddb161eccec5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":3.142857142857143}"
                 }
               ]
             }
@@ -814,7 +730,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
+                    "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +763,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
+                    "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -942,7 +858,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md"
+                    "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -998,7 +914,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
+                    "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1107,7 +1023,7 @@
         "direction": "horizontal",
         "width": 710.2000122070312
       },
-      "active": "7b12ddb161eccec5"
+      "active": "ff4ad61520076362"
     }
   },
   "active": "16:9 NOW"

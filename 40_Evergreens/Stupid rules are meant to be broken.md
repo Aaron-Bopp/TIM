@@ -3,9 +3,9 @@ created: 2021-07-04
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-21
-sr-interval: 2
-sr-ease: 227
+sr-due: 2021-11-22
+sr-interval: 1
+sr-ease: 207
 ---
 
 #### [[Stupid rules are meant to be broken]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,7 +20,7 @@ This is really more saying if a rule is stupid you are justified in breaking it.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SEED/WATER  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social justice]], [[fairness]]

@@ -8,6 +8,6 @@ github:: [neloe (Nathan Eloe) · GitHub](https://github.com/neloe)
 %%
 ```dataview
 LIST 
-from #node/source/qoutes 
+from ""
 where contains(file.outlinks, [[Nathan Eloe]])
 ```

@@ -4566,7 +4566,7 @@
       "links": 4
     },
     "40_Evergreens/Friction is the number one hindrance to learning.md": {
-      "size": 1094,
+      "size": 2259,
       "tags": 2,
       "links": 16
     },
@@ -5068,7 +5068,7 @@
     "40_Evergreens/You can't blame people for failing to rise above their circumstances.md": {
       "size": 1420,
       "tags": 4,
-      "links": 18
+      "links": 19
     },
     "40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md": {
       "size": 954,
@@ -8438,7 +8438,7 @@
     "40_Evergreens/We will evolve when we make learning as easy as thinking.md": {
       "size": 0,
       "tags": 2,
-      "links": 4
+      "links": 9
     },
     "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md": {
       "size": 0,
@@ -8864,14 +8864,24 @@
       "size": 0,
       "tags": 2,
       "links": 13
+    },
+    "10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "30_Topics/31_Stubs/culture.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1395,
-      "Create": 1923,
-      "Link": 3079,
-      "Expand": 81
+      "Refactor": 1397,
+      "Create": 1926,
+      "Link": 3084,
+      "Expand": 82
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8899,7 +8909,7 @@
       "14": 2191,
       "15": 109,
       "16": 858,
-      "17": 1462,
+      "17": 1473,
       "18": 180,
       "19": 84,
       "20": 101,
@@ -8942,7 +8952,7 @@
       "Thu": 299,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4166
+      "Sun": 4177
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -8957,6 +8967,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
@@ -9006,10 +9017,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
+        "<a class=\"internal-link\" href=\"'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
+        "<a class=\"internal-link\" href=\"'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/support.md\"> support </a>",
         "<a class=\"internal-link\" href=\"How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
         "<a class=\"internal-link\" href=\"Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
@@ -9057,12 +9070,10 @@
         "<a class=\"internal-link\" href=\"00_Meta/Templates/FLASHCARD.md\"> FLASHCARD </a>",
         "<a class=\"internal-link\" href=\"notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Security.md\"> Security </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"WORDCOUNT.md\"> WORDCOUNT </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Average links per note type.md\"> Average links per note type </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Security.md\"> Security </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your sexond brain.md\"> Use spaced repetition as a memory tool for your sexond brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\"> Abortion and immigration are detrimental to white supremacy </a>",
@@ -9112,10 +9123,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Civil Rights.md\"> Civil Rights </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/20th Century America.md\"> 20th Century America </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/neurodiversity.md\"> neurodiversity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/neurodiversity.md\"> neurodiversity </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/neurodiversity.md\"> neurodiversity </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\"> McCarthyism is an attack on totalitarianism not communism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/support.md\"> support </a>",
@@ -9164,9 +9176,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/plaintext.md\"> plaintext </a>",
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"HTML.md\"> HTML </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Breadcrumbs.md\"> Breadcrumbs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/TTRPG.md\"> TTRPG </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Git.md\"> Git </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Breadcrumbs.md\"> Breadcrumbs </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9175,6 +9185,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/WORDCOUNT.md\"> WORDCOUNT </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to title your notes.md\"> How to title your notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/organizational notes.md\"> organizational notes </a>",
@@ -9224,10 +9235,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/panic attacks.md\"> panic attacks </a>",
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>",
         "<a class=\"internal-link\" href=\"30_Topics/optimism.md\"> optimism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/OCD.md\"> OCD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Observational learning.md\"> Observational learning </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/OCD.md\"> OCD </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The three main questions of life.md\"> The three main questions of life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
@@ -9275,10 +9288,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
-        "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Modern Conservatism.md\"> Rise of Modern Conservatism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>"
+        "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
