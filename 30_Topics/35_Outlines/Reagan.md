@@ -25,7 +25,7 @@ tags: node/topic/outline
 		- [[Republicans have become a true opposition party]]
 - Why he was successful
 	- [[white supremacy]]
-		- [[wAbortion and immigration are detrimental to white supremacy]]
+		- [[Abortion and immigration are detrimental to white supremacy]]
 	- [[Red Scare]]
 		- [[McCarthyism is an attack on totalitarianism not communism]]
 

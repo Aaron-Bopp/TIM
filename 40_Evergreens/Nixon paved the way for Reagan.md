@@ -3,9 +3,9 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-20
-sr-interval: 13
-sr-ease: 230
+sr-due: 2021-11-29
+sr-interval: 8
+sr-ease: 210
 ---
 
 #### [[Nixon paved the way for Reagan]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

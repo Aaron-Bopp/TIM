@@ -28,3 +28,11 @@ deliveredBy:
 
 [^240436631]: https://twitter.com/visakanv/status/1149668249279139841
 
+# New highlights added November 21, 2021 at 1:49 PM
+##### ^251656973
+[[human experience]]  
+> people will almost always stop whatever they're doing to hear about the specific struggles of other people in their shoes 
+  [^251656973]
+
+[^251656973]: https://twitter.com/visakanv/status/1462498213982658564
+

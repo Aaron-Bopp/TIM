@@ -8,7 +8,8 @@ cssclass: wordcountTable
 
 **Gets either notes in a folder or notes with a certain tag. Leave one of them empty.**
 
-sourceTag:: #node/evergreen
+`sourceTag:: #node/evergreen
+`
 
 **set to 0 to ignore**
 

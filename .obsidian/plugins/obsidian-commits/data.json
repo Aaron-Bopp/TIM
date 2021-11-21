@@ -4943,7 +4943,7 @@
     "40_Evergreens/There aren't any downsides to working through trauma.md": {
       "size": 2535,
       "tags": 2,
-      "links": 17
+      "links": 18
     },
     "40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md": {
       "size": 955,
@@ -6692,8 +6692,8 @@
     },
     "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md": {
       "size": 1222,
-      "tags": 2,
-      "links": 7
+      "tags": 3,
+      "links": 10
     },
     "40_Evergreens/Do we have free will.md": {
       "size": 0,
@@ -6858,7 +6858,7 @@
     "40_Evergreens/When in doubt, write what you think.md": {
       "size": 1259,
       "tags": 2,
-      "links": 7
+      "links": 9
     },
     "40_Evergreens/Your second brain should be an inspirational hub of creativity.md": {
       "size": 901,
@@ -6913,7 +6913,7 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md": {
       "size": 727,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md": {
       "size": 851,
@@ -8820,11 +8820,6 @@
       "tags": 1,
       "links": 4
     },
-    "40_Evergreens/wAbortion and immigration are detrimental to white supremacy.md": {
-      "size": 594,
-      "tags": 2,
-      "links": 10
-    },
     "40_Evergreens/Mass media promotes the spread of innacurate information.md": {
       "size": 0,
       "tags": 2,
@@ -8833,7 +8828,7 @@
     "40_Evergreens/What is the difference between sympathy and empathy.md": {
       "size": 0,
       "tags": 2,
-      "links": 2
+      "links": 6
     },
     "40_Evergreens/Humans are a product of evolution.md": {
       "size": 0,
@@ -8842,20 +8837,35 @@
     },
     "20_Entry/24 Vault Stats/Word count Evergreens.md": {
       "size": 13413,
-      "tags": 2,
+      "tags": 1,
       "links": 0
     },
     "40_Evergreens/Empathy does not dissallow judgment.md": {
       "size": 2163,
       "tags": 2,
       "links": 18
+    },
+    "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 5
+    },
+    "40_Evergreens/How to pursue the positive things in life.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 1
+    },
+    "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md": {
+      "size": 594,
+      "tags": 2,
+      "links": 10
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1389,
-      "Create": 1920,
-      "Link": 3044,
+      "Refactor": 1393,
+      "Create": 1922,
+      "Link": 3056,
       "Expand": 80
     },
     "40 Evergreens": {
@@ -8880,8 +8890,8 @@
       "10": 51,
       "11": 24,
       "12": 323,
-      "13": 52,
-      "14": 2178,
+      "13": 59,
+      "14": 2189,
       "15": 95,
       "16": 847,
       "17": 1462,
@@ -8927,7 +8937,7 @@
       "Thu": 299,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4121
+      "Sun": 4139
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -8995,6 +9005,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
+        "<a class=\"internal-link\" href=\"Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
@@ -9043,11 +9055,12 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"WORDCOUNT.md\"> WORDCOUNT </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Average links per note type.md\"> Average links per note type </a>",
-        "<a class=\"internal-link\" href=\"blame.md\"> blame </a>",
-        "<a class=\"internal-link\" href=\"What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md\"> tweets_Tweets From Mia Moore 🏳️‍🌈 </a>"
+        "<a class=\"internal-link\" href=\"blame.md\"> blame </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\"> Abortion and immigration are detrimental to white supremacy </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not dissallow judgment.md\"> Empathy does not dissallow judgment </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
@@ -9095,12 +9108,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/neurodiversity.md\"> neurodiversity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/neurodiversity.md\"> neurodiversity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/note writing.md\"> note writing </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurodiversity.md\"> neurodiversity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/biology.md\"> biology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religion.md\"> religion </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/mental health.md\"> mental health </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurodiversity.md\"> neurodiversity </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
@@ -9147,11 +9161,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/Git.md\"> Git </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Github.md\"> Github </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Python.md\"> Python </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/markup.md\"> markup </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9213,6 +9223,14 @@
         "<a class=\"internal-link\" href=\"30_Topics/Observational learning.md\"> Observational learning </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md\"> tweets_Tweets From Visa Is Stretching </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sympathy.md\"> sympathy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/empathy.md\"> empathy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
@@ -9255,17 +9273,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Every person has an experience of gender.md\"> Every person has an experience of gender </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Single issue voters are anti-democratic.md\"> Single issue voters are anti-democratic </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Monster of the Week.md\"> Monster of the Week </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/CONTENT.md\"> CONTENT </a>",
@@ -9315,8 +9326,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/C (programming language).md\"> C (programming language) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\"> Bhuddism is the study of happiness through detachment </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/C (programming language).md\"> C (programming language) </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",

@@ -2,10 +2,10 @@ imap jk <Esc>
 imap kj <Esc>
 nmap U <C-r>
 
-nmap j gj
-nmap k gk
-nmap 0 :g0
-nmap $ :gDollar
+xnmap j gj
+xnmap k gk
+xnmap 0 :g0
+xnmap $ :gDollar
 nmap [[ :pHead
 nmap ]] :nHead
 

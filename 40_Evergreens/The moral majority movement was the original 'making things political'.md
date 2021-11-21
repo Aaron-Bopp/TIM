@@ -13,7 +13,7 @@ sr-ease: 230
 - [[Nixon paved the way for Reagan]]
 - [[Ronald Reagan invented modern conservatism]]
 - [[Single issue voters are anti-democratic]]
-- [[wAbortion and immigration are detrimental to white supremacy]]
+- [[Abortion and immigration are detrimental to white supremacy]]
 - [[Q justifies conservatives discontent]]
 
 ### <hr class="footnote"/>

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "462157e2bb3caadc",
+        "id": "7b12ddb161eccec5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/31_Stubs/empathy.md",
+            "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
             "mode": "source"
           }
         },
@@ -17,54 +17,94 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "462157e2bb3caadc",
+              "leaf": "7b12ddb161eccec5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/empathy.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":15.909169060746336}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "338d89bc8472e10c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/What is the difference between sympathy and empathy.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
-              "leaf": "338d89bc8472e10c",
+              "leaf": "7b12ddb161eccec5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between sympathy and empathy.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":100}},\"scroll\":4.7999997820172995}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "78c772ed65df2909",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/31_Stubs/sympathy.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
             {
-              "leaf": "78c772ed65df2909",
+              "leaf": "7b12ddb161eccec5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/sympathy.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":60},\"to\":{\"line\":11,\"ch\":60}},\"scroll\":2.914285659790039}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nixon paved the way for Reagan.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":3.028571537562779}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rise of Conspiracy Culture.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rise of Misinformation in America.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":43},\"to\":{\"line\":25,\"ch\":43}},\"scroll\":3.914285932268415}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Worldviews are wrong if they make life seem easy and simple.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotypes are social constructs.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There aren't any downsides to working through trauma.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":269},\"to\":{\"line\":18,\"ch\":269}},\"scroll\":0.08333333333333333}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There aren't any downsides to working through trauma.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can leave the church and still believe in the christian god.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":53.301380567856214}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
@@ -117,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/31_Stubs/empathy.md",
+                "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -150,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/31_Stubs/empathy.md",
+                "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,12 +215,12 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -244,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/31_Stubs/empathy.md"
+                "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md"
               }
             },
             "pane-relief:history-v1": {
@@ -277,7 +317,7 @@
             }
           },
           {
-            "id": "6d12f3afd3327336",
+            "id": "57168cae275641ab",
             "type": "leaf",
             "state": {
               "type": "RSS_FEED",
@@ -288,8 +328,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "84f4f33f118f4527",
@@ -301,7 +340,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/31_Stubs/empathy.md",
+                "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -408,20 +447,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312,
-    "collapsed": true
+    "width": 710.2000122070312
   },
-  "active": "462157e2bb3caadc",
+  "active": "7b12ddb161eccec5",
   "lastOpenFiles": [
-    "30_Topics/31_Stubs/empathy.md",
-    "30_Topics/31_Stubs/sympathy.md",
-    "40_Evergreens/What is the difference between sympathy and empathy.md",
-    "40_Evergreens/Empathy does not dissallow judgment.md",
-    "40_Evergreens/Humans are a product of evolution.md",
-    "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
-    "40_Evergreens/Friction is the number one hindrance to learning.md",
-    "20_Entry/24 Vault Stats/Word count Evergreens.md",
-    "40_Evergreens/Hope is not optimism it is a practice for producing change.md",
-    "20_Entry/201 Welcome.md"
+    "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
+    "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
+    "40_Evergreens/Nixon paved the way for Reagan.md",
+    "40_Evergreens/Choosing a note writing system is choosing a system for thought.md",
+    "30_Topics/31_Stubs/systems for thought.md",
+    "40_Evergreens/Rise of Conspiracy Culture.md",
+    "40_Evergreens/Rise of Misinformation in America.md",
+    "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md",
+    "40_Evergreens/Worldviews are wrong if they make life seem easy and simple.md",
+    "40_Evergreens/Stereotypes are social constructs.md"
   ]
 }

@@ -3,9 +3,9 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-20
-sr-interval: 2
-sr-ease: 247
+sr-due: 2021-12-01
+sr-interval: 10
+sr-ease: 267
 ---
 
 #### [[Rise of Misinformation in America]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,11 +18,11 @@ Over the last forty years, misinformation has become so potent in [[America]], t
 - [[Creationism built an anti-science culture]]
 	- [[The Politicization of the Christian Church]]
 - [[Single issue voters are anti-democratic]]
-	- [[wAbortion and immigration are detrimental to white supremacy]]
-- [[The internet allows niche topics to flourish]]
-	- [[The anti-vax movement is based off a white lie]]
+	- [[Abortion and immigration are detrimental to white supremacy]]
 - [[Mass media promotes the spread of innacurate information]]
-- [[Q justifies conservatives discontent]]
+    - [[The internet allows niche topics to flourish]]
+        - [[The anti-vax movement is based off a white lie]]
+        - [[Q justifies conservatives discontent]]
 - [[MAGA is built off nostalgia not facts]]
 
 ### <hr class="dataviews"/>

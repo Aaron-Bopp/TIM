@@ -3,9 +3,9 @@ created: 2021-11-15
 aliases:
   - making learning as easy as thinking
 tags: node/evergreen
-sr-due: 2021-11-20
-sr-interval: 2
-sr-ease: 241
+sr-due: 2021-11-22
+sr-interval: 1
+sr-ease: 221
 ---
 
 #### [[We will evolve when we make learning as easy as thinking]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
