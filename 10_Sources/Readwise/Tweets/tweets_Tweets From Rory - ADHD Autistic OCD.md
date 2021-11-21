@@ -55,3 +55,11 @@ highlight_tags:: [[guilt]]
 
 [^250447796]: https://twitter.com/roryreckons/status/1461176638775840769
 
+# New highlights added November 20, 2021 at 6:34 PM
+##### ^251028575
+#TO/EXPLORE/READ  
+> @leigh81398396 @ShockofBlue https://t.co/I2UF7GgNJO 
+  [^251028575]
+
+[^251028575]: https://twitter.com/roryreckons/status/1461955553354137604
+
