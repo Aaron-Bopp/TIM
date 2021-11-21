@@ -631,50 +631,23 @@
         "type": "split",
         "children": [
           {
-            "id": "a4c9c5f1c18da8dc",
+            "id": "37b987737bc32a54",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20_Entry/24 Vault Stats/Word count Evergreens.md",
+                "mode": "source"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "a4c9c5f1c18da8dc",
+                  "leaf": "37b987737bc32a54",
                   "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "a4c9c5f1c18da8dc",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/201 Welcome.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "a4c9c5f1c18da8dc",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 INDEX.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "a4c9c5f1c18da8dc",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Me.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "a4c9c5f1c18da8dc",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "a4c9c5f1c18da8dc",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0.4333333174387614}"
                 }
               ]
             }
@@ -727,6 +700,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "20_Entry/24 Vault Stats/Word count Evergreens.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -759,6 +733,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "20_Entry/24 Vault Stats/Word count Evergreens.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -787,8 +762,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5,
-        "collapsed": true
+        "width": 442.5
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -851,7 +825,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "20_Entry/24 Vault Stats/Word count Evergreens.md"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -907,6 +883,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "20_Entry/24 Vault Stats/Word count Evergreens.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -1016,7 +993,7 @@
         "width": 710.2000122070312,
         "collapsed": true
       },
-      "active": "a4c9c5f1c18da8dc"
+      "active": "37b987737bc32a54"
     }
   },
   "active": "16:9 NOW"
