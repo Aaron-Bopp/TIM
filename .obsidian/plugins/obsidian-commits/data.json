@@ -8531,7 +8531,7 @@
       "links": 1
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md": {
-      "size": 910,
+      "size": 2178,
       "tags": 2,
       "links": 2
     },
@@ -8856,7 +8856,7 @@
       "Refactor": 1387,
       "Create": 1920,
       "Link": 3039,
-      "Expand": 79
+      "Expand": 80
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8885,7 +8885,7 @@
       "15": 95,
       "16": 847,
       "17": 1462,
-      "18": 179,
+      "18": 180,
       "19": 84,
       "20": 101,
       "21": 139,
@@ -8927,7 +8927,7 @@
       "Thu": 299,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4113
+      "Sun": 4114
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -8942,6 +8942,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\"> Non-faith issues have been co-opted to keep people in the christian church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
@@ -8991,8 +8992,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental Health is a reaction to one's environment.md\"> Mental Health is a reaction to one's environment </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
