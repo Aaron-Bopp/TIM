@@ -3,9 +3,9 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-20
+sr-due: 2021-11-22
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[Mass media promotes the spread of innacurate information]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

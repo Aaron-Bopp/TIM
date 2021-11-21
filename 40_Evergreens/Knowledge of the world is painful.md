@@ -1,8 +1,8 @@
 ---
 created: 2021-06-12
 tags: node/evergreen
-sr-due: 2021-11-20
-sr-interval: 1
+sr-due: 2021-11-24
+sr-interval: 3
 sr-ease: 198
 ---
 
@@ -25,5 +25,5 @@ Becoming obsessed/absorbed by this fact leads to thoughts like [[Sadness is enli
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[white guilt]], [[racism]] 
+**Topics**:: [[white guilt]], [[racism]], [[self-actualization]], [[political strategy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

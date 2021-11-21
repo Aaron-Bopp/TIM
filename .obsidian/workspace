@@ -9,18 +9,78 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
+            "file": "40_Evergreens/Make your inbox into an entry point.md",
             "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "7b12ddb161eccec5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":38},\"to\":{\"line\":18,\"ch\":38}},\"scroll\":2.571428571428571}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":158},\"to\":{\"line\":15,\"ch\":158}},\"scroll\":4.485714503696987}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Searching for THE answer is dangerous.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":1.8267717136172799}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":27},\"to\":{\"line\":28,\"ch\":27}},\"scroll\":0.016666666915019352}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Wealth Inequality creates a need for change.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Knowledge of the world is painful.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":88},\"to\":{\"line\":27,\"ch\":88}},\"scroll\":8.119760382200669}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An unfulfilled need for validation results in a fear of rejection.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":4}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0.033333333830038704}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mass media promotes the spread of innacurate information.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7b12ddb161eccec5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":5.574803389902191}"
             },
             {
               "leaf": "7b12ddb161eccec5",
@@ -75,36 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"source\"}}",
               "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7b12ddb161eccec5",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7b12ddb161eccec5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There aren't any downsides to working through trauma.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7b12ddb161eccec5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can leave the church and still believe in the christian god.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7b12ddb161eccec5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":53.301380567856214}"
-            },
-            {
-              "leaf": "7b12ddb161eccec5",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         }
@@ -157,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
+                "file": "40_Evergreens/Make your inbox into an entry point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -190,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
+                "file": "40_Evergreens/Make your inbox into an entry point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md"
+                "file": "40_Evergreens/Make your inbox into an entry point.md"
               }
             },
             "pane-relief:history-v1": {
@@ -340,7 +370,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
+                "file": "40_Evergreens/Make your inbox into an entry point.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -451,15 +481,15 @@
   },
   "active": "7b12ddb161eccec5",
   "lastOpenFiles": [
-    "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
-    "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
-    "40_Evergreens/Nixon paved the way for Reagan.md",
-    "40_Evergreens/Choosing a note writing system is choosing a system for thought.md",
-    "30_Topics/31_Stubs/systems for thought.md",
-    "40_Evergreens/Rise of Conspiracy Culture.md",
-    "40_Evergreens/Rise of Misinformation in America.md",
-    "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md",
-    "40_Evergreens/Worldviews are wrong if they make life seem easy and simple.md",
-    "40_Evergreens/Stereotypes are social constructs.md"
+    "40_Evergreens/Make your inbox into an entry point.md",
+    "40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md",
+    "40_Evergreens/Searching for THE answer is dangerous.md",
+    "40_Evergreens/Look for understanding before you look for solutions.md",
+    "40_Evergreens/A secure identity is the best defense against social anxiety.md",
+    "40_Evergreens/Wealth Inequality creates a need for change.md",
+    "40_Evergreens/Knowledge of the world is painful.md",
+    "40_Evergreens/An unfulfilled need for validation results in a fear of rejection.md",
+    "30_Topics/31_Stubs/support.md",
+    "30_Topics/32_Terms/self-image.md"
   ]
 }

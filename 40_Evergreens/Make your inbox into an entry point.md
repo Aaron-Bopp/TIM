@@ -10,11 +10,12 @@ sr-ease: 239
 
 In a [[knowledge management]] system an inbox is the method through which you receive and categorize items into your [[second brain]]. An entry point is a way that you find your way into the [[web of thought]] so that you can find the information that you want to find. 
 
-In a typical inbox you may have things you haven't read, have skimmed, have read but haven't notated. These things can be entry points into your [[web of thought]] if they are already stored and referenced there. By storing these potential items in your [[second brain]] you are integrating them into the system earlier on in the process
+In a typical inbox you may have things you haven't read, have skimmed, or have read but haven't notated. These things can be entry points into your [[web of thought]] if they are already stored and referenced there, but by storing these potential items in your [[second brain]] you are able to integrate them into the same systems that make a [[second brain]] powerful.
+^[[[my TO(DO) and EVER(GREEN) structure]]]
 
-Your entry points you may have things you've read, things you've read and notated, things you want to write more on, etc. You can see that these things are closely linked, and with a simple structure they can easily be combined into a coherent system. Using a level of priority and consistent structure you can combine these structure into your process of developing knowledge. 
+However, because [[Nodes in the second brain are an abstraction of our first brain#Nodes in the second brain are more fragile than thoughts in the first brain]], by making your inbox a part of your second brain you are subjecting it [[The fragility of nodes in a second brain]]. You can help allieviate 
 
-This [[philosophy]] is represented in [[my TO(DO) and EVER(GREEN) structure]]
+This [[philosophy]] is represented in 
 
 ### <hr class="footnote"/>
 
