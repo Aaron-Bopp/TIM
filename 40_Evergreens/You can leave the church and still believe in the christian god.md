@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-11-21
-sr-interval: 3
-sr-ease: 252
+sr-due: 2021-11-23
+sr-interval: 2
+sr-ease: 232
 ---
 
 #### [[You can leave the church and still believe in the christian god]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,10 +18,8 @@ Often it is very hard to stay in the church because while you are trying to chan
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER  
 *edited `=this.file.mtime`*
 
-**Parent**:: [[Deconstruction (Christianity)]]
-
-**Topics**:: [[Christianity]], 
+**Topics**:: [[Deconstruction (Christianity)]], [[Christianity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-11-21
-sr-interval: 3
+sr-due: 2021-11-29
+sr-interval: 8
 sr-ease: 268
 ---
 
@@ -13,8 +13,8 @@ sr-ease: 268
 1. What is our [[purpose]]?
 
 ### <hr class="footnote"/>
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GREEN/GRAFT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[worldview]], [[philosophy]], [[theology]] 
+**Topics**:: [[worldview]], [[philosophy]], [[theology]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

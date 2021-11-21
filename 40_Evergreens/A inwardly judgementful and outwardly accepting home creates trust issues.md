@@ -3,9 +3,9 @@ created: 2021-07-30
 tag: node/evergreen 
 aliases:
   - A inwardly judgementful and outwardly accepting home creates trust issues
-sr-due: 2021-11-21
-sr-interval: 3
-sr-ease: 151
+sr-due: 2021-11-23
+sr-interval: 2
+sr-ease: 131
 ---
 
 #### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,6 +20,7 @@ sr-ease: 151
     - [[Self-hatred is born out of dissonance between self-image and self-perception]]
     - [[Identity is your understanding of yourself vs your interaction with the world]]
     - [[A repressed identity creates a mistrust of self-love and self-esteem]] #TO/TEND/DEOBFUSCATE 
+    - [[You can be taught to invalidate your own emotions]]
 - results
     - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
     - [[We carry our childhood wounds into adulthood]]

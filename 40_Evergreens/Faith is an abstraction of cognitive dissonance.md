@@ -3,9 +3,9 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-21
-sr-interval: 2
-sr-ease: 228
+sr-due: 2021-11-22
+sr-interval: 1
+sr-ease: 208
 ---
 
 #### [[Faith is an abstraction of cognitive dissonance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

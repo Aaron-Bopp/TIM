@@ -3,10 +3,11 @@ created: 2021-10-21
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-21
-sr-interval: 14
-sr-ease: 230
+sr-due: 2021-11-30
+sr-interval: 9
+sr-ease: 210
 ---
+
 #### [[The moral majority movement was the original 'making things political']] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[The Politicization of the Christian Church]]

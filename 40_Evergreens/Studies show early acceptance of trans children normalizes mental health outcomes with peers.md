@@ -3,8 +3,8 @@ created: 2021-11-06
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-21
-sr-interval: 2
+sr-due: 2021-11-26
+sr-interval: 5
 sr-ease: 234
 ---
 
@@ -14,8 +14,8 @@ sr-ease: 234
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/CULTIVATE 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender]]
+**Topics**:: [[gender]], [[transgender]], [[community]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

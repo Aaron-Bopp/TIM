@@ -1,9 +1,9 @@
 ---
 created: 2021-06-11
 tags: node/evergreen, node/personal
-sr-due: 2021-11-20
+sr-due: 2021-11-22
 sr-interval: 1
-sr-ease: 229
+sr-ease: 209
 ---
 
 #### [[I have a stored up emotion of hating myself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

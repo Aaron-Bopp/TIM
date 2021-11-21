@@ -1,9 +1,9 @@
 ---
 created: 2021-06-24
 tags: node/evergreen
-sr-due: 2021-11-21
-sr-interval: 2
-sr-ease: 229
+sr-due: 2021-11-22
+sr-interval: 1
+sr-ease: 209
 ---
 
 #### [[Avoidance IS the most-efficient way of dealing with emotion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

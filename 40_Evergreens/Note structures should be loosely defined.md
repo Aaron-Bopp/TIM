@@ -1,9 +1,9 @@
 ---
 created: 2021-06-27
 tags: node/evergreen
-sr-due: 2021-11-21
-sr-interval: 2
-sr-ease: 227
+sr-due: 2021-11-22
+sr-interval: 1
+sr-ease: 207
 ---
 
 #### [[Note structures should be loosely defined]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

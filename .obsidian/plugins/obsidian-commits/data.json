@@ -4408,7 +4408,7 @@
     "40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md": {
       "size": 607,
       "tags": 3,
-      "links": 16
+      "links": 17
     },
     "40_Evergreens/A secure identity is the best defense against social anxiety.md": {
       "size": 1798,
@@ -4513,7 +4513,7 @@
     "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md": {
       "size": 658,
       "tags": 3,
-      "links": 7
+      "links": 8
     },
     "40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md": {
       "size": 1099,
@@ -4541,9 +4541,9 @@
       "links": 6
     },
     "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md": {
-      "size": 1594,
+      "size": 2024,
       "tags": 3,
-      "links": 15
+      "links": 17
     },
     "40_Evergreens/Fear of hell is baked into Christianity.md": {
       "size": 924,
@@ -4613,7 +4613,7 @@
     "40_Evergreens/Human's will find explanations for inexplainable things.md": {
       "size": 1474,
       "tags": 3,
-      "links": 10
+      "links": 11
     },
     "40_Evergreens/Humans love to group eachother.md": {
       "size": 515,
@@ -4672,7 +4672,7 @@
     },
     "40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md": {
       "size": 3582,
-      "tags": 2,
+      "tags": 3,
       "links": 19
     },
     "40_Evergreens/Monolithic vs Micro Kernels.md": {
@@ -4702,7 +4702,7 @@
     },
     "40_Evergreens/My worldview is not about conversion it is about acceptance.md": {
       "size": 1401,
-      "tags": 2,
+      "tags": 3,
       "links": 12
     },
     "40_Evergreens/Neurodiverse people can use their brain to their advantage.md": {
@@ -4938,7 +4938,7 @@
     "40_Evergreens/The three main questions of life.md": {
       "size": 404,
       "tags": 2,
-      "links": 5
+      "links": 6
     },
     "40_Evergreens/There aren't any downsides to working through trauma.md": {
       "size": 2535,
@@ -5018,7 +5018,7 @@
     "40_Evergreens/What is the difference between a evergreen note and a topic note.md": {
       "size": 956,
       "tags": 2,
-      "links": 6
+      "links": 7
     },
     "40_Evergreens/What is the difference between optimism and hope.md": {
       "size": 798,
@@ -5088,7 +5088,7 @@
     "40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md": {
       "size": 1109,
       "tags": 2,
-      "links": 8
+      "links": 10
     },
     "40_Evergreens/Your anxiety knows your insecurities better than you do.md": {
       "size": 3642,
@@ -6733,7 +6733,7 @@
     "40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md": {
       "size": 0,
       "tags": 3,
-      "links": 3
+      "links": 5
     },
     "30_Topics/privilege.md": {
       "size": 0,
@@ -7068,7 +7068,7 @@
     "10_Sources/Personal/What is my path to happiness.md": {
       "size": 867,
       "tags": 3,
-      "links": 9
+      "links": 12
     },
     "10_Sources/Personal/Journal.md": {
       "size": 22860,
@@ -8790,11 +8790,6 @@
       "tags": 2,
       "links": 1
     },
-    "40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 9
-    },
     "40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md": {
       "size": 1301,
       "tags": 2,
@@ -8864,14 +8859,19 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 13
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1393,
+      "Refactor": 1395,
       "Create": 1923,
-      "Link": 3066,
-      "Expand": 80
+      "Link": 3079,
+      "Expand": 81
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8897,8 +8897,8 @@
       "12": 323,
       "13": 59,
       "14": 2191,
-      "15": 104,
-      "16": 847,
+      "15": 109,
+      "16": 858,
       "17": 1462,
       "18": 180,
       "19": 84,
@@ -8942,7 +8942,7 @@
       "Thu": 299,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4150
+      "Sun": 4166
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -8957,6 +8957,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\"> Non-faith issues have been co-opted to keep people in the christian church </a>",
@@ -9006,8 +9007,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/support.md\"> support </a>",
@@ -9063,6 +9063,8 @@
         "<a class=\"internal-link\" href=\"20_Entry/Average links per note type.md\"> Average links per note type </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your sexond brain.md\"> Use spaced repetition as a memory tool for your sexond brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\"> Abortion and immigration are detrimental to white supremacy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
@@ -9111,11 +9113,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/20th Century America.md\"> 20th Century America </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/neurodiversity.md\"> neurodiversity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/neurodiversity.md\"> neurodiversity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/note writing.md\"> note writing </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurodiversity.md\"> neurodiversity </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/neurodiversity.md\"> neurodiversity </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\"> McCarthyism is an attack on totalitarianism not communism </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/support.md\"> support </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
@@ -9164,9 +9166,7 @@
         "<a class=\"internal-link\" href=\"HTML.md\"> HTML </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Breadcrumbs.md\"> Breadcrumbs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/TTRPG.md\"> TTRPG </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Git.md\"> Git </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/Git.md\"> Git </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9228,6 +9228,17 @@
         "<a class=\"internal-link\" href=\"30_Topics/Observational learning.md\"> Observational learning </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The three main questions of life.md\"> The three main questions of life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your sexond brain.md\"> Use spaced repetition as a memory tool for your sexond brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\"> Deconstructing your faith can feel like constructing a puzzle that you haven't seen before </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your sexond brain.md\"> Use spaced repetition as a memory tool for your sexond brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point.md\"> Make your inbox into an entry point </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point.md\"> Make your inbox into an entry point </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
@@ -9267,18 +9278,7 @@
         "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Modern Conservatism.md\"> Rise of Modern Conservatism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\"> Non-faith issues have been co-opted to keep people in the christian church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md\"> Deconstructing your faith is like climbing through a jungle canopy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\"> Non-faith issues have been co-opted to keep people in the christian church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md\"> Deconstructing your faith is like climbing through a jungle canopy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church and still believe in the christian god.md\"> You can leave the church and still believe in the christian god </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\"> Deconstructing your faith can feel like constructing a puzzle that you haven't seen before </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\"> Constantly working on yourself is a form a self-hatred </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>"
+        "<a class=\"internal-link\" href=\"Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",

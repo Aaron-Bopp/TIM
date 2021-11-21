@@ -4,9 +4,9 @@ tags: node/evergreen
 aliases:
   - Accepting responsibility for moving past your trauma
   - Accepting responsibility is about moving forward for yourself and for the people affected by the event
-sr-due: 2021-11-21
-sr-interval: 3
-sr-ease: 262
+sr-due: 2021-11-23
+sr-interval: 2
+sr-ease: 242
 ---
 
 #### [[Accepting responsibility is not only about your actions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

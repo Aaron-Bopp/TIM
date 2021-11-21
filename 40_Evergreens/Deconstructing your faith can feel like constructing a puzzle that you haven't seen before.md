@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-11-21
-sr-interval: 3
+sr-due: 2021-11-29
+sr-interval: 8
 sr-ease: 250
 ---
 
@@ -11,7 +11,7 @@ sr-ease: 250
 > I feel I am a giant box of puzzle pieces, but the box is full of like 20 puzzles and I have to find the right pieces for the right puzzle, without knowing which puzzle is the right one.
 > Rachel Cook
 
-My strategy was to tip over the box and choose the smallest puzzle
+My strategy was to tip over the box and choose the smallest puzzle: [[My Deconstruction journey#How has my worldview evolved since leaving the church]]
 
 [[Deconstructing your faith is like climbing through a jungle canopy]]
 
