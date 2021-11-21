@@ -4,38 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "37b987737bc32a54",
+        "id": "db9d58a7b394e3d5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
+            "mode": "preview"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "37b987737bc32a54",
+              "leaf": "db9d58a7b394e3d5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "db9d58a7b394e3d5",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "37b987737bc32a54",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hope is not optimism it is a practice for producing change.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "37b987737bc32a54",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "37b987737bc32a54",
+              "leaf": "db9d58a7b394e3d5",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.4333333174387614}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -88,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -120,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -211,7 +210,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40_Evergreens/Friction is the number one hindrance to learning.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -231,18 +232,6 @@
             }
           },
           {
-            "id": "1f599d561b395de9",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "05543fcaee6d9893",
             "type": "leaf",
             "state": {
@@ -253,9 +242,17 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "6d12f3afd3327336",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "84f4f33f118f4527",
@@ -267,6 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/Friction is the number one hindrance to learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -376,17 +374,17 @@
     "width": 710.2000122070312,
     "collapsed": true
   },
-  "active": "37b987737bc32a54",
+  "active": "db9d58a7b394e3d5",
   "lastOpenFiles": [
-    "40_Evergreens/Hope is not optimism it is a practice for producing change.md",
+    "40_Evergreens/Friction is the number one hindrance to learning.md",
     "20_Entry/24 Vault Stats/Word count Evergreens.md",
+    "40_Evergreens/Hope is not optimism it is a practice for producing change.md",
     "20_Entry/201 Welcome.md",
     "20_Entry/202 INDEX.md",
     "20_Entry/204 Me.md",
     "10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md",
     "30_Topics/31_Stubs/Autism.md",
     "10_Sources/Readwise/Articles/articles_Semantic Battleground The War of Neurodiversity.md",
-    "20_Entry/24 Vault Stats/GALLERY.md",
-    "20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md"
+    "20_Entry/24 Vault Stats/GALLERY.md"
   ]
 }

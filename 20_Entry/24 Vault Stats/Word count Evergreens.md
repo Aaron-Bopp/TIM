@@ -1,7 +1,5 @@
 ---
-
 cssclass: wordcountTable
-
 ---
 
 %%
@@ -9,7 +7,6 @@ cssclass: wordcountTable
 ## Configuration
 
 **Gets either notes in a folder or notes with a certain tag. Leave one of them empty.**
-
 
 sourceTag:: #node/evergreen
 
@@ -21,7 +18,7 @@ wordTarget:: 0
 
 includeFootnotes:: true
 
-charactersIncludeSpaces:: true
+charactersIncludeSpaces:: false
 
 excludeComments:: true
 
@@ -45,11 +42,12 @@ thousandSeperator:: .
 
 naChar:: —
 
-# table
+# Table
+
 %%
 ```dataviewjs
 const {word_count, dv_funcs} = customJS
-word_count.table(dv)
+word_count.table(dv, this)
 dv_funcs.sortableColumns()
 
 ```
