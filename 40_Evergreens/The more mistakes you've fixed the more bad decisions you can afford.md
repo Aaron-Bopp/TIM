@@ -16,7 +16,7 @@ Gaining experience requires failure
 
 ##### Repeatedly failing and fixing it gives you the right to make bad decisions.
 
-A bad decision for a beginner is not the same a bad decision for an expert. A bad decision for an expert is one that takes away their time from the most meaningful tasks for less fruitful or fullfilling tasks: [[Powerful tools make dangerous toys]]
+A bad decision for a beginner is not the same as a bad decision for an expert. A bad decision for an expert is one that takes away their time from the most meaningful tasks for less fruitful or fullfilling tasks: [[Powerful tools make dangerous toys]]
 
 A bad decision for a beginner is one the will not teach them how to succeed or teach them to make more mistakes. [^1] A hard rule may be the more difficult path but will setup future success. Hard disciplines breed masters, easy disciplines attract wannabes.
 
@@ -26,7 +26,7 @@ A bad decision for a beginner is one the will not teach them how to succeed or t
 
  When I stared my [[second brain]], I made a lot of really specific [[evergreen notes]] and had no methodology for surfacing old notes except by stumbling upon them. They were linked into other notes, but there were so many new notes being created that many fell through the cracks, leading me to duplicate thoughts because I could not find the relevant note. When I started to use [[Spaced repetition]] for my notes, these "duplicate" notes started coming out through the woodwork and I had to spend time refactoring them and deciding how to incorporate these notes: [[Friction is the number one hindrance to learning]].
  
- If you [[Write your notes like you're planting an evergreen forest]], you make it easy to delete notes.
+ If you [[Write your notes like you're planting an evergreen forest]], you make it easy to delete notes. [[Combine notes instead of deleting them to avoid ghost data in a second brain]]
 
 ### <hr class="footnote"/>
 

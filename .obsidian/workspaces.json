@@ -636,7 +636,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
+                "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md",
                 "mode": "source"
               }
             },
@@ -646,8 +646,20 @@
                 {
                   "leaf": "ff4ad61520076362",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0.016666666915019352}"
+                },
+                {
+                  "leaf": "ff4ad61520076362",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":121},\"to\":{\"line\":18,\"ch\":121}},\"scroll\":12.893939162745623}"
+                },
+                {
+                  "leaf": "ff4ad61520076362",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"scroll\":10.555101916254783}"
                 },
                 {
                   "leaf": "ff4ad61520076362",
@@ -730,7 +742,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
+                    "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -763,7 +775,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
+                    "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -858,7 +870,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md"
+                    "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -914,7 +926,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
+                    "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
