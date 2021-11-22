@@ -11,42 +11,42 @@
       "query": "tag:#node/evergreen/technique",
       "color": {
         "a": 1,
-        "rgb": 12320512
+        "rgb": 65403
       }
     },
     {
       "query": "tag:#node/evergreen",
       "color": {
         "a": 1,
-        "rgb": 495762
+        "rgb": 52479
       }
     },
     {
       "query": "tag:node/topic/stub",
       "color": {
         "a": 1,
-        "rgb": 14715935
+        "rgb": 16423710
       }
     },
     {
       "query": "tag:node/topic/term",
       "color": {
         "a": 1,
-        "rgb": 13327883
+        "rgb": 16741386
       }
     },
     {
       "query": "tag:#node/topic",
       "color": {
         "a": 1,
-        "rgb": 10105092
+        "rgb": 16602381
       }
     },
     {
       "query": "tag:#node/source",
       "color": {
         "a": 1,
-        "rgb": 4197053
+        "rgb": 665789
       }
     }
   ],
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 0.566580882352941,
   "lineSizeMultiplier": 0.532352941176471,
   "collapse-forces": false,
-  "centerStrength": 0.375294117647059,
+  "centerStrength": 0.336397058823529,
   "repelStrength": 20,
-  "linkStrength": 0.935294117647059,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.03856109544716882,
-  "close": false
+  "scale": 0.0936157653217534,
+  "close": true
 }

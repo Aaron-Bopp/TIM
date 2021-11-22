@@ -8875,7 +8875,7 @@
       "tags": 1,
       "links": 0
     },
-    "Combine notes instead of deleting them to avoid ghost data in a second brain.md": {
+    "40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md": {
       "size": 0,
       "tags": 2,
       "links": 7
@@ -8883,7 +8883,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1397,
+      "Refactor": 1398,
       "Create": 1927,
       "Link": 3092,
       "Expand": 83
@@ -8919,7 +8919,7 @@
       "19": 84,
       "20": 101,
       "21": 144,
-      "22": 184,
+      "22": 185,
       "23": 181
     },
     "40 Evergreens": {
@@ -8957,7 +8957,7 @@
       "Thu": 299,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4187
+      "Sun": 4188
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9078,6 +9078,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your sexond brain.md\"> Use spaced repetition as a memory tool for your sexond brain </a>",
@@ -9127,8 +9128,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Computer Science.md\"> Computer Science </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Civil Rights.md\"> Civil Rights </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/20th Century America.md\"> 20th Century America </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/neurodiversity.md\"> neurodiversity </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/20th Century America.md\"> 20th Century America </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",

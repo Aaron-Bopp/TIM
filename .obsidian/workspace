@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6d7e624a40e88df8",
+        "id": "374108590f0b2852",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/24 Vault Stats/GALLERY.md",
+            "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
             "mode": "preview"
           }
         },
@@ -17,21 +17,27 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "6d7e624a40e88df8",
+              "leaf": "374108590f0b2852",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":3.7017994858611827}"
+            },
+            {
+              "leaf": "374108590f0b2852",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0.03176895354198635}"
+            },
+            {
+              "leaf": "374108590f0b2852",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is a social construct.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":10.093023255813954}"
+            },
+            {
+              "leaf": "374108590f0b2852",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6d7e624a40e88df8",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6d7e624a40e88df8",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -66,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/TEND/WEED",
+                "query": "tag:#node",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/24 Vault Stats/GALLERY.md",
+                "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -118,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/24 Vault Stats/GALLERY.md",
+                "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,12 +149,12 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -212,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/24 Vault Stats/GALLERY.md"
+                "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md"
               }
             },
             "pane-relief:history-v1": {
@@ -255,6 +261,21 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "9d020c89113257d0",
+            "type": "leaf",
+            "state": {
+              "type": "search-ref",
+              "state": {
+                "query": "(file:(\"Gender is a social construct.md\") (/ \\^Why is gender such a debated topic$/ OR /#\\^Why is gender such a debated topic(\\]\\]|\\|.*\\]\\])/ OR /#+ Why is gender such a debated topic$/ OR /\\[\\[#Why is gender such a debated topic(\\]\\]|\\|.*\\]\\])/)) OR /\\[\\[Gender is a social construct#\\^Why is gender such a debated topic(\\]\\]|\\|.*\\]\\])/ OR /\\[\\[Gender is a social construct#Why is gender such a debated topic(\\]\\]|\\|.*\\]\\])/",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       },
@@ -268,17 +289,17 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/24 Vault Stats/GALLERY.md",
+                "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
                 "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
+                  "collapse-filter": false,
+                  "search": "tag:#node/evergreen",
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
@@ -344,11 +365,11 @@
                   "nodeSizeMultiplier": 1.30456647398844,
                   "lineSizeMultiplier": 1.55378676470588,
                   "collapse-forces": false,
-                  "centerStrength": 0.28428911205074,
-                  "repelStrength": 17.4588235294118,
-                  "linkStrength": 0.927061310782241,
+                  "centerStrength": 0.538823529411765,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
                   "linkDistance": 199,
-                  "scale": 0.36257698487900963,
+                  "scale": 0.3895678067157687,
                   "close": true
                 }
               }
@@ -378,17 +399,17 @@
     "width": 710.2000122070312,
     "collapsed": true
   },
-  "active": "6d7e624a40e88df8",
+  "active": "374108590f0b2852",
   "lastOpenFiles": [
+    "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
+    "40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md",
+    "40_Evergreens/Gender is a social construct.md",
     "20_Entry/24 Vault Stats/GALLERY.md",
+    "00_Meta/Attachments/Graphs/202110311.PNG",
     "00_Meta/Attachments/Graphs/20211121.PNG",
     "10_Sources/Mental Health/video_Is Your brain Male or Female_Films Media Group.md",
     "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable.md",
-    "40_Evergreens/Gender is a social construct.md",
     "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
-    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
-    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
-    "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
-    "40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md"
+    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md"
   ]
 }
