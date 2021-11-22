@@ -8871,9 +8871,9 @@
       "links": 7
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md": {
-      "size": 804,
+      "size": 2552,
       "tags": 1,
-      "links": 1
+      "links": 4
     },
     "40_Evergreens/You can leave the church without loosing your faith.md": {
       "size": 2541,
@@ -8895,8 +8895,8 @@
     "/": {
       "Refactor": 1402,
       "Create": 1929,
-      "Link": 3106,
-      "Expand": 86
+      "Link": 3107,
+      "Expand": 87
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8924,7 +8924,7 @@
       "14": 2214,
       "15": 109,
       "16": 858,
-      "17": 1477,
+      "17": 1479,
       "18": 181,
       "19": 84,
       "20": 101,
@@ -8961,7 +8961,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 178,
+      "Mon": 180,
       "Tue": 594,
       "Wed": 1195,
       "Thu": 299,
@@ -8982,6 +8982,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
@@ -9031,8 +9032,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought in a second brain without creating friction.md\"> How to collect thought in a second brain without creating friction </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
@@ -9253,6 +9253,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/OCD.md\"> OCD </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Working through trauma can involve of a lot of letting go.md\"> Working through trauma can involve of a lot of letting go </a>",
         "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
@@ -9302,8 +9303,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sympathy.md\"> sympathy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/empathy.md\"> empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",

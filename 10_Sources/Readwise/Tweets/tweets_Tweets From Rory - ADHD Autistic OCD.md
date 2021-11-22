@@ -63,3 +63,12 @@ highlight_tags:: [[guilt]]
 
 [^251028575]: https://twitter.com/roryreckons/status/1461955553354137604
 
+# New highlights added November 22, 2021 at 4:55 PM
+##### ^252031299
+#TO/EXPLORE/READ  
+> The double empathy problem is a failure of logical capacity in emotional reasoning btw.
+> https://t.co/dniufzvXDm 
+  [^252031299]
+
+[^252031299]: https://twitter.com/roryreckons/status/1462888352978374658
+

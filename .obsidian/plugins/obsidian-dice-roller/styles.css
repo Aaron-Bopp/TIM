@@ -4,11 +4,14 @@
     cursor: pointer;
     margin: 0 0.25em 0 0;
 }
+.dice-roller.no-icon {
+    margin: 0;
+}
 .dice-roller > div {
     display: inline-block;
 }
 .dice-roller span {
-    font-weight: bolder;
+    font-weight: 700;
 }
 .dice-roller > .dice-roller-button {
     display: inline-block;
@@ -85,6 +88,12 @@
     position: relative;
 }
 
+.dice-roller-result .embedded-table-result p {
+    margin: 0;
+    display: inline-block;
+}
+
+/** Settings */
 .dice-roller-settings .coffee {
     width: 60%;
     color: var(--text-faint);
@@ -94,8 +103,6 @@
 .dice-roller-settings .coffee img {
     height: 30px;
 }
-
-/** Settings */
 .dice-roller-setting-additional-container
     > .setting-item:not(.setting-item-heading) {
     border: 0px;
@@ -153,7 +160,6 @@
     z-index: 9999999;
     transition: opacity 1s ease-out;
 }
-
 .dice-roller-view .dice-roller-roll:disabled {
     cursor: not-allowed;
     opacity: 0.75;
@@ -180,6 +186,16 @@
     align-items: center;
     justify-content: center;
     width: fit-content;
+}
+.dice-roller-view .dice-roller-grid .dice-custom-formula-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.dice-roller-view .dice-roller-grid .dice-custom-formula {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .dice-roller-view .setting-editor-extra-setting-button {
@@ -220,6 +236,11 @@
     justify-content: space-between;
     align-items: flex-end;
     gap: 12px;
+}
+
+.dice-roller-view .dice-roller-formula .action-buttons {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .dice-roller-view .dice-roller-formula button {
@@ -266,6 +287,13 @@
     top: 0;
     right: 0;
     padding: 0.25rem;
+}
+.dice-roller-view .dice-roller-results .view-result .dice-result-reroll {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0.25rem;
+    margin: 0;
 }
 
 .dice-roller-view .dice-roller-results .view-result strong {
