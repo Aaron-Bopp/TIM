@@ -6822,8 +6822,8 @@
     },
     "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md": {
       "size": 0,
-      "tags": 2,
-      "links": 8
+      "tags": 4,
+      "links": 10
     },
     "30_Topics/31_Stubs/validation.md": {
       "size": 0,
@@ -8196,9 +8196,9 @@
       "links": 0
     },
     "40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md": {
-      "size": 0,
+      "size": 2215,
       "tags": 2,
-      "links": 12
+      "links": 13
     },
     "40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md": {
       "size": 1057,
@@ -8878,15 +8878,15 @@
     "Combine notes instead of deleting them to avoid ghost data in a second brain.md": {
       "size": 0,
       "tags": 2,
-      "links": 4
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1397,
       "Create": 1927,
-      "Link": 3088,
-      "Expand": 82
+      "Link": 3092,
+      "Expand": 83
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8918,7 +8918,7 @@
       "18": 181,
       "19": 84,
       "20": 101,
-      "21": 139,
+      "21": 144,
       "22": 184,
       "23": 181
     },
@@ -8957,7 +8957,7 @@
       "Thu": 299,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4182
+      "Sun": 4187
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -8972,6 +8972,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of impermanent data and permanent metadata </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
@@ -9021,7 +9022,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought in a second brain without creating friction.md\"> How to collect thought in a second brain without creating friction </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>"
       ],
       "Created": [
@@ -9131,6 +9131,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/neurodiversity.md\"> neurodiversity </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
@@ -9180,8 +9181,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/plaintext.md\"> plaintext </a>",
-        "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
-        "<a class=\"internal-link\" href=\"HTML.md\"> HTML </a>"
+        "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9243,6 +9243,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/OCD.md\"> OCD </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of impermanent data and permanent metadata </a>",
+        "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
@@ -9290,10 +9293,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\"> Bhuddism is the study of happiness through detachment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Wealth Inequality creates a need for change.md\"> Wealth Inequality creates a need for change </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",

@@ -4,74 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "b5ea9e470dc23385",
+        "id": "6d7e624a40e88df8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md",
-            "mode": "source"
+            "file": "20_Entry/24 Vault Stats/GALLERY.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "b5ea9e470dc23385",
+              "leaf": "6d7e624a40e88df8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "b5ea9e470dc23385",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are support systems.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "b5ea9e470dc23385",
+              "leaf": "6d7e624a40e88df8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is language's fundamental unit.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.7714285169328963}"
-            },
-            {
-              "leaf": "b5ea9e470dc23385",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":2.8000000544956754}"
-            },
-            {
-              "leaf": "b5ea9e470dc23385",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "b5ea9e470dc23385",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":289},\"to\":{\"line\":12,\"ch\":289}},\"scroll\":3.028571537562779}"
-            },
-            {
-              "leaf": "b5ea9e470dc23385",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "b5ea9e470dc23385",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b5ea9e470dc23385",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Most rights were denied to Americans at its founding.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b5ea9e470dc23385",
+              "leaf": "6d7e624a40e88df8",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -108,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"to use it",
+                "query": "tag:#TO/TEND/WEED",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -127,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md",
+                "file": "20_Entry/24 Vault Stats/GALLERY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -160,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md",
+                "file": "20_Entry/24 Vault Stats/GALLERY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,8 +143,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md"
+                "file": "20_Entry/24 Vault Stats/GALLERY.md"
               }
             },
             "pane-relief:history-v1": {
@@ -311,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Combine notes instead of deleting them to avoid ghost data in a second brain.md",
+                "file": "20_Entry/24 Vault Stats/GALLERY.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -418,19 +375,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312
+    "width": 710.2000122070312,
+    "collapsed": true
   },
-  "active": "b5ea9e470dc23385",
+  "active": "6d7e624a40e88df8",
   "lastOpenFiles": [
-    "Combine notes instead of deleting them to avoid ghost data in a second brain.md",
-    "40_Evergreens/Communities are support systems.md",
-    "40_Evergreens/What is language's fundamental unit.md",
-    "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
-    "40_Evergreens/The anti-vax movement is based off a white lie.md",
-    "10_Sources/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md",
-    "40_Evergreens/What makes a note evergreen.md",
-    "40_Evergreens/Bhuddism is the study of happiness through detachment.md",
-    "40_Evergreens/Most rights were denied to Americans at its founding.md",
-    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md"
+    "20_Entry/24 Vault Stats/GALLERY.md",
+    "00_Meta/Attachments/Graphs/20211121.PNG",
+    "10_Sources/Mental Health/video_Is Your brain Male or Female_Films Media Group.md",
+    "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable.md",
+    "40_Evergreens/Gender is a social construct.md",
+    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
+    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
+    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
+    "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
+    "40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md"
   ]
 }

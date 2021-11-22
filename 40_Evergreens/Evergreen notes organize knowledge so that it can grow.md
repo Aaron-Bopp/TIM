@@ -10,6 +10,10 @@ sr-ease: 250
 
 #### [[Evergreen notes organize knowledge so that it can grow]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/EXPLORE/RESEARCH how [[Andy Matuschak's Evergreen Notes]] connects to this idea
+
+#TO/TEND/GRAFT [[What makes a note evergreen]]
+
 [[Evergreen notes]] can be as small as a few sentences or as expansive as an entire breakdown of an idea.
 Previous writing is just fertalizer for evergreen notes,
 and writing evergreen notes is just practice for future thought. 
@@ -23,7 +27,7 @@ they should inspire [[creativity]]:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GREEN/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[evergreen notes]], [[second brain]] 

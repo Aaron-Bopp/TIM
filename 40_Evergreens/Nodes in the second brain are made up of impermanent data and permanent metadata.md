@@ -16,6 +16,8 @@ Even if you delete the file, the links will still remain, and the connections ca
 
 [^1]: [[Stub notes are data structures for implicit knowledge gathering]]
 
+Additionally, when you delete a file, connections that may have existed will dissapear resulting in a loss of data larger than just the data in the file. Whether it be the way that note pulled nodes together on the graph, or that it had a \#TO/DO tag that referenced another note, deleting a note will have effects outside its contents: [[Combine notes instead of deleting them to avoid ghost data in a second brain]] 
+
 This is not unique to computerized second brains. Have you ever had a word stuck on the tip of your tongue? Remembered everything about an event except what happened? Our brains are made up of connections through neurons, and even if the destination is gone the connection can remain: [[Nodes in the second brain are an abstraction of our first brain]]
 
 ### <hr class="footnote"/>
