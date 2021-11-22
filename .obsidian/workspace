@@ -1,23 +1,102 @@
 {
   "main": {
-    "id": "c66280fdd7ce7dcc",
+    "id": "ae678125de383d5d",
     "type": "split",
     "children": [
       {
-        "id": "a3f24057fe952245",
+        "id": "6e79de36dd498eb6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "a3f24057fe952245",
+              "leaf": "6e79de36dd498eb6",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "6e79de36dd498eb6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Working through trauma can involve of a lot of letting go.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":228},\"to\":{\"line\":14,\"ch\":228}},\"scroll\":0.3333333333333333}"
+            },
+            {
+              "leaf": "6e79de36dd498eb6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Accepting responsibility is not only about your actions.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.7714285169328963}"
+            },
+            {
+              "leaf": "6e79de36dd498eb6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Working through trauma can involve of a lot of letting go.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":165},\"to\":{\"line\":14,\"ch\":165}},\"scroll\":0}"
+            },
+            {
+              "leaf": "6e79de36dd498eb6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":10.068181703570131}"
+            },
+            {
+              "leaf": "6e79de36dd498eb6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can leave the church without loosing your faith.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6e79de36dd498eb6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":4.510476248604911}"
+            },
+            {
+              "leaf": "6e79de36dd498eb6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":10.312976565753534}"
+            },
+            {
+              "leaf": "6e79de36dd498eb6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":26},\"to\":{\"line\":27,\"ch\":26}},\"scroll\":0}"
+            },
+            {
+              "leaf": "6e79de36dd498eb6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.9666666984558105}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "b72640f7890c9e64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/There aren't any downsides to working through trauma.md",
+            "mode": "preview"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b72640f7890c9e64",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There aren't any downsides to working through trauma.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":8.656716417910447}"
             }
           ]
         }
@@ -70,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -102,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -194,7 +276,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40_Evergreens/When should you forgive people who don't deserve it.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -231,6 +315,10 @@
             "state": {
               "type": "RSS_FEED",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -245,6 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -351,20 +440,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312,
-    "collapsed": true
+    "width": 710.2000122070312
   },
-  "active": "a3f24057fe952245",
+  "active": "6e79de36dd498eb6",
   "lastOpenFiles": [
-    "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
-    "40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md",
-    "40_Evergreens/Gender is a social construct.md",
-    "20_Entry/24 Vault Stats/GALLERY.md",
-    "00_Meta/Attachments/Graphs/202110311.PNG",
-    "00_Meta/Attachments/Graphs/20211121.PNG",
-    "10_Sources/Mental Health/video_Is Your brain Male or Female_Films Media Group.md",
-    "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable.md",
-    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
-    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md"
+    "40_Evergreens/When should you forgive people who don't deserve it.md",
+    "40_Evergreens/Working through trauma can involve of a lot of letting go.md",
+    "40_Evergreens/Accepting responsibility is not only about your actions.md",
+    "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
+    "40_Evergreens/Fear of hell is baked into Christianity for vulnerable believers.md",
+    "40_Evergreens/You can leave the church without loosing your faith.md",
+    "40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md",
+    "40_Evergreens/The brain is powerful enough to create supernatural experiences.md",
+    "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+    "40_Evergreens/How to pursue the positive things in life.md"
   ]
 }

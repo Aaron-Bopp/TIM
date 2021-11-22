@@ -4541,14 +4541,9 @@
       "links": 6
     },
     "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md": {
-      "size": 2024,
+      "size": 2339,
       "tags": 3,
-      "links": 17
-    },
-    "40_Evergreens/Fear of hell is baked into Christianity.md": {
-      "size": 924,
-      "tags": 2,
-      "links": 7
+      "links": 20
     },
     "40_Evergreens/Feminism is the antithesis to patriarchy.md": {
       "size": 409,
@@ -4893,12 +4888,12 @@
     "40_Evergreens/The brain is powerful enough to create supernatural experiences.md": {
       "size": 2748,
       "tags": 2,
-      "links": 28
+      "links": 29
     },
     "40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md": {
       "size": 1020,
-      "tags": 2,
-      "links": 7
+      "tags": 3,
+      "links": 13
     },
     "40_Evergreens/The danger of religious beliefs in early childhood.md": {
       "size": 1246,
@@ -5028,7 +5023,7 @@
     "40_Evergreens/Working through trauma can involve of a lot of letting go.md": {
       "size": 1099,
       "tags": 2,
-      "links": 7
+      "links": 9
     },
     "40_Evergreens/Worldviews are wrong if they make life seem easy and simple.md": {
       "size": 1141,
@@ -5058,11 +5053,6 @@
     "40_Evergreens/You can discover your transness at any point in life.md": {
       "size": 894,
       "tags": 2,
-      "links": 10
-    },
-    "40_Evergreens/You can leave the church and still believe in the christian god.md": {
-      "size": 1329,
-      "tags": 3,
       "links": 10
     },
     "40_Evergreens/You can't blame people for failing to rise above their circumstances.md": {
@@ -8848,7 +8838,7 @@
     "40_Evergreens/How to pursue the positive things in life.md": {
       "size": 0,
       "tags": 3,
-      "links": 1
+      "links": 4
     },
     "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md": {
       "size": 594,
@@ -8879,14 +8869,34 @@
       "size": 0,
       "tags": 2,
       "links": 7
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md": {
+      "size": 804,
+      "tags": 1,
+      "links": 1
+    },
+    "40_Evergreens/You can leave the church without loosing your faith.md": {
+      "size": 2541,
+      "tags": 4,
+      "links": 15
+    },
+    "40_Evergreens/Fear of hell is baked into Christianity for vulnerable believers.md": {
+      "size": 924,
+      "tags": 2,
+      "links": 7
+    },
+    "40_Evergreens/When should you forgive people who don't deserve it.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1398,
-      "Create": 1927,
-      "Link": 3092,
-      "Expand": 83
+      "Refactor": 1402,
+      "Create": 1929,
+      "Link": 3106,
+      "Expand": 86
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8911,7 +8921,7 @@
       "11": 24,
       "12": 323,
       "13": 59,
-      "14": 2191,
+      "14": 2214,
       "15": 109,
       "16": 858,
       "17": 1477,
@@ -8951,7 +8961,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 155,
+      "Mon": 178,
       "Tue": 594,
       "Wed": 1195,
       "Thu": 299,
@@ -8972,6 +8982,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of impermanent data and permanent metadata </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
@@ -9019,12 +9032,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought in a second brain without creating friction.md\"> How to collect thought in a second brain without creating friction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to collect thought in a second brain without creating friction.md\"> How to collect thought in a second brain without creating friction </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
         "<a class=\"internal-link\" href=\"'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
@@ -9073,11 +9085,13 @@
         "<a class=\"internal-link\" href=\"Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Sexism may be harmful to men's mental health.md\"> articles_Sexism may be harmful to men's mental health </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/buttons.md\"> buttons </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/FLASHCARD.md\"> FLASHCARD </a>",
-        "<a class=\"internal-link\" href=\"notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/FLASHCARD.md\"> FLASHCARD </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear of hell is baked into Christianity for vulnerable believers.md\"> Fear of hell is baked into Christianity for vulnerable believers </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church and still have faith.md\"> You can leave the church and still have faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
@@ -9124,13 +9138,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Psychology.md\"> Psychology </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/self.md\"> self </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/enlightenment.md\"> enlightenment </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Behavioral Pyschology.md\"> Behavioral Pyschology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Computer Science.md\"> Computer Science </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Civil Rights.md\"> Civil Rights </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/20th Century America.md\"> 20th Century America </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Behavioral Pyschology.md\"> Behavioral Pyschology </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
@@ -9177,11 +9191,7 @@
         "<a class=\"internal-link\" href=\"Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettlekassen.md\"> Zettlekassen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Intro to Obsidian.md\"> Intro to Obsidian </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/plaintext.md\"> plaintext </a>",
-        "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9243,6 +9253,16 @@
         "<a class=\"internal-link\" href=\"30_Topics/OCD.md\"> OCD </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Working through trauma can involve of a lot of letting go.md\"> Working through trauma can involve of a lot of letting go </a>",
+        "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\"> Nodes in the second brain are made up of impermanent data and permanent metadata </a>",
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
@@ -9283,17 +9303,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sympathy.md\"> sympathy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/empathy.md\"> empathy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\"> Bhuddism is the study of happiness through detachment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",

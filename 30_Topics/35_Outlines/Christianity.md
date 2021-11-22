@@ -15,7 +15,7 @@ aliases:
 - [[The Politicization of the Christian Church]]
 - [[Evangelicalism]]
 - [[The biblical christian God is evil and does not deserve to be worshipped]]
-	- [[Fear of hell is baked into Christianity]]
+	- [[Fear of hell is baked into Christianity for vulnerable believers]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - [[Were Jesus' teachings anti-thetical to the modern christian church]]
 	- [[The church will fail if christians keep aligning themselves with hate instead of love]]
@@ -23,7 +23,7 @@ aliases:
 - [[Deconstruction (Christianity)]]
 	- [[My Deconstruction journey]]
 	- [[My worldview is not about conversion it is about acceptance]]
-    - [[You can leave the church and still believe in the christian god]]
+    - [[You can leave the church without loosing your faith]]
         - [[Fear cannot be a deterant for deconstructing your faith]]
     - Analogies
         - [[Deconstructing your faith is like climbing through a jungle canopy]]

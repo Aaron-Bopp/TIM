@@ -15,10 +15,10 @@ sr-ease: 274
 It is hard to look at the god described in the bible and not think he is either maliciously evil, or blatantly selfish.
 
 - caveats
-    - [[You can leave the church and still believe in the christian god]]
+    - [[You can leave the church without loosing your faith]]
     - [[Were Jesus' teachings anti-thetical to the modern christian church]]
 - results
-    - [[Fear of hell is baked into Christianity]]
+    - [[Fear of hell is baked into Christianity for vulnerable believers]]
     - [[The Politicization of the Christian Church]]
     - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
     - [[The church will fail if christians keep aligning themselves with hate instead of love]]

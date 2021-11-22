@@ -8,7 +8,7 @@ sr-ease: 228
 
 #### [[The danger of religious beliefs in early childhood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Teaching children that their eternal fate is at stake is not healthy and leads to [[religious trauma]]: [[Fear of hell is baked into Christianity]]. It is instilled from a young age that you must submit yourself to this god in order to avoid hell. While religion teaches the feelings of an omnipotent god are more important than yours.
+Teaching children that their eternal fate is at stake is not healthy and leads to [[religious trauma]]: [[Fear of hell is baked into Christianity for vulnerable believers]]. It is instilled from a young age that you must submit yourself to this god in order to avoid hell. While religion teaches the feelings of an omnipotent god are more important than yours.
 [[Negative influences are stronger than positive influences]] and especially as children this will stick with us. [^1]
 
 [^1]: [[We carry our childhood wounds into adulthood]]
