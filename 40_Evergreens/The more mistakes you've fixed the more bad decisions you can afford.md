@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - A bad decision for a beginner is not the same a bad decision for an expert
 tags: node/evergreen
-sr-due: 2021-11-21
-sr-interval: 6
+sr-due: 2021-12-02
+sr-interval: 11
 sr-ease: 170
 ---
 

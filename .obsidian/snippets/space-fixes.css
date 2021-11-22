@@ -21,7 +21,9 @@ cite {
 .theme-dark .graph-view.color-circle {
     color: rgb(221, 15, 15) !important;
 }
-
+.theme-dark .graph-view.color-fill-highlight {
+    color: #f6f9fa !important;
+}
 .markdown-embed-title {
     display: none;
 }

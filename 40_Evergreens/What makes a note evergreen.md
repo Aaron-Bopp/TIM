@@ -3,8 +3,8 @@ created: 2021-11-15
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-11-21
-sr-interval: 2
+sr-due: 2021-11-25
+sr-interval: 4
 sr-ease: 199
 ---
 
@@ -40,7 +40,7 @@ sr-ease: 199
  
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[evergreen notes]], [[note writing]], [[My TIM]]

@@ -3,6 +3,9 @@ created: 2021-11-21
 aliases:
   - null
 tags: node/evergreen
+sr-due: 2021-11-22
+sr-interval: 1
+sr-ease: 213
 ---
 #### [[Combine notes instead of deleting them to avoid ghost data in a second brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
