@@ -627,44 +627,23 @@
     },
     "16:9 NOW": {
       "main": {
-        "id": "964aeb9bae1ab852",
+        "id": "c66280fdd7ce7dcc",
         "type": "split",
         "children": [
           {
-            "id": "374108590f0b2852",
+            "id": "a3f24057fe952245",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
-                "mode": "preview"
-              }
+              "type": "empty",
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "374108590f0b2852",
+                  "leaf": "a3f24057fe952245",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":3.7017994858611827}"
-                },
-                {
-                  "leaf": "374108590f0b2852",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":0.03176895354198635}"
-                },
-                {
-                  "leaf": "374108590f0b2852",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is a social construct.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":10.093023255813954}"
-                },
-                {
-                  "leaf": "374108590f0b2852",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
                 }
               ]
@@ -718,7 +697,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -751,7 +729,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -844,9 +821,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md"
-                  }
+                  "state": {}
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -878,30 +853,11 @@
                 }
               },
               {
-                "id": "57168cae275641ab",
+                "id": "ad9b84ab7d18d6ee",
                 "type": "leaf",
                 "state": {
                   "type": "RSS_FEED",
                   "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "9d020c89113257d0",
-                "type": "leaf",
-                "state": {
-                  "type": "search-ref",
-                  "state": {
-                    "query": "(file:(\"Gender is a social construct.md\") (/ \\^Why is gender such a debated topic$/ OR /#\\^Why is gender such a debated topic(\\]\\]|\\|.*\\]\\])/ OR /#+ Why is gender such a debated topic$/ OR /\\[\\[#Why is gender such a debated topic(\\]\\]|\\|.*\\]\\])/)) OR /\\[\\[Gender is a social construct#\\^Why is gender such a debated topic(\\]\\]|\\|.*\\]\\])/ OR /\\[\\[Gender is a social construct#Why is gender such a debated topic(\\]\\]|\\|.*\\]\\])/",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
                 }
               }
             ]
@@ -916,7 +872,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1026,7 +981,7 @@
         "width": 710.2000122070312,
         "collapsed": true
       },
-      "active": "374108590f0b2852"
+      "active": "a3f24057fe952245"
     }
   },
   "active": "16:9 NOW"

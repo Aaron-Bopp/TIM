@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2250533,
+  "lastSavedStatusID": 2256161,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -304,7 +304,8 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md": "11898728",
     "10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md": "11917333",
     "10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md": "11917338",
-    "10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md": "11925060"
+    "10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md": "11925060",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md": "11988415"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",
