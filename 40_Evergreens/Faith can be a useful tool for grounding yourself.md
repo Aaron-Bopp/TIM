@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-11-22
+sr-due: 2021-11-23
 sr-interval: 1
-sr-ease: 212
+sr-ease: 192
 ---
 
 #### [[Faith can be a useful tool for grounding yourself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

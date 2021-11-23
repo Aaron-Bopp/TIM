@@ -631,12 +631,12 @@
         "type": "split",
         "children": [
           {
-            "id": "caa7dc22a9c88bca",
+            "id": "98d8e2602482152d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Topics/33_Tools/Obsidian (software).md",
+                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                 "mode": "source"
               }
             },
@@ -644,163 +644,33 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "caa7dc22a9c88bca",
+                  "leaf": "98d8e2602482152d",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":5.428571428571429}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.040646414939237}"
                 },
                 {
-                  "leaf": "caa7dc22a9c88bca",
+                  "leaf": "98d8e2602482152d",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":8.314285823277064}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between sympathy and empathy.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Source Code.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Mermaid (software).md\",\"mode\":\"source\"}}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "caa7dc22a9c88bca",
+                  "leaf": "98d8e2602482152d",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":10.400000062280771}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The internet allows niche topics to flourish.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.4857142312186107}"
                 },
                 {
-                  "leaf": "caa7dc22a9c88bca",
+                  "leaf": "98d8e2602482152d",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":7.714285714285714}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":10.342857142857143}"
                 },
                 {
-                  "leaf": "caa7dc22a9c88bca",
+                  "leaf": "98d8e2602482152d",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/MAGA is built off nostalgia not facts.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are meant to be broken.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":2},\"to\":{\"line\":20,\"ch\":2}}}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mass media promotes the spread of innacurate information.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":3}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/Acting Bio.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":0.75}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Note structures should be loosely defined.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":367},\"to\":{\"line\":25,\"ch\":367}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rise of Modern Conservatism.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "caa7dc22a9c88bca",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}},\"scroll\":6}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "5eeed490bf19cf3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "5eeed490bf19cf3c",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.285714285714286}"
-                },
-                {
-                  "leaf": "5eeed490bf19cf3c",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":2.0157480615330496}"
-                },
-                {
-                  "leaf": "5eeed490bf19cf3c",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "5eeed490bf19cf3c",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/201 Welcome.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\",\"mode\":\"source\"}}",
                   "eState": "{\"scroll\":0}"
                 }
               ]
@@ -835,7 +705,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#node",
+                    "query": "tag:#TO/EXPLORE/WATCH",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": false,
@@ -854,7 +724,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md",
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -887,7 +757,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md",
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -912,13 +782,11 @@
                   "stack": []
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 442.5,
-        "collapsed": true
+        "width": 442.5
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -970,7 +838,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md"
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -1023,7 +891,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md",
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1130,9 +998,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 710.2000122070312
+        "width": 710.2000122070312,
+        "collapsed": true
       },
-      "active": "5eeed490bf19cf3c"
+      "active": "98d8e2602482152d"
     }
   },
   "active": "16:9 NOW"

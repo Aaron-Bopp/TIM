@@ -4538,7 +4538,7 @@
     "40_Evergreens/Faith can be a useful tool for grounding yourself.md": {
       "size": 526,
       "tags": 2,
-      "links": 6
+      "links": 10
     },
     "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md": {
       "size": 2339,
@@ -5012,7 +5012,7 @@
     },
     "40_Evergreens/What is the difference between a evergreen note and a topic note.md": {
       "size": 956,
-      "tags": 2,
+      "tags": 3,
       "links": 7
     },
     "40_Evergreens/What is the difference between optimism and hope.md": {
@@ -7037,8 +7037,8 @@
     },
     "10_Sources/Personal/I have a stored up emotion of hating myself.md": {
       "size": 1270,
-      "tags": 4,
-      "links": 9
+      "tags": 5,
+      "links": 11
     },
     "10_Sources/Personal/I thought negative emotions were natural and that positive emotions weren't real.md": {
       "size": 2428,
@@ -8889,13 +8889,18 @@
       "size": 0,
       "tags": 2,
       "links": 1
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md": {
+      "size": 883,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1404,
-      "Create": 1929,
-      "Link": 3118,
+      "Create": 1930,
+      "Link": 3124,
       "Expand": 88
     },
     "40 Evergreens": {
@@ -8927,7 +8932,7 @@
       "17": 1479,
       "18": 181,
       "19": 87,
-      "20": 112,
+      "20": 119,
       "21": 144,
       "22": 185,
       "23": 181
@@ -8961,7 +8966,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 194,
+      "Mon": 201,
       "Tue": 594,
       "Wed": 1195,
       "Thu": 299,
@@ -9035,6 +9040,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
         "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
@@ -9084,8 +9090,7 @@
         "<a class=\"internal-link\" href=\"We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
         "<a class=\"internal-link\" href=\"Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Sexism may be harmful to men's mental health.md\"> articles_Sexism may be harmful to men's mental health </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/buttons.md\"> buttons </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/FLASHCARD.md\"> FLASHCARD </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/buttons.md\"> buttons </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
@@ -9141,6 +9146,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Behavioral Pyschology.md\"> Behavioral Pyschology </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
@@ -9188,10 +9196,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mysogyny.md\"> mysogyny </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microaggressions.md\"> Microaggressions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/my parents.md\"> my parents </a>",
-        "<a class=\"internal-link\" href=\"Niklas Luhmann.md\"> Niklas Luhmann </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9253,6 +9258,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/OCD.md\"> OCD </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\"> Faith can be a useful tool for grounding yourself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>",
@@ -9300,10 +9308,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/An unfulfilled need for validation results in a fear of rejection.md\"> An unfulfilled need for validation results in a fear of rejection </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md\"> tweets_Tweets From Visa Is Stretching </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
