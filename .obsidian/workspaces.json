@@ -627,16 +627,16 @@
     },
     "16:9 NOW": {
       "main": {
-        "id": "ae678125de383d5d",
+        "id": "c27936291f29f65f",
         "type": "split",
         "children": [
           {
-            "id": "c2f3c667998ecc8f",
+            "id": "caa7dc22a9c88bca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Entry/24 Vault Stats/Word count Evergreens.md",
+                "file": "30_Topics/33_Tools/Obsidian (software).md",
                 "mode": "source"
               }
             },
@@ -644,16 +644,164 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "c2f3c667998ecc8f",
+                  "leaf": "caa7dc22a9c88bca",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":29.241935472706725}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":5.428571428571429}"
                 },
                 {
-                  "leaf": "c2f3c667998ecc8f",
+                  "leaf": "caa7dc22a9c88bca",
                   "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":8.314285823277064}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"source\"}}",
                   "eState": "{}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between sympathy and empathy.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Source Code.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Christianity.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":10.400000062280771}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":7.714285714285714}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/MAGA is built off nostalgia not facts.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are meant to be broken.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":2},\"to\":{\"line\":20,\"ch\":2}}}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mass media promotes the spread of innacurate information.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":3}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/Acting Bio.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0.75}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Note structures should be loosely defined.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":367},\"to\":{\"line\":25,\"ch\":367}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rise of Modern Conservatism.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "caa7dc22a9c88bca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}},\"scroll\":6}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "5eeed490bf19cf3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "5eeed490bf19cf3c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.285714285714286}"
+                },
+                {
+                  "leaf": "5eeed490bf19cf3c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":2.0157480615330496}"
+                },
+                {
+                  "leaf": "5eeed490bf19cf3c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "5eeed490bf19cf3c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/201 Welcome.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             }
@@ -706,7 +854,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "20_Entry/24 Vault Stats/Word count Evergreens.md",
+                    "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -739,7 +887,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "20_Entry/24 Vault Stats/Word count Evergreens.md",
+                    "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -822,7 +970,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "20_Entry/24 Vault Stats/Word count Evergreens.md"
+                    "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -863,7 +1011,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 6
           },
           {
             "id": "84f4f33f118f4527",
@@ -875,7 +1023,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "20_Entry/24 Vault Stats/Word count Evergreens.md",
+                    "file": "40_Evergreens/Faith can be a useful tool for grounding yourself.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -984,7 +1132,7 @@
         "direction": "horizontal",
         "width": 710.2000122070312
       },
-      "active": "c2f3c667998ecc8f"
+      "active": "5eeed490bf19cf3c"
     }
   },
   "active": "16:9 NOW"

@@ -3,9 +3,9 @@ created: 2021-09-16
 tags: node/evergreen, node/personal
 aliases:
   - null
-sr-due: 2021-11-22
-sr-interval: 4
-sr-ease: 270
+sr-due: 2021-12-07
+sr-interval: 15
+sr-ease: 290
 ---
 
 #### [[Acting Bio]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -3,8 +3,8 @@ created: 2021-11-15
 aliases:
   - making learning as easy as thinking
 tags: node/evergreen
-sr-due: 2021-11-22
-sr-interval: 1
+sr-due: 2021-11-24
+sr-interval: 2
 sr-ease: 221
 ---
 
@@ -16,6 +16,7 @@ sr-ease: 221
         - [[Your second brain should be frictionless access to a curated base of knowledge]]
         - [[Your second brain should be an inspirational hub of creativity]]
         - [[Evergreen notes organize knowledge so that it can grow]]
+- [[We are confined to the tools of our time]]
 
 ### <hr class="footnote"/>
 

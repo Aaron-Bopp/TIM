@@ -19,15 +19,13 @@ If you are already familiar with [[Obsidian (software)|Obsidian]] and want to se
 
 Thought's directly helpful to obsidian users:
 
-- [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
-- [[my TO(DO) and EVER(GREEN) structure]]
-- [[The fragility of nodes in a second brain]]
+![[Obsidian (software)#My notes about Obsidian]]
 
 ## Obsidian? Note-taking? What are you talking about?
 
 Welcome to the world of [[knowledge management|personal knowledge management]] or PKM. This is a thriving community around curating and creating knowledge, I hope you jump in.
 
-If you have twenty minutes, this video is a great introduction to [[conceptual notes]]: [How to achieve more while studying less - Obsidian & Conceptual Notes - YouTube](https://www.youtube.com/watch?v=MYJsGksojms)
+If you have twenty minutes, this video is a great introduction to [[conceptual notes]]: [How to achieve more while studying less - Obsidian & Conceptual Notes - YouTube](https://www.youtube.com/watch?v=MYJsGksojms) or you can go to [[Obsidian (software)#Getting Started]]
 
 The three cores [[philosophy|philosophies]] of [[My TIM]] are:
 
@@ -40,8 +38,6 @@ The three cores [[philosophy|philosophies]] of [[My TIM]] are:
 If you'd like to hear more about [[evergreen notes]], which are core to this system, [^2] it might just be better to get it from the source: [[Andy Matuschak's Evergreen Notes]]
 
 [^2]: [[Evergreen notes organize knowledge so that it can grow]]
-
-Or if you just want to know more about [[Obsidian (software)|Obsidian]] checkout: [[Obsidian (software)#Getting Started]]
 
 ## I am not looking through all this crap, tell me what you're all about
 

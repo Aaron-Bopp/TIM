@@ -19,6 +19,9 @@ List of resources https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp for learning ob
 
 [The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is more well-kept then this note will ever be
 
+### My notes about Obsidian
+
+
 ### Example Vaults
 
 - [The quantum well](https://publish.obsidian.md/myquantumwell/Knowledge+Management) academic, math-related

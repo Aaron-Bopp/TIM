@@ -3,10 +3,11 @@ created: 2021-11-09
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-22
-sr-interval: 6
-sr-ease: 210
+sr-due: 2021-11-25
+sr-interval: 3
+sr-ease: 190
 ---
+
 #### [[A story will either end where it began, or somewhere else]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is an obvious but profound fact.

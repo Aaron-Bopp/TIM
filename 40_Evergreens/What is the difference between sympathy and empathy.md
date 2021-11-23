@@ -3,9 +3,9 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-22
+sr-due: 2021-11-23
 sr-interval: 1
-sr-ease: 190
+sr-ease: 170
 ---
 
 #### [[What is the difference between sympathy and empathy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-22
-sr-interval: 4
+sr-due: 2021-12-04
+sr-interval: 12
 sr-ease: 275
 ---
 
@@ -16,13 +16,16 @@ sr-ease: 275
 - [[Republican voters do not hold their leaders accountable]]
 - [[Anti-government stances lead to economic crashes]]
 - [[Q justifies conservatives discontent]]
+- [[Single issue voters are anti-democratic]]
+- [[Anger fuels change]]
+- [[Abortion and immigration are detrimental to white supremacy]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**::  [[Politics]]
+**Topics**::  [[Politics]], [[political strategy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

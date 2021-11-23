@@ -3,8 +3,8 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-22
-sr-interval: 1
+sr-due: 2021-11-24
+sr-interval: 2
 sr-ease: 179
 ---
 
@@ -15,8 +15,8 @@ We remember things by making connections to them, whether that be an acronym, a 
 ^[this is how we memorize long passages, we are connecting one sequence to the next]
 we are making connections that allow us to remember that thing.
 Sometimes these connections can be made almost completely autonomously, but in the [[second brain]] we often have to make these connections manually.
-This introduces [[friction]], which is in direct contradiction to the [[philosophy]] of [[My TIM]]
-^[[[Your second brain should be frictionless access to a curated base of knowledge]]]
+This introduces [[friction]], which is in direct contradiction to the [[philosophy]] of [[My TIM]]:
+[[Your second brain should be frictionless access to a curated base of knowledge]]
 
 [[Spaced repetition]] can help allieviate this friction
 

@@ -4,8 +4,8 @@ tags: node/evergreen
 aliases:
   - null
 date modified: Sunday, October 10th 2021, 12:53:06 pm
-sr-due: 2021-11-22
-sr-interval: 4
+sr-due: 2021-12-03
+sr-interval: 11
 sr-ease: 270
 ---
 

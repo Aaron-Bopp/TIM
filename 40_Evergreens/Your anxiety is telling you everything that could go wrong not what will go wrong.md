@@ -1,9 +1,9 @@
 ---
 created: 2021-06-15
 tags: node/evergreen
-sr-due: 2021-11-22
+sr-due: 2021-11-23
 sr-interval: 1
-sr-ease: 200
+sr-ease: 180
 ---
 
 #### [[Your anxiety is telling you everything that could go wrong not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
