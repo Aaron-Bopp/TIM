@@ -7,8 +7,10 @@ sr-ease: 246
 ---
 
 #### [[Learning how systems work can be a gateway to creating thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+How we understand a system influences how we use that system, and the systems we have learned in the past influence decisions we make in new systems. 
+This is why [[Conceptual notes are lexically superior to atomic notes]] because it influences how people interperet the system o
 
-This means that sometimes you won't be producing or storing anything until you start learning about a system that properly allow your brain to create output. This is why [[Conceptual notes are lexically superior to atomic notes]] is important.
+A system that gives too much freedom, or too many options, may only reduce your ability to create, this is why [[Powerful tools make dangerous toys]]. At some point you need to find the system that works best for you
 
 One major example of this is [[Your second brain should be an inspirational hub of creativity]].
 #TO/TEND/CONCEPTUALIZE how these concepts help you create thought

@@ -636,8 +636,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Powerful tools make dangerous toys.md",
-                "mode": "preview"
+                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+                "mode": "source"
               }
             },
             "pane-relief:history-v1": {
@@ -646,8 +646,38 @@
                 {
                   "leaf": "98d8e2602482152d",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How can parent's best help their children.md\",\"mode\":\"source\"}}",
                   "eState": "{}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":2.085714340209961}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sometimes we can't grow until we change our environment.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anti-government stances lead to economic crashes.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":124},\"to\":{\"line\":19,\"ch\":124}},\"scroll\":0}"
                 },
                 {
                   "leaf": "98d8e2602482152d",
@@ -772,7 +802,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Powerful tools make dangerous toys.md",
+                    "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -805,7 +835,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Powerful tools make dangerous toys.md",
+                    "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -888,7 +918,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Powerful tools make dangerous toys.md"
+                    "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -941,7 +971,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Powerful tools make dangerous toys.md",
+                    "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",

@@ -3,14 +3,12 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-23
-sr-interval: 8
-sr-ease: 205
+sr-due: 2021-11-28
+sr-interval: 4
+sr-ease: 185
 ---
 
 #### [[Sometimes we can't grow until we change our environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-[[Mental health is a reaction to one's environment]] and [[Rationalizations are defense-mechanisms against strong emotions]]. 
 
 Sometimes we don't know what is hurting us until we cut it off, and we can't gain perspective until we take a step back. [[Humans are primarily irrational, illogical, emotional beings]] and [[Our ego is our subconscious defense of our self]]. It can be very valuable to remove yourself from the range of the things that may be bringing you down because you don't even know what is bringing you down. [^1] 
 
@@ -20,6 +18,7 @@ When you are trying to work through trauma. Don't try to be a hero and or have y
 
 [[Deconstructing your faith is like climbing through a jungle canopy]] reflects on this concept of stepping back to gain objectivity in relation to [[Deconstruction (Christianity)]]. 
 
+#TO/TEND/GRAFT [[Mental health is a reaction to one's environment]] and [[Rationalizations are defense-mechanisms against strong emotions]]. [[Our brain will do anything it can to protect itself]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER  

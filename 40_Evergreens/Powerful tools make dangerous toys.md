@@ -3,14 +3,15 @@ created: 2021-10-17
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-23
-sr-interval: 9
+sr-due: 2021-12-16
+sr-interval: 22
 sr-ease: 230
 ---
 
 #### [[Powerful tools make dangerous toys]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 How many times have been suggested a tool to use that will save so much time only for you to spend hours just trying to get it to do the most basic thing?
+![[Pasted image 20211124110350.png|ctr]]
 
 Often times the best tool for the job is thrown around like it is the only acceptable option, but in reality the people who are the best rarily started out with the best tool, and when they found they had the experience of worse tools to back them up. 
 
