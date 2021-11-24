@@ -14,7 +14,10 @@ Solutions oriented people are too often focused on making the problem go away ra
 
 This is ironic because [[The materialistic view of religions examines why humans invented and clung to religion]] explains how [[religion]] is built off of our need to [[Human's will find explanations for inexplainable things|explain unexplainable things]]
 
-When communicating with people you don't know (such as through the internet) [[empathy]] is the first and most important thing you should convey. If you do not show a willingness to understand somebody's opinion they will not give you the time of day. Looking for understanding first will also lead to better outcomes when trying to convince someone of your solution 
+When communicating with people you don't know (such as through the internet) [[empathy]] is the first and most important thing you should convey. If you do not show a willingness to understand somebody's opinion, they will not give you the time of day. Looking for understanding first will also lead to better outcomes when trying to convince someone of your solution 
+
+#TO/TEND/DEOBFUSCATE [[Searching for THE answer is dangerous]]
+
 - [ ] #TO/DO/FIND DrKs video on this 
 
 ### <hr class="footnote"/>
@@ -24,4 +27,3 @@ When communicating with people you don't know (such as through the internet) [[e
 
 **Topics**:: [[socialization|inter-personal communication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

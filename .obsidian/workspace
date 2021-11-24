@@ -20,7 +20,7 @@
               "leaf": "98d8e2602482152d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Look for understanding before you look for solutions.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":1.5483870868504237}"
             },
             {
               "leaf": "98d8e2602482152d",
@@ -168,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/sr-interval: [123]$/",
+                "query": "solution",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
