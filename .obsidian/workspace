@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
-            "mode": "source"
+            "file": "test.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,68 @@
             {
               "leaf": "98d8e2602482152d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/mental health.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":14.622222900390625}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":46},\"to\":{\"line\":17,\"ch\":46}},\"scroll\":0}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between sympathy and empathy.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}},\"scroll\":2}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":3}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":25},\"to\":{\"line\":24,\"ch\":25}},\"scroll\":0}"
             },
             {
               "leaf": "98d8e2602482152d",
@@ -75,54 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"source\"}}",
               "eState": "{\"scroll\":3}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anger fuels change.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":0.033333333830038704}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":35.06866672812732}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Mermaid (software).md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The internet allows niche topics to flourish.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.4857142312186107}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-reppression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":10.342857142857143}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -175,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -208,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -291,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md"
+                "file": "test.md"
               }
             },
             "pane-relief:history-v1": {
@@ -344,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+                "file": "test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -451,19 +463,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312
+    "width": 710.2000122070312,
+    "collapsed": true
   },
   "active": "98d8e2602482152d",
   "lastOpenFiles": [
+    "test.md",
+    "20_Entry/24 Vault Stats/GALLERY.md",
+    "30_Topics/35_Outlines/mental health.md",
+    "40_Evergreens/The brain is powerful enough to create supernatural experiences.md",
+    "40_Evergreens/How to pursue the positive things in life.md",
+    "40_Evergreens/What is the difference between sympathy and empathy.md",
+    "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md",
     "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
-    "40_Evergreens/How can parent's best help their children.md",
-    "40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md",
-    "40_Evergreens/Sometimes we can't grow until we change our environment.md",
-    "40_Evergreens/Anti-government stances lead to economic crashes.md",
-    "40_Evergreens/Powerful tools make dangerous toys.md",
-    "40_Evergreens/Accepting responsibility is not only about your actions.md",
-    "40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md",
-    "40_Evergreens/Republicans have become a true opposition party.md",
-    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md"
+    "40_Evergreens/Your second brain should be an inspirational hub of creativity.md",
+    "40_Evergreens/How can parent's best help their children.md"
   ]
 }
