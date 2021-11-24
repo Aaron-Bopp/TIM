@@ -1347,7 +1347,7 @@ Plugin has been updated from version ${localManifestJSON.version} to ${primaryMa
             const newNotice = new import_obsidian7.Notice(`BRAT
 ${msg}
 (Click for info)`, 3e4);
-            newNotice.noticeEl.oncontextmenu = (e) => __async(this, null, function* () {
+            newNotice.noticeEl.oncontextmenu = () => __async(this, null, function* () {
               window.open(`https://github.com/${repositoryPath}/releases/tag/${primaryManifest.version}`);
             });
           }
@@ -1650,6 +1650,7 @@ Plugin reloading .....`, 5e3);
           const communityThemeList = Object.values(this.plugin.app.customCss.themes).map((t) => {
             return { display: t, info: t };
           });
+          communityThemeList.unshift({ display: "Obsidian Default Theme", info: "" });
           const gfs = new GenericFuzzySuggester(this.plugin);
           gfs.setSuggesterData(communityThemeList);
           yield gfs.display((results) => __async(this, null, function* () {

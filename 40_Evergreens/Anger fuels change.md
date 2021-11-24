@@ -3,9 +3,9 @@ created: 2021-08-09
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-23
-sr-interval: 15
-sr-ease: 226
+sr-due: 2022-01-14
+sr-interval: 51
+sr-ease: 246
 ---
 
 #### [[Anger fuels change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

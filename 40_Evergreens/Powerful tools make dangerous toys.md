@@ -7,6 +7,7 @@ sr-due: 2021-11-23
 sr-interval: 9
 sr-ease: 230
 ---
+
 #### [[Powerful tools make dangerous toys]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 How many times have been suggested a tool to use that will save so much time only for you to spend hours just trying to get it to do the most basic thing?
@@ -17,7 +18,8 @@ I have wasted so much time on a coding tasks because I either didn't comprehend 
 
 [[Obsidian (software)|Obsidian]] is one such tool, as it has a high learning curve, and can be very confusing for newcomers.
 
-#TO/TEND/DEOBFUSCATE  what this note is actually about
+#TO/TEND/DEOBFUSCATE what this note is actually about
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
@@ -25,5 +27,3 @@ I have wasted so much time on a coding tasks because I either didn't comprehend 
 
 **Topics**:: [[programming]], [[self-improvement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

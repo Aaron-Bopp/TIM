@@ -1,12 +1,13 @@
 ---
 created: 2021-06-13
 tags: node/evergreen
-sr-due: 2021-11-23
-sr-interval: 7
-sr-ease: 232
+sr-due: 2021-11-28
+sr-interval: 4
+sr-ease: 212
 ---
 
 #### [[Loving a a non-believer requires loving the fact that they are going to hell]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
 #TO/TEND/DEOBFUSCATE [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
 - [[Humans are primarily irrational, illogical, emotional beings#Humans are irrational]]

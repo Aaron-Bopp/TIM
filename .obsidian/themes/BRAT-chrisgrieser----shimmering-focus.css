@@ -1,6 +1,6 @@
 /* ──────────────────────────────────────────────────────
 SHIMMERING FOCUS
-Version 1.124
+Version 1.134
 https://github.com/chrisgrieser/shimmering-focus/
 Created by @pseudometa
 MIT License
@@ -554,6 +554,7 @@ body:not(.show-close-button) .modal-close-button:hover {
 .view-header-title {
 	line-height: 2;
 	font-size: 0.9em;
+	font-weight: 500;
 }
 
 body:not(.is-mobile) .view-header-icon {
@@ -1170,8 +1171,14 @@ a.tag:hover {
 	color: var(--finished-task);
 }
 
-.task-list-item-checkbox {
-	border-radius: 50px !important;
+.cm-s-obsidian span.cm-formatting-task.cm-property + span {
+	text-decoration: line-through;
+	color: var(--text-muted);
+}
+
+body > .app-container .contains-task-list li.task-list-item.is-checked {
+	font-weight: 500;
+	text-decoration: line-through;
 }
 
 /* https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/34 */
@@ -2506,8 +2513,9 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 .community-plugin-details-empty-state::after,
 .empty-state-title::after {
 	content: var(--signature);
-	font-size: 10rem;
+	font-size: 11rem;
 	color: var(--extra-contrast);
+	font-weight: 500;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -2578,16 +2586,6 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 .markdown-preview-view mark,
 .cm-s-obsidian span.cm-highlight {
 	background-color: var(--highlight-color);
-}
-
-.cm-formatting-highlight:first-of-type {
-	border-top-left-radius: calc(var(--block-roundness) * 0.66);
-	border-bottom-left-radius: calc(var(--block-roundness) * 0.66);
-}
-
-.cm-formatting-highlight:last-of-type {
-	border-top-right-radius: calc(var(--block-roundness) * 0.66);
-	border-bottom-right-radius: calc(var(--block-roundness) * 0.66);
 }
 
 /* color for selected text */
@@ -3679,7 +3677,7 @@ body:not(.left-aligned-embeds) .view-content .markdown-preview-view img {
 /* ─────────────────────────────────────────────────── */
 /* < Mermaid */
 /* ─────────────────────────────────────────────────── */
-/* https://forum.obsidian.md/t/ability-to-resize-and-align-mermaid-diagrams/7019/11?u=pseudometa*/
+/* https://forum.obsidian.md/t/ability-to-resize-and-align-mermaid-diagrams/7019/11?u=pseudometa */
 /* see also "Max View" */
 
 body:not(.left-aligned-embeds) div.mermaid {
@@ -4925,7 +4923,7 @@ settings:
 	 id: show-foldermarker
 	 title: Re-enable the Fold Markers
 	 type: class-toggle
-	 description: Folder markers are the "..."" next to a folded/collapsed item.
+	 description: Folder markers are the "..." next to a folded/collapsed item.
 	 default: false
   -
 	 id: font-settings

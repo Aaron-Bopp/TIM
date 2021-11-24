@@ -1,9 +1,9 @@
 ---
 created: 2021-06-15
 tags: node/evergreen
-sr-due: 2021-11-23
-sr-interval: 17
-sr-ease: 230
+sr-due: 2021-12-04
+sr-interval: 10
+sr-ease: 210
 ---
 
 #### [[Anxiety should be a tool at your disposal not an impedance to your life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

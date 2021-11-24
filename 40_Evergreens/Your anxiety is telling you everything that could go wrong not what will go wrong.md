@@ -1,8 +1,8 @@
 ---
 created: 2021-06-15
 tags: node/evergreen
-sr-due: 2021-11-23
-sr-interval: 1
+sr-due: 2021-11-27
+sr-interval: 3
 sr-ease: 180
 ---
 
@@ -14,15 +14,20 @@ sr-ease: 180
 
 If you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with the thing or not. [[Social anxiety isn't irrational it's just overcompensation]]
 
-Being able to do this requires a very healthy amount of [[mindfullness]], and a large amount of [[self]]-awareness. Once you've achieved these things you're [[anxiety]] can start to be an aspect of your [[mindfullness]] rather than an inhibitor. 
+Being able to do this requires a very healthy amount of [[mindfullness]], and a large amount of [[self]]-awareness. Once you've achieved these things your [[anxiety]] can start to be an aspect of your [[mindfullness]] rather than an inhibitor. 
 ^[[[Anxiety should be a tool at your disposal not an impedance to your life]]]
 [[Self-hatred is born out of dissonance between self-image and self-perception]]
 
-[[anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but our [[subconscious]]/[[subconscious]] does not know that. [[We value our biggest insecurities because they protect us from the biggest threats]]
+[[Anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but our [[subconscious]] does not know that. In turn, [[We value our biggest insecurities because they protect us from the biggest threats]]
 
-The reason this happens is rooted in [[Neuroscience]]. [[anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]]. As we satisfy more and more of the [[Hierachy of Needs]] our need for such an advanced warning system grows less and less.
+The reason this happens is rooted in [[Neuroscience]]. 
+^[[[Humans are a product of evolution]]]
+[[Anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]].
+As we satisfy more and more of the [[Hierachy of Needs]] our need for such an advanced warning system grows less and less.
 ^[[[Insecure material conditions increase cognitive load and reduce outcomes]]]
 In modern society, our [[anxiety]] can seem like a irrational response, but it is just our brain doing what is has evolved to do. #TO/EXPLORE/RESEARCH Is modern over compensation or just the next natural step in human [[Evolution]].
+
+#TO/EXPLORE/RESEARCH is there a threshold where so many of you [[Hierachy of Needs]] are met that you have no choice but to fall into [[existential dread]]
 
 #TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[OCD]]?
 
