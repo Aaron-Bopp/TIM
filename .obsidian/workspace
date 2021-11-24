@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test.md",
-            "mode": "preview"
+            "file": "40_Evergreens/Look for understanding before you look for solutions.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,26 @@
             {
               "leaf": "98d8e2602482152d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Look for understanding before you look for solutions.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mass media promotes the spread of innacurate information.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":23},\"to\":{\"line\":19,\"ch\":23}},\"scroll\":0.08333333333333333}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "98d8e2602482152d",
@@ -117,24 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Accepting responsibility is not only about your actions.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":0.34999998410542804}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Republicans have become a true opposition party.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":3}"
             }
           ]
         }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "40_Evergreens/Look for understanding before you look for solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "40_Evergreens/Look for understanding before you look for solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -303,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "40_Evergreens/Look for understanding before you look for solutions.md"
               }
             },
             "pane-relief:history-v1": {
@@ -356,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test.md",
+                "file": "40_Evergreens/Look for understanding before you look for solutions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -463,11 +463,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312,
-    "collapsed": true
+    "width": 710.2000122070312
   },
   "active": "98d8e2602482152d",
   "lastOpenFiles": [
+    "40_Evergreens/Look for understanding before you look for solutions.md",
+    "40_Evergreens/Mass media promotes the spread of innacurate information.md",
     "test.md",
     "20_Entry/24 Vault Stats/GALLERY.md",
     "30_Topics/35_Outlines/mental health.md",
@@ -475,8 +476,6 @@
     "40_Evergreens/How to pursue the positive things in life.md",
     "40_Evergreens/What is the difference between sympathy and empathy.md",
     "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md",
-    "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
-    "40_Evergreens/Your second brain should be an inspirational hub of creativity.md",
-    "40_Evergreens/How can parent's best help their children.md"
+    "40_Evergreens/Learning how systems work can be a gateway to creating thought.md"
   ]
 }
