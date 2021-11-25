@@ -8939,13 +8939,23 @@
       "size": 0,
       "tags": 2,
       "links": 25
+    },
+    "10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md": {
+      "size": 3378,
+      "tags": 1,
+      "links": 2
+    },
+    "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md": {
+      "size": 6557,
+      "tags": 0,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1414,
-      "Create": 1941,
-      "Link": 3200,
+      "Create": 1943,
+      "Link": 3203,
       "Expand": 96
     },
     "40 Evergreens": {
@@ -8971,7 +8981,7 @@
       "11": 28,
       "12": 336,
       "13": 59,
-      "14": 2215,
+      "14": 2220,
       "15": 109,
       "16": 868,
       "17": 1479,
@@ -9014,7 +9024,7 @@
       "Mon": 201,
       "Tue": 594,
       "Wed": 1257,
-      "Thu": 342,
+      "Thu": 347,
       "Fri": 69,
       "Sat": 0,
       "Sun": 4188
@@ -9085,6 +9095,8 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\"> tweets_A #Thread of Threads◙I... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as weeding for your digital garden.md\"> Use spaced repetition as weeding for your digital garden </a>",
         "<a class=\"internal-link\" href=\"Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
         "<a class=\"internal-link\" href=\"Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
@@ -9133,9 +9145,7 @@
         "<a class=\"internal-link\" href=\"HTML.md\"> HTML </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/TTRPG.md\"> TTRPG </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Breadcrumbs.md\"> Breadcrumbs </a>",
-        "<a class=\"internal-link\" href=\"Git.md\"> Git </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Python.md\"> Python </a>"
+        "<a class=\"internal-link\" href=\"Git.md\"> Git </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
@@ -9191,6 +9201,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Deconstruction (Christianity).md\"> Deconstruction (Christianity) </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
@@ -9240,8 +9251,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\"> Non-faith issues have been co-opted to keep people in the christian church </a>",
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
-        "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>"
+        "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9303,6 +9313,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\"> tweets_A #Thread of Threads◙I... </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point.md\"> Make your inbox into an entry point </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Creationism built an anti-science culture.md\"> Creationism built an anti-science culture </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>",
@@ -9351,9 +9363,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",

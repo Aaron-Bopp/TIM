@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2268485,
+  "lastSavedStatusID": 2275658,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -307,7 +307,9 @@
     "10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md": "11925060",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md": "11988415",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md": "11995326",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md": "12002982"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md": "12002982",
+    "10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md": "12032345",
+    "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md": "12032346"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",

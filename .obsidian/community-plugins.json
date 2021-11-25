@@ -73,5 +73,6 @@
   "workspaces-plus",
   "buttons",
   "obsidian-outliner",
-  "obsidian-codemirror-options"
+  "obsidian-codemirror-options",
+  "smart-random-note"
 ]

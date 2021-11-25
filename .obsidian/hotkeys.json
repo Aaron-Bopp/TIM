@@ -329,5 +329,14 @@
       ],
       "key": "E"
     }
+  ],
+  "smart-random-note:open-random-note-from-search": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }
