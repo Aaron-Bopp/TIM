@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#node",
+  "search": "/WATER",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.052709193975631556,
-  "close": true
+  "scale": 0.05735510168253863,
+  "close": false
 }

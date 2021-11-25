@@ -14,14 +14,17 @@ In my experience most people's [[worldview]]s are not inherently objectionable,
 it is their apathy towards [[injustice]], or misguided support of it that is objectionable.
 It's only when I find that their [[worldview]] is guiding them towards these things that I attack it:
 [[You will never be pushed to understand marginalization unless you are part of a marginalized group]].
+
 In general, people do not like to view themselves as the bad guy, so if I can put myself in their shoes I do not see them as the bad guy either.
 ^[[[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]]
+I understand why people have faith, because [[Faith can be a useful tool for grounding yourself]],
+but I know that [[Faith is an abstraction of cognitive dissonance]] so it can lead to harmful behaviors.
 This ability to empathize cannot get in the way of holding people accountable for beliefs
 that either directly or indirectly hurt others:
 [[Empathy does not dissallow judgment]]
 
 [[What is the difference between sympathy and empathy]]
-
+[[Is cognitive dissonance the reason for harmful behaviors]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

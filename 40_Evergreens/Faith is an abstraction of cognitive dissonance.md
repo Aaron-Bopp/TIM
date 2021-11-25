@@ -3,15 +3,19 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-24
-sr-interval: 2
-sr-ease: 208
+sr-due: 2021-11-25
+sr-interval: 1
+sr-ease: 188
 ---
 
 #### [[Faith is an abstraction of cognitive dissonance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Christian's use faith as a shield to protect themselves from the horrors of the real world, and of their own creation. You cannot fully [[blame]] them for this, as our brains are not really built to handle a world that is this painful or to think far enough ahead to understand the full extent of our actions. We are built to believe in something better: [[Humans are primarily irrational, illogical, emotional beings]]
+#TO/TEND/CONNECT [[Fear cannot be a deterant for deconstructing your faith#^5dc5d8]]
 
+Christian's use faith as a shield to protect themselves from the horrors of the real world, and of their own creation. 
+You cannot fully [[blame]] them for this, as our brains are not really built to handle a world that is this painful or to think far enough ahead to understand the full extent of our actions. We are built to believe in something better: [[Humans are primarily irrational, illogical, emotional beings]]
+
+- [[Faith can be a useful tool for grounding yourself]]
 - [[Our brain will do anything it can to protect itself]]
 - [[The brain is powerful enough to create supernatural experiences]]
 - [[Q justifies conservatives discontent]] new form of this

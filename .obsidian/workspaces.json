@@ -634,11 +634,8 @@
             "id": "98d8e2602482152d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
-                "mode": "source"
-              }
+              "type": "graph",
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -646,8 +643,74 @@
                 {
                   "leaf": "98d8e2602482152d",
                   "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Is cognitive dissonance the reason for harmful behaviors.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}},\"scroll\":2.5428570338657925}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":58},\"to\":{\"line\":26,\"ch\":58}},\"scroll\":9.772726810339726}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are a product of evolution.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0.2204724371902586}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":6.299212598425197}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":24.181818470810406}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Be the change you want to see in the world.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.3428570883614674}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":20.969695871526547}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":3.1181101160725273}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":327},\"to\":{\"line\":12,\"ch\":335}},\"scroll\":0.3333333333333333}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/My relationship with my parents.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "98d8e2602482152d",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":121},\"to\":{\"line\":16,\"ch\":121}},\"scroll\":0}"
                 },
                 {
                   "leaf": "98d8e2602482152d",
@@ -696,72 +759,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"preview\"}}",
                   "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/mental health.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":14.622222900390625}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":46},\"to\":{\"line\":17,\"ch\":46}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between sympathy and empathy.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}},\"scroll\":2}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":3}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":25},\"to\":{\"line\":24,\"ch\":25}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "98d8e2602482152d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How can parent's best help their children.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
                 }
               ]
             }
@@ -814,7 +811,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +843,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -929,9 +924,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md"
-                  }
+                  "state": {}
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -987,7 +980,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1094,7 +1086,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 710.2000122070312
+        "width": 710.2000122070312,
+        "collapsed": true
       },
       "active": "98d8e2602482152d"
     }

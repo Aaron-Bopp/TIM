@@ -58,7 +58,6 @@
   "sliding-panes-obsidian",
   "obsidian-languagetool-plugin",
   "rss-reader",
-  "supercharged-links-obsidian",
   "adjacency-matrix-maker",
   "obsidian-frontmatter-tag-suggest",
   "obsidian-tidy-footnotes",
@@ -73,5 +72,6 @@
   "txt-as-md-obsidian",
   "workspaces-plus",
   "buttons",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-codemirror-options"
 ]

@@ -3,9 +3,9 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-24
-sr-interval: 3
-sr-ease: 210
+sr-due: 2021-11-26
+sr-interval: 2
+sr-ease: 190
 ---
 
 #### [[Humans are a product of evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
