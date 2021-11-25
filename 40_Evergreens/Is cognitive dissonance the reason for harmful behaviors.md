@@ -3,9 +3,9 @@ created: 2021-11-24
 aliases:
   - null
 tags: node/evergreen, node/question 
-sr-due: 2021-11-25
+sr-due: 2021-11-26
 sr-interval: 1
-sr-ease: 227
+sr-ease: 207
 ---
 #### [[Is cognitive dissonance the reason for harmful behaviors]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

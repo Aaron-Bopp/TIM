@@ -4508,7 +4508,7 @@
     "40_Evergreens/Creationism built an anti-science culture.md": {
       "size": 393,
       "tags": 2,
-      "links": 9
+      "links": 10
     },
     "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md": {
       "size": 658,
@@ -4541,8 +4541,8 @@
       "links": 10
     },
     "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md": {
-      "size": 2339,
-      "tags": 3,
+      "size": 2750,
+      "tags": 4,
       "links": 22
     },
     "40_Evergreens/Feminism is the antithesis to patriarchy.md": {
@@ -4613,7 +4613,7 @@
     "40_Evergreens/Humans love to group eachother.md": {
       "size": 515,
       "tags": 2,
-      "links": 6
+      "links": 12
     },
     "40_Evergreens/Humans yearn for a tool with no blood on it.md": {
       "size": 885,
@@ -4663,7 +4663,7 @@
     "40_Evergreens/Make your inbox into an entry point.md": {
       "size": 1450,
       "tags": 2,
-      "links": 9
+      "links": 13
     },
     "40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md": {
       "size": 3582,
@@ -4778,7 +4778,7 @@
     "40_Evergreens/Religious concepts are often too powerful for a child's mind.md": {
       "size": 467,
       "tags": 2,
-      "links": 18
+      "links": 19
     },
     "40_Evergreens/Republican voters do not hold their leaders accountable.md": {
       "size": 1253,
@@ -4808,7 +4808,7 @@
     "40_Evergreens/Ronald Reagan invented modern conservatism.md": {
       "size": 2525,
       "tags": 2,
-      "links": 16
+      "links": 20
     },
     "40_Evergreens/Sadness is enlightenment and happiness is delusion.md": {
       "size": 2723,
@@ -6713,7 +6713,7 @@
     "40_Evergreens/Democracy is about an open forum of ideas.md": {
       "size": 529,
       "tags": 3,
-      "links": 3
+      "links": 7
     },
     "40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md": {
       "size": 0,
@@ -6748,7 +6748,7 @@
     "40_Evergreens/Faith is an abstraction of cognitive dissonance.md": {
       "size": 0,
       "tags": 3,
-      "links": 13
+      "links": 14
     },
     "30_Topics/32_Terms/REST (Representational State Transfer).md": {
       "size": 0,
@@ -8418,7 +8418,7 @@
     "40_Evergreens/What makes a note evergreen.md": {
       "size": 0,
       "tags": 4,
-      "links": 12
+      "links": 15
     },
     "40_Evergreens/We will evolve when we make learning as easy as thinking.md": {
       "size": 0,
@@ -8930,23 +8930,23 @@
       "tags": 3,
       "links": 2
     },
-    "Humans have decided to reject an unjust world.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 25
-    },
     "40_Evergreens/Use spaced repetition as weeding for your digital garden.md": {
       "size": 0,
       "tags": 2,
       "links": 5
+    },
+    "40_Evergreens/Humans have decided to reject an unjust world.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 25
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1413,
+      "Refactor": 1414,
       "Create": 1941,
-      "Link": 3190,
-      "Expand": 95
+      "Link": 3200,
+      "Expand": 96
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8966,12 +8966,12 @@
       "6": 0,
       "7": 0,
       "8": 8,
-      "9": 353,
+      "9": 364,
       "10": 51,
       "11": 28,
       "12": 336,
       "13": 59,
-      "14": 2214,
+      "14": 2215,
       "15": 109,
       "16": 868,
       "17": 1479,
@@ -9014,7 +9014,7 @@
       "Mon": 201,
       "Tue": 594,
       "Wed": 1257,
-      "Thu": 330,
+      "Thu": 342,
       "Fri": 69,
       "Sat": 0,
       "Sun": 4188
@@ -9032,6 +9032,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
@@ -9081,8 +9082,7 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
         "<a class=\"internal-link\" href=\"10 Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/QUICKNOTE.md\"> QUICKNOTE </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as weeding for your digital garden.md\"> Use spaced repetition as weeding for your digital garden </a>",
@@ -9138,6 +9138,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Python.md\"> Python </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
@@ -9187,10 +9188,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/transgender.md\"> transgender </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/game design.md\"> game design </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/gender.md\"> gender </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Deconstruction (Christianity).md\"> Deconstruction (Christianity) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Psychology.md\"> Psychology </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Deconstruction (Christianity).md\"> Deconstruction (Christianity) </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as weeding for your digital garden.md\"> Use spaced repetition as weeding for your digital garden </a>",
@@ -9240,8 +9241,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9303,6 +9303,15 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point.md\"> Make your inbox into an entry point </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Creationism built an anti-science culture.md\"> Creationism built an anti-science culture </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans love to group eachother.md\"> Humans love to group eachother </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans love to group eachother.md\"> Humans love to group eachother </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Ronald Reagan invented modern conservatism.md\"> Ronald Reagan invented modern conservatism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
@@ -9344,16 +9353,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md\"> tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️ </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\"> Faith can be a useful tool for grounding yourself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",

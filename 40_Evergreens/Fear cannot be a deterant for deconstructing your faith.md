@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-11-25
-sr-interval: 1
+sr-due: 2021-11-27
+sr-interval: 2
 sr-ease: 185
 ---
 
@@ -15,16 +15,19 @@ or the fear of [[judgement|judgment]],
 or the fear of "worldlyness"
 until you let go of 
 the baggage ^[[[Working through trauma can involve of a lot of letting go]]]
-and work past your fear ^[[[Fear is the number one hindrance to trying]]]
+and reconcile your fear ^[[[We carry our childhood wounds into adulthood]]]
 because: [[Sometimes we can't grow until we change our environment]] 
 
 For those who grew up in the Church or who rely on the church, fear is a very big obsticle to [[Deconstruction (Christianity)|deconstruction]] because [[Fear of hell is baked into Christianity for vulnerable believers]].
-This fear can be an [[existential dread]], or it can be a more material fear of losing people, support, or respect.
+This fear can be an [[existential dread]],
+^[[[Faith is an abstraction of cognitive dissonance]]] 
+or it can be a more material fear of losing people, support, or respect.
 ^[[[Insecure material conditions increase cognitive load and reduce outcomes]]]
 For many people, leaving the church require's leaving most of what they've known,
 ^[[[Working through trauma can involve of a lot of letting go]]]
 especially if they have highly religious [[parents]].
 ^[[[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]]
+#TO/TEND/WEED  footnotes don't make sense
 
 Some people can never truly reach objectivity with [[Christianity]] because they have had legitimate spiritual experiences or have experienced a personal relationship with god. Those experiences are very much real and are often the main reason people stay in the church: [[The brain is powerful enough to create supernatural experiences]]
 

@@ -3,8 +3,8 @@ created: 2021-11-15
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-11-25
-sr-interval: 4
+sr-due: 2021-12-03
+sr-interval: 8
 sr-ease: 199
 ---
 
@@ -18,6 +18,7 @@ sr-ease: 199
 - contrast
     - [[The fragility of nodes in a second brain]]
     -  [[When in doubt, write what you think]]
+- [[What is the difference between a evergreen note and a topic note]]
 
 ##### Thoughts as I process notes
 - [[Spaced repetition]]
@@ -25,7 +26,8 @@ sr-ease: 199
     - Have I remembered this note recently?
     - Have I been thinking about this note recently
     - Do I want to not see this note again
-    
+- [[Use spaced repetition as weeding for your digital garden]]
+- [[Use spaced repetition as a memory tool for your second brain]]
 - Status
     - note has topics > unplanted
         - note has body > seed/water

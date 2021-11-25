@@ -3,9 +3,9 @@ created: 2021-11-22
 aliases:
   - null
 tags: node/evergreen, node/question 
-sr-due: 2021-11-25
+sr-due: 2021-11-26
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[When should you forgive people who don't deserve it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

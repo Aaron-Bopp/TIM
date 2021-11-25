@@ -3,9 +3,9 @@ created: 2021-07-04
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-25
-sr-interval: 4
-sr-ease: 214
+sr-due: 2021-11-27
+sr-interval: 2
+sr-ease: 194
 ---
 
 #### [[You can't blame people for failing to rise above their circumstances]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

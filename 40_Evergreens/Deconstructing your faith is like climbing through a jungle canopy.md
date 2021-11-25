@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-11-25
-sr-interval: 4
+sr-due: 2021-12-06
+sr-interval: 11
 sr-ease: 219
 ---
 
@@ -12,9 +12,9 @@ sr-ease: 219
 
 Perhaps the reason that deconstruction feels this way is because,
 [[Working through trauma can involve of a lot of letting go]],
-or because [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]]
+or because [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]].
 
-Because Christianity is often taught from childhood, [^1] it can be very hard to comprehend a world without a plan, without a creator, and without purpose. Christianity answers [[The three main questions of life]], and losing those can feel like loosing your [[self]]. [[There aren't any downsides to working through trauma]], but that doesn't mean that we will not feel lost and confused. [[Human's have an inability to admit that they are wrong]], so deconstructing your faith is a direct attack on the [[subconscious|ego]]: [[Our ego is our subconscious defense of our self]]
+Because Christianity is often taught from childhood, [^1] it can be very hard to comprehend a world without a plan, without a creator, and without purpose. Christianity answers [[The three main questions of life]], and losing those can feel like loosing your [[self]]. [[There aren't any downsides to working through trauma]], but that doesn't mean that we will not feel lost and confused. [[Human's have an inability to admit that they are wrong]], so deconstructing your faith is a direct attack on the [[subconscious|ego]]: [[Faith is an abstraction of cognitive dissonance]]
 
 [^1]: [[Religious concepts are often too powerful for a child's mind]]
 

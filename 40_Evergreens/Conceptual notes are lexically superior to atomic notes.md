@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-25
-sr-interval: 9
+sr-due: 2021-12-11
+sr-interval: 16
 sr-ease: 172
 ---
 

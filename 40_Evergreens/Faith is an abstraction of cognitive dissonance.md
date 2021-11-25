@@ -18,6 +18,7 @@ You cannot fully [[blame]] them for this, as our brains are not really built to 
 
 - [[Faith can be a useful tool for grounding yourself]]
 - [[Our brain will do anything it can to protect itself]]
+- [[Our ego is our subconscious defense of our self]]
 - [[The brain is powerful enough to create supernatural experiences]]
 - [[Q justifies conservatives discontent]] new form of this
 - [[The Politicization of the Christian Church]]

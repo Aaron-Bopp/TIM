@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-25
-sr-interval: 6
+sr-due: 2021-12-10
+sr-interval: 15
 sr-ease: 210
 ---
 
@@ -16,6 +16,7 @@ sr-ease: 210
 - [[Single issue voters are anti-democratic]]
 - [[Republican voters do not hold their leaders accountable]]
 - [[Rise of Conspiracy Culture]]
+- [[Faith is an abstraction of cognitive dissonance]]
 
 ### <hr class="footnote"/>
 

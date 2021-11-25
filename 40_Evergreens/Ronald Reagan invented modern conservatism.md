@@ -3,8 +3,8 @@ created: 2021-07-30
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-25
-sr-interval: 13
+sr-due: 2021-12-29
+sr-interval: 34
 sr-ease: 264
 ---
 
@@ -20,7 +20,11 @@ Much of this belief is based on the incorrect assumption that [[Reagan]] said so
 
 He also used this moral superiority to justify [[government]] interference in woman's right to choose. ([[Ronald Reagan Evil Empire Speech]])
 
-[[Republican voters do not hold their leaders accountable]]
+- [[Wealth Inequality creates a need for change]]
+- [[Anti-government stances lead to economic crashes]]
+- [[Republican voters do not hold their leaders accountable]]
+- [[Single issue voters are anti-democratic]]
+- [[Rise of Modern Conservatism]]
 
  Modern republicans have followed this to a tee, but one way they have superseded him is that [[Republicans have become a true opposition party]].
 
