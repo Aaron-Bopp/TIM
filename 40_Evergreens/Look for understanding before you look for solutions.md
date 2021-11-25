@@ -3,20 +3,30 @@ created: 2021-07-02
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-23
-sr-interval: 24
-sr-ease: 270
+sr-due: 2021-12-08
+sr-interval: 14
+sr-ease: 250
 ---
 
 #### [[Look for understanding before you look for solutions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+%%
+This note is more about [[socialization|inter-personal communication]] and [[Searching for THE answer is dangerous]] is more about [[self-actualization]]
+%%
 
-Solutions oriented people are too often focused on making the problem go away rather than actually engaging with the material conditions of the situation and finding a solution that is sensible and effective. [[Worldviews are wrong if they make life seem easy and simple]]. 
-
-This is ironic because [[The materialistic view of religions examines why humans invented and clung to religion]] explains how [[religion]] is built off of our need to [[Human's will find explanations for inexplainable things|explain unexplainable things]]
+Solutions oriented people are too often focused on sharing rather than listening.
+Instead of actually engaging with the material conditions of the situation,
+and finding a commonground and productive solutions.
 
 When communicating with people you don't know (such as through the internet) [[empathy]] is the first and most important thing you should convey. If you do not show a willingness to understand somebody's opinion, they will not give you the time of day. Looking for understanding first will also lead to better outcomes when trying to convince someone of your solution 
 
-#TO/TEND/DEOBFUSCATE [[Searching for THE answer is dangerous]]
+What is the root of this trait?
+- [[Worldviews are wrong if they make life seem easy and simple]] 
+- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
+- [[Human's have an inability to admit that they are wrong]]
+
+This is ironic because [[The materialistic view of religions examines why humans invented and clung to religion]] explains how [[religion]] is built off of our need to [[Human's will find explanations for inexplainable things|explain unexplainable things]]
+
+ [[Searching for THE answer is dangerous]] is a manifestation of this trait on a [[self-actualization|personal]] level.
 
 - [ ] #TO/DO/FIND DrKs video on this 
 

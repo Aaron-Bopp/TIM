@@ -4648,7 +4648,7 @@
     "40_Evergreens/Look for understanding before you look for solutions.md": {
       "size": 1364,
       "tags": 3,
-      "links": 7
+      "links": 11
     },
     "40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md": {
       "size": 625,
@@ -4816,9 +4816,9 @@
       "links": 19
     },
     "40_Evergreens/Searching for THE answer is dangerous.md": {
-      "size": 856,
-      "tags": 2,
-      "links": 14
+      "size": 2005,
+      "tags": 3,
+      "links": 15
     },
     "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md": {
       "size": 2329,
@@ -8904,14 +8904,19 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "40_Evergreens/Children make wide assumptions about the world.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 12
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1405,
-      "Create": 1932,
-      "Link": 3144,
-      "Expand": 89
+      "Refactor": 1407,
+      "Create": 1933,
+      "Link": 3151,
+      "Expand": 90
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8938,13 +8943,13 @@
       "13": 59,
       "14": 2214,
       "15": 109,
-      "16": 858,
+      "16": 868,
       "17": 1479,
       "18": 181,
       "19": 87,
       "20": 119,
       "21": 144,
-      "22": 185,
+      "22": 186,
       "23": 181
     },
     "40 Evergreens": {
@@ -8978,7 +8983,7 @@
     "/": {
       "Mon": 201,
       "Tue": 594,
-      "Wed": 1219,
+      "Wed": 1230,
       "Thu": 299,
       "Fri": 69,
       "Sat": 0,
@@ -8997,6 +9002,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
@@ -9046,10 +9052,10 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There aren't any downsides to working through trauma.md\"> There aren't any downsides to working through trauma </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md\"> tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️ </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
@@ -9099,10 +9105,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit .md\"> What is language's fundamental unit  </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes an evergreen note.md\"> What makes an evergreen note </a>",
-        "<a class=\"internal-link\" href=\"We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
-        "<a class=\"internal-link\" href=\"Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>"
+        "<a class=\"internal-link\" href=\"We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear of hell is baked into Christianity for vulnerable believers.md\"> Fear of hell is baked into Christianity for vulnerable believers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
@@ -9152,10 +9158,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Deconstruction (Christianity).md\"> Deconstruction (Christianity) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Psychology.md\"> Psychology </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/self.md\"> self </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/enlightenment.md\"> enlightenment </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Behavioral Pyschology.md\"> Behavioral Pyschology </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/enlightenment.md\"> enlightenment </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
@@ -9204,9 +9211,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
         "<a class=\"internal-link\" href=\"Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\"> articles_Various ways to include comments on your static site </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9268,6 +9273,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/OCD.md\"> OCD </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
@@ -9313,12 +9323,7 @@
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The three main questions of life.md\"> The three main questions of life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your sexond brain.md\"> Use spaced repetition as a memory tool for your sexond brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\"> Deconstructing your faith can feel like constructing a puzzle that you haven't seen before </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
@@ -9374,6 +9379,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
@@ -9423,8 +9429,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/Totsi Essay.md\"> Totsi Essay </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md\"> 18 Androgenic Second Puberty 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Enneagram/articleHow The System Works — The Enneagram Institute.md\"> articleHow The System Works — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/History/discussionRed Summer of 1919.md\"> discussionRed Summer of 1919 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/History/discussionSecond Red Scare Discussion.md\"> discussionSecond Red Scare Discussion </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/History/discussionRed Summer of 1919.md\"> discussionRed Summer of 1919 </a>"
       ]
     },
     "40 Evergreens": {

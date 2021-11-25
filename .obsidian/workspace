@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Look for understanding before you look for solutions.md",
+            "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
             "mode": "source"
           }
         },
@@ -19,8 +19,38 @@
             {
               "leaf": "98d8e2602482152d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Look for understanding before you look for solutions.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":1.5483870868504237}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":37},\"to\":{\"line\":30,\"ch\":37}},\"scroll\":0.035714285334154064}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Searching for THE answer is dangerous.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":111},\"to\":{\"line\":17,\"ch\":111}},\"scroll\":0.017857142667077032}"
+            },
+            {
+              "leaf": "98d8e2602482152d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Look for understanding before you look for solutions.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":24},\"to\":{\"line\":14,\"ch\":24}},\"scroll\":1.5483870868504237}"
             },
             {
               "leaf": "98d8e2602482152d",
@@ -105,36 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How can parent's best help their children.md\",\"mode\":\"source\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":2.085714340209961}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sometimes we can't grow until we change our environment.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anti-government stances lead to economic crashes.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":124},\"to\":{\"line\":19,\"ch\":124}},\"scroll\":0}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Accepting responsibility is not only about your actions.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":0.34999998410542804}"
             }
           ]
         }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Look for understanding before you look for solutions.md",
+                "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Look for understanding before you look for solutions.md",
+                "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -303,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Look for understanding before you look for solutions.md"
+                "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md"
               }
             },
             "pane-relief:history-v1": {
@@ -341,6 +341,10 @@
             "state": {
               "type": "graph-analysis",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -356,7 +360,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Look for understanding before you look for solutions.md",
+                "file": "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -467,15 +471,15 @@
   },
   "active": "98d8e2602482152d",
   "lastOpenFiles": [
+    "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
+    "40_Evergreens/Faith can be a useful tool for grounding yourself.md",
     "40_Evergreens/Look for understanding before you look for solutions.md",
+    "40_Evergreens/How to pursue the positive things in life.md",
+    "40_Evergreens/Searching for THE answer is dangerous.md",
+    "40_Evergreens/Children make wide assumptions about the world.md",
     "40_Evergreens/Mass media promotes the spread of innacurate information.md",
     "test.md",
     "20_Entry/24 Vault Stats/GALLERY.md",
-    "30_Topics/35_Outlines/mental health.md",
-    "40_Evergreens/The brain is powerful enough to create supernatural experiences.md",
-    "40_Evergreens/How to pursue the positive things in life.md",
-    "40_Evergreens/What is the difference between sympathy and empathy.md",
-    "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md",
-    "40_Evergreens/Learning how systems work can be a gateway to creating thought.md"
+    "30_Topics/35_Outlines/mental health.md"
   ]
 }

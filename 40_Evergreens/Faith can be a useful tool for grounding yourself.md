@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-11-23
-sr-interval: 1
+sr-due: 2021-11-27
+sr-interval: 3
 sr-ease: 192
 ---
 
@@ -10,10 +10,10 @@ sr-ease: 192
 
 I think that [[religion]] can be a healthy way to avoid the uncertainty of not knowing the answer to [[The three main questions of life]] and can lead to a happy and fruitful life.
 
-[[Humans are primarily irrational, illogical, emotional beings]]
-[[Our brain will do anything it can to protect itself]]
-[[Faith is an abstraction of cognitive dissonance]]
-[[We are confined to the tools of our time]]
+- [[Humans are primarily irrational, illogical, emotional beings]]
+- [[Our brain will do anything it can to protect itself]]
+- [[Faith is an abstraction of cognitive dissonance]]
+- [[We are confined to the tools of our time]]
 
 ### <hr class="footnote"/>
 
