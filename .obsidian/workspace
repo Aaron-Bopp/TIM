@@ -4,134 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "98d8e2602482152d",
+        "id": "195d56dfae785579",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.872164696762242}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":9.593220080359506}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":2.1666666666666665}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our understanding of gender begins at a very early age.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":4.299999872843425}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Be the change you want to see in the world.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/What is my path to happiness.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/I have a stored up emotion of hating myself.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are support systems.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Is cognitive dissonance the reason for harmful behaviors.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}},\"scroll\":2.5428570338657925}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":65},\"to\":{\"line\":16,\"ch\":65}},\"scroll\":0.7466666539510091}"
             },
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":58},\"to\":{\"line\":26,\"ch\":58}},\"scroll\":9.772726810339726}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":64},\"to\":{\"line\":31,\"ch\":64}},\"scroll\":3.933333079020182}"
             },
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are a product of evolution.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.2204724371902586}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":6.299212598425197}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":24.181818470810406}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Be the change you want to see in the world.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.3428570883614674}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":20.969695871526547}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":3.1181101160725273}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":327},\"to\":{\"line\":12,\"ch\":335}},\"scroll\":0.3333333333333333}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/My relationship with my parents.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Do we have free will.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":121},\"to\":{\"line\":16,\"ch\":121}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
             },
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.026666667064030966}"
             },
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Look for understanding before you look for solutions.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":37},\"to\":{\"line\":30,\"ch\":37}},\"scroll\":0.035714285334154064}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
             },
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Wealth Inequality creates a need for change.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.09333333174387613}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":26},\"to\":{\"line\":18,\"ch\":26}},\"scroll\":6.099999745686849}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":62},\"to\":{\"line\":19,\"ch\":62}},\"scroll\":0.7333333333333333}"
+            },
+            {
+              "leaf": "195d56dfae785579",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Knowledge of the world is painful.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "98d8e2602482152d",
+              "leaf": "195d56dfae785579",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Searching for THE answer is dangerous.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":111},\"to\":{\"line\":17,\"ch\":111}},\"scroll\":0.017857142667077032}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Look for understanding before you look for solutions.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":24},\"to\":{\"line\":14,\"ch\":24}},\"scroll\":1.5483870868504237}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mass media promotes the spread of innacurate information.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":23},\"to\":{\"line\":19,\"ch\":23}},\"scroll\":0.08333333333333333}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "98d8e2602482152d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.47999998728434246}"
             }
           ]
         }
@@ -165,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "solution",
+                "query": "self-image and self-perception",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -184,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -216,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,7 +302,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -353,6 +360,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -459,20 +467,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312,
-    "collapsed": true
+    "width": 710.2000122070312
   },
-  "active": "98d8e2602482152d",
+  "active": "195d56dfae785579",
   "lastOpenFiles": [
-    "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
-    "Is cognitive dissonance the reason for harmful behaviors.md",
-    "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
-    "40_Evergreens/Humans are a product of evolution.md",
-    "30_Topics/31_Stubs/blame.md",
     "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
-    "40_Evergreens/Sadness is enlightenment and happiness is delusion.md",
-    "Be the change you want to see in the world.md",
-    "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
-    "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md"
+    "40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
+    "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+    "40_Evergreens/Our understanding of gender begins at a very early age.md",
+    "40_Evergreens/Be the change you want to see in the world.md",
+    "10_Sources/Personal/What is my path to happiness.md",
+    "10_Sources/Personal/I have a stored up emotion of hating myself.md",
+    "40_Evergreens/Communities are support systems.md",
+    "40_Evergreens/What is the difference between a evergreen note and a topic note.md",
+    "40_Evergreens/What is the difference between blame and judgement.md"
   ]
 }

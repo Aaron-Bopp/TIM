@@ -16,7 +16,7 @@ In order for me to feel like [[my parents]] [[love]] me, I need to see them empa
 
 This issue is not black and white, the [[love]] that [[my parents]] feel for me is real, but it is not as real, or as full as if I was a [[Christianity | Christian]]. They may never admit that their [[love]] is not real, but they admit that they do not [[love]] me as much as they would if I was a [[Christianity|Christian]]. I think that may be a thought that they have had. 
 
-[[The danger of religious beliefs in early childhood]]
+[[Religious concepts are often too powerful for a child's mind]]
 
 ### <hr class="footnote"/>
 **Status**:: #EVER/SPROUT 

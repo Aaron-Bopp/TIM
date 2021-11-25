@@ -2,8 +2,8 @@
 created: 2021-10-18
 aliases: null
 tags: node/evergreen, node/question
-sr-due: 2021-11-24
-sr-interval: 8
+sr-due: 2021-12-15
+sr-interval: 20
 sr-ease: 232
 ---
 #### [[Presentation is the realization of our self-perception and identity is the realization of our self-image]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

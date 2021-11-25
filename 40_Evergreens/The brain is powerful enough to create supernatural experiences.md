@@ -19,7 +19,7 @@ The driver behind this biological process could be a [[morality|moral]] reaction
 
 ##### Cause:: [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]]
 
-While supernatural experiences are rooted in our [[Psychology]], [[Christianity]] has commodified supernatural experiences for monetary gain. [[Capitalism]] has accelerated this and created modern [[Evangelicalism | charismatic church]] services which are the perfect environments for [[dissociation]] and [[panic attacks]]. It's all powered by [[guilt]], legitimate belief in a all-powerful god, and often emotional [[trauma]], and lots and lots of money. This is why charismatic church's are especially prone to [[religious trauma]]: [[The danger of religious beliefs in early childhood]] 
+While supernatural experiences are rooted in our [[Psychology]], [[Christianity]] has commodified supernatural experiences for monetary gain. [[Capitalism]] has accelerated this and created modern [[Evangelicalism | charismatic church]] services which are the perfect environments for [[dissociation]] and [[panic attacks]]. It's all powered by [[guilt]], legitimate belief in a all-powerful god, and often emotional [[trauma]], and lots and lots of money. This is why charismatic church's are especially prone to [[religious trauma]]: [[Religious concepts are often too powerful for a child's mind]] 
 
 Not every modern christian practice is bad. Prayer is basically [[meditation]] which has been shown to bring about supernatural experiences. This is one aspect of [[religion]] that has mostly positive impacts, but [[The church will fail if christians keep aligning themselves with hate instead of love]]
 

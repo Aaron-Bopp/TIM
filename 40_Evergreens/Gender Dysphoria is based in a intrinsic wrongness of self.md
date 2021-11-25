@@ -3,8 +3,8 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-25
-sr-interval: 9
+sr-due: 2021-12-10
+sr-interval: 15
 sr-ease: 192
 ---
 
@@ -25,7 +25,7 @@ This incongruity can create a frustration that is incredibly hard to root out an
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender dysphoria]], [[mental illness]], [[self]], [[transgender]]

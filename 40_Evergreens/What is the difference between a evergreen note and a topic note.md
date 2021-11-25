@@ -1,8 +1,8 @@
 ---
 created: 2021-05-22
 tags: node/evergreen, node/question
-sr-due: 2021-11-24
-sr-interval: 2
+sr-due: 2021-11-30
+sr-interval: 5
 sr-ease: 212
 ---
 
@@ -14,6 +14,7 @@ A [[topic note]] is a much broader concept that is made up of many smaller thoug
 
 - [[What makes a note evergreen]]
 - [[my TO(DO) and EVER(GREEN) structure]]
+- [[The fragility of nodes in a second brain#Node classifcation]]
 
 ### <hr class="footnote"/>
 

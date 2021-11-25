@@ -1,15 +1,25 @@
 ---
-created: 2021-08-14
+created: 2021-06-11
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-24
-sr-interval: 16
-sr-ease: 230
+sr-due: 2021-12-05
+sr-interval: 10
+sr-ease: 210
 ---
+
 #### [[Religious concepts are often too powerful for a child's mind]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/CREATE 
+Teaching children that their eternal fate is at stake is not healthy and leads to [[religious trauma]]: [[Fear of hell is baked into Christianity for vulnerable believers]]. It is instilled from a young age that you must submit yourself to this god in order to avoid hell. While religion teaches the feelings of an omnipotent god are more important than yours.
+[[Negative influences are stronger than positive influences]] and especially as children this will stick with us. 
+^[[[We carry our childhood wounds into adulthood]]]
+
+[[Parents need to model the ability to deal with emotion to their children]],
+but religious [[parents]] repeatedly teach their children that all of their problems can be solved in faith.
+Because Christians have always had such a simple and obvious choice to avoid this damnation, 
+^[[[Worldviews are wrong if they make life seem easy and simple]]]
+[[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
+
 - [[The brain is powerful enough to create supernatural experiences]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[We carry our childhood wounds into adulthood]]
@@ -20,8 +30,8 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GREEN/GRAFT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]]
+**Topics**:: [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]], [[childhood]], [[Behavioral Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -3,13 +3,12 @@ created: 2021-11-24
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-25
+sr-due: 2021-11-26
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
+
 #### [[Be the change you want to see in the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-
 
 ### <hr class="footnote"/>
 
@@ -18,4 +17,3 @@ sr-ease: 230
 
 **Topics**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

@@ -10,11 +10,11 @@ sr-ease: 170
 
 #### [[The actual work of being a good person isn't explored by Christianity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/BRIDGE this and [[The danger of religious beliefs in early childhood]]
+#TO/TEND/BRIDGE this and [[Religious concepts are often too powerful for a child's mind]]
 
 Have [[faith]] and you will be saved. Believe in the lord god and he will make your pain go away. All empty promises. [[Christianity]] hides the work and the struggle so that it can convert and control more people: [[Worldviews are wrong if they make life seem easy and simple]]
 
-[[Human's have an inability to admit that they are wrong]], and because [[Christianity]] is taught so early in childhood [^1] this is even more impactful: [[The danger of religious beliefs in early childhood]]
+[[Human's have an inability to admit that they are wrong]], and because [[Christianity]] is taught so early in childhood [^1] this is even more impactful: [[Religious concepts are often too powerful for a child's mind]]
 
 [^1]: [[We carry our childhood wounds into adulthood|childhood trauma causes us to make wide assumptions about the world]]
 

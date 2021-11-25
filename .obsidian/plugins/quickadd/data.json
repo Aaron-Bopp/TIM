@@ -111,7 +111,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "[^{{VALUE}}]: "
+        "format": "\n^[[[<%tp.file.cursor(0)%>]]]\n"
       },
       "insertAfter": {
         "enabled": false,

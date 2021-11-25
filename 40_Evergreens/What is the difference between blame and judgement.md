@@ -3,8 +3,8 @@ created: 2021-11-14
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-11-24
-sr-interval: 3
+sr-due: 2021-12-02
+sr-interval: 7
 sr-ease: 170
 ---
 
@@ -29,12 +29,15 @@ Judgement is also known as adjudication which means the evaluation of evidence t
 The term has at least five distinct uses.  Aristotle suggested we think of the opposite of different uses of a term, if one exists, to help determine if the uses are really different.  Some opposites will be included here to help demonstrate their uses are really distinct:
 
 - Informal – opinions expressed as facts.
+    - [[Human's have an inability to admit that they are wrong]]
 
 - Informal and psychological – used in reference to the quality of cognitive faculties and adjudicational capabilities of particular individuals, typically called wisdom or discernment.  The opposites are foolishness or indiscretion.
+    - [[Look for understanding before you look for solutions]]
 
 - Formal - the mental act of affirming or denying one thing of another through comparison.  Judgements are communicated to others using agreed-upon terms in the form of words or algebraic symbols as meanings to form propositions relating the terms, and whose further asserted meanings "of relation" are interpreted by those trying to understand the judgement.
 
 - Legal – used in the context of legal trial, to refer to a final finding, statement, or ruling, based on a considered weighing of evidence, called, "adjudication".  Opposites could be suspension or deferment of adjudication. See spelling note for further explanation.
+    - [[Transformative justice is the alternative to punitive justice]]
 
 - Religious – used in the concept of salvation to refer to the adjudication of God in determining Heaven or Hell for each and all human beings. God's assessment of a person's worth: a determination of "good" conveys great value while "evil" conveys worthlessness.  
     - [[The actual work of being a good person isn't explored by Christianity]]

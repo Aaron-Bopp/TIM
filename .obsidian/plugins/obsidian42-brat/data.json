@@ -7,6 +7,10 @@
   ],
   "themesList": [
     {
+      "repo": "ceciliamay/obsidianmd-theme-primary",
+      "lastUpdate": "2021-11-25T00:40:36Z"
+    },
+    {
       "repo": "Braweria/Spectrum",
       "lastUpdate": "2021-11-23T18:09:48Z"
     },
@@ -16,7 +20,7 @@
     },
     {
       "repo": "chrisgrieser/shimmering-focus",
-      "lastUpdate": "2021-11-24T12:36:02Z"
+      "lastUpdate": "2021-11-25T12:38:34Z"
     },
     {
       "repo": "SlRvb/Obsidian--ITS-Theme",

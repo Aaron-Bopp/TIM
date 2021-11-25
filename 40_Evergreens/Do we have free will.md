@@ -2,11 +2,12 @@
 created: 2021-11-06 
 aliases:
   - null
-tags: node/evergreen, node/question 
-sr-due: 2021-11-24
-sr-interval: 9
-sr-ease: 210
+tags: node/evergreen, node/question, 
+sr-due: 2021-12-01
+sr-interval: 6
+sr-ease: 190
 ---
+
 #### [[Do we have free will]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 I feel like we don't have free will to choose everything in our life. Our circumstances control 99% of our life, through limiting or opening up options, both internally and externally. But with even that 1% we can influence our life and set ourselves on the path to [[enlightenment]] or [[suffering]]: [[Bhuddism outlines a path and practice to end suffering, but does not promise it]]
@@ -25,5 +26,3 @@ Life is like sailing, you should have control of the rudder and the sail. Someti
 
 **Topics**:: [[self]], [[philosophy]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

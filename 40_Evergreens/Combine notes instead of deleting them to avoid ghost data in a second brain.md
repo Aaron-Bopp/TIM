@@ -3,8 +3,8 @@ created: 2021-11-21
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-24
-sr-interval: 2
+sr-due: 2021-12-01
+sr-interval: 6
 sr-ease: 213
 ---
 
@@ -16,7 +16,7 @@ The main benefit to combining over deleting is that any links to that note shoul
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[second brain]], [[My TIM]]

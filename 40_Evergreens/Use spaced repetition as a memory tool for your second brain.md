@@ -3,8 +3,8 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-24
-sr-interval: 2
+sr-due: 2021-11-29
+sr-interval: 4
 sr-ease: 179
 ---
 
@@ -19,7 +19,7 @@ This introduces [[friction]], which is in direct contradiction to the [[philosop
 [[Your second brain should be frictionless access to a curated base of knowledge]]
 
 [[Spaced repetition]] can help allieviate this friction
-
+- [[Use spaced repetition as weeding for your digital garden]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[The fragility of nodes in a second brain]]
 - [[Webs of thought are densely linked]]

@@ -2,20 +2,23 @@
 created: 2021-06-20
 tags: node/evergreen
 date modified: Monday, October 4th 2021, 1:21:57 am
-sr-due: 2021-11-24
-sr-interval: 3
-sr-ease: 183
+sr-due: 2021-11-27
+sr-interval: 2
+sr-ease: 163
 ---
 
 #### [[A secure identity is the best defense against social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
+
+If you are insecure in your [[self]], you may feel levels of [[social discomfort]] during [[socialization]]. Part of this is because any slight to you, any level of ineptitude, or feeling of disapproval has nothing to be repelled by.
 
 [[Our brains are built around survival]] and what will increase our fitness
  ^[[[Humans are a product of evolution]]]
 which sometimes means our [[socialization|social fitness]].
 If you are able to interact and win favor among other humans you are more likely to pass on your genes which thus increases your [[socialization|social fitness]].
-The way that this primal urge manifests in our complex understanding of emotion is in [[self-worth]] through our [[self-perception]]: [[Mental health is a reaction to one's environment]]
+The way that this primal urge manifests in our complex understanding of emotion is in [[self-worth]] through our [[self-perception]]: #TO/PONDER/SOCIETY 
 
- If you are insecure in your [[self]], you may feel levels of [[social discomfort]] during [[socialization]]. Part of this is because any slight to you, any level of ineptitude, or feeling of disapproval has nothing to be repelled by.
+[[Mental health is a reaction to one's environment]]
+
  
  [[A secure identity is the best defense against social anxiety]], but [[self]] is not always the thing being attacked: [[A repressed identity creates a mistrust of self-love and self-esteem]], [[Your anxiety knows your insecurities better than you do#Cause repressed identity]] #TO/TEND/DEOBFUSCATE 
 
@@ -30,4 +33,3 @@ The way that this primal urge manifests in our complex understanding of emotion 
 
 **Topics**:: [[self]], [[self-actualization]], [[social anxiety]], [[self-love]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

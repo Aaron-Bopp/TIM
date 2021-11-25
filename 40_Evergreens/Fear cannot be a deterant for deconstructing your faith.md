@@ -15,7 +15,7 @@ or the fear of [[judgement|judgment]],
 or the fear of "worldlyness"
 until you let go of 
 the baggage ^[[[Working through trauma can involve of a lot of letting go]]]
-and work past the fear ^[[[Fear is the number one hindrance to trying]]]
+and work past your fear ^[[[Fear is the number one hindrance to trying]]]
 because: [[Sometimes we can't grow until we change our environment]] 
 
 For those who grew up in the Church or who rely on the church, fear is a very big obsticle to [[Deconstruction (Christianity)|deconstruction]] because [[Fear of hell is baked into Christianity for vulnerable believers]].

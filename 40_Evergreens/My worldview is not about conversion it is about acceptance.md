@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen, node/personal 
-sr-due: 2021-11-24
-sr-interval: 2
+sr-due: 2021-11-30
+sr-interval: 5
 sr-ease: 204
 ---
 
@@ -18,8 +18,9 @@ It's only when I find that their [[worldview]] is guiding them towards these thi
 In general, people do not like to view themselves as the bad guy, so if I can put myself in their shoes I do not see them as the bad guy either.
 ^[[[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]]
 I understand why people have faith, because [[Faith can be a useful tool for grounding yourself]],
-but I know that [[Faith is an abstraction of cognitive dissonance]] so it can lead to harmful behaviors.
-This ability to empathize cannot get in the way of holding people accountable for beliefs
+but I know that because [[Faith is an abstraction of cognitive dissonance]] it can often mask harmful beliefs. Christian's will often be [[Searching for THE answer is dangerous| searching for THE answer]] to every question, because the church has led them to believe that is possible.
+^[[[The bible is god breathed]], [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]]
+My ability to empathize cannot get in the way of holding people accountable for beliefs
 that either directly or indirectly hurt others:
 [[Empathy does not dissallow judgment]]
 

@@ -16,7 +16,7 @@ or because [[Deconstructing your faith can feel like constructing a puzzle that 
 
 Because Christianity is often taught from childhood, [^1] it can be very hard to comprehend a world without a plan, without a creator, and without purpose. Christianity answers [[The three main questions of life]], and losing those can feel like loosing your [[self]]. [[There aren't any downsides to working through trauma]], but that doesn't mean that we will not feel lost and confused. [[Human's have an inability to admit that they are wrong]], so deconstructing your faith is a direct attack on the [[subconscious|ego]]: [[Our ego is our subconscious defense of our self]]
 
-[^1]: [[The danger of religious beliefs in early childhood]]
+[^1]: [[Religious concepts are often too powerful for a child's mind]]
 
 ### <hr class="footnote"/>
 
