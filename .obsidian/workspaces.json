@@ -681,7 +681,41 @@
                   "leaf": "7fd33d6677eb8f5e",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Autism.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.151514920321378}"
+                  "eState": "{\"scroll\":null}"
+                },
+                {
+                  "leaf": "7fd33d6677eb8f5e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":94.89393534804992}"
+                },
+                {
+                  "leaf": "7fd33d6677eb8f5e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Autism.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":null}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "f1ca02a93dea5403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "f1ca02a93dea5403",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":264.6926805449695}"
                 }
               ]
             }
@@ -734,7 +768,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "30_Topics/31_Stubs/Autism.md",
+                    "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -767,7 +801,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "30_Topics/31_Stubs/Autism.md",
+                    "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -851,7 +885,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "30_Topics/31_Stubs/Autism.md"
+                    "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -909,7 +943,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "30_Topics/31_Stubs/Autism.md",
+                    "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1018,7 +1052,7 @@
         "direction": "horizontal",
         "width": 710.2000122070312
       },
-      "active": "7fd33d6677eb8f5e"
+      "active": "f1ca02a93dea5403"
     }
   },
   "active": "16:9 NOW"
