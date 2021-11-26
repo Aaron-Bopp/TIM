@@ -1,10 +1,8 @@
 ---
 created: 2021-11-25
 aliases:
-  - "A #Thread of Threads:
-I..."
-  - "A #Thread of Threads:
-I... by @commaficionado on Twitter"
+  - "A #Thread of Threads: I..."
+  - "A #Thread of Threads: I... by @commaficionado on Twitter"
   - "@commaficionado on Twitter"
 tags: node/source/tweets
 type: 

@@ -631,46 +631,12 @@
         "type": "split",
         "children": [
           {
-            "id": "c30c2e5877af523e",
+            "id": "9c1c2bd88d2374d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
-                "mode": "preview"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "leaf": "c30c2e5877af523e",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Autism.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "c30c2e5877af523e",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":2.3999998910086497}"
-                },
-                {
-                  "leaf": "c30c2e5877af523e",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "7fd33d6677eb8f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_Topics/31_Stubs/Autism.md",
+                "file": "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md",
                 "mode": "source"
               }
             },
@@ -678,44 +644,22 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "7fd33d6677eb8f5e",
+                  "leaf": "9c1c2bd88d2374d6",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Autism.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":null}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":90,\"ch\":17},\"to\":{\"line\":90,\"ch\":17}},\"scroll\":82.145279636488}"
                 },
                 {
-                  "leaf": "7fd33d6677eb8f5e",
+                  "leaf": "9c1c2bd88d2374d6",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":94.89393534804992}"
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
                 },
                 {
-                  "leaf": "7fd33d6677eb8f5e",
+                  "leaf": "9c1c2bd88d2374d6",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Autism.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":null}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "f1ca02a93dea5403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
-                "mode": "preview"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "f1ca02a93dea5403",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":19.944444444444443}"
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             }
@@ -768,7 +712,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
+                    "file": "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -801,7 +745,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
+                    "file": "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -885,7 +829,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md"
+                    "file": "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -943,7 +887,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
+                    "file": "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1050,9 +994,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 710.2000122070312
+        "width": 710.2000122070312,
+        "collapsed": true
       },
-      "active": "c30c2e5877af523e"
+      "active": "9c1c2bd88d2374d6"
     }
   },
   "active": "16:9 NOW"
