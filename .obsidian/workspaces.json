@@ -637,7 +637,7 @@
               "type": "markdown",
               "state": {
                 "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
-                "mode": "source"
+                "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
@@ -652,7 +652,7 @@
                 {
                   "leaf": "c30c2e5877af523e",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\",\"mode\":\"preview\"}}",
                   "eState": "{\"scroll\":2.3999998910086497}"
                 },
                 {
@@ -715,7 +715,7 @@
                   "leaf": "f1ca02a93dea5403",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":264.6926805449695}"
+                  "eState": "{\"scroll\":19.944444444444443}"
                 }
               ]
             }
@@ -768,7 +768,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
+                    "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -801,7 +801,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
+                    "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -885,7 +885,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md"
+                    "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -943,7 +943,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
+                    "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1052,7 +1052,7 @@
         "direction": "horizontal",
         "width": 710.2000122070312
       },
-      "active": "f1ca02a93dea5403"
+      "active": "c30c2e5877af523e"
     }
   },
   "active": "16:9 NOW"
