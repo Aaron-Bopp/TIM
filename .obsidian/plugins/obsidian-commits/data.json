@@ -5421,7 +5421,7 @@
       "links": 15
     },
     "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md": {
-      "size": 37225,
+      "size": 19610,
       "tags": 1,
       "links": 36
     },
@@ -8954,13 +8954,18 @@
       "size": 5076,
       "tags": 1,
       "links": 4
+    },
+    "30_Topics/31_Stubs/Van Life.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1414,
-      "Create": 1944,
-      "Link": 3206,
+      "Refactor": 1416,
+      "Create": 1945,
+      "Link": 3207,
       "Expand": 96
     },
     "40 Evergreens": {
@@ -8995,7 +9000,7 @@
       "20": 119,
       "21": 144,
       "22": 208,
-      "23": 190
+      "23": 194
     },
     "40 Evergreens": {
       "0": 9,
@@ -9029,7 +9034,7 @@
       "Mon": 201,
       "Tue": 594,
       "Wed": 1257,
-      "Thu": 351,
+      "Thu": 355,
       "Fri": 69,
       "Sat": 0,
       "Sun": 4188
@@ -9100,6 +9105,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\"> Worksheet 3 </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Van Life.md\"> Van Life </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md\"> articles_Hydronic Heating Systems — Van Life Tech </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\"> tweets_A #Thread of Threads◙I... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
@@ -9149,10 +9155,10 @@
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DnD.md\"> DnD </a>",
         "<a class=\"internal-link\" href=\"HTML.md\"> HTML </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/TTRPG.md\"> TTRPG </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Breadcrumbs.md\"> Breadcrumbs </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/TTRPG.md\"> TTRPG </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Van Life.md\"> Van Life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
@@ -9202,10 +9208,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human survival.md\"> human survival </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/transgender.md\"> transgender </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/game design.md\"> game design </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/gender.md\"> gender </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Deconstruction (Christianity).md\"> Deconstruction (Christianity) </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/gender.md\"> gender </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Van Life.md\"> Van Life </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md\"> articles_Hydronic Heating Systems — Van Life Tech </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\"> tweets_A #Thread of Threads◙I... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
@@ -9255,14 +9261,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\"> Non-faith issues have been co-opted to keep people in the christian church </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\"> Non-faith issues have been co-opted to keep people in the christian church </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>",
         "<a class=\"internal-link\" href=\"_Welcome.md\"> _Welcome </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md\"> articleKarma and Reincarnation in Hinduism </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
