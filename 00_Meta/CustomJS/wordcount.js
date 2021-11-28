@@ -64,7 +64,8 @@ class word_count {
     function removeMarkdown(text) {
       let plaintext = text;
       // inline dataview fields
-      plaintext = plaintext.replace(/`\$?=[^`]*`/g, "");
+      plaintext = plaintext.replace(/`\$?=[^`]*`/g, "")
+      .replace(/\[\[[^\[]*\]\]/g, "");
       plaintext = plaintext.replace(/\*edited/g, "");
       plaintext = text
         .replace(/^---\n.*?\n---\n/s, "") //YAML Header

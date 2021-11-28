@@ -8128,7 +8128,7 @@
     "30_Topics/33_Tools/Spaced Repetition (plugin).md": {
       "size": 383,
       "tags": 1,
-      "links": 3
+      "links": 2
     },
     "40_Evergreens/Develop Obsidian plugins.md": {
       "size": 2626,
@@ -8351,9 +8351,9 @@
       "links": 3
     },
     "30_Topics/33_Tools/Obsidian (software).md": {
-      "size": 1893,
+      "size": 2220,
       "tags": 1,
-      "links": 16
+      "links": 17
     },
     "30_Topics/33_Tools/Dataview.md": {
       "size": 4505,
@@ -8841,9 +8841,9 @@
       "links": 0
     },
     "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md": {
-      "size": 0,
+      "size": 2110,
       "tags": 2,
-      "links": 14
+      "links": 16
     },
     "10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md": {
       "size": 0,
@@ -8925,11 +8925,6 @@
       "tags": 3,
       "links": 2
     },
-    "40_Evergreens/Use spaced repetition as weeding for your digital garden.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 5
-    },
     "40_Evergreens/Humans have decided to reject an unjust world.md": {
       "size": 0,
       "tags": 2,
@@ -8961,17 +8956,27 @@
       "links": 0
     },
     "50_Projects/Using spaced repetition for your conceptual notes.md": {
-      "size": 2021,
+      "size": 2811,
       "tags": 1,
-      "links": 10
+      "links": 13
+    },
+    "40_Evergreens/Use spaced repetition to weed your digital garden.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
+    },
+    "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1421,
-      "Create": 1946,
-      "Link": 3214,
-      "Expand": 100
+      "Refactor": 1424,
+      "Create": 1947,
+      "Link": 3222,
+      "Expand": 104
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8990,7 +8995,7 @@
       "5": 14,
       "6": 0,
       "7": 0,
-      "8": 8,
+      "8": 24,
       "9": 364,
       "10": 51,
       "11": 28,
@@ -9042,7 +9047,7 @@
       "Thu": 355,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4205
+      "Sun": 4221
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9057,6 +9062,10 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -9103,13 +9112,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Van Life.md\"> Van Life </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md\"> articles_Hydronic Heating Systems — Van Life Tech </a>",
@@ -9159,10 +9165,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/plaintext.md\"> plaintext </a>",
         "<a class=\"internal-link\" href=\"Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DnD.md\"> DnD </a>",
-        "<a class=\"internal-link\" href=\"HTML.md\"> HTML </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DnD.md\"> DnD </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/spaced repetition.md\"> spaced repetition </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your coneceptual notes.md\"> Using spaced repetition for your coneceptual notes </a>",
@@ -9212,10 +9218,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/my emotions.md\"> my emotions </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/mental illness.md\"> mental illness </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/DrK Interviews.md\"> DrK Interviews </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human survival.md\"> human survival </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/DrK Interviews.md\"> DrK Interviews </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your coneceptual notes.md\"> Using spaced repetition for your coneceptual notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Van Life.md\"> Van Life </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md\"> articles_Hydronic Heating Systems — Van Life Tech </a>",
@@ -9265,8 +9271,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9330,6 +9335,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
@@ -9373,14 +9385,7 @@
         "<a class=\"internal-link\" href=\"Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\"> In order to for my parents to love me, they need to admit they might be wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
-        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\"> In order to for my parents to love me, they need to admit they might be wrong </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
@@ -9436,6 +9441,8 @@
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Spaced Repetition (plugin).md\"> Spaced Repetition (plugin) </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
@@ -9484,9 +9491,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Research Paper Thoughts.md\"> Research Paper Thoughts </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE HEBREWS_Lecture Outline.md\"> THE HEBREWS_Lecture Outline </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE PERSIANS_Lecture Outline.md\"> THE PERSIANS_Lecture Outline </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/Totsi Essay.md\"> Totsi Essay </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md\"> 18 Androgenic Second Puberty 101 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Enneagram/articleHow The System Works — The Enneagram Institute.md\"> articleHow The System Works — The Enneagram Institute </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/Totsi Essay.md\"> Totsi Essay </a>"
       ]
     },
     "40 Evergreens": {

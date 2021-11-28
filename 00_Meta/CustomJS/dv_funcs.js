@@ -1,4 +1,15 @@
 class dv_funcs {
+    averageLinks(tag, dv) {
+        let pages = dv.pages(tag)
+        let totalOutlinks = pages.array().map(p => p.file.outlinks.length).reduce((p,n) => p+n)
+        let totalInlinks = pages.array().map(p => p.file.inlinks.length).reduce((p,n) => p+n)
+        let totalLinks = totalInlinks+totalOutlinks
+        let totalPages = pages.length
+        let average = totalLinks / totalPages
+        let averageIn = totalInlinks / totalPages
+        let averageOut = totalOutlinks / totalPages
+        return {totalInlinks, totalOutlinks, totalLinks, average, totalPages, averageIn, averageOut}
+    }
     formatDate(date) {
         var d = new Date(date),
             month = '' + (d.getMonth() + 1),

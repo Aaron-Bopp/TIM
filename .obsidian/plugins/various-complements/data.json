@@ -1,0 +1,14 @@
+{
+  "strategy": "default",
+  "maxNumberOfSuggestions": 5,
+  "minNumberOfCharactersTriggered": 0,
+  "delayMilliSeconds": 0,
+  "customDictionaryPaths": "",
+  "propagateEsc": true,
+  "enableCurrentFileComplement": true,
+  "enableCustomDictionaryComplement": false,
+  "enableInternalLinkComplement": true,
+  "disableSuggestionsDuringImeOn": false,
+  "showLogAboutPerformanceInConsole": false,
+  "insertAfterCompletion": true
+}

@@ -26,7 +26,7 @@ sr-ease: 199
     - Have I remembered this note recently?
     - Have I been thinking about this note recently
     - Do I want to not see this note again
-- [[Use spaced repetition as weeding for your digital garden]]
+- [[Use spaced repetition to weed your digital garden]]
 - [[Use spaced repetition as a memory tool for your second brain]]
 - Status
     - note has topics > unplanted

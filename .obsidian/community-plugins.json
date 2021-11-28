@@ -51,7 +51,6 @@
   "juggl",
   "obsidian-fullscreen-plugin",
   "obsidian-admonition",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-hider",
   "obsidian42-brat",
   "obsidian-extra-md-html-syntax",
@@ -73,6 +72,8 @@
   "workspaces-plus",
   "buttons",
   "obsidian-outliner",
+  "smart-random-note",
   "obsidian-codemirror-options",
-  "smart-random-note"
+  "cm-editor-syntax-highlight-obsidian",
+  "various-complements"
 ]

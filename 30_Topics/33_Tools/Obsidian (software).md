@@ -59,6 +59,8 @@ It also has a variety of plugins that help the workflow
 - [Andy's Sliding Panes](https://github.com/deathau/sliding-panes-obsidian)
 	- Named after the prolific [[Andy Matuschak]]
 - [[Dual (plugin)]]
+- [[Spaced Repetition (plugin)]]
+    - Help review flashcards and notes in Obsidian
 - [obsidian text expand](https://github.com/mrjackphil/obsidian-text-expand) 
 
 See:: [[Develop Obsidian plugins]]

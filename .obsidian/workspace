@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "73577d24ddcdc64c",
+        "id": "c2a97340b636b4be",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -14,19 +14,37 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "73577d24ddcdc64c",
+              "leaf": "c2a97340b636b4be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/evergreen notes.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "73577d24ddcdc64c",
+              "leaf": "c2a97340b636b4be",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":3.7777777777777777}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Average links per note type.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c2a97340b636b4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "c2a97340b636b4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/1968 was a major setback for the American left.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":7.628571646554129}"
+            },
+            {
+              "leaf": "c2a97340b636b4be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.13636262489089}"
             }
           ]
         }
@@ -60,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/source/tweets",
+                "query": "tag:#EVER/SEED/WATER",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -137,7 +155,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "84f4f33f118f4527",
@@ -350,17 +369,17 @@
     "width": 710.2000122070312,
     "collapsed": true
   },
-  "active": "73577d24ddcdc64c",
+  "active": "c2a97340b636b4be",
   "lastOpenFiles": [
     "50_Projects/Using spaced repetition for your conceptual notes.md",
-    "30_Topics/32_Terms/evergreen notes.md",
-    "40_Evergreens/What makes a note evergreen.md",
+    "20_Entry/24 Vault Stats/Average links per note type.md",
+    "20_Entry/24 Vault Stats/Word count Evergreens.md",
+    "40_Evergreens/1968 was a major setback for the American left.md",
     "30_Topics/33_Tools/Spaced Repetition (plugin).md",
-    "30_Topics/31_Stubs/spaced repetition.md",
-    "40_Evergreens/Use spaced repetition as weeding for your digital garden.md",
-    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
-    "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
-    "10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
-    "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md"
+    "30_Topics/33_Tools/Obsidian (software).md",
+    "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
+    "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md",
+    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
+    "30_Topics/32_Terms/evergreen notes.md"
   ]
 }
