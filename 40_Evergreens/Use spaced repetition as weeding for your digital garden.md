@@ -11,7 +11,7 @@ sr-ease: 224
 
 - [[Use spaced repetition as a memory tool for your second brain]]
 - [[Write your notes like you're planting an evergreen forest]]
-- [[Evergreen notes organize knowledge so that it can grow]] and [[Spaced repetition]] is like fertalizer
+- [[Evergreen notes organize knowledge so that it can grow]] and [[spaced repetition]] is like fertalizer
 
 
 ### <hr class="footnote"/>
@@ -19,7 +19,7 @@ sr-ease: 224
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Spaced repetition]]
+**Topics**:: [[spaced repetition]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

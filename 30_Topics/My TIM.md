@@ -36,7 +36,7 @@ Since March 2021 I have become very interested in the [[knowledge management]] c
 		- [[Prioritize organization over categorization to avoid wasted energy]]
 		- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 	- Augment your brain power
-		- [[Spaced repetition]]
+		- [[spaced repetition]]
 		- [[AI]]
 
 

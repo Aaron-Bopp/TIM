@@ -4,12 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "d6bb3448e83a411e",
+        "id": "d9c2d062c21b7f4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
+            "file": "40_Evergreens/What makes a note evergreen.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "d9c2d062c21b7f4e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":27},\"to\":{\"line\":45,\"ch\":27}},\"scroll\":35.03748125937032}"
+            },
+            {
+              "leaf": "d9c2d062c21b7f4e",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "7a7649a0441301a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/What makes a note evergreen.md",
             "mode": "preview"
           }
         },
@@ -17,52 +45,10 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "d6bb3448e83a411e",
+              "leaf": "7a7649a0441301a1",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0.9411764705882353}"
-            },
-            {
-              "leaf": "d6bb3448e83a411e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":1.5116279069767442}"
-            },
-            {
-              "leaf": "d6bb3448e83a411e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":13.1021273998504}"
-            },
-            {
-              "leaf": "d6bb3448e83a411e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":13.442552931765292}"
-            },
-            {
-              "leaf": "d6bb3448e83a411e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":37.86829208746189}"
-            },
-            {
-              "leaf": "d6bb3448e83a411e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/I relate to.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":2.546478916221941}"
-            },
-            {
-              "leaf": "d6bb3448e83a411e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d6bb3448e83a411e",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":35.62639821029083}"
             }
           ]
         }
@@ -115,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
+                "file": "40_Evergreens/What makes a note evergreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -148,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
+                "file": "40_Evergreens/What makes a note evergreen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,12 +159,12 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -231,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md"
+                "file": "40_Evergreens/What makes a note evergreen.md"
               }
             },
             "pane-relief:history-v1": {
@@ -252,18 +238,6 @@
             }
           },
           {
-            "id": "ad9b84ab7d18d6ee",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "78f6ffa29545d9b2",
             "type": "leaf",
             "state": {
@@ -273,21 +247,6 @@
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
-            }
-          },
-          {
-            "id": "eebabc578cecfd10",
-            "type": "leaf",
-            "state": {
-              "type": "search-ref",
-              "state": {
-                "query": "(file:(\"tweets_&Gt; Most People Suck At\\.\\.\\..md\") (/ \\^Highlights$/ OR /#\\^Highlights(\\]\\]|\\|.*\\]\\])/ OR /#+ Highlights$/ OR /\\[\\[#Highlights(\\]\\]|\\|.*\\]\\])/)) OR /\\[\\[tweets_&Gt; Most People Suck At\\.\\.\\.#\\^Highlights(\\]\\]|\\|.*\\]\\])/ OR /\\[\\[tweets_&Gt; Most People Suck At\\.\\.\\.#Highlights(\\]\\]|\\|.*\\]\\])/",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
             }
           }
         ],
@@ -304,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
+                "file": "40_Evergreens/What makes a note evergreen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -414,17 +373,17 @@
     "width": 710.2000122070312,
     "collapsed": true
   },
-  "active": "d6bb3448e83a411e",
+  "active": "d9c2d062c21b7f4e",
   "lastOpenFiles": [
+    "40_Evergreens/What makes a note evergreen.md",
+    "50_Projects/Using spaced repetition for your conceptual notes.md",
+    "30_Topics/31_Stubs/spaced repetition.md",
+    "40_Evergreens/Use spaced repetition as weeding for your digital garden.md",
+    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
     "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
     "10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
     "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
     "10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md",
-    "10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md",
-    "10_Sources/Personal/I relate to.md",
-    "10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md",
-    "30_Topics/31_Stubs/Van Life.md",
-    "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md",
-    "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md"
+    "10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md"
   ]
 }

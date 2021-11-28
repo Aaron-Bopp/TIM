@@ -24,7 +24,7 @@ Prerequisite knowledge you need, constantly shifting things in and out of your w
 Good systems for learning reduce this friction:
 - Libraries
 - [[Adderall]]
-- [[Spaced repetition]] ^[[[Use spaced repetition as a memory tool for your second brain]]]
+- [[spaced repetition]] ^[[[Use spaced repetition as a memory tool for your second brain]]]
 - Good teachers 
 - Good systems ^[[[Evergreen notes organize knowledge so that it can grow]]] 
 - Knowing your tools ^[[[Learning how systems work can be a gateway to creating thought]]]

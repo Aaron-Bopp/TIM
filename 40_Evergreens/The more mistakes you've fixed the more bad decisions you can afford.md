@@ -24,7 +24,7 @@ A bad decision for a beginner is one the will not teach them how to succeed or t
 
  ##### An experienced note taker know when to just delete a note.
 
- When I stared my [[second brain]], I made a lot of really specific [[evergreen notes]] and had no methodology for surfacing old notes except by stumbling upon them. They were linked into other notes, but there were so many new notes being created that many fell through the cracks, leading me to duplicate thoughts because I could not find the relevant note. When I started to use [[Spaced repetition]] for my notes, these "duplicate" notes started coming out through the woodwork and I had to spend time refactoring them and deciding how to incorporate these notes: [[Friction is the number one hindrance to learning]].
+ When I stared my [[second brain]], I made a lot of really specific [[evergreen notes]] and had no methodology for surfacing old notes except by stumbling upon them. They were linked into other notes, but there were so many new notes being created that many fell through the cracks, leading me to duplicate thoughts because I could not find the relevant note. When I started to use [[spaced repetition]] for my notes, these "duplicate" notes started coming out through the woodwork and I had to spend time refactoring them and deciding how to incorporate these notes: [[Friction is the number one hindrance to learning]].
  
  If you [[Write your notes like you're planting an evergreen forest]], you make it easy to delete notes. [[Combine notes instead of deleting them to avoid ghost data in a second brain]]
 

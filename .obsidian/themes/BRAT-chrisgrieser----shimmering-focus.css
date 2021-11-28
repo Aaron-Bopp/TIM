@@ -1,6 +1,6 @@
 /* ──────────────────────────────────────────────────────
 SHIMMERING FOCUS
-Version 1.152
+Version 1.159
 https://github.com/chrisgrieser/shimmering-focus/
 Created by @pseudometa
 MIT License
@@ -132,6 +132,7 @@ This ToC is auto-generated via the .generate-ToC.sh */
 /* ─────────────────────────────────────────────────── */
 
 :root {
+
 	--accent-lighter: hsl(243 66% 76%);
 	--accent-lightest: hsl(259 100% 80%);
 	--alt-accent: hsl(163 97% 34%);
@@ -153,7 +154,6 @@ This ToC is auto-generated via the .generate-ToC.sh */
 	--active-line: hsl(62 11% 63% / 12.5%);
 	--cursor-monocolor: var(--accent-lighter);
 
-	--block-roundness: 7px;
 	--resize-handle-thickness: 0.25em;
 	--scrollbar-thickness: 0.6em;
 	--image-size: 50%;
@@ -206,7 +206,7 @@ This ToC is auto-generated via the .generate-ToC.sh */
 	--a-row: rgb(0 0 0 / 20%);
 	--b-row: rgb(0 0 0 / 20%);
 	--nice-border: 2px solid hsl(0 0% 40%);
-	--backdrop-color: hsl(228 70% 7%);
+	--backdrop-color: hsl(228 30% 15%);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -274,25 +274,30 @@ This ToC is auto-generated via the .generate-ToC.sh */
 
 :root { /* stylelint-disable-line no-duplicate-selectors */
 	--default-font: "iA Writer Quattro V";
+
 	--font-monospace: "Input Mono";
 	--monospace-font-size: 0.9em;
-	--heading-font: "Optima", "Optima-local";
+
 	--longform-font: "Crimson Pro";
 	--longform-font-size: 1.2em;
 
 	--sidebar-font-family: "iA Writer Quattro V";
-	--sidebar-font-size: 0.9em;
+	--sidebar-font-size: 0.85em;
+
 	--menu-font-family: "iA Writer Quattro V";
 	--menu-font-size: 1em;
 
 	--smallcap-font: "AlegreyaSansSC";
+	--setting-heading: var(--smallcap-font);
 	--button-font: "Quicksand";
 
+	--heading-font: "Optima", "Optima-local";
 	--h1-size: 1.8em;
 	--h2-size: 1.6em;
 	--h3-size: 1.45em;
 	--h4-size: 1.3em;
 	--h5-size: 1.15em;
+
 	--mobile-font-size: 1.2rem;
 }
 
@@ -301,8 +306,6 @@ This ToC is auto-generated via the .generate-ToC.sh */
 }
 
 textarea,
-.search-input-container input,
-body > .app-container input,
 button,
 select.dropdown {
 	font-family: var(--button-font);
@@ -311,6 +314,21 @@ select.dropdown {
 	font-weight: 600;
 }
 
+input[type="email"],
+input[type="password"],
+input.prompt-input,
+.hotkey-search-container input,
+.setting-item input,
+.search-input-container input,
+body > .app-container input,
+.style-settings-container input {
+	font-family: var(--button-font);
+	font-size: 1em;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+
+/* Core Plugins */
 .workspace-leaf-content[data-type="search"] .tree-item-inner,
 .workspace-leaf-content[data-type="search"] .search-result-file-match,
 .workspace-leaf-content[data-type="outgoing-link"] .tree-item-self,
@@ -319,12 +337,8 @@ select.dropdown {
 .tag-container,
 .outline,
 .nav-folder-title,
-.nav-file-title {
-	font-size: var(--sidebar-font-size);
-	font-family: var(--sidebar-font-family);
-}
-
-/* Community Plugins in the Sidebar */
+.nav-file-title,
+/* Community Plugins */
 .BC-Matrix-square,
 .workspace-leaf-content[data-type="dangling-links"],
 .workspace-leaf-content[data-type="Saved Queries View"],
@@ -385,11 +399,7 @@ svg.BC-trail-icon {
 	background-color: currentColor;
 }
 
-/* ─────────────────────────────────────────────────── */
 /* < Bold */
-/* ─────────────────────────────────────────────────── */
-
-/* Colored Bold to increase distinguishability */
 .theme-dark .cm-strong,
 .theme-dark .markdown-preview-view strong {
 	color: var(--bold-in-darkmode);
@@ -398,15 +408,23 @@ svg.BC-trail-icon {
 .suggestion-highlight,
 .cm-strong,
 .markdown-preview-view strong,
-.nav-file-title.is-active,
-table:not(.dataview.table-view-table) th,
-.draft-container.svelte-1jmafs.selected,
-.draft-container.svelte-1jmafs.selected:hover,
-.scene-container.svelte-1wlkmbt.selected:hover,
-.scene-container.svelte-1wlkmbt.selected,
-.svelte-23avsr[name~="projects"] {
+.nav-file-title.is-active {
 	text-rendering: geometricPrecision;
 	font-weight: 700;
+}
+
+/* ─────────────────────────────────────────────────── */
+/* < Shapes */
+/* ─────────────────────────────────────────────────── */
+
+body:not(.angular-shapes) {
+	--block-roundness: 7px;
+	--round: 50px;
+}
+
+body.angular-shapes {
+	--block-roundness: 0;
+	--round: 0;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -423,13 +441,12 @@ body:not(.show-titlebar) .titlebar {
 }
 
 /* fix for macOS Traffic Lights */
-body:not(.show-titlebar) .workspace-split.mod-left-split .workspace-tabs:nth-child(3) {
+body.mod-macos:not(.show-titlebar) .workspace-split.mod-left-split .workspace-tabs:nth-child(3) {
 	padding-top: 16px;
 }
 
-/* thanks @javalent */
-body:not(.show-titlebar) .workspace-split.mod-left-split.is-collapsed ~ .mod-root .view-header {
-	padding-left: 3em;
+body.mod-macos:not(.show-titlebar) .workspace-split.mod-left-split.is-collapsed ~ .mod-root .view-header {
+	padding-left: 40px;
 }
 
 /* to display header bar properly on mobile */
@@ -447,10 +464,19 @@ body:not(.show-titlebar) .workspace-split.mod-right-split > .workspace-leaf-resi
 	top: 37.5px !important;
 }
 
+body.show-titlebar .workspace-split.mod-right-split > .workspace-leaf-resize-handle,
+body.show-titlebar .workspace-split.mod-left-split > .workspace-leaf-resize-handle {
+	top: 37.5px;
+}
+
+.titlebar {
+	border-bottom: var(--nice-border);
+}
+
 /* styling when shown */
 .titlebar-button {
 	opacity: 1;
-	color: var(--text-normal);
+	color: var(--extra-contrast);
 	border-radius: var(--block-roundness);
 }
 
@@ -479,6 +505,11 @@ body:not(.show-titlebar) .workspace-split.mod-right-split > .workspace-leaf-resi
 .theme-light .titlebar-text {
 	opacity: 1;
 	color: var(--extra-contrast);
+}
+
+/* no rounded corners on top */
+body > div.app-container > div.horizontal-main-container > div > div.workspace-split.mod-vertical.mod-root > div > .workspace-leaf-content {
+	border-radius: 0;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -515,7 +546,7 @@ body:not(.show-ribbons) .workspace-ribbon {
 
 .tooltip {
 	background-color: var(--tooltip-notification-bg) !important;
-	border: 2px ridge var(--tooltip-notification-border);
+	border: 1px solid var(--tooltip-notification-border);
 	color: var(--tooltip-notification-text);
 	border-radius: 15px;
 	word-wrap: break-word;
@@ -587,11 +618,6 @@ body:not(.show-ribbons) .workspace-ribbon {
 	display: none;
 }
 
-/* Hide instructions */
-.prompt-instructions {
-	display: none;
-}
-
 /* hide empty pane info */
 .empty-state-action {
 	display: none;
@@ -631,8 +657,16 @@ div.search-input-clear-button:hover::before,
 }
 
 .empty-state-close-button:hover {
-	color: var(--alt-accent);
+	color: var(--alt-accent-lighter);
 	background: var(--background-secondary-alt);
+}
+
+.modal-close-button {
+	top: 0;
+	right: 0;
+	padding: 2px 6px 6px;
+	border-bottom-left-radius: var(--block-roundness);
+	border-top-right-radius: calc(var(--block-roundness) * 2.5);
 }
 
 /* only show on hover */
@@ -691,15 +725,11 @@ body:not(.is-mobile) .view-header-title-container::after {
 	display: none;
 }
 
+body:not(.show-header-bar):not(.is-mobile) .view-header-title,
 body:not(.show-header-bar):not(.is-mobile) .view-header-icon,
 body:not(.show-header-bar):not(.is-mobile) .view-action svg {
 	opacity: 0;
 	color: var(--extra-contrast);
-}
-
-body:not(.show-header-bar):not(.is-mobile) .view-header-title {
-	opacity: 0;
-	color: var(--text-normal);
 }
 
 /* thanks to @só erick mesmo for ":focus-within" */
@@ -909,7 +939,7 @@ button {
 	padding-left: 12px !important;
 	padding-right: 12px !important;
 	border: 2px solid var(--button-border) !important;
-	border-radius: 50px;
+	border-radius: var(--round);
 }
 
 button:hover {
@@ -922,12 +952,12 @@ button:hover {
 /* < Toggles (Checkboxes) */
 /* ─────────────────────────────────────────────────── */
 
-.checkbox-container {
-	margin-left: 5px;
+:root { /* stylelint-disable-line no-duplicate-selectors */
+	--toggle-duration: 250ms;
 }
 
-:root { /* stylelint-disable-line no-duplicate-selectors */
-	--toggle-duration: 350ms;
+.checkbox-container {
+	margin-left: 5px;
 }
 
 body:not(.normal-checkboxes) .checkbox-container:hover {
@@ -943,8 +973,8 @@ body:not(.normal-checkboxes) .checkbox-container.is-enabled:hover {
 
 body:not(.normal-checkboxes) .checkbox-container {
 	cursor: pointer;
-	border-radius: 20px;
-	border: 2px solid var(--button-border);
+	border-radius: var(--round);
+	border: 2px solid var(--text-accent);
 	width: 22px;
 	height: 22px;
 	background-color: var(--background-secondary);
@@ -955,8 +985,14 @@ body:not(.normal-checkboxes) .checkbox-container::after {
 	display: none;
 }
 
-body:not(.normal-checkboxes) .checkbox-container.is-enabled {
+.theme-dark:not(.normal-checkboxes) .checkbox-container.is-enabled {
 	background-color: var(--interactive-accent);
+	border-color: var(--text-accent);
+}
+
+.theme-light:not(.normal-checkboxes) .checkbox-container.is-enabled {
+	background-color: var(--interactive-accent);
+	border-color: var(--accent-lighter);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -966,10 +1002,12 @@ body:not(.normal-checkboxes) .checkbox-container.is-enabled {
 /* ─────────────────────────────────────────────────── */
 
 .search-input-container input,
-input[type="text"] {
+input[type="text"],
+input[type="email"],
+input[type="password"] {
 	padding-right: 10px;
 	padding-left: 10px;
-	border-radius: 50px;
+	border-radius: var(--round);
 	left: 0;
 }
 
@@ -978,8 +1016,8 @@ input[type="text"] {
 }
 
 select.dropdown {
-	padding: 7px 28px 6px 10px;
-	border-radius: 50px;
+	padding: 5px 28px 6px 10px;
+	border-radius: var(--round);
 }
 
 select.dropdown:hover,
@@ -999,7 +1037,7 @@ input.slider {
 }
 
 /* ─────────────────────────────────────────────────── */
-/* < Code Blocks & inline Code */
+/* < Code Blocks & Inline Code */
 /* ─────────────────────────────────────────────────── */
 .cm-s-obsidian .HyperMD-codeblock,
 .markdown-preview-view code,
@@ -1014,16 +1052,15 @@ input.slider {
 	white-space: pre-wrap !important;
 }
 
-/* background color of code blocks */
-.theme-light .markdown-preview-view pre {
-	background-color: var(--background-secondary) !important;
-}
-
-/* rounder codeblock */
+/* Code blocks Preview Mode */
 .markdown-preview-view pre {
+	background-color: var(--background-secondary) !important;
 	border-radius: calc(var(--block-roundness) * 2) !important;
+	padding-top: 10px !important;
+	padding-bottom: 12px !important;
 }
 
+/* code blocks Edit Mode */
 body > .app-container .HyperMD-codeblock-begin-bg {
 	border-top-left-radius: calc(var(--block-roundness) * 2);
 	border-top-right-radius: calc(var(--block-roundness) * 2);
@@ -1077,6 +1114,7 @@ pre[class~="language-cpp"]::after { content: "C++"; }
 pre[class~="language-java"]::after { content: "JAVA"; }
 pre[class~="language-html"]::after { content: "HTML"; }
 pre[class~="language-txt"]::after { content: "text"; }
+pre[class~="language-text"]::after { content: "text"; }
 pre[class~="language-url"]::after { content: "url"; }
 pre[class~="language-uri"]::after { content: "uri"; }
 
@@ -1263,10 +1301,6 @@ a.tag:hover {
 /* < to dos (tasks) */
 /* ─────────────────────────────────────────────────── */
 
-/* unfinished
-.cm-s-obsidian span.cm-formatting-task {}
-*/
-
 /* finished */
 .cm-s-obsidian span.cm-formatting-task.cm-property {
 	color: var(--finished-task);
@@ -1274,7 +1308,7 @@ a.tag:hover {
 
 .cm-s-obsidian span.cm-formatting-task.cm-property + span {
 	text-decoration: line-through;
-	color: var(--text-muted);
+	color: var(--extra-contrast);
 }
 
 body > .app-container .contains-task-list li.task-list-item.is-checked {
@@ -1283,8 +1317,8 @@ body > .app-container .contains-task-list li.task-list-item.is-checked {
 }
 
 /* https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/34 */
-input[type="checkbox"] {
-	-webkit-appearance: none; /* stylelint-disable-line property-no-vendor-prefix */
+body:not(.angular-shapes) input[type="checkbox"] {
+	-webkit-appearance: none;
 	appearance: none;
 	border: 2px solid var(--text-muted);
 	padding: 1px;
@@ -1293,7 +1327,7 @@ input[type="checkbox"] {
 	filter: unset !important; /* removes hue filter */
 }
 
-input[type="checkbox"]:checked {
+body:not(.angular-shapes) input[type="checkbox"]:checked {
 	background-color: var(--finished-task);
 	border-width: 0;
 	background-position: center;
@@ -1302,18 +1336,18 @@ input[type="checkbox"]:checked {
 	background-image: url('data:image/svg+xml; utf8, <svg width="12px" height="10" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-4.000000, -6.000000)" fill="%23ffffff"><path d="M8.1043257,14.0367999 L4.52468714,10.5420499 C4.32525014,10.3497722 4.32525014,10.0368095 4.52468714,9.8424863 L5.24777413,9.1439454 C5.44721114,8.95166768 5.77142411,8.95166768 5.97086112,9.1439454 L8.46638057,11.5903727 L14.0291389,6.1442083 C14.2285759,5.95193057 14.5527889,5.95193057 14.7522259,6.1442083 L15.4753129,6.84377194 C15.6747499,7.03604967 15.6747499,7.35003511 15.4753129,7.54129009 L8.82741268,14.0367999 C8.62797568,14.2290777 8.3037627,14.2290777 8.1043257,14.0367999"></path></g></g></svg>');
 }
 
-input[type="checkbox"]:hover {
+body:not(.angular-shapes) input[type="checkbox"]:hover {
 	border-color: var(--alt-accent);
 }
 
-input[type="checkbox"]:checked:hover {
+body:not(.angular-shapes) input[type="checkbox"]:checked:hover {
 	background-color: var(--alt-accent-lighter);
 }
 
 /* ─────────────────────────────────────────────────── */
-/* < Modal & Prompt Boxes */
+/* < Modal Boxes */
 /* ─────────────────────────────────────────────────── */
-/* (modal also applies to settings/plugin browser) */
+/* (modals partially also applies to settings/plugin browser) */
 
 .modal-content h1 {
 	font-size: var(--h1-size);
@@ -1359,12 +1393,7 @@ input[type="checkbox"]:checked:hover {
 .modal-bg {
 	backdrop-filter: blur(3px);
 	background-color: var(--backdrop-color);
-	opacity: 0.9;
-}
-
-.prompt {
-	border-radius: calc(var(--block-roundness) * 2);
-	border: 5px solid var(--background-secondary);
+	opacity: 0.85;
 }
 
 .modal.mod-community-theme,
@@ -1375,14 +1404,6 @@ input[type="checkbox"]:checked:hover {
 	width: 93%;
 	border: 3px solid var(--background-modifier-border);
 	border-radius: calc(var(--block-roundness) * 3);
-}
-
-.modal-close-button {
-	top: 0;
-	right: 0;
-	padding: 0 4px 4px;
-	border-bottom-left-radius: var(--block-roundness);
-	border-top-right-radius: var(--block-roundness);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -1463,8 +1484,27 @@ input[type="checkbox"]:checked:hover {
 }
 
 /* ─────────────────────────────────────────────────── */
-/* < Command Palette & QuickSwitcher */
+/* < Command Palette */
+/* < QuickSwitcher */
+/* < Prompt */
 /* ─────────────────────────────────────────────────── */
+
+.prompt {
+	border-radius: calc(var(--block-roundness) * 2);
+	border: 5px solid var(--background-secondary);
+}
+
+input.prompt-input {
+	width: unset;
+	margin: 5px 2px 8px;
+	padding-top: 7px;
+	border-radius: calc(var(--block-roundness) * 1.5);
+}
+
+div.prompt-results {
+	padding-top: 0;
+	border-radius: var(--block-roundness);
+}
 
 div.prompt {
 	padding: 3px;
@@ -1494,6 +1534,11 @@ body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-hotk
 	background-color: var(--background-primary);
 }
 
+/* Hide instructions */
+.prompt-instructions {
+	display: none;
+}
+
 /* the pin */
 .suggestion-item .suggestion-flair {
 	left: 5px;
@@ -1503,13 +1548,9 @@ body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-hotk
 /* color selected / hovered */
 .suggestion-item.is-selected,
 .suggestion-item:hover,
-body:not(.no-alternating-rows) .suggestion-item:nth-child(even):hover {
+body:not(.no-alternating-rows) .suggestion-item:nth-child(even):hover,
+body:not(.no-alternating-rows) .suggestion-item.is-selected:nth-child(even) {
 	background-color: var(--background-secondary-alt);
-}
-
-.suggestion-item.is-selected .suggestion-hotkey,
-.suggestion-item:hover .suggestion-hotkey {
-	background-color: var(--background-primary-alt);
 }
 
 .suggestion-item.is-selected .suggestion-prefix,
@@ -1534,6 +1575,11 @@ body:not(.no-alternating-rows) .suggestion-item:nth-child(even):hover {
 .suggestion-item.is-selected .suggestion-prefix,
 .suggestion-item:hover .suggestion-prefix {
 	opacity: 0.6;
+}
+
+.suggestion-item.is-selected .suggestion-hotkey,
+.suggestion-item:hover .suggestion-hotkey {
+	background-color: var(--background-primary-alt);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -1579,7 +1625,7 @@ body.block-cursor .CodeMirror-cursor {
 
 .workspace-tab-header {
 	margin-right: 4px;
-	border: 1px solid var(--background-modifier-border);
+	border: 1.5px solid var(--background-modifier-border);
 	border-radius: var(--block-roundness);
 }
 
@@ -1589,7 +1635,7 @@ body.block-cursor .CodeMirror-cursor {
 }
 
 .workspace-tab-header.is-active svg {
-	color: var(--text-normal);
+	color: var(--extra-contrast);
 }
 
 .workspace-tab-header svg {
@@ -1597,7 +1643,7 @@ body.block-cursor .CodeMirror-cursor {
 }
 
 .workspace-tab-header-inner {
-	padding: 3px 6px 1px;
+	padding: 2px 6px 1px;
 	border-radius: var(--block-roundness);
 }
 
@@ -2233,7 +2279,7 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 }
 
 /* ─────────────────────────────────────────────────── */
-/* < Settings menu */
+/* < Settings Menu */
 /* ─────────────────────────────────────────────────── */
 
 .modal.mod-settings .modal-content {
@@ -2249,17 +2295,21 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 	margin-right: 0;
 }
 
+.modal.mod-settings h2 {
+	font-family: var(--setting-heading);
+	font-size: 2em;
+}
+
 .setting-item.setting-item-heading {
-	margin-top: 20px;
+	margin-top: 12px;
 	margin-bottom: 5px;
 	padding-bottom: 0;
 	border-bottom: 2px solid var(--hr-line);
-	font-family: var(--smallcap-font);
+	font-family: var(--setting-heading);
 	font-size: 1.2em;
 	font-weight: 600;
 }
 
-/* line under heading */
 .modal.mod-settings .vertical-tab-content-container {
 	margin-top: 0;
 	padding: 0;
@@ -2319,22 +2369,23 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 	letter-spacing: 1px;
 	padding: 4px 3px 1px;
 	margin-top: 0;
-	font-family: var(--smallcap-font);
+	font-family: var(--setting-heading);
 	font-weight: 600;
 	text-transform: capitalize;
 	text-align: end;
+	border-bottom: 2px solid var(--background-modifier-border);
 }
 
 .vertical-tab-header-group:nth-child(2) .vertical-tab-header-group-title {
-	padding-top: 10px;
+	border-top: 2px solid var(--background-modifier-border);
 }
 
 .vertical-tab-header-group {
 	padding-top: 0;
 	padding-bottom: 0;
 	margin-top: 0;
-	background-color: var(--background-secondary-alt);
-	margin-bottom: 10px;
+	background-color: var(--background-primary-alt);
+	margin-bottom: 15px;
 }
 
 .vertical-tab-nav-item {
@@ -2346,7 +2397,7 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 /* color active/hovered submenu */
 .vertical-tab-nav-item.is-active {
 	color: var(--text-accent);
-	background: var(--background-primary);
+	background: var(--background-secondary-alt);
 }
 
 .vertical-tab-nav-item:active {
@@ -2370,7 +2421,7 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 	padding: 4px;
 	margin-right: 0;
 	margin-left: 3px;
-	border-radius: 6px;
+	border-radius: var(--block-roundness);
 }
 
 .mobile-option-setting-item > span:hover > svg,
@@ -2400,7 +2451,6 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 	color: var(--bold-in-darkmode);
 }
 
-/* stylelint-disable max-line-length */
 .theme-dark .vertical-tab-header-group:first-child .vertical-tab-header-group-items .vertical-tab-nav-item:nth-child(3).is-active:hover,
 .theme-dark .vertical-tab-header-group:first-child .vertical-tab-header-group-items .vertical-tab-nav-item:nth-child(4).is-active:hover,
 .theme-dark .vertical-tab-header-group:first-child .vertical-tab-header-group-items .vertical-tab-nav-item.is-active:hover,
@@ -2415,7 +2465,13 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 .theme-dark .vertical-tab-header-group:first-child .vertical-tab-header-group-items .vertical-tab-nav-item.is-active {
 	color: var(--text-accent);
 }
-/* stylelint-enable max-line-length */
+
+/* login menu  */
+p.u-center-text {
+	margin-top: 40px;
+	padding-top: 40px;
+	border-top: var(--nice-border);
+}
 
 /* ─────────────────────────────────────────────────── */
 /* < Community Plugin Browser */
@@ -2700,7 +2756,7 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 
 .modal.mod-community-theme > .modal-content > .modal-title {
 	margin-bottom: 10px;
-	font-family: var(--smallcap-font);
+	font-family: var(--setting-heading);
 	font-weight: 600;
 	color: var(--extra-contrast);
 }
@@ -2712,7 +2768,7 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 }
 
 .community-theme-remove-button svg {
-	color: var(--text-normal) !important;
+	color: var(--text-muted) !important;
 }
 
 .community-theme-remove-button:hover svg {
@@ -2726,7 +2782,7 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 
 .community-theme.is-selected button:first-child:hover {
 	background-color: var(--background-secondary-alt) !important;
-	cursor: default;
+	cursor: not-allowed;
 	color: var(--text-faint) !important;
 	border-color: var(--button-border) !important;
 }
@@ -2855,22 +2911,34 @@ em > del:hover,
 }
 
 /* ─────────────────────────────────────────────────── */
-/* < YAML header & Metadata Block */
+/* < YAML Header */
+/* < YAML Frontmatter */
+/* < Metadata Block */
 /* ─────────────────────────────────────────────────── */
 /* YAML-Header in Edit Mode */
-span.cm-hmd-frontmatter {
-	color: var(--text-muted) !important;
+body > .app-container .cm-s-obsidian .cm-hmd-frontmatter.cm-atom,
+body > .app-container .cm-s-obsidian .cm-hmd-frontmatter.cm-meta,
+body > .app-container .cm-s-obsidian .cm-hmd-frontmatter {
+	color: var(--text-muted);
 	font-size: 0.9em;
 }
 
 /* harmonize with styling of Horizontal Lines (HR) */
-.cm-def.cm-hmd-frontmatter {
+body > .app-container .cm-s-obsidian .cm-def.cm-hmd-frontmatter {
 	letter-spacing: 0.2em;
-	color: var(--text-muted) !important;
+	color: var(--text-muted);
 }
 
 .cm-atom.cm-hmd-frontmatter {
 	font-weight: 600;
+}
+
+body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-atom {
+	color: var(--text-accent);
+}
+
+body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter {
+	color: var(--alt-accent);
 }
 
 /* YAML-Header in Preview Mode */
@@ -2989,8 +3057,7 @@ body:not(.show-collapse-buttons) .CodeMirror-foldgutter-open.CodeMirror-gutterma
 }
 
 /* hover over line shows fold icon */
-body:not(.show-collapse-buttons) .CodeMirror-code
-> div:hover .CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::after { /* stylelint-disable-line selector-combinator-space-before, max-line-length */
+body:not(.show-collapse-buttons) .CodeMirror-code > div:hover .CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::after {
 	opacity: 1;
 }
 
@@ -3040,7 +3107,7 @@ body:not(.max-view-off) .workspace-split.mod-left-split.is-collapsed ~ .mod-root
 }
 
 /* < Images */
-body:not(.max-view-off) .workspace-split.mod-left-split.is-collapsed ~ .mod-root .view-content .markdown-preview-view img { /* stylelint-disable-line max-line-length */
+body:not(.max-view-off) .workspace-split.mod-left-split.is-collapsed ~ .mod-root .view-content .markdown-preview-view img {
 	max-width: 100%;
 }
 
@@ -3054,13 +3121,11 @@ body:not(.is-mobile) > .app-container div.oz-image-widget > img:not(:active) {
 }
 
 /* < PDFs */
-/* stylelint-disable max-line-length */
 body:not(.max-view-off):not(.is-mobile) .workspace-split.mod-left-split.is-collapsed ~ .mod-root .view-content .markdown-preview-view .pdf-embed,
 body:not(.max-view-off):not(.is-mobile) .workspace-split.mod-left-split.is-collapsed ~ .mod-root div.oz-image-widget embed {
 	max-width: 100%;
 	max-height: 100%;
 }
-/* stylelint-enable max-line-length */
 
 body:not(.is-mobile) .pdf-embed,
 body:not(.is-mobile) > .app-container div.oz-image-widget embed {
@@ -3150,6 +3215,7 @@ body > .app-container .markdown-preview-view div hr {
 /* ─────────────────────────────────────────────────── */
 /* add some more table styling, e.g. from
 https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-your-notes/17084 */
+
 /* see also section "Max View" */
 
 .markdown-preview-view table:not(.dataview.table-view-table) {
@@ -3160,6 +3226,11 @@ https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-y
 :root body {
 	--table-border: var(--nice-border);
 	--table-roundness: var(--block-roundness);
+}
+
+table:not(.dataview.table-view-table) th {
+	text-rendering: geometricPrecision;
+	font-weight: 700;
 }
 
 /* rounded corners */
@@ -4294,6 +4365,15 @@ a.tag.kanban-plugin__item-tag {
 	padding: 15px 5px;
 }
 
+.draft-container.svelte-1jmafs.selected,
+.draft-container.svelte-1jmafs.selected:hover,
+.scene-container.svelte-1wlkmbt.selected:hover,
+.scene-container.svelte-1wlkmbt.selected,
+.svelte-23avsr[name~="projects"] {
+	text-rendering: geometricPrecision;
+	font-weight: 700;
+}
+
 /* hide folder path */
 .current-draft-path.svelte-23avsr {
 	display: none;
@@ -4863,7 +4943,11 @@ body > .app-container .BC-Link.is-unresolved {
 
 /* Breadcrumb Trail */
 .trails-div {
-	padding-bottom: 6px;
+	padding-bottom: 2px;
+}
+
+body > .app-container div.BC-trail {
+	padding-bottom: 6px !important;
 }
 
 div.BC-trail {
@@ -4874,6 +4958,7 @@ div.BC-trail {
 	padding-right: 10px;
 	background-color: var(--background-secondary);
 	border-radius: var(--block-roundness);
+	color: var(--extra-contrast);
 }
 
 body > .app-container div.BC-trail-grid {
@@ -5112,7 +5197,26 @@ a.zoom-plugin-title:hover {
 	fill: var(--alt-accent) !important;
 }
 
-/* Style settings */
+/* ─────────────────────────────────────────────────── */
+/* < Style Settings Plugin */
+/* ─────────────────────────────────────────────────── */
+
+.style-settings-heading {
+	margin-bottom: 12px !important;
+	margin-top: 22px !important;
+	padding-top: 0;
+}
+
+.style-settings-heading .setting-item-name {
+	font-family: var(--setting-heading);
+	line-height: 1em;
+}
+
+.style-settings-heading .setting-item-description {
+	font-family: var(--menu-font-family);
+	font-size: 65%;
+}
+
 /* remove buggy export button for certain blocks */
 .style-settings-heading .setting-editor-extra-setting-button:last-child {
 	display: none;
@@ -5162,8 +5266,6 @@ community:
 /* ─────────────────────────────────────────────────── */
 /* < Style Settings Options */
 /* ─────────────────────────────────────────────────── */
-
-/* stylelint-disable max-line-length */
 
 /* @settings
 name: Shimmering Focus Theme
@@ -5219,6 +5321,25 @@ settings:
 	 description: Folder markers are the "..." next to a folded/collapsed item.
 	 default: false
   -
+	 id: aesthetics
+	 title: Aesthetics
+	 description: Shapes & Colors (soon)
+	 type: heading
+	 level: 2
+	 collapsed: true
+  -
+	 id: angular-shapes
+	 title: Angelar shapes
+	 type: class-toggle
+	 description: Enable to use Angular shapes. Disable to use rounded shapes.
+	 default: false
+  -
+	 id: colored-yaml
+	 title: Colored YAML
+	 type: class-toggle
+	 description: Use colored YAML frontmatter (in Edit Mode).
+	 default: false
+  -
 	 id: font-settings
 	 title: Fonts
 	 description: Sizes, Font-Face, Letter-Spacing
@@ -5241,9 +5362,9 @@ settings:
 	 title: Monospace Font Size
 	 type: variable-number-slider
 	 default: 0.9
-	 min: 0.5
-	 max: 2.0
-	 step: 0.1
+	 min: 0.6
+	 max: 1.6
+	 step: 0.05
 	 format: em
   -
 	 id: sidebar-font-family
@@ -5255,10 +5376,10 @@ settings:
 	 id: sidebar-font-size
 	 title: Side Bar Font Size
 	 type: variable-number-slider
-	 default: 0.9
-	 min: 0.5
-	 max: 2
-	 step: 0.1
+	 default: 0.85
+	 min: 0.6
+	 max: 1.6
+	 step: 0.05
 	 format: em
   -
 	 id: normal-letter-spacing-sidebar
@@ -5279,7 +5400,7 @@ settings:
 	 default: 1
 	 min: 0.7
 	 max: 1.3
-	 step: 0.1
+	 step: 0.05
 	 format: em
   -
 	 id: standard-mermaid-font
@@ -5329,8 +5450,8 @@ settings:
 	 type: variable-number-slider
 	 default: 1.6
 	 min: 1
-	 max: 3.5
-	 step: 0.1
+	 max: 2.7
+	 step: 0.05
 	 format: em
   -
 	 id: h3-size
@@ -5338,8 +5459,8 @@ settings:
 	 type: variable-number-slider
 	 default: 1.45
 	 min: 1
-	 max: 3.5
-	 step: 0.1
+	 max: 2.7
+	 step: 0.05
 	 format: em
   -
 	 id: h4-size
@@ -5347,8 +5468,8 @@ settings:
 	 type: variable-number-slider
 	 default: 1.3
 	 min: 1
-	 max: 3.5
-	 step: 0.1
+	 max: 2.7
+	 step: 0.05
 	 format: em
   -
 	 id: h5-size
@@ -5356,8 +5477,8 @@ settings:
 	 type: variable-number-slider
 	 default: 1.15
 	 min: 1
-	 max: 3.5
-	 step: 0.1
+	 max: 2.7
+	 step: 0.05
 	 format: em
   -
 	 id: blockquotes

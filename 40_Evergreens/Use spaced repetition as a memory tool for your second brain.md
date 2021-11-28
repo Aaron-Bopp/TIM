@@ -18,7 +18,7 @@ Sometimes these connections can be made almost completely autonomously, but in t
 This introduces [[friction]], which is in direct contradiction to the [[philosophy]] of [[My TIM]]:
 [[Your second brain should be frictionless access to a curated base of knowledge]]
 
-[[Spaced repetition]] can help allieviate this friction
+[[spaced repetition]] can help allieviate this friction
 - [[Use spaced repetition as weeding for your digital garden]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[The fragility of nodes in a second brain]]
@@ -29,5 +29,5 @@ This introduces [[friction]], which is in direct contradiction to the [[philosop
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Spaced repetition]], [[evergreen notes]], [[note writing]], [[My TIM]]
+**Topics**:: [[spaced repetition]], [[evergreen notes]], [[note writing]], [[My TIM]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -17,7 +17,7 @@ Concentration is limited resource in the modern world. Cause for lack of concent
 3. Be willing to give yourself breaks, but try to do activities that will rest your brain instead of stimulate it. I.E go for a walk  or meditate instead of looking at social [[media]] for 20 mins.
 4. If it's possible and your lack of concentration is common reach out to your doctor to see if you can get a diagnosis and medication would help. For some, medication is the tool they need to survive and for others it is jumping off point for better habits.
 5. Look into [[mindfullness]] and [[meditation]]. It's okay to get frustrated and upset, but practices likes those help 
-6. Find tools that reduce friction thus reducing required concentration, e.g [[Spaced repetition]]: [[Friction is the number one hindrance to learning]]
+6. Find tools that reduce friction thus reducing required concentration, e.g [[spaced repetition]]: [[Friction is the number one hindrance to learning]]
 
 ### <hr class="footnote"/>
 
