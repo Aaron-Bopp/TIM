@@ -1,6 +1,6 @@
 /* ──────────────────────────────────────────────────────
 SHIMMERING FOCUS
-Version 1.159
+Version 1.166
 https://github.com/chrisgrieser/shimmering-focus/
 Created by @pseudometa
 MIT License
@@ -132,29 +132,33 @@ This ToC is auto-generated via the .generate-ToC.sh */
 /* ─────────────────────────────────────────────────── */
 
 :root {
-
 	--accent-lighter: hsl(243 66% 76%);
 	--accent-lightest: hsl(259 100% 80%);
 	--alt-accent: hsl(163 97% 34%);
 	--alt-accent-lighter: hsl(164 100% 41%);
 	--alt-accent-lightest: hsl(164 100% 70%);
 	--alt-accent-darker: hsl(164 100% 30%);
+
+	--unresolved-link-color: hsl(211 100% 52%);
+	--unresolved-opacity: 0.6;
+
 	--code-color: var(--alt-accent-darker);
 	--html-tag-color: var(--alt-accent-darker);
 	--scrollbar-hover: var(--alt-accent-lighter);
-	--pseudo-admonition-border: var(--accent-lighter);
 	--scrollbar-active: var(--accent-lighter);
+
+	--pseudo-admonition-border: var(--accent-lighter);
 	--highlight-color: hsl(152 100% 50% / 40%);
 	--highlight-alt1: hsl(60 100% 50% / 40%);
 	--highlight-alt2: hsl(180 100% 50% / 40%);
 	--search-match-hl: var(--highlight-alt2);
 	--bold-in-darkmode: hsl(202 43% 57%);
-	--unresolved-link-color: hsl(211 100% 52%);
-	--unresolved-opacity: 0.6;
+
 	--active-line: hsl(62 11% 63% / 12.5%);
 	--cursor-monocolor: var(--accent-lighter);
 
-	--resize-handle-thickness: 0.25em;
+	--resize-handle-thickness: 4px;
+	--toggle-duration: 250ms;
 	--scrollbar-thickness: 0.6em;
 	--image-size: 50%;
 	--pdf-size: 50vh;
@@ -168,7 +172,6 @@ This ToC is auto-generated via the .generate-ToC.sh */
 	--selection-color: hsl(259 100% 93% / 86.7%);
 	--extra-contrast: hsl(0 0% 36%);
 	--hr-line: hsl(0 0% 66%);
-	--image-zoom-bg: hsl(0 0% 26%);
 	--button-hover: var(--alt-accent);
 	--button-hover-border: var(--alt-accent-lighter);
 	--longform-background: hsl(30 30% 98%);
@@ -182,7 +185,8 @@ This ToC is auto-generated via the .generate-ToC.sh */
 	--button-border: var(--accent-lighter);
 	--a-row: rgb(0 0 0 / 3%);
 	--b-row: rgb(0 0 0 / 6%);
-	--nice-border: 2px solid hsl(0 0% 85%);
+	--basic-border: 2px solid hsl(0 0% 70%);
+	--alt-border: 3px solid hsl(0 0% 87%);
 	--backdrop-color: hsl(228 9% 70%);
 }
 
@@ -191,7 +195,6 @@ This ToC is auto-generated via the .generate-ToC.sh */
 	--selection-color: hsl(302 24% 21% / 73%);
 	--extra-contrast: hsl(0 0% 73%);
 	--hr-line: hsl(0 0% 60%);
-	--image-zoom-bg: hsl(0 0% 0%);
 	--button-hover: var(--alt-accent-darker);
 	--button-hover-border: var(--alt-accent-lighter);
 	--longform-background: hsl(226 18% 13%);
@@ -205,7 +208,8 @@ This ToC is auto-generated via the .generate-ToC.sh */
 	--button-border: var(--text-accent);
 	--a-row: rgb(0 0 0 / 20%);
 	--b-row: rgb(0 0 0 / 20%);
-	--nice-border: 2px solid hsl(0 0% 40%);
+	--basic-border: 2px solid hsl(0 0% 40%);
+	--alt-border: 3px solid hsl(0 0% 20%);
 	--backdrop-color: hsl(228 30% 15%);
 }
 
@@ -282,7 +286,7 @@ This ToC is auto-generated via the .generate-ToC.sh */
 	--longform-font-size: 1.2em;
 
 	--sidebar-font-family: "iA Writer Quattro V";
-	--sidebar-font-size: 0.85em;
+	--sidebar-font-size: 0.85rem;
 
 	--menu-font-family: "iA Writer Quattro V";
 	--menu-font-size: 1em;
@@ -374,6 +378,11 @@ body,
 	font-variant-numeric: tabular-nums;
 }
 
+/* bugfix for mermaid font */
+.mermaid {
+	--mermaid-font: "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif; /* stylelint-disable-line max-line-length */
+}
+
 /* ─────────────────────────────────────────────────── */
 /* < Icons */
 /* ─────────────────────────────────────────────────── */
@@ -418,12 +427,12 @@ svg.BC-trail-icon {
 /* ─────────────────────────────────────────────────── */
 
 body:not(.angular-shapes) {
-	--block-roundness: 7px;
+	--roundish: 7px;
 	--round: 50px;
 }
 
 body.angular-shapes {
-	--block-roundness: 0;
+	--roundish: 0;
 	--round: 0;
 }
 
@@ -457,27 +466,19 @@ body.mod-macos:not(.show-titlebar) .workspace-split.mod-left-split.is-collapsed 
 
 /* adapt height of resize handle */
 body:not(.show-titlebar) .workspace-split.mod-left-split > .workspace-leaf-resize-handle {
-	top: 51px !important;
+	top: 54px;
 }
 
-body:not(.show-titlebar) .workspace-split.mod-right-split > .workspace-leaf-resize-handle {
-	top: 37.5px !important;
-}
-
-body.show-titlebar .workspace-split.mod-right-split > .workspace-leaf-resize-handle,
-body.show-titlebar .workspace-split.mod-left-split > .workspace-leaf-resize-handle {
-	top: 37.5px;
-}
-
-.titlebar {
-	border-bottom: var(--nice-border);
+body.show-titlebar .workspace-split.mod-left-split > .workspace-leaf-resize-handle,
+body .workspace-split.mod-right-split > .workspace-leaf-resize-handle {
+	top: 40.5px;
 }
 
 /* styling when shown */
 .titlebar-button {
 	opacity: 1;
-	color: var(--extra-contrast);
-	border-radius: var(--block-roundness);
+	color: var(--text-muted);
+	border-radius: var(--roundish);
 }
 
 .titlebar-button svg {
@@ -498,8 +499,9 @@ body.show-titlebar .workspace-split.mod-left-split > .workspace-leaf-resize-hand
 }
 
 /* proper light theme for titlebar */
-.theme-light .titlebar {
-	background-color: var(--background-secondary-alt);
+.titlebar {
+	background-color: var(--background-primary-alt);
+	border-bottom: 1px solid var(--background-modifier-border);
 }
 
 .theme-light .titlebar-text {
@@ -548,7 +550,7 @@ body:not(.show-ribbons) .workspace-ribbon {
 	background-color: var(--tooltip-notification-bg) !important;
 	border: 1px solid var(--tooltip-notification-border);
 	color: var(--tooltip-notification-text);
-	border-radius: 15px;
+	border-radius: calc(var(--roundish) * 2);
 	word-wrap: break-word;
 }
 
@@ -575,7 +577,7 @@ body:not(.show-ribbons) .workspace-ribbon {
 	border: 1px solid var(--tooltip-notification-border);
 	color: var(--tooltip-notification-text);
 	padding: 5px 10px;
-	border-radius: 10px;
+	border-radius: var(--roundish);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -586,7 +588,7 @@ body:not(.show-ribbons) .workspace-ribbon {
 	height: var(--popover-size) !important;
 	max-height: unset !important;
 	border: 5px solid var(--background-secondary) !important;
-	border-radius: calc(var(--block-roundness) * 2);
+	border-radius: calc(var(--roundish) * 2);
 }
 
 .popover .markdown-embed {
@@ -600,7 +602,7 @@ body:not(.show-ribbons) .workspace-ribbon {
 .popover .markdown-embed-link {
 	color: var(--extra-contrast);
 	padding: 2px;
-	border-radius: 3px;
+	border-radius: var(--roundish);
 	right: 4px;
 	top: 4px;
 }
@@ -648,7 +650,7 @@ div.search-input-clear-button:hover::before,
 .empty-state-close-button {
 	top: 10px;
 	height: 25px;
-	border-radius: 3px;
+	border-radius: var(--roundish);
 	padding: 2px;
 }
 
@@ -665,8 +667,8 @@ div.search-input-clear-button:hover::before,
 	top: 0;
 	right: 0;
 	padding: 2px 6px 6px;
-	border-bottom-left-radius: var(--block-roundness);
-	border-top-right-radius: calc(var(--block-roundness) * 2.5);
+	border-bottom-left-radius: var(--roundish);
+	border-top-right-radius: calc(var(--roundish) * 2.5);
 }
 
 /* only show on hover */
@@ -787,7 +789,7 @@ body:not(.is-mobile) .view-header:focus-within {
 /* ─────────────────────────────────────────────────── */
 
 div.menu {
-	border-radius: calc(var(--block-roundness) * 2);
+	border-radius: var(--roundish);
 }
 
 div.menu-item-title {
@@ -849,7 +851,7 @@ div.menu-item {
 /* ─────────────────────────────────────────────────── */
 
 body:not(.app-container) .suggestion-container {
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -875,7 +877,7 @@ https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme */
 	position: absolute;
 	right: 0;
 	bottom: 0;
-	border-top-left-radius: var(--block-roundness);
+	border-top-left-radius: var(--roundish);
 	padding: 0.5em 1em 0.5em 0.8em !important;
 	max-height: unset;
 	line-height: 1.2;
@@ -901,6 +903,11 @@ body:not(.show-statusbar) .status-bar:hover {
 .status-bar-item.mod-clickable:hover,
 .lt-status-bar-btn:hover {
 	color: var(--alt-accent) !important;
+}
+
+/* so stuff on the bottom of the right sidebar can still be clicked */
+.mod-right-split .workspace-leaf-content {
+	padding-bottom: 2em;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -951,10 +958,6 @@ button:hover {
 /* ─────────────────────────────────────────────────── */
 /* < Toggles (Checkboxes) */
 /* ─────────────────────────────────────────────────── */
-
-:root { /* stylelint-disable-line no-duplicate-selectors */
-	--toggle-duration: 250ms;
-}
 
 .checkbox-container {
 	margin-left: 5px;
@@ -1055,21 +1058,21 @@ input.slider {
 /* Code blocks Preview Mode */
 .markdown-preview-view pre {
 	background-color: var(--background-secondary) !important;
-	border-radius: calc(var(--block-roundness) * 2) !important;
+	border-radius: calc(var(--roundish) * 2) !important;
 	padding-top: 10px !important;
 	padding-bottom: 12px !important;
 }
 
 /* code blocks Edit Mode */
 body > .app-container .HyperMD-codeblock-begin-bg {
-	border-top-left-radius: calc(var(--block-roundness) * 2);
-	border-top-right-radius: calc(var(--block-roundness) * 2);
+	border-top-left-radius: calc(var(--roundish) * 2);
+	border-top-right-radius: calc(var(--roundish) * 2);
 	background-color: var(--background-secondary);
 }
 
 body > .app-container .HyperMD-codeblock-end-bg {
-	border-bottom-left-radius: calc(var(--block-roundness) * 2);
-	border-bottom-right-radius: calc(var(--block-roundness) * 2);
+	border-bottom-left-radius: calc(var(--roundish) * 2);
+	border-bottom-right-radius: calc(var(--roundish) * 2);
 }
 
 /* show language of Code Block in Preview Mode */
@@ -1137,7 +1140,7 @@ button.copy-code-button {
 	border: 2px solid var(--background-primary);
 	font-size: 0;
 	color: var(--extra-contrast);
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 button.copy-code-button::before {
@@ -1317,17 +1320,18 @@ body > .app-container .contains-task-list li.task-list-item.is-checked {
 }
 
 /* https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/34 */
-body:not(.angular-shapes) input[type="checkbox"] {
+input[type="checkbox"] {
 	-webkit-appearance: none;
 	appearance: none;
 	border: 2px solid var(--text-muted);
 	padding: 1px;
+	border-radius: var(--round);
 	vertical-align: top;
 	margin-top: 2px;
 	filter: unset !important; /* removes hue filter */
 }
 
-body:not(.angular-shapes) input[type="checkbox"]:checked {
+input[type="checkbox"]:checked {
 	background-color: var(--finished-task);
 	border-width: 0;
 	background-position: center;
@@ -1336,11 +1340,11 @@ body:not(.angular-shapes) input[type="checkbox"]:checked {
 	background-image: url('data:image/svg+xml; utf8, <svg width="12px" height="10" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-4.000000, -6.000000)" fill="%23ffffff"><path d="M8.1043257,14.0367999 L4.52468714,10.5420499 C4.32525014,10.3497722 4.32525014,10.0368095 4.52468714,9.8424863 L5.24777413,9.1439454 C5.44721114,8.95166768 5.77142411,8.95166768 5.97086112,9.1439454 L8.46638057,11.5903727 L14.0291389,6.1442083 C14.2285759,5.95193057 14.5527889,5.95193057 14.7522259,6.1442083 L15.4753129,6.84377194 C15.6747499,7.03604967 15.6747499,7.35003511 15.4753129,7.54129009 L8.82741268,14.0367999 C8.62797568,14.2290777 8.3037627,14.2290777 8.1043257,14.0367999"></path></g></g></svg>');
 }
 
-body:not(.angular-shapes) input[type="checkbox"]:hover {
+input[type="checkbox"]:hover {
 	border-color: var(--alt-accent);
 }
 
-body:not(.angular-shapes) input[type="checkbox"]:checked:hover {
+input[type="checkbox"]:checked:hover {
 	background-color: var(--alt-accent-lighter);
 }
 
@@ -1385,8 +1389,8 @@ body:not(.angular-shapes) input[type="checkbox"]:checked:hover {
 
 .modal {
 	padding: 0.2em 1em;
-	border-radius: calc(var(--block-roundness) * 2);
-	border: 3px solid var(--background-modifier-border);
+	border-radius: calc(var(--roundish) * 2);
+	border: var(--alt-border);
 }
 
 .prompt-bg,
@@ -1402,8 +1406,8 @@ body:not(.angular-shapes) input[type="checkbox"]:checked:hover {
 	height: 93%;
 	max-width: unset;
 	width: 93%;
-	border: 3px solid var(--background-modifier-border);
-	border-radius: calc(var(--block-roundness) * 3);
+	border: var(--alt-border);
+	border-radius: calc(var(--roundish) * 3);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -1457,8 +1461,8 @@ body:not(.angular-shapes) input[type="checkbox"]:checked:hover {
 .sync-history-content-container {
 	padding: 10px;
 	height: 100%;
-	border-top-right-radius: var(--block-roundness);
-	border-bottom-right-radius: var(--block-roundness);
+	border-top-right-radius: var(--roundish);
+	border-bottom-right-radius: var(--roundish);
 }
 
 .modal.mod-sync-history textarea:focus {
@@ -1490,7 +1494,7 @@ body:not(.angular-shapes) input[type="checkbox"]:checked:hover {
 /* ─────────────────────────────────────────────────── */
 
 .prompt {
-	border-radius: calc(var(--block-roundness) * 2);
+	border-radius: calc(var(--roundish) * 2);
 	border: 5px solid var(--background-secondary);
 }
 
@@ -1498,12 +1502,12 @@ input.prompt-input {
 	width: unset;
 	margin: 5px 2px 8px;
 	padding-top: 7px;
-	border-radius: calc(var(--block-roundness) * 1.5);
+	border-radius: calc(var(--roundish) * 1.5);
 }
 
 div.prompt-results {
 	padding-top: 0;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 div.prompt {
@@ -1522,7 +1526,7 @@ div.prompt {
 
 .suggestion-item {
 	padding-left: 25px;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 /* Alternating row colors */
@@ -1558,7 +1562,7 @@ body:not(.no-alternating-rows) .suggestion-item.is-selected:nth-child(even) {
 .suggestion-item.is-selected .suggestion-flair,
 .suggestion-item.is-selected .suggestion-highlight {
 	color: var(--text-accent);
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 .suggestion-item:hover .suggestion-flair,
@@ -1620,18 +1624,23 @@ body.block-cursor .CodeMirror-cursor {
 }
 
 .workspace-tab-header-container {
-	margin: 2px 0 3px 4px;
+	margin: 4px 0 4px 6px;
+}
+
+/* no rounded corners for the sidebar leafs */
+body > .app-container .workspace-split.mod-horizontal > .workspace-tabs > .workspace-leaf {
+	border-radius: 0;
 }
 
 .workspace-tab-header {
-	margin-right: 4px;
-	border: 1.5px solid var(--background-modifier-border);
-	border-radius: var(--block-roundness);
+	margin-right: 8px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--roundish);
 }
 
 .workspace-tab-header.is-active {
 	background-color: var(--background-secondary);
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 .workspace-tab-header.is-active svg {
@@ -1644,7 +1653,7 @@ body.block-cursor .CodeMirror-cursor {
 
 .workspace-tab-header-inner {
 	padding: 2px 6px 1px;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 /* hover & on-click colors */
@@ -1685,7 +1694,7 @@ body.block-cursor .CodeMirror-cursor {
 
 .nav-action-button {
 	padding: 2px 6px 0;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 	border: 1px solid var(--background-modifier-border);
 	height: 27px;
 }
@@ -1832,7 +1841,7 @@ body .workspace-leaf-resize-handle:active {
 .markdown-source-view .backlink-pane > .tree-item-self,
 .markdown-preview-view .backlink-pane > .tree-item-self {
 	background-color: var(--background-primary-alt);
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 /* Sidebar */
@@ -1968,7 +1977,6 @@ readability */
 	padding-top: 5px;
 }
 
-.workspace-leaf-content[data-type="starred"] .nav-buttons-container,
 .workspace-leaf-content[data-type="starred"] .nav-file-title .nav-file-title-content::before,
 .workspace-leaf-content[data-type="starred"] .nav-file-icon svg.document {
 	display: none;
@@ -1976,6 +1984,10 @@ readability */
 
 .workspace-leaf-content[data-type="starred"] .nav-file-title:hover {
 	color: var(--alt-accent);
+}
+
+body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"] .nav-buttons-container {
+	display: none;
 }
 
 /* for starred searches */
@@ -2004,17 +2016,17 @@ body > div.app-container .obsidian-search-match-highlight {
 }
 
 .is-flashing {
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 body > .app-container .obsidian-search-match-highlight:first-child {
-	border-top-left-radius: var(--block-roundness);
-	border-bottom-left-radius: var(--block-roundness);
+	border-top-left-radius: var(--roundish);
+	border-bottom-left-radius: var(--roundish);
 }
 
 body > .app-container .obsidian-search-match-highlight:last-child {
-	border-top-right-radius: var(--block-roundness);
-	border-bottom-right-radius: var(--block-roundness);
+	border-top-right-radius: var(--roundish);
+	border-bottom-right-radius: var(--roundish);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -2036,7 +2048,7 @@ body > .app-container .obsidian-search-match-highlight:last-child {
 	color: var(--extra-contrast);
 	line-height: 1.3em;
 	padding-top: 0.1em;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 /* hover file */
@@ -2363,11 +2375,19 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 	padding-right: 1.3em;
 }
 
+.vertical-tab-header-group {
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-top: 0;
+	background-color: var(--background-primary-alt);
+	margin-bottom: 20px;
+}
+
 .vertical-tab-header-group-title {
 	color: var(--text-muted);
 	font-size: 1.05em;
 	letter-spacing: 1px;
-	padding: 4px 3px 1px;
+	padding: 2px 5px 1px;
 	margin-top: 0;
 	font-family: var(--setting-heading);
 	font-weight: 600;
@@ -2378,14 +2398,6 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 
 .vertical-tab-header-group:nth-child(2) .vertical-tab-header-group-title {
 	border-top: 2px solid var(--background-modifier-border);
-}
-
-.vertical-tab-header-group {
-	padding-top: 0;
-	padding-bottom: 0;
-	margin-top: 0;
-	background-color: var(--background-primary-alt);
-	margin-bottom: 15px;
 }
 
 .vertical-tab-nav-item {
@@ -2408,7 +2420,7 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 .vertical-tab-nav-item:hover {
 	color: var(--alt-accent);
 	border-left: 3px solid var(--alt-accent);
-	background: var(--background-primary);
+	background: var(--background-secondary-alt);
 }
 
 /* increased contrast */
@@ -2421,7 +2433,7 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 	padding: 4px;
 	margin-right: 0;
 	margin-left: 3px;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 .mobile-option-setting-item > span:hover > svg,
@@ -2470,7 +2482,7 @@ based on css from @Mara https://github.com/Mara-Li/Obsidian-Snippet-collection *
 p.u-center-text {
 	margin-top: 40px;
 	padding-top: 40px;
-	border-top: var(--nice-border);
+	border-top: var(--basic-border);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -2485,8 +2497,8 @@ p.u-center-text {
 /* Search input */
 .community-plugin-search {
 	padding-top: 10px;
-	border-top-left-radius: calc(var(--block-roundness) * 2.5);
-	border-bottom-left-radius: calc(var(--block-roundness) * 2.5);
+	border-top-left-radius: calc(var(--roundish) * 2.5);
+	border-bottom-left-radius: calc(var(--roundish) * 2.5);
 	margin-left: 0;
 }
 
@@ -2587,7 +2599,7 @@ p.u-center-text {
 	font-size: 0.75rem;
 	background-color: var(--text-accent);
 	opacity: 0.7;
-	border-radius: 3px;
+	border-radius: calc(var(--roundish) / 2);
 	padding-left: 0.2em;
 	padding-right: 0.2em;
 	font-family: "Inter";
@@ -2702,7 +2714,7 @@ p.u-center-text {
 }
 
 .community-plugin-info div.community-plugin-readme {
-	border-top: 3px solid var(--background-modifier-border);
+	border-top: var(--alt-border);
 	margin-top: 15px !important;
 	padding-top: 5px !important;
 }
@@ -2832,7 +2844,7 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 /* highlight active line */
 .CodeMirror-activeline .CodeMirror-linebackground {
 	background-color: var(--active-line);
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 /* change highlight color */
@@ -2916,6 +2928,8 @@ em > del:hover,
 /* < Metadata Block */
 /* ─────────────────────────────────────────────────── */
 /* YAML-Header in Edit Mode */
+body > .app-container .cm-s-obsidian .cm-hmd-frontmatter.cm-string,
+body > .app-container .cm-s-obsidian .cm-hmd-frontmatter.cm-number,
 body > .app-container .cm-s-obsidian .cm-hmd-frontmatter.cm-atom,
 body > .app-container .cm-s-obsidian .cm-hmd-frontmatter.cm-meta,
 body > .app-container .cm-s-obsidian .cm-hmd-frontmatter {
@@ -2933,12 +2947,21 @@ body > .app-container .cm-s-obsidian .cm-def.cm-hmd-frontmatter {
 	font-weight: 600;
 }
 
+/* colored YAML */
 body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-atom {
 	color: var(--text-accent);
 }
 
 body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter {
 	color: var(--alt-accent);
+}
+
+body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-number {
+	color: var(--unresolved-link-color);
+}
+
+body > .app-container .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
+	color: hsl(54 69% 40%);
 }
 
 /* YAML-Header in Preview Mode */
@@ -2956,8 +2979,8 @@ body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter {
 .markdown-preview-view .frontmatter-container {
 	font-size: 1em;
 	color: var(--extra-contrast);
-	border: var(--nice-border);
-	border-radius: var(--block-roundness);
+	border: var(--basic-border);
+	border-radius: var(--roundish);
 	background: var(--background-secondary);
 }
 
@@ -2982,6 +3005,7 @@ body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter {
 	margin-right: 0;
 	padding-left: 6px;
 	padding-right: 6px;
+	border-radius: var(--roundish);
 }
 
 .frontmatter-section-tags > a.tag:hover {
@@ -3224,8 +3248,8 @@ https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-y
 }
 
 :root body {
-	--table-border: var(--nice-border);
-	--table-roundness: var(--block-roundness);
+	--table-border: var(--basic-border);
+	--table-roundness: var(--roundish);
 }
 
 table:not(.dataview.table-view-table) th {
@@ -3396,7 +3420,7 @@ Based on some CSS from @SlRvb, @gee & @Eleanor Konik */
 
 /* when pseudo-admonition is also active line */
 .CodeMirror-activeline .HyperMD-header.HyperMD-header-6.CodeMirror-line {
-	border-radius: var(--block-roundness) !important;
+	border-radius: var(--roundish) !important;
 	background-color: var(--active-line) !important;
 	color: var(--text-normal) !important;
 }
@@ -3423,7 +3447,7 @@ Based on some CSS from @SlRvb, @gee & @Eleanor Konik */
 	border-right: 1px solid var(--background-modifier-border);
 	border-bottom: 1px solid var(--background-modifier-border);
 	border-left: 12px solid var(--pseudo-admonition-border) !important;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 	color: var(--text-normal) !important;
 }
 
@@ -3465,7 +3489,7 @@ body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-examp
 	padding-right: 8px;
 	padding-left: 8px;
 	color: var(--annotation-tag-font-color) !important;
-	border-radius: 6px;
+	border-radius: var(--roundish);
 	font-style: normal;
 }
 
@@ -3502,6 +3526,7 @@ body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-end.c
 	padding-left: 0;
 	border-top-left-radius: 0;
 	border-bottom-left-radius: 0;
+	font-family: var(--default-font); /* fixes their appearance in headings */
 }
 
 body:not(.annotation-tags-off) .cm-tag-question,
@@ -3616,7 +3641,7 @@ body:not(.annotation-tags-off) .tag[href="#example"]::before {
 	padding-top: 0.4em;
 	padding-bottom: 0.5em;
 	padding-right: 0.8em;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 	border: var(--plugin-browser-borders);
 }
 
@@ -3632,7 +3657,6 @@ body:not(.annotation-tags-off) .tag[href="#example"]::before {
 
 /* when blockquote is also active line */
 .CodeMirror-activeline .HyperMD-quote.HyperMD-quote-1.CodeMirror-line {
-	border-radius: 5px !important;
 	background-color: var(--active-line) !important;
 	color: var(--text-normal) !important;
 }
@@ -3655,7 +3679,7 @@ body:not(.annotation-tags-off) .tag[href="#example"]::before {
 
 /* Preview Mode */
 body > .app-container .markdown-preview-view blockquote {
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 	border: 2px solid var(--background-modifier-border);
 	margin: 1.5em 0 1.5em 2em;
 	padding: 0.3em 0.7em 0.4em;
@@ -3706,12 +3730,12 @@ progress {
 
 progress::-webkit-progress-bar {
 	background: var(--background-secondary-alt);
-	border-radius: 20px;
-	border: 1px solid var(--background-primary);
+	border-radius: calc(var(--roundish) * 3);
+	border: 1px solid var(--background-modifier-boder);
 }
 
 progress::-webkit-progress-value {
-	border-radius: 20px;
+	border-radius: calc(var(--roundish) * 3);
 }
 
 /* https://coolors.co/gradient-palette/03045e-6cf9ca?number=10 */
@@ -3734,15 +3758,21 @@ progress[value^="10"]::-webkit-progress-value { background: hsl(160 92% 70%) }
 .document-search-container {
 	bottom: 2.5em;
 	background-color: var(--background-secondary-alt);
-	border: 4px solid var(--background-primary-alt);
-	border-radius: calc(var(--block-roundness) * 3);
+	border: var(--alt-border);
+	border-radius: var(--round);
 	width: 95%;
 	left: 2.5%;
-	height: 3.5em;
+	height: 3.6em;
+}
+
+div.document-replace {
+	margin-top: 4px;
+	margin-bottom: 4px;
 }
 
 .document-search-container.mod-replace-mode {
-	height: 6em;
+	height: 6.1em;
+	border-radius: calc(var(--round) / 2);
 }
 
 /* for whatever reason the scrollbar
@@ -3759,7 +3789,7 @@ shows up on the bottom when replacing/searching
 /* more recognizable red */
 .theme-dark .document-search-input.mod-no-match:hover,
 .theme-dark .document-search-input.mod-no-match {
-	background-color: hsl(357 100% 15%);
+	background-color: hsl(357 30% 20%);
 }
 
 .theme-light .document-search-input.mod-no-match:hover,
@@ -3770,7 +3800,8 @@ shows up on the bottom when replacing/searching
 body > .app-container .document-search-input,
 body > .app-container .document-replace-input {
 	border: 2px solid transparent;
-	border-radius: 50px;
+	border-radius: var(--round);
+	background-color: var(--background-primary-alt);
 }
 
 body > .app-container .document-search-input:focus,
@@ -3785,17 +3816,17 @@ body > .app-container .document-replace-input:hover {
 
 input.document-search-input,
 input.document-replace-input {
-	font-size: 1.2em;
 	padding-left: 0.4em;
 	background-color: var(--background-primary);
-	margin-top: 0.2em;
-	height: 1.6em;
+	margin-top: 4px;
+	margin-left: 4px;
+	height: 2rem;
 }
 
 .document-search-button {
 	color: var(--text-on-accent);
-	margin-top: 0.27em;
-	height: 2.2em;
+	margin-top: 4px;
+	height: 2rem;
 	background-color: var(--text-accent);
 	opacity: 0.65;
 }
@@ -3806,8 +3837,12 @@ input.document-replace-input {
 	color: var(--interaction-normal);
 }
 
+body:not(.show-close-button) .document-search-close-button {
+	display: none;
+}
+
 /* ─────────────────────────────────────────────────── */
-/* < Graph view */
+/* < Graph View */
 /* ─────────────────────────────────────────────────── */
 /* https://help.obsidian.md/Plugins/Graph+view#Custom+CSS */
 
@@ -3816,7 +3851,7 @@ input.document-replace-input {
 	color: var(--extra-contrast);
 	padding: 4px;
 	margin-top: 0 !important;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 .graph-controls-button:hover {
@@ -3898,13 +3933,13 @@ input.document-replace-input {
 
 .view-content .markdown-preview-view img {
 	margin-top: 13px;
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 	cursor: zoom-in;
 	display: block;
 }
 
 body:not(.disable-image-borders) .view-content .markdown-preview-view img {
-	border: var(--nice-border);
+	border: var(--basic-border);
 }
 
 /* centers image and image caption */
@@ -3938,7 +3973,14 @@ body:not(.left-aligned-embeds) .view-content .markdown-preview-view img {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: var(--image-zoom-bg);
+}
+
+.markdown-preview-view img:active .theme-dark {
+	background-color: hsl(0 0% 0%);
+}
+
+.markdown-preview-view img:active .theme-light {
+	background-color: hsl(0 0% 26%);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -3949,16 +3991,6 @@ body:not(.left-aligned-embeds) .view-content .markdown-preview-view img {
 
 body:not(.left-aligned-embeds) div.mermaid {
 	text-align: center;
-}
-
-body:not(.standard-mermaid-font) .mermaid {
-	font-size: 0.9em;
-
-	--mermaid-font: var(--default-font);
-}
-
-.standard-mermaid-font .mermaid {
-	--mermaid-font: "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif; /* stylelint-disable-line max-line-length */
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -4026,7 +4058,7 @@ ol ul::before {
 }
 
 .pdf-embed iframe {
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 body:not(.left-aligned-embeds) .pdf-embed {
@@ -4178,23 +4210,24 @@ https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/1
 /* < Kanban Plugin */
 /* ─────────────────────────────────────────────────── */
 
-/* variables */
-.theme-light { /* stylelint-disable-line no-duplicate-selectors */
+/* stylelint-disable no-duplicate-selectors */
+.theme-light {
 	--kanban-background: hsl(0 0% 85%);
 	--active-hover-kanban-item: hsl(0 0% 93%);
 	--dot-color: hsl(0 0% 80% / 50%);
 }
 
-.theme-dark { /* stylelint-disable-line no-duplicate-selectors */
+.theme-dark {
 	--kanban-background: hsl(0 0% 17%);
 	--active-hover-kanban-item: hsl(0 0% 17%);
 	--dot-color: hsl(0 0% 13% / 50%);
 }
 
-:root { /* stylelint-disable-line no-duplicate-selectors */
+:root {
 	--dot-spacing: 8px;
 	--dot-size: 1px;
 }
+/* stylelint-enable no-duplicate-selectors */
 
 .kanban-plugin__board button {
 	border: unset !important;
@@ -4324,15 +4357,6 @@ a.tag.kanban-plugin__item-tag {
 	padding-bottom: 0 !important;
 }
 
-/* adapted for the round checkboxes */
-.kanban-plugin__board input[type="checkbox"] {
-	margin-top: 1px;
-	height: 0.85em;
-	width: 0.85em;
-	margin-left: 0;
-	margin-right: 5px;
-}
-
 .nav-file-title[data-path*="Kanban"] .nav-file-title-content::before,
 .nav-file-title[data-path*="kanban"] .nav-file-title-content::before {
 	content: "dashboard ";
@@ -4341,6 +4365,27 @@ a.tag.kanban-plugin__item-tag {
 .kanban-plugin__item-markdown li .external-link::before {
 	margin-top: 1px;
 	margin-right: 6px;
+}
+
+/* adapted for the round checkboxes */
+body:not(.angular-shapes) .kanban-plugin__board input[type="checkbox"] {
+	margin-top: 1px;
+	height: 0.85em;
+	width: 0.85em;
+	margin-left: 0;
+	margin-right: 5px;
+}
+
+/* angular shapes setting */
+body.angular-shapes .kanban-plugin__board input[type="checkbox"] {
+	margin-top: 0;
+	height: 1em;
+	width: 1em;
+}
+
+body.angular-shapes .kanban-plugin__item,
+body.angular-shapes .kanban-plugin__lane {
+	border-radius: 0;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -4617,11 +4662,11 @@ body.hide-index-files .nav-file-title[data-path$="Index.md"] {
 div.oz-image-widget > embed,
 div.oz-image-widget > img {
 	display: block;
-	border-radius: var(--block-roundness) !important;
+	border-radius: var(--roundish) !important;
 }
 
 body:not(.disable-image-borders) div.oz-image-widget > img {
-	border: var(--nice-border);
+	border: var(--basic-border);
 }
 
 /* center */
@@ -4726,8 +4771,8 @@ button.MySnippetsButton:hover path {
 
 .MySnippets-statusbar-menu {
 	width: 320px !important;
-	border-radius: 8px !important;
-	border: var(--nice-border);
+	border-radius: var(--roundish) !important;
+	border: var(--basic-border);
 }
 
 .MySnippets-statusbar-menu .menu-item.buttonitem:hover {
@@ -4895,7 +4940,7 @@ body > .app-container .BC-Matrix-square > ol {
 
 body > .app-container .workspace-leaf-content[data-type="BC-matrix"] > .view-content div.BC-Matrix-square {
 	border: none;
-	border-bottom: var(--nice-border);
+	border-bottom: var(--basic-border);
 	padding-bottom: 7px;
 	padding-top: 4px;
 	text-align: left;
@@ -4952,12 +4997,12 @@ body > .app-container div.BC-trail {
 
 div.BC-trail {
 	margin-bottom: 1em !important;
-	border: var(--nice-border);
+	border: var(--basic-border);
 	font-size: 0.9em;
 	padding-left: 10px;
 	padding-right: 10px;
 	background-color: var(--background-secondary);
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 	color: var(--extra-contrast);
 }
 
@@ -4966,7 +5011,7 @@ body > .app-container div.BC-trail-grid {
 	margin-bottom: 5px;
 	border: 1px solid var(--background-modifier-border);
 	background-color: var(--background-primary);
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 body > .app-container div.BC-trail-grid-item {
@@ -4980,14 +5025,14 @@ body > .app-container div.BC-trail-grid-item {
 body #search-res-hover.show,
 body #block-ref-hover.show {
 	color: var(--text-muted);
-	border-radius: calc(var(--block-roundness));
+	border-radius: var(--roundish);
 }
 
 body #search-res-hover.show:hover,
 body #block-ref-hover.show:hover {
 	color: var(--alt-accent);
 	background-color: var(--background-primary-alt);
-	border-radius: calc(var(--block-roundness));
+	border-radius: var(--roundish);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -5038,7 +5083,7 @@ body #block-ref-hover.show:hover {
 .workspace-leaf-content[data-type="Saved Queries View"] .savedQ-view-q:hover {
 	background-color: var(--background-secondary-alt) !important;
 	color: var(--alt-accent);
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -5077,7 +5122,7 @@ pre button.copy {
 	border: 2px solid var(--background-primary);
 	font-size: 0;
 	color: var(--extra-contrast);
-	border-radius: var(--block-roundness);
+	border-radius: var(--roundish);
 }
 
 pre button.copy::before {
@@ -5172,7 +5217,7 @@ pre button.copy:hover::before {
 	margin-left: 0 !important;
 	margin-top: 0 !important;
 	padding: 4px;
-	border-radius: var(--block-roundness) !important;
+	border-radius: var(--roundish) !important;
 	border: none;
 	font-size: 0.8em;
 }
@@ -5268,13 +5313,13 @@ community:
 /* ─────────────────────────────────────────────────── */
 
 /* @settings
-name: Shimmering Focus Theme
+name: Shimmering Focus (Theme)
 id: shimmering-focus
 settings:
   -
 	 id: show-hide-elements
-	 title: Show or Hide UI Elements
-	 description: Re-enable Elements hidden by this theme.
+	 title: Show/Hide UI Elements
+	 description: Re-enable Elements hidden by this theme
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -5321,17 +5366,48 @@ settings:
 	 description: Folder markers are the "..." next to a folded/collapsed item.
 	 default: false
   -
+	 id: show-starred-nav-buttons
+	 title: Re-enable the Starred Pane Buttons
+	 type: class-toggle
+	 description: The two buttons to star the current file and the current search.
+	 default: false
+  -
 	 id: aesthetics
 	 title: Aesthetics
-	 description: Shapes & Colors (soon)
+	 description: Shapes, Color Schemes (coming soon), Cursor & Decoration
 	 type: heading
 	 level: 2
 	 collapsed: true
   -
 	 id: angular-shapes
-	 title: Angelar shapes
+	 title: Angular Shapes
 	 type: class-toggle
-	 description: Enable to use Angular shapes. Disable to use rounded shapes.
+	 description: Enable to use angular shapes (🟩). Disable to use rounded shapes (🟣).
+	 default: false
+  -
+	 id: block-cursor
+	 title: Block Cursor
+	 description: Use a block instead of a line as cursor. For best results, also switch the main font to a monospaced one.
+	 type: class-toggle
+	 default: false
+  -
+	 id: mono-color-cursor
+	 title: Use a mono-colored Cursor
+	 description: 'Use a (light purple) cursor, as in previous versions of "Shimmering Focus".'
+	 type: class-toggle
+	 default: false
+  -
+	 id: quotation-mark-deco
+	 title: Decorative Quotation Mark
+	 description: Show a decorative Quotation Mark next to Blockquotes in Preview Mode.
+	 type: class-toggle
+	 hub: ignore
+	 default: false
+  -
+	 id: normal-checkboxes
+	 title: Normal Checkboxes
+	 description: Use the normal checkboxes from the default theme.
+	 type: class-toggle
 	 default: false
   -
 	 id: colored-yaml
@@ -5380,7 +5456,7 @@ settings:
 	 min: 0.6
 	 max: 1.6
 	 step: 0.05
-	 format: em
+	 format: rem
   -
 	 id: normal-letter-spacing-sidebar
 	 title: No decreased letter spacing in the Side bar
@@ -5403,11 +5479,10 @@ settings:
 	 step: 0.05
 	 format: em
   -
-	 id: standard-mermaid-font
-	 title: Use Standard Mermaid Font
-	 description: Enable this if you set a custom font and it breaks the look of Mermaid graphs.
+	 id: normal-blockquotes
+	 title: Normal-sized Blockquotes
+	 description: Blockquotes have the same size and line-height as the rest of the text.
 	 type: class-toggle
-	 hub: ignore
 	 default: false
   -
 	 id: headings
@@ -5481,28 +5556,8 @@ settings:
 	 step: 0.05
 	 format: em
   -
-	 id: blockquotes
-	 title: Blockquotes
-	 description: Decoration, Size
-	 type: heading
-	 level: 2
-	 collapsed: true
-  -
-	 id: normal-blockquotes
-	 title: Normal-sized Blockquotes
-	 description: Blockquotes have the same size and line-height as the rest of the text.
-	 type: class-toggle
-	 default: false
-  -
-	 id: quotation-mark-deco
-	 title: Decorative Quotation Mark
-	 description: Show a decorative Quotation Mark next to Blockquotes in Preview Mode.
-	 type: class-toggle
-	 hub: ignore
-	 default: false
-  -
 	 id: content-settings
-	 title: Editor Content
+	 title: Content Settings
 	 description: Images, PDFs, Tables, Line Length, & Max View
 	 type: heading
 	 level: 2
@@ -5555,25 +5610,6 @@ settings:
 	 id: no-pdf-dark-mode
 	 title: No Darkmode for PDFs
 	 description: Disable Dark Mode for PDFs when Obsidian is set to dark mode.
-	 type: class-toggle
-	 default: false
-  -
-	 id: cursor-settings
-	 title: Cursor
-	 description: Type & Color
-	 type: heading
-	 level: 2
-	 collapsed: true
-  -
-	 id: block-cursor
-	 title: Block Cursor
-	 description: Use a block instead of a line as cursor. For best results, also switch the main font to a monospaced one.
-	 type: class-toggle
-	 default: false
-  -
-	 id: mono-color-cursor
-	 title: Use a mono-colored Cursor
-	 description: 'Use a (light purple) cursor, as in previous versions of "Shimmering Focus".'
 	 type: class-toggle
 	 default: false
   -
@@ -5690,16 +5726,10 @@ settings:
   -
 	 id: miscellaneous
 	 title: Miscellaneous
-	 description: Checkboxes, Pandoc Citations, Popovers, Annotation Tags
+	 description: Pandoc Citations, Popovers, Annotation Tags
 	 type: heading
 	 level: 2
 	 collapsed: true
-  -
-	 id: normal-checkboxes
-	 title: Normal Checkboxes
-	 description: Use the normal checkboxes from the default theme.
-	 type: class-toggle
-	 default: false
   -
 	 id: no-pandoc-citation-emphasis
 	 title: No Emphasis of Pandoc Citations

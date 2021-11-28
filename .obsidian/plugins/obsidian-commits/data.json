@@ -8411,7 +8411,7 @@
       "links": 5
     },
     "40_Evergreens/What makes a note evergreen.md": {
-      "size": 3078,
+      "size": 2522,
       "tags": 4,
       "links": 15
     },
@@ -8961,17 +8961,17 @@
       "links": 0
     },
     "50_Projects/Using spaced repetition for your conceptual notes.md": {
-      "size": 0,
+      "size": 2021,
       "tags": 1,
-      "links": 3
+      "links": 10
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1419,
+      "Refactor": 1421,
       "Create": 1946,
-      "Link": 3210,
-      "Expand": 99
+      "Link": 3214,
+      "Expand": 100
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8982,7 +8982,7 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 156,
+      "0": 163,
       "1": 36,
       "2": 1,
       "3": 2,
@@ -9042,7 +9042,7 @@
       "Thu": 355,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4198
+      "Sun": 4205
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9057,6 +9057,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -9106,8 +9107,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"50_Projects/Untitled.md\"> Untitled </a>",
@@ -9273,7 +9273,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers.md\"> Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers </a>",
         "<a class=\"internal-link\" href=\"_Welcome.md\"> _Welcome </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md\"> articleKarma and Reincarnation in Hinduism </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md\"> articleKarma and Reincarnation in Hinduism </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
@@ -9330,6 +9331,10 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your coneceptual notes.md\"> Using spaced repetition for your coneceptual notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md\"> articles_Hydronic Heating Systems — Van Life Tech </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
@@ -9375,11 +9380,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
@@ -9435,6 +9436,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
@@ -9484,8 +9486,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE PERSIANS_Lecture Outline.md\"> THE PERSIANS_Lecture Outline </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/Totsi Essay.md\"> Totsi Essay </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md\"> 18 Androgenic Second Puberty 101 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Enneagram/articleHow The System Works — The Enneagram Institute.md\"> articleHow The System Works — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/History/discussionRed Summer of 1919.md\"> discussionRed Summer of 1919 </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Enneagram/articleHow The System Works — The Enneagram Institute.md\"> articleHow The System Works — The Enneagram Institute </a>"
       ]
     },
     "40 Evergreens": {

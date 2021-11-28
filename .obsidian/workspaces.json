@@ -631,51 +631,29 @@
         "type": "split",
         "children": [
           {
-            "id": "d9c2d062c21b7f4e",
+            "id": "73577d24ddcdc64c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/What makes a note evergreen.md",
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "mode": "source"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "leaf": "d9c2d062c21b7f4e",
+                  "leaf": "73577d24ddcdc64c",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":27},\"to\":{\"line\":45,\"ch\":27}},\"scroll\":39.10036057692308}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/evergreen notes.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
                 },
                 {
-                  "leaf": "d9c2d062c21b7f4e",
+                  "leaf": "73577d24ddcdc64c",
                   "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "7a7649a0441301a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_Evergreens/What makes a note evergreen.md",
-                "mode": "preview"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "7a7649a0441301a1",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":35.62639821029083}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":77},\"to\":{\"line\":32,\"ch\":77}},\"scroll\":11.215745192307692}"
                 }
               ]
             }
@@ -728,7 +706,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/What makes a note evergreen.md",
+                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -761,7 +739,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/What makes a note evergreen.md",
+                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -790,8 +768,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5,
-        "collapsed": true
+        "width": 442.5
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -844,7 +821,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/What makes a note evergreen.md"
+                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -890,7 +867,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/What makes a note evergreen.md",
+                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1000,7 +977,7 @@
         "width": 710.2000122070312,
         "collapsed": true
       },
-      "active": "d9c2d062c21b7f4e"
+      "active": "73577d24ddcdc64c"
     }
   },
   "active": "16:9 NOW"
