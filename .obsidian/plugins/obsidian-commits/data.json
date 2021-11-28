@@ -8963,7 +8963,7 @@
     "40_Evergreens/Use spaced repetition to weed your digital garden.md": {
       "size": 0,
       "tags": 2,
-      "links": 5
+      "links": 8
     },
     "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md": {
       "size": 0,
@@ -8990,7 +8990,7 @@
     "/": {
       "Refactor": 1425,
       "Create": 1950,
-      "Link": 3230,
+      "Link": 3232,
       "Expand": 105
     },
     "40 Evergreens": {
@@ -9018,7 +9018,7 @@
       "13": 65,
       "14": 2226,
       "15": 109,
-      "16": 868,
+      "16": 870,
       "17": 1479,
       "18": 181,
       "19": 92,
@@ -9062,7 +9062,7 @@
       "Thu": 355,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4234
+      "Sun": 4236
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9350,6 +9350,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
@@ -9398,9 +9400,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
-        "<a class=\"internal-link\" href=\"Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>"
+        "<a class=\"internal-link\" href=\"Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
