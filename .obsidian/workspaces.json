@@ -640,15 +640,14 @@
                 "mode": "source"
               }
             },
-            "group": "3697fb3983dca36d",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "leaf": "d9c2d062c21b7f4e",
-                  "group": "3697fb3983dca36d",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":1},\"to\":{\"line\":49,\"ch\":1}},\"scroll\":22.24688899950224}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":27},\"to\":{\"line\":45,\"ch\":27}},\"scroll\":39.10036057692308}"
                 },
                 {
                   "leaf": "d9c2d062c21b7f4e",
@@ -669,15 +668,14 @@
                 "mode": "preview"
               }
             },
-            "group": "3697fb3983dca36d",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "leaf": "7a7649a0441301a1",
-                  "group": "3697fb3983dca36d",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":15.810594702648675}"
+                  "eState": "{\"scroll\":35.62639821029083}"
                 }
               ]
             }

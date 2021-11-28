@@ -38,7 +38,7 @@ sr-ease: 199
                     -  this note has a lot of backlinks >= sprout
                     -  note has more backlinks than forward links = green
 
-# How I rate notes during daily spaced repetition review
+# How I rate notes during daily spaced repetition refv
 ```mermaid
 flowchart TB;  
  B[Am I surprized by the note title]-->|yes|Hard;  
@@ -55,6 +55,24 @@ flowchart TB;
  X-->|Yes|Good;
  G-->|No|Good[Rate: Good];
  G-->|No and it's boring|Easy[Rate: Easy];
+
+```
+```mermaid
+flowchart TB;  
+ B-->|no|C[Am I surprized by the note content];
+ C-->|no|D[Could I remember the note title in context so I could link it];
+ E-->|Yes|G[Does the note content need work]
+ D-->|Yes|G;
+ D-->|No|E[Can I easily link other notes];
+ G-->|No and it's boring|Easy[Rate: Easy];
+ G-->|No|Good[Rate: Good];
+ G-->|Syntax Errors|X[Is it appropriately tagged];
+ X-->|Yes|Good;
+ G-->|Thought Error|Hard;
+ E-->|No|Hard;
+ X-->|No|Hard;
+ B[Am I surprized by the note title]-->|yes|Hard;  
+ C-->|yes|Hard[Rate: Hard];
 
 ```
 - [ ] #TO/DO/CREATE flow chart, [[Mermaid (software)]]?

@@ -8411,7 +8411,7 @@
       "links": 5
     },
     "40_Evergreens/What makes a note evergreen.md": {
-      "size": 2338,
+      "size": 3078,
       "tags": 4,
       "links": 15
     },
@@ -8971,7 +8971,7 @@
       "Refactor": 1419,
       "Create": 1946,
       "Link": 3210,
-      "Expand": 98
+      "Expand": 99
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -9003,7 +9003,7 @@
       "18": 181,
       "19": 92,
       "20": 123,
-      "21": 144,
+      "21": 145,
       "22": 208,
       "23": 194
     },
@@ -9042,7 +9042,7 @@
       "Thu": 355,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4197
+      "Sun": 4198
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9057,6 +9057,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
@@ -9106,8 +9107,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40 Evergreens/Note stubbing vs you don't need to make your vault into wikipedia.md\"> Note stubbing vs you don't need to make your vault into wikipedia </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
-        "<a class=\"internal-link\" href=\"10 Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\"> tweets_Let’s Talk About the Cor... </a>"
+        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"50_Projects/Untitled.md\"> Untitled </a>",
