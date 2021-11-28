@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -25,8 +25,8 @@
             {
               "leaf": "73577d24ddcdc64c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":233},\"to\":{\"line\":32,\"ch\":233}},\"scroll\":11.215745192307692}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":3.7777777777777777}"
             }
           ]
         }

@@ -11,14 +11,15 @@ Over the last month I have worked through ~200 [[evergreen notes]] using [[space
 ^[[[Nodes in the second brain are an abstraction of our first brain]]]
 and grow my knowledge.
 ^[[[Evergreen notes organize knowledge so that it can grow]]]
+This means adding links to other notes, todo items, and updating any metadata like note status.
 
 
 # How I rate notes during daily spaced repetition review
-[[Spaced Repetition (plugin)]] offer's three different levels of difficulty when reviewing notes: easy, good, and hard. These will set an interval of time before you review the note again. The interval is based on the note's previous difficulty and interval. This is the general process that I follow:
+[[Spaced Repetition (plugin)]] offer's three different levels of difficulty when reviewing notes: easy, good, and hard. These will set an interval of time before you review the note again. The interval is based on the note's previous difficulty and interval. Since we are using spaced repitition as a memory tool, we base our rating on how easily we could theoretically remember the note. This isn't an exact science, but this is the general process that I follow:
 ```mermaid
 flowchart TB;  
- B[Am I surprized by the note title?]-->|Yes|Hard;  
- B-->|No|C[Am I surprized by the note content?];
+ B[Am I surprised by the note title?]-->|Yes|Hard;  
+ B-->|No|C[Am I surprised by the note content?];
  C-->|Yes|Hard[Review: Hard];
  C-->|No|E[Can I easily link other notes?];
  E-->|No|Hard;
