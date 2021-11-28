@@ -14,7 +14,7 @@ cite {
     color: #04244b;
 }
 
-.workspace-leaf-content[data-type="graph"] .view-content {
+.theme-dark .workspace-leaf-content[data-type="graph"] .view-content {
     background-color: #20142486;
 }
 
