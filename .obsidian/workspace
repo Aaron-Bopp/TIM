@@ -9,18 +9,66 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Use spaced repetition to weed your digital garden.md",
-            "mode": "source"
+            "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 3,
           "stack": [
             {
               "leaf": "26eed465bce7600f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Andy Matuschak's Evergreen Notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":113},\"to\":{\"line\":15,\"ch\":113}},\"scroll\":3.3333333333333335}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Andy Matuschak.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}},\"scroll\":0}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/evergreen notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":23.528385416666666}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":13.21666661898295}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":354},\"to\":{\"line\":23,\"ch\":354}},\"scroll\":6.666666666666667}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition to weed your digital garden.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":446},\"to\":{\"line\":15,\"ch\":446}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":12},\"to\":{\"line\":7,\"ch\":12}},\"scroll\":2.962962962962963}"
             },
             {
               "leaf": "26eed465bce7600f",
@@ -97,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Use spaced repetition to weed your digital garden.md",
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -130,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Use spaced repetition to weed your digital garden.md",
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +203,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -212,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Use spaced repetition to weed your digital garden.md"
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md"
               }
             },
             "pane-relief:history-v1": {
@@ -258,7 +307,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Use spaced repetition to weed your digital garden.md",
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -370,15 +419,15 @@
   },
   "active": "26eed465bce7600f",
   "lastOpenFiles": [
-    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
     "50_Projects/Using spaced repetition for your conceptual notes.md",
+    "30_Topics/32_Terms/evergreen notes.md",
+    "30_Topics/34_People/Andy Matuschak.md",
+    "10_Sources/Andy Matuschak's Evergreen Notes.md",
+    "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
+    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
+    "30_Topics/31_Stubs/spaced repetition.md",
     "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
-    "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
-    "40_Evergreens/Converting existing file formats to plaintext.md",
-    "10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
-    "10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md",
-    "10_Sources/Readwise/Tweets/tweets_Clarifying It Seems Lik....md",
-    "10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md",
-    "40_Evergreens/What is the cognitive effect of living in an unjust world.md"
+    "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md"
   ]
 }

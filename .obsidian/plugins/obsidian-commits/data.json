@@ -8533,7 +8533,7 @@
     "30_Topics/34_People/Andy Matuschak.md": {
       "size": 323,
       "tags": 1,
-      "links": 0
+      "links": 1
     },
     "30_Topics/35_Outlines/social discomfort.md": {
       "size": 525,
@@ -8843,7 +8843,7 @@
     "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md": {
       "size": 2110,
       "tags": 2,
-      "links": 16
+      "links": 13
     },
     "10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md": {
       "size": 0,
@@ -8956,9 +8956,9 @@
       "links": 0
     },
     "50_Projects/Using spaced repetition for your conceptual notes.md": {
-      "size": 3525,
+      "size": 4436,
       "tags": 1,
-      "links": 13
+      "links": 15
     },
     "40_Evergreens/Use spaced repetition to weed your digital garden.md": {
       "size": 0,
@@ -8988,10 +8988,10 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1425,
+      "Refactor": 1426,
       "Create": 1950,
-      "Link": 3232,
-      "Expand": 105
+      "Link": 3235,
+      "Expand": 106
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -9018,8 +9018,8 @@
       "13": 65,
       "14": 2226,
       "15": 109,
-      "16": 870,
-      "17": 1479,
+      "16": 873,
+      "17": 1481,
       "18": 181,
       "19": 92,
       "20": 123,
@@ -9062,7 +9062,7 @@
       "Thu": 355,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4236
+      "Sun": 4241
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9077,6 +9077,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
@@ -9124,7 +9125,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
@@ -9350,6 +9350,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Andy Matuschak.md\"> Andy Matuschak </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>",
@@ -9397,10 +9400,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cognitive dissonance.md\"> cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cognitive dissonance.md\"> cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
-        "<a class=\"internal-link\" href=\"Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
@@ -9456,6 +9456,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Spaced Repetition (plugin).md\"> Spaced Repetition (plugin) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -9505,8 +9506,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Government Exam #2 Study Guide.md\"> Government Exam #2 Study Guide </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Research Paper Thoughts.md\"> Research Paper Thoughts </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE HEBREWS_Lecture Outline.md\"> THE HEBREWS_Lecture Outline </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE PERSIANS_Lecture Outline.md\"> THE PERSIANS_Lecture Outline </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/Totsi Essay.md\"> Totsi Essay </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE PERSIANS_Lecture Outline.md\"> THE PERSIANS_Lecture Outline </a>"
       ]
     },
     "40 Evergreens": {

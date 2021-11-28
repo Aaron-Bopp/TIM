@@ -11,7 +11,7 @@ sr-ease: 224
 #### [[Use spaced repetition to weed your digital garden]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
-Often the best editing tool is time, and [[spaced repetition]] creates perfect intervals for working on your notes. When you take a step back and look at a note in a new light, you will notice things that your mind did not before, and be able to increase the quality of your notes with less overhead. Over time, this means your notes will become more and more refined, as you edit wording, adjust structure, and add references. [[Spaced repetition]] creates a structured system to keep your vault tidy and manageably. 
+Often the best editing tool is time, and [[spaced repetition]] creates perfect intervals for working on your notes. When you take a step back and look at a note in a new light, you will notice things that your mind did not before, and be able to increase the quality of your notes with less overhead. Over time, this means your notes will become more and more refined, as you edit wording, adjust structure, and keep notes concept-based. [[Spaced repetition]] creates a structured system to keep your vault tidy and manageably. 
 
 [[Evergreen notes organize knowledge so that it can grow]] and [[spaced repetition]] is like fertalizer. When combined with an asynchronous to-do system like [[my TO(DO) and EVER(GREEN) structure#TO DO]] this can be a major entry point for your [[second brain]]. Additionally, if you [[Use spaced repetition as a memory tool for your second brain]], weeding can be another way of making connections and doesn't have to take time away from review.
 

@@ -7,6 +7,10 @@
   ],
   "themesList": [
     {
+      "repo": "ebullient/obsidian-theme-ebullientworks",
+      "lastUpdate": "2021-11-26T13:13:11Z"
+    },
+    {
       "repo": "ceciliamay/obsidianmd-theme-primary",
       "lastUpdate": "2021-11-26T09:56:18Z"
     },

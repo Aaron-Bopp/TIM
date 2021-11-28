@@ -18,13 +18,10 @@ Sometimes these connections can be made almost completely autonomously, but in t
 This introduces [[friction]], which is in direct contradiction to the [[philosophy]] of [[My TIM]]:
 [[Your second brain should be frictionless access to a curated base of knowledge]]
 
-[[Spaced repetition]] can help allieviate this friction, by helping our first brain make connections in our second brain.  
+[[Spaced repetition]] can help allieviate this friction, by helping our first brain make connections in our second brain.
 Because this process is fruitful for creating connections it makes it vital in creating a strong [[second brain]], because [[Webs of thought are densely linked]]. 
 
-My experience with this practice has been very fruitful, and I think that anyone uses conceptual notes could benefit from this practice: [[Using spaced repetition for your conceptual notes]]. By using spaced repetition for our [[evergreen notes]] we make so that we can help our evergreens grow even when we are away from our computer: [[Evergreen notes organize knowledge so that it can grow]]
-^[For me, this is especially helpful because [[Neurodivergent people cannot stop their brain from solving problems]].]
-
-While the main aspect of memory is the connections we make, the anytime we spend in notes and work with the note content will help us remember it. Additionally, if note content is confusing or layed out unintuitively, we may become more focused on that than the actual thought. This is why I also [[use spaced repetition to weed your digital garden]]
+While the main aspect of memory is the connections we make, any time we spend in notes and work with the note content will help us remember it. Additionally, if the note content is confusing or is layed out unintuitively, we may become more focused on that than the actual thought. This is why I also [[use spaced repetition to weed your digital garden]]
 
 
 ### <hr class="footnote"/>

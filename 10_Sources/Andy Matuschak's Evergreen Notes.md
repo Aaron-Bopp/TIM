@@ -12,6 +12,9 @@ type: second brain
 
 **Related**:: [[second brain]], [[knowledge management]]
 
+#### Links
+[Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC) ^8d0b78
+
 #### Notes
 - [[evergreen notes]]s evolve, contribute, and accumulate over time/projects
 	- [[evergreen notes]]s support knowledge, transient notes don't
