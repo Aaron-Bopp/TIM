@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c2a97340b636b4be",
+        "id": "c4b8a25d44c1af2b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "c2a97340b636b4be",
+              "leaf": "c4b8a25d44c1af2b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "c2a97340b636b4be",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Average links per note type.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c2a97340b636b4be",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c2a97340b636b4be",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/1968 was a major setback for the American left.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":7.628571646554129}"
-            },
-            {
-              "leaf": "c2a97340b636b4be",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.13636262489089}"
             }
           ]
         }
@@ -97,7 +70,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -130,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -212,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -259,7 +228,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -369,17 +337,17 @@
     "width": 710.2000122070312,
     "collapsed": true
   },
-  "active": "c2a97340b636b4be",
+  "active": "c4b8a25d44c1af2b",
   "lastOpenFiles": [
+    "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
+    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
     "50_Projects/Using spaced repetition for your conceptual notes.md",
     "20_Entry/24 Vault Stats/Average links per note type.md",
     "20_Entry/24 Vault Stats/Word count Evergreens.md",
     "40_Evergreens/1968 was a major setback for the American left.md",
     "30_Topics/33_Tools/Spaced Repetition (plugin).md",
     "30_Topics/33_Tools/Obsidian (software).md",
-    "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
     "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md",
-    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
     "30_Topics/32_Terms/evergreen notes.md"
   ]
 }

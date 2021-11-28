@@ -8956,7 +8956,7 @@
       "links": 0
     },
     "50_Projects/Using spaced repetition for your conceptual notes.md": {
-      "size": 2811,
+      "size": 3525,
       "tags": 1,
       "links": 13
     },
@@ -8976,7 +8976,7 @@
       "Refactor": 1424,
       "Create": 1947,
       "Link": 3222,
-      "Expand": 104
+      "Expand": 105
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -8996,7 +8996,7 @@
       "6": 0,
       "7": 0,
       "8": 24,
-      "9": 364,
+      "9": 365,
       "10": 51,
       "11": 28,
       "12": 336,
@@ -9047,7 +9047,7 @@
       "Thu": 355,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4221
+      "Sun": 4222
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9062,6 +9062,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
@@ -9111,8 +9112,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/podcastINVCEL.md\"> podcastINVCEL </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",

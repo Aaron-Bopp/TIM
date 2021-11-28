@@ -29,7 +29,7 @@ While the main aspect of memory is the connections we make, the anytime we spend
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[spaced repetition]], [[evergreen notes]], [[note writing]], [[My TIM]]
