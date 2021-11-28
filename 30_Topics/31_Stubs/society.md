@@ -1,5 +1,7 @@
 ---
 created: 2021-10-23
+aliases:
+  - societal
 tags: node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

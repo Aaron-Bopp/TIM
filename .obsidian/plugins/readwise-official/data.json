@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2288028,
+  "lastSavedStatusID": 2292644,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -310,7 +310,9 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md": "12002982",
     "10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md": "12032345",
     "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md": "12032346",
-    "10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md": "12035766"
+    "10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md": "12035766",
+    "10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md": "12077799",
+    "10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md": "12078573"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",

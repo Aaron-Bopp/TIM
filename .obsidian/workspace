@@ -4,19 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b8a25d44c1af2b",
+        "id": "26eed465bce7600f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
+            "mode": "preview"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "c4b8a25d44c1af2b",
+              "leaf": "26eed465bce7600f",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":2.6339622353607752}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             }
           ]
@@ -70,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -102,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,13 +143,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -184,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -229,6 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -335,19 +353,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312
+    "width": 710.2000122070312,
+    "collapsed": true
   },
-  "active": "c4b8a25d44c1af2b",
+  "active": "26eed465bce7600f",
   "lastOpenFiles": [
-    "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
-    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
-    "50_Projects/Using spaced repetition for your conceptual notes.md",
-    "20_Entry/24 Vault Stats/Average links per note type.md",
-    "20_Entry/24 Vault Stats/Word count Evergreens.md",
-    "40_Evergreens/1968 was a major setback for the American left.md",
-    "30_Topics/33_Tools/Spaced Repetition (plugin).md",
-    "30_Topics/33_Tools/Obsidian (software).md",
-    "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md",
-    "30_Topics/32_Terms/evergreen notes.md"
+    "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
+    "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
+    "40_Evergreens/Converting existing file formats to plaintext.md",
+    "10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
+    "10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md",
+    "10_Sources/Readwise/Tweets/tweets_Clarifying It Seems Lik....md",
+    "10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md",
+    "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+    "30_Topics/34_People/@visakanv on Twitter.md",
+    "30_Topics/31_Stubs/society.md"
   ]
 }

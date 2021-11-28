@@ -631,19 +631,34 @@
         "type": "split",
         "children": [
           {
-            "id": "c4b8a25d44c1af2b",
+            "id": "26eed465bce7600f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
+                "mode": "preview"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "c4b8a25d44c1af2b",
+                  "leaf": "26eed465bce7600f",
                   "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":2.6339622353607752}"
+                },
+                {
+                  "leaf": "26eed465bce7600f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "26eed465bce7600f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
                 }
               ]
@@ -697,6 +712,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -729,6 +745,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -753,13 +770,11 @@
                   "stack": []
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 442.5,
-        "collapsed": true
+        "width": 442.5
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -811,7 +826,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -856,6 +873,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -962,9 +980,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 710.2000122070312
+        "width": 710.2000122070312,
+        "collapsed": true
       },
-      "active": "c4b8a25d44c1af2b"
+      "active": "26eed465bce7600f"
     }
   },
   "active": "16:9 NOW"

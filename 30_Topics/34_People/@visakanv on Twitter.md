@@ -13,3 +13,7 @@ TABLE
 	length(file.outlinks) as Out
 from [[@visakanv on Twitter]]
 ```
+
+# Content outline
+-  How to interact with people/[[socialization]] 
+    -  ![[tweets_How to DM Your Heroes Wh...#^244685977]]
