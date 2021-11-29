@@ -7,12 +7,18 @@
         "id": "26eed465bce7600f",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
             {
               "leaf": "26eed465bce7600f",
               "group": null,
