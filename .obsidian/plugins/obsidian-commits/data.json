@@ -4502,7 +4502,7 @@
     },
     "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md": {
       "size": 533,
-      "tags": 2,
+      "tags": 3,
       "links": 4
     },
     "40_Evergreens/Creationism built an anti-science culture.md": {
@@ -7703,7 +7703,7 @@
     "30_Topics/31_Stubs/powershell.md": {
       "size": 152,
       "tags": 1,
-      "links": 0
+      "links": 1
     },
     "30_Topics/31_Stubs/Prison abolition.md": {
       "size": 165,
@@ -8501,9 +8501,9 @@
       "links": 1
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md": {
-      "size": 2178,
+      "size": 2939,
       "tags": 2,
-      "links": 2
+      "links": 3
     },
     "30_Topics/32_Terms/Zettlekassen.md": {
       "size": 0,
@@ -8756,7 +8756,7 @@
       "links": 1
     },
     "10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md": {
-      "size": 928,
+      "size": 2066,
       "tags": 2,
       "links": 1
     },
@@ -8989,14 +8989,24 @@
       "size": 1756,
       "tags": 3,
       "links": 12
+    },
+    "10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md": {
+      "size": 5867,
+      "tags": 1,
+      "links": 4
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md": {
+      "size": 880,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1429,
-      "Create": 1951,
-      "Link": 3242,
-      "Expand": 107
+      "Create": 1953,
+      "Link": 3249,
+      "Expand": 109
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -9018,7 +9028,7 @@
       "8": 24,
       "9": 365,
       "10": 51,
-      "11": 28,
+      "11": 39,
       "12": 336,
       "13": 65,
       "14": 2226,
@@ -9061,7 +9071,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 201,
+      "Mon": 212,
       "Tue": 594,
       "Wed": 1257,
       "Thu": 355,
@@ -9082,6 +9092,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
@@ -9130,11 +9142,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md\"> tweets_Tweets From Hank Green </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>",
@@ -9183,9 +9195,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Niklas Luhmann.md\"> Niklas Luhmann </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettlekassen.md\"> Zettlekassen </a>",
-        "<a class=\"internal-link\" href=\"Intro to Obsidian.md\"> Intro to Obsidian </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettlekassen.md\"> Zettlekassen </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
@@ -9241,6 +9251,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/my emotions.md\"> my emotions </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md\"> tweets_Tweets From Hank Green </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\"> articles_My moral code - Inverted Passion </a>",
@@ -9288,10 +9301,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\"> McCarthyism is an attack on totalitarianism not communism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/support.md\"> support </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9355,6 +9365,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md\"> tweets_Tweets From Hank Green </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/powershell.md\"> powershell </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
@@ -9401,11 +9415,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as weeding for your digital garden.md\"> Use spaced repetition as weeding for your digital garden </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as weeding for your digital garden.md\"> Use spaced repetition as weeding for your digital garden </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",

@@ -4,153 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "26eed465bce7600f",
+        "id": "70ebabbf909dd635",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "26eed465bce7600f",
+              "leaf": "70ebabbf909dd635",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Andy Matuschak's Evergreen Notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":30},\"to\":{\"line\":34,\"ch\":30}},\"scroll\":17.646069968196276}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":15.48671875}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.25}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":385},\"to\":{\"line\":48,\"ch\":385}},\"scroll\":42.306315104166664}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":8.583690987124463}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":39.97222222222222}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":13.21666661898295}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":354},\"to\":{\"line\":23,\"ch\":354}},\"scroll\":6.666666666666667}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition to weed your digital garden.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":12},\"to\":{\"line\":7,\"ch\":12}},\"scroll\":2.962962962962963}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":61},\"to\":{\"line\":18,\"ch\":61}},\"scroll\":0.2553191489361702}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "26eed465bce7600f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "96f11a609224444f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Use spaced repetition to weed your digital garden.md",
-            "mode": "preview"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "96f11a609224444f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition to weed your digital garden.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":10.677966101694915}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "972413e597120230",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
-            "mode": "preview"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "972413e597120230",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -471,17 +337,17 @@
     "width": 710.2000122070312,
     "collapsed": true
   },
-  "active": "26eed465bce7600f",
+  "active": "70ebabbf909dd635",
   "lastOpenFiles": [
+    "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
+    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
+    "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
+    "30_Topics/31_Stubs/powershell.md",
+    "30_Topics/31_Stubs/pandoc.md",
     "10_Sources/Andy Matuschak's Evergreen Notes.md",
     "40_Evergreens/Tips for concentration.md",
     "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
     "50_Projects/Using spaced repetition for your conceptual notes.md",
-    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
-    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
-    "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
-    "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
-    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
-    "30_Topics/32_Terms/evergreen notes.md"
+    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
   ]
 }

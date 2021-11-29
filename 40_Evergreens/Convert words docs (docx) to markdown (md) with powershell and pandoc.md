@@ -1,8 +1,11 @@
 ---
 created: 2021-10-23
-tags: node/evergreen/technique
+tags: node/evergreen, node/technique
 ---
+
 #### [[Convert words docs (docx) to markdown (md) with powershell and pandoc]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+This will convert all word docs in a folder (non-recursive) to Markdown when used in windows [[powershell]].
 
 ```powershell
 Get-ChildItem . -Filter *.docx | 
@@ -13,9 +16,8 @@ Foreach-Object {
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[programming]], [[pandoc]], [[powershell]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
