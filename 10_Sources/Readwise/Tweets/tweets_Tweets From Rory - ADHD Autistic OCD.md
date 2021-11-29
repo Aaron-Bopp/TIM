@@ -72,3 +72,15 @@ highlight_tags:: [[guilt]]
 
 [^252031299]: https://twitter.com/roryreckons/status/1462888352978374658
 
+# New highlights added November 29, 2021 at 8:57 AM
+##### ^253998048
+  
+> Individually, sometimes no (especially for those without).
+> Systemically, always - but it does depend on the larger international system.
+> The scarcity myth is one of Capitalism's greatest tools for keeping people in terrible conditions. https://t.co/JerHERKPfF 
+  [^253998048]
+
+[^253998048]: https://twitter.com/roryreckons/status/1465054976942559232
+%%
+highlight_tags:: [[capitalism]]
+%%

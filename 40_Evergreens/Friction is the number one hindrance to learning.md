@@ -13,7 +13,7 @@ sr-ease: 230
 What causes friction?
 - A difficult problem ^[[['A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe]]]
 - Forgetting what you already learned 
-- [[ADHD]] ^[[[How ADHD effects concentration]]]
+- [[ADHD]] ^[[[ADHD is not a lack of attention it is a misplacement of attention]]]
 - A bad learning environment ^[[[Sometimes we can't grow until we change our environment]]]
 - A bad teacher
 - Fragile tools 

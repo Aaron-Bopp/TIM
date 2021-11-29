@@ -8,7 +8,9 @@ sr-ease: 290
 
 #### [[Tips for concentration]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Concentration is limited resource in the modern world. Cause for lack of concentration range from simple distraction, to illness's like [[depression]], to [[neurodiversity|neurodiverse]] minds. Here some ways that I have found to help concentrate:
+Concentration is limited resource in the modern world. Cause for lack of concentration range from simple distraction, to illness's like [[depression]], to [[neurodiversity|neurodiverse]] minds.
+^[[[ADHD is not a lack of attention it is a misplacement of attention]]]
+ Here some ways that I have found to help concentrate:
 
 1. Interact with what you are trying to understand in more than one way. 
 	- If you are reading: write notes/highlight, and/or have it read aloud while you read. 
@@ -24,5 +26,5 @@ Concentration is limited resource in the modern world. Cause for lack of concent
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[mental health]], [[How ADHD effects concentration]]
+**Topics**:: [[mental health]], [[ADHD is not a lack of attention it is a misplacement of attention]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

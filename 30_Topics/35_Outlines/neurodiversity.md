@@ -21,7 +21,7 @@ aliases:
 	- Symptoms
 		- [[Rejection Sensitivity]]
 		- [[Emotional Deregulation]]
-		- [[How ADHD effects concentration]]
+		- [[ADHD is not a lack of attention it is a misplacement of attention]]
 	- Coping mechanisms
 		- [[Tips for concentration]]
 - [[Autism]]

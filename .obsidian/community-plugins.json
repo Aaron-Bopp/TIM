@@ -73,5 +73,7 @@
   "buttons",
   "smart-random-note",
   "cm-editor-syntax-highlight-obsidian",
-  "various-complements"
+  "various-complements",
+  "obsidian-outliner",
+  "obsidian-codemirror-options"
 ]

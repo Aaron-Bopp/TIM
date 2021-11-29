@@ -7,15 +7,18 @@
         "id": "26eed465bce7600f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Andy Matuschak's Evergreen Notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":30},\"to\":{\"line\":34,\"ch\":30}},\"scroll\":17.646069968196276}"
+            },
             {
               "leaf": "26eed465bce7600f",
               "group": null,
@@ -195,7 +198,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -228,7 +230,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,7 +254,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -309,9 +311,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -356,7 +356,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -468,15 +467,15 @@
   },
   "active": "26eed465bce7600f",
   "lastOpenFiles": [
+    "10_Sources/Andy Matuschak's Evergreen Notes.md",
+    "40_Evergreens/Tips for concentration.md",
+    "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
     "50_Projects/Using spaced repetition for your conceptual notes.md",
     "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
     "40_Evergreens/Use spaced repetition to weed your digital garden.md",
     "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
     "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
     "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
-    "30_Topics/32_Terms/evergreen notes.md",
-    "30_Topics/34_People/Andy Matuschak.md",
-    "10_Sources/Andy Matuschak's Evergreen Notes.md",
-    "30_Topics/31_Stubs/spaced repetition.md"
+    "30_Topics/32_Terms/evergreen notes.md"
   ]
 }

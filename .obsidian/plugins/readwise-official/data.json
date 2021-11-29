@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2292644,
+  "lastSavedStatusID": 2297653,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -240,7 +240,7 @@
     "10_Sources/Readwise/Articles/articles_Historical Foundations of Race.md": "10779635",
     "10_Sources/Readwise/Articles/articles_7 Ways We Know Systemic Racism Is Real.md": "10823306",
     "10_Sources/Readwise/Articles/articles_Black Identity Development.md": "11072831",
-    "10_Sources/Readwise/Articles/articles_Urn.md": "11103488",
+    "10_Sources/Readwise/Articles/articles_Urn.md": "12080312",
     "10_Sources/Readwise/Articles/articles_What if Psychology Took Intersectionality Seriously Changing How Psychologists Think About Participants.md": "11138531",
     "10_Sources/Readwise/Articles/articles_COVID-19 and the Other Pandemic.md": "11138530",
     "10_Sources/Readwise/Articles/articles_Highlights From twitter.com.md": "11172664",
@@ -312,7 +312,9 @@
     "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md": "12032346",
     "10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md": "12035766",
     "10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md": "12077799",
-    "10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md": "12078573"
+    "10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md": "12078573",
+    "10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md": "12079302",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md": "12079975"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",

@@ -33,4 +33,4 @@ I find this beautiful because [[True optimism is acknowledging the suffering of 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: ![[articleAn Introduction to Bhuddism#path]]
-[^2]: [[How ADHD effects concentration#^9fc829]]
+[^2]: [[ADHD is not a lack of attention it is a misplacement of attention#^9fc829]]

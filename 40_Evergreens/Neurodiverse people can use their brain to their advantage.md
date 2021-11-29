@@ -14,7 +14,7 @@ sr-ease: 210
         - [[Social anxiety isn't irrational it's just overcompensation]] and [[Your anxiety is telling you everything that could go wrong not what will go wrong]]
     - [[Fear is the number one hindrance to trying]]
 - [[ADHD]]
-	- [[How ADHD effects concentration]]
+	- [[ADHD is not a lack of attention it is a misplacement of attention]]
 	- [[ADHD reduces working memory]]
 - [[human advancement]]
     - [[Friction is the number one hindrance to learning]]

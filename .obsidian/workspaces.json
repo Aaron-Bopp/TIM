@@ -636,13 +636,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
-                "mode": "preview"
+                "file": "10_Sources/Andy Matuschak's Evergreen Notes.md",
+                "mode": "source"
               }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
+                {
+                  "leaf": "26eed465bce7600f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Andy Matuschak's Evergreen Notes.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":30},\"to\":{\"line\":34,\"ch\":30}},\"scroll\":17.646069968196276}"
+                },
                 {
                   "leaf": "26eed465bce7600f",
                   "group": null,
@@ -822,7 +828,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
+                    "file": "10_Sources/Andy Matuschak's Evergreen Notes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -855,7 +861,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
+                    "file": "10_Sources/Andy Matuschak's Evergreen Notes.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -880,7 +886,8 @@
                   "stack": []
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -937,7 +944,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md"
+                    "file": "10_Sources/Andy Matuschak's Evergreen Notes.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -983,7 +990,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
+                    "file": "10_Sources/Andy Matuschak's Evergreen Notes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",

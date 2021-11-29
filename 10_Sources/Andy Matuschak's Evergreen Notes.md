@@ -29,3 +29,8 @@ type: second brain
 - > "define a new node extensionally (rather than intensionally) by simply linking to it from many other nodes—even before it has any content"  [[Stub notes are data structures for implicit knowledge gathering]]
 
 - > "You need to be able to see the context around the backlink to understand what’s being implied." 
+### [[spaced repetition]]
+- [Spaced repetition systems can be used to program attention](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
+    - By removing [[friction]] around reviewing information we are taking advantage of otherwise unused attention.
+        - [[Tips for concentration]]
+    - [Spaced repetition memory systems can be used to prompt application, synthesis, and creation](https://notes.andymatuschak.org/zE8PK4UUAAWK6LEcmr8jja8JdxpUxcf1FUCX)

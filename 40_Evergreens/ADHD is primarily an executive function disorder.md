@@ -10,7 +10,7 @@ sr-ease: 272
 
 #### [[ADHD is primarily an executive function disorder]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-See [[How ADHD effects concentration]] to understand why lack of attention is not at the core of making ADHD disabilitating. The lack of executive function is far more powerful to this affect.
+See [[ADHD is not a lack of attention it is a misplacement of attention]] to understand why lack of attention is not at the core of making ADHD disabilitating. The lack of executive function is far more powerful to this affect.
 
 ### <hr class="footnote"/>
 
