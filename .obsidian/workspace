@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,20 @@
             {
               "leaf": "26eed465bce7600f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":15.48671875}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.25}"
+            },
+            {
+              "leaf": "26eed465bce7600f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":30.176470588235293}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":385},\"to\":{\"line\":48,\"ch\":385}},\"scroll\":42.306315104166664}"
             },
             {
               "leaf": "26eed465bce7600f",
@@ -457,6 +469,7 @@
   "active": "26eed465bce7600f",
   "lastOpenFiles": [
     "50_Projects/Using spaced repetition for your conceptual notes.md",
+    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
     "40_Evergreens/Use spaced repetition to weed your digital garden.md",
     "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
     "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
@@ -464,7 +477,6 @@
     "30_Topics/32_Terms/evergreen notes.md",
     "30_Topics/34_People/Andy Matuschak.md",
     "10_Sources/Andy Matuschak's Evergreen Notes.md",
-    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
     "30_Topics/31_Stubs/spaced repetition.md"
   ]
 }
