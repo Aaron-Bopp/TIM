@@ -8843,7 +8843,7 @@
     "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md": {
       "size": 2110,
       "tags": 2,
-      "links": 13
+      "links": 14
     },
     "10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md": {
       "size": 0,
@@ -8956,14 +8956,14 @@
       "links": 0
     },
     "50_Projects/Using spaced repetition for your conceptual notes.md": {
-      "size": 4436,
+      "size": 5116,
       "tags": 1,
-      "links": 15
+      "links": 18
     },
     "40_Evergreens/Use spaced repetition to weed your digital garden.md": {
       "size": 0,
       "tags": 2,
-      "links": 8
+      "links": 7
     },
     "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md": {
       "size": 0,
@@ -8984,14 +8984,19 @@
       "size": 3297,
       "tags": 0,
       "links": 0
+    },
+    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1426,
-      "Create": 1950,
-      "Link": 3235,
-      "Expand": 106
+      "Refactor": 1428,
+      "Create": 1951,
+      "Link": 3240,
+      "Expand": 107
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -9019,8 +9024,8 @@
       "14": 2226,
       "15": 109,
       "16": 873,
-      "17": 1481,
-      "18": 181,
+      "17": 1489,
+      "18": 182,
       "19": 92,
       "20": 123,
       "21": 145,
@@ -9062,7 +9067,7 @@
       "Thu": 355,
       "Fri": 69,
       "Sat": 0,
-      "Sun": 4241
+      "Sun": 4250
     },
     "40 Evergreens": {
       "Mon": 0,
@@ -9077,6 +9082,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
@@ -9126,10 +9132,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\"> articles_My moral code - Inverted Passion </a>",
@@ -9179,8 +9185,7 @@
         "<a class=\"internal-link\" href=\"Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettlekassen.md\"> Zettlekassen </a>",
         "<a class=\"internal-link\" href=\"Intro to Obsidian.md\"> Intro to Obsidian </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
@@ -9236,6 +9241,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/mental illness.md\"> mental illness </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\"> articles_My moral code - Inverted Passion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
@@ -9285,8 +9291,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
-        "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9350,6 +9355,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Andy Matuschak.md\"> Andy Matuschak </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
@@ -9396,11 +9405,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as weeding for your digital garden.md\"> Use spaced repetition as weeding for your digital garden </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
-        "<a class=\"internal-link\" href=\"Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cognitive dissonance.md\"> cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cognitive dissonance.md\"> cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>"
+        "<a class=\"internal-link\" href=\"Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
@@ -9456,6 +9461,8 @@
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Spaced Repetition (plugin).md\"> Spaced Repetition (plugin) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
@@ -9504,9 +9511,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/3 Gerrymandering and Voter Laws 2020 poa.md\"> 3 Gerrymandering and Voter Laws 2020 poa </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/From Bronze to Iron.md\"> From Bronze to Iron </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Government Exam #2 Study Guide.md\"> Government Exam #2 Study Guide </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Research Paper Thoughts.md\"> Research Paper Thoughts </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE HEBREWS_Lecture Outline.md\"> THE HEBREWS_Lecture Outline </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/THE PERSIANS_Lecture Outline.md\"> THE PERSIANS_Lecture Outline </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Research Paper Thoughts.md\"> Research Paper Thoughts </a>"
       ]
     },
     "40 Evergreens": {

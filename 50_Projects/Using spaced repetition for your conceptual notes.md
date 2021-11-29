@@ -13,7 +13,7 @@ Spaced repetition is an extremely powerful tool to review [[conceptual notes]]. 
 
 Over the last month I have worked through ~200 [[evergreen notes]] using [[spaced repetition]], and the process has been very fruitful. Overall, I doubled the average amount of links per note from 7 to 14, and created almost 20 notes just based on connections I was making within my existing notes.
 
-I decided early on that I would use spaced repetition as a  [[Use spaced repetition as a memory tool for your second brain|memory tool for my second brain]] and not an [[incremental writing]] tool, although I may explore that more in the future. This doesn't mean I stopped myself from writing while reviewing my notes, but unless I have inspiration on the spot, I am not pushing myself to write. The point is to stengthen the connections of nodes in [[second brain]] because that is how I use it to remember things
+I decided early on that I would use spaced repetition as a memory tool for my [[second brain]] and not an [[incremental writing]] tool, although I may explore that more in the future. This doesn't mean I stopped myself from writing while reviewing my notes, but unless I have inspiration on the spot, I am not pushing myself to write. The point is to stengthen the connections of nodes in [[second brain]] because that is how I use it to remember things
 ^[[[Nodes in the second brain are an abstraction of our first brain]]]
 and grow my knowledge.
 ^[[[Evergreen notes organize knowledge so that it can grow]]]
@@ -37,9 +37,10 @@ flowchart TB;
  G-->|No and it's boring|Easy[Review: Easy];
 
 ```
-This process heavily leverages [[my TO(DO) and EVER(GREEN) structure]], and the interlinked nature of [[evergreen notes]]: ![[Andy Matuschak's Evergreen Notes#^8d0b78]]
+This process heavily leverages [[my TO(DO) and EVER(GREEN) structure]], and the interlinked nature of [[evergreen notes]]: [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC) 
 
-While I am doing review, I take the time to add links and tags, as I think making connections will help both my first brain and my second brain remember. I also will take time to cleanup syntax and paragraph structure, because I also [[use spaced repetition to weed your digital garden]]. 
+
+While I am reviewomg, I take the time to add links and tags, because making those connections will help both my first brain and my second brain remember. I also will take time to clean up syntax and paragraph structure, because I also [[use spaced repetition to weed your digital garden]]. 
 
 ## Challenges
 
@@ -49,6 +50,8 @@ While I wasn't pushing myself to write, because I was unconvering lots of old no
 
 ## Conclusion 
 
-My experience with this practice has been very fruitful, and I think that anyone who uses conceptual notes could benefit from this practice. By using spaced repetition for our [[evergreen notes]] we make it so that we can help our evergreens grow even when we are away from our computer: [[Evergreen notes organize knowledge so that it can grow]]
-%%^[For me, this is especially helpful because [[Neurodivergent people cannot stop their brain from solving problems]].]
-%%
+[[Spaced repetition]] is like fertalizer for evergreen notes and is an essential practice in a [[second brain]]. It helps you create, maintain, and refine connections between notes, which makes [[Your second brain should be an inspirational hub of creativity| your second brain a hub of creativity]]. It is also extremely helpful in reducing the friction of maintaining [[evergreen notes]], and helps make [[Your second brain should be frictionless access to a curated base of knowledge| your second brain frictionless access to your knowledge base]]. 
+
+In the future, I will be exploring using spaced repetition as a way to review [[source notes]], and see if it can be and [[Make your inbox into an entry point| entry point into the second brain]]. 
+
+I think this practice will be helpful for any system that uses conceptual notes, and would love to hear and see others experiences.

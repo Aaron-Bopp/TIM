@@ -637,35 +637,29 @@
               "type": "markdown",
               "state": {
                 "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
-                "mode": "preview"
+                "mode": "source"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 3,
+              "pos": 0,
               "stack": [
                 {
                   "leaf": "26eed465bce7600f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Andy Matuschak's Evergreen Notes.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":113},\"to\":{\"line\":15,\"ch\":113}},\"scroll\":3.3333333333333335}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":23.216666666666665}"
                 },
                 {
                   "leaf": "26eed465bce7600f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Andy Matuschak.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":8.583690987124463}"
                 },
                 {
                   "leaf": "26eed465bce7600f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/evergreen notes.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "26eed465bce7600f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":23.528385416666666}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":39.97222222222222}"
                 },
                 {
                   "leaf": "26eed465bce7600f",
@@ -723,6 +717,50 @@
                 }
               ]
             }
+          },
+          {
+            "id": "96f11a609224444f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Use spaced repetition to weed your digital garden.md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "96f11a609224444f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition to weed your digital garden.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":10.677966101694915}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "972413e597120230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "972413e597120230",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                }
+              ]
+            }
           }
         ],
         "direction": "vertical"
@@ -753,7 +791,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#EVER/SEED/WATER",
+                    "query": "",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": false,
@@ -830,8 +868,7 @@
                   "stack": []
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",

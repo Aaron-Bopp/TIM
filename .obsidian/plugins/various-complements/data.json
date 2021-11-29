@@ -10,5 +10,5 @@
   "enableInternalLinkComplement": true,
   "disableSuggestionsDuringImeOn": false,
   "showLogAboutPerformanceInConsole": false,
-  "insertAfterCompletion": true
+  "insertAfterCompletion": false
 }
