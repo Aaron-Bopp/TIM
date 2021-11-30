@@ -1,6 +1,6 @@
 /* ──────────────────────────────────────────────────────
 SHIMMERING FOCUS
-Version 1.182
+Version 1.188
 https://github.com/chrisgrieser/shimmering-focus/
 Created by @pseudometa
 MIT License
@@ -20,7 +20,7 @@ For help and/or CSS snippets, thanks to:
 /* < Table of Content */
 /* ─────────────────────────────────────────────────── */
 /* all sections begin with "< ", so you can search for
-"< sectionname" to navigate to the respective section.
+"< section name" to navigate to the respective section.
 This ToC is auto-generated via the .create-ToC.sh
 
 - Colors & Variables
@@ -35,13 +35,13 @@ This ToC is auto-generated via the .create-ToC.sh
 - UI Elements
 	- Title Bar
 	- Ribbons
-	- Notifications & Tooltips
+	- Notifications & Tool tips
 	- Header Bar
 	- Status Bar
 	- Scrollbar
 - Interactive Elements
 	- Buttons
-	- Toggles (Checkboxes)
+	- Toggles (Check boxes)
 	- Input & Textarea
 		- Dropdown
 		- Slider
@@ -308,6 +308,8 @@ This ToC is auto-generated via the .create-ToC.sh
 
 	--status-bar-font-size: 0.95em;
 	--mobile-font-size: 1.2rem;
+	--footnote-size: 85%;
+
 	--smallcap-font: "AlegreyaSansSC";
 	--setting-heading: "AlegreyaSansSC";
 	--button-font: "Quicksand";
@@ -2053,8 +2055,8 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 /* << Overscroll */
 /* ─────────────────────────────────────────────────── */
 
-body .markdown-preview-view {
-	padding-bottom: 20em;
+body > .app-container .markdown-preview-view:not(.kanban-plugin__markdown-preview-view) {
+	padding-bottom: 20em !important;
 	padding-left: 50px;
 }
 
@@ -2601,7 +2603,7 @@ Pseudo-Admonitions work on one-liners only */
 }
 
 /* when pseudo-admonition is also active line */
-.CodeMirror-activeline .HyperMD-header.HyperMD-header-6.CodeMirror-line {
+body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-header.HyperMD-header-6.CodeMirror-line {
 	color: var(--text-normal) !important;
 	background-color: var(--active-line) !important;
 	border-radius: var(--roundish) !important;
@@ -2671,7 +2673,7 @@ Pseudo-Admonitions work on one-liners only */
 }
 
 /* when blockquote is also active line */
-.CodeMirror-activeline .HyperMD-quote.HyperMD-quote-1.CodeMirror-line {
+body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-quote.HyperMD-quote-1.CodeMirror-line {
 	color: var(--text-normal) !important;
 	background-color: var(--active-line) !important;
 }
@@ -3000,7 +3002,7 @@ ol ul::before {
 }
 
 /* ─────────────────────────────────────────────────── */
-/* << Links */
+/* << Internal Links */
 /* ─────────────────────────────────────────────────── */
 /* hovered links in alt accent */
 .cm-string.cm-url:hover:not(.cm-formatting),
@@ -3026,12 +3028,15 @@ a.internal-link.is-unresolved:hover {
 	opacity: 0.8 !important;
 }
 
-/* dont underline the brackets */
+/* don't underline the brackets */
 .cm-url.cm-formatting {
 	text-decoration: none !important;
 }
 
-/* external links */
+/* ─────────────────────────────────────────────────── */
+/* << External Links */
+/* ─────────────────────────────────────────────────── */
+
 .external-link {
 	background-image: none;
 	padding-right: 0;
@@ -3125,7 +3130,7 @@ body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-examp
 	text-decoration: none;
 }
 
-/* prevent linebreak between emoji and tag */
+/* prevent line break between emoji and tag */
 .cm-hashtag-begin {
 	white-space: nowrap;
 }
@@ -3341,19 +3346,19 @@ input[type="checkbox"]:checked:hover {
 /* << Highlights & Selection */
 /* ─────────────────────────────────────────────────── */
 
-/* Active Line Highlight */
-.CodeMirror-activeline .CodeMirror-linebackground {
+/* <<< Active Line Highlight */
+body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-linebackground {
 	background-color: var(--active-line);
 	border-radius: var(--roundish);
 }
 
-/* Highlights */
+/* <<< Highlights */
 .markdown-preview-view mark,
 .cm-s-obsidian span.cm-highlight {
 	background-color: var(--highlight-color);
 }
 
-/* Selection (Selected Text) */
+/* <<< Selection (Selected Text) */
 .theme-light,
 .theme-dark {
 	--text-selection: var(--selection-color);
@@ -3436,7 +3441,7 @@ body:not(.no-pandoc-citation-emphasis) .cm-link.cm-quote.cm-hmd-barelink {
 /* << Footnotes */
 /* ─────────────────────────────────────────────────── */
 
-/* set space above and below horizontal line that seperates footnotes */
+/* set space above and below horizontal line that separates footnotes */
 .markdown-preview-view .footnotes hr {
 	margin-top: 60px;
 	margin-bottom: 10px;
@@ -3444,7 +3449,7 @@ body:not(.no-pandoc-citation-emphasis) .cm-link.cm-quote.cm-hmd-barelink {
 
 /* footnotes preview */
 .markdown-preview-section .footnotes {
-	font-size: 85%;
+	font-size: var(--footnote-size);
 	text-align: justify;
 	hyphens: auto;
 }
@@ -3467,7 +3472,7 @@ span.cm-link.cm-hmd-footnote {
 	hyphens: auto;
 }
 
-/* remove underline which only decreases redability */
+/* remove underline which only decreases readability */
 .markdown-preview-view a.footnote-link {
 	text-decoration: none;
 }
@@ -5107,7 +5112,7 @@ button.MS-OpenSnippet:hover svg.ms-snippet path {
 /* << Breadcrumbs */
 /* ─────────────────────────────────────────────────── */
 
-/* bugfix */
+/* bug fix */
 body > .app-container .BC-Matrix-square > ol {
 	padding-left: 33px;
 }
@@ -5138,32 +5143,45 @@ body > .app-container div.view-content {
 	padding: 0 2.5px 2.5px;
 }
 
-h3.BC-Matrix-header {
+h4.BC-Matrix-header {
 	display: inline-flex;
-	margin-left: 5px !important;
+	margin-left: 0;
 	font-family: var(--default-font);
 	font-size: 1.25em;
+	font-style: unset !important;
 }
 
-h5.BC-Matrix-header {
+h6.BC-Matrix-header {
 	display: inline-block;
 
-	position: absolute;
-	right: 5px;
+	position: relative;
+	right: 0;
 
 	color: var(--text-muted) !important;
 
-	margin-top: 5px !important;
+	border: none;
+	border-left: none !important;
 
 	font-family: var(--smallcap-font);
 	font-size: 0.9em;
 }
 
-.workspace-leaf-content[data-type="BC-matrix"] > .view-content > button {
+.workspace-leaf-content[data-type="BC-matrix"] .view-content button {
 	display: none;
 }
 
+/* Down view */
+.workspace-leaf-content[data-type="BC-down"] .view-content > div:first-child {
+	display: none;
+}
+
+.workspace-leaf-content[data-type="BC-down"] .view-content {
+	padding-top: 5px;
+	/* white-space: pre-line; */
+}
+
 /* unresolved links */
+body > .app-container .internal-link.is-unresolved,
 body > .app-container .BC-Link.is-unresolved {
 	color: var(--unresolved-link-color);
 	opacity: var(--unresolved-opacity);
@@ -5295,6 +5313,11 @@ body > .app-container .cm-s-obsidian .hmd-link-icon {
 	background-image: var(--external-url);
 	margin-bottom: 3px;
 	background-repeat: no-repeat;
+}
+
+/* fix for link icon in footnotes */
+body > .app-container .cm-s-obsidian .HyperMD-footnote .hmd-link-icon {
+	width: 1.1em;
 }
 
 /* move and shrink copy button */
@@ -5960,7 +5983,7 @@ settings:
   -
 	 id: miscellaneous
 	 title: Miscellaneous
-	 description: Popovers, Pandoc Citations, Annotation Tags
+	 description: Popovers, Pandoc Citations, Annotation Tags, Active Line Highlighting
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -5984,6 +6007,11 @@ settings:
 	 id: annotation-tags-off
 	 title: 'Turn off "Annotation Tags"'
 	 description: '"Annotation Tags" will visually emphasize some tags that are commonly used for academic reading.'
+	 type: class-toggle
+	 default: false
+  -
+	 id: no-active-line-highlighting
+	 title: Turn off Active Line Highlighting
 	 type: class-toggle
 	 default: false
 */

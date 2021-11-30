@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2299091,
-  "currentSyncStatusID": 2304127,
+  "lastSavedStatusID": 2304127,
+  "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
   "booksIDsMap": {
@@ -315,7 +315,8 @@
     "10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md": "12078573",
     "10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md": "12079302",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md": "12079975",
-    "10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md": "12092966"
+    "10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md": "12092966",
+    "10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md": "12093364"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",

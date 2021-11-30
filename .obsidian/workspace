@@ -7,17 +7,82 @@
         "id": "70ebabbf909dd635",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/What makes a note evergreen.md",
+            "mode": "source"
+          }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "70ebabbf909dd635",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "70ebabbf909dd635",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":24.43567360235007}"
+            },
             {
               "leaf": "70ebabbf909dd635",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "76ec901f21f3051e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+            "mode": "preview"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "76ec901f21f3051e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "76ec901f21f3051e",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "c77bc2a24f334089",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c77bc2a24f334089",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.615530447526417}"
             }
           ]
         }
@@ -70,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/What makes a note evergreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -102,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/What makes a note evergreen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -183,7 +251,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40_Evergreens/What makes a note evergreen.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -228,6 +298,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/What makes a note evergreen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -334,20 +405,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312,
-    "collapsed": true
+    "width": 710.2000122070312
   },
   "active": "70ebabbf909dd635",
   "lastOpenFiles": [
+    "40_Evergreens/What makes a note evergreen.md",
+    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+    "50_Projects/Using spaced repetition for your conceptual notes.md",
     "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
     "40_Evergreens/Use spaced repetition to weed your digital garden.md",
     "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
     "30_Topics/31_Stubs/powershell.md",
     "30_Topics/31_Stubs/pandoc.md",
     "10_Sources/Andy Matuschak's Evergreen Notes.md",
-    "40_Evergreens/Tips for concentration.md",
-    "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
-    "50_Projects/Using spaced repetition for your conceptual notes.md",
-    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
+    "40_Evergreens/Tips for concentration.md"
   ]
 }

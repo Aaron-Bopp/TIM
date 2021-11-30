@@ -38,7 +38,20 @@ sr-ease: 199
                     -  this note has a lot of backlinks >= sprout
                     -  note has more backlinks than forward links = green
 
-
+```mermaid
+flowchart TB;
+Q1-->|No|#EVER/SEED/UNPLANTED
+Q1[Does the note have topics or backlinks?]-->|Yes|Q2[Note has a body?]
+Q2-->|No|#EVER/SEED/WATER
+Q2-->|Yes|Q3[Do I agree with what the note is saying?]
+Q3-->|No|WORK[#EVER/**/PRUNE + #TO/TEND tags]
+Q3-->|Yes|Q4[Is the note a complete concept?]
+Q4-->|Yes|Q5[Is the note used a lot? (in practice or in other notes)]
+Q5-->|Yes|#EVER/GREEN
+Q5-->|No|Q6
+Q4-->|No|Q6[Do I have more to say?]
+Q6-->|Yes|WATER[#EVER/SPROUT/WATER or #EVER/GREEN/GR]
+```
 
 - [ ] #TO/DO/CREATE flow chart, [[Mermaid (software)]]?
  
