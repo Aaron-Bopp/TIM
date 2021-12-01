@@ -8407,8 +8407,8 @@
     },
     "40_Evergreens/What makes a note evergreen.md": {
       "size": 2447,
-      "tags": 4,
-      "links": 15
+      "tags": 3,
+      "links": 11
     },
     "40_Evergreens/We will evolve when we make learning as easy as thinking.md": {
       "size": 0,
@@ -9009,13 +9009,18 @@
       "size": 694,
       "tags": 2,
       "links": 1
+    },
+    "40_Evergreens/Organization systems are not mutually exclusive.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1430,
-      "Create": 1955,
-      "Link": 3253,
+      "Refactor": 1433,
+      "Create": 1956,
+      "Link": 3256,
       "Expand": 110
     },
     "40 Evergreens": {
@@ -9037,8 +9042,8 @@
       "7": 0,
       "8": 24,
       "9": 372,
-      "10": 52,
-      "11": 39,
+      "10": 55,
+      "11": 43,
       "12": 336,
       "13": 65,
       "14": 2226,
@@ -9082,7 +9087,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 212,
-      "Tue": 602,
+      "Tue": 609,
       "Wed": 1257,
       "Thu": 355,
       "Fri": 69,
@@ -9155,6 +9160,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md\"> tweets_Tweets From Hank Green </a>",
@@ -9204,8 +9210,7 @@
         "<a class=\"internal-link\" href=\"Microagressions.md\"> Microagressions </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mysogyny.md\"> mysogyny </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microagressions.md\"> Microagressions </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
@@ -9261,6 +9266,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/my emotions.md\"> my emotions </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
@@ -9310,8 +9316,7 @@
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\"> McCarthyism is an attack on totalitarianism not communism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\"> McCarthyism is an attack on totalitarianism not communism </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9376,6 +9381,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
@@ -9424,11 +9431,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans love to group eachother.md\"> Humans love to group eachother </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Ronald Reagan invented modern conservatism.md\"> Ronald Reagan invented modern conservatism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
@@ -9478,10 +9484,11 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSPROUTS.md\"> EVERSPROUTS </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/LAST-WEEK.md\"> LAST-WEEK </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/LAST-WEEK.md\"> LAST-WEEK </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
@@ -9530,9 +9537,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/Exam1_review_guide_chpt1-3.md\"> Exam1_review_guide_chpt1-3 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Analogies_of_Religious_Violence_in_Minec.md\"> Analogies_of_Religious_Violence_in_Minec </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/3 Gerrymandering and Voter Laws 2020 poa.md\"> 3 Gerrymandering and Voter Laws 2020 poa </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/From Bronze to Iron.md\"> From Bronze to Iron </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Government Exam #2 Study Guide.md\"> Government Exam #2 Study Guide </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/Research Paper Thoughts.md\"> Research Paper Thoughts </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/From Bronze to Iron.md\"> From Bronze to Iron </a>"
       ]
     },
     "40 Evergreens": {

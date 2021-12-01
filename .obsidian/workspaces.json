@@ -631,46 +631,12 @@
         "type": "split",
         "children": [
           {
-            "id": "70ebabbf909dd635",
+            "id": "f7788c04b318e9fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "40_Evergreens/What makes a note evergreen.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "leaf": "70ebabbf909dd635",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "70ebabbf909dd635",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":10},\"to\":{\"line\":52,\"ch\":10}},\"scroll\":25.11760054286121}"
-                },
-                {
-                  "leaf": "70ebabbf909dd635",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "76ec901f21f3051e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
                 "mode": "preview"
               }
             },
@@ -678,40 +644,45 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "76ec901f21f3051e",
+                  "leaf": "f7788c04b318e9fc",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "76ec901f21f3051e",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":13.633644745728681}"
                 }
               ]
             }
           },
           {
-            "id": "c77bc2a24f334089",
+            "id": "5ad0b4a5c2315073",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
-                "mode": "source"
+                "file": "40_Evergreens/Organization systems are not mutually exclusive.md",
+                "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "c77bc2a24f334089",
+                  "leaf": "5ad0b4a5c2315073",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.615530447526417}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":11.34848450169419}"
                 }
               ]
+            }
+          },
+          {
+            "id": "cd3eaed640ea4dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+                "mode": "preview"
+              }
             }
           }
         ],
@@ -1032,9 +1003,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 710.2000122070312
+        "width": 710.2000122070312,
+        "collapsed": true
       },
-      "active": "70ebabbf909dd635"
+      "active": "f7788c04b318e9fc"
     }
   },
   "active": "16:9 NOW"
