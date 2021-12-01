@@ -1,0 +1,55 @@
+/* RAINBOW INDENT COLORS */
+:root {
+    --left-offset: 4.3px;
+    --indent-width: 18px;
+    --line-width: 1.5px;
+    --color-count: 8;
+
+    --indent-1: #6854c1;
+    --indent-2: #c724b1;
+    --indent-3: #ff6900;
+    --indent-4: #f6be00;
+    --indent-5: #e4002b;
+    --indent-6: #97d700;
+    --indent-7: #00ab84;
+    --indent-8: #00a3e0;
+
+    --indent-bg-size: calc(var(--color-count) * var(--indent-width)) 1px;
+    --indent-rainbow-bg: linear-gradient(
+        to right,
+        var(--indent-1) 0 var(--line-width),
+        transparent var(--line-width) calc(1 * var(--indent-width)),
+        var(--indent-2) calc(1 * var(--indent-width)) calc(1 * var(--indent-width) + var(--line-width)),
+        transparent calc(1 * var(--indent-width) + var(--line-width)) calc(2 * var(--indent-width)),
+        var(--indent-3) calc(2 * var(--indent-width)) calc(2 * var(--indent-width) + var(--line-width)),
+        transparent calc(2 * var(--indent-width) + var(--line-width)) calc(3 * var(--indent-width)),
+        var(--indent-4) calc(3 * var(--indent-width)) calc(3 * var(--indent-width) + var(--line-width)),
+        transparent calc(3 * var(--indent-width) + var(--line-width)) calc(4 * var(--indent-width)),
+        var(--indent-5) calc(4 * var(--indent-width)) calc(4 * var(--indent-width) + var(--line-width)),
+        transparent calc(4 * var(--indent-width) + var(--line-width)) calc(5 * var(--indent-width)),
+        var(--indent-6) calc(5 * var(--indent-width)) calc(5 * var(--indent-width) + var(--line-width)),
+        transparent calc(5 * var(--indent-width) + var(--line-width)) calc(6 * var(--indent-width)),
+        var(--indent-7) calc(6 * var(--indent-width)) calc(6 * var(--indent-width) + var(--line-width)),
+        transparent calc(6 * var(--indent-width) + var(--line-width)) calc(7 * var(--indent-width)),
+        var(--indent-8) calc(7 * var(--indent-width)) calc(7 * var(--indent-width) + var(--line-width)),
+        transparent calc(7 * var(--indent-width) + var(--line-width)) calc(8 * var(--indent-width))
+    );
+}
+
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line {
+    overflow: hidden;
+}
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line .cm-hmd-list-indent {
+    position: relative;
+}
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line .cm-hmd-list-indent::before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: -1.6em;
+    padding-bottom: 999em;
+    background-image: var(--indent-rainbow-bg);
+    background-size: var(--indent-bg-size);
+    left: var(--left-offset);
+}

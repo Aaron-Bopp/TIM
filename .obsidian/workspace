@@ -9,53 +9,98 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/What makes a note evergreen.md",
-            "mode": "preview"
+            "file": "10_Sources/Psychology of Race and Gender notes.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "f7788c04b318e9fc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":12.253787792090215}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "5ad0b4a5c2315073",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Organization systems are not mutually exclusive.md",
-            "mode": "preview"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Intergroup contact theory.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":53},\"to\":{\"line\":11,\"ch\":53}},\"scroll\":0}"
+            },
             {
-              "leaf": "5ad0b4a5c2315073",
+              "leaf": "f7788c04b318e9fc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":11.34848450169419}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":213,\"ch\":8},\"to\":{\"line\":213,\"ch\":8}},\"scroll\":0}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are support systems.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/America.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":21.335526315789473}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/My TIM.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":43.379625813463704}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/evergreen notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":1.699999968210856}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Be the change you want to see in the world.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/anxiety.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":2.8999999364217124}"
+            },
+            {
+              "leaf": "f7788c04b318e9fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":12.482242762485397}"
             }
           ]
-        }
-      },
-      {
-        "id": "cd3eaed640ea4dcc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
-            "mode": "preview"
-          }
         }
       }
     ],
@@ -106,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/What makes a note evergreen.md",
+                "file": "10_Sources/Psychology of Race and Gender notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -139,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/What makes a note evergreen.md",
+                "file": "10_Sources/Psychology of Race and Gender notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/What makes a note evergreen.md"
+                "file": "10_Sources/Psychology of Race and Gender notes.md"
               }
             },
             "pane-relief:history-v1": {
@@ -269,7 +314,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/What makes a note evergreen.md",
+                "file": "10_Sources/Psychology of Race and Gender notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -376,20 +421,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.2000122070312,
-    "collapsed": true
+    "width": 710.2000122070312
   },
   "active": "f7788c04b318e9fc",
   "lastOpenFiles": [
-    "40_Evergreens/What makes a note evergreen.md",
-    "40_Evergreens/Organization systems are not mutually exclusive.md",
+    "10_Sources/Psychology of Race and Gender notes.md",
+    "30_Topics/32_Terms/Intergroup contact theory.md",
+    "40_Evergreens/Friction is the number one hindrance to learning.md",
+    "40_Evergreens/Stereotyping has the pyschological goal of comprehension and self-enhancement.md",
+    "40_Evergreens/Communities are support systems.md",
+    "30_Topics/31_Stubs/America.md",
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
-    "50_Projects/Using spaced repetition for your conceptual notes.md",
-    "40_Evergreens/Use spaced repetition as a memory tool for your second brain.md",
-    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
-    "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
-    "30_Topics/31_Stubs/powershell.md",
-    "30_Topics/31_Stubs/pandoc.md",
-    "10_Sources/Andy Matuschak's Evergreen Notes.md"
+    "40_Evergreens/Organization systems are not mutually exclusive.md",
+    "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
+    "30_Topics/My TIM.md"
   ]
 }

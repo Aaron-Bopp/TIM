@@ -4014,7 +4014,7 @@ cite {
 .theme-dark pre[class*=language-],
 .theme-light code[class*=language-],
 .theme-light pre[class*=language-] {
-  --background-primary-alt: var(--color-primary-w);
+  --background-primary-alt: var.$color-white;
 }
 
 .theme-dark .markdown-preview-view code,
@@ -4574,6 +4574,7 @@ button.mod-warning {
   padding: 8px 40px 8px 16px;
   font-size: 0.875rem;
   font-weight: 400;
+  font-family: var(--font-ui);
 }
 
 button.mod-cta {
@@ -4583,6 +4584,7 @@ button.mod-cta {
   padding: 8px 40px 8px 16px;
   font-size: 0.875rem;
   font-weight: 400;
+  font-family: var(--font-ui);
   background-color: var(--color-accent);
 }
 button.mod-cta:hover {
@@ -4600,6 +4602,7 @@ button.mod-cta:active {
   padding: 4px 16px 4px 16px;
   font-size: 0.875rem;
   font-weight: 400;
+  font-family: var(--font-ui);
   background-color: var(--color-primary-20);
   outline: 1px solid transparent;
 }
@@ -4621,6 +4624,7 @@ button.mod-cta:active {
   padding: 4px 4px 2px 4px;
   font-size: 0.875rem;
   font-weight: 400;
+  font-family: var(--font-ui);
   background-color: var(--color-primary-20);
 }
 
@@ -4630,6 +4634,7 @@ button.mod-cta:active {
   padding: 8px 40px 8px 16px;
   font-size: 0.875rem;
   font-weight: 400;
+  font-family: var(--font-ui);
   background-color: var(--color-hover);
 }
 
@@ -4640,6 +4645,7 @@ button.mod-cta:active {
   padding: 8px 40px 8px 16px;
   font-size: 0.875rem;
   font-weight: 400;
+  font-family: var(--font-ui);
   background-color: var(--color-primary-20);
 }
 
@@ -4751,6 +4757,7 @@ span[title="Unfold line"]:hover,
 
 select.dropdown {
   appearance: none;
+  font-family: var(--font-ui);
   font-size: 0.875rem;
   font-weight: 400;
   color: var(--text-normal);
@@ -5596,7 +5603,7 @@ input[type=range]::-webkit-slider-thumb {
   content: "";
   display: inline-block;
   position: absolute;
-  background-color: var(--color-primary-k);
+  background-color: #fcfbfa;
   width: 18px;
   height: 18px;
   top: 0.5px;
@@ -7075,12 +7082,12 @@ body div#wordsprint div#sprintActionPanel button:not(.statsTab):not(.goalsTab) {
 }
 
 body .view-content div#wordsprint div#sprintActionPanel button.sprintStart {
-  background-color: var(--color-green);
+  background-color: #a1a344;
   color: #fcfbfa;
 }
 
 body .view-content div#wordsprint div#sprintActionPanel button.sprintStop {
-  background-color: var(--color-red);
+  background-color: #c42827;
   color: #fcfbfa;
 }
 
@@ -7106,17 +7113,21 @@ div#wordsprint div#sprintViewStats {
 
 body div#wordsprint .success {
   color: #fcfbfa;
-  background-color: var(--color-green);
+  background-color: #a1a344;
 }
 
 body div#wordsprint .warning {
   color: #141414;
-  background-color: var(--color-yellow);
+  background-color: #eab746;
 }
 
 body div#wordsprint .danger {
   color: #fcfbfa;
-  background-color: var(--color-red);
+  background-color: #c42827;
+}
+
+div#wordsprint button {
+  font-family: var(--font-ui);
 }
 
 body:not(.no-sanctum-icons) svg.add-note-glyph,

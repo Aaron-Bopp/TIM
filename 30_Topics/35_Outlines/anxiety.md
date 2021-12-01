@@ -20,7 +20,7 @@ a feeling of worry, nervousness, or unease about something with an uncertain out
 	- [[Your anxiety knows your insecurities better than you do]]
 - How [[anxiety]] manifests
 	- ![[social anxiety#social anxiety customJS dv_funcs topicOutlineHeader dv this]]
-	- ![[social discomfort#social discomfort customJS dv_funcs topicOutlineHeader dv this]]
+        - ![[social discomfort#social discomfort customJS dv_funcs topicOutlineHeader dv this]]
 	- [[videoRejection Sensitivity|Rejection Sensitivity]]
 	- Overthinking
 	- [[Agoraphobia]]

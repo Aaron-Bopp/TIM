@@ -1,6 +1,6 @@
 /* ──────────────────────────────────────────────────────
 SHIMMERING FOCUS
-Version 1.188
+Version 1.209
 https://github.com/chrisgrieser/shimmering-focus/
 Created by @pseudometa
 MIT License
@@ -171,12 +171,12 @@ This ToC is auto-generated via the .create-ToC.sh
 	--active-line: hsl(62 11% 63% / 12.5%);
 	--cursor-monocolor: var(--accent-lighter);
 	--resize-handle-thickness: 4px;
-	--toggle-duration: 250ms;
+	--toggle-duration: 400ms;
 	--scrollbar-thickness: 0.6em;
-	--image-size: 50%;
+	--image-size: 50;
 	--pdf-size: 50vh;
 	--popover-size: 350;
-	--inactive-pane-opacity: 85%;
+	--inactive-pane-opacity: 80%;
 	--signature: "⟡";
 }
 
@@ -304,7 +304,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--sidebar-font-size: 0.85rem;
 
 	--menu-font-family: "iA Writer Quattro V";
-	--menu-font-size: 1em;
+	--menu-font-size: 1rem;
 
 	--status-bar-font-size: 0.95em;
 	--mobile-font-size: 1.2rem;
@@ -339,6 +339,7 @@ select.dropdown {
 	letter-spacing: 1px;
 }
 
+input[type="text"],
 input[type="email"],
 input[type="password"],
 input.prompt-input,
@@ -399,20 +400,15 @@ body,
 	font-variant-numeric: tabular-nums;
 }
 
-/* bugfix for mermaid font */
-.mermaid {
-	--mermaid-font: "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif; /* stylelint-disable-line max-line-length */
-}
-
 /* << Bold */
 .theme-dark .cm-strong,
 .theme-dark .markdown-preview-view strong {
 	color: var(--bold-in-darkmode);
 }
 
-.suggestion-highlight,
 .cm-strong,
 .markdown-preview-view strong,
+.suggestion-highlight,
 .nav-file-title.is-active {
 	font-weight: 700;
 	text-rendering: geometricPrecision;
@@ -472,8 +468,8 @@ body.angular-shapes {
 }
 
 body.mono-color-cursor .CodeMirror-cursor {
-	border-color: var(--cursor-monocolor);
 	border-image: none;
+	border-color: var(--cursor-monocolor);
 }
 
 body.block-cursor .CodeMirror-cursor {
@@ -663,14 +659,14 @@ body:not(.show-header-bar):not(.is-mobile) .view-header {
 
 	background-color: var(--background-primary) !important;
 
-	transition: 300ms;
+	transition: 350ms ease-in-out;
 
 	border-color: var(--text-faint);
 	border-top: none;
 	border-bottom: none !important;
 }
 
-body:not(.is-mobile) .view-header-title-container::after {
+body:not(.is-mobile) .view-header-title-container::AFTER {
 	display: none;
 }
 
@@ -687,7 +683,7 @@ body:not(.show-header-bar):not(.is-mobile) .view-header:hover,
 body:not(.show-header-bar):not(.is-mobile) .view-header:focus-within {
 	height: 1.9em !important;
 	background-color: var(--background-secondary) !important;
-	transition: 300ms;
+	transition: 350ms ease-in-out;
 }
 
 body.show-header-bar:not(.is-mobile) .view-header {
@@ -738,7 +734,7 @@ body:not(.is-mobile) .view-header:focus-within {
 https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme */
 
 .status-bar-item,
-.status-bar::after {
+.status-bar::AFTER {
 	color: var(--extra-contrast);
 	padding: 0 0 0 14px;
 }
@@ -747,7 +743,7 @@ https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme */
 	padding-left: 0;
 }
 
-.status-bar::after {
+.status-bar::AFTER {
 	content: var(--signature);
 }
 
@@ -779,16 +775,16 @@ body:not(.default-statusbar) .status-bar {
 /* only show on hover */
 body:not(.show-statusbar):not(.default-statusbar) .status-bar {
 	opacity: 0;
-	transition: 800ms;
+	transition: 800ms ease-in-out;
 }
 
 body:not(.show-statusbar):not(.default-statusbar) .status-bar:hover {
 	opacity: 1;
-	transition: 200ms;
+	transition: 200ms ease-in-out;
 }
 
 /* so stuff on the bottom of the right sidebar can still be clicked */
-body:not(.default-statusbar) .mod-right-split .workspace-leaf-content {
+body:not(.default-statusbar) .mod-right-split .workspace-tabs:last-child .workspace-leaf-content {
 	padding-bottom: 2em;
 }
 
@@ -797,25 +793,25 @@ body:not(.default-statusbar) .mod-right-split .workspace-leaf-content {
 /* ─────────────────────────────────────────────────── */
 
 /* hide all scrollbars except the one for the editor */
-body:not(.show-scrollbar) ::-webkit-scrollbar {
+body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 	display: none;
 	width: var(--scrollbar-thickness);
 }
 
-.workspace-split.mod-vertical ::-webkit-scrollbar {
+.workspace-split.mod-vertical ::-WEBKIT-SCROLLBAR {
 	display: unset;
 }
 
 /* hover / active colors */
-::-webkit-scrollbar-thumb:hover {
+::-WEBKIT-SCROLLBAR-THUMB:hover {
 	background-color: var(--scrollbar-hover);
 }
 
-::-webkit-scrollbar:hover {
+::-WEBKIT-SCROLLBAR:hover {
 	background-color: var(--background-secondary-alt);
 }
 
-::-webkit-scrollbar-thumb:active {
+::-WEBKIT-SCROLLBAR-THUMB:active {
 	background-color: var(--scrollbar-active) !important;
 }
 
@@ -850,13 +846,13 @@ button:hover {
 }
 
 body:not(.normal-checkboxes) .checkbox-container:hover {
-	transition-duration: var(--toggle-duration);
+	transition: var(--toggle-duration) ease-in-out;
 	border: 9px solid var(--alt-accent);
 }
 
 body:not(.normal-checkboxes) .checkbox-container.is-enabled:hover {
 	background-color: var(--background-secondary);
-	transition-duration: var(--toggle-duration);
+	transition: var(--toggle-duration) ease-in-out;
 	border: 9px solid var(--alt-accent-lighter);
 }
 
@@ -866,7 +862,7 @@ body:not(.normal-checkboxes) .checkbox-container {
 
 	background-color: var(--background-secondary);
 
-	transition-duration: var(--toggle-duration);
+	transition: var(--toggle-duration) ease-in-out;
 	cursor: pointer;
 
 	border: 2px solid var(--text-accent);
@@ -878,7 +874,7 @@ body.angular-shapes .checkbox-container {
 	width: 19px;
 }
 
-body:not(.normal-checkboxes) .checkbox-container::after {
+body:not(.normal-checkboxes) .checkbox-container::AFTER {
 	display: none;
 }
 
@@ -1104,19 +1100,20 @@ body:not(.app-container) .suggestion-container {
 /* << Close Buttons */
 /* ─────────────────────────────────────────────────── */
 
-div.search-input-clear-button::before,
+div.search-input-clear-button::BEFORE,
 .empty-state-close-button,
 .modal-close-button {
+	z-index: 100;
 	color: var(--text-muted);
 	background-color: var(--background-secondary-alt);
 }
 
-div.search-input-clear-button::before {
+div.search-input-clear-button::BEFORE {
 	background-color: transparent;
 }
 
 .document-search-close-button:hover,
-div.search-input-clear-button:hover::before,
+div.search-input-clear-button:hover::BEFORE,
 .empty-state-close-button:hover,
 .modal-close-button:hover {
 	color: var(--alt-accent);
@@ -1169,7 +1166,8 @@ body:not(.show-close-button) .modal-close-button:hover {
 /* << QuickSwitcher */
 /* ─────────────────────────────────────────────────── */
 
-.prompt {
+div.prompt {
+	padding: 3px;
 	border: 5px solid var(--background-secondary);
 	border-radius: calc(var(--roundish) * 2);
 }
@@ -1177,7 +1175,7 @@ body:not(.show-close-button) .modal-close-button:hover {
 input.prompt-input {
 	width: unset;
 	padding-top: 7px;
-	margin: 5px 2px 8px;
+	margin: 3px 2px 8px;
 	border-radius: calc(var(--roundish) * 1.5);
 }
 
@@ -1186,34 +1184,20 @@ div.prompt-results {
 	border-radius: var(--roundish);
 }
 
-div.prompt {
-	padding: 3px;
-}
-
-/* the plugin name */
 .suggestion-prefix {
 	color: var(--text-muted);
-	opacity: 0.9;
-
-	padding-right: 3px;
-
 	font-family: var(--smallcap-font);
-	font-size: 1.1em;
+	font-size: 1em;
 	letter-spacing: -0.1px;
+}
+
+.suggestion-prefix::AFTER {
+	display: none;
 }
 
 .suggestion-item {
 	padding-left: 25px;
 	border-radius: var(--roundish);
-}
-
-/* Alternating row colors */
-body:not(.no-alternating-rows) .suggestion-item:nth-child(even) {
-	background-color: var(--a-row);
-}
-
-body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-hotkey {
-	background-color: var(--background-primary);
 }
 
 /* Hide instructions */
@@ -1230,9 +1214,9 @@ body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-hotk
 /* color selected / hovered */
 .suggestion-item.is-selected,
 .suggestion-item:hover,
-body:not(.no-alternating-rows) .suggestion-item:nth-child(even):hover,
-body:not(.no-alternating-rows) .suggestion-item.is-selected:nth-child(even) {
-	background-color: var(--background-secondary-alt);
+.suggestion-item.is-selected .suggestion-prefix,
+.suggestion-item:hover .suggestion-prefix {
+	background-color: var(--background-secondary-alt) !important;
 }
 
 .suggestion-item.is-selected .suggestion-prefix,
@@ -1253,15 +1237,35 @@ body:not(.no-alternating-rows) .suggestion-item.is-selected:nth-child(even) {
 }
 
 .suggestion-item:hover .suggestion-flair,
-.suggestion-item.is-selected .suggestion-flair,
-.suggestion-item.is-selected .suggestion-prefix,
-.suggestion-item:hover .suggestion-prefix {
+.suggestion-item.is-selected .suggestion-flair {
 	opacity: 0.6;
 }
 
 .suggestion-item.is-selected .suggestion-hotkey,
 .suggestion-item:hover .suggestion-hotkey {
 	background-color: var(--background-primary-alt);
+}
+
+/* move plugin name to the right */
+body:not(.move-plugin-name-to-left) div.prompt {
+	min-width: 700px;
+}
+
+body:not(.move-plugin-name-to-left) .suggestion-prefix {
+	position: absolute;
+	right: 100px;
+	background: var(--background-primary);
+	padding-left: 8px;
+}
+
+/* Alternating row colors */
+body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-prefix,
+body:not(.no-alternating-rows) .suggestion-item:nth-child(even) {
+	background-color: var(--background-primary-alt);
+}
+
+body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-hotkey {
+	background-color: var(--background-primary);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -1360,6 +1364,9 @@ body > .app-container .workspace-split.mod-horizontal > .workspace-tabs > .works
 /* ─────────────────────────────────────────────────── */
 /* << Resize Handles */
 /* ─────────────────────────────────────────────────── */
+/* see also the change of resize handle height depending
+on the titlebar visibility, see the titlebar section */
+
 /* thicker resize handles */
 .workspace-split.mod-horizontal > .workspace-leaf-resize-handle {
 	width: var(--resize-handle-thickness);
@@ -1380,7 +1387,7 @@ body .workspace-leaf-resize-handle:active {
 }
 
 /* ─────────────────────────────────────────────────── */
-/* < Settings & Modals */
+/* < Modals & Settings */
 /* ─────────────────────────────────────────────────── */
 
 /* ─────────────────────────────────────────────────── */
@@ -1434,6 +1441,25 @@ body .workspace-leaf-resize-handle:active {
 	max-width: unset;
 	border: var(--alt-border);
 	border-radius: calc(var(--roundish) * 3);
+}
+
+/* ─────────────────────────────────────────────────── */
+/* << Confirmation Modal */
+/* ─────────────────────────────────────────────────── */
+
+.mod-confirmation input[type="text"] {
+	width: 65%;
+}
+
+.mod-confirmation .modal-title {
+	margin-bottom: 35px;
+	font-family: var(--smallcap-font);
+	font-size: calc(var(--h1-size) * 1.25);
+}
+
+.modal-container.mod-confirmation > .modal {
+	width: 50%;
+	padding: 20px 5px 35px;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -1530,7 +1556,7 @@ body .workspace-leaf-resize-handle:active {
 
 .vertical-tab-content {
 	background: var(--background-primary);
-	padding: 11px 21px 8em; /* bottom padding creates overscroll */
+	padding: 12px 21px;
 }
 
 .vertical-tab-header-group {
@@ -1648,6 +1674,25 @@ p.u-center-text {
 	border-top: var(--basic-border);
 }
 
+/* community plugin list */
+.installed-plugins-container .setting-item-description > div:first-child {
+	font-family: var(--smallcap-font);
+	line-height: 1.1em;
+
+	/* hide "Version: " in front of version number */
+	overflow-x: hidden;
+	text-indent: -3.4em;
+}
+
+/* Hotkey search */
+.hotkey-search-container {
+	padding-bottom: 10px;
+}
+
+.hotkey-search-container input {
+	width: 350px;
+}
+
 /* ─────────────────────────────────────────────────── */
 /* << Community Plugin Browser */
 /* ─────────────────────────────────────────────────── */
@@ -1687,7 +1732,7 @@ p.u-center-text {
 	text-align: end;
 }
 
-.community-plugin-downloads::before,
+.community-plugin-downloads::BEFORE,
 .community-plugin-downloads,
 .community-plugin-desc,
 .community-plugin-search .community-plugin-version {
@@ -1721,7 +1766,7 @@ p.u-center-text {
 }
 
 /* lowercase "by" */
-.community-plugin-search .community-plugin-author::first-letter {
+.community-plugin-search .community-plugin-author::FIRST-LETTER {
 	text-transform: lowercase;
 }
 
@@ -1762,8 +1807,8 @@ p.u-center-text {
 	line-height: 1;
 }
 
-.community-plugin-info .community-plugin-name .flair.mod-pop::before,
-.community-plugin-search .flair.mod-pop::before {
+.community-plugin-info .community-plugin-name .flair.mod-pop::BEFORE,
+.community-plugin-search .flair.mod-pop::BEFORE {
 	content: "✓";
 
 	color: var(--interactive-normal);
@@ -1779,7 +1824,7 @@ p.u-center-text {
 	line-height: 0.8;
 }
 
-.community-plugin-info .community-plugin-name .flair.mod-pop::before {
+.community-plugin-info .community-plugin-name .flair.mod-pop::BEFORE {
 	font-size: 1.2rem;
 	vertical-align: bottom;
 }
@@ -1789,13 +1834,13 @@ p.u-center-text {
 	display: none;
 }
 
-.community-plugin-search .community-plugin-downloads::before,
+.community-plugin-search .community-plugin-downloads::BEFORE,
 .community-plugin-search .community-plugin-downloads-text {
 	color: var(--extra-contrast);
 	font-size: 0.9em;
 }
 
-.community-plugin-downloads::before {
+.community-plugin-downloads::BEFORE {
 	content: "↓";
 	vertical-align: top;
 }
@@ -1805,12 +1850,12 @@ p.u-center-text {
 	color: var(--alt-accent);
 }
 
-.community-plugin-item:hover .community-plugin-name .flair.mod-pop::before {
+.community-plugin-item:hover .community-plugin-name .flair.mod-pop::BEFORE {
 	opacity: 0.4;
 }
 
 .community-plugin-item:hover .community-plugin-author,
-.community-plugin-item:hover .community-plugin-downloads::before,
+.community-plugin-item:hover .community-plugin-downloads::BEFORE,
 .community-plugin-item:hover .community-plugin-downloads-text,
 .community-plugin-item:hover .community-plugin-desc {
 	opacity: 0.7;
@@ -1839,7 +1884,7 @@ p.u-center-text {
 	font-size: 1em;
 }
 
-.community-plugin-info .community-plugin-downloads::before,
+.community-plugin-info .community-plugin-downloads::BEFORE,
 .community-plugin-info .community-plugin-downloads {
 	margin-top: 0;
 	font-size: 1.2em;
@@ -1859,12 +1904,12 @@ p.u-center-text {
 	vertical-align: unset;
 }
 
-.community-plugin-info .community-plugin-downloads::before {
+.community-plugin-info .community-plugin-downloads::BEFORE {
 	font-family: unset;
 	font-size: 1.1em;
 }
 
-.community-plugin-info .community-plugin-author:nth-child(3)::first-letter {
+.community-plugin-info .community-plugin-author:nth-child(3)::FIRST-LETTER {
 	text-transform: lowercase;
 }
 
@@ -1914,8 +1959,8 @@ p.u-center-text {
 	padding-top: 16rem;
 }
 
-.community-plugin-details-empty-state::after,
-.empty-state-title::after {
+.community-plugin-details-empty-state::AFTER,
+.empty-state-title::AFTER {
 	content: var(--signature);
 	color: var(--extra-contrast);
 	font-size: 11rem;
@@ -1980,7 +2025,7 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 	border-color: var(--button-border) !important;
 }
 
-.modal.mod-community-theme .community-plugin-downloads-text::before {
+.modal.mod-community-theme .community-plugin-downloads-text::BEFORE {
 	content: "↓ ";
 }
 
@@ -2013,9 +2058,15 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 }
 
 .theme-light .modal.mod-community-theme .community-theme.is-selected .clickable-icon svg,
-.theme-light .modal.mod-community-theme .community-theme.is-selected .community-plugin-downloads-text::before,
+.theme-light .modal.mod-community-theme .community-theme.is-selected .community-plugin-downloads-text::BEFORE,
 .theme-light .modal.mod-community-theme .community-theme.is-selected .community-plugin-downloads-text {
 	color: var(--interactive-normal);
+}
+
+/* for angular shaped mode */
+.community-theme.is-selected,
+.community-theme {
+	border-radius: calc(var(--roundish) * 2);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -2027,7 +2078,7 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 /* ─────────────────────────────────────────────────── */
 .workspace-leaf:not(.mod-active) .workspace-leaf-content[data-type="markdown"] {
 	opacity: var(--inactive-pane-opacity);
-	transition-duration: 0.5s;
+	transition: 800ms ease-in-out;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -2103,7 +2154,7 @@ body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-number {
 	color: var(--unresolved-link-color);
 }
 
-body > .app-container .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
+body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
 	color: hsl(54 69% 40%);
 }
 
@@ -2198,8 +2249,8 @@ body > .app-container .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
 	color: var(--alt-accent-lighter);
 }
 
-.CodeMirror-foldgutter-folded.CodeMirror-guttermarker-subtle::after,
-.CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::after {
+.CodeMirror-foldgutter-folded.CodeMirror-guttermarker-subtle::AFTER,
+.CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::AFTER {
 	font-size: 1.5em;
 	line-height: 1.2em;
 }
@@ -2224,12 +2275,12 @@ body:not(.show-foldermarker) .CodeMirror-foldmarker {
 }
 
 /* hide fold icon */
-body:not(.show-collapse-buttons) .CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::after {
+body:not(.show-collapse-buttons) .CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::AFTER {
 	opacity: 0;
 }
 
 /* hover over line shows fold icon */
-body:not(.show-collapse-buttons) .CodeMirror-code > div:hover .CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::after {
+body:not(.show-collapse-buttons) .CodeMirror-code > div:hover .CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::AFTER {
 	opacity: 1;
 }
 
@@ -2243,36 +2294,41 @@ progress {
 	margin-bottom: 4px;
 }
 
-progress::-webkit-progress-bar {
+progress::-WEBKIT-PROGRESS-BAR {
 	background: var(--background-secondary-alt);
 	border: 1px solid var(--background-modifier-boder);
 	border-radius: calc(var(--roundish) * 3);
 }
 
-progress::-webkit-progress-value {
+progress::-WEBKIT-PROGRESS-VALUE {
 	border-radius: calc(var(--roundish) * 3);
 }
 
 /* https://coolors.co/gradient-palette/03045e-6cf9ca?number=10 */
-progress[value^="1"]::-webkit-progress-value { background: hsl(239 94% 19%) }
-progress[value^="2"]::-webkit-progress-value { background: hsl(229 75% 24%) }
-progress[value^="3"]::-webkit-progress-value { background: hsl(219 64% 28%) }
-progress[value^="4"]::-webkit-progress-value { background: hsl(209 55% 33%) }
-progress[value^="5"]::-webkit-progress-value { background: hsl(199 48% 38%) }
-progress[value^="6"]::-webkit-progress-value { background: hsl(189 43% 42%) }
-progress[value^="7"]::-webkit-progress-value { background: hsl(179 39% 47%) }
-progress[value^="8"]::-webkit-progress-value { background: hsl(171 48% 55%) }
-progress[value^="9"]::-webkit-progress-value { background: hsl(165 66% 62%) }
-progress[value^="10"]::-webkit-progress-value { background: hsl(160 92% 70%) }
+progress[value^="1"]::-WEBKIT-PROGRESS-VALUE { background: hsl(239 94% 19%) }
+progress[value^="2"]::-WEBKIT-PROGRESS-VALUE { background: hsl(229 75% 24%) }
+progress[value^="3"]::-WEBKIT-PROGRESS-VALUE { background: hsl(219 64% 28%) }
+progress[value^="4"]::-WEBKIT-PROGRESS-VALUE { background: hsl(209 55% 33%) }
+progress[value^="5"]::-WEBKIT-PROGRESS-VALUE { background: hsl(199 48% 38%) }
+progress[value^="6"]::-WEBKIT-PROGRESS-VALUE { background: hsl(189 43% 42%) }
+progress[value^="7"]::-WEBKIT-PROGRESS-VALUE { background: hsl(179 39% 47%) }
+progress[value^="8"]::-WEBKIT-PROGRESS-VALUE { background: hsl(171 48% 55%) }
+progress[value^="9"]::-WEBKIT-PROGRESS-VALUE { background: hsl(165 66% 62%) }
+progress[value^="10"]::-WEBKIT-PROGRESS-VALUE { background: hsl(160 92% 70%) }
 
 /* ─────────────────────────────────────────────────── */
 /* << Images */
 /* ─────────────────────────────────────────────────── */
 /* see also section "Max View" */
 
+/* Image Files opened by Obsidian */
+.view-content > .image-container > img {
+	margin-top: 25%;
+}
+
 /* Image Alt as Caption in Preview Mode */
 /* useful as this is also how Pandoc converts */
-.image-embed[alt]::after {
+.image-embed[alt]::AFTER {
 	display: block;
 	content: attr(alt);
 
@@ -2281,9 +2337,8 @@ progress[value^="10"]::-webkit-progress-value { background: hsl(160 92% 70%) }
 	padding-top: 2px;
 	margin-bottom: 13px;
 
-	font-size: 90%;
-	font-weight: 300;
-	font-style: italic;
+	font-family: var(--smallcap-font);
+	font-size: 0.95em;
 }
 
 .view-content .markdown-preview-view img {
@@ -2298,7 +2353,7 @@ body:not(.disable-image-borders) .view-content .markdown-preview-view img {
 }
 
 /* centers image and image caption */
-body:not(.left-aligned-embeds) .image-embed[alt]::after {
+body:not(.left-aligned-embeds) .image-embed[alt]::AFTER {
 	text-align: center;
 	white-space: pre;
 }
@@ -2309,7 +2364,6 @@ body:not(.left-aligned-embeds) .view-content .markdown-preview-view img {
 }
 
 /* image zoom */
-/* by @kepano  https://forum.obsidian.md/t/image-zoom-click-hold-to-expand-images/5164 */
 .markdown-preview-view img:active {
 	display: block;
 
@@ -2319,39 +2373,44 @@ body:not(.left-aligned-embeds) .view-content .markdown-preview-view img {
 	max-width: 100%;
 
 	position: fixed;
-	top: 50%;
+	top: 0;
 	right: 0;
 	bottom: 0;
 	left: 0;
+	z-index: 100;
 
-	transform: translateY(-50%);
+	/* Scale with inverse multiplicative to reverse size reduction */
+	transform: scale(calc(100 / var(--image-size)));
 	cursor: zoom-out;
 
 	padding: 0;
 	margin: 0 auto;
 
-	text-align: center;
+	border: none !important;
 
-	z-index: 100;
-	object-fit: contain;
+	object-fit: scale-down;
 }
 
-.markdown-preview-view img:active .theme-dark {
-	background-color: hsl(0 0% 0%);
+.theme-light .markdown-preview-view img:active {
+	background: hsl(0 0% 80%);
 }
 
-.markdown-preview-view img:active .theme-light {
-	background-color: hsl(0 0% 26%);
+.theme-dark .markdown-preview-view img:active {
+	background: hsl(0 0% 8%);
 }
 
 /* ─────────────────────────────────────────────────── */
 /* << Mermaid */
 /* ─────────────────────────────────────────────────── */
-/* https://forum.obsidian.md/t/ability-to-resize-and-align-mermaid-diagrams/7019/11?u=pseudometa */
 /* see also "Max View" */
 
 body:not(.left-aligned-embeds) div.mermaid {
 	text-align: center;
+}
+
+/* bugfix for mermaid font */
+.mermaid {
+	--mermaid-font: "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif; /* stylelint-disable-line max-line-length */
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -2466,7 +2525,7 @@ body:not(.max-view-off) .workspace-split.mod-left-split.is-collapsed ~ .mod-root
 
 body:not(.is-mobile) .view-content .markdown-preview-view img,
 body:not(.is-mobile) > .app-container div.oz-image-widget > img:not(:active) {
-	max-width: var(--image-size);
+	max-width: calc(var(--image-size) * 1%);
 }
 
 /* <<< PDFs */
@@ -2488,6 +2547,7 @@ body:not(.max-view-off) .workspace-split.mod-left-split.is-collapsed ~ .mod-root
 	max-width: 100%;
 }
 
+/* https://forum.obsidian.md/t/ability-to-resize-and-align-mermaid-diagrams/7019/11?u=pseudometa */
 svg[id^="m"][width][height][viewBox] {
 	height: auto;
 	min-width: 20%;
@@ -2569,7 +2629,7 @@ body:not(.less-heading-letter-spacing) .markdown-preview-view h5 {
 }
 
 /* Alternation between italic & different font style
-for all headings to improve distinguishability = more readability */
+for all headings to improve distinctiveness = more readability */
 body:not(.no-alternating-header-italics) .cm-header-2,
 body:not(.no-alternating-header-italics) .markdown-preview-view h2,
 body:not(.no-alternating-header-italics) .cm-header-4,
@@ -2580,7 +2640,7 @@ body:not(.no-alternating-header-italics) .markdown-preview-view h4 {
 /* ─────────────────────────────────────────────────── */
 /* <<< Pseudo-Admonitions */
 /* ─────────────────────────────────────────────────── */
-/* For H6 only (without following blocks or line breaks).
+/* For h6 only (without following blocks or line breaks).
 Based on some CSS from @SlRvb, @gee & @Eleanor Konik.
 Pseudo-Admonitions work on one-liners only */
 
@@ -2724,7 +2784,7 @@ body:not(.normal-blockquotes) .HyperMD-quote.HyperMD-quote-1 {
 	line-height: 21px;
 }
 
-.quotation-mark-deco blockquote p::before {
+.quotation-mark-deco blockquote p::BEFORE {
 	content: "”";
 
 	color: var(--extra-contrast);
@@ -2860,12 +2920,12 @@ body > .app-container .HyperMD-codeblock-end-bg {
 }
 
 /* show language of Code Block in Preview Mode */
-/* snippet by @Chetachi */
+/* snippet by @Chetachie */
 pre {
 	position: relative;
 }
 
-pre[class*="language-"]::after {
+pre[class*="language-"]::AFTER {
 	content: attr(class);
 
 	position: absolute;
@@ -2878,37 +2938,37 @@ pre[class*="language-"]::after {
 	font-size: 0.8em;
 }
 
-pre[class~="language-c"]::after { content: "C"; }
-pre[class~="language-python"]::after { content: "Python"; }
-pre[class~="language-nginx"]::after { content: "Nginx"; }
-pre[class~="language-css"]::after { content: "CSS"; }
-pre[class~="language-node"]::after { content: "Node"; }
-pre[class~="language-react"]::after { content: "React"; }
-pre[class~="language-javascript"]::after { content: "JavaScript"; }
-pre[class~="language-js"]::after { content: "JavaScript"; }
-pre[class~="language-typescript"]::after { content: "TypeScript"; }
-pre[class~="language-ts"]::after { content: "TypeScript"; }
-pre[class~="language-php"]::after { content: "PHP"; }
-pre[class~="language-shell"]::after { content: "Shell"; }
-pre[class~="language-bash"]::after { content: "Bash"; }
-pre[class~="language-zsh"]::after { content: "zsh"; }
-pre[class~="language-flow"]::after { content: "Flow"; }
-pre[class~="language-sequence"]::after { content: "Sequence"; }
-pre[class~="language-sql"]::after { content: "SQL"; }
-pre[class~="language-yaml"]::after { content: "YAML"; }
-pre[class~="language-ini"]::after { content: "INI"; }
-pre[class~="language-xml"]::after { content: "XML"; }
-pre[class~="language-git"]::after { content: "GIT"; }
-pre[class~="language-cs"]::after { content: "C#"; }
-pre[class~="language-cpp"]::after { content: "C++"; }
-pre[class~="language-java"]::after { content: "JAVA"; }
-pre[class~="language-html"]::after { content: "HTML"; }
-pre[class~="language-txt"]::after { content: "text"; }
-pre[class~="language-text"]::after { content: "text"; }
-pre[class~="language-url"]::after { content: "url"; }
-pre[class~="language-uri"]::after { content: "uri"; }
+pre[class~="language-c"]::AFTER { content: "C"; }
+pre[class~="language-python"]::AFTER { content: "Python"; }
+pre[class~="language-nginx"]::AFTER { content: "Nginx"; }
+pre[class~="language-css"]::AFTER { content: "CSS"; }
+pre[class~="language-node"]::AFTER { content: "Node"; }
+pre[class~="language-react"]::AFTER { content: "React"; }
+pre[class~="language-javascript"]::AFTER { content: "JavaScript"; }
+pre[class~="language-js"]::AFTER { content: "JavaScript"; }
+pre[class~="language-typescript"]::AFTER { content: "TypeScript"; }
+pre[class~="language-ts"]::AFTER { content: "TypeScript"; }
+pre[class~="language-php"]::AFTER { content: "PHP"; }
+pre[class~="language-shell"]::AFTER { content: "Shell"; }
+pre[class~="language-bash"]::AFTER { content: "Bash"; }
+pre[class~="language-zsh"]::AFTER { content: "zsh"; }
+pre[class~="language-flow"]::AFTER { content: "Flow"; }
+pre[class~="language-sequence"]::AFTER { content: "Sequence"; }
+pre[class~="language-sql"]::AFTER { content: "SQL"; }
+pre[class~="language-yaml"]::AFTER { content: "YAML"; }
+pre[class~="language-ini"]::AFTER { content: "INI"; }
+pre[class~="language-xml"]::AFTER { content: "XML"; }
+pre[class~="language-git"]::AFTER { content: "GIT"; }
+pre[class~="language-cs"]::AFTER { content: "C#"; }
+pre[class~="language-cpp"]::AFTER { content: "C++"; }
+pre[class~="language-java"]::AFTER { content: "JAVA"; }
+pre[class~="language-html"]::AFTER { content: "HTML"; }
+pre[class~="language-txt"]::AFTER { content: "text"; }
+pre[class~="language-text"]::AFTER { content: "text"; }
+pre[class~="language-url"]::AFTER { content: "url"; }
+pre[class~="language-uri"]::AFTER { content: "uri"; }
 
-/* fix for the buggy selection fo inline text
+/* fix for the buggy selection of inline text
 https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/11552/10 */
 .theme-dark .cm-inline-code {
 	background-color: rgb(0 0 0 / 20%) !important;
@@ -2933,7 +2993,7 @@ button.copy-code-button {
 	font-size: 0;
 }
 
-button.copy-code-button::before {
+button.copy-code-button::BEFORE {
 	content: "content_copy ";
 	font-family: "Material Icons";
 	font-size: 0.8rem;
@@ -2946,16 +3006,16 @@ button.copy-code-button::before {
 /* https://github.com/vslinko/obsidian-outliner/blob/main/styles.css */
 
 /* Edit Mode */
-.cm-s-obsidian .HyperMD-list-line {
+body:not(.no-ul-relationship-lines) .cm-s-obsidian .HyperMD-list-line {
 	padding-top: 0.2em;
 	overflow: hidden;
 }
 
-.cm-hmd-list-indent {
+body:not(.no-ul-relationship-lines) .cm-hmd-list-indent {
 	position: relative;
 }
 
-.CodeMirror-line .cm-hmd-list-indent::before {
+body:not(.no-ul-relationship-lines) .CodeMirror-line .cm-hmd-list-indent::BEFORE {
 	display: block;
 	content: "";
 
@@ -2974,17 +3034,17 @@ button.copy-code-button::before {
 }
 
 /* Preview Mode */
-ul ul,
-ol ol,
-ul ol,
-ol ul {
+body:not(.no-ul-relationship-lines) ul ul,
+body:not(.no-ul-relationship-lines) ol ol,
+body:not(.no-ul-relationship-lines) ul ol,
+body:not(.no-ul-relationship-lines) ol ul {
 	position: relative;
 }
 
-ul ul::before,
-ol ol::before,
-ul ol::before,
-ol ul::before {
+body:not(.no-ul-relationship-lines) ul ul::BEFORE,
+body:not(.no-ul-relationship-lines) ol ol::BEFORE,
+body:not(.no-ul-relationship-lines) ul ol::BEFORE,
+body:not(.no-ul-relationship-lines) ol ul::BEFORE {
 	content: "";
 
 	position: absolute;
@@ -2995,9 +3055,9 @@ ol ul::before {
 	border-left: 1px solid var(--text-faint);
 }
 
-/* less indention to save space */
-.markdown-preview-view > div > div > ol,
-.markdown-preview-view > div > div > ul {
+body:not(.no-ul-relationship-lines) .markdown-preview-view > div > div > ol,
+body:not(.no-ul-relationship-lines) .markdown-preview-view > div > div > ul {
+	/* less indention to save space */
 	padding-left: 27px;
 }
 
@@ -3043,17 +3103,16 @@ a.internal-link.is-unresolved:hover {
 	white-space: nowrap;
 }
 
-/* exceptions */
 body > .app-container table > tbody > tr > td .external-link,
 .workspace-leaf-content[data-type="kanban"] .external-link {
 	white-space: normal;
 }
 
-.external-link[href*="http"]::before {
+.external-link[href*="http"]::BEFORE {
 	content: var(--external-url);
 }
 
-.external-link::before {
+.external-link::BEFORE {
 	display: inline-block;
 
 	height: 1em;
@@ -3086,7 +3145,7 @@ a.tag:hover {
 }
 
 /* ─────────────────────────────────────────────────── */
-/* << Annotation Tags */
+/* <<< Annotation Tags */
 /* ─────────────────────────────────────────────────── */
 /* thanks to @atlas for the inspiration
 https://discord.com/channels/686053708261228577/722584061087842365/898113745774084127 */
@@ -3109,6 +3168,7 @@ body:not(.annotation-tags-off) .tag[href="#agree"],
 body:not(.annotation-tags-off) .tag[href="#example"],
 body:not(.annotation-tags-off) .tag[href="#definition"],
 body:not(.annotation-tags-off) .tag[href="#method"],
+body:not(.annotation-tags-off) .tag[href="#important"],
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-method,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-disagree,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-gap,
@@ -3117,6 +3177,7 @@ body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-defin
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-question,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-main,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-agree,
+body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-important,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line span.cm-tag-example {
 	color: var(--annotation-tag-font-color) !important;
 
@@ -3144,6 +3205,7 @@ body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-begin
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-begin.cm-tag-question,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-begin.cm-tag-main,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-begin.cm-tag-agree,
+body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-begin.cm-tag-important,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-begin.cm-tag-example {
 	padding-right: 0;
 	border-top-right-radius: 0;
@@ -3159,6 +3221,7 @@ body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-end.c
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-end.cm-tag-question,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-end.cm-tag-main,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-end.cm-tag-agree,
+body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-end.cm-tag-important,
 body:not(.annotation-tags-off) .cm-s-obsidian .CodeMirror-line .cm-hashtag-end.cm-tag-example {
 	padding-left: 0;
 	border-bottom-left-radius: 0;
@@ -3171,14 +3234,29 @@ body:not(.annotation-tags-off) .tag[href="#question"] {
 	background-color: rgb(0 235 230 / 50%) !important;
 }
 
-.theme-dark:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-question::before,
-.theme-dark:not(.annotation-tags-off) .tag[href="#question"]::before {
+.theme-dark:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-question::BEFORE,
+.theme-dark:not(.annotation-tags-off) .tag[href="#question"]::BEFORE {
 	content: "❔ ";
 }
 
-.theme-light:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-question::before,
-.theme-light:not(.annotation-tags-off) .tag[href="#question"]::before {
+.theme-light:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-question::BEFORE,
+.theme-light:not(.annotation-tags-off) .tag[href="#question"]::BEFORE {
 	content: "❓ ";
+}
+
+body:not(.annotation-tags-off) .cm-tag-important,
+body:not(.annotation-tags-off) .tag[href="#important"] {
+	background-color: rgb(255 120 15 / 50%);
+}
+
+.theme-dark:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-important::BEFORE,
+.theme-dark:not(.annotation-tags-off) .tag[href="#important"]::BEFORE {
+	content: "❕ ";
+}
+
+.theme-light:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-important::BEFORE,
+.theme-light:not(.annotation-tags-off) .tag[href="#important"]::BEFORE {
+	content: "❗️ ";
 }
 
 body:not(.annotation-tags-off) .cm-tag-method,
@@ -3186,8 +3264,8 @@ body:not(.annotation-tags-off) .tag[href="#method"] {
 	background-color: rgb(170 121 66 / 50%) !important;
 }
 
-body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-method::before,
-body:not(.annotation-tags-off) .tag[href="#method"]::before {
+body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-method::BEFORE,
+body:not(.annotation-tags-off) .tag[href="#method"]::BEFORE {
 	content: "🛠 ";
 }
 
@@ -3196,8 +3274,8 @@ body:not(.annotation-tags-off) .tag[href="#main"] {
 	background-color: rgb(32 156 238 / 50%) !important;
 }
 
-body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-main::before,
-body:not(.annotation-tags-off) .tag[href="#main"]::before {
+body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-main::BEFORE,
+body:not(.annotation-tags-off) .tag[href="#main"]::BEFORE {
 	content: "Ⓜ️ ";
 }
 
@@ -3206,8 +3284,8 @@ body:not(.annotation-tags-off) .tag[href="#gap"] {
 	background-color: rgb(128 128 128 / 50%) !important;
 }
 
-body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-gap::before,
-body:not(.annotation-tags-off) .tag[href="#gap"]::before {
+body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-gap::BEFORE,
+body:not(.annotation-tags-off) .tag[href="#gap"]::BEFORE {
 	content: "🕳 ";
 }
 
@@ -3216,8 +3294,8 @@ body:not(.annotation-tags-off) .tag[href="#summary"] {
 	background-color: rgb(255 120 15 / 50%) !important;
 }
 
-body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-summary::before,
-body:not(.annotation-tags-off) .tag[href="#summary"]::before {
+body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-summary::BEFORE,
+body:not(.annotation-tags-off) .tag[href="#summary"]::BEFORE {
 	content: "✴️ ";
 }
 
@@ -3226,8 +3304,8 @@ body:not(.annotation-tags-off) .tag[href="#definition"] {
 	background-color: rgb(217 188 77 / 50%) !important;
 }
 
-body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-definition::before,
-body:not(.annotation-tags-off) .tag[href="#definition"]::before {
+body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-definition::BEFORE,
+body:not(.annotation-tags-off) .tag[href="#definition"]::BEFORE {
 	content: "💡 ";
 }
 
@@ -3236,8 +3314,8 @@ body:not(.annotation-tags-off) .tag[href="#agree"] {
 	background-color: rgb(35 209 96 / 50%) !important;
 }
 
-body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-agree::before,
-body:not(.annotation-tags-off) .tag[href="#agree"]::before {
+body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-agree::BEFORE,
+body:not(.annotation-tags-off) .tag[href="#agree"]::BEFORE {
 	content: "✅ ";
 }
 
@@ -3246,8 +3324,8 @@ body:not(.annotation-tags-off) .tag[href="#disagree"] {
 	background-color: rgb(255 56 96 / 50%) !important;
 }
 
-body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-disagree::before,
-body:not(.annotation-tags-off) .tag[href="#disagree"]::before {
+body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-disagree::BEFORE,
+body:not(.annotation-tags-off) .tag[href="#disagree"]::BEFORE {
 	content: "⛔️ ";
 }
 
@@ -3256,8 +3334,8 @@ body:not(.annotation-tags-off) .tag[href="#example"] {
 	background-color: rgb(230 128 253 / 50%) !important;
 }
 
-body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-example::before,
-body:not(.annotation-tags-off) .tag[href="#example"]::before {
+body:not(.annotation-tags-off) .cm-hashtag-begin.cm-tag-example::BEFORE,
+body:not(.annotation-tags-off) .tag[href="#example"]::BEFORE {
 	content: "⚛️ ";
 }
 
@@ -3274,7 +3352,7 @@ body:not(.annotation-tags-off) .tag[href="#example"]::before {
 	font-feature-settings: "liga" 0;
 }
 
-/* ensures equal height of "#" and html tag */
+/* ensures equal height of "#" and tag text */
 .cm-tag.cm-bracket.cm-hmd-html-begin,
 .cm-tag.cm-bracket.cm-hmd-html-end,
 .cm-tag,
@@ -3404,7 +3482,7 @@ div:not(.CodeMirror-activeline) > .CodeMirror-line .cm-em.cm-strikethrough,
 em > del {
 	color: var(--spoiler-bg);
 	background-color: var(--spoiler-bg);
-	transition-duration: 250ms;
+	transition: 400ms ease-in-out;
 	font-style: initial;
 	text-decoration: unset;
 }
@@ -3413,10 +3491,12 @@ em > del {
 em > del:hover,
 .cm-em.cm-strikethrough:hover {
 	background-color: var(--background-secondary-alt) !important;
-	transition-duration: 250ms;
+	transition: 400ms ease-in-out;
 }
 
+/* ─────────────────────────────────────────────────── */
 /* << Strikethroughs */
+/* ─────────────────────────────────────────────────── */
 
 /* make the "~" readable */
 .cm-formatting-strikethrough {
@@ -3663,19 +3743,19 @@ body.is-mobile .markdown-preview-view blockquote {
 /* ─────────────────────────────────────────────────── */
 /* << Folder Icons & Note Icons */
 /* ─────────────────────────────────────────────────── */
-.nav-folder-title-content::before,
-.nav-file-title-content::before {
+.nav-folder-title-content::BEFORE,
+.nav-file-title-content::BEFORE {
 	font-family: "Material Icons";
 	font-size: 1.2em;
 	vertical-align: bottom;
 }
 
 /* Folders icons */
-.nav-folder-title-content::before {
+.nav-folder-title-content::BEFORE {
 	content: "folder_open ";
 }
 
-.nav-folder.is-collapsed .nav-folder-title-content::before {
+.nav-folder.is-collapsed .nav-folder-title-content::BEFORE {
 	content: "folder ";
 }
 
@@ -3689,100 +3769,100 @@ body.is-mobile .markdown-preview-view blockquote {
 	display: none;
 }
 
-.nav-folder-title[data-path*="attachment"] .nav-folder-title-content::before {
+.nav-folder-title[data-path*="attachment"] .nav-folder-title-content::BEFORE {
 	content: "attachment ";
 }
 
-.nav-folder.is-collapsed .nav-folder-title[data-path*="attachment"] .nav-folder-title-content::before {
+.nav-folder.is-collapsed .nav-folder-title[data-path*="attachment"] .nav-folder-title-content::BEFORE {
 	content: "attach_file ";
 }
 
-.nav-folder-title[data-path*="old"] .nav-folder-title-content::before,
-.nav-folder-title[data-path*="Archiv"] .nav-folder-title-content::before,
-.nav-folder-title[data-path*="archive"] .nav-folder-title-content::before {
+.nav-folder-title[data-path*="old"] .nav-folder-title-content::BEFORE,
+.nav-folder-title[data-path*="Archiv"] .nav-folder-title-content::BEFORE,
+.nav-folder-title[data-path*="archive"] .nav-folder-title-content::BEFORE {
 	content: "inventory_2 ";
 }
 
 /* File icons */
-.nav-file-title-content::before {
+.nav-file-title-content::BEFORE {
 	content: "description ";
 }
 
-.nav-file-title[data-path*="Hub"] .nav-file-title-content::before,
-.nav-file-title[data-path*="HUB"] .nav-file-title-content::before {
+.nav-file-title[data-path*="Hub"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="HUB"] .nav-file-title-content::BEFORE {
 	content: "device_hub ";
 }
 
-.nav-file-title[data-path*="MoC"] .nav-file-title-content::before,
-.nav-file-title[data-path*="MOC"] .nav-file-title-content::before {
+.nav-file-title[data-path*="MoC"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="MOC"] .nav-file-title-content::BEFORE {
 	content: "map ";
 }
 
-.nav-file-title[data-path$="pptx"] .nav-file-title-content::before {
+.nav-file-title[data-path$="pptx"] .nav-file-title-content::BEFORE {
 	content: "present_to_all ";
 	color: hsl(38 100% 50%);
 }
 
-.nav-file-title[data-path*="presentation"] .nav-file-title-content::before,
-.nav-file-title[data-path*="Presentation"] .nav-file-title-content::before {
+.nav-file-title[data-path*="presentation"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="Presentation"] .nav-file-title-content::BEFORE {
 	content: "present_to_all ";
 }
 
-.nav-file-title[data-path$="ts"] .nav-file-title-content::before,
-.nav-file-title[data-path$="js"] .nav-file-title-content::before {
+.nav-file-title[data-path$="ts"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path$="js"] .nav-file-title-content::BEFORE {
 	content: "code ";
 }
 
-.nav-file-title[data-path$="tiff"] .nav-file-title-content::before,
-.nav-file-title[data-path$="jpg"] .nav-file-title-content::before,
-.nav-file-title[data-path$="png"] .nav-file-title-content::before,
-.nav-file-title[data-path$="jpeg"] .nav-file-title-content::before {
+.nav-file-title[data-path$="tiff"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path$="jpg"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path$="png"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path$="jpeg"] .nav-file-title-content::BEFORE {
 	content: "image ";
 }
 
-.nav-file-title[data-path$="doc"] .nav-file-title-content::before,
-.nav-file-title[data-path$="docx"] .nav-file-title-content::before {
+.nav-file-title[data-path$="doc"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path$="docx"] .nav-file-title-content::BEFORE {
 	color: hsl(201 93% 25%);
 }
 
-.nav-file-title[data-path$="pdf"] .nav-file-title-content::before {
+.nav-file-title[data-path$="pdf"] .nav-file-title-content::BEFORE {
 	content: "picture_as_pdf ";
 	color: hsl(347 47% 37%);
 }
 
-.nav-file-title[data-path$="xlsx"] .nav-file-title-content::before,
-.nav-file-title[data-path$="csv"] .nav-file-title-content::before {
+.nav-file-title[data-path$="xlsx"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path$="csv"] .nav-file-title-content::BEFORE {
 	content: "table_chart ";
 	color: hsl(120 100% 25%);
 }
 
-.nav-file-title[data-path*="statistic"] .nav-file-title-content::before,
-.nav-file-title[data-path*="Statistik"] .nav-file-title-content::before {
+.nav-file-title[data-path*="statistic"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="Statistik"] .nav-file-title-content::BEFORE {
 	content: "pie_chart_outline ";
 }
 
-.nav-file-title[data-path*="To do"] .nav-file-title-content::before,
-.nav-file-title[data-path*="to Do"] .nav-file-title-content::before,
-.nav-file-title[data-path*="To Do"] .nav-file-title-content::before,
-.nav-file-title[data-path*="to do"] .nav-file-title-content::before {
+.nav-file-title[data-path*="To do"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="to Do"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="To Do"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="to do"] .nav-file-title-content::BEFORE {
 	content: "check_box ";
 }
 
-.nav-file-title[data-path*="README"] .nav-file-title-content::before,
-.nav-file-title[data-path*="readme"] .nav-file-title-content::before,
-.nav-file-title[data-path*="Metadata"] .nav-file-title-content::before,
-.nav-file-title[data-path*="metadata"] .nav-file-title-content::before {
+.nav-file-title[data-path*="README"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="readme"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="Metadata"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="metadata"] .nav-file-title-content::BEFORE {
 	content: "info ";
 }
 
-.nav-file-title[data-path*="OCR-Screenshot"] .nav-file-title-content::before {
+.nav-file-title[data-path*="OCR-Screenshot"] .nav-file-title-content::BEFORE {
 	content: "photo_camera ";
 }
 
-.nav-file-title[data-path*="Word Limit"] .nav-file-title-content::before,
-.nav-file-title[data-path*="Character Limit"] .nav-file-title-content::before,
-.nav-file-title[data-path*="Character Count"] .nav-file-title-content::before,
-.nav-file-title[data-path*="Word Count"] .nav-file-title-content::before {
+.nav-file-title[data-path*="Word Limit"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="Character Limit"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="Character Count"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="Word Count"] .nav-file-title-content::BEFORE {
 	content: "flag ";
 }
 
@@ -3848,7 +3928,7 @@ body.is-mobile .markdown-preview-view blockquote {
 	padding-right: 3px !important;
 }
 
-.tree-item-icon::after {
+.tree-item-icon::AFTER {
 	display: none;
 }
 
@@ -3859,7 +3939,7 @@ body.is-mobile .markdown-preview-view blockquote {
 .outline .tree-item-self {
 	padding-top: 0.35em;
 	padding-bottom: 0.35em;
-	line-height: 1.1em;
+	line-height: 1.15em;
 }
 
 .workspace-leaf-content[data-type="outline"] .view-content {
@@ -3880,7 +3960,7 @@ body.is-mobile .markdown-preview-view blockquote {
 	font-size: 0;
 }
 
-.outline .pane-empty::before {
+.outline .pane-empty::BEFORE {
 	content: var(--signature);
 	position: absolute;
 	margin-top: 50%;
@@ -4028,7 +4108,7 @@ readability */
 	margin-left: 3px;
 }
 
-.tag-container .tree-item-flair-outer::after {
+.tag-container .tree-item-flair-outer::AFTER {
 	display: none;
 }
 
@@ -4044,7 +4124,7 @@ readability */
 	padding-top: 5px;
 }
 
-.workspace-leaf-content[data-type="starred"] .nav-file-title .nav-file-title-content::before,
+.workspace-leaf-content[data-type="starred"] .nav-file-title .nav-file-title-content::BEFORE,
 .workspace-leaf-content[data-type="starred"] .nav-file-icon svg.document {
 	display: none;
 }
@@ -4175,7 +4255,7 @@ body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"]
 	font-size: 0;
 }
 
-.sync-history-content-empty::before {
+.sync-history-content-empty::BEFORE {
 	content: var(--signature);
 	font-size: 10rem;
 }
@@ -4186,6 +4266,30 @@ body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"]
 /* https://help.obsidian.md/Plugins/Graph+view#Custom+CSS */
 
 /* graph controls */
+body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
+	opacity: 0;
+	transition: 800ms ease-in-out;
+}
+
+.graph-controls.is-close {
+	top: 4px;
+	right: 4px;
+	background-color: transparent;
+	padding: 0;
+}
+
+.graph-controls:not(.is-close) {
+	/* controls resizable, thanks @Manedblackwolf */
+	max-width: none;
+	resize: horizontal;
+	border: var(--basic-border);
+	border-radius: calc(var(--roundish) * 3);
+}
+
+.mod-root .graph-controls {
+	top: 0;
+}
+
 .graph-controls-button {
 	color: var(--extra-contrast);
 	padding: 4px;
@@ -4204,12 +4308,6 @@ body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"]
 
 .tree-item-self:hover .graph-control-section-header {
 	color: var(--alt-accent);
-}
-
-.graph-controls.is-close {
-	top: 5px;
-	background-color: transparent;
-	padding: 0;
 }
 
 /* graph itself */
@@ -4244,12 +4342,6 @@ body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"]
 .graph-view.color-line,
 .graph-view.color-arrow {
 	color: var(--extra-contrast);
-}
-
-/* controls resizable, thanks @Manedblackwolf */
-.graph-controls {
-	max-width: none;
-	resize: horizontal;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -4530,12 +4622,12 @@ a.tag.kanban-plugin__item-tag {
 	padding-bottom: 0 !important;
 }
 
-.nav-file-title[data-path*="Kanban"] .nav-file-title-content::before,
-.nav-file-title[data-path*="kanban"] .nav-file-title-content::before {
+.nav-file-title[data-path*="Kanban"] .nav-file-title-content::BEFORE,
+.nav-file-title[data-path*="kanban"] .nav-file-title-content::BEFORE {
 	content: "dashboard ";
 }
 
-.kanban-plugin__item-markdown li .external-link::before {
+.kanban-plugin__item-markdown li .external-link::BEFORE {
 	margin-top: 1px;
 	margin-right: 6px;
 }
@@ -4659,21 +4751,21 @@ body.angular-shapes .kanban-plugin__lane {
 }
 
 /* <<< Longform Sidebar Icons */
-.svelte-htpziy::before {
+.svelte-htpziy::BEFORE {
 	font-family: "Material Icons";
 	font-size: 1.5rem;
 	vertical-align: top;
 }
 
-.svelte-htpziy:nth-child(1)::before {
+.svelte-htpziy:nth-child(1)::BEFORE {
 	content: "format_list_numbered_rtl";
 }
 
-.svelte-htpziy:nth-child(2)::before {
+.svelte-htpziy:nth-child(2)::BEFORE {
 	content: "import_contacts";
 }
 
-.svelte-htpziy:nth-child(3)::before {
+.svelte-htpziy:nth-child(3)::BEFORE {
 	content: "merge_type";
 }
 
@@ -4824,11 +4916,11 @@ body.hide-index-files .nav-file-title[data-path$="Index.md"] {
 	display: none;
 }
 
-.nav-file-title[data-path$="Index.md"] .nav-file-title-content::before {
+.nav-file-title[data-path$="Index.md"] .nav-file-title-content::BEFORE {
 	content: "settings ";
 }
 
-.nav-folder-title[data-path$="Drafts"] .nav-folder-title-content::before {
+.nav-folder-title[data-path$="Drafts"] .nav-folder-title-content::BEFORE {
 	/* alternative:  "auto_stories" or "menu_book" */
 	content: "folder_special ";
 }
@@ -4865,7 +4957,7 @@ body:not(.left-aligned-embeds) div.oz-image-widget > img {
 /* ─────────────────────────────────────────────────── */
 
 /* Show no icons for recent files plugin */
-.workspace-leaf-content[data-type="recent-files"] .nav-file-title .nav-file-title-content::before {
+.workspace-leaf-content[data-type="recent-files"] .nav-file-title .nav-file-title-content::BEFORE {
 	display: none;
 }
 
@@ -4903,12 +4995,12 @@ body:not(.show-title-bar) > .qe-popup-menu {
 }
 
 /* hover & select colors */
-.menu.qe-popup-menu .menu-item.selected:hover::before,
-.menu.qe-popup-menu .menu-item:hover::before {
+.menu.qe-popup-menu .menu-item.selected:hover::BEFORE,
+.menu.qe-popup-menu .menu-item:hover::BEFORE {
 	color: var(--alt-accent);
 }
 
-.menu.qe-popup-menu .menu-item.selected::before {
+.menu.qe-popup-menu .menu-item.selected::BEFORE {
 	color: var(--text-accent);
 }
 
@@ -4918,7 +5010,7 @@ body:not(.show-title-bar) > .qe-popup-menu {
 }
 
 /* icons */
-.menu.qe-popup-menu .menu-item::before {
+.menu.qe-popup-menu .menu-item::BEFORE {
 	padding-right: 4px;
 	font-family: "Material Icons";
 }
@@ -4927,11 +5019,11 @@ body:not(.show-title-bar) > .qe-popup-menu {
 	display: none;
 }
 
-.menu.qe-popup-menu .menu-item.is-qe-folder::before {
+.menu.qe-popup-menu .menu-item.is-qe-folder::BEFORE {
 	content: "folder";
 }
 
-.menu.qe-popup-menu .menu-item.is-qe-file::before {
+.menu.qe-popup-menu .menu-item.is-qe-file::BEFORE {
 	content: "description";
 }
 
@@ -5023,7 +5115,7 @@ button.MS-OpenSnippet:hover svg.ms-snippet path {
 /* bottom half spacing */
 #all-container li,
 #all-container ul,
-#all-container ul::before {
+#all-container ul::BEFORE {
 	border: none !important;
 }
 
@@ -5051,7 +5143,7 @@ button.MS-OpenSnippet:hover svg.ms-snippet path {
 	padding-bottom: 0 !important;
 }
 
-/* seperation line */
+/* separation line */
 #main_moc_div .path {
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -5118,7 +5210,7 @@ body > .app-container .BC-Matrix-square > ol {
 }
 
 /* matrix */
-.BC-Matrix-square li::marker {
+.BC-Matrix-square li::MARKER {
 	color: var(--text-faint);
 }
 
@@ -5262,7 +5354,7 @@ body #block-ref-hover.show:hover {
 	stroke-width: 2px !important;
 }
 
-.workspace-leaf-content[data-type="dangling-links"] summary::marker {
+.workspace-leaf-content[data-type="dangling-links"] summary::MARKER {
 	color: var(--extra-contrast);
 }
 
@@ -5295,7 +5387,7 @@ body #block-ref-hover.show:hover {
 /* ─────────────────────────────────────────────────── */
 
 /* folded URL */
-body > .app-container .cm-s-obsidian .hmd-link-icon:hover::after {
+body > .app-container .cm-s-obsidian .hmd-link-icon:hover::AFTER {
 	background-color: var(--alt-accent);
 	opacity: 0.8;
 }
@@ -5304,7 +5396,7 @@ body > .app-container .cm-s-obsidian .hmd-link-icon:hover::after {
 	cursor: pointer;
 }
 
-body > .app-container .cm-s-obsidian .hmd-link-icon::after {
+body > .app-container .cm-s-obsidian .hmd-link-icon::AFTER {
 	display: none;
 }
 
@@ -5338,13 +5430,13 @@ pre button.copy {
 	font-size: 0;
 }
 
-pre button.copy::before {
+pre button.copy::BEFORE {
 	content: "content_copy ";
 	font-family: "Material Icons";
 	font-size: 0.7rem;
 }
 
-pre button.copy:hover::before {
+pre button.copy:hover::BEFORE {
 	color: var(--interactive-normal);
 }
 
@@ -5357,7 +5449,7 @@ pre button.copy:hover::before {
 	display: none;
 }
 
-.another-quick-switcher__item__directory::before {
+.another-quick-switcher__item__directory::BEFORE {
 	content: "folder_open";
 	font-family: "Material Icons";
 	font-size: 1.4em;
@@ -5443,7 +5535,7 @@ pre button.copy:hover::before {
 }
 
 /* ─────────────────────────────────────────────────── */
-/* << Style Settings (the Settings Tab) */
+/* << Style Settings (Settings Tab) */
 /* ─────────────────────────────────────────────────── */
 
 .style-settings-heading {
@@ -5458,30 +5550,24 @@ pre button.copy:hover::before {
 }
 
 .style-settings-heading .setting-item-name {
+	margin-bottom: 5px;
 	font-family: var(--setting-heading);
 	line-height: 0.7em;
 }
 
-.style-settings-heading:not(.is-collapsed) .setting-item-name {
-	margin-bottom: 5px;
+.style-settings-heading .setting-item-description {
+	margin-bottom: 4px;
+	font-family: var(--menu-font-family);
+	font-size: 0.7em;
+	line-height: 1.1em;
 }
 
-.style-settings-heading:not(.is-collapsed) > .setting-item-info > .setting-item-description {
+.style-settings-heading:not(.is-collapsed) .setting-item-description {
 	display: none;
 }
 
 .style-settings-heading .setting-item-name:hover {
 	color: var(--editor-alt-accent);
-}
-
-.style-settings-heading > .setting-item-info > .setting-item-description {
-	font-family: var(--menu-font-family);
-	font-size: 0.7em;
-}
-
-.style-settings-container .setting-item:not(.style-settings-heading) > .setting-item-info > .setting-item-description {
-	font-size: 0.8em;
-	line-height: 1.2em;
 }
 
 /* remove buggy export button for certain blocks */
@@ -5614,6 +5700,12 @@ settings:
 	 description: Folder markers are the "..." next to a folded/collapsed item.
 	 default: false
   -
+	 id: show-graph-controls
+	 title: Permanently show the Graph Controls
+	 type: class-toggle
+	 description: When false, Graph controls are still visible when open, or upon hovering the top-left area.
+	 default: false
+  -
 	 id: show-starred-nav-buttons
 	 title: Re-enable the Starred Pane Buttons
 	 type: class-toggle
@@ -5640,21 +5732,21 @@ settings:
 	 default: false
   -
 	 id: mono-color-cursor
-	 title: Use a mono-colored Cursor
-	 description: 'Use a mono-colored, purple cursor, as in previous versions of "Shimmering Focus".'
+	 title: Mono-colored Cursor
+	 description: 'Use a mono-colored, purple cursor like in previous versions of "Shimmering Focus".'
 	 type: class-toggle
 	 default: false
   -
 	 id: quotation-mark-deco
 	 title: Decorative Quotation Mark
-	 description: Show a decorative Quotation Mark next to Blockquotes in Preview Mode (no Live Preview yet).
+	 description: Show a decorative quotation mark next to blockquotes in Preview Mode (no Live Preview yet).
 	 type: class-toggle
 	 hub: ignore
 	 default: false
   -
 	 id: normal-checkboxes
 	 title: Normal Checkboxes
-	 description: Use the normal checkboxes from the default theme.
+	 description: Use the checkboxes from the default theme.
 	 type: class-toggle
 	 default: false
   -
@@ -5678,7 +5770,7 @@ settings:
   -
 	 id: font-monospace
 	 title: Monospace Font
-	 description: Unsed in Code blocks, YAML in Edit Mode, tables in Edit Mode, etc.
+	 description: Used in Code blocks, YAML in Edit Mode, tables in Edit Mode, etc.
 	 type: variable-text
 	 default: '"Input Mono"'
   -
@@ -5725,7 +5817,7 @@ settings:
 	 min: 0.7
 	 max: 1.3
 	 step: 0.05
-	 format: em
+	 format: rem
   -
 	 id: normal-blockquotes
 	 title: Normal-sized Blockquotes
@@ -5742,16 +5834,9 @@ settings:
 	 step: 0.05
 	 format: em
   -
-	 id: headings
-	 title: Headings
-	 description: Level-Specific Sizes, Font, Italics
-	 type: heading
-	 level: 2
-	 collapsed: true
-  -
 	 id: heading-font
 	 title: Heading Font
-	 description: Applies to H1 to H5 Headings
+	 description: Applies to h1 to h5 Headings. (h6 headings are used for Pseudo-Admonitions.)
 	 type: variable-text
 	 default: Optima, Optima-local
   -
@@ -5814,8 +5899,8 @@ settings:
 	 format: em
   -
 	 id: content-settings
-	 title: Content Settings
-	 description: Max View, Images, PDFs, Tables, & Line Length
+	 title: Content
+	 description: Max View, Images, PDFs, & Line Length
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -5834,11 +5919,10 @@ settings:
 	 min: 10
 	 max: 100
 	 step: 5
-	 format: "%"
   -
 	 id: pdf-size
-	 title: Size of embeded PDFs
-	 description: Size of embeded PDFs in % (when Max View is disabled or not active)
+	 title: Size of embedded PDFs
+	 description: Size of embedded PDFs in % (when Max View is disabled or not active)
 	 type: variable-number-slider
 	 default: 50
 	 min: 10
@@ -5858,14 +5942,8 @@ settings:
 	 type: class-toggle
 	 default: false
   -
-	 id: no-alternating-rows
-	 title: Turn off Alternating Row Coloring
-	 description: Affects tables, Command Palette & Suggesters.
-	 type: class-toggle
-	 default: false
-  -
 	 id: no-pdf-dark-mode
-	 title: No Darkmode for PDFs
+	 title: No Dark Mode for PDFs
 	 description: Disable Dark Mode for PDFs when Obsidian is set to dark mode.
 	 type: class-toggle
 	 default: false
@@ -5983,7 +6061,7 @@ settings:
   -
 	 id: miscellaneous
 	 title: Miscellaneous
-	 description: Popovers, Pandoc Citations, Annotation Tags, Active Line Highlighting
+	 description: Popovers, Pandoc Citations, Annotation Tags, Active Line Highlighting, Command Palette, Alternating Row Colors, Relationship Lines
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -6012,6 +6090,24 @@ settings:
   -
 	 id: no-active-line-highlighting
 	 title: Turn off Active Line Highlighting
+	 type: class-toggle
+	 default: false
+  -
+	 id: no-alternating-rows
+	 title: Turn off Alternating Row Coloring
+	 description: Affects tables, Command Palette & Suggesters.
+	 type: class-toggle
+	 default: false
+  -
+	 id: move-plugin-name-to-left
+	 title: 'Command Palette: Move the plugin name back to the left'
+	 description: Enable this in case some commands are aren't displayed properly in the Command Palette.
+	 type: class-toggle
+	 default: false
+  -
+	 id: no-ul-relationship-lines
+	 title: Disable the relationship lines for lists
+	 description: Enable this, if you want to use a custom relationship line snippet or the relationship lines from the Outliner plugin.
 	 type: class-toggle
 	 default: false
 */

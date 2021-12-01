@@ -8181,9 +8181,9 @@
       "links": 10
     },
     "10_Sources/Psychology of Race and Gender notes.md": {
-      "size": 13225,
-      "tags": 0,
-      "links": 43
+      "size": 15303,
+      "tags": 1,
+      "links": 52
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Mia Moore 🏳️‍🌈.md": {
       "size": 838,
@@ -8953,7 +8953,7 @@
     "50_Projects/Using spaced repetition for your conceptual notes.md": {
       "size": 5116,
       "tags": 1,
-      "links": 18
+      "links": 15
     },
     "40_Evergreens/Use spaced repetition to weed your digital garden.md": {
       "size": 0,
@@ -9014,14 +9014,19 @@
       "size": 0,
       "tags": 2,
       "links": 4
+    },
+    "30_Topics/32_Terms/Intergroup contact theory.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1433,
-      "Create": 1956,
-      "Link": 3256,
-      "Expand": 110
+      "Refactor": 1435,
+      "Create": 1957,
+      "Link": 3264,
+      "Expand": 111
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -9046,7 +9051,7 @@
       "11": 43,
       "12": 336,
       "13": 65,
-      "14": 2226,
+      "14": 2236,
       "15": 109,
       "16": 873,
       "17": 1489,
@@ -9055,7 +9060,7 @@
       "20": 123,
       "21": 148,
       "22": 208,
-      "23": 194
+      "23": 196
     },
     "40 Evergreens": {
       "0": 9,
@@ -9087,8 +9092,8 @@
   "weeklyCommits": {
     "/": {
       "Mon": 212,
-      "Tue": 609,
-      "Wed": 1257,
+      "Tue": 611,
+      "Wed": 1267,
       "Thu": 355,
       "Fri": 69,
       "Sat": 0,
@@ -9107,6 +9112,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
@@ -9156,10 +9162,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Intergroup contact theory.md\"> Intergroup contact theory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>",
@@ -9209,8 +9215,7 @@
         "<a class=\"internal-link\" href=\"Microagressions.md\"> Microagressions </a>",
         "<a class=\"internal-link\" href=\"Microagressions.md\"> Microagressions </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mysogyny.md\"> mysogyny </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microagressions.md\"> Microagressions </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microagressions.md\"> Microagressions </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
@@ -9266,6 +9271,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/my emotions.md\"> my emotions </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Intergroup contact theory.md\"> Intergroup contact theory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>",
@@ -9314,9 +9321,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\"> McCarthyism is an attack on totalitarianism not communism </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9381,6 +9386,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Intergroup contact theory.md\"> Intergroup contact theory </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
@@ -9425,13 +9436,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point.md\"> Make your inbox into an entry point </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Creationism built an anti-science culture.md\"> Creationism built an anti-science culture </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans love to group eachother.md\"> Humans love to group eachother </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans love to group eachother.md\"> Humans love to group eachother </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Ronald Reagan invented modern conservatism.md\"> Ronald Reagan invented modern conservatism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans love to group eachother.md\"> Humans love to group eachother </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -9487,6 +9492,8 @@
         "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/LAST-WEEK.md\"> LAST-WEEK </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
@@ -9535,9 +9542,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender is acceptable.md\"> Any experience of gender is acceptable </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and an necessary expression.md\"> Gender is both an intrinsic experience and an necessary expression </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/Exam1_review_guide_chpt1-3.md\"> Exam1_review_guide_chpt1-3 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Analogies_of_Religious_Violence_in_Minec.md\"> Analogies_of_Religious_Violence_in_Minec </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/3 Gerrymandering and Voter Laws 2020 poa.md\"> 3 Gerrymandering and Voter Laws 2020 poa </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/From Bronze to Iron.md\"> From Bronze to Iron </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Analogies_of_Religious_Violence_in_Minec.md\"> Analogies_of_Religious_Violence_in_Minec </a>"
       ]
     },
     "40 Evergreens": {

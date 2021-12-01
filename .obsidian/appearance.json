@@ -1,6 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "BRAT-Emrie-Candera----Bubble-Space-Theme",
+  "cssTheme": "BRAT-ceciliamay----obsidianmd-theme-primary",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "aside",
@@ -12,7 +12,8 @@
     "gradient-hr",
     "space-fixes",
     "S - Images Adjustments",
-    "wordcount_dashboard"
+    "wordcount_dashboard",
+    "obsidian.css.live-preview.list-rainbow-indents"
   ],
   "translucency": false,
   "baseFontSizeAction": false

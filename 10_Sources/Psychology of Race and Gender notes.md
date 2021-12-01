@@ -1,3 +1,19 @@
+---
+created: 2021-12-01 
+aliases:
+  - null
+tags: node/source
+type:
+  - null 
+---
+
+##### [[Psychology of Race and Gender notes ]]
+ **Creator**:: 
+ 
+**Source**:: FA21 
+
+**Related**:: [[Psychology]], [[gender]], [[race]]
+
 - Table mates
 	- Kas Brady
 	- Lydia Martin
@@ -256,10 +272,25 @@
  - Microaggressions are common stressors (contribute to [[stereotype threat]]) and can be associated with [[trauma responses]]
  - Microagresions can be benevolent but don't have to be
  
-# Week 15
-No assigned readings. 
-
 # Week 16
 
 1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact 1.pdf]] 
 2.  “[The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice),” web article from _Greater Good Magazine_, published by University of California, Berkeley.
+
+- [[Intergroup contact theory]]  - Contact hypothesis: interacting with people from an outgroup, you hold [[prejudice]] toward will reduce your prejudice toward the group as a whole
+    - counter:: contact does not always have a positive effect
+    - Conditions of contact: the more conditions are met, the more likely contact is positive
+        - Equal status: interactors are not subordinate to each other ^[[[Our authority figures curate and reinforce what we are allowed to imitate]]] 
+        - intergroup cooperation and common goals: interactors are working together ^[competition breeds conflict and conflict breeds [[Stereotype]]]
+        - [[support]] from authority: authority figure promotes or supports intergroup contact
+        - friendship: developing friendships is the most effective at fulfilling the contact hypothesis
+    - Forms of contact
+        - Direct contact
+        - Virtual contact
+        - Extended/vicarious contact
+            - watching or knowing who engage with other groups
+            - why? social norms and [[Observational learning]]
+        - Imagined contact
+            - thinking about intergroup contact
+        - parasocial contact
+            - consuming media that meets the conditions of contact
