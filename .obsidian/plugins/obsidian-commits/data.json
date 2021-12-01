@@ -9023,9 +9023,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1435,
+      "Refactor": 1438,
       "Create": 1957,
-      "Link": 3264,
+      "Link": 3267,
       "Expand": 111
     },
     "40 Evergreens": {
@@ -9053,8 +9053,8 @@
       "13": 65,
       "14": 2236,
       "15": 109,
-      "16": 873,
-      "17": 1489,
+      "16": 878,
+      "17": 1490,
       "18": 182,
       "19": 92,
       "20": 123,
@@ -9093,7 +9093,7 @@
     "/": {
       "Mon": 212,
       "Tue": 611,
-      "Wed": 1267,
+      "Wed": 1273,
       "Thu": 355,
       "Fri": 69,
       "Sat": 0,
@@ -9271,6 +9271,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/my emotions.md\"> my emotions </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Intergroup contact theory.md\"> Intergroup contact theory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
@@ -9319,9 +9321,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9386,6 +9386,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
@@ -9435,10 +9436,11 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\"> tweets_A #Thread of Threads◙I... </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point.md\"> Make your inbox into an entry point </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Creationism built an anti-science culture.md\"> Creationism built an anti-science culture </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans love to group eachother.md\"> Humans love to group eachother </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
@@ -9487,11 +9489,10 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSPROUTS.md\"> EVERSPROUTS </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/LAST-WEEK.md\"> LAST-WEEK </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -9541,8 +9542,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/self-worth.md\"> self-worth </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender is acceptable.md\"> Any experience of gender is acceptable </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and an necessary expression.md\"> Gender is both an intrinsic experience and an necessary expression </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/Exam1_review_guide_chpt1-3.md\"> Exam1_review_guide_chpt1-3 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Analogies_of_Religious_Violence_in_Minec.md\"> Analogies_of_Religious_Violence_in_Minec </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/Exam1_review_guide_chpt1-3.md\"> Exam1_review_guide_chpt1-3 </a>"
       ]
     },
     "40 Evergreens": {

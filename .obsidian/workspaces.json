@@ -636,24 +636,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md",
+                "file": "40_Evergreens/Powerful tools make dangerous toys.md",
                 "mode": "source"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
                   "leaf": "f7788c04b318e9fc",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Intergroup contact theory.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":53},\"to\":{\"line\":11,\"ch\":53}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "f7788c04b318e9fc",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "f7788c04b318e9fc",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/QOUTE-TEMPLATE.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":14},\"to\":{\"line\":5,\"ch\":14}},\"scroll\":0}"
                 },
                 {
                   "leaf": "f7788c04b318e9fc",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"scroll\":278.4333248933156}"
                 },
                 {
                   "leaf": "f7788c04b318e9fc",
@@ -778,7 +790,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md",
+                    "file": "40_Evergreens/Powerful tools make dangerous toys.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -811,7 +823,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md",
+                    "file": "40_Evergreens/Powerful tools make dangerous toys.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -895,7 +907,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md"
+                    "file": "40_Evergreens/Powerful tools make dangerous toys.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -941,7 +953,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md",
+                    "file": "40_Evergreens/Powerful tools make dangerous toys.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",

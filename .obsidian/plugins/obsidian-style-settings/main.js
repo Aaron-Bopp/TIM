@@ -3801,6 +3801,7 @@ const localeMap = {
     cz,
     da,
     de,
+    en,
     es,
     fr,
     hi,

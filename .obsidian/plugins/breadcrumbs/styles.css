@@ -1,7 +1,8 @@
-div.BC-trail {
+.BC-trail {
   border: 1px solid var(--background-modifier-border);
   border-radius: 5px;
   padding: 5px;
+  margin-bottom: 5px !important;
 }
 
 .BC-matrix-square li {

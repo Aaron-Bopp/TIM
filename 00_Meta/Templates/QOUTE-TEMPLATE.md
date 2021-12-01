@@ -1,10 +1,14 @@
 <% tp.file.include("[[META]]") %> node/source/qoutes
 ---
-> <% tp.file.title %>
->
-> <cite></cite>
 
-%%
-Source:: 
-See:: 
-%%
+**Source**:: 
+
+**Creator**:: 
+
+**Topics**:: 
+
+### ^qoute
+
+> <% tp.file.title %>
+> 
+> <cite></cite>

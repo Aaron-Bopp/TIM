@@ -425,14 +425,6 @@ class ObsidianCodeMirrorOptionsSettingsTab extends require$$0.PluginSettingTab {
                 }
             }));
             new require$$0.Setting(containerEl)
-                .setName("Render Code Blocks")
-                .setDesc(`If this is disabled, none of the options below will do anything`)
-                .addToggle(toggle => toggle.setValue(this.plugin.settings.renderCode).onChange(value => {
-                this.plugin.settings.renderCode = value;
-                this.plugin.saveData(this.plugin.settings);
-                this.plugin.updateHmdOptions("hmdFold");
-            }));
-            new require$$0.Setting(containerEl)
                 .setName("Render Emoji/Icon Shortcodes")
                 .setDesc(createFragment(el => {
                 el.appendText(`Render emoji/icon `);
@@ -452,6 +444,14 @@ class ObsidianCodeMirrorOptionsSettingsTab extends require$$0.PluginSettingTab {
                 this.app.workspace.iterateCodeMirrors(cm => {
                     cm.refresh();
                 });
+            }));
+            new require$$0.Setting(containerEl)
+                .setName("Render Code Blocks")
+                .setDesc(`If this is disabled, none of the options below will do anything`)
+                .addToggle(toggle => toggle.setValue(this.plugin.settings.renderCode).onChange(value => {
+                this.plugin.settings.renderCode = value;
+                this.plugin.saveData(this.plugin.settings);
+                this.plugin.updateHmdOptions("hmdFold");
             }));
             new require$$0.Setting(containerEl)
                 .setName("Render Admonitions")
@@ -4731,7 +4731,7 @@ var ___extends = (function () {
     checker: exports.defaultChecker,
     renderer: exports.defaultRenderer,
     stubText: "<HTML>",
-    isolatedTagName: /^(?:div|pre|form|mark|table|iframe|ul|ol|input|textarea|p|summary|a)$/i,
+    isolatedTagName: /^(?:div|pre|details|form|mark|table|iframe|ul|ol|input|textarea|p|summary|a)$/i,
   };
   exports.suggestedOption = {};
   core_1.suggestedEditorConfig.hmdFoldHTML = exports.suggestedOption;
@@ -6121,11 +6121,14 @@ const { getApi } = lib;
     // if nearest colon is next token, it's not an emoji
     if (!nextToken || !nextColon || nextColon.i_token <= nextToken.i_token)
       return;
+
+    const tokenType = token.type;
     let name = "";
     for (let i = stream.i_token + 1; i < nextColon.i_token; i++) {
       const t = stream.lineTokens[i];
-      // if warpped tokens not plain text, it's not an emoji
-      if (t.type !== null || !AllowedChar.test(t.string)) return;
+      // if type of warpped tokens not the same as leading colon,
+      // it's not an emoji
+      if (t.type !== tokenType || !AllowedChar.test(t.string)) return;
       name += t.string;
     }
     // filter text that is too long to be shortcode
@@ -6390,9 +6393,9 @@ const { getApi } = lib;
         if (!this.dependencyCheck()) {
           el.innerHTML = '<span class="mod-warning">Obsidian v0.12.16+ is needed to render Mathjax</span>';
         } else {
-          el.innerHTML = require$$0.renderMath(expr, { display: true }).outerHTML;
-          // this.container.appendChild(this.el);
+          el.innerHTML =  require$$0.renderMath(expr, this.isDisplay).outerHTML;
           require$$0.finishRenderMath();
+          // this.container.appendChild(this.el);
         }
       } catch (err) {
         // failed to render!
