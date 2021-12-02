@@ -1,6 +1,6 @@
 /* ──────────────────────────────────────────────────────
 SHIMMERING FOCUS
-Version 1.209
+Version 1.224
 https://github.com/chrisgrieser/shimmering-focus/
 Created by @pseudometa
 MIT License
@@ -184,7 +184,6 @@ This ToC is auto-generated via the .create-ToC.sh
 	--editor-alt-accent: var(--alt-accent-darker);
 	--selection-color: hsl(259 100% 93% / 86.7%);
 	--extra-contrast: hsl(0 0% 36%);
-	--hr-line: hsl(0 0% 66%);
 	--button-hover: var(--alt-accent);
 	--button-hover-border: var(--alt-accent-lighter);
 	--longform-background: hsl(30 30% 98%);
@@ -198,16 +197,18 @@ This ToC is auto-generated via the .create-ToC.sh
 	--button-border: var(--accent-lighter);
 	--a-row: rgb(0 0 0 / 3%);
 	--b-row: rgb(0 0 0 / 6%);
-	--basic-border: 2px solid hsl(0 0% 70%);
-	--alt-border: 3px solid hsl(0 0% 87%);
 	--backdrop-color: hsl(228 9% 70%);
+
+	--hr-line: hsl(0 0% 66%);
+	--basic-border: 2px solid hsl(0 0% 70%);
+	--muted-border: 2px solid hsl(0 0% 87%);
+	--thick-border: 3.5px solid hsl(0 0% 87%);
 }
 
 .theme-dark {
 	--editor-alt-accent: var(--alt-accent);
 	--selection-color: hsl(302 24% 21% / 73%);
 	--extra-contrast: hsl(0 0% 73%);
-	--hr-line: hsl(0 0% 60%);
 	--button-hover: var(--alt-accent-darker);
 	--button-hover-border: var(--alt-accent-lighter);
 	--longform-background: hsl(226 18% 13%);
@@ -221,9 +222,12 @@ This ToC is auto-generated via the .create-ToC.sh
 	--button-border: var(--text-accent);
 	--a-row: rgb(0 0 0 / 20%);
 	--b-row: rgb(0 0 0 / 20%);
-	--basic-border: 2px solid hsl(0 0% 40%);
-	--alt-border: 3px solid hsl(0 0% 20%);
 	--backdrop-color: hsl(228 30% 15%);
+
+	--hr-line: hsl(0 0% 60%);
+	--basic-border: 2px solid hsl(0 0% 40%);
+	--muted-border: 2px solid hsl(0 0% 20%);
+	--thick-border: 3.5px solid hsl(0 0% 20%);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -499,7 +503,7 @@ body.mod-macos:not(.show-titlebar) .workspace-split.mod-left-split .workspace-ta
 	padding-top: 16px;
 }
 
-body.mod-macos:not(.show-titlebar) .workspace-split.mod-left-split.is-collapsed ~ .mod-root .view-header {
+body.mod-macos:not(.show-titlebar) .workspace-split.mod-left-split.is-collapsed ~ .mod-root .workspace-leaf:nth-child(2) .view-header {
 	padding-left: 40px;
 }
 
@@ -588,14 +592,14 @@ body:not(.show-ribbons) .workspace-ribbon {
 }
 
 /* ─────────────────────────────────────────────────── */
-/* << Notifications & Tooltips */
+/* << Tooltips */
 /* ─────────────────────────────────────────────────── */
 
 .tooltip {
 	color: var(--tooltip-notification-text);
 	background-color: var(--tooltip-notification-bg) !important;
 	border: 1px solid var(--tooltip-notification-border);
-	border-radius: calc(var(--roundish) * 2);
+	border-radius: var(--roundish);
 	word-wrap: break-word;
 }
 
@@ -615,17 +619,39 @@ body:not(.show-ribbons) .workspace-ribbon {
 	border-top: 5px solid var(--tooltip-notification-bg);
 }
 
-.theme-light .notice,
-.theme-dark .notice {
+/* ─────────────────────────────────────────────────── */
+/* << Notices (Notifications) */
+/* ─────────────────────────────────────────────────── */
+
+body:not(.show-titlebar) > div.notice-container {
+	top: 0;
+}
+
+body > div.notice-container .notice {
 	color: var(--tooltip-notification-text);
 	background-color: var(--tooltip-notification-bg);
 
-	padding: 5px 10px;
+	padding: 4px 10px 6px;
 
 	border: 1px solid var(--tooltip-notification-border);
 	border-radius: var(--roundish);
 
 	font-size: 0.85em;
+}
+
+body > div.notice-container .notice:hover {
+	opacity: 0.8;
+}
+
+body > div.notice-container .notice:hover::BEFORE {
+	display: block;
+	content: "𝗫";
+
+	position: absolute;
+	right: 21px;
+
+	color: var(--text-error);
+	opacity: 0.5;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -902,6 +928,10 @@ input[type="password"] {
 	border-radius: var(--round);
 }
 
+textarea {
+	border-radius: calc(var(--roundish) * 2);
+}
+
 input[type="text"] {
 	width: 250px;
 }
@@ -946,7 +976,7 @@ input.slider {
 
 	background-color: var(--background-secondary-alt);
 
-	border: var(--alt-border);
+	border: var(--thick-border);
 	border-radius: var(--round);
 }
 
@@ -1091,9 +1121,30 @@ div.menu-item {
 /* ─────────────────────────────────────────────────── */
 /* << Editor Suggestions */
 /* ─────────────────────────────────────────────────── */
+/* "body:not(.app-container)" needs to be used to prevent
+targeting other suggestion containers */
 
 body:not(.app-container) .suggestion-container {
 	border-radius: var(--roundish);
+}
+
+body:not(.app-container) .suggestion-content .suggestion-flair {
+	transform: scale(1.1);
+	margin-top: 3px;
+}
+
+body:not(.app-container) .suggestion-note {
+	font-family: var(--smallcap-font);
+	font-size: 0.9em;
+	text-align: end;
+}
+
+body:not(.app-container) .suggestion-item.is-selected .suggestion-note {
+	color: var(--text-accent);
+}
+
+body:not(.app-container) .suggestion-item:hover .suggestion-note {
+	color: var(--alt-accent);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -1165,9 +1216,10 @@ body:not(.show-close-button) .modal-close-button:hover {
 /* << Command Palette */
 /* << QuickSwitcher */
 /* ─────────────────────────────────────────────────── */
+/* also applies to the Editor Suggestions */
 
 div.prompt {
-	padding: 3px;
+	padding: 4px;
 	border: 5px solid var(--background-secondary);
 	border-radius: calc(var(--roundish) * 2);
 }
@@ -1175,7 +1227,7 @@ div.prompt {
 input.prompt-input {
 	width: unset;
 	padding-top: 7px;
-	margin: 3px 2px 8px;
+	margin-bottom: 8px;
 	border-radius: calc(var(--roundish) * 1.5);
 }
 
@@ -1422,7 +1474,7 @@ body .workspace-leaf-resize-handle:active {
 
 .modal {
 	padding: 7px 15px 20px;
-	border: var(--alt-border);
+	border: var(--thick-border);
 	border-radius: calc(var(--roundish) * 2);
 }
 
@@ -1433,13 +1485,14 @@ body .workspace-leaf-resize-handle:active {
 	backdrop-filter: blur(3px);
 }
 
+.modal.mod-sync-history,
 .modal.mod-community-theme,
 .modal.mod-community-plugin,
 .modal.mod-settings {
 	height: 93%;
 	width: 93%;
 	max-width: unset;
-	border: var(--alt-border);
+	border: var(--thick-border);
 	border-radius: calc(var(--roundish) * 3);
 }
 
@@ -1593,7 +1646,7 @@ body .workspace-leaf-resize-handle:active {
 	padding: 3px 3px 3px 6px;
 }
 
-/* color active/hovered submenu */
+/* color active/hovered sub menu */
 .vertical-tab-nav-item.is-active {
 	color: var(--text-accent);
 	background: var(--background-secondary-alt);
@@ -1625,17 +1678,12 @@ body .workspace-leaf-resize-handle:active {
 	border-radius: var(--roundish);
 }
 
-.mobile-option-setting-item > span:hover > svg,
 .setting-add-hotkey-button:hover,
 .setting-restore-hotkey-button:hover,
 .setting-editor-extra-setting-button:hover {
 	color: var(--editor-alt-accent) !important;
 	background-color: var(--background-secondary);
 	opacity: 1;
-}
-
-.mobile-option-setting-item svg {
-	stroke-width: 5px;
 }
 
 /* thicker "community plugins", "hotkey" & "appearance" */
@@ -1668,7 +1716,7 @@ body .workspace-leaf-resize-handle:active {
 }
 
 /* login menu  */
-p.u-center-text {
+.modal.mod-settings .u-center-text {
 	padding-top: 40px;
 	margin-top: 40px;
 	border-top: var(--basic-border);
@@ -1698,9 +1746,6 @@ p.u-center-text {
 /* ─────────────────────────────────────────────────── */
 
 /* bigger and more condensed */
-.modal.mod-community-plugin {
-	--plugin-browser-borders: 2px solid var(--background-modifier-border);
-}
 
 /* Search input */
 .community-plugin-search {
@@ -1715,7 +1760,7 @@ p.u-center-text {
 	padding: 0.4em 0.1em 0.4em 0.6em;
 	margin-top: 0;
 	margin-bottom: 0;
-	border-bottom: var(--plugin-browser-borders);
+	border-bottom: var(--muted-border);
 	line-height: 1.2em;
 }
 
@@ -1723,7 +1768,7 @@ p.u-center-text {
 	padding-right: 5px;
 	padding-bottom: 2px;
 
-	border-bottom: var(--plugin-browser-borders);
+	border-bottom: var(--muted-border);
 
 	font-family: var(--smallcap-font);
 	font-size: 1em;
@@ -1864,7 +1909,7 @@ p.u-center-text {
 /* plugin info */
 .community-plugin-info {
 	padding: 10px 5px 10px 15px;
-	border-left: var(--plugin-browser-borders);
+	border-left: var(--muted-border);
 }
 
 .community-plugin-info .community-plugin-name {
@@ -1938,7 +1983,7 @@ p.u-center-text {
 .community-plugin-info div.community-plugin-readme {
 	padding-top: 5px !important;
 	margin-top: 15px !important;
-	border-top: var(--alt-border);
+	border-top: var(--thick-border);
 }
 
 .community-plugin-readme {
@@ -1946,25 +1991,16 @@ p.u-center-text {
 }
 
 /* empty state */
-.empty-state-action {
-	display: none;
-}
-
-.community-plugin-details-empty-state,
-.empty-state-title {
+.community-plugin-details-empty-state {
+	padding-top: 16rem;
+	border-left: var(--muted-border);
 	font-size: 0;
 }
 
-.community-plugin-details-empty-state {
-	padding-top: 16rem;
-}
-
-.community-plugin-details-empty-state::AFTER,
-.empty-state-title::AFTER {
+.community-plugin-details-empty-state::AFTER {
 	content: var(--signature);
 	color: var(--extra-contrast);
 	font-size: 11rem;
-	font-weight: 500;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -2079,6 +2115,24 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 .workspace-leaf:not(.mod-active) .workspace-leaf-content[data-type="markdown"] {
 	opacity: var(--inactive-pane-opacity);
 	transition: 800ms ease-in-out;
+}
+
+/* ─────────────────────────────────────────────────── */
+/* << Empty State */
+/* ─────────────────────────────────────────────────── */
+
+.empty-state-action {
+	display: none;
+}
+
+.empty-state-title {
+	font-size: 0;
+}
+
+.empty-state-title::AFTER {
+	content: var(--signature);
+	color: var(--extra-contrast);
+	font-size: 11rem;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -2264,7 +2318,7 @@ body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
 }
 
 /* the "..." when content is folded */
-body:not(.show-foldermarker) .CodeMirror-foldmarker {
+body:not(.show-fold-marker) .CodeMirror-foldmarker {
 	display: none;
 }
 
@@ -2410,6 +2464,7 @@ body:not(.left-aligned-embeds) div.mermaid {
 
 /* bugfix for mermaid font */
 .mermaid {
+	font-size: 0.9em;
 	--mermaid-font: "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif; /* stylelint-disable-line max-line-length */
 }
 
@@ -2553,6 +2608,11 @@ svg[id^="m"][width][height][viewBox] {
 	min-width: 20%;
 }
 
+/* Focus View: When the left sidebar is hidden, hide the right one as well */
+body.focus-view-enabled .workspace-split.mod-left-split.is-collapsed ~ .workspace-split.mod-right-split {
+	display: none;
+}
+
 /* ─────────────────────────────────────────────────── */
 /* < Markup */
 /* ─────────────────────────────────────────────────── */
@@ -2690,9 +2750,6 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-header.Hy
 	padding-left: 1em !important;
 	margin-bottom: 0;
 
-	border-top: 1px solid var(--background-modifier-border);
-	border-right: 1px solid var(--background-modifier-border);
-	border-bottom: 1px solid var(--background-modifier-border);
 	border-left: 12px solid var(--pseudo-admonition-border) !important;
 	border-radius: var(--roundish);
 }
@@ -2702,19 +2759,17 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-header.Hy
 /* ─────────────────────────────────────────────────── */
 
 /* Edit Mode */
-.cm-quote {
-	color: var(--extra-contrast) !important;
+body > .app-container .cm-quote {
+	color: var(--extra-contrast);
 	font-style: italic;
 }
 
-.HyperMD-quote.HyperMD-quote-1 {
-	color: var(--text-normal);
-
+body > .app-container .HyperMD-quote {
 	padding-top: 0.4em;
 	padding-right: 0.8em;
 	padding-bottom: 0.5em;
 
-	border: var(--plugin-browser-borders);
+	border: var(--muted-border);
 	border-radius: var(--roundish);
 
 	text-align: justify;
@@ -2724,28 +2779,27 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-header.Hy
 
 /* fixes color when text is selected */
 /* https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/11552/10?u=pseudometa */
-.theme-light .HyperMD-quote.HyperMD-quote-1 {
-	background-color: rgb(0 0 0 / 7%) !important;
+.theme-light .HyperMD-quote {
+	background-color: rgb(0 0 0 / 3%);
 }
 
-.theme-dark .HyperMD-quote.HyperMD-quote-1 {
-	background-color: rgb(0 0 0 / 25%) !important;
+.theme-dark .HyperMD-quote {
+	background-color: rgb(0 0 0 / 25%);
 }
 
 /* when blockquote is also active line */
-body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-quote.HyperMD-quote-1.CodeMirror-line {
-	color: var(--text-normal) !important;
-	background-color: var(--active-line) !important;
+body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-quote.CodeMirror-line {
+	background-color: var(--active-line);
 }
 
 /* the ">" */
-.cm-formatting.cm-formatting-quote {
+body > .app-container .cm-formatting.cm-formatting-quote {
 	font-weight: 900;
 	font-style: unset;
 }
 
 /* style links in blockquotes, e.g. es quote sources */
-.cm-link.cm-quote.cm-quote-1:not(.cm-formatting) {
+.cm-link.cm-quote:not(.cm-formatting) {
 	color: var(--text-accent) !important;
 }
 
@@ -2773,11 +2827,10 @@ body > .app-container .markdown-preview-view blockquote {
 
 /* underline emphasis in blockquote, since they are italic already */
 .markdown-preview-view blockquote > p > em,
-span.cm-em.cm-quote.cm-quote-1 {
+span.cm-em.cm-quote {
 	text-decoration: underline;
 }
 
-/* Add quotation character before quote */
 body:not(.normal-blockquotes) blockquote,
 body:not(.normal-blockquotes) .HyperMD-quote.HyperMD-quote-1 {
 	font-size: 0.87em;
@@ -3592,6 +3645,16 @@ body.is-mobile .markdown-preview-view blockquote {
 	text-align: start;
 }
 
+.mobile-option-setting-item > span:hover > svg {
+	color: var(--editor-alt-accent) !important;
+	background-color: var(--background-secondary);
+	opacity: 1;
+}
+
+.mobile-option-setting-item svg {
+	stroke-width: 5px;
+}
+
 /* ─────────────────────────────────────────────────── */
 /* < Core Plugins */
 /* ─────────────────────────────────────────────────── */
@@ -3937,8 +4000,10 @@ body.is-mobile .markdown-preview-view blockquote {
 /* ─────────────────────────────────────────────────── */
 
 .outline .tree-item-self {
-	padding-top: 0.35em;
-	padding-bottom: 0.35em;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid var(--background-modifier-border);
+	border-radius: 0;
 	line-height: 1.15em;
 }
 
@@ -4186,15 +4251,23 @@ body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"]
 /* ─────────────────────────────────────────────────── */
 /* << File Recovery */
 /* ─────────────────────────────────────────────────── */
-.modal.mod-sync-history {
-	height: 93%;
-	width: 93%;
-	max-width: unset;
-	border-color: var(--background-primary-alt);
-}
+/* see also modals in general */
 
 .modal.mod-sync-history .setting-item-control {
 	justify-content: unset;
+}
+
+/* both needed to ensure proper width :S */
+.modal-container .sync-history-list input,
+.modal.mod-sync-history .search-input-container {
+	width: 100%;
+}
+
+.sync-history-list .u-muted {
+	display: inline;
+	padding-left: 10px;
+	font-family: var(--smallcap-font);
+	font-size: 1.05em;
 }
 
 .sync-history-list-item.is-active .u-muted,
@@ -4202,16 +4275,10 @@ body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"]
 	color: var(--text-normal);
 }
 
-/* do not apply widend input here */
-.modal-container .sync-history-list input {
-	width: unset;
-}
-
 .sync-history-list-item {
 	padding-right: 5px;
 	padding-left: 10px;
-	border-right: 1px solid var(--background-primary);
-	border-bottom: 1px solid var(--background-primary);
+	border-top: var(--muted-border);
 	line-height: 1.4em;
 }
 
@@ -4234,6 +4301,7 @@ body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"]
 .sync-history-content-container {
 	height: 100%;
 	padding: 10px;
+	border-left: var(--muted-border);
 	border-top-right-radius: var(--roundish);
 	border-bottom-right-radius: var(--roundish);
 }
@@ -4630,6 +4698,12 @@ a.tag.kanban-plugin__item-tag {
 .kanban-plugin__item-markdown li .external-link::BEFORE {
 	margin-top: 1px;
 	margin-right: 6px;
+}
+
+.kanban-plugin hr {
+	margin-top: 12px;
+	margin-bottom: 12px;
+	border-width: 3px !important;
 }
 
 /* adapted for the round checkboxes */
@@ -5634,6 +5708,8 @@ community:
 /* < Style Setting Options */
 /* ─────────────────────────────────────────────────── */
 
+/* stylelint-disable max-line-length */
+
 /* @settings
 name: Shimmering Focus (Theme)
 id: shimmering-focus
@@ -5689,15 +5765,15 @@ settings:
 	 default: false
   -
 	 id: show-collapse-buttons
-	 title: Permanently show the Edit Mode Collapse Arrows (Fold Arrows)
+	 title: Permanently show the Edit Mode Collapse Arrows
 	 type: class-toggle
 	 description: When false, you collapse buttons still become visible upon hovering.
 	 default: false
   -
-	 id: show-foldermarker
+	 id: show-fold-marker
 	 title: Re-enable the Fold Markers
 	 type: class-toggle
-	 description: Folder markers are the "..." next to a folded/collapsed item.
+	 description: Fold markers are the ellipses ("...") next to a folded/collapsed item.
 	 default: false
   -
 	 id: show-graph-controls
@@ -5899,15 +5975,21 @@ settings:
 	 format: em
   -
 	 id: content-settings
-	 title: Content
-	 description: Max View, Images, PDFs, & Line Length
+	 title: Views & Content
+	 description: Max View, Focus View, Images, PDFs, & Line Length
 	 type: heading
 	 level: 2
 	 collapsed: true
   -
 	 id: max-view-off
-	 title: 'Turn off the "Max View" feature'
+	 title: 'Disable "Max View"'
 	 description: '"Max View" makes panes full length and images/PDFs full width when the left sidebar is hidden and readable line length when the left sidebar is shown.'
+	 type: class-toggle
+	 default: false
+  -
+	 id: focus-view-enabled
+	 title: 'Enable "Focus View"'
+	 description: 'Hiding the left side bar will also hide the right one. Note that with this feature, the right side bar stays hidden until the left one is shown again. Synergizes with "Max View", but also works with "Max View" disabled. '
 	 type: class-toggle
 	 default: false
   -
@@ -6106,8 +6188,8 @@ settings:
 	 default: false
   -
 	 id: no-ul-relationship-lines
-	 title: Disable the relationship lines for lists
-	 description: Enable this, if you want to use a custom relationship line snippet or the relationship lines from the Outliner plugin.
+	 title: Disable Relationship Lines for lists
+	 description: If you want to use a custom relationship line snippet or the relationship lines from the Outliner plugin, you can disable this theme's relationship lines to prevent interference.
 	 type: class-toggle
 	 default: false
 */

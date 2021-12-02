@@ -1,6 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "",
+  "cssTheme": "BRAT-chrisgrieser----shimmering-focus",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "aside",
@@ -10,7 +10,6 @@
     "S - Embed Adjustments",
     "S - External Link Icons",
     "gradient-hr",
-    "space-fixes",
     "S - Images Adjustments",
     "wordcount_dashboard",
     "obsidian.css.live-preview.list-rainbow-indents"

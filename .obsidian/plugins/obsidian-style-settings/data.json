@@ -133,5 +133,10 @@
   "sanctum@@show-full-titles": true,
   "sanctum@@settings": 40,
   "sanctum@@center-tables": true,
-  "sanctum@@alternate-dataview": true
+  "sanctum@@alternate-dataview": true,
+  "shimmering-focus@@show-statusbar": true,
+  "shimmering-focus@@angular-shapes": false,
+  "shimmering-focus@@block-cursor": false,
+  "shimmering-focus@@colored-yaml": true,
+  "shimmering-focus@@max-view-off": false
 }

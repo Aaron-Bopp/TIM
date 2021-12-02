@@ -9019,13 +9019,18 @@
       "size": 0,
       "tags": 1,
       "links": 2
+    },
+    "30_Topics/31_Stubs/Operating Systems.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1438,
-      "Create": 1957,
-      "Link": 3267,
+      "Refactor": 1439,
+      "Create": 1958,
+      "Link": 3268,
       "Expand": 111
     },
     "40 Evergreens": {
@@ -9046,7 +9051,7 @@
       "6": 0,
       "7": 0,
       "8": 24,
-      "9": 372,
+      "9": 375,
       "10": 55,
       "11": 43,
       "12": 336,
@@ -9094,7 +9099,7 @@
       "Mon": 212,
       "Tue": 611,
       "Wed": 1273,
-      "Thu": 355,
+      "Thu": 358,
       "Fri": 69,
       "Sat": 0,
       "Sun": 4253
@@ -9165,6 +9170,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Operating Systems.md\"> Operating Systems </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Intergroup contact theory.md\"> Intergroup contact theory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
@@ -9214,10 +9220,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>",
         "<a class=\"internal-link\" href=\"Microagressions.md\"> Microagressions </a>",
         "<a class=\"internal-link\" href=\"Microagressions.md\"> Microagressions </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mysogyny.md\"> mysogyny </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microagressions.md\"> Microagressions </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mysogyny.md\"> mysogyny </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Operating Systems.md\"> Operating Systems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
@@ -9267,10 +9273,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Reagan.md\"> Reagan </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/my parents.md\"> my parents </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/my emotions.md\"> my emotions </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Operating Systems.md\"> Operating Systems </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
@@ -9320,8 +9326,7 @@
         "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
