@@ -135,7 +135,7 @@
   "sanctum@@center-tables": true,
   "sanctum@@alternate-dataview": true,
   "shimmering-focus@@show-statusbar": true,
-  "shimmering-focus@@angular-shapes": false,
+  "shimmering-focus@@angular-shapes": true,
   "shimmering-focus@@block-cursor": false,
   "shimmering-focus@@colored-yaml": true,
   "shimmering-focus@@max-view-off": false

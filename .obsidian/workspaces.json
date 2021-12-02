@@ -647,7 +647,7 @@
                   "leaf": "f7788c04b318e9fc",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Be the change you want to see in the world.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{}"
                 },
                 {
                   "leaf": "f7788c04b318e9fc",
@@ -1080,7 +1080,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 855
+        "width": 855,
+        "collapsed": true
       },
       "active": "f7788c04b318e9fc"
     }
