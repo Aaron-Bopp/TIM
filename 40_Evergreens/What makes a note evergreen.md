@@ -24,6 +24,7 @@ Q3-->|Yes|Q4[Is the note a complete concept?]
 Q5-->|Yes|#EVER/GREEN
 Q4-->|No|Q7[Is it too large or too small?]
 Q4-->|Yes|Q5[Is the note used a lot? in practice or in other notes]
+Q5-->|No|#EVER/SPROUT/CULTIVATE
 Q6-->|Yes|WATER[#EVER/SPROUT/WATER]
 Q6-->|No|STABLE[#EVER/SPROUT or #EVER/GREEN]
 Q7-->|too small|Q6[Do I have more to say?]

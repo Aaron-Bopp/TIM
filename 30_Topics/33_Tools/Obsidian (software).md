@@ -19,6 +19,8 @@ List of resources https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp for learning ob
 
 [The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is more well-kept then this note will ever be
 
+- [Excellent beginner's guide to Zetllkassen in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
+
 ### My notes about Obsidian
 
 
