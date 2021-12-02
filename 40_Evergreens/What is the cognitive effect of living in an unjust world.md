@@ -11,6 +11,10 @@ sr-ease: 217
 
 #### [[What is the cognitive effect of living in an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Possible Answers: 
+- [[Humans have decided to reject an unjust world]]
+- [[Our brain will do anything it can to protect itself]]
+
 Over all [[Humans have decided to reject an unjust world]], but this manifest in many different forms:
 - [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else
     - This assumes that people will act rationally and want to reduce their own [[suffering]], but that isn't always the case: [[Sadness is enlightenment and happiness is delusion]] 

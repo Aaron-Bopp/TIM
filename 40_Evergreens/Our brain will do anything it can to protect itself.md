@@ -7,6 +7,7 @@ sr-due: 2021-11-26
 sr-interval: 11
 sr-ease: 227
 ---
+
 #### [[Our brain will do anything it can to protect itself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/TEND/CREATE this bridge note
@@ -42,5 +43,3 @@ This ability to pattern match is a major part of why we have survived as a speci
 
 **Topics**:: [[trauma]], [[subconscious]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
