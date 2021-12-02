@@ -8913,7 +8913,7 @@
     "40_Evergreens/Be the change you want to see in the world.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md": {
       "size": 0,
@@ -9040,7 +9040,7 @@
     "/": {
       "Refactor": 1439,
       "Create": 1960,
-      "Link": 3272,
+      "Link": 3273,
       "Expand": 111
     },
     "40 Evergreens": {
@@ -9066,7 +9066,7 @@
       "11": 43,
       "12": 336,
       "13": 65,
-      "14": 2236,
+      "14": 2237,
       "15": 109,
       "16": 878,
       "17": 1490,
@@ -9109,7 +9109,7 @@
       "Mon": 212,
       "Tue": 611,
       "Wed": 1273,
-      "Thu": 364,
+      "Thu": 365,
       "Fri": 69,
       "Sat": 0,
       "Sun": 4253
@@ -9401,6 +9401,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes-2.md\"> articles_Learn yaml in Y Minutes-2 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md\"> articles_Learn yaml in Y Minutes </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
@@ -9450,8 +9451,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your coneceptual notes.md\"> Using spaced repetition for your coneceptual notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md\"> articles_Hydronic Heating Systems — Van Life Tech </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\"> tweets_A #Thread of Threads◙I... </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point.md\"> Make your inbox into an entry point </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\"> tweets_A #Thread of Threads◙I... </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",

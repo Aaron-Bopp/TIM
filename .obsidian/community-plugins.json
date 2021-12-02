@@ -49,7 +49,6 @@
   "obsidian-admonition",
   "obsidian-hider",
   "obsidian42-brat",
-  "obsidian-extra-md-html-syntax",
   "sliding-panes-obsidian",
   "obsidian-languagetool-plugin",
   "rss-reader",
@@ -70,5 +69,7 @@
   "obsidian-outliner",
   "obsidian-codemirror-options",
   "obsidian-activity-history",
-  "supercharged-links-obsidian"
+  "supercharged-links-obsidian",
+  "obsidian-smarter-md-hotkeys",
+  "snippet-commands-obsidian"
 ]

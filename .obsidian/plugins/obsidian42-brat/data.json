@@ -1,9 +1,9 @@
 {
   "pluginList": [
+    "chrisgrieser/obsidian-smarter-md-hotkeys",
     "TfTHacker/obsidian42-brat",
     "jmilldotdev/obsidian-frontmatter-tag-suggest",
-    "joethei/obsidian-rss",
-    "chrisgrieser/obsidian-extra-md-html-syntax"
+    "joethei/obsidian-rss"
   ],
   "themesList": [
     {
