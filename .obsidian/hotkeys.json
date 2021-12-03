@@ -63,15 +63,6 @@
       "key": "ArrowDown"
     }
   ],
-  "templater-obsidian:insert-templater": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -339,5 +330,30 @@
       "key": "S"
     }
   ],
-  "various-complements:reload-custom-dictionaries": []
+  "various-complements:reload-custom-dictionaries": [],
+  "obsidian-smarter-md-hotkeys:smarter-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-smarter-md-hotkeys:smarter-asterisk-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
 }

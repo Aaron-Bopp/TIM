@@ -4715,11 +4715,6 @@
       "tags": 2,
       "links": 14
     },
-    "40_Evergreens/Note structures should be loosely defined.md": {
-      "size": 2558,
-      "tags": 4,
-      "links": 14
-    },
     "40_Evergreens/Our brains are built around survival.md": {
       "size": 2154,
       "tags": 2,
@@ -9059,13 +9054,23 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "40_Evergreens/Note structures should help curate knowledge.md": {
+      "size": 2558,
+      "tags": 5,
+      "links": 15
+    },
+    "30_Topics/31_Stubs/knowledge work.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1442,
-      "Create": 1965,
-      "Link": 3291,
+      "Refactor": 1444,
+      "Create": 1966,
+      "Link": 3294,
       "Expand": 113
     },
     "40 Evergreens": {
@@ -9100,7 +9105,7 @@
       "20": 123,
       "21": 154,
       "22": 221,
-      "23": 196
+      "23": 202
     },
     "40 Evergreens": {
       "0": 9,
@@ -9134,7 +9139,7 @@
       "Mon": 212,
       "Tue": 611,
       "Wed": 1273,
-      "Thu": 393,
+      "Thu": 399,
       "Fri": 69,
       "Sat": 0,
       "Sun": 4253
@@ -9205,6 +9210,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge work.md\"> knowledge work </a>",
         "<a class=\"internal-link\" href=\"kin selection.md\"> kin selection </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving the Loves of Your Loves.md\"> Loving the Loves of Your Loves </a>",
@@ -9254,10 +9260,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>",
-        "<a class=\"internal-link\" href=\"Humans are a product of evolution.md\"> Humans are a product of evolution </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the loves loves of those who you love.md\"> You should the loves loves of those who you love </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Operating Systems.md\"> Operating Systems </a>",
@@ -9307,10 +9313,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Wealth Inequality.md\"> Wealth Inequality </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religious trauma.md\"> religious trauma </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Prison.md\"> Prison </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Reagan.md\"> Reagan </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Reagan.md\"> Reagan </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge work.md\"> knowledge work </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
         "<a class=\"internal-link\" href=\"kin selection.md\"> kin selection </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving the Loves of Your Loves.md\"> Loving the Loves of Your Loves </a>",
@@ -9359,9 +9366,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md\"> tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️ </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md\"> tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️ </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9426,6 +9431,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>",
@@ -9475,8 +9481,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/34_People/@visakanv on Twitter.md\"> @visakanv on Twitter </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
@@ -9532,6 +9537,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
@@ -9581,8 +9587,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human survival.md\"> human survival </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/self-worth.md\"> self-worth </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender is acceptable.md\"> Any experience of gender is acceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and an necessary expression.md\"> Gender is both an intrinsic experience and an necessary expression </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender is acceptable.md\"> Any experience of gender is acceptable </a>"
       ]
     },
     "40 Evergreens": {

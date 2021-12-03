@@ -20,7 +20,37 @@
               "leaf": "bb6a4883f0402613",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+            },
+            {
+              "leaf": "bb6a4883f0402613",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Note structures should help curate knowledge.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":32},\"to\":{\"line\":32,\"ch\":32}},\"scroll\":20.041666666666668}"
+            },
+            {
+              "leaf": "bb6a4883f0402613",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/My TIM.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":19.501831501831504}"
+            },
+            {
+              "leaf": "bb6a4883f0402613",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/evergreen notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":26},\"to\":{\"line\":17,\"ch\":26}},\"scroll\":0}"
+            },
+            {
+              "leaf": "bb6a4883f0402613",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/note writing.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":null}"
+            },
+            {
+              "leaf": "bb6a4883f0402613",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "bb6a4883f0402613",
@@ -399,14 +429,14 @@
   "active": "bb6a4883f0402613",
   "lastOpenFiles": [
     "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md",
+    "40_Evergreens/Note structures should help curate knowledge.md",
+    "30_Topics/My TIM.md",
+    "30_Topics/32_Terms/evergreen notes.md",
+    "30_Topics/35_Outlines/note writing.md",
     "40_Evergreens/Rise of Conspiracy Culture.md",
     "40_Evergreens/Humans are a product of evolution.md",
     "40_Evergreens/What makes a note evergreen.md",
     "kin selection.md",
-    "40_Evergreens/Our brain will do anything it can to protect itself.md",
-    "40_Evergreens/Take note of the simple things in life.md",
-    "40_Evergreens/You should the love the loves of those who you love.md",
-    "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
+    "40_Evergreens/Our brain will do anything it can to protect itself.md"
   ]
 }

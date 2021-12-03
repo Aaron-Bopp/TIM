@@ -647,7 +647,37 @@
                   "leaf": "bb6a4883f0402613",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "bb6a4883f0402613",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Note structures should help curate knowledge.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":32},\"to\":{\"line\":32,\"ch\":32}},\"scroll\":20.041666666666668}"
+                },
+                {
+                  "leaf": "bb6a4883f0402613",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/My TIM.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":19.501831501831504}"
+                },
+                {
+                  "leaf": "bb6a4883f0402613",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/evergreen notes.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":26},\"to\":{\"line\":17,\"ch\":26}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "bb6a4883f0402613",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/note writing.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":null}"
+                },
+                {
+                  "leaf": "bb6a4883f0402613",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
                 },
                 {
                   "leaf": "bb6a4883f0402613",
