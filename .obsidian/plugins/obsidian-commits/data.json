@@ -9034,13 +9034,18 @@
       "size": 563,
       "tags": 1,
       "links": 1
+    },
+    "30_Topics/32_Terms/MVC.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1440,
-      "Create": 1960,
-      "Link": 3276,
+      "Create": 1961,
+      "Link": 3278,
       "Expand": 113
     },
     "40 Evergreens": {
@@ -9070,7 +9075,7 @@
       "15": 109,
       "16": 878,
       "17": 1496,
-      "18": 182,
+      "18": 185,
       "19": 92,
       "20": 123,
       "21": 148,
@@ -9109,7 +9114,7 @@
       "Mon": 212,
       "Tue": 611,
       "Wed": 1273,
-      "Thu": 371,
+      "Thu": 374,
       "Fri": 69,
       "Sat": 0,
       "Sun": 4253
@@ -9180,6 +9185,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MVC.md\"> MVC </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md\"> articles_Learn yaml in Y Minutes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes-2.md\"> articles_Learn yaml in Y Minutes-2 </a>",
         "<a class=\"internal-link\" href=\"Operating Systems.md\"> Operating Systems </a>",
@@ -9229,8 +9235,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\"> articles_Various ways to include comments on your static site </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>",
-        "<a class=\"internal-link\" href=\"Microagressions.md\"> Microagressions </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Operating Systems.md\"> Operating Systems </a>",
@@ -9286,6 +9291,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MVC.md\"> MVC </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes-2.md\"> articles_Learn yaml in Y Minutes-2 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md\"> articles_Learn yaml in Y Minutes </a>",
@@ -9335,8 +9341,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9401,6 +9406,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MVC.md\"> MVC </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
@@ -9450,8 +9456,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your coneceptual notes.md\"> Using spaced repetition for your coneceptual notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md\"> articles_Hydronic Heating Systems — Van Life Tech </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your coneceptual notes.md\"> Using spaced repetition for your coneceptual notes </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",

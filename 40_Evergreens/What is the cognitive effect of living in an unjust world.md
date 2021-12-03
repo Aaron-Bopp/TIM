@@ -15,7 +15,7 @@ Possible Answers:
 - [[Humans have decided to reject an unjust world]]
 - [[Our brain will do anything it can to protect itself]]
 
-Over all [[Humans have decided to reject an unjust world]], but this manifest in many different forms:
+Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different forms:
 - [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else
     - This assumes that people will act rationally and want to reduce their own [[suffering]], but that isn't always the case: [[Sadness is enlightenment and happiness is delusion]] 
 %%I don't think this is the answer. Doing good feels more effective than reducing harm, but trying to do good and failing can increase harm. What is the logical end of these beliefs?%%
