@@ -3,8 +3,8 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-26
-sr-interval: 2
+sr-due: 2021-12-13
+sr-interval: 11
 sr-ease: 190
 ---
 
@@ -14,10 +14,11 @@ sr-ease: 190
     - [[Neuroscience]]
     - [[Our brain will do anything it can to protect itself]]
     - [[Humans are primarily irrational, illogical, emotional beings]]
+- [[Humans love to group eachother]] <- [[kin selection]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Evolutionary Pyschology]]

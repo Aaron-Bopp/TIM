@@ -4788,7 +4788,7 @@
     "40_Evergreens/Rise of Conspiracy Culture.md": {
       "size": 293,
       "tags": 2,
-      "links": 2
+      "links": 4
     },
     "40_Evergreens/Rise of Misinformation in America.md": {
       "size": 1257,
@@ -8803,7 +8803,7 @@
     "40_Evergreens/Humans are a product of evolution.md": {
       "size": 0,
       "tags": 2,
-      "links": 6
+      "links": 8
     },
     "20_Entry/24 Vault Stats/Word count Evergreens.md": {
       "size": 13413,
@@ -9039,13 +9039,33 @@
       "size": 0,
       "tags": 1,
       "links": 2
+    },
+    "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "40_Evergreens/You should the love the loves of those who you love.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
+    },
+    "40_Evergreens/Take note of the simple things in life.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    },
+    "kin selection.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1440,
-      "Create": 1961,
-      "Link": 3278,
+      "Refactor": 1442,
+      "Create": 1965,
+      "Link": 3290,
       "Expand": 113
     },
     "40 Evergreens": {
@@ -9078,8 +9098,8 @@
       "18": 185,
       "19": 92,
       "20": 123,
-      "21": 148,
-      "22": 208,
+      "21": 154,
+      "22": 220,
       "23": 196
     },
     "40 Evergreens": {
@@ -9114,7 +9134,7 @@
       "Mon": 212,
       "Tue": 611,
       "Wed": 1273,
-      "Thu": 374,
+      "Thu": 392,
       "Fri": 69,
       "Sat": 0,
       "Sun": 4253
@@ -9185,6 +9205,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"kin selection.md\"> kin selection </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Loving the Loves of Your Loves.md\"> Loving the Loves of Your Loves </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md\"> 'It is a capital mistake to theorize without having data' - Sherlock Holmes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MVC.md\"> MVC </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md\"> articles_Learn yaml in Y Minutes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes-2.md\"> articles_Learn yaml in Y Minutes-2 </a>",
@@ -9231,13 +9255,11 @@
         "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
         "<a class=\"internal-link\" href=\"Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>",
-        "<a class=\"internal-link\" href=\"Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a tool connecting evergreen notes.md\"> Use spaced repetition as a tool connecting evergreen notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\"> articles_Various ways to include comments on your static site </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\"> articles_Conceptarium - Paul Bricman </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\"> articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com </a>"
+        "<a class=\"internal-link\" href=\"Humans are a product of evolution.md\"> Humans are a product of evolution </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the loves loves of those who you love.md\"> You should the loves loves of those who you love </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Operating Systems.md\"> Operating Systems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
@@ -9286,11 +9308,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religious trauma.md\"> religious trauma </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Prison.md\"> Prison </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Reagan.md\"> Reagan </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/my parents.md\"> my parents </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/my emotions.md\"> my emotions </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"kin selection.md\"> kin selection </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Loving the Loves of Your Loves.md\"> Loving the Loves of Your Loves </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md\"> 'It is a capital mistake to theorize without having data' - Sherlock Holmes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MVC.md\"> MVC </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes-2.md\"> articles_Learn yaml in Y Minutes-2 </a>",
@@ -9337,11 +9361,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md\"> tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️ </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9406,6 +9426,14 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Loving the Loves of Your Loves.md\"> Loving the Loves of Your Loves </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md\"> 'It is a capital mistake to theorize without having data' - Sherlock Holmes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MVC.md\"> MVC </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
@@ -9448,15 +9476,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your coneceptual notes.md\"> Using spaced repetition for your coneceptual notes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",

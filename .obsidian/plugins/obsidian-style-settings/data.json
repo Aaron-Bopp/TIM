@@ -24,7 +24,7 @@
   "ITS@@justified": false,
   "ITS@@lh": 1.5,
   "ITS@@hcl": false,
-  "shimmering-focus@@show-titlebar": true,
+  "shimmering-focus@@show-titlebar": false,
   "shimmering-focus@@show-ribbons": true,
   "shimmering-focus@@show-header-bar": true,
   "CodeMirror Options@@cm-theme-selection": "cm-theme-dracula",

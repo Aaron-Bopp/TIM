@@ -631,25 +631,74 @@
         "type": "split",
         "children": [
           {
-            "id": "8fed42c9ea3c9562",
+            "id": "bb6a4883f0402613",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md",
+                "mode": "source"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "8fed42c9ea3c9562",
+                  "leaf": "bb6a4883f0402613",
                   "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "bb6a4883f0402613",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rise of Conspiracy Culture.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":23},\"to\":{\"line\":17,\"ch\":23}}}"
+                },
+                {
+                  "leaf": "bb6a4883f0402613",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are a product of evolution.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":25},\"to\":{\"line\":16,\"ch\":25}}}"
+                },
+                {
+                  "leaf": "bb6a4883f0402613",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":6}"
+                },
+                {
+                  "leaf": "bb6a4883f0402613",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Take note of the simple things in life.md\",\"mode\":\"source\"}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "8fed42c9ea3c9562",
+                  "leaf": "bb6a4883f0402613",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "e5aa544ae06b1a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/What makes a note evergreen.md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "e5aa544ae06b1a59",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
                 }
               ]
@@ -703,6 +752,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -735,6 +785,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -764,7 +815,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5
+        "width": 442.5,
+        "collapsed": true
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -815,7 +867,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -859,6 +913,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -968,7 +1023,7 @@
         "width": 855,
         "collapsed": true
       },
-      "active": "8fed42c9ea3c9562"
+      "active": "bb6a4883f0402613"
     }
   },
   "active": "16:9 NOW"

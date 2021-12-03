@@ -10,6 +10,8 @@ sr-ease: 231
 
 #### [[Humans are primarily irrational, illogical, emotional beings]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+
+
 [How do We Get Anything Done At All? - YouTube](https://www.youtube.com/watch?v=QnQfDHKrGZA)
 
 [[Our brains are built around survival]], it is that [[Evolution|evolutionary]] fact that has brought us here today, and has built two fundamental human traits: [[Human's will find explanations for inexplainable things]] and [[Human's have an inability to admit that they are wrong]]. These two traits alone have led us to create [[religion|religions]], [^1] start wars, explain reality, and explore the stars.
