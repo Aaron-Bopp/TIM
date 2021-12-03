@@ -62,3 +62,15 @@ Is [[community]] gated behind social ability for certain people?
 
 [^252025232]: https://twitter.com/visakanv/status/1013801783741669381
 
+# New highlights added December 3, 2021 at 2:25 PM
+##### ^255253491
+[[happiness is enlightenment and sadness is delusion]] #TO/TEND/CONNECT  
+> @shiraeis Emerson called it almost 200 years ago
+> too many people are living their lives with dead eyes, as an ordeal, an obligation
+> what the world "needs" is people who have come alive, who are joyful, who love living
+> everything else is downstream of that
+> https://t.co/dhU5NsCWlk 
+  [^255253491]
+
+[^255253491]: https://twitter.com/visakanv/status/1466496066044366850
+
