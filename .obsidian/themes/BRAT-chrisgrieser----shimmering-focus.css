@@ -1,6 +1,6 @@
 /* ──────────────────────────────────────────────────────
 SHIMMERING FOCUS
-Version 1.224
+Version 1.227
 https://github.com/chrisgrieser/shimmering-focus/
 Created by @pseudometa
 MIT License
@@ -968,7 +968,9 @@ input.slider {
 
 /* move up to avoid collision with statusbar */
 .document-search-container {
-	height: 3.6em;
+	display: block;
+
+	height: 3.9em;
 	width: 95%;
 
 	bottom: 2.5em;
@@ -976,17 +978,18 @@ input.slider {
 
 	background-color: var(--background-secondary-alt);
 
+	padding-top: 5px;
+
 	border: var(--thick-border);
 	border-radius: var(--round);
 }
 
 div.document-replace {
-	margin-top: 4px;
-	margin-bottom: 4px;
+	margin-top: 6px;
 }
 
 .document-search-container.mod-replace-mode {
-	height: 6.1em;
+	height: 6.8em;
 	border-radius: calc(var(--round) / 2);
 }
 
@@ -1012,38 +1015,35 @@ shows up on the bottom when replacing/searching
 	background-color: hsl(359 80% 85%);
 }
 
-body > .app-container .document-search-input,
-body > .app-container .document-replace-input {
-	background-color: var(--background-primary-alt);
-	border: 2px solid transparent;
-	border-radius: var(--round);
+.document-search input[type="text"],
+.document-replace input[type="text"] {
+	height: 2.2rem;
+	width: unset;
+	background-color: var(--background-primary);
+	margin: 5px;
+	border: var(--muted-border);
 }
 
-body > .app-container .document-search-input:focus,
-body > .app-container .document-replace-input:focus {
+body > .app-container input.document-search-input:focus,
+body > .app-container input.document-replace-input:focus {
 	border: 2px solid var(--text-accent);
 }
 
-body > .app-container .document-search-input:hover,
-body > .app-container .document-replace-input:hover {
+body > .app-container input.document-search-input:hover,
+body > .app-container input.document-replace-input:hover {
 	border: 2px solid var(--alt-accent);
 }
 
-input.document-search-input,
-input.document-replace-input {
-	height: 2rem;
-	background-color: var(--background-primary);
-	padding-left: 0.4em;
-	margin-top: 4px;
-	margin-left: 4px;
-}
+button.document-search-button {
+	height: 2.2rem;
 
-.document-search-button {
-	height: 2rem;
 	color: var(--text-on-accent);
 	background-color: var(--text-accent);
 	opacity: 0.65;
-	margin-top: 4px;
+
+	margin: 5px 6px;
+
+	border-radius: var(--round);
 }
 
 .document-search-button:hover {
@@ -2869,7 +2869,7 @@ https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-y
 	table-layout: fixed;
 }
 
-:root body {
+:root table {
 	--table-border: var(--basic-border);
 	--table-roundness: var(--roundish);
 }
@@ -3405,19 +3405,15 @@ body:not(.annotation-tags-off) .tag[href="#example"]::BEFORE {
 	font-feature-settings: "liga" 0;
 }
 
-/* ensures equal height of "#" and tag text */
-.cm-tag.cm-bracket.cm-hmd-html-begin,
-.cm-tag.cm-bracket.cm-hmd-html-end,
-.cm-tag,
 .cm-attribute,
-.cm-string {
+.cm-tag {
 	font-family: var(--default-font);
 }
 
-.cm-tag.cm-bracket.cm-hmd-html-begin,
-.cm-tag.cm-bracket.cm-hmd-html-end,
-.cm-tag {
-	color: var(--html-tag-color) !important;
+body > .app-container span.cm-tag.cm-bracket.cm-hmd-html-begin,
+body > .app-container span.cm-tag.cm-bracket.cm-hmd-html-end,
+body > .app-container span.cm-tag {
+	color: var(--html-tag-color);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -4500,6 +4496,13 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 
 .workspace-leaf-content[data-type="calendar"] .day.active svg .dot {
 	color: var(--interactive-normal) !important;
+}
+
+/* remove lines */
+body.no-calendar-lines table.calendar td,
+body.no-calendar-lines table.calendar th {
+	border-bottom: none;
+	border-left: none;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -6143,7 +6146,7 @@ settings:
   -
 	 id: miscellaneous
 	 title: Miscellaneous
-	 description: Popovers, Pandoc Citations, Annotation Tags, Active Line Highlighting, Command Palette, Alternating Row Colors, Relationship Lines
+	 description: Popovers, Pandoc Citations, Annotation Tags, Active Line Highlighting, Command Palette, Alternating Row Colors, Relationship Lines, Calendar Plugin
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -6190,6 +6193,12 @@ settings:
 	 id: no-ul-relationship-lines
 	 title: Disable Relationship Lines for lists
 	 description: If you want to use a custom relationship line snippet or the relationship lines from the Outliner plugin, you can disable this theme's relationship lines to prevent interference.
+	 type: class-toggle
+	 default: false
+  -
+	 id: no-calendar-lines
+	 title: Remove lines in Calendar
+	 description: Remove the lines in the Calendar plugin's Calendar (making it more similar to its default look).
 	 type: class-toggle
 	 default: false
 */
