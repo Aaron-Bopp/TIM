@@ -631,17 +631,68 @@
         "type": "split",
         "children": [
           {
-            "id": "5be8335832861cd1",
+            "id": "6ffaa2ed5ccd7198",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20_Entry/24 Vault Stats/CHARTS.md",
+                "mode": "source"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "5be8335832861cd1",
+                  "leaf": "6ffaa2ed5ccd7198",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/CHARTS.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "6ffaa2ed5ccd7198",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "6ffaa2ed5ccd7198",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "6ffaa2ed5ccd7198",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":53.818489621669364}"
+                },
+                {
+                  "leaf": "6ffaa2ed5ccd7198",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Average links per note type.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "6ffaa2ed5ccd7198",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Commits.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "6ffaa2ed5ccd7198",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 NOW.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "6ffaa2ed5ccd7198",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Commits.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "6ffaa2ed5ccd7198",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
@@ -697,6 +748,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "20_Entry/24 Vault Stats/CHARTS.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -729,6 +781,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "20_Entry/24 Vault Stats/CHARTS.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -772,7 +825,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "20_Entry/24 Vault Stats/CHARTS.md"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -824,6 +879,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "20_Entry/24 Vault Stats/CHARTS.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -930,9 +986,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 708
+        "width": 708,
+        "collapsed": true
       },
-      "active": "5be8335832861cd1"
+      "active": "6ffaa2ed5ccd7198"
     }
   },
   "active": "16:9 NOW"
