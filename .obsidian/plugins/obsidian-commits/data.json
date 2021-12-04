@@ -8541,9 +8541,9 @@
       "links": 15
     },
     "30_Topics/35_Outlines/human experience.md": {
-      "size": 922,
+      "size": 580,
       "tags": 1,
-      "links": 8
+      "links": 5
     },
     "30_Topics/35_Outlines/human advancement.md": {
       "size": 623,
@@ -8866,9 +8866,9 @@
       "links": 9
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md": {
-      "size": 883,
+      "size": 1157,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md": {
       "size": 957,
@@ -9109,14 +9109,24 @@
       "size": 0,
       "tags": 1,
       "links": 2
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md": {
+      "size": 683,
+      "tags": 1,
+      "links": 1
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md": {
+      "size": 773,
+      "tags": 2,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1468,
-      "Create": 1980,
-      "Link": 3334,
-      "Expand": 229
+      "Refactor": 1471,
+      "Create": 1982,
+      "Link": 3339,
+      "Expand": 230
     },
     "40_Evergreens": {
       "Refactor": 4,
@@ -9139,8 +9149,8 @@
       "9": 500,
       "10": 84,
       "11": 59,
-      "12": 336,
-      "13": 65,
+      "12": 338,
+      "13": 74,
       "14": 2241,
       "15": 109,
       "16": 878,
@@ -9187,7 +9197,7 @@
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
-      "Sun": 4417
+      "Sun": 4428
     },
     "40_Evergreens": {
       "Mon": 0,
@@ -9202,6 +9212,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
@@ -9251,10 +9262,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/First Amendment rights impacts groups not individuals.md\"> First Amendment rights impacts groups not individuals </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender has historically been non-binary.md\"> Gender has historically been non-binary </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender has historically been non-binary.md\"> Gender has historically been non-binary </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
         "<a class=\"internal-link\" href=\"cognitive bias.md\"> cognitive bias </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
         "<a class=\"internal-link\" href=\"Whiteness was created as a societal structure.md\"> Whiteness was created as a societal structure </a>",
@@ -9303,9 +9315,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/coping-mechanisms.md\"> coping-mechanisms </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotions.md\"> emotions </a>",
         "<a class=\"internal-link\" href=\"Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md\"> tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️ </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>"
+        "<a class=\"internal-link\" href=\"test.md\"> test </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
@@ -9361,6 +9371,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Patriarchy.md\"> Patriarchy </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
@@ -9409,9 +9421,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Van Life.md\"> Van Life </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Hydronic Heating Systems — Van Life Tech.md\"> articles_Hydronic Heating Systems — Van Life Tech </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\"> tweets_A #Thread of Threads◙I... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9432,7 +9442,8 @@
         "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/TopicNotes.md\"> TopicNotes </a>",
         "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERGREENS.md\"> EVERGREENS </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/202 INDEX.md\"> 202 INDEX </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/202 INDEX.md\"> 202 INDEX </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"40_Evergreens/This is a test note evergreen with a normal size filename.md\"> This is a test note evergreen with a normal size filename </a>",
@@ -9488,6 +9499,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/resentment.md\"> resentment </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
@@ -9535,10 +9549,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md\"> tweets_Tweets From Hank Green </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
@@ -9594,6 +9605,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
@@ -9642,9 +9655,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/game design.md\"> game design </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human survival.md\"> human survival </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/self-worth.md\"> self-worth </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender is acceptable.md\"> Any experience of gender is acceptable </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>"
       ]
     },
     "40_Evergreens": {
