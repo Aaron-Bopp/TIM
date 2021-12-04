@@ -4991,9 +4991,9 @@
       "links": 11
     },
     "40_Evergreens/Webs of thought are densely linked.md": {
-      "size": 679,
-      "tags": 2,
-      "links": 7
+      "size": 953,
+      "tags": 4,
+      "links": 9
     },
     "40_Evergreens/What is the difference between a evergreen note and a topic note.md": {
       "size": 956,
@@ -9115,14 +9115,14 @@
     "/": {
       "Refactor": 1468,
       "Create": 1980,
-      "Link": 3332,
-      "Expand": 228
+      "Link": 3334,
+      "Expand": 229
     },
     "40_Evergreens": {
       "Refactor": 4,
       "Create": 0,
-      "Link": 12,
-      "Expand": 98
+      "Link": 14,
+      "Expand": 99
     }
   },
   "dailyCommits": {
@@ -9138,7 +9138,7 @@
       "8": 24,
       "9": 500,
       "10": 84,
-      "11": 56,
+      "11": 59,
       "12": 336,
       "13": 65,
       "14": 2241,
@@ -9164,7 +9164,7 @@
       "8": 0,
       "9": 98,
       "10": 9,
-      "11": 7,
+      "11": 10,
       "12": 0,
       "13": 0,
       "14": 0,
@@ -9187,7 +9187,7 @@
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
-      "Sun": 4414
+      "Sun": 4417
     },
     "40_Evergreens": {
       "Mon": 0,
@@ -9196,12 +9196,13 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 114
+      "Sun": 117
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
@@ -9251,8 +9252,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/First Amendment rights impacts groups not individuals.md\"> First Amendment rights impacts groups not individuals </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender has historically been non-binary.md\"> Gender has historically been non-binary </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"cognitive bias.md\"> cognitive bias </a>",
@@ -9361,6 +9361,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Patriarchy.md\"> Patriarchy </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
@@ -9410,8 +9411,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\"> tweets_A #Thread of Threads◙I... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9488,6 +9488,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/resentment.md\"> resentment </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
@@ -9537,8 +9538,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md\"> tweets_Tweets From Hank Green </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/powershell.md\"> powershell </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
@@ -9649,6 +9649,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
@@ -9698,8 +9699,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be an inspirational hub of creativity.md\"> Your second brain should be an inspirational hub of creativity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>"
       ],
       "Created": [],
       "Renamed": [
@@ -9711,7 +9711,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -9725,7 +9726,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

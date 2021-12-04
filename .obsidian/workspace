@@ -9,24 +9,24 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Communities are knowledge graphs.md",
-            "mode": "preview"
+            "file": "40_Evergreens/Webs of thought are densely linked.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought are densely linked.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are knowledge graphs.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":9.070865901436393}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "c59e52aa6132d32a",
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Communities are knowledge graphs.md",
+                "file": "40_Evergreens/Webs of thought are densely linked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Communities are knowledge graphs.md",
+                "file": "40_Evergreens/Webs of thought are densely linked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Communities are knowledge graphs.md"
+                "file": "40_Evergreens/Webs of thought are densely linked.md"
               }
             },
             "pane-relief:history-v1": {
@@ -323,7 +323,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Communities are knowledge graphs.md",
+                "file": "40_Evergreens/Webs of thought are densely linked.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -434,6 +434,7 @@
   },
   "active": "c59e52aa6132d32a",
   "lastOpenFiles": [
+    "40_Evergreens/Webs of thought are densely linked.md",
     "40_Evergreens/Communities are knowledge graphs.md",
     "30_Topics/33_Tools/Obsidian (software).md",
     "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
@@ -442,7 +443,6 @@
     "40_Evergreens/Happiness is enlightenment and sadness is delusion.md",
     "40_Evergreens/You can leave the church without loosing your faith.md",
     "40_Evergreens/Humans love to group eachother.md",
-    "40_Evergreens/We are confined to the tools of our time.md",
-    "40_Evergreens/The triad of ever increasing social anxiety.md"
+    "40_Evergreens/We are confined to the tools of our time.md"
   ]
 }

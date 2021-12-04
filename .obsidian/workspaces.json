@@ -636,24 +636,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Communities are knowledge graphs.md",
-                "mode": "preview"
+                "file": "40_Evergreens/Webs of thought are densely linked.md",
+                "mode": "source"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
                   "leaf": "c59e52aa6132d32a",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought are densely linked.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "leaf": "c59e52aa6132d32a",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are knowledge graphs.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":10.776471393864329}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "c59e52aa6132d32a",
@@ -814,7 +814,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Communities are knowledge graphs.md",
+                    "file": "40_Evergreens/Webs of thought are densely linked.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +847,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Communities are knowledge graphs.md",
+                    "file": "40_Evergreens/Webs of thought are densely linked.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -893,7 +893,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Communities are knowledge graphs.md"
+                    "file": "40_Evergreens/Webs of thought are densely linked.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -950,7 +950,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Communities are knowledge graphs.md",
+                    "file": "40_Evergreens/Webs of thought are densely linked.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",

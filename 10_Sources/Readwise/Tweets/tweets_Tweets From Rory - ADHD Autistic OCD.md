@@ -84,3 +84,11 @@ highlight_tags:: [[guilt]]
 %%
 highlight_tags:: [[capitalism]]
 %%
+# New highlights added December 4, 2021 at 12:31 PM
+##### ^255548330
+#TO/EXPLORE/READ  
+> Just finishing up ‘Mindsight’ by Daniel Siegel. I know why it has been so hard to find my core. Feels like trying to construct a self when you are T-1000 in lava. 
+  [^255548330]
+
+[^255548330]: https://twitter.com/roryreckons/status/1467068664985784325
+

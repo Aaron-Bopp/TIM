@@ -28,3 +28,14 @@ Yikes .autism
 
 [^252089900]: https://twitter.com/AutisticCallum_/status/1462813568689229825
 
+# New highlights added December 4, 2021 at 12:31 PM
+##### ^255551227
+  
+> Ways to unmask: 
+> ![](https://pbs.twimg.com/media/FFse8RVXIAMVlbw.jpg) 
+  [^255551227]
+
+[^255551227]: https://twitter.com/AutisticCallum_/status/1466800128958910466
+%%
+highlight_tags:: [[autism]]
+%%
