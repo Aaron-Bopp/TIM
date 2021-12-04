@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "horriblename/preview-mode-keybinds-obsidian",
     "chrisgrieser/obsidian-smarter-md-hotkeys",
     "TfTHacker/obsidian42-brat",
     "jmilldotdev/obsidian-frontmatter-tag-suggest",
@@ -24,7 +25,7 @@
     },
     {
       "repo": "chrisgrieser/shimmering-focus",
-      "lastUpdate": "2021-12-03T17:51:19Z"
+      "lastUpdate": "2021-12-03T23:04:44Z"
     },
     {
       "repo": "SlRvb/Obsidian--ITS-Theme",

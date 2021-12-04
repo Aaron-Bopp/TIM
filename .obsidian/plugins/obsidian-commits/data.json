@@ -8851,9 +8851,9 @@
       "links": 7
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md": {
-      "size": 2552,
-      "tags": 1,
-      "links": 4
+      "size": 3072,
+      "tags": 2,
+      "links": 5
     },
     "40_Evergreens/You can leave the church without loosing your faith.md": {
       "size": 2541,
@@ -9066,17 +9066,22 @@
       "links": 0
     },
     "00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md": {
-      "size": 0,
+      "size": 2442,
       "tags": 1,
       "links": 4
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md": {
+      "size": 815,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1445,
-      "Create": 1967,
-      "Link": 3296,
-      "Expand": 113
+      "Create": 1968,
+      "Link": 3300,
+      "Expand": 115
     },
     "40 Evergreens": {
       "Refactor": 25,
@@ -9104,7 +9109,7 @@
       "14": 2241,
       "15": 109,
       "16": 878,
-      "17": 1496,
+      "17": 1503,
       "18": 185,
       "19": 92,
       "20": 123,
@@ -9145,7 +9150,7 @@
       "Tue": 611,
       "Wed": 1273,
       "Thu": 399,
-      "Fri": 73,
+      "Fri": 80,
       "Sat": 0,
       "Sun": 4253
     },
@@ -9162,6 +9167,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
@@ -9210,11 +9217,10 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This is american life.md\"> podcast_Unteachable Moment_This is american life </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge work.md\"> knowledge work </a>",
         "<a class=\"internal-link\" href=\"kin selection.md\"> kin selection </a>",
@@ -9264,8 +9270,7 @@
         "<a class=\"internal-link\" href=\"Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
-        "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"Mass media promotes the spread of innacurate information.md\"> Mass media promotes the spread of innacurate information </a>"
+        "<a class=\"internal-link\" href=\"What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
@@ -9321,6 +9326,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Prison.md\"> Prison </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge work.md\"> knowledge work </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
@@ -9369,9 +9376,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9436,6 +9441,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>",
@@ -9484,9 +9491,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\"> articles_My moral code - Inverted Passion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/@visakanv on Twitter.md\"> @visakanv on Twitter </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/@visakanv on Twitter.md\"> @visakanv on Twitter </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
