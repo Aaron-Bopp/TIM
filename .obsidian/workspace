@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6ffaa2ed5ccd7198",
+        "id": "c59e52aa6132d32a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/24 Vault Stats/CHARTS.md",
+            "file": "40_Evergreens/Stupid rules are meant to be broken.md",
             "mode": "source"
           }
         },
@@ -17,58 +17,146 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "6ffaa2ed5ccd7198",
+              "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/CHARTS.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are meant to be broken.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "6ffaa2ed5ccd7198",
+              "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can be taught to invalidate your own emotions.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":134},\"to\":{\"line\":12,\"ch\":134}},\"scroll\":0.6}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":19.16666590505179}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Race is a social construct.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Whiteness was created to margnalize people of color.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "6ffaa2ed5ccd7198",
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Race is a social construct.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":48},\"to\":{\"line\":13,\"ch\":48}}}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":2.7333332697550454}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":24},\"to\":{\"line\":31,\"ch\":24}},\"scroll\":9.666666030883789}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":5.508982035928144}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/JUSTEVERGREENS.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/TopicNotes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/File Sizes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/JUSTEVERGREENS.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "6ffaa2ed5ccd7198",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":53.818489621669364}"
-            },
-            {
-              "leaf": "6ffaa2ed5ccd7198",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Average links per note type.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6ffaa2ed5ccd7198",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Commits.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6ffaa2ed5ccd7198",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 NOW.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6ffaa2ed5ccd7198",
+              "leaf": "c59e52aa6132d32a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Commits.md\",\"mode\":\"preview\"}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "6ffaa2ed5ccd7198",
+              "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 INDEX.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.196969692591027}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcast_Unteachable Moment_This American Life.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":21.87146515357539}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":58.966670195261635}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "c12eacce50591768",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/31_Stubs/racism.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c12eacce50591768",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/racism.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -121,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/24 Vault Stats/CHARTS.md",
+                "file": "40_Evergreens/Stupid rules are meant to be broken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -154,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/24 Vault Stats/CHARTS.md",
+                "file": "40_Evergreens/Stupid rules are meant to be broken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -199,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/24 Vault Stats/CHARTS.md"
+                "file": "40_Evergreens/Stupid rules are meant to be broken.md"
               }
             },
             "pane-relief:history-v1": {
@@ -237,10 +326,14 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "84f4f33f118f4527",
@@ -252,7 +345,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/24 Vault Stats/CHARTS.md",
+                "file": "40_Evergreens/Stupid rules are meant to be broken.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -362,17 +455,17 @@
     "width": 708,
     "collapsed": true
   },
-  "active": "6ffaa2ed5ccd7198",
+  "active": "c59e52aa6132d32a",
   "lastOpenFiles": [
-    "20_Entry/24 Vault Stats/CHARTS.md",
-    "20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md",
-    "20_Entry/24 Vault Stats/GALLERY.md",
-    "20_Entry/24 Vault Stats/Word count Evergreens.md",
-    "20_Entry/24 Vault Stats/Average links per note type.md",
-    "20_Entry/24 Vault Stats/Commits.md",
-    "20_Entry/203 NOW.md",
-    "40_Evergreens/This is a test note evergreen with a normal size filename.md",
-    "andrews.winstonScientificRacismNorth2020-zotero.md",
-    "andrews.winstonScientificRacismNorth2020.md"
+    "40_Evergreens/Stupid rules are meant to be broken.md",
+    "40_Evergreens/You can be taught to invalidate your own emotions.md",
+    "40_Evergreens/People have been conditioned to believe the bible has to be infallible.md",
+    "40_Evergreens/Look for understanding before you look for solutions.md",
+    "40_Evergreens/Searching for THE answer is dangerous.md",
+    "40_Evergreens/Humans have decided to reject an unjust world.md",
+    "40_Evergreens/Race is a social construct.md",
+    "Whiteness was created to margnalize people of color.md",
+    "30_Topics/31_Stubs/racism.md",
+    "40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md"
   ]
 }

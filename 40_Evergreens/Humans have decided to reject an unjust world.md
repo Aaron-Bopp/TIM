@@ -3,9 +3,9 @@ created: 2021-11-25
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-26
-sr-interval: 1
-sr-ease: 223
+sr-due: 2021-12-06
+sr-interval: 2
+sr-ease: 203
 ---
 
 #### [[Humans have decided to reject an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -35,12 +35,11 @@ sr-ease: 223
     - logical response: [[Happiness is enlightenment and sadness is delusion]]
 - How to cope?
     - [[Look for understanding before you look for solutions]]
-    
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**::
+**Topics**:: [[human experience]], [[Behavioral Pyschology]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

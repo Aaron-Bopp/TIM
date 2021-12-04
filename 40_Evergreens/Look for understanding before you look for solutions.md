@@ -11,6 +11,7 @@ sr-ease: 250
 #### [[Look for understanding before you look for solutions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 %%
 This note is more about [[socialization|inter-personal communication]] and [[Searching for THE answer is dangerous]] is more about [[self-actualization]]
+#TO/TEND/DEOBFUSCATE title and body
 %%
 
 Solutions oriented people are too often focused on sharing rather than listening.

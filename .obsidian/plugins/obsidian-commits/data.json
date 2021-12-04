@@ -4642,7 +4642,7 @@
     },
     "40_Evergreens/Look for understanding before you look for solutions.md": {
       "size": 1839,
-      "tags": 3,
+      "tags": 4,
       "links": 11
     },
     "40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md": {
@@ -4751,9 +4751,9 @@
       "links": 6
     },
     "40_Evergreens/Race is a social construct.md": {
-      "size": 413,
+      "size": 543,
       "tags": 2,
-      "links": 5
+      "links": 7
     },
     "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md": {
       "size": 2101,
@@ -4982,7 +4982,7 @@
     },
     "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md": {
       "size": 1695,
-      "tags": 4,
+      "tags": 5,
       "links": 16
     },
     "40_Evergreens/Wealth Inequality creates a need for change.md": {
@@ -8918,7 +8918,7 @@
     "40_Evergreens/Humans have decided to reject an unjust world.md": {
       "size": 1874,
       "tags": 2,
-      "links": 25
+      "links": 28
     },
     "10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md": {
       "size": 3378,
@@ -9060,11 +9060,6 @@
       "tags": 1,
       "links": 0
     },
-    "00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md": {
-      "size": 2930,
-      "tags": 1,
-      "links": 4
-    },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md": {
       "size": 815,
       "tags": 2,
@@ -9079,20 +9074,45 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "10_Sources/Zotero/johnf.dovidioReducingIntergroupBias2017-zotero.md": {
+      "size": 2323,
+      "tags": 3,
+      "links": 11
+    },
+    "10_Sources/podcast_Unteachable Moment_This American Life.md": {
+      "size": 2930,
+      "tags": 1,
+      "links": 4
+    },
+    "10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md": {
+      "size": 8314,
+      "tags": 0,
+      "links": 2
+    },
+    "30_Topics/31_Stubs/rationalizations.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Whiteness was created to margnalize people of color.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1463,
-      "Create": 1974,
-      "Link": 3310,
-      "Expand": 225
+      "Refactor": 1466,
+      "Create": 1978,
+      "Link": 3320,
+      "Expand": 226
     },
     "40_Evergreens": {
       "Refactor": 3,
       "Create": 0,
-      "Link": 0,
-      "Expand": 95
+      "Link": 4,
+      "Expand": 96
     }
   },
   "dailyCommits": {
@@ -9107,7 +9127,7 @@
       "7": 0,
       "8": 24,
       "9": 500,
-      "10": 61,
+      "10": 79,
       "11": 43,
       "12": 336,
       "13": 65,
@@ -9133,7 +9153,7 @@
       "7": 0,
       "8": 0,
       "9": 98,
-      "10": 0,
+      "10": 5,
       "11": 0,
       "12": 0,
       "13": 0,
@@ -9157,7 +9177,7 @@
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
-      "Sun": 4378
+      "Sun": 4396
     },
     "40_Evergreens": {
       "Mon": 0,
@@ -9166,12 +9186,13 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 98
+      "Sun": 103
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
@@ -9221,10 +9242,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Whiteness was created as a societal structure.md\"> Whiteness was created as a societal structure </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rationalizations.md\"> rationalizations </a>",
+        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\"> johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Zotero/johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/This is a test note evergreen with a normal size filename.md\"> This is a test note evergreen with a normal size filename </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
@@ -9271,13 +9295,12 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md\"> tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️ </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
         "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
-        "<a class=\"internal-link\" href=\"Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
-        "<a class=\"internal-link\" href=\"'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\"> johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/kin selection.md\"> kin selection </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
@@ -9325,12 +9348,14 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/trauma.md\"> trauma </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Patriarchy.md\"> Patriarchy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-worth.md\"> self-worth </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social construct.md\"> social construct </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/suffering.md\"> suffering </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Wealth Inequality.md\"> Wealth Inequality </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religious trauma.md\"> religious trauma </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social construct.md\"> social construct </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
+        "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rationalizations.md\"> rationalizations </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Zotero/johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
         "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
@@ -9376,12 +9401,7 @@
         "<a class=\"internal-link\" href=\"Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
         "<a class=\"internal-link\" href=\"Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cynacism.md\"> cynacism </a>",
-        "<a class=\"internal-link\" href=\"Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/despair.md\"> despair </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotions.md\"> emotions </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/coping-mechanisms.md\"> coping-mechanisms </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9458,6 +9478,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/resentment.md\"> resentment </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
+        "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Zotero/johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
+        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\"> johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020.md\"> andrews.winstonScientificRacismNorth2020 </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
@@ -9503,12 +9528,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/Andy Matuschak.md\"> Andy Matuschak </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
@@ -9619,6 +9639,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\"> Abortion and immigration are detrimental to white supremacy </a>",
@@ -9668,19 +9689,24 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can discover your transness at any point in life.md\"> You can discover your transness at any point in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can discover your transness at any point in life.md\"> You can discover your transness at any point in life </a>"
       ],
       "Created": [],
       "Renamed": [],
-      "Tagged": [],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>"
+      ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>"
       ],
       "Deleted": [],
-      "Linked": [],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>"
+      ],
       "Removed Tags from": [],
       "Removed Links from": []
     }
