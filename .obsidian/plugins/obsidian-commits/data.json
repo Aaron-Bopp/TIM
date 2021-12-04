@@ -9050,11 +9050,6 @@
       "tags": 2,
       "links": 3
     },
-    "kin selection.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
     "40_Evergreens/Note structures should help curate knowledge.md": {
       "size": 2558,
       "tags": 5,
@@ -9079,13 +9074,18 @@
       "size": 0,
       "tags": 2,
       "links": 1
+    },
+    "30_Topics/32_Terms/kin selection.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1445,
-      "Create": 1969,
-      "Link": 3302,
+      "Refactor": 1450,
+      "Create": 1973,
+      "Link": 3308,
       "Expand": 116
     },
     "40 Evergreens": {
@@ -9116,7 +9116,7 @@
       "16": 878,
       "17": 1503,
       "18": 188,
-      "19": 93,
+      "19": 108,
       "20": 123,
       "21": 154,
       "22": 221,
@@ -9155,7 +9155,7 @@
       "Tue": 611,
       "Wed": 1273,
       "Thu": 399,
-      "Fri": 84,
+      "Fri": 99,
       "Sat": 0,
       "Sun": 4253
     },
@@ -9225,6 +9225,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>",
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020.md\"> andrews.winstonScientificRacismNorth2020 </a>",
+        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This is american life.md\"> podcast_Unteachable Moment_This is american life </a>",
@@ -9271,13 +9275,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
         "<a class=\"internal-link\" href=\"'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/support.md\"> support </a>",
-        "<a class=\"internal-link\" href=\"How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
-        "<a class=\"internal-link\" href=\"EVERGREENTRACKER.md\"> EVERGREENTRACKER </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/support.md\"> support </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/kin selection.md\"> kin selection </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
@@ -9327,10 +9328,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social construct.md\"> social construct </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/suffering.md\"> suffering </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Wealth Inequality.md\"> Wealth Inequality </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religious trauma.md\"> religious trauma </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Prison.md\"> Prison </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/religious trauma.md\"> religious trauma </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
+        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
@@ -9379,9 +9381,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/despair.md\"> despair </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotions.md\"> emotions </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/coping-mechanisms.md\"> coping-mechanisms </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9393,6 +9393,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020.md\"> andrews.winstonScientificRacismNorth2020 </a>",
+        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
@@ -9439,13 +9443,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/Revolution.md\"> Revolution </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Revolt.md\"> Revolt </a>",
         "<a class=\"internal-link\" href=\"30_Topics/resentment.md\"> resentment </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/patient.md\"> patient </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/partisanship.md\"> partisanship </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/parents.md\"> parents </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/panic attacks.md\"> panic attacks </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/pandoc.md\"> pandoc </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/patient.md\"> patient </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020.md\"> andrews.winstonScientificRacismNorth2020 </a>",
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>",
+        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
@@ -9492,11 +9496,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\"> articles_My moral code - Inverted Passion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
