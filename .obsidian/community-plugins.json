@@ -41,5 +41,6 @@
   "obsidian-vimrc-support",
   "obsidian42-brat",
   "preview-mode-keybinds",
-  "graph-analysis"
+  "graph-analysis",
+  "obsidian-codemirror-options"
 ]

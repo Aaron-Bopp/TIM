@@ -26,6 +26,8 @@ Starbucks held national implicit bias training after an incident in one of their
 
 **<u>Section 2 (Reading Connection):</u>** Discuss at least one **<u>reading from this week</u>** that relates to the piece. Be sure to explain which reading you are discussing, what the reading said about the topic, and how the reading is connected to the piece.
 
+In the podcast they discussed a little bit of how implicit bias training has been seen as innefective by the public. I see 
+
 
 
 **<u>Section 3 (Personal Reflection):</u>** Discuss how the piece relates to your own life experiences. Consider how the stories or information presented is similar to, or different from, what you've experienced. If the piece focuses on an identity very different from your own, you can think about how not having that identity has led to a different life. You can also discuss memories that the piece made you think of. You should <u>not</u> give your opinion or evaluation of the piece, and you should <u>not</u> just talk about how it made you feel (e.g. "this topic makes me sad").

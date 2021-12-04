@@ -641,13 +641,19 @@
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
                   "leaf": "134588e6f124f4ca",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use highlighter colors to create visual outlines .md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":17},\"to\":{\"line\":16,\"ch\":17}},\"scroll\":0.018181818452748386}"
+                },
+                {
+                  "leaf": "134588e6f124f4ca",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":10.666666666666666}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.74166691303253}"
                 }
               ]
             }
