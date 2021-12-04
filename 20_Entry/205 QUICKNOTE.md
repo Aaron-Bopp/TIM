@@ -1,4 +1,5 @@
 
+
 good resource for [[social justice]] https://www.radicalinprogress.org/ #TO/EXPLORE/READ 
 
 [Academic Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-[[dataview]]-workflow/15536)

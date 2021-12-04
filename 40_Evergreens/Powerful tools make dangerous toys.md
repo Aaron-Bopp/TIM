@@ -10,6 +10,9 @@ sr-ease: 230
 
 #### [[Powerful tools make dangerous toys]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+> Never mistake activity for achievement.
+> —  [[John Wooden]]
+
 How many times have been suggested a tool to use that will save so much time only for you to spend hours just trying to get it to do the most basic thing?
 ![[Pasted image 20211124110350.png|ctr]]
 

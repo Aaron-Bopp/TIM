@@ -631,52 +631,12 @@
         "type": "split",
         "children": [
           {
-            "id": "be670684c61fba06",
+            "id": "fdca25781ab0d380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Topics/35_Outlines/human experience.md",
-                "mode": "preview"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "be670684c61fba06",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":24.417553974398608}"
-                },
-                {
-                  "leaf": "be670684c61fba06",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":9.734883951586347}"
-                },
-                {
-                  "leaf": "be670684c61fba06",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "be670684c61fba06",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "3f6eca64d976e5cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_Topics/35_Outlines/human experience.md",
+                "file": "40_Evergreens/What is language's fundamental unit.md",
                 "mode": "source"
               }
             },
@@ -684,10 +644,34 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "3f6eca64d976e5cb",
+                  "leaf": "fdca25781ab0d380",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":29},\"to\":{\"line\":14,\"ch\":29}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is language's fundamental unit.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "fdca25781ab0d380",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Transformative justice is the alternative to punitive justice.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "fdca25781ab0d380",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are knowledge graphs.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":19},\"to\":{\"line\":25,\"ch\":19}},\"scroll\":13.29266826923077}"
+                },
+                {
+                  "leaf": "fdca25781ab0d380",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":6.666666666666667}"
+                },
+                {
+                  "leaf": "fdca25781ab0d380",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             }
@@ -740,7 +724,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "30_Topics/35_Outlines/human experience.md",
+                    "file": "40_Evergreens/What is language's fundamental unit.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -773,7 +757,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "30_Topics/35_Outlines/human experience.md",
+                    "file": "40_Evergreens/What is language's fundamental unit.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -820,7 +804,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "30_Topics/35_Outlines/human experience.md"
+                    "file": "40_Evergreens/What is language's fundamental unit.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -877,7 +861,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "30_Topics/35_Outlines/human experience.md",
+                    "file": "40_Evergreens/What is language's fundamental unit.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -984,10 +968,9 @@
           }
         ],
         "direction": "horizontal",
-        "width": 708,
-        "collapsed": true
+        "width": 708
       },
-      "active": "3f6eca64d976e5cb"
+      "active": "fdca25781ab0d380"
     }
   },
   "active": "16:9 NOW"

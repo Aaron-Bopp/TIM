@@ -10,8 +10,7 @@ tags: node/topic/outline
 
 ##### [[Psychology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-- [[Evolutionary Pyschology]]
-- [[Behavioral Pyschology]]
+Includes:: [[Evolutionary Pyschology]], [[Behavioral Pyschology]]
 ### <hr class="dataviews"/>
 
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

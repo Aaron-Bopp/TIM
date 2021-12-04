@@ -107,10 +107,18 @@ class dv_funcs {
     notLinkedPages(args) {
         const { dv, folder, that, all = false } = args;
         // const allEmbeds = this.getEmbeds(dv.current().file.name, dv, that).map(f => f.file.outlinks).flat().map(l => l.path)
-        let allNotes = this.getNotesInOutline(dv.current().file.name, dv, that)
+        const note = dv.current()
+        console.log(note)
+        let included = [note.file.name]
+        if (note.includes) {
+            included = included.concat(Array.from(note.includes).map(l => l.path)).flat()
+        }
+        let query = included.map(name => this.wrap(name)).join(" or ")
+        let allNotes = included.map(name => this.getNotesInOutline(name, dv, that)).flat()
+        console.log(allNotes)
         let parents = this.outlinedIn(dv, that, dv.current(), true)
         parents = parents ? parents.map(l => l.path) : []
-        return dv.pages(all ? "" : this.wrap(dv.current().file.name)).where(p => {
+        return dv.pages(all ? "" : query).where(p => {
             return !allNotes.includes(p.file.name) && !parents.includes(p.file.name) && folder && p.file.path.contains(folder)
         }).sort(p => this.getTotalLinks(p.file.name, dv, that), 'desc')
     }
@@ -131,7 +139,8 @@ class dv_funcs {
                 p.file.link,
                 this.getIO(p, dv, that),
                 // this.outlinedIn(dv, that, p, true),
-                p.file.inlinks.filter(l => dv.page(l.path).file.tags.includes("#node/topic/outline")),
+                // p.file.inlinks.filter(l => dv.page(l.path).file.tags.includes("#node/topic/outline")),
+                p.topics || p.see,
                 this.pageMentions(dv, p),
                 lastEdited ? moment(p.file.mtime.ts).fromNow() : p.file.mtime,
                 this.formatDate(p.created || p.file.ctime)

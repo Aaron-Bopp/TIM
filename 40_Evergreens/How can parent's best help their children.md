@@ -22,5 +22,5 @@ sr-ease: 206
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**::[[parents]], [[childhood]], [[mental health]]. [[self-love]], [[human experience]]
+**Topics**:: [[parents]], [[childhood]], [[mental health]], [[self-love]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

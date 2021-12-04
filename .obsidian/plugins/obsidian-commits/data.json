@@ -5395,11 +5395,6 @@
       "tags": 1,
       "links": 1
     },
-    "10_Sources/Qoutes/Qoutes.md": {
-      "size": 115,
-      "tags": 0,
-      "links": 0
-    },
     "10_Sources/Religion/articleAn Introduction to Bhuddism.md": {
       "size": 5567,
       "tags": 1,
@@ -6818,7 +6813,7 @@
     "40_Evergreens/Powerful tools make dangerous toys.md": {
       "size": 1362,
       "tags": 3,
-      "links": 5
+      "links": 6
     },
     "30_Topics/31_Stubs/creativity.md": {
       "size": 0,
@@ -8296,7 +8291,7 @@
       "links": 0
     },
     "20_Entry/205 QUICKNOTE.md": {
-      "size": 1378,
+      "size": 1379,
       "tags": 5,
       "links": 10
     },
@@ -8543,7 +8538,7 @@
     "30_Topics/35_Outlines/human experience.md": {
       "size": 580,
       "tags": 1,
-      "links": 5
+      "links": 6
     },
     "30_Topics/35_Outlines/human advancement.md": {
       "size": 623,
@@ -9119,19 +9114,24 @@
       "size": 773,
       "tags": 2,
       "links": 2
+    },
+    "00_Meta/Templates/Get Qoute.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1471,
-      "Create": 1982,
-      "Link": 3339,
-      "Expand": 230
+      "Refactor": 1473,
+      "Create": 1983,
+      "Link": 3342,
+      "Expand": 231
     },
     "40_Evergreens": {
       "Refactor": 4,
       "Create": 0,
-      "Link": 14,
+      "Link": 15,
       "Expand": 99
     }
   },
@@ -9151,7 +9151,7 @@
       "11": 59,
       "12": 338,
       "13": 74,
-      "14": 2241,
+      "14": 2248,
       "15": 109,
       "16": 878,
       "17": 1503,
@@ -9177,7 +9177,7 @@
       "11": 10,
       "12": 0,
       "13": 0,
-      "14": 0,
+      "14": 1,
       "15": 0,
       "16": 0,
       "17": 0,
@@ -9197,7 +9197,7 @@
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
-      "Sun": 4428
+      "Sun": 4435
     },
     "40_Evergreens": {
       "Mon": 0,
@@ -9206,12 +9206,13 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 117
+      "Sun": 118
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
@@ -9261,10 +9262,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\"> Faith can be a useful tool for grounding yourself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/First Amendment rights impacts groups not individuals.md\"> First Amendment rights impacts groups not individuals </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender has historically been non-binary.md\"> Gender has historically been non-binary </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/First Amendment rights impacts groups not individuals.md\"> First Amendment rights impacts groups not individuals </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Get Qoute.md\"> Get Qoute </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
         "<a class=\"internal-link\" href=\"cognitive bias.md\"> cognitive bias </a>",
@@ -9314,8 +9315,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/despair.md\"> despair </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/coping-mechanisms.md\"> coping-mechanisms </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotions.md\"> emotions </a>",
-        "<a class=\"internal-link\" href=\"Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"test.md\"> test </a>"
+        "<a class=\"internal-link\" href=\"Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
@@ -9443,9 +9443,11 @@
         "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERGREENS.md\"> EVERGREENS </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>",
         "<a class=\"internal-link\" href=\"20_Entry/202 INDEX.md\"> 202 INDEX </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/Qoutes.md\"> Qoutes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/This is a test note evergreen with a normal size filename.md\"> This is a test note evergreen with a normal size filename </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020.md\"> andrews.winstonScientificRacismNorth2020 </a>",
@@ -9495,10 +9497,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/Samskara.md\"> Samskara </a>",
         "<a class=\"internal-link\" href=\"30_Topics/sadness.md\"> sadness </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Revolution.md\"> Revolution </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Revolt.md\"> Revolt </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/resentment.md\"> resentment </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/Revolt.md\"> Revolt </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Get Qoute.md\"> Get Qoute </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>",
@@ -9546,10 +9550,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Intergroup contact theory.md\"> Intergroup contact theory </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
@@ -9738,7 +9739,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
