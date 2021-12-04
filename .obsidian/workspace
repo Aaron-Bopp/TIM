@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fdca25781ab0d380",
+        "id": "155a552e8e102603",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/What is language's fundamental unit.md",
+            "file": "40_Evergreens/Gender is a social construct.md",
             "mode": "source"
           }
         },
@@ -17,34 +17,94 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "fdca25781ab0d380",
+              "leaf": "155a552e8e102603",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is language's fundamental unit.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is a social construct.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "fdca25781ab0d380",
+              "leaf": "155a552e8e102603",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Transformative justice is the alternative to punitive justice.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/gender.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.423076923076923}"
             },
             {
-              "leaf": "fdca25781ab0d380",
+              "leaf": "155a552e8e102603",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are knowledge graphs.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":19},\"to\":{\"line\":25,\"ch\":19}},\"scroll\":13.29266826923077}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 INDEX.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":10},\"to\":{\"line\":33,\"ch\":10}},\"scroll\":9.643713733075435}"
             },
             {
-              "leaf": "fdca25781ab0d380",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":6.666666666666667}"
-            },
-            {
-              "leaf": "fdca25781ab0d380",
+              "leaf": "155a552e8e102603",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "f7e8df779e60ef9a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20_Entry/Hierarchy.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f7e8df779e60ef9a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/Hierarchy.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":17},\"to\":{\"line\":24,\"ch\":17}},\"scroll\":0}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2e32995ed61a70d7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20_Entry/Hierarchy.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "2e32995ed61a70d7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/Hierarchy.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":8},\"to\":{\"line\":36,\"ch\":8}},\"scroll\":20.141074335322845}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "9735ebd5092a2296",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/33_Tools/Dataview.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9735ebd5092a2296",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dataview.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":31},\"to\":{\"line\":25,\"ch\":31}},\"scroll\":15.26923076923077}"
             }
           ]
         }
@@ -78,12 +138,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#node/evergreen",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             },
             "pane-relief:history-v1": {
@@ -97,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/What is language's fundamental unit.md",
+                "file": "20_Entry/Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -130,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/What is language's fundamental unit.md",
+                "file": "20_Entry/Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -177,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/What is language's fundamental unit.md"
+                "file": "20_Entry/Hierarchy.md"
               }
             },
             "pane-relief:history-v1": {
@@ -234,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/What is language's fundamental unit.md",
+                "file": "20_Entry/Hierarchy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -341,19 +400,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 708
+    "width": 708,
+    "collapsed": true
   },
-  "active": "fdca25781ab0d380",
+  "active": "f7e8df779e60ef9a",
   "lastOpenFiles": [
+    "20_Entry/Hierarchy.md",
+    "30_Topics/33_Tools/Dataview.md",
+    "40_Evergreens/Gender is a social construct.md",
+    "30_Topics/35_Outlines/gender.md",
+    "20_Entry/202 INDEX.md",
+    "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+    "30_Topics/31_Stubs/body dysmorphia.md",
     "40_Evergreens/What is language's fundamental unit.md",
     "40_Evergreens/Transformative justice is the alternative to punitive justice.md",
-    "40_Evergreens/Communities are knowledge graphs.md",
-    "40_Evergreens/Powerful tools make dangerous toys.md",
-    "00_Meta/Templates/Get Qoute.md",
-    "20_Entry/205 QUICKNOTE.md",
-    "10_Sources/Qoutes/Qoutes.md",
-    "30_Topics/35_Outlines/Psychology.md",
-    "30_Topics/35_Outlines/human experience.md",
-    "40_Evergreens/How can parent's best help their children.md"
+    "40_Evergreens/Communities are knowledge graphs.md"
   ]
 }

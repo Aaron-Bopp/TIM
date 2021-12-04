@@ -43,5 +43,6 @@
   "preview-mode-keybinds",
   "graph-analysis",
   "obsidian-codemirror-options",
-  "better-word-count"
+  "better-word-count",
+  "mysnippets-plugin"
 ]
