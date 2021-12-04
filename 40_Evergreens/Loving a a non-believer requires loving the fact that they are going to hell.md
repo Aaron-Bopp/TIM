@@ -1,9 +1,9 @@
 ---
 created: 2021-06-13
 tags: node/evergreen
-sr-due: 2021-11-28
-sr-interval: 4
-sr-ease: 212
+sr-due: 2021-12-07
+sr-interval: 3
+sr-ease: 192
 ---
 
 #### [[Loving a a non-believer requires loving the fact that they are going to hell]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

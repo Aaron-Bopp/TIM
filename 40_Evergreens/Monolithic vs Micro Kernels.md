@@ -3,8 +3,8 @@ created: 2021-10-14
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-27
-sr-interval: 23
+sr-due: 2022-02-19
+sr-interval: 77
 sr-ease: 290
 ---
 #### [[Monolithic vs Micro Kernels]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -13,7 +13,7 @@ sr-ease: 290
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SPROUT/CULTIVATE 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Operating Systems]],  [[Computer Science]], [[programming]]

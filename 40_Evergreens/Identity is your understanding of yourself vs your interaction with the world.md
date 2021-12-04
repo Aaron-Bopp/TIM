@@ -1,15 +1,16 @@
 ---
 created: 2021-06-27
 tags: node/evergreen
-sr-due: 2021-11-28
-sr-interval: 20
-sr-ease: 215
+sr-due: 2021-12-13
+sr-interval: 9
+sr-ease: 195
 aliases:
   - Identity is a sense of self not a pattern of traits or behavior
 ---
 
 #### [[Identity is your understanding of yourself vs your interaction with the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/GRAFT [[A secure identity is the best defense against social anxiety]]
 
 At the core of [[self]] is how you view yourself ([[self-image]]) vs how the world views you ([[self-perception]]). If you have a weak [[self-image]] then how the world views you will completely win, resulting in little to no sense of [[self]] e.g. [[Self-hatred is born out of dissonance between self-image and self-perception]].
 
@@ -23,7 +24,7 @@ However, [[self]] is more than just an objective viewing of our actions. [[self]
 
 If your understanding of the world is impaired that means that your [[self]] will be hard to understand.
 
-This concept relates [[Presentation is the realization of our self-perception and identity is the realization of our self-image|the differenent concepts of identity and presentation]].
+This concept relates the different concepts of identity and presentation: [[Presentation is the realization of our self-perception and identity is the realization of our self-image]]
 
 ### <hr class="footnote"/>
 

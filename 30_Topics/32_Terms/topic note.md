@@ -15,7 +15,7 @@ A topic note should contain description or definition of what falls under that t
 and an outline of various other notes (of any kind) that fall under it.
 Maintaining topic notes is a valuable entry point into [[second brain]],
 but focusing too much on creating and maintaing them can cause [[friction]]:
-[[Prioritize organization over categorization to avoid wasted energy]]
+[[Prioritize organization over categorization to avoid cognitive bias]]
 
 %%
 Topic notes should be able to form naturally from your other notes so they should be titled however they would be naturally written. It should be titled as `Firstname Lastname`, `ACRONYM`, and as simply as possible i.e `[[second brain]]` instead of `The Second Brain`.  

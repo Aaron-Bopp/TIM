@@ -4,8 +4,8 @@ tags: node/evergreen
 aliases:
   - The nature of happiness is not doing what you love its detachment from the
     decisions of the life
-sr-due: 2021-11-26
-sr-interval: 5
+sr-due: 2021-12-28
+sr-interval: 24
 sr-ease: 230
 ---
 

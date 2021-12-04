@@ -9,154 +9,132 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Stupid rules are meant to be broken.md",
-            "mode": "source"
+            "file": "40_Evergreens/Communities are knowledge graphs.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are meant to be broken.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c59e52aa6132d32a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can be taught to invalidate your own emotions.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c59e52aa6132d32a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":134},\"to\":{\"line\":12,\"ch\":134}},\"scroll\":0.6}"
-            },
-            {
-              "leaf": "c59e52aa6132d32a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":19.16666590505179}"
-            },
-            {
-              "leaf": "c59e52aa6132d32a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Race is a social construct.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c59e52aa6132d32a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Whiteness was created to margnalize people of color.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Race is a social construct.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":48},\"to\":{\"line\":13,\"ch\":48}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are knowledge graphs.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":9.070865901436393}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":2.7333332697550454}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":9.165354450856608}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Non-faith issues have been co-opted to keep people in the christian church.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":24},\"to\":{\"line\":31,\"ch\":24}},\"scroll\":9.666666030883789}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sometimes we can't grow until we change our environment.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":6.614173228346457}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":5.508982035928144}"
-            },
-            {
-              "leaf": "c59e52aa6132d32a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/JUSTEVERGREENS.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/TopicNotes.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Happiness is enlightenment and sadness is delusion.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":2.971428462437221}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can leave the church without loosing your faith.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":5.668571544828869}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/File Sizes.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c59e52aa6132d32a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/23 Note by type/JUSTEVERGREENS.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c59e52aa6132d32a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c59e52aa6132d32a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Commits.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The triad of ever increasing social anxiety.md\",\"mode\":\"preview\"}}",
               "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 INDEX.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.196969692591027}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":27},\"to\":{\"line\":18,\"ch\":27}},\"scroll\":8.287425227939572}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":93},\"to\":{\"line\":11,\"ch\":93}},\"scroll\":7.628571646554129}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcast_Unteachable Moment_This American Life.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":21.87146515357539}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":22.757896021792764}"
             },
             {
               "leaf": "c59e52aa6132d32a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":58.966670195261635}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "c12eacce50591768",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/31_Stubs/racism.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "c12eacce50591768",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/racism.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\",\"mode\":\"source\"}}",
               "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mass media promotes the spread of innacurate information.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Most rights were denied to Americans at its founding.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":7.14960653950849}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":31},\"to\":{\"line\":30,\"ch\":31}},\"scroll\":12.196970159357246}"
+            },
+            {
+              "leaf": "c59e52aa6132d32a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between sympathy and empathy.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.8000000544956754}"
             }
           ]
         }
@@ -209,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Stupid rules are meant to be broken.md",
+                "file": "40_Evergreens/Communities are knowledge graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -242,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Stupid rules are meant to be broken.md",
+                "file": "40_Evergreens/Communities are knowledge graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Stupid rules are meant to be broken.md"
+                "file": "40_Evergreens/Communities are knowledge graphs.md"
               }
             },
             "pane-relief:history-v1": {
@@ -345,7 +323,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Stupid rules are meant to be broken.md",
+                "file": "40_Evergreens/Communities are knowledge graphs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -452,20 +430,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 708,
-    "collapsed": true
+    "width": 708
   },
   "active": "c59e52aa6132d32a",
   "lastOpenFiles": [
-    "40_Evergreens/Stupid rules are meant to be broken.md",
-    "40_Evergreens/You can be taught to invalidate your own emotions.md",
-    "40_Evergreens/People have been conditioned to believe the bible has to be infallible.md",
-    "40_Evergreens/Look for understanding before you look for solutions.md",
-    "40_Evergreens/Searching for THE answer is dangerous.md",
-    "40_Evergreens/Humans have decided to reject an unjust world.md",
-    "40_Evergreens/Race is a social construct.md",
-    "Whiteness was created to margnalize people of color.md",
-    "30_Topics/31_Stubs/racism.md",
-    "40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md"
+    "40_Evergreens/Communities are knowledge graphs.md",
+    "30_Topics/33_Tools/Obsidian (software).md",
+    "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md",
+    "40_Evergreens/Sometimes we can't grow until we change our environment.md",
+    "40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md",
+    "40_Evergreens/Happiness is enlightenment and sadness is delusion.md",
+    "40_Evergreens/You can leave the church without loosing your faith.md",
+    "40_Evergreens/Humans love to group eachother.md",
+    "40_Evergreens/We are confined to the tools of our time.md",
+    "40_Evergreens/The triad of ever increasing social anxiety.md"
   ]
 }

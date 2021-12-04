@@ -3,9 +3,9 @@ created: 2021-07-30
 tags: node/evergreen, node/personal
 aliases:
   - null
-sr-due: 2021-11-27
-sr-interval: 6
-sr-ease: 238
+sr-due: 2021-12-08
+sr-interval: 4
+sr-ease: 218
 ---
 
 #### [[My unfulfilled need for parental validation became a fear of rejection and disregarment of affection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

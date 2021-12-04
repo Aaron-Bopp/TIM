@@ -3,8 +3,8 @@ created: 2021-07-30
 tag: node/evergreen 
 aliases:
   - A inwardly judgementful and outwardly accepting home creates trust issues
-sr-due: 2021-11-27
-sr-interval: 3
+sr-due: 2021-12-11
+sr-interval: 7
 sr-ease: 131
 ---
 
@@ -27,7 +27,7 @@ sr-ease: 131
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[childhood]], [[trauma]], [[socialization]], [[mental health]]

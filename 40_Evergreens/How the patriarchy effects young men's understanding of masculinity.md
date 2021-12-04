@@ -3,8 +3,8 @@ created: 2021-10-10
 tags: node/evergreen, node/question
 aliases:
   - null
-sr-due: 2021-11-26
-sr-interval: 10
+sr-due: 2021-12-27
+sr-interval: 23
 sr-ease: 150
 ---
 #### [[How the patriarchy effects young men's understanding of masculinity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

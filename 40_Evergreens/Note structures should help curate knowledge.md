@@ -18,7 +18,7 @@ This is why friction can be both a hinderance and boon to your [[knowledge work]
 [[Friction is the number one hindrance to learning]]
 
 %%If the borders of your structures are loosely defined it will make it easier for your brain to use them. Some might say that loosely defined structures will just lead to unorganized thought, 
-^[[[Prioritize organization over categorization to avoid wasted energy]]]
+^[[[Prioritize organization over categorization to avoid cognitive bias]]]
 or that friction can be a boon to creation,
 which can definitely be true.%%
 

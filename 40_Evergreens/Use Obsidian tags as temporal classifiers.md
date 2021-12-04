@@ -1,8 +1,8 @@
 ---
 created: 2021-05-25
 tags: node/evergreen
-sr-due: 2021-11-28
-sr-interval: 7
+sr-due: 2021-12-25
+sr-interval: 21
 sr-ease: 244
 ---
 
@@ -10,7 +10,7 @@ sr-ease: 244
 
 #TO/TEND/GRAFT should these headers be evergreens
 
-In [[Obsidian (software)|Obsidian]] tags are a peice of metadata that you can add to a note, [^1] and functionally do little more than open a search box with the appropriate search query. You cannot add any markdown or metadata to them, which makes them much less powerful than links and notes, but they can still be very valuable in your [[knowledge management|knowledge management system]].  You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category: [[Prioritize organization over categorization to avoid wasted energy]]. 
+In [[Obsidian (software)|Obsidian]] tags are a peice of metadata that you can add to a note, [^1] and functionally do little more than open a search box with the appropriate search query. You cannot add any markdown or metadata to them, which makes them much less powerful than links and notes, but they can still be very valuable in your [[knowledge management|knowledge management system]].  You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category: [[Prioritize organization over categorization to avoid cognitive bias]]. 
 
 [^1]: [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
@@ -29,7 +29,7 @@ Tags become much more powerful through the use of various plugins. Tags can be u
 If tags can be classifiers of types of notes, why can't they be classifiers of the ideas of notes? Information can certainly be classified, and because multiple tags can be added, if an idea spans multiple classifications you can just add more tags. 
 
 While I think there is benefit to organization, I think that notes accomplish this better than tags in [[Obsidian (software)|Obsidian]]:
-- [[Prioritize organization over categorization to avoid wasted energy]]
+- [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Stub notes are data structures for implicit knowledge gathering]]
 
 ### <hr class="footnote"/>

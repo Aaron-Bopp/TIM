@@ -3,9 +3,9 @@ created: 2021-07-30
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-27
-sr-interval: 6
-sr-ease: 246
+sr-due: 2021-12-08
+sr-interval: 4
+sr-ease: 226
 ---
 
 #### [[An unfulfilled need for validation results in a fear of rejection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

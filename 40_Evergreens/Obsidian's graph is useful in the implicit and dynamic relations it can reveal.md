@@ -33,7 +33,7 @@ and it will distract you from actually adding value to your vault.
 Instead, focus on [[Write your notes like you're planting an evergreen forest|Writing your notes like you're planting an evergreen forest]] 
 
 Additionally, many have noticed that as your graph grow very large, (over ~1000 nodes) it becomes difficult to gain any use out of this. I have yet to see this with my own graph, but I could definitely see only a certain kind of graph being useful at a large size:
-[[Prioritize organization over categorization to avoid wasted energy]]
+[[Prioritize organization over categorization to avoid cognitive bias]]
 
 [^1]: Densily linked [[web of thought]] built with [[evergreen notes]]: [[Evergreen notes organize knowledge so that it can grow]]
 [^2]: [[Powerful tools make dangerous toys]]

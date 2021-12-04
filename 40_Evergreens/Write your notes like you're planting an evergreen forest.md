@@ -35,7 +35,7 @@ making too elaborate system can distract you from your work.
 ^[[[Powerful tools make dangerous toys]]]
 You will need to strike a balance between the stress of having an unorganized system 
 and the stress of having to design your system.
-^[[[Prioritize organization over categorization to avoid wasted energy]]]
+^[[[Prioritize organization over categorization to avoid cognitive bias]]]
 Soon you will have a forest of knowledge at your fingertips.
 
 You don't need to know how to cut down a forest when you start spreading seeds, 

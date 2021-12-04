@@ -3,8 +3,8 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-27
-sr-interval: 12
+sr-due: 2022-01-10
+sr-interval: 37
 sr-ease: 223
 ---
 
@@ -14,7 +14,7 @@ When you create a note in a system like [[Obsidian (software)|Obsidian]], you ar
 
 Even if you delete the file, the links will still remain, and the connections can still be made on the graph. This can be used to our advantage, but it can also be detrimental. [^1] This is why you need to be [[mindfullness|mindfull]] about what you store and how you store it in your second brain: [[Your second brain should be frictionless access to a curated base of knowledge]]
 
-[^1]: [[Stub notes are data structures for implicit knowledge gathering]]
+[^1]: [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 
 Additionally, when you delete a file, connections that may have existed will dissapear resulting in a loss of data larger than just the data in the file. Whether it be the way that note pulled nodes together on the graph, or that it had a \#TO/DO tag that referenced another note, deleting a note will have effects outside its contents: [[Combine notes instead of deleting them to avoid ghost data in a second brain]] 
 

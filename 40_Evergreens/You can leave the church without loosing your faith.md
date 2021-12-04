@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-11-28
-sr-interval: 6
-sr-ease: 232
+sr-due: 2021-12-08
+sr-interval: 4
+sr-ease: 212
 ---
 
 #### [[You can leave the church without loosing your faith]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -11,7 +11,7 @@ sr-ease: 232
 Many [[Christianity|Christians]] have developed a relationship with what they see as a very empathetic god, but when they are confronted with the horrors that the Church has put people through, they have no choice but to either reconsider their relationship with god or their relationship with the church: [[The biblical christian God is evil and does not deserve to be worshipped]]
 
 Often it is very hard to stay in the church while you [[Deconstruction (Christianity)|deconstruct]] because while you are trying to change and fix the evil things the church is doing, it is pushing back at you.
-^[[[The church will fail if christians keep aligning themselves with hate instead of love]]
+^[[[The church will fail if christians keep aligning themselves with hate instead of love]]]
 [[Humans love to group eachother]], which means that we have strong affinity for people who are like us.
 ^[[[Humans are a product of evolution]]]
 Even if we know that the group we are a part of has evil members.

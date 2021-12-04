@@ -15,7 +15,7 @@ MOCs provide flexibility, Folder provide portability
 Johnny decimal categorizes, MOCs orgnanize
 Interlinking provides connection, MOCs provide structure
 
-- [[Prioritize organization over categorization to avoid wasted energy]]
+- [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Use Obsidian tags as temporal classifiers]]
 - [[What makes a note evergreen]]
 

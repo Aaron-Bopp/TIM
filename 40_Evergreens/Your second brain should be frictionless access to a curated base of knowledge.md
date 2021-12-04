@@ -24,7 +24,7 @@ There is a difference between collecting something because it is __useful__ and 
 Without the knowledge of [[The fragility of nodes in a second brain|which notes introduce fragility]] into your [[second brain]], you can easly become overwhelmed. Here are some guidelines to collect thought without generating friction:
 - [[Curate source notes and definitions in your second brain to avoid junk text]]
 - [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]. 
-- [[Prioritize organization over categorization to avoid wasted energy]]
+- [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Write your notes like you're planting an evergreen forest]]
 - [[Webs of thought are densely linked]]
 

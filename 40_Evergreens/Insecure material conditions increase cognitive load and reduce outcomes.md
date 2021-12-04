@@ -14,6 +14,8 @@ Anxiety is a feeling of worry, nervousness, or unease about something with an un
 
 [[BIPOC]] and [[Queer]] people experience this at a higher rate becaues of the way they have been [[marginalized]] by society. [[Minority stress]] and [[stereotype threat]] are examples of this. 
 
+#TO/TEND/GRAFT [[Your anxiety knows your insecurities better than you do#Cause material insecurity]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/CULTIVATE 

@@ -4617,8 +4617,8 @@
     },
     "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md": {
       "size": 2165,
-      "tags": 2,
-      "links": 13
+      "tags": 3,
+      "links": 14
     },
     "40_Evergreens/Is your self-talk bullying you or bodyguarding you.md": {
       "size": 648,
@@ -4892,8 +4892,8 @@
     },
     "40_Evergreens/The injustice of endurance.md": {
       "size": 1071,
-      "tags": 2,
-      "links": 11
+      "tags": 3,
+      "links": 12
     },
     "40_Evergreens/The internet allows niche topics to flourish.md": {
       "size": 1434,
@@ -5056,7 +5056,7 @@
       "links": 8
     },
     "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md": {
-      "size": 2296,
+      "size": 2643,
       "tags": 5,
       "links": 25
     },
@@ -6733,7 +6733,7 @@
     "40_Evergreens/Communities are knowledge graphs.md": {
       "size": 2797,
       "tags": 2,
-      "links": 21
+      "links": 22
     },
     "40_Evergreens/Faith is an abstraction of cognitive dissonance.md": {
       "size": 1598,
@@ -6824,11 +6824,6 @@
       "size": 0,
       "tags": 1,
       "links": 0
-    },
-    "40_Evergreens/Prioritize organization over categorization to avoid wasted energy.md": {
-      "size": 1074,
-      "tags": 2,
-      "links": 7
     },
     "40_Evergreens/When in doubt, write what you think.md": {
       "size": 1259,
@@ -8422,8 +8417,8 @@
     },
     "40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md": {
       "size": 1067,
-      "tags": 2,
-      "links": 12
+      "tags": 3,
+      "links": 13
     },
     "40_Evergreens/Parsing markup text for Obsidian projects.md": {
       "size": 0,
@@ -9099,20 +9094,35 @@
       "size": 0,
       "tags": 2,
       "links": 5
+    },
+    "10_Sources/Personal/I have always longed to show my authentic self to the world.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 1
+    },
+    "40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md": {
+      "size": 1244,
+      "tags": 3,
+      "links": 7
+    },
+    "30_Topics/32_Terms/cognitive bias.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1466,
-      "Create": 1978,
-      "Link": 3320,
-      "Expand": 226
+      "Refactor": 1468,
+      "Create": 1980,
+      "Link": 3332,
+      "Expand": 228
     },
     "40_Evergreens": {
-      "Refactor": 3,
+      "Refactor": 4,
       "Create": 0,
-      "Link": 4,
-      "Expand": 96
+      "Link": 12,
+      "Expand": 98
     }
   },
   "dailyCommits": {
@@ -9127,8 +9137,8 @@
       "7": 0,
       "8": 24,
       "9": 500,
-      "10": 79,
-      "11": 43,
+      "10": 84,
+      "11": 56,
       "12": 336,
       "13": 65,
       "14": 2241,
@@ -9153,8 +9163,8 @@
       "7": 0,
       "8": 0,
       "9": 98,
-      "10": 5,
-      "11": 0,
+      "10": 9,
+      "11": 7,
       "12": 0,
       "13": 0,
       "14": 0,
@@ -9177,7 +9187,7 @@
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
-      "Sun": 4396
+      "Sun": 4414
     },
     "40_Evergreens": {
       "Mon": 0,
@@ -9186,12 +9196,14 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 103
+      "Sun": 114
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
@@ -9240,11 +9252,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/First Amendment rights impacts groups not individuals.md\"> First Amendment rights impacts groups not individuals </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender has historically been non-binary.md\"> Gender has historically been non-binary </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"cognitive bias.md\"> cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
         "<a class=\"internal-link\" href=\"Whiteness was created as a societal structure.md\"> Whiteness was created as a societal structure </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rationalizations.md\"> rationalizations </a>",
         "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\"> johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation </a>",
@@ -9293,11 +9305,11 @@
         "<a class=\"internal-link\" href=\"Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️.md\"> tweets_Tweets From Takiwātanga + Aroreretini (TheyIa) 🏳️‍🌈🏳️‍⚧️ </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
-        "<a class=\"internal-link\" href=\"When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
         "<a class=\"internal-link\" href=\"10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\"> johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
@@ -9346,11 +9358,15 @@
         "<a class=\"internal-link\" href=\"10_Sources/Security.md\"> Security </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Politics.md\"> Politics </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/trauma.md\"> trauma </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Patriarchy.md\"> Patriarchy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-worth.md\"> self-worth </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social construct.md\"> social construct </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Patriarchy.md\"> Patriarchy </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rationalizations.md\"> rationalizations </a>",
@@ -9395,13 +9411,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Inspired by @Commaficion....md\"> tweets_Inspired by @Commaficion... </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as weeding for your digital garden.md\"> Use spaced repetition as weeding for your digital garden </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
-        "<a class=\"internal-link\" href=\"Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
-        "<a class=\"internal-link\" href=\"Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9478,6 +9488,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/resentment.md\"> resentment </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
         "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
@@ -9522,13 +9538,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md\"> tweets_Tweets From Hank Green </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/powershell.md\"> powershell </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Andy Matuschak's Evergreen Notes.md\"> Andy Matuschak's Evergreen Notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/powershell.md\"> powershell </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
@@ -9639,6 +9649,8 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
@@ -9687,15 +9699,19 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be an inspirational hub of creativity.md\"> Your second brain should be an inspirational hub of creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can discover your transness at any point in life.md\"> You can discover your transness at any point in life </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
       ],
       "Created": [],
-      "Renamed": [],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>"
+      ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -9705,7 +9721,11 @@
       "Deleted": [],
       "Linked": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

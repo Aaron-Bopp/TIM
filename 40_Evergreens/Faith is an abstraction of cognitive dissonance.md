@@ -3,8 +3,8 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-27
-sr-interval: 2
+sr-due: 2021-12-12
+sr-interval: 8
 sr-ease: 188
 ---
 
@@ -24,7 +24,7 @@ You cannot fully [[blame]] them for this, as our brains are not really built to 
 - [[The Politicization of the Christian Church]]
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
-#TO/TEND/CONNECT [[Fear cannot be a deterant for deconstructing your faith#^5dc5d8]]
+#TO/TEND/CONNECT ![[Fear cannot be a deterant for deconstructing your faith#^5dc5d8]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

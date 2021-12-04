@@ -16,7 +16,7 @@ A system that gives too much freedom, or too many options, may only reduce your 
 Here are some thoughts that may guide how you decide on and create your system
 - [[Note structures should help curate knowledge]]
 - [[Evergreen notes organize knowledge so that it can grow]]
-- [[Prioritize organization over categorization to avoid wasted energy]]
+- [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Friction is the number one hindrance to learning]]
 - [[The fragility of nodes in a second brain]]
 

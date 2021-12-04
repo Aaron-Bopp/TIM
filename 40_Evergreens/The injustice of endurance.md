@@ -3,8 +3,8 @@ created: 2021-07-29
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-27
-sr-interval: 9
+sr-due: 2021-12-31
+sr-interval: 27
 sr-ease: 230
 ---
 
@@ -14,7 +14,9 @@ In a world where there are enough resources to provide for everyone, it is unjus
 
 You should never be forced to endure. [[Endurance]] is a choice you make to push through, not something that can be forced upon you.
 
-This is the most soul-crushing part of living in [[late capitalism]]. You are forced to get up everyday and sell your body just to not starve, and for most people there now avenues to escape. [[Hierarchy of needs]]
+This is the most soul-crushing part of living in [[late capitalism]]. You are forced to get up everyday and sell your body just to not starve, and for most people there are no avenues to escape: [[Insecure material conditions increase cognitive load and reduce outcomes]]
+
+#TO/EXPLORE/RESEARCH  [[Hierarchy of needs]]
 
 [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
 
