@@ -74,3 +74,11 @@ Is [[community]] gated behind social ability for certain people?
 
 [^255253491]: https://twitter.com/visakanv/status/1466496066044366850
 
+# New highlights added December 4, 2021 at 7:00 PM
+##### ^255689566
+  
+> whatcha think about this: "there are two primary ways to facilitate a change of heart: tears, and laughter. these deep, rumbling vibrations create cracks in the fortified walls that confine the heart. Cracks, that, as Leonard Cohen put it, allow the light to get in." 
+  [^255689566]
+
+[^255689566]: https://twitter.com/visakanv/status/1467244236093280257
+

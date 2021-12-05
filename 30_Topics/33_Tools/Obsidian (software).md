@@ -22,7 +22,10 @@ List of resources https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp for learning ob
 - [Excellent beginner's guide to Zetllkassen in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
 
 ### My notes about Obsidian
-
+- [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
+- [[Use Obsidian tags as temporal classifiers]]
+- [[Develop Obsidian plugins]]
+- See [[My TIM]] for more
 
 ### Example Vaults
 

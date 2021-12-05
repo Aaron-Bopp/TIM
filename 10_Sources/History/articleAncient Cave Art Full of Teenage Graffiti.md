@@ -7,7 +7,7 @@ type:
 source: https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html
 ---
 
-###### [[Ancient Cave Art Full of Teenage Graffiti]]
+###### [[articleAncient Cave Art Full of Teenage Graffiti]]
 
 **Topics**::  [[ancient history]], [[human survival]], [[human advancement]]
 

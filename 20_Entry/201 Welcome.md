@@ -8,9 +8,10 @@ It's okay, I sometimes click on links and forget about it by the time I open the
 
 The core features of this site are the [[bi-directional links]] and the graph view in the top right. Use them to navigate, you can also search or scroll through all of my notes on the left, or start from here:
 
-- If you want to know more about me: [[204 Me]]
-- If you want to know what I am up to: [[203 NOW]]
-- If you want to see everything that I've written on: [[202 INDEX]]
+- If you want to know what I am up to: [[202 NOW]]
+- If you want to know more about me: [[203 Me]]
+- If you want to see an up to date list of writing by content area: [[Content Areas]]
+- If you want to see an out of date index: [[205 INDEX]]
 - If you are still confused maybe just keep reading this page
 
 ## Stop blabbering I just want to know how to do the cool thing in the notes app
@@ -41,5 +42,5 @@ If you'd like to hear more about [[evergreen notes]], which are core to this sys
 
 ## I am not looking through all this crap, tell me what you're all about
 
-I get it, we aren't all [[Autism|autistic]] pastor's kids with savior complex's set out to save everything and everyone in the ultimate search for a system of thought that will lead us to [[enlightenment]]. *That's fine.* **I am in therapy.** It's all good. However, if you've made it this far and want to hear my thoughts on anything besides [[note writing]] click here: [[204 Me]]
+I get it, we aren't all [[Autism|autistic]] pastor's kids with savior complex's set out to save everything and everyone in the ultimate search for a system of thought that will lead us to [[enlightenment]]. *That's fine.* **I am in therapy.** It's all good. However, if you've made it this far and want to hear my thoughts on anything besides [[note writing]] click here: [[203 Me]]
 

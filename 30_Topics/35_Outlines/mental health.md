@@ -15,7 +15,7 @@ tags: node/topic/outline
 
 [[mental health]] covers concepts that vary from [[mental illness]] to [[neurodiversity]] to [[spirituality]] and how it effects us. 
 
-**See**:: [[202 INDEX]], [[Neuroscience]]
+**See**:: [[205 INDEX]], [[Neuroscience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

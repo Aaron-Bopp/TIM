@@ -1,1 +1,0 @@
-If you would like to get in touch you can reach me on discord, my user is ABoppy6#1587 or email me at bopp.aa.bis@gmail.com

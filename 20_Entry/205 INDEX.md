@@ -5,27 +5,6 @@ tags:
 ```ActivityHistory
 /
 ```
-This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[knowledge management]] system.
-
-# Entry Points
-
-- [[201 Welcome]]
-- [[203 NOW]]
-- [[204 Me]]
-%%
-- [[TODO]]
-	- [[KANBAN]]
-	- [[205 QUICKNOTE]]
-- [[Journal]]
-- Forest
-	- [[EVERGREENS]]
-	- [[EVERSPROUTS]]
-	- [[EVERSEEDS]]
-- Notes not in outline
-	- [[TopicNotes]]
-	- [[EVERGREENS]]
-	- [[CONTENTNOTES]]
-%%
 
 # Topic Outlines
 - 

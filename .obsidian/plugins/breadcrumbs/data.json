@@ -11,14 +11,29 @@
   "enableAlphaSort": true,
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
-  "limitWriteBCCheckboxStates": {},
+  "limitWriteBCCheckboxStates": {
+    "up": true,
+    "same": true,
+    "down": true,
+    "next": true,
+    "prev": true
+  },
   "gridDots": false,
   "gridHeatmap": false,
   "heatmapColour": " #7f6df2",
   "hierarchyNotes": [
-    ""
+    "Content Areas",
+    "41 Personal",
+    "42 Knowledge Management",
+    "43 Mental Health",
+    "44 Self",
+    "45 Religion",
+    "46 Politics",
+    "47 Humanity",
+    "48 Technology",
+    "49 Conclusions"
   ],
-  "HNUpField": "",
+  "HNUpField": "up",
   "indexNotes": [
     ""
   ],
@@ -39,7 +54,9 @@
   "showTrail": true,
   "showGrid": true,
   "showPrevNext": true,
-  "limitTrailCheckboxStates": {},
+  "limitTrailCheckboxStates": {
+    "up": true
+  },
   "showAll": false,
   "noPathMessage": "This note has no real or implied parents",
   "trailSeperator": "→",
@@ -64,7 +81,7 @@
       ]
     }
   ],
-  "writeBCsInline": false,
+  "writeBCsInline": true,
   "showWriteAllBCsCmd": false,
   "visGraph": "Force Directed Graph",
   "visRelation": "Parent",
