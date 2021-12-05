@@ -649,6 +649,18 @@
                 {
                   "leaf": "23b232f008ce618a",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "23b232f008ce618a",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "23b232f008ce618a",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is a social construct.md\",\"mode\":\"preview\"}}",
                   "eState": "{\"scroll\":5.816425120772947}"
                 },
