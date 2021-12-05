@@ -634,12 +634,45 @@
             "id": "23b232f008ce618a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Humans are a product of evolution.md",
+                "mode": "source"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
+                {
+                  "leaf": "23b232f008ce618a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are a product of evolution.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "23b232f008ce618a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/Neuroscience.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "23b232f008ce618a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERGREENS.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "23b232f008ce618a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/ADHD.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "23b232f008ce618a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Abolition.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "leaf": "23b232f008ce618a",
                   "group": null,
@@ -727,6 +760,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "40_Evergreens/Humans are a product of evolution.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -759,6 +793,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "40_Evergreens/Humans are a product of evolution.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -802,7 +837,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "40_Evergreens/Humans are a product of evolution.md"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -868,6 +905,14 @@
                   "pos": 0,
                   "stack": []
                 }
+              },
+              {
+                "id": "2ff00b5464d1cd41",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-down",
+                  "state": {}
+                }
               }
             ],
             "currentTab": 4
@@ -882,6 +927,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "40_Evergreens/Humans are a product of evolution.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",

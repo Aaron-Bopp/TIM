@@ -3,8 +3,6 @@
   "cssTheme": "BRAT-Emrie-Candera----Bubble-Space-Theme",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "aside",
-    "S - Aside",
     "adjust-footnotehrpadding",
     "S - Embed Adjustments",
     "S - External Link Icons",
