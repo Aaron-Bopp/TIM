@@ -5,14 +5,15 @@
 **Dovidio et al. (2017) -- Aversive Racism and Contemporary Bias**
 
 **1.** In your own words, compare and contrast the four forms of "subtle racism" discussed by the authors on pp. 268-274. Be sure to define each form and explain what makes them unique from each of the others. **(5 pts)**
-	1. Symbolic racism is when a person's actions (voting patterns) and opinions (black people are threatening and lazy) symbolize the true racist ideas that they hold, but refuse verbalize, as they believe that discrimination no longer exists or that they are not racist.
-	2. Modern racism is very similar to symbolic in the way it looks at "indirect" racism and predicts voting patterns, but is built of the negative feelings that whites have towards blacks that cause them to have symbolically racist behaviors. 
-	3. Abivalent racism refers to the cognitive dissonance that forms when a person has internalized ambivalence or non-belief towards the discrimination that black people face, but when personally confronted with it, still see the injustice of the situation. These cogntive dissonace comes from clash of the person's belief that they are fair and just, and their incompatible belief that the world is fair and just.
-	4. Aversice racism is the closest to the concept of unconscious bias. While the person believes that are non-racist and works to avoid seeming racist, in situations where the racism isn't obvious they can still fall into racist behavior. Because these people actively avoid obvious bias, implicit bias can often go completely unnoticed.
+1. Symbolic racism is when a person's actions (voting patterns) and opinions (black people are threatening and lazy) symbolize the true racist ideas that they hold, but refuse verbalize, as they believe that discrimination no longer exists or that they are not racist.
+2. Modern racism is very similar to symbolic in the way it looks at "indirect" racism and predicts voting patterns, but is built of the negative feelings that whites have towards blacks that cause them to have symbolically racist behaviors. 
+3. Abivalent racism refers to the cognitive dissonance that forms when a person has internalized ambivalence or non-belief towards the discrimination that black people face, but when personally confronted with it, still see the injustice of the situation. These cogntive dissonace comes from clash of the person's belief that they are fair and just, and their incompatible belief that the world is fair and just.
+4. Aversice racism is the closest to the concept of unconscious bias. While the person believes that are non-racist and works to avoid seeming racist, in situations where the racism isn't obvious they can still fall into racist behavior. Because these people actively avoid obvious bias, implicit bias can often go completely unnoticed.
 
 **Correll et al. (2014) -- The Police Officer's Dilemma**
 
 **2.** In this article, the authors argues that, having relevant expertise, police officers are better at differentiating between armed and unarmed targets in the first-person shooter task (FPST). However, the authors mention that police officers perform poorly on the FPST under certain conditions. Using information from the section titled "The Role of Cognitive Control in Expert Performance" (pp. 207-209), describe [two]{.ul} circumstances where a police officer is more likely to show racial bias in the FPST. In your response, be sure to explain the situation as well as why this may cause police officers to exhibit racial bias. **(5 pts)**
+- 
 
 **Kuchynka et al. (2018) -- Hostile and Benevolent Sexism**
 
@@ -49,14 +50,14 @@
 
 `$=dv.pages('#node/source').where(p => [p.related, p.source].contains("a")).length`
 
-```dataview
-TABLE length(rows) as Length, rows.file.link, join(filter(rows, (r) => r.creator)) as Creator
+```dataviewa
+TABLE length(rows) as Length, rows.file.link
 FROM #node/source
 WHERE contains([related, source], "a")
-GROUP BY null
+GROUP BY creator
 ```
 ```dataview
 TABLE Related
 FROM #node/source/articles 
-where contains(related, "p")
+where related
 ```

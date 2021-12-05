@@ -1,7 +1,7 @@
 {
   "baseFontSize": 16,
   "cssTheme": "BRAT-Emrie-Candera----Bubble-Space-Theme",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "adjust-footnotehrpadding",
     "S - Embed Adjustments",
