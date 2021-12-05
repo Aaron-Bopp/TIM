@@ -20,7 +20,7 @@
               "leaf": "23b232f008ce618a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":1},\"to\":{\"line\":23,\"ch\":1}},\"scroll\":14.124999949426362}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":67},\"to\":{\"line\":52,\"ch\":67}},\"scroll\":46.901422272826466}"
             },
             {
               "leaf": "23b232f008ce618a",
@@ -92,6 +92,28 @@
         }
       },
       {
+        "id": "4264b34839cee7bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/33_Tools/Dataview.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "4264b34839cee7bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dataview.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":34},\"to\":{\"line\":12,\"ch\":34}}}"
+            }
+          ]
+        }
+      },
+      {
         "id": "2b9bbc1020b18fd9",
         "type": "leaf",
         "state": {
@@ -108,7 +130,7 @@
               "leaf": "2b9bbc1020b18fd9",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":220.8351390941723}"
+              "eState": "{\"scroll\":224.52840516061508}"
             },
             {
               "leaf": "2b9bbc1020b18fd9",
@@ -167,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md",
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -200,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md",
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md"
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md"
               }
             },
             "pane-relief:history-v1": {
@@ -335,7 +357,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Psychology of Race and Gender notes.md",
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -445,17 +467,17 @@
     "width": 708,
     "collapsed": true
   },
-  "active": "2b9bbc1020b18fd9",
+  "active": "23b232f008ce618a",
   "lastOpenFiles": [
-    "10_Sources/Psychology of Race and Gender notes.md",
     "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
+    "30_Topics/33_Tools/Dataview.md",
+    "10_Sources/History/primarysourceExcerpts from the 2016 Republican Party Platform.md",
+    "10_Sources/Psychology of Race and Gender notes.md",
     "10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md",
     "40_Evergreens/Humans are a product of evolution.md",
     "30_Topics/35_Outlines/Neuroscience.md",
     "20_Entry/22 Note by status/EVERGREENS.md",
     "30_Topics/32_Terms/ADHD.md",
-    "30_Topics/32_Terms/Abolition.md",
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-    "40_Evergreens/Gender is a social construct.md"
+    "30_Topics/32_Terms/Abolition.md"
   ]
 }

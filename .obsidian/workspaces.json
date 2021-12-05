@@ -647,7 +647,7 @@
                   "leaf": "23b232f008ce618a",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":303},\"to\":{\"line\":47,\"ch\":303}},\"scroll\":18.060607043179587}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":78},\"to\":{\"line\":52,\"ch\":78}},\"scroll\":46.57081194032084}"
                 },
                 {
                   "leaf": "23b232f008ce618a",
@@ -719,6 +719,28 @@
             }
           },
           {
+            "id": "4264b34839cee7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/33_Tools/Dataview.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "4264b34839cee7bb",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dataview.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":34},\"to\":{\"line\":12,\"ch\":34}}}"
+                }
+              ]
+            }
+          },
+          {
             "id": "2b9bbc1020b18fd9",
             "type": "leaf",
             "state": {
@@ -735,7 +757,7 @@
                   "leaf": "2b9bbc1020b18fd9",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":17.40197995629641}"
+                  "eState": "{\"scroll\":224.52840516061508}"
                 },
                 {
                   "leaf": "2b9bbc1020b18fd9",
@@ -794,7 +816,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md",
+                    "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -827,7 +849,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md",
+                    "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -873,7 +895,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md"
+                    "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -962,7 +984,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "10_Sources/Psychology of Race and Gender notes.md",
+                    "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1072,7 +1094,7 @@
         "width": 708,
         "collapsed": true
       },
-      "active": "2b9bbc1020b18fd9"
+      "active": "23b232f008ce618a"
     }
   },
   "active": "16:9 NOW"

@@ -46,3 +46,17 @@
 2. Vicarious: One of your friends keeps talking about his hot girlfriend and then you find out that she is trans. This causes you to rethink your own attitudes towards trans women.
 3. ImaginedYou try to imagine arguing with a middle-eastern person about 9/11 and why it justifies the destruction of your country and you realize how stupid you sound.
 4. Virtual: You become friends with someone through an online game and continue to que together because you two are the only non-toxic people playing. When you finally get in voice chat with this person you find out they are a girl, and that this whole time you've been thinking that they were so good. 
+
+`$=dv.pages('#node/source').where(p => [p.related, p.source].contains("a")).length`
+
+```dataview
+TABLE length(rows) as Length, rows.file.link, join(filter(rows, (r) => r.creator)) as Creator
+FROM #node/source
+WHERE contains([related, source], "a")
+GROUP BY null
+```
+```dataview
+TABLE Related
+FROM #node/source/articles 
+where contains(related, "p")
+```
