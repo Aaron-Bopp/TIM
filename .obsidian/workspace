@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "10_Sources/Psychology of Race and Gender notes.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
@@ -25,8 +25,8 @@
             {
               "leaf": "2b9bbc1020b18fd9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":203.97560975609755}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":273.53365384615387}"
             },
             {
               "leaf": "2b9bbc1020b18fd9",
@@ -54,7 +54,7 @@
               "leaf": "9c6f4b4e3ee738a6",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":2},\"to\":{\"line\":15,\"ch\":2}},\"scroll\":4.923076923076923}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":6},\"to\":{\"line\":50,\"ch\":6}},\"scroll\":44.80709134615385}"
             }
           ]
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
+                "file": "10_Sources/Psychology of Race and Gender notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
+                "file": "10_Sources/Psychology of Race and Gender notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md"
+                "file": "10_Sources/Psychology of Race and Gender notes.md"
               }
             },
             "pane-relief:history-v1": {
@@ -274,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
+                "file": "10_Sources/Psychology of Race and Gender notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -384,10 +384,10 @@
     "width": 708,
     "collapsed": true
   },
-  "active": "9c6f4b4e3ee738a6",
+  "active": "2b9bbc1020b18fd9",
   "lastOpenFiles": [
-    "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
     "10_Sources/Psychology of Race and Gender notes.md",
+    "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
     "30_Topics/33_Tools/Dataview.md",
     "10_Sources/History/primarysourceExcerpts from the 2016 Republican Party Platform.md",
     "10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md",

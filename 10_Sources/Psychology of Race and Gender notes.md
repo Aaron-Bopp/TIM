@@ -274,7 +274,7 @@ type:
  
 # Week 16
 
-1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact 1.pdf]] 
+1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 
 2.  “[The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice),” web article from _Greater Good Magazine_, published by University of California, Berkeley.
 
 - [[Intergroup contact theory]]  - Contact hypothesis: interacting with people from an outgroup, you hold [[prejudice]] toward will reduce your prejudice toward the group as a whole
