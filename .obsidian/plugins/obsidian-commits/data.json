@@ -8926,7 +8926,7 @@
       "links": 3
     },
     "00_Meta/Primary Sources/Pyschology/Worksheet 4.md": {
-      "size": 3297,
+      "size": 6197,
       "tags": 0,
       "links": 0
     },
@@ -9181,7 +9181,7 @@
       "Refactor": 1538,
       "Create": 1995,
       "Link": 3368,
-      "Expand": 244
+      "Expand": 247
     },
     "40_Evergreens": {
       "Refactor": 19,
@@ -9205,8 +9205,8 @@
       "10": 84,
       "11": 59,
       "12": 338,
-      "13": 74,
-      "14": 2250,
+      "13": 75,
+      "14": 2252,
       "15": 125,
       "16": 880,
       "17": 1503,
@@ -9252,7 +9252,7 @@
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
-      "Sun": 4551
+      "Sun": 4554
     },
     "40_Evergreens": {
       "Mon": 0,
@@ -9267,6 +9267,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
@@ -9314,10 +9317,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are support systems.md\"> Communities are support systems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\"> Constantly working on yourself is a form a self-hatred </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",

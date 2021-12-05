@@ -636,7 +636,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Humans are a product of evolution.md",
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                 "mode": "source"
               }
             },
@@ -646,8 +646,14 @@
                 {
                   "leaf": "23b232f008ce618a",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":303},\"to\":{\"line\":47,\"ch\":303}},\"scroll\":18.060607043179587}"
+                },
+                {
+                  "leaf": "23b232f008ce618a",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are a product of evolution.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "23b232f008ce618a",
@@ -711,6 +717,34 @@
                 }
               ]
             }
+          },
+          {
+            "id": "2b9bbc1020b18fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Sources/Psychology of Race and Gender notes.md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "2b9bbc1020b18fd9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":17.40197995629641}"
+                },
+                {
+                  "leaf": "2b9bbc1020b18fd9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":12.457943925233645}"
+                }
+              ]
+            }
           }
         ],
         "direction": "vertical"
@@ -760,7 +794,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Humans are a product of evolution.md",
+                    "file": "10_Sources/Psychology of Race and Gender notes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -793,7 +827,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Humans are a product of evolution.md",
+                    "file": "10_Sources/Psychology of Race and Gender notes.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -822,7 +856,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5
+        "width": 442.5,
+        "collapsed": true
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -838,7 +873,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Humans are a product of evolution.md"
+                    "file": "10_Sources/Psychology of Race and Gender notes.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -927,7 +962,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Humans are a product of evolution.md",
+                    "file": "10_Sources/Psychology of Race and Gender notes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1037,7 +1072,7 @@
         "width": 708,
         "collapsed": true
       },
-      "active": "23b232f008ce618a"
+      "active": "2b9bbc1020b18fd9"
     }
   },
   "active": "16:9 NOW"
