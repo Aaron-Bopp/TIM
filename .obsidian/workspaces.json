@@ -634,11 +634,8 @@
             "id": "5526c17faca65aa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_Evergreens/42 Knowledge Management.md",
-                "mode": "source"
-              }
+              "type": "graph",
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -646,8 +643,14 @@
                 {
                   "leaf": "5526c17faca65aa9",
                   "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "5526c17faca65aa9",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{}"
                 },
                 {
                   "leaf": "5526c17faca65aa9",
@@ -756,12 +759,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\",\"mode\":\"source\"}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/44 Self.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
                 }
               ]
             }
@@ -814,7 +811,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/42 Knowledge Management.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +843,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/42 Knowledge Management.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -876,7 +871,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5
+        "width": 442.5,
+        "collapsed": true
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -891,9 +887,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "40_Evergreens/42 Knowledge Management.md"
-                  }
+                  "state": {}
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -973,7 +967,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/42 Knowledge Management.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1080,7 +1073,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 708
+        "width": 708,
+        "collapsed": true
       },
       "active": "5526c17faca65aa9"
     }
