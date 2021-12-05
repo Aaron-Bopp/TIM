@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#node/evergreen OR tag:#node/topic",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 0.503529411764706,
   "lineSizeMultiplier": 0.474705882352941,
   "collapse-forces": false,
-  "centerStrength": 0.458823529411765,
+  "centerStrength": 0.532352941176471,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.03185955668251357,
+  "scale": 0.06262174424925643,
   "close": false
 }

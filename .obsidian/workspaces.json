@@ -631,7 +631,7 @@
         "type": "split",
         "children": [
           {
-            "id": "5526c17faca65aa9",
+            "id": "23b232f008ce618a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -641,124 +641,28 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "5526c17faca65aa9",
+                  "leaf": "23b232f008ce618a",
                   "group": null,
                   "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "5526c17faca65aa9",
+                  "leaf": "23b232f008ce618a",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is a social construct.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":5.816425120772947}"
+                },
+                {
+                  "leaf": "23b232f008ce618a",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "5526c17faca65aa9",
+                  "leaf": "23b232f008ce618a",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Writing.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 NOW.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Writing.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.95552223888056}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/43 Mental Health.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.95552223888056}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Personal.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md\",\"mode\":\"source\"}}",
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 INDEX.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Personal.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/47 Humanity.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Personal.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "5526c17faca65aa9",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             }
@@ -871,8 +775,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5,
-        "collapsed": true
+        "width": 442.5
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -1076,7 +979,7 @@
         "width": 708,
         "collapsed": true
       },
-      "active": "5526c17faca65aa9"
+      "active": "23b232f008ce618a"
     }
   },
   "active": "16:9 NOW"
