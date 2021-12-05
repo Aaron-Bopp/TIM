@@ -79,6 +79,15 @@
       "prev": [
         "prev"
       ]
+    },
+    {
+      "up": [
+        "Area"
+      ],
+      "same": [],
+      "down": [],
+      "next": [],
+      "prev": []
     }
   ],
   "writeBCsInline": true,

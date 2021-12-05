@@ -4130,11 +4130,6 @@
       "tags": 1,
       "links": 0
     },
-    "30_Topics/meditation.md": {
-      "size": 738,
-      "tags": 1,
-      "links": 5
-    },
     "30_Topics/Meyers Briggs.md": {
       "size": 141,
       "tags": 1,
@@ -6605,11 +6600,6 @@
       "tags": 2,
       "links": 14
     },
-    "30_Topics/My TIM.md": {
-      "size": 2039,
-      "tags": 1,
-      "links": 25
-    },
     "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md": {
       "size": 1912,
       "tags": 2,
@@ -8193,7 +8183,7 @@
     "20_Entry/201 Welcome.md": {
       "size": 3136,
       "tags": 0,
-      "links": 25
+      "links": 24
     },
     "20_Entry/23 Note by type/TopicNotes.md": {
       "size": 656,
@@ -9111,9 +9101,9 @@
       "links": 17
     },
     "20_Entry/205 INDEX.md": {
-      "size": 711,
+      "size": 1048,
       "tags": 0,
-      "links": 8
+      "links": 9
     },
     "20_Entry/206 Notepad.md": {
       "size": 670,
@@ -9166,22 +9156,32 @@
       "links": 24
     },
     "20_Entry/204 Writing.md": {
-      "size": 649,
+      "size": 1001,
       "tags": 0,
-      "links": 4
+      "links": 11
     },
     "20_Entry/23 Note by type/Content Areas.md": {
       "size": 6341,
       "tags": 0,
       "links": 9
+    },
+    "30_Topics/35_Outlines/meditation.md": {
+      "size": 738,
+      "tags": 1,
+      "links": 5
+    },
+    "30_Topics/35_Outlines/My TIM.md": {
+      "size": 2039,
+      "tags": 1,
+      "links": 25
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1534,
+      "Refactor": 1538,
       "Create": 1995,
-      "Link": 3365,
-      "Expand": 242
+      "Link": 3368,
+      "Expand": 244
     },
     "40_Evergreens": {
       "Refactor": 19,
@@ -9212,7 +9212,7 @@
       "17": 1503,
       "18": 188,
       "19": 193,
-      "20": 125,
+      "20": 134,
       "21": 154,
       "22": 221,
       "23": 202
@@ -9252,7 +9252,7 @@
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
-      "Sun": 4542
+      "Sun": 4551
     },
     "40_Evergreens": {
       "Mon": 0,
@@ -9267,6 +9267,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
         "<a class=\"internal-link\" href=\"406 Politics.md\"> 406 Politics </a>",
@@ -9315,9 +9317,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are support systems.md\"> Communities are support systems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\"> Constantly working on yourself is a form a self-hatred </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Creationism built an anti-science culture.md\"> Creationism built an anti-science culture </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
@@ -9373,6 +9373,8 @@
         "<a class=\"internal-link\" href=\"Van Life.md\"> Van Life </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/My TIM.md\"> My TIM </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>",
         "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/Content Areas.md\"> Content Areas </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Content Areas.md\"> Content Areas </a>",
         "<a class=\"internal-link\" href=\"20_Entry/206 Content Areas.md\"> 206 Content Areas </a>",
@@ -9421,9 +9423,7 @@
         "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
         "<a class=\"internal-link\" href=\"10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\"> johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/kin selection.md\"> kin selection </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/kin selection.md\"> kin selection </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
@@ -9559,6 +9559,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/Revolution.md\"> Revolution </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
@@ -9606,10 +9609,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
@@ -9665,6 +9665,8 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Content Areas.md\"> 204 Content Areas </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Content Areas.md\"> 204 Content Areas </a>",
@@ -9713,9 +9715,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/10 Existential Euphoria.md\"> 10 Existential Euphoria </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/11 Managed Dysphoria Gender in Disguise.md\"> 11 Managed Dysphoria Gender in Disguise </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/12 Impostor Syndrome, but make it Trans.md\"> 12 Impostor Syndrome, but make it Trans </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/13 Diagnosing Gender Dysphoria.md\"> 13 Diagnosing Gender Dysphoria </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/14 Treating Gender Dysphoria.md\"> 14 Treating Gender Dysphoria </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/15 What is the Cause of Gender Incongruence.md\"> 15 What is the Cause of Gender Incongruence </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/13 Diagnosing Gender Dysphoria.md\"> 13 Diagnosing Gender Dysphoria </a>"
       ]
     },
     "40_Evergreens": {

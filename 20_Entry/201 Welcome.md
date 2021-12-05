@@ -1,4 +1,4 @@
-# Welcome to [[my TIM]]😊
+# Welcome to [[My TIM]]😊
 
 Whether you are a freind, foe, or simple traveler, welcome to a look into my [[second brain]]. I hope that the knowledge enshrined here will be helpful to you, and that you may leave more enriched than you arrive. Below I have outlined the more useful things on this site based on what you might be saying right now
 
@@ -10,8 +10,8 @@ The core features of this site are the [[bi-directional links]] and the graph vi
 
 - If you want to know what I am up to: [[202 NOW]]
 - If you want to know more about me: [[203 Me]]
-- If you want to see an up to date list of writing by content area: [[Content Areas]]
-- If you want to see an out of date index: [[205 INDEX]]
+- If you want to see some of my more polished writing: [[204 Writing]]
+- If you want to see an overview of all my notes: [[205 INDEX]]
 - If you are still confused maybe just keep reading this page
 
 ## Stop blabbering I just want to know how to do the cool thing in the notes app

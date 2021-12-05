@@ -107,7 +107,7 @@ for Enneagram Type Fives
 
 -   Learn to notice when your thinking and speculating takes you out of the immediacy of your experience. Your mental capacities can be an extraordinary gift, but only can also be a trap when you use them to retreat from contact with yourself and others. Stay connected with your physicality.
 
--   You tend to be extremely intense and so high-strung that you find it difficult to relax and unwind. Make an effort to learn to calm down in a healthy way, without drugs or alcohol. Exercising or using biofeedback techniques will help channel some of your tremendous nervous energy. [[Meditation]], jogging, [[yoga]], and dancing are especially helpful for your type.
+-   You tend to be extremely intense and so high-strung that you find it difficult to relax and unwind. Make an effort to learn to calm down in a healthy way, without drugs or alcohol. Exercising or using biofeedback techniques will help channel some of your tremendous nervous energy. [[meditation]], jogging, [[yoga]], and dancing are especially helpful for your type.
 
 -   You see many possibilities but often do not know how to choose among them or judge which is more or less important. When you are caught in your fixation, a sense of perspective can be missing, and with it the ability to make accurate assessments. At such time, it can be helpful to get the advice of someone whose judgment you trust while you are gaining perspective on your situation. Doing this can also help you trust someone else, a difficulty for your type.
 
