@@ -2,6 +2,7 @@
 
 var require$$0 = require('obsidian');
 var util = require('util');
+var console$1 = require('console');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 
@@ -21,7 +22,7 @@ if you want to view the source visit the plugins github repository
 */
 
 var lib = createCommonjsModule(function (module, exports) {
-var i=Object.create;var n=Object.defineProperty;var s=Object.getOwnPropertyDescriptor;var F=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var d=e=>n(e,"__esModule",{value:!0});var N=(e,r)=>{d(e);for(var o in r)n(e,o,{get:r[o],enumerable:!0});},P=(e,r,o)=>{if(r&&typeof r=="object"||typeof r=="function")for(let t of F(r))!f.call(e,t)&&t!=="default"&&n(e,t,{get:()=>r[t],enumerable:!(o=s(r,t))||o.enumerable});return e},m=e=>P(d(n(e!=null?i(g(e)):{},"default",e&&e.__esModule&&"default"in e?{get:()=>e.default,enumerable:!0}:{value:e,enumerable:!0})),e);N(exports,{NoteLoc:()=>l,getApi:()=>a,isPluginEnabled:()=>u,registerApi:()=>b});m(require$$0__default["default"]);var l;(function(t){t[t.Index=0]="Index",t[t.Inside=1]="Inside",t[t.Outside=2]="Outside";})(l||(l={}));var a=e=>{var r;return e?(r=e.app.plugins.plugins["folder-note-core"])==null?void 0:r.api:window.FolderNoteAPIv0},u=e=>e.app.plugins.enabledPlugins.has("folder-note-core"),b=(e,r)=>(e.app.vault.on("folder-note:api-ready",r),a(e));
+var i=Object.create;var n=Object.defineProperty;var s=Object.getOwnPropertyDescriptor;var F=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var d=e=>n(e,"__esModule",{value:!0});var N=(e,r)=>{d(e);for(var o in r)n(e,o,{get:r[o],enumerable:!0});},P=(e,r,o)=>{if(r&&typeof r=="object"||typeof r=="function")for(let t of F(r))!f.call(e,t)&&t!=="default"&&n(e,t,{get:()=>r[t],enumerable:!(o=s(r,t))||o.enumerable});return e},m=e=>P(d(n(e!=null?i(g(e)):{},"default",e&&e.__esModule&&"default"in e?{get:()=>e.default,enumerable:!0}:{value:e,enumerable:!0})),e);N(exports,{NoteLoc:()=>l,getApi:()=>a,isPluginEnabled:()=>u,registerApi:()=>b});m(require$$0__default['default']);var l;(function(t){t[t.Index=0]="Index",t[t.Inside=1]="Inside",t[t.Outside=2]="Outside";})(l||(l={}));var a=e=>{var r;return e?(r=e.app.plugins.plugins["folder-note-core"])==null?void 0:r.api:window.FolderNoteAPIv0},u=e=>e.app.plugins.enabledPlugins.has("folder-note-core"),b=(e,r)=>(e.app.vault.on("folder-note:api-ready",r),a(e));
 });
 
 var graphology_umd_min = createCommonjsModule(function (module, exports) {
@@ -20035,27 +20036,46 @@ async function createNewMDNote(app, newName, currFilePath = "") {
     return await app.vault.create(newFilePath, "");
 }
 /**
- * Add '.md' to `noteName` if it isn't already there.
+ * Add '.md' to a `noteName` if it isn't already there.
  * @param  {string} noteName with or without '.md' on the end.
  * @returns {string} noteName with '.md' on the end.
  */
 const addMD = (noteName) => {
-    return noteName.endsWith(".md") ? noteName : noteName + ".md";
+    let withMD = noteName.slice();
+    if (!withMD.endsWith(".md")) {
+        withMD += ".md";
+    }
+    return withMD;
+};
+/**
+ * Strip '.md' off the end of a note name to get its basename.
+ *
+ * Works with the edgecase where a note has '.md' in its basename: `Obsidian.md.md`, for example.
+ * @param  {string} noteName with or without '.md' on the end.
+ * @returns {string} noteName without '.md'
+ */
+const stripMD = (noteName) => {
+    if (noteName.endsWith(".md")) {
+        return noteName.split(".md").slice(0, -1).join(".md");
+    }
+    else
+        return noteName;
 };
 /**
  * When clicking a link, check if that note is already open in another leaf, and switch to that leaf, if so. Otherwise, open the note in a new pane.
  * @param  {App} app
- * @param  {string} dest Name of note to open. If you want to open a non-md note, be sure to add the file extension.
+ * @param  {string} dest Basename of note to open
  * @param  {MouseEvent} event
  * @param  {{createNewFile:boolean}} [options={createNewFile:true}] Whether or not to create `dest` file if it doesn't exist. If `false`, simply return from the function.
  * @returns Promise
  */
 async function openOrSwitch(app, dest, event, options = { createNewFile: true }) {
     const { workspace } = app;
-    let destFile = app.metadataCache.getFirstLinkpathDest(dest, "");
+    const destStripped = stripMD(dest);
+    let destFile = app.metadataCache.getFirstLinkpathDest(destStripped, "");
     // If dest doesn't exist, make it
     if (!destFile && options.createNewFile) {
-        destFile = await createNewMDNote(app, dest);
+        destFile = await createNewMDNote(app, destStripped);
     }
     else if (!destFile && !options.createNewFile)
         return;
@@ -20063,10 +20083,9 @@ async function openOrSwitch(app, dest, event, options = { createNewFile: true })
     const leavesWithDestAlreadyOpen = [];
     // For all open leaves, if the leave's basename is equal to the link destination, rather activate that leaf instead of opening it in two panes
     workspace.iterateAllLeaves((leaf) => {
-        var _a;
+        var _a, _b;
         if (leaf.view instanceof require$$0.MarkdownView) {
-            const file = (_a = leaf.view) === null || _a === void 0 ? void 0 : _a.file;
-            if (file && file.basename + "." + file.extension === dest) {
+            if (((_b = (_a = leaf.view) === null || _a === void 0 ? void 0 : _a.file) === null || _b === void 0 ? void 0 : _b.basename) === destStripped) {
                 leavesWithDestAlreadyOpen.push(leaf);
             }
         }
@@ -20147,6 +20166,8 @@ const DUCK_VIEW = "BC-ducks";
 const DOWN_VIEW = "BC-down";
 const TRAIL_ICON = "BC-trail-icon";
 const TRAIL_ICON_SVG = '<path fill="currentColor" stroke="currentColor" d="M48.8,4c-6,0-13.5,0.5-19.7,3.3S17.9,15.9,17.9,25c0,5,2.6,9.7,6.1,13.9s8.1,8.3,12.6,12.3s9,7.8,12.2,11.5 c3.2,3.7,5.1,7.1,5.1,10.2c0,14.4-13.4,19.3-13.4,19.3c-0.7,0.2-1.2,0.8-1.3,1.5s0.1,1.4,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3 c0,0,16.1-6.1,16.1-23c0-4.6-2.6-8.8-6.1-12.8c-3.5-4-8.1-7.9-12.6-11.8c-4.5-3.9-8.9-7.9-12.2-11.8c-3.2-3.9-5.2-7.7-5.2-11.4 c0-7.8,3.6-11.6,8.8-14S43,8,48.8,8c4.6,0,9.3,0,11,0c0.7,0,1.4-0.4,1.7-1c0.3-0.6,0.3-1.4,0-2s-1-1-1.7-1C58.3,4,53.4,4,48.8,4 L48.8,4z M78.1,4c-0.6,0-1.2,0.2-1.6,0.7l-8.9,9.9c-0.5,0.6-0.7,1.4-0.3,2.2c0.3,0.7,1,1.2,1.8,1.2h0.1l-2.8,2.6 c-0.6,0.6-0.8,1.4-0.5,2.2c0.3,0.8,1,1.3,1.9,1.3h1.3l-4.5,4.6c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h10v4 c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8v-4h10c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L86.9,24h1.3 c0.8,0,1.6-0.5,1.9-1.3c0.3-0.8,0.1-1.6-0.5-2.2l-2.8-2.6h0.1c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.3-2.2l-8.9-9.9 C79.1,4.3,78.6,4,78.1,4L78.1,4z M78,9l4.4,4.9h-0.7c-0.8,0-1.6,0.5-1.9,1.3c-0.3,0.8-0.1,1.6,0.5,2.2l2.8,2.6h-1.1 c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l4.5,4.6H70.8l4.5-4.6c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-1.1 l2.8-2.6c0.6-0.6,0.8-1.4,0.5-2.2c-0.3-0.8-1-1.3-1.9-1.3h-0.7L78,9z M52.4,12c-4.1,0-7.1,0.5-9.4,1.5c-2.3,1-3.8,2.5-4.5,4.3 c-0.7,1.8-0.5,3.6,0.1,5.2c0.6,1.5,1.5,2.9,2.5,3.9c5.4,5.4,18.1,12.6,29.6,21c5.8,4.2,11.2,8.6,15.1,13c3.9,4.4,6.2,8.7,6.2,12.4 c0,14.5-12.9,18.7-12.9,18.7c-0.7,0.2-1.2,0.8-1.4,1.5s0.1,1.5,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3c0,0,15.6-5.6,15.6-22.5 c0-5.3-2.9-10.3-7.2-15.1C84.6,53.6,79,49,73.1,44.7c-11.8-8.6-24.8-16.3-29.2-20.6c-0.6-0.6-1.2-1.5-1.6-2.4 c-0.3-0.9-0.4-1.7-0.1-2.4c0.3-0.7,0.8-1.4,2.3-2c1.5-0.7,4.1-1.2,7.8-1.2c4.9,0,9.4,0.1,9.4,0.1c0.7,0,1.4-0.3,1.8-1 c0.4-0.6,0.4-1.4,0-2.1c-0.4-0.6-1.1-1-1.8-1C61.9,12.1,57.3,12,52.4,12L52.4,12z M24,46c-0.5,0-1.1,0.2-1.4,0.6L9.2,60.5 c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h3l-6.5,6.8c-0.6,0.6-0.7,1.4-0.4,2.2s1,1.2,1.8,1.2H13l-8.5,8.6 C4,83.2,3.8,84,4.2,84.8C4.5,85.5,5.2,86,6,86h16v5.4c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8V86h16 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L35,74h4.4c0.8,0,1.5-0.5,1.8-1.2s0.2-1.6-0.4-2.2l-6.5-6.8h3 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.4-2.2L25.4,46.6C25.1,46.2,24.5,46,24,46L24,46z M24,50.9l8.7,9h-3 c-0.8,0-1.5,0.5-1.8,1.2s-0.2,1.6,0.4,2.2l6.5,6.8h-4.5c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l8.5,8.6H10.8l8.5-8.6 c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-4.5l6.5-6.8c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-3L24,50.9z"/>';
+const DUCK_ICON = "BC-duck-icon";
+const DUCK_ICON_SVG = '<path fill="currentColor" stroke="currentColor" d="M72,31c0-1.5-1.2-2.8-2.8-2.8c-1.5,0-2.8,1.2-2.8,2.8s1.2,2.8,2.8,2.8C70.8,33.8,72,32.6,72,31z M80.4,47.7c10.7,0,19.4-8.7,19.4-19.4H88.4c-0.1-0.6-0.1-1.1-0.2-1.7c-1.6-7.1-7.3-12.8-14.3-144c-1.6-0.4-3.1-0.5-4.6-0.5c-10.7,0-19.4,8.7-19.4,19.4v13.9h-9.4c-6.8,0-13.6-2.4-18.2-7.3c-0.7-0.7-1.6-1.1-2.4-11c-1.7,0-3.3,1.3-3.3,3.3c0,16.4,12.5,31,28.6,32.6c1.6,0.2,3.1-1.1,3.1-2.8v-2.8c0-1.4-1-2.6-2.4-2.7c-7.9-09-14.8-6.2-18.4-13.5c4.1,1.6,8.5,2.5,13.1,2.5l17.7,0.1V31c0-6.1,5-11.1,11.1-11.1c0.9,0,1.8,0.1,2.7,0.3c3.9,0.9,7.2,4.2,8.1,8.1C814,34.4,78,39.1,74,41l-4.7,2.3v12.4l2.1,2.4c1.5,1.8,3.4,4.7,3.5,8.8c0.1,3.4-1.3,6.7-3.9,9.4c-3,3-7,4.8-11.2,4.8H43.9c-1,0-2.1-01-3.2-0.2C25.2,79.5,12.3,68.1,8.7,53.2h5.1c-1.2-2.7-2-5.5-2.5-8.3H5.4c-3.3,0-6,3-5.5,6.3c2.9,20.3,19.4,36.1,40,38c1.3,0.1,2.6,02,4,0.2h15.8c12.5,0,23.7-10.2,23.4-22.7c-0.1-5.4-2.2-10.3-5.6-14.1v-4.9H80.4L80.4,47.7z"/>';
 const splitLinksRegex = new RegExp(/\[\[(.+?)\]\]/g);
 const dropHeaderOrAlias = new RegExp(/\[\[([^#|]+)\]\]/);
 const VISTYPES = [
@@ -20244,14 +20265,19 @@ const DEFAULT_SETTINGS = {
     CSVPaths: "",
     debugMode: "WARN",
     defaultView: true,
-    dvWaitTime: 5000,
+    downViewWrap: false,
     dotsColour: "#000000",
+    dvWaitTime: 5000,
+    enableAlphaSort: true,
     fieldSuggestor: true,
     filterImpliedSiblingsOfDifferentTypes: false,
     limitWriteBCCheckboxStates: {},
-    indexNotes: [""],
+    gridDots: false,
+    gridHeatmap: false,
+    heatmapColour: getComputedStyle(document.body).getPropertyValue("--text-accent"),
     hierarchyNotes: [""],
     HNUpField: "",
+    indexNotes: [""],
     refreshOnNoteChange: false,
     useAllMetadata: true,
     openMatrixOnLoad: true,
@@ -20270,12 +20296,10 @@ const DEFAULT_SETTINGS = {
     showGrid: true,
     showPrevNext: true,
     limitTrailCheckboxStates: {},
-    gridDots: false,
-    gridHeatmap: false,
-    heatmapColour: getComputedStyle(document.body).getPropertyValue("--text-accent"),
     showAll: false,
     noPathMessage: `This note has no real or implied parents`,
     trailSeperator: "→",
+    treatCurrNodeAsImpliedSibling: false,
     respectReadableLineLength: true,
     userHiers: [
         {
@@ -20415,6 +20439,9 @@ function set_data(text, data) {
     if (text.wholeText !== data)
         text.data = data;
 }
+function set_input_value(input, value) {
+    input.value = value == null ? '' : value;
+}
 function set_style(node, key, value, important) {
     node.style.setProperty(key, value, important ? 'important' : '');
 }
@@ -20427,10 +20454,22 @@ function select_option(select, value) {
         }
     }
 }
+function select_value(select) {
+    const selected_option = select.querySelector(':checked') || select.options[0];
+    return selected_option && selected_option.__value;
+}
 
 let current_component;
 function set_current_component(component) {
     current_component = component;
+}
+function get_current_component() {
+    if (!current_component)
+        throw new Error('Function called outside component initialization');
+    return current_component;
+}
+function onMount(fn) {
+    get_current_component().$$.on_mount.push(fn);
 }
 
 const dirty_components = [];
@@ -20826,11 +20865,13 @@ function getReflexiveClosure(g, userHiers, closeAsOpposite = true) {
     });
     return copy;
 }
-function addNodesIfNot(g, nodes, attr) {
-    nodes.forEach((node) => {
-        if (!g.hasNode(node))
-            g.addNode(node, attr);
-    });
+function addNodesIfNot(g, nodes, attr = { order: 9999 }) {
+    for (const node of nodes) {
+        g.updateNode(node, (exstantAttrs) => {
+            const extantOrder = exstantAttrs.order;
+            return Object.assign(Object.assign({}, exstantAttrs), { order: extantOrder && extantOrder < 9999 ? extantOrder : attr.order });
+        });
+    }
 }
 function addEdgeIfNot(g, source, target, attr) {
     if (!g.hasEdge(source, target))
@@ -21093,7 +21134,7 @@ function iterateHiers(userHiers, fn) {
 
 /* src\Components\Stats.svelte generated by Svelte v3.35.0 */
 
-function add_css$9() {
+function add_css$a() {
 	var style = element("style");
 	style.id = "svelte-rb5mhu-style";
 	style.textContent = "table.svelte-rb5mhu{border-collapse:collapse}td.svelte-rb5mhu:first-child{text-align:right}td.svelte-rb5mhu,th.svelte-rb5mhu{padding:3px;border:1px solid var(--background-modifier-border);white-space:pre-line}";
@@ -21734,7 +21775,7 @@ function create_each_block$9(ctx) {
 	};
 }
 
-function create_fragment$h(ctx) {
+function create_fragment$i(ctx) {
 	let table;
 	let thead;
 	let tr0;
@@ -22079,7 +22120,7 @@ function create_fragment$h(ctx) {
 	};
 }
 
-function instance$h($$self, $$props, $$invalidate) {
+function instance$i($$self, $$props, $$invalidate) {
 	
 	
 	let { plugin } = $$props;
@@ -22210,8 +22251,8 @@ function instance$h($$self, $$props, $$invalidate) {
 class Stats extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-rb5mhu-style")) add_css$9();
-		init(this, options, instance$h, create_fragment$h, safe_not_equal, { plugin: 0 }, [-1, -1]);
+		if (!document.getElementById("svelte-rb5mhu-style")) add_css$a();
+		init(this, options, instance$i, create_fragment$i, safe_not_equal, { plugin: 0 }, [-1, -1]);
 	}
 }
 
@@ -22253,7 +22294,7 @@ class StatsView extends require$$0.ItemView {
 
 /* node_modules\svelte-icons\components\IconBase.svelte generated by Svelte v3.35.0 */
 
-function add_css$8() {
+function add_css$9() {
 	var style = element("style");
 	style.id = "svelte-c8tyih-style";
 	style.textContent = "svg.svelte-c8tyih{stroke:currentColor;fill:currentColor;stroke-width:0;width:100%;height:auto;max-height:100%}";
@@ -22261,7 +22302,7 @@ function add_css$8() {
 }
 
 // (18:2) {#if title}
-function create_if_block$5(ctx) {
+function create_if_block$6(ctx) {
 	let title_1;
 	let t;
 
@@ -22283,11 +22324,11 @@ function create_if_block$5(ctx) {
 	};
 }
 
-function create_fragment$g(ctx) {
+function create_fragment$h(ctx) {
 	let svg;
 	let if_block_anchor;
 	let current;
-	let if_block = /*title*/ ctx[0] && create_if_block$5(ctx);
+	let if_block = /*title*/ ctx[0] && create_if_block$6(ctx);
 	const default_slot_template = /*#slots*/ ctx[3].default;
 	const default_slot = create_slot(default_slot_template, ctx, /*$$scope*/ ctx[2], null);
 
@@ -22317,7 +22358,7 @@ function create_fragment$g(ctx) {
 				if (if_block) {
 					if_block.p(ctx, dirty);
 				} else {
-					if_block = create_if_block$5(ctx);
+					if_block = create_if_block$6(ctx);
 					if_block.c();
 					if_block.m(svg, if_block_anchor);
 				}
@@ -22353,7 +22394,7 @@ function create_fragment$g(ctx) {
 	};
 }
 
-function instance$g($$self, $$props, $$invalidate) {
+function instance$h($$self, $$props, $$invalidate) {
 	let { $$slots: slots = {}, $$scope } = $$props;
 	let { title = null } = $$props;
 	let { viewBox } = $$props;
@@ -22370,8 +22411,8 @@ function instance$g($$self, $$props, $$invalidate) {
 class IconBase extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-c8tyih-style")) add_css$8();
-		init(this, options, instance$g, create_fragment$g, safe_not_equal, { title: 0, viewBox: 1 });
+		if (!document.getElementById("svelte-c8tyih-style")) add_css$9();
+		init(this, options, instance$h, create_fragment$h, safe_not_equal, { title: 0, viewBox: 1 });
 	}
 }
 
@@ -22394,13 +22435,98 @@ function create_default_slot$5(ctx) {
 	};
 }
 
-function create_fragment$f(ctx) {
+function create_fragment$g(ctx) {
 	let iconbase;
 	let current;
 	const iconbase_spread_levels = [{ viewBox: "0 0 384 512" }, /*$$props*/ ctx[0]];
 
 	let iconbase_props = {
 		$$slots: { default: [create_default_slot$5] },
+		$$scope: { ctx }
+	};
+
+	for (let i = 0; i < iconbase_spread_levels.length; i += 1) {
+		iconbase_props = assign(iconbase_props, iconbase_spread_levels[i]);
+	}
+
+	iconbase = new IconBase({ props: iconbase_props });
+
+	return {
+		c() {
+			create_component(iconbase.$$.fragment);
+		},
+		m(target, anchor) {
+			mount_component(iconbase, target, anchor);
+			current = true;
+		},
+		p(ctx, [dirty]) {
+			const iconbase_changes = (dirty & /*$$props*/ 1)
+			? get_spread_update(iconbase_spread_levels, [iconbase_spread_levels[0], get_spread_object(/*$$props*/ ctx[0])])
+			: {};
+
+			if (dirty & /*$$scope*/ 2) {
+				iconbase_changes.$$scope = { dirty, ctx };
+			}
+
+			iconbase.$set(iconbase_changes);
+		},
+		i(local) {
+			if (current) return;
+			transition_in(iconbase.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(iconbase.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			destroy_component(iconbase, detaching);
+		}
+	};
+}
+
+function instance$g($$self, $$props, $$invalidate) {
+	$$self.$$set = $$new_props => {
+		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
+	};
+
+	$$props = exclude_internal_props($$props);
+	return [$$props];
+}
+
+class FaFire extends SvelteComponent {
+	constructor(options) {
+		super();
+		init(this, options, instance$g, create_fragment$g, safe_not_equal, {});
+	}
+}
+
+/* node_modules\svelte-icons\fa\FaRegSnowflake.svelte generated by Svelte v3.35.0 */
+
+function create_default_slot$4(ctx) {
+	let path;
+
+	return {
+		c() {
+			path = svg_element("path");
+			attr(path, "d", "M440.1 355.2l-39.2-23 34.1-9.3c8.4-2.3 13.4-11.1 11.1-19.6l-4.1-15.5c-2.2-8.5-10.9-13.6-19.3-11.3L343 298.2 271.2 256l71.9-42.2 79.7 21.7c8.4 2.3 17-2.8 19.3-11.3l4.1-15.5c2.2-8.5-2.7-17.3-11.1-19.6l-34.1-9.3 39.2-23c7.5-4.4 10.1-14.2 5.8-21.9l-7.9-13.9c-4.3-7.7-14-10.3-21.5-5.9l-39.2 23 9.1-34.7c2.2-8.5-2.7-17.3-11.1-19.6l-15.2-4.1c-8.4-2.3-17 2.8-19.3 11.3l-21.3 81-71.9 42.2v-84.5L306 70.4c6.1-6.2 6.1-16.4 0-22.6l-11.1-11.3c-6.1-6.2-16.1-6.2-22.2 0l-24.9 25.4V16c0-8.8-7-16-15.7-16h-15.7c-8.7 0-15.7 7.2-15.7 16v46.1l-24.9-25.4c-6.1-6.2-16.1-6.2-22.2 0L142.1 48c-6.1 6.2-6.1 16.4 0 22.6l58.3 59.3v84.5l-71.9-42.2-21.3-81c-2.2-8.5-10.9-13.6-19.3-11.3L72.7 84c-8.4 2.3-13.4 11.1-11.1 19.6l9.1 34.7-39.2-23c-7.5-4.4-17.1-1.8-21.5 5.9l-7.9 13.9c-4.3 7.7-1.8 17.4 5.8 21.9l39.2 23-34.1 9.1c-8.4 2.3-13.4 11.1-11.1 19.6L6 224.2c2.2 8.5 10.9 13.6 19.3 11.3l79.7-21.7 71.9 42.2-71.9 42.2-79.7-21.7c-8.4-2.3-17 2.8-19.3 11.3l-4.1 15.5c-2.2 8.5 2.7 17.3 11.1 19.6l34.1 9.3-39.2 23c-7.5 4.4-10.1 14.2-5.8 21.9L10 391c4.3 7.7 14 10.3 21.5 5.9l39.2-23-9.1 34.7c-2.2 8.5 2.7 17.3 11.1 19.6l15.2 4.1c8.4 2.3 17-2.8 19.3-11.3l21.3-81 71.9-42.2v84.5l-58.3 59.3c-6.1 6.2-6.1 16.4 0 22.6l11.1 11.3c6.1 6.2 16.1 6.2 22.2 0l24.9-25.4V496c0 8.8 7 16 15.7 16h15.7c8.7 0 15.7-7.2 15.7-16v-46.1l24.9 25.4c6.1 6.2 16.1 6.2 22.2 0l11.1-11.3c6.1-6.2 6.1-16.4 0-22.6l-58.3-59.3v-84.5l71.9 42.2 21.3 81c2.2 8.5 10.9 13.6 19.3 11.3L375 428c8.4-2.3 13.4-11.1 11.1-19.6l-9.1-34.7 39.2 23c7.5 4.4 17.1 1.8 21.5-5.9l7.9-13.9c4.6-7.5 2.1-17.3-5.5-21.7z");
+		},
+		m(target, anchor) {
+			insert(target, path, anchor);
+		},
+		d(detaching) {
+			if (detaching) detach(path);
+		}
+	};
+}
+
+function create_fragment$f(ctx) {
+	let iconbase;
+	let current;
+	const iconbase_spread_levels = [{ viewBox: "0 0 448 512" }, /*$$props*/ ctx[0]];
+
+	let iconbase_props = {
+		$$slots: { default: [create_default_slot$4] },
 		$$scope: { ctx }
 	};
 
@@ -22453,104 +22579,19 @@ function instance$f($$self, $$props, $$invalidate) {
 	return [$$props];
 }
 
-class FaFire extends SvelteComponent {
+class FaRegSnowflake extends SvelteComponent {
 	constructor(options) {
 		super();
 		init(this, options, instance$f, create_fragment$f, safe_not_equal, {});
 	}
 }
 
-/* node_modules\svelte-icons\fa\FaRegSnowflake.svelte generated by Svelte v3.35.0 */
-
-function create_default_slot$4(ctx) {
-	let path;
-
-	return {
-		c() {
-			path = svg_element("path");
-			attr(path, "d", "M440.1 355.2l-39.2-23 34.1-9.3c8.4-2.3 13.4-11.1 11.1-19.6l-4.1-15.5c-2.2-8.5-10.9-13.6-19.3-11.3L343 298.2 271.2 256l71.9-42.2 79.7 21.7c8.4 2.3 17-2.8 19.3-11.3l4.1-15.5c2.2-8.5-2.7-17.3-11.1-19.6l-34.1-9.3 39.2-23c7.5-4.4 10.1-14.2 5.8-21.9l-7.9-13.9c-4.3-7.7-14-10.3-21.5-5.9l-39.2 23 9.1-34.7c2.2-8.5-2.7-17.3-11.1-19.6l-15.2-4.1c-8.4-2.3-17 2.8-19.3 11.3l-21.3 81-71.9 42.2v-84.5L306 70.4c6.1-6.2 6.1-16.4 0-22.6l-11.1-11.3c-6.1-6.2-16.1-6.2-22.2 0l-24.9 25.4V16c0-8.8-7-16-15.7-16h-15.7c-8.7 0-15.7 7.2-15.7 16v46.1l-24.9-25.4c-6.1-6.2-16.1-6.2-22.2 0L142.1 48c-6.1 6.2-6.1 16.4 0 22.6l58.3 59.3v84.5l-71.9-42.2-21.3-81c-2.2-8.5-10.9-13.6-19.3-11.3L72.7 84c-8.4 2.3-13.4 11.1-11.1 19.6l9.1 34.7-39.2-23c-7.5-4.4-17.1-1.8-21.5 5.9l-7.9 13.9c-4.3 7.7-1.8 17.4 5.8 21.9l39.2 23-34.1 9.1c-8.4 2.3-13.4 11.1-11.1 19.6L6 224.2c2.2 8.5 10.9 13.6 19.3 11.3l79.7-21.7 71.9 42.2-71.9 42.2-79.7-21.7c-8.4-2.3-17 2.8-19.3 11.3l-4.1 15.5c-2.2 8.5 2.7 17.3 11.1 19.6l34.1 9.3-39.2 23c-7.5 4.4-10.1 14.2-5.8 21.9L10 391c4.3 7.7 14 10.3 21.5 5.9l39.2-23-9.1 34.7c-2.2 8.5 2.7 17.3 11.1 19.6l15.2 4.1c8.4 2.3 17-2.8 19.3-11.3l21.3-81 71.9-42.2v84.5l-58.3 59.3c-6.1 6.2-6.1 16.4 0 22.6l11.1 11.3c6.1 6.2 16.1 6.2 22.2 0l24.9-25.4V496c0 8.8 7 16 15.7 16h15.7c8.7 0 15.7-7.2 15.7-16v-46.1l24.9 25.4c6.1 6.2 16.1 6.2 22.2 0l11.1-11.3c6.1-6.2 6.1-16.4 0-22.6l-58.3-59.3v-84.5l71.9 42.2 21.3 81c2.2 8.5 10.9 13.6 19.3 11.3L375 428c8.4-2.3 13.4-11.1 11.1-19.6l-9.1-34.7 39.2 23c7.5 4.4 17.1 1.8 21.5-5.9l7.9-13.9c4.6-7.5 2.1-17.3-5.5-21.7z");
-		},
-		m(target, anchor) {
-			insert(target, path, anchor);
-		},
-		d(detaching) {
-			if (detaching) detach(path);
-		}
-	};
-}
-
-function create_fragment$e(ctx) {
-	let iconbase;
-	let current;
-	const iconbase_spread_levels = [{ viewBox: "0 0 448 512" }, /*$$props*/ ctx[0]];
-
-	let iconbase_props = {
-		$$slots: { default: [create_default_slot$4] },
-		$$scope: { ctx }
-	};
-
-	for (let i = 0; i < iconbase_spread_levels.length; i += 1) {
-		iconbase_props = assign(iconbase_props, iconbase_spread_levels[i]);
-	}
-
-	iconbase = new IconBase({ props: iconbase_props });
-
-	return {
-		c() {
-			create_component(iconbase.$$.fragment);
-		},
-		m(target, anchor) {
-			mount_component(iconbase, target, anchor);
-			current = true;
-		},
-		p(ctx, [dirty]) {
-			const iconbase_changes = (dirty & /*$$props*/ 1)
-			? get_spread_update(iconbase_spread_levels, [iconbase_spread_levels[0], get_spread_object(/*$$props*/ ctx[0])])
-			: {};
-
-			if (dirty & /*$$scope*/ 2) {
-				iconbase_changes.$$scope = { dirty, ctx };
-			}
-
-			iconbase.$set(iconbase_changes);
-		},
-		i(local) {
-			if (current) return;
-			transition_in(iconbase.$$.fragment, local);
-			current = true;
-		},
-		o(local) {
-			transition_out(iconbase.$$.fragment, local);
-			current = false;
-		},
-		d(detaching) {
-			destroy_component(iconbase, detaching);
-		}
-	};
-}
-
-function instance$e($$self, $$props, $$invalidate) {
-	$$self.$$set = $$new_props => {
-		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
-	};
-
-	$$props = exclude_internal_props($$props);
-	return [$$props];
-}
-
-class FaRegSnowflake extends SvelteComponent {
-	constructor(options) {
-		super();
-		init(this, options, instance$e, create_fragment$e, safe_not_equal, {});
-	}
-}
-
 /* src\Components\Down.svelte generated by Svelte v3.35.0 */
 
-function add_css$7() {
+function add_css$8() {
 	var style = element("style");
-	style.id = "svelte-1e6c2hm-style";
-	style.textContent = ".BC-downs.svelte-1e6c2hm.svelte-1e6c2hm{padding-left:5px}.BC-downs.svelte-1e6c2hm>div.svelte-1e6c2hm{white-space:nowrap}pre.svelte-1e6c2hm.svelte-1e6c2hm{display:inline}.is-unresolved.svelte-1e6c2hm.svelte-1e6c2hm{color:var(--text-muted)}.icon.svelte-1e6c2hm.svelte-1e6c2hm{color:var(--text-normal);display:inline-block;padding-top:5px !important;width:20px;height:20px}";
+	style.id = "svelte-1mg8nz0-style";
+	style.textContent = ".BC-downs.svelte-1mg8nz0{padding-left:5px}pre.svelte-1mg8nz0{display:inline}.is-unresolved.svelte-1mg8nz0{color:var(--text-muted)}.icon.svelte-1mg8nz0{color:var(--text-normal);display:inline-block;padding-top:5px !important;width:20px;height:20px}";
 	append(document.head, style);
 }
 
@@ -22560,8 +22601,8 @@ function get_each_context$8(ctx, list, i) {
 	return child_ctx;
 }
 
-// (48:4) {:else}
-function create_else_block$1(ctx) {
+// (51:4) {:else}
+function create_else_block$2(ctx) {
 	let fafire;
 	let current;
 	fafire = new FaFire({});
@@ -22589,8 +22630,8 @@ function create_else_block$1(ctx) {
 	};
 }
 
-// (46:4) {#if frozen}
-function create_if_block_1$3(ctx) {
+// (49:4) {#if frozen}
+function create_if_block_1$4(ctx) {
 	let faregsnowflake;
 	let current;
 	faregsnowflake = new FaRegSnowflake({});
@@ -22618,8 +22659,8 @@ function create_if_block_1$3(ctx) {
 	};
 }
 
-// (64:4) {#if line.length > 1}
-function create_if_block$4(ctx) {
+// (67:4) {#if line.length > 1}
+function create_if_block$5(ctx) {
 	let div;
 	let pre;
 	let t0_value = /*line*/ ctx[11][0] + "-" + "";
@@ -22631,15 +22672,16 @@ function create_if_block$4(ctx) {
 	let t2;
 	let a_class_value;
 	let t3;
+	let div_style_value;
 	let mounted;
 	let dispose;
 
 	function click_handler_2(...args) {
-		return /*click_handler_2*/ ctx[7](/*line*/ ctx[11], ...args);
+		return /*click_handler_2*/ ctx[8](/*line*/ ctx[11], ...args);
 	}
 
 	function mouseover_handler(...args) {
-		return /*mouseover_handler*/ ctx[8](/*line*/ ctx[11], ...args);
+		return /*mouseover_handler*/ ctx[9](/*line*/ ctx[11], ...args);
 	}
 
 	return {
@@ -22652,14 +22694,17 @@ function create_if_block$4(ctx) {
 			a = element("a");
 			t2 = text(t2_value);
 			t3 = space();
-			attr(pre, "class", "svelte-1e6c2hm");
+			attr(pre, "class", "svelte-1mg8nz0");
 
 			attr(a, "class", a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[11][1])
 			? ""
-			: "is-unresolved") + " svelte-1e6c2hm");
+			: "is-unresolved") + " svelte-1mg8nz0");
 
 			attr(span, "class", "internal-link");
-			attr(div, "class", "svelte-1e6c2hm");
+
+			attr(div, "style", div_style_value = /*settings*/ ctx[5].downViewWrap
+			? ""
+			: "white-space: nowrap;");
 		},
 		m(target, anchor) {
 			insert(target, div, anchor);
@@ -22687,7 +22732,7 @@ function create_if_block$4(ctx) {
 
 			if (dirty & /*plugin, lines*/ 17 && a_class_value !== (a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[11][1])
 			? ""
-			: "is-unresolved") + " svelte-1e6c2hm")) {
+			: "is-unresolved") + " svelte-1mg8nz0")) {
 				attr(a, "class", a_class_value);
 			}
 		},
@@ -22699,10 +22744,10 @@ function create_if_block$4(ctx) {
 	};
 }
 
-// (63:2) {#each lines as line}
+// (66:2) {#each lines as line}
 function create_each_block$8(ctx) {
 	let if_block_anchor;
-	let if_block = /*line*/ ctx[11].length > 1 && create_if_block$4(ctx);
+	let if_block = /*line*/ ctx[11].length > 1 && create_if_block$5(ctx);
 
 	return {
 		c() {
@@ -22718,7 +22763,7 @@ function create_each_block$8(ctx) {
 				if (if_block) {
 					if_block.p(ctx, dirty);
 				} else {
-					if_block = create_if_block$4(ctx);
+					if_block = create_if_block$5(ctx);
 					if_block.c();
 					if_block.m(if_block_anchor.parentNode, if_block_anchor);
 				}
@@ -22734,7 +22779,7 @@ function create_each_block$8(ctx) {
 	};
 }
 
-function create_fragment$d(ctx) {
+function create_fragment$e(ctx) {
 	let div0;
 	let span;
 	let current_block_type_index;
@@ -22747,7 +22792,7 @@ function create_fragment$d(ctx) {
 	let current;
 	let mounted;
 	let dispose;
-	const if_block_creators = [create_if_block_1$3, create_else_block$1];
+	const if_block_creators = [create_if_block_1$4, create_else_block$2];
 	const if_blocks = [];
 
 	function select_block_type(ctx, dirty) {
@@ -22779,7 +22824,7 @@ function create_fragment$d(ctx) {
 				each_blocks[i].c();
 			}
 
-			attr(span, "class", "icon svelte-1e6c2hm");
+			attr(span, "class", "icon svelte-1mg8nz0");
 
 			attr(span, "aria-label", span_aria_label_value = /*frozen*/ ctx[3]
 			? `Frozen on: ${/*basename*/ ctx[2]}`
@@ -22787,7 +22832,7 @@ function create_fragment$d(ctx) {
 
 			attr(span, "aria-label-position", "left");
 			attr(button, "aria-label", "Refresh Stats View (also refreshes Breadcrumbs Index)");
-			attr(div1, "class", "BC-downs svelte-1e6c2hm");
+			attr(div1, "class", "BC-downs svelte-1mg8nz0");
 		},
 		m(target, anchor) {
 			insert(target, div0, anchor);
@@ -22806,8 +22851,8 @@ function create_fragment$d(ctx) {
 
 			if (!mounted) {
 				dispose = [
-					listen(span, "click", /*click_handler*/ ctx[5]),
-					listen(button, "click", /*click_handler_1*/ ctx[6])
+					listen(span, "click", /*click_handler*/ ctx[6]),
+					listen(button, "click", /*click_handler_1*/ ctx[7])
 				];
 
 				mounted = true;
@@ -22842,7 +22887,7 @@ function create_fragment$d(ctx) {
 				attr(span, "aria-label", span_aria_label_value);
 			}
 
-			if (dirty & /*openOrSwitch, plugin, lines, hoverPreview, view, isInVault*/ 19) {
+			if (dirty & /*settings, openOrSwitch, plugin, lines, hoverPreview, view, isInVault*/ 51) {
 				each_value = /*lines*/ ctx[4];
 				let i;
 
@@ -22886,7 +22931,7 @@ function create_fragment$d(ctx) {
 	};
 }
 
-function instance$d($$self, $$props, $$invalidate) {
+function instance$e($$self, $$props, $$invalidate) {
 	
 	
 	let { plugin } = $$props;
@@ -22931,7 +22976,11 @@ function instance$d($$self, $$props, $$invalidate) {
 				const allPaths = dfsAllPaths(down, basename);
 				const index = plugin.createIndex(allPaths, false);
 				loglevel.info({ allPaths, index });
-				$$invalidate(4, lines = index.split("\n").map(line => line.split("- ")).filter(pair => pair.length > 1));
+
+				$$invalidate(4, lines = index.split("\n").map(line => {
+					const pair = line.split("- ");
+					return [pair[0], pair.slice(1).join("- ")];
+				}).filter(pair => pair[1] !== ""));
 			}
 		}
 	};
@@ -22942,6 +22991,7 @@ function instance$d($$self, $$props, $$invalidate) {
 		basename,
 		frozen,
 		lines,
+		settings,
 		click_handler,
 		click_handler_1,
 		click_handler_2,
@@ -22952,8 +23002,8 @@ function instance$d($$self, $$props, $$invalidate) {
 class Down extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1e6c2hm-style")) add_css$7();
-		init(this, options, instance$d, create_fragment$d, safe_not_equal, { plugin: 0, view: 1 });
+		if (!document.getElementById("svelte-1mg8nz0-style")) add_css$8();
+		init(this, options, instance$e, create_fragment$e, safe_not_equal, { plugin: 0, view: 1 });
 	}
 }
 
@@ -22964,6 +23014,7 @@ class DownView extends require$$0.ItemView {
         this.plugin = plugin;
     }
     async onload() {
+        // trace("DownView.onload");
         super.onload();
         this.app.workspace.onLayoutReady(async () => {
             await this.draw();
@@ -23009,7 +23060,7 @@ function create_default_slot$3(ctx) {
 	};
 }
 
-function create_fragment$c(ctx) {
+function create_fragment$d(ctx) {
 	let iconbase;
 	let current;
 	const iconbase_spread_levels = [{ viewBox: "0 0 192 512" }, /*$$props*/ ctx[0]];
@@ -23059,7 +23110,7 @@ function create_fragment$c(ctx) {
 	};
 }
 
-function instance$c($$self, $$props, $$invalidate) {
+function instance$d($$self, $$props, $$invalidate) {
 	$$self.$$set = $$new_props => {
 		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
 	};
@@ -23071,13 +23122,13 @@ function instance$c($$self, $$props, $$invalidate) {
 class FaInfo extends SvelteComponent {
 	constructor(options) {
 		super();
-		init(this, options, instance$c, create_fragment$c, safe_not_equal, {});
+		init(this, options, instance$d, create_fragment$d, safe_not_equal, {});
 	}
 }
 
 /* src\Components\Ducks.svelte generated by Svelte v3.35.0 */
 
-function add_css$6() {
+function add_css$7() {
 	var style = element("style");
 	style.id = "svelte-gmdm3a-style";
 	style.textContent = ".icon.svelte-gmdm3a{color:var(--text-normal);display:inline-block;padding-top:5px !important;width:20px;height:20px}";
@@ -23143,7 +23194,7 @@ function create_each_block$7(ctx) {
 	};
 }
 
-function create_fragment$b(ctx) {
+function create_fragment$c(ctx) {
 	let div;
 	let h6;
 	let t1;
@@ -23280,7 +23331,7 @@ function create_fragment$b(ctx) {
 	};
 }
 
-function instance$b($$self, $$props, $$invalidate) {
+function instance$c($$self, $$props, $$invalidate) {
 	
 	
 	
@@ -23338,8 +23389,8 @@ function instance$b($$self, $$props, $$invalidate) {
 class Ducks extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-gmdm3a-style")) add_css$6();
-		init(this, options, instance$b, create_fragment$b, safe_not_equal, { plugin: 5, app: 0, ducksView: 1 });
+		if (!document.getElementById("svelte-gmdm3a-style")) add_css$7();
+		init(this, options, instance$c, create_fragment$c, safe_not_equal, { plugin: 5, app: 0, ducksView: 1 });
 	}
 }
 
@@ -23347,10 +23398,11 @@ class DucksView extends require$$0.ItemView {
     constructor(leaf, plugin) {
         super(leaf);
         // TODO Duck icon
-        this.icon = "info";
+        this.icon = DUCK_ICON;
         this.plugin = plugin;
     }
     async onload() {
+        // trace("DuckView.onload");
         super.onload();
         await this.plugin.saveSettings();
         this.app.workspace.onLayoutReady(async () => {
@@ -23380,7 +23432,7 @@ class DucksView extends require$$0.ItemView {
 
 /* src\Components\Lists.svelte generated by Svelte v3.35.0 */
 
-function add_css$5() {
+function add_css$6() {
 	var style = element("style");
 	style.id = "svelte-1dlhare-style";
 	style.textContent = "summary.hier-summary.svelte-1dlhare{color:var(--text-title-h2);font-size:larger}summary.svelte-1dlhare{color:var(--text-title-h3)}h5.BC-header.svelte-1dlhare{color:var(--text-title-h5)}.markdown-preview-view.svelte-1dlhare{padding-left:10px}.internal-link.is-unresolved.svelte-1dlhare{color:var(--text-muted)}";
@@ -23412,15 +23464,15 @@ function get_each_context_3$1(ctx, list, i) {
 }
 
 // (24:8) {#if square.realItems.length > 0 || square.impliedItems.length > 0}
-function create_if_block$3(ctx) {
+function create_if_block$4(ctx) {
 	let details;
 	let summary;
 	let t0_value = /*square*/ ctx[12].field + "";
 	let t0;
 	let t1;
 	let t2;
-	let if_block0 = /*square*/ ctx[12].realItems.length && create_if_block_3$1(ctx);
-	let if_block1 = /*square*/ ctx[12].impliedItems.length && create_if_block_1$2(ctx);
+	let if_block0 = /*square*/ ctx[12].realItems.length && create_if_block_3$2(ctx);
+	let if_block1 = /*square*/ ctx[12].impliedItems.length && create_if_block_1$3(ctx);
 
 	return {
 		c() {
@@ -23451,7 +23503,7 @@ function create_if_block$3(ctx) {
 				if (if_block0) {
 					if_block0.p(ctx, dirty);
 				} else {
-					if_block0 = create_if_block_3$1(ctx);
+					if_block0 = create_if_block_3$2(ctx);
 					if_block0.c();
 					if_block0.m(details, t2);
 				}
@@ -23464,7 +23516,7 @@ function create_if_block$3(ctx) {
 				if (if_block1) {
 					if_block1.p(ctx, dirty);
 				} else {
-					if_block1 = create_if_block_1$2(ctx);
+					if_block1 = create_if_block_1$3(ctx);
 					if_block1.c();
 					if_block1.m(details, null);
 				}
@@ -23482,7 +23534,7 @@ function create_if_block$3(ctx) {
 }
 
 // (27:12) {#if square.realItems.length}
-function create_if_block_3$1(ctx) {
+function create_if_block_3$2(ctx) {
 	let t;
 	let ol;
 	let if_block = /*settings*/ ctx[1].showRelationType && create_if_block_4$1();
@@ -23634,11 +23686,11 @@ function create_each_block_3$1(ctx) {
 }
 
 // (48:12) {#if square.impliedItems.length}
-function create_if_block_1$2(ctx) {
+function create_if_block_1$3(ctx) {
 	let t;
 	let ol;
 	let ol_start_value;
-	let if_block = /*settings*/ ctx[1].showRelationType && create_if_block_2$2();
+	let if_block = /*settings*/ ctx[1].showRelationType && create_if_block_2$3();
 	let each_value_2 = /*square*/ ctx[12].impliedItems;
 	let each_blocks = [];
 
@@ -23670,7 +23722,7 @@ function create_if_block_1$2(ctx) {
 		p(ctx, dirty) {
 			if (/*settings*/ ctx[1].showRelationType) {
 				if (if_block) ; else {
-					if_block = create_if_block_2$2();
+					if_block = create_if_block_2$3();
 					if_block.c();
 					if_block.m(t.parentNode, t);
 				}
@@ -23716,7 +23768,7 @@ function create_if_block_1$2(ctx) {
 }
 
 // (49:14) {#if settings.showRelationType}
-function create_if_block_2$2(ctx) {
+function create_if_block_2$3(ctx) {
 	let h5;
 
 	return {
@@ -23799,7 +23851,7 @@ function create_each_block_2$2(ctx) {
 // (23:6) {#each squares as square}
 function create_each_block_1$6(ctx) {
 	let if_block_anchor;
-	let if_block = (/*square*/ ctx[12].realItems.length > 0 || /*square*/ ctx[12].impliedItems.length > 0) && create_if_block$3(ctx);
+	let if_block = (/*square*/ ctx[12].realItems.length > 0 || /*square*/ ctx[12].impliedItems.length > 0) && create_if_block$4(ctx);
 
 	return {
 		c() {
@@ -23815,7 +23867,7 @@ function create_each_block_1$6(ctx) {
 				if (if_block) {
 					if_block.p(ctx, dirty);
 				} else {
-					if_block = create_if_block$3(ctx);
+					if_block = create_if_block$4(ctx);
 					if_block.c();
 					if_block.m(if_block_anchor.parentNode, if_block_anchor);
 				}
@@ -23906,7 +23958,7 @@ function create_each_block$6(ctx) {
 	};
 }
 
-function create_fragment$a(ctx) {
+function create_fragment$b(ctx) {
 	let div;
 	let div_class_value;
 	let each_value = /*filteredSquaresArr*/ ctx[0];
@@ -23976,7 +24028,7 @@ function create_fragment$a(ctx) {
 
 const func = square => square.field;
 
-function instance$a($$self, $$props, $$invalidate) {
+function instance$b($$self, $$props, $$invalidate) {
 	
 	
 	
@@ -24014,9 +24066,9 @@ function instance$a($$self, $$props, $$invalidate) {
 class Lists extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1dlhare-style")) add_css$5();
+		if (!document.getElementById("svelte-1dlhare-style")) add_css$6();
 
-		init(this, options, instance$a, create_fragment$a, safe_not_equal, {
+		init(this, options, instance$b, create_fragment$b, safe_not_equal, {
 			filteredSquaresArr: 0,
 			currFile: 4,
 			settings: 1,
@@ -24028,7 +24080,7 @@ class Lists extends SvelteComponent {
 
 /* src\Components\Matrix.svelte generated by Svelte v3.35.0 */
 
-function add_css$4() {
+function add_css$5() {
 	var style = element("style");
 	style.id = "svelte-sp0k97-style";
 	style.textContent = "div.BC-Matrix.svelte-sp0k97.svelte-sp0k97{padding:5px}div.BC-Matrix.svelte-sp0k97>div.svelte-sp0k97{border:3px solid var(--background-modifier-border);border-radius:3px;text-align:center;margin:3px;position:relative;height:fit-content}div.BC-Matrix-square.svelte-sp0k97.svelte-sp0k97{border:1px solid var(--background-modifier-border)}div.BC-Matrix-headers.svelte-sp0k97.svelte-sp0k97{display:flex;justify-content:space-between;align-items:center}.BC-Matrix-header.svelte-sp0k97.svelte-sp0k97{margin:2px;padding:0px 10px}ol.svelte-sp0k97.svelte-sp0k97{margin:3px;padding-left:30px}";
@@ -24060,7 +24112,7 @@ function get_each_context_3(ctx, list, i) {
 }
 
 // (20:8) {#if square.realItems.length > 0 || square.impliedItems.length > 0}
-function create_if_block$2(ctx) {
+function create_if_block$3(ctx) {
 	let div1;
 	let div0;
 	let h4;
@@ -24071,7 +24123,7 @@ function create_if_block$2(ctx) {
 	let t3;
 	let if_block0 = /*settings*/ ctx[1].showRelationType && create_if_block_5(ctx);
 	let if_block1 = /*square*/ ctx[12].realItems.length && create_if_block_4(ctx);
-	let if_block2 = /*square*/ ctx[12].impliedItems.length && create_if_block_1$1(ctx);
+	let if_block2 = /*square*/ ctx[12].impliedItems.length && create_if_block_1$2(ctx);
 
 	return {
 		c() {
@@ -24134,7 +24186,7 @@ function create_if_block$2(ctx) {
 				if (if_block2) {
 					if_block2.p(ctx, dirty);
 				} else {
-					if_block2 = create_if_block_1$1(ctx);
+					if_block2 = create_if_block_1$2(ctx);
 					if_block2.c();
 					if_block2.m(div1, null);
 				}
@@ -24294,14 +24346,14 @@ function create_each_block_3(ctx) {
 }
 
 // (48:12) {#if square.impliedItems.length}
-function create_if_block_1$1(ctx) {
+function create_if_block_1$2(ctx) {
 	let div;
 	let h4;
 	let t0;
 	let t1;
 	let ol;
 	let ol_start_value;
-	let if_block = /*square*/ ctx[12].impliedItems.length && create_if_block_2$1(ctx);
+	let if_block = /*square*/ ctx[12].impliedItems.length && create_if_block_2$2(ctx);
 	let each_value_2 = /*square*/ ctx[12].impliedItems;
 	let each_blocks = [];
 
@@ -24344,7 +24396,7 @@ function create_if_block_1$1(ctx) {
 				if (if_block) {
 					if_block.p(ctx, dirty);
 				} else {
-					if_block = create_if_block_2$1(ctx);
+					if_block = create_if_block_2$2(ctx);
 					if_block.c();
 					if_block.m(div, null);
 				}
@@ -24391,9 +24443,9 @@ function create_if_block_1$1(ctx) {
 }
 
 // (51:16) {#if square.impliedItems.length}
-function create_if_block_2$1(ctx) {
+function create_if_block_2$2(ctx) {
 	let if_block_anchor;
-	let if_block = /*settings*/ ctx[1].showRelationType && /*square*/ ctx[12].realItems.length && create_if_block_3();
+	let if_block = /*settings*/ ctx[1].showRelationType && /*square*/ ctx[12].realItems.length && create_if_block_3$1();
 
 	return {
 		c() {
@@ -24407,7 +24459,7 @@ function create_if_block_2$1(ctx) {
 		p(ctx, dirty) {
 			if (/*settings*/ ctx[1].showRelationType && /*square*/ ctx[12].realItems.length) {
 				if (if_block) ; else {
-					if_block = create_if_block_3();
+					if_block = create_if_block_3$1();
 					if_block.c();
 					if_block.m(if_block_anchor.parentNode, if_block_anchor);
 				}
@@ -24424,7 +24476,7 @@ function create_if_block_2$1(ctx) {
 }
 
 // (52:18) {#if settings.showRelationType && square.realItems.length}
-function create_if_block_3(ctx) {
+function create_if_block_3$1(ctx) {
 	let h6;
 
 	return {
@@ -24467,7 +24519,12 @@ function create_each_block_2$1(ctx) {
 			div = element("div");
 			t = text(t_value);
 			attr(div, "class", div_class_value = "" + (null_to_empty(/*impliedItem*/ ctx[15].cls) + " svelte-sp0k97"));
-			attr(div, "aria-label", div_aria_label_value = /*impliedItem*/ ctx[15].parent ?? "");
+
+			attr(div, "aria-label", div_aria_label_value = /*impliedItem*/ ctx[15].parent
+			? "↑ " + /*impliedItem*/ ctx[15].parent
+			: "");
+
+			attr(div, "aria-label-position", "left");
 			attr(li, "class", "BC-Implied");
 		},
 		m(target, anchor) {
@@ -24492,7 +24549,9 @@ function create_each_block_2$1(ctx) {
 				attr(div, "class", div_class_value);
 			}
 
-			if (dirty & /*filteredSquaresArr*/ 1 && div_aria_label_value !== (div_aria_label_value = /*impliedItem*/ ctx[15].parent ?? "")) {
+			if (dirty & /*filteredSquaresArr*/ 1 && div_aria_label_value !== (div_aria_label_value = /*impliedItem*/ ctx[15].parent
+			? "↑ " + /*impliedItem*/ ctx[15].parent
+			: "")) {
 				attr(div, "aria-label", div_aria_label_value);
 			}
 		},
@@ -24507,7 +24566,7 @@ function create_each_block_2$1(ctx) {
 // (19:6) {#each squares as square}
 function create_each_block_1$5(ctx) {
 	let if_block_anchor;
-	let if_block = (/*square*/ ctx[12].realItems.length > 0 || /*square*/ ctx[12].impliedItems.length > 0) && create_if_block$2(ctx);
+	let if_block = (/*square*/ ctx[12].realItems.length > 0 || /*square*/ ctx[12].impliedItems.length > 0) && create_if_block$3(ctx);
 
 	return {
 		c() {
@@ -24523,7 +24582,7 @@ function create_each_block_1$5(ctx) {
 				if (if_block) {
 					if_block.p(ctx, dirty);
 				} else {
-					if_block = create_if_block$2(ctx);
+					if_block = create_if_block$3(ctx);
 					if_block.c();
 					if_block.m(if_block_anchor.parentNode, if_block_anchor);
 				}
@@ -24601,7 +24660,7 @@ function create_each_block$5(ctx) {
 	};
 }
 
-function create_fragment$9(ctx) {
+function create_fragment$a(ctx) {
 	let div;
 	let div_class_value;
 	let each_value = /*filteredSquaresArr*/ ctx[0];
@@ -24669,7 +24728,7 @@ function create_fragment$9(ctx) {
 	};
 }
 
-function instance$9($$self, $$props, $$invalidate) {
+function instance$a($$self, $$props, $$invalidate) {
 	
 	
 	
@@ -24707,9 +24766,9 @@ function instance$9($$self, $$props, $$invalidate) {
 class Matrix extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-sp0k97-style")) add_css$4();
+		if (!document.getElementById("svelte-sp0k97-style")) add_css$5();
 
-		init(this, options, instance$9, create_fragment$9, safe_not_equal, {
+		init(this, options, instance$a, create_fragment$a, safe_not_equal, {
 			filteredSquaresArr: 0,
 			currFile: 4,
 			settings: 1,
@@ -24781,10 +24840,8 @@ class MatrixView extends require$$0.ItemView {
     getHierSquares(userHiers, currFile, settings) {
         const { plugin } = this;
         const { mainG } = plugin;
-        if (!mainG) {
-            new require$$0.Notice("Breadcrumbs graph was not initialised yet. Please Refresh Index");
+        if (!mainG)
             return [];
-        }
         const { basename } = currFile;
         const realsnImplieds = getRealnImplied(plugin, basename);
         return userHiers.map((hier) => {
@@ -24804,49 +24861,40 @@ class MatrixView extends require$$0.ItemView {
             const g = getSubInDirs(mainG, "up", "down");
             const closed = getReflexiveClosure(g, userHiers);
             const closedUp = getSubInDirs(closed, "up");
-            let iSameArr = [];
-            const currParents = closedUp.hasNode(basename)
-                ? closedUp.filterOutNeighbors(basename, (n, a) => hier.up.includes(a.field))
-                : [];
-            currParents.forEach((parent) => {
-                let impliedSiblings = [];
-                // const { field } = up.getEdgeAttributes(basename, parent);
-                closedUp.forEachInEdge(parent, (k, a, s, t) => {
-                    if (s === basename)
-                        return;
-                    // if (!settings.filterImpliedSiblingsOfDifferentTypes)
-                    impliedSiblings.push(s);
-                    // else if (a.field === field) {
-                    //   impliedSiblings.push(s);
-                    // }
-                });
-                impliedSiblings.forEach((impliedSibling) => {
-                    iSameArr.push(this.toInternalLinkObj(impliedSibling, false, parent));
-                });
+            const iSamesII = [];
+            closedUp.forEachOutEdge(basename, (k, a, s, par) => {
+                if (hier.up.includes(a.field)) {
+                    closedUp.forEachInEdge(par, (k, a, s, t) => {
+                        if (s === basename && !settings.treatCurrNodeAsImpliedSibling)
+                            return;
+                        iSamesII.push(this.toInternalLinkObj(s, false, t));
+                    });
+                }
             });
-            /// A real sibling implies the reverse sibling
-            iSameArr.push(...is);
+            is.push(...iSamesII);
             // !SECTION
             iu = this.removeDuplicateImplied(ru, iu);
-            iSameArr = this.removeDuplicateImplied(rs, iSameArr);
+            is = this.removeDuplicateImplied(rs, is);
             id = this.removeDuplicateImplied(rd, id);
             iN = this.removeDuplicateImplied(rn, iN);
             ip = this.removeDuplicateImplied(rp, ip);
             const iSameNoDup = [];
-            iSameArr.forEach((impSib) => {
+            is.forEach((impSib) => {
                 if (iSameNoDup.every((noDup) => noDup.to !== impSib.to)) {
                     iSameNoDup.push(impSib);
                 }
             });
-            iSameArr = iSameNoDup;
+            is = iSameNoDup;
             const getFieldInHier = (dir) => hier[dir][0]
                 ? hier[dir].join(", ")
                 : `${hier[getOppDir(dir)].join(",")}${ARROW_DIRECTIONS[dir]}`;
             const { alphaSortAsc } = settings;
-            [ru, rs, rd, rn, rp, iu, iSameArr, id, iN, ip].forEach((a) => a
-                .sort((a, b) => a.to < b.to ? (alphaSortAsc ? -1 : 1) : alphaSortAsc ? 1 : -1)
-                .sort((a, b) => a.order - b.order));
-            loglevel.debug({ ru }, { rs }, { rd }, { rn }, { rp }, { iu }, { iSameArr }, { id }, { iN }, { ip });
+            const squares = [ru, rs, rd, rn, rp, iu, is, id, iN, ip];
+            if (settings.enableAlphaSort) {
+                squares.forEach((sq) => sq.sort((a, b) => a.to < b.to ? (alphaSortAsc ? -1 : 1) : alphaSortAsc ? 1 : -1));
+            }
+            squares.forEach((sq) => sq.sort((a, b) => a.order - b.order));
+            loglevel.debug({ ru }, { rs }, { rd }, { rn }, { rp }, { iu }, { is }, { id }, { iN }, { ip });
             return [
                 {
                     realItems: ru,
@@ -24855,7 +24903,7 @@ class MatrixView extends require$$0.ItemView {
                 },
                 {
                     realItems: rs,
-                    impliedItems: iSameArr,
+                    impliedItems: is,
                     field: getFieldInHier("same"),
                 },
                 {
@@ -24921,7 +24969,7 @@ class MatrixView extends require$$0.ItemView {
 
 /* src\Components\KoFi.svelte generated by Svelte v3.35.0 */
 
-function create_fragment$8(ctx) {
+function create_fragment$9(ctx) {
 	let script;
 	let script_src_value;
 	let t;
@@ -24962,7 +25010,7 @@ function create_fragment$8(ctx) {
 	};
 }
 
-function instance$8($$self, $$props, $$invalidate) {
+function instance$9($$self, $$props, $$invalidate) {
 	let button;
 
 	var initializeKofi = () => {
@@ -24983,7 +25031,7 @@ function instance$8($$self, $$props, $$invalidate) {
 class KoFi extends SvelteComponent {
 	constructor(options) {
 		super();
-		init(this, options, instance$8, create_fragment$8, safe_not_equal, {});
+		init(this, options, instance$9, create_fragment$9, safe_not_equal, {});
 	}
 }
 
@@ -25006,13 +25054,98 @@ function create_default_slot$2(ctx) {
 	};
 }
 
-function create_fragment$7(ctx) {
+function create_fragment$8(ctx) {
 	let iconbase;
 	let current;
 	const iconbase_spread_levels = [{ viewBox: "0 0 512 512" }, /*$$props*/ ctx[0]];
 
 	let iconbase_props = {
 		$$slots: { default: [create_default_slot$2] },
+		$$scope: { ctx }
+	};
+
+	for (let i = 0; i < iconbase_spread_levels.length; i += 1) {
+		iconbase_props = assign(iconbase_props, iconbase_spread_levels[i]);
+	}
+
+	iconbase = new IconBase({ props: iconbase_props });
+
+	return {
+		c() {
+			create_component(iconbase.$$.fragment);
+		},
+		m(target, anchor) {
+			mount_component(iconbase, target, anchor);
+			current = true;
+		},
+		p(ctx, [dirty]) {
+			const iconbase_changes = (dirty & /*$$props*/ 1)
+			? get_spread_update(iconbase_spread_levels, [iconbase_spread_levels[0], get_spread_object(/*$$props*/ ctx[0])])
+			: {};
+
+			if (dirty & /*$$scope*/ 2) {
+				iconbase_changes.$$scope = { dirty, ctx };
+			}
+
+			iconbase.$set(iconbase_changes);
+		},
+		i(local) {
+			if (current) return;
+			transition_in(iconbase.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(iconbase.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			destroy_component(iconbase, detaching);
+		}
+	};
+}
+
+function instance$8($$self, $$props, $$invalidate) {
+	$$self.$$set = $$new_props => {
+		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
+	};
+
+	$$props = exclude_internal_props($$props);
+	return [$$props];
+}
+
+class FaListUl extends SvelteComponent {
+	constructor(options) {
+		super();
+		init(this, options, instance$8, create_fragment$8, safe_not_equal, {});
+	}
+}
+
+/* node_modules\svelte-icons\fa\FaPlus.svelte generated by Svelte v3.35.0 */
+
+function create_default_slot$1(ctx) {
+	let path;
+
+	return {
+		c() {
+			path = svg_element("path");
+			attr(path, "d", "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z");
+		},
+		m(target, anchor) {
+			insert(target, path, anchor);
+		},
+		d(detaching) {
+			if (detaching) detach(path);
+		}
+	};
+}
+
+function create_fragment$7(ctx) {
+	let iconbase;
+	let current;
+	const iconbase_spread_levels = [{ viewBox: "0 0 448 512" }, /*$$props*/ ctx[0]];
+
+	let iconbase_props = {
+		$$slots: { default: [create_default_slot$1] },
 		$$scope: { ctx }
 	};
 
@@ -25065,22 +25198,22 @@ function instance$7($$self, $$props, $$invalidate) {
 	return [$$props];
 }
 
-class FaListUl extends SvelteComponent {
+class FaPlus extends SvelteComponent {
 	constructor(options) {
 		super();
 		init(this, options, instance$7, create_fragment$7, safe_not_equal, {});
 	}
 }
 
-/* node_modules\svelte-icons\fa\FaPlus.svelte generated by Svelte v3.35.0 */
+/* node_modules\svelte-icons\fa\FaRegTrashAlt.svelte generated by Svelte v3.35.0 */
 
-function create_default_slot$1(ctx) {
+function create_default_slot(ctx) {
 	let path;
 
 	return {
 		c() {
 			path = svg_element("path");
-			attr(path, "d", "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z");
+			attr(path, "d", "M268 416h24a12 12 0 0 0 12-12V188a12 12 0 0 0-12-12h-24a12 12 0 0 0-12 12v216a12 12 0 0 0 12 12zM432 80h-82.41l-34-56.7A48 48 0 0 0 274.41 0H173.59a48 48 0 0 0-41.16 23.3L98.41 80H16A16 16 0 0 0 0 96v16a16 16 0 0 0 16 16h16v336a48 48 0 0 0 48 48h288a48 48 0 0 0 48-48V128h16a16 16 0 0 0 16-16V96a16 16 0 0 0-16-16zM171.84 50.91A6 6 0 0 1 177 48h94a6 6 0 0 1 5.15 2.91L293.61 80H154.39zM368 464H80V128h288zm-212-48h24a12 12 0 0 0 12-12V188a12 12 0 0 0-12-12h-24a12 12 0 0 0-12 12v216a12 12 0 0 0 12 12z");
 		},
 		m(target, anchor) {
 			insert(target, path, anchor);
@@ -25097,7 +25230,7 @@ function create_fragment$6(ctx) {
 	const iconbase_spread_levels = [{ viewBox: "0 0 448 512" }, /*$$props*/ ctx[0]];
 
 	let iconbase_props = {
-		$$slots: { default: [create_default_slot$1] },
+		$$slots: { default: [create_default_slot] },
 		$$scope: { ctx }
 	};
 
@@ -25150,101 +25283,16 @@ function instance$6($$self, $$props, $$invalidate) {
 	return [$$props];
 }
 
-class FaPlus extends SvelteComponent {
+class FaRegTrashAlt extends SvelteComponent {
 	constructor(options) {
 		super();
 		init(this, options, instance$6, create_fragment$6, safe_not_equal, {});
 	}
 }
 
-/* node_modules\svelte-icons\fa\FaRegTrashAlt.svelte generated by Svelte v3.35.0 */
-
-function create_default_slot(ctx) {
-	let path;
-
-	return {
-		c() {
-			path = svg_element("path");
-			attr(path, "d", "M268 416h24a12 12 0 0 0 12-12V188a12 12 0 0 0-12-12h-24a12 12 0 0 0-12 12v216a12 12 0 0 0 12 12zM432 80h-82.41l-34-56.7A48 48 0 0 0 274.41 0H173.59a48 48 0 0 0-41.16 23.3L98.41 80H16A16 16 0 0 0 0 96v16a16 16 0 0 0 16 16h16v336a48 48 0 0 0 48 48h288a48 48 0 0 0 48-48V128h16a16 16 0 0 0 16-16V96a16 16 0 0 0-16-16zM171.84 50.91A6 6 0 0 1 177 48h94a6 6 0 0 1 5.15 2.91L293.61 80H154.39zM368 464H80V128h288zm-212-48h24a12 12 0 0 0 12-12V188a12 12 0 0 0-12-12h-24a12 12 0 0 0-12 12v216a12 12 0 0 0 12 12z");
-		},
-		m(target, anchor) {
-			insert(target, path, anchor);
-		},
-		d(detaching) {
-			if (detaching) detach(path);
-		}
-	};
-}
-
-function create_fragment$5(ctx) {
-	let iconbase;
-	let current;
-	const iconbase_spread_levels = [{ viewBox: "0 0 448 512" }, /*$$props*/ ctx[0]];
-
-	let iconbase_props = {
-		$$slots: { default: [create_default_slot] },
-		$$scope: { ctx }
-	};
-
-	for (let i = 0; i < iconbase_spread_levels.length; i += 1) {
-		iconbase_props = assign(iconbase_props, iconbase_spread_levels[i]);
-	}
-
-	iconbase = new IconBase({ props: iconbase_props });
-
-	return {
-		c() {
-			create_component(iconbase.$$.fragment);
-		},
-		m(target, anchor) {
-			mount_component(iconbase, target, anchor);
-			current = true;
-		},
-		p(ctx, [dirty]) {
-			const iconbase_changes = (dirty & /*$$props*/ 1)
-			? get_spread_update(iconbase_spread_levels, [iconbase_spread_levels[0], get_spread_object(/*$$props*/ ctx[0])])
-			: {};
-
-			if (dirty & /*$$scope*/ 2) {
-				iconbase_changes.$$scope = { dirty, ctx };
-			}
-
-			iconbase.$set(iconbase_changes);
-		},
-		i(local) {
-			if (current) return;
-			transition_in(iconbase.$$.fragment, local);
-			current = true;
-		},
-		o(local) {
-			transition_out(iconbase.$$.fragment, local);
-			current = false;
-		},
-		d(detaching) {
-			destroy_component(iconbase, detaching);
-		}
-	};
-}
-
-function instance$5($$self, $$props, $$invalidate) {
-	$$self.$$set = $$new_props => {
-		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
-	};
-
-	$$props = exclude_internal_props($$props);
-	return [$$props];
-}
-
-class FaRegTrashAlt extends SvelteComponent {
-	constructor(options) {
-		super();
-		init(this, options, instance$5, create_fragment$5, safe_not_equal, {});
-	}
-}
-
 /* src\Components\UserHierarchies.svelte generated by Svelte v3.35.0 */
 
-function add_css$3() {
+function add_css$4() {
 	var style = element("style");
 	style.id = "svelte-5y4abu-style";
 	style.textContent = "label.BC-Arrow-Label.svelte-5y4abu.svelte-5y4abu{display:inline-block;width:20px !important}div.GA-Buttons.svelte-5y4abu.svelte-5y4abu{padding-bottom:5px}details.BC-Hier-Details.svelte-5y4abu.svelte-5y4abu{border:1px solid var(--background-modifier-border);border-radius:10px;padding:10px 5px 10px 10px;margin-bottom:15px}.BC-Hier-Details.svelte-5y4abu summary.svelte-5y4abu::marker{font-size:10px}.BC-Hier-Details.svelte-5y4abu summary button.svelte-5y4abu{float:right}.icon.svelte-5y4abu.svelte-5y4abu{color:var(--text-normal);display:inline-block;padding-top:3px;width:17px;height:17px}";
@@ -25461,7 +25509,7 @@ function create_each_block$4(ctx) {
 	};
 }
 
-function create_fragment$4(ctx) {
+function create_fragment$5(ctx) {
 	let div4;
 	let div3;
 	let button0;
@@ -25601,7 +25649,7 @@ function create_fragment$4(ctx) {
 
 const func_1 = dirFields => `(${dirFields})`;
 
-function instance$4($$self, $$props, $$invalidate) {
+function instance$5($$self, $$props, $$invalidate) {
 	var __awaiter = this && this.__awaiter || function (thisArg, _arguments, P, generator) {
 		function adopt(value) {
 			return value instanceof P
@@ -25706,8 +25754,8 @@ function instance$4($$self, $$props, $$invalidate) {
 class UserHierarchies extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-5y4abu-style")) add_css$3();
-		init(this, options, instance$4, create_fragment$4, safe_not_equal, { plugin: 2 });
+		if (!document.getElementById("svelte-5y4abu-style")) add_css$4();
+		init(this, options, instance$5, create_fragment$5, safe_not_equal, { plugin: 2 });
 	}
 }
 
@@ -25947,14 +25995,18 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             await plugin.saveSettings();
         }));
         // TODO I don't think this setting works anymore. I removed it's functionality when adding multiple hierarchies
-        new require$$0.Setting(MLViewDetails)
-            .setName("Show all field names or just relation types")
-            .setDesc("This changes the headers in matrix/list view. You can have the headers be the list of metadata fields for each relation type (e.g. `parent, broader, upper`). Or you can have them just be the name of the relation type, i.e. 'Parent', 'Sibling', 'Child'. On = show the full list of names.")
-            .addToggle((toggle) => toggle.setValue(settings.showNameOrType).onChange(async (value) => {
-            settings.showNameOrType = value;
-            await plugin.saveSettings();
-            await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
-        }));
+        // new Setting(MLViewDetails)
+        //   .setName("Show all field names or just relation types")
+        //   .setDesc(
+        //     "This changes the headers in matrix/list view. You can have the headers be the list of metadata fields for each relation type (e.g. `parent, broader, upper`). Or you can have them just be the name of the relation type, i.e. 'Parent', 'Sibling', 'Child'. On = show the full list of names."
+        //   )
+        //   .addToggle((toggle) =>
+        //     toggle.setValue(settings.showNameOrType).onChange(async (value) => {
+        //       settings.showNameOrType = value;
+        //       await plugin.saveSettings();
+        //       await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
+        //     })
+        //   );
         new require$$0.Setting(MLViewDetails)
             .setName("Show Relationship Type")
             .setDesc("Show whether a link is real or implied. A real link is one you explicitly put in a note. E.g. parent:: [[Note]]. An implied link is the reverse of a real link. For example, if A is the real parent of B, then B must be the implied child of A.")
@@ -25964,10 +26016,29 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
         }));
         new require$$0.Setting(MLViewDetails)
+            .setName("Enable Alpahebtical Sorting")
+            .setDesc("By default, items in the Matrix view are sorted by the order they appear in your notes. Toggle this on to enable Alphabetical sorting. You can choose ascending/descending order in the setting below.")
+            .addToggle((toggle) => toggle.setValue(settings.enableAlphaSort).onChange(async (value) => {
+            settings.enableAlphaSort = value;
+            await plugin.saveSettings();
+            await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
+        }));
+        // TODO hide this setting if !enableAlphaSort
+        new require$$0.Setting(MLViewDetails)
             .setName("Sort Alphabetically Ascending/Descending")
             .setDesc("Sort square items alphabetically in Ascending (on) or Descending (off) order.")
             .addToggle((toggle) => toggle.setValue(settings.alphaSortAsc).onChange(async (value) => {
             settings.alphaSortAsc = value;
+            await plugin.saveSettings();
+            await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
+        }));
+        new require$$0.Setting(MLViewDetails)
+            .setName("Make Current Note an Implied Sibling")
+            .setDesc("Techincally, the current note is always it's own implied sibling. By default, it is not show as such. Toggle this on to make it show.")
+            .addToggle((toggle) => toggle
+            .setValue(settings.treatCurrNodeAsImpliedSibling)
+            .onChange(async (value) => {
+            settings.treatCurrNodeAsImpliedSibling = value;
             await plugin.saveSettings();
             await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
         }));
@@ -26204,6 +26275,15 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.drawTrail();
         }));
+        const downViewDetails = containerEl.createEl("details");
+        downViewDetails.createEl("summary", { text: "Down View" });
+        new require$$0.Setting(downViewDetails)
+            .setName("Enable line wrapping")
+            .setDesc("Make the items in the down view line wrap when there isn't enough space (On). Off makes them overflow off the screen.")
+            .addToggle((toggle) => toggle.setValue(settings.downViewWrap).onChange(async (value) => {
+            settings.downViewWrap = value;
+            await plugin.saveSettings();
+        }));
         const writeBCsToFileDetails = containerEl.createEl("details");
         writeBCsToFileDetails.createEl("summary", {
             text: "Write Breadcrumbs to File",
@@ -26358,7 +26438,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
 
 /* src\Components\NextPrev.svelte generated by Svelte v3.35.0 */
 
-function add_css$2() {
+function add_css$3() {
 	var style = element("style");
 	style.id = "svelte-1cqb0v5-style";
 	style.textContent = ".BC-nexts.svelte-1cqb0v5 div.svelte-1cqb0v5{text-align:right}.BC-right-arrow.svelte-1cqb0v5.svelte-1cqb0v5{padding-left:5px;float:right}.BC-left-arrow.svelte-1cqb0v5.svelte-1cqb0v5{padding-right:5px;float:left}.BC-nexts.svelte-1cqb0v5.svelte-1cqb0v5{border-left:1px solid var(--background-modifier-border)}.BC-prevs.svelte-1cqb0v5.svelte-1cqb0v5{border-right:1px solid var(--background-modifier-border)}.BC-NextPrev-Container.svelte-1cqb0v5.svelte-1cqb0v5{display:grid;grid-template-columns:1fr 1fr}";
@@ -26493,7 +26573,7 @@ function create_each_block$3(ctx) {
 	};
 }
 
-function create_fragment$3(ctx) {
+function create_fragment$4(ctx) {
 	let div2;
 	let div0;
 	let span0;
@@ -26610,7 +26690,7 @@ function create_fragment$3(ctx) {
 	};
 }
 
-function instance$3($$self, $$props, $$invalidate) {
+function instance$4($$self, $$props, $$invalidate) {
 	
 	
 	
@@ -26634,14 +26714,14 @@ function instance$3($$self, $$props, $$invalidate) {
 class NextPrev extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1cqb0v5-style")) add_css$2();
-		init(this, options, instance$3, create_fragment$3, safe_not_equal, { app: 0, plugin: 3, next: 1, prev: 2 });
+		if (!document.getElementById("svelte-1cqb0v5-style")) add_css$3();
+		init(this, options, instance$4, create_fragment$4, safe_not_equal, { app: 0, plugin: 3, next: 1, prev: 2 });
 	}
 }
 
 /* src\Components\TrailGrid.svelte generated by Svelte v3.35.0 */
 
-function add_css$1() {
+function add_css$2() {
 	var style = element("style");
 	style.id = "svelte-ybyqyo-style";
 	style.textContent = "div.BC-trail-grid.svelte-ybyqyo{border:2px solid var(--background-modifier-border);display:grid;align-items:stretch;width:auto;height:auto}div.BC-trail-grid-item.svelte-ybyqyo{display:flex;flex-direction:column;border:1px solid var(--background-modifier-border);align-items:center;justify-content:center;padding:2px;font-size:smaller}div.BC-trail-grid-item.BC-filler.svelte-ybyqyo{opacity:0.7}.dot.svelte-ybyqyo{height:5px;width:5px;border-radius:50%;display:inline-block}";
@@ -26668,7 +26748,7 @@ function get_each_context_2(ctx, list, i) {
 }
 
 // (82:8) {#if step.value && settings.gridDots}
-function create_if_block$1(ctx) {
+function create_if_block$2(ctx) {
 	let div;
 	let each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[2][/*step*/ ctx[24].value] / 1000));
 	let each_blocks = [];
@@ -26758,7 +26838,7 @@ function create_each_block_1$2(ctx) {
 	let div1_style_value;
 	let mounted;
 	let dispose;
-	let if_block = /*step*/ ctx[24].value && /*settings*/ ctx[4].gridDots && create_if_block$1(ctx);
+	let if_block = /*step*/ ctx[24].value && /*settings*/ ctx[4].gridDots && create_if_block$2(ctx);
 
 	function click_handler(...args) {
 		return /*click_handler*/ ctx[9](/*step*/ ctx[24], ...args);
@@ -26880,7 +26960,7 @@ function create_each_block$2(ctx) {
 	};
 }
 
-function create_fragment$2(ctx) {
+function create_fragment$3(ctx) {
 	let div;
 	let each_value = /*transposedTrails*/ ctx[6];
 	let each_blocks = [];
@@ -26945,7 +27025,7 @@ function create_fragment$2(ctx) {
 	};
 }
 
-function instance$2($$self, $$props, $$invalidate) {
+function instance$3($$self, $$props, $$invalidate) {
 	
 	
 	let { sortedTrails } = $$props;
@@ -27035,14 +27115,14 @@ function instance$2($$self, $$props, $$invalidate) {
 class TrailGrid extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-ybyqyo-style")) add_css$1();
-		init(this, options, instance$2, create_fragment$2, safe_not_equal, { sortedTrails: 0, app: 1, plugin: 8 });
+		if (!document.getElementById("svelte-ybyqyo-style")) add_css$2();
+		init(this, options, instance$3, create_fragment$3, safe_not_equal, { sortedTrails: 0, app: 1, plugin: 8 });
 	}
 }
 
 /* src\Components\TrailPath.svelte generated by Svelte v3.35.0 */
 
-function add_css() {
+function add_css$1() {
 	var style = element("style");
 	style.id = "svelte-3c1frp-style";
 	style.textContent = "span.BC-trail-path-container.svelte-3c1frp{display:flex;justify-content:space-between}";
@@ -27063,7 +27143,7 @@ function get_each_context_1$1(ctx, list, i) {
 }
 
 // (19:8) {:else}
-function create_else_block(ctx) {
+function create_else_block$1(ctx) {
 	let each_1_anchor;
 	let each_value_1 = /*trail*/ ctx[10];
 	let each_blocks = [];
@@ -27119,7 +27199,7 @@ function create_else_block(ctx) {
 }
 
 // (17:8) {#if trail.length === 0}
-function create_if_block_1(ctx) {
+function create_if_block_1$1(ctx) {
 	let span;
 
 	return {
@@ -27138,7 +27218,7 @@ function create_if_block_1(ctx) {
 }
 
 // (28:12) {#if i < trail.length - 1}
-function create_if_block_2(ctx) {
+function create_if_block_2$1(ctx) {
 	let span;
 
 	return {
@@ -27174,7 +27254,7 @@ function create_each_block_1$1(ctx) {
 		return /*mouseover_handler*/ ctx[8](/*crumb*/ ctx[13], ...args);
 	}
 
-	let if_block = /*i*/ ctx[15] < /*trail*/ ctx[10].length - 1 && create_if_block_2(ctx);
+	let if_block = /*i*/ ctx[15] < /*trail*/ ctx[10].length - 1 && create_if_block_2$1(ctx);
 
 	return {
 		c() {
@@ -27209,7 +27289,7 @@ function create_each_block_1$1(ctx) {
 				if (if_block) {
 					if_block.p(ctx, dirty);
 				} else {
-					if_block = create_if_block_2(ctx);
+					if_block = create_if_block_2$1(ctx);
 					if_block.c();
 					if_block.m(if_block_anchor.parentNode, if_block_anchor);
 				}
@@ -27235,8 +27315,8 @@ function create_each_block$1(ctx) {
 	let t;
 
 	function select_block_type(ctx, dirty) {
-		if (/*trail*/ ctx[10].length === 0) return create_if_block_1;
-		return create_else_block;
+		if (/*trail*/ ctx[10].length === 0) return create_if_block_1$1;
+		return create_else_block$1;
 	}
 
 	let current_block_type = select_block_type(ctx);
@@ -27274,7 +27354,7 @@ function create_each_block$1(ctx) {
 }
 
 // (37:2) {#if sortedTrails.length > 1}
-function create_if_block(ctx) {
+function create_if_block$1(ctx) {
 	let div;
 	let button;
 	let t_value = (/*showAll*/ ctx[2] ? "Shortest" : "All") + "";
@@ -27310,7 +27390,7 @@ function create_if_block(ctx) {
 	};
 }
 
-function create_fragment$1(ctx) {
+function create_fragment$2(ctx) {
 	let span;
 	let div;
 	let t;
@@ -27321,7 +27401,7 @@ function create_fragment$1(ctx) {
 		each_blocks[i] = create_each_block$1(get_each_context$1(ctx, each_value, i));
 	}
 
-	let if_block = /*sortedTrails*/ ctx[0].length > 1 && create_if_block(ctx);
+	let if_block = /*sortedTrails*/ ctx[0].length > 1 && create_if_block$1(ctx);
 
 	return {
 		c() {
@@ -27376,7 +27456,7 @@ function create_fragment$1(ctx) {
 				if (if_block) {
 					if_block.p(ctx, dirty);
 				} else {
-					if_block = create_if_block(ctx);
+					if_block = create_if_block$1(ctx);
 					if_block.c();
 					if_block.m(span, null);
 				}
@@ -27395,7 +27475,7 @@ function create_fragment$1(ctx) {
 	};
 }
 
-function instance$1($$self, $$props, $$invalidate) {
+function instance$2($$self, $$props, $$invalidate) {
 	let trailsToShow;
 	
 	
@@ -27438,8 +27518,8 @@ function instance$1($$self, $$props, $$invalidate) {
 class TrailPath extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-3c1frp-style")) add_css();
-		init(this, options, instance$1, create_fragment$1, safe_not_equal, { sortedTrails: 0, app: 1, plugin: 6 });
+		if (!document.getElementById("svelte-3c1frp-style")) add_css$1();
+		init(this, options, instance$2, create_fragment$2, safe_not_equal, { sortedTrails: 0, app: 1, plugin: 6 });
 	}
 }
 
@@ -49115,7 +49195,7 @@ function create_each_block(ctx) {
 	};
 }
 
-function create_fragment(ctx) {
+function create_fragment$1(ctx) {
 	let div0;
 	let t;
 	let div1;
@@ -49183,7 +49263,7 @@ function create_fragment(ctx) {
 	};
 }
 
-function instance($$self, $$props, $$invalidate) {
+function instance$1($$self, $$props, $$invalidate) {
 	let argArr;
 	
 	
@@ -49341,7 +49421,7 @@ function instance($$self, $$props, $$invalidate) {
 class VisComp extends SvelteComponent {
 	constructor(options) {
 		super();
-		init(this, options, instance, create_fragment, safe_not_equal, { modal: 1, settings: 2 });
+		init(this, options, instance$1, create_fragment$1, safe_not_equal, { modal: 1, settings: 2 });
 	}
 }
 
@@ -49476,6 +49556,587 @@ class VisModal extends require$$0.Modal {
     }
 }
 
+/* src\Components\ModifyHNItemComp.svelte generated by Svelte v3.35.0 */
+
+function add_css() {
+	var style = element("style");
+	style.id = "svelte-13g4k7i-style";
+	style.textContent = "pre.svelte-13g4k7i{display:inline}";
+	append(document.head, style);
+}
+
+// (21:2) {#if rel === "up"}
+function create_if_block_2(ctx) {
+	let if_block_anchor;
+
+	function select_block_type(ctx, dirty) {
+		if (/*hnItem*/ ctx[2].depth === 0) return create_if_block_3;
+		return create_else_block;
+	}
+
+	let current_block_type = select_block_type(ctx);
+	let if_block = current_block_type(ctx);
+
+	return {
+		c() {
+			if_block.c();
+			if_block_anchor = empty();
+		},
+		m(target, anchor) {
+			if_block.m(target, anchor);
+			insert(target, if_block_anchor, anchor);
+		},
+		p(ctx, dirty) {
+			if (current_block_type === (current_block_type = select_block_type(ctx)) && if_block) {
+				if_block.p(ctx, dirty);
+			} else {
+				if_block.d(1);
+				if_block = current_block_type(ctx);
+
+				if (if_block) {
+					if_block.c();
+					if_block.m(if_block_anchor.parentNode, if_block_anchor);
+				}
+			}
+		},
+		d(detaching) {
+			if_block.d(detaching);
+			if (detaching) detach(if_block_anchor);
+		}
+	};
+}
+
+// (24:4) {:else}
+function create_else_block(ctx) {
+	let div;
+	let pre;
+	let t_value = /*buildNewItem*/ ctx[6](/*newItem*/ ctx[5], /*hnItem*/ ctx[2].depth - 4, true) + "";
+	let t;
+
+	return {
+		c() {
+			div = element("div");
+			pre = element("pre");
+			t = text(t_value);
+			attr(pre, "class", "svelte-13g4k7i");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			append(div, pre);
+			append(pre, t);
+		},
+		p(ctx, dirty) {
+			if (dirty & /*newItem, hnItem*/ 36 && t_value !== (t_value = /*buildNewItem*/ ctx[6](/*newItem*/ ctx[5], /*hnItem*/ ctx[2].depth - 4, true) + "")) set_data(t, t_value);
+		},
+		d(detaching) {
+			if (detaching) detach(div);
+		}
+	};
+}
+
+// (22:4) {#if hnItem.depth === 0}
+function create_if_block_3(ctx) {
+	let div;
+
+	return {
+		c() {
+			div = element("div");
+			div.textContent = "Can't add parent to top level item, choose another direction";
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+		},
+		p: noop,
+		d(detaching) {
+			if (detaching) detach(div);
+		}
+	};
+}
+
+// (43:27) 
+function create_if_block_1(ctx) {
+	let div;
+	let pre;
+	let t_value = /*buildNewItem*/ ctx[6](/*newItem*/ ctx[5], /*hnItem*/ ctx[2].depth + 4, true) + "";
+	let t;
+
+	return {
+		c() {
+			div = element("div");
+			pre = element("pre");
+			t = text(t_value);
+			attr(pre, "class", "svelte-13g4k7i");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			append(div, pre);
+			append(pre, t);
+		},
+		p(ctx, dirty) {
+			if (dirty & /*newItem, hnItem*/ 36 && t_value !== (t_value = /*buildNewItem*/ ctx[6](/*newItem*/ ctx[5], /*hnItem*/ ctx[2].depth + 4, true) + "")) set_data(t, t_value);
+		},
+		d(detaching) {
+			if (detaching) detach(div);
+		}
+	};
+}
+
+// (37:2) {#if rel === "same"}
+function create_if_block(ctx) {
+	let div;
+	let pre;
+	let t_value = /*buildNewItem*/ ctx[6](/*newItem*/ ctx[5], /*hnItem*/ ctx[2].depth, true) + "";
+	let t;
+
+	return {
+		c() {
+			div = element("div");
+			pre = element("pre");
+			t = text(t_value);
+			attr(pre, "class", "svelte-13g4k7i");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			append(div, pre);
+			append(pre, t);
+		},
+		p(ctx, dirty) {
+			if (dirty & /*newItem, hnItem*/ 36 && t_value !== (t_value = /*buildNewItem*/ ctx[6](/*newItem*/ ctx[5], /*hnItem*/ ctx[2].depth, true) + "")) set_data(t, t_value);
+		},
+		d(detaching) {
+			if (detaching) detach(div);
+		}
+	};
+}
+
+function create_fragment(ctx) {
+	let h5;
+	let t0;
+	let t1_value = ARROW_DIRECTIONS[/*rel*/ ctx[0]] + "";
+	let t1;
+	let t2;
+	let t3_value = dropWikilinks(/*hnItem*/ ctx[2].line) + "";
+	let t3;
+	let t4;
+	let div1;
+	let t5;
+	let div0;
+	let pre;
+	let strong;
+	let t6_value = /*buildNewItem*/ ctx[6](dropWikilinks(/*hnItem*/ ctx[2].line), /*hnItem*/ ctx[2].depth, true) + "";
+	let t6;
+	let t7;
+	let t8;
+	let select;
+	let option0;
+	let option1;
+	let option2;
+	let t12;
+	let input;
+	let t13;
+	let button;
+	let mounted;
+	let dispose;
+	let if_block0 = /*rel*/ ctx[0] === "up" && create_if_block_2(ctx);
+
+	function select_block_type_1(ctx, dirty) {
+		if (/*rel*/ ctx[0] === "same") return create_if_block;
+		if (/*rel*/ ctx[0] === "down") return create_if_block_1;
+	}
+
+	let current_block_type = select_block_type_1(ctx);
+	let if_block1 = current_block_type && current_block_type(ctx);
+
+	return {
+		c() {
+			h5 = element("h5");
+			t0 = text("Add an ");
+			t1 = text(t1_value);
+			t2 = text(" to ");
+			t3 = text(t3_value);
+			t4 = space();
+			div1 = element("div");
+			if (if_block0) if_block0.c();
+			t5 = space();
+			div0 = element("div");
+			pre = element("pre");
+			strong = element("strong");
+			t6 = text(t6_value);
+			t7 = space();
+			if (if_block1) if_block1.c();
+			t8 = space();
+			select = element("select");
+			option0 = element("option");
+			option0.textContent = "up";
+			option1 = element("option");
+			option1.textContent = "same";
+			option2 = element("option");
+			option2.textContent = "down";
+			t12 = space();
+			input = element("input");
+			t13 = space();
+			button = element("button");
+			button.textContent = "Add";
+			attr(pre, "class", "svelte-13g4k7i");
+			option0.__value = "up";
+			option0.value = option0.__value;
+			option1.__value = "same";
+			option1.value = option1.__value;
+			option2.__value = "down";
+			option2.value = option2.__value;
+			attr(select, "class", "dropdown");
+			attr(select, "width", "1");
+			if (/*rel*/ ctx[0] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[8].call(select));
+			attr(input, "type", "text");
+			attr(input, "placeholder", "New item");
+		},
+		m(target, anchor) {
+			insert(target, h5, anchor);
+			append(h5, t0);
+			append(h5, t1);
+			append(h5, t2);
+			append(h5, t3);
+			insert(target, t4, anchor);
+			insert(target, div1, anchor);
+			if (if_block0) if_block0.m(div1, null);
+			append(div1, t5);
+			append(div1, div0);
+			append(div0, pre);
+			append(pre, strong);
+			append(strong, t6);
+			append(div1, t7);
+			if (if_block1) if_block1.m(div1, null);
+			append(div1, t8);
+			append(div1, select);
+			append(select, option0);
+			append(select, option1);
+			append(select, option2);
+			select_option(select, /*rel*/ ctx[0]);
+			append(div1, t12);
+			append(div1, input);
+			/*input_binding*/ ctx[9](input);
+			set_input_value(input, /*newItem*/ ctx[5]);
+			append(div1, t13);
+			append(div1, button);
+
+			if (!mounted) {
+				dispose = [
+					listen(select, "change", /*select_change_handler*/ ctx[8]),
+					listen(input, "input", /*input_input_handler*/ ctx[10]),
+					listen(button, "click", /*click_handler*/ ctx[11])
+				];
+
+				mounted = true;
+			}
+		},
+		p(ctx, [dirty]) {
+			if (dirty & /*rel*/ 1 && t1_value !== (t1_value = ARROW_DIRECTIONS[/*rel*/ ctx[0]] + "")) set_data(t1, t1_value);
+			if (dirty & /*hnItem*/ 4 && t3_value !== (t3_value = dropWikilinks(/*hnItem*/ ctx[2].line) + "")) set_data(t3, t3_value);
+
+			if (/*rel*/ ctx[0] === "up") {
+				if (if_block0) {
+					if_block0.p(ctx, dirty);
+				} else {
+					if_block0 = create_if_block_2(ctx);
+					if_block0.c();
+					if_block0.m(div1, t5);
+				}
+			} else if (if_block0) {
+				if_block0.d(1);
+				if_block0 = null;
+			}
+
+			if (dirty & /*hnItem*/ 4 && t6_value !== (t6_value = /*buildNewItem*/ ctx[6](dropWikilinks(/*hnItem*/ ctx[2].line), /*hnItem*/ ctx[2].depth, true) + "")) set_data(t6, t6_value);
+
+			if (current_block_type === (current_block_type = select_block_type_1(ctx)) && if_block1) {
+				if_block1.p(ctx, dirty);
+			} else {
+				if (if_block1) if_block1.d(1);
+				if_block1 = current_block_type && current_block_type(ctx);
+
+				if (if_block1) {
+					if_block1.c();
+					if_block1.m(div1, t8);
+				}
+			}
+
+			if (dirty & /*rel*/ 1) {
+				select_option(select, /*rel*/ ctx[0]);
+			}
+
+			if (dirty & /*newItem*/ 32 && input.value !== /*newItem*/ ctx[5]) {
+				set_input_value(input, /*newItem*/ ctx[5]);
+			}
+		},
+		i: noop,
+		o: noop,
+		d(detaching) {
+			if (detaching) detach(h5);
+			if (detaching) detach(t4);
+			if (detaching) detach(div1);
+			if (if_block0) if_block0.d();
+
+			if (if_block1) {
+				if_block1.d();
+			}
+
+			/*input_binding*/ ctx[9](null);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+function instance($$self, $$props, $$invalidate) {
+	
+	
+	let { modal } = $$props;
+	let { settings } = $$props;
+	let { hnItem } = $$props;
+	let { file } = $$props;
+	let { rel } = $$props;
+	let inputEl;
+	let newItem = "";
+	const buildNewItem = (newItem, depth = hnItem.depth, preview = false) => `${(" ").repeat(Math.round(depth / (preview ? 2 : 1)))}- ${preview ? newItem || "<Empty>" : makeWiki(newItem)}`;
+	onMount(() => inputEl.focus());
+
+	function select_change_handler() {
+		rel = select_value(this);
+		$$invalidate(0, rel);
+	}
+
+	function input_binding($$value) {
+		binding_callbacks[$$value ? "unshift" : "push"](() => {
+			inputEl = $$value;
+			$$invalidate(4, inputEl);
+		});
+	}
+
+	function input_input_handler() {
+		newItem = this.value;
+		$$invalidate(5, newItem);
+	}
+
+	const click_handler = async e => {
+		if (rel === "up" && hnItem.depth === 0) {
+			new require$$0.Notice("Can't add parent to top level item, choose another direction");
+			return;
+		} else {
+			try {
+				const content = await modal.app.vault.read(file);
+				const lines = content.split("\n");
+				const lineNo = rel === "up" ? hnItem.lineNo : hnItem.lineNo + 1;
+
+				const depth = rel === "up"
+				? hnItem.depth - 4
+				: rel === "down" ? hnItem.depth + 4 : hnItem.depth;
+
+				lines.splice(lineNo, 0, buildNewItem(newItem, depth));
+				await modal.app.vault.modify(file, lines.join("\n"));
+				modal.close();
+			} catch(err) {
+				console$1.error(err);
+				new require$$0.Notice("An error occured, please check the console");
+			}
+		}
+	};
+
+	$$self.$$set = $$props => {
+		if ("modal" in $$props) $$invalidate(1, modal = $$props.modal);
+		if ("settings" in $$props) $$invalidate(7, settings = $$props.settings);
+		if ("hnItem" in $$props) $$invalidate(2, hnItem = $$props.hnItem);
+		if ("file" in $$props) $$invalidate(3, file = $$props.file);
+		if ("rel" in $$props) $$invalidate(0, rel = $$props.rel);
+	};
+
+	return [
+		rel,
+		modal,
+		hnItem,
+		file,
+		inputEl,
+		newItem,
+		buildNewItem,
+		settings,
+		select_change_handler,
+		input_binding,
+		input_input_handler,
+		click_handler
+	];
+}
+
+class ModifyHNItemComp extends SvelteComponent {
+	constructor(options) {
+		super();
+		if (!document.getElementById("svelte-13g4k7i-style")) add_css();
+
+		init(this, options, instance, create_fragment, safe_not_equal, {
+			modal: 1,
+			settings: 7,
+			hnItem: 2,
+			file: 3,
+			rel: 0
+		});
+	}
+}
+
+class ModifyHierItemModal extends require$$0.Modal {
+    constructor(app, plugin, hnItem, file, rel) {
+        super(app);
+        this.plugin = plugin;
+        this.modal = this;
+        this.hnItem = hnItem;
+        this.file = file;
+        this.rel = rel;
+    }
+    onOpen() {
+        const { contentEl } = this;
+        contentEl.empty();
+        new ModifyHNItemComp({
+            target: contentEl,
+            props: {
+                modal: this,
+                settings: this.plugin.settings,
+                hnItem: this.hnItem,
+                file: this.file,
+                rel: this.rel,
+            },
+        });
+    }
+    onClose() {
+        this.contentEl.empty();
+    }
+}
+
+class HierarchyNoteManipulator extends require$$0.FuzzySuggestModal {
+    constructor(app, plugin, hierNoteName) {
+        super(app);
+        this.app = app;
+        this.plugin = plugin;
+        this.settings = this.plugin.settings;
+        this.hierNoteName = hierNoteName;
+        const chooseOverride = (evt) => {
+            // @ts-ignore
+            this.chooser.useSelectedItem(evt);
+            return false;
+        };
+        this.scope.register([], "Delete", chooseOverride);
+        this.scope.register(["Shift"], "ArrowUp", chooseOverride);
+        this.scope.register(["Shift"], "ArrowRight", chooseOverride);
+        this.scope.register(["Shift"], "ArrowDown", chooseOverride);
+    }
+    async onOpen() {
+        this.setPlaceholder("HN Manipulator");
+        this.setInstructions([
+            { command: "Enter/Click", purpose: "Jump to item" },
+            { command: "Shift + ↑", purpose: "Add parent" },
+            { command: "Shift + →", purpose: "Add sibling" },
+            { command: "Shift + ↓", purpose: "Add child" },
+            { command: "Delete", purpose: "Delete item" },
+        ]);
+        this.file = this.app.metadataCache.getFirstLinkpathDest(this.hierNoteName, "");
+        if (!this.file)
+            this.lines = [];
+        const content = await this.app.vault.cachedRead(this.file);
+        this.lines = content.split("\n");
+        this.listItems = this.app.metadataCache.getFileCache(this.file).listItems;
+        super.onOpen();
+    }
+    getItems() {
+        const items = this.listItems
+            .map((item) => {
+            const i = item.position.start.line;
+            return { i, line: this.lines[i] };
+        })
+            .map((item) => {
+            const splits = item.line.split("- ");
+            const depth = splits[0].length;
+            const line = splits.slice(1).join("- ");
+            return { depth, line, lineNo: item.i };
+        });
+        return items;
+    }
+    getItemText(item) {
+        return `${" ".repeat(item.depth)}- ${dropWikilinks(item.line)}`;
+    }
+    renderSuggestion(item, el) {
+        super.renderSuggestion(item, el);
+        el.innerText = `${" ".repeat(item.item.depth)}- ${dropWikilinks(item.item.line)}`;
+    }
+    async deleteItem(item) {
+        try {
+            this.lines.splice(item.lineNo, 1);
+            this.listItems.splice(item.lineNo, 1);
+            await this.app.vault.modify(this.file, this.lines.join("\n"));
+            new require$$0.Notice("Item deleted Succesfully");
+        }
+        catch (err) {
+            loglevel.error(err);
+            new require$$0.Notice("An error occured. Please check the console");
+        }
+    }
+    onChooseItem(item, evt) {
+        if (evt instanceof KeyboardEvent && evt.key === "Delete") {
+            this.deleteItem(item);
+        }
+        else if (evt instanceof KeyboardEvent && evt.shiftKey) {
+            const rel = evt.key === "ArrowUp"
+                ? "up"
+                : evt.key === "ArrowDown"
+                    ? "down"
+                    : "same";
+            new ModifyHierItemModal(this.app, this.plugin, item, this.file, rel).open();
+            this.close();
+        }
+        else {
+            const view = this.app.workspace.getActiveViewOfType(require$$0.MarkdownView);
+            const { editor } = view !== null && view !== void 0 ? view : {};
+            if (!editor)
+                return;
+            //@ts-ignore
+            view.leaf.openFile(this.file, { active: true, mode: "source" });
+            editor.setCursor({ line: item.lineNo, ch: item.depth + 2 });
+        }
+    }
+}
+
+class HierarchyNoteSelectorModal extends require$$0.FuzzySuggestModal {
+    constructor(app, plugin) {
+        super(app);
+        this.app = app;
+        this.plugin = plugin;
+        this.settings = this.plugin.settings;
+    }
+    onOpen() {
+        this.setPlaceholder("HN Chooser");
+        const { hierarchyNotes } = this.settings;
+        if (hierarchyNotes.length === 0) {
+            this.close();
+            new require$$0.Notice("No hierarchy notes found");
+        }
+        else if (hierarchyNotes.length === 1) {
+            this.close();
+            new HierarchyNoteManipulator(this.app, this.plugin, hierarchyNotes[0]).open();
+        }
+        else {
+            super.onOpen();
+        }
+    }
+    getItems() {
+        return this.settings.hierarchyNotes;
+    }
+    getItemText(item) {
+        return `${item}`;
+    }
+    renderSuggestion(item, el) {
+        super.renderSuggestion(item, el);
+    }
+    onChooseItem(item, evt) {
+        new HierarchyNoteManipulator(this.app, this.plugin, item).open();
+        this.close();
+    }
+}
+
 class BCPlugin extends require$$0.Plugin {
     constructor() {
         super(...arguments);
@@ -49527,7 +50188,7 @@ class BCPlugin extends require$$0.Plugin {
         this.mainG = await this.initGraphs();
         for (const view of this.VIEWS)
             await ((_a = this.getActiveTYPEView(view.type)) === null || _a === void 0 ? void 0 : _a.draw());
-        if (this.settings.showTrail)
+        if (this.settings.showBCs)
             await this.drawTrail();
         if (this.settings.showRefreshNotice)
             new require$$0.Notice("Index refreshed");
@@ -49571,30 +50232,31 @@ class BCPlugin extends require$$0.Plugin {
     async onload() {
         console.log("loading breadcrumbs plugin");
         await this.loadSettings();
-        if (typeof this.settings.debugMode === "boolean") {
-            this.settings.debugMode = this.settings.debugMode ? "DEBUG" : "WARN";
+        const { settings } = this;
+        if (typeof settings.debugMode === "boolean") {
+            settings.debugMode = settings.debugMode ? "DEBUG" : "WARN";
             await this.saveSettings();
         }
         // Prevent breaking change
         //@ts-ignore
-        const { userHierarchies } = this.settings;
+        const { userHierarchies } = settings;
         if (userHierarchies !== undefined && userHierarchies.length > 0) {
-            this.settings.userHiers = userHierarchies;
+            settings.userHiers = userHierarchies;
             //@ts-ignore
-            delete this.settings.userHierarchies;
+            delete settings.userHierarchies;
             await this.saveSettings();
         }
         ["prev", "next"].forEach((dir) => {
-            this.settings.userHiers.forEach(async (hier, i) => {
+            settings.userHiers.forEach(async (hier, i) => {
                 if (hier[dir] === undefined)
-                    this.settings.userHiers[i][dir] = [];
+                    settings.userHiers[i][dir] = [];
                 await this.saveSettings();
             });
         });
-        const upFields = getFields(this.settings.userHiers, "up");
-        for (const field in this.settings.limitTrailCheckboxStates) {
+        const upFields = getFields(settings.userHiers, "up");
+        for (const field in settings.limitTrailCheckboxStates) {
             if (!upFields.includes(field)) {
-                delete this.settings.limitTrailCheckboxStates[field];
+                delete settings.limitTrailCheckboxStates[field];
             }
         }
         this.VIEWS = [
@@ -49602,70 +50264,62 @@ class BCPlugin extends require$$0.Plugin {
                 plain: "Matrix",
                 type: MATRIX_VIEW,
                 constructor: MatrixView,
-                openOnLoad: this.settings.openMatrixOnLoad,
+                openOnLoad: settings.openMatrixOnLoad,
             },
             {
                 plain: "Stats",
                 type: STATS_VIEW,
                 constructor: StatsView,
-                openOnLoad: this.settings.openStatsOnLoad,
+                openOnLoad: settings.openStatsOnLoad,
             },
             {
                 plain: "Duck",
                 type: DUCK_VIEW,
                 constructor: DucksView,
-                openOnLoad: this.settings.openDuckOnLoad,
+                openOnLoad: settings.openDuckOnLoad,
             },
             {
                 plain: "Down",
                 type: DOWN_VIEW,
                 constructor: DownView,
-                openOnLoad: this.settings.openDownOnLoad,
+                openOnLoad: settings.openDownOnLoad,
             },
         ];
         this.db = new Debugger(this);
         this.registerEditorSuggest(new FieldSuggestor(this));
-        for (const view of this.VIEWS) {
-            this.registerView(view.type, (leaf) => new view.constructor(leaf, this));
+        for (const { constructor, type } of this.VIEWS) {
+            this.registerView(type, (leaf) => new constructor(leaf, this));
         }
+        require$$0.addIcon(DUCK_ICON, DUCK_ICON_SVG);
         require$$0.addIcon(TRAIL_ICON, TRAIL_ICON_SVG);
         await this.waitForCache();
         this.mainG = await this.initGraphs();
-        for (const view of this.VIEWS) {
-            if (view.openOnLoad)
-                await openView(this.app, view.type, view.constructor);
-        }
-        if (this.settings.showBCs)
-            await this.drawTrail();
         this.app.workspace.onLayoutReady(async () => {
+            var _a;
+            const noFiles = this.app.vault.getMarkdownFiles().length;
+            if (((_a = this.mainG) === null || _a === void 0 ? void 0 : _a.nodes().length) < noFiles) {
+                await wait(3000);
+                this.mainG = await this.initGraphs();
+            }
+            for (const { openOnLoad, type, constructor } of this.VIEWS) {
+                if (openOnLoad)
+                    await openView(this.app, type, constructor);
+            }
+            if (settings.showBCs)
+                await this.drawTrail();
             this.registerActiveLeafChangeEvent();
             this.registerLayoutChangeEvent();
-            //   if (this.app.plugins.enabledPlugins.has("dataview")) {
-            //     const api = this.app.plugins.plugins.dataview?.api;
-            //     if (api) {
-            //       await this.initEverything();
-            //     } else {
-            //       this.registerEvent(
-            //         this.app.metadataCache.on("dataview:api-ready", async () => {
-            //           await this.initEverything();
-            //         })
-            //       );
-            //     }
-            //   } else {
-            //     await waitForResolvedLinks(this.app);
-            //     await this.initEverything();
-            //   }
         });
-        for (const view of this.VIEWS) {
+        for (const { type, plain, constructor } of this.VIEWS) {
             this.addCommand({
-                id: `show-${view.type}-view`,
-                name: `Open ${view.plain} View`,
+                id: `show-${type}-view`,
+                name: `Open ${plain} View`,
                 //@ts-ignore
                 checkCallback: async (checking) => {
                     if (checking) {
-                        return this.app.workspace.getLeavesOfType(view.type).length === 0;
+                        return this.app.workspace.getLeavesOfType(type).length === 0;
                     }
-                    await openView(this.app, view.type, view.constructor);
+                    await openView(this.app, type, constructor);
                 },
             });
         }
@@ -49677,6 +50331,11 @@ class BCPlugin extends require$$0.Plugin {
             },
         });
         this.addCommand({
+            id: "manipulate-hierarchy-notes",
+            name: "Adjust Hierarchy Notes",
+            callback: () => new HierarchyNoteSelectorModal(this.app, this).open(),
+        });
+        this.addCommand({
             id: "Refresh-Breadcrumbs-Index",
             name: "Refresh Breadcrumbs Index",
             callback: async () => await this.refreshIndex(),
@@ -49685,7 +50344,7 @@ class BCPlugin extends require$$0.Plugin {
             id: "Toggle-trail-in-Edit&LP",
             name: "Toggle: Show Trail/Grid in Edit & LP mode",
             callback: async () => {
-                this.settings.showBCsInEditLPMode = !this.settings.showBCsInEditLPMode;
+                settings.showBCsInEditLPMode = !settings.showBCsInEditLPMode;
                 await this.saveSettings();
                 await this.drawTrail();
             },
@@ -49722,7 +50381,7 @@ class BCPlugin extends require$$0.Plugin {
                     }
                 }
             },
-            checkCallback: () => this.settings.showWriteAllBCsCmd,
+            checkCallback: () => settings.showWriteAllBCsCmd,
         });
         this.addCommand({
             id: "local-index",
@@ -49767,10 +50426,9 @@ class BCPlugin extends require$$0.Plugin {
         const { constructor } = this.VIEWS.find((view) => view.type === type);
         const leaves = this.app.workspace.getLeavesOfType(type);
         if (leaves && leaves.length >= 1) {
-            const view = leaves[0].view;
-            if (view instanceof constructor) {
+            const { view } = leaves[0];
+            if (view instanceof constructor)
                 return view;
-            }
         }
         return null;
     }
@@ -49789,12 +50447,12 @@ class BCPlugin extends require$$0.Plugin {
         for (const item of listItems) {
             const currItem = lines[item.position.start.line];
             const afterBulletCurr = afterBulletReg.exec(currItem)[1];
-            const dropWikiCurr = dropWikiLinksReg.exec(afterBulletCurr)[1];
-            let fieldCurr = fieldReg.exec(afterBulletCurr)[1].trim() || null;
+            const note = dropWikiLinksReg.exec(afterBulletCurr)[1];
+            let field = fieldReg.exec(afterBulletCurr)[1].trim() || null;
             // Ensure fieldName is one of the existing up fields. `null` if not
-            if (fieldCurr !== null && !upFields.includes(fieldCurr)) {
-                problemFields.push(fieldCurr);
-                fieldCurr = null;
+            if (field !== null && !upFields.includes(field)) {
+                problemFields.push(field);
+                field = null;
             }
             const { parent } = item;
             if (parent >= 0) {
@@ -49802,16 +50460,16 @@ class BCPlugin extends require$$0.Plugin {
                 const afterBulletParent = afterBulletReg.exec(parentNote)[1];
                 const dropWikiParent = dropWikiLinksReg.exec(afterBulletParent)[1];
                 hierarchyNoteItems.push({
-                    currNote: dropWikiCurr,
-                    parentNote: dropWikiParent,
-                    field: fieldCurr,
+                    note,
+                    parent: dropWikiParent,
+                    field,
                 });
             }
             else {
                 hierarchyNoteItems.push({
-                    currNote: dropWikiCurr,
-                    parentNote: null,
-                    field: fieldCurr,
+                    note,
+                    parent: null,
+                    field,
                 });
             }
         }
@@ -49945,7 +50603,7 @@ class BCPlugin extends require$$0.Plugin {
         const queue = [item];
         while (queue.length) {
             const currItem = queue.shift();
-            if (util__default["default"].types.isProxy(currItem)) {
+            if (util__default['default'].types.isProxy(currItem)) {
                 const possibleUnproxied = Object.assign({}, currItem);
                 const { values } = possibleUnproxied;
                 if (values)
@@ -50064,15 +50722,14 @@ class BCPlugin extends require$$0.Plugin {
         const { HNUpField, userHiers } = this.settings;
         const upFields = getFields(userHiers, "up");
         hierarchyNotesArr.forEach((hnItem, i) => {
-            var _a, _b, _c;
-            const upField = (_a = hnItem.field) !== null && _a !== void 0 ? _a : (HNUpField || upFields[0]);
-            const downField = (_b = getOppFields(userHiers, upField)[0]) !== null && _b !== void 0 ? _b : `${upField}<down>`;
-            if (hnItem.parentNote === null) {
-                const s = hnItem.currNote;
-                const t = (_c = hierarchyNotesArr[i + 1]) === null || _c === void 0 ? void 0 : _c.currNote;
-                //@ts-ignore
+            var _a, _b;
+            const { note, field, parent } = hnItem;
+            const upField = field !== null && field !== void 0 ? field : (HNUpField || upFields[0]);
+            const downField = (_a = getOppFields(userHiers, upField)[0]) !== null && _a !== void 0 ? _a : `${upField}<down>`;
+            if (parent === null) {
+                const s = note;
+                const t = (_b = hierarchyNotesArr[i + 1]) === null || _b === void 0 ? void 0 : _b.note;
                 addNodesIfNot(mainG, [s, t]);
-                //@ts-ignore
                 addEdgeIfNot(mainG, s, t, { dir: "down", field: downField });
             }
             else {
@@ -50080,18 +50737,14 @@ class BCPlugin extends require$$0.Plugin {
                     dir: "up",
                     field: upField,
                 };
-                //@ts-ignore
-                addNodesIfNot(mainG, [hnItem.currNote, hnItem.parentNote]);
-                //@ts-ignore
-                addEdgeIfNot(mainG, hnItem.currNote, hnItem.parentNote, aUp);
+                addNodesIfNot(mainG, [note, parent]);
+                addEdgeIfNot(mainG, note, parent, aUp);
                 const aDown = {
                     dir: "down",
                     field: downField,
                 };
-                //@ts-ignore
-                addNodesIfNot(mainG, [hnItem.parentNote, hnItem.currNote]);
-                //@ts-ignore
-                addEdgeIfNot(mainG, hnItem.parentNote, hnItem.currNote, aDown);
+                addNodesIfNot(mainG, [parent, note]);
+                addEdgeIfNot(mainG, parent, note, aDown);
             }
         });
     }
@@ -50149,9 +50802,11 @@ class BCPlugin extends require$$0.Plugin {
             if (!tag.startsWith("#"))
                 return;
             const hasThisTag = (file) => {
-                var _a, _b;
-                return (_b = (_a = this.app.metadataCache
-                    .getFileCache(file)) === null || _a === void 0 ? void 0 : _a.tags) === null || _b === void 0 ? void 0 : _b.map((t) => t.tag).some((t) => t.includes(tag));
+                var _a, _b, _c, _d, _e;
+                const cache = this.app.metadataCache.getFileCache(file);
+                return (((_a = cache === null || cache === void 0 ? void 0 : cache.tags) === null || _a === void 0 ? void 0 : _a.map((t) => t.tag).some((t) => t.includes(tag))) ||
+                    ((_c = (_b = cache === null || cache === void 0 ? void 0 : cache.frontmatter) === null || _b === void 0 ? void 0 : _b.tags) === null || _c === void 0 ? void 0 : _c.includes(tag.slice(1))) ||
+                    ((_e = (_d = cache === null || cache === void 0 ? void 0 : cache.frontmatter) === null || _d === void 0 ? void 0 : _d.tag) === null || _e === void 0 ? void 0 : _e.includes(tag.slice(1))));
             };
             const targets = frontms
                 .map((ff) => ff.file)
@@ -50247,10 +50902,13 @@ class BCPlugin extends require$$0.Plugin {
             let frontms = dvQ
                 ? this.getDVMetadataCache(files)
                 : this.getObsMetadataCache(files);
-            if (frontms[0] === undefined) {
-                db.end2G();
-                new require$$0.Notice("Breadcrumbs cache not initialised yet - Refresh Index.");
-                return mainG;
+            if (frontms.some((frontm) => frontm === undefined)) {
+                await wait(2000);
+                frontms = dvQ
+                    ? this.getDVMetadataCache(files)
+                    : this.getObsMetadataCache(files);
+                // db.end2G();
+                // return mainG;
             }
             const { userHiers } = settings;
             if (userHiers.length === 0) {
@@ -50550,7 +51208,7 @@ class BCPlugin extends require$$0.Plugin {
                 : null;
             const max_width = elForMaxWidth
                 ? getComputedStyle(elForMaxWidth).getPropertyValue("max-width")
-                : "100%";
+                : "80%";
             const trailDiv = createDiv({
                 cls: `BC-trail ${respectReadableLineLength
                     ? "is-readable-line-width markdown-preview-sizer markdown-preview-section"

@@ -9085,11 +9085,6 @@
       "tags": 1,
       "links": 0
     },
-    "Whiteness was created to margnalize people of color.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 5
-    },
     "10_Sources/Personal/I have always longed to show my authentic self to the world.md": {
       "size": 0,
       "tags": 3,
@@ -9128,18 +9123,23 @@
     "20_Entry/Hierarchy.md": {
       "size": 14755,
       "tags": 0,
-      "links": 121
+      "links": 230
+    },
+    "40_Evergreens/Whiteness was created to margnalize people of color.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1479,
+      "Refactor": 1480,
       "Create": 1985,
-      "Link": 3348,
+      "Link": 3352,
       "Expand": 232
     },
     "40_Evergreens": {
-      "Refactor": 4,
+      "Refactor": 5,
       "Create": 0,
       "Link": 15,
       "Expand": 99
@@ -9162,8 +9162,8 @@
       "12": 338,
       "13": 74,
       "14": 2250,
-      "15": 122,
-      "16": 878,
+      "15": 125,
+      "16": 880,
       "17": 1503,
       "18": 188,
       "19": 108,
@@ -9189,7 +9189,7 @@
       "13": 0,
       "14": 1,
       "15": 0,
-      "16": 0,
+      "16": 1,
       "17": 0,
       "18": 0,
       "19": 0,
@@ -9207,7 +9207,7 @@
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
-      "Sun": 4450
+      "Sun": 4455
     },
     "40_Evergreens": {
       "Mon": 0,
@@ -9216,7 +9216,7 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 118
+      "Sun": 119
     }
   },
   "recentCommits": {
@@ -9328,6 +9328,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/coping-mechanisms.md\"> coping-mechanisms </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
@@ -9377,8 +9378,7 @@
         "<a class=\"internal-link\" href=\"Microaggressions.md\"> Microaggressions </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/SOURCETEMPLATE.md\"> SOURCETEMPLATE </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Security.md\"> Security </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Politics.md\"> Politics </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Security.md\"> Security </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
@@ -9514,6 +9514,10 @@
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/Get Qoute.md\"> Get Qoute </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
@@ -9556,11 +9560,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes-2.md\"> articles_Learn yaml in Y Minutes-2 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md\"> articles_Learn yaml in Y Minutes </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md\"> articles_Learn yaml in Y Minutes </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
@@ -9725,7 +9725,8 @@
       ],
       "Created": [],
       "Renamed": [
-        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",

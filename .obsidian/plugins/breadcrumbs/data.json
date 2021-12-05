@@ -1,105 +1,74 @@
 {
-  "userHierarchies": [
-    {
-      "up": [
-        "parent"
-      ],
-      "same": [
-        "sibling"
-      ],
-      "down": [
-        "child"
-      ]
-    },
-    {
-      "up": [
-        "See"
-      ],
-      "same": [
-        ""
-      ],
-      "down": [
-        ""
-      ]
-    },
-    {
-      "up": [
-        "Topics"
-      ],
-      "same": [
-        ""
-      ],
-      "down": [
-        ""
-      ]
-    },
-    {
-      "up": [
-        "Parents"
-      ],
-      "same": [
-        ""
-      ],
-      "down": [
-        ""
-      ]
-    }
-  ],
-  "indexNote": [
-    "INDEX"
-  ],
+  "aliasesInIndex": false,
+  "alphaSortAsc": true,
+  "altLinkFields": [],
   "CSVPaths": "",
+  "debugMode": "WARN",
+  "defaultView": true,
+  "downViewWrap": false,
+  "dotsColour": "#000000",
+  "dvWaitTime": 5000,
+  "enableAlphaSort": true,
+  "fieldSuggestor": true,
+  "filterImpliedSiblingsOfDifferentTypes": false,
+  "limitWriteBCCheckboxStates": {},
+  "gridDots": false,
+  "gridHeatmap": false,
+  "heatmapColour": " #7f6df2",
   "hierarchyNotes": [
     ""
   ],
-  "hierarchyNoteDownFieldName": "child",
-  "hierarchyNoteUpFieldName": "parent",
-  "refreshIndexOnActiveLeafChange": true,
-  "altLinkFields": [],
+  "HNUpField": "",
+  "indexNotes": [
+    ""
+  ],
+  "refreshOnNoteChange": false,
   "useAllMetadata": true,
+  "openMatrixOnLoad": true,
+  "openStatsOnLoad": true,
+  "openDuckOnLoad": false,
+  "openDownOnLoad": true,
   "parseJugglLinksWithoutJuggl": false,
-  "dvWaitTime": 5000,
-  "refreshIntervalTime": 0,
-  "defaultView": true,
-  "showNameOrType": false,
+  "showNameOrType": true,
   "showRelationType": true,
-  "filterImpliedSiblingsOfDifferentTypes": true,
   "rlLeaf": true,
+  "showAllPathsIfNoneToIndexNote": false,
+  "showBCs": true,
+  "showBCsInEditLPMode": false,
+  "showRefreshNotice": true,
   "showTrail": true,
-  "limitTrailCheckboxStates": {
-    "parent": true,
-    "See": true,
-    "Topics": true,
-    "Parents": true
-  },
-  "hideTrailFieldName": "hide-trail",
-  "trailOrTable": 1,
-  "gridDots": false,
-  "dotsColour": "#000000",
-  "gridHeatmap": false,
-  "heatmapColour": "#EEEEEE",
+  "showGrid": true,
+  "showPrevNext": true,
+  "limitTrailCheckboxStates": {},
   "showAll": false,
   "noPathMessage": "This note has no real or implied parents",
   "trailSeperator": "→",
+  "treatCurrNodeAsImpliedSibling": false,
   "respectReadableLineLength": true,
-  "limitWriteBCCheckboxStates": {
-    "parent": true,
-    "See": true,
-    "Topics": true,
-    "Parents": true,
-    "sibling": true,
-    "child": true
-  },
-  "showWriteAllBCsCmd": true,
+  "userHiers": [
+    {
+      "up": [
+        "up"
+      ],
+      "same": [
+        "same"
+      ],
+      "down": [
+        "down"
+      ],
+      "next": [
+        "next"
+      ],
+      "prev": [
+        "prev"
+      ]
+    }
+  ],
+  "writeBCsInline": false,
+  "showWriteAllBCsCmd": false,
   "visGraph": "Force Directed Graph",
   "visRelation": "Parent",
   "visClosed": "Real",
   "visAll": "All",
-  "wikilinkIndex": true,
-  "aliasesInIndex": true,
-  "debugMode": false,
-  "superDebugMode": false,
-  "parentFieldName": "related-topics, parent",
-  "siblingFieldName": "sub-topics",
-  "childFieldName": "child"
+  "wikilinkIndex": true
 }

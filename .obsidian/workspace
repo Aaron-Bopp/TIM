@@ -4,107 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "155a552e8e102603",
+        "id": "e9730dafcaa74c50",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Gender is a social construct.md",
-            "mode": "source"
+            "file": "20_Entry/Hierarchy.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "155a552e8e102603",
+              "leaf": "e9730dafcaa74c50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is a social construct.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/Hierarchy.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "155a552e8e102603",
+              "leaf": "e9730dafcaa74c50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/gender.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.423076923076923}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/American's are scared of the word communism not it's meaning.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "155a552e8e102603",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 INDEX.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":10},\"to\":{\"line\":33,\"ch\":10}},\"scroll\":9.643713733075435}"
-            },
-            {
-              "leaf": "155a552e8e102603",
+              "leaf": "e9730dafcaa74c50",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "f7e8df779e60ef9a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "20_Entry/Hierarchy.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "f7e8df779e60ef9a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/Hierarchy.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":17},\"to\":{\"line\":24,\"ch\":17}},\"scroll\":0}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "2e32995ed61a70d7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "20_Entry/Hierarchy.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "2e32995ed61a70d7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/Hierarchy.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":8},\"to\":{\"line\":36,\"ch\":8}},\"scroll\":20.141074335322845}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "9735ebd5092a2296",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/33_Tools/Dataview.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "9735ebd5092a2296",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dataview.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":31},\"to\":{\"line\":25,\"ch\":31}},\"scroll\":15.26923076923077}"
             }
           ]
         }
@@ -215,8 +143,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,6 +200,42 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "01cced59b6d63a7f",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "b58bc6f9e2a76554",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "f0a52b45bca0b030",
+            "type": "leaf",
+            "state": {
+              "type": "BC-down",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -400,20 +363,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 708,
-    "collapsed": true
+    "width": 708
   },
-  "active": "f7e8df779e60ef9a",
+  "active": "e9730dafcaa74c50",
   "lastOpenFiles": [
     "20_Entry/Hierarchy.md",
-    "30_Topics/33_Tools/Dataview.md",
+    "40_Evergreens/American's are scared of the word communism not it's meaning.md",
     "40_Evergreens/Gender is a social construct.md",
+    "30_Topics/33_Tools/Dataview.md",
     "30_Topics/35_Outlines/gender.md",
     "20_Entry/202 INDEX.md",
     "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
     "30_Topics/31_Stubs/body dysmorphia.md",
     "40_Evergreens/What is language's fundamental unit.md",
-    "40_Evergreens/Transformative justice is the alternative to punitive justice.md",
-    "40_Evergreens/Communities are knowledge graphs.md"
+    "40_Evergreens/Transformative justice is the alternative to punitive justice.md"
   ]
 }

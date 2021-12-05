@@ -44,5 +44,6 @@
   "graph-analysis",
   "obsidian-codemirror-options",
   "better-word-count",
-  "mysnippets-plugin"
+  "mysnippets-plugin",
+  "breadcrumbs"
 ]
