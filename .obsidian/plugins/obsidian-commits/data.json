@@ -8298,7 +8298,7 @@
     "30_Topics/33_Tools/Regex.md": {
       "size": 1236,
       "tags": 1,
-      "links": 3
+      "links": 4
     },
     "30_Topics/33_Tools/Obsidian (software).md": {
       "size": 2600,
@@ -8416,7 +8416,7 @@
       "links": 3
     },
     "30_Topics/31_Stubs/Visual Studio Code.md": {
-      "size": 0,
+      "size": 544,
       "tags": 1,
       "links": 0
     },
@@ -8438,7 +8438,7 @@
     "40_Evergreens/Basic tools for working with plaintext.md": {
       "size": 1402,
       "tags": 3,
-      "links": 13
+      "links": 14
     },
     "30_Topics/33_Tools/Git.md": {
       "size": 572,
@@ -9180,13 +9180,13 @@
     "/": {
       "Refactor": 1538,
       "Create": 1995,
-      "Link": 3368,
-      "Expand": 247
+      "Link": 3370,
+      "Expand": 248
     },
     "40_Evergreens": {
       "Refactor": 19,
       "Create": 0,
-      "Link": 15,
+      "Link": 16,
       "Expand": 99
     }
   },
@@ -9211,7 +9211,7 @@
       "16": 880,
       "17": 1503,
       "18": 188,
-      "19": 193,
+      "19": 196,
       "20": 134,
       "21": 154,
       "22": 221,
@@ -9237,7 +9237,7 @@
       "16": 1,
       "17": 0,
       "18": 0,
-      "19": 14,
+      "19": 15,
       "20": 0,
       "21": 0,
       "22": 0,
@@ -9252,7 +9252,7 @@
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
-      "Sun": 4554
+      "Sun": 4557
     },
     "40_Evergreens": {
       "Mon": 0,
@@ -9261,12 +9261,13 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 133
+      "Sun": 134
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
@@ -9316,8 +9317,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism outlines a path and practice to end suffering, but does not promise it.md\"> Bhuddism outlines a path and practice to end suffering, but does not promise it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
@@ -9559,6 +9559,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/Revolution.md\"> Revolution </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Regex.md\"> Regex </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
@@ -9607,9 +9609,7 @@
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>",
         "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
@@ -9814,7 +9814,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

@@ -19,7 +19,7 @@ A regular expression is a sequence of characters that specifies a search pattern
 
 - [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) is extremely handy for building and checking expressions before you start using them. It also has a quick reference that should jog your memory if you are already familiar with [[Regex]]
 - [Regular Expressions for Non-Programmers](https://medium.com/geekculture/regular-expressions-for-non-programmers-ed2047d2181f) is good starting place and has links to more resources
-- [Visual Studio Code's Search and Replace Multiline Mode](https://code.visualstudio.com/updates/v1_29#_multiline-search)
+- You will need a tool that can properly recognize and execute [[Regex]]. Most [[programming]] languages can do this, as well as many text editors, such as [[Visual Studio Code]]
 
 ## Snippets
 

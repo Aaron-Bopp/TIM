@@ -19,6 +19,7 @@ Now if you are ready to learn or just need to brush up on your skills, here are 
     - #TO/DO/FIND Good resource for python basics so that people can better understand gh gists
 - [[Github]] is excellent for quick iteration when manipulating text programmatically. You can commit changes before you make changes so that you can easily revert: [[Github#Getting started]]
 - [[Obsidian (software)#Getting Started]]
+- A tool for search and replace across multiple files, preferably with [[Regex]], I use [[Visual Studio Code]] 
 
 ### <hr class="footnote"/>
 

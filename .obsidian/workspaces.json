@@ -641,25 +641,65 @@
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 3,
               "stack": [
                 {
                   "leaf": "2b9bbc1020b18fd9",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Visual Studio Code.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "2b9bbc1020b18fd9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Regex.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":6.12972972972973}"
+                },
+                {
+                  "leaf": "2b9bbc1020b18fd9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":9.202453987730062}"
                 },
                 {
                   "leaf": "2b9bbc1020b18fd9",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":295,\"ch\":66},\"to\":{\"line\":295,\"ch\":66}},\"scroll\":274.2429400386847}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":278.875}"
                 },
                 {
                   "leaf": "2b9bbc1020b18fd9",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\",\"mode\":\"preview\"}}",
                   "eState": "{\"scroll\":12.457943925233645}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "f0a15bf20a1f9f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/31_Stubs/Visual Studio Code.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "f0a15bf20a1f9f00",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Visual Studio Code.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "f0a15bf20a1f9f00",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             }
