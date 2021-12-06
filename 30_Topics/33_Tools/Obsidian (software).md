@@ -32,6 +32,7 @@ List of resources https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp for learning ob
 - [The quantum well](https://publish.obsidian.md/myquantumwell/Knowledge+Management) academic, math-related
 - [Bullet journalling setup](https://forum.obsidian.md/t/slrvbs-journaling-setup/22346/5) from [[SIRvb]]
 - [Massive vault on almost everything](https://notes.invertedpassion.com/_Start+here_)
+- [Discord mod Leah's vault](https://publish.obsidian.md/leah/Home)
 
 ## Built-ins
 

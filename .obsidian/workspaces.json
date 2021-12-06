@@ -665,7 +665,7 @@
                   "leaf": "2b9bbc1020b18fd9",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":256.4128922549181}"
                 },
                 {
                   "leaf": "2b9bbc1020b18fd9",
@@ -682,7 +682,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Topics/31_Stubs/Visual Studio Code.md",
+                "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
                 "mode": "source"
               }
             },
@@ -692,8 +692,20 @@
                 {
                   "leaf": "2fa36aea81609e7d",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":1},\"to\":{\"line\":24,\"ch\":1}},\"scroll\":15.52091687856251}"
+                },
+                {
+                  "leaf": "2fa36aea81609e7d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":15.838383780293489}"
+                },
+                {
+                  "leaf": "2fa36aea81609e7d",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Visual Studio Code.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             }
@@ -768,7 +780,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "30_Topics/31_Stubs/Visual Studio Code.md",
+                    "file": "10_Sources/Psychology of Race and Gender notes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -801,7 +813,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "30_Topics/31_Stubs/Visual Studio Code.md",
+                    "file": "10_Sources/Psychology of Race and Gender notes.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -830,7 +842,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5
+        "width": 442.5,
+        "collapsed": true
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -846,7 +859,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "30_Topics/31_Stubs/Visual Studio Code.md"
+                    "file": "10_Sources/Psychology of Race and Gender notes.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -935,7 +948,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "30_Topics/31_Stubs/Visual Studio Code.md",
+                    "file": "10_Sources/Psychology of Race and Gender notes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1045,7 +1058,7 @@
         "width": 708,
         "collapsed": true
       },
-      "active": "2fa36aea81609e7d"
+      "active": "2b9bbc1020b18fd9"
     }
   },
   "active": "16:9 NOW"

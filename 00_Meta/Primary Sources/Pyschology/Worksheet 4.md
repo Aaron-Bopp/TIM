@@ -22,7 +22,9 @@
 > **a.)** Define *hostile sexism* and *benevolent sexism* and explain how the two forms differ from one another. **(1 pts)**
 > - Hostile sexism is overtly negative beliefs and behavior towards women that includes stereotyping women's behaviors and beliefs. Benevolent sexism is controlling women throuhg paternalistic and patronizing behavior that have positive intentions but are born out of stereotypes. Both of these can include the objectification and hatred of women or their behaviors.
 > **b.)** Name the three forms of benevolent sexism discussed in the article, and provide an example of each form other than those given in the article. **(2 pts)**
->
+1. Protective Paternalism - not letting your female friend walk home from the bar alone even though it is safe and against their wishes
+2. Complementary gender differentiation - complimenting a woman's website design and not the design of her code even though they are both just as good
+3. Heterosexual intimacy - praising a woman for her things out her control like her body and fertility that reinforce her objectif
 > **c.)** Explain the results of the study with respect to which forms of sexism appear to be detrimental to women's interest and success in STEM majors. **(2 pts)**
 
 **Chapter 4: Racial Microaggressions (pp. 90-91)**
