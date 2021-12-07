@@ -16,7 +16,9 @@
     "same": true,
     "down": true,
     "next": true,
-    "prev": true
+    "prev": true,
+    "Area": true,
+    "See": true
   },
   "gridDots": false,
   "gridHeatmap": false,
@@ -52,10 +54,12 @@
   "showBCsInEditLPMode": false,
   "showRefreshNotice": true,
   "showTrail": true,
-  "showGrid": true,
+  "showGrid": false,
   "showPrevNext": true,
   "limitTrailCheckboxStates": {
-    "up": true
+    "up": true,
+    "Area": true,
+    "See": true
   },
   "showAll": false,
   "noPathMessage": "This note has no real or implied parents",

@@ -636,8 +636,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
-                "mode": "source"
+                "file": "40_Evergreens/42 Knowledge Management.md",
+                "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
@@ -646,41 +646,25 @@
                 {
                   "leaf": "8d44840b37f20fd7",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "8d44840b37f20fd7",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Personal.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "8d44840b37f20fd7",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":6},\"to\":{\"line\":6,\"ch\":6}},\"scroll\":0}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "8d44840b37f20fd7",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "4f067f49df91e666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_Evergreens/Develop Obsidian plugins.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "4f067f49df91e666",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":66},\"to\":{\"line\":19,\"ch\":66}},\"scroll\":2.962962962962963}"
-                },
-                {
-                  "leaf": "4f067f49df91e666",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Templater.md\",\"mode\":\"source\"}}",
                   "eState": "{}"
                 }
               ]
@@ -734,7 +718,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+                    "file": "40_Evergreens/42 Knowledge Management.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -767,7 +751,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+                    "file": "40_Evergreens/42 Knowledge Management.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -796,8 +780,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 442.5,
-        "collapsed": true
+        "width": 442.5
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -813,7 +796,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md"
+                    "file": "40_Evergreens/42 Knowledge Management.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -902,7 +885,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+                    "file": "40_Evergreens/42 Knowledge Management.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
