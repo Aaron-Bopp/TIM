@@ -24,16 +24,20 @@
 > **b.)** Name the three forms of benevolent sexism discussed in the article, and provide an example of each form other than those given in the article. **(2 pts)**
 1. Protective Paternalism - not letting your female friend walk home from the bar alone even though it is safe and against their wishes
 2. Complementary gender differentiation - complimenting a woman's website design and not the design of her code even though they are both just as good
-3. Heterosexual intimacy - praising a woman for her things out her control like her body and fertility that reinforce her objectif
+3. Heterosexual intimacy - praising a woman for her things out her control like her body and fertility that objectify her
 > **c.)** Explain the results of the study with respect to which forms of sexism appear to be detrimental to women's interest and success in STEM majors. **(2 pts)**
+- When women are starting out in stem they are met with more hostile sexism, which means they will be less likely to pursue it and increase their skill. If they do gain a lot of skill in STEM they are then met with more benevolent sexism which will continually wear them down. Both of these contribute to the disparity of men to women in STEM which just increases the problem. 
 
 **Chapter 4: Racial Microaggressions (pp. 90-91)**
 
 **4.** In this section (Focus 4.1), the authors discuss racial microaggressions and mention three different forms they can take: *microinvalidations*, *microinsults*, and *microassaults*. You can read more about these three forms at [this link](http://auburn.edu/equitytaskforce/pdf/Racial_MicroaggressionsshortVersion.pdf) if you would like.
 
 > **a.)** Give an example of each of the three forms of microaggression. Your examples should be different from those in Focus 4.1 and those found at the link above, and examples do not have to be related to race. **(3 pts)**
-> 1. 
+1.  Microassaults - black people have too many babies and that's why they're so poor
+2. Microinsult - black people don't try to fit in with american culture that's why blacks and whites don't get along
+3. Microinvalidation - Oh you're from [[Palestine]]? do you mean [[Israel]]?
 > **b.)** In your own words, explain the difference between a *microaggression* and "regular" forms of prejudice and discrimination. **(2 pts)**
+- Microaggressions do not explicitely state bigotry, rather they imply it by ignoring systemic racism, steretyping the [[marginalized]] group, or disrespecting their culture. Prejudice and [[discrimination]] take the attitudes that fuel microaggressions and turn them into discriminatory action.
 
 	**Dovidio et al. (2017) -- Reducing Intergroup Bias through Intergroup Contact**
 
@@ -49,9 +53,3 @@
 2. Vicarious: One of your friends keeps talking about his hot girlfriend and then you find out that she is trans. This causes you to rethink your own attitudes towards trans women.
 3. ImaginedYou try to imagine arguing with a middle-eastern person about 9/11 and why it justifies the destruction of your country and you realize how stupid you sound.
 4. Virtual: You become friends with someone through an online game and continue to que together because you two are the only non-toxic people playing. When you finally get in voice chat with this person you find out they are a girl, and that this whole time you've been thinking that they were so good. 
-
-test::
-	- value
-  	- value
- 
- `$=this.test`

@@ -8926,9 +8926,9 @@
       "links": 3
     },
     "00_Meta/Primary Sources/Pyschology/Worksheet 4.md": {
-      "size": 6197,
+      "size": 7346,
       "tags": 0,
-      "links": 0
+      "links": 4
     },
     "40_Evergreens/Better tools allow us to be less disciplined and more productive.md": {
       "size": 1174,
@@ -9180,8 +9180,8 @@
     "/": {
       "Refactor": 1538,
       "Create": 1995,
-      "Link": 3370,
-      "Expand": 248
+      "Link": 3372,
+      "Expand": 249
     },
     "40_Evergreens": {
       "Refactor": 19,
@@ -9203,7 +9203,7 @@
       "8": 24,
       "9": 500,
       "10": 84,
-      "11": 59,
+      "11": 62,
       "12": 338,
       "13": 75,
       "14": 2252,
@@ -9246,7 +9246,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 212,
+      "Mon": 215,
       "Tue": 611,
       "Wed": 1273,
       "Thu": 399,
@@ -9267,6 +9267,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
@@ -9316,8 +9317,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\"> Bhuddism is the study of happiness through detachment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism outlines a path and practice to end suffering, but does not promise it.md\"> Bhuddism outlines a path and practice to end suffering, but does not promise it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
@@ -9559,6 +9559,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/Revolution.md\"> Revolution </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Regex.md\"> Regex </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
@@ -9607,9 +9609,7 @@
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020.md\"> andrews.winstonScientificRacismNorth2020 </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>",
-        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>"
+        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
