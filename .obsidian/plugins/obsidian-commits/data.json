@@ -8963,7 +8963,7 @@
     "40_Evergreens/Organization systems are not mutually exclusive.md": {
       "size": 1585,
       "tags": 2,
-      "links": 6
+      "links": 7
     },
     "30_Topics/32_Terms/Intergroup contact theory.md": {
       "size": 0,
@@ -9148,7 +9148,7 @@
     "20_Entry/204 Writing.md": {
       "size": 1001,
       "tags": 0,
-      "links": 12
+      "links": 13
     },
     "20_Entry/23 Note by type/Content Areas.md": {
       "size": 6341,
@@ -9168,7 +9168,7 @@
     "40_Evergreens/41 Inbox.md": {
       "size": 527,
       "tags": 0,
-      "links": 9
+      "links": 10
     },
     "40_Evergreens/44 Identity.md": {
       "size": 1585,
@@ -9210,20 +9210,20 @@
     "/": {
       "Refactor": 1557,
       "Create": 2002,
-      "Link": 3425,
+      "Link": 3428,
       "Expand": 264
     },
     "40_Evergreens": {
       "Refactor": 32,
       "Create": 2,
-      "Link": 44,
+      "Link": 46,
       "Expand": 105
     }
   },
   "dailyCommits": {
     "/": {
       "0": 176,
-      "1": 36,
+      "1": 39,
       "2": 1,
       "3": 2,
       "4": 0,
@@ -9249,7 +9249,7 @@
     },
     "40_Evergreens": {
       "0": 0,
-      "1": 0,
+      "1": 2,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -9277,7 +9277,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 296,
-      "Tue": 624,
+      "Tue": 627,
       "Wed": 1273,
       "Thu": 399,
       "Fri": 99,
@@ -9286,7 +9286,7 @@
     },
     "40_Evergreens": {
       "Mon": 49,
-      "Tue": 0,
+      "Tue": 2,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -9590,6 +9590,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/sadness.md\"> sadness </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
@@ -9637,10 +9640,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Regex.md\"> Regex </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>",
@@ -9882,7 +9882,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Self.md\"> 44 Self </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

@@ -20,6 +20,7 @@ There is simply no reason to limit yourself to one organization system if you ca
 - [[Use Obsidian tags as temporal classifiers]]
 - [[What makes a note evergreen]]
 
+![[Pasted image 20211207012526.png]] [Discord](https://discord.com/channels/686053708261228577/744933215063638183/916205731609473034)
  
 
 ### <hr class="footnote"/>
