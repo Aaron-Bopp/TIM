@@ -8,7 +8,7 @@ aliases:
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 
-**See**:: [[205 INDEX]]
+**See**:: [[205 Index]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[religion]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

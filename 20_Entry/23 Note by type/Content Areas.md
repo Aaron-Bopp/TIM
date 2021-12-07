@@ -1,4 +1,4 @@
-- [[205 INDEX]]
+- [[205 Index]]
 	- [[41 Inbox]]
 	- [[42 Knowledge Management]]
 	- [[43 Mental Health]]

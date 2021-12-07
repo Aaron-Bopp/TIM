@@ -1,102 +1,6 @@
 {
   "choices": [
     {
-      "id": "daf462a1-0ec5-4538-baa3-472d8dc213eb",
-      "name": "CONTENT",
-      "type": "Template",
-      "command": false,
-      "templatePath": "Templates/Templates/CONTENT.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [],
-        "chooseWhenCreatingNote": false
-      },
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical"
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFile": true
-    },
-    {
-      "id": "4b68822a-b2c0-4d7f-9d58-9b97cbf3e07b",
-      "name": "EVERGREEN",
-      "type": "Template",
-      "command": false,
-      "templatePath": "Templates/Templates/EGNOTE.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [],
-        "chooseWhenCreatingNote": false
-      },
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical"
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFile": true
-    },
-    {
-      "id": "67d798dd-7d7a-48ac-a615-0b6353cf8cb7",
-      "name": "TOPIC",
-      "type": "Template",
-      "command": false,
-      "templatePath": "Templates/Templates/TOPICNOTE.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [],
-        "chooseWhenCreatingNote": false
-      },
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical"
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFile": true
-    },
-    {
-      "id": "bd1194ab-0254-4b56-af20-dbc0c6071e93",
-      "name": "Add alias",
-      "type": "Capture",
-      "command": false,
-      "appendLink": false,
-      "captureTo": "D&D/Wildemount/aliases.md",
-      "captureToActiveFile": false,
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": true,
-        "format": "[[<%* const path = \"{{LINKCURRENT}}\"; const title = path.split(\"/\")[-1].replace(\".md\", \"\");  %><%* title; %>:\n- \"{{VALUE}}\"\n"
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "{{LINKCURRENT}}",
-        "insertAtEnd": true,
-        "createIfNotFound": true,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
-      "task": false
-    },
-    {
       "id": "ce68766c-3e08-4c8c-9f64-76d64d67194b",
       "name": "Add footnote",
       "type": "Capture",
@@ -143,6 +47,47 @@
       "type": "Macro",
       "command": false,
       "macroId": "7f7f0f2e-8b23-479a-909f-c08004c9ebe2"
+    },
+    {
+      "id": "f6ac5fe8-3494-49c6-a769-a4409130b435",
+      "name": "Inbox",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "40_Evergreens/41 Inbox.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "\t- {{LINKCURRENT}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "405b98a9-e07e-4912-ad59-d01b6ad6f599",
+      "name": "New Evergreen",
+      "type": "Macro",
+      "command": false,
+      "macroId": "78b34cc0-4cf3-41ba-953f-a7672ef5dc86"
     }
   ],
   "macros": [
@@ -321,6 +266,37 @@
           "type": "EditorCommand",
           "id": "294311fb-9bac-41ae-a695-e8ac6c1cb410",
           "editorCommandType": "Paste"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "New evergreen",
+      "id": "78b34cc0-4cf3-41ba-953f-a7672ef5dc86",
+      "commands": [
+        {
+          "name": "File explorer: Move file to another folder",
+          "type": "Obsidian",
+          "id": "437943d6-8057-49a6-a680-be19b2739caf",
+          "commandId": "file-explorer:move-file"
+        },
+        {
+          "name": "Inbox",
+          "type": "Choice",
+          "id": "27632b1b-b2c0-4101-8606-ce9353b185e1",
+          "choiceId": "f6ac5fe8-3494-49c6-a769-a4409130b435"
+        },
+        {
+          "name": "Templater: Insert 00_Meta/Templates/EGNOTE.md",
+          "type": "Obsidian",
+          "id": "e6c66ce4-ffd4-4110-b025-3e783d37ce1a",
+          "commandId": "templater-obsidian:00_Meta/Templates/EGNOTE.md"
+        },
+        {
+          "name": "Templater: Replace templates in the active file",
+          "type": "Obsidian",
+          "id": "8165a80a-8847-481e-a485-5f05fa1e620b",
+          "commandId": "templater-obsidian:replace-in-file-templater"
         }
       ],
       "runOnStartup": false

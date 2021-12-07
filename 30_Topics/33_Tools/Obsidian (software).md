@@ -21,11 +21,12 @@ Obsidian is a markdown editor that includes many features that are valuable to [
  - [The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is a community effort to collect resources
 - Excellent beginner's guide to [Zettlekassen in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
 
-### My notes about Obsidian
+### My notes that are useful to Obsidian users
 - [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
 - [[Use Obsidian tags as temporal classifiers]]
+- [[Parsing markup text for Obsidian projects]]
 - [[Develop Obsidian plugins]]
-- See [[My TIM]] for more
+- See [[My TIM]] and [[42 Knowledge Management]] for more
 
 ### Example Vaults
 

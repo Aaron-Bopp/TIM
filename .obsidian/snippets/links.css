@@ -33,14 +33,12 @@ div.nav-file-title-content[data-link-tags*="#EVER/GREEN" i]::before {
 
 [data-link-tags*="topic"],
 a.internal-link[data-link-tags*="topic"] {
-    color: rgb(202, 116, 17) !important;
-    transition: rgb(202, 116, 17) !important;
+    color: rgba(216, 20, 79, 0.849) !important;
 }
 
 [data-link-tags*="evergreen"],
 a.internal-link[data-link-tags*="evergreen"] {
-    color: rgba(84, 202, 37, 0.863) !important;
-    transition: rgba(84, 202, 37, 0.863) !important;
+    color: rgb(0, 238, 255) !important;
 }
 
 

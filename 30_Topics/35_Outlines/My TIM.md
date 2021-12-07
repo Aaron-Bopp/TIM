@@ -30,9 +30,11 @@ Since March 2021 I have become very interested in the [[knowledge management]] c
 	- Write all the time
 		- [[When in doubt, write what you think]]
 	- Make everthing accessible
+		- [[Note structures should help curate knowledge]]
+		- [[Organization systems are not mutually exclusive]]		
 		- [[Curate source notes and definitions in your second brain to avoid junk text]]
 	- Don't overburden yourself
-		- [[Note structures should help curate knowledge]]
+		- [[Only use organization systems as far as they are useful]]
 		- [[Prioritize organization over categorization to avoid cognitive bias]]
 		- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 	- Augment your brain power

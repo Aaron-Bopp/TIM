@@ -32,3 +32,8 @@ cite {
     border: 0;
     margin: 0;
 }
+.theme-dark .modal-content a,
+.theme-dark .markdown-preview-view a.footnote-link,
+.theme-dark .markdown-preview-view a.external-link {
+    color: #823ac5f8 !important;
+}

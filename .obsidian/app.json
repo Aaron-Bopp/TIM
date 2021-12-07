@@ -6,7 +6,7 @@
   "foldIndent": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Attachments",
-  "spellcheck": false,
+  "spellcheck": true,
   "strictLineBreaks": true,
   "newFileLocation": "root",
   "vimMode": true,
@@ -39,7 +39,9 @@
     "Nigrescence",
     " juvi",
     "juvie",
-    "foe"
+    "foe",
+    "backlinks",
+    "Wtf"
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",

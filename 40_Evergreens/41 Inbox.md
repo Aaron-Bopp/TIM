@@ -8,3 +8,4 @@
 	- [[Take note of the simple things in life]]
 	- [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
 	- [[Organization systems are not mutually exclusive]]
+	- [[Only use organization systems as far as they are useful]]
