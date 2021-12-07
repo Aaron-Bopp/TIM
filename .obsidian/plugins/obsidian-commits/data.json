@@ -9171,27 +9171,37 @@
       "links": 9
     },
     "50_Projects/How I outlined my brain (literally just use all of the organization techniques).md": {
-      "size": 0,
+      "size": 2659,
       "tags": 2,
-      "links": 1
+      "links": 13
     },
     "40_Evergreens/44 Identity.md": {
       "size": 1585,
       "tags": 0,
       "links": 26
+    },
+    "30_Topics/32_Terms/Johnny Decimal System.md": {
+      "size": 129,
+      "tags": 1,
+      "links": 0
+    },
+    "40_Evergreens/Use philosophies as far they are useful and nothing more.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1552,
-      "Create": 1996,
-      "Link": 3399,
-      "Expand": 255
+      "Refactor": 1553,
+      "Create": 1999,
+      "Link": 3407,
+      "Expand": 260
     },
     "40_Evergreens": {
-      "Refactor": 31,
-      "Create": 0,
-      "Link": 41,
+      "Refactor": 32,
+      "Create": 2,
+      "Link": 43,
       "Expand": 105
     }
   },
@@ -9219,7 +9229,7 @@
       "19": 196,
       "20": 154,
       "21": 177,
-      "22": 226,
+      "22": 243,
       "23": 202
     },
     "40_Evergreens": {
@@ -9245,13 +9255,13 @@
       "19": 15,
       "20": 20,
       "21": 22,
-      "22": 1,
+      "22": 6,
       "23": 0
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 263,
+      "Mon": 280,
       "Tue": 611,
       "Wed": 1273,
       "Thu": 399,
@@ -9260,7 +9270,7 @@
       "Sun": 4557
     },
     "40_Evergreens": {
-      "Mon": 43,
+      "Mon": 48,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -9272,6 +9282,11 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
@@ -9317,14 +9332,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\"> Abortion and immigration are detrimental to white supremacy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Anger fuels change.md\"> Anger fuels change </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md\"> Anxiety should be a tool at your disposal not an impedance to your life </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Johnny Decimal System.md\"> Johnny Decimal System </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"49 Conclusions.md\"> 49 Conclusions </a>",
@@ -9372,10 +9385,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"Worksheet 4.md\"> Worksheet 4 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\"> articles_My moral code - Inverted Passion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
@@ -9431,6 +9441,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Johnny Decimal System.md\"> Johnny Decimal System </a>",
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/body dysmorphia.md\"> body dysmorphia </a>",
@@ -9479,9 +9491,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Cognitive biases that lead to poorly designed products - Inverted Passion.md\"> articles_Cognitive biases that lead to poorly designed products - Inverted Passion </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\"> articles_My moral code - Inverted Passion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your coneceptual notes.md\"> Using spaced repetition for your coneceptual notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Van Life.md\"> Van Life </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9512,6 +9522,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41.01.md\"> 41.01 </a>",
         "<a class=\"internal-link\" href=\"20_Entry/206 Contact Me.md\"> 206 Contact Me </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/Qoutes.md\"> Qoutes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/This is a test note evergreen with a normal size filename.md\"> This is a test note evergreen with a normal size filename </a>",
@@ -9561,10 +9572,15 @@
         "<a class=\"internal-link\" href=\"30_Topics/subconscious.md\"> subconscious </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Scalars.md\"> Scalars </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Samskara.md\"> Samskara </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/sadness.md\"> sadness </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Revolution.md\"> Revolution </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/sadness.md\"> sadness </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Self.md\"> 44 Self </a>",
@@ -9609,13 +9625,7 @@
         "<a class=\"internal-link\" href=\"44 Self.md\"> 44 Self </a>",
         "<a class=\"internal-link\" href=\"45 Religion.md\"> 45 Religion </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"41 Personal.md\"> 41 Personal </a>",
-        "<a class=\"internal-link\" href=\"42 Knowledge Management.md\"> 42 Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>"
+        "<a class=\"internal-link\" href=\"41 Personal.md\"> 41 Personal </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
@@ -9778,7 +9788,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans love to group eachother.md\"> Humans love to group eachother </a>"
       ],
-      "Created": [],
+      "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Untitled.md\"> Untitled </a>"
+      ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
@@ -9806,7 +9819,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -9814,7 +9828,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
-      "Deleted": [],
+      "Deleted": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41.01.md\"> 41.01 </a>"
+      ],
       "Linked": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
@@ -9849,7 +9865,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Self.md\"> 44 Self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

@@ -58,8 +58,7 @@
   "showPrevNext": true,
   "limitTrailCheckboxStates": {
     "up": true,
-    "Area": true,
-    "See": true
+    "Area": true
   },
   "showAll": false,
   "noPathMessage": "This note has no real or implied parents",
