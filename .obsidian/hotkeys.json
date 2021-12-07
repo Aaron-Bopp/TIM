@@ -189,14 +189,6 @@
       "key": "Q"
     }
   ],
-  "obsidian42-text-transporter:obsidian42-text-transporter-combinedCommands": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "find-and-replace-in-selection:find-and-replace-in-selection": [],
   "editor:open-search-replace": [
     {
@@ -362,6 +354,14 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "obsidian42-text-transporter:obsidian42-text-transporter-combinedCommands": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }

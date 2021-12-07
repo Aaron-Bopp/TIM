@@ -1,5 +1,5 @@
 - [[205 INDEX]]
-	- [[41 Personal]]
+	- [[41 Inbox]]
 	- [[42 Knowledge Management]]
 	- [[43 Mental Health]]
 	- [[44 Self]]

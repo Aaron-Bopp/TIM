@@ -9113,17 +9113,12 @@
     "40_Evergreens/42 Knowledge Management.md": {
       "size": 2130,
       "tags": 0,
-      "links": 35
-    },
-    "40_Evergreens/41 Personal.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 8
+      "links": 37
     },
     "40_Evergreens/43 Mental Health.md": {
       "size": 2009,
       "tags": 0,
-      "links": 31
+      "links": 32
     },
     "40_Evergreens/44 Self.md": {
       "size": 1585,
@@ -9136,24 +9131,24 @@
       "links": 36
     },
     "40_Evergreens/47 Humanity.md": {
-      "size": 1860,
+      "size": 2147,
       "tags": 0,
-      "links": 31
+      "links": 41
     },
     "40_Evergreens/48 Technology.md": {
       "size": 761,
       "tags": 0,
-      "links": 15
+      "links": 18
     },
     "40_Evergreens/49 Conclusions.md": {
-      "size": 1564,
+      "size": 1835,
       "tags": 0,
-      "links": 25
+      "links": 32
     },
     "40_Evergreens/45 Religion.md": {
       "size": 1680,
       "tags": 0,
-      "links": 24
+      "links": 28
     },
     "20_Entry/204 Writing.md": {
       "size": 1001,
@@ -9174,20 +9169,25 @@
       "size": 2039,
       "tags": 1,
       "links": 25
+    },
+    "40_Evergreens/41 Inbox.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1538,
+      "Refactor": 1543,
       "Create": 1995,
-      "Link": 3372,
-      "Expand": 249
+      "Link": 3385,
+      "Expand": 251
     },
     "40_Evergreens": {
-      "Refactor": 19,
+      "Refactor": 24,
       "Create": 0,
-      "Link": 16,
-      "Expand": 99
+      "Link": 29,
+      "Expand": 101
     }
   },
   "dailyCommits": {
@@ -9212,7 +9212,7 @@
       "17": 1503,
       "18": 188,
       "19": 196,
-      "20": 134,
+      "20": 154,
       "21": 154,
       "22": 221,
       "23": 202
@@ -9238,7 +9238,7 @@
       "17": 0,
       "18": 0,
       "19": 15,
-      "20": 0,
+      "20": 20,
       "21": 0,
       "22": 0,
       "23": 0
@@ -9246,7 +9246,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 215,
+      "Mon": 235,
       "Tue": 611,
       "Wed": 1273,
       "Thu": 399,
@@ -9255,7 +9255,7 @@
       "Sun": 4557
     },
     "40_Evergreens": {
-      "Mon": 0,
+      "Mon": 20,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -9267,6 +9267,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
@@ -9315,9 +9317,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\"> Bhuddism is the study of happiness through detachment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism outlines a path and practice to end suffering, but does not promise it.md\"> Bhuddism outlines a path and practice to end suffering, but does not promise it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism outlines a path and practice to end suffering, but does not promise it.md\"> Bhuddism outlines a path and practice to end suffering, but does not promise it </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
@@ -9373,6 +9373,7 @@
         "<a class=\"internal-link\" href=\"Van Life.md\"> Van Life </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/My TIM.md\"> My TIM </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>",
         "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/Content Areas.md\"> Content Areas </a>",
@@ -9422,8 +9423,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
         "<a class=\"internal-link\" href=\"10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\"> johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/kin selection.md\"> kin selection </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
@@ -9559,6 +9559,19 @@
         "<a class=\"internal-link\" href=\"30_Topics/Revolution.md\"> Revolution </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Regex.md\"> Regex </a>",
@@ -9596,20 +9609,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
-        "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Zotero/johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
-        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\"> johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
-        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020.md\"> andrews.winstonScientificRacismNorth2020 </a>",
-        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
-        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>",
-        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
@@ -9665,6 +9665,10 @@
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
@@ -9711,15 +9715,13 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/Moonlight Essay.md\"> Moonlight Essay </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md\"> It’s All About the Jeffersons - This American Life </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 2.md\"> Worksheet 2 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md\"> 1 What is Gender </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/10 Existential Euphoria.md\"> 10 Existential Euphoria </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/11 Managed Dysphoria Gender in Disguise.md\"> 11 Managed Dysphoria Gender in Disguise </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/12 Impostor Syndrome, but make it Trans.md\"> 12 Impostor Syndrome, but make it Trans </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/13 Diagnosing Gender Dysphoria.md\"> 13 Diagnosing Gender Dysphoria </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md\"> 1 What is Gender </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
@@ -9768,9 +9770,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\"> Longform media lets you reach people where they are at, short form media lets you reach people where you are at </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be an inspirational hub of creativity.md\"> Your second brain should be an inspirational hub of creativity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>"
       ],
       "Created": [],
       "Renamed": [
@@ -9789,7 +9789,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/400 Content Areas.md\"> 400 Content Areas </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/4 Content Areas.md\"> 4 Content Areas </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/206 Content Areas.md\"> 206 Content Areas </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/206 Content Areas.md\"> 206 Content Areas </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
@@ -9815,10 +9816,28 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>"
       ],
       "Removed Tags from": [],
-      "Removed Links from": []
+      "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+      ]
     }
   },
   "ignoreList": [],
