@@ -631,31 +631,12 @@
         "type": "split",
         "children": [
           {
-            "id": "d0418062da858070",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "d0418062da858070",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "362d1b420cbb5f32",
+            "id": "2c876d986805cfdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Entry/201 Welcome.md",
+                "file": "40_Evergreens/49 Conclusions.md",
                 "mode": "preview"
               }
             },
@@ -663,10 +644,46 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "362d1b420cbb5f32",
+                  "leaf": "2c876d986805cfdd",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/201 Welcome.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":16.7012987012987}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/49 Conclusions.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "2c876d986805cfdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 Index.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":7}"
+                },
+                {
+                  "leaf": "2c876d986805cfdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Writing.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "2c876d986805cfdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/206 Folder Hierarchy.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "2c876d986805cfdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/208 Note Hierarchy.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "2c876d986805cfdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "2c876d986805cfdd",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             }
@@ -719,7 +736,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "20_Entry/201 Welcome.md",
+                    "file": "40_Evergreens/49 Conclusions.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -752,7 +769,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "20_Entry/201 Welcome.md",
+                    "file": "40_Evergreens/49 Conclusions.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -781,8 +798,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 440,
-        "collapsed": true
+        "width": 440
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -798,7 +814,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "20_Entry/201 Welcome.md"
+                    "file": "40_Evergreens/49 Conclusions.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -915,7 +931,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "20_Entry/201 Welcome.md",
+                    "file": "40_Evergreens/49 Conclusions.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1022,9 +1038,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 708
+        "width": 708,
+        "collapsed": true
       },
-      "active": "362d1b420cbb5f32"
+      "active": "2c876d986805cfdd"
     }
   },
   "active": "16:9 NOW"

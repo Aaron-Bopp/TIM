@@ -33,7 +33,7 @@
 		- [[Humans yearn for a tool with no blood on it]]
 	- [[Hope is not optimism it is a practice for producing change]]
 		-  [[social construct]] 
-	- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
+			- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 			- [[Gender is a social construct]]
 			- [[Race is a social construct]]
 			- [[Stereotypes are social constructs]]

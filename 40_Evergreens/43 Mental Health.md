@@ -21,7 +21,6 @@
 		- [[We carry our childhood wounds into adulthood]]
 		- [[A inwardly judgementful and outwardly accepting home creates trust issues]]
 	- [[ADHD]]
-		- [[ADHD]]
 		- [[ADHD reduces working memory]]
 		- [[Tips for concentration]]
 		- [[ADHD is not a lack of attention it is a misplacement of attention]]

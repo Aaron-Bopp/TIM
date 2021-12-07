@@ -3089,12 +3089,12 @@ SPACE B5 Embeds
     
         /*SPACE B1.5 Links*/
             /* .theme-dark .cm-hmd-internal-link, */
-            .theme-dark .modal-content a,
-            .theme-dark .markdown-preview-view a.footnote-link,
+            /* .theme-dark .modal-content a, */
+            /* .theme-dark .markdown-preview-view a.footnote-link, */
             /* .theme-dark .markdown-preview-view a.internal-link, */
-            .theme-dark .markdown-preview-view a.external-link {
-            color: var(--teal1) !important;
-            }
+            /* .theme-dark .markdown-preview-view a.external-link { */
+            /* color: var(--teal1); */
+            /* } */
     
     
         /*SPACE B1.6 Inline Code*/
