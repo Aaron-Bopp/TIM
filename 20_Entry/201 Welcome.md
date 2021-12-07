@@ -18,9 +18,10 @@ The core features of this site are the [[bi-directional links]] and the graph vi
 
 If you are already familiar with [[Obsidian (software)|Obsidian]] and want to see [[Templater|templates]] and [[Dataview]] scripts look in 20_Entry or 00_Meta\\Templates. I've surrounded them all in code fences, so you can see my exact syntax
 
-Thought's directly helpful to obsidian users:
 
 ![[Obsidian (software)#My notes about Obsidian]]
+
+Oh you just want pretty dot pictures? say no more: [[Graph Timeline]]
 
 ## Obsidian? Note-taking? What are you talking about?
 

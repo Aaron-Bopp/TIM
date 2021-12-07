@@ -631,136 +631,68 @@
         "type": "split",
         "children": [
           {
-            "id": "11febc4b13f20942",
+            "id": "8413f6ec7e288090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/42 Knowledge Management.md",
-                "mode": "source"
+                "file": "20_Entry/24 Vault Stats/Graph Timeline.md",
+                "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "leaf": "11febc4b13f20942",
+                  "leaf": "8413f6ec7e288090",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/44 Identity.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/43 Mental Health.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":5.413369713506139}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/44 Identity.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/45 Religion.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.092223738062756}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/46 Politics.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/48 Technology.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/47 Humanity.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/49 Conclusions.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":18.431490384615383}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Graphs/20211121.png\"}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "11febc4b13f20942",
+                  "leaf": "8413f6ec7e288090",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/48 Technology.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Graph Timeline.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":10.876678876678877}"
+                },
+                {
+                  "leaf": "8413f6ec7e288090",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "11febc4b13f20942",
+                  "leaf": "8413f6ec7e288090",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/44 Identity.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "bb0f8fee4573da38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Entry/204 Writing.md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "leaf": "bb0f8fee4573da38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 INDEX.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":4.258064516129032}"
                 },
                 {
-                  "leaf": "11febc4b13f20942",
+                  "leaf": "bb0f8fee4573da38",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/43 Mental Health.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":10.48158640226629}"
-                },
-                {
-                  "leaf": "11febc4b13f20942",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Bhuddism.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Writing.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
                 }
               ]
@@ -814,7 +746,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/42 Knowledge Management.md",
+                    "file": "20_Entry/204 Writing.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +779,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/42 Knowledge Management.md",
+                    "file": "20_Entry/204 Writing.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -892,7 +824,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/42 Knowledge Management.md"
+                    "file": "20_Entry/204 Writing.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -985,7 +917,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/42 Knowledge Management.md",
+                    "file": "20_Entry/204 Writing.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1094,7 +1026,7 @@
         "direction": "horizontal",
         "width": 708
       },
-      "active": "11febc4b13f20942"
+      "active": "bb0f8fee4573da38"
     }
   },
   "active": "16:9 NOW"
