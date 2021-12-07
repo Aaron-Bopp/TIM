@@ -3,6 +3,7 @@
 	- [[Religious concepts are often too powerful for a child's mind]]
 	- [[Faith can be a useful tool for grounding yourself]]
 	- [[Faith is an abstraction of cognitive dissonance]]
+	- [[The materialistic view of religions examines why humans invented and clung to religion]]
 	- [[Christianity]]
 		- [[You can leave the church without loosing your faith]]
 		- [[Fear of hell is baked into Christianity for vulnerable believers]]

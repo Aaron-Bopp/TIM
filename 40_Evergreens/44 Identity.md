@@ -1,5 +1,6 @@
-- [[44 Self]]
+- [[44 Identity]]
 	- [[Every person has an experience of gender]]
+	- [[Biology supports the validity of trans people]]
 	- [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
 	- [[Constantly working on yourself is a form a self-hatred]]
 	- [[Accepting responsibility is not only about your actions]]

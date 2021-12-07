@@ -2,7 +2,7 @@
 	- [[41 Inbox]]
 	- [[42 Knowledge Management]]
 	- [[43 Mental Health]]
-	- [[44 Self]]
+	- [[44 Identity]]
 	- [[46 Politics]]
 	- [[47 Humanity]] 
 	- [[48 Technology]]

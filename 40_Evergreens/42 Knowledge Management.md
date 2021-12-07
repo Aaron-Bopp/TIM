@@ -32,6 +32,6 @@
 		- [[Combine notes instead of deleting them to avoid ghost data in a second brain]]
 	- [[knowledge work]]
 		- [[What is language's fundamental unit]]
-		- [[Use highlighter colors to create visual outlines]]
 		- [[Organization systems are not mutually exclusive]]
 		- [[Better tools allow us to be less disciplined and more productive]]
+	- [[Prioritize organization over categorization to avoid cognitive bias]]
