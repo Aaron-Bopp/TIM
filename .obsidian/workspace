@@ -9,13 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/49 Conclusions.md",
+            "file": "40_Evergreens/42 Knowledge Management.md",
             "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "2c876d986805cfdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "2c876d986805cfdd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "2c876d986805cfdd",
               "group": null,
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/49 Conclusions.md",
+                "file": "40_Evergreens/42 Knowledge Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/49 Conclusions.md",
+                "file": "40_Evergreens/42 Knowledge Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/49 Conclusions.md"
+                "file": "40_Evergreens/42 Knowledge Management.md"
               }
             },
             "pane-relief:history-v1": {
@@ -304,7 +316,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/49 Conclusions.md",
+                "file": "40_Evergreens/42 Knowledge Management.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -416,6 +428,8 @@
   },
   "active": "2c876d986805cfdd",
   "lastOpenFiles": [
+    "40_Evergreens/42 Knowledge Management.md",
+    "40_Evergreens/41 Inbox.md",
     "40_Evergreens/49 Conclusions.md",
     "20_Entry/205 Index.md",
     "20_Entry/204 Writing.md",
@@ -423,8 +437,6 @@
     "20_Entry/208 Note Hierarchy.md",
     "20_Entry/209 Notepad.md",
     "40_Evergreens/47 Humanity.md",
-    "40_Evergreens/46 Politics.md",
-    "40_Evergreens/45 Religion.md",
-    "40_Evergreens/43 Mental Health.md"
+    "40_Evergreens/46 Politics.md"
   ]
 }

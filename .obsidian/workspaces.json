@@ -636,13 +636,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/49 Conclusions.md",
+                "file": "40_Evergreens/42 Knowledge Management.md",
                 "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
+                {
+                  "leaf": "2c876d986805cfdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0.716573530513259}"
+                },
+                {
+                  "leaf": "2c876d986805cfdd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
                 {
                   "leaf": "2c876d986805cfdd",
                   "group": null,
@@ -736,7 +748,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/49 Conclusions.md",
+                    "file": "40_Evergreens/42 Knowledge Management.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -769,7 +781,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/49 Conclusions.md",
+                    "file": "40_Evergreens/42 Knowledge Management.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -814,7 +826,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/49 Conclusions.md"
+                    "file": "40_Evergreens/42 Knowledge Management.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -931,7 +943,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/49 Conclusions.md",
+                    "file": "40_Evergreens/42 Knowledge Management.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
