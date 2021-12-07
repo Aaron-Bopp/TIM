@@ -19,4 +19,6 @@ Here are some such notes:
 - [[Using spaced repetition for your conceptual notes]]
 - [[Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki]] WIP
 
+**For more::** [[205 INDEX]]
+
 

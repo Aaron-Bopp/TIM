@@ -8,7 +8,7 @@ type: second brain
 
 **Creator**:: [[Andy Matuschak]]
 
-**Source**:: [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
+**Source**:: [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) ^d0ee6a
 
 **Related**:: [[second brain]], [[knowledge management]]
 

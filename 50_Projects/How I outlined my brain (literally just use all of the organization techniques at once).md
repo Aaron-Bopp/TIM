@@ -4,7 +4,7 @@ aliases:
   - null
 tags: node/project
 ---
-# [[How I outlined my brain (literally just use all of the organization techniques)]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+# [[How I outlined my brain (literally just use all of the organization techniques at once)]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Since I started my [[second brain]], 
 ^[[[Communities are knowledge graphs]]]
@@ -31,11 +31,3 @@ This is almost as good folders, except it does not port as well, but it allows m
 
 The beautiful thing about a [[web of thought]] is, you aren't constricted to just one organization structure. You can mix and match all you want, because at the end of the day, you will always have the all-powerfu [[bi-directional links]].
 
-
-### <hr class="footnote"/>
-
-**Status**:: #EVER/SEED/UNPLANTED
-*edited `=this.file.mtime`*
-
-**Topics**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

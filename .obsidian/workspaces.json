@@ -631,47 +631,7 @@
         "type": "split",
         "children": [
           {
-            "id": "8413f6ec7e288090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Entry/24 Vault Stats/Graph Timeline.md",
-                "mode": "preview"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "leaf": "8413f6ec7e288090",
-                  "group": null,
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Graphs/20211121.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "8413f6ec7e288090",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Graph Timeline.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":10.876678876678877}"
-                },
-                {
-                  "leaf": "8413f6ec7e288090",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "8413f6ec7e288090",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "bb0f8fee4573da38",
+            "id": "3332c1d5e22dc465",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -681,18 +641,52 @@
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "leaf": "bb0f8fee4573da38",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 INDEX.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":4.258064516129032}"
-                },
-                {
-                  "leaf": "bb0f8fee4573da38",
+                  "leaf": "3332c1d5e22dc465",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Writing.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "3332c1d5e22dc465",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0.819672131147541}"
+                },
+                {
+                  "leaf": "3332c1d5e22dc465",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/201 Welcome.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":29.68181818181818}"
+                },
+                {
+                  "leaf": "3332c1d5e22dc465",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "5aecd51c5926c112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Communities are knowledge graphs.md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "5aecd51c5926c112",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are knowledge graphs.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
                 }
               ]
@@ -1026,7 +1020,7 @@
         "direction": "horizontal",
         "width": 708
       },
-      "active": "bb0f8fee4573da38"
+      "active": "3332c1d5e22dc465"
     }
   },
   "active": "16:9 NOW"

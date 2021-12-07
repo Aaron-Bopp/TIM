@@ -10,16 +10,16 @@ tags: node/topic/tool
 
 Obsidian is a markdown editor that includes many features that are valuable to [[knowledge management]] systems.
 
-**See**:: [[Zettlekassen]], [[second brain]], [[Use Obsidian tags as temporal classifiers]]
+**See**:: [[Zettlekassen]], [[second brain]], [[knowledge management]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+
 ## Getting Started
-
-List of resources https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp for learning obsidian 
-
-[The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is more well-kept then this note will ever be
-
-- [Excellent beginner's guide to Zetllkassen in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
+- Okay I didn't scroll down past the dowload link on [obsidian.md](https://obsidian.md/) until I had been using it for almost a year, but it is a really good starting point!
+- [Expansive list of resources and a weekly newsletter on Obsidian](https://obsidianroundup.org/resources/.)
+- [List of resources](https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp) for learning obsidian and [[knowledge management]]
+ - [The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is a community effort to collect resources
+- Excellent beginner's guide to [Zettlekassen in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
 
 ### My notes about Obsidian
 - [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
