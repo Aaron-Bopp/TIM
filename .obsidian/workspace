@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2b9bbc1020b18fd9",
+        "id": "8d44840b37f20fd7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md",
+            "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
             "mode": "source"
           }
         },
@@ -17,45 +17,27 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "2b9bbc1020b18fd9",
+              "leaf": "8d44840b37f20fd7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":46.30908205346379}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":6},\"to\":{\"line\":6,\"ch\":6}},\"scroll\":0}"
             },
             {
-              "leaf": "2b9bbc1020b18fd9",
+              "leaf": "8d44840b37f20fd7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcastINVCEL.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":574},\"to\":{\"line\":6,\"ch\":574}},\"scroll\":0}"
-            },
-            {
-              "leaf": "2b9bbc1020b18fd9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcast_Unteachable Moment_This American Life.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":645},\"to\":{\"line\":23,\"ch\":645}},\"scroll\":18.62121298818878}"
-            },
-            {
-              "leaf": "2b9bbc1020b18fd9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":260.8999726434615}"
-            },
-            {
-              "leaf": "2b9bbc1020b18fd9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":12.457943925233645}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
       },
       {
-        "id": "2fa36aea81609e7d",
+        "id": "4f067f49df91e666",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md",
+            "file": "40_Evergreens/Develop Obsidian plugins.md",
             "mode": "source"
           }
         },
@@ -63,50 +45,16 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "2fa36aea81609e7d",
+              "leaf": "4f067f49df91e666",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":66},\"to\":{\"line\":19,\"ch\":66}},\"scroll\":2.962962962962963}"
             },
             {
-              "leaf": "2fa36aea81609e7d",
+              "leaf": "4f067f49df91e666",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":8.477360264667517}"
-            },
-            {
-              "leaf": "2fa36aea81609e7d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":15.838383780293489}"
-            },
-            {
-              "leaf": "2fa36aea81609e7d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Visual Studio Code.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "9c6f4b4e3ee738a6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "9c6f4b4e3ee738a6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":6},\"to\":{\"line\":50,\"ch\":6}},\"scroll\":44.80709134615385}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Templater.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
             }
           ]
         }
@@ -159,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md",
+                "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -192,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md",
+                "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -237,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md"
+                "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md"
               }
             },
             "pane-relief:history-v1": {
@@ -326,7 +275,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md",
+                "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -433,20 +382,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 708,
-    "collapsed": true
+    "width": 708
   },
-  "active": "2fa36aea81609e7d",
+  "active": "8d44840b37f20fd7",
   "lastOpenFiles": [
-    "00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md",
+    "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+    "40_Evergreens/Develop Obsidian plugins.md",
+    "30_Topics/33_Tools/Templater.md",
     "00_Meta/Primary Sources/Pyschology/Worksheet 4.md",
+    "00_Meta/Primary Sources/Classes/Pyschology/Worksheet 3.md",
     "10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md",
     "10_Sources/podcastINVCEL.md",
     "10_Sources/podcast_Unteachable Moment_This American Life.md",
     "10_Sources/Psychology of Race and Gender notes.md",
-    "30_Topics/33_Tools/Obsidian (software).md",
-    "30_Topics/31_Stubs/Visual Studio Code.md",
-    "40_Evergreens/Basic tools for working with plaintext.md",
-    "30_Topics/33_Tools/Regex.md"
+    "30_Topics/33_Tools/Obsidian (software).md"
   ]
 }

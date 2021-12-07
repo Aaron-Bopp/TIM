@@ -4,6 +4,7 @@ tags: node/evergreen
 sr-due: 2021-11-29
 sr-interval: 30
 sr-ease: 272
+time: <%+ tp.file.last_modified_date() %>
 ---
 
 #### [[Self-hatred is born out of dissonance between self-image and self-perception]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
