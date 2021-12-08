@@ -3,12 +3,13 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-29
-sr-interval: 14
+sr-due: 2022-01-18
+sr-interval: 41
 sr-ease: 210
 ---
 #### [[Neurodiverse people can use their brain to their advantage]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+- [[Neurodivergent people cannot stop their brain from solving problems]]
 - [[Autism]]
     - [[Anxiety should be a tool at your disposal not an impedance to your life]]
         - [[Social anxiety isn't irrational it's just overcompensation]] and [[Your anxiety is telling you everything that could go wrong not what will go wrong]]

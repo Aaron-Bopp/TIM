@@ -32,7 +32,6 @@
   "txt-as-md-obsidian",
   "workspaces-plus",
   "smart-random-note",
-  "obsidian-activity-history",
   "obsidian-linter",
   "snippet-commands-obsidian",
   "dataview",
@@ -54,5 +53,7 @@
   "obsidian-languagetool-plugin",
   "obsidian42-text-transporter",
   "supercharged-links-obsidian",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-style-settings",
+  "obsidian-activity-history"
 ]

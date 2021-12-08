@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-11-29
-sr-interval: 4
-sr-ease: 179
+sr-due: 2021-12-11
+sr-interval: 3
+sr-ease: 159
 ---
 
 #### [[A repressed identity creates a mistrust of self-love and self-esteem]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

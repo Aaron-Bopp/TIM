@@ -6,7 +6,7 @@
   "foldIndent": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Attachments",
-  "spellcheck": true,
+  "spellcheck": false,
   "strictLineBreaks": true,
   "newFileLocation": "root",
   "vimMode": true,
@@ -58,5 +58,6 @@
   "defaultViewMode": "preview",
   "showFrontmatter": true,
   "livePreview": false,
-  "smartIndentList": false
+  "smartIndentList": false,
+  "useMarkdownLinks": false
 }

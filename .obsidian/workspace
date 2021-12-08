@@ -4,47 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "f1adcf2326ec2b32",
+        "id": "45714ea4e80921d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
-            "mode": "source"
+            "file": "40_Evergreens/Children will imitate whatever is modeled for them.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "f1adcf2326ec2b32",
+              "leaf": "45714ea4e80921d2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children will imitate whatever is modeled for them.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":11.433333158493042}"
             },
             {
-              "leaf": "f1adcf2326ec2b32",
+              "leaf": "45714ea4e80921d2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/move to evergreens.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":51},\"to\":{\"line\":0,\"ch\":51}}}"
-            },
-            {
-              "leaf": "f1adcf2326ec2b32",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":12.560605713815402}"
-            },
-            {
-              "leaf": "f1adcf2326ec2b32",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anti-government stances lead to economic crashes.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "f1adcf2326ec2b32",
+              "leaf": "45714ea4e80921d2",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "45714ea4e80921d2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The three main questions of life.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "45714ea4e80921d2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "45714ea4e80921d2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "45714ea4e80921d2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "45714ea4e80921d2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Trans people will look for any other solution than being trans.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":6.5806447345682235}"
+            },
+            {
+              "leaf": "45714ea4e80921d2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Working through trauma can involve of a lot of letting go.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "45714ea4e80921d2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "45714ea4e80921d2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 Index.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -97,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                "file": "40_Evergreens/Children will imitate whatever is modeled for them.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -130,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                "file": "40_Evergreens/Children will imitate whatever is modeled for them.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,11 +191,13 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 440
+    "width": 494,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -175,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
+                "file": "40_Evergreens/Children will imitate whatever is modeled for them.md"
               }
             },
             "pane-relief:history-v1": {
@@ -254,6 +292,22 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "57725c84cf148198",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ba8789072cd305e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-down",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -268,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                "file": "40_Evergreens/Children will imitate whatever is modeled for them.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -375,20 +429,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 708,
-    "collapsed": true
+    "width": 708
   },
-  "active": "f1adcf2326ec2b32",
+  "active": "45714ea4e80921d2",
   "lastOpenFiles": [
-    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
-    "00_Meta/Templates/move to evergreens.md",
-    "00_Meta/Templates/create stubs.md",
-    "test.md",
-    "newstub.md",
-    "anothernewstub.md",
-    "[.md",
-    "30_Topics/31_Stubs/democracy].md",
-    "30_Topics/33_Tools/Templater.md",
-    "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md"
+    "40_Evergreens/Children will imitate whatever is modeled for them.md",
+    "40_Evergreens/Anti-government stances lead to economic crashes.md",
+    "40_Evergreens/Neurodiverse people can use their brain to their advantage.md",
+    "40_Evergreens/The three main questions of life.md",
+    "40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md",
+    "40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md",
+    "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
+    "40_Evergreens/Trans people will look for any other solution than being trans.md",
+    "40_Evergreens/Working through trauma can involve of a lot of letting go.md",
+    "40_Evergreens/41 Inbox.md"
   ]
 }
