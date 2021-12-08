@@ -275,16 +275,16 @@
       "id": "78b34cc0-4cf3-41ba-953f-a7672ef5dc86",
       "commands": [
         {
-          "name": "File explorer: Move file to another folder",
+          "name": "Templater: Insert 00_Meta/Templates/move to evergreens.md",
           "type": "Obsidian",
-          "id": "437943d6-8057-49a6-a680-be19b2739caf",
-          "commandId": "file-explorer:move-file"
+          "id": "2a29d2d9-f909-41f6-8786-6b2b12808d45",
+          "commandId": "templater-obsidian:00_Meta/Templates/move to evergreens.md"
         },
         {
-          "name": "Inbox",
-          "type": "Choice",
-          "id": "27632b1b-b2c0-4101-8606-ce9353b185e1",
-          "choiceId": "f6ac5fe8-3494-49c6-a769-a4409130b435"
+          "name": "Wait",
+          "type": "Wait",
+          "id": "2017a585-8404-45dc-9c2f-ac96731f49f3",
+          "time": 250
         },
         {
           "name": "Templater: Insert 00_Meta/Templates/EGNOTE.md",
@@ -293,10 +293,10 @@
           "commandId": "templater-obsidian:00_Meta/Templates/EGNOTE.md"
         },
         {
-          "name": "Templater: Replace templates in the active file",
-          "type": "Obsidian",
-          "id": "8165a80a-8847-481e-a485-5f05fa1e620b",
-          "commandId": "templater-obsidian:replace-in-file-templater"
+          "name": "Inbox",
+          "type": "Choice",
+          "id": "27632b1b-b2c0-4101-8606-ce9353b185e1",
+          "choiceId": "f6ac5fe8-3494-49c6-a769-a4409130b435"
         }
       ],
       "runOnStartup": false

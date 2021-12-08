@@ -883,7 +883,7 @@ _____________________________________________________________________
 }
 
 /*COMMON A3.3- Naked Embeds*/
-/* .markdown-embed-title { display:none; } */
+.markdown-embed-title { display:none; }
 .markdown-preview-view .markdown-embed { border:none; padding:0; margin: 0; }
 .markdown-preview-view .markdown-embed-content { max-height: unset;}
 .markdown-preview-view .markdown-embed-content>:first-child { margin-top: 0; }
@@ -5738,7 +5738,7 @@ color: rgb(63, 172, 245);
 .theme-dark .markdown-preview-view a.footnote-link,
 .theme-dark .markdown-preview-view a.internal-link,
 .theme-dark .markdown-preview-view a.external-link {
-    font-weight: 450;
+    font-weight: bold;
 }
 
 

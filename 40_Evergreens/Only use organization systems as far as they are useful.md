@@ -3,6 +3,9 @@ created: 2021-12-07
 aliases:
   - null
 tags: node/evergreen
+sr-due: 2021-12-09
+sr-interval: 1
+sr-ease: 221
 ---
 
 #### [[Only use organization systems as far as they are useful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

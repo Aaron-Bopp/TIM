@@ -4,8 +4,8 @@
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
-  "lastSyncFailed": true,
-  "lastSavedStatusID": 2348902,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 2352400,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -321,7 +321,8 @@
     "10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes-2.md": "12120757",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md": "12134731",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md": "12150502",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md": "12150819"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md": "12150819",
+    "10_Sources/Readwise/Tweets/tweets_Hey Here’s a Discourse.....md": "12204725"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",

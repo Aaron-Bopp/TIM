@@ -1,5 +1,5 @@
 ---
-created: 2021-12-06 
+created: 2021-12-08 
 aliases:
   - null
 tags: node/evergreen
@@ -7,8 +7,7 @@ sr-due: 2021-12-09
 sr-interval: 1
 sr-ease: 230
 ---
-#### [[Use philosophies as far they are useful and nothing more]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
+#### [[An increase in self-love and self-respect may lead to a loss of function]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 

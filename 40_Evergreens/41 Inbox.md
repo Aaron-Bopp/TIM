@@ -9,3 +9,4 @@
 	- [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
 	- [[Organization systems are not mutually exclusive]]
 	- [[Only use organization systems as far as they are useful]]
+	- [[An increase in self-love and self-respect may lead to a loss of function]]

@@ -1,6 +1,9 @@
 ---
 created: 2021-10-23
 tags: node/evergreen, node/technique
+sr-due: 2021-12-12
+sr-interval: 4
+sr-ease: 270
 ---
 
 #### [[Convert words docs (docx) to markdown (md) with powershell and pandoc]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

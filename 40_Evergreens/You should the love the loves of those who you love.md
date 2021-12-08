@@ -3,6 +3,9 @@ created: 2021-12-02
 aliases:
   - "'Loving the loves of your loves' - John Green"
 tags: node/evergreen
+sr-due: 2021-12-09
+sr-interval: 1
+sr-ease: 227
 ---
 #### [[You should the love the loves of those who you love]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

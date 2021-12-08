@@ -4,137 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "45714ea4e80921d2",
+        "id": "8c648c32f8381c78",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
-            "mode": "preview"
+            "file": "30_Topics/33_Tools/Templater.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Templater.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8c648c32f8381c78",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0.8035714080443193}"
+            },
+            {
+              "leaf": "8c648c32f8381c78",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":34},\"to\":{\"line\":15,\"ch\":34}}}"
+            },
+            {
+              "leaf": "8c648c32f8381c78",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The bible is god breathed.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":64},\"to\":{\"line\":11,\"ch\":64}}}"
+            },
+            {
+              "leaf": "8c648c32f8381c78",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought are densely linked.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Only use organization systems as far as they are useful.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8c648c32f8381c78",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be an inspirational hub of creativity.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":5.258064027383372}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I have always longed to show my authentic self to the world.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Human's have an inability to admit that they are wrong.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":30},\"to\":{\"line\":21,\"ch\":30}},\"scroll\":9.353845743032602}"
-            },
-            {
-              "leaf": "45714ea4e80921d2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I have a stored up emotion of hating myself.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":9.733332395553589}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":26},\"to\":{\"line\":10,\"ch\":26}}}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Everybody can't be a capitalist.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":26},\"to\":{\"line\":19,\"ch\":26}}}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nixon paved the way for Reagan.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "45714ea4e80921d2",
+              "leaf": "8c648c32f8381c78",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children will imitate whatever is modeled for them.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":11.433333158493042}"
-            },
-            {
-              "leaf": "45714ea4e80921d2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anti-government stances lead to economic crashes.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "45714ea4e80921d2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "45714ea4e80921d2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The three main questions of life.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "45714ea4e80921d2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "45714ea4e80921d2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "45714ea4e80921d2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "45714ea4e80921d2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Trans people will look for any other solution than being trans.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":6.5806447345682235}"
             }
           ]
         }
@@ -187,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
+                "file": "30_Topics/33_Tools/Templater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -220,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
+                "file": "30_Topics/33_Tools/Templater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,8 +227,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/My worldview is not about conversion it is about acceptance.md"
+                "file": "30_Topics/33_Tools/Templater.md"
               }
             },
             "pane-relief:history-v1": {
@@ -353,6 +334,10 @@
             "state": {
               "type": "BC-stats",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -361,10 +346,14 @@
             "state": {
               "type": "BC-down",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "84f4f33f118f4527",
@@ -376,7 +365,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
+                "file": "30_Topics/33_Tools/Templater.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -485,17 +474,17 @@
     "direction": "horizontal",
     "width": 708
   },
-  "active": "45714ea4e80921d2",
+  "active": "8c648c32f8381c78",
   "lastOpenFiles": [
+    "30_Topics/33_Tools/Templater.md",
     "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
-    "40_Evergreens/The bible is god breathed.md",
-    "40_Evergreens/Webs of thought are densely linked.md",
-    "40_Evergreens/Your second brain should be an inspirational hub of creativity.md",
-    "40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md",
-    "40_Evergreens/Parents need to model the ability to deal with emotion to their children.md",
-    "30_Topics/31_Stubs/Attachment Theory.md",
-    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
-    "00_Meta/Personal/I have a stored up emotion of hating myself.md",
-    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md"
+    "40_Evergreens/You should the love the loves of those who you love.md",
+    "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md",
+    "40_Evergreens/Only use organization systems as far as they are useful.md",
+    "00_Meta/Personal/I have always longed to show my authentic self to the world.md",
+    "40_Evergreens/Use philosophies as far they are useful and nothing more.md",
+    "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
+    "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
+    "40_Evergreens/41 Inbox.md"
   ]
 }
