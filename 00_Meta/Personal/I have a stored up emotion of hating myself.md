@@ -1,8 +1,8 @@
 ---
 created: 2021-06-11
 tags: node/evergreen, node/personal
-sr-due: 2021-11-29
-sr-interval: 4
+sr-due: 2021-12-26
+sr-interval: 18
 sr-ease: 209
 ---
 

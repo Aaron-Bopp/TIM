@@ -4,9 +4,9 @@ tags: node/evergreen
 aliases:
   - Confidence comes from empathic mirroring in childhood
   - model the ability to deal with emotion to their children
-sr-due: 2021-11-30
-sr-interval: 26
-sr-ease: 291
+sr-due: 2021-12-22
+sr-interval: 14
+sr-ease: 271
 ---
 
 #### [[Parents need to model the ability to deal with emotion to their children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

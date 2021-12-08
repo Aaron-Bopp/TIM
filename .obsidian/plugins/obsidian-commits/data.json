@@ -8847,8 +8847,8 @@
     },
     "40_Evergreens/Better tools allow us to be less disciplined and more productive.md": {
       "size": 1174,
-      "tags": 2,
-      "links": 7
+      "tags": 3,
+      "links": 11
     },
     "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md": {
       "size": 1756,
@@ -9264,25 +9264,35 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "30_Topics/31_Stubs/[We are confined to the tools of our time.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/discipline.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1611,
-      "Create": 2034,
-      "Link": 3457,
+      "Create": 2036,
+      "Link": 3462,
       "Expand": 268
     },
     "40_Evergreens": {
       "Refactor": 45,
       "Create": 2,
-      "Link": 62,
+      "Link": 65,
       "Expand": 108
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 177,
+      "0": 184,
       "1": 39,
       "2": 1,
       "3": 2,
@@ -9308,7 +9318,7 @@
       "23": 220
     },
     "40_Evergreens": {
-      "0": 1,
+      "0": 4,
       "1": 2,
       "2": 0,
       "3": 0,
@@ -9338,7 +9348,7 @@
     "/": {
       "Mon": 296,
       "Tue": 745,
-      "Wed": 1274,
+      "Wed": 1281,
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
@@ -9347,7 +9357,7 @@
     "40_Evergreens": {
       "Mon": 49,
       "Tue": 33,
-      "Wed": 1,
+      "Wed": 4,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
@@ -9410,6 +9420,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/empathy.md\"> empathy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/discipline.md\"> discipline </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/inter-personal communication.md\"> inter-personal communication </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/move to evergreens.md\"> move to evergreens </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anothernewstub.md\"> anothernewstub </a>",
@@ -9458,9 +9470,7 @@
         "<a class=\"internal-link\" href=\"44 Self.md\"> 44 Self </a>",
         "<a class=\"internal-link\" href=\"43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"42 Knowledge Management.md\"> 42 Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"41 Personal.md\"> 41 Personal </a>",
-        "<a class=\"internal-link\" href=\"Hierarchy.md\"> Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/body dysmorphia.md\"> body dysmorphia </a>"
+        "<a class=\"internal-link\" href=\"41 Personal.md\"> 41 Personal </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
@@ -9516,6 +9526,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/401 Content Areas.md\"> 401 Content Areas </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/discipline.md\"> discipline </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/inter-personal communication.md\"> inter-personal communication </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/newstub.md\"> newstub </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anothernewstub.md\"> anothernewstub </a>",
@@ -9563,10 +9576,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MVC.md\"> MVC </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes-2.md\"> articles_Learn yaml in Y Minutes-2 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md\"> articles_Learn yaml in Y Minutes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Operating Systems.md\"> Operating Systems </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md\"> articles_Learn yaml in Y Minutes </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9651,6 +9661,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/worldview.md\"> worldview </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
@@ -9699,9 +9711,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Self.md\"> 44 Self </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>",
@@ -9902,7 +9912,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -9918,6 +9929,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/newtest.md\"> newtest </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
@@ -9966,9 +9979,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

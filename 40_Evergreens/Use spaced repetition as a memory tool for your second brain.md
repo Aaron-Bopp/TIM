@@ -3,8 +3,8 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-29
-sr-interval: 4
+sr-due: 2021-12-21
+sr-interval: 13
 sr-ease: 179
 ---
 
@@ -18,7 +18,7 @@ Sometimes these connections can be made almost completely autonomously, but in t
 This introduces [[friction]], which is in direct contradiction to the [[philosophy]] of [[My TIM]]:
 [[Your second brain should be frictionless access to a curated base of knowledge]]
 
-[[Spaced repetition]] can help allieviate this friction, by helping our first brain make connections in our second brain.
+[[Spaced repetition]] can help alleviate this friction, by helping our first brain make connections in our second brain.
 %%^[For me, this is especially helpful because [[Neurodivergent people cannot stop their brain from solving problems]].]%%
 Because this process is fruitful for creating connections it makes it vital in creating a strong [[second brain]], because [[Webs of thought are densely linked]]. 
 

@@ -3,9 +3,9 @@ created: 2021-11-02
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-29
-sr-interval: 13
-sr-ease: 210
+sr-due: 2021-12-16
+sr-interval: 8
+sr-ease: 190
 ---
 
 #### [[Everybody can't be a capitalist]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

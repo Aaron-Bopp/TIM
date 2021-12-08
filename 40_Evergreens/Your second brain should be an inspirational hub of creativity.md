@@ -3,8 +3,8 @@ created: 2021-05-22
 tags: node/evergreen
 aliases:
   - Creating thought with a second brain
-sr-due: 2021-11-30
-sr-interval: 14
+sr-due: 2022-01-21
+sr-interval: 44
 sr-ease: 243
 ---
 
@@ -14,7 +14,7 @@ If your primary goal is to create thought, then your system should be setup in a
 
 One universal truth is that your [[second brain]] should not be a hindrance to creating. [[Friction is the number one hindrance to learning]] and [[Fear is the number one hindrance to trying]], so [[When in doubt, write what you think]]
 
-Structure is only helpful in that it reduces friction, but it should not be a hindrance to your creativity: [[Prioritize organization over categorization to avoid cognitive bias]]
+Structure is only helpful in that it reduces friction, but it should not be a hindrance to your creativity: [[Only use organization systems as far as they are useful]]
 
 As you are creating thought it is important to recoginize [[The fragility of nodes in a second brain]]:
 - [[Write your notes like you're planting an evergreen forest]]
@@ -24,7 +24,7 @@ As you are creating thought it is important to recoginize [[The fragility of nod
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/GROWING 
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[creativity]], [[note writing]], [[My TIM]]

@@ -2,9 +2,9 @@
 created: 2021-06-12
 tags: node/evergreen
 date modified: Monday, October 18th 2021, 11:16:49 pm
-sr-due: 2021-11-30
-sr-interval: 14
-sr-ease: 219
+sr-due: 2021-12-17
+sr-interval: 9
+sr-ease: 199
 ---
 
 #### [[Human's have an inability to admit that they are wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,7 +19,7 @@ The fundamental [[Neuroscience|neurological]] process behind this is [[Rationali
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/GROWING 
+**Status**:: #EVER/GREEN/PRUNE  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]
