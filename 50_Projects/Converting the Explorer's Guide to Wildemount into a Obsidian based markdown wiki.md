@@ -30,6 +30,7 @@ If you are an [[TTRPG]] game master with a lot of motivation, or a novice progra
 
 ## Tools
 
+
 - Getting plaintext files
     - [MarkDownload - Markdown Web Clipper](https://forum.obsidian.md/t/markdownload-markdown-web-clipper/173)
 - Seperating sections in seperate files

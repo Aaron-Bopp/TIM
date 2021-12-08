@@ -8340,11 +8340,6 @@
       "tags": 2,
       "links": 9
     },
-    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md": {
-      "size": 6807,
-      "tags": 2,
-      "links": 21
-    },
     "30_Topics/31_Stubs/Github.md": {
       "size": 1238,
       "tags": 1,
@@ -9254,17 +9249,27 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "00_Meta/Templates/move to evergreens.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md": {
+      "size": 6807,
+      "tags": 2,
+      "links": 21
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1607,
-      "Create": 2032,
+      "Refactor": 1611,
+      "Create": 2033,
       "Link": 3455,
       "Expand": 268
     },
     "40_Evergreens": {
-      "Refactor": 44,
+      "Refactor": 45,
       "Create": 2,
       "Link": 61,
       "Expand": 108
@@ -9294,7 +9299,7 @@
       "19": 196,
       "20": 154,
       "21": 215,
-      "22": 243,
+      "22": 248,
       "23": 218
     },
     "40_Evergreens": {
@@ -9320,14 +9325,14 @@
       "19": 15,
       "20": 20,
       "21": 22,
-      "22": 6,
+      "22": 7,
       "23": 1
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 296,
-      "Tue": 738,
+      "Tue": 743,
       "Wed": 1273,
       "Thu": 399,
       "Fri": 99,
@@ -9336,7 +9341,7 @@
     },
     "40_Evergreens": {
       "Mon": 49,
-      "Tue": 32,
+      "Tue": 33,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -9400,6 +9405,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/empathy.md\"> empathy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/move to evergreens.md\"> move to evergreens </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anothernewstub.md\"> anothernewstub </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/newstub.md\"> newstub </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub 1.md\"> 31_Stubsanothernewstub 1 </a>",
@@ -9449,10 +9455,13 @@
         "<a class=\"internal-link\" href=\"41 Personal.md\"> 41 Personal </a>",
         "<a class=\"internal-link\" href=\"Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/body dysmorphia.md\"> body dysmorphia </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/Get Qoute.md\"> Get Qoute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Get Qoute.md\"> Get Qoute </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
+        "<a class=\"internal-link\" href=\"40_EvergreensConverting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> 40_EvergreensConverting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md\"> My unfulfilled need for parental validation became a fear of rejection and disregarment of affection </a>",
@@ -9499,11 +9508,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Personal.md\"> 41 Personal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/401 Content Areas.md\"> 401 Content Areas </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/401 Content Areas.md\"> 401 Content Areas </a>",
-        "<a class=\"internal-link\" href=\"42 Knowledge Management.md\"> 42 Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"41 Personal.md\"> 41 Personal </a>",
-        "<a class=\"internal-link\" href=\"43 Mental Health.md\"> 43 Mental Health </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/401 Content Areas.md\"> 401 Content Areas </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/newstub.md\"> newstub </a>",
@@ -9880,7 +9885,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/newtest.md\"> newtest </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/newtest.md\"> newtest </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
