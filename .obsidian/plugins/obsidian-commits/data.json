@@ -6980,66 +6980,6 @@
       "tags": 1,
       "links": 1
     },
-    "10_Sources/Personal/I relate to.md": {
-      "size": 13186,
-      "tags": 1,
-      "links": 26
-    },
-    "10_Sources/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md": {
-      "size": 911,
-      "tags": 4,
-      "links": 8
-    },
-    "10_Sources/Personal/Acting Bio.md": {
-      "size": 849,
-      "tags": 3,
-      "links": 4
-    },
-    "10_Sources/Personal/How I process repressed emotions.md": {
-      "size": 4519,
-      "tags": 2,
-      "links": 9
-    },
-    "10_Sources/Personal/I have a stored up emotion of hating myself.md": {
-      "size": 1270,
-      "tags": 5,
-      "links": 11
-    },
-    "10_Sources/Personal/I thought negative emotions were natural and that positive emotions weren't real.md": {
-      "size": 2428,
-      "tags": 2,
-      "links": 15
-    },
-    "10_Sources/Personal/In order to for my parents to love me, they need to admit they might be wrong.md": {
-      "size": 1799,
-      "tags": 3,
-      "links": 12
-    },
-    "10_Sources/Personal/My relationship with my parents.md": {
-      "size": 1079,
-      "tags": 3,
-      "links": 11
-    },
-    "10_Sources/Personal/What is my path to happiness.md": {
-      "size": 1098,
-      "tags": 3,
-      "links": 12
-    },
-    "10_Sources/Personal/Journal.md": {
-      "size": 22860,
-      "tags": 2,
-      "links": 52
-    },
-    "10_Sources/Personal/Nathan Eloe.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "10_Sources/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 2
-    },
     "00_Meta/Templates/STUB.md": {
       "size": 148,
       "tags": 0,
@@ -8615,16 +8555,6 @@
       "tags": 1,
       "links": 10
     },
-    "10_Sources/Personal/my emotions.md": {
-      "size": 380,
-      "tags": 2,
-      "links": 2
-    },
-    "10_Sources/Personal/my parents.md": {
-      "size": 302,
-      "tags": 2,
-      "links": 1
-    },
     "30_Topics/31_Stubs/political strategy.md": {
       "size": 528,
       "tags": 1,
@@ -8790,11 +8720,6 @@
       "tags": 2,
       "links": 14
     },
-    "10_Sources/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 2
-    },
     "30_Topics/31_Stubs/culture.md": {
       "size": 0,
       "tags": 1,
@@ -8925,11 +8850,6 @@
       "tags": 1,
       "links": 3
     },
-    "00_Meta/Primary Sources/Pyschology/Worksheet 4.md": {
-      "size": 7346,
-      "tags": 0,
-      "links": 4
-    },
     "40_Evergreens/Better tools allow us to be less disciplined and more productive.md": {
       "size": 1174,
       "tags": 2,
@@ -9045,11 +8965,6 @@
       "tags": 1,
       "links": 0
     },
-    "10_Sources/Personal/I have always longed to show my authentic self to the world.md": {
-      "size": 0,
-      "tags": 3,
-      "links": 1
-    },
     "40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md": {
       "size": 1244,
       "tags": 3,
@@ -9103,17 +9018,17 @@
     "40_Evergreens/43 Mental Health.md": {
       "size": 2009,
       "tags": 0,
-      "links": 34
+      "links": 35
     },
     "40_Evergreens/46 Politics.md": {
       "size": 1940,
       "tags": 0,
-      "links": 36
+      "links": 43
     },
     "40_Evergreens/47 Humanity.md": {
       "size": 2501,
       "tags": 0,
-      "links": 46
+      "links": 50
     },
     "40_Evergreens/48 Technology.md": {
       "size": 761,
@@ -9121,9 +9036,9 @@
       "links": 18
     },
     "40_Evergreens/49 Conclusions.md": {
-      "size": 1035,
+      "size": 852,
       "tags": 0,
-      "links": 17
+      "links": 16
     },
     "40_Evergreens/45 Religion.md": {
       "size": 1680,
@@ -9158,7 +9073,7 @@
     "40_Evergreens/44 Identity.md": {
       "size": 1585,
       "tags": 0,
-      "links": 26
+      "links": 31
     },
     "30_Topics/32_Terms/Johnny Decimal System.md": {
       "size": 129,
@@ -9234,19 +9149,114 @@
       "size": 1048,
       "tags": 0,
       "links": 9
+    },
+    "00_Meta/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "00_Meta/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "00_Meta/Personal/Acting Bio.md": {
+      "size": 849,
+      "tags": 3,
+      "links": 4
+    },
+    "00_Meta/Personal/How I process repressed emotions.md": {
+      "size": 4519,
+      "tags": 2,
+      "links": 9
+    },
+    "00_Meta/Personal/I have a stored up emotion of hating myself.md": {
+      "size": 1270,
+      "tags": 5,
+      "links": 11
+    },
+    "00_Meta/Personal/I have always longed to show my authentic self to the world.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 1
+    },
+    "00_Meta/Personal/I relate to.md": {
+      "size": 13186,
+      "tags": 1,
+      "links": 26
+    },
+    "00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md": {
+      "size": 2428,
+      "tags": 2,
+      "links": 15
+    },
+    "00_Meta/Personal/In order to for my parents to love me, they need to admit they might be wrong.md": {
+      "size": 1799,
+      "tags": 3,
+      "links": 12
+    },
+    "00_Meta/Personal/Journal.md": {
+      "size": 22860,
+      "tags": 2,
+      "links": 52
+    },
+    "00_Meta/Personal/my emotions.md": {
+      "size": 380,
+      "tags": 2,
+      "links": 2
+    },
+    "00_Meta/Personal/my parents.md": {
+      "size": 302,
+      "tags": 2,
+      "links": 1
+    },
+    "00_Meta/Personal/My relationship with my parents.md": {
+      "size": 1079,
+      "tags": 3,
+      "links": 11
+    },
+    "00_Meta/Personal/Nathan Eloe.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md": {
+      "size": 911,
+      "tags": 4,
+      "links": 8
+    },
+    "00_Meta/Personal/What is my path to happiness.md": {
+      "size": 1098,
+      "tags": 3,
+      "links": 12
+    },
+    "10_Sources/Worksheet 4.md": {
+      "size": 7346,
+      "tags": 0,
+      "links": 4
+    },
+    "30_Topics/31_Stubs/democracy].md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/democracy.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1571,
-      "Create": 2013,
-      "Link": 3438,
+      "Refactor": 1592,
+      "Create": 2015,
+      "Link": 3449,
       "Expand": 268
     },
     "40_Evergreens": {
-      "Refactor": 40,
+      "Refactor": 44,
       "Create": 2,
-      "Link": 52,
+      "Link": 61,
       "Expand": 108
     }
   },
@@ -9269,7 +9279,7 @@
       "14": 2252,
       "15": 125,
       "16": 880,
-      "17": 1503,
+      "17": 1537,
       "18": 188,
       "19": 196,
       "20": 154,
@@ -9295,7 +9305,7 @@
       "14": 1,
       "15": 0,
       "16": 1,
-      "17": 0,
+      "17": 13,
       "18": 0,
       "19": 15,
       "20": 20,
@@ -9307,7 +9317,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 296,
-      "Tue": 666,
+      "Tue": 700,
       "Wed": 1273,
       "Thu": 399,
       "Fri": 99,
@@ -9316,7 +9326,7 @@
     },
     "40_Evergreens": {
       "Mon": 49,
-      "Tue": 19,
+      "Tue": 32,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -9380,6 +9390,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/empathy.md\"> empathy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy.md\"> democracy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy].md\"> democracy] </a>",
         "<a class=\"internal-link\" href=\"obsidi.md\"> obsidi </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
@@ -9428,11 +9440,26 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This is american life.md\"> podcast_Unteachable Moment_This is american life </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge work.md\"> knowledge work </a>",
-        "<a class=\"internal-link\" href=\"kin selection.md\"> kin selection </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Loving the Loves of Your Loves.md\"> Loving the Loves of Your Loves </a>"
+        "<a class=\"internal-link\" href=\"kin selection.md\"> kin selection </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"10_Sources/Worksheet 4.md\"> Worksheet 4 </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md\"> My unfulfilled need for parental validation became a fear of rejection and disregarment of affection </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Nathan Eloe.md\"> Nathan Eloe </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/My relationship with my parents.md\"> My relationship with my parents </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/my parents.md\"> my parents </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/my emotions.md\"> my emotions </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\"> In order to for my parents to love me, they need to admit they might be wrong </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\"> I thought negative emotions were natural and that positive emotions weren't real </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/How I process repressed emotions.md\"> How I process repressed emotions </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Acting Bio.md\"> Acting Bio </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md\"> 'Don't be the reason that rules exist' - Nathan Eloe </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 Index.md\"> 205 Index </a>",
         "<a class=\"internal-link\" href=\"20_Entry/202 Now.md\"> 202 Now </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
@@ -9466,26 +9493,11 @@
         "<a class=\"internal-link\" href=\"20_Entry/401 Content Areas.md\"> 401 Content Areas </a>",
         "<a class=\"internal-link\" href=\"42 Knowledge Management.md\"> 42 Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"41 Personal.md\"> 41 Personal </a>",
-        "<a class=\"internal-link\" href=\"43 Mental Health.md\"> 43 Mental Health </a>",
-        "<a class=\"internal-link\" href=\"44 Self.md\"> 44 Self </a>",
-        "<a class=\"internal-link\" href=\"46 Politics.md\"> 46 Politics </a>",
-        "<a class=\"internal-link\" href=\"47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"48 Technology.md\"> 48 Technology </a>",
-        "<a class=\"internal-link\" href=\"49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"401 Personal.md\"> 401 Personal </a>",
-        "<a class=\"internal-link\" href=\"409 Conclusions.md\"> 409 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"408 Technology.md\"> 408 Technology </a>",
-        "<a class=\"internal-link\" href=\"407 Humanity.md\"> 407 Humanity </a>",
-        "<a class=\"internal-link\" href=\"406 Politics.md\"> 406 Politics </a>",
-        "<a class=\"internal-link\" href=\"404 Self.md\"> 404 Self </a>",
-        "<a class=\"internal-link\" href=\"403 Mental Health.md\"> 403 Mental Health </a>",
-        "<a class=\"internal-link\" href=\"402 Knowledge Management.md\"> 402 Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/204 Content Areas.md\"> 204 Content Areas </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/203 Me.md\"> 203 Me </a>"
+        "<a class=\"internal-link\" href=\"43 Mental Health.md\"> 43 Mental Health </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy.md\"> democracy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy].md\"> democracy] </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/structure.md\"> structure </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/organization.md\"> organization </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
@@ -9534,9 +9546,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Intergroup contact theory.md\"> Intergroup contact theory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md\"> articles_The Top 10 Strategies for Reducing Prejudice </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Hank Green.md\"> tweets_Tweets From Hank Green </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9564,6 +9574,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Content Areas.md\"> 204 Content Areas </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
@@ -9620,6 +9631,15 @@
         "<a class=\"internal-link\" href=\"30_Topics/supply-side economics.md\"> supply-side economics </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/My TIM.md\"> My TIM </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -9661,16 +9681,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>",
@@ -9726,6 +9737,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"20_Entry/202 NOW.md\"> 202 NOW </a>",
@@ -9773,10 +9787,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Monster of the Week.md\"> Monster of the Week </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group.md\"> Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md\"> 1 What is Gender </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/gender.md\"> gender </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group.md\"> Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group </a>"
       ]
     },
     "40_Evergreens": {
@@ -9876,6 +9887,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
@@ -9885,6 +9897,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/newtest.md\"> newtest </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to reject an unjust world.md\"> Humans have decided to reject an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
@@ -9927,7 +9940,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
@@ -9940,7 +9960,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>"
       ]
     }
   },

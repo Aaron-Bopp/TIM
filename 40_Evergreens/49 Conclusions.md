@@ -1,7 +1,5 @@
 - [[49 Conclusions]]
 	- [[Our brain will do anything it can to protect itself]]
-	- [[The three main questions of life]]
-	- [[The injustice of endurance]]
 	- [[Look for understanding before you look for solutions]]
 	- [[Stupid rules are meant to be broken]]
 	- [[Knowledge of the world is painful]]
@@ -15,3 +13,4 @@
 	- [[We are confined to the tools of our time]]
 	- [[Communities are knowledge graphs]]
 	- [[We will evolve when we make learning as easy as thinking]]
+	- [[Gender is a social construct]]

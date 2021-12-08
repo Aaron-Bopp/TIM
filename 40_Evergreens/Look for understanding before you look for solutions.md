@@ -16,7 +16,7 @@ This note is more about [[socialization|inter-personal communication]] and [[Sea
 
 Solutions oriented people are too often focused on sharing rather than listening.
 Instead of actually engaging with the material conditions of the situation,
-and finding a commonground and productive solutions.
+and finding a common ground and productive solutions.
 
 When communicating with people you don't know (such as through the internet) [[empathy]] is the first and most important thing you should convey. If you do not show a willingness to understand somebody's opinion, they will not give you the time of day. Looking for understanding first will also lead to better outcomes when trying to convince someone of your solution 
 
@@ -33,7 +33,7 @@ This is ironic because [[The materialistic view of religions examines why humans
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[socialization|inter-personal communication]]
