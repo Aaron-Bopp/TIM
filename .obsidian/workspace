@@ -4,136 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2c876d986805cfdd",
+        "id": "f1adcf2326ec2b32",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
-            "mode": "preview"
+            "file": "00_Meta/Templates/create stubs.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "2c876d986805cfdd",
+              "leaf": "f1adcf2326ec2b32",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":2.015748031496063}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":55},\"to\":{\"line\":10,\"ch\":55}}}"
             },
             {
-              "leaf": "2c876d986805cfdd",
+              "leaf": "f1adcf2326ec2b32",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0.8000000317891439}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":8.694117826573988}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/47 Humanity.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Do we have free will.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/47 Humanity.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/44 Identity.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/self-actualization.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/self-hate.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An unfulfilled need for validation results in a fear of rejection.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/self-hate.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sometimes we can't grow until we change our environment.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/self-love.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/self-hate.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/self-actualization.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2c876d986805cfdd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -187,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+                "file": "00_Meta/Templates/create stubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -220,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+                "file": "00_Meta/Templates/create stubs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,13 +137,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 440,
-    "collapsed": true
+    "width": 440
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -267,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md"
+                "file": "00_Meta/Templates/create stubs.md"
               }
             },
             "pane-relief:history-v1": {
@@ -324,30 +214,6 @@
             }
           },
           {
-            "id": "b58bc6f9e2a76554",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "2ff00b5464d1cd41",
-            "type": "leaf",
-            "state": {
-              "type": "BC-down",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "daf265964b119d92",
             "type": "leaf",
             "state": {
@@ -384,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+                "file": "00_Meta/Templates/create stubs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -491,19 +357,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 708
+    "width": 708,
+    "collapsed": true
   },
-  "active": "2c876d986805cfdd",
+  "active": "f1adcf2326ec2b32",
   "lastOpenFiles": [
+    "00_Meta/Templates/create stubs.md",
+    "test.md",
+    "newstub.md",
+    "anothernewstub.md",
+    "[.md",
+    "30_Topics/31_Stubs/democracy].md",
+    "30_Topics/33_Tools/Templater.md",
     "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
     "40_Evergreens/Organization systems are not mutually exclusive.md",
-    "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
-    "00_Meta/Attachments/Pasted image 20211207012526.png",
-    "40_Evergreens/42 Knowledge Management.md",
-    "40_Evergreens/41 Inbox.md",
-    "40_Evergreens/43 Mental Health.md",
-    "40_Evergreens/44 Identity.md",
-    "40_Evergreens/45 Religion.md",
-    "40_Evergreens/46 Politics.md"
+    "40_Evergreens/Use Obsidian tags as temporal classifiers.md"
   ]
 }

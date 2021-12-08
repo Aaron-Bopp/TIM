@@ -9235,12 +9235,22 @@
       "tags": 0,
       "links": 4
     },
-    "30_Topics/31_Stubs/democracy].md": {
+    "30_Topics/31_Stubs/democracy.md": {
       "size": 0,
       "tags": 1,
       "links": 0
     },
-    "30_Topics/31_Stubs/democracy.md": {
+    "00_Meta/Templates/create stubs.md": {
+      "size": 528,
+      "tags": 0,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/newstub.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/anothernewstub.md": {
       "size": 0,
       "tags": 1,
       "links": 0
@@ -9248,9 +9258,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1592,
-      "Create": 2015,
-      "Link": 3449,
+      "Refactor": 1607,
+      "Create": 2032,
+      "Link": 3455,
       "Expand": 268
     },
     "40_Evergreens": {
@@ -9283,7 +9293,7 @@
       "18": 188,
       "19": 196,
       "20": 154,
-      "21": 177,
+      "21": 215,
       "22": 243,
       "23": 218
     },
@@ -9317,7 +9327,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 296,
-      "Tue": 700,
+      "Tue": 738,
       "Wed": 1273,
       "Thu": 399,
       "Fri": 99,
@@ -9390,6 +9400,23 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/empathy.md\"> empathy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anothernewstub.md\"> anothernewstub </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/newstub.md\"> newstub </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub 1.md\"> 31_Stubsanothernewstub 1 </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsnewstub 1.md\"> 31_Stubsnewstub 1 </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub.md\"> 31_Stubsanothernewstub </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsnewstub.md\"> 31_Stubsnewstub </a>",
+        "<a class=\"internal-link\" href=\"anothernewstub.md\"> anothernewstub </a>",
+        "<a class=\"internal-link\" href=\"newstub.md\"> newstub </a>",
+        "<a class=\"internal-link\" href=\"anothernewstub.md\"> anothernewstub </a>",
+        "<a class=\"internal-link\" href=\"newstub.md\"> newstub </a>",
+        "<a class=\"internal-link\" href=\"anothernewstub.md\"> anothernewstub </a>",
+        "<a class=\"internal-link\" href=\"newstub.md\"> newstub </a>",
+        "<a class=\"internal-link\" href=\"[.md\"> [ </a>",
+        "<a class=\"internal-link\" href=\"[.md\"> [ </a>",
+        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy.md\"> democracy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy].md\"> democracy] </a>",
         "<a class=\"internal-link\" href=\"obsidi.md\"> obsidi </a>",
@@ -9423,24 +9450,7 @@
         "<a class=\"internal-link\" href=\"Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/body dysmorphia.md\"> body dysmorphia </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/Get Qoute.md\"> Get Qoute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
-        "<a class=\"internal-link\" href=\"cognitive bias.md\"> cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
-        "<a class=\"internal-link\" href=\"Whiteness was created as a societal structure.md\"> Whiteness was created as a societal structure </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rationalizations.md\"> rationalizations </a>",
-        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md\"> johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Zotero/johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/This is a test note evergreen with a normal size filename.md\"> This is a test note evergreen with a normal size filename </a>",
-        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>",
-        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
-        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020.md\"> andrews.winstonScientificRacismNorth2020 </a>",
-        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/podcast_Unteachable Moment_This is american life.md\"> podcast_Unteachable Moment_This is american life </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge work.md\"> knowledge work </a>",
-        "<a class=\"internal-link\" href=\"kin selection.md\"> kin selection </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"10_Sources/Worksheet 4.md\"> Worksheet 4 </a>",
@@ -9496,6 +9506,10 @@
         "<a class=\"internal-link\" href=\"43 Mental Health.md\"> 43 Mental Health </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/newstub.md\"> newstub </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anothernewstub.md\"> anothernewstub </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsnewstub.md\"> 31_Stubsnewstub </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub.md\"> 31_Stubsanothernewstub </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy.md\"> democracy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy].md\"> democracy] </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/structure.md\"> structure </a>",
@@ -9542,11 +9556,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Operating Systems.md\"> Operating Systems </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md\"> I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/QOUTE-TEMPLATE.md\"> QOUTE-TEMPLATE </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Intergroup contact theory.md\"> Intergroup contact theory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md\"> articles_The Modern JavaScript Tutorial </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_You Can Learn Some Key M....md\"> tweets_You Can Learn Some Key M... </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9578,6 +9588,21 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsnewstub.md\"> 31_Stubsnewstub </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub.md\"> 31_Stubsanothernewstub </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsnewstub 1.md\"> 31_Stubsnewstub 1 </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub 1.md\"> 31_Stubsanothernewstub 1 </a>",
+        "<a class=\"internal-link\" href=\"newstub.md\"> newstub </a>",
+        "<a class=\"internal-link\" href=\"anothernewstub.md\"> anothernewstub </a>",
+        "<a class=\"internal-link\" href=\"newstub.md\"> newstub </a>",
+        "<a class=\"internal-link\" href=\"anothernewstub.md\"> anothernewstub </a>",
+        "<a class=\"internal-link\" href=\"newstub.md\"> newstub </a>",
+        "<a class=\"internal-link\" href=\"anothernewstub.md\"> anothernewstub </a>",
+        "<a class=\"internal-link\" href=\"[.md\"> [ </a>",
+        "<a class=\"internal-link\" href=\"[.md\"> [ </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy].md\"> democracy] </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
         "<a class=\"internal-link\" href=\"obsidi.md\"> obsidi </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/newtest.md\"> newtest </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
@@ -9613,24 +9638,11 @@
         "<a class=\"internal-link\" href=\"00_Meta/Scripts/obs_tools/forward_linker/README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/21st Century America.md\"> 21st Century America </a>",
         "<a class=\"internal-link\" href=\"30_Topics/yoga.md\"> yoga </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/worldview.md\"> worldview </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/women.md\"> women </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Wikipedia (plugin, obsidian).md\"> Wikipedia (plugin, obsidian) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/white supremacy.md\"> white supremacy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Vim.md\"> Vim </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Vector.md\"> Vector </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/User Space.md\"> User Space </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Unity (game engine).md\"> Unity (game engine) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/unconditional love.md\"> unconditional love </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/transphobia.md\"> transphobia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Tiktok.md\"> Tiktok </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/theology.md\"> theology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/the culture war.md\"> the culture war </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Term notes.md\"> Term notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/sympathy.md\"> sympathy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/supply-side economics.md\"> supply-side economics </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/worldview.md\"> worldview </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
@@ -9679,9 +9691,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>",
