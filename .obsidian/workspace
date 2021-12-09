@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,8 @@
             {
               "leaf": "ec49362312320dec",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":15.187692260742187}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":34},\"to\":{\"line\":14,\"ch\":34}},\"scroll\":4.612902766832101}"
             },
             {
               "leaf": "ec49362312320dec",
