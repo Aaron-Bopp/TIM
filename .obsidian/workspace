@@ -4,38 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "15a5d1cb56169911",
+        "id": "910121282bf0b1ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/22 Note by status/EVERGREENS.md",
-            "mode": "preview"
+            "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md",
+            "mode": "source",
+            "source": false
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "15a5d1cb56169911",
+              "leaf": "910121282bf0b1ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERGREENS.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":8.285714699297543}"
             },
             {
-              "leaf": "15a5d1cb56169911",
+              "leaf": "910121282bf0b1ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Politicization of the Christian Church.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "15a5d1cb56169911",
+              "leaf": "910121282bf0b1ac",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.053571359640891}"
             },
             {
-              "leaf": "15a5d1cb56169911",
+              "leaf": "910121282bf0b1ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Empathy does not dissallow judgment.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.38392861628411}"
+            },
+            {
+              "leaf": "910121282bf0b1ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "910121282bf0b1ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use highlighter colors to create visual outlines.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":17},\"to\":{\"line\":16,\"ch\":17}}}"
+            },
+            {
+              "leaf": "910121282bf0b1ac",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -91,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/22 Note by status/EVERGREENS.md",
+                "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -124,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/22 Note by status/EVERGREENS.md",
+                "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +168,12 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -170,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/22 Note by status/EVERGREENS.md"
+                "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md"
               }
             },
             "pane-relief:history-v1": {
@@ -263,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/22 Note by status/EVERGREENS.md",
+                "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -370,20 +389,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457,
-    "collapsed": true
+    "width": 457
   },
-  "active": "15a5d1cb56169911",
+  "active": "910121282bf0b1ac",
   "lastOpenFiles": [
+    "40_Evergreens/Religious concepts are often too powerful for a child's mind.md",
+    "40_Evergreens/The Politicization of the Christian Church.md",
+    "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
+    "40_Evergreens/Empathy does not dissallow judgment.md",
+    "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
+    "40_Evergreens/Use highlighter colors to create visual outlines.md",
     "20_Entry/22 Note by status/EVERGREENS.md",
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-    "30_Topics/35_Outlines/human experience.md",
-    "40_Evergreens/47 Humanity.md",
-    "00_Meta/Personal/My relationship with my parents.md",
-    "00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md",
-    "40_Evergreens/An unfulfilled need for validation results in a fear of rejection.md",
-    "40_Evergreens/Look for understanding before you look for solutions.md",
-    "40_Evergreens/My Deconstruction journey.md",
-    "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md"
+    "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
+    "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
+    "20_Entry/201 Welcome.md"
   ]
 }

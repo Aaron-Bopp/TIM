@@ -45,3 +45,17 @@ span.cm-link,
     color: #823ac5f8;
     text-decoration: none;
 }
+
+
+.theme-dark span.list-bullet {
+    visibility: hidden !important;
+    }
+    
+.theme-dark span.list-bullet:after {
+content: '★'; 
+font-size: 14px;
+margin-left: -15px;
+margin-right: 0px;
+color: var(--gold1); 
+visibility: visible !important;
+}

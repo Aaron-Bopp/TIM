@@ -57,7 +57,7 @@
   "lineWrap": true,
   "defaultViewMode": "preview",
   "showFrontmatter": true,
-  "livePreview": false,
+  "livePreview": true,
   "smartIndentList": false,
   "useMarkdownLinks": false
 }

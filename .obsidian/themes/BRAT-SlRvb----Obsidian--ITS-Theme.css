@@ -2543,6 +2543,9 @@ button.mod-warning {
     display: block;
 }
 
+/*Remove Empty Div to Fix Folder Adjusting When Open*/
+.nav-folder-children > div:not(.nav-folder):not(.nav-file) { display: none; }
+
 /*Nav Folder/File Icons*/
 .nav-folder-children .nav-folder-title-content::before,
 .nav-file-title .nav-file-title-content::before {
@@ -6061,6 +6064,8 @@ ul.kanban ul {
 }
 
 
+
+
 /*----Image Positions/Adjustments----*/
 
 /*Captions*/
@@ -7445,9 +7450,8 @@ body.mtb.AT-multirow .mobile-toolbar-options-container {
 .obsidian-icon-folder-icon + .nav-file-title-content,
 .obsidian-icon-folder-icon + .nav-folder-title-content { padding: unset; }
 
-.obsidian-icon-folder-icon + .nav-file-title-content::before,
-.obsidian-icon-folder-icon + .nav-file-title-content::before,
-.obsidian-icon-folder-icon + .nav-folder-title-content::before { display: none; }
+.obsidian-icon-folder-icon + div.nav-file-title-content::before,
+.obsidian-icon-folder-icon + div.nav-folder-title-content::before { display: none; }
 
 
 .theme-dark, .theme-light {

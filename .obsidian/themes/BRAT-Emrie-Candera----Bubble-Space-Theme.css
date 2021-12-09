@@ -5936,17 +5936,18 @@ Hide Aside and hover to reveal it*/
 
         /* Edit mode unordered list dash rendered as dot for WYSIWYG */
         
-        .theme-dark span.cm-formatting-list-ul {
+        /* .theme-dark span.list-bullet {
         visibility: hidden !important;
         }
         
-        .theme-dark span.cm-formatting-list-ul:after {
+        .theme-dark span.list-bullet:after {
         content: '★ '; 
         font-size: 14px;
         margin-left: -15px;
+        margin-right: 0px;
         color: var(--gold1); 
         visibility: visible !important;
-        }
+        } */
 
         .theme-dark ul li::marker {
         color: var(--gold1);
