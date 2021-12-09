@@ -1018,24 +1018,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                "file": "20_Entry/22 Note by status/EVERGREENS.md",
                 "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
                 {
                   "leaf": "15a5d1cb56169911",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/47 Humanity.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERGREENS.md\",\"mode\":\"preview\"}}",
                   "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "15a5d1cb56169911",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
                 },
                 {
                   "leaf": "15a5d1cb56169911",
@@ -1106,7 +1100,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "file": "20_Entry/22 Note by status/EVERGREENS.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -1139,7 +1133,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "file": "20_Entry/22 Note by status/EVERGREENS.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -1185,7 +1179,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
+                    "file": "20_Entry/22 Note by status/EVERGREENS.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -1278,7 +1272,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "file": "20_Entry/22 Note by status/EVERGREENS.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1385,7 +1379,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 457
+        "width": 457,
+        "collapsed": true
       },
       "active": "15a5d1cb56169911"
     }
