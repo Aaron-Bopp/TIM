@@ -3,9 +3,9 @@ created: 2021-12-03
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-04
+sr-due: 2021-12-09
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 #### [[Use highlighter colors to create visual outlines]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

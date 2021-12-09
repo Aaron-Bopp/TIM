@@ -77,7 +77,7 @@ source: NWMSU
             - equal pay for [[women]]
             - dodd-frank act - addressed issues that caused 2008
     - Election of 2010
-        - [[republicans]] retook both houses
+        - [[Republican]] retook both houses
         - both parties stopped pursuing legislative goals
     - [[Foreign Policy]]
         - Declared that he would end the wars

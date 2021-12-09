@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-05
-sr-interval: 13
+sr-due: 2022-01-11
+sr-interval: 34
 sr-ease: 248
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 248
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[Conservatism]], [[cognitive dissonance]]

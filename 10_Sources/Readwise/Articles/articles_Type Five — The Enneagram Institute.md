@@ -23,7 +23,7 @@ deliveredBy:
 # Highlights
 ##### ^212177675
   
-> Fives are alert, insightful, and curious. They are able to concentrate and focus on developing complex ideas and skills. Independent, innovative, and inventive, they can also become preoccupied with their thoughts and imaginary constructs. They become detached, yet high-strung and intense. They typically have problems with eccentricity, nihilism, and isolation. At their Best: visionary pioneers, often ahead of their time, and able to see the world in an entirely new way. 
+> Fives are alert, insightful, and curious. They are able to concentrate and focus on developing complex ideas and skills. Independent, innovative, and inventive, they can also become preoccupied with their thoughts and imaginary constructs. They become detached, yet high-strung and intense. They typically have problems with eccentricity, [[nihilism]], and isolation. At their Best: visionary pioneers, often ahead of their time, and able to see the world in an entirely new way. 
   [^212177675]
 
 [^212177675]:  https://enneagraminstitute.com/type-5?__readwiseLocation=0%2F1%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A0%2C0%2F1%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A475#:~:text=Fives%20are%20alert%2C%20insightful%2C%20and%2Cin%20an%20entirely%20new%20way.

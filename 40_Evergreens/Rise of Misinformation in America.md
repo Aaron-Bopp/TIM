@@ -3,9 +3,9 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-01
-sr-interval: 10
-sr-ease: 267
+sr-due: 2021-12-14
+sr-interval: 6
+sr-ease: 247
 ---
 
 #### [[Rise of Misinformation in America]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

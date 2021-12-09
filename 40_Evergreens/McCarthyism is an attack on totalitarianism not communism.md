@@ -3,9 +3,9 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-01
-sr-interval: 10
-sr-ease: 269
+sr-due: 2021-12-13
+sr-interval: 5
+sr-ease: 249
 ---
 
 #### [[McCarthyism is an attack on totalitarianism not communism]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,7 +18,7 @@ McCarthy's attack on [[Communism]] is an integral foundation for [[Reagan]]'s pr
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[America]], [[Politics]], [[Communism]], 

@@ -3,9 +3,9 @@ created: 2021-11-02
 aliases:
 - 
 tags: node/evergreen
-sr-due: 2021-12-02
-sr-interval: 16
-sr-ease: 210
+sr-due: 2021-12-19
+sr-interval: 11
+sr-ease: 190
 ---
 
 #### [[Negative influences are stronger than positive influences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

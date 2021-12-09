@@ -1,8 +1,8 @@
 ---
 created: 2021-06-24
 tags: node/evergreen
-sr-due: 2021-12-01
-sr-interval: 6
+sr-due: 2021-12-29
+sr-interval: 21
 sr-ease: 209
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 209
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[childhood]], [[Behavioral Pyschology]]

@@ -3,8 +3,8 @@ created: 2021-10-19
 aliases:
   - humans love for grouping eachother
 tags: node/evergreen
-sr-due: 2021-12-04
-sr-interval: 9
+sr-due: 2022-01-03
+sr-interval: 26
 sr-ease: 219
 ---
 

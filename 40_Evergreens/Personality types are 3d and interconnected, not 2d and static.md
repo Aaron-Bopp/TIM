@@ -3,8 +3,8 @@ created: 2021-08-12
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-01
-sr-interval: 27
+sr-due: 2022-02-22
+sr-interval: 76
 sr-ease: 250
 ---
 #### [[Personality types are 3d and interconnected, not 2d and static]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -4,8 +4,8 @@ tags: node/evergreen
 aliases:
   - humans finding explanations for inexplainable things
   - explain unexplainable things
-sr-due: 2021-12-03
-sr-interval: 12
+sr-due: 2022-01-09
+sr-interval: 32
 sr-ease: 250
 ---
 

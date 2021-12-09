@@ -3,10 +3,9 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-date modified: Monday, October 18th 2021, 11:39:39 pm
-sr-due: 2021-12-04
-sr-interval: 16
-sr-ease: 210
+sr-due: 2021-12-18
+sr-interval: 10
+sr-ease: 190
 ---
 
 #### [[Gender is both an intrinsic experience and a necessary expression]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

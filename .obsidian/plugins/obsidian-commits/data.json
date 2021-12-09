@@ -4717,8 +4717,8 @@
     },
     "40_Evergreens/Our ego is our subconscious defense of our self.md": {
       "size": 831,
-      "tags": 2,
-      "links": 7
+      "tags": 3,
+      "links": 8
     },
     "40_Evergreens/Our understanding of gender begins at a very early age.md": {
       "size": 1795,
@@ -4830,11 +4830,6 @@
       "tags": 3,
       "links": 13
     },
-    "40_Evergreens/Source Code.md": {
-      "size": 947,
-      "tags": 2,
-      "links": 4
-    },
     "40_Evergreens/Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group.md": {
       "size": 780,
       "tags": 2,
@@ -4891,9 +4886,9 @@
       "links": 12
     },
     "40_Evergreens/The internet allows niche topics to flourish.md": {
-      "size": 1434,
-      "tags": 3,
-      "links": 11
+      "size": 1743,
+      "tags": 4,
+      "links": 12
     },
     "40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md": {
       "size": 1103,
@@ -4932,8 +4927,8 @@
     },
     "40_Evergreens/Topics are terms that are too broadly defined.md": {
       "size": 893,
-      "tags": 3,
-      "links": 6
+      "tags": 4,
+      "links": 7
     },
     "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable.md": {
       "size": 1998,
@@ -6333,7 +6328,7 @@
     "10_Sources/Readwise/Articles/articles_Type Five — The Enneagram Institute.md": {
       "size": 12823,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Articles/articles_Type Eight — The Enneagram Institute.md": {
       "size": 7953,
@@ -6757,8 +6752,8 @@
     },
     "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md": {
       "size": 2094,
-      "tags": 2,
-      "links": 11
+      "tags": 3,
+      "links": 12
     },
     "40_Evergreens/How can parent's best help their children.md": {
       "size": 974,
@@ -8118,7 +8113,7 @@
     "20_Entry/201 Welcome.md": {
       "size": 4483,
       "tags": 0,
-      "links": 28
+      "links": 29
     },
     "20_Entry/23 Note by type/TopicNotes.md": {
       "size": 656,
@@ -8683,7 +8678,7 @@
     "40_Evergreens/Empathy does not dissallow judgment.md": {
       "size": 2163,
       "tags": 2,
-      "links": 18
+      "links": 19
     },
     "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md": {
       "size": 888,
@@ -8718,7 +8713,7 @@
     "40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md": {
       "size": 1473,
       "tags": 2,
-      "links": 7
+      "links": 8
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖.md": {
       "size": 3072,
@@ -8776,9 +8771,9 @@
       "links": 0
     },
     "40_Evergreens/Be the change you want to see in the world.md": {
-      "size": 0,
+      "size": 643,
       "tags": 2,
-      "links": 4
+      "links": 7
     },
     "40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md": {
       "size": 0,
@@ -8913,7 +8908,7 @@
     "40_Evergreens/Take note of the simple things in life.md": {
       "size": 937,
       "tags": 2,
-      "links": 3
+      "links": 4
     },
     "40_Evergreens/Note structures should help curate knowledge.md": {
       "size": 2558,
@@ -9023,7 +9018,7 @@
     "40_Evergreens/48 Technology.md": {
       "size": 761,
       "tags": 0,
-      "links": 18
+      "links": 17
     },
     "40_Evergreens/49 Conclusions.md": {
       "size": 852,
@@ -9319,20 +9314,70 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "30_Topics/31_Stubs/Republican.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/education.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/[Knowledge of the world is painful.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/[Human's have an inability to admit that they are wrong.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/[Children make wide assumptions about the world.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/34_People/Frank Herbert.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/savior complex.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/nihilism.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/material conditions.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1648,
-      "Create": 2066,
-      "Link": 3488,
-      "Expand": 272
+      "Refactor": 1652,
+      "Create": 2077,
+      "Link": 3513,
+      "Expand": 275
     },
     "40_Evergreens": {
-      "Refactor": 72,
+      "Refactor": 74,
       "Create": 2,
-      "Link": 81,
-      "Expand": 112
+      "Link": 94,
+      "Expand": 115
     }
   },
   "dailyCommits": {
@@ -9358,7 +9403,7 @@
       "18": 188,
       "19": 196,
       "20": 158,
-      "21": 215,
+      "21": 258,
       "22": 248,
       "23": 220
     },
@@ -9384,7 +9429,7 @@
       "18": 0,
       "19": 15,
       "20": 20,
-      "21": 22,
+      "21": 40,
       "22": 7,
       "23": 1
     }
@@ -9393,7 +9438,7 @@
     "/": {
       "Mon": 296,
       "Tue": 745,
-      "Wed": 1378,
+      "Wed": 1421,
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
@@ -9402,7 +9447,7 @@
     "40_Evergreens": {
       "Mon": 49,
       "Tue": 33,
-      "Wed": 51,
+      "Wed": 69,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
@@ -9412,6 +9457,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communites </a>",
@@ -9459,12 +9507,20 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_WebDev FA21.md\"> notes_WebDev FA21 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/What is my path to happiness.md\"> What is my path to happiness </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/material conditions.md\"> material conditions </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/nihilism.md\"> nihilism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/savior complex.md\"> savior complex </a>",
+        "<a class=\"internal-link\" href=\"Frank Herbert.md\"> Frank Herbert </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Children make wide assumptions about the world.md\"> [Children make wide assumptions about the world </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's have an inability to admit that they are wrong.md\"> [Human's have an inability to admit that they are wrong </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md\"> [Human's will find explanations for inexplainable things </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Knowledge of the world is painful.md\"> [Knowledge of the world is painful </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/education.md\"> education </a>",
+        "<a class=\"internal-link\" href=\"republicans.md\"> republicans </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-doubt.md\"> self-doubt </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/food insecurity.md\"> food insecurity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/white guilt.md\"> white guilt </a>",
@@ -9504,20 +9560,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub 1.md\"> 31_Stubsanothernewstub 1 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubsnewstub 1.md\"> 31_Stubsnewstub 1 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub.md\"> 31_Stubsanothernewstub </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsnewstub.md\"> 31_Stubsnewstub </a>",
-        "<a class=\"internal-link\" href=\"anothernewstub.md\"> anothernewstub </a>",
-        "<a class=\"internal-link\" href=\"newstub.md\"> newstub </a>",
-        "<a class=\"internal-link\" href=\"anothernewstub.md\"> anothernewstub </a>",
-        "<a class=\"internal-link\" href=\"newstub.md\"> newstub </a>",
-        "<a class=\"internal-link\" href=\"anothernewstub.md\"> anothernewstub </a>",
-        "<a class=\"internal-link\" href=\"newstub.md\"> newstub </a>",
-        "<a class=\"internal-link\" href=\"[.md\"> [ </a>",
-        "<a class=\"internal-link\" href=\"[.md\"> [ </a>",
-        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsnewstub.md\"> 31_Stubsnewstub </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Frank Herbert.md\"> Frank Herbert </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>",
@@ -9567,10 +9613,23 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/My TIM.md\"> My TIM </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>",
         "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/Content Areas.md\"> Content Areas </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Content Areas.md\"> Content Areas </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/206 Content Areas.md\"> 206 Content Areas </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/Content Areas.md\"> Content Areas </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/savior complex.md\"> savior complex </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/nihilism.md\"> nihilism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/material conditions.md\"> material conditions </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Frank Herbert.md\"> Frank Herbert </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/education.md\"> education </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Knowledge of the world is painful.md\"> [Knowledge of the world is painful </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md\"> [Human's will find explanations for inexplainable things </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's have an inability to admit that they are wrong.md\"> [Human's have an inability to admit that they are wrong </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Children make wide assumptions about the world.md\"> [Children make wide assumptions about the world </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/food insecurity.md\"> food insecurity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-doubt.md\"> self-doubt </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
@@ -9607,21 +9666,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/body dysmorphia.md\"> body dysmorphia </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
-        "<a class=\"internal-link\" href=\"Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rationalizations.md\"> rationalizations </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Zotero/johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
-        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9653,6 +9698,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>",
+        "<a class=\"internal-link\" href=\"republicans.md\"> republicans </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
@@ -9701,11 +9748,20 @@
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020.md\"> andrews.winstonScientificRacismNorth2020 </a>",
         "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
-        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The danger of religious beliefs in early childhood.md\"> The danger of religious beliefs in early childhood </a>",
-        "<a class=\"internal-link\" href=\"test.md\"> test </a>"
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Five — The Enneagram Institute.md\"> articles_Type Five — The Enneagram Institute </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not dissallow judgment.md\"> Empathy does not dissallow judgment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
@@ -9745,18 +9801,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/knowledge graph.md\"> knowledge graph </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/hyperlink.md\"> hyperlink </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>",
@@ -9812,6 +9857,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -9861,12 +9907,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should be loosely defined.md\"> Note structures should be loosely defined </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Monster of the Week.md\"> Monster of the Week </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communites </a>",
@@ -9914,10 +9962,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\"> Faith can be a useful tool for grounding yourself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/First Amendment rights impacts groups not individuals.md\"> First Amendment rights impacts groups not individuals </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender has historically been non-binary.md\"> Gender has historically been non-binary </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/First Amendment rights impacts groups not individuals.md\"> First Amendment rights impacts groups not individuals </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -9976,7 +10021,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10001,9 +10050,19 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not dissallow judgment.md\"> Empathy does not dissallow judgment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
@@ -10045,16 +10104,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/44 Self.md\"> 44 Self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Communities are knowledge graphs.md\"> Communities are knowledge graphs </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
@@ -10073,7 +10123,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>"
       ]
     }
   },

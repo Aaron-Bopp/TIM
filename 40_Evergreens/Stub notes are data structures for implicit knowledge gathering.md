@@ -3,9 +3,9 @@ created: 2021-11-15
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-01
-sr-interval: 10
-sr-ease: 263
+sr-due: 2021-12-15
+sr-interval: 7
+sr-ease: 243
 ---
 
 #### [[Stub notes are data structures for implicit knowledge gathering]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -3,9 +3,9 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-04
-sr-interval: 18
-sr-ease: 230
+sr-due: 2021-12-20
+sr-interval: 12
+sr-ease: 210
 ---
 
 #### [[Nodes in the second brain are an abstraction of our first brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
