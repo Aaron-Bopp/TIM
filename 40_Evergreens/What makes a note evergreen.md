@@ -38,7 +38,6 @@ What is the inuition that drives this process?
 - contrast
     - [[The fragility of nodes in a second brain]]
     -  [[When in doubt, write what you think]]
-- [[What is the difference between a evergreen note and a topic note]]
 
 
 ### <hr class="footnote"/>

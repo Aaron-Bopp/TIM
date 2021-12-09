@@ -3,12 +3,16 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-11-30
-sr-interval: 5
-sr-ease: 150
+sr-due: 2021-12-15
+sr-interval: 7
+sr-ease: 130
 ---
 
 #### [[The anti-vax movement is based off a white lie]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+The original study that started the [[anti-vax]] movement has been rescinded by it's author's, it has never been replicated, and had little support to begin with, yet it has spawned this movement.   #TO/DO/CITE 
+
+#TO/EXPLORE/RESEARCH other causes of this belief [[articles_COVID-19 and the Other Pandemic|COVID-19 and the Other Pandemic]]
 
 - [[Rise of Misinformation in America]]
 - [[MAGA is built off nostalgia not facts]]

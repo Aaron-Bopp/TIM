@@ -1,6 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Bubble Space",
+  "cssTheme": "BRAT-Emrie-Candera----Bubble-Space-Theme",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "adjust-footnotehrpadding",
@@ -11,6 +11,7 @@
     "wordcount_dashboard",
     "obsidian.css.live-preview.list-rainbow-indents",
     "S - Aside",
+    "space-fixes",
     "links"
   ],
   "translucency": false,

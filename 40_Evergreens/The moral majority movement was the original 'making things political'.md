@@ -3,9 +3,9 @@ created: 2021-10-21
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-30
-sr-interval: 9
-sr-ease: 210
+sr-due: 2021-12-13
+sr-interval: 5
+sr-ease: 190
 ---
 
 #### [[The moral majority movement was the original 'making things political']] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

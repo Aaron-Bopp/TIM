@@ -3,6 +3,7 @@
 	- [[Look for understanding before you look for solutions]]
 	- [[Stupid rules are meant to be broken]]
 	- [[Knowledge of the world is painful]]
+	- [[Accepting responsibility is not only about your actions]]
 	- [[Worldviews are wrong if they make life seem easy and simple]]
 	- [[Realism must acknowledge optimism's existence and effectiveness]]
 	- [[The more mistakes you've fixed the more bad decisions you can afford]]

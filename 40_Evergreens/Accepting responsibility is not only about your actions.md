@@ -4,8 +4,8 @@ tags: node/evergreen
 aliases:
   - Accepting responsibility for moving past your trauma
   - Accepting responsibility is about moving forward for yourself and for the people affected by the event
-sr-due: 2021-11-30
-sr-interval: 6
+sr-due: 2022-01-01
+sr-interval: 24
 sr-ease: 242
 ---
 

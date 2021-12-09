@@ -1,6 +1,5 @@
 - [[44 Identity]]
 	- [[self-actualization]]
-		- [[Accepting responsibility is not only about your actions]]
 		- [[Negative influences are stronger than positive influences]]
 		- [[Sometimes we can't grow until we change our environment]]
 		- [[Presentation is the realization of our self-perception and identity is the realization of our self-image]]

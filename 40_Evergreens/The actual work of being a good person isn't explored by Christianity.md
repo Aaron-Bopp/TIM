@@ -3,9 +3,9 @@ created: 2021-10-19
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-11-30
-sr-interval: 8
-sr-ease: 170
+sr-due: 2021-12-12
+sr-interval: 4
+sr-ease: 150
 ---
 
 #### [[The actual work of being a good person isn't explored by Christianity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
