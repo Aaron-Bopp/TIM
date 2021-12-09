@@ -631,29 +631,48 @@
         "type": "split",
         "children": [
           {
-            "id": "ec49362312320dec",
+            "id": "75bb6f7500af4f40",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "75bb6f7500af4f40",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "efcddc003ccf2a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-                "mode": "source"
+                "file": "40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md",
+                "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "ec49362312320dec",
+                  "leaf": "efcddc003ccf2a99",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"scroll\":4.612902766832101}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
                 },
                 {
-                  "leaf": "ec49362312320dec",
+                  "leaf": "efcddc003ccf2a99",
                   "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":3.0967741737008474}"
                 }
               ]
             }
@@ -706,7 +725,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "file": "40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -739,7 +758,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "file": "40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -785,7 +804,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
+                    "file": "40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -902,7 +921,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "file": "40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1011,7 +1030,7 @@
         "direction": "horizontal",
         "width": 708
       },
-      "active": "ec49362312320dec"
+      "active": "efcddc003ccf2a99"
     }
   },
   "active": "16:9 NOW"

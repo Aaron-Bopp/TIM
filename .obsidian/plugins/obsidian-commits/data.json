@@ -9309,13 +9309,23 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "30_Topics/31_Stubs/food insecurity.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/self-doubt.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1648,
-      "Create": 2064,
-      "Link": 3486,
+      "Create": 2066,
+      "Link": 3488,
       "Expand": 272
     },
     "40_Evergreens": {
@@ -9347,7 +9357,7 @@
       "17": 1554,
       "18": 188,
       "19": 196,
-      "20": 154,
+      "20": 158,
       "21": 215,
       "22": 248,
       "23": 220
@@ -9383,7 +9393,7 @@
     "/": {
       "Mon": 296,
       "Tue": 745,
-      "Wed": 1374,
+      "Wed": 1378,
       "Thu": 399,
       "Fri": 99,
       "Sat": 0,
@@ -9455,6 +9465,8 @@
         "<a class=\"internal-link\" href=\"10_Sources/Personal/What is my path to happiness.md\"> What is my path to happiness </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-doubt.md\"> self-doubt </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/food insecurity.md\"> food insecurity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/white guilt.md\"> white guilt </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Germany.md\"> Germany </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Transformative justice is the alternative to punitive justice.md\"> [Transformative justice is the alternative to punitive justice </a>",
@@ -9503,9 +9515,7 @@
         "<a class=\"internal-link\" href=\"[.md\"> [ </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy.md\"> democracy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy].md\"> democracy] </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
@@ -9561,6 +9571,8 @@
         "<a class=\"internal-link\" href=\"20_Entry/206 Content Areas.md\"> 206 Content Areas </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/food insecurity.md\"> food insecurity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-doubt.md\"> self-doubt </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Transformative justice is the alternative to punitive justice.md\"> [Transformative justice is the alternative to punitive justice </a>",
@@ -9609,9 +9621,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Zotero/johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
-        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>",
-        "<a class=\"internal-link\" href=\"johnf.dovidioReducingIntergroupBias2017-zotero.md\"> johnf.dovidioReducingIntergroupBias2017-zotero </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines .md\"> Use highlighter colors to create visual outlines  </a>"
+        "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020-zotero.md\"> andrews.winstonScientificRacismNorth2020-zotero </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
