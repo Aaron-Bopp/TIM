@@ -3,9 +3,9 @@ created: 2021-11-21
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-12-06
-sr-interval: 2
-sr-ease: 190
+sr-due: 2021-12-09
+sr-interval: 1
+sr-ease: 170
 ---
 
 #### [[How to pursue the positive things in life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -21,7 +21,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-love]], [[self-improvement]], [[human advancement]]

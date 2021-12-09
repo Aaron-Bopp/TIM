@@ -3,8 +3,8 @@ created: 2021-11-22
 aliases:
   - null
 tags: node/evergreen, node/question 
-sr-due: 2021-12-06
-sr-interval: 2
+sr-due: 2021-12-13
+sr-interval: 5
 sr-ease: 170
 ---
 
@@ -17,7 +17,7 @@ sr-ease: 170
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-actualization]], [[fairness]], [[love]], [[human advancement]]

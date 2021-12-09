@@ -4,9 +4,9 @@ aliases:
   - What is the cognitive effect of living in an unjust world?
   - The cognitive effect of living in an unjust world
 tags: node/evergreen, node/question
-sr-due: 2021-12-07
-sr-interval: 21
-sr-ease: 217
+sr-due: 2022-01-02
+sr-interval: 25
+sr-ease: 197
 ---
 
 #### [[What is the cognitive effect of living in an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -23,16 +23,16 @@ Over all, [[Humans have decided to reject an unjust world]], but this manifest i
 We know that [[Humans are primarily irrational, illogical, emotional beings]] and we must keep that in mind when we are striving for [[society|societal]] change and [[self-actualization|personal]] change.
 
 - [[Knowledge of the world is painful]]
-- [[Realism must acknowledge optimism's existence and effectiveness]]
-- [[Hope is not optimism it is a practice for producing change]]
 - [[What is the difference between optimism and hope]]
+	- [[Realism must acknowledge optimism's existence and effectiveness]]
+	- [[Hope is not optimism it is a practice for producing change]]
+	- [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
 - [[Anger fuels change]]
-- [[The injustice of endurance]]
-- [[Stupid rules are meant to be broken]]
-- [[Stereotypes are social constructs]]
-- [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
 - [[Human's will find explanations for inexplainable things]]
+	- [[Stereotypes are social constructs]]
 	- [[Humans love to group eachother]]
+	- [[Stupid rules are meant to be broken]]
+- [[The injustice of endurance]]
 
 ### <hr class="footnote"/>
 

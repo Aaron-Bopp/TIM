@@ -3,8 +3,8 @@ created: 2021-11-21
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-06
-sr-interval: 2
+sr-due: 2021-12-15
+sr-interval: 7
 sr-ease: 184
 ---
 
@@ -18,7 +18,7 @@ This could be an [[anxiety]] response #TO/EXPLORE/RESEARCH relation between anxi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]]

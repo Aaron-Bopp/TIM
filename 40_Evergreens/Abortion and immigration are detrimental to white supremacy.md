@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-08
-sr-interval: 32
+sr-due: 2022-02-28
+sr-interval: 82
 sr-ease: 270
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 270
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[racism]], [[Rise of Modern Conservatism]], [[white supremacy]], [[abortion]]

@@ -3,8 +3,8 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-06
-sr-interval: 2
+sr-due: 2021-12-12
+sr-interval: 4
 sr-ease: 150
 ---
 
@@ -17,7 +17,7 @@ sr-ease: 150
 - [[American's are scared of the word communism not it's meaning]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**::[[media]], [[political strategy]], 

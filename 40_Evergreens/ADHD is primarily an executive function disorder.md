@@ -3,9 +3,9 @@ created: 2021-07-29
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-07
-sr-interval: 33
-sr-ease: 272
+sr-due: 2021-12-25
+sr-interval: 17
+sr-ease: 252
 ---
 
 #### [[ADHD is primarily an executive function disorder]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

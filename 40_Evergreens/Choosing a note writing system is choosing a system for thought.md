@@ -1,9 +1,9 @@
 ---
 created: 2021-06-27
 tags: node/evergreen
-sr-due: 2021-12-06
-sr-interval: 15
-sr-ease: 228
+sr-due: 2021-12-26
+sr-interval: 18
+sr-ease: 208
 ---
 
 #### [[Choosing a note writing system is choosing a system for thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -27,6 +27,8 @@ For me, [[My TIM]] is the closest I have gotten so far to [[We will evolve when 
 	- [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 	- [[The fragility of nodes in a second brain]]
 - [[Write your notes like you're planting an evergreen forest]]
+- [[Organization systems are not mutually exclusive]]
+- [[Only use organization systems as far as they are useful]]
 
 ### <hr class="footnote"/>
 

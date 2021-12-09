@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen, node/personal
-sr-due: 2021-12-08
-sr-interval: 14
+sr-due: 2022-01-15
+sr-interval: 38
 sr-ease: 271
 ---
 
@@ -21,5 +21,5 @@ I think at a certain point you can't teach an old dog new tricks. It's kind of h
 
 **Parent**:: [[my parents]]
 
-**Topics**:: [[self-love]], [[self-validation]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]
+**Topics**:: [[self-love]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

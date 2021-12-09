@@ -1,9 +1,9 @@
 ---
 created: 2021-05-25
 tags: node/evergreen
-sr-due: 2021-12-07
-sr-interval: 12
-sr-ease: 239
+sr-due: 2021-12-14
+sr-interval: 6
+sr-ease: 219
 ---
 
 #### [[Make your inbox into an entry point]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

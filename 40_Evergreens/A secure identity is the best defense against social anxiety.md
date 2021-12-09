@@ -2,9 +2,9 @@
 created: 2021-06-20
 tags: node/evergreen
 date modified: Monday, October 4th 2021, 1:21:57 am
-sr-due: 2021-12-06
-sr-interval: 2
-sr-ease: 143
+sr-due: 2021-12-09
+sr-interval: 1
+sr-ease: 130
 ---
 
 #### [[A secure identity is the best defense against social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`

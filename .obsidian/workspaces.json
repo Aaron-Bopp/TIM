@@ -631,136 +631,46 @@
         "type": "split",
         "children": [
           {
-            "id": "0d7cae567a1a704a",
+            "id": "15a5d1cb56169911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md",
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                 "mode": "preview"
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
                 {
-                  "leaf": "0d7cae567a1a704a",
+                  "leaf": "15a5d1cb56169911",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear of hell is baked into Christianity for vulnerable believers.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":2},\"to\":{\"line\":22,\"ch\":2}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Mental health is a reaction to one's environment.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":1.348314606741573}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/What is my path to happiness.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/MAGA is built off nostalgia not facts.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":5.1612900844101715}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Whiteness was created to margnalize people of color.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Complex emotions are intellectual understandings of primal urges.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":10.896296748408565}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":5.19354827049248}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":1},\"to\":{\"line\":26,\"ch\":1}},\"scroll\":10.030768797947811}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are support systems.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Empathy does not dissallow judgment.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/47 Humanity.md\",\"mode\":\"preview\"}}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "0d7cae567a1a704a",
+                  "leaf": "15a5d1cb56169911",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rise of Modern Conservatism.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "0d7cae567a1a704a",
+                  "leaf": "15a5d1cb56169911",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "15a5d1cb56169911",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "0d7cae567a1a704a",
+                  "leaf": "15a5d1cb56169911",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our ego is our subconscious defense of our self.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans love to group eachother.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "0d7cae567a1a704a",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use highlighter colors to create visual outlines.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
                 }
               ]
@@ -795,7 +705,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "republicans",
+                    "query": "irrational",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": false,
@@ -814,7 +724,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md",
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -847,7 +757,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md",
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -872,12 +782,12 @@
                   "stack": []
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 494,
-        "collapsed": true
+        "width": 329
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -893,7 +803,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md"
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -950,30 +860,6 @@
                 }
               },
               {
-                "id": "daf265964b119d92",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "0cdf05a000128f47",
-                "type": "leaf",
-                "state": {
-                  "type": "Saved Queries View",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
                 "id": "57725c84cf148198",
                 "type": "leaf",
                 "state": {
@@ -998,7 +884,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "84f4f33f118f4527",
@@ -1010,7 +896,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md",
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1117,10 +1003,392 @@
           }
         ],
         "direction": "horizontal",
-        "width": 708
+        "width": 390
       },
-      "active": "0d7cae567a1a704a"
+      "active": "15a5d1cb56169911"
+    },
+    "Single note": {
+      "main": {
+        "id": "c27936291f29f65f",
+        "type": "split",
+        "children": [
+          {
+            "id": "15a5d1cb56169911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 2,
+              "stack": [
+                {
+                  "leaf": "15a5d1cb56169911",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/47 Humanity.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "15a5d1cb56169911",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "15a5d1cb56169911",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "15a5d1cb56169911",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "15a5d1cb56169911",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e6fd778783afca8a",
+        "type": "split",
+        "children": [
+          {
+            "id": "585cafeabcc86a62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "208d80cb45f52f85",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "7f4634a1f9c650de",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#TO/DONE",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTimeReverse"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "945ffe61918129cd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0c769aef4d9945f1",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "fda1645ab822e2df",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "e5b4565528193b1b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 329
+      },
+      "right": {
+        "id": "ca88ebed3efba281",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7b3aaa71b0c0df5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afac3dc49b00c8ca",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "840e0a70de3f588e",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "fb763e172d1bcd92",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d0fba7db97954050",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "01cced59b6d63a7f",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-matrix",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "57725c84cf148198",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-stats",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "5ba8789072cd305e",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-down",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "84f4f33f118f4527",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "031fe1b37666a6d6",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "tag:#node/evergreen",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#topic/outline",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9785102
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/term",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16162052
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/stub",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13413478
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/technique",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16056320
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/GREEN",
+                          "color": {
+                            "a": 1,
+                            "rgb": 356867
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SEED",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3251005
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SPROUT",
+                          "color": {
+                            "a": 1,
+                            "rgb": 10610705
+                          }
+                        },
+                        {
+                          "query": "tag:#content",
+                          "color": {
+                            "a": 1,
+                            "rgb": 1594594
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.3,
+                      "nodeSizeMultiplier": 1.30456647398844,
+                      "lineSizeMultiplier": 1.55378676470588,
+                      "collapse-forces": false,
+                      "centerStrength": 0.538823529411765,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 199,
+                      "scale": 0.3895678067157687,
+                      "close": true
+                    }
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "09673ad2328b85b1",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 457
+      },
+      "active": "15a5d1cb56169911"
     }
   },
-  "active": "16:9 NOW"
+  "active": "Single note"
 }
