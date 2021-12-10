@@ -917,12 +917,34 @@
             "id": "90b92c1525e6bf64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20_Entry/201 Welcome.md",
+                "mode": "preview",
+                "source": false
+              }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "leaf": "90b92c1525e6bf64",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":16}"
+                },
+                {
+                  "leaf": "90b92c1525e6bf64",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/201 Welcome.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":21.897777777777776}"
+                },
+                {
+                  "leaf": "90b92c1525e6bf64",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
                 {
                   "leaf": "90b92c1525e6bf64",
                   "group": null,
@@ -944,11 +966,30 @@
             "type": "tabs",
             "children": [
               {
+                "id": "208d80cb45f52f85",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
                 "id": "7f4634a1f9c650de",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#TO/DONE",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTimeReverse"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -959,8 +1000,17 @@
                 "id": "945ffe61918129cd",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "backlink",
+                  "state": {
+                    "file": "20_Entry/201 Welcome.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -971,7 +1021,7 @@
                 "id": "0c769aef4d9945f1",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "dictionary-view",
                   "state": {}
                 },
                 "pane-relief:history-v1": {
@@ -983,8 +1033,12 @@
                 "id": "fda1645ab822e2df",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "20_Entry/201 Welcome.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -995,8 +1049,11 @@
                 "id": "e5b4565528193b1b",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -1021,8 +1078,10 @@
                 "id": "afac3dc49b00c8ca",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "outline",
+                  "state": {
+                    "file": "20_Entry/201 Welcome.md"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -1033,7 +1092,7 @@
                 "id": "840e0a70de3f588e",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "review-queue-list-view",
                   "state": {}
                 },
                 "pane-relief:history-v1": {
@@ -1045,7 +1104,7 @@
                 "id": "fb763e172d1bcd92",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "graph-analysis",
                   "state": {}
                 },
                 "pane-relief:history-v1": {
@@ -1057,7 +1116,7 @@
                 "id": "d0fba7db97954050",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "advanced-tables-toolbar",
                   "state": {}
                 },
                 "pane-relief:history-v1": {
@@ -1081,7 +1140,7 @@
                 "id": "57725c84cf148198",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "BC-stats",
                   "state": {}
                 },
                 "pane-relief:history-v1": {
@@ -1093,7 +1152,7 @@
                 "id": "5ba8789072cd305e",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "BC-down",
                   "state": {}
                 },
                 "pane-relief:history-v1": {
@@ -1112,8 +1171,92 @@
                 "id": "031fe1b37666a6d6",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "localgraph",
+                  "state": {
+                    "file": "20_Entry/201 Welcome.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "tag:#node/evergreen",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#topic/outline",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9785102
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/term",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16162052
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/stub",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13413478
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/technique",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16056320
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/GREEN",
+                          "color": {
+                            "a": 1,
+                            "rgb": 356867
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SEED",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3251005
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SPROUT",
+                          "color": {
+                            "a": 1,
+                            "rgb": 10610705
+                          }
+                        },
+                        {
+                          "query": "tag:#content",
+                          "color": {
+                            "a": 1,
+                            "rgb": 1594594
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.3,
+                      "nodeSizeMultiplier": 1.30456647398844,
+                      "lineSizeMultiplier": 1.55378676470588,
+                      "collapse-forces": false,
+                      "centerStrength": 0.538823529411765,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 199,
+                      "scale": 0.3895678067157687,
+                      "close": true
+                    }
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -1124,7 +1267,7 @@
                 "id": "09673ad2328b85b1",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "graph",
                   "state": {}
                 },
                 "pane-relief:history-v1": {
@@ -1134,24 +1277,6 @@
               }
             ],
             "currentTab": 1
-          },
-          {
-            "id": "6597f5ec01b084b2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "208d80cb45f52f85",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ]
           }
         ],
         "direction": "horizontal",
