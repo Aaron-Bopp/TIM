@@ -58,6 +58,6 @@
   "defaultViewMode": "preview",
   "showFrontmatter": true,
   "livePreview": true,
-  "smartIndentList": false,
+  "smartIndentList": true,
   "useMarkdownLinks": false
 }
