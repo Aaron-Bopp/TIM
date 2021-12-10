@@ -1013,12 +1013,12 @@
         "type": "split",
         "children": [
           {
-            "id": "910121282bf0b1ac",
+            "id": "070675193af13e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md",
+                "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
                 "mode": "source",
                 "source": false
               }
@@ -1027,45 +1027,27 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "910121282bf0b1ac",
+                  "leaf": "070675193af13e8f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":66},\"to\":{\"line\":19,\"ch\":66}},\"scroll\":3.4642857051625544}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
-                  "leaf": "910121282bf0b1ac",
+                  "leaf": "070675193af13e8f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Politicization of the Christian Church.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to read to understand.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
                 },
                 {
-                  "leaf": "910121282bf0b1ac",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.053571359640891}"
-                },
-                {
-                  "leaf": "910121282bf0b1ac",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Empathy does not dissallow judgment.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.38392861628411}"
-                },
-                {
-                  "leaf": "910121282bf0b1ac",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "910121282bf0b1ac",
+                  "leaf": "070675193af13e8f",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use highlighter colors to create visual outlines.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":17},\"to\":{\"line\":16,\"ch\":17}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":25},\"to\":{\"line\":12,\"ch\":25}}}"
                 },
                 {
-                  "leaf": "910121282bf0b1ac",
+                  "leaf": "070675193af13e8f",
                   "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 }
               ]
@@ -1119,7 +1101,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md",
+                    "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -1152,7 +1134,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md",
+                    "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -1181,8 +1163,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 329,
-        "collapsed": true
+        "width": 329
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -1198,7 +1179,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md"
+                    "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -1291,7 +1272,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Religious concepts are often too powerful for a child's mind.md",
+                    "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1400,7 +1381,7 @@
         "direction": "horizontal",
         "width": 457
       },
-      "active": "910121282bf0b1ac"
+      "active": "070675193af13e8f"
     }
   },
   "active": "Single note"

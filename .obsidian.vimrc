@@ -12,3 +12,5 @@ nmap ]] :nHead
 
 vmap j gj
 vmap k gk
+
+set clipboard=unnamed

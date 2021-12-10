@@ -8988,7 +8988,7 @@
     "40_Evergreens/Use highlighter colors to create visual outlines.md": {
       "size": 635,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "20_Entry/203 Me.md": {
       "size": 1115,
@@ -9053,7 +9053,7 @@
     "40_Evergreens/41 Inbox.md": {
       "size": 773,
       "tags": 0,
-      "links": 12
+      "links": 13
     },
     "40_Evergreens/44 Identity.md": {
       "size": 1585,
@@ -9374,19 +9374,24 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "40_Evergreens/How to read to understand.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1653,
-      "Create": 2079,
-      "Link": 3516,
+      "Refactor": 1654,
+      "Create": 2080,
+      "Link": 3520,
       "Expand": 275
     },
     "40_Evergreens": {
-      "Refactor": 74,
+      "Refactor": 75,
       "Create": 2,
-      "Link": 95,
+      "Link": 99,
       "Expand": 115
     }
   },
@@ -9409,7 +9414,7 @@
       "14": 2252,
       "15": 125,
       "16": 880,
-      "17": 1554,
+      "17": 1560,
       "18": 188,
       "19": 196,
       "20": 158,
@@ -9435,7 +9440,7 @@
       "14": 1,
       "15": 0,
       "16": 1,
-      "17": 24,
+      "17": 29,
       "18": 0,
       "19": 15,
       "20": 20,
@@ -9449,7 +9454,7 @@
       "Mon": 296,
       "Tue": 745,
       "Wed": 1426,
-      "Thu": 400,
+      "Thu": 406,
       "Fri": 99,
       "Sat": 0,
       "Sun": 4557
@@ -9458,7 +9463,7 @@
       "Mon": 49,
       "Tue": 33,
       "Wed": 70,
-      "Thu": 0,
+      "Thu": 5,
       "Fri": 0,
       "Sat": 0,
       "Sun": 134
@@ -9520,6 +9525,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional validation.md\"> emotional validation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/software.md\"> software </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/material conditions.md\"> material conditions </a>",
@@ -9569,10 +9575,10 @@
         "<a class=\"internal-link\" href=\"00_Meta/Templates/move to evergreens.md\"> move to evergreens </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anothernewstub.md\"> anothernewstub </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/newstub.md\"> newstub </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub 1.md\"> 31_Stubsanothernewstub 1 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsnewstub 1.md\"> 31_Stubsnewstub 1 </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubsanothernewstub 1.md\"> 31_Stubsanothernewstub 1 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Frank Herbert.md\"> Frank Herbert </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
@@ -9622,10 +9628,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/My TIM.md\"> My TIM </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/Content Areas.md\"> Content Areas </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Content Areas.md\"> Content Areas </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/Content Areas.md\"> Content Areas </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional validation.md\"> emotional validation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/software.md\"> software </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
@@ -9675,8 +9681,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Johnny Decimal System.md\"> Johnny Decimal System </a>",
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/body dysmorphia.md\"> body dysmorphia </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9761,6 +9766,9 @@
         "<a class=\"internal-link\" href=\"andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring.md\"> andrews.winstonScientificRacismNorth2020 - Extracted Annotations (1232021, 74114 PM)The use of psychological concepts and data to promote ideas of an enduring </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Five — The Enneagram Institute.md\"> articles_Type Five — The Enneagram Institute </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
@@ -9808,9 +9816,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conceptual notes.md\"> conceptual notes </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>"
       ],
       "Removed Tags from": [
@@ -10013,7 +10018,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
@@ -10035,7 +10041,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10064,6 +10071,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not dissallow judgment.md\"> Empathy does not dissallow judgment </a>",
@@ -10111,10 +10121,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

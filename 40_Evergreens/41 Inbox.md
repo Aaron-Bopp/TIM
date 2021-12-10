@@ -10,3 +10,5 @@
 	- [[Organization systems are not mutually exclusive]]
 	- [[Only use organization systems as far as they are useful]]
 	- [[An increase in self-love and self-respect may lead to a loss of function]]
+
+	- [[How to read to understand]]
