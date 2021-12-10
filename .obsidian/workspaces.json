@@ -914,42 +914,88 @@
         "type": "split",
         "children": [
           {
-            "id": "90b92c1525e6bf64",
+            "id": "b61c0d1d31500ade",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Entry/201 Welcome.md",
+                "file": "00_Meta/Templates/create stubs.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "b61c0d1d31500ade",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "b61c0d1d31500ade",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "b61c0d1d31500ade",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "4f8afdf55d2a18ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                 "mode": "preview",
                 "source": false
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "leaf": "90b92c1525e6bf64",
+                  "leaf": "4f8afdf55d2a18ad",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":16}"
-                },
-                {
-                  "leaf": "90b92c1525e6bf64",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/201 Welcome.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":20.352808577291082}"
-                },
-                {
-                  "leaf": "90b92c1525e6bf64",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1be676e75523f8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "1be676e75523f8a9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":235},\"to\":{\"line\":10,\"ch\":235}},\"scroll\":0}"
                 },
                 {
-                  "leaf": "90b92c1525e6bf64",
+                  "leaf": "1be676e75523f8a9",
                   "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":79},\"to\":{\"line\":10,\"ch\":79}}}"
                 }
               ]
             }
@@ -983,7 +1029,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#TO/DONE",
+                    "query": "^[[[",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": false,
@@ -1002,7 +1048,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "20_Entry/201 Welcome.md",
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -1035,7 +1081,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "20_Entry/201 Welcome.md",
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -1080,7 +1126,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "20_Entry/201 Welcome.md"
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -1173,7 +1219,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "20_Entry/201 Welcome.md",
+                    "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1282,7 +1328,7 @@
         "direction": "horizontal",
         "width": 457
       },
-      "active": "90b92c1525e6bf64"
+      "active": "4f8afdf55d2a18ad"
     }
   },
   "active": "Single note"

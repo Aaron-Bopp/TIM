@@ -13,7 +13,8 @@ tags: node/evergreen/technique
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Develop Obsidian plugins]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- [Obsidian api docs](https://github.com/obsidianmd/obsidian-api/blob/bde556afa033e909ebfb9fcee8f5ef288276f78f/obsidian.d.ts#L365)
+- [Obsidian API](https://github.com/obsidianmd/obsidian-api/blob/master/obsidian.d.ts) 
+- [for Plugin Developers - Obsidian Hub](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Plugin+Developers)
 - [[Templater]]
 	- docs: [Obsidian Templater Plugin | Templater](https://silentvoid13.github.io/Templater/)
 	- code:[GitHub - SilentVoid13/Templater: A template plugin for obsidian](https://github.com/SilentVoid13/Templater)

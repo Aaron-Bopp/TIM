@@ -8,7 +8,7 @@ tags: node/project
 # [[Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is a documentation of how I converted *[The Explorer's Guide to Wildemount](https://dnd.wizards.com/products/wildemount)* into Obsidian specific markdown.
-The goal for this project was to take a mainly linear campaign guide and convert it into a wiki-style Obsidian vault that could be used to run [[DnD (Dungeons and Dragons)]] campaigns in the setting. The results were quite successful:
+The goal for this project was to take a mainly linear campaign guide and convert it into a wiki-style Obsidian vault that could be used to run [[DnD (Dungeons and Dragons)]] campaigns in the setting. The results were quite successful: 
 
 ![[20210721Exandria.png]]
 

@@ -522,6 +522,7 @@
   "template": "---\nlink: {{link}}\nauthor: {{author}}\npublished: {{published}}\n---\n{{content}}",
   "pasteTemplate": "## {{title}}\n{{content}}",
   "askForFilename": true,
+  "defaultFilename": "{{title}}",
   "autoSync": false,
   "hotkeys": {
     "create": "c",

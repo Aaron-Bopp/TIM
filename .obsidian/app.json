@@ -8,7 +8,7 @@
   "attachmentFolderPath": "Attachments",
   "spellcheck": false,
   "strictLineBreaks": true,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "vimMode": true,
   "spellcheckDictionary": [
     "habitus",
