@@ -19,7 +19,7 @@
 		- [[Curate source notes and definitions in your second brain to avoid junk text]]
 		- [[The fragility of nodes in a second brain]]
 		- [[Nodes in the second brain are an abstraction of our first brain]]
-		- [[Webs of thought are densely linked]]
+		- [[Densely linked webs of thought provide unparalled access to knowledge]]
 		- [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 		- [[Stub notes are data structures for implicit knowledge gathering]]
 	- [[spaced repetition]]

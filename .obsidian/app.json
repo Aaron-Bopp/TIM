@@ -6,7 +6,7 @@
   "foldIndent": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Attachments",
-  "spellcheck": false,
+  "spellcheck": true,
   "strictLineBreaks": true,
   "newFileLocation": "current",
   "vimMode": true,

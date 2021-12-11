@@ -7,12 +7,35 @@
         "id": "4f8afdf55d2a18ad",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/41 Inbox.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "4f8afdf55d2a18ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "4f8afdf55d2a18ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":15.259842519685039}"
+            },
+            {
+              "leaf": "4f8afdf55d2a18ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Densely linked webs of thought provide unparalled access to knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":25.857142857142858}"
+            },
             {
               "leaf": "4f8afdf55d2a18ad",
               "group": null,
@@ -114,24 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":85},\"to\":{\"line\":17,\"ch\":85}},\"scroll\":16.89285613626848}"
-            },
-            {
-              "leaf": "4f8afdf55d2a18ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can discover your transness at any point in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":26},\"to\":{\"line\":17,\"ch\":26}},\"scroll\":6.071428674824386}"
-            },
-            {
-              "leaf": "4f8afdf55d2a18ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":87},\"to\":{\"line\":19,\"ch\":87}},\"scroll\":0}"
-            },
-            {
-              "leaf": "4f8afdf55d2a18ad",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -184,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/41 Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -216,6 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/41 Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -244,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -260,7 +266,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40_Evergreens/41 Inbox.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -352,6 +360,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/41 Inbox.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -458,20 +467,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457,
-    "collapsed": true
+    "width": 457
   },
   "active": "4f8afdf55d2a18ad",
   "lastOpenFiles": [
+    "40_Evergreens/41 Inbox.md",
+    "40_Evergreens/42 Knowledge Management.md",
+    "40_Evergreens/Densely linked webs of thought provide unparalled access to knowledge.md",
     "40_Evergreens/What is the difference between blame and judgement.md",
     "40_Evergreens/47 Humanity.md",
     "40_Evergreens/46 Politics.md",
     "40_Evergreens/45 Religion.md",
     "40_Evergreens/44 Identity.md",
     "40_Evergreens/43 Mental Health.md",
-    "40_Evergreens/42 Knowledge Management.md",
-    "40_Evergreens/41 Inbox.md",
-    "40_Evergreens/Organization systems are not mutually exclusive.md",
-    "00_Meta/Personal/I have always longed to show my authentic self to the world.md"
+    "40_Evergreens/Organization systems are not mutually exclusive.md"
   ]
 }
