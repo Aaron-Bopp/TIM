@@ -8776,9 +8776,9 @@
       "links": 7
     },
     "40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md": {
-      "size": 0,
+      "size": 1012,
       "tags": 3,
-      "links": 2
+      "links": 7
     },
     "40_Evergreens/Humans have decided to reject an unjust world.md": {
       "size": 1874,
@@ -9068,7 +9068,7 @@
     "40_Evergreens/Use philosophies as far they are useful and nothing more.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/knowledge graph.md": {
       "size": 0,
@@ -9091,9 +9091,9 @@
       "links": 13
     },
     "40_Evergreens/Only use organization systems as far as they are useful.md": {
-      "size": 605,
-      "tags": 2,
-      "links": 7
+      "size": 763,
+      "tags": 3,
+      "links": 8
     },
     "30_Topics/31_Stubs/structure.md": {
       "size": 0,
@@ -9281,9 +9281,9 @@
       "links": 0
     },
     "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md": {
-      "size": 0,
+      "size": 578,
       "tags": 2,
-      "links": 1
+      "links": 5
     },
     "30_Topics/31_Stubs/Germany.md": {
       "size": 0,
@@ -9349,20 +9349,35 @@
       "size": 0,
       "tags": 3,
       "links": 3
+    },
+    "30_Topics/31_Stubs/disability.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md": {
+      "size": 794,
+      "tags": 1,
+      "links": 3
+    },
+    "10_Sources/Qoutes/I like the walls I put up, they have posters on them.md": {
+      "size": 243,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1693,
-      "Create": 2112,
-      "Link": 3521,
-      "Expand": 275
+      "Refactor": 1696,
+      "Create": 2117,
+      "Link": 3531,
+      "Expand": 278
     },
     "40_Evergreens": {
       "Refactor": 75,
       "Create": 2,
-      "Link": 99,
-      "Expand": 115
+      "Link": 104,
+      "Expand": 118
     }
   },
   "dailyCommits": {
@@ -9389,8 +9404,8 @@
       "19": 196,
       "20": 158,
       "21": 258,
-      "22": 248,
-      "23": 225
+      "22": 257,
+      "23": 237
     },
     "40_Evergreens": {
       "0": 4,
@@ -9415,8 +9430,8 @@
       "19": 15,
       "20": 20,
       "21": 40,
-      "22": 7,
-      "23": 2
+      "22": 10,
+      "23": 7
     }
   },
   "weeklyCommits": {
@@ -9425,7 +9440,7 @@
       "Tue": 745,
       "Wed": 1426,
       "Thu": 406,
-      "Fri": 171,
+      "Fri": 192,
       "Sat": 0,
       "Sun": 4557
     },
@@ -9434,7 +9449,7 @@
       "Tue": 33,
       "Wed": 70,
       "Thu": 5,
-      "Fri": 0,
+      "Fri": 8,
       "Sat": 0,
       "Sun": 134
     }
@@ -9442,6 +9457,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
@@ -9489,12 +9507,14 @@
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md\"> tweets_Tweets From Autistic Callum </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/flashcards_REST.md\"> flashcards_REST </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md\"> tweets_Tweets From SANDWORM </a>",
+        "<a class=\"internal-link\" href=\"I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disability.md\"> disability </a>",
+        "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
+        "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
         "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext#Converting PDFs to markdown.md\"> Converting existing file formats to plaintext#Converting PDFs to markdown </a>",
         "<a class=\"internal-link\" href=\"PDF.md\"> PDF </a>",
         "<a class=\"internal-link\" href=\"death.au.md\"> death.au </a>",
@@ -9540,14 +9560,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Knowledge of the world is painful.md\"> [Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/education.md\"> education </a>",
         "<a class=\"internal-link\" href=\"republicans.md\"> republicans </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-doubt.md\"> self-doubt </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/food insecurity.md\"> food insecurity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/white guilt.md\"> white guilt </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Germany.md\"> Germany </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Transformative justice is the alternative to punitive justice.md\"> [Transformative justice is the alternative to punitive justice </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Frank Herbert.md\"> Frank Herbert </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
@@ -9597,10 +9613,13 @@
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (just use all of the organization techniques).md\"> How I outlined my brain (just use all of the organization techniques) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/My TIM.md\"> My TIM </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/Content Areas.md\"> Content Areas </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md\"> tweets_Tweets From SANDWORM </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disability.md\"> disability </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional validation.md\"> emotional validation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/software.md\"> software </a>",
@@ -9647,11 +9666,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/organization.md\"> organization </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/knowledge graph.md\"> knowledge graph </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/hyperlink.md\"> hyperlink </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Johnny Decimal System.md\"> Johnny Decimal System </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/hyperlink.md\"> hyperlink </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9683,6 +9698,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
+        "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
         "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext#Converting PDFs to markdown.md\"> Converting existing file formats to plaintext#Converting PDFs to markdown </a>",
         "<a class=\"internal-link\" href=\"PDF.md\"> PDF </a>",
         "<a class=\"internal-link\" href=\"death.au.md\"> death.au </a>",
@@ -9731,11 +9748,15 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdf.md\"> asdf </a>",
         "<a class=\"internal-link\" href=\"asdf.md\"> asdf </a>",
-        "<a class=\"internal-link\" href=\"asdfasdfasdfasdf.md\"> asdfasdfasdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdfasdf.md\"> asdfasdfasdfasdf </a>",
         "<a class=\"internal-link\" href=\"asdfasdfasdfasdf.md\"> asdfasdfasdfasdf </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md\"> tweets_Tweets From SANDWORM </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
@@ -9780,13 +9801,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/My TIM.md\"> My TIM </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>",
@@ -9897,6 +9912,9 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
@@ -9944,10 +9962,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Everybody can't be a capitalist.md\"> Everybody can't be a capitalist </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\"> Faith can be a useful tool for grounding yourself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/First Amendment rights impacts groups not individuals.md\"> First Amendment rights impacts groups not individuals </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\"> Faith can be a useful tool for grounding yourself </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10012,7 +10027,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10041,6 +10057,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
@@ -10087,11 +10107,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

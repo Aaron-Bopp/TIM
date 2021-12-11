@@ -3,19 +3,21 @@ created: 2021-11-24
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-12-09
-sr-interval: 1
+sr-due: 2021-12-13
+sr-interval: 3
 sr-ease: 167
 ---
 
 #### [[Is cognitive dissonance the reason for harmful behaviors]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- [[What is the cognitive effect of living in an unjust world]]
+Is this one of the main mechanisms behind why humans have chosen to cause harm to others. [[Human's have an inability to admit that they are wrong]], and [[Complex emotions are intellectual understandings of primal urges]], is the urge to go to war and the insistence on the destruction of the enemy a result of the coginitive dissonance of wanting the best for you and your family and the understanding that the resources of the world are limited.
 
+- [[What is the cognitive effect of living in an unjust world]]
+- [[Faith is an abstraction of cognitive dissonance]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**::
+**Topics**:: [[human experience]], [[cognitive dissonance]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -3,9 +3,9 @@ created: 2021-11-30
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-09
+sr-due: 2021-12-11
 sr-interval: 1
-sr-ease: 203
+sr-ease: 183
 ---
 
 #### [[Organization systems are not mutually exclusive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

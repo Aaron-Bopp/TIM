@@ -1,8 +1,8 @@
 <%*
-const stubTemplate = tp.file.find_tfile(""); 
+const stubTemplate = tp.file.find_tfile("STUB"); 
 const content = tp.file.content
 const root = app.vault.getRoot();
-const relative_path = "" 
+const relative_path = "30_Topics/31_Stubs" 
 
 const matches = content.matchAll(/\[\[([^\[\]\#\|]+)[^\]]*\]\]/g);
 for (match of matches) {

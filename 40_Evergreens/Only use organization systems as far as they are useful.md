@@ -3,13 +3,14 @@ created: 2021-12-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-09
+sr-due: 2021-12-11
 sr-interval: 1
-sr-ease: 221
+sr-ease: 201
 ---
 
 #### [[Only use organization systems as far as they are useful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/DEOBFUSCATE difference between this and  [[Use philosophies as far they are useful and nothing more]]
 
 - [[Organization systems are not mutually exclusive]]
 - [[Prioritize organization over categorization to avoid cognitive bias]]

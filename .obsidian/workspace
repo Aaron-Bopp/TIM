@@ -4,48 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b61c0d1d31500ade",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00_Meta/Templates/create stubs.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "b61c0d1d31500ade",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":6},\"to\":{\"line\":15,\"ch\":6}}}"
-            },
-            {
-              "leaf": "b61c0d1d31500ade",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b61c0d1d31500ade",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
         "id": "4f8afdf55d2a18ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
+            "file": "40_Evergreens/Constantly working on yourself is a form a self-hatred.md",
             "mode": "preview",
+            "backlinks": true,
             "source": false
           }
         },
@@ -55,37 +21,50 @@
             {
               "leaf": "4f8afdf55d2a18ad",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":12.659746251441753}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "1be676e75523f8a9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "1be676e75523f8a9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":235},\"to\":{\"line\":10,\"ch\":235}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "1be676e75523f8a9",
+              "leaf": "4f8afdf55d2a18ad",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":79},\"to\":{\"line\":10,\"ch\":79}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "4f8afdf55d2a18ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Only use organization systems as far as they are useful.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0.8928571580624096}"
+            },
+            {
+              "leaf": "4f8afdf55d2a18ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":658},\"to\":{\"line\":20,\"ch\":658}},\"scroll\":13.452381171336775}"
+            },
+            {
+              "leaf": "4f8afdf55d2a18ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":22.453097183092506}"
+            },
+            {
+              "leaf": "4f8afdf55d2a18ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":2.178571431612482}"
+            },
+            {
+              "leaf": "4f8afdf55d2a18ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There aren't any downsides to working through trauma.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":187},\"to\":{\"line\":12,\"ch\":187}},\"scroll\":0}"
+            },
+            {
+              "leaf": "4f8afdf55d2a18ad",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":16.16350382783987}"
             }
           ]
         }
@@ -138,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Meta/Templates/create stubs.md",
+                "file": "40_Evergreens/Constantly working on yourself is a form a self-hatred.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -171,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Meta/Templates/create stubs.md",
+                "file": "40_Evergreens/Constantly working on yourself is a form a self-hatred.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Meta/Templates/create stubs.md"
+                "file": "40_Evergreens/Constantly working on yourself is a form a self-hatred.md"
               }
             },
             "pane-relief:history-v1": {
@@ -309,7 +288,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00_Meta/Templates/create stubs.md",
+                "file": "40_Evergreens/Constantly working on yourself is a form a self-hatred.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -418,17 +397,17 @@
     "direction": "horizontal",
     "width": 457
   },
-  "active": "b61c0d1d31500ade",
+  "active": "4f8afdf55d2a18ad",
   "lastOpenFiles": [
-    "00_Meta/Templates/create stubs.md",
+    "40_Evergreens/Constantly working on yourself is a form a self-hatred.md",
+    "40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md",
+    "40_Evergreens/Only use organization systems as far as they are useful.md",
+    "40_Evergreens/Organization systems are not mutually exclusive.md",
+    "00_Meta/Attachments/Pasted image 20211207012526.png",
+    "40_Evergreens/Friction is the number one hindrance to learning.md",
+    "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
+    "40_Evergreens/There aren't any downsides to working through trauma.md",
     "50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md",
-    "40_Evergreens/Develop Obsidian plugins.md",
-    "50_Projects/a;lsdkjfl;askdjf.md",
-    "00_Meta/Templates/test6.md",
-    "30_Topics/33_Tools/Templater.md",
-    "10_Sources/i.md",
-    "test4.md",
-    "test1.md",
-    "40_Evergreens/A secure identity is the best defense against social anxiety.md"
+    "10_Sources/Qoutes/I like the walls I put up, they have posters on them.md"
   ]
 }
