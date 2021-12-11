@@ -1,15 +1,12 @@
+#TO/DO/PROGRAM [How to add a note shortcut to the homescreen on Android - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/how-to-add-a-note-shortcut-to-the-homescreen-on-android/20889)
 
 
-good resource for [[social justice]] https://www.radicalinprogress.org/ #TO/EXPLORE/READ 
+#TO/DO/PROGRAM [Academic Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-[[dataview]]-workflow/15536)
 
-[Academic Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-[[dataview]]-workflow/15536)
+#TO/EXPLORE/READ ood gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ) [[Machine Learning]]
 
-good gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ) [[Machine Learning]]
-
-[[2021-06-27]] 09:49
 - [[7 types of toxic family systems.md]]: #TO/TEND/CONCEPTUALIZE 
 
-[[2022-06-16]] 10:30
 [[Your anxiety knows your insecurities better than you do]]: #TO/EXPLORE/RESEARCH
 - [[Hierarchy of needs]] 
 	- If you are in a bad situation you can't advance past that state but you don't lose those higher needs 

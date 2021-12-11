@@ -1,10 +1,13 @@
 {
+  "addDendronNotes": false,
   "aliasesInIndex": false,
   "alphaSortAsc": true,
   "altLinkFields": [],
   "CSVPaths": "",
   "debugMode": "WARN",
   "defaultView": true,
+  "dendronNoteDelimiter": ".",
+  "dendronNoteField": "up",
   "downViewWrap": false,
   "dotsColour": "#000000",
   "dvWaitTime": 5000,

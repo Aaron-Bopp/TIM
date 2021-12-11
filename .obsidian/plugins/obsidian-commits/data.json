@@ -9112,8 +9112,8 @@
     },
     "20_Entry/209 Notepad.md": {
       "size": 670,
-      "tags": 3,
-      "links": 7
+      "tags": 4,
+      "links": 4
     },
     "20_Entry/202 Now.md": {
       "size": 1144,
@@ -9383,9 +9383,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1704,
+      "Refactor": 1705,
       "Create": 2121,
-      "Link": 3569,
+      "Link": 3570,
       "Expand": 295
     },
     "40_Evergreens": {
@@ -9412,7 +9412,7 @@
       "12": 364,
       "13": 197,
       "14": 2286,
-      "15": 125,
+      "15": 127,
       "16": 880,
       "17": 1560,
       "18": 188,
@@ -9457,7 +9457,7 @@
       "Thu": 406,
       "Fri": 192,
       "Sat": 0,
-      "Sun": 4624
+      "Sun": 4626
     },
     "40_Evergreens": {
       "Mon": 49,
@@ -9631,6 +9631,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (just use all of the organization techniques).md\"> How I outlined my brain (just use all of the organization techniques) </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Theater.md\"> Theater </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/improv.md\"> improv </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
@@ -9680,8 +9681,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/discipline.md\"> discipline </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/inter-personal communication.md\"> inter-personal communication </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/newstub.md\"> newstub </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/inter-personal communication.md\"> inter-personal communication </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9872,6 +9872,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
@@ -9921,8 +9922,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Spaced Repetition (plugin).md\"> Spaced Repetition (plugin) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>"
       ]
     },
     "40_Evergreens": {
