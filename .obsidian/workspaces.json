@@ -919,7 +919,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/41 Inbox.md",
+                "file": "40_Evergreens/A story will either end where it began, or somewhere else.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -928,6 +928,12 @@
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
+                {
+                  "leaf": "4f8afdf55d2a18ad",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
                 {
                   "leaf": "4f8afdf55d2a18ad",
                   "group": null,
@@ -1041,12 +1047,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "4f8afdf55d2a18ad",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":85},\"to\":{\"line\":17,\"ch\":85}},\"scroll\":16.89285613626848}"
                 }
               ]
             }
@@ -1099,7 +1099,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/41 Inbox.md",
+                    "file": "40_Evergreens/A story will either end where it began, or somewhere else.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -1132,7 +1132,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/41 Inbox.md",
+                    "file": "40_Evergreens/A story will either end where it began, or somewhere else.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -1177,7 +1177,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/41 Inbox.md"
+                    "file": "40_Evergreens/A story will either end where it began, or somewhere else.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -1270,7 +1270,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/41 Inbox.md",
+                    "file": "40_Evergreens/A story will either end where it began, or somewhere else.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
