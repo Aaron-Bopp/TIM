@@ -18,9 +18,10 @@ Gaining experience requires failure
 
 A bad decision for a beginner is not the same as a bad decision for an expert. A bad decision for an expert is one that takes away their time from the most meaningful tasks for less fruitful or fullfilling tasks: [[Powerful tools make dangerous toys]]
 
-A bad decision for a beginner is one the will not teach them how to succeed or teach them to make more mistakes. [^1] A hard rule may be the more difficult path but will setup future success. Hard disciplines breed masters, easy disciplines attract wannabes.
+A bad decision for a beginner is one the will not teach them how to succeed or teach them to make more mistakes. 
+^[[[Better tools allow us to be less disciplined and more productive]]]
+A hard rule may be the more difficult path but will setup future success. Hard disciplines breed masters, easy disciplines attract wannabes.
 
-[^1]: ex [5 Minutes Per Stage - YouTube](https://www.youtube.com/watch?v=wfasQwNJ1G0)
 
  ##### An experienced note taker know when to just delete a note.
 

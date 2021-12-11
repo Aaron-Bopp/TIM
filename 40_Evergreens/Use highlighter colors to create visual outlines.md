@@ -3,14 +3,13 @@ created: 2021-12-03
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-09
-sr-interval: 1
+sr-due: 2021-12-15
+sr-interval: 4
 sr-ease: 210
 ---
 
 #### [[Use highlighter colors to create visual outlines]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[How to read to understand]]
 This is expecially effective in academic research papers, as they will usually contain consistent types and structures of information. Here is mine:
 - Claims: Yellow
 - Conclusions: Blue
@@ -18,10 +17,12 @@ This is expecially effective in academic research papers, as they will usually c
 - Undermines hypothesis: Red
 - Methods: Purple
 
+[[How to read to understand]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[structure]], 
+**Topics**:: [[structure]], [[knowledge work]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

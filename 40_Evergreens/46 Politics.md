@@ -22,7 +22,7 @@
 			- [[Feminism is the antithesis to patriarchy]]
 			- [[How the patriarchy effects young men's understanding of masculinity]]
 			- [[Transformative justice is the alternative to punitive justice]]
-			- [[Whiteness was created to margnalize people of color]]
+			- [[Whiteness was created to marginalize people of color]]
 		- [[white supremacy]]
 			- [[Abortion and immigration are detrimental to white supremacy]]
 	- [[democracy]]

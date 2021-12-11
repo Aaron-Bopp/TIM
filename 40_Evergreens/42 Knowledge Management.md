@@ -33,5 +33,6 @@
 	- [[knowledge work]]
 		- [[What is language's fundamental unit]]
 		- [[Organization systems are not mutually exclusive]]
+		- [[Use highlighter colors to create visual outlines]]
 		- [[Better tools allow us to be less disciplined and more productive]]
-		- [[Prioritize organization over categorization to avoid cognitive bias]]
+		- [[How to read to understand]]

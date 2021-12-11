@@ -3,9 +3,9 @@ created: 2021-10-23
 aliases:
   - Acknowledging the suffering of the world and defying it anyway
 tags: node/evergreen
-sr-due: 2021-12-10
-sr-interval: 24
-sr-ease: 191
+sr-due: 2021-12-23
+sr-interval: 12
+sr-ease: 171
 ---
 
 #### [[True optimism is acknowledging the suffering of the world and defying it anyway]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

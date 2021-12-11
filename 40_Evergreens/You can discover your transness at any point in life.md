@@ -3,9 +3,9 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-10
-sr-interval: 34
-sr-ease: 270
+sr-due: 2021-12-28
+sr-interval: 17
+sr-ease: 250
 ---
 
 #### [[You can discover your transness at any point in life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,7 +15,7 @@ sr-ease: 270
 [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]] you very well could have understood your gender and simply be unable to remember it.
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]], [[self-actualization]], [[human experience]]

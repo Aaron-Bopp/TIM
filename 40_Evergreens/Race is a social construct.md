@@ -11,7 +11,7 @@ sr-ease: 230
 #### [[Race is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Abortion and immigration are detrimental to white supremacy]]
-- [[Whiteness was created to margnalize people of color]]
+- [[Whiteness was created to marginalize people of color]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
