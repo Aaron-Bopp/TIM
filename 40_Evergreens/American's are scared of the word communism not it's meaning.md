@@ -3,9 +3,9 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-11
-sr-interval: 24
-sr-ease: 230
+sr-due: 2021-12-22
+sr-interval: 11
+sr-ease: 210
 ---
 
 #### [[American's are scared of the word communism not it's meaning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

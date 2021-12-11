@@ -23,5 +23,5 @@ sr-ease: 270
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Politics]]
+**Topics**:: [[Politics]], [[democracy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

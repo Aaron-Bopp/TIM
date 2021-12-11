@@ -3,13 +3,15 @@ created: 2021-07-30
 tag: node/evergreen 
 aliases:
   - A inwardly judgementful and outwardly accepting home creates trust issues
-sr-due: 2021-12-11
-sr-interval: 7
-sr-ease: 131
+sr-due: 2021-12-15
+sr-interval: 4
+sr-ease: 130
 ---
 
 #### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/DO/WRITE Story about seeing your [[parents]] be very kind to a stranger, and then coming home and hearing about all the ways they were [[judgement|judging]] the person.
+- [[What is the difference between blame and judgement]]
 - [[trauma]] [[childhood]]
     - [[Parents need to model the ability to deal with emotion to their children]]
     - [[Children in traumatic households expect more love than their parents can give]]

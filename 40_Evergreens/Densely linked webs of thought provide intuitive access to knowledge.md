@@ -1,3 +1,4 @@
+
 ---
 created: 2021-07-03
 tags: node/evergreen
@@ -8,7 +9,7 @@ sr-interval: 3
 sr-ease: 220
 ---
 
-#### [[Densely linked webs of thought provide unparalled access to knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Densely linked webs of thought provide intuitive access to knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 You should be able to crawl a web of thought without using any hierarchical [[structure]]. The thoughts should be so interconnected that you can easily flow from one topic to another, and if you return to your starting point you can start a completely new path that will lead to new insights. This is the [[organization]] [[structure]] behind [[Andy Matuschak's Evergreen Notes]], and you can tell that he is fully committed to this because there is no way to search, his site, not table of contents of folder structure, just interlinked notes. 
 

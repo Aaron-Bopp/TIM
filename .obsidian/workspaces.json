@@ -1,913 +1,5 @@
 {
   "workspaces": {
-    "21:9 Empty": {
-      "main": {
-        "id": "660c8e86a242c789",
-        "type": "split",
-        "children": [
-          {
-            "id": "61d175af614c6151",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "61d175af614c6151",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "e6fd778783afca8a",
-        "type": "split",
-        "children": [
-          {
-            "id": "585cafeabcc86a62",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "208d80cb45f52f85",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {}
-                }
-              },
-              {
-                "id": "7f4634a1f9c650de",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "tag:#node",
-                    "matchingCase": true,
-                    "explainSearch": true,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "byCreatedTime"
-                  }
-                }
-              },
-              {
-                "id": "945ffe61918129cd",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "byModifiedTime",
-                    "showSearch": true,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                }
-              },
-              {
-                "id": "fda1645ab822e2df",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                }
-              },
-              {
-                "id": "e5b4565528193b1b",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 529,
-        "collapsed": true
-      },
-      "right": {
-        "id": "ca88ebed3efba281",
-        "type": "split",
-        "children": [
-          {
-            "id": "b7b3aaa71b0c0df5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7725dfd7c09e7901",
-                "type": "leaf",
-                "state": {
-                  "type": "graph-analysis",
-                  "state": {}
-                }
-              },
-              {
-                "id": "27f8b7b9a1bb500b",
-                "type": "leaf",
-                "state": {
-                  "type": "juggl_nodes",
-                  "state": {}
-                }
-              },
-              {
-                "id": "c196be09245c56ca",
-                "type": "leaf",
-                "state": {
-                  "type": "juggl_style",
-                  "state": {}
-                }
-              },
-              {
-                "id": "9c9cb8621dcbb86d",
-                "type": "leaf",
-                "state": {
-                  "type": "RSS_FEED",
-                  "state": {}
-                }
-              },
-              {
-                "id": "107d360501b59104",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "5d4461b95cdf55ed",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 5
-          },
-          {
-            "id": "84f4f33f118f4527",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "031fe1b37666a6d6",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#topic/outline",
-                          "color": {
-                            "a": 1,
-                            "rgb": 9785102
-                          }
-                        },
-                        {
-                          "query": "tag:#topic/term",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16162052
-                          }
-                        },
-                        {
-                          "query": "tag:#topic/stub",
-                          "color": {
-                            "a": 1,
-                            "rgb": 13413478
-                          }
-                        },
-                        {
-                          "query": "tag:#topic/technique",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16056320
-                          }
-                        },
-                        {
-                          "query": "tag:#EVER/GREEN",
-                          "color": {
-                            "a": 1,
-                            "rgb": 356867
-                          }
-                        },
-                        {
-                          "query": "tag:#EVER/SEED",
-                          "color": {
-                            "a": 1,
-                            "rgb": 3251005
-                          }
-                        },
-                        {
-                          "query": "tag:#EVER/SPROUT",
-                          "color": {
-                            "a": 1,
-                            "rgb": 10610705
-                          }
-                        },
-                        {
-                          "query": "tag:#content",
-                          "color": {
-                            "a": 1,
-                            "rgb": 1594594
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": -1.3,
-                      "nodeSizeMultiplier": 1.30456647398844,
-                      "lineSizeMultiplier": 1.55378676470588,
-                      "collapse-forces": false,
-                      "centerStrength": 0.28428911205074,
-                      "repelStrength": 11.2684989429175,
-                      "linkStrength": 0.927061310782241,
-                      "linkDistance": 199,
-                      "scale": 0.2874184321264291,
-                      "close": true
-                    }
-                  }
-                }
-              },
-              {
-                "id": "4264efe9388c363f",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 961,
-        "collapsed": true
-      },
-      "active": "61d175af614c6151"
-    },
-    "21:9 NOW": {
-      "main": {
-        "id": "c27936291f29f65f",
-        "type": "split",
-        "children": [
-          {
-            "id": "90b92c1525e6bf64",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "90b92c1525e6bf64",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "e6fd778783afca8a",
-        "type": "split",
-        "children": [
-          {
-            "id": "585cafeabcc86a62",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7f4634a1f9c650de",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "945ffe61918129cd",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "0c769aef4d9945f1",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "fda1645ab822e2df",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "e5b4565528193b1b",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 329
-      },
-      "right": {
-        "id": "ca88ebed3efba281",
-        "type": "split",
-        "children": [
-          {
-            "id": "b7b3aaa71b0c0df5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "afac3dc49b00c8ca",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "840e0a70de3f588e",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "fb763e172d1bcd92",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "d0fba7db97954050",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "01cced59b6d63a7f",
-                "type": "leaf",
-                "state": {
-                  "type": "BC-matrix",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "57725c84cf148198",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "5ba8789072cd305e",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "84f4f33f118f4527",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "031fe1b37666a6d6",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "09673ad2328b85b1",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "6597f5ec01b084b2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "208d80cb45f52f85",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 457
-      },
-      "active": "90b92c1525e6bf64"
-    },
-    "16:9 NOW": {
-      "main": {
-        "id": "c27936291f29f65f",
-        "type": "split",
-        "children": [
-          {
-            "id": "15a5d1cb56169911",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-                "mode": "preview"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 2,
-              "stack": [
-                {
-                  "leaf": "15a5d1cb56169911",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/47 Humanity.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "15a5d1cb56169911",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "15a5d1cb56169911",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "15a5d1cb56169911",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "15a5d1cb56169911",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "e6fd778783afca8a",
-        "type": "split",
-        "children": [
-          {
-            "id": "585cafeabcc86a62",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "208d80cb45f52f85",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "7f4634a1f9c650de",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "irrational",
-                    "matchingCase": true,
-                    "explainSearch": true,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "byCreatedTimeReverse"
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "945ffe61918129cd",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "byModifiedTime",
-                    "showSearch": true,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "0c769aef4d9945f1",
-                "type": "leaf",
-                "state": {
-                  "type": "dictionary-view",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "fda1645ab822e2df",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "e5b4565528193b1b",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 329
-      },
-      "right": {
-        "id": "ca88ebed3efba281",
-        "type": "split",
-        "children": [
-          {
-            "id": "b7b3aaa71b0c0df5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "afac3dc49b00c8ca",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "840e0a70de3f588e",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "fb763e172d1bcd92",
-                "type": "leaf",
-                "state": {
-                  "type": "graph-analysis",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "d0fba7db97954050",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "01cced59b6d63a7f",
-                "type": "leaf",
-                "state": {
-                  "type": "BC-matrix",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "57725c84cf148198",
-                "type": "leaf",
-                "state": {
-                  "type": "BC-stats",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "5ba8789072cd305e",
-                "type": "leaf",
-                "state": {
-                  "type": "BC-down",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ],
-            "currentTab": 4
-          },
-          {
-            "id": "84f4f33f118f4527",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "031fe1b37666a6d6",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "tag:#node/evergreen",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": true,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#topic/outline",
-                          "color": {
-                            "a": 1,
-                            "rgb": 9785102
-                          }
-                        },
-                        {
-                          "query": "tag:#topic/term",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16162052
-                          }
-                        },
-                        {
-                          "query": "tag:#topic/stub",
-                          "color": {
-                            "a": 1,
-                            "rgb": 13413478
-                          }
-                        },
-                        {
-                          "query": "tag:#topic/technique",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16056320
-                          }
-                        },
-                        {
-                          "query": "tag:#EVER/GREEN",
-                          "color": {
-                            "a": 1,
-                            "rgb": 356867
-                          }
-                        },
-                        {
-                          "query": "tag:#EVER/SEED",
-                          "color": {
-                            "a": 1,
-                            "rgb": 3251005
-                          }
-                        },
-                        {
-                          "query": "tag:#EVER/SPROUT",
-                          "color": {
-                            "a": 1,
-                            "rgb": 10610705
-                          }
-                        },
-                        {
-                          "query": "tag:#content",
-                          "color": {
-                            "a": 1,
-                            "rgb": 1594594
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": -1.3,
-                      "nodeSizeMultiplier": 1.30456647398844,
-                      "lineSizeMultiplier": 1.55378676470588,
-                      "collapse-forces": false,
-                      "centerStrength": 0.538823529411765,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 199,
-                      "scale": 0.3895678067157687,
-                      "close": true
-                    }
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "09673ad2328b85b1",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 390
-      },
-      "active": "15a5d1cb56169911"
-    },
     "Single note": {
       "main": {
         "id": "c27936291f29f65f",
@@ -917,21 +9,52 @@
             "id": "4f8afdf55d2a18ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40_Evergreens/A story will either end where it began, or somewhere else.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "cross-reference-navigation",
+              "state": {}
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
                   "leaf": "4f8afdf55d2a18ad",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be an inspirational hub of creativity.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "4f8afdf55d2a18ad",
+                  "group": null,
+                  "state": "{\"type\":\"cross-reference-navigation\",\"state\":{}}",
+                  "eState": "{\"selectedTags\":[],\"expandedGroups\":[\"\"]}"
+                },
+                {
+                  "leaf": "4f8afdf55d2a18ad",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 Now.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "4f8afdf55d2a18ad",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/TODO.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "4f8afdf55d2a18ad",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 Index.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "4f8afdf55d2a18ad",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "4f8afdf55d2a18ad",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -949,7 +72,7 @@
                 {
                   "leaf": "4f8afdf55d2a18ad",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Densely linked webs of thought provide unparalled access to knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"scroll\":25.857142857142858}"
                 },
                 {
@@ -1011,42 +134,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{}"
-                },
-                {
-                  "leaf": "4f8afdf55d2a18ad",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I have always longed to show my authentic self to the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "4f8afdf55d2a18ad",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "4f8afdf55d2a18ad",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Creationism built an anti-science culture.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "4f8afdf55d2a18ad",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":3},\"to\":{\"line\":18,\"ch\":3}}}"
-                },
-                {
-                  "leaf": "4f8afdf55d2a18ad",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to read to understand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":59},\"to\":{\"line\":14,\"ch\":59}},\"scroll\":0.03571428685468072}"
-                },
-                {
-                  "leaf": "4f8afdf55d2a18ad",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             }
@@ -1099,7 +186,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/A story will either end where it began, or somewhere else.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -1132,7 +218,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/A story will either end where it began, or somewhere else.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -1161,7 +246,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 329
+        "width": 386
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -1176,9 +261,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "40_Evergreens/A story will either end where it began, or somewhere else.md"
-                  }
+                  "state": {}
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -1270,7 +353,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/A story will either end where it began, or somewhere else.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -1377,10 +459,381 @@
           }
         ],
         "direction": "horizontal",
-        "width": 457
+        "width": 761
       },
       "active": "4f8afdf55d2a18ad"
+    },
+    "21:9 Start": {
+      "main": {
+        "id": "c27936291f29f65f",
+        "type": "split",
+        "children": [
+          {
+            "id": "f73d503b2d2b60ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Meta/Personal/Acting Bio.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "f73d503b2d2b60ac",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Acting Bio.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "f73d503b2d2b60ac",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Democracy is about an open forum of ideas.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":40},\"to\":{\"line\":25,\"ch\":40}}}"
+                },
+                {
+                  "leaf": "f73d503b2d2b60ac",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e6fd778783afca8a",
+        "type": "split",
+        "children": [
+          {
+            "id": "585cafeabcc86a62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "208d80cb45f52f85",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "7f4634a1f9c650de",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "^[[[",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTimeReverse"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "945ffe61918129cd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00_Meta/Personal/Acting Bio.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0c769aef4d9945f1",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "fda1645ab822e2df",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "00_Meta/Personal/Acting Bio.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "e5b4565528193b1b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 386
+      },
+      "right": {
+        "id": "ca88ebed3efba281",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7b3aaa71b0c0df5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afac3dc49b00c8ca",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00_Meta/Personal/Acting Bio.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "840e0a70de3f588e",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "fb763e172d1bcd92",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d0fba7db97954050",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "01cced59b6d63a7f",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-matrix",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "57725c84cf148198",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-stats",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "5ba8789072cd305e",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-down",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "84f4f33f118f4527",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "031fe1b37666a6d6",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "00_Meta/Personal/Acting Bio.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "tag:#node/evergreen",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#topic/outline",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9785102
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/term",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16162052
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/stub",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13413478
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/technique",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16056320
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/GREEN",
+                          "color": {
+                            "a": 1,
+                            "rgb": 356867
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SEED",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3251005
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SPROUT",
+                          "color": {
+                            "a": 1,
+                            "rgb": 10610705
+                          }
+                        },
+                        {
+                          "query": "tag:#content",
+                          "color": {
+                            "a": 1,
+                            "rgb": 1594594
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.3,
+                      "nodeSizeMultiplier": 1.30456647398844,
+                      "lineSizeMultiplier": 1.55378676470588,
+                      "collapse-forces": false,
+                      "centerStrength": 0.538823529411765,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 199,
+                      "scale": 0.3895678067157687,
+                      "close": true
+                    }
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "09673ad2328b85b1",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 761
+      },
+      "active": "f73d503b2d2b60ac"
     }
   },
-  "active": "Single note"
+  "active": "21:9 Start"
 }

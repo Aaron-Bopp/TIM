@@ -12,7 +12,7 @@ Since March 2021 I have become very interested in the [[knowledge management]] c
 ##### [[My TIM]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Where do we start?
 	- [[Nodes in the second brain are an abstraction of our first brain]]
-	- [[Densely linked webs of thought provide unparalled access to knowledge]]
+	- [[Densely linked webs of thought provide intuitive access to knowledge]]
 	- [[Evergreen notes organize knowledge so that it can grow]]
 - What are the hurdles?
 	- [[The fragility of nodes in a second brain]]

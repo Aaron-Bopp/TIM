@@ -28,7 +28,7 @@ Without the knowledge of [[The fragility of nodes in a second brain|which notes 
 - [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]. 
 - [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Write your notes like you're planting an evergreen forest]]
-- [[Densely linked webs of thought provide unparalled access to knowledge]]
+- [[Densely linked webs of thought provide intuitive access to knowledge]]
 
 ### <hr class="footnote"/>
 

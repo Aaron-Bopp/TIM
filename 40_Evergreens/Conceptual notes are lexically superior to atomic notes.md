@@ -3,9 +3,9 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-11
-sr-interval: 16
-sr-ease: 172
+sr-due: 2021-12-20
+sr-interval: 9
+sr-ease: 152
 ---
 
 #### [[Conceptual notes are lexically superior to atomic notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -31,10 +31,11 @@ A zettle is a single idea or thought as defined by the creator of the [[Zettleka
  
 #TO/DO/CONCEPTUALIZE inspo [How to achieve more while studying less - Obsidian & Conceptual Notes - YouTube](https://www.youtube.com/watch?v=MYJsGksojms)
 
-
+- [[What is language's fundamental unit]]
+- [[What are the starter types of note taking]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[second brain]], [[knowledge management]]

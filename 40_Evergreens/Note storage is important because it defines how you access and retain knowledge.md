@@ -3,13 +3,19 @@ created: 2021-07-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-11
-sr-interval: 34
-sr-ease: 270
+sr-due: 2021-12-27
+sr-interval: 16
+sr-ease: 250
 ---
 
 #### [[Note storage is important because it defines how you access and retain knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+%%
+#TO/TEND/GRAFT 
+- [[Only use organization systems as far as they are useful]]
+- [[Organization systems are not mutually exclusive]]
+- [[Prioritize organization over categorization to avoid cognitive bias]]
+%%
 Possible tools:
 - [[Obsidian (software)]] [^1]
 - [[Roam Research (software)]]
@@ -19,11 +25,11 @@ Possible tools:
 
 If you would like to easily access your notes anywhere without hassle and have lots of easy interfaces to work with, [[Evernote]] or [[Roam Research]] would be very good options, but if you would like to be able to use tools like [[Git]], scripting, or be able to access your notes from multiple different systems plaintext files are the best choice, and the best choice for plaintext files is [[Obsidian (software)]].
 
-[[Choosing a note writing system is choosing a system for thought]], but [[When in doubt, write what you think]].
+[[Choosing a note writing system is choosing a system for thought]], but sometimes just starting is more important so [[When in doubt, write what you think]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My TIM]], [[second brain]], 
