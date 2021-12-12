@@ -1,5 +1,5 @@
 #node/personal 
-
+# 2021
 ## December
 
 ### 2021-12-12 12:39am
@@ -49,7 +49,7 @@ Am I dissasociating? Am I just dramatic? Is imagining people reading this after 
 Everything is a lie. Everthing is true
 
 pain
-%%Looking back now this just reads as [[over-stimulation]] 2021/12/12%%
+%%Looking back now this just reads as [[over-stimulation]] 2021/12/12 I was in the middle of the one act at the time%%
 
 ## June
 
@@ -129,12 +129,13 @@ is it okay to want [[emotional validation]]? Do I want validation from people I 
 #TO/PONDERED/ME ([[You can be taught to invalidate your own emotions]])   [[Emotional validation]] has been on my mind a lot recently. It feels like a lot of my worse behaviors are built around [[emotional validation]]. I cut myself off and refuse to reach out for help because I afraid that [[my emotions]] won't be validated. Of course this is a never ending circle 
 
 #TO/PONDERED/ME 
+Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
 %%
 it's [[masking]], lol 7/29/21 
 also you're autistic dumbass 10/25/21
 %%
-Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
 
+## April
 ### April 2 
 
 To [[my parents]], //My [[trauma]] manifesto
@@ -176,6 +177,10 @@ I don't know if I'm right. Maybe I'm delusional. But I have to understand why I 
 ### 4/22/20 1:57am 
 
 My understanding of humans and their interactions comes mainly from observation and extensive analysis which means that if I am put into a situation that I have not dealt with before I have very little ability to adapt, unless the situation can be broken down into smaller little interaction nuggets which I have dealt with before. 
+
+%%
+You sound pretty fucking [[Autism|autistic]] buddy 2021-12-12
+%%
 
 ## March
 

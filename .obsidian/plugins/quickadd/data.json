@@ -88,6 +88,40 @@
       "type": "Macro",
       "command": false,
       "macroId": "78b34cc0-4cf3-41ba-953f-a7672ef5dc86"
+    },
+    {
+      "id": "b63951f1-6c1a-46f9-8e19-4d35293a3231",
+      "name": "Journal",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "00_Meta/Personal/Journal.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "### {{DATE:YYYY-MM-DD hh:mm}}\n\n{{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "#node/personal",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [

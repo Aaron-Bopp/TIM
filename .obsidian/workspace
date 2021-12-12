@@ -4,75 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f73d503b2d2b60ac",
+        "id": "cd6703b2ba602a79",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00_Meta/Personal/Journal.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "f73d503b2d2b60ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The injustice of endurance.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":13.101123595505618}"
-            },
-            {
-              "leaf": "f73d503b2d2b60ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Journal.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":0},\"to\":{\"line\":87,\"ch\":0}},\"scroll\":70.35714465136434}"
-            },
-            {
-              "leaf": "f73d503b2d2b60ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I have always longed to show my authentic self to the world.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f73d503b2d2b60ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "f73d503b2d2b60ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Graph Timeline.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":36.07903395536988}"
-            },
-            {
-              "leaf": "f73d503b2d2b60ac",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f73d503b2d2b60ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f73d503b2d2b60ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Acting Bio.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "f73d503b2d2b60ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Democracy is about an open forum of ideas.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":40},\"to\":{\"line\":25,\"ch\":40}}}"
-            },
-            {
-              "leaf": "f73d503b2d2b60ac",
+              "leaf": "cd6703b2ba602a79",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -109,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/topic/stub",
+                "query": "tag:#node/topic/person",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -128,7 +70,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Meta/Personal/Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -161,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Meta/Personal/Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00_Meta/Personal/Journal.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -288,7 +226,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00_Meta/Personal/Journal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node/evergreen",
@@ -397,7 +334,7 @@
     "direction": "horizontal",
     "width": 462
   },
-  "active": "f73d503b2d2b60ac",
+  "active": "cd6703b2ba602a79",
   "lastOpenFiles": [
     "00_Meta/Personal/Journal.md",
     "40_Evergreens/The injustice of endurance.md",
