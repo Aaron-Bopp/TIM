@@ -7,7 +7,7 @@ tags: node/source/qoutes
 
 **Source**:: [[tweets_Tweets From Byzen Stonefist's Witty Title|Tweets From Byzen Stonefist's Witty Title]]
 
-**Creator**:: 
+**Creator**:: [[@byzen_stonefist on Twitter]]
 
 **Topics**:: [[English]], [[language]]
 

@@ -16,7 +16,7 @@ This is something we have lost as a part of [[individualism|individualistic]] [[
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[community]], [[activism]]. [[Civil Rights]]

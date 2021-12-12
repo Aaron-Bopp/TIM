@@ -22,9 +22,7 @@ deliveredBy:
 
 # Highlights
 ##### ^255203020
-#node/source/qoute .English .language
-### ^qoute
-&gt;  
+  
 > @matthewmercer @UchihaDrewYT English is six languages in a trenchoat trying to imitate a working form of communication. 
   [^255203020]
 

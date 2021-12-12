@@ -5077,7 +5077,7 @@
     },
     "00_Meta/Templates/EGNOTE.md": {
       "size": 281,
-      "tags": 1,
+      "tags": 0,
       "links": 2
     },
     "00_Meta/Templates/EVERGREEN_HEADER.md": {
@@ -6811,9 +6811,9 @@
       "links": 0
     },
     "40_Evergreens/We are confined to the tools of our time.md": {
-      "size": 1053,
+      "size": 1601,
       "tags": 2,
-      "links": 15
+      "links": 16
     },
     "30_Topics/31_Stubs/systems for thought.md": {
       "size": 0,
@@ -8910,11 +8910,6 @@
       "tags": 1,
       "links": 0
     },
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md": {
-      "size": 815,
-      "tags": 2,
-      "links": 1
-    },
     "30_Topics/32_Terms/kin selection.md": {
       "size": 0,
       "tags": 1,
@@ -9398,7 +9393,7 @@
     "10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md": {
       "size": 0,
       "tags": 1,
-      "links": 3
+      "links": 4
     },
     "30_Topics/31_Stubs/English.md": {
       "size": 0,
@@ -9479,20 +9474,40 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "40_Evergreens/A healthy second brain requires a surplus of entry points.md": {
+      "size": 621,
+      "tags": 2,
+      "links": 7
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md": {
+      "size": 762,
+      "tags": 1,
+      "links": 1
+    },
+    "30_Topics/34_People/paulbricman.com.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "40_Evergreens/asdfasdf.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1720,
-      "Create": 2145,
-      "Link": 3654,
-      "Expand": 314
+      "Refactor": 1726,
+      "Create": 2151,
+      "Link": 3663,
+      "Expand": 316
     },
     "40_Evergreens": {
-      "Refactor": 88,
-      "Create": 11,
-      "Link": 190,
-      "Expand": 152
+      "Refactor": 91,
+      "Create": 15,
+      "Link": 194,
+      "Expand": 154
     }
   },
   "dailyCommits": {
@@ -9510,8 +9525,8 @@
       "10": 109,
       "11": 126,
       "12": 407,
-      "13": 220,
-      "14": 2286,
+      "13": 242,
+      "14": 2287,
       "15": 127,
       "16": 880,
       "17": 1560,
@@ -9536,8 +9551,8 @@
       "10": 24,
       "11": 39,
       "12": 32,
-      "13": 51,
-      "14": 29,
+      "13": 63,
+      "14": 30,
       "15": 0,
       "16": 1,
       "17": 29,
@@ -9557,7 +9572,7 @@
       "Thu": 406,
       "Fri": 192,
       "Sat": 0,
-      "Sun": 4768
+      "Sun": 4791
     },
     "40_Evergreens": {
       "Mon": 49,
@@ -9566,12 +9581,14 @@
       "Thu": 5,
       "Fri": 8,
       "Sat": 0,
-      "Sun": 276
+      "Sun": 289
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Flamingo Pose Meditation.md\"> Flamingo Pose Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
@@ -9620,11 +9637,15 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdf.md\"> asdfasdfasdf </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/paulbricman.com.md\"> paulbricman.com </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/PDF.md\"> PDF </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/XML.md\"> XML </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Markdown.md\"> Markdown </a>",
@@ -9669,15 +9690,10 @@
         "<a class=\"internal-link\" href=\"Modular Markup Processor.md\"> Modular Markup Processor </a>",
         "<a class=\"internal-link\" href=\"test5.md\"> test5 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/^.md\"> ^ </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/PDF.md\"> PDF </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/death.au.md\"> death.au </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Modular Markup Processor.md\"> Modular Markup Processor </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/test5.md\"> test5 </a>",
-        "<a class=\"internal-link\" href=\"test9.md\"> test9 </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/test6.md\"> test6 </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/PDF.md\"> PDF </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human interaction.md\"> human interaction </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
@@ -9727,10 +9743,12 @@
         "<a class=\"internal-link\" href=\"20_Entry/202 Now.md\"> 202 Now </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/newtest.md\"> newtest </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rich text formatting.md\"> rich text formatting </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Markdown.md\"> Markdown </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/XML.md\"> XML </a>",
@@ -9778,10 +9796,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide unparalled access to knowledge.md\"> Densely linked webs of thought provide unparalled access to knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md\"> tweets_Tweets From SANDWORM </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disability.md\"> disability </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9813,6 +9828,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdf.md\"> asdfasdfasdf </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research.md\"> Roam Research </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/To my parents.md\"> To my parents </a>",
@@ -9860,12 +9878,15 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>",
         "<a class=\"internal-link\" href=\"republicans.md\"> republicans </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Flamingo Pose Meditation.md\"> Flamingo Pose Meditation </a>",
@@ -9910,15 +9931,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Acting Bio.md\"> Acting Bio </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/EGNOTE.md\"> EGNOTE </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
@@ -9968,10 +9984,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Mermaid (software).md\"> Mermaid (software) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Templater.md\"> Templater </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
@@ -10021,12 +10037,13 @@
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Flamingo Pose Meditation.md\"> Flamingo Pose Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
@@ -10075,9 +10092,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10090,7 +10105,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Roam Research (software).md\"> Roam Research (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/human interaction.md\"> human interaction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdf.md\"> asdfasdfasdf </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
@@ -10182,7 +10201,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Develop Obsidian plugins.md\"> Develop Obsidian plugins </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10209,9 +10229,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdf.md\"> asdfasdfasdf </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Flamingo Pose Meditation.md\"> Flamingo Pose Meditation </a>",
@@ -10259,10 +10284,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide unparalled access to knowledge.md\"> Densely linked webs of thought provide unparalled access to knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -10291,7 +10313,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>"
       ]
     }
   },

@@ -395,13 +395,13 @@
         "type": "split",
         "children": [
           {
-            "id": "311b261050278e10",
+            "id": "5630652eea353eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
-                "mode": "preview",
+                "file": "40_Evergreens/The triad of ever increasing social anxiety.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -409,124 +409,124 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "311b261050278e10",
+                  "leaf": "5630652eea353eca",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our understanding of gender begins at a very early age.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":4.952381018436316}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The triad of ever increasing social anxiety.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":42},\"to\":{\"line\":26,\"ch\":42}}}"
                 },
                 {
-                  "leaf": "311b261050278e10",
+                  "leaf": "5630652eea353eca",
                   "group": null,
-                  "state": "{\"type\":\"cross-reference-navigation\",\"state\":{}}",
-                  "eState": "{\"selectedTags\":[\"#EVER/SPROUT/WATER\",\"#TO/DO/CONCEPTUALIZE\"],\"expandedGroups\":[\"\"]}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are support systems.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "311b261050278e10",
+                  "leaf": "5630652eea353eca",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/PDF.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "leaf": "311b261050278e10",
+                  "leaf": "5630652eea353eca",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":47},\"to\":{\"line\":24,\"ch\":47}},\"scroll\":4}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Embed notes from a dataview query with dataviewjs.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Flamingo Pose Meditation.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":93},\"to\":{\"line\":15,\"ch\":93}}}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Dual Nostril Breathing Meditation.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":17},\"to\":{\"line\":17,\"ch\":17}}}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":185},\"to\":{\"line\":25,\"ch\":185}},\"scroll\":22.577777756585014}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard rules create cognitive bias.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":32},\"to\":{\"line\":23,\"ch\":32}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Embed notes from a dataview query with dataviewjs.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Flamingo Pose Meditation.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":25}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":25},\"to\":{\"line\":4,\"ch\":25}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "311b261050278e10",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Dual Nostril Breathing Meditation.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "311b261050278e10",
+                  "leaf": "5630652eea353eca",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":1},\"to\":{\"line\":17,\"ch\":1}},\"scroll\":0}"
                 },
                 {
-                  "leaf": "311b261050278e10",
+                  "leaf": "5630652eea353eca",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "311b261050278e10",
+                  "leaf": "5630652eea353eca",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":3.7500000638621205}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "leaf": "311b261050278e10",
+                  "leaf": "5630652eea353eca",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":31},\"to\":{\"line\":30,\"ch\":31}},\"scroll\":3.9285714954746025}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evangelicalism has commodified faith for profit.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are support systems.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are support systems.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/asdfasfasdf.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "5630652eea353eca",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/EGNOTE.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             }
@@ -560,12 +560,12 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#node/topic/stub",
+                    "query": "tag:#EVER/SPROUT/WATER",
                     "matchingCase": true,
                     "explainSearch": true,
-                    "collapseAll": false,
-                    "extraContext": true,
-                    "sortOrder": "byCreatedTime"
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -579,7 +579,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
+                    "file": "40_Evergreens/The triad of ever increasing social anxiety.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -612,7 +612,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
+                    "file": "40_Evergreens/The triad of ever increasing social anxiety.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -638,7 +638,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -658,7 +658,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Our understanding of gender begins at a very early age.md"
+                    "file": "40_Evergreens/The triad of ever increasing social anxiety.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -751,7 +751,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
+                    "file": "40_Evergreens/The triad of ever increasing social anxiety.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node",
@@ -831,7 +831,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 199,
-                      "scale": 0.15777794501772874,
+                      "scale": 0.08027140481004028,
                       "close": true
                     }
                   }
@@ -858,9 +858,9 @@
           }
         ],
         "direction": "horizontal",
-        "width": 465
+        "width": 948
       },
-      "active": "311b261050278e10"
+      "active": "5630652eea353eca"
     }
   },
   "active": "21:9 Start"

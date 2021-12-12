@@ -50,7 +50,7 @@ The term has at least five distinct uses.  Aristotle suggested we think of the o
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]]
