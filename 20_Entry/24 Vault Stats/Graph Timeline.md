@@ -33,3 +33,5 @@
 ![[202111211.png]]
 ### A galaxy of thought
 ![[20211206.png]]
+### No sleep, only graph
+![[20211212.png]]

@@ -4461,9 +4461,9 @@
       "links": 10
     },
     "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md": {
-      "size": 985,
-      "tags": 4,
-      "links": 11
+      "size": 1911,
+      "tags": 3,
+      "links": 21
     },
     "40_Evergreens/Bhuddism is the study of happiness through detachment.md": {
       "size": 872,
@@ -4881,9 +4881,9 @@
       "links": 8
     },
     "40_Evergreens/The injustice of endurance.md": {
-      "size": 1071,
+      "size": 1444,
       "tags": 3,
-      "links": 12
+      "links": 13
     },
     "40_Evergreens/The internet allows niche topics to flourish.md": {
       "size": 1743,
@@ -9071,9 +9071,9 @@
       "links": 1
     },
     "20_Entry/24 Vault Stats/Graph Timeline.md": {
-      "size": 925,
+      "size": 1069,
       "tags": 0,
-      "links": 14
+      "links": 15
     },
     "50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md": {
       "size": 2659,
@@ -9150,11 +9150,6 @@
       "tags": 5,
       "links": 11
     },
-    "00_Meta/Personal/I have always longed to show my authentic self to the world.md": {
-      "size": 0,
-      "tags": 3,
-      "links": 1
-    },
     "00_Meta/Personal/I relate to.md": {
       "size": 13186,
       "tags": 1,
@@ -9172,7 +9167,7 @@
     },
     "00_Meta/Personal/Journal.md": {
       "size": 22860,
-      "tags": 2,
+      "tags": 3,
       "links": 52
     },
     "00_Meta/Personal/my emotions.md": {
@@ -9379,25 +9374,50 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "30_Topics/31_Stubs/PTSD.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/consent.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/neurotypical.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/over-stimulation.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/black people.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1705,
-      "Create": 2121,
-      "Link": 3570,
-      "Expand": 296
+      "Refactor": 1709,
+      "Create": 2127,
+      "Link": 3581,
+      "Expand": 300
     },
     "40_Evergreens": {
-      "Refactor": 82,
+      "Refactor": 83,
       "Create": 4,
-      "Link": 139,
-      "Expand": 135
+      "Link": 142,
+      "Expand": 138
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 192,
+      "0": 217,
       "1": 65,
       "2": 1,
       "3": 2,
@@ -9423,7 +9443,7 @@
       "23": 237
     },
     "40_Evergreens": {
-      "0": 11,
+      "0": 18,
       "1": 28,
       "2": 0,
       "3": 0,
@@ -9457,7 +9477,7 @@
       "Thu": 406,
       "Fri": 192,
       "Sat": 0,
-      "Sun": 4627
+      "Sun": 4652
     },
     "40_Evergreens": {
       "Mon": 49,
@@ -9466,12 +9486,16 @@
       "Thu": 5,
       "Fri": 8,
       "Sat": 0,
-      "Sun": 195
+      "Sun": 202
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
@@ -9518,13 +9542,15 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/black people.md\"> black people </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/To my parents.md\"> To my parents </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/over-stimulation.md\"> over-stimulation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurotypical.md\"> neurotypical </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/consent.md\"> consent </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/PTSD.md\"> PTSD </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/improv.md\"> improv </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Theater.md\"> Theater </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
@@ -9569,13 +9595,7 @@
         "<a class=\"internal-link\" href=\"How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional validation.md\"> emotional validation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/software.md\"> software </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/material conditions.md\"> material conditions </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/nihilism.md\"> nihilism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/savior complex.md\"> savior complex </a>",
-        "<a class=\"internal-link\" href=\"Frank Herbert.md\"> Frank Herbert </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Children make wide assumptions about the world.md\"> [Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's have an inability to admit that they are wrong.md\"> [Human's have an inability to admit that they are wrong </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md\"> [Human's will find explanations for inexplainable things </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/material conditions.md\"> material conditions </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>",
@@ -9631,6 +9651,12 @@
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (just use all of the organization techniques).md\"> How I outlined my brain (just use all of the organization techniques) </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurotypical.md\"> neurotypical </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/over-stimulation.md\"> over-stimulation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/black people.md\"> black people </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/PTSD.md\"> PTSD </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/consent.md\"> consent </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Theater.md\"> Theater </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/improv.md\"> improv </a>",
@@ -9675,13 +9701,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/motivation.md\"> motivation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/shame.md\"> shame </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/@mykola on Twitter.md\"> @mykola on Twitter </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Hey Here’s a Discourse.....md\"> tweets_Hey Here’s a Discourse.... </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/discipline.md\"> discipline </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/inter-personal communication.md\"> inter-personal communication </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/shame.md\"> shame </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9713,6 +9733,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/To my parents.md\"> To my parents </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anothernewstub.md\"> anothernewstub </a>",
         "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
         "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
@@ -9761,11 +9783,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdf.md\"> asdf </a>",
-        "<a class=\"internal-link\" href=\"asdf.md\"> asdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Acting Bio.md\"> Acting Bio </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -9811,14 +9836,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not dissallow judgment.md\"> Empathy does not dissallow judgment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>",
@@ -9868,10 +9889,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSEEDS.md\"> EVERSEEDS </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSEEDS.md\"> EVERSEEDS </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -9921,12 +9942,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Spaced Repetition (plugin).md\"> Spaced Repetition (plugin) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Spaced Repetition (plugin).md\"> Spaced Repetition (plugin) </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
@@ -9974,10 +9997,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Anger fuels change.md\"> Anger fuels change </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md\"> Anxiety should be a tool at your disposal not an impedance to your life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism is the study of happiness through detachment.md\"> Bhuddism is the study of happiness through detachment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Bhuddism outlines a path and practice to end suffering, but does not promise it.md\"> Bhuddism outlines a path and practice to end suffering, but does not promise it </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10085,6 +10105,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
@@ -10132,14 +10155,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",

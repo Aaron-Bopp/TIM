@@ -18,6 +18,16 @@ This is the most soul-crushing part of living in [[late capitalism]]. You are fo
 
 #TO/EXPLORE/RESEARCH  [[Hierarchy of needs]]
 
+> Just endure a few more days, it'll be the weekend soon.
+> 
+> Just endure a few more months, you'll get a better job soon.
+> 
+> Just endure a few more years, you can retire soon.
+> 
+> Just endure a few more decades, your life will be over soon.
+> 
+> <cite>[[Aaron Bopp]]</cite>
+
 [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
 
 ### <hr class="footnote"/>
