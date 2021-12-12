@@ -139,6 +139,6 @@
   "shimmering-focus@@block-cursor": false,
   "shimmering-focus@@colored-yaml": true,
   "shimmering-focus@@max-view-off": false,
-  "bubble-space@@bs-bubble-presets": "mint-green",
+  "bubble-space@@bs-bubble-presets": "none",
   "bubble-space@@bs-space-presets": "none"
 }

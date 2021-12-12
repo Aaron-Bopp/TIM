@@ -12,3 +12,5 @@
 
 	- [[Webs of thought provide heterarchical structure]]
 	- [[What are the starter types of note taking]]
+	- [[Evangelicalism has commodified faith for profit]]
+	- [[Hard rules create cognitive bias]]

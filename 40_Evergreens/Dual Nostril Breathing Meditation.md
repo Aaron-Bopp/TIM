@@ -1,7 +1,12 @@
 ---
 created: 2021-05-31
-tags: node/evergreen/technique
+tags: node/evergreen, node/technique
+sr-due: 2021-12-15
+sr-interval: 3
+sr-ease: 250
 ---
+
+#### [[Dual Nostril Breathing Meditation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
 - When you meditate and drift off/lose focus what is the part of your mind that is pulling it back?
@@ -12,6 +17,6 @@ Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[meditation]]
+**Topics**:: [[meditation]], [[mindfullness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

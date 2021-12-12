@@ -2,9 +2,7 @@
 created: 2021-06-25
 tags: node/evergreen
 aliases:
-  - we make wide assumptions about the world
-  - the wide assumptions we make in early childhood
-  - childhood trauma causes us to make wide assumptions about the world
+  - null
 sr-due: 2021-12-20
 sr-interval: 12
 sr-ease: 205

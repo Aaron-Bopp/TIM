@@ -4,7 +4,10 @@ aliases:
   - make obsidian plugins
   - developing obsidian plugins
   - Plugin Ideas
-tags: node/evergreen/technique
+tags: node/evergreen, node/technique
+sr-due: 2021-12-15
+sr-interval: 3
+sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

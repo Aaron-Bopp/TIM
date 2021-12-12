@@ -1,7 +1,12 @@
 ---
 created: 2021-05-31
-tags: node/evergreen/technique
+tags: node/evergreen, node/technique
+sr-due: 2021-12-15
+sr-interval: 3
+sr-ease: 250
 ---
+
+#### [[Flamingo Pose Meditation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Examples:: https://youtu.be/UUC8qF5iDag?t=6195
 
@@ -11,6 +16,6 @@ Examples:: https://youtu.be/UUC8qF5iDag?t=6195
 - is based off of the principle of doing something that forces your mind to be in the present.
 
 
-**See**:: [[meditation]], ,[[mental health]], [[yoga]], 
+**See**:: [[meditation]], [[mental health]], [[yoga]], [[mindfullness]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

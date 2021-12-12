@@ -3,9 +3,9 @@ created: 2021-12-09
 aliases:
   - null
 tags: node/evergreen, node/question 
-sr-due: 2021-12-12
+sr-due: 2021-12-13
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[How to read to understand]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,7 +15,7 @@ sr-ease: 210
 - [[Evergreen notes organize knowledge so that it can grow]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[note writing]], [[knowledge work]]

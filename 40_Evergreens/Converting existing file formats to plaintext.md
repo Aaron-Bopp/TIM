@@ -2,7 +2,10 @@
 created: 2021-11-16 
 aliases:
   - null
-tags: node/evergreen/technique, 
+tags: node/evergreen, node/technique, 
+sr-due: 2021-12-13
+sr-interval: 1
+sr-ease: 226
 ---
 
 # [[Converting existing file formats to plaintext]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -22,6 +25,7 @@ Compared to [[HTML]], [[Markdown]], or even [[XML]], [[PDF]] is exceptionally ha
 ## What to do after you have plaintext
 
 - [[Basic tools for working with plaintext]]
+- [[Parsing markup text for Obsidian projects]]
 
 # <hr class="footnote"/>
 

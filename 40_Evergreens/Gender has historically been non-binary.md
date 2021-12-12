@@ -3,9 +3,9 @@ created: 2021-08-08
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-12
-sr-interval: 24
-sr-ease: 230
+sr-due: 2022-01-11
+sr-interval: 30
+sr-ease: 210
 ---
 
 #### [[Gender has historically been non-binary]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -14,6 +14,9 @@ sr-ease: 230
 >
 > <cite>[[0 That's Gender Dysphoria, FYI#^22272c]]</cite>
 
+%% 
+#TO/DO/REFERENCE website instead of note
+%%
 [[Biology supports the validity of trans people]] and [[Gender is a social construct]] should justify the existence of [[transgender|trans]] people to anybody.
 ### <hr class="footnote"/>
 

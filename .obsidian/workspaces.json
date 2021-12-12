@@ -400,8 +400,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
-                "mode": "source",
+                "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -411,14 +411,122 @@
                 {
                   "leaf": "311b261050278e10",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":11},\"to\":{\"line\":22,\"ch\":11}},\"scroll\":16.364963503649633}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our understanding of gender begins at a very early age.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":4.952381018436316}"
                 },
                 {
                   "leaf": "311b261050278e10",
                   "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "state": "{\"type\":\"cross-reference-navigation\",\"state\":{}}",
+                  "eState": "{\"selectedTags\":[\"#EVER/SPROUT/WATER\",\"#TO/DO/CONCEPTUALIZE\"],\"expandedGroups\":[\"\"]}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/PDF.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":47},\"to\":{\"line\":24,\"ch\":47}},\"scroll\":4}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Embed notes from a dataview query with dataviewjs.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Flamingo Pose Meditation.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":93},\"to\":{\"line\":15,\"ch\":93}}}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Dual Nostril Breathing Meditation.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":17},\"to\":{\"line\":17,\"ch\":17}}}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":185},\"to\":{\"line\":25,\"ch\":185}},\"scroll\":22.577777756585014}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard rules create cognitive bias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":32},\"to\":{\"line\":23,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Embed notes from a dataview query with dataviewjs.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Flamingo Pose Meditation.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":25}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":25},\"to\":{\"line\":4,\"ch\":25}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Dual Nostril Breathing Meditation.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":3.7500000638621205}"
+                },
+                {
+                  "leaf": "311b261050278e10",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":31},\"to\":{\"line\":30,\"ch\":31}},\"scroll\":3.9285714954746025}"
                 }
               ]
             }
@@ -452,11 +560,11 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "tag:#node/topic/stub",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": false,
-                    "extraContext": false,
+                    "extraContext": true,
                     "sortOrder": "byCreatedTime"
                   }
                 },
@@ -471,12 +579,12 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+                    "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
                     "showSearch": true,
-                    "searchQuery": "tag:#node",
+                    "searchQuery": "",
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -504,7 +612,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+                    "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -530,7 +638,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 5
           }
         ],
         "direction": "horizontal",
@@ -550,7 +658,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md"
+                    "file": "40_Evergreens/Our understanding of gender begins at a very early age.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -631,7 +739,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "84f4f33f118f4527",
@@ -643,11 +751,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+                    "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node",
-                      "localJumps": 2,
+                      "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
                       "localInterlinks": true,
@@ -723,8 +831,8 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 199,
-                      "scale": 0.5461674025396537,
-                      "close": false
+                      "scale": 0.15777794501772874,
+                      "close": true
                     }
                   }
                 },
@@ -750,7 +858,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 808
+        "width": 465
       },
       "active": "311b261050278e10"
     }

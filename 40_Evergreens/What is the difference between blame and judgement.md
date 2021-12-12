@@ -3,13 +3,14 @@ created: 2021-11-14
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-12-12
-sr-interval: 4
+sr-due: 2021-12-19
+sr-interval: 7
 sr-ease: 150
 ---
 
 #### [[What is the difference between blame and judgement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/DO/CONCEPTUALIZE and #TO/DO/CREATE  this note
 ##### [[blame]]
 
 [[You can't blame people for failing to rise above their circumstances]]
@@ -40,7 +41,7 @@ The term has at least five distinct uses.  Aristotle suggested we think of the o
     - [[Transformative justice is the alternative to punitive justice]]
 
 - Religious – used in the concept of salvation to refer to the adjudication of God in determining Heaven or Hell for each and all human beings. God's assessment of a person's worth: a determination of "good" conveys great value while "evil" conveys worthlessness.  
-    - [[The actual work of being a good person isn't explored by Christianity]]
+    - [[The actual work of being a good person isn't explored by Evangelicalism]]
     - [[Worldviews are wrong if they make life seem easy and simple]]
     - [[My worldview is not about conversion it is about acceptance]]
 

@@ -2,14 +2,19 @@
 created: 2021-10-23
 aliases:
   - null
-tags: node/evergreen/technique
+tags: node/evergreen, node/technique
+sr-due: 2021-12-15
+sr-interval: 3
+sr-ease: 250
 ---
+
 #### [[Embed notes from a dataview query with dataviewjs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 ```js
 let transclude = dv.pages('query').map(p => "![[" + p.file.name + "]]")
 
 transclude.forEach(p => dv.paragraph(p))
+
 ```
 
 ### <hr class="footnote"/>
@@ -19,5 +24,3 @@ transclude.forEach(p => dv.paragraph(p))
 
 **Topics**:: [[Dataview]], [[Obsidian (software)]], [[programming]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

@@ -1,9 +1,9 @@
 ---
 created: 2021-05-25
 tags: node/evergreen
-sr-due: 2021-12-25
-sr-interval: 21
-sr-ease: 244
+sr-due: 2021-12-24
+sr-interval: 12
+sr-ease: 224
 ---
 
 #### [[Use Obsidian tags as temporal classifiers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

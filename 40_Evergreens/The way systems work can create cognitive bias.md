@@ -15,6 +15,7 @@ sr-ease: 216
 	- [[Prioritize organization over categorization to avoid cognitive bias]]
 	- [[Only use organization systems as far as they are useful]]
 	- [[Learning how systems work can be a gateway to creating thought]]
+	- [[Hard rules create cognitive bias]]
 - In the [[human experience]]
 	- [[Stereotypes are social constructs]]
 		- [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]

@@ -3,9 +3,9 @@ created: 2021-11-28
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-12
+sr-due: 2021-12-13
 sr-interval: 1
-sr-ease: 177
+sr-ease: 157
 ---
 
 #### [[Better tools allow us to be less disciplined and more productive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -13,7 +13,9 @@ sr-ease: 177
 %%
 #TO/DO/CONCEPTUALIZE 
  ex [5 Minutes Per Stage - YouTube](https://www.youtube.com/watch?v=wfasQwNJ1G0)
-[The Collector’s Fallacy • Zettelkasten Method](https://zettelkasten.de/posts/collectors-fallacy/) is an example of this. %%
+[The Collector’s Fallacy • Zettelkasten Method](https://zettelkasten.de/posts/collectors-fallacy/) is an example of this.
+How [[programming]] relates to this (increase in computing power)
+%%
 
 Less disciplined does not always mean less productive, and when your lack of discipline is a symptom of more powerful tools. [[Friction is the number one hindrance to learning]] talks about how friction stunts the process of learning. Discipline can be used to overcome this friction, such as with [[Niklas Luhmann]]'s [[Zettlekassen]],
 ^[[[We are confined to the tools of our time]]]
@@ -26,7 +28,7 @@ Less disciplined does not always mean less productive, and when your lack of dis
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SPROUT/WATER  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge work]], [[discipline]], [[self-improvement]]
