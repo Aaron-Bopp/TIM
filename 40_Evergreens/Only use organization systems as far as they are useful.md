@@ -15,6 +15,7 @@ sr-ease: 181
 - [[Organization systems are not mutually exclusive]]
 - [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER  

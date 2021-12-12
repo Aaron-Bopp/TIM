@@ -304,15 +304,6 @@
       "key": "C"
     }
   ],
-  "sliding-panes-obsidian:toggle-sliding-panes": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
   "smart-random-note:open-random-note-from-search": [
     {
       "modifiers": [
@@ -383,5 +374,15 @@
   "hotkeysplus-obsidian:toggle-bullet-number": [],
   "hotkeysplus-obsidian:toggle-embed": [],
   "hotkeysplus-obsidian:better-toggle-todo": [],
-  "hotkeysplus-obsidian:toggle-block-quote": []
+  "hotkeysplus-obsidian:toggle-block-quote": [],
+  "obsidian-git:open-git-view": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
 }

@@ -9,25 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/209 Notepad.md",
+            "file": "40_Evergreens/Only use organization systems as far as they are useful.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":0},\"to\":{\"line\":80,\"ch\":0}},\"scroll\":65.50877192982456}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Only use organization systems as far as they are useful.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
             },
             {
               "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":111},\"to\":{\"line\":2,\"ch\":111}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":36},\"to\":{\"line\":14,\"ch\":36}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":9.864709877008979}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -98,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "40_Evergreens/Only use organization systems as far as they are useful.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -131,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "40_Evergreens/Only use organization systems as far as they are useful.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,8 +162,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/209 Notepad.md"
+                "file": "40_Evergreens/Only use organization systems as far as they are useful.md"
               }
             },
             "pane-relief:history-v1": {
@@ -256,9 +261,17 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "7572170b53174850",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "84f4f33f118f4527",
@@ -270,7 +283,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "40_Evergreens/Only use organization systems as far as they are useful.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -350,7 +363,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 199,
-                  "scale": 0.08027140481004028,
+                  "scale": 0.3101213937008831,
                   "close": true
                 }
               }
@@ -377,11 +390,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 948,
-    "collapsed": true
+    "width": 948
   },
   "active": "779735696eadbc73",
   "lastOpenFiles": [
+    "40_Evergreens/Only use organization systems as far as they are useful.md",
+    "40_Evergreens/41 Inbox.md",
     "20_Entry/209 Notepad.md",
     "40_Evergreens/Develop Obsidian plugins.md",
     "00_Meta/Templates/Get highlight embeds.md",
@@ -389,8 +403,6 @@
     "00_Meta/Templates/create stubs.md",
     "30_Topics/33_Tools/Templater.md",
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
-    "40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md",
-    "40_Evergreens/Only use organization systems as far as they are useful.md",
-    "40_Evergreens/Whiteness was created to marginalize people of color.md"
+    "40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md"
   ]
 }
