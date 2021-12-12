@@ -10,12 +10,13 @@ sr-ease: 230
 
 #### [[Evangelicalism has commodified faith for profit]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
- 
+ - [[The Politicization of the Christian Church]]
+ - [[The church will fail if christians keep aligning themselves with hate instead of love]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**::  <% tp.file.cursor(1) %>
+**Topics**::  [[Evangelicalism]], [[capitalism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

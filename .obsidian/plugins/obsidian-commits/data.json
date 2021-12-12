@@ -8053,7 +8053,7 @@
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md": {
       "size": 2102,
       "tags": 3,
-      "links": 25
+      "links": 26
     },
     "30_Topics/32_Terms/second brain.md": {
       "size": 1350,
@@ -9101,9 +9101,9 @@
       "links": 0
     },
     "20_Entry/209 Notepad.md": {
-      "size": 778,
+      "size": 1384,
       "tags": 4,
-      "links": 4
+      "links": 14
     },
     "20_Entry/202 Now.md": {
       "size": 1144,
@@ -9441,9 +9441,9 @@
       "links": 15
     },
     "40_Evergreens/Evangelicalism has commodified faith for profit.md": {
-      "size": 0,
+      "size": 551,
       "tags": 2,
-      "links": 1
+      "links": 5
     },
     "30_Topics/31_Stubs/human interaction.md": {
       "size": 0,
@@ -9494,20 +9494,25 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "00_Meta/Templates/Get highlight embeds.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1726,
-      "Create": 2151,
-      "Link": 3665,
-      "Expand": 317
+      "Refactor": 1727,
+      "Create": 2152,
+      "Link": 3669,
+      "Expand": 320
     },
     "40_Evergreens": {
       "Refactor": 91,
       "Create": 15,
-      "Link": 196,
-      "Expand": 155
+      "Link": 198,
+      "Expand": 156
     }
   },
   "dailyCommits": {
@@ -9528,7 +9533,7 @@
       "13": 242,
       "14": 2290,
       "15": 127,
-      "16": 880,
+      "16": 889,
       "17": 1560,
       "18": 188,
       "19": 196,
@@ -9554,7 +9559,7 @@
       "13": 63,
       "14": 33,
       "15": 0,
-      "16": 1,
+      "16": 4,
       "17": 29,
       "18": 0,
       "19": 15,
@@ -9572,7 +9577,7 @@
       "Thu": 406,
       "Fri": 192,
       "Sat": 0,
-      "Sun": 4794
+      "Sun": 4803
     },
     "40_Evergreens": {
       "Mon": 49,
@@ -9581,12 +9586,15 @@
       "Thu": 5,
       "Fri": 8,
       "Sat": 0,
-      "Sun": 292
+      "Sun": 295
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
@@ -9634,12 +9642,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communites </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communites </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Get highlight embeds.md\"> Get highlight embeds </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdf.md\"> asdfasdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
@@ -9689,8 +9695,7 @@
         "<a class=\"internal-link\" href=\"death.au.md\"> death.au </a>",
         "<a class=\"internal-link\" href=\"Modular Markup Processor.md\"> Modular Markup Processor </a>",
         "<a class=\"internal-link\" href=\"test5.md\"> test5 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/^.md\"> ^ </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/PDF.md\"> PDF </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/^.md\"> ^ </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>",
@@ -9881,6 +9886,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
@@ -9927,11 +9936,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dual (plugin).md\"> Dual (plugin) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/HTML.md\"> HTML </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/markup.md\"> markup </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/HTML.md\"> HTML </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Templates/EGNOTE.md\"> EGNOTE </a>",
@@ -9987,6 +9992,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
@@ -10036,12 +10042,12 @@
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
@@ -10091,8 +10097,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10235,6 +10240,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
@@ -10283,9 +10290,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide unparalled access to knowledge.md\"> Densely linked webs of thought provide unparalled access to knowledge </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",

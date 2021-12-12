@@ -13,6 +13,7 @@ sr-ease: 197
 
 Possible Answers: 
 - [[Humans have decided to reject an unjust world]]
+	- [[Faith is an abstraction of cognitive dissonance]]
 - [[Our brain will do anything it can to protect itself]]
 
 Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different forms:

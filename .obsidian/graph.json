@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "tag:#node",
-  "showTags": false,
+  "search": "tag:#EVER/SPROUT/WATER",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.010952991388875826,
-  "close": true
+  "scale": 0.32133638605036063,
+  "close": false
 }

@@ -9,7 +9,6 @@
 	- [[Organization systems are not mutually exclusive]]
 	- [[Only use organization systems as far as they are useful]]
 	- [[An increase in self-love and self-respect may lead to a loss of function]]
-
 	- [[Webs of thought provide heterarchical structure]]
 	- [[What are the starter types of note taking]]
 	- [[Evangelicalism has commodified faith for profit]]

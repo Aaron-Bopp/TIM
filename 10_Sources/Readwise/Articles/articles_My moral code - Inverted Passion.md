@@ -26,6 +26,8 @@ deliveredBy:
 > Everyone should have their moral code written 
   [^253956626]
 
+^0160c9
+
 [^253956626]: https://invertedpassion.com/my-moral-code?__readwiseLocation=0%2F5%2F4%2F3%2F1%2F3%2F6%2F1%3A0%2C0%2F5%2F4%2F3%2F1%2F3%2F6%2F1%3A45#:~:text=Everyone%20should%20have%20their%20moral%20code%20written
 
 ##### ^253957366
@@ -78,4 +80,3 @@ is morality compatible with the unknown? #TO/PONDER/SOCIETY
   [^253959072]
 
 [^253959072]: https://invertedpassion.com/my-moral-code?__readwiseLocation=0%2F97%2F4%2F3%2F1%2F3%2F6%2F1%3A166%2C0%2F97%2F4%2F3%2F1%2F3%2F6%2F1%3A227#:~:text=We%20know%20it%20is%20likely%2Chow%20bad%20and%20for%20whom.
-

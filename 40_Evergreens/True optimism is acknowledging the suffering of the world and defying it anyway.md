@@ -10,7 +10,7 @@ sr-ease: 171
 
 #### [[True optimism is acknowledging the suffering of the world and defying it anyway]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-True optimism is an evolution of hope, becaues [[Hope is not optimism it is a practice for producing change]], and true optimism is the fulfillment of this mindset.
+True optimism is an evolution of hope, because [[Hope is not optimism it is a practice for producing change]], and true optimism is the fulfillment of this mindset.
 
 Most see optimism as an [[ignorance|ignorant]] understanding of an unjust world, but this belief leads to the fallacy of [[Sadness is enlightenment and happiness is delusion]] which is refuted by the fact [[Realism must acknowledge optimism's existence and effectiveness]]. 
 
