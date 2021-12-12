@@ -1,24 +1,17 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "tag:#node",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#node/evergreen/technique",
       "color": {
         "a": 1,
         "rgb": 65403
-      }
-    },
-    {
-      "query": "tag:#node/evergreen",
-      "color": {
-        "a": 1,
-        "rgb": 52479
       }
     },
     {
@@ -48,6 +41,27 @@
         "a": 1,
         "rgb": 1194493
       }
+    },
+    {
+      "query": "tag:#EVER/SEED",
+      "color": {
+        "a": 1,
+        "rgb": 9483963
+      }
+    },
+    {
+      "query": "tag:#EVER/SPROUT",
+      "color": {
+        "a": 1,
+        "rgb": 4296868
+      }
+    },
+    {
+      "query": "tag:#EVER/GREEN",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
     }
   ],
   "collapse-display": false,
@@ -56,10 +70,10 @@
   "nodeSizeMultiplier": 0.560683760683761,
   "lineSizeMultiplier": 0.474705882352941,
   "collapse-forces": false,
-  "centerStrength": 0.230769230769231,
+  "centerStrength": 0.329411764705882,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.02152871844243068,
-  "close": true
+  "scale": 0.11909764586920589,
+  "close": false
 }

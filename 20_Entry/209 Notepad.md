@@ -11,3 +11,4 @@
 - [[Hierarchy of needs]] 
 	- If you are in a bad situation you can't advance past that state but you don't lose those higher needs 
 - arbitrage
+

@@ -9,21 +9,17 @@
             "id": "f73d503b2d2b60ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Entry/209 Notepad.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
                   "leaf": "f73d503b2d2b60ac",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_What We Do — Radical in Progress.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.209302283029677}"
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
                 },
                 {
                   "leaf": "f73d503b2d2b60ac",
@@ -81,7 +77,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "^[[[",
+                    "query": "tag:#node/topic",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": false,
@@ -100,7 +96,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "20_Entry/209 Notepad.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -133,7 +128,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "20_Entry/209 Notepad.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -159,12 +153,11 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 5
           }
         ],
         "direction": "horizontal",
-        "width": 386,
-        "collapsed": true
+        "width": 386
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -179,9 +172,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "20_Entry/209 Notepad.md"
-                  }
+                  "state": {}
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -261,7 +252,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "20_Entry/209 Notepad.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -368,7 +358,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 761
+        "width": 761,
+        "collapsed": true
       },
       "active": "f73d503b2d2b60ac"
     },

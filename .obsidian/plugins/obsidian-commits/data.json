@@ -9111,7 +9111,7 @@
       "links": 0
     },
     "20_Entry/209 Notepad.md": {
-      "size": 670,
+      "size": 778,
       "tags": 4,
       "links": 4
     },
@@ -9386,7 +9386,7 @@
       "Refactor": 1705,
       "Create": 2121,
       "Link": 3570,
-      "Expand": 295
+      "Expand": 296
     },
     "40_Evergreens": {
       "Refactor": 82,
@@ -9417,7 +9417,7 @@
       "17": 1560,
       "18": 188,
       "19": 196,
-      "20": 158,
+      "20": 159,
       "21": 258,
       "22": 257,
       "23": 237
@@ -9457,7 +9457,7 @@
       "Thu": 406,
       "Fri": 192,
       "Sat": 0,
-      "Sun": 4626
+      "Sun": 4627
     },
     "40_Evergreens": {
       "Mon": 49,
@@ -9472,6 +9472,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
@@ -9520,7 +9521,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Visual Studio Code.md\"> Visual Studio Code </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Pyschology/Worksheet 4.md\"> Worksheet 4 </a>"
       ],
