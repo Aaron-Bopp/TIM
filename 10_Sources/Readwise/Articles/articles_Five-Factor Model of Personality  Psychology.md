@@ -30,5 +30,5 @@ highlight_tags:: [[five-factor model]]
 %%
 ##### ^242142332
   
-> The five-factor model was developed in the 1980s and ’90s largely on the basis of the lexical hypothesis, which suggested that the fundamental traits of human personality have, over time, become encoded in language 
+> The five-factor model was developed in the 1980s and ’90s largely on the basis of the lexical hypothesis, which suggested that the fundamental traits of human personality have, over time, become encoded in [[language]] 
 

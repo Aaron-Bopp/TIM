@@ -133,7 +133,7 @@ The system isn't broken it is working exactly as intended
 
 ##### ^212893660
   
-> Cyntoia specifically explained that it was survival sex work that led to her situation, yet the media was quick to change the narrative that Cyntoia was a child sex slave. Kaba critiques this changing of narrative, mentioning **how important it is to use the same language as the victims and how sensationalist coverage erases many of the nuances and complexities that go along with being involved in the sex/street industries** 
+> Cyntoia specifically explained that it was survival sex work that led to her situation, yet the media was quick to change the narrative that Cyntoia was a child sex slave. Kaba critiques this changing of narrative, mentioning **how important it is to use the same [[language]] as the victims and how sensationalist coverage erases many of the nuances and complexities that go along with being involved in the sex/street industries** 
   [^212893660]
 
 [^212893660]:  https://radicalinprogress.org/kaba-2021-2?__readwiseLocation=0%2F32%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A285%2C0%2F1%2F32%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A198#:~:text=Cyntoia%20specifically%20explained%20that%20it%2Cinvolved%20in%20the%20sex%2Fstreet%20industries

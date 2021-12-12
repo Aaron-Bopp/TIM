@@ -23,8 +23,8 @@ cite {
 .theme-dark .graph-view.color-circle {
     color: rgb(221, 15, 15) !important;
 }
-.theme-dark .graph-view.color-fill-highlight {
-    color: #f6f9fa !important;
+.graph-view.graph-view.color-fill-focused {
+    color: #ff0000 !important;
 }
 .markdown-embed-title {
     display: none;
@@ -49,7 +49,7 @@ span.cm-link,
 
 .theme-dark span.list-bullet {
     visibility: hidden !important;
-    }
+}
     
 .theme-dark span.list-bullet:after {
 content: '★'; 

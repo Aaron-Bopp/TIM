@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2366674,
+  "lastSavedStatusID": 2375037,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -323,7 +323,8 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md": "12150502",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md": "12150819",
     "10_Sources/Readwise/Tweets/tweets_Hey Here’s a Discourse.....md": "12204725",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md": "12236199"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md": "12236199",
+    "10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md": "12248588"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",

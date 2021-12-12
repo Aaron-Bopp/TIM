@@ -23,5 +23,5 @@ deliveredBy:
 # Highlights
 ##### ^254916643
   
-> YAML is a data serialisation language designed to be directly writable and readable by humans. 
+> YAML is a data serialisation [[language]] designed to be directly writable and readable by humans. 
 

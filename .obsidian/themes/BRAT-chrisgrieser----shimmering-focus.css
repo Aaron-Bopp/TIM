@@ -1,6 +1,6 @@
 /* ──────────────────────────────────────────────────────
 SHIMMERING FOCUS
-Version 1.285
+Version 1.293
 https://github.com/chrisgrieser/shimmering-focus/
 Created by @pseudometa
 MIT License
@@ -23,7 +23,9 @@ For help and/or CSS snippets, thanks to:
 "< section name" to navigate to the respective section.
 This ToC is auto-generated via the .create-ToC.sh
 
-- Colors & Variables
+- Colors
+	- Backgrounds
+- Variables
 - Fonts
 	- Base64-encoded Fonts
 	- Font Definitions
@@ -151,11 +153,12 @@ This ToC is auto-generated via the .create-ToC.sh
 		- Advanced Tables
 - Plugin Compatibility Info for the Obsidian Hub
 - Style Setting Options
-
  */
+
 /* ─────────────────────────────────────────────────── */
-/* < Colors & Variables */
+/* < Colors */
 /* ─────────────────────────────────────────────────── */
+/* stylelint-disable no-duplicate-selectors */
 
 :root {
 	--accent-lighter: hsl(243 66% 76%);
@@ -164,6 +167,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--alt-accent-lighter: hsl(164 100% 41%);
 	--alt-accent-lightest: hsl(164 100% 70%);
 	--alt-accent-darker: hsl(164 100% 30%);
+
 	--unresolved-link-color: hsl(211 100% 52%);
 	--unresolved-opacity: 0.6;
 
@@ -179,15 +183,6 @@ This ToC is auto-generated via the .create-ToC.sh
 	--bold-in-darkmode: hsl(202 43% 57%);
 	--active-line: hsl(62 11% 63% / 12.5%);
 	--cursor-monocolor: var(--accent-lighter);
-
-	--resize-handle-thickness: 4px;
-	--toggle-duration: 350ms;
-	--scrollbar-thickness: 0.6em;
-	--image-size: 50;
-	--pdf-size: 50vh;
-	--popover-size: 350;
-	--inactive-pane-opacity: 80%;
-	--signature: "⟡";
 }
 
 .theme-light {
@@ -197,7 +192,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--hr-line-gray: hsl(0 0% 66%);
 
 	--button-text: var(--interactive-normal);
-	--button-hover-text: var(--interactive-normal);
+	--button-hover-text: var(--text-normal);
 	--button-bg: var(--interactive-accent);
 	--button-hover-bg: var(--alt-accent-lighter);
 	--interactive-hover-border: var(--alt-accent);
@@ -211,16 +206,11 @@ This ToC is auto-generated via the .create-ToC.sh
 	--cursor-duo-color-2: var(--accent-lightest);
 	--a-row: rgb(0 0 0 / 3%);
 	--b-row: rgb(0 0 0 / 7%);
-	--backdrop-color: hsl(228 9% 70%);
+	--backdrop-color: hsl(220 15% 70%);
 
-	--basic-border: 2px solid hsl(0 0% 70%);
-	--muted-border: 2px solid hsl(0 0% 87%);
-	--thick-muted-border: 3.5px solid hsl(0 0% 87%);
-	--thin-border: 1px solid hsl(0 0% 70%);
-
-	--big-shadow: 3px 5px 6px 10px hsl(0 0% 40% / 70%);
-	--medium-shadow: 3px 5px 6px 7px hsl(0 0% 40% / 70%);
-	--small-shadow: 3px 5px 6px 3px hsl(0 0% 40% / 70%);
+	--shadow-color: hsl(0 0% 40% / 70%);
+	--muted-border-color: hsl(0 0% 87%);
+	--basic-border-color: hsl(0 0% 70%);
 }
 
 .theme-dark {
@@ -246,16 +236,83 @@ This ToC is auto-generated via the .create-ToC.sh
 	--b-row: rgb(0 0 0 / 30%);
 	--backdrop-color: hsl(228 30% 15%);
 
-	--basic-border: 2px solid hsl(0 0% 40%);
-	--muted-border: 2px solid hsl(0 0% 20%);
-	--thick-muted-border: 3.5px solid hsl(0 0% 20%);
-	--thin-border: 1px solid hsl(0 0% 40%);
-
-	--big-shadow: 3px 5px 6px 10px hsl(0 0% 0% / 40%);
-	--medium-shadow: 3px 5px 6px 7px hsl(0 0% 0% / 40%);
-	--small-shadow: 3px 5px 6px 3px hsl(0 0% 0% / 40%);
+	--shadow-color: hsl(0 0% 0% / 40%);
+	--muted-border-color: hsl(0 0% 20%);
+	--basic-border-color: hsl(0 0% 40%);
 }
 
+/* ─────────────────────────────────────────────────── */
+/* << Backgrounds */
+/* ─────────────────────────────────────────────────── */
+
+:root {
+	--notice-bg: hsl(0 0% 60%);
+	--notice-text: hsl(0 0% 98%);
+}
+
+.theme-light {
+	--bg1: hsl(220 0% 96%);
+	--bg2: hsl(220 17% 93%);
+	--bg3: hsl(220 13% 90%);
+	--bg4: hsl(220 9% 85%);
+}
+
+.theme-dark {
+	--bg1: hsl(0 0% 13%);
+	--bg2: hsl(0 0% 10%);
+	--bg3: hsl(0 0% 7%);
+	--bg4: hsl(0 0% 3%);
+}
+
+.workspace-split.mod-root .view-content {
+	background-color: var(--bg1);
+}
+
+.workspace-tab-header.is-after-active .workspace-tab-header-inner,
+.workspace-tab-header.is-before-active .workspace-tab-header-inner,
+.workspace-tab-header-inner,
+.workspace-tabs {
+	background-color: var(--bg4);
+}
+
+.workspace-leaf-resize-handle {
+	background-color: var(--bg2);
+}
+
+.workspace-tab-header.is-active .workspace-tab-header-inner,
+.workspace-tabs .workspace-leaf {
+	background-color: var(--bg3);
+}
+
+/* ─────────────────────────────────────────────────── */
+/* < Variables */
+/* ─────────────────────────────────────────────────── */
+
+:root {
+	--resize-handle-thickness: 3px;
+	--resize-handle-hovered-thickness: 5px;
+	--toggle-duration: 350ms;
+	--scrollbar-thickness: 9px;
+	--image-size: 50;
+	--pdf-size: 50vh;
+	--popover-size: 350;
+	--inactive-pane-opacity: 80%;
+	--signature: "⟡";
+}
+
+.theme-light,
+.theme-dark {
+	--big-shadow: 3px 5px 6px 10px var(--shadow-color);
+	--medium-shadow: 3px 5px 6px 7px var(--shadow-color);
+	--small-shadow: 1px 3px 6px 2px var(--shadow-color);
+
+	--basic-border: 2px solid var(--basic-border-color);
+	--muted-border: 2px solid var(--muted-border-color);
+	--thick-muted-border: 3.5px solid var(--muted-border-color);
+	--thin-border: 1px solid var(--basic-border-color);
+}
+
+/* stylelint-enable no-duplicate-selectors */
 /* ─────────────────────────────────────────────────── */
 /* < Fonts */
 /* ─────────────────────────────────────────────────── */
@@ -534,6 +591,13 @@ body:not(.angular-shapes) svg.link {
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cg fill='currentColor'%3e%3cpath d='M13.29 9.29l-4 4a1 1 0 0 0 0 1.42a1 1 0 0 0 1.42 0l4-4a1 1 0 0 0-1.42-1.42z'/%3e%3cpath d='M12.28 17.4L11 18.67a4.2 4.2 0 0 1-5.58.4a4 4 0 0 1-.27-5.93l1.42-1.43a1 1 0 0 0 0-1.42a1 1 0 0 0-1.42 0l-1.27 1.28a6.15 6.15 0 0 0-.67 8.07a6.06 6.06 0 0 0 9.07.6l1.42-1.42a1 1 0 0 0-1.42-1.42zm7.38-14.18a6.18 6.18 0 0 0-8.13.68L10.45 5a1.09 1.09 0 0 0-.17 1.61a1 1 0 0 0 1.42 0L13 5.3a4.17 4.17 0 0 1 5.57-.4a4 4 0 0 1 .27 5.95l-1.42 1.43a1 1 0 0 0 0 1.42a1 1 0 0 0 1.42 0l1.42-1.42a6.06 6.06 0 0 0-.6-9.06z'/%3e%3c/g%3e%3c/svg%3e");
 }
 
+.menu-item-icon svg.link {
+	height: 1.1rem;
+	width: 1.1rem;
+	position: relative;
+	right: 2px;
+}
+
 /* document drag handle */
 .view-header-icon svg > path { display: none }
 
@@ -640,6 +704,13 @@ svg.dot-network > path { display: none }
 svg.dot-network {
 	background-color: currentColor;
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.2em' height='1.2em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath d='M19 3c-1.654 0-3 1.346-3 3c0 .502.136.968.354 1.385l-1.116 1.302A3.976 3.976 0 0 0 13 8c-.739 0-1.425.216-2.02.566L9.566 7.152A3.449 3.449 0 0 0 10 5.5C10 3.57 8.43 2 6.5 2S3 3.57 3 5.5S4.57 9 6.5 9c.601 0 1.158-.166 1.652-.434L9.566 9.98A3.972 3.972 0 0 0 9 12c0 .997.38 1.899.985 2.601l-1.692 1.692l.025.025A2.962 2.962 0 0 0 7 16c-1.654 0-3 1.346-3 3s1.346 3 3 3s3-1.346 3-3c0-.476-.121-.919-.318-1.318l.025.025l1.954-1.954c.421.15.867.247 1.339.247c2.206 0 4-1.794 4-4a3.96 3.96 0 0 0-.439-1.785l1.253-1.462c.364.158.764.247 1.186.247c1.654 0 3-1.346 3-3s-1.346-3-3-3zM7 20a1 1 0 1 1 0-2a1 1 0 0 1 0 2zM5 5.5C5 4.673 5.673 4 6.5 4S8 4.673 8 5.5S7.327 7 6.5 7S5 6.327 5 5.5zm8 8.5c-1.103 0-2-.897-2-2s.897-2 2-2s2 .897 2 2s-.897 2-2 2zm6-7a1 1 0 1 1 0-2a1 1 0 0 1 0 2z' fill='currentColor'/%3e%3c/svg%3e");
+}
+
+.menu-item-icon svg.dot-network {
+	height: 1.1rem;
+	width: 1.1rem;
+	position: relative;
+	right: 2px;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -795,7 +866,7 @@ body .workspace-split.mod-right-split > .workspace-leaf-resize-handle {
 
 .titlebar-button:hover {
 	color: var(--alt-accent);
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 }
 
 .titlebar-button:active {
@@ -808,7 +879,7 @@ body .workspace-split.mod-right-split > .workspace-leaf-resize-handle {
 
 /* proper light theme for titlebar */
 .titlebar {
-	background-color: var(--background-primary-alt);
+	background-color: var(--bg2);
 	border-bottom: 1px solid var(--background-modifier-border);
 }
 
@@ -899,8 +970,9 @@ body:not(.show-titlebar) > div.notice-container {
 	top: 0;
 }
 
-body > div.notice-container .notice {
-	color: var(--interactive-normal);
+div.notice-container .notice {
+	color: var(--notice-text);
+	background-color: var(--notice-bg);
 	box-shadow: var(--small-shadow);
 
 	padding: 4px 10px 6px;
@@ -909,14 +981,6 @@ body > div.notice-container .notice {
 	border-radius: var(--roundish);
 
 	font-size: 0.85em;
-}
-
-.theme-light > div.notice-container .notice {
-	background-color: var(--text-faint);
-}
-
-.theme-dark > div.notice-container .notice {
-	background-color: var(--text-muted);
 }
 
 body > div.notice-container .notice:hover {
@@ -968,7 +1032,7 @@ or when enabled by the style settings plugin */
 body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header {
 	height: 0.9em;
 
-	background-color: var(--background-primary);
+	background-color: var(--bg1);
 
 	transition: var(--header-transition);
 
@@ -993,7 +1057,7 @@ body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf:first-of-
 body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header:focus-within,
 body.show-header-bar .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header {
 	height: 1.9em;
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 	transition: var(--header-transition);
 }
 
@@ -1122,7 +1186,7 @@ body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 }
 
 ::-WEBKIT-SCROLLBAR:hover {
-	background-color: var(--background-secondary-alt);
+	background-color: var(--bg4);
 }
 
 ::-WEBKIT-SCROLLBAR-THUMB:active {
@@ -1200,7 +1264,7 @@ body:not(.normal-checkboxes) .checkbox-container {
 	height: 22px;
 	width: 22px;
 
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 
 	transition: var(--toggle-duration) ease-in-out;
 	cursor: pointer;
@@ -1240,7 +1304,7 @@ body:not(.normal-checkboxes) .checkbox-container:hover {
 }
 
 body:not(.normal-checkboxes) .checkbox-container.is-enabled:hover {
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 	border-color: var(--interactive-hover-border);
 }
 
@@ -1313,7 +1377,7 @@ input.slider {
 	bottom: 12px;
 	left: 2.5%;
 
-	background-color: var(--background-secondary-alt);
+	background-color: var(--bg4);
 
 	padding-top: 5px;
 
@@ -1360,7 +1424,7 @@ the bottom when replacing/searching ლ(ಠ_ಠლ)╯ */
 .document-replace input[type="text"] {
 	height: 2.2rem;
 	width: unset;
-	background-color: var(--background-primary);
+	background-color: var(--bg1);
 	margin: 5px;
 	border: var(--muted-border);
 }
@@ -1402,6 +1466,7 @@ body:not(.show-close-button) .document-search-close-button {
 /* ─────────────────────────────────────────────────── */
 
 div.menu {
+	padding: 0;
 	border-radius: var(--roundish);
 }
 
@@ -1459,6 +1524,11 @@ div.menu-item {
 	color: var(--text-accent);
 }
 
+.menu-separator {
+	margin: 0;
+	border-bottom: var(--muted-border);
+}
+
 /* ─────────────────────────────────────────────────── */
 /* << Editor Suggestions */
 /* ─────────────────────────────────────────────────── */
@@ -1497,7 +1567,7 @@ div.search-input-clear-button::BEFORE,
 .modal-close-button {
 	z-index: 100;
 	color: var(--text-muted);
-	background-color: var(--background-secondary-alt);
+	background-color: var(--bg4);
 }
 
 div.search-input-clear-button::BEFORE {
@@ -1524,7 +1594,7 @@ div.search-input-clear-button:hover::BEFORE,
 
 .empty-state-close-button:hover {
 	color: var(--alt-accent-lighter);
-	background: var(--background-secondary-alt);
+	background: var(--bg4);
 }
 
 .modal-close-button {
@@ -1567,9 +1637,10 @@ body:not(.show-close-button) .modal-close-button:hover {
 /* also partially applies to the Editor Suggestions */
 
 div.prompt {
+	background-color: var(--bg1);
 	box-shadow: var(--medium-shadow);
 	padding: 4px;
-	border: 5px solid var(--background-secondary);
+	border: 5px solid var(--bg3);
 	border-radius: calc(var(--roundish) * 2);
 }
 
@@ -1617,7 +1688,7 @@ div.prompt-results {
 .suggestion-item:hover,
 .suggestion-item.is-selected .suggestion-prefix,
 .suggestion-item:hover .suggestion-prefix {
-	background-color: var(--background-secondary-alt) !important;
+	background-color: var(--bg4) !important;
 }
 
 .suggestion-item.is-selected .suggestion-prefix,
@@ -1649,10 +1720,10 @@ div.prompt-results {
 
 .suggestion-item.is-selected .suggestion-hotkey,
 .suggestion-item:hover .suggestion-hotkey {
-	background-color: var(--background-primary-alt);
+	background-color: var(--bg2);
 }
 
-/* move plugin name to the right */
+/* Command Palette: move plugin name to the right */
 body:not(.move-plugin-name-to-left):not(.is-mobile) div.prompt {
 	min-width: 700px;
 }
@@ -1660,18 +1731,18 @@ body:not(.move-plugin-name-to-left):not(.is-mobile) div.prompt {
 body:not(.move-plugin-name-to-left):not(.is-mobile) .suggestion-prefix {
 	position: absolute;
 	right: 100px;
-	background: var(--background-primary);
+	background-color: var(--bg1);
 	padding-left: 8px;
 }
 
 /* Alternating row colors */
 body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-prefix,
 body:not(.no-alternating-rows) .suggestion-item:nth-child(even) {
-	background-color: var(--background-primary-alt);
+	background-color: var(--bg2);
 }
 
 body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-hotkey {
-	background-color: var(--background-primary);
+	background-color: var(--bg1);
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -1679,14 +1750,33 @@ body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-hotk
 /* ─────────────────────────────────────────────────── */
 
 /* ─────────────────────────────────────────────────── */
+/* << Files (in general) */
+/* ─────────────────────────────────────────────────── */
+/* apply to any plugin using file lists,
+not only file explorer */
+
+.nav-file-title.is-active,
+.nav-folder-title.is-active,
+body > .app-container .nav-file-title:hover,
+body > .app-container .nav-folder-title:hover {
+	background-color: var(--bg4);
+}
+
+/* ─────────────────────────────────────────────────── */
 /* << Tab Headers */
 /* ─────────────────────────────────────────────────── */
 
+/* unset stuff from Obsidian's default theme */
 .workspace-tab-header-inner.is-after-active,
 .workspace-tab-header-inner.is-before-active,
 .workspace-tab-header.is-after-active,
 .workspace-tab-header.is-before-active {
 	background: transparent;
+}
+
+.workspace-tab-header.is-before-active .workspace-tab-header-inner,
+.workspace-tab-header.is-after-active .workspace-tab-header-inner {
+	border-radius: var(--roundish);
 }
 
 .workspace-tab-container-after,
@@ -1695,6 +1785,7 @@ body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-hotk
 }
 
 .workspace-tab-header-container {
+	background-color: transparent;
 	margin: 4px 0 4px 11px;
 }
 
@@ -1703,6 +1794,7 @@ body > .app-container .workspace-split.mod-horizontal > .workspace-tabs > .works
 	border-radius: 0;
 }
 
+/* own styling */
 .workspace-tab-header {
 	margin-right: 6px;
 	border: var(--thin-border);
@@ -1710,7 +1802,7 @@ body > .app-container .workspace-split.mod-horizontal > .workspace-tabs > .works
 }
 
 .workspace-tab-header.is-active {
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 	border-radius: var(--roundish);
 }
 
@@ -1735,14 +1827,14 @@ body > .app-container .workspace-split.mod-horizontal > .workspace-tabs > .works
 }
 
 .nav-action-button.is-active {
-	background-color: var(--background-secondary-alt);
+	background-color: var(--bg4);
 }
 
 .nav-action-button:hover,
 .nav-action-button.is-active:hover,
 .workspace-tab-header:hover .workspace-tab-header-inner,
 .workspace-tab-header:hover {
-	background-color: var(--background-primary);
+	background-color: var(--bg1);
 	cursor: pointer;
 }
 
@@ -1776,7 +1868,10 @@ body > .app-container .workspace-split.mod-horizontal > .workspace-tabs > .works
 /* see also the change of resize handle height depending
 on the titlebar visibility in the titlebar section */
 
-/* thicker resize handles */
+.workspace-leaf-resize-handle { /* stylelint-disable-line no-duplicate-selectors */
+	transition: 350ms ease-in-out;
+}
+
 .workspace-split.mod-horizontal > .workspace-leaf-resize-handle {
 	width: var(--resize-handle-thickness);
 }
@@ -1784,6 +1879,15 @@ on the titlebar visibility in the titlebar section */
 .workspace-split.mod-horizontal > .workspace-leaf > .workspace-leaf-resize-handle,
 .workspace-split.mod-horizontal > .workspace-tabs > .workspace-leaf-resize-handle {
 	height: var(--resize-handle-thickness);
+}
+
+.workspace-split.mod-horizontal > .workspace-leaf-resize-handle:hover {
+	width: var(--resize-handle-hovered-thickness);
+}
+
+.workspace-split.mod-horizontal > .workspace-leaf > .workspace-leaf-resize-handle:hover,
+.workspace-split.mod-horizontal > .workspace-tabs > .workspace-leaf-resize-handle:hover {
+	height: var(--resize-handle-hovered-thickness);
 }
 
 /* coloring */
@@ -1963,7 +2067,6 @@ body .workspace-leaf-resize-handle:active {
 /* tabs to the side */
 .modal.mod-settings .vertical-tab-header {
 	height: 95vh;
-	background: var(--background-secondary);
 	padding-top: 0;
 
 	/* overscroll */
@@ -1971,12 +2074,12 @@ body .workspace-leaf-resize-handle:active {
 }
 
 .vertical-tab-content {
-	background: var(--background-primary);
+	background: var(--bg1);
 	padding: 12px 21px;
 }
 
 .vertical-tab-header-group {
-	background-color: var(--background-secondary-alt);
+	background-color: var(--bg4);
 	padding-top: 0;
 	padding-bottom: 0;
 	margin-top: 0;
@@ -2005,14 +2108,14 @@ body .workspace-leaf-resize-handle:active {
 
 .vertical-tab-nav-item {
 	color: var(--extra-contrast);
-	background: var(--background-secondary);
+	background: var(--bg3);
 	padding: 3px 3px 3px 6px;
 }
 
 /* color active/hovered sub menu */
 .vertical-tab-nav-item.is-active {
 	color: var(--text-accent);
-	background: var(--background-secondary-alt);
+	background: var(--bg4);
 }
 
 .vertical-tab-nav-item:active {
@@ -2022,7 +2125,7 @@ body .workspace-leaf-resize-handle:active {
 .vertical-tab-nav-item.is-active:hover,
 .vertical-tab-nav-item:hover {
 	color: var(--alt-accent);
-	background: var(--background-secondary-alt);
+	background: var(--bg4);
 	border-left: 3px solid var(--alt-accent);
 }
 
@@ -2045,7 +2148,7 @@ body .workspace-leaf-resize-handle:active {
 .setting-restore-hotkey-button:hover,
 .setting-editor-extra-setting-button:hover {
 	color: var(--editor-alt-accent) !important;
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 	opacity: 1;
 }
 
@@ -2484,7 +2587,7 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 
 .community-theme.is-selected button:first-child:hover {
 	color: var(--text-faint) !important;
-	background-color: var(--background-secondary-alt) !important;
+	background-color: var(--bg4) !important;
 	cursor: not-allowed;
 	border-color: var(--interactive-border) !important;
 }
@@ -2654,7 +2757,7 @@ body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
 /* <<< Metadata Block */
 .markdown-preview-view .frontmatter-container {
 	color: var(--extra-contrast);
-	background: var(--background-secondary);
+	background: var(--bg3);
 	border: var(--basic-border);
 	border-radius: var(--roundish);
 	font-size: 1em;
@@ -2689,7 +2792,7 @@ body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
 
 .frontmatter-section-tags > a.tag:hover {
 	color: var(--alt-accent) !important;
-	background: var(--background-secondary-alt);
+	background: var(--bg4);
 	text-decoration: none !important;
 }
 
@@ -2750,8 +2853,8 @@ body:not(.show-fold-marker) .CodeMirror-foldmarker {
 	display: none;
 }
 
-/* fix for note being in the sidebar */
-/* thanks @SlRvb */
+/* fix for note being in the sidebar, thanks @SlRvb */
+.markdown-source-view.mod-cm6 .cm-gutters,
 .CodeMirror-foldgutter {
 	background-color: transparent !important;
 }
@@ -2777,7 +2880,7 @@ progress {
 }
 
 progress::-WEBKIT-PROGRESS-BAR {
-	background: var(--background-secondary-alt);
+	background: var(--bg4);
 	border: var(--thin-border);
 	border-radius: calc(var(--roundish) * 3);
 }
@@ -3166,7 +3269,7 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-header.Hy
 }
 
 .markdown-preview-view h6 {
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 }
 
 .HyperMD-header.HyperMD-header-6.CodeMirror-line,
@@ -3244,7 +3347,7 @@ body > .app-container .cm-formatting.cm-formatting-quote {
 /* Preview Mode */
 body > .app-container .markdown-preview-view blockquote {
 	color: var(--extra-contrast);
-	background-color: var(--background-primary-alt);
+	background-color: var(--bg2);
 
 	padding: 0.3em 0.7em 0.4em;
 	margin: 1.5em 0 1.5em 2em;
@@ -3351,7 +3454,7 @@ body > .app-container table > tbody > tr > td:first-child {
 
 /* background */
 thead {
-	background-color: var(--background-secondary-alt);
+	background-color: var(--bg4);
 	font-weight: 900;
 }
 
@@ -3379,14 +3482,16 @@ body.no-alternating-rows > .app-container table > tbody > tr > td {
 	font-size: var(--monospace-font-size);
 }
 
-/* wrapping, preserving line breaks */
+.markdown-preview-view pre code,
 .markdown-preview-view code {
+	border-radius: var(--roundish);
+
+	/* wrapping, preserving line breaks */
 	white-space: pre-wrap !important;
 }
 
 /* Code blocks Preview Mode */
 .markdown-preview-view pre {
-	background-color: var(--background-secondary) !important;
 	padding-top: 10px !important;
 	padding-bottom: 12px !important;
 	border-radius: calc(var(--roundish) * 2) !important;
@@ -3394,7 +3499,7 @@ body.no-alternating-rows > .app-container table > tbody > tr > td {
 
 /* code blocks Edit Mode */
 body > .app-container .HyperMD-codeblock-begin-bg {
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 	border-top-right-radius: calc(var(--roundish) * 2);
 	border-top-left-radius: calc(var(--roundish) * 2);
 }
@@ -3452,6 +3557,7 @@ pre[class~="language-txt"]::AFTER { content: "text"; }
 pre[class~="language-text"]::AFTER { content: "text"; }
 pre[class~="language-url"]::AFTER { content: "url"; }
 pre[class~="language-uri"]::AFTER { content: "uri"; }
+pre[class~="language-applescript"]::AFTER { content: "AppleScript"; }
 
 /* fix for the buggy selection of inline text
 https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/11552/10 */
@@ -3464,17 +3570,22 @@ https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/1
 }
 
 /* copy code button */
+
 button.copy-code-button {
-	padding-right: 0 !important;
-	padding-bottom: 1.5px;
-	padding-left: 6px !important;
+	padding-right: 1px !important;
+	padding-bottom: 2px;
+	padding-left: 8px !important;
 	font-size: 0;
+}
+
+button.copy-code-button:not(:hover) {
+	background-color: var(--bg3) !important;
 }
 
 button.copy-code-button::BEFORE {
 	content: "content_copy ";
 	font-family: "Material Icons";
-	font-size: 0.7rem;
+	font-size: 0.8rem;
 }
 
 /* ─────────────────────────────────────────────────── */
@@ -3873,6 +3984,11 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-lineba
 	border-radius: var(--roundish);
 }
 
+body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-linebackground {
+	background-color: var(--active-line);
+	border-radius: var(--roundish);
+}
+
 /* <<< Highlights */
 .markdown-preview-view mark,
 .cm-s-obsidian span.cm-highlight {
@@ -3880,6 +3996,7 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-lineba
 }
 
 /* <<< Selection (Selected Text) */
+/* stylelint-disable no-duplicate-selectors */
 .theme-light,
 .theme-dark {
 	--text-selection: var(--selection-color);
@@ -3888,6 +4005,7 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-lineba
 /* alternative method */
 /* .CodeMirror-focused .CodeMirror-selected {} */
 
+/* stylelint-enable no-duplicate-selectors */
 /* ─────────────────────────────────────────────────── */
 /* << Multi-Color Highlighting */
 /* ─────────────────────────────────────────────────── */
@@ -3933,7 +4051,7 @@ em > del {
 .CodeMirror-activeline > .CodeMirror-line .cm-em.cm-strikethrough,
 em > del:hover,
 .cm-em.cm-strikethrough:hover {
-	background-color: var(--background-secondary-alt) !important;
+	background-color: var(--bg4) !important;
 	transition: 400ms ease-in-out;
 }
 
@@ -4037,7 +4155,7 @@ body.is-mobile .markdown-preview-view blockquote {
 
 .mobile-option-setting-item > span:hover > svg {
 	color: var(--editor-alt-accent) !important;
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 	opacity: 1;
 }
 
@@ -4435,7 +4553,7 @@ body.is-mobile .markdown-preview-view blockquote {
 
 .markdown-source-view .backlink-pane > .tree-item-self,
 .markdown-preview-view .backlink-pane > .tree-item-self {
-	background-color: var(--background-primary-alt);
+	background-color: var(--bg2);
 	border-radius: var(--roundish);
 }
 
@@ -4449,7 +4567,7 @@ body.is-mobile .markdown-preview-view blockquote {
 }
 
 .workspace-tabs .backlink-pane > .tree-item-self {
-	background-color: var(--background-primary);
+	background-color: var(--bg1);
 }
 
 .backlink-pane > .tree-item-self > .tree-item-flair-outer > .tree-item-flair {
@@ -4609,7 +4727,7 @@ body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"]
 	height: var(--popover-size) !important;
 	max-height: unset !important;
 	width: var(--popover-size) !important;
-	border: 5px solid var(--background-secondary) !important;
+	border: 5px solid var(--bg3) !important;
 	border-radius: calc(var(--roundish) * 2);
 }
 
@@ -4760,7 +4878,7 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 
 .graph-controls-button:hover {
 	color: var(--alt-accent);
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 }
 
 .graph-controls-button:active {
@@ -4887,7 +5005,7 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 }
 
 .workspace-leaf-content[data-type="git-view"] .view-content .file-view main:hover {
-	background: var(--background-secondary-alt);
+	background: var(--bg4);
 }
 
 .workspace-leaf-content[data-type="git-view"] .tools .buttons > div:hover {
@@ -4936,7 +5054,7 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 }
 
 .workspace-leaf-content[data-type="calendar"] .arrows {
-	background-color: var(--background-secondary-alt) !important;
+	background-color: var(--bg4) !important;
 }
 
 .workspace-leaf-content[data-type="calendar"] .nav {
@@ -5068,7 +5186,7 @@ body .workspace-leaf-content[data-type="kanban"] .view-header {
 
 body .workspace-leaf-content[data-type="kanban"] .view-header:focus-within,
 body .workspace-leaf-content[data-type="kanban"] .view-header:hover {
-	background-color: var(--background-secondary) !important;
+	background-color: var(--bg3) !important;
 	background-image: unset;
 }
 
@@ -5085,32 +5203,37 @@ div.kanban-plugin__board > div {
 	margin-top: 0;
 }
 
-.kanban-plugin__drag-container p,
-.workspace-leaf-content[data-type="kanban"] p {
-	margin-top: 0.3em;
-	margin-bottom: 0.3em;
-	font-size: 0.95em;
+body .kanban-plugin__item-title-wrapper {
+	padding: 5px 7px;
 }
 
-.kanban-plugin__drag-container li,
-.workspace-leaf-content[data-type="kanban"] li {
+/* font sizes  */
+body .kanban-plugin p {
+	margin: 0;
+	font-size: 0.95em;
+	letter-spacing: -0.2px;
+}
+
+.kanban-plugin li {
 	font-size: 0.85em;
 }
 
-.workspace-leaf-content[data-type="kanban"] ul {
-	margin-top: 0.2em;
-	margin-bottom: 0.2em;
+.kanban-plugin code {
+	font-size: calc(var(--monospace-font-size) * 0.95);
+}
+
+.kanban-plugin li code {
+	font-size: calc(var(--monospace-font-size) * 0.95 * 0.85);
+}
+
+body .kanban-plugin ul {
+	margin-top: 3px;
 }
 
 textarea.kanban-plugin__item-input {
-	background-color: var(--background-secondary-alt);
+	background-color: var(--bg4);
 	font-family: var(--default-font) !important;
 	font-size: 0.95em !important;
-}
-
-textarea.kanban-plugin__item-input,
-.kanban-plugin__drag-container p,
-.workspace-leaf-content[data-type="kanban"] p {
 	letter-spacing: -0.3px;
 }
 
@@ -5246,7 +5369,7 @@ body.angular-shapes .kanban-plugin__lane {
 	margin-left: 0 !important;
 
 	/* horizontal border between sections */
-	border-bottom: var(--muted-border) !important;
+	border-bottom: var(--basic-border) !important;
 }
 
 .tab-panel-container.svelte-11pvpwl {
@@ -5326,15 +5449,14 @@ body.angular-shapes .kanban-plugin__lane {
 }
 
 /* new scene/draft field */
-.svelte-1lq63fp,
-.svelte-1wkli4h {
-	padding-left: 3px !important;
+div.new-scene-container input#new-scene {
+	padding-left: 3px;
 }
 
 /* <<< Longform Sidebar Icons */
 .svelte-htpziy::BEFORE {
 	font-family: "Material Icons";
-	font-size: 1.5rem;
+	font-size: 1.1rem;
 	vertical-align: top;
 }
 
@@ -5352,27 +5474,27 @@ body.angular-shapes .kanban-plugin__lane {
 
 .svelte-htpziy.selected {
 	color: var(--text-accent) !important;
-	background-color: var(--background-secondary-alt) !important;
+	background-color: var(--bg4) !important;
 }
 
 .svelte-htpziy:hover {
 	color: var(--alt-accent) !important;
-	background-color: var(--background-primary) !important;
+	background-color: var(--bg1) !important;
 }
 
 .svelte-htpziy.selected:hover {
 	color: var(--alt-accent) !important;
-	background-color: var(--background-secondary-alt) !important;
+	background-color: var(--bg4) !important;
 }
 
 .svelte-htpziy {
 	color: var(--extra-contrast) !important;
-	background-color: var(--background-primary) !important;
+	background-color: var(--bg1) !important;
 
-	padding: 5px 15px 6px;
-	margin-right: 4px !important;
+	padding: 4px 9px 5px 14px !important;
+	margin-right: 6px !important;
 
-	border: 2px solid var(--text-faint) !important;
+	border: var(--basic-border) !important;
 	border-bottom: none !important;
 	border-top-right-radius: 6px !important;
 	border-top-left-radius: 6px !important;
@@ -5383,7 +5505,7 @@ body.angular-shapes .kanban-plugin__lane {
 .new-draft-container.svelte-1wkli4h,
 .new-scene-container.svelte-1lq63fp,
 .compile-container.svelte-1vu6mjk {
-	border-top: 3px solid var(--text-faint) !important;
+	border-top: var(--basic-border) !important;
 }
 
 /* Compile */
@@ -5411,13 +5533,13 @@ body.angular-shapes .kanban-plugin__lane {
 
 /* container */
 #project-picker.svelte-23avsr {
-	background-color: var(--background-secondary-alt);
+	background-color: var(--bg4);
 
 	padding: 5px 0 5px 1px;
 	margin-top: 0;
 	margin-bottom: 0;
 
-	border: 2.5px solid var(--text-faint);
+	border: var(--basic-border);
 	border-radius: 4px;
 
 	font-size: 0.8em;
@@ -5448,7 +5570,7 @@ body:not(.show-header-bar):not(.longform-no-bg) .workspace-split.mod-root > .wor
 body.show-header-bar:not(.longform-no-bg) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .longform-leaf .view-header,
 body:not(.show-header-bar):not(.longform-no-bg) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .longform-leaf .view-header:hover,
 body:not(.show-header-bar):not(.longform-no-bg) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .longform-leaf .view-header:focus-within {
-	background-color: var(--background-primary);
+	background-color: var(--bg1);
 }
 
 body:not(.longform-left-aligned) .longform-leaf .cm-s-obsidian {
@@ -5603,7 +5725,7 @@ body:not(.show-title-bar) > .qe-popup-menu {
 
 .menu.qe-popup-menu .menu-item:hover,
 .menu.qe-popup-menu .menu-item.selected {
-	background-color: var(--background-secondary-alt) !important;
+	background-color: var(--bg4) !important;
 }
 
 /* icons */
@@ -5658,7 +5780,7 @@ button.MySnippetsButton:hover path {
 }
 
 button.MS-OpenSnippet {
-	background-color: var(--background-secondary-alt) !important;
+	background-color: var(--bg4) !important;
 }
 
 button.MS-OpenSnippet svg.ms-snippet path {
@@ -5912,7 +6034,7 @@ body > .app-container div.BC-trail {
 
 div.BC-trail {
 	color: var(--extra-contrast);
-	background-color: var(--background-secondary);
+	background-color: var(--bg3);
 
 	padding-right: 10px;
 	padding-left: 10px;
@@ -5925,7 +6047,7 @@ div.BC-trail {
 }
 
 body > .app-container div.BC-trail-grid {
-	background-color: var(--background-primary);
+	background-color: var(--bg1);
 
 	margin-top: 8px;
 	margin-bottom: 5px;
@@ -5956,7 +6078,7 @@ body #block-ref-hover.show {
 body #search-res-hover.show:hover,
 body #block-ref-hover.show:hover {
 	color: var(--alt-accent);
-	background-color: var(--background-primary-alt);
+	background-color: var(--bg2);
 	border-radius: var(--roundish);
 }
 
@@ -5999,15 +6121,15 @@ body #block-ref-hover.show:hover {
 /* ─────────────────────────────────────────────────── */
 /* << Advanced Cursor */
 /* ─────────────────────────────────────────────────── */
-/* the sidebar only */
 .workspace-leaf-content[data-type="Saved Queries View"] .savedQ-view-q {
 	color: var(--extra-contrast);
 	background-color: transparent;
+	padding-left: 6px;
 }
 
 .workspace-leaf-content[data-type="Saved Queries View"] .savedQ-view-q:hover {
 	color: var(--alt-accent);
-	background-color: var(--background-secondary-alt) !important;
+	background-color: var(--bg4) !important;
 	border-radius: var(--roundish);
 }
 
@@ -6043,12 +6165,12 @@ pre button.copy {
 	right: 7px;
 
 	color: var(--extra-contrast);
-	background-color: var(--background-secondary-alt);
+	background-color: var(--bg4);
 
 	padding: 6px 6px 4px 8px;
 	margin: 0;
 
-	border: 2px solid var(--background-primary);
+	border: 2px solid var(--bg1);
 	border-radius: var(--roundish);
 
 	font-size: 0;

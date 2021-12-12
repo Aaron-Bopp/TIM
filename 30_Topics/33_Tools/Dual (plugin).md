@@ -10,7 +10,7 @@ tags: node/topic/tool
 
 **Docs**:: https://psionica.org/docs/workshop/dual/
 
-Dual is a digital assistant powered by [[GPT]] that interacts with your [[Obsidian (software)]] notes and uses its trained language model ([[NLP]]) to preform various tasks. It can be prompted with natural language commands and trained with various skills to perform more defined functions. It can also use code snippets to perform various more complicated functions.
+Dual is a digital assistant powered by [[GPT]] that interacts with your [[Obsidian (software)]] notes and uses its trained [[language]] model ([[NLP]]) to preform various tasks. It can be prompted with natural language commands and trained with various skills to perform more defined functions. It can also use code snippets to perform various more complicated functions.
 
 [[Dual (plugin)]] can be a major part in how your notes become a legitimate [[second brain]].
 

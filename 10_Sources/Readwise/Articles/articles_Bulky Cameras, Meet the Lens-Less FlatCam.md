@@ -31,7 +31,7 @@ A:: Most skills are two complex to be religated to any one region of the brain a
 > Research shows that, overall, the abilities that make up math skills arise from processing that takes place in BOTH hemispheres (especially the brain area in each hemisphere that is known as the intraparietal sulcus) and that damage to either hemisphere can cause difficulties with math. A left hemisphere advantage for math is mostly seen for tasks like counting and reciting multiplication tables, which rely heavily on memorized verbal information (thus, not exactly what we think of as "logical"!). And there are right hemisphere advantages on some math-related tasks as well, especially estimating the quantity of a set of objects. This kind of pattern, in which both hemispheres of the brain make critical contributions, holds for most types of cognitive skills. 
 
 ##### ^241415936
-Q:: Are language skills centered in one hemisphere of the brain? 
+Q:: Are [[language]] skills centered in one hemisphere of the brain? 
 A:: While producing speech is much more inhibited by left hemisphere damage than right, language relies on both sides of the brain  
 > both hemispheres can figure out the meaning of words and sentences – and that they have differing strengths and weaknesses when it comes to comprehending. 
 %%

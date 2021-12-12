@@ -6,6 +6,9 @@ if you want to view the source visit the plugins github repository
 'use strict';
 
 var obsidian = require('obsidian');
+var state = require('@codemirror/state');
+var language = require('@codemirror/language');
+var streamParser = require('@codemirror/stream-parser');
 
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
@@ -32,48 +35,48 @@ function __awaiter(thisArg, _arguments, P, generator) {
     });
 }
 
-const dashChar = "-";
-const enDashChar = "–";
-const emDashChar = "—";
-const enDash = {
-    matchTrigger: dashChar,
+const dashChar$1 = "-";
+const enDashChar$1 = "–";
+const emDashChar$1 = "—";
+const enDash$1 = {
+    matchTrigger: dashChar$1,
     matchRegExp: /--$/,
     performUpdate: (instance, delta, settings) => {
         delta.update({ line: delta.from.line, ch: delta.from.ch - 1 }, delta.to, [
-            enDashChar,
+            enDashChar$1,
         ]);
     },
     performRevert: (instance, delta, settings) => {
-        if (instance.getRange(delta.from, delta.to) === enDashChar) {
-            delta.update(delta.from, delta.to, [dashChar + dashChar]);
+        if (instance.getRange(delta.from, delta.to) === enDashChar$1) {
+            delta.update(delta.from, delta.to, [dashChar$1 + dashChar$1]);
         }
     },
 };
-const emDash = {
-    matchTrigger: dashChar,
+const emDash$1 = {
+    matchTrigger: dashChar$1,
     matchRegExp: /–-$/,
     performUpdate: (instance, delta, settings) => {
         delta.update({ line: delta.from.line, ch: delta.from.ch - 1 }, delta.to, [
-            emDashChar,
+            emDashChar$1,
         ]);
     },
     performRevert: (instance, delta, settings) => {
-        if (instance.getRange(delta.from, delta.to) === emDashChar) {
-            delta.update(delta.from, delta.to, [enDashChar + dashChar]);
+        if (instance.getRange(delta.from, delta.to) === emDashChar$1) {
+            delta.update(delta.from, delta.to, [enDashChar$1 + dashChar$1]);
         }
     },
 };
-const trippleDash = {
-    matchTrigger: dashChar,
+const trippleDash$1 = {
+    matchTrigger: dashChar$1,
     matchRegExp: /—-$/,
     performUpdate: (instance, delta, settings) => {
         delta.update({ line: delta.from.line, ch: delta.from.ch - 1 }, delta.to, [
-            dashChar + dashChar + dashChar,
+            dashChar$1 + dashChar$1 + dashChar$1,
         ]);
     },
     performRevert: (instance, delta, settings) => { },
 };
-const ellipsis = {
+const ellipsis$1 = {
     matchTrigger: ".",
     matchRegExp: /\.\.\.$/,
     performUpdate: (instance, delta, settings) => {
@@ -111,7 +114,7 @@ const closeDoubleQuote = {
         }
     },
 };
-const pairedDoubleQuote = {
+const pairedDoubleQuote$1 = {
     matchTrigger: '""',
     matchRegExp: /""$/,
     performUpdate: (instance, delta, settings) => {
@@ -160,7 +163,7 @@ const closeSingleQuote = {
         }
     },
 };
-const pairedSingleQuote = {
+const pairedSingleQuote$1 = {
     matchTrigger: "''",
     matchRegExp: /''$/,
     performUpdate: (instance, delta, settings) => {
@@ -185,7 +188,7 @@ const wrappedSingleQuote = {
     },
     performRevert: false,
 };
-const rightArrow = {
+const rightArrow$1 = {
     matchTrigger: ">",
     matchRegExp: /->$/,
     performUpdate: (instance, delta, settings) => {
@@ -199,7 +202,7 @@ const rightArrow = {
         }
     },
 };
-const leftArrow = {
+const leftArrow$1 = {
     matchTrigger: "-",
     matchRegExp: /<-$/,
     performUpdate: (instance, delta, settings) => {
@@ -213,7 +216,7 @@ const leftArrow = {
         }
     },
 };
-const greaterThanOrEqualTo = {
+const greaterThanOrEqualTo$1 = {
     matchTrigger: "=",
     matchRegExp: />=$/,
     performUpdate: (instance, delta, settings) => {
@@ -227,7 +230,7 @@ const greaterThanOrEqualTo = {
         }
     },
 };
-const lessThanOrEqualTo = {
+const lessThanOrEqualTo$1 = {
     matchTrigger: "=",
     matchRegExp: /<=$/,
     performUpdate: (instance, delta, settings) => {
@@ -241,7 +244,7 @@ const lessThanOrEqualTo = {
         }
     },
 };
-const notEqualTo = {
+const notEqualTo$1 = {
     matchTrigger: "=",
     matchRegExp: /\/=$/,
     performUpdate: (instance, delta, settings) => {
@@ -255,7 +258,7 @@ const notEqualTo = {
         }
     },
 };
-const rightGuillemet = {
+const rightGuillemet$1 = {
     matchTrigger: ">",
     matchRegExp: />>$/,
     performUpdate: (instance, delta, settings) => {
@@ -269,7 +272,7 @@ const rightGuillemet = {
         }
     },
 };
-const leftGuillemet = {
+const leftGuillemet$1 = {
     matchTrigger: "<",
     matchRegExp: /<<$/,
     performUpdate: (instance, delta, settings) => {
@@ -283,58 +286,521 @@ const leftGuillemet = {
         }
     },
 };
-const dashRules = [enDash, emDash, trippleDash];
-const ellipsisRules = [ellipsis];
-const smartQuoteRules = [
+const legacyDashRules = [enDash$1, emDash$1, trippleDash$1];
+const legacyEllipsisRules = [ellipsis$1];
+const legacySmartQuoteRules = [
     openDoubleQuote,
     closeDoubleQuote,
-    pairedDoubleQuote,
+    pairedDoubleQuote$1,
     wrappedDoubleQuote,
     openSingleQuote,
     closeSingleQuote,
-    pairedSingleQuote,
+    pairedSingleQuote$1,
     wrappedSingleQuote,
 ];
+const legacyComparisonRules = [
+    lessThanOrEqualTo$1,
+    greaterThanOrEqualTo$1,
+    notEqualTo$1,
+];
+const legacyArrowRules = [leftArrow$1, rightArrow$1];
+const legacyGuillemetRules = [leftGuillemet$1, rightGuillemet$1];
+
+const dashChar = "-";
+const enDashChar = "–";
+const emDashChar = "—";
+function getLastChar(context) {
+    return context && context[context.length - 1];
+}
+// Dashes
+const enDash = {
+    trigger: dashChar,
+    shouldReplace: (context) => {
+        return getLastChar(context) === dashChar;
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({ from: fromA - 1, to: fromA, insert: enDashChar }, {
+            from: fromB - 1,
+            to: fromB,
+            insert: dashChar + dashChar,
+        });
+        adjustSelection(-1);
+    },
+};
+const emDash = {
+    trigger: dashChar,
+    shouldReplace: (context) => {
+        return getLastChar(context) === enDashChar;
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({ from: fromA - 1, to: fromA, insert: emDashChar }, {
+            from: fromB - 1,
+            to: fromB,
+            insert: enDashChar + dashChar,
+        });
+        adjustSelection(-1);
+    },
+};
+const trippleDash = {
+    trigger: dashChar,
+    shouldReplace: (context) => {
+        return getLastChar(context) === emDashChar;
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({
+            from: fromA - 1,
+            to: fromA,
+            insert: dashChar + dashChar + dashChar,
+        }, {
+            from: fromB - 1,
+            to: fromB + 2,
+            insert: emDashChar + dashChar,
+        });
+        adjustSelection(1);
+    },
+};
+const dashRules = [enDash, emDash, trippleDash];
+// Ellipsis
+const ellipsis = {
+    trigger: ".",
+    shouldReplace: (context) => {
+        return context && context.endsWith("..");
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({ from: fromA - 2, to: fromA, insert: "…" }, {
+            from: fromB - 2,
+            to: fromB - 1,
+            insert: "...",
+        });
+        adjustSelection(-2);
+    },
+};
+const ellipsisRules = [ellipsis];
+// Quotes
+const doubleQuote = {
+    trigger: '"',
+    shouldReplace: () => {
+        return true;
+    },
+    replace: ({ context, registerChange, settings, fromA, fromB, }) => {
+        if (context.length === 0 || /[\s\{\[\(\<'"\u2018\u201C]$/.test(context)) {
+            registerChange({
+                from: fromA,
+                to: fromA,
+                insert: settings.openDouble,
+            }, { from: fromB, to: fromB + 1, insert: '"' });
+        }
+        else {
+            registerChange({
+                from: fromA,
+                to: fromA,
+                insert: settings.closeDouble,
+            }, { from: fromB, to: fromB + 1, insert: '"' });
+        }
+    },
+};
+const pairedDoubleQuote = {
+    trigger: '""',
+    shouldReplace: () => {
+        return true;
+    },
+    replace: ({ registerChange, settings, fromA, fromB }) => {
+        registerChange({
+            from: fromA,
+            to: fromA,
+            insert: settings.openDouble + settings.closeDouble,
+        }, { from: fromB, to: fromB + 2, insert: '""' });
+    },
+};
+const singleQuote = {
+    trigger: "'",
+    shouldReplace: () => {
+        return true;
+    },
+    replace: ({ registerChange, settings, fromA, fromB, context, }) => {
+        if (context.length === 0 || /[\s\{\[\(\<'"\u2018\u201C]$/.test(context)) {
+            registerChange({
+                from: fromA,
+                to: fromA,
+                insert: settings.openSingle,
+            }, { from: fromB, to: fromB + 1, insert: "'" });
+        }
+        else {
+            registerChange({
+                from: fromA,
+                to: fromA,
+                insert: settings.closeSingle,
+            }, { from: fromB, to: fromB + 1, insert: "'" });
+        }
+    },
+};
+const pairedSingleQuote = {
+    trigger: "''",
+    shouldReplace: () => {
+        return true;
+    },
+    replace: ({ registerChange, settings, fromA, fromB }) => {
+        registerChange({
+            from: fromA,
+            to: fromA,
+            insert: settings.openSingle + settings.closeSingle,
+        }, { from: fromB, to: fromB + 2, insert: "''" });
+    },
+};
+const smartQuoteRules = [
+    doubleQuote,
+    pairedDoubleQuote,
+    singleQuote,
+    pairedSingleQuote,
+];
+// Arrows
+const leftArrow = {
+    trigger: dashChar,
+    shouldReplace: (context) => {
+        return getLastChar(context) === "<";
+    },
+    replace: ({ settings, registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({
+            from: fromA - 1,
+            to: fromA,
+            insert: settings.leftArrow,
+        }, {
+            from: fromB - 1,
+            to: fromB,
+            insert: "<" + dashChar,
+        });
+        adjustSelection(-1);
+    },
+};
+const rightArrow = {
+    trigger: ">",
+    shouldReplace: (context) => {
+        return getLastChar(context) === dashChar;
+    },
+    replace: ({ settings, registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({
+            from: fromA - 1,
+            to: fromA,
+            insert: settings.rightArrow,
+        }, {
+            from: fromB - 1,
+            to: fromB,
+            insert: dashChar + ">",
+        });
+        adjustSelection(-1);
+    },
+};
+const arrowRules = [leftArrow, rightArrow];
+// Guillemet
+const leftGuillemet = {
+    trigger: "<",
+    shouldReplace: (context) => {
+        return getLastChar(context) === "<";
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({ from: fromA - 1, to: fromA, insert: "«" }, {
+            from: fromB - 1,
+            to: fromB,
+            insert: "<<",
+        });
+        adjustSelection(-1);
+    },
+};
+const rightGuillemet = {
+    trigger: ">",
+    shouldReplace: (context) => {
+        return getLastChar(context) === ">";
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({ from: fromA - 1, to: fromA, insert: "»" }, {
+            from: fromB - 1,
+            to: fromB,
+            insert: ">>",
+        });
+        adjustSelection(-1);
+    },
+};
+const guillemetRules = [leftGuillemet, rightGuillemet];
+const greaterThanOrEqualTo = {
+    trigger: "=",
+    shouldReplace: (context) => {
+        return getLastChar(context) === ">";
+    },
+    replace: ({ settings, registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({
+            from: fromA - 1,
+            to: fromA,
+            insert: "≤",
+        }, {
+            from: fromB - 1,
+            to: fromB,
+            insert: ">=",
+        });
+        adjustSelection(-1);
+    },
+};
+const lessThanOrEqualTo = {
+    trigger: "=",
+    shouldReplace: (context) => {
+        return getLastChar(context) === "<";
+    },
+    replace: ({ settings, registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({
+            from: fromA - 1,
+            to: fromA,
+            insert: "≥",
+        }, {
+            from: fromB - 1,
+            to: fromB,
+            insert: "<=",
+        });
+        adjustSelection(-1);
+    },
+};
+const notEqualTo = {
+    trigger: "=",
+    shouldReplace: (context) => {
+        return getLastChar(context) === "/";
+    },
+    replace: ({ settings, registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({
+            from: fromA - 1,
+            to: fromA,
+            insert: "≠",
+        }, {
+            from: fromB - 1,
+            to: fromB,
+            insert: "/=",
+        });
+        adjustSelection(-1);
+    },
+};
 const comparisonRules = [
     lessThanOrEqualTo,
     greaterThanOrEqualTo,
     notEqualTo,
 ];
-const arrowRules = [leftArrow, rightArrow];
-const guillemetRules = [leftGuillemet, rightGuillemet];
+// Fractions
+const frac2 = {
+    trigger: "2",
+    shouldReplace: (context) => {
+        return context && /(?:^|\s)1\/$/.test(context);
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        registerChange({ from: fromA - 2, to: fromA, insert: "½" }, {
+            from: fromB - 2,
+            to: fromB - 1,
+            insert: "1/2",
+        });
+        adjustSelection(-2);
+    },
+};
+const frac3 = {
+    trigger: "3",
+    shouldReplace: (context) => {
+        return context && /(?:^|\s)[12]\/$/.test(context);
+    },
+    replace: ({ context, registerChange, adjustSelection, fromA, fromB, }) => {
+        let insert = "⅓";
+        let revert = "1/3";
+        if (context.endsWith("2/")) {
+            insert = "⅔";
+            revert = "2/3";
+        }
+        registerChange({ from: fromA - 2, to: fromA, insert }, {
+            from: fromB - 2,
+            to: fromB - 1,
+            insert: revert,
+        });
+        adjustSelection(-2);
+    },
+};
+const frac4 = {
+    trigger: "4",
+    shouldReplace: (context) => {
+        return context && /(?:^|\s)[13]\/$/.test(context);
+    },
+    replace: ({ context, registerChange, adjustSelection, fromA, fromB, }) => {
+        let insert = "¼";
+        let revert = "1/4";
+        if (context.endsWith("3/")) {
+            insert = "¾";
+            revert = "3/4";
+        }
+        registerChange({ from: fromA - 2, to: fromA, insert }, {
+            from: fromB - 2,
+            to: fromB - 1,
+            insert: revert,
+        });
+        adjustSelection(-2);
+    },
+};
+const frac5 = {
+    trigger: "5",
+    shouldReplace: (context) => {
+        return context && /(?:^|\s)[1234]\/$/.test(context);
+    },
+    replace: ({ context, registerChange, adjustSelection, fromA, fromB, }) => {
+        let insert = "⅕";
+        let revert = "1/5";
+        if (context.endsWith("2/")) {
+            insert = "⅖";
+            revert = "2/5";
+        }
+        else if (context.endsWith("3/")) {
+            insert = "⅗";
+            revert = "3/5";
+        }
+        else if (context.endsWith("4/")) {
+            insert = "⅘";
+            revert = "4/5";
+        }
+        registerChange({ from: fromA - 2, to: fromA, insert }, {
+            from: fromB - 2,
+            to: fromB - 1,
+            insert: revert,
+        });
+        adjustSelection(-2);
+    },
+};
+const frac6 = {
+    trigger: "6",
+    shouldReplace: (context) => {
+        return context && /(?:^|\s)[15]\/$/.test(context);
+    },
+    replace: ({ context, registerChange, adjustSelection, fromA, fromB, }) => {
+        let insert = "⅙";
+        let revert = "1/6";
+        if (context.endsWith("5/")) {
+            insert = "⅚";
+            revert = "5/6";
+        }
+        registerChange({ from: fromA - 2, to: fromA, insert }, {
+            from: fromB - 2,
+            to: fromB - 1,
+            insert: revert,
+        });
+        adjustSelection(-2);
+    },
+};
+const frac7 = {
+    trigger: "7",
+    shouldReplace: (context) => {
+        return context && /(?:^|\s)1\/$/.test(context);
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        let insert = "⅐";
+        let revert = "1/7";
+        registerChange({ from: fromA - 2, to: fromA, insert }, {
+            from: fromB - 2,
+            to: fromB - 1,
+            insert: revert,
+        });
+        adjustSelection(-2);
+    },
+};
+const frac8 = {
+    trigger: "8",
+    shouldReplace: (context) => {
+        return context && /(?:^|\s)[1357]\/$/.test(context);
+    },
+    replace: ({ context, registerChange, adjustSelection, fromA, fromB, }) => {
+        let insert = "⅛";
+        let revert = "1/8";
+        if (context.endsWith("3/")) {
+            insert = "⅜";
+            revert = "3/8";
+        }
+        else if (context.endsWith("5/")) {
+            insert = "⅝";
+            revert = "5/8";
+        }
+        else if (context.endsWith("7/")) {
+            insert = "⅞";
+            revert = "7/8";
+        }
+        registerChange({ from: fromA - 2, to: fromA, insert }, {
+            from: fromB - 2,
+            to: fromB - 1,
+            insert: revert,
+        });
+        adjustSelection(-2);
+    },
+};
+const frac9 = {
+    trigger: "9",
+    shouldReplace: (context) => {
+        return context && /(?:^|\s)1\/$/.test(context);
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        let insert = "⅑";
+        let revert = "1/9";
+        registerChange({ from: fromA - 2, to: fromA, insert }, {
+            from: fromB - 2,
+            to: fromB - 1,
+            insert: revert,
+        });
+        adjustSelection(-2);
+    },
+};
+const frac10 = {
+    trigger: "0",
+    shouldReplace: (context) => {
+        return context && /(?:^|\s)1\/1$/.test(context);
+    },
+    replace: ({ registerChange, adjustSelection, fromA, fromB, }) => {
+        let insert = "⅒";
+        let revert = "1/10";
+        registerChange({ from: fromA - 3, to: fromA, insert }, {
+            from: fromB - 3,
+            to: fromB - 2,
+            insert: revert,
+        });
+        adjustSelection(-3);
+    },
+};
+const fractionRules = [
+    frac2,
+    frac3,
+    frac4,
+    frac5,
+    frac6,
+    frac7,
+    frac8,
+    frac9,
+    frac10,
+];
 
 const DEFAULT_SETTINGS = {
     curlyQuotes: true,
     emDash: true,
     ellipsis: true,
     arrows: true,
-    guillemets: false,
     comparisons: true,
+    fractions: false,
+    guillemets: false,
     openSingle: "‘",
     closeSingle: "’",
     openDouble: "“",
     closeDouble: "”",
     leftArrow: "←",
     rightArrow: "→",
-    lessThanOrEqualTo: "≤",
-    greaterThanOrEqualTo: "≥",
-    notEqualTo: "≠",
 };
 class SmartTypography extends obsidian.Plugin {
     constructor() {
         super(...arguments);
         this.beforeChangeHandler = (instance, delta) => {
-            if (this.lastUpdate.has(instance) && delta.origin === "+delete") {
-                const revert = this.lastUpdate.get(instance).performRevert;
+            if (this.legacyLastUpdate.has(instance) && delta.origin === "+delete") {
+                const revert = this.legacyLastUpdate.get(instance).performRevert;
                 if (revert) {
                     revert(instance, delta, this.settings);
-                    this.lastUpdate.delete(instance);
+                    this.legacyLastUpdate.delete(instance);
                 }
                 return;
             }
             if (delta.origin === undefined && delta.text.length === 1) {
                 const input = delta.text[0];
-                for (let rule of this.inputRules) {
+                for (let rule of this.legacyInputRules) {
                     if (!(rule.matchTrigger instanceof RegExp)) {
                         continue;
                     }
@@ -347,12 +813,12 @@ class SmartTypography extends obsidian.Plugin {
             }
             if (delta.origin === "+input" && delta.text.length === 1) {
                 const input = delta.text[0];
-                const rules = this.inputRules.filter((r) => {
+                const rules = this.legacyInputRules.filter((r) => {
                     return typeof r.matchTrigger === "string" && r.matchTrigger === input;
                 });
                 if (rules.length === 0) {
-                    if (this.lastUpdate.has(instance)) {
-                        this.lastUpdate.delete(instance);
+                    if (this.legacyLastUpdate.has(instance)) {
+                        this.legacyLastUpdate.delete(instance);
                     }
                     return;
                 }
@@ -364,53 +830,184 @@ class SmartTypography extends obsidian.Plugin {
                     if (rule.matchRegExp && rule.matchRegExp.test(str)) {
                         if (shouldCheckTextAtPos(instance, delta.from) &&
                             shouldCheckTextAtPos(instance, delta.to)) {
-                            this.lastUpdate.set(instance, rule);
+                            this.legacyLastUpdate.set(instance, rule);
                             rule.performUpdate(instance, delta, this.settings);
                         }
                         return;
                     }
                 }
             }
-            if (this.lastUpdate.has(instance)) {
-                this.lastUpdate.delete(instance);
+            if (this.legacyLastUpdate.has(instance)) {
+                this.legacyLastUpdate.delete(instance);
             }
         };
     }
     buildInputRules() {
+        this.legacyInputRules = [];
         this.inputRules = [];
         if (this.settings.emDash) {
             this.inputRules.push(...dashRules);
+            this.legacyInputRules.push(...legacyDashRules);
         }
         if (this.settings.ellipsis) {
             this.inputRules.push(...ellipsisRules);
+            this.legacyInputRules.push(...legacyEllipsisRules);
         }
         if (this.settings.curlyQuotes) {
             this.inputRules.push(...smartQuoteRules);
+            this.legacyInputRules.push(...legacySmartQuoteRules);
         }
         if (this.settings.arrows) {
             this.inputRules.push(...arrowRules);
+            this.legacyInputRules.push(...legacyArrowRules);
         }
         if (this.settings.guillemets) {
             this.inputRules.push(...guillemetRules);
+            this.legacyInputRules.push(...legacyGuillemetRules);
         }
         if (this.settings.comparisons) {
             this.inputRules.push(...comparisonRules);
+            this.legacyInputRules.push(...legacyComparisonRules);
+        }
+        if (this.settings.fractions) {
+            this.inputRules.push(...fractionRules);
         }
     }
     onload() {
         return __awaiter(this, void 0, void 0, function* () {
-            this.lastUpdate = new WeakMap();
+            this.legacyLastUpdate = new WeakMap();
             yield this.loadSettings();
             this.addSettingTab(new SmartTypographySettingTab(this.app, this));
-            this.app.workspace.onLayoutReady(() => {
-                this.registerCodeMirror((cm) => {
-                    cm.on("beforeChange", this.beforeChangeHandler);
-                });
+            // Codemirror 6
+            //
+            // When smart typography overrides changes, we want to keep a record
+            // so we can undo them when the user presses backspace
+            const storeTransaction = state.StateEffect.define();
+            const prevTransactionState = state.StateField.define({
+                create() {
+                    return null;
+                },
+                update(oldVal, tr) {
+                    for (let e of tr.effects) {
+                        if (e.is(storeTransaction)) {
+                            return e.value;
+                        }
+                    }
+                    if (!oldVal ||
+                        tr.isUserEvent("input") ||
+                        tr.isUserEvent("delete.forward") ||
+                        tr.isUserEvent("delete.cut") ||
+                        tr.isUserEvent("move") ||
+                        tr.isUserEvent("select") ||
+                        tr.isUserEvent("undo")) {
+                        return null;
+                    }
+                    return oldVal;
+                },
+            });
+            this.registerEditorExtension([
+                prevTransactionState,
+                state.EditorState.transactionFilter.of((tr) => {
+                    // Revert any stored changes on delete
+                    if (tr.isUserEvent("delete.backward") ||
+                        tr.isUserEvent("delete.selection")) {
+                        return tr.startState.field(prevTransactionState, false) || tr;
+                    }
+                    // If the user hasn't typed, or the doc hasn't changed, return early
+                    if (!tr.isUserEvent("input.type") || !tr.docChanged) {
+                        return tr;
+                    }
+                    // Cache the syntax tree if we end up having to access it
+                    let tree = null;
+                    const getTree = () => {
+                        if (!tree)
+                            tree = language.syntaxTree(tr.state);
+                        return tree;
+                    };
+                    // Memoize any positions we check so we can avoid some work
+                    const seenPositions = {};
+                    const canPerformReplacement = (pos) => {
+                        if (seenPositions[pos] !== undefined) {
+                            return seenPositions[pos];
+                        }
+                        const nodeProps = getTree()
+                            .resolveInner(pos, 1)
+                            .type.prop(streamParser.tokenClassNodeProp);
+                        if (nodeProps && ignoreListRegEx.test(nodeProps)) {
+                            seenPositions[pos] = false;
+                        }
+                        else {
+                            seenPositions[pos] = true;
+                        }
+                        return seenPositions[pos];
+                    };
+                    let selection = tr.selection;
+                    const adjustSelection = (adjustment) => {
+                        const ranges = selection.ranges.map((r) => state.EditorSelection.range(r.anchor + adjustment, r.head + adjustment));
+                        selection = state.EditorSelection.create(ranges);
+                    };
+                    // Store a list of changes and specs to revert these changes
+                    const changes = [];
+                    const reverts = [];
+                    const registerChange = (change, revert) => {
+                        changes.push(change);
+                        reverts.push(revert);
+                    };
+                    const contextCache = {};
+                    tr.changes.iterChanges((fromA, toA, fromB, toB, inserted) => {
+                        const insertedText = inserted.sliceString(0, 0 + inserted.length);
+                        for (let rule of this.inputRules) {
+                            // This character is not a trigger, so continue testing rules
+                            if (insertedText !== rule.trigger)
+                                continue;
+                            // If we're in a codeblock, etc, return early, no need to continue checking
+                            if (!canPerformReplacement(fromA))
+                                return;
+                            // Grab and cache three chars before the one being inserted
+                            if (contextCache[fromA] === undefined) {
+                                contextCache[fromA] = tr.newDoc.sliceString(fromB - 3, fromB);
+                            }
+                            // Final check: given the context, see if we should perform a replacement
+                            if (rule.shouldReplace(contextCache[fromA])) {
+                                return rule.replace({
+                                    adjustSelection,
+                                    context: contextCache[fromA],
+                                    fromA,
+                                    fromB,
+                                    registerChange,
+                                    settings: this.settings,
+                                    tr,
+                                });
+                            }
+                        }
+                    }, false);
+                    // If we have any changes, construct a transaction spec
+                    if (changes.length) {
+                        return [
+                            {
+                                effects: storeTransaction.of({
+                                    effects: storeTransaction.of(null),
+                                    selection: tr.selection,
+                                    scrollIntoView: tr.scrollIntoView,
+                                    changes: reverts,
+                                }),
+                                selection: selection,
+                                scrollIntoView: tr.scrollIntoView,
+                                changes,
+                            },
+                        ];
+                    }
+                    return tr;
+                }),
+            ]);
+            // Codemirror 5
+            this.registerCodeMirror((cm) => {
+                cm.on("beforeChange", this.beforeChangeHandler);
             });
         });
     }
     onunload() {
-        this.lastUpdate = null;
+        this.legacyLastUpdate = null;
         this.app.workspace.iterateCodeMirrors((cm) => {
             cm.off("beforeChange", this.beforeChangeHandler);
         });
@@ -591,50 +1188,13 @@ class SmartTypographySettingTab extends obsidian.PluginSettingTab {
             }));
         });
         new obsidian.Setting(containerEl)
-            .setName("Less than or equal to character")
-            .addText((text) => {
-            text
-                .setValue(this.plugin.settings.lessThanOrEqualTo)
+            .setName("Fractions")
+            .setDesc("1/2 will be converted to ½. Supported UTF-8 fractions: ½, ⅓, ⅔, ¼, ¾, ⅕, ⅖, ⅗, ⅘, ⅙, ⅚, ⅐, ⅛, ⅜, ⅝, ⅞, ⅑, ⅒")
+            .addToggle((toggle) => {
+            toggle
+                .setValue(this.plugin.settings.fractions)
                 .onChange((value) => __awaiter(this, void 0, void 0, function* () {
-                if (!value)
-                    return;
-                if (value.length > 1) {
-                    text.setValue(value[0]);
-                    return;
-                }
-                this.plugin.settings.lessThanOrEqualTo = value;
-                yield this.plugin.saveSettings();
-            }));
-        });
-        new obsidian.Setting(containerEl)
-            .setName("Greater than or equal to character")
-            .addText((text) => {
-            text
-                .setValue(this.plugin.settings.greaterThanOrEqualTo)
-                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
-                if (!value)
-                    return;
-                if (value.length > 1) {
-                    text.setValue(value[0]);
-                    return;
-                }
-                this.plugin.settings.greaterThanOrEqualTo = value;
-                yield this.plugin.saveSettings();
-            }));
-        });
-        new obsidian.Setting(containerEl)
-            .setName("Not equal to character")
-            .addText((text) => {
-            text
-                .setValue(this.plugin.settings.notEqualTo)
-                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
-                if (!value)
-                    return;
-                if (value.length > 1) {
-                    text.setValue(value[0]);
-                    return;
-                }
-                this.plugin.settings.notEqualTo = value;
+                this.plugin.settings.fractions = value;
                 yield this.plugin.saveSettings();
             }));
         });

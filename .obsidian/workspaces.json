@@ -9,12 +9,46 @@
             "id": "cd6703b2ba602a79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/31_Stubs/language.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18}"
+                },
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/language.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":42},\"to\":{\"line\":10,\"ch\":42}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":38},\"to\":{\"line\":11,\"ch\":38}}}"
+                },
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":14.576732673267326}"
+                },
                 {
                   "leaf": "cd6703b2ba602a79",
                   "group": null,
@@ -53,7 +87,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#node/topic/person",
+                    "query": "tag:#node/source/qoute",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": false,
@@ -72,13 +106,14 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "30_Topics/31_Stubs/language.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
                     "showSearch": true,
-                    "searchQuery": "",
+                    "searchQuery": "tag:#node",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
                   }
                 },
                 "pane-relief:history-v1": {
@@ -104,6 +139,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "30_Topics/31_Stubs/language.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -129,7 +165,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -148,7 +184,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "30_Topics/31_Stubs/language.md"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -197,6 +235,10 @@
                 "state": {
                   "type": "BC-matrix",
                   "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
                 }
               },
               {
@@ -205,6 +247,10 @@
                 "state": {
                   "type": "BC-stats",
                   "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
                 }
               },
               {
@@ -213,6 +259,10 @@
                 "state": {
                   "type": "BC-down",
                   "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
                 }
               }
             ],
@@ -228,6 +278,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "30_Topics/31_Stubs/language.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node/evergreen",
@@ -307,7 +358,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 199,
-                      "scale": 0.3895678067157687,
+                      "scale": 0.19819725190569068,
                       "close": true
                     }
                   }
@@ -344,45 +395,75 @@
         "type": "split",
         "children": [
           {
-            "id": "f73d503b2d2b60ac",
+            "id": "cd6703b2ba602a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
                 "mode": "source",
                 "source": false
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "leaf": "f73d503b2d2b60ac",
+                  "leaf": "cd6703b2ba602a79",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_What We Do — Radical in Progress.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.209302283029677}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
-                  "leaf": "f73d503b2d2b60ac",
+                  "leaf": "cd6703b2ba602a79",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":23},\"to\":{\"line\":18,\"ch\":23}}}"
                 },
                 {
-                  "leaf": "f73d503b2d2b60ac",
+                  "leaf": "cd6703b2ba602a79",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Acting Bio.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":32.21531100478469}"
+                },
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/guilt.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":18.012345679012345}"
+                },
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/language.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":38},\"to\":{\"line\":11,\"ch\":38}}}"
+                },
+                {
+                  "leaf": "cd6703b2ba602a79",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "f73d503b2d2b60ac",
+                  "leaf": "cd6703b2ba602a79",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Democracy is about an open forum of ideas.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":40},\"to\":{\"line\":25,\"ch\":40}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":14.576732673267326}"
                 },
                 {
-                  "leaf": "f73d503b2d2b60ac",
+                  "leaf": "cd6703b2ba602a79",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
@@ -419,12 +500,12 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "^[[[",
+                    "query": "tag:#node/source/qoute",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": false,
                     "extraContext": false,
-                    "sortOrder": "byCreatedTimeReverse"
+                    "sortOrder": "byCreatedTime"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -438,14 +519,14 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "20_Entry/209 Notepad.md",
+                    "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
                     "showSearch": true,
-                    "searchQuery": "",
+                    "searchQuery": "tag:#node",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
                   }
                 },
                 "pane-relief:history-v1": {
@@ -471,7 +552,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "20_Entry/209 Notepad.md",
+                    "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -501,7 +582,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 386
+        "width": 339
       },
       "right": {
         "id": "ca88ebed3efba281",
@@ -517,7 +598,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "20_Entry/209 Notepad.md"
+                    "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -562,7 +643,7 @@
                 }
               },
               {
-                "id": "01cced59b6d63a7f",
+                "id": "47b3518370342bad",
                 "type": "leaf",
                 "state": {
                   "type": "BC-matrix",
@@ -574,7 +655,7 @@
                 }
               },
               {
-                "id": "57725c84cf148198",
+                "id": "4d97869f5922bb12",
                 "type": "leaf",
                 "state": {
                   "type": "BC-stats",
@@ -586,7 +667,7 @@
                 }
               },
               {
-                "id": "5ba8789072cd305e",
+                "id": "b805a72d0cc1ce7c",
                 "type": "leaf",
                 "state": {
                   "type": "BC-down",
@@ -610,10 +691,10 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "20_Entry/209 Notepad.md",
+                    "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
                     "options": {
                       "collapse-filter": false,
-                      "search": "tag:#node/evergreen",
+                      "search": "tag:#node",
                       "localJumps": 2,
                       "localBacklinks": true,
                       "localForelinks": true,
@@ -690,8 +771,8 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 199,
-                      "scale": 0.3895678067157687,
-                      "close": true
+                      "scale": 0.5461674025396537,
+                      "close": false
                     }
                   }
                 },
@@ -717,10 +798,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 761
+        "width": 808
       },
-      "active": "f73d503b2d2b60ac"
+      "active": "cd6703b2ba602a79"
     }
   },
-  "active": "Single note"
+  "active": "21:9 Start"
 }

@@ -162,14 +162,15 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         console.log("- " + msg + appended);
       }
       function textUnderCursor(ep) {
-        var _a, _b;
         if (frontMarkup !== "`") {
-          if ((_a = editor.cm) == null ? void 0 : _a.findWordAt)
+          log("Getting Word under Cursor");
+          if (editor.cm instanceof window.CodeMirror)
             return editor.cm.findWordAt(ep);
-          if ((_b = editor.cm) == null ? void 0 : _b.state.wordAt)
-            return editor.cm.state.wordAt(editor.posToOffset(ep));
+          const word = editor.cm.state.wordAt(editor.posToOffset(ep));
+          return { anchor: word.anchor, head: word.head };
         }
         if (frontMarkup === "`") {
+          log("Getting Code under Cursor");
           const so = editor.posToOffset(ep);
           let charAfter, charBefore;
           let [i, j, endReached, startReached] = [0, 0, false, false];

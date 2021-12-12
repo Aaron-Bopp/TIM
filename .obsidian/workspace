@@ -7,12 +7,70 @@
         "id": "cd6703b2ba602a79",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "cd6703b2ba602a79",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":64},\"to\":{\"line\":16,\"ch\":64}}}"
+            },
+            {
+              "leaf": "cd6703b2ba602a79",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":23},\"to\":{\"line\":18,\"ch\":23}}}"
+            },
+            {
+              "leaf": "cd6703b2ba602a79",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":32.21531100478469}"
+            },
+            {
+              "leaf": "cd6703b2ba602a79",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/guilt.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd6703b2ba602a79",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":18.012345679012345}"
+            },
+            {
+              "leaf": "cd6703b2ba602a79",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/language.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd6703b2ba602a79",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":38},\"to\":{\"line\":11,\"ch\":38}}}"
+            },
+            {
+              "leaf": "cd6703b2ba602a79",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "cd6703b2ba602a79",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":14.576732673267326}"
+            },
             {
               "leaf": "cd6703b2ba602a79",
               "group": null,
@@ -51,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/topic/person",
+                "query": "tag:#node/source/qoute",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,13 +128,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "tag:#node",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             },
             "pane-relief:history-v1": {
@@ -102,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -195,6 +257,10 @@
             "state": {
               "type": "BC-matrix",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -203,6 +269,10 @@
             "state": {
               "type": "BC-stats",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -211,6 +281,10 @@
             "state": {
               "type": "BC-down",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -226,9 +300,10 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "tag:#node/evergreen",
+                  "search": "tag:#node",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -305,8 +380,8 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 199,
-                  "scale": 0.3895678067157687,
-                  "close": true
+                  "scale": 0.5461674025396537,
+                  "close": false
                 }
               }
             },
@@ -332,19 +407,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462
+    "width": 808
   },
   "active": "cd6703b2ba602a79",
   "lastOpenFiles": [
-    "00_Meta/Personal/Journal.md",
-    "40_Evergreens/The injustice of endurance.md",
-    "30_Topics/31_Stubs/To my parents.md",
-    "00_Meta/Personal/I have always longed to show my authentic self to the world.md",
-    "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
-    "40_Evergreens/43 Mental Health.md",
-    "40_Evergreens/Our brain will do anything it can to protect itself.md",
-    "20_Entry/24 Vault Stats/Graph Timeline.md",
-    "20_Entry/209 Notepad.md",
-    "10_Sources/Readwise/Articles/articles_What We Do — Radical in Progress.md"
+    "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+    "40_Evergreens/What are the starter types of note taking.md",
+    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+    "30_Topics/31_Stubs/guilt.md",
+    "40_Evergreens/Friction is the number one hindrance to learning.md",
+    "30_Topics/31_Stubs/language.md",
+    "10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md",
+    "10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md",
+    "10_Sources/Mental Health/videoDrK and DrMike conversation.md"
   ]
 }
