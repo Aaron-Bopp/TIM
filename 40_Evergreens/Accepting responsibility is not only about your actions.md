@@ -11,6 +11,7 @@ sr-ease: 242
 
 #### [[Accepting responsibility is not only about your actions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+%%I wish I could have ancestors that I'm proud of. I wish I could look back and see [[culture]] and history that I could draw from. But I can't. #TO/PONDER/ME %%
 Sometimes accepting responsibility for something means accepting the responsibility of fixing it. Accepting responsibility for things outside of your control does not have anything to do with the actions. Actions cannot be reversed, nor can they often be rectified.
 ^[[[Transformative justice is the alternative to punitive justice]]]
 Accepting responsibility means acknowledging why the event happened, what it did to you, and what it did to other people.

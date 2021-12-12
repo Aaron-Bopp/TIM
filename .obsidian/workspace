@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/The triad of ever increasing social anxiety.md",
+            "file": "40_Evergreens/Accepting responsibility is not only about your actions.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "5630652eea353eca",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Accepting responsibility is not only about your actions.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5630652eea353eca",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The triad of ever increasing social anxiety.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":42},\"to\":{\"line\":26,\"ch\":42}}}"
+              "eState": "{}"
             },
             {
               "leaf": "5630652eea353eca",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/asdfasfasdf.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5630652eea353eca",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/EGNOTE.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/The triad of ever increasing social anxiety.md",
+                "file": "40_Evergreens/Accepting responsibility is not only about your actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/The triad of ever increasing social anxiety.md",
+                "file": "40_Evergreens/Accepting responsibility is not only about your actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/The triad of ever increasing social anxiety.md"
+                "file": "40_Evergreens/Accepting responsibility is not only about your actions.md"
               }
             },
             "pane-relief:history-v1": {
@@ -360,7 +360,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/The triad of ever increasing social anxiety.md",
+                "file": "40_Evergreens/Accepting responsibility is not only about your actions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -471,6 +471,7 @@
   },
   "active": "5630652eea353eca",
   "lastOpenFiles": [
+    "40_Evergreens/Accepting responsibility is not only about your actions.md",
     "40_Evergreens/The triad of ever increasing social anxiety.md",
     "40_Evergreens/Communities are support systems.md",
     "40_Evergreens/A healthy second brain requires a surplus of entry points.md",
@@ -479,7 +480,6 @@
     "40_Evergreens/Parsing markup text for Obsidian projects.md",
     "40_Evergreens/Evangelicalism has commodified faith for profit.md",
     "40_Evergreens/Use philosophies as far they are useful and nothing more.md",
-    "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md",
-    "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md"
+    "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md"
   ]
 }
