@@ -3,8 +3,8 @@ created: 2021-12-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-12
-sr-interval: 1
+sr-due: 2021-12-14
+sr-interval: 2
 sr-ease: 181
 ---
 
@@ -17,8 +17,8 @@ sr-ease: 181
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/WATER  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[organization]], [[structure]], [[second brain]]
+**Topics**:: [[organization]], [[structure]], [[second brain]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

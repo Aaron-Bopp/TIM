@@ -22,7 +22,11 @@ Temporal tags mean that they can be used in combination with other metadata, suc
 
 ##### Classifications group notes with similar metadata
 
-Tags become much more powerful through the use of various plugins. Tags can be used as the parameter for a [[Dataview]] search, which means that you don't need to store all notes of a certain in a folder. They can also be used with plugins like [[Spaced Repetition (plugin)]] to allow you to review all or your \#evergreen notes. This is why I usually include tags in all of my major note templates. These classifications do not have to be related to what the note is about, but rather describe some other tangible aspect of the note: [[The fragility of nodes in a second brain#Node classifcation]]
+Every piece of thought in my [[second brain]] is tagged with #node. This includes my [[source notes]], [[topic note|topic notes]], and of course [[evergreen notes]], but it does not include anything in my 00_Meta and 20_Entry folders. This is because those folders are purely to help [[My TIM]] function, and to help other people access it.  I exclude these notes from this tag, because they are artificial connections that do not help me create thought. 
+^[[[Your second brain should be an inspirational hub of creativity]]]
+Having this tag means that I can access every piece of thought that is helpful to me learning easily and quickly, and will not have to deal with any other things clogging up my searches, backlinks, or [[Dataview]] queries.
+
+I can use the sublevels of this tag to classify what kind of note something is as it is useful to me, and these become very powerful through the use of various plugins. Tags can be used as the parameter for a [[Dataview]] search, which means that you don't need to store all notes of a certain in a folder. They can also be used with plugins like [[Spaced Repetition (plugin)]] to allow you to review all or your \#evergreen notes. This is why I usually include tags in all of my major note templates. These classifications do not have to be related to what the note is about, but rather describe some other tangible aspect of the note: [[The fragility of nodes in a second brain#Node classifcation]]
 
 ##### Counter:: Tags provide organization of ideas 
 

@@ -63,7 +63,7 @@ It also has a variety of plugins that help the workflow
 - [[Dataview]]
 	- [[SQL]] queries for all your notes in [[Obsidian (software)]]
 - [Outliner](https://github.com/vslinko/obsidian-outliner)
-	- Inspired by [[Roam Research]]'s focus on outlining
+	- Inspired by [[Roam Research (software)]]'s focus on outlining
 - [Andy's Sliding Panes](https://github.com/deathau/sliding-panes-obsidian)
 	- Named after the prolific [[Andy Matuschak]]
 - [[Dual (plugin)]]

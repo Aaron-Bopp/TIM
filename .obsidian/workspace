@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6703b2ba602a79",
+        "id": "311b261050278e10",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+            "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
             "mode": "source",
             "source": false
           }
@@ -18,61 +18,13 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "cd6703b2ba602a79",
+              "leaf": "311b261050278e10",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":64},\"to\":{\"line\":16,\"ch\":64}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.364963503649633}"
             },
             {
-              "leaf": "cd6703b2ba602a79",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":23},\"to\":{\"line\":18,\"ch\":23}}}"
-            },
-            {
-              "leaf": "cd6703b2ba602a79",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":32.21531100478469}"
-            },
-            {
-              "leaf": "cd6703b2ba602a79",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/guilt.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd6703b2ba602a79",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":18.012345679012345}"
-            },
-            {
-              "leaf": "cd6703b2ba602a79",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/language.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd6703b2ba602a79",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":38},\"to\":{\"line\":11,\"ch\":38}}}"
-            },
-            {
-              "leaf": "cd6703b2ba602a79",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "cd6703b2ba602a79",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":14.576732673267326}"
-            },
-            {
-              "leaf": "cd6703b2ba602a79",
+              "leaf": "311b261050278e10",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -109,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/source/qoute",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -128,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -161,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -207,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md"
+                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md"
               }
             },
             "pane-relief:history-v1": {
@@ -300,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+                "file": "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -409,17 +361,17 @@
     "direction": "horizontal",
     "width": 808
   },
-  "active": "cd6703b2ba602a79",
+  "active": "311b261050278e10",
   "lastOpenFiles": [
-    "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
-    "40_Evergreens/What are the starter types of note taking.md",
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-    "30_Topics/31_Stubs/guilt.md",
-    "40_Evergreens/Friction is the number one hindrance to learning.md",
-    "30_Topics/31_Stubs/language.md",
-    "10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md",
-    "10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md",
-    "10_Sources/Mental Health/videoDrK and DrMike conversation.md"
+    "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+    "40_Evergreens/Whiteness was created to marginalize people of color.md",
+    "40_Evergreens/A secure identity is the best defense against social anxiety.md",
+    "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+    "30_Topics/33_Tools/Roam Research (software).md",
+    "30_Topics/33_Tools/Roam Research.md",
+    "40_Evergreens/Use philosophies as far they are useful and nothing more.md",
+    "40_Evergreens/The way systems work can create cognitive bias.md",
+    "30_Topics/34_People/Abigail Thorn.md",
+    "10_Sources/videoTransComingOutStory.md"
   ]
 }

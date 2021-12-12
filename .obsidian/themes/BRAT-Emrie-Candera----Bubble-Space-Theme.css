@@ -4316,7 +4316,6 @@ font-weight: bold;
 .theme-light .markdown-preview-view a.footnote-link,
 .theme-light .markdown-preview-view a.internal-link,
 .theme-light .markdown-preview-view a.external-link {
-color: var(--teal1) !important;
 font-weight: bold;
 }
 
@@ -4608,7 +4607,7 @@ Hide Aside and hover to reveal it*/
     color: var(--purple3);
     }
 
-    /* Edit mode unordered list dash rendered as dot for WYSIWYG */
+    /* Edit mode unordered list dash rendered as dot for WYSIWYG
     .theme-light span.cm-formatting-list-ul {
     visibility: hidden !important;
     padding-right: 4px;
@@ -4620,7 +4619,7 @@ Hide Aside and hover to reveal it*/
     margin-left: -15px;
     color: var(--gold1); 
     visibility: visible !important;
-    }
+    } */
 
 
 /*...............................................................*/
@@ -6207,7 +6206,6 @@ color: rgb(63, 172, 245);
 .theme-dark .markdown-preview-view a.footnote-link,
 .theme-dark .markdown-preview-view a.internal-link,
 .theme-dark .markdown-preview-view a.external-link {
-color: var(--teal1) !important;
 }
 
 
@@ -6481,7 +6479,7 @@ Hide Aside and hover to reveal it*/
 
         /* Edit mode unordered list dash rendered as dot for WYSIWYG */
         
-        .theme-dark span.cm-formatting-list-ul {
+        /* .theme-dark span.cm-formatting-list-ul {
         visibility: hidden !important;
         }
         
@@ -6495,7 +6493,7 @@ Hide Aside and hover to reveal it*/
 
         .theme-dark ul li::marker {
         color: var(--gold1);
-        }
+        } */
 
 /*...............................................................*/
 
@@ -8399,7 +8397,6 @@ position: absolute;
     .theme-light.milk-tea .markdown-preview-view a.footnote-link,
     .theme-light.milk-tea .markdown-preview-view a.internal-link,
     .theme-light.milk-tea .markdown-preview-view a.external-link {
-    color: var(--brown5) !important;
     font-weight: bold;
     }
     
@@ -9852,7 +9849,6 @@ position: absolute;
     .theme-dark.bl-moon .markdown-preview-view a.footnote-link,
     .theme-dark.bl-moon .markdown-preview-view a.internal-link,
     .theme-dark.bl-moon .markdown-preview-view a.external-link {
-    color: var(--cream2) !important;
     }
 
     /*Comment*/

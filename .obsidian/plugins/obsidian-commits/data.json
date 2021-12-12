@@ -4708,7 +4708,7 @@
     "40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md": {
       "size": 1492,
       "tags": 3,
-      "links": 17
+      "links": 16
     },
     "40_Evergreens/Our brains are built around survival.md": {
       "size": 2154,
@@ -4951,9 +4951,9 @@
       "links": 12
     },
     "40_Evergreens/Use Obsidian tags as temporal classifiers.md": {
-      "size": 3370,
-      "tags": 3,
-      "links": 14
+      "size": 4533,
+      "tags": 4,
+      "links": 18
     },
     "40_Evergreens/Using github with Unity projects.md": {
       "size": 925,
@@ -5248,7 +5248,7 @@
     "10_Sources/History/primarysourceExcerpts from the 2016 Republican Party Platform.md": {
       "size": 14812,
       "tags": 1,
-      "links": 23
+      "links": 24
     },
     "10_Sources/History/primarysourceFirst Amendment to the U.S. Constitution.md": {
       "size": 6214,
@@ -5368,7 +5368,7 @@
     "10_Sources/Politics/articleWhy the Phrase Late Capitalism Is Suddenly Everywhere.md": {
       "size": 32862,
       "tags": 1,
-      "links": 27
+      "links": 28
     },
     "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md": {
       "size": 90,
@@ -6301,9 +6301,9 @@
       "links": 4
     },
     "40_Evergreens/Learning how systems work can be a gateway to creating thought.md": {
-      "size": 2011,
+      "size": 2389,
       "tags": 2,
-      "links": 16
+      "links": 18
     },
     "40_Evergreens/The Politicization of the Christian Church.md": {
       "size": 1107,
@@ -6358,7 +6358,7 @@
     "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md": {
       "size": 10638,
       "tags": 2,
-      "links": 2
+      "links": 3
     },
     "10_Sources/Readwise/Articles/articles_Summary, part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md": {
       "size": 3723,
@@ -6488,7 +6488,7 @@
     "10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md": {
       "size": 5023,
       "tags": 1,
-      "links": 2
+      "links": 3
     },
     "10_Sources/Readwise/Articles/articles_An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging.md": {
       "size": 1757,
@@ -6513,7 +6513,7 @@
     "10_Sources/Readwise/Articles/articles_Five-Factor Model of Personality  Psychology.md": {
       "size": 1016,
       "tags": 1,
-      "links": 2
+      "links": 3
     },
     "10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md": {
       "size": 5201,
@@ -6707,7 +6707,7 @@
     },
     "40_Evergreens/Faith is an abstraction of cognitive dissonance.md": {
       "size": 1598,
-      "tags": 4,
+      "tags": 3,
       "links": 15
     },
     "30_Topics/32_Terms/REST (Representational State Transfer).md": {
@@ -8883,7 +8883,7 @@
     "10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md": {
       "size": 563,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/MVC.md": {
       "size": 0,
@@ -9058,7 +9058,7 @@
     "40_Evergreens/Use philosophies as far they are useful and nothing more.md": {
       "size": 552,
       "tags": 2,
-      "links": 5
+      "links": 6
     },
     "30_Topics/32_Terms/knowledge graph.md": {
       "size": 0,
@@ -9083,7 +9083,7 @@
     "40_Evergreens/Only use organization systems as far as they are useful.md": {
       "size": 763,
       "tags": 3,
-      "links": 8
+      "links": 9
     },
     "30_Topics/31_Stubs/structure.md": {
       "size": 0,
@@ -9414,20 +9414,50 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "40_Evergreens/The way systems work can create cognitive bias.md": {
+      "size": 1746,
+      "tags": 4,
+      "links": 26
+    },
+    "40_Evergreens/Neurodiverse people are siloed into systems that work against them.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md": {
+      "size": 672,
+      "tags": 2,
+      "links": 1
+    },
+    "30_Topics/31_Stubs/inequity.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/34_People/Abigail Thorn.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/33_Tools/Roam Research (software).md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1710,
-      "Create": 2130,
-      "Link": 3593,
-      "Expand": 302
+      "Refactor": 1717,
+      "Create": 2138,
+      "Link": 3621,
+      "Expand": 307
     },
     "40_Evergreens": {
-      "Refactor": 83,
-      "Create": 4,
-      "Link": 147,
-      "Expand": 140
+      "Refactor": 86,
+      "Create": 8,
+      "Link": 163,
+      "Expand": 145
     }
   },
   "dailyCommits": {
@@ -9443,8 +9473,8 @@
       "8": 24,
       "9": 500,
       "10": 109,
-      "11": 94,
-      "12": 364,
+      "11": 126,
+      "12": 380,
       "13": 197,
       "14": 2286,
       "15": 127,
@@ -9469,8 +9499,8 @@
       "8": 0,
       "9": 98,
       "10": 24,
-      "11": 19,
-      "12": 0,
+      "11": 39,
+      "12": 8,
       "13": 36,
       "14": 29,
       "15": 0,
@@ -9492,7 +9522,7 @@
       "Thu": 406,
       "Fri": 192,
       "Sat": 0,
-      "Sun": 4670
+      "Sun": 4718
     },
     "40_Evergreens": {
       "Mon": 49,
@@ -9501,12 +9531,17 @@
       "Thu": 5,
       "Fri": 8,
       "Sat": 0,
-      "Sun": 209
+      "Sun": 237
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
@@ -9552,14 +9587,17 @@
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
         "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research.md\"> Roam Research </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Roam Research (software).md\"> Roam Research (software) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/inequity.md\"> inequity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Abigail Thorn.md\"> Abigail Thorn </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md\"> articles_Decontextualizer - Paul Bricman </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/language.md\"> language </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/English.md\"> English </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchoat trying to imitate a working form of communication..md\"> English is six languages in a trenchoat trying to imitate a working form of communication. </a>",
@@ -9602,17 +9640,11 @@
         "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/Modular Markup Processor.md\"> Modular Markup Processor </a>",
         "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/test5.md\"> test5 </a>",
         "<a class=\"internal-link\" href=\"31_Stubs/test3.md\"> test3 </a>",
-        "<a class=\"internal-link\" href=\"31_Stubstest3.md\"> 31_Stubstest3 </a>",
-        "<a class=\"internal-link\" href=\"test4.md\"> test4 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"test1.md\"> test1 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/test2.md\"> test2 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/test1.md\"> test1 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/test2.md\"> test2 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/test1.md\"> test1 </a>",
-        "<a class=\"internal-link\" href=\"How to read to understand.md\"> How to read to understand </a>"
+        "<a class=\"internal-link\" href=\"31_Stubstest3.md\"> 31_Stubstest3 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Abigail Thorn.md\"> Abigail Thorn </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide unparalled access to knowledge.md\"> Densely linked webs of thought provide unparalled access to knowledge </a>",
@@ -9661,11 +9693,18 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques).md\"> How I outlined my brain (literally just use all of the organization techniques) </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/inequity.md\"> inequity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Abigail Thorn.md\"> Abigail Thorn </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md\"> articles_Decontextualizer - Paul Bricman </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/English.md\"> English </a>",
@@ -9707,16 +9746,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md\"> [Human's will find explanations for inexplainable things </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's have an inability to admit that they are wrong.md\"> [Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Children make wide assumptions about the world.md\"> [Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/food insecurity.md\"> food insecurity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-doubt.md\"> self-doubt </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Transformative justice is the alternative to punitive justice.md\"> [Transformative justice is the alternative to punitive justice </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Germany.md\"> Germany </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/white guilt.md\"> white guilt </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9748,6 +9778,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research.md\"> Roam Research </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/To my parents.md\"> To my parents </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anothernewstub.md\"> anothernewstub </a>",
@@ -9796,11 +9828,28 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/primarysourceExcerpts from the 2016 Republican Party Platform.md\"> primarysourceExcerpts from the 2016 Republican Party Platform </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Politics/articleWhy the Phrase Late Capitalism Is Suddenly Everywhere.md\"> articleWhy the Phrase Late Capitalism Is Suddenly Everywhere </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md\"> articles_Bulky Cameras, Meet the Lens-Less FlatCam </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md\"> articles_Decontextualizer - Paul Bricman </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Five-Factor Model of Personality  Psychology.md\"> articles_Five-Factor Model of Personality  Psychology </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Learn yaml in Y Minutes.md\"> articles_Learn yaml in Y Minutes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\"> articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
@@ -9832,28 +9881,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\"> Constantly working on yourself is a form a self-hatred </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md\"> tweets_Tweets From SANDWORM </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -9903,10 +9934,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Templater.md\"> Templater </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERSEEDS.md\"> EVERSEEDS </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
@@ -9955,13 +9987,16 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Spaced Repetition (plugin).md\"> Spaced Repetition (plugin) </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
@@ -10007,18 +10042,17 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Race is a social construct.md\"> Race is a social construct </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\"> Abortion and immigration are detrimental to white supremacy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Anger fuels change.md\"> Anger fuels change </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Roam Research (software).md\"> Roam Research (software) </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
@@ -10092,7 +10126,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10118,9 +10157,21 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
@@ -10160,23 +10211,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not dissallow judgment.md\"> Empathy does not dissallow judgment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\"> Combine notes instead of deleting them to avoid ghost data in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
@@ -10197,7 +10238,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>"
       ]
     }
   },

@@ -3,10 +3,11 @@ created: 2021-09-27
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-12
-sr-interval: 38
+sr-due: 2022-03-25
+sr-interval: 103
 sr-ease: 270
 ---
+
 #### [[Using github with Unity projects]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 1. Use [[Githubs]] [existing unity gitgnore](https://github.com/github/gitignore/blob/master/Unity.gitignore) and setup your repo like normal

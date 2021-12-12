@@ -1,8 +1,10 @@
+span.cm-hmd-internal-link[data-link-tags*="#" i]::before,
 a.internal-link[data-link-tags*="#" i]::before {
     font-size: 75%;
     opacity: 80%;
 }
 
+span.cm-hmd-internal-link[data-link-tags*="#" i]::before,
 a.internal-link[data-link-tags*="#" i]::before {
     font-weight: 600;
 }
@@ -10,6 +12,7 @@ a.internal-link[data-link-tags*="#" i]::before {
 
 /* [data-link-tags*="#EVER/SEED" i]::before, */
 
+span.cm-hmd-internal-link[data-link-tags*="#EVER/SEED" i]::before,
 a.internal-link[data-link-tags*="#EVER/SEED" i]::before,
 div.nav-file-title-content[data-link-tags*="#EVER/SEED" i]::before {
     content: "🌱";
@@ -18,6 +21,7 @@ div.nav-file-title-content[data-link-tags*="#EVER/SEED" i]::before {
 
 /* [data-link-tags*="#EVER/SPROUT" i]::before, */
 
+span.cm-hmd-internal-link[data-link-tags*="#EVER/SPROUT" i]::before,
 a.internal-link[data-link-tags*="#EVER/SPROUT" i]::before,
 div.nav-file-title-content[data-link-tags*="#EVER/SPROUT" i]::before {
     content: "🌿️";
@@ -26,18 +30,21 @@ div.nav-file-title-content[data-link-tags*="#EVER/SPROUT" i]::before {
 
 /* [data-link-tags*="#EVER/GREEN" i]::before, */
 
+span.cm-hmd-internal-link[data-link-tags*="#EVER/GREEN" i]::before,
 a.internal-link[data-link-tags*="#EVER/GREEN" i]::before,
 div.nav-file-title-content[data-link-tags*="#EVER/GREEN" i]::before {
     content: "🌲️";
 }
 
 [data-link-tags*="topic"],
+span.cm-hmd-internal-link[data-link-tags*="topic"],
 a.internal-link[data-link-tags*="topic"] {
     color: rgba(187, 85, 54, 0.945) !important;
     text-decoration: none;
 }
 
 [data-link-tags*="evergreen"],
+span.cm-hmd-internal-link[data-link-tags*="evergreen"],
 a.internal-link[data-link-tags*="evergreen"] {
     color: rgba(71, 179, 221, 0.904) !important;
     text-decoration: none;
@@ -45,21 +52,25 @@ a.internal-link[data-link-tags*="evergreen"] {
 
 
 /* [data-link-tags*="term"],
+span.cm-hmd-internal-link[data-link-tags*="term"] {
 a.internal-link[data-link-tags*="term"] {
     color: #50fa7b;
     font-weight: 550;
 } */
 
+span.cm-hmd-internal-link[data-link-tags*="term"]::before,
 a.internal-link[data-link-tags*="term"]::before,
 div.nav-file-title-content[data-link-tags*="term"]::before {
     content: "📄";
 }
 
+span.cm-hmd-internal-link[data-link-tags*="tool"]::before,
 a.internal-link[data-link-tags*="tool"]::before,
 div.nav-file-title-content[data-link-tags*="tool"]::before {
     content: "💻";
 }
 
+span.cm-hmd-internal-link[data-link-tags*="person"]::before,
 a.internal-link[data-link-tags*="person"]::before,
 div.nav-file-title-content[data-link-tags*="person"]::before {
     content: "🦱";

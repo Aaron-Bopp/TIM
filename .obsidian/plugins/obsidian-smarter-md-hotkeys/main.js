@@ -167,7 +167,9 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           if (editor.cm instanceof window.CodeMirror)
             return editor.cm.findWordAt(ep);
           const word = editor.cm.state.wordAt(editor.posToOffset(ep));
-          return { anchor: word.anchor, head: word.head };
+          const startPos = offToPos(word.from);
+          const endPos = offToPos(word.to);
+          return { anchor: startPos, head: endPos };
         }
         if (frontMarkup === "`") {
           log("Getting Code under Cursor");

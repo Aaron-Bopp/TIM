@@ -3,8 +3,8 @@ created: 2021-07-30
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-12
-sr-interval: 4
+sr-due: 2021-12-21
+sr-interval: 9
 sr-ease: 211
 ---
 
@@ -14,7 +14,7 @@ No [[Republican]] since and including [[Reagan]] has balanced the budget or even
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[Republican]]
