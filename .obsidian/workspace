@@ -27,7 +27,7 @@
               "leaf": "779735696eadbc73",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":29.415743440233236}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.951598470674366}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -64,29 +64,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "01ef1844466e02f0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/notes_The Dawn of Everything.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "01ef1844466e02f0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":2},\"to\":{\"line\":15,\"ch\":45}},\"scroll\":13.363636363636363}"
             }
           ]
         }
@@ -429,7 +406,7 @@
     "width": 948,
     "collapsed": true
   },
-  "active": "01ef1844466e02f0",
+  "active": "779735696eadbc73",
   "lastOpenFiles": [
     "10_Sources/notes_The Dawn of Everything.md",
     "40_Evergreens/Only use organization systems as far as they are useful.md",

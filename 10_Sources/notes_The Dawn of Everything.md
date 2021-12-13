@@ -26,12 +26,12 @@ type:
 		- Modern view ![[books_The Dawn of Everything#258309236]]
 	- Humans lived in a waring state and were civilized by [[society]]
 		- ![[books_The Dawn of Everything#258309237]]
+		- ![[books_The Dawn of Everything#258309238]]
 - [[Humans in prehistory were not confined to small egalitarian bands]]
 	- ![[books_The Dawn of Everything#258309241]]
 - [[Agriculture does not enforce ranks and hierarchies]]
 	- ![[books_The Dawn of Everything#258309240]]
-- ![[books_The Dawn of Everything#258309239]]
+	- ![[books_The Dawn of Everything#258309239]]
 - 
 - Our concepts of prehistory are antiquated
 	-   ![[books_The Dawn of Everything#258309235]]
-- ![[books_The Dawn of Everything#258309238]]
