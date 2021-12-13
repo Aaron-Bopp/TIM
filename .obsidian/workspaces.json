@@ -418,7 +418,7 @@
                   "leaf": "779735696eadbc73",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.951598470674366}"
+                  "eState": "{\"scroll\":32.60635085892764}"
                 },
                 {
                   "leaf": "779735696eadbc73",
@@ -488,7 +488,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#EVER/SPROUT/WATER",
+                    "query": "tag:#node/topic",
                     "matchingCase": true,
                     "explainSearch": true,
                     "collapseAll": true,
@@ -565,12 +565,12 @@
                   "stack": []
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 389,
-        "collapsed": true
+        "width": 389
       },
       "right": {
         "id": "ca88ebed3efba281",
