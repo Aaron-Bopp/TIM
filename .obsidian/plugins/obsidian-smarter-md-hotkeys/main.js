@@ -139,20 +139,30 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
   }
   expandAndWrap(frontMarkup, endMarkup, editor) {
     return __async(this, null, function* () {
-      function markupOutsideSel() {
+      const markupOutsideSel = () => {
         const so = startOffset();
         const eo = endOffset();
+        const noteLength = editor.getValue().length;
+        if (offToPos(so - blen) < 0)
+          return false;
+        if (offToPos(eo - alen) > noteLength)
+          return false;
         const charsBefore = editor.getRange(offToPos(so - blen), offToPos(so));
         const charsAfter = editor.getRange(offToPos(eo), offToPos(eo + alen));
         return charsBefore === frontMarkup && charsAfter === endMarkup;
-      }
-      const noSelection = () => !editor.somethingSelected();
-      const multiWordSel = () => editor.getSelection().includes(" ");
+      };
+      const noSel = () => !editor.somethingSelected();
       const multiLineSel = () => editor.getSelection().includes("\n");
-      const partialWordSel = () => editor.somethingSelected() && !multiWordSel() && !multiLineSel();
       const startOffset = () => editor.posToOffset(editor.getCursor("from"));
       const endOffset = () => editor.posToOffset(editor.getCursor("to"));
-      const offToPos = (offset) => editor.offsetToPos(offset);
+      const offToPos = (offset) => {
+        if (offset < 0)
+          offset = 0;
+        const noteLength = editor.getValue().length;
+        if (offset > noteLength)
+          offset = noteLength;
+        return editor.offsetToPos(offset);
+      };
       function log(msg, appendSelection) {
         if (!debug)
           return;
@@ -162,14 +172,17 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         console.log("- " + msg + appended);
       }
       function textUnderCursor(ep) {
+        if (markupOutsideSel() && noSel())
+          return { anchor: ep, head: ep };
+        let endPos, startPos;
         if (frontMarkup !== "`") {
-          log("Getting Word under Cursor");
           if (editor.cm instanceof window.CodeMirror)
             return editor.cm.findWordAt(ep);
           const word = editor.cm.state.wordAt(editor.posToOffset(ep));
-          const startPos = offToPos(word.from);
-          const endPos = offToPos(word.to);
-          return { anchor: startPos, head: endPos };
+          if (!word)
+            return { anchor: ep, head: ep };
+          startPos = offToPos(word.from);
+          endPos = offToPos(word.to);
         }
         if (frontMarkup === "`") {
           log("Getting Code under Cursor");
@@ -189,10 +202,10 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
             if (so + (j - 1) === noteLength)
               endReached = true;
           }
-          const startPos = offToPos(so - (i - 1));
-          const endPos = offToPos(so + (j - 1));
-          return { anchor: startPos, head: endPos };
+          startPos = offToPos(so - (i - 1));
+          endPos = offToPos(so + (j - 1));
         }
+        return { anchor: startPos, head: endPos };
       }
       function trimSelection() {
         const trimBefore = ["- [ ] ", "- [x] ", "- ", " ", "\n", "	", frontMarkup];
@@ -233,109 +246,46 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         log("after trim", true);
       }
       function expandToWordBoundary() {
-        let preSelExpAnchor, preSelExpHead;
+        trimSelection();
         log("before Exp to Word", true);
-        let expMode = "none";
-        if (partialWordSel()) {
-          expMode = "Partial Word";
-          log("One Word Expansion");
-          preSelExpAnchor = editor.getCursor("from");
-          preSelExpHead = editor.getCursor("to");
-          const { anchor, head } = textUnderCursor(preSelExpAnchor);
-          const word = editor.getRange(anchor, head);
-          if (/^[.,;:\-–—]/.test(word))
-            head.ch = anchor.ch + 1;
-          editor.setSelection(anchor, head);
-        }
-        if (multiWordSel()) {
-          expMode = "Multi Word";
-          log("Multi-Word Expansion");
-          preSelExpAnchor = editor.getCursor("from");
-          preSelExpHead = editor.getCursor("to");
-          const firstWordRange = textUnderCursor(preSelExpAnchor);
+        const preSelExpAnchor = editor.getCursor("from");
+        const preSelExpHead = editor.getCursor("to");
+        const firstWordRange = textUnderCursor(preSelExpAnchor);
+        preSelExpHead.ch--;
+        const lastWordRange = textUnderCursor(preSelExpHead);
+        preSelExpHead.ch++;
+        const lastWord = editor.getRange(lastWordRange.anchor, lastWordRange.head);
+        if (/^[.,;:\-–—]/.test(lastWord)) {
+          lastWordRange.head.ch = lastWordRange.anchor.ch + 1;
           preSelExpHead.ch--;
-          const lastWordRange = textUnderCursor(preSelExpHead);
-          preSelExpHead.ch++;
-          const lastWord = editor.getRange(lastWordRange.anchor, lastWordRange.head);
-          if (/^[.,;:\-–—]/.test(lastWord))
-            lastWordRange.head.ch = lastWordRange.anchor.ch + 1;
-          editor.setSelection(firstWordRange.anchor, lastWordRange.head);
         }
+        editor.setSelection(firstWordRange.anchor, lastWordRange.head);
         log("after expansion", true);
         trimSelection();
-        return [preSelExpAnchor, preSelExpHead, expMode];
+        return { anchor: preSelExpAnchor, head: preSelExpHead };
       }
-      function expandWithNoSel() {
-        const preExpCursor = editor.getCursor();
-        const { anchor, head } = textUnderCursor(preExpCursor);
-        editor.setSelection(anchor, head);
-        trimSelection();
-        return preExpCursor;
-      }
-      function undoWithNoSel() {
-        const o = startOffset();
-        editor.setSelection(offToPos(o - blen), offToPos(o + alen));
-        editor.replaceSelection("");
-        editor.setSelection(offToPos(o - blen), offToPos(o - alen));
-      }
-      function applyMarkup(preNoSelPos_, preSelExpAnchor, preSelExpHead, expMode, lineMode) {
+      function applyMarkup(preSelExpAnchor, preSelExpHead, lineMode) {
         const selectedText = editor.getSelection();
         const so = startOffset();
         const eo = endOffset();
-        if (noSelection() && lineMode === "multi")
+        const anchor = preSelExpAnchor;
+        const head = preSelExpHead;
+        if (noSel() && lineMode === "multi")
           return;
-        if (noSelection()) {
-          editor.replaceSelection(frontMarkup + endMarkup);
-          const cursor = editor.getCursor();
-          cursor.ch -= alen;
-          editor.setCursor(cursor);
-          return;
-        }
         if (!markupOutsideSel()) {
           editor.replaceSelection(frontMarkup + selectedText + endMarkup);
-          if (preNoSelPos_) {
-            preNoSelPos_.ch += blen;
-            editor.setCursor(preNoSelPos_);
-            return;
-          }
-          let anchor, head;
-          if (expMode === "Multi Word" || expMode === "Partial Word") {
-            anchor = preSelExpAnchor;
-            head = preSelExpHead;
-            anchor.ch += blen;
-            head.ch += alen;
-          }
-          if (expMode === "none") {
-            anchor = offToPos(so + blen);
-            head = offToPos(eo + blen);
-          }
-          if (lineMode === "single")
-            editor.setSelection(anchor, head);
-          return;
+          anchor.ch += blen;
+          head.ch += alen;
         }
         if (markupOutsideSel()) {
           editor.setSelection(offToPos(so - blen), offToPos(eo + alen));
           editor.replaceSelection(selectedText);
-          if (preNoSelPos_) {
-            preNoSelPos_.ch -= blen;
-            editor.setCursor(preNoSelPos_);
-            return;
-          }
-          let anchor, head;
-          if (expMode === "Multi Word" || expMode === "Partial Word") {
-            anchor = preSelExpAnchor;
-            head = preSelExpHead;
-            anchor.ch -= blen;
-            head.ch -= alen;
-          }
-          if (expMode === "none") {
-            anchor = offToPos(so - blen);
-            head = offToPos(eo - alen);
-          }
-          if (lineMode === "single")
-            editor.setSelection(anchor, head);
-          return;
+          anchor.ch -= blen;
+          head.ch -= alen;
         }
+        if (lineMode === "single")
+          editor.setSelection(anchor, head);
+        return;
       }
       function insertURLtoMDLink() {
         return __async(this, null, function* () {
@@ -354,14 +304,12 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
       const [blen, alen] = [frontMarkup.length, endMarkup.length];
       const debug = true;
       if (debug)
-        console.log("\nSmarterMD Hotkeys triggered\n----------------------------");
-      let preNoSelPos;
-      if (noSelection()) {
-        if (markupOutsideSel()) {
-          undoWithNoSel();
-          return;
-        }
-        preNoSelPos = expandWithNoSel();
+        console.log("\nSmarterMD Hotkeys triggered\n---");
+      trimSelection();
+      if (!multiLineSel()) {
+        log("single line");
+        const { anchor: preSelExpAnchor, head: preSelExpHead } = expandToWordBoundary();
+        applyMarkup(preSelExpAnchor, preSelExpHead, "single");
       }
       if (multiLineSel()) {
         let pointerOff = startOffset();
@@ -370,18 +318,15 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         lines.forEach((line) => {
           console.log("");
           editor.setSelection(offToPos(pointerOff), offToPos(pointerOff + line.length));
-          const [preSelExpAnchor, preSelExpHead, expandMode] = expandToWordBoundary();
+          const { anchor: preSelExpAnchor, head: preSelExpHead } = expandToWordBoundary();
           pointerOff += line.length + 1;
           if (markupOutsideSel())
             pointerOff -= blen + alen;
           else
             pointerOff += blen + alen;
-          applyMarkup(preNoSelPos, preSelExpAnchor, preSelExpHead, expandMode, "multi");
+          applyMarkup(preSelExpAnchor, preSelExpHead, "multi");
+          return;
         });
-      } else {
-        log("single line");
-        const [preSelExpAnchor, preSelExpHead, expandMode] = expandToWordBoundary();
-        applyMarkup(preNoSelPos, preSelExpAnchor, preSelExpHead, expandMode, "single");
       }
     });
   }
