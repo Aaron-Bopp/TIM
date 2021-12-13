@@ -8,13 +8,12 @@ type:
 ---
 
 ##### [[notes_The Dawn of Everything ]]
- **Creator**:: 
+ **Creator**::  ^874916
  
 **Source**:: [[books_The Dawn of Everything]]
 
 **Related**:: 
 - ![[books_The Dawn of Everything#258309231]]
-
 - [[Humans have ignored the injustice of the world]]
 	- Most people only think about history to examine why things have gone wrong, they don't look to the history for answers
 		- ![[books_The Dawn of Everything#258309232]]

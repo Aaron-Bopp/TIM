@@ -418,7 +418,7 @@
                   "leaf": "779735696eadbc73",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":12.549107245872825}"
+                  "eState": "{\"scroll\":4.545454545454545}"
                 },
                 {
                   "leaf": "779735696eadbc73",
@@ -565,8 +565,7 @@
                   "stack": []
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",

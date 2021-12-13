@@ -1,3 +1,4 @@
 {
-  "folder": "00_Meta/Templates"
+  "folder": "00_Meta/Templates",
+  "timeFormat": "HH:mm Z"
 }
