@@ -23,3 +23,4 @@ sr-ease: 181
 
 **Topics**:: [[organization]], [[structure]], [[second brain]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
