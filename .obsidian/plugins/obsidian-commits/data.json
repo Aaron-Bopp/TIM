@@ -9513,8 +9513,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1727,
-      "Create": 2154,
+      "Refactor": 1728,
+      "Create": 2155,
       "Link": 3675,
       "Expand": 323
     },
@@ -9539,7 +9539,7 @@
       "9": 500,
       "10": 109,
       "11": 126,
-      "12": 407,
+      "12": 409,
       "13": 242,
       "14": 2290,
       "15": 127,
@@ -9581,7 +9581,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 296,
+      "Mon": 298,
       "Tue": 745,
       "Wed": 1426,
       "Thu": 406,
@@ -9655,6 +9655,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"50_Projects/Am I surprised by the note title.md\"> Am I surprised by the note title </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/Get highlight embeds.md\"> Get highlight embeds </a>",
@@ -9704,8 +9705,7 @@
         "<a class=\"internal-link\" href=\"Modular Markup Processor.md\"> Modular Markup Processor </a>",
         "<a class=\"internal-link\" href=\"^.md\"> ^ </a>",
         "<a class=\"internal-link\" href=\"PDF.md\"> PDF </a>",
-        "<a class=\"internal-link\" href=\"death.au.md\"> death.au </a>",
-        "<a class=\"internal-link\" href=\"Modular Markup Processor.md\"> Modular Markup Processor </a>"
+        "<a class=\"internal-link\" href=\"death.au.md\"> death.au </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>",
@@ -9843,6 +9843,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"50_Projects/Am I surprised by the note title.md\"> Am I surprised by the note title </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdf.md\"> asdfasdfasdf </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
@@ -9892,8 +9893,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Transformative justice is the alternative to punitive justice.md\"> [Transformative justice is the alternative to punitive justice </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>",
-        "<a class=\"internal-link\" href=\"republicans.md\"> republicans </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between a evergreen note and a topic note.md\"> What is the difference between a evergreen note and a topic note </a>"
+        "<a class=\"internal-link\" href=\"republicans.md\"> republicans </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",

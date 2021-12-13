@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/notes_The Dawn of Everything.md",
+            "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
             "mode": "source",
             "source": false
           }
@@ -20,14 +20,20 @@
             {
               "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":100,\"ch\":0},\"to\":{\"line\":100,\"ch\":0}},\"scroll\":82.6}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Am I surprised by the note title.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.492982563219574}"
             },
             {
               "leaf": "779735696eadbc73",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":47},\"to\":{\"line\":19,\"ch\":47}},\"scroll\":12.549107245872825}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.42857145289985543}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -116,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -149,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md"
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md"
               }
             },
             "pane-relief:history-v1": {
@@ -295,7 +301,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -402,19 +408,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 884
+    "width": 884,
+    "collapsed": true
   },
   "active": "779735696eadbc73",
   "lastOpenFiles": [
+    "50_Projects/Using spaced repetition for your conceptual notes.md",
     "10_Sources/notes_The Dawn of Everything.md",
+    "50_Projects/Am I surprised by the note title.md",
     "40_Evergreens/Only use organization systems as far as they are useful.md",
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
     "40_Evergreens/41 Inbox.md",
     "20_Entry/209 Notepad.md",
     "40_Evergreens/Develop Obsidian plugins.md",
     "00_Meta/Templates/Get highlight embeds.md",
-    "10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md",
-    "00_Meta/Templates/create stubs.md",
-    "30_Topics/33_Tools/Templater.md"
+    "10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md"
   ]
 }

@@ -400,7 +400,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -411,14 +411,20 @@
                 {
                   "leaf": "779735696eadbc73",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":100,\"ch\":0},\"to\":{\"line\":100,\"ch\":0}},\"scroll\":82.6}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Am I surprised by the note title.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":18.85714222460376}"
                 },
                 {
                   "leaf": "779735696eadbc73",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":4.545454545454545}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.42857145289985543}"
                 },
                 {
                   "leaf": "779735696eadbc73",
@@ -507,7 +513,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "10_Sources/notes_The Dawn of Everything.md",
+                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -540,7 +546,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "10_Sources/notes_The Dawn of Everything.md",
+                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -585,7 +591,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "10_Sources/notes_The Dawn of Everything.md"
+                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -686,7 +692,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "10_Sources/notes_The Dawn of Everything.md",
+                    "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node",
@@ -793,7 +799,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 884
+        "width": 884,
+        "collapsed": true
       },
       "active": "779735696eadbc73"
     }
