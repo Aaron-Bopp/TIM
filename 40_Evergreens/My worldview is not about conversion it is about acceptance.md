@@ -24,7 +24,7 @@ My ability to empathize cannot get in the way of holding people accountable for 
 that either directly or indirectly hurt others:
 [[Empathy does not dissallow judgment]]
 
-[[What is the difference between sympathy and empathy]]
+[[Disambiguation - empathy, sympathy, compassion, pity]]
 [[Is cognitive dissonance the reason for harmful behaviors]]
 ### <hr class="footnote"/>
 

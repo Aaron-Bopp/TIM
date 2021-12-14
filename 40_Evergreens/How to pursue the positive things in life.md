@@ -3,9 +3,9 @@ created: 2021-11-21
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-12-14
-sr-interval: 3
-sr-ease: 170
+sr-due: 2021-12-16
+sr-interval: 2
+sr-ease: 150
 ---
 
 #### [[How to pursue the positive things in life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -22,6 +22,7 @@ sr-ease: 170
 		- [[we are confined to the tools of our time]]
 		- [[how can parent's best help their children]]
 - [[You should the love the loves of those who you love]]
+- [[Be the change you want to see in the world]]
 
 ### <hr class="footnote"/>
 

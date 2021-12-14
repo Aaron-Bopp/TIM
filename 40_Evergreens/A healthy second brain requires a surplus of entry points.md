@@ -13,7 +13,7 @@ sr-ease: 215
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]]
 - [[Use Obsidian tags as temporal classifiers]]
 - [[Only use organization systems as far as they are useful]]
-- [[Make your inbox into an entry point]]
+- [[Make your inbox into an entry point by integrating it with your second brain]]
 - [[Your second brain should be an inspirational hub of creativity]]
 - [[Your second brain should be frictionless access to a curated base of knowledge]]
  

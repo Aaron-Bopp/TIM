@@ -2,21 +2,22 @@
 created: 2021-11-18 
 aliases:
   - null
-tags: node/evergreen, node/question 
-sr-due: 2021-12-14
-sr-interval: 3
+tags: node/evergreen, node/question, 
+sr-due: 2021-12-16
+sr-interval: 2
 sr-ease: 130
 ---
 
-#### [[What is the difference between sympathy and empathy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Disambiguation - empathy, sympathy, compassion, pity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Many people misunderstand empathy as feeling what the other person is feeling, and sympathy as feeling bad for the person. If you are feeling what somebody is feeling purely because they are feeling it, that can be unhealthy. 
 ^[[[Having extreme and uncontrollable empathy is dangerous]]]
 True empathy is not a blind taking on of emotion, it is putting yourself in that person's shoes and understanding what is causing those feelings. Sympathy may be a reaction to empathy, but you can also empathize with someone without having sympathy for them:
 [[Empathy does not dissallow judgment]], [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
 
-#TO/TEND/PRUNE this or refactor how it fites together with other [[empathy]] notes
-
+![[empathy]]
+![[sympathy]]
+![[compassion]]
 
 ### <hr class="footnote"/>
 

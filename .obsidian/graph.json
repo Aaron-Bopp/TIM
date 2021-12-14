@@ -8,6 +8,20 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#EVER/SPROUT/WATER",
+      "color": {
+        "a": 1,
+        "rgb": 3669760
+      }
+    },
+    {
+      "query": "tag:#EVER/SPROUT/CULTIVATE",
+      "color": {
+        "a": 1,
+        "rgb": 16711816
+      }
+    },
+    {
       "query": "tag:#node/evergreen/technique",
       "color": {
         "a": 1,
@@ -60,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.09724282064874705,
-  "close": true
+  "scale": 0.02967725703050237,
+  "close": false
 }

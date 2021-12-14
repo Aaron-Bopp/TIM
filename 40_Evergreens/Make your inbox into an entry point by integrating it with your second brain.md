@@ -1,12 +1,12 @@
 ---
 created: 2021-05-25
 tags: node/evergreen
-sr-due: 2021-12-14
-sr-interval: 6
-sr-ease: 219
+sr-due: 2021-12-17
+sr-interval: 3
+sr-ease: 199
 ---
 
-#### [[Make your inbox into an entry point]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Make your inbox into an entry point by integrating it with your second brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 In a [[knowledge management]] system an inbox is the method through which you receive and categorize items into your [[second brain]]. An entry point is a way that you find your way into the [[web of thought]] so that you can find the information that you want to find. 
 
@@ -16,7 +16,7 @@ In a typical inbox you may have things you haven't read, have skimmed, or have r
 
 However, because [[Nodes in the second brain are an abstraction of our first brain#Nodes in the second brain are more fragile than thoughts in the first brain]], by making your inbox a part of your second brain 
 you are subjecting it [[The fragility of nodes in a second brain]]. Remember, [[Friction is the number one hindrance to learning]], 
-but you can help allieviate this [[friction]] by
+but you can help alleviate this [[friction]] by
 [[Your second brain should be frictionless access to a curated base of knowledge|making your second brain a curated base of knowledge]].
 
 ### <hr class="footnote"/>

@@ -3,15 +3,17 @@ created: 2021-11-30
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-14
-sr-interval: 2
-sr-ease: 163
+sr-due: 2021-12-15
+sr-interval: 1
+sr-ease: 143
 ---
 
 #### [[Organization systems are not mutually exclusive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Pasted image 20211207012526.png|What is the difference between tags and folders?]]
 ^[[Discord](https://discord.com/channels/686053708261228577/744933215063638183/916205731609473034)]
+
+- [[heterarchy]]
 
 Tags provide flexibility, mocs provide structure.
 MOCs provide flexibility, Folder provide portability

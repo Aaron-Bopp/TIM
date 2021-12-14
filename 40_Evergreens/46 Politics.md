@@ -12,7 +12,7 @@
 			- [[Ronald Reagan invented modern conservatism]]
 			- [[The moral majority movement was the original 'making things political']]
 		- [[Rise of Conspiracy Culture]]
-			- [[Mass media promotes the spread of innacurate information]]
+			- [[Mass media promotes the spread of inaccurate information]]
 			- [[The anti-vax movement is based off a white lie]]
 		- [[Republican voters do not hold their leaders accountable]]
 		- [[Republicans have become a true opposition party]]

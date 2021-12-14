@@ -24,11 +24,11 @@ sr-ease: 216
 	- [[Gender is a social construct]]
 		- [[Our understanding of gender begins at a very early age]]
 		- [[Gender segregation increases gendered play]]
-		- [[Self-reppression is the most natural response for trans people in strongly gendered environments]]
+		- [[Self-repression is the most natural response for trans people in strongly gendered environments]]
 	- [[neurodiversity]]
 		- [[Neurodiverse people are siloed into systems that work against them]]
 - in [[socialization]]
-	- [[Mass media promotes the spread of innacurate information]]
+	- [[Mass media promotes the spread of inaccurate information]]
 	- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 - [[Use philosophies as far they are useful and nothing more]]
 ### <hr class="footnote"/>

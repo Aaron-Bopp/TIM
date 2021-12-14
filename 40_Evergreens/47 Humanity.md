@@ -22,7 +22,7 @@
 			- [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]
 			- [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]
 			- [[Complex emotions are intellectual understandings of primal urges]]
-			- [[What is the difference between sympathy and empathy]]
+			- [[Disambiguation - empathy, sympathy, compassion, pity]]
 			- [[What is the difference between blame and judgement]]
 		- [[cognitive dissonance]]
 			- [[Is cognitive dissonance the reason for harmful behaviors]]

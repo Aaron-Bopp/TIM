@@ -3,21 +3,21 @@ created: 2021-06-15
 aliases:
   - "Writing your notes like you're planting an evergreen forest"
 tags: node/evergreen
-sr-due: 2021-12-14
-sr-interval: 12
+sr-due: 2022-01-08
+sr-interval: 25
 sr-ease: 210
 ---
 
 #### [[Write your notes like you're planting an evergreen forest]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 %%
-#TO/TEND/PRUNE I still don't love this note
+#TO/TEND/GRAFT [[organization]] notes
 %%
 Knowledge changes over time and so do we, so why do we expect our notes to stay the same forever. It is impossible to know everything about anything, so how can we expect that of ourselves when we are writing. If you want to have a [[knowledge management|knowledge management system]] full of complex thought, you need to start with the seeds. 
 
 If you want my advice, start with [[evergreen notes]],
 because [[Evergreen notes organize knowledge so that it can grow]].
 If you have a concept, write it down and see what you can link to it.
-Often times an imperative, descriptive title and backlinks are all note needs to have longevity, other time you may need to a sentence or two of context so that you don't forget what you were thinking.
+Often times an imperative, descriptive title and backlinks are all a note needs to have longevity, other time you may need to a sentence or two of context so that you don't forget what you were thinking.
 [[When in doubt, write what you think]] because [[Fear is the number one hindrance to trying]].
 
 However, if you don't know what an evergreen forest looks like you don't know which kind of seeds to plant and how to foster them.
@@ -43,7 +43,7 @@ but if you spend too much time is a system that won't be able to flourish into a
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/GROWING 
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[evergreen notes]], [[second brain]], [[My TIM]], [[note writing]]

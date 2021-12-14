@@ -1,11 +1,10 @@
-
 ---
 created: 2021-07-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-14
-sr-interval: 3
+sr-due: 2021-12-21
+sr-interval: 7
 sr-ease: 220
 ---
 
@@ -17,12 +16,12 @@ You should be able to crawl a web of thought without using any hierarchical [[st
 
 For my own site I employ many different ways of [[organization]], 
 ^[[[Organization systems are not mutually exclusive]]]
-with a [[web of thought]] being one of the primary ones. This makes sharing my site, and using my site a much more approachable and valuable process. I can share one simple thought with someone, but thanks to [[bi-directional links]], that thought will no doubt be shared to some number of related thoughts that will be useful to the person reading them. Personally, I find this one of the most rewarding ways to consume information.
+with a [[web of thought]] being one of the primary ones. This makes sharing my site, and using my site a much more approachable and valuable process. I can share one simple thought with someone, but thanks to [[bi-directional links]], that thought will no doubt be connected to some number of related thoughts that will be useful to the person reading them. Personally, I find this one of the most rewarding ways to consume information.
 
 
 [[Obsidian (software)|Obsidian]]'s graph provides an interesting visual webs of thought. It shows nodes based on how many links come from or to that node, and places the nodes in spaced based off their connections to other nodes. Through this you can see the thoughts interconnected to form ideas: [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]], 
 
-Part of the reason a [[web of thought]] is so powerful is because it matches is the way our actual brain's work
+Part of the reason a [[web of thought]] is so powerful is because it matches the way our actual brain's work
 ^[[[Nodes in the second brain are an abstraction of our first brain]]]
 Every thought exists in time and space only through it's connection to other thoughts. As we learn we make new connections, and as we forget we lose connections. In a [[second brain]] this creates [[The fragility of nodes in a second brain]], because [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 

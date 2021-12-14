@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-14
-sr-interval: 6
+sr-due: 2021-12-29
+sr-interval: 15
 sr-ease: 247
 ---
 
@@ -19,7 +19,7 @@ Over the last forty years, misinformation has become so potent in [[America]], t
 	- [[The Politicization of the Christian Church]]
 - [[Single issue voters are anti-democratic]]
 	- [[Abortion and immigration are detrimental to white supremacy]]
-- [[Mass media promotes the spread of innacurate information]]
+- [[Mass media promotes the spread of inaccurate information]]
     - [[The internet allows niche topics to flourish]]
         - [[The anti-vax movement is based off a white lie]]
         - [[Q justifies conservatives discontent]]

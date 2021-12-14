@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-12-14
-sr-interval: 10
-sr-ease: 192
+sr-due: 2021-12-20
+sr-interval: 6
+sr-ease: 172
 ---
 
 #### [[People have been conditioned to believe the bible has to be infallible]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -12,11 +12,11 @@ sr-ease: 192
 
 #TO/TEND/CONNECT [[Humans are primarily irrational, illogical, emotional beings]], [[Humans have decided to reject an unjust world]], [[Faith is an abstraction of cognitive dissonance]]
 
-This has been built up as major part in [[Christianity|christians]] pyschies and affects a lot of their [[subconscious]] decision-making.
+This has been built up as major part in [[Christianity|Christians]] psyches and affects a lot of their [[subconscious]] decision-making.
 
 This encourages [[Searching for THE answer is dangerous]]
 - [[The bible is god breathed]]
-- [[The biblical christian God is evil and does not deserve to be worshipped]]
+- [[The biblical Christian God is evil and does not deserve to be worshipped]]
 
 ### <hr class="footnote"/>
 

@@ -6,13 +6,14 @@
         "type": "split",
         "children": [
           {
-            "id": "779735696eadbc73",
+            "id": "58614c8e2087b19f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
-                "mode": "preview",
+                "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             },
@@ -20,124 +21,52 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "779735696eadbc73",
+                  "leaf": "58614c8e2087b19f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":4.0881057268722465}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":646},\"to\":{\"line\":14,\"ch\":646}},\"scroll\":3.255411123300527}"
                 },
                 {
-                  "leaf": "779735696eadbc73",
+                  "leaf": "58614c8e2087b19f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":12.21428581159942}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":57},\"to\":{\"line\":23,\"ch\":57}},\"scroll\":6.071428674824386}"
                 },
                 {
-                  "leaf": "779735696eadbc73",
+                  "leaf": "58614c8e2087b19f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":2.1428571793497833}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0.5361256624391566}"
                 },
                 {
-                  "leaf": "779735696eadbc73",
+                  "leaf": "58614c8e2087b19f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":15},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":5.642857307074024}"
                 },
                 {
-                  "leaf": "779735696eadbc73",
+                  "leaf": "58614c8e2087b19f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":61},\"to\":{\"line\":42,\"ch\":61}},\"scroll\":32.14795941677951}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "leaf": "779735696eadbc73",
+                  "leaf": "58614c8e2087b19f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":5.607142884512338}"
                 },
                 {
-                  "leaf": "779735696eadbc73",
+                  "leaf": "58614c8e2087b19f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":0.07142857370936144}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":12},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "leaf": "779735696eadbc73",
+                  "leaf": "58614c8e2087b19f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":12.25340647853417}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":6.112359436263753}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/Neuroscience.md\",\"mode\":\"preview\"}}",
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/asdfasdf.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zettelkasten.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition to weed your digital garden.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":388},\"to\":{\"line\":18,\"ch\":388}},\"scroll\":0.42857145289985543}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard rules create cognitive bias.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evangelicalism has commodified faith for profit.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":31},\"to\":{\"line\":17,\"ch\":31}},\"scroll\":1.1428571793497833}"
                 }
               ]
             }
@@ -190,7 +119,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
+                    "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -223,7 +152,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
+                    "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -269,7 +198,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md"
+                    "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -362,7 +291,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "84f4f33f118f4527",
@@ -374,7 +303,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
+                    "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node",
@@ -483,7 +412,7 @@
         "direction": "horizontal",
         "width": 706
       },
-      "active": "779735696eadbc73"
+      "active": "58614c8e2087b19f"
     },
     "21:9 Start": {
       "main": {
@@ -970,5 +899,5 @@
       "active": "779735696eadbc73"
     }
   },
-  "active": "Single note"
+  "active": "21:9 Start"
 }

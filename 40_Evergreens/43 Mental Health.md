@@ -4,7 +4,7 @@
 	- [[defense-mechanisms]]
 		- [[Rationalizations are defense-mechanisms against strong emotions]]
 		- [[Avoidance IS the most-efficient way of dealing with emotion]]
-		- [[Self-reppression is the most natural response for trans people in strongly gendered environments]]
+		- [[Self-repression is the most natural response for trans people in strongly gendered environments]]
 		- [[Self-hatred is born out of dissonance between self-image and self-perception]]
 		- [[Is your self-talk bullying you or bodyguarding you]]
 		- [[You can be taught to invalidate your own emotions]]

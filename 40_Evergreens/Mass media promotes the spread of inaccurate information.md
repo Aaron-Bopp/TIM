@@ -8,7 +8,7 @@ sr-interval: 6
 sr-ease: 150
 ---
 
-#### [[Mass media promotes the spread of innacurate information]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Mass media promotes the spread of inaccurate information]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Rise of Conspiracy Culture]]
 - [[Rise of Modern Conservatism]]

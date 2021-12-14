@@ -13,3 +13,4 @@
 	- [[What are the starter types of note taking]]
 	- [[Evangelicalism has commodified faith for profit]]
 	- [[Hard rules create cognitive bias]]
+	- [[Colonization and slavery lead to generational disparities in black communities]]

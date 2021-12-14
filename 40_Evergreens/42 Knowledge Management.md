@@ -15,7 +15,7 @@
 		- [[Your second brain should be an inspirational hub of creativity]]
 		- [[Your second brain should be frictionless access to a curated base of knowledge]]
 		- [[Learning how systems work can be a gateway to creating thought]]
-		- [[Make your inbox into an entry point]]
+		- [[Make your inbox into an entry point by integrating it with your second brain]]
 		- [[Curate source notes and definitions in your second brain to avoid junk text]]
 		- [[The fragility of nodes in a second brain]]
 		- [[Nodes in the second brain are an abstraction of our first brain]]

@@ -14,7 +14,7 @@ Many people who consider themselves 'empaths' really just cannot control when th
 
 This could be an [[anxiety]] response #TO/EXPLORE/RESEARCH relation between anxiety and [[empathy]]/[[sympathy]]
 
-[[What is the difference between sympathy and empathy]]
+[[Disambiguation - empathy, sympathy, compassion, pity]]
 
 ### <hr class="footnote"/>
 

@@ -45,6 +45,6 @@ While I wasn't pushing myself to write, because I was uncovering lots of old not
 
  [[Spaced repetition]] is like fertalizer for evergreen notes and is an essential practice in a [[second brain]]. It helps you create, maintain, and refine connections between notes, which makes [[Your second brain should be an inspirational hub of creativity| your second brain a hub of creativity]]. It is also extremely helpful in reducing the friction of maintaining [[evergreen notes]], and helps make[[Your second brain should be frictionless access to a curated base of knowledge| your second brain frictionless access to your knowledge base]]. 
 
-In the future, I will be exploring using spaced repetition as a way to review [[source notes]], and see if it can be a [[Make your inbox into an entry point| entry point into the second brain]]. 
+In the future, I will be exploring using spaced repetition as a way to review [[source notes]], and see if it can be a [[Make your inbox into an entry point by integrating it with your second brain| entry point into the second brain]]. 
 
 I think this practice will be helpful for any system that uses conceptual notes, and would love to hear and see others experiences.

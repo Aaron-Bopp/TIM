@@ -3,8 +3,8 @@ created: 2021-10-19
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-14
-sr-interval: 2
+sr-due: 2021-12-17
+sr-interval: 3
 sr-ease: 130
 ---
 
@@ -15,7 +15,6 @@ sr-ease: 130
 While the bible does talk about how to be a good person,
 ^[the ethics and success of it's teachings are up for debate]
 [[Evangelicalism has commodified faith for profit]] and so they have largely abandoned this doctrine.
-
 
 "Have [[faith]] and you will be saved. Believe in the lord god and he will make your pain go away." These are empty promises. [[Evangelicalism]] hides the work and the struggle so that it can convert and control more people: [[Worldviews are wrong if they make life seem easy and simple]]
 
