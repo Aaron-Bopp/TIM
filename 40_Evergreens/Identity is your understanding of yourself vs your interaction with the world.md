@@ -1,8 +1,8 @@
 ---
 created: 2021-06-27
 tags: node/evergreen
-sr-due: 2021-12-13
-sr-interval: 9
+sr-due: 2021-12-31
+sr-interval: 18
 sr-ease: 195
 aliases:
   - Identity is a sense of self not a pattern of traits or behavior
@@ -28,7 +28,7 @@ This concept relates the different concepts of identity and presentation: [[Pres
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SPROUT/CULTIVATE 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-actualization]], [[self]], [[self care]], [[gender identity]]

@@ -9,25 +9,67 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
+            "file": "40_Evergreens/43 Mental Health.md",
             "mode": "source",
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Am I surprised by the note title.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/43 Mental Health.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.492982563219574}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.1764705902977385}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Only use organization systems as far as they are useful.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":204},\"to\":{\"line\":22,\"ch\":204}},\"scroll\":5.000000085149494}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are a product of evolution.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":21.09999991154325}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -103,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/topic",
+                "query": "tag:#TO/TEND/DEOBFUSCATE",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -122,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
+                "file": "40_Evergreens/43 Mental Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -155,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
+                "file": "40_Evergreens/43 Mental Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -200,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md"
+                "file": "40_Evergreens/43 Mental Health.md"
               }
             },
             "pane-relief:history-v1": {
@@ -301,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "50_Projects/Using spaced repetition for your conceptual notes.md",
+                "file": "40_Evergreens/43 Mental Health.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -408,20 +450,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 884,
-    "collapsed": true
+    "width": 495
   },
   "active": "779735696eadbc73",
   "lastOpenFiles": [
+    "40_Evergreens/43 Mental Health.md",
+    "40_Evergreens/42 Knowledge Management.md",
+    "40_Evergreens/Only use organization systems as far as they are useful.md",
+    "40_Evergreens/Humans have decided to reject an unjust world.md",
+    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md",
+    "40_Evergreens/Humans are a product of evolution.md",
+    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
     "50_Projects/Using spaced repetition for your conceptual notes.md",
     "10_Sources/notes_The Dawn of Everything.md",
-    "50_Projects/Am I surprised by the note title.md",
-    "40_Evergreens/Only use organization systems as far as they are useful.md",
-    "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
-    "40_Evergreens/41 Inbox.md",
-    "20_Entry/209 Notepad.md",
-    "40_Evergreens/Develop Obsidian plugins.md",
-    "00_Meta/Templates/Get highlight embeds.md",
-    "10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md"
+    "50_Projects/Am I surprised by the note title.md"
   ]
 }
