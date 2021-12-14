@@ -1,8 +1,8 @@
 ---
 created: 2021-10-17
 tags: node/evergreen
-sr-due: 2021-12-13
-sr-interval: 25
+sr-due: 2022-02-06
+sr-interval: 54
 sr-ease: 226
 date modified: Monday, November 1st 2021, 2:26:21 pm
 ---
@@ -16,7 +16,7 @@ date modified: Monday, November 1st 2021, 2:26:21 pm
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[prejudice]], [[discrimination]], [[Psychology]], [[social justice]], [[Civil Rights]]

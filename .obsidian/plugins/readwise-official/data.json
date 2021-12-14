@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2377132,
+  "lastSavedStatusID": 2385133,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -325,7 +325,8 @@
     "10_Sources/Readwise/Tweets/tweets_Hey Here’s a Discourse.....md": "12204725",
     "10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md": "12236199",
     "10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md": "12248588",
-    "10_Sources/Readwise/Books/books_The Dawn of Everything.md": "12266345"
+    "10_Sources/Readwise/Books/books_The Dawn of Everything.md": "12266345",
+    "10_Sources/Readwise/Articles/articles_Understanding human collective behaviour  Autistic Collaboration.md": "12274772"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",

@@ -1,24 +1,13 @@
-/* ──────────────────────────────────────────────────────
-SHIMMERING FOCUS
-Version 1.299
+/* ───────────────────────────────────────────────────
+SHIMMERING FOCUS by @pseudometa
+Version 1.305
 https://github.com/chrisgrieser/shimmering-focus/
-Created by @pseudometa
 MIT License
-─────────────────────────────────────────────────────────
-For help and/or CSS snippets, thanks to:
-- @SlRvb
-- @javalent
-- @kepano
-- @Mara
-- @Chetachie
-- @Atlas
-- @jdanielmourao
-- @NothingIsLost
-────────────────────────────────────────────────────── */
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* < Table of Content */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Table of Content
+─────────────────────────────────────────────────── */
 /* all sections begin with "< ", so you can search for
 "< section name" to navigate to the respective section.
 This ToC is auto-generated via the .create-ToC.sh
@@ -147,17 +136,17 @@ This ToC is auto-generated via the .create-ToC.sh
 	- Favicon Plugin
 	- Info Plugin
 	- Language Tool Integration
+	- Hotkey Helper
 	- Other Minor Plugin Customizations
-		- Hotkey Helper
 		- Zoom
 		- Advanced Tables
 - Plugin Compatibility Info for the Obsidian Hub
 - Style Setting Options
  */
 
-/* ─────────────────────────────────────────────────── */
-/* < Colors */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Colors
+─────────────────────────────────────────────────── */
 /* stylelint-disable no-duplicate-selectors */
 
 :root {
@@ -173,7 +162,7 @@ This ToC is auto-generated via the .create-ToC.sh
 
 	--code-color: var(--alt-accent-darker);
 	--scrollbar-hover: var(--alt-accent-lighter);
-	--scrollbar-active: var(--accent-lighter);
+	--scrollbar-active: var(--accent-lightest);
 	--pseudo-admonition-border: var(--accent-lighter);
 
 	--highlight-color: hsl(152 100% 50% / 40%);
@@ -198,9 +187,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--interactive-hover-border: var(--alt-accent);
 	--interactive-border: var(--accent-lighter);
 
-	--longform-background: hsl(30 30% 98%);
 	--finished-task: var(--accent-lighter);
-
 	--spell-error-color: hsl(227 100% 72%);
 	--cursor-duo-color-1: var(--alt-accent-lightest);
 	--cursor-duo-color-2: var(--accent-lightest);
@@ -225,9 +212,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--interactive-hover-border: var(--alt-accent-lighter);
 	--interactive-border: var(--text-accent);
 
-	--longform-background: hsl(226 18% 13%);
 	--finished-task: var(--text-accent);
-
 	--spell-error-color: hsl(0 66% 64%);
 	--cursor-duo-color-1: var(--alt-accent-lighter);
 	--cursor-duo-color-2: var(--accent-lighter);
@@ -239,74 +224,86 @@ This ToC is auto-generated via the .create-ToC.sh
 	--notice-border: 2px ridge hsl(0 0% 45%);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Background */
-/* << Brightness */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Background
+<< Brightness
+─────────────────────────────────────────────────── */
 
 :root {
+	/* temporary variables till more color stuff is implemented */
+	--dark-sat: 5%;
+	--light-sat: 10%;
+	--base-hue: 220;
+	--longform-light-hue: 20;
+	--longform-dark-hue: 270;
+
 	--brightness-light: 5%;
 	--brightness-dark: 5%;
-	--b-light-1: 92%;
-	--b-light-2: 87%;
-	--b-light-3: 81%;
-	--b-dark-1: 11%;
-	--b-dark-2: 7%;
-	--b-dark-3: 0%;
-
-	/* temporary variable till more color stuff is implemented */
-	--blue-tint: 0%;
-	--base-hue: 220;
+	--b-light-1: calc(var(--brightness-light) + 92%);
+	--b-light-2: calc(var(--brightness-light) + 87%);
+	--b-light-3: calc(var(--brightness-light) + 81%);
+	--b-dark-1: calc(var(--brightness-dark) + 11%);
+	--b-dark-2: calc(var(--brightness-dark) + 7%);
+	--b-dark-3: calc(var(--brightness-dark) + 1%);
 }
 
 .theme-light {
-	--bg1: hsl(var(--base-hue) 10% calc(var(--brightness-light) + var(--b-light-1)));
-	--bg2: hsl(var(--base-hue) 10% calc(var(--brightness-light) + var(--b-light-2)));
-	--bg3: hsl(var(--base-hue) 10% calc(var(--brightness-light) + var(--b-light-3)));
-	--resize-handle: hsl(var(--base-hue) 10% calc(var(--brightness-light) + calc(var(--b-light-2) - 1%)));
-	--suggester-b-row: hsl(var(--base-hue) var(--blue-tint) calc(var(--brightness-dark) + calc(var(--b-light-1) - 2%)));
+	--bg1: hsl(var(--base-hue) var(--light-sat) var(--b-light-1));
+	--bg2: hsl(var(--base-hue) var(--light-sat) var(--b-light-2));
+	--bg3: hsl(var(--base-hue) var(--light-sat) var(--b-light-3));
 
-	--muted-border-color: hsl(var(--base-hue) 0% calc(var(--brightness-light) + calc(var(--b-light-3) + 3%)));
-	--basic-border-color: hsl(var(--base-hue) 0% calc(var(--brightness-light) + 65%));
-	--backdrop-color: hsl(var(--base-hue) 15% calc(var(--brightness-light) + 75%));
+	--resize-handle: hsl(var(--base-hue) var(--light-sat) calc(var(--b-light-2) - 1%));
+	--scrollbar: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-light-2) - 8%));
+	--suggester-b-row: hsl(var(--base-hue) var(--light-sat) calc(var(--b-light-1) - 5%));
+	--muted-border-color: hsl(var(--base-hue) calc(var(--light-sat) / 2) calc(var(--b-light-3) + 3%));
+	--basic-border-color: hsl(var(--base-hue) calc(var(--light-sat) / 2) calc(var(--b-light-3) - 15%));
+	--backdrop-color: hsl(var(--base-hue) calc(var(--light-sat) * 2) calc(var(--b-light-2) - 20%));
 	--input-background: var(--bg1);
+	--longform-background: hsl(var(--longform-light-hue) calc(var(--light-sat) * 1.5) calc(var(--b-light-1) - 7%));
 }
 
 .theme-dark {
-	--bg1: hsl(var(--base-hue) var(--blue-tint) calc(var(--brightness-dark) + var(--b-dark-1)));
-	--bg2: hsl(var(--base-hue) var(--blue-tint) calc(var(--brightness-dark) + var(--b-dark-2)));
-	--bg3: hsl(var(--base-hue) var(--blue-tint) calc(var(--brightness-dark) + var(--b-dark-3)));
-	--resize-handle: hsl(var(--base-hue) var(--blue-tint) calc(var(--brightness-dark) + calc(var(--b-dark-2) - 1%)));
-	--suggester-b-row: hsl(var(--base-hue) var(--blue-tint) calc(var(--brightness-dark) + calc(var(--b-dark-1) - 2%)));
+	--bg1: hsl(var(--base-hue) var(--dark-sat) var(--b-dark-1));
+	--bg2: hsl(var(--base-hue) var(--dark-sat) var(--b-dark-2));
+	--bg3: hsl(var(--base-hue) var(--dark-sat) var(--b-dark-3));
 
-	--muted-border-color: hsl(var(--base-hue) calc(var(--blue-tint) / 2) calc(var(--brightness-dark) + calc(var(--b-dark-1) - 2%)));
-	--basic-border-color: hsl(var(--base-hue) calc(var(--blue-tint) / 2) calc(var(--brightness-dark) + 35%));
-	--backdrop-color: hsl(var(--base-hue) calc(var(--blue-tint) * 2) calc(var(--brightness-dark) + 8%));
+	--resize-handle: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-dark-2) - 1%));
+	--scrollbar: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-dark-2) + 9%));
+	--suggester-b-row: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-dark-1) - 2%));
+	--muted-border-color: hsl(var(--base-hue) calc(var(--dark-sat) / 2) calc(var(--b-dark-1) - 6%));
+	--basic-border-color: hsl(var(--base-hue) calc(var(--dark-sat) / 2) calc(var(--b-dark-1) + 20%));
+	--backdrop-color: hsl(var(--base-hue) calc(var(--dark-sat) * 2) calc(var(--b-dark-2) + 2%));
 	--input-background: var(--bg3);
+	--longform-background: hsl(var(--longform-dark-hue) calc(var(--dark-sat) / 1.5) calc(var(--b-dark-1) + 0%));
 }
 
+::-WEBKIT-SCROLLBAR,
 .workspace-leaf-resize-handle {
 	background-color: var(--resize-handle);
+}
+
+::-WEBKIT-SCROLLBAR-THUMB {
+	background-color: var(--scrollbar);
 }
 
 .workspace-split.mod-root .view-content {
 	background-color: var(--bg1);
 }
 
-.workspace-tab-header.is-active .workspace-tab-header-inner,
-.workspace-tabs .workspace-leaf {
+.workspace-tabs .workspace-leaf,
+.workspace-tab-header-container .workspace-tab-header.is-active .workspace-tab-header-inner {
 	background-color: var(--bg2);
 }
 
 .status-bar,
-.workspace-tab-header-inner,
-.workspace-tabs {
+.workspace-tabs,
+.workspace-tab-header-container .workspace-tab-header .workspace-tab-header-inner {
 	background-color: var(--bg3);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Shadows */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Shadows
+─────────────────────────────────────────────────── */
 
 .theme-light {
 	--shadow-color: hsl(0 0% 40% / 70%);
@@ -330,15 +327,15 @@ This ToC is auto-generated via the .create-ToC.sh
 	--small-shadow: 2px 4px var(--shadow-blur) var(--small-shadow-size) var(--shadow-color);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Other Variables */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Other Variables
+─────────────────────────────────────────────────── */
 
 :root {
-	--resize-handle-thickness: 2.5px;
-	--resize-handle-hovered-thickness: 5px;
+	--resize-handle-thickness: 3px;
+	--resize-handle-hovered-thickness: 6px;
 	--toggle-duration: 350ms ease-in-out;
-	--scrollbar-thickness: 9px;
+	--scrollbar-thickness: 10px;
 	--image-size: 50;
 	--pdf-size: 50vh;
 	--popover-size: 350;
@@ -355,9 +352,9 @@ This ToC is auto-generated via the .create-ToC.sh
 }
 
 /* stylelint-enable no-duplicate-selectors */
-/* ─────────────────────────────────────────────────── */
-/* < Fonts */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Fonts
+─────────────────────────────────────────────────── */
 /* << Base64-encoded Fonts */
 @font-face {
 	font-family: "iA Writer Quattro V";
@@ -543,9 +540,9 @@ body,
 	text-rendering: geometricPrecision;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Icons */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Icons
+─────────────────────────────────────────────────── */
 
 @font-face {
 	font-family: "Material Icons";
@@ -563,14 +560,14 @@ svg {
 	-webkit-mask-repeat: no-repeat;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Base Icons */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Base Icons
+─────────────────────────────────────────────────── */
 
 /* external link */
 a.external-link {
-	background-image: var(--external-url);
 	background-position-y: 5px;
+	background-image: var(--external-url);
 	background-size: 14px;
 }
 
@@ -759,9 +756,9 @@ svg.dot-network {
 	right: 2px;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Plugin Icons */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Plugin Icons
+─────────────────────────────────────────────────── */
 
 /* advanced cursor */
 svg.feather-mouse-pointer > path { display: none }
@@ -819,13 +816,13 @@ svg.longform {
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath d='M3 2h2v20H3zm16 0H6v20h13c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm-1 10H9v-2h9v2zm0-4H9V6h9v2z' fill='currentColor'/%3e%3c/svg%3e");
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Shapes */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Shapes
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* << Angular Shapes */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Angular Shapes
+─────────────────────────────────────────────────── */
 
 body:not(.angular-shapes) {
 	--roundish: 7px;
@@ -837,9 +834,9 @@ body.angular-shapes {
 	--round: 0;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Cursor */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Cursor
+─────────────────────────────────────────────────── */
 
 .CodeMirror-cursor {
 	/* needs the "1" at the end:  https://www.digitalocean.com/community/tutorials/css-gradient-borders-pure-css */
@@ -857,13 +854,13 @@ body.block-cursor .CodeMirror-cursor {
 	border-left-width: 0.6em;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < UI Elements */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< UI Elements
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* << Title Bar */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Title Bar
+─────────────────────────────────────────────────── */
 /* display only when set in style settings */
 body:not(.show-titlebar) .titlebar {
 	display: none;
@@ -939,9 +936,9 @@ body > div.app-container > div.horizontal-main-container > div > div.workspace-s
 	border-radius: 0;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Ribbons */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Ribbons
+─────────────────────────────────────────────────── */
 /* hide ribbons, when the setting is chosen */
 body:not(.show-ribbons) .workspace-ribbon {
 	display: none;
@@ -975,9 +972,9 @@ body:not(.show-ribbons) .workspace-ribbon {
 	border-left: var(--muted-border);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Tooltips */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Tooltips
+─────────────────────────────────────────────────── */
 
 .tooltip {
 	color: var(--notice-text);
@@ -1008,9 +1005,9 @@ body:not(.show-ribbons) .workspace-ribbon {
 	border-top: var(--tooltip-arrow);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Notices (Notifications) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Notices (Notifications)
+─────────────────────────────────────────────────── */
 
 body:not(.show-titlebar) > div.notice-container {
 	top: 0;
@@ -1045,9 +1042,9 @@ body > div.notice-container .notice:hover::BEFORE {
 	opacity: 0.5;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Header Bar */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Header Bar
+─────────────────────────────────────────────────── */
 
 .view-header {
 	--header-transition: 450ms ease-in-out;
@@ -1149,9 +1146,9 @@ body:not(.is-mobile) .view-header:focus-within {
 	color: var(--text-accent) !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Status Bar */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Status Bar
+─────────────────────────────────────────────────── */
 /* based on some CSS snippets from @Chetachi's Yin-and-Yang Theme
 https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme */
 
@@ -1212,18 +1209,27 @@ body:not(.default-statusbar) .mod-right-split .workspace-tabs:last-child .worksp
 	padding-bottom: 2em;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Scrollbar */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Scrollbar
+─────────────────────────────────────────────────── */
 
 /* hide all scrollbars except the one for the editor */
 body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 	display: none;
-	width: var(--scrollbar-thickness);
 }
 
 .workspace-split.mod-vertical ::-WEBKIT-SCROLLBAR {
 	display: unset;
+}
+
+::-WEBKIT-SCROLLBAR:active,
+::-WEBKIT-SCROLLBAR:hover,
+::-WEBKIT-SCROLLBAR-THUMB:active,
+::-WEBKIT-SCROLLBAR-THUMB:hover,
+::-WEBKIT-SCROLLBAR,
+::-WEBKIT-SCROLLBAR-THUMB {
+	width: var(--scrollbar-thickness);
+	border-radius: var(--roundish);
 }
 
 /* hover / active colors */
@@ -1232,20 +1238,20 @@ body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 }
 
 ::-WEBKIT-SCROLLBAR:hover {
-	background-color: var(--bg3);
+	background-color: var(--bg2);
 }
 
 ::-WEBKIT-SCROLLBAR-THUMB:active {
 	background-color: var(--scrollbar-active) !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Interactive Elements */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Interactive Elements
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* << Buttons */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Buttons
+─────────────────────────────────────────────────── */
 
 button {
 	color: var(--button-text) !important;
@@ -1268,11 +1274,12 @@ button:hover {
 	border-color: var(--interactive-hover-border) !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Warnings */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Warnings
+─────────────────────────────────────────────────── */
 
-button.mod-warning {
+button.mod-warning:not(:hover) {
+	background-color: var(--text-error-hover) !important;
 	border-color: var(--text-error) !important;
 }
 
@@ -1297,9 +1304,9 @@ p.mod-warning::BEFORE {
 	margin-right: 4px;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Toggles (Checkboxes) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Toggles (Checkboxes)
+─────────────────────────────────────────────────── */
 
 .checkbox-container {
 	margin-left: 5px;
@@ -1353,9 +1360,9 @@ body:not(.normal-checkboxes) .checkbox-container.is-enabled:hover {
 	border-color: var(--interactive-hover-border);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Input & Textarea */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Input & Textarea
+─────────────────────────────────────────────────── */
 
 .search-input-container input,
 input[type="text"],
@@ -1403,9 +1410,9 @@ input:hover {
 	border-color: var(--interactive-hover-border) !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Dropdown & Slider */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Dropdown & Slider
+─────────────────────────────────────────────────── */
 select.dropdown:hover {
 	border-color: var(--interactive-hover-border) !important;
 }
@@ -1425,9 +1432,9 @@ input.slider {
 	background-color: var(--bg3) !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Search & Replace (cmd + F) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Search & Replace (cmd + F)
+─────────────────────────────────────────────────── */
 
 .document-search-container {
 	display: block;
@@ -1522,9 +1529,9 @@ body:not(.show-close-button) .document-search-close-button {
 	display: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Context Menus */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Context Menus
+─────────────────────────────────────────────────── */
 
 div.menu {
 	box-shadow: var(--medium-shadow);
@@ -1591,9 +1598,9 @@ div.menu-item {
 	border-bottom: var(--muted-border);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Close Buttons */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Close Buttons
+─────────────────────────────────────────────────── */
 
 div.search-input-clear-button::BEFORE,
 .empty-state-close-button,
@@ -1655,11 +1662,11 @@ body:not(.show-close-button) .modal-close-button:hover {
 	transition: var(--toggle-duration);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Prompts */
-/* << Command Palette */
-/* << QuickSwitcher */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Prompts
+<< Command Palette
+<< QuickSwitcher
+─────────────────────────────────────────────────── */
 /* also partially applies to the Editor Suggestions */
 
 div.prompt {
@@ -1673,11 +1680,13 @@ div.prompt {
 input.prompt-input {
 	width: unset;
 	padding-top: 7px;
+	margin-bottom: 3px;
 	border-radius: calc(var(--roundish) * 1.5);
 }
 
 div.prompt-results {
 	padding-top: 0;
+	margin-top: 5px;
 	border-bottom-right-radius: var(--roundish);
 	border-bottom-left-radius: var(--roundish);
 }
@@ -1770,14 +1779,18 @@ body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-pref
 	background-color: var(--suggester-b-row);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Editor Suggestions */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Editor Suggestions
+─────────────────────────────────────────────────── */
 
 .suggestion-container {
 	background-color: var(--bg1);
 	box-shadow: var(--small-shadow);
 	border: var(--thin-border);
+}
+
+.suggestion-container .suggestion,
+.suggestion-container {
 	border-radius: var(--roundish);
 }
 
@@ -1799,13 +1812,13 @@ body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-pref
 	color: var(--alt-accent);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Sidebar */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Sidebar
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* << Files / Lists (in general) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Files / Lists (in general)
+─────────────────────────────────────────────────── */
 /* apply to any plugin using file lists,
 not only file explorer */
 
@@ -1818,9 +1831,9 @@ body > .app-container .nav-folder-title:hover {
 	border-radius: var(--roundish);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Tab Headers */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Tab Headers
+─────────────────────────────────────────────────── */
 
 /* unset stuff from Obsidian's default theme */
 .workspace-tab-header-inner.is-after-active,
@@ -1918,13 +1931,13 @@ body > .app-container .workspace-split.mod-horizontal > .workspace-tabs > .works
 	border-radius: var(--roundish);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Resize Handles */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Resize Handles
+─────────────────────────────────────────────────── */
 /* see also the change of resize handle height depending
 on the titlebar visibility in the titlebar section */
 
-.workspace-leaf-resize-handle { /* stylelint-disable-line no-duplicate-selectors */
+.workspace-leaf-resize-handle {
 	transition: 350ms ease-in-out;
 }
 
@@ -1960,13 +1973,13 @@ body .workspace-leaf-resize-handle:active {
 	background-color: var(--scrollbar-hover);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Modals & Settings */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Modals & Settings
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* << Modals in general */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Modals in general
+─────────────────────────────────────────────────── */
 /* modals partially apply to settings/plugin browser as well */
 
 .modal h1,
@@ -2026,9 +2039,9 @@ body .workspace-leaf-resize-handle:active {
 	height: 95vh;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Confirmation Modal */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Confirmation Modal
+─────────────────────────────────────────────────── */
 
 .mod-confirmation input[type="text"] {
 	width: 65%;
@@ -2045,9 +2058,9 @@ body .workspace-leaf-resize-handle:active {
 	padding: 20px 20px 35px;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Settings Menu */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Settings Menu
+─────────────────────────────────────────────────── */
 
 .modal.mod-settings .modal-content {
 	padding-right: 0;
@@ -2332,12 +2345,13 @@ body .workspace-leaf-resize-handle:active {
 	font-size: 0.75rem;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Community Plugin Browser */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Community Plugin Browser
+─────────────────────────────────────────────────── */
 
-/* <<< Plugin Search Results */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<<< Plugin Search Results
+─────────────────────────────────────────────────── */
 
 /* Search input */
 .community-plugin-search {
@@ -2500,8 +2514,9 @@ body .workspace-leaf-resize-handle:active {
 	color: var(--alt-accent);
 }
 
-/* <<< Plugin Info (Readme) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<<< Plugin Info (Readme)
+─────────────────────────────────────────────────── */
 .community-plugin-info {
 	background-color: var(--bg1);
 	padding: 10px 5px 10px 15px;
@@ -2610,9 +2625,9 @@ body .workspace-leaf-resize-handle:active {
 	font-size: 11rem;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Community Theme Browser */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Community Theme Browser
+─────────────────────────────────────────────────── */
 
 .modal.mod-community-theme {
 	background-color: var(--bg2);
@@ -2713,21 +2728,21 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 	border-radius: calc(var(--roundish) * 2);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Editor */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Editor
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* << Active / Inactive Note */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Active / Inactive Note
+─────────────────────────────────────────────────── */
 .workspace-leaf:not(.mod-active) .workspace-leaf-content[data-type="markdown"] {
 	opacity: var(--inactive-pane-opacity);
 	transition: 800ms ease-in-out;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Empty State */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Empty State
+─────────────────────────────────────────────────── */
 
 .empty-state-action {
 	display: none;
@@ -2743,9 +2758,9 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 	font-size: 11rem;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Editor Size */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Editor Size
+─────────────────────────────────────────────────── */
 
 .markdown-source-view.mod-cm5 {
 	padding-left: 10px;
@@ -2755,18 +2770,18 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 	padding-top: 10px;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Line Numbers (Gutter) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Line Numbers (Gutter)
+─────────────────────────────────────────────────── */
 
 .CodeMirror-linenumbers {
 	padding-top: 2px;
 	padding-right: 2px;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Overscroll */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Overscroll
+─────────────────────────────────────────────────── */
 
 body > .app-container .markdown-preview-view:not(.kanban-plugin__markdown-preview-view) {
 	padding-bottom: 20em !important;
@@ -2777,9 +2792,9 @@ div.CodeMirror-lines {
 	padding-bottom: 20em !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << YAML Header */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< YAML Header
+─────────────────────────────────────────────────── */
 
 /* <<< YAML Frontmatter */
 
@@ -2885,9 +2900,9 @@ body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
 	font-size: 1em !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Collapse Indicators & Gutter */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Collapse Indicators & Gutter
+─────────────────────────────────────────────────── */
 
 /* Preview mode */
 .right-triangle {
@@ -2946,9 +2961,9 @@ body:not(.show-collapse-buttons) .CodeMirror-code > div:hover .CodeMirror-foldgu
 	opacity: 1;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Progress bars (<progress>) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Progress bars (<progress>)
+─────────────────────────────────────────────────── */
 /* thanks @SkepticMystic */
 progress {
 	height: 0.65em;
@@ -2978,9 +2993,9 @@ progress[value^="8"]::-WEBKIT-PROGRESS-VALUE { background: hsl(171 48% 55%) }
 progress[value^="9"]::-WEBKIT-PROGRESS-VALUE { background: hsl(165 66% 62%) }
 progress[value^="10"]::-WEBKIT-PROGRESS-VALUE { background: hsl(160 92% 70%) }
 
-/* ─────────────────────────────────────────────────── */
-/* << Images */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Images
+─────────────────────────────────────────────────── */
 /* see also section "Max View" */
 
 /* Image Files opened by Obsidian */
@@ -3061,9 +3076,9 @@ body:not(.left-aligned-embeds) .view-content .markdown-preview-view img:not(.lin
 	background: hsl(0 0% 8%);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Mermaid */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Mermaid
+─────────────────────────────────────────────────── */
 /* see also "Max View" */
 
 body:not(.left-aligned-embeds) div.mermaid {
@@ -3076,9 +3091,9 @@ body:not(.left-aligned-embeds) div.mermaid {
 	--mermaid-font: "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif; /* stylelint-disable-line max-line-length */
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << PDFs */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< PDFs
+─────────────────────────────────────────────────── */
 /* credits @phibr0 */
 .theme-dark:not(.no-pdf-dark-mode) .pdf-embed iframe,
 .theme-dark:not(.no-pdf-dark-mode) .workspace-leaf-content[data-type="pdf"] iframe {
@@ -3094,9 +3109,9 @@ body:not(.left-aligned-embeds) .pdf-embed {
 	margin-left: auto;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Search Matches */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Search Matches
+─────────────────────────────────────────────────── */
 /* applies to everything that is matched by any kind of search */
 
 .is-flashing,
@@ -3119,9 +3134,9 @@ body > .app-container .obsidian-search-match-highlight:last-child {
 	border-bottom-right-radius: var(--roundish);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Spellcheck */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Spellcheck
+─────────────────────────────────────────────────── */
 
 body:not(.classic-spellcheck-styling) .CodeMirror .cm-spell-error {
 	background-image: none;
@@ -3164,9 +3179,9 @@ body.no-barelink-spellcheck .cm-hmd-barelink.cm-overlay.cm-spell-error {
 	text-decoration: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Max View */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Max View
+─────────────────────────────────────────────────── */
 /* full length editor and full size images when left sidebar is collapsed */
 /* (Note: You need to turn on "readable line length" in the editor settings */
 /* as well for this to work.) */
@@ -3221,13 +3236,13 @@ body.focus-view-enabled .workspace-split.mod-left-split.is-collapsed ~ .workspac
 	display: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Markup */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Markup
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* << Headings */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Headings
+─────────────────────────────────────────────────── */
 
 .cm-header-1,
 .cm-header-2,
@@ -3305,9 +3320,9 @@ body:not(.no-alternating-header-italics) .markdown-preview-view h4 {
 	font-style: italic;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* <<< Pseudo-Admonitions */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<<< Pseudo-Admonitions
+─────────────────────────────────────────────────── */
 /* For h6 only (without following blocks or line breaks).
 Based on some CSS from @SlRvb, @gee & @Eleanor Konik.
 Pseudo-Admonitions work on one-liners only */
@@ -3362,9 +3377,9 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-header.Hy
 	border-radius: var(--roundish);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Blockquotes */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Blockquotes
+─────────────────────────────────────────────────── */
 
 /* Edit Mode */
 body > .app-container .cm-quote {
@@ -3468,9 +3483,9 @@ body:not(.normal-blockquotes) .HyperMD-quote.HyperMD-quote-1 {
 	display: inline;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Tables */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Tables
+─────────────────────────────────────────────────── */
 /* add some more table styling, e.g. from
 https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-your-notes/17084 */
 
@@ -3548,43 +3563,71 @@ body.no-alternating-rows > .app-container table > tbody > tr > td {
 	border-top: var(--table-border);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Code Blocks & Inline Code */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Code Blocks & Inline Code
+─────────────────────────────────────────────────── */
+
+.markdown-preview-view,
+.cm-s-obsidian div.HyperMD-codeblock-bg {
+	--codeblock-border: var(--muted-border);
+	--codeblock-roundness: calc(var(--roundish) * 1.5);
+}
+
 .cm-s-obsidian .HyperMD-codeblock,
 .markdown-preview-view code,
-.cm-s-obsidian span.cm-inline-code,
-.theme-dark .cm-s-obsidian .HyperMD-codeblock {
+.cm-s-obsidian span.cm-inline-code {
 	color: var(--code-color) !important;
 	font-size: var(--monospace-font-size);
 }
 
-.markdown-preview-view pre code,
+/* Code blocks in Preview Mode */
 .markdown-preview-view code {
+	background-color: var(--bg2) !important;
 	border-radius: var(--roundish);
-
-	/* wrapping, preserving line breaks */
 	white-space: pre-wrap !important;
 }
 
-/* Code blocks Preview Mode */
 .markdown-preview-view pre {
 	background-color: var(--bg2) !important;
 	padding-top: 10px !important;
 	padding-bottom: 12px !important;
-	border-radius: calc(var(--roundish) * 2) !important;
+	border: var(--codeblock-border) !important;
+	border-radius: var(--codeblock-roundness) !important;
 }
 
-/* code blocks Edit Mode */
-body > .app-container .HyperMD-codeblock-begin-bg {
+/* Code blocks in Edit Mode */
+.cm-s-obsidian div.HyperMD-codeblock-begin-bg {
+	background-color: var(--bg3);
+	border: var(--codeblock-border);
+	border-bottom: none;
+	border-top-right-radius: var(--codeblock-roundness);
+	border-top-left-radius: var(--codeblock-roundness);
+}
+
+.cm-s-obsidian div.HyperMD-codeblock-end-bg {
+	border-bottom: var(--codeblock-border);
+	border-bottom-right-radius: var(--codeblock-roundness);
+	border-bottom-left-radius: var(--codeblock-roundness);
+}
+
+.cm-s-obsidian div.HyperMD-codeblock-bg:not(.HyperMD-codeblock-begin-bg) {
 	background-color: var(--bg2);
-	border-top-right-radius: calc(var(--roundish) * 2);
-	border-top-left-radius: calc(var(--roundish) * 2);
+	border-right: var(--codeblock-border);
+	border-left: var(--codeblock-border);
 }
 
-body > .app-container .HyperMD-codeblock-end-bg {
-	border-bottom-right-radius: calc(var(--roundish) * 2);
-	border-bottom-left-radius: calc(var(--roundish) * 2);
+body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-codeblock-bg.CodeMirror-linebackground {
+	border-radius: 0;
+}
+
+body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-codeblock-begin-bg.CodeMirror-linebackground {
+	border-top-right-radius: var(--codeblock-roundness);
+	border-top-left-radius: var(--codeblock-roundness);
+}
+
+body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-codeblock-end-bg.CodeMirror-linebackground {
+	border-bottom-right-radius: var(--codeblock-roundness);
+	border-bottom-left-radius: var(--codeblock-roundness);
 }
 
 /* show language of Code Block in Preview Mode */
@@ -3636,6 +3679,7 @@ pre[class~="language-text"]::AFTER { content: "text"; }
 pre[class~="language-url"]::AFTER { content: "url"; }
 pre[class~="language-uri"]::AFTER { content: "uri"; }
 pre[class~="language-applescript"]::AFTER { content: "AppleScript"; }
+pre[class~="language-as"]::AFTER { content: "AppleScript"; }
 
 /* fix for the buggy selection of inline text
 https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/11552/10 */
@@ -3652,7 +3696,7 @@ https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/1
 button.copy-code-button {
 	z-index: 100;
 	padding-right: 1px !important;
-	padding-bottom: 2px;
+	padding-bottom: 2px !important;
 	padding-left: 8px !important;
 	font-size: 0;
 }
@@ -3668,9 +3712,17 @@ button.copy-code-button::BEFORE {
 	font-size: 0.8rem;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Bullet point relationship lines */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Syntax Highlighting
+─────────────────────────────────────────────────── */
+
+.theme-light .token.operator {
+	background: transparent;
+}
+
+/* ───────────────────────────────────────────────────
+<< Bullet point relationship lines
+─────────────────────────────────────────────────── */
 /* based on css from the outliner plugin */
 /* https://github.com/vslinko/obsidian-outliner/blob/main/styles.css */
 
@@ -3689,6 +3741,7 @@ body:not(.no-ul-relationship-lines) .CodeMirror-line .cm-hmd-list-indent::BEFORE
 	content: "";
 
 	width: 100%;
+	background-position-x: 3px;
 
 	position: absolute;
 	top: -1.6em;
@@ -3699,7 +3752,6 @@ body:not(.no-ul-relationship-lines) .CodeMirror-line .cm-hmd-list-indent::BEFORE
 	padding-bottom: 999em;
 
 	background-size: 1.8em 1px;
-	background-position-x: 3px;
 }
 
 /* Preview Mode */
@@ -3730,9 +3782,9 @@ body:not(.no-ul-relationship-lines) .markdown-preview-view > div > div > ul {
 	padding-left: 27px;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Links */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Links
+─────────────────────────────────────────────────── */
 /* hovered links in alt accent */
 .cm-string.cm-url:hover:not(.cm-formatting),
 .cm-hmd-internal-link:hover,
@@ -3762,9 +3814,9 @@ a.internal-link.is-unresolved:hover {
 	text-decoration: none !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Tags */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Tags
+─────────────────────────────────────────────────── */
 
 .cm-hashtag,
 a.tag {
@@ -3782,9 +3834,9 @@ a.tag:hover {
 	text-decoration: underline !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* <<< Annotation Tags */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<<< Annotation Tags
+─────────────────────────────────────────────────── */
 /* thanks to @atlas for the inspiration
 https://discord.com/channels/686053708261228577/722584061087842365/898113745774084127 */
 
@@ -3977,15 +4029,15 @@ body:not(.annotation-tags-off) .tag[href="#example"]::BEFORE {
 	content: "⚛️ ";
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Comments & HTML Tags */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Comments & HTML Tags
+─────────────────────────────────────────────────── */
 
 .cm-comment {
 	color: var(--text-muted) !important;
 }
 
-/* fix html comments by disabling ligatures in edit mode */
+/* make html comments readable by disabling ligatures in edit mode */
 .CodeMirror.cm-s-obsidian {
 	font-feature-settings: "liga" 0;
 }
@@ -4001,9 +4053,9 @@ body > .app-container span.cm-tag {
 	color: var(--code-color);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Tasks */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Tasks
+─────────────────────────────────────────────────── */
 
 /* finished */
 .cm-s-obsidian span.cm-formatting-task.cm-property {
@@ -4023,11 +4075,12 @@ body > .app-container .contains-task-list li.task-list-item.is-checked {
 /* https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/34 */
 input[type="checkbox"] {
 	filter: unset !important; /* removes hue filter */
+	cursor: pointer;
 
 	padding: 1px;
 	margin-top: 2px;
 
-	border: 2px solid var(--text-muted);
+	border: var(--basic-border);
 	border-radius: var(--round);
 
 	-webkit-appearance: none;
@@ -4037,7 +4090,7 @@ input[type="checkbox"] {
 
 input[type="checkbox"]:checked {
 	background-color: var(--finished-task);
-	background-image: url('data:image/svg+xml; utf8, <svg width="12px" height="10" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-4.000000, -6.000000)" fill="%23ffffff"><path d="M8.1043257,14.0367999 L4.52468714,10.5420499 C4.32525014,10.3497722 4.32525014,10.0368095 4.52468714,9.8424863 L5.24777413,9.1439454 C5.44721114,8.95166768 5.77142411,8.95166768 5.97086112,9.1439454 L8.46638057,11.5903727 L14.0291389,6.1442083 C14.2285759,5.95193057 14.5527889,5.95193057 14.7522259,6.1442083 L15.4753129,6.84377194 C15.6747499,7.03604967 15.6747499,7.35003511 15.4753129,7.54129009 L8.82741268,14.0367999 C8.62797568,14.2290777 8.3037627,14.2290777 8.1043257,14.0367999"></path></g></g></svg>');
+	background-image: url('data:image/svg+xml; utf8, <svg width="12px" height="10px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-4.000000, -6.000000)" fill="%23ffffff"><path d="M8.1043257,14.0367999 L4.52468714,10.5420499 C4.32525014,10.3497722 4.32525014,10.0368095 4.52468714,9.8424863 L5.24777413,9.1439454 C5.44721114,8.95166768 5.77142411,8.95166768 5.97086112,9.1439454 L8.46638057,11.5903727 L14.0291389,6.1442083 C14.2285759,5.95193057 14.5527889,5.95193057 14.7522259,6.1442083 L15.4753129,6.84377194 C15.6747499,7.03604967 15.6747499,7.35003511 15.4753129,7.54129009 L8.82741268,14.0367999 C8.62797568,14.2290777 8.3037627,14.2290777 8.1043257,14.0367999"></path></g></g></svg>');
 
 	border-width: 0;
 
@@ -4051,12 +4104,12 @@ input[type="checkbox"]:hover {
 }
 
 input[type="checkbox"]:checked:hover {
-	background-color: var(--alt-accent-lighter);
+	background-color: var(--alt-accent-lighter) !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Highlights & Selection */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Highlights & Selection
+─────────────────────────────────────────────────── */
 
 /* <<< Active Line Highlight */
 body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-linebackground {
@@ -4081,9 +4134,9 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-lineba
 /* .CodeMirror-focused .CodeMirror-selected {} */
 
 /* stylelint-enable no-duplicate-selectors */
-/* ─────────────────────────────────────────────────── */
-/* << Multi-Color Highlighting */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Multi-Color Highlighting
+─────────────────────────────────────────────────── */
 /* thanks to @Atlas for this snippet */
 /* https://discord.com/channels/686053708261228577/702656734631821413/881443661269827656 */
 
@@ -4102,9 +4155,9 @@ span.cm-strong.cm-highlight,
 	text-rendering: initial;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Pseudo-Spoiler-Tag */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Pseudo-Spoiler-Tag
+─────────────────────────────────────────────────── */
 
 .theme-light { /* stylelint-disable-line no-duplicate-selectors */
 	--spoiler-bg: hsl(0 0% 7%);
@@ -4130,18 +4183,18 @@ em > del:hover,
 	transition: 400ms ease-in-out;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Strikethroughs */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Strikethroughs
+─────────────────────────────────────────────────── */
 
 /* make the "~" readable */
 .cm-formatting-strikethrough {
 	text-decoration: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Pandoc Citations */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Pandoc Citations
+─────────────────────────────────────────────────── */
 
 /* applies to all []-links (barelinks)
 partially also to footnotes */
@@ -4153,9 +4206,9 @@ body:not(.no-pandoc-citation-emphasis) .cm-link.cm-quote.cm-hmd-barelink {
 	color: var(--editor-alt-accent) !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Footnotes */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Footnotes
+─────────────────────────────────────────────────── */
 
 /* set space above and below horizontal line that separates footnotes */
 .markdown-preview-view .footnotes hr {
@@ -4193,9 +4246,9 @@ span.cm-link.cm-hmd-footnote {
 	text-decoration: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Horizontal line (hr) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Horizontal line (hr)
+─────────────────────────────────────────────────── */
 
 /* increased readability in edit mode */
 .cm-s-obsidian span.cm-hr {
@@ -4209,9 +4262,9 @@ body > .app-container .markdown-preview-view div hr {
 	border-bottom: 3px solid var(--hr-line-gray);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Mobile */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Mobile
+─────────────────────────────────────────────────── */
 
 /* slightly thinner on mobile */
 .is-mobile .view-header {
@@ -4238,13 +4291,13 @@ body.is-mobile .markdown-preview-view blockquote {
 	stroke-width: 5px;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Core Plugins */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Core Plugins
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* << File Explorer */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< File Explorer
+─────────────────────────────────────────────────── */
 
 /* hide vault title */
 .nav-folder.mod-root > .nav-folder-title {
@@ -4389,9 +4442,9 @@ body.is-mobile .markdown-preview-view blockquote {
 }
 /* stylelint-enable selector-combinator-space-before, indentation */
 
-/* ─────────────────────────────────────────────────── */
-/* << Folder Icons & Note Icons */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Folder Icons & Note Icons
+─────────────────────────────────────────────────── */
 .nav-folder-title-content::BEFORE,
 .nav-file-title-content::BEFORE {
 	font-family: "Material Icons";
@@ -4515,9 +4568,9 @@ body.is-mobile .markdown-preview-view blockquote {
 	content: "flag ";
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Panes */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Panes
+─────────────────────────────────────────────────── */
 /* <<< Panes in general */
 
 .tree-item-inner-subtext,
@@ -4585,9 +4638,9 @@ body.is-mobile .markdown-preview-view blockquote {
 	display: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* <<< Outline */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<<< Outline
+─────────────────────────────────────────────────── */
 
 .outline .tree-item-self {
 	padding-top: 5px;
@@ -4615,9 +4668,9 @@ body.is-mobile .markdown-preview-view blockquote {
 	display: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* <<< Backlinks & Outgoing */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<<< Backlinks & Outgoing
+─────────────────────────────────────────────────── */
 
 /* Inline Backlink Pane */
 .markdown-source-view .view-content,
@@ -4703,9 +4756,9 @@ body.is-mobile .markdown-preview-view blockquote {
 	background-color: var(--alt-accent);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* <<< Search */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<<< Search
+─────────────────────────────────────────────────── */
 
 .workspace-leaf-content[data-type="search"] .tree-item-self {
 	padding-left: 1.2em;
@@ -4736,9 +4789,9 @@ readability */
 	font-weight: 600;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* <<< Tag Pane */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<<< Tag Pane
+─────────────────────────────────────────────────── */
 
 .tag-container {
 	padding-right: 0;
@@ -4759,9 +4812,9 @@ readability */
 	display: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* <<< Starred */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<<< Starred
+─────────────────────────────────────────────────── */
 
 .workspace-leaf-content[data-type="starred"] .nav-file-title {
 	padding-left: 0;
@@ -4799,9 +4852,9 @@ body:not(.show-starred-nav-buttons) .workspace-leaf-content[data-type="starred"]
 	background: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Popover (Page Preview) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Popover (Page Preview)
+─────────────────────────────────────────────────── */
 body .popover {
 	height: var(--popover-size) !important;
 	max-height: unset !important;
@@ -4834,9 +4887,9 @@ body .popover {
 	color: var(--alt-accent);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << File Recovery */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< File Recovery
+─────────────────────────────────────────────────── */
 /* see also modals in general */
 
 .modal.mod-sync-history .setting-item-control {
@@ -4914,9 +4967,9 @@ body .popover {
 	font-size: 10rem;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Graph View */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Graph View
+─────────────────────────────────────────────────── */
 /* https://help.obsidian.md/Plugins/Graph+view#Custom+CSS */
 
 /* graph controls */
@@ -5006,13 +5059,13 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 	color: var(--extra-contrast);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Community Plugins */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Community Plugins
+─────────────────────────────────────────────────── */
 
-/* ─────────────────────────────────────────────────── */
-/* << Git Plugin */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Git Plugin
+─────────────────────────────────────────────────── */
 
 /* status bar */
 .theme-dark .status-bar-item.plugin-obsidian-git {
@@ -5024,8 +5077,8 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 }
 
 .status-bar-item.plugin-obsidian-git {
-	padding-left: 15px;
 	background-position-y: 1px;
+	padding-left: 15px;
 	background-repeat: no-repeat;
 }
 
@@ -5096,9 +5149,9 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 	background: none !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Calendar */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Calendar
+─────────────────────────────────────────────────── */
 
 .workspace-leaf-content[data-type="calendar"] .view-content {
 	padding: 4px;
@@ -5189,9 +5242,9 @@ body.no-calendar-lines table.calendar th {
 	border-left: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Templater */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Templater
+─────────────────────────────────────────────────── */
 
 .cm-s-obsidian .cm-templater-command {
 	font-size: 1em !important;
@@ -5226,9 +5279,9 @@ https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/1
 	text-decoration: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Kanban */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Kanban
+─────────────────────────────────────────────────── */
 
 /* stylelint-disable no-duplicate-selectors */
 .theme-light {
@@ -5440,9 +5493,9 @@ body.angular-shapes .kanban-plugin__lane {
 	margin-left: 0;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Longform */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Longform
+─────────────────────────────────────────────────── */
 
 /* <<< Longform Sidebar */
 
@@ -5662,7 +5715,7 @@ body:not(.longform-left-aligned) .longform-leaf .cm-s-obsidian {
 }
 
 body:not(.longform-no-text-indent) .longform-leaf .markdown-preview-view p {
-	text-indent: 1em;
+	text-indent: 2em;
 }
 
 /* keep any code smaller though */
@@ -5732,9 +5785,9 @@ body.hide-index-files .nav-file-title[data-path$="Index.md"] {
 	margin-top: 3px;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Ozan's Image in Editor */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Ozan's Image in Editor
+─────────────────────────────────────────────────── */
 /* see also "Max View" */
 
 div.oz-image-widget > embed,
@@ -5758,9 +5811,9 @@ body div.oz-image-widget > img:active {
 	border: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Recent Files */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Recent Files
+─────────────────────────────────────────────────── */
 
 /* Show no icons for recent files plugin */
 .workspace-leaf-content[data-type="recent-files"] .nav-file-title .nav-file-title-content::BEFORE {
@@ -5771,9 +5824,9 @@ body div.oz-image-widget > img:active {
 	padding: 10px 5px 5px 4px;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Quick Explorer */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Quick Explorer
+─────────────────────────────────────────────────── */
 
 /* titlebar, when it is shown */
 .titlebar span.explorable {
@@ -5833,9 +5886,9 @@ body:not(.show-title-bar) > .qe-popup-menu {
 	content: "description";
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << My Snippets */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< My Snippets
+─────────────────────────────────────────────────── */
 
 .status-bar-item.plugin-mysnippets-plugin.cMenu-statusbar-button {
 	height: 1em;
@@ -5878,9 +5931,9 @@ button.MS-OpenSnippet:hover svg.ms-snippet path {
 	fill: var(--interactive-normal);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Map of Content (MoC) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Map of Content (MoC)
+─────────────────────────────────────────────────── */
 /* stylelint-disable selector-max-id */
 
 .workspace-leaf-content[data-type="map-of-content"] div,
@@ -6001,9 +6054,9 @@ button.MS-OpenSnippet:hover svg.ms-snippet path {
 
 /* stylelint-enable selector-max-id */
 
-/* ─────────────────────────────────────────────────── */
-/* << Breadcrumbs */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Breadcrumbs
+─────────────────────────────────────────────────── */
 
 /* bug fix */
 body > .app-container .BC-Matrix-square > ol {
@@ -6152,9 +6205,9 @@ body > .app-container div.BC-trail-grid-item {
 	border-collapse: collapse;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Drag & Drop Blocks */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Drag & Drop Blocks
+─────────────────────────────────────────────────── */
 
 body #search-res-hover.show,
 body #block-ref-hover.show {
@@ -6169,9 +6222,9 @@ body #block-ref-hover.show:hover {
 	border-radius: var(--roundish);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Dangling Links */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Dangling Links
+─────────────────────────────────────────────────── */
 .workspace-leaf-content[data-type="dangling-links"] {
 	line-height: 1.2em;
 }
@@ -6205,9 +6258,9 @@ body #block-ref-hover.show:hover {
 	font-weight: 600;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Advanced Cursor */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Advanced Cursor
+─────────────────────────────────────────────────── */
 .workspace-leaf-content[data-type="Saved Queries View"] .savedQ-view-q {
 	color: var(--extra-contrast);
 	background-color: transparent;
@@ -6220,9 +6273,9 @@ body #block-ref-hover.show:hover {
 	border-radius: var(--roundish);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << CodeMirror Options */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< CodeMirror Options
+─────────────────────────────────────────────────── */
 
 body .cm-s-obsidian .hmd-link-icon::AFTER {
 	height: 1em;
@@ -6273,9 +6326,9 @@ pre button.copy:hover::BEFORE {
 	color: var(--interactive-normal);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Another Quick Switcher */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Another Quick Switcher
+─────────────────────────────────────────────────── */
 
 .another-quick-switcher__item__icon,
 .another-quick-switcher__item__directory svg {
@@ -6338,9 +6391,9 @@ pre button.copy:hover::BEFORE {
 	opacity: 0.6;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Activity History */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Activity History
+─────────────────────────────────────────────────── */
 
 .ObsidianHistoryBlock .HistoryBoard text {
 	fill: var(--extra-contrast);
@@ -6367,9 +6420,9 @@ pre button.copy:hover::BEFORE {
 	cursor: pointer;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Style Settings (Settings Tab) */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Style Settings (Settings Tab)
+─────────────────────────────────────────────────── */
 
 .style-settings-heading {
 	padding-top: 0;
@@ -6444,9 +6497,9 @@ body a.style-settings-export:hover {
 	display: none;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Favicon Plugin */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Favicon Plugin
+─────────────────────────────────────────────────── */
 /* https://github.com/joethei/obsidian-link-favicon#for-designers */
 
 /* no external link icons if there is a favicon */
@@ -6477,9 +6530,9 @@ img.link-favicon {
 	filter: invert(0.85);
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Info Plugin */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Info Plugin
+─────────────────────────────────────────────────── */
 
 /* no top icon */
 .get-info-menu > div > div:first-child > span:first-child {
@@ -6528,9 +6581,9 @@ body div.get-info-menu > div > div {
 	text-transform: lowercase !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Language Tool Integration */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Language Tool Integration
+─────────────────────────────────────────────────── */
 
 .lt-status-bar-check-icon {
 	font-size: 0;
@@ -6543,11 +6596,10 @@ body div.get-info-menu > div > div {
 	font-size: 0.9rem;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* << Other Minor Plugin Customizations */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+<< Hotkey Helper
+─────────────────────────────────────────────────── */
 
-/* <<< Hotkey Helper */
 /* alignment of new buttons in core plugin list */
 body.angular-shapes .plugin-list-plugins .setting-item:not(.mod-toggle):not(:first-child) .setting-item-control {
 	margin-right: 39px;
@@ -6556,6 +6608,10 @@ body.angular-shapes .plugin-list-plugins .setting-item:not(.mod-toggle):not(:fir
 body:not(.angular-shapes) .plugin-list-plugins .setting-item:not(.mod-toggle):not(:first-child) .setting-item-control {
 	margin-right: 42px;
 }
+
+/* ───────────────────────────────────────────────────
+<< Other Minor Plugin Customizations
+─────────────────────────────────────────────────── */
 
 /* <<< Zoom */
 a.zoom-plugin-title:hover {
@@ -6568,9 +6624,9 @@ a.zoom-plugin-title:hover {
 	fill: var(--alt-accent) !important;
 }
 
-/* ─────────────────────────────────────────────────── */
-/* < Compatibility Info for the Obsidian Hub */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Compatibility Info for the Obsidian Hub
+─────────────────────────────────────────────────── */
 
 /* @plugins
 core:
@@ -6611,11 +6667,12 @@ community:
 - obsidian-languagetool-plugin
 - hotkey-helper
 - obsidian-git
+- various-complements
 */
 
-/* ─────────────────────────────────────────────────── */
-/* < Style Setting Options */
-/* ─────────────────────────────────────────────────── */
+/* ───────────────────────────────────────────────────
+< Style Setting Options
+─────────────────────────────────────────────────── */
 
 /* stylelint-disable max-line-length */
 
@@ -6741,7 +6798,7 @@ settings:
 	 description: Enable to use angular shapes (🔲). Disable to use rounded shapes (🔘).
 	 default: false
   -
-	 id: blue-tint
+	 id: dark-sat
 	 title: "🚧 Experimental: Blue Tint in Dark Mode"
 	 description: Amount of faint blue in Dark Mode. (Testing Ground for upcoming color scheme options.)
 	 type: variable-number-slider
@@ -7154,3 +7211,4 @@ settings:
 	 type: class-toggle
 	 default: false
 */
+/* ─────────────────────────────────────────────────── */

@@ -3,10 +3,11 @@ created: 2021-12-12
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-13
+sr-due: 2021-12-15
 sr-interval: 1
-sr-ease: 213
+sr-ease: 193
 ---
+
 #### [[Hard rules create cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Is cognitive dissonance the reason for harmful behaviors]]

@@ -3,8 +3,8 @@ created: 2021-12-02
 aliases:
   - "'Loving the loves of your loves' - John Green"
 tags: node/evergreen
-sr-due: 2021-12-13
-sr-interval: 1
+sr-due: 2021-12-17
+sr-interval: 3
 sr-ease: 167
 ---
 
