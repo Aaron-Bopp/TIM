@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/43 Mental Health.md",
+            "file": "40_Evergreens/41 Inbox.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,20 @@
             {
               "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/43 Mental Health.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.465817884655834}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/43 Mental Health.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":13.794117428439717}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/43 Mental Health.md",
+                "file": "40_Evergreens/41 Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/43 Mental Health.md",
+                "file": "40_Evergreens/41 Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/43 Mental Health.md"
+                "file": "40_Evergreens/41 Inbox.md"
               }
             },
             "pane-relief:history-v1": {
@@ -343,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/43 Mental Health.md",
+                "file": "40_Evergreens/41 Inbox.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -454,6 +466,8 @@
   },
   "active": "779735696eadbc73",
   "lastOpenFiles": [
+    "40_Evergreens/41 Inbox.md",
+    "10_Sources/notes_The Dawn of Everything.md",
     "40_Evergreens/43 Mental Health.md",
     "40_Evergreens/42 Knowledge Management.md",
     "40_Evergreens/Only use organization systems as far as they are useful.md",
@@ -461,8 +475,6 @@
     "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md",
     "40_Evergreens/Humans are a product of evolution.md",
     "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-    "50_Projects/Using spaced repetition for your conceptual notes.md",
-    "10_Sources/notes_The Dawn of Everything.md",
-    "50_Projects/Am I surprised by the note title.md"
+    "50_Projects/Using spaced repetition for your conceptual notes.md"
   ]
 }

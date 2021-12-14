@@ -400,7 +400,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Evergreens/43 Mental Health.md",
+                "file": "40_Evergreens/41 Inbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -408,6 +408,18 @@
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.465817884655834}"
+                },
                 {
                   "leaf": "779735696eadbc73",
                   "group": null,
@@ -555,7 +567,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "40_Evergreens/43 Mental Health.md",
+                    "file": "40_Evergreens/41 Inbox.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -588,7 +600,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "40_Evergreens/43 Mental Health.md",
+                    "file": "40_Evergreens/41 Inbox.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -633,7 +645,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "40_Evergreens/43 Mental Health.md"
+                    "file": "40_Evergreens/41 Inbox.md"
                   }
                 },
                 "pane-relief:history-v1": {
@@ -734,7 +746,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "40_Evergreens/43 Mental Health.md",
+                    "file": "40_Evergreens/41 Inbox.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node",
