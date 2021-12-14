@@ -8,13 +8,17 @@ sr-ease: 224
 
 #### [[Use Obsidian tags as temporal classifiers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/GRAFT should these headers be evergreens
+%%
+#TO/TEND/GRAFT should these headers be evergreens%%
 
-In [[Obsidian (software)|Obsidian]] tags are a piece of metadata that you can add to a note, [^1] and functionally do little more than open a search box with the appropriate search query. You cannot add any markdown or metadata to them, which makes them much less powerful than links and notes, but they can still be very valuable in your [[knowledge management|knowledge management system]].  You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category: [[Prioritize organization over categorization to avoid cognitive bias]]. 
+In [[Obsidian (software)|Obsidian]] tags are a piece of metadata that you can add to a note, [^1] and when clicked open a search box with the appropriate search query. You cannot add any markdown or metadata to them, which makes them much less powerful than notes, but they can still be very valuable in your [[knowledge management|knowledge management system]]. You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category.
+^[[[Prioritize organization over categorization to avoid cognitive bias]]]
 
 [^1]: [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
-While the nesting of tags can help to provide structure to what notes are, I don't like them to describe what the idea of a note is. [[Evergreen notes organize knowledge so that it can grow]], and applying a hierarchical tag structure to them would inhibit this. This is why I use tags as **temporal classifiers,** meaning that they apply a temporary classification to a note. This is the idea behind my [[my TO(DO) and EVER(GREEN) structure]].
+While the nesting of tags can help to provide structure to what notes are, I don't like them to describe what the idea of a note is. [[Evergreen notes organize knowledge so that it can grow]], and applying a hierarchical tag structure to them would inhibit this.
+^[[[Webs of thought provide heterarchical structure]]]
+This is why I use tags as **temporal classifiers,** meaning that they apply a temporary classification to a note. This is the idea behind my [[my TO(DO) and EVER(GREEN) structure]].
 
 ##### Temporary metadata is an entry point to your second brain
 
@@ -22,23 +26,25 @@ Temporal tags mean that they can be used in combination with other metadata, suc
 
 ##### Classifications group notes with similar metadata
 
-Every piece of thought in my [[second brain]] is tagged with #node. This includes my [[source notes]], [[topic note|topic notes]], and of course [[evergreen notes]], but it does not include anything in my 00_Meta and 20_Entry folders. This is because those folders are purely to help [[My TIM]] function, and to help other people access it.  I exclude these notes from this tag, because they are artificial connections that do not help me create thought. 
+Every piece of thought in my [[second brain]] is tagged with #node. This includes my [[source notes]], [[topic note|topic notes]], and of course [[evergreen notes]], but it does not include anything in my 00_Meta and 20_Entry folders. This is because those folders are purely to help [[My TIM]] function, and to help other people access it. I exclude these notes from this tag, because they are artificial connections that do not help me create thought. 
 ^[[[Your second brain should be an inspirational hub of creativity]]]
-Having this tag means that I can access every piece of thought that is helpful to me learning easily and quickly, and will not have to deal with any other things clogging up my searches, backlinks, or [[Dataview]] queries.
+Having this tag means that I can access every piece of thought that is helpful to my learning easily and quickly, and will not have to deal with any other things clogging up my searches, backlinks, or [[Dataview]] queries.
 
-I can use the sublevels of this tag to classify what kind of note something is as it is useful to me, and these become very powerful through the use of various plugins. Tags can be used as the parameter for a [[Dataview]] search, which means that you don't need to store all notes of a certain in a folder. They can also be used with plugins like [[Spaced Repetition (plugin)]] to allow you to review all or your \#evergreen notes. This is why I usually include tags in all of my major note templates. These classifications do not have to be related to what the note is about, but rather describe some other tangible aspect of the note: [[The fragility of nodes in a second brain#Node classifcation]]
+I can use the sublevels of this tag to classify how a note is useful to me, and these become very powerful through the use of various plugins. Tags can be used as the parameter for a [[Dataview]] search, which means that you don't need to store all notes of a certain in a folder. They can also be used with plugins like [[Spaced Repetition (plugin)]] to allow you to review all or your \#evergreen notes. This is why I include tags in all of my major note templates. These classifications do not have to be related to what the note is about, but rather describe the metadata of the note: [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
-##### Counter:: Tags provide organization of ideas 
+##### Counter:: Tags can provide organization of ideas 
 
-If tags can be classifiers of types of notes, why can't they be classifiers of the ideas of notes? Information can certainly be classified, and because multiple tags can be added, if an idea spans multiple classifications you can just add more tags. There's excellent discussion of this here: [A Guide On Links vs. Tabs In Obsidian - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/a-guide-on-links-vs-tabs-in-obsidian/28231)
+If tags can be classifiers of types of notes, why can't they be classifiers of the ideas of notes? Information can certainly be classified, and because multiple tags can be added, if an idea spans multiple content areas you can just add more tags. There's excellent discussion of this here: [A Guide On Links vs. Tabs In Obsidian - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/a-guide-on-links-vs-tabs-in-obsidian/28231)
 
 While I think there is benefit to organization, I think that notes accomplish this better than tags in [[Obsidian (software)|Obsidian]]:
 - [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Stub notes are data structures for implicit knowledge gathering]]
+- [[Organization systems are not mutually exclusive]]
+- [[Only use organization systems as far as they are useful]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE  
+**Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My TIM]], [[Obsidian (software)]]

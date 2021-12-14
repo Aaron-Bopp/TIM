@@ -4,5 +4,5 @@ tags: node/topic/stub
 ---
 
 
-**See**:: [[second brain]], [[Zettlekassen]], [[evergreen notes]], [[digital garden]]
+**See**:: [[second brain]], [[Zettelkasten]], [[evergreen notes]], [[digital garden]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

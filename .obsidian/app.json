@@ -59,5 +59,6 @@
   "showFrontmatter": true,
   "livePreview": true,
   "smartIndentList": true,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "legacyEditor": false
 }

@@ -24,5 +24,5 @@ but you can help allieviate this [[friction]] by
 **Status**:: #EVER/SPROUT/CULTIVATE 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Zettlekassen]], [[knowledge management]], [[second brain]] 
+**Topics**:: [[Zettelkasten]], [[knowledge management]], [[second brain]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -6,404 +6,97 @@
         "type": "split",
         "children": [
           {
-            "id": "cd6703b2ba602a79",
+            "id": "779735696eadbc73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Topics/31_Stubs/language.md",
-                "mode": "source",
+                "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
+                "mode": "preview",
                 "source": false
               }
             },
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "leaf": "cd6703b2ba602a79",
+                  "leaf": "779735696eadbc73",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":4.0881057268722465}"
                 },
                 {
-                  "leaf": "cd6703b2ba602a79",
+                  "leaf": "779735696eadbc73",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/language.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":42},\"to\":{\"line\":10,\"ch\":42}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":12.21428581159942}"
                 },
                 {
-                  "leaf": "cd6703b2ba602a79",
+                  "leaf": "779735696eadbc73",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":38},\"to\":{\"line\":11,\"ch\":38}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":2.1428571793497833}"
                 },
                 {
-                  "leaf": "cd6703b2ba602a79",
+                  "leaf": "779735696eadbc73",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":15},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":61},\"to\":{\"line\":42,\"ch\":61}},\"scroll\":32.14795941677951}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "cd6703b2ba602a79",
+                  "leaf": "779735696eadbc73",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":14.576732673267326}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0.07142857370936144}"
                 },
                 {
-                  "leaf": "cd6703b2ba602a79",
+                  "leaf": "779735696eadbc73",
                   "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communites.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":12.25340647853417}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":6.112359436263753}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/Neuroscience.md\",\"mode\":\"preview\"}}",
                   "eState": "{}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "e6fd778783afca8a",
-        "type": "split",
-        "children": [
-          {
-            "id": "585cafeabcc86a62",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "208d80cb45f52f85",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {}
                 },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "7f4634a1f9c650de",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "tag:#node/source/qoute",
-                    "matchingCase": true,
-                    "explainSearch": true,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "byCreatedTime"
-                  }
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/asdfasdf.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
                 },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "945ffe61918129cd",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "30_Topics/31_Stubs/language.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "byModifiedTime",
-                    "showSearch": true,
-                    "searchQuery": "tag:#node",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zettelkasten.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
                 },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "0c769aef4d9945f1",
-                "type": "leaf",
-                "state": {
-                  "type": "dictionary-view",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "fda1645ab822e2df",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "30_Topics/31_Stubs/language.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "e5b4565528193b1b",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "horizontal",
-        "width": 339
-      },
-      "right": {
-        "id": "ca88ebed3efba281",
-        "type": "split",
-        "children": [
-          {
-            "id": "b7b3aaa71b0c0df5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "afac3dc49b00c8ca",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "30_Topics/31_Stubs/language.md"
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "840e0a70de3f588e",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "fb763e172d1bcd92",
-                "type": "leaf",
-                "state": {
-                  "type": "graph-analysis",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "d0fba7db97954050",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "47b3518370342bad",
-                "type": "leaf",
-                "state": {
-                  "type": "BC-matrix",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "4d97869f5922bb12",
-                "type": "leaf",
-                "state": {
-                  "type": "BC-stats",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "b805a72d0cc1ce7c",
-                "type": "leaf",
-                "state": {
-                  "type": "BC-down",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "84f4f33f118f4527",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "031fe1b37666a6d6",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "30_Topics/31_Stubs/language.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "tag:#node/evergreen",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": true,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:#topic/outline",
-                          "color": {
-                            "a": 1,
-                            "rgb": 9785102
-                          }
-                        },
-                        {
-                          "query": "tag:#topic/term",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16162052
-                          }
-                        },
-                        {
-                          "query": "tag:#topic/stub",
-                          "color": {
-                            "a": 1,
-                            "rgb": 13413478
-                          }
-                        },
-                        {
-                          "query": "tag:#topic/technique",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16056320
-                          }
-                        },
-                        {
-                          "query": "tag:#EVER/GREEN",
-                          "color": {
-                            "a": 1,
-                            "rgb": 356867
-                          }
-                        },
-                        {
-                          "query": "tag:#EVER/SEED",
-                          "color": {
-                            "a": 1,
-                            "rgb": 3251005
-                          }
-                        },
-                        {
-                          "query": "tag:#EVER/SPROUT",
-                          "color": {
-                            "a": 1,
-                            "rgb": 10610705
-                          }
-                        },
-                        {
-                          "query": "tag:#content",
-                          "color": {
-                            "a": 1,
-                            "rgb": 1594594
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": -1.3,
-                      "nodeSizeMultiplier": 1.30456647398844,
-                      "lineSizeMultiplier": 1.55378676470588,
-                      "collapse-forces": false,
-                      "centerStrength": 0.538823529411765,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 199,
-                      "scale": 0.19819725190569068,
-                      "close": true
-                    }
-                  }
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "09673ad2328b85b1",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 462
-      },
-      "active": "cd6703b2ba602a79"
-    },
-    "21:9 Start": {
-      "main": {
-        "id": "c27936291f29f65f",
-        "type": "split",
-        "children": [
-          {
-            "id": "779735696eadbc73",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
                 {
                   "leaf": "779735696eadbc73",
                   "group": null,
@@ -445,84 +138,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evangelicalism has commodified faith for profit.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":31},\"to\":{\"line\":17,\"ch\":31}},\"scroll\":1.1428571793497833}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":49},\"to\":{\"line\":14,\"ch\":49}},\"scroll\":0.6428571367750362}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.21428581159942}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}}}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":6.819188304492908}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to read to understand.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The moral majority movement was the original 'making things political'.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":3.7500000638621205}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}}}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":26},\"to\":{\"line\":18,\"ch\":26}}}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":308},\"to\":{\"line\":12,\"ch\":308}},\"scroll\":1.2500000212873734}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1}"
                 }
               ]
             }
@@ -575,6 +190,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -607,6 +223,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -631,8 +248,7 @@
                   "stack": []
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "horizontal",
@@ -652,7 +268,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md"
+                  }
                 },
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -737,6 +355,10 @@
                 "state": {
                   "type": "git-view",
                   "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
                 }
               }
             ],
@@ -752,6 +374,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "tag:#node",
@@ -858,11 +481,494 @@
           }
         ],
         "direction": "horizontal",
-        "width": 495,
+        "width": 706
+      },
+      "active": "779735696eadbc73"
+    },
+    "21:9 Start": {
+      "main": {
+        "id": "c27936291f29f65f",
+        "type": "split",
+        "children": [
+          {
+            "id": "779735696eadbc73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/Neuroscience.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/asdfasdf.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zettelkasten.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition to weed your digital garden.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":388},\"to\":{\"line\":18,\"ch\":388}},\"scroll\":0.42857145289985543}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard rules create cognitive bias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evangelicalism has commodified faith for profit.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":31},\"to\":{\"line\":17,\"ch\":31}},\"scroll\":1.1428571793497833}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":49},\"to\":{\"line\":14,\"ch\":49}},\"scroll\":0.6428571367750362}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.21428581159942}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}}}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":6.819188304492908}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to read to understand.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The moral majority movement was the original 'making things political'.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":3.7500000638621205}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}}}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e6fd778783afca8a",
+        "type": "split",
+        "children": [
+          {
+            "id": "585cafeabcc86a62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "208d80cb45f52f85",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "7f4634a1f9c650de",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#TO/TEND/DEOBFUSCATE",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "945ffe61918129cd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0c769aef4d9945f1",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "fda1645ab822e2df",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "e5b4565528193b1b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 305,
         "collapsed": true
+      },
+      "right": {
+        "id": "ca88ebed3efba281",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7b3aaa71b0c0df5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afac3dc49b00c8ca",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "840e0a70de3f588e",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "fb763e172d1bcd92",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d0fba7db97954050",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "47b3518370342bad",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-matrix",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "4d97869f5922bb12",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-stats",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "b805a72d0cc1ce7c",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-down",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "7572170b53174850",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "84f4f33f118f4527",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "031fe1b37666a6d6",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "tag:#node",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#topic/outline",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9785102
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/term",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16162052
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/stub",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13413478
+                          }
+                        },
+                        {
+                          "query": "tag:#topic/technique",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16056320
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/GREEN",
+                          "color": {
+                            "a": 1,
+                            "rgb": 356867
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SEED",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3251005
+                          }
+                        },
+                        {
+                          "query": "tag:#EVER/SPROUT",
+                          "color": {
+                            "a": 1,
+                            "rgb": 10610705
+                          }
+                        },
+                        {
+                          "query": "tag:#content",
+                          "color": {
+                            "a": 1,
+                            "rgb": 1594594
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.3,
+                      "nodeSizeMultiplier": 1.30456647398844,
+                      "lineSizeMultiplier": 1.55378676470588,
+                      "collapse-forces": false,
+                      "centerStrength": 0.538823529411765,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 199,
+                      "scale": 0.3101213937008831,
+                      "close": true
+                    }
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "09673ad2328b85b1",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 495
       },
       "active": "779735696eadbc73"
     }
   },
-  "active": "21:9 Start"
+  "active": "Single note"
 }

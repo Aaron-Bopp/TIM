@@ -21,7 +21,7 @@ Possible tools:
 - [[Roam Research (software)]]
 - [[Mem (software)]]
 - [[twitter.com]] [^2]
-- Paper notes (or slip notes ala [[Zettlekassen]])
+- Paper notes (or slip notes ala [[Zettelkasten]])
 
 If you would like to easily access your notes anywhere without hassle and have lots of easy interfaces to work with, [[Evernote]] or [[Roam Research (software)]] would be very good options, but if you would like to be able to use tools like [[Git]], scripting, or be able to access your notes from multiple different systems plaintext files are the best choice, and the best choice for plaintext files is [[Obsidian (software)]].
 

@@ -10,7 +10,7 @@ tags: node/topic/tool
 
 Obsidian is a markdown editor that includes many features that are valuable to [[knowledge management]] systems.
 
-**See**:: [[Zettlekassen]], [[second brain]], [[knowledge management]] 
+**See**:: [[Zettelkasten]], [[second brain]], [[knowledge management]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

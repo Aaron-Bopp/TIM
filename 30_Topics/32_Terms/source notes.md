@@ -14,7 +14,7 @@ A source note should also contain important information that is relevant to citi
 
 Template: [[source]]
 
-- Very similar to literature notes in a [[Zettlekassen]]
+- Very similar to literature notes in a [[Zettelkasten]]
 - This is note a [[evergreen notes]]
 - this is how I [[Your second brain should be frictionless access to a curated base of knowledge | collect thought]] in [[My TIM]]
 

@@ -139,13 +139,13 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
   }
   expandAndWrap(frontMarkup, endMarkup, editor) {
     return __async(this, null, function* () {
+      const debug = true;
       const markupOutsideSel = () => {
         const so = startOffset();
         const eo = endOffset();
-        const noteLength = editor.getValue().length;
-        if (offToPos(so - blen) < 0)
+        if (so - blen < 0)
           return false;
-        if (offToPos(eo - alen) > noteLength)
+        if (eo - alen > noteLength())
           return false;
         const charsBefore = editor.getRange(offToPos(so - blen), offToPos(so));
         const charsAfter = editor.getRange(offToPos(eo), offToPos(eo + alen));
@@ -153,14 +153,14 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
       };
       const noSel = () => !editor.somethingSelected();
       const multiLineSel = () => editor.getSelection().includes("\n");
+      const noteLength = () => editor.getValue().length;
       const startOffset = () => editor.posToOffset(editor.getCursor("from"));
       const endOffset = () => editor.posToOffset(editor.getCursor("to"));
       const offToPos = (offset) => {
         if (offset < 0)
           offset = 0;
-        const noteLength = editor.getValue().length;
-        if (offset > noteLength)
-          offset = noteLength;
+        if (offset > noteLength())
+          offset = noteLength();
         return editor.offsetToPos(offset);
       };
       function log(msg, appendSelection) {
@@ -168,7 +168,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           return;
         let appended = "";
         if (appendSelection)
-          appended = ": " + editor.getSelection();
+          appended = ': "' + editor.getSelection() + '"';
         console.log("- " + msg + appended);
       }
       function textUnderCursor(ep) {
@@ -189,7 +189,6 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           const so = editor.posToOffset(ep);
           let charAfter, charBefore;
           let [i, j, endReached, startReached] = [0, 0, false, false];
-          const noteLength = editor.getValue().length;
           while (!/\s/.test(charBefore) && !startReached) {
             charBefore = editor.getRange(offToPos(so - (i + 1)), offToPos(so - i));
             i++;
@@ -199,7 +198,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           while (!/\s/.test(charAfter) && !endReached) {
             charAfter = editor.getRange(offToPos(so + j), offToPos(so + j + 1));
             j++;
-            if (so + (j - 1) === noteLength)
+            if (so + (j - 1) === noteLength())
               endReached = true;
           }
           startPos = offToPos(so - (i - 1));
@@ -208,7 +207,21 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         return { anchor: startPos, head: endPos };
       }
       function trimSelection() {
-        const trimBefore = ["- [ ] ", "- [x] ", "- ", " ", "\n", "	", frontMarkup];
+        const trimBefore = [
+          "###### ",
+          "##### ",
+          "#### ",
+          "### ",
+          "## ",
+          "# ",
+          "- [ ] ",
+          "- [x] ",
+          "- ",
+          " ",
+          "\n",
+          "	",
+          frontMarkup
+        ];
         const trimAfter = [" ", "\n", "	", endMarkup];
         let selection = editor.getSelection();
         let so = startOffset();
@@ -302,14 +315,13 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
       if (endMarkup === "]()")
         [frontMarkup, endMarkup] = yield insertURLtoMDLink();
       const [blen, alen] = [frontMarkup.length, endMarkup.length];
-      const debug = true;
-      if (debug)
-        console.log("\nSmarterMD Hotkeys triggered\n---");
+      log("\nSmarterMD Hotkeys triggered\n---------------------------");
       trimSelection();
       if (!multiLineSel()) {
         log("single line");
         const { anchor: preSelExpAnchor, head: preSelExpHead } = expandToWordBoundary();
         applyMarkup(preSelExpAnchor, preSelExpHead, "single");
+        return;
       }
       if (multiLineSel()) {
         let pointerOff = startOffset();
@@ -325,7 +337,6 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           else
             pointerOff += blen + alen;
           applyMarkup(preSelExpAnchor, preSelExpHead, "multi");
-          return;
         });
       }
     });

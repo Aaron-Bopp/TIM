@@ -31,7 +31,7 @@ If you have twenty minutes, this video is a great introduction to [[conceptual n
 If you're scared don't worry, you will be learning faster than you thought you could, because [[Communities are knowledge graphs]]. 
 
 ## What is this vault?
-This is my personal attempt at creating a [[second brain]], [[digital garden]], [[Zettlekassen|virtual slip box]], or whatever new analogies come along. This started as a quest to map my brain and discover myself, and has transformed into me becoming nerdier than I ever thought I could be. Seriously, this stuff is so addicting you stop playing video games.
+This is my personal attempt at creating a [[second brain]], [[digital garden]], [[Zettelkasten|virtual slip box]], or whatever new analogies come along. This started as a quest to map my brain and discover myself, and has transformed into me becoming nerdier than I ever thought I could be. Seriously, this stuff is so addicting you stop playing video games.
 ^[[How Obsidian.md Replaced Video Games & Helped Me Publish](https://eleanorkonik.com/obsidian-replaced-games-now-prolific/)]
 While this vault is an amalgamation of so many other's, it is also unique to me. I hope that you find something of value and steal from it for your own vault.
 

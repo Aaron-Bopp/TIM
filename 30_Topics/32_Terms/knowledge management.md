@@ -11,5 +11,5 @@ tags: node/topic/term
 
 
 
-**See**:: [[My TIM]], [[second brain]], [[Zettlekassen]]
+**See**:: [[My TIM]], [[second brain]], [[Zettelkasten]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
