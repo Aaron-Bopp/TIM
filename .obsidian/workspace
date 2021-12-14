@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/41 Inbox.md",
+            "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,26 @@
             {
               "leaf": "779735696eadbc73",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Using spaced repetition for your conceptual notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":55},\"to\":{\"line\":15,\"ch\":55}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Using github with Unity projects.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -118,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":61},\"to\":{\"line\":2,\"ch\":61}}}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -176,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/41 Inbox.md",
+                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/41 Inbox.md",
+                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -254,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/41 Inbox.md"
+                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md"
               }
             },
             "pane-relief:history-v1": {
@@ -355,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/41 Inbox.md",
+                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -466,15 +479,15 @@
   },
   "active": "779735696eadbc73",
   "lastOpenFiles": [
+    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+    "50_Projects/Using spaced repetition for your conceptual notes.md",
+    "40_Evergreens/Using github with Unity projects.md",
     "40_Evergreens/41 Inbox.md",
     "10_Sources/notes_The Dawn of Everything.md",
     "40_Evergreens/43 Mental Health.md",
     "40_Evergreens/42 Knowledge Management.md",
     "40_Evergreens/Only use organization systems as far as they are useful.md",
     "40_Evergreens/Humans have decided to reject an unjust world.md",
-    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md",
-    "40_Evergreens/Humans are a product of evolution.md",
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-    "50_Projects/Using spaced repetition for your conceptual notes.md"
+    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md"
   ]
 }

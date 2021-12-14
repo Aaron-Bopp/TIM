@@ -11,7 +11,7 @@ Over the last month I have worked through ~200 [[evergreen notes]] using [[space
 
 I decided early on that I would use spaced repetition as a memory tool for my [[second brain]] and not an [[incremental writing]] tool, although I may explore that more in the future. This doesn't mean I stopped myself from writing while reviewing my notes, but unless I have inspiration on the spot, I am not pushing myself to write. The point is to stengthen the connections between the nodes in my [[second brain]] and grow my knowledge. This means I take the time to add links and tags, and I will also will take time to clean up syntax and paragraph structure. This leads to two ways I have found [[spaced repetition]] to be useful so far.
 1. [[Use spaced repetition as a memory tool for your second brain]]
-2. [[Use spaced repetition to weed your digital garden|test]]
+2. [[Use spaced repetition to weed your digital garden]]
  
 This process heavily leverages [[my TO(DO) and EVER(GREEN) structure]], and the interlinked nature of [[evergreen notes]]
 ^[[Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)]
