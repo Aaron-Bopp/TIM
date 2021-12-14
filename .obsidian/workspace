@@ -15,13 +15,19 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "779735696eadbc73",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":0},\"to\":{\"line\":58,\"ch\":0}},\"scroll\":7.896103896103896}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":65.50877192982456}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":61},\"to\":{\"line\":2,\"ch\":61}}}"
             }
           ]
         }
@@ -246,7 +246,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -480,14 +481,14 @@
   "active": "779735696eadbc73",
   "lastOpenFiles": [
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+    "40_Evergreens/Use Obsidian tags as temporal classifiers.md",
+    "40_Evergreens/What makes a note evergreen.md",
     "50_Projects/Using spaced repetition for your conceptual notes.md",
     "40_Evergreens/Using github with Unity projects.md",
     "40_Evergreens/41 Inbox.md",
     "10_Sources/notes_The Dawn of Everything.md",
     "40_Evergreens/43 Mental Health.md",
     "40_Evergreens/42 Knowledge Management.md",
-    "40_Evergreens/Only use organization systems as far as they are useful.md",
-    "40_Evergreens/Humans have decided to reject an unjust world.md",
-    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md"
+    "40_Evergreens/Only use organization systems as far as they are useful.md"
   ]
 }

@@ -406,13 +406,19 @@
               }
             },
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
                   "leaf": "779735696eadbc73",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
+                },
+                {
+                  "leaf": "779735696eadbc73",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":0},\"to\":{\"line\":58,\"ch\":0}},\"scroll\":7.896103896103896}"
                 },
                 {
                   "leaf": "779735696eadbc73",
@@ -521,12 +527,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_My moral code - Inverted Passion.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"scroll\":65.50877192982456}"
-                },
-                {
-                  "leaf": "779735696eadbc73",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":61},\"to\":{\"line\":2,\"ch\":61}}}"
                 }
               ]
             }
@@ -637,7 +637,8 @@
                   "stack": []
                 }
               }
-            ]
+            ],
+            "currentTab": 5
           }
         ],
         "direction": "horizontal",
