@@ -23,7 +23,7 @@ With long form media you can take people on journeys to your conclusion, but wit
 **Status**:: #EVER/SPROUT/WATER  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[note writing]], [[socialization|inter-personal communication]], [[influence]]
+**Topics**:: [[note writing]], [[inter-personal communication]], [[influence]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: ![[tweets_&Gt; Most People Suck At...#Highlights]]

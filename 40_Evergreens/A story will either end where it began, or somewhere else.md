@@ -24,5 +24,5 @@ this is about change and journey in our lives
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[socialization|inter-personal communication]], [[storytelling]], [[TTRPG]]
+**Topics**:: [[inter-personal communication]], [[storytelling]], [[TTRPG]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

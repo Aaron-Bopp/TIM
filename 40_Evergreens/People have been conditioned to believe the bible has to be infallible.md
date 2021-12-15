@@ -8,9 +8,7 @@ sr-ease: 172
 
 #### [[People have been conditioned to believe the bible has to be infallible]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/BRIDGE ![[Fear cannot be a deterant for deconstructing your faith#^5dc5d8]], [[The bible is god breathed]]
-
-#TO/TEND/CONNECT [[Humans are primarily irrational, illogical, emotional beings]], [[Humans have decided to reject an unjust world]], [[Faith is an abstraction of cognitive dissonance]]
+[[The Christian worldview is incompatible with most other worldviews]]
 
 This has been built up as major part in [[Christianity|Christians]] psyches and affects a lot of their [[subconscious]] decision-making.
 

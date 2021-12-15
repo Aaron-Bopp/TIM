@@ -10,7 +10,7 @@ sr-ease: 250
 
 #### [[Look for understanding before you look for solutions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 %%
-This note is more about [[socialization|inter-personal communication]] and [[Searching for THE answer is dangerous]] is more about [[self-actualization]]
+This note is more about [[inter-personal communication]] and [[Searching for THE answer is dangerous]] is more about [[self-actualization]]
 #TO/TEND/DEOBFUSCATE title and body
 %%
 
@@ -36,5 +36,5 @@ This is ironic because [[The materialistic view of religions examines why humans
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[socialization|inter-personal communication]]
+**Topics**:: [[inter-personal communication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

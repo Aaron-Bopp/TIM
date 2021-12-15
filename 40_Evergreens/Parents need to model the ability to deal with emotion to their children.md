@@ -28,7 +28,7 @@ Coming from an unloving home makes it hard to take in kindness or understand tha
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human advancement]], [[Neuroscience]], [[socialization|social fitness]], [[self care]], [[self soothing]], [[self-validation]] 
+**Topics**:: [[human advancement]], [[Neuroscience]], [[social fitness]], [[self care]], [[self soothing]], [[self-validation]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: ![[videoExistential Dread#Competence comes from empathic mirroring]]

@@ -18,8 +18,6 @@ Some believe ![[articles_My moral code - Inverted Passion#^0160c9]] but I think 
 
 #TO/EXPLORE/READ ood gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ) [[Machine Learning]]
 
-- [[7 types of toxic family systems.md]]: #TO/TEND/CONCEPTUALIZE 
-
 [[Your anxiety knows your insecurities better than you do]]: #TO/EXPLORE/RESEARCH
 - [[Hierarchy of needs]] 
 	- If you are in a bad situation you can't advance past that state but you don't lose those higher needs 

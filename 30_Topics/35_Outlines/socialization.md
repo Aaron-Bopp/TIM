@@ -2,14 +2,8 @@
 created: 2021-07-21
 tags: node/topic/outline
 aliases:
-- social fitness
-- social interaction
-- inter-personal relationships
-- personality
 - socialize
-- inter-personal communication
 - social
-date modified: Sunday, October 3rd 2021, 11:32:52 pm
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

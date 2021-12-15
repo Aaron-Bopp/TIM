@@ -10,6 +10,7 @@ sr-ease: 206
 
 #### [[How can parent's best help their children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/DO/FIND 7 types of toxic family systems videos
 - [[Parents need to model the ability to deal with emotion to their children]]
 - [[Children in traumatic households expect more love than their parents can give|Parents will not be able to protect their children from every source of trauma]]
 - [[Children will imitate whatever is modeled for them]]

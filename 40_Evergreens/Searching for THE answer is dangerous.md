@@ -31,5 +31,5 @@ This is why [[Stereotype|stereotypes]] are so dangerous: [[Stereotyping has the 
 **Status**:: #EVER/SPROUT/CULTIVATE 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[socialization|inter-personal communication]], [[self-actualization]], [[self-enhancement]]
+**Topics**:: [[inter-personal communication]], [[self-actualization]], [[self-enhancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

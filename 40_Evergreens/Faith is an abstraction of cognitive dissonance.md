@@ -24,7 +24,7 @@ You cannot fully [[blame]] them for this, as our brains are not really built to 
 	- [[Q justifies conservatives discontent]] new form of this
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
-#TO/TEND/CONNECT ![[Fear cannot be a deterant for deconstructing your faith#^5dc5d8]]
+- [[The Christian worldview is incompatible with most other worldviews]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

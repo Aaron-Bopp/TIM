@@ -1,7 +1,7 @@
 ---
 created: 2021-12-04 
 aliases:
-  - null
+  - rationalization
 tags: node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

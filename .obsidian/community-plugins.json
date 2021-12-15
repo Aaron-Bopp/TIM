@@ -38,7 +38,6 @@
   "improved-vimcursor",
   "obsidian-vimrc-support",
   "obsidian42-brat",
-  "preview-mode-keybinds",
   "graph-analysis",
   "better-word-count",
   "mysnippets-plugin",
@@ -55,5 +54,6 @@
   "obsidian-frontmatter-tag-suggest",
   "hotkeysplus-obsidian",
   "obsidian-codemirror-options",
-  "obsidian-html-tags-autocomplete"
+  "obsidian-html-tags-autocomplete",
+  "block-reference-count"
 ]

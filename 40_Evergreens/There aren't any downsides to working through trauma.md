@@ -23,5 +23,5 @@ Additionally, this does not mean that working through trauma is all about you or
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[depression]], [[trauma]], [[mental health]], [[mental illness]], [[socialization|inter-personal relationships]], [[self]]
+**Topics**:: [[depression]], [[trauma]], [[mental health]], [[mental illness]], [[inter-personal relationships]], [[self]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
