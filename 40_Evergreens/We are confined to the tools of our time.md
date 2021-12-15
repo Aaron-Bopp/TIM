@@ -30,5 +30,5 @@ sr-ease: 210
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[cognitive dissonance]], [[human experience]], [[human advancement]], [[self-improvement]], [[social justice]], [[socialization|inter-personal communication]], [[transhumanism]]
+**Topics**:: [[cognitive dissonance]], [[human experience]], [[human advancement]], [[self-improvement]], [[social justice]], [[inter-personal communication]], [[transhumanism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

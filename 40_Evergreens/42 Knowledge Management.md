@@ -6,7 +6,6 @@
 		- [[Choosing a note writing system is choosing a system for thought]]
 		- [[Note storage is important because it defines how you access and retain knowledge]]
 		- [[Note structures should help curate knowledge]]
-		- [[Topics are terms that are too broadly defined]]
 		- [[evergreen notes]] 
 			- [[Evergreen notes organize knowledge so that it can grow]]
 			- [[Conceptual notes are lexically superior to atomic notes]]

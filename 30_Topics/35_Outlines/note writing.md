@@ -16,7 +16,6 @@ aliases:
 
 ##### [[note writing]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Thoughts on kinds of notes
-	- [[Topics are terms that are too broadly defined]]
 	- [[The fragility of nodes in a second brain]]
 - Note taxonomy
 	- [[Term notes]]

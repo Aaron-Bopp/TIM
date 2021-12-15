@@ -18,7 +18,7 @@ the baggage ^[[[Working through trauma can involve of a lot of letting go]]]
 and reconcile your fear ^[[[We carry our childhood wounds into adulthood]]]
 because: [[Sometimes we can't grow until we change our environment]] 
 
-For those who grew up in the Church or who rely on the church, fear is a very big obsticle to [[Deconstruction (Christianity)|deconstruction]] because [[Fear of hell is baked into Christianity for vulnerable believers]].
+For those who grew up in the Church or who rely on the church, fear is a very big obstacle to [[Deconstruction (Christianity)|deconstruction]] because [[Fear of hell is baked into Christianity for vulnerable believers]].
 This fear can be an [[existential dread]],
 ^[[[Faith is an abstraction of cognitive dissonance]]] 
 or it can be a more material fear of losing people, support, or respect.
@@ -31,10 +31,6 @@ Some people can never truly reach objectivity with [[Christianity]] because they
 
 [[The Christian worldview is incompatible with most other worldviews]] also means that they will [[struggle]] to conceptualize the [[belief systems]] of others in an objective way. 
 If you can never get to this place of objectivity, you may get stuck feeling like you're [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before | constructing a puzzle you haven't seen before]].
-
-
-
-#TO/TEND/BRIDGE thoughts about the irrationality and [[cognitive dissonance]] of christians and [[Humans are primarily irrational, illogical, emotional beings]]: [[Faith is an abstraction of cognitive dissonance]]? ^5dc5d8
 
 ### <hr class="footnote"/>
 

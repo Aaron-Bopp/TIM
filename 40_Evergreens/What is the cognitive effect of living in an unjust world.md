@@ -15,6 +15,8 @@ Possible Answers:
 - [[Humans have decided to reject an unjust world]]
 	- [[Faith is an abstraction of cognitive dissonance]]
 - [[Our brain will do anything it can to protect itself]]
+- [[The injustice of endurance]]
+- [[Stupid rules are meant to be broken]]
 
 Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different forms:
 - [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else

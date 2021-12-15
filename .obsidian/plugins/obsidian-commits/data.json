@@ -4537,8 +4537,8 @@
     },
     "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md": {
       "size": 2750,
-      "tags": 3,
-      "links": 24
+      "tags": 2,
+      "links": 22
     },
     "40_Evergreens/Feminism is the antithesis to patriarchy.md": {
       "size": 409,
@@ -4909,11 +4909,6 @@
       "size": 1944,
       "tags": 2,
       "links": 10
-    },
-    "40_Evergreens/Topics are terms that are too broadly defined.md": {
-      "size": 893,
-      "tags": 4,
-      "links": 7
     },
     "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable.md": {
       "size": 1998,
@@ -8291,9 +8286,9 @@
       "links": 7
     },
     "40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md": {
-      "size": 1067,
-      "tags": 3,
-      "links": 13
+      "size": 1308,
+      "tags": 2,
+      "links": 17
     },
     "40_Evergreens/Parsing markup text for Obsidian projects.md": {
       "size": 537,
@@ -8433,7 +8428,7 @@
     "30_Topics/35_Outlines/note writing.md": {
       "size": 707,
       "tags": 2,
-      "links": 8
+      "links": 7
     },
     "30_Topics/35_Outlines/neurodiversity.md": {
       "size": 784,
@@ -8953,7 +8948,7 @@
     "40_Evergreens/42 Knowledge Management.md": {
       "size": 2130,
       "tags": 0,
-      "links": 38
+      "links": 37
     },
     "40_Evergreens/43 Mental Health.md": {
       "size": 2009,
@@ -9076,9 +9071,9 @@
       "links": 0
     },
     "20_Entry/209 Notepad.md": {
-      "size": 1384,
+      "size": 1883,
       "tags": 3,
-      "links": 13
+      "links": 15
     },
     "20_Entry/202 Now.md": {
       "size": 1144,
@@ -9538,21 +9533,21 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1755,
+      "Refactor": 1761,
       "Create": 2161,
-      "Link": 3719,
-      "Expand": 340
+      "Link": 3722,
+      "Expand": 342
     },
     "40_Evergreens": {
-      "Refactor": 112,
+      "Refactor": 117,
       "Create": 18,
-      "Link": 237,
-      "Expand": 170
+      "Link": 239,
+      "Expand": 171
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 235,
+      "0": 246,
       "1": 65,
       "2": 1,
       "3": 2,
@@ -9578,7 +9573,7 @@
       "23": 266
     },
     "40_Evergreens": {
-      "0": 36,
+      "0": 44,
       "1": 28,
       "2": 0,
       "3": 0,
@@ -9608,7 +9603,7 @@
     "/": {
       "Mon": 303,
       "Tue": 818,
-      "Wed": 1442,
+      "Wed": 1453,
       "Thu": 406,
       "Fri": 192,
       "Sat": 0,
@@ -9617,7 +9612,7 @@
     "40_Evergreens": {
       "Mon": 54,
       "Tue": 89,
-      "Wed": 86,
+      "Wed": 94,
       "Thu": 5,
       "Fri": 8,
       "Sat": 0,
@@ -9627,6 +9622,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -9675,9 +9672,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -9870,6 +9865,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Am I surprised by the note title.md\"> Am I surprised by the note title </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>",
@@ -9919,10 +9915,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md\"> [Human's will find explanations for inexplainable things </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Children make wide assumptions about the world.md\"> [Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Transformative justice is the alternative to punitive justice.md\"> [Transformative justice is the alternative to punitive justice </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Source Code.md\"> Source Code </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -9970,12 +9968,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
@@ -10024,11 +10021,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to store source notes and definitions in your vault without getting overwhelmed.md\"> How to store source notes and definitions in your vault without getting overwhelmed </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/note writing.md\"> note writing </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
@@ -10076,14 +10074,12 @@
         "<a class=\"internal-link\" href=\"20_Entry/203 Me.md\"> 203 Me </a>",
         "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -10133,8 +10129,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10286,9 +10281,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdf.md\"> asdfasdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -10337,9 +10335,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -10354,7 +10350,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
@@ -10382,7 +10380,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>"
       ]
     }
   },

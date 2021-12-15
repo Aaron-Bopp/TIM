@@ -4,127 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f7bcee097afea7",
+        "id": "756c95f9b04fcf3e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
-            "mode": "preview",
+            "file": "40_Evergreens/Develop Obsidian plugins.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "d6f7bcee097afea7",
+              "leaf": "756c95f9b04fcf3e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.318987448004227}"
             },
             {
-              "leaf": "d6f7bcee097afea7",
+              "leaf": "756c95f9b04fcf3e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":55},\"to\":{\"line\":15,\"ch\":55}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Searching for THE answer is dangerous.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "d6f7bcee097afea7",
+              "leaf": "756c95f9b04fcf3e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":30.907142639160156}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/late capitalism.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "d6f7bcee097afea7",
+              "leaf": "756c95f9b04fcf3e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can be taught to invalidate your own emotions.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "d6f7bcee097afea7",
+              "leaf": "756c95f9b04fcf3e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":2},\"to\":{\"line\":26,\"ch\":2}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Karma is based in the law of cause and effect.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0.9264705882352942}"
             },
             {
-              "leaf": "d6f7bcee097afea7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How can parent's best help their children.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "d6f7bcee097afea7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":9.547483673763484}"
-            },
-            {
-              "leaf": "d6f7bcee097afea7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/socialization.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "d6f7bcee097afea7",
+              "leaf": "756c95f9b04fcf3e",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "d9551316f98b408c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "d9551316f98b408c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d9551316f98b408c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":2},\"to\":{\"line\":10,\"ch\":2}},\"scroll\":0}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "336d1206848ca742",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "336d1206848ca742",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.499999616827276}"
             }
           ]
         }
@@ -177,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+                "file": "40_Evergreens/Develop Obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -210,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+                "file": "40_Evergreens/Develop Obsidian plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md"
+                "file": "40_Evergreens/Develop Obsidian plugins.md"
               }
             },
             "pane-relief:history-v1": {
@@ -365,7 +293,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "84f4f33f118f4527",
@@ -377,7 +305,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+                "file": "40_Evergreens/Develop Obsidian plugins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -486,17 +414,17 @@
     "direction": "horizontal",
     "width": 690
   },
-  "active": "d9551316f98b408c",
+  "active": "756c95f9b04fcf3e",
   "lastOpenFiles": [
-    "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
-    "40_Evergreens/People have been conditioned to believe the bible has to be infallible.md",
-    "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
-    "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
     "40_Evergreens/Develop Obsidian plugins.md",
-    "20_Entry/202 Now.md",
-    "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md",
-    "40_Evergreens/How to process repressed emotions.md",
-    "40_Evergreens/Our ego is our subconscious defense of our self.md",
-    "00_Meta/Personal/How I process repressed emotions.md"
+    "40_Evergreens/Searching for THE answer is dangerous.md",
+    "30_Topics/32_Terms/late capitalism.md",
+    "40_Evergreens/You can be taught to invalidate your own emotions.md",
+    "40_Evergreens/Karma is based in the law of cause and effect.md",
+    "20_Entry/209 Notepad.md",
+    "40_Evergreens/Topics are terms that are too broadly defined.md",
+    "30_Topics/35_Outlines/note writing.md",
+    "40_Evergreens/42 Knowledge Management.md",
+    "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md"
   ]
 }
