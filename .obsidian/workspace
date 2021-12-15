@@ -9,20 +9,38 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Apartment hunt.md",
+            "file": "30_Topics/31_Stubs/human interaction.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "779735696eadbc73",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/socialization.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/human interaction.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":30},\"to\":{\"line\":9,\"ch\":30}}}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Tips for concentration.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Apartment hunt.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -119,23 +137,35 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":49},\"to\":{\"line\":14,\"ch\":49}},\"scroll\":0.6428571367750362}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "d6f7bcee097afea7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/35_Outlines/socialization.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "d6f7bcee097afea7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/socialization.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "779735696eadbc73",
+              "leaf": "d6f7bcee097afea7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.21428581159942}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}}}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"preview\",\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -170,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/TEND/DEOBFUSCATE",
+                "query": "tag:#TO/TEND",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apartment hunt.md",
+                "file": "30_Topics/35_Outlines/socialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apartment hunt.md",
+                "file": "30_Topics/35_Outlines/socialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,12 +277,12 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -268,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apartment hunt.md"
+                "file": "30_Topics/35_Outlines/socialization.md"
               }
             },
             "pane-relief:history-v1": {
@@ -361,7 +391,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "84f4f33f118f4527",
@@ -373,7 +403,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Apartment hunt.md",
+                "file": "30_Topics/35_Outlines/socialization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -482,17 +512,17 @@
     "direction": "horizontal",
     "width": 495
   },
-  "active": "779735696eadbc73",
+  "active": "d6f7bcee097afea7",
   "lastOpenFiles": [
+    "30_Topics/35_Outlines/socialization.md",
+    "30_Topics/31_Stubs/human interaction.md",
+    "40_Evergreens/Tips for concentration.md",
     "Apartment hunt.md",
     "40_Evergreens/A secure identity is the best defense against social anxiety.md",
     "20_Entry/24 Vault Stats/Word count Evergreens.md",
     "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
     "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
     "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
-    "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
-    "40_Evergreens/How to pursue the positive things in life.md",
-    "40_Evergreens/Be the change you want to see in the world.md",
-    "40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md"
+    "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md"
   ]
 }
