@@ -9521,7 +9521,7 @@
       "links": 15
     },
     "Apartment hunt.md": {
-      "size": 581,
+      "size": 1226,
       "tags": 0,
       "links": 0
     }
@@ -9531,7 +9531,7 @@
       "Refactor": 1741,
       "Create": 2159,
       "Link": 3701,
-      "Expand": 333
+      "Expand": 334
     },
     "40_Evergreens": {
       "Refactor": 102,
@@ -9563,7 +9563,7 @@
       "18": 199,
       "19": 196,
       "20": 159,
-      "21": 258,
+      "21": 259,
       "22": 257,
       "23": 242
     },
@@ -9597,7 +9597,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 303,
-      "Tue": 793,
+      "Tue": 794,
       "Wed": 1426,
       "Thu": 406,
       "Fri": 192,
@@ -9617,6 +9617,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Apartment hunt.md\"> Apartment hunt </a>",
         "<a class=\"internal-link\" href=\"Apartment hunt.md\"> Apartment hunt </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>",
@@ -9666,8 +9667,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Apartment hunt.md\"> Apartment hunt </a>",
