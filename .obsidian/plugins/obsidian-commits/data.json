@@ -9516,7 +9516,7 @@
       "links": 15
     },
     "Apartment hunt.md": {
-      "size": 1226,
+      "size": 1561,
       "tags": 0,
       "links": 0
     },
@@ -9529,14 +9529,19 @@
       "size": 1165,
       "tags": 2,
       "links": 16
+    },
+    "10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md": {
+      "size": 894,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1761,
-      "Create": 2161,
-      "Link": 3722,
-      "Expand": 342
+      "Create": 2162,
+      "Link": 3724,
+      "Expand": 343
     },
     "40_Evergreens": {
       "Refactor": 117,
@@ -9558,7 +9563,7 @@
       "8": 24,
       "9": 506,
       "10": 125,
-      "11": 148,
+      "11": 152,
       "12": 409,
       "13": 242,
       "14": 2290,
@@ -9603,7 +9608,7 @@
     "/": {
       "Mon": 303,
       "Tue": 818,
-      "Wed": 1453,
+      "Wed": 1457,
       "Thu": 406,
       "Fri": 192,
       "Sat": 0,
@@ -9622,6 +9627,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Apartment hunt.md\"> Apartment hunt </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -9671,10 +9677,10 @@
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"Apartment hunt.md\"> Apartment hunt </a>",
@@ -9724,8 +9730,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disability.md\"> disability </a>",
         "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
         "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
-        "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext#Converting PDFs to markdown.md\"> Converting existing file formats to plaintext#Converting PDFs to markdown </a>",
-        "<a class=\"internal-link\" href=\"PDF.md\"> PDF </a>"
+        "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext#Converting PDFs to markdown.md\"> Converting existing file formats to plaintext#Converting PDFs to markdown </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
@@ -9781,6 +9786,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Acting Bio.md\"> Acting Bio </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
@@ -9830,8 +9836,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurotypical.md\"> neurotypical </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/over-stimulation.md\"> over-stimulation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/black people.md\"> black people </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/PTSD.md\"> PTSD </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9918,6 +9923,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
@@ -9967,8 +9973,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",

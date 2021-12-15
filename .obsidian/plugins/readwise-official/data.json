@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2385133,
+  "lastSavedStatusID": 2393792,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -326,7 +326,8 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md": "12236199",
     "10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md": "12248588",
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md": "12266345",
-    "10_Sources/Readwise/Articles/articles_Understanding human collective behaviour  Autistic Collaboration.md": "12274772"
+    "10_Sources/Readwise/Articles/articles_Understanding human collective behaviour  Autistic Collaboration.md": "12274772",
+    "10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md": "12306555"
   },
   "reimportShowConfirmation": true,
   "obsidianToken": "rdiuwojlcr",

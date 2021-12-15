@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.309
+Version 1.318
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -76,7 +76,6 @@ This ToC is auto-generated via the .create-ToC.sh
 		- Mermaid
 - Markup
 	- Headings
-		- Pseudo-Admonitions
 	- Blockquotes
 	- Tables
 	- Code Blocks & Inline Code
@@ -163,7 +162,6 @@ This ToC is auto-generated via the .create-ToC.sh
 	--code-color: var(--alt-accent-darker);
 	--scrollbar-hover: var(--alt-accent-lighter);
 	--scrollbar-active: var(--accent-lightest);
-	--pseudo-admonition-border: var(--accent-lighter);
 
 	--highlight-color: hsl(152 100% 50% / 40%);
 	--highlight-alt1: hsl(60 100% 50% / 40%);
@@ -258,7 +256,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--scrollbar: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-light-2) - 8%));
 	--suggester-b-row: hsl(var(--base-hue) var(--light-sat) calc(var(--b-light-1) - 3%));
 	--muted-border-color: hsl(var(--base-hue) calc(var(--light-sat) / 2) calc(var(--b-light-3) + 3%));
-	--basic-border-color: hsl(var(--base-hue) calc(var(--light-sat) / 2) calc(var(--b-light-3) - 15%));
+	--basic-border-color: hsl(var(--base-hue) calc(var(--light-sat) / 2) calc(var(--b-light-3) - 5%));
 	--backdrop-color: hsl(var(--base-hue) calc(var(--light-sat) * 2) calc(var(--b-light-2) - 20%));
 	--longform-background: hsl(var(--longform-light-hue) calc(var(--light-sat) * 1.5) calc(var(--b-light-1) - 7%));
 }
@@ -272,7 +270,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--scrollbar: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-dark-2) + 9%));
 	--suggester-b-row: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-dark-1) - 2%));
 	--muted-border-color: hsl(var(--base-hue) calc(var(--dark-sat) / 2) calc(var(--b-dark-1) - 6%));
-	--basic-border-color: hsl(var(--base-hue) calc(var(--dark-sat) / 2) calc(var(--b-dark-1) + 20%));
+	--basic-border-color: hsl(var(--base-hue) calc(var(--dark-sat) / 2) calc(var(--b-dark-1) + 6%));
 	--backdrop-color: hsl(var(--base-hue) calc(var(--dark-sat) * 2) calc(var(--b-dark-2) + 2%));
 	--longform-background: hsl(var(--longform-dark-hue) calc(var(--dark-sat) / 1.5) calc(var(--b-dark-1) + 0%));
 }
@@ -342,13 +340,17 @@ This ToC is auto-generated via the .create-ToC.sh
 :root {
 	--resize-handle-thickness: 3px;
 	--resize-handle-hovered-thickness: 6px;
-	--toggle-duration: 350ms ease-in-out;
-	--scrollbar-thickness: 10px;
+	--scrollbar-thickness: 7px;
 	--image-size: 50;
 	--pdf-size: 50vh;
 	--popover-size: 350;
 	--inactive-pane-opacity: 80%;
+
 	--signature: "⟡";
+	--empty-state-symbol-size: 8rem;
+
+	--toggle-duration: 350ms ease-in-out;
+	--header-transition: 450ms ease-in-out;
 }
 
 .theme-light,
@@ -357,6 +359,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--muted-border: 2px solid var(--muted-border-color);
 	--thick-muted-border: 3.5px solid var(--muted-border-color);
 	--thin-border: 1px solid var(--basic-border-color);
+	--thin-muted-border: 1px solid var(--muted-border-color);
 }
 
 /* stylelint-enable no-duplicate-selectors */
@@ -454,6 +457,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--h3-size: 1.45em;
 	--h4-size: 1.3em;
 	--h5-size: 1.15em;
+	--h6-size: 1.05em;
 }
 
 .CodeMirror-linenumber {
@@ -619,7 +623,8 @@ svg.gear > path { display: none }
 
 svg.gear {
 	background-color: currentColor;
-	margin-bottom: 2px;
+	margin-right: 1px;
+	margin-bottom: 1.5px;
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.05em' height='1.05em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath fill='currentColor' d='M8.61 22a2.25 2.25 0 0 1-1.35-.46L5.19 20a2.37 2.37 0 0 1-.49-3.22a2.06 2.06 0 0 0 .23-1.86l-.06-.16a1.83 1.83 0 0 0-1.12-1.22h-.16a2.34 2.34 0 0 1-1.48-2.94L2.93 8a2.18 2.18 0 0 1 1.12-1.41a2.14 2.14 0 0 1 1.68-.12a1.93 1.93 0 0 0 1.78-.29l.13-.1a1.94 1.94 0 0 0 .73-1.51v-.24A2.32 2.32 0 0 1 10.66 2h2.55a2.26 2.26 0 0 1 1.6.67a2.37 2.37 0 0 1 .68 1.68v.28a1.76 1.76 0 0 0 .69 1.43l.11.08a1.74 1.74 0 0 0 1.59.26l.34-.11A2.26 2.26 0 0 1 21.1 7.8l.79 2.52a2.36 2.36 0 0 1-1.46 2.93l-.2.07A1.89 1.89 0 0 0 19 14.6a2 2 0 0 0 .25 1.65l.26.38a2.38 2.38 0 0 1-.5 3.23L17 21.41a2.24 2.24 0 0 1-3.22-.53l-.12-.17a1.75 1.75 0 0 0-1.5-.78a1.8 1.8 0 0 0-1.43.77l-.23.33A2.25 2.25 0 0 1 9 22a2 2 0 0 1-.39 0zM4.4 11.62a3.83 3.83 0 0 1 2.38 2.5v.12a4 4 0 0 1-.46 3.62a.38.38 0 0 0 0 .51L8.47 20a.25.25 0 0 0 .37-.07l.23-.33a3.77 3.77 0 0 1 6.2 0l.12.18a.3.3 0 0 0 .18.12a.25.25 0 0 0 .19-.05l2.06-1.56a.36.36 0 0 0 .07-.49l-.26-.38A4 4 0 0 1 17.1 14a3.92 3.92 0 0 1 2.49-2.61l.2-.07a.34.34 0 0 0 .19-.44l-.78-2.49a.35.35 0 0 0-.2-.19a.21.21 0 0 0-.19 0l-.34.11a3.74 3.74 0 0 1-3.43-.57L15 7.65a3.76 3.76 0 0 1-1.49-3v-.31a.37.37 0 0 0-.1-.26a.31.31 0 0 0-.21-.08h-2.54a.31.31 0 0 0-.29.33v.25a3.9 3.9 0 0 1-1.52 3.09l-.13.1a3.91 3.91 0 0 1-3.63.59a.22.22 0 0 0-.14 0a.28.28 0 0 0-.12.15L4 11.12a.36.36 0 0 0 .22.45z' data-name='%26lt%3bGroup%26gt%3b'/%3e%3cpath fill='currentColor' d='M12 15.5a3.5 3.5 0 1 1 3.5-3.5a3.5 3.5 0 0 1-3.5 3.5zm0-5a1.5 1.5 0 1 0 1.5 1.5a1.5 1.5 0 0 0-1.5-1.5z'/%3e%3c/svg%3e");
 }
 
@@ -677,12 +682,8 @@ body:not(.angular-shapes) *:not(.setting-delete-hotkey) > svg.cross {
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.05em' height='1.05em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cg fill='none'%3e%3cpath d='M12 22A10 10 0 0 1 4.926 4.926a10.004 10.004 0 1 1 14.148 14.148A9.936 9.936 0 0 1 12 22zm-8-9.828A8 8 0 1 0 4 12v.172zM9.409 16l-1.41-1.41L10.59 12L8 9.41L9.41 8L12 10.59L14.59 8L16 9.41L13.41 12L16 14.59L14.592 16L12 13.41L9.41 16h-.001z' fill='currentColor'/%3e%3c/g%3e%3c/svg%3e");
 }
 
-body.angular-shapes .installed-plugins-container svg.cross {
-	margin-top: 1px;
-}
-
-body.angular-shapes .menu-item .menu-item-icon svg.cross {
-	margin-bottom: 1px;
+body:not(.angular-shapes) .view-action > svg.cross {
+	margin-bottom: 0.7px;
 }
 
 /* hotkey button */
@@ -727,7 +728,6 @@ svg.pencil {
 	position: relative;
 	right: 1px;
 	background-color: currentColor;
-	margin-bottom: 1.5px;
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath d='M18.988 2.012l3 3L19.701 7.3l-3-3zM8 16h3l7.287-7.287l-3-3L8 13z' fill='currentColor'/%3e%3cpath d='M19 19H8.158c-.026 0-.053.01-.079.01c-.033 0-.066-.009-.1-.01H5V5h6.847l2-2H5c-1.103 0-2 .896-2 2v14c0 1.104.897 2 2 2h14a2 2 0 0 0 2-2v-8.668l-2 2V19z' fill='currentColor'/%3e%3c/svg%3e");
 }
 
@@ -736,8 +736,13 @@ svg.lines-of-text > path { display: none }
 
 svg.lines-of-text {
 	position: relative;
-	bottom: 2px;
+	right: 1px;
+	bottom: 1px;
+
 	background-color: currentColor;
+
+	transform: scale(1.2);
+
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.3em' height='1.3em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 16 16'%3e%3cg fill='none'%3e%3cpath d='M2.984 8.625v.003a.5.5 0 0 1-.612.355c-.431-.114-.355-.611-.355-.611l.017-.062s.026-.084.047-.145a6.7 6.7 0 0 1 1.117-1.982C4.097 5.089 5.606 4 8 4c2.395 0 3.904 1.089 4.801 2.183a6.7 6.7 0 0 1 1.117 1.982a3.916 3.916 0 0 1 .06.187l.003.013l.002.004v.002a.5.5 0 0 1-.966.258l-.001-.004l-.008-.025a4.9 4.9 0 0 0-.2-.52a5.703 5.703 0 0 0-.78-1.263C11.285 5.912 10.044 5 8 5c-2.044 0-3.286.912-4.028 1.817a5.701 5.701 0 0 0-.945 1.674a3.018 3.018 0 0 0-.035.109l-.008.025z' fill='currentColor'/%3e%3cpath d='M8 7a2.5 2.5 0 1 0 0 5a2.5 2.5 0 0 0 0-5zM6.5 9.5a1.5 1.5 0 1 1 3 0a1.5 1.5 0 0 1-3 0z' fill='currentColor'/%3e%3c/g%3e%3c/svg%3e");
 }
 
@@ -746,7 +751,7 @@ svg.lines-of-text {
 
 *:not(.kanban-plugin__icon) > svg.vertical-three-dots {
 	background-color: currentColor;
-	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 20 20'%3e%3cpath d='M3 11h14V9H3v2zm0 5h14v-2H3v2zM3 4v2h14V4H3z' fill='currentColor'/%3e%3c/svg%3e");
+	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.2em' height='1.2em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 20 20'%3e%3cpath d='M3 11h14V9H3v2zm0 5h14v-2H3v2zM3 4v2h14V4H3z' fill='currentColor'/%3e%3c/svg%3e");
 }
 
 /* graph */
@@ -931,7 +936,7 @@ body .workspace-split.mod-right-split > .workspace-leaf-resize-handle {
 /* proper light theme for titlebar */
 .titlebar {
 	background-color: var(--bg2);
-	border-bottom: 1px solid var(--background-modifier-border);
+	border-bottom: var(--thin-muted-border);
 }
 
 .theme-light .titlebar-text {
@@ -1054,10 +1059,6 @@ body > div.notice-container .notice:hover::BEFORE {
 << Header Bar
 ─────────────────────────────────────────────────── */
 
-.view-header {
-	--header-transition: 450ms ease-in-out;
-}
-
 /* harmonize sizes for when titlebar is shown */
 .view-header-title {
 	font-size: 0.9em;
@@ -1080,7 +1081,7 @@ body:not(.is-mobile) .view-actions {
 
 /* show only on hover, when writing in the header bar,
 or when enabled by the style settings plugin */
-body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header {
+body:not(.show-header-bar) .app-container .workspace-split.mod-root > .workspace-leaf .view-header {
 	height: 0.9em;
 
 	background-color: var(--bg1);
@@ -1104,9 +1105,9 @@ body:not(.show-header-bar) .view-action svg {
 	transition: var(--header-transition);
 }
 
-body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header:hover,
-body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header:focus-within,
-body.show-header-bar .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header {
+body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf .view-header:hover,
+body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf .view-header:focus-within,
+body.show-header-bar .workspace-split.mod-root > .workspace-leaf .view-header {
 	height: 1.9em;
 	background-color: var(--bg2);
 	transition: var(--header-transition);
@@ -1251,6 +1252,41 @@ body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 
 ::-WEBKIT-SCROLLBAR-THUMB:active {
 	background-color: var(--scrollbar-active) !important;
+}
+
+/* ───────────────────────────────────────────────────
+< Vault Launch Progress Bar
+─────────────────────────────────────────────────── */
+
+.progress-bar .progress-bar-message::BEFORE {
+	content: var(--signature);
+	color: var(--text-normal);
+	font-size: var(--empty-state-symbol-size);
+}
+
+.progress-bar .progress-bar-message {
+	margin-bottom: 40px;
+	font-size: 0;
+}
+
+.progress-bar {
+	background-color: var(--bg2);
+	backdrop-filter: blur(3px);
+}
+
+.progress-bar-indicator,
+.progress-bar-indicator .progress-bar-subline,
+.progress-bar-indicator .progress-bar-line {
+	height: 20px;
+	border-radius: var(--round);
+}
+
+.progress-bar-indicator .progress-bar-line {
+	background-color: var(--bg3);
+}
+
+.progress-bar-indicator .progress-bar-subline {
+	background-color: var(--scrollbar-hover);
 }
 
 /* ───────────────────────────────────────────────────
@@ -1405,10 +1441,12 @@ input:hover {
 	border-color: var(--interactive-hover-border) !important;
 }
 
+.theme-dark textarea,
 .theme-dark input[type="text"] {
 	background-color: var(--bg3);
 }
 
+.theme-light textarea,
 .theme-light input[type="text"] {
 	background-color: var(--bg2);
 }
@@ -1994,7 +2032,8 @@ body .workspace-leaf-resize-handle:active {
 .modal h2,
 .modal h3,
 .modal h4,
-.modal h5 {
+.modal h5,
+.modal h6 {
 	margin-top: 15px;
 	margin-bottom: 10px;
 	font-weight: 500;
@@ -2005,6 +2044,7 @@ body .workspace-leaf-resize-handle:active {
 .modal-content h3 { font-size: var(--h3-size); }
 .modal-content h4 { font-size: var(--h4-size); }
 .modal-content h5 { font-size: var(--h5-size); }
+.modal-content h6 { font-size: var(--h6-size); }
 
 .modal-content li {
 	font-size: 1.1em;
@@ -2630,7 +2670,7 @@ body .workspace-leaf-resize-handle:active {
 .community-plugin-details-empty-state::AFTER {
 	content: var(--signature);
 	color: var(--extra-contrast);
-	font-size: 11rem;
+	font-size: var(--empty-state-symbol-size);
 }
 
 /* ───────────────────────────────────────────────────
@@ -2763,7 +2803,7 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 .empty-state-title::AFTER {
 	content: var(--signature);
 	color: var(--extra-contrast);
-	font-size: 11rem;
+	font-size: var(--empty-state-symbol-size);
 }
 
 /* ───────────────────────────────────────────────────
@@ -3257,11 +3297,13 @@ body.focus-view-enabled .workspace-split.mod-left-split.is-collapsed ~ .workspac
 .cm-header-3,
 .cm-header-4,
 .cm-header-5,
+.cm-header-6,
 .markdown-preview-view h1,
 .markdown-preview-view h2,
 .markdown-preview-view h3,
 .markdown-preview-view h4,
-.markdown-preview-view h5 {
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
 	font-family: var(--heading-font);
 	font-weight: 700;
 	text-rendering: geometricPrecision;
@@ -3293,11 +3335,17 @@ body.focus-view-enabled .workspace-split.mod-left-split.is-collapsed ~ .workspac
 	font-size: var(--h5-size);
 }
 
+.cm-header-6,
+.markdown-preview-view h6 {
+	font-size: var(--h6-size);
+}
+
 .markdown-preview-view h1,
 .markdown-preview-view h2,
 .markdown-preview-view h3,
 .markdown-preview-view h4,
-.markdown-preview-view h5 {
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
 	margin-top: 1.2em;
 	margin-bottom: 0.5em;
 }
@@ -3311,11 +3359,13 @@ body:not(.less-heading-letter-spacing) .cm-header-2,
 body:not(.less-heading-letter-spacing) .cm-header-3,
 body:not(.less-heading-letter-spacing) .cm-header-4,
 body:not(.less-heading-letter-spacing) .cm-header-5,
+body:not(.less-heading-letter-spacing) .cm-header-6,
 body:not(.less-heading-letter-spacing) .markdown-preview-view h1,
 body:not(.less-heading-letter-spacing) .markdown-preview-view h2,
 body:not(.less-heading-letter-spacing) .markdown-preview-view h3,
 body:not(.less-heading-letter-spacing) .markdown-preview-view h4,
-body:not(.less-heading-letter-spacing) .markdown-preview-view h5 {
+body:not(.less-heading-letter-spacing) .markdown-preview-view h5,
+body:not(.less-heading-letter-spacing) .markdown-preview-view h6 {
 	letter-spacing: 1px;
 }
 
@@ -3324,65 +3374,10 @@ for all headings to improve distinctiveness = more readability */
 body:not(.no-alternating-header-italics) .cm-header-2,
 body:not(.no-alternating-header-italics) .markdown-preview-view h2,
 body:not(.no-alternating-header-italics) .cm-header-4,
-body:not(.no-alternating-header-italics) .markdown-preview-view h4 {
+body:not(.no-alternating-header-italics) .markdown-preview-view h4,
+body:not(.no-alternating-header-italics) .cm-header-6,
+body:not(.no-alternating-header-italics) .markdown-preview-view h6 {
 	font-style: italic;
-}
-
-/* ───────────────────────────────────────────────────
-<<< Pseudo-Admonitions
-─────────────────────────────────────────────────── */
-/* For h6 only (without following blocks or line breaks).
-Based on some CSS from @SlRvb, @gee & @Eleanor Konik.
-Pseudo-Admonitions work on one-liners only */
-
-.cm-header-6,
-.markdown-preview-view h6 {
-	font-family: var(--default-font);
-	font-size: 1em;
-	font-weight: 500 !important;
-}
-
-.cm-strong.cm-header-6,
-.markdown-preview-view h6 > em {
-	font-weight: 800 !important;
-	text-rendering: geometricPrecision;
-}
-
-.markdown-preview-view h6 .heading-collapse-indicator.collapse-indicator.collapse-icon,
-.cm-header-6.cm-formatting.cm-formatting-header {
-	display: none;
-}
-
-/* when pseudo-admonition is also active line */
-body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-header.HyperMD-header-6.CodeMirror-line {
-	color: var(--text-normal) !important;
-	background-color: var(--active-line) !important;
-	border-radius: var(--roundish) !important;
-}
-
-.theme-dark .HyperMD-header.HyperMD-header-6.CodeMirror-line {
-	background-color: rgb(0 0 0 / 37%);
-}
-
-.theme-light .HyperMD-header.HyperMD-header-6.CodeMirror-line {
-	background-color: rgb(0 0 30 / 5%);
-}
-
-.markdown-preview-view h6 {
-	background-color: var(--bg2);
-}
-
-.HyperMD-header.HyperMD-header-6.CodeMirror-line,
-.markdown-preview-view h6 {
-	color: var(--text-normal) !important;
-
-	padding-top: 0.5em;
-	padding-bottom: 0.6em;
-	padding-left: 1em !important;
-	margin-bottom: 0;
-
-	border-left: 12px solid var(--pseudo-admonition-border) !important;
-	border-radius: var(--roundish);
 }
 
 /* ───────────────────────────────────────────────────
@@ -3535,21 +3530,21 @@ tr:last-child td:last-child {
 body > .app-container table > thead > tr > th {
 	border-top: none;
 	border-right: none;
-	border-bottom: var(--table-border);
-	border-left: var(--table-border);
+	border-bottom: var(--table-border) !important;
+	border-left: var(--table-border) !important;
 }
 
 body > .app-container table > thead > tr > th:first-child {
-	border-left: none;
+	border-left: none !important;
 }
 
 body > .app-container table > tbody > tr > td {
 	border: none;
-	border-left: var(--table-border);
+	border-left: var(--table-border) !important;
 }
 
 body > .app-container table > tbody > tr > td:first-child {
-	border-left: none;
+	border-left: none !important;
 }
 
 /* background */
@@ -3736,7 +3731,7 @@ button.copy-code-button::BEFORE {
 }
 
 /* ───────────────────────────────────────────────────
-<< Bullet point relationship lines
+<< Bullet Point Relationship Lines
 ─────────────────────────────────────────────────── */
 /* based on css from the outliner plugin */
 /* https://github.com/vslinko/obsidian-outliner/blob/main/styles.css */
@@ -4070,13 +4065,15 @@ body > .app-container span.cm-tag {
 
 /* ───────────────────────────────────────────────────
 << Tasks
+<< Checkboxes
 ─────────────────────────────────────────────────── */
 
-/* finished */
+/* edit mode */
 .cm-s-obsidian span.cm-formatting-task.cm-property {
 	color: var(--finished-task);
 }
 
+/* preview mode */
 /* https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/34 */
 input[type="checkbox"] {
 	filter: unset !important; /* removes hue filter */
@@ -4104,12 +4101,49 @@ input[type="checkbox"]:checked {
 	background-repeat: no-repeat;
 }
 
-input[type="checkbox"]:hover {
-	border-color: var(--alt-accent);
+li[data-task="x"] > .task-list-item-checkbox:hover {
+	background-color: var(--alt-accent-lighter) !important;
 }
 
-input[type="checkbox"]:checked:hover {
-	background-color: var(--alt-accent-lighter) !important;
+/* <<< Compatibility with SlVrb's checkboxes */
+.markdown-source-view.mod-cm6 .task-list-item-checkbox[data-task="x"],
+.markdown-preview-view li[data-task="x"] > .task-list-item-checkbox,
+.markdown-preview-view li[data-task="x"] p .task-list-item-checkbox,
+.cm-s-obsidian span.hmd-hidden-token.cm-formatting-task[data-task="x"],
+input[type="checkbox"]:not(:checked) {
+	color: var(--text-normal);
+	margin-top: 2.5px;
+	margin-right: 10px;
+}
+
+body .markdown-source-view.mod-cm6 .task-list-item-checkbox::BEFORE,
+body .markdown-preview-view :not(li[data-task="x"]) > .task-list-item-checkbox:checked::BEFORE,
+body .markdown-preview-view :not(li[data-task="x"]) p .task-list-item-checkbox:checked::BEFORE {
+	top: 2px;
+	right: 1.5px;
+}
+
+body.check-bg .markdown-source-view.mod-cm6 .task-list-item-checkbox::BEFORE,
+body.check-bg .markdown-preview-view :not(li[data-task="x"]) > .task-list-item-checkbox:checked::BEFORE,
+body.check-bg .markdown-preview-view :not(li[data-task="x"]) p .task-list-item-checkbox:checked::BEFORE {
+	top: 1px;
+	right: 5px;
+}
+
+body .markdown-source-view.mod-cm6 .task-list-item-checkbox > *,
+body .markdown-preview-view ul > li.task-list-item.is-checked,
+body .markdown-preview-view ol > li.task-list-item.is-checked {
+	font-weight: unset; /* stylelint-disable-line font-weight-notation */
+}
+
+.markdown-preview-view ul > li.task-list-item {
+	padding-left: 5px;
+	text-indent: -1.9em;
+}
+
+/* fix for legacy-editor, discussed here https://discord.com/channels/686053708261228577/702656734631821413/920422345422819339 */
+.markdown-source-view:not(.mod-cm6) .cm-formatting.cm-formatting-task {
+	margin-left: -10px;
 }
 
 /* ───────────────────────────────────────────────────
@@ -4656,8 +4690,7 @@ body.is-mobile .markdown-preview-view blockquote {
 }
 
 .workspace-leaf-content[data-type="outline"] .view-content {
-	padding: 4px;
-	padding-left: 0;
+	padding: 4px 2px;
 }
 
 .outline .tree-item-icon.collapse-icon {
@@ -4969,7 +5002,7 @@ body .popover {
 
 .sync-history-content-empty::BEFORE {
 	content: var(--signature);
-	font-size: 10rem;
+	font-size: var(--empty-state-symbol-size);
 }
 
 /* ───────────────────────────────────────────────────
@@ -5743,26 +5776,18 @@ body > div.app-container .longform-leaf .cm-s-obsidian .cm-hmd-frontmatter,
 }
 
 /* do not justify heading text */
-.longform-leaf .markdown-preview-view h1,
-.longform-leaf .markdown-preview-view h2,
-.longform-leaf .markdown-preview-view h3,
-.longform-leaf .markdown-preview-view h4,
-.longform-leaf .markdown-preview-view h5,
-.longform-leaf .HyperMD-header {
-	font-family: var(--longform-font);
-	text-align: start;
-}
-
 .longform-leaf .cm-header-1,
 .longform-leaf .cm-header-2,
 .longform-leaf .cm-header-3,
 .longform-leaf .cm-header-4,
 .longform-leaf .cm-header-5,
+.longform-leaf .cm-header-6,
 .longform-leaf .markdown-preview-view h1,
 .longform-leaf .markdown-preview-view h2,
 .longform-leaf .markdown-preview-view h3,
 .longform-leaf .markdown-preview-view h4,
-.longform-leaf .markdown-preview-view h5 {
+.longform-leaf .markdown-preview-view h5,
+.longform-leaf .markdown-preview-view h6 {
 	font-family: var(--longform-font);
 	line-height: 1.2em;
 	text-align: start;
@@ -6159,7 +6184,7 @@ body > .app-container .BC-Link.is-unresolved {
 
 .BC-trail button::BEFORE {
 	content: "unfold_more";
-	color: var(--text-muted);
+	color: var(--basic-border-color);
 	font-family: "Material Icons";
 	font-size: 1.1rem;
 	letter-spacing: 0 !important;
@@ -6428,7 +6453,12 @@ pre button.copy:hover::BEFORE {
 /* ───────────────────────────────────────────────────
 << Style Settings (Settings Tab)
 ─────────────────────────────────────────────────── */
+/* sidebar */
+.workspace-leaf-content[data-type="style-settings"] .view-content {
+	padding: 8px;
+}
 
+/* settings tab  */
 .style-settings-heading {
 	padding-top: 0;
 	margin-top: 22px !important;
@@ -6923,7 +6953,7 @@ settings:
   -
 	 id: heading-font
 	 title: Heading Font
-	 description: Applies to h1 to h5 Headings. (h6 headings are used for Pseudo-Admonitions.)
+	 description: Applies to h1 to h6 Headings
 	 type: variable-text
 	 default: Optima, Optima-local
   -
@@ -6980,6 +7010,15 @@ settings:
 	 title: Level 5 Headings
 	 type: variable-number-slider
 	 default: 1.15
+	 min: 1
+	 max: 2.7
+	 step: 0.05
+	 format: em
+  -
+	 id: h6-size
+	 title: Level 6 Headings
+	 type: variable-number-slider
+	 default: 1.05
 	 min: 1
 	 max: 2.7
 	 step: 0.05
