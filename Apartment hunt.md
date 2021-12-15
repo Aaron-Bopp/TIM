@@ -8,4 +8,4 @@
 	- [Union Berkley Apartments - Kansas City, MO | Apartments.com](https://www.apartments.com/union-berkley-kansas-city-mo/z0d9x5x/)
 - Northside
 	- [Northcrest Apartments - Riverside, MO | Apartments.com](https://www.apartments.com/northcrest-apartments-riverside-mo/y2rc2nr/) $590 lightwood and hardwood floors
-	- [Northland Passage Apartments - Kansas City, MO | Apartments.com](https://www.apartments.com/northland-passage-apartments-kansas-city-mo/lv77dce/)
+	- [Northland Passage Apartments - Kansas City, MO | Apartments.com](https://www.apartments.com/northland-passage-apartments-kansas-city-mo/lv77dce/) $768 darkwood big apartment
