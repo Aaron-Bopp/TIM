@@ -7,7 +7,7 @@
 - near big park in Pendleton heights
 	- [Maple Flats Apartments - Kansas City, MO | Apartments.com](https://www.apartments.com/maple-flats-kansas-city-mo/bbvnjf8/) $625 exposed brick
 		- sent request
-		- (816) 581-0471
+		- (816) 581-0471 called
 - Visited and didn't like 
 	- [Union Berkley Apartments - Kansas City, MO | Apartments.com](https://www.apartments.com/union-berkley-kansas-city-mo/z0d9x5x/)
 - Northside
