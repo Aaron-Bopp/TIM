@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md",
-            "mode": "preview",
+            "file": "Apartment hunt.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -18,6 +18,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Apartment hunt.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
             {
               "leaf": "779735696eadbc73",
               "group": null,
@@ -131,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":6.819188304492908}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md",
+                "file": "Apartment hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md",
+                "file": "Apartment hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md"
+                "file": "Apartment hunt.md"
               }
             },
             "pane-relief:history-v1": {
@@ -373,7 +373,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md",
+                "file": "Apartment hunt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -484,6 +484,7 @@
   },
   "active": "779735696eadbc73",
   "lastOpenFiles": [
+    "Apartment hunt.md",
     "40_Evergreens/A secure identity is the best defense against social anxiety.md",
     "20_Entry/24 Vault Stats/Word count Evergreens.md",
     "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
@@ -492,7 +493,6 @@
     "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
     "40_Evergreens/How to pursue the positive things in life.md",
     "40_Evergreens/Be the change you want to see in the world.md",
-    "40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md",
-    "40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md"
+    "40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md"
   ]
 }

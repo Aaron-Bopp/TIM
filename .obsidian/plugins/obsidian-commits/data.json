@@ -9519,14 +9519,19 @@
       "size": 1650,
       "tags": 3,
       "links": 15
+    },
+    "Apartment hunt.md": {
+      "size": 581,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1741,
-      "Create": 2158,
+      "Create": 2159,
       "Link": 3701,
-      "Expand": 332
+      "Expand": 333
     },
     "40_Evergreens": {
       "Refactor": 102,
@@ -9554,7 +9559,7 @@
       "14": 2290,
       "15": 127,
       "16": 889,
-      "17": 1560,
+      "17": 1562,
       "18": 199,
       "19": 196,
       "20": 159,
@@ -9592,7 +9597,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 303,
-      "Tue": 791,
+      "Tue": 793,
       "Wed": 1426,
       "Thu": 406,
       "Fri": 192,
@@ -9612,6 +9617,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Apartment hunt.md\"> Apartment hunt </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Single issue voters are anti-democratic.md\"> Single issue voters are anti-democratic </a>",
@@ -9661,10 +9667,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Apartment hunt.md\"> Apartment hunt </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/heterarchy.md\"> heterarchy </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Understanding human collective behaviour  Autistic Collaboration.md\"> articles_Understanding human collective behaviour  Autistic Collaboration </a>",
@@ -9714,8 +9720,7 @@
         "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext#Converting PDFs to markdown.md\"> Converting existing file formats to plaintext#Converting PDFs to markdown </a>",
         "<a class=\"internal-link\" href=\"PDF.md\"> PDF </a>",
         "<a class=\"internal-link\" href=\"death.au.md\"> death.au </a>",
-        "<a class=\"internal-link\" href=\"Github#Github Desktop.md\"> Github#Github Desktop </a>",
-        "<a class=\"internal-link\" href=\"Modular Markup Processor.md\"> Modular Markup Processor </a>"
+        "<a class=\"internal-link\" href=\"Github#Github Desktop.md\"> Github#Github Desktop </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
