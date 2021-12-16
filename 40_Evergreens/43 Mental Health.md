@@ -20,7 +20,7 @@
 		- [[There aren't any downsides to working through trauma]]
 		- [[Working through trauma can involve of a lot of letting go]]
 		- [[We carry our childhood wounds into adulthood]]
-		- [[A inwardly judgementful and outwardly accepting home creates trust issues]]
+		- [[A inwardly judgmental and outwardly accepting home creates trust issues]]
 	- [[ADHD]]
 		- [[ADHD reduces working memory]]
 		- [[Tips for concentration]]

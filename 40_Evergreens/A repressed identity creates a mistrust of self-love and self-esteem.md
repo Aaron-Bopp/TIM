@@ -12,7 +12,7 @@ If you don't understand who you are, you will stuggle to understand why certain 
 
 [[Presentation is the realization of our self-perception and identity is the realization of our self-image]], but if you have a repressed identity, you don't have an accurate [[self-image]] to realize: [[Your anxiety knows your insecurities better than you do#Cause repressed identity]]
 
-- [[A inwardly judgementful and outwardly accepting home creates trust issues]]
+- [[A inwardly judgmental and outwardly accepting home creates trust issues]]
 - [[A secure identity is the best defense against social anxiety]]
 	- [[Our ego is our subconscious defense of our self]]
 		- [[We value our biggest insecurities because they protect us from the biggest threats]]

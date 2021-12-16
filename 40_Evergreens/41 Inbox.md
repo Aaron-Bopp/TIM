@@ -1,7 +1,7 @@
 - [[41 Inbox]]
 	- [[A story will either end where it began, or somewhere else]]
 	- [[The most reliable path to success is repeatedly trying to succeed]]
-	- [[Empathy does not dissallow judgment]]
+	- [[Empathy does not disallow judgment]]
 	- [[Be the change you want to see in the world]]
 	- [[You should the love the loves of those who you love]]
 	- [[Take note of the simple things in life]]

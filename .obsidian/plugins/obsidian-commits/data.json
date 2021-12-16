@@ -4400,11 +4400,6 @@
       "tags": 2,
       "links": 17
     },
-    "40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md": {
-      "size": 1734,
-      "tags": 4,
-      "links": 20
-    },
     "40_Evergreens/A secure identity is the best defense against social anxiety.md": {
       "size": 2081,
       "tags": 4,
@@ -5003,7 +4998,7 @@
     "40_Evergreens/You can't blame people for failing to rise above their circumstances.md": {
       "size": 1751,
       "tags": 4,
-      "links": 19
+      "links": 20
     },
     "40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md": {
       "size": 954,
@@ -8635,11 +8630,6 @@
       "tags": 1,
       "links": 0
     },
-    "40_Evergreens/Empathy does not dissallow judgment.md": {
-      "size": 2163,
-      "tags": 2,
-      "links": 19
-    },
     "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md": {
       "size": 888,
       "tags": 3,
@@ -9381,9 +9371,9 @@
       "links": 27
     },
     "40_Evergreens/Neurodiverse people are siloed into systems that work against them.md": {
-      "size": 0,
+      "size": 607,
       "tags": 2,
-      "links": 2
+      "links": 7
     },
     "10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md": {
       "size": 672,
@@ -9534,20 +9524,30 @@
       "size": 894,
       "tags": 2,
       "links": 1
+    },
+    "40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md": {
+      "size": 1734,
+      "tags": 4,
+      "links": 20
+    },
+    "40_Evergreens/Empathy does not disallow judgment.md": {
+      "size": 2163,
+      "tags": 2,
+      "links": 19
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1761,
+      "Refactor": 1764,
       "Create": 2162,
-      "Link": 3724,
-      "Expand": 343
+      "Link": 3727,
+      "Expand": 344
     },
     "40_Evergreens": {
-      "Refactor": 117,
+      "Refactor": 120,
       "Create": 18,
-      "Link": 239,
-      "Expand": 171
+      "Link": 242,
+      "Expand": 172
     }
   },
   "dailyCommits": {
@@ -9570,7 +9570,7 @@
       "15": 127,
       "16": 889,
       "17": 1562,
-      "18": 199,
+      "18": 206,
       "19": 196,
       "20": 159,
       "21": 259,
@@ -9596,7 +9596,7 @@
       "15": 0,
       "16": 4,
       "17": 29,
-      "18": 0,
+      "18": 7,
       "19": 15,
       "20": 20,
       "21": 40,
@@ -9608,7 +9608,7 @@
     "/": {
       "Mon": 303,
       "Tue": 818,
-      "Wed": 1457,
+      "Wed": 1464,
       "Thu": 406,
       "Fri": 192,
       "Sat": 0,
@@ -9617,7 +9617,7 @@
     "40_Evergreens": {
       "Mon": 54,
       "Tue": 89,
-      "Wed": 94,
+      "Wed": 101,
       "Thu": 5,
       "Fri": 8,
       "Sat": 0,
@@ -9627,6 +9627,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"Apartment hunt.md\"> Apartment hunt </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
@@ -9676,8 +9677,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md\"> A inwardly judgementful and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
@@ -9733,6 +9733,9 @@
         "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext#Converting PDFs to markdown.md\"> Converting existing file formats to plaintext#Converting PDFs to markdown </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not disallow judgment.md\"> Empathy does not disallow judgment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgemental and outwardly accepting home creates trust issues.md\"> A inwardly judgemental and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>",
@@ -9780,10 +9783,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\"> In order to for my parents to love me, they need to admit they might be wrong </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\"> I thought negative emotions were natural and that positive emotions weren't real </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/How I process repressed emotions.md\"> How I process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Acting Bio.md\"> Acting Bio </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
@@ -9923,6 +9923,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
@@ -9970,10 +9973,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
@@ -10084,6 +10084,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -10133,8 +10134,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to pursue the positive things in life.md\"> How to pursue the positive things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10201,7 +10201,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgemental and outwardly accepting home creates trust issues.md\"> A inwardly judgemental and outwardly accepting home creates trust issues </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not disallow judgment.md\"> Empathy does not disallow judgment </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -10290,6 +10293,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -10337,10 +10343,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",

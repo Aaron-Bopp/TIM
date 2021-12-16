@@ -17,7 +17,7 @@ sr-ease: 248
 It's a lot easier to understand why somebody did something rather than twist and turn to understand how you could make it. [[Human's have an inability to admit that they are wrong]] and [[Human's will find explanations for inexplainable things]]. We believe that if we could make the decision it is right. It feels right to think this way but at the end of the day it only makes life more difficult.
 
 When entering in to this mindset it is imporant to remember 
-[[Empathy does not dissallow judgment]].
+[[Empathy does not disallow judgment]].
 
 
 This idea is especially important for [[Christianity|christians]], because [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] because they struggle to put themselves into the shoe's of non-christians.

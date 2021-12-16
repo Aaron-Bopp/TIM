@@ -23,7 +23,7 @@ This is why [[You can discover your transness at any point in life]] and [[Any e
 [[Our authority figures curate and reinforce what we are allowed to imitate]], so even parents not educated their children of trans people can cause issues.
 [[Studies show early acceptance of trans children normalizes mental health outcomes with peers]], so having an accepting [^2] home is vital.
 
-[^2]: This has to be consistent: [[A inwardly judgementful and outwardly accepting home creates trust issues]]
+[^2]: This has to be consistent: [[A inwardly judgmental and outwardly accepting home creates trust issues]]
 
 Without early acceptance and especially with the onset of puberty, this repression will develop into stronger warning signs: [[Mental health is a reaction to one's environment]] 
 

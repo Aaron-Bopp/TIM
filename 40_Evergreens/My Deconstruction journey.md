@@ -30,7 +30,7 @@ My feelings being a follower of Jesus have somewhat mellowed with time, but my f
 
 Additionally I believe [[Worldviews are wrong if they make life seem easy and simple]] and that [[Christianity]] is one such worldview:
 -  [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] creates a [[cognitive dissonance]] that is unhealthy
--  [[A inwardly judgementful and outwardly accepting home creates trust issues]]
+-  [[A inwardly judgmental and outwardly accepting home creates trust issues]]
 -  [[The actual work of being a good person isn't explored by Evangelicalism]]
 -  [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 

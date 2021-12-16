@@ -18,7 +18,7 @@ Observation: I don't think I ever struggled to observe social behaviors, I think
 
 ### 2021-11-14 10:29pm
 
-I've been thinking about the relationship between [[Empathy does not dissallow judgment]] and [[You can't blame people for failing to rise above their circumstances]] recently in relation to the whole Gus Johnson situation. I realized that I was judging him, had no sympathy for him. I think it stems from the fact that we do have a similar background (grew up in the midwest), and that we are at a fairly similar stage in life. But Idk if that should rule out those two notes. Would I have done differently in his place, yes absolutely. Can I judge him for it? On principle I think no, but in practice I do. [[What is the difference between blame and judgement]]
+I've been thinking about the relationship between [[Empathy does not disallow judgment]] and [[You can't blame people for failing to rise above their circumstances]] recently in relation to the whole Gus Johnson situation. I realized that I was judging him, had no sympathy for him. I think it stems from the fact that we do have a similar background (grew up in the midwest), and that we are at a fairly similar stage in life. But Idk if that should rule out those two notes. Would I have done differently in his place, yes absolutely. Can I judge him for it? On principle I think no, but in practice I do. [[What is the difference between blame and judgement]]
 
 ## October
 

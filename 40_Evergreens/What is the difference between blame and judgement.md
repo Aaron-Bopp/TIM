@@ -46,7 +46,7 @@ The term has at least five distinct uses.  Aristotle suggested we think of the o
     - [[My worldview is not about conversion it is about acceptance]]
 
 - Personality judgment, a psychological phenomenon of a person forming opinions of other people.
-    - [[Empathy does not dissallow judgment]]
+    - [[Empathy does not disallow judgment]]
 
 ### <hr class="footnote"/>
 

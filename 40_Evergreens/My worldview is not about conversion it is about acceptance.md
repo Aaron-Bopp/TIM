@@ -22,7 +22,7 @@ but I know that because [[Faith is an abstraction of cognitive dissonance]] it c
 ^[[[The bible is god breathed]], [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]]
 My ability to empathize cannot get in the way of holding people accountable for beliefs
 that either directly or indirectly hurt others:
-[[Empathy does not dissallow judgment]]
+[[Empathy does not disallow judgment]]
 
 [[Disambiguation - empathy, sympathy, compassion, pity]]
 [[Is cognitive dissonance the reason for harmful behaviors]]

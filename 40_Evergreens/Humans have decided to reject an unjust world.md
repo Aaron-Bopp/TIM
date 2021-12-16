@@ -28,7 +28,7 @@ sr-ease: 203
 - [[socialization]]
     - [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
     - [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
-    - [[Empathy does not dissallow judgment]]
+    - [[Empathy does not disallow judgment]]
     - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - [[self-actualization]]
     - rational response: [[Sadness is enlightenment and happiness is delusion]]

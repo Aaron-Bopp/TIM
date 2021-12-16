@@ -16,7 +16,7 @@ sr-ease: 206
 - [[Children will imitate whatever is modeled for them]]
 - [[Our authority figures curate and reinforce what we are allowed to imitate]]
 - [[You can be taught to invalidate your own emotions]]
-- [[A inwardly judgementful and outwardly accepting home creates trust issues]]
+- [[A inwardly judgmental and outwardly accepting home creates trust issues]]
 
 ### <hr class="footnote"/>
 
