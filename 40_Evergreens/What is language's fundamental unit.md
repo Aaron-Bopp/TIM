@@ -18,6 +18,8 @@ then paragaphs are amino acids, notes are cells, and books are organisms.
 - [[Nodes in the second brain are an abstraction of our first brain]]
 - [[We will evolve when we make learning as easy as thinking]]
 
+Books are paths through evergreen forests
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
