@@ -12,10 +12,14 @@
   "updateTime": 60,
   "filtered": [
     {
-      "name": "Favorites",
-      "filterType": "FAVORITES",
-      "filterContent": "",
-      "sortOrder": "ALPHABET_NORMAL"
+      "filterFolders": [],
+      "filterTags": [],
+      "filterFeeds": [],
+      "favorites": true,
+      "read": true,
+      "unread": true,
+      "sortOrder": "ALPHABET_NORMAL",
+      "name": "Favorites"
     }
   ],
   "saveLocation": "default",
@@ -518,7 +522,7 @@
       "name": "Round up"
     }
   ],
-  "dateFormat": "YYYY-MM-DDTHH:MM:SS",
+  "dateFormat": "YYYY-MM-DDTHH:mm:SS",
   "template": "---\nlink: {{link}}\nauthor: {{author}}\npublished: {{published}}\n---\n{{content}}",
   "pasteTemplate": "## {{title}}\n{{content}}",
   "askForFilename": true,
@@ -531,7 +535,10 @@
     "favorite": "f",
     "read": "r",
     "tags": "t",
-    "open": "o"
+    "open": "o",
+    "tts": "s",
+    "previous": "ArrowLeft",
+    "next": "ArrowRight"
   },
   "folded": []
 }

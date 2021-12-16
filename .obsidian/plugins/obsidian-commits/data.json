@@ -9534,13 +9534,18 @@
       "size": 2163,
       "tags": 2,
       "links": 19
+    },
+    "10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md": {
+      "size": 1417,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1764,
-      "Create": 2162,
-      "Link": 3727,
+      "Create": 2163,
+      "Link": 3729,
       "Expand": 344
     },
     "40_Evergreens": {
@@ -9561,7 +9566,7 @@
       "6": 0,
       "7": 0,
       "8": 24,
-      "9": 506,
+      "9": 509,
       "10": 125,
       "11": 152,
       "12": 409,
@@ -9609,7 +9614,7 @@
       "Mon": 303,
       "Tue": 818,
       "Wed": 1464,
-      "Thu": 406,
+      "Thu": 409,
       "Fri": 192,
       "Sat": 0,
       "Sun": 4814
@@ -9680,6 +9685,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
@@ -9729,8 +9735,7 @@
         "<a class=\"internal-link\" href=\"I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disability.md\"> disability </a>",
         "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
-        "<a class=\"internal-link\" href=\"disability.md\"> disability </a>",
-        "<a class=\"internal-link\" href=\"Converting existing file formats to plaintext#Converting PDFs to markdown.md\"> Converting existing file formats to plaintext#Converting PDFs to markdown </a>"
+        "<a class=\"internal-link\" href=\"disability.md\"> disability </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not disallow judgment.md\"> Empathy does not disallow judgment </a>",
@@ -9786,6 +9791,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I have always longed to show my authentic self to the world.md\"> I have always longed to show my authentic self to the world </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
@@ -9835,8 +9841,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/language.md\"> language </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurotypical.md\"> neurotypical </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/over-stimulation.md\"> over-stimulation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/black people.md\"> black people </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/black people.md\"> black people </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9923,6 +9928,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
@@ -9972,8 +9978,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",

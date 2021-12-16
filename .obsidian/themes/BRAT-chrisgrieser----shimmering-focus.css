@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.318
+Version 1.327
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -229,13 +229,11 @@ This ToC is auto-generated via the .create-ToC.sh
 
 :root {
 	/* temporary variables till more color stuff is implemented */
-	--dark-sat: 5%;
+	--dark-sat: 10%;
 	--light-sat: 10%;
 
 	/* sat has to be adjusted when light changes due to being a bicone */
 	--base-hue: 220;
-	--longform-light-hue: 20;
-	--longform-dark-hue: 270;
 
 	--brightness-light: 5%;
 	--brightness-dark: 5%;
@@ -247,6 +245,15 @@ This ToC is auto-generated via the .create-ToC.sh
 	--b-dark-3: calc(var(--brightness-dark) + 1%);
 }
 
+.theme-light:not(.longform-no-bg) .longform-leaf {
+	--base-hue: 20;
+}
+
+.theme-dark:not(.longform-no-bg) .longform-leaf {
+	--base-hue: 270;
+}
+
+.theme-light .longform-leaf,
 .theme-light {
 	--bg1: hsl(var(--base-hue) var(--light-sat) var(--b-light-1));
 	--bg2: hsl(var(--base-hue) var(--light-sat) var(--b-light-2));
@@ -258,9 +265,9 @@ This ToC is auto-generated via the .create-ToC.sh
 	--muted-border-color: hsl(var(--base-hue) calc(var(--light-sat) / 2) calc(var(--b-light-3) + 3%));
 	--basic-border-color: hsl(var(--base-hue) calc(var(--light-sat) / 2) calc(var(--b-light-3) - 5%));
 	--backdrop-color: hsl(var(--base-hue) calc(var(--light-sat) * 2) calc(var(--b-light-2) - 20%));
-	--longform-background: hsl(var(--longform-light-hue) calc(var(--light-sat) * 1.5) calc(var(--b-light-1) - 7%));
 }
 
+.theme-dark .longform-leaf,
 .theme-dark {
 	--bg1: hsl(var(--base-hue) var(--dark-sat) var(--b-dark-1));
 	--bg2: hsl(var(--base-hue) var(--dark-sat) var(--b-dark-2));
@@ -272,7 +279,6 @@ This ToC is auto-generated via the .create-ToC.sh
 	--muted-border-color: hsl(var(--base-hue) calc(var(--dark-sat) / 2) calc(var(--b-dark-1) - 6%));
 	--basic-border-color: hsl(var(--base-hue) calc(var(--dark-sat) / 2) calc(var(--b-dark-1) + 6%));
 	--backdrop-color: hsl(var(--base-hue) calc(var(--dark-sat) * 2) calc(var(--b-dark-2) + 2%));
-	--longform-background: hsl(var(--longform-dark-hue) calc(var(--dark-sat) / 1.5) calc(var(--b-dark-1) + 0%));
 }
 
 ::-WEBKIT-SCROLLBAR,
@@ -353,6 +359,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--header-transition: 450ms ease-in-out;
 }
 
+.longform-leaf,
 .theme-light,
 .theme-dark {
 	--basic-border: 2px solid var(--basic-border-color);
@@ -581,10 +588,6 @@ a.external-link {
 	background-position-y: 5px;
 	background-image: var(--external-url);
 	background-size: 14px;
-}
-
-body.hide-external-link-icon a.external-link {
-	background-image: none;
 }
 
 /* help/info (also applies to info plugin) */
@@ -1297,25 +1300,30 @@ body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 << Buttons
 ─────────────────────────────────────────────────── */
 
+/* ":not([type="button"])" prevents targeting excalidraw-buttons */
 button {
-	color: var(--button-text) !important;
-	background-color: var(--button-bg) !important;
+	color: var(--button-text);
+	background-color: var(--button-bg);
 
 	transition: var(--toggle-duration);
 
-	padding: 6px 12px !important;
+	padding: 6px 12px;
 
-	border: 2px solid var(--interactive-border) !important;
+	border: 2px solid var(--interactive-border);
 	border-radius: var(--round);
 
 	letter-spacing: 0.5px;
 }
 
-button:hover {
-	color: var(--button-hover-text) !important;
-	background-color: var(--button-hover-bg) !important;
+body .modal button:hover {
+	color: var(--button-hover-text);
+	background-color: var(--button-hover-bg);
 	transition: var(--toggle-duration);
-	border-color: var(--interactive-hover-border) !important;
+	border-color: var(--interactive-hover-border);
+}
+
+button.color-picker-swatch {
+	color: unset;
 }
 
 /* ───────────────────────────────────────────────────
@@ -1402,6 +1410,10 @@ body:not(.normal-checkboxes) .checkbox-container:hover {
 body:not(.normal-checkboxes) .checkbox-container.is-enabled:hover {
 	background-color: var(--bg2);
 	border-color: var(--interactive-hover-border);
+}
+
+ul li.task-list-item.is-checked {
+	border-radius: var(--roundish);
 }
 
 /* ───────────────────────────────────────────────────
@@ -1819,6 +1831,11 @@ body:not(.move-plugin-name-to-left):not(.is-mobile) .suggestion-prefix {
 	padding-left: 8px;
 }
 
+body:not(.move-plugin-name-to-left):not(.is-mobile) .suggestion-content {
+	display: inline-block;
+	margin-right: 120px;
+}
+
 /* Alternating row colors */
 body:not(.no-alternating-rows) .suggestion-item:nth-child(even),
 body:not(.no-alternating-rows) .suggestion-item:nth-child(even) .suggestion-prefix {
@@ -1984,10 +2001,10 @@ body > .app-container .workspace-split.mod-horizontal > .workspace-tabs > .works
 on the titlebar visibility in the titlebar section */
 
 .workspace-leaf-resize-handle {
-	transition: 350ms ease-in-out;
+	transition: var(--toggle-duration);
 }
 
-/* fix for the resize handler not shining through */
+/* fix for the background not shining through */
 .mod-left-split .workspace-tabs {
 	padding-right: var(--resize-handle-thickness);
 }
@@ -2658,6 +2675,7 @@ body .workspace-leaf-resize-handle:active {
 /* no external link icon */
 .community-plugin-readme a.external-link {
 	background-image: none;
+	padding-right: 0;
 }
 
 /* empty state */
@@ -3398,9 +3416,6 @@ body > .app-container .HyperMD-quote {
 	border-right: var(--muted-border);
 	border-left: var(--muted-border);
 	border-radius: var(--roundish);
-
-	text-align: justify;
-	hyphens: auto;
 }
 
 body > .app-container .HyperMD-quote ~ .HyperMD-quote {
@@ -3450,8 +3465,6 @@ body > .app-container .markdown-preview-view blockquote {
 	border: var(--muted-border);
 	border-radius: var(--roundish);
 
-	font-style: italic;
-	text-align: justify;
 	hyphens: auto;
 }
 
@@ -3461,12 +3474,14 @@ span.cm-em.cm-quote {
 	text-decoration: underline;
 }
 
+/* option for normal size */
 body:not(.normal-blockquotes) blockquote,
 body:not(.normal-blockquotes) .HyperMD-quote.HyperMD-quote-1 {
 	font-size: 0.87em;
 	line-height: 21px;
 }
 
+/* option for decorative blockquote */
 .quotation-mark-deco blockquote p::BEFORE {
 	content: "”";
 
@@ -3486,6 +3501,13 @@ body:not(.normal-blockquotes) .HyperMD-quote.HyperMD-quote-1 {
 	display: inline;
 }
 
+/* option to left-align */
+body:not(.blockquotes-left-aligned) > .app-container .markdown-preview-view blockquote,
+body:not(.blockquotes-left-aligned) > .app-container .HyperMD-quote {
+	text-align: justify;
+	hyphens: auto;
+}
+
 /* ───────────────────────────────────────────────────
 << Tables
 ─────────────────────────────────────────────────── */
@@ -3494,7 +3516,7 @@ https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-y
 
 /* see also section "Max View" */
 
-.markdown-preview-view table:not(.dataview.table-view-table) {
+.markdown-preview-view table:not(.dataview) {
 	width: 100%;
 	table-layout: fixed;
 }
@@ -3505,7 +3527,7 @@ https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-y
 }
 
 table:not(.dataview.table-view-table) th {
-	font-weight: 700;
+	font-weight: 600;
 	text-rendering: geometricPrecision;
 }
 
@@ -3526,16 +3548,11 @@ tr:last-child td:last-child {
 	border-bottom-right-radius: var(--table-roundness);
 }
 
-/* only inner borders */
+/* draw only inner borders */
 body > .app-container table > thead > tr > th {
 	border-top: none;
 	border-right: none;
 	border-bottom: var(--table-border) !important;
-	border-left: var(--table-border) !important;
-}
-
-body > .app-container table > thead > tr > th:first-child {
-	border-left: none !important;
 }
 
 body > .app-container table > tbody > tr > td {
@@ -3543,11 +3560,19 @@ body > .app-container table > tbody > tr > td {
 	border-left: var(--table-border) !important;
 }
 
+/* draw inner vertical borders only for none-dataview tables
+cause lists in tables are misaligned */
+body > .app-container table > thead > tr > th,
+body > .app-container table:not(.dataview) > tbody > tr > td {
+	border-left: var(--table-border) !important;
+}
+
+body > .app-container table > thead > tr > th:first-child,
 body > .app-container table > tbody > tr > td:first-child {
 	border-left: none !important;
 }
 
-/* background */
+/* backgrounds */
 thead {
 	background-color: var(--bg3);
 	font-weight: 900;
@@ -3574,6 +3599,10 @@ body.no-alternating-rows > .app-container table > tbody > tr > td {
 .cm-s-obsidian div.HyperMD-codeblock-bg {
 	--codeblock-border: var(--muted-border);
 	--codeblock-roundness: calc(var(--roundish) * 1.5);
+}
+
+.cm-s-obsidian .HyperMD-codeblock {
+	line-height: 1.5;
 }
 
 .cm-s-obsidian .HyperMD-codeblock,
@@ -4947,11 +4976,6 @@ body .popover {
 	font-size: 1.05em;
 }
 
-.sync-history-list-item.is-active .u-muted,
-.sync-history-list-item:hover .u-muted {
-	color: var(--text-normal);
-}
-
 .sync-history-list-item {
 	padding-right: 5px;
 	padding-left: 10px;
@@ -4961,6 +4985,7 @@ body .popover {
 
 .sync-history-list-item.is-active {
 	color: var(--text-accent);
+	background-color: var(--bg3);
 	font-weight: 600;
 	text-rendering: geometricPrecision;
 }
@@ -4968,16 +4993,22 @@ body .popover {
 .sync-history-list-item:hover,
 .sync-history-list-item.is-active:hover {
 	color: var(--alt-accent);
+	background-color: var(--bg3);
 }
 
 .sync-history-list {
+	background-color: var(--bg2);
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 .sync-history-content-container {
 	height: 100%;
+
+	background-color: var(--bg1);
+
 	padding: 10px;
+
 	border-left: var(--muted-border);
 	border-top-right-radius: var(--roundish);
 	border-bottom-right-radius: var(--roundish);
@@ -5537,22 +5568,13 @@ body.angular-shapes .kanban-plugin__lane {
 
 /* <<< Longform Sidebar */
 
-/* container with more space */
-.tab-list.svelte-1bo97vk {
-	margin-right: 0 !important;
-	margin-left: 0 !important;
-
-	/* horizontal border between sections */
-	border-bottom: var(--basic-border) !important;
-}
-
 .tab-panel-container.svelte-11pvpwl {
 	padding-right: 0 !important;
 	padding-left: 0 !important;
 }
 
 .workspace-leaf-content[data-type="VIEW_TYPE_LONGFORM_EXPLORER"] .view-content {
-	padding: 15px 5px;
+	padding: 7px 4px;
 }
 
 .draft-container.svelte-1jmafs.selected,
@@ -5628,62 +5650,67 @@ div.new-scene-container input#new-scene {
 }
 
 /* <<< Longform Sidebar Icons */
-.svelte-htpziy::BEFORE {
+.tabs .tab-list {
+	padding-bottom: 7px;
+	padding-left: 7px;
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+	border-bottom: var(--basic-border) !important;
+}
+
+.workspace-leaf-content[data-type="VIEW_TYPE_LONGFORM_EXPLORER"] button::BEFORE {
 	font-family: "Material Icons";
 	font-size: 1.1rem;
 	vertical-align: top;
 }
 
-.svelte-htpziy:nth-child(1)::BEFORE {
+.workspace-leaf-content[data-type="VIEW_TYPE_LONGFORM_EXPLORER"] button:nth-child(1)::BEFORE {
 	content: "format_list_numbered_rtl";
 }
 
-.svelte-htpziy:nth-child(2)::BEFORE {
+.workspace-leaf-content[data-type="VIEW_TYPE_LONGFORM_EXPLORER"] button:nth-child(2)::BEFORE {
 	content: "import_contacts";
 }
 
-.svelte-htpziy:nth-child(3)::BEFORE {
+.workspace-leaf-content[data-type="VIEW_TYPE_LONGFORM_EXPLORER"] button:nth-child(3)::BEFORE {
 	content: "merge_type";
 }
 
-.svelte-htpziy.selected {
-	color: var(--text-accent) !important;
-	background-color: var(--bg3) !important;
-}
+.workspace-leaf-content[data-type="VIEW_TYPE_LONGFORM_EXPLORER"] button {
+	color: var(--text-faint);
+	background-color: var(--bg3);
 
-.svelte-htpziy:hover {
-	color: var(--alt-accent) !important;
-	background-color: var(--bg1) !important;
-}
+	padding: 4px 3px 5px 7px;
+	margin-right: -2px;
 
-.svelte-htpziy.selected:hover {
-	color: var(--alt-accent) !important;
-	background-color: var(--bg3) !important;
-}
-
-.svelte-htpziy {
-	color: var(--extra-contrast) !important;
-	background-color: var(--bg1) !important;
-
-	padding: 4px 9px 5px 14px !important;
-	margin-right: 6px !important;
-
-	border: var(--basic-border) !important;
-	border-bottom: none !important;
-	border-top-right-radius: 6px !important;
-	border-top-left-radius: 6px !important;
+	border: var(--thin-border);
+	border-radius: var(--roundish);
 
 	font-size: 0;
 }
 
-.new-draft-container.svelte-1wkli4h,
-.new-scene-container.svelte-1lq63fp,
-.compile-container.svelte-1vu6mjk {
+.workspace-leaf-content[data-type="VIEW_TYPE_LONGFORM_EXPLORER"] button.selected {
+	color: var(--extra-contrast);
+	background-color: var(--bg2);
+}
+
+.workspace-leaf-content[data-type="VIEW_TYPE_LONGFORM_EXPLORER"] button.selected:hover,
+.workspace-leaf-content[data-type="VIEW_TYPE_LONGFORM_EXPLORER"] button:hover {
+	color: var(--alt-accent);
+}
+
+.new-draft-container,
+.new-scene-container,
+.compile-container {
 	border-top: var(--basic-border) !important;
 }
 
+input#new-scene {
+	height: 20px;
+}
+
 /* Compile */
-.compile-button.svelte-1vu6mjk:hover {
+.compile-button:hover {
 	background-color: var(--alt-accent) !important;
 }
 
@@ -5692,11 +5719,11 @@ div.new-scene-container input#new-scene {
 	color: var(--extra-contrast) !important;
 }
 
-.svelte-23avsr[name~="projects"] {
+select[name~="projects"] {
 	font-weight: 600;
 }
 
-.right-arrow.svelte-23avsr {
+.right-arrow {
 	display: none !important;
 }
 
@@ -5705,8 +5732,11 @@ div.new-scene-container input#new-scene {
 	text-decoration: none !important;
 }
 
-/* container */
-#project-picker.svelte-23avsr {
+.workspace-leaf-content .view-content div#project-picker-container {
+	margin-bottom: 0;
+}
+
+#project-picker {
 	background-color: var(--bg3);
 
 	padding: 5px 0 5px 1px;
@@ -5730,24 +5760,7 @@ div.new-scene-container input#new-scene {
 	letter-spacing: 0 !important;
 }
 
-/* background color */
-body:not(.longform-no-bg) .longform-leaf .markdown-preview-view,
-body:not(.longform-no-bg) .longform-leaf .markdown-source-view {
-	background-color: var(--longform-background);
-}
-
-/* header color */
-body:not(.show-header-bar):not(.longform-no-bg) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .longform-leaf .view-header {
-	background-color: var(--longform-background);
-}
-
-body.show-header-bar:not(.longform-no-bg) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .longform-leaf .view-header,
-body:not(.show-header-bar):not(.longform-no-bg) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .longform-leaf .view-header:hover,
-body:not(.show-header-bar):not(.longform-no-bg) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .longform-leaf .view-header:focus-within {
-	background-color: var(--bg1);
-}
-
-body:not(.longform-left-aligned) .longform-leaf .cm-s-obsidian {
+body:not(.longform-left-aligned) .longform-leaf span:not(.cm-header) {
 	text-align: justify;
 	hyphens: auto;
 }
@@ -5776,12 +5789,7 @@ body > div.app-container .longform-leaf .cm-s-obsidian .cm-hmd-frontmatter,
 }
 
 /* do not justify heading text */
-.longform-leaf .cm-header-1,
-.longform-leaf .cm-header-2,
-.longform-leaf .cm-header-3,
-.longform-leaf .cm-header-4,
-.longform-leaf .cm-header-5,
-.longform-leaf .cm-header-6,
+body .longform-leaf .cm-header,
 .longform-leaf .markdown-preview-view h1,
 .longform-leaf .markdown-preview-view h2,
 .longform-leaf .markdown-preview-view h3,
@@ -6099,11 +6107,15 @@ body > .app-container .BC-Matrix-square > ol {
 }
 
 body > .app-container .workspace-leaf-content[data-type="BC-matrix"] > .view-content div.BC-Matrix-square {
-	padding-top: 4px;
-	padding-bottom: 7px;
+	padding-top: 3px;
+	padding-bottom: 6px;
 	border: none;
 	border-bottom: var(--basic-border);
 	text-align: left;
+}
+
+body > .app-container div.BC-Matrix-square ol {
+	margin-top: 0;
 }
 
 body > .app-container div.view-content > div.BC-Matrix > div {
@@ -6119,19 +6131,21 @@ body > .app-container div.view-content {
 	padding: 0 2.5px 2.5px;
 }
 
+/* "up", "same", and "down" */
 h4.BC-Matrix-header {
 	display: inline-flex;
 	margin-left: 0;
 	font-family: var(--default-font);
-	font-size: 1.25em;
+	font-size: 1.2em;
 	font-style: unset !important;
 }
 
+/* "implied" and "real" */
 h6.BC-Matrix-header {
 	display: inline-block;
 
 	position: relative;
-	right: 0;
+	right: -8px;
 
 	color: var(--text-muted) !important;
 
@@ -6140,6 +6154,7 @@ h6.BC-Matrix-header {
 
 	font-family: var(--smallcap-font);
 	font-size: 0.9em;
+	font-style: normal !important;
 }
 
 .workspace-leaf-content[data-type="BC-matrix"] .view-content button {
@@ -6645,6 +6660,14 @@ body:not(.angular-shapes) .plugin-list-plugins .setting-item:not(.mod-toggle):no
 }
 
 /* ───────────────────────────────────────────────────
+<< Excalidraw
+─────────────────────────────────────────────────── */
+
+.excalidraw button {
+	all: unset;
+}
+
+/* ───────────────────────────────────────────────────
 << Other Minor Plugin Customizations
 ─────────────────────────────────────────────────── */
 
@@ -6837,7 +6860,7 @@ settings:
 	 title: "🚧 Experimental: Blue Tint in Dark Mode"
 	 description: Amount of faint blue in Dark Mode. (Testing Ground for upcoming color scheme options.)
 	 type: variable-number-slider
-	 default: 0
+	 default: 10
 	 min: 0
 	 max: 15
 	 step: 1
@@ -6874,8 +6897,8 @@ settings:
 	 default: false
   -
 	 id: font-settings
-	 title: Fonts
-	 description: Sizes, Font-Face, Letter-Spacing
+	 title: Font & Text
+	 description: Font Sizes, Font Faces, Kerning, Alignment
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -6939,6 +6962,12 @@ settings:
 	 id: normal-blockquotes
 	 title: Normal-sized Blockquotes
 	 description: Blockquotes have the same size and line-height as the rest of the text.
+	 type: class-toggle
+	 default: false
+  -
+	 id: blockquotes-left-aligned
+	 title: Left-aligned BLockquote Text
+	 description: Use left-aligned text in blockquotes instead of justified text.
 	 type: class-toggle
 	 default: false
   -

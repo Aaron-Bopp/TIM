@@ -14,15 +14,15 @@
   "enableAlphaSort": true,
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
-  "limitWriteBCCheckboxStates": {
-    "up": true,
-    "same": true,
-    "down": true,
-    "next": true,
-    "prev": true,
-    "Area": true,
-    "See": true
-  },
+  "limitWriteBCCheckboxes": [
+    "up",
+    "same",
+    "down",
+    "next",
+    "prev",
+    "Area"
+  ],
+  "CHECKBOX_STATES_OVERWRITTEN": true,
   "gridDots": false,
   "gridHeatmap": false,
   "heatmapColour": " #7f6df2",
@@ -59,14 +59,23 @@
   "showTrail": true,
   "showGrid": false,
   "showPrevNext": true,
-  "limitTrailCheckboxStates": {
-    "up": true,
-    "Area": true
-  },
+  "limitTrailCheckboxes": [
+    "up",
+    "Area"
+  ],
+  "limitJumpToFirstFields": [
+    "up",
+    "same",
+    "down",
+    "next",
+    "prev",
+    "Area"
+  ],
   "showAll": false,
   "noPathMessage": "This note has no real or implied parents",
   "trailSeperator": "→",
   "treatCurrNodeAsImpliedSibling": false,
+  "trimDendronNotes": false,
   "respectReadableLineLength": true,
   "userHiers": [
     {
