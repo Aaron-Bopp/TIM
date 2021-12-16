@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Apartment hunt.md",
+            "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,50 @@
             {
               "leaf": "756c95f9b04fcf3e",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Flamingo Pose Meditation.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Dual Nostril Breathing Meditation.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":3.6709958031063987}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Apartment hunt.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":25},\"to\":{\"line\":5,\"ch\":25}}}"
+              "eState": "{}"
             },
             {
               "leaf": "756c95f9b04fcf3e",
@@ -117,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apartment hunt.md",
+                "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -150,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apartment hunt.md",
+                "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apartment hunt.md"
+                "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md"
               }
             },
             "pane-relief:history-v1": {
@@ -302,7 +344,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Apartment hunt.md",
+                "file": "40_Evergreens/A secure identity is the best defense against social anxiety.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -413,15 +455,15 @@
   },
   "active": "756c95f9b04fcf3e",
   "lastOpenFiles": [
+    "40_Evergreens/A secure identity is the best defense against social anxiety.md",
+    "40_Evergreens/Parsing markup text for Obsidian projects.md",
+    "40_Evergreens/Flamingo Pose Meditation.md",
+    "40_Evergreens/Dual Nostril Breathing Meditation.md",
+    "40_Evergreens/Is your self-talk bullying you or bodyguarding you.md",
+    "40_Evergreens/Organization systems are not mutually exclusive.md",
+    "40_Evergreens/Develop Obsidian plugins.md",
     "Apartment hunt.md",
     "40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md",
-    "40_Evergreens/Develop Obsidian plugins.md",
-    "40_Evergreens/Searching for THE answer is dangerous.md",
-    "30_Topics/32_Terms/late capitalism.md",
-    "40_Evergreens/You can be taught to invalidate your own emotions.md",
-    "40_Evergreens/Karma is based in the law of cause and effect.md",
-    "20_Entry/209 Notepad.md",
-    "40_Evergreens/Topics are terms that are too broadly defined.md",
-    "30_Topics/35_Outlines/note writing.md"
+    "40_Evergreens/Searching for THE answer is dangerous.md"
   ]
 }

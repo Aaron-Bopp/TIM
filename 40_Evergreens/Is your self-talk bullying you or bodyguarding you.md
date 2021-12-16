@@ -1,9 +1,9 @@
 ---
 created: 2021-06-15
 tags: node/evergreen
-sr-due: 2021-12-15
-sr-interval: 29
-sr-ease: 250
+sr-due: 2021-12-30
+sr-interval: 15
+sr-ease: 230
 ---
 
 #### [[Is your self-talk bullying you or bodyguarding you]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

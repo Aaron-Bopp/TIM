@@ -13,11 +13,11 @@ sr-ease: 130
 If you are insecure in your [[self]], you may feel levels of [[social discomfort]] during [[socialization]]. Part of this is because any slight to you, any level of ineptitude, or feeling of disapproval has nothing to be repelled by.
 [[You can be taught to invalidate your own emotions]]
 
-[[Our brains are built around survival]] and what will increase our fitness
+%%[[Our brains are built around survival]] and what will increase our fitness
  ^[[[Humans are a product of evolution]]]
 which sometimes means our [[social fitness]].
 If you are able to interact and win favor among other humans you are more likely to pass on your genes which thus increases your [[social fitness]].
-The way that this primal urge manifests in our complex understanding of emotion is in [[self-worth]] through our [[self-perception]]: #TO/PONDER/SOCIETY 
+The way that this primal urge manifests in our complex understanding of emotion is in [[self-worth]] through our [[self-perception]]: #TO/PONDER/SOCIETY%% 
 
  [[A secure identity is the best defense against social anxiety]], but [[self]] is not always the thing being attacked: [[A repressed identity creates a mistrust of self-love and self-esteem]], [[Your anxiety knows your insecurities better than you do#Cause repressed identity]] #TO/TEND/DEOBFUSCATE 
 
