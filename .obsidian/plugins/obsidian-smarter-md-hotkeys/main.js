@@ -110,7 +110,7 @@ var COMMANDS = [
   },
   {
     id: "smarter-md-link",
-    name: "Smarter Markdown Link",
+    name: "Smarter Markdown Link/Image",
     before: "[",
     after: "]()"
   }
@@ -288,34 +288,36 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         if (!markupOutsideSel()) {
           editor.replaceSelection(frontMarkup + selectedText + endMarkup);
           anchor.ch += blen;
-          head.ch += alen;
+          head.ch += blen;
         }
         if (markupOutsideSel()) {
           editor.setSelection(offToPos(so - blen), offToPos(eo + alen));
           editor.replaceSelection(selectedText);
           anchor.ch -= blen;
-          head.ch -= alen;
+          head.ch -= blen;
         }
         if (lineMode === "single")
           editor.setSelection(anchor, head);
-        return;
       }
       function insertURLtoMDLink() {
         return __async(this, null, function* () {
           const URLregex = /\b((?:[a-z][\w-]+:(?:\/{1,3}|[a-z0-9%])|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}\/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'".,<>?«»“”‘’]))/;
           const imageURLregex = /\.(png|jpe?g|gif|tiff?)$/;
           const cbText = (yield navigator.clipboard.readText()).trim();
-          if (URLregex.test(cbText))
-            endMarkup = "](" + cbText + ")";
-          if (imageURLregex.test(cbText))
-            frontMarkup = "![";
-          return [frontMarkup, endMarkup];
+          let frontMarkup_ = frontMarkup;
+          let endMarkup_ = endMarkup;
+          if (URLregex.test(cbText)) {
+            endMarkup_ = "](" + cbText + ")";
+            if (imageURLregex.test(cbText))
+              frontMarkup_ = "![";
+          }
+          return [frontMarkup_, endMarkup_];
         });
       }
+      log("\nSmarterMD Hotkeys triggered\n---------------------------");
       if (endMarkup === "]()")
         [frontMarkup, endMarkup] = yield insertURLtoMDLink();
       const [blen, alen] = [frontMarkup.length, endMarkup.length];
-      log("\nSmarterMD Hotkeys triggered\n---------------------------");
       trimSelection();
       if (!multiLineSel()) {
         log("single line");
