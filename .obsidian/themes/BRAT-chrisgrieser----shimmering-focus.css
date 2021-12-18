@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.341
+Version 1.351
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -150,6 +150,7 @@ This ToC is auto-generated via the .create-ToC.sh
 
 :root {
 	--accent-lighter: hsl(243 66% 76%);
+	--accent-lighterer: hsl(243 80% 84%);
 	--accent-lightest: hsl(240 90% 90%);
 	--alt-accent-darker: hsl(164 100% 30%);
 	--alt-accent: hsl(163 97% 34%);
@@ -162,7 +163,7 @@ This ToC is auto-generated via the .create-ToC.sh
 
 	--code-color: var(--alt-accent-darker);
 	--scrollbar-hover: var(--alt-accent-lighter);
-	--scrollbar-active: var(--accent-lightest);
+	--scrollbar-active: var(--accent-lighterer);
 
 	--highlight-color: hsl(152 100% 50% / 40%);
 	--highlight-alt1: hsl(60 100% 50% / 40%);
@@ -178,14 +179,16 @@ This ToC is auto-generated via the .create-ToC.sh
 	--editor-alt-accent: var(--alt-accent-darker);
 	--selection-color: hsl(259 100% 93% / 86.7%);
 	--extra-contrast: hsl(0 0% 36%);
+	--text-muted: hsl(0 0% 53%);
+	--text-faint: hsl(0 0% 60%);
 	--hr-line-gray: hsl(0 0% 66%);
 
 	--button-text: var(--interactive-normal);
 	--button-hover-text: var(--text-normal);
 	--interactive-bg: var(--accent-lighter);
+	--interactive-border: var(--accent-lighterer);
 	--interactive-hover-bg: var(--alt-accent-lighterer);
 	--interactive-hover-border: var(--alt-accent-lighter);
-	--interactive-border: var(--accent-lighter);
 
 	--finished-task: var(--accent-lighter);
 	--cursor-duo-color-1: var(--alt-accent-lightest);
@@ -193,22 +196,23 @@ This ToC is auto-generated via the .create-ToC.sh
 	--a-row: rgb(0 0 0 / 3%);
 	--b-row: rgb(0 0 0 / 7%);
 
-	--notice-bg: hsl(var(--base-hue) 8% 85%);
 	--notice-border: 2px ridge hsl(0 0% 65%);
 }
 
 .theme-dark {
 	--editor-alt-accent: var(--alt-accent);
 	--selection-color: hsl(302 24% 21% / 73%);
-	--extra-contrast: hsl(0 0% 73%);
+	--extra-contrast: hsl(0 0% 68%);
+	--text-muted: hsl(0 0% 58%);
+	--text-faint: hsl(0 0% 40%);
 	--hr-line-gray: hsl(0 0% 60%);
 
 	--button-text: var(--text-normal);
 	--button-hover-text: var(--interactive-normal);
 	--interactive-bg: var(--interactive-accent);
+	--interactive-border: var(--text-accent);
 	--interactive-hover-bg: var(--alt-accent-darker);
 	--interactive-hover-border: var(--alt-accent-lighter);
-	--interactive-border: var(--text-accent);
 
 	--finished-task: var(--text-accent);
 	--cursor-duo-color-1: var(--alt-accent-lighter);
@@ -216,68 +220,74 @@ This ToC is auto-generated via the .create-ToC.sh
 	--a-row: rgb(0 0 0 / 15%);
 	--b-row: rgb(0 0 0 / 30%);
 
-	--notice-bg: hsl(var(--base-hue) 8% 40%);
 	--notice-border: 2px ridge hsl(0 0% 45%);
 }
 
 /* ───────────────────────────────────────────────────
-<< Background
 << Brightness
+<< Saturation
 ─────────────────────────────────────────────────── */
 
 :root {
-	/* temporary variables till more color stuff is implemented */
-	--dark-sat: 10%;
-	--light-sat: 10%;
-
-	/* sat has to be adjusted when light changes due to being a bicone */
-	--base-hue: 220;
-
+	--light-hue: 220;
+	--dark-hue: 220;
+	--dark-sat: 5%;
+	--light-sat: 5%;
 	--brightness-light: 5%;
 	--brightness-dark: 5%;
 }
 
 .theme-light:not(.longform-no-bg) .longform-leaf {
-	--base-hue: 20;
-	--light-sat: 15%;
+	--light-hue: 20;
+	--light-sat: 5%;
 }
 
 .theme-dark:not(.longform-no-bg) .longform-leaf {
-	--base-hue: 270;
+	--dark-hue: 270;
 	--dark-sat: 5%;
 }
 
 .theme-light .longform-leaf,
 .theme-light {
+	--sat-correction-factor: 13%;
 	--b-light-1: calc(var(--brightness-light) + 92%);
 	--b-light-2: calc(var(--brightness-light) + 87%);
 	--b-light-3: calc(var(--brightness-light) + 81%);
-	--bg1: hsl(var(--base-hue) var(--light-sat) var(--b-light-1));
-	--bg2: hsl(var(--base-hue) var(--light-sat) var(--b-light-2));
-	--bg3: hsl(var(--base-hue) var(--light-sat) var(--b-light-3));
+	--sat-light-1: calc((var(--light-sat) + var(--sat-correction-factor)) * 3);
+	--sat-light-2: calc((var(--light-sat) + var(--sat-correction-factor)) * 1.2);
+	--sat-light-3: calc((var(--light-sat) + var(--sat-correction-factor)) * 0.7);
 
-	--resize-handle: hsl(var(--base-hue) var(--light-sat) calc(var(--b-light-2) - 1%));
-	--scrollbar: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-light-2) - 8%));
-	--suggester-b-row: hsl(var(--base-hue) var(--light-sat) calc(var(--b-light-1) - 3%));
-	--muted-border-color: hsl(var(--base-hue) calc(var(--light-sat) / 2) calc(var(--b-light-3) + 3%));
-	--basic-border-color: hsl(var(--base-hue) calc(var(--light-sat) / 2) calc(var(--b-light-3) - 5%));
-	--backdrop-color: hsl(var(--base-hue) calc(var(--light-sat) * 2) calc(var(--b-light-2) - 20%));
+	--bg1: hsl(var(--light-hue) var(--sat-light-1) var(--b-light-1));
+	--bg2: hsl(var(--light-hue) var(--sat-light-2) var(--b-light-2));
+	--bg3: hsl(var(--light-hue) var(--sat-light-3) var(--b-light-3));
+
+	--notice-bg: hsl(var(--light-hue) var(--sat-light-2) var(--b-light-3));
+	--resize-handle: hsl(var(--light-hue) var(--sat-light-2) calc(var(--b-light-2) - 1%));
+	--scrollbar: hsl(var(--light-hue) var(--sat-light-3) calc(var(--b-light-2) - 8%));
+	--suggester-b-row: hsl(var(--light-hue) var(--sat-light-2) calc(var(--b-light-1) - 3%));
+	--muted-border-color: hsl(var(--light-hue) var(--sat-light-3) calc(var(--b-light-3) + 3%));
+	--basic-border-color: hsl(var(--light-hue) var(--sat-light-3) calc(var(--b-light-3) - 5%));
+	--backdrop-color: hsl(var(--light-hue) calc(var(--sat-light-3) * 0.8) calc(var(--b-light-3) - 10%));
 }
 
 .theme-dark {
 	--b-dark-1: calc(var(--brightness-dark) + 11%);
 	--b-dark-2: calc(var(--brightness-dark) + 7%);
-	--b-dark-3: calc(var(--brightness-dark) + 1%);
-	--bg1: hsl(var(--base-hue) var(--dark-sat) var(--b-dark-1));
-	--bg2: hsl(var(--base-hue) var(--dark-sat) var(--b-dark-2));
-	--bg3: hsl(var(--base-hue) var(--dark-sat) var(--b-dark-3));
+	--b-dark-3: calc(var(--brightness-dark) + 2%);
+	--sat-dark-1: calc(var(--dark-sat) * 0.7);
+	--sat-dark-2: calc(var(--dark-sat) * 1.2);
+	--sat-dark-3: calc(var(--dark-sat) * 3);
+	--bg1: hsl(var(--dark-hue) var(--sat-dark-1) var(--b-dark-1));
+	--bg2: hsl(var(--dark-hue) var(--sat-dark-2) var(--b-dark-2));
+	--bg3: hsl(var(--dark-hue) var(--sat-dark-3) var(--b-dark-3));
 
-	--resize-handle: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-dark-2) - 1%));
-	--scrollbar: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-dark-2) + 9%));
-	--suggester-b-row: hsl(var(--base-hue) var(--dark-sat) calc(var(--b-dark-1) - 2%));
-	--muted-border-color: hsl(var(--base-hue) calc(var(--dark-sat) / 2) calc(var(--b-dark-1) - 6%));
-	--basic-border-color: hsl(var(--base-hue) calc(var(--dark-sat) / 2) calc(var(--b-dark-1) + 6%));
-	--backdrop-color: hsl(var(--base-hue) calc(var(--dark-sat) * 2) calc(var(--b-dark-2) + 2%));
+	--notice-bg: hsl(var(--dark-hue) var(--sat-dark-2) var(--b-dark-1));
+	--resize-handle: hsl(var(--dark-hue)  var(--sat-dark-2) calc(var(--b-dark-2) - 1%));
+	--scrollbar: hsl(var(--dark-hue) var(--sat-dark-1) calc(var(--b-dark-2) + 9%));
+	--suggester-b-row: hsl(var(--dark-hue)  var(--sat-dark-1) calc(var(--b-dark-1) - 2%));
+	--muted-border-color: hsl(var(--dark-hue) var(--sat-dark-1) calc(var(--b-dark-1) - 6%));
+	--basic-border-color: hsl(var(--dark-hue) var(--sat-dark-1) calc(var(--b-dark-1) + 6%));
+	--backdrop-color: hsl(var(--dark-hue) calc(var(--sat-dark-2) * 1.2) calc(var(--b-dark-2) + 2%));
 }
 
 ::-WEBKIT-SCROLLBAR,
@@ -322,7 +332,7 @@ This ToC is auto-generated via the .create-ToC.sh
 }
 
 .theme-dark {
-	--shadow-color: hsl(0 0% 0% / 40%);
+	--shadow-color: hsl(0 0% 0% / 30%);
 	--shadow-base-size: 3px;
 }
 
@@ -345,11 +355,12 @@ This ToC is auto-generated via the .create-ToC.sh
 :root {
 	--resize-handle-thickness: 3px;
 	--resize-handle-hovered-thickness: 6px;
-	--scrollbar-thickness: 7px;
+	--scrollbar-thickness: 8px;
 	--image-size: 50;
 	--pdf-size: 50vh;
 	--popover-size: 350;
 	--inactive-pane-opacity: 80%;
+	--tooltip-arrow-length: 20px;
 
 	--signature: "⟡";
 	--empty-state-symbol-size: 8rem;
@@ -450,7 +461,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	--monospace-font-size: 0.9rem;
 
 	--longform-font: "Crimson Pro";
-	--longform-font-size: 120%;
+	--longform-font-size: 115%;
 
 	--sidebar-font-family: "iA Writer Quattro V";
 	--sidebar-font-size: 0.85rem;
@@ -499,7 +510,7 @@ textarea,
 button,
 select.dropdown {
 	font-family: var(--button-font);
-	font-size: calc(var(--button-font-size) + 0.1em);
+	font-size: calc(var(--button-font-size));
 	font-weight: var(--button-font-weight);
 	letter-spacing: 1px;
 }
@@ -688,26 +699,8 @@ body:not(.angular-shapes) .view-header-icon svg {
 }
 
 /* close button */
-*:not(.setting-delete-hotkey) > svg.cross > path { display: none }
-
-body.angular-shapes *:not(.setting-delete-hotkey) > svg.cross {
-	background-color: currentColor;
-	margin-bottom: 3px;
-	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 1024 1024'%3e%3cpath d='M354 671h58.9c4.7 0 9.2-2.1 12.3-5.7L512 561.8l86.8 103.5c3 3.6 7.5 5.7 12.3 5.7H670c6.8 0 10.5-7.9 6.1-13.1L553.8 512l122.4-145.9c4.4-5.2.7-13.1-6.1-13.1h-58.9c-4.7 0-9.2 2.1-12.3 5.7L512 462.2l-86.8-103.5c-3-3.6-7.5-5.7-12.3-5.7H354c-6.8 0-10.5 7.9-6.1 13.1L470.2 512L347.9 657.9A7.95 7.95 0 0 0 354 671z' fill='currentColor'/%3e%3cpath d='M880 112H144c-17.7 0-32 14.3-32 32v736c0 17.7 14.3 32 32 32h736c17.7 0 32-14.3 32-32V144c0-17.7-14.3-32-32-32zm-40 728H184V184h656v656z' fill='currentColor'/%3e%3c/svg%3e");
-}
-
-body:not(.angular-shapes) *:not(.setting-delete-hotkey) > svg.cross {
-	background-color: currentColor;
-	margin-bottom: 1px;
-	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.05em' height='1.05em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cg fill='none'%3e%3cpath d='M12 22A10 10 0 0 1 4.926 4.926a10.004 10.004 0 1 1 14.148 14.148A9.936 9.936 0 0 1 12 22zm-8-9.828A8 8 0 1 0 4 12v.172zM9.409 16l-1.41-1.41L10.59 12L8 9.41L9.41 8L12 10.59L14.59 8L16 9.41L13.41 12L16 14.59L14.592 16L12 13.41L9.41 16h-.001z' fill='currentColor'/%3e%3c/g%3e%3c/svg%3e");
-}
-
-body:not(.angular-shapes) .view-action > svg.cross {
-	margin-bottom: 0.7px;
-}
-
-body:not(.angular-shapes) .installed-plugins-container svg.cross {
-	margin-bottom: 2px;
+svg.cross {
+	stroke-width: 5px;
 }
 
 /* hotkey button */
@@ -797,6 +790,14 @@ svg.dot-network {
 	right: 2px;
 }
 
+/* Search */
+svg.search > path { display: none }
+
+svg.search {
+	background-color: currentColor;
+	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 32 32'%3e%3cpath d='M30 28.586l-4.689-4.688a8.028 8.028 0 1 0-1.414 1.414L28.586 30zM19 25a6 6 0 1 1 6-6a6.007 6.007 0 0 1-6 6z' fill='currentColor'/%3e%3cpath d='M2 12h8v2H2z' fill='currentColor'/%3e%3cpath d='M2 2h16v2H2z' fill='currentColor'/%3e%3cpath d='M2 7h16v2H2z' fill='currentColor'/%3e%3c/svg%3e");
+}
+
 /* ───────────────────────────────────────────────────
 << Plugin Icons
 ─────────────────────────────────────────────────── */
@@ -836,13 +837,6 @@ svg.clock {
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 32 32'%3e%3cpath d='M20.59 22L15 16.41V7h2v8.58l5 5.01L20.59 22z' fill='currentColor'/%3e%3cpath d='M16 2A13.94 13.94 0 0 0 6 6.23V2H4v8h8V8H7.08A12 12 0 1 1 4 16H2A14 14 0 1 0 16 2z' fill='currentColor'/%3e%3c/svg%3e");
 }
 
-svg.search > path { display: none }
-
-svg.search {
-	background-color: currentColor;
-	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 32 32'%3e%3cpath d='M30 28.586l-4.689-4.688a8.028 8.028 0 1 0-1.414 1.414L28.586 30zM19 25a6 6 0 1 1 6-6a6.007 6.007 0 0 1-6 6z' fill='currentColor'/%3e%3cpath d='M2 12h8v2H2z' fill='currentColor'/%3e%3cpath d='M2 2h16v2H2z' fill='currentColor'/%3e%3cpath d='M2 7h16v2H2z' fill='currentColor'/%3e%3c/svg%3e");
-}
-
 svg.BC-trail-icon > path { display: none }
 
 svg.BC-trail-icon {
@@ -855,6 +849,15 @@ svg.longform > path { display: none }
 svg.longform {
 	background-color: currentColor;
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath d='M3 2h2v20H3zm16 0H6v20h13c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm-1 10H9v-2h9v2zm0-4H9V6h9v2z' fill='currentColor'/%3e%3c/svg%3e");
+}
+
+.workspace-tab-header[aria-label="File Info View"] svg.document > path { display: none }
+
+.workspace-tab-header[aria-label="File Info View"] svg.document {
+	background-color: currentColor;
+	transform: scale(1.15);
+	margin-bottom: 0.5px;
+	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath d='M3 4v16a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1zm8 3h2v2h-2V7zm0 4h2v6h-2v-6z' fill='currentColor'/%3e%3c/svg%3e");
 }
 
 /* ───────────────────────────────────────────────────
@@ -1030,24 +1033,27 @@ body:not(.show-ribbons) .workspace-ribbon {
 	letter-spacing: 0.5px;
 
 	word-wrap: break-word;
-
-	--tooltip-arrow: 8px solid var(--notice-bg);
+	--tooltip-arrow: var(--tooltip-arrow-length) solid var(--notice-bg);
 }
 
 .tooltip .tooltip-arrow {
-	margin-top: 2px;
+	margin-top: calc(-1 * var(--tooltip-arrow-length) + 5px);
 	border-bottom: var(--tooltip-arrow);
 }
 
 .tooltip.mod-right .tooltip-arrow {
+	margin-top: 0;
+	margin-left: calc(-1 * var(--tooltip-arrow-length));
 	border-right: var(--tooltip-arrow);
 }
 
 .tooltip.mod-left .tooltip-arrow {
+	margin-top: 0;
 	border-left: var(--tooltip-arrow);
 }
 
 .tooltip.mod-top .tooltip-arrow {
+	margin-top: 0;
 	border-top: var(--tooltip-arrow);
 }
 
@@ -1296,7 +1302,7 @@ body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 .progress-bar .progress-bar-message::BEFORE {
 	content: var(--signature);
 	color: var(--text-normal);
-	font-size: calc(var(--empty-state-symbol-size) * 1.5);
+	font-size: calc(var(--empty-state-symbol-size) * 1.2);
 }
 
 .progress-bar .progress-bar-message {
@@ -1332,6 +1338,8 @@ body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 << Buttons
 ─────────────────────────────────────────────────── */
 
+a.style-settings-import,
+a.style-settings-export,
 .modal-container .modal .modal-button-container button,
 .modal-container .modal .modal-content button:not(.mod-cta),
 .modal-container .modal .modal-content button.mod-cta {
@@ -1345,13 +1353,18 @@ body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 	border: 2px solid var(--interactive-border);
 	border-radius: var(--round);
 
+	font-family: var(--button-font);
 	font-size: var(--button-font-size);
+	font-weight: var(--button-font-weight);
+	line-height: 1.3em;
 	letter-spacing: 0.5px;
 }
 
-.modal-container .modal button:hover,
-.modal-container .modal.mod-settings .modal-content button:hover,
-.modal-container .modal.mod-community-plugin button:hover {
+body a.style-settings-import:hover,
+body a.style-settings-export:hover,
+.modal-container .modal .modal-button-container button:hover,
+.modal-container .modal .modal-content button:not(.mod-cta):hover,
+.modal-container .modal .modal-content button.mod-cta:hover {
 	color: var(--button-hover-text);
 	background-color: var(--interactive-hover-bg);
 	transition: var(--medium-transition);
@@ -1396,6 +1409,10 @@ p.mod-warning::BEFORE {
 	margin-left: 5px;
 }
 
+body:not(.normal-checkboxes) .checkbox-container::AFTER {
+	display: none;
+}
+
 body:not(.normal-checkboxes) .checkbox-container {
 	height: 22px;
 	width: 22px;
@@ -1414,27 +1431,20 @@ body.angular-shapes .checkbox-container {
 	width: 19px;
 }
 
+/* colors */
 body:not(.normal-checkboxes) .checkbox-container.is-enabled {
 	background-color: var(--interactive-bg);
 	border-color: var(--interactive-border);
 }
 
-body:not(.normal-checkboxes) .checkbox-container::AFTER {
-	display: none;
-}
-
 body:not(.normal-checkboxes) .checkbox-container:hover {
 	transition: var(--medium-transition);
-	border: 9px solid var(--interactive-hover-bg);
+	border: 9px solid var(--interactive-hover-border);
 }
 
 body:not(.normal-checkboxes) .checkbox-container.is-enabled:hover {
 	background-color: var(--bg2);
-	border-color: var(--interactive-hover-bg);
-}
-
-ul li.task-list-item.is-checked {
-	border-radius: var(--roundish);
+	border-color: var(--interactive-hover-border);
 }
 
 /* ───────────────────────────────────────────────────
@@ -1443,6 +1453,7 @@ ul li.task-list-item.is-checked {
 
 .search-input-container input,
 input[type="text"],
+input[type="number"],
 input[type="email"],
 input[type="password"] {
 	left: 0;
@@ -1487,20 +1498,19 @@ input:hover {
 /* ───────────────────────────────────────────────────
 << Dropdown & Slider
 ─────────────────────────────────────────────────── */
-select.dropdown:hover {
-	border-color: var(--interactive-hover-border) !important;
-}
 
-select.dropdown:hover,
+/* select.dropdown:hover, */
 select.dropdown {
-	background-color: var(--bg3);
+	background-color: var(--bg2);
 	padding: 6px 28px 6px 10px;
+	border: var(--thin-border);
 	border-radius: var(--round);
 }
 
-/* this style the dropdown menus a bit */
-/* .dropdown option {}
-.dropdown option:checked {} */
+select.dropdown:hover {
+	background-color: var(--bg2);
+	border-color: var(--interactive-hover-border) !important;
+}
 
 input.slider {
 	width: 150px;
@@ -1546,8 +1556,9 @@ div.document-replace {
 	border-radius: calc(var(--round) / 2);
 }
 
-/* for whatever reason the scrollbar shows up on
-the bottom when replacing/searching ლ(ಠ_ಠლ)╯ */
+/* for whatever reason the horizontal scrollbar
+shows up on the bottom when replacing/searching,
+so this has to be used ლ(ಠ_ಠლ)╯ */
 .is-replacing .CodeMirror-scroll {
 	padding-bottom: 120px;
 }
@@ -1613,8 +1624,10 @@ body:not(.show-close-button) .document-search-close-button {
 ─────────────────────────────────────────────────── */
 
 div.menu {
+	background-color: var(--bg2);
 	box-shadow: var(--medium-shadow);
 	padding: 0;
+	border: var(--thin-border);
 	border-radius: var(--roundish);
 }
 
@@ -2405,6 +2418,7 @@ body .workspace-leaf-resize-handle:active {
 }
 
 .setting-hotkey {
+	background-color: var(--bg2);
 	border: var(--thin-border);
 	border-radius: var(--roundish);
 	font-family: var(--button-font);
@@ -2824,7 +2838,7 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 ─────────────────────────────────────────────────── */
 .workspace-leaf:not(.mod-active) .workspace-leaf-content[data-type="markdown"] {
 	opacity: var(--inactive-pane-opacity);
-	transition: 800ms ease-in-out;
+	transition: var(--slow-transition);
 }
 
 /* ───────────────────────────────────────────────────
@@ -2849,12 +2863,17 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 << Editor Size
 ─────────────────────────────────────────────────── */
 
+.markdown-source-view.mod-cm6,
 .markdown-source-view.mod-cm5 {
 	padding-left: 10px;
 }
 
 .markdown-preview-view {
 	padding-top: 10px;
+}
+
+.cm-s-obsidian .CodeMirror-code {
+	padding-right: 0;
 }
 
 /* ───────────────────────────────────────────────────
@@ -3551,12 +3570,12 @@ https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-y
 table {
 	--table-border: var(--basic-border);
 	--table-roundness: var(--roundish);
-	--bold-in-darkmode: var(--text-normal);
 }
 
-table:not(.dataview.table-view-table) th {
+table th {
 	font-weight: 600;
 	text-rendering: geometricPrecision;
+	--bold-in-darkmode: var(--text-normal);
 }
 
 /* rounded corners */
@@ -3585,19 +3604,18 @@ body > .app-container table > thead > tr > th {
 
 body > .app-container table > tbody > tr > td {
 	border: none;
-	border-left: var(--table-border) !important;
 }
 
 /* draw inner vertical borders only for none-dataview tables
 cause lists in tables are misaligned */
 body > .app-container table > thead > tr > th,
 body > .app-container table:not(.dataview) > tbody > tr > td {
-	border-left: var(--table-border) !important;
+	border-left: var(--table-border);
 }
 
 body > .app-container table > thead > tr > th:first-child,
 body > .app-container table > tbody > tr > td:first-child {
-	border-left: none !important;
+	border-left: none;
 }
 
 /* backgrounds */
@@ -3650,11 +3668,8 @@ body.no-alternating-rows > .app-container table > tbody > tr > td {
 body .markdown-preview-view pre[class*="language-"],
 body .markdown-preview-view pre {
 	background-color: var(--bg2);
-	box-shadow: var(--small-shadow);
-
 	padding-top: 10px;
 	padding-bottom: 12px;
-
 	border: var(--codeblock-border);
 	border-radius: var(--codeblock-roundness);
 }
@@ -4148,6 +4163,10 @@ input[type="checkbox"] {
 	-webkit-appearance: none;
 	appearance: none;
 	vertical-align: top;
+}
+
+ul li.task-list-item.is-checked {
+	border-radius: var(--roundish);
 }
 
 input[type="checkbox"]:checked {
@@ -5386,13 +5405,13 @@ https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/1
 
 /* stylelint-disable no-duplicate-selectors */
 .theme-light {
-	--kanban-background: hsl(0 0% 85%);
+	--kanban-background: hsl(var(--light-hue) var(--sat-light-3) 85%);
 	--active-hover-kanban-item: hsl(0 0% 93%);
 	--dot-color: hsl(0 0% 80% / 50%);
 }
 
 .theme-dark {
-	--kanban-background: hsl(0 0% 17%);
+	--kanban-background: hsl(var(--dark-hue) var(--sat-dark-1) 17%);
 	--active-hover-kanban-item: hsl(0 0% 17%);
 	--dot-color: hsl(0 0% 13% / 50%);
 }
@@ -5402,6 +5421,14 @@ https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/1
 	--dot-size: 1px;
 }
 /* stylelint-enable no-duplicate-selectors */
+
+body .kanban-plugin__lane {
+	background-color: var(--bg3);
+}
+
+body .kanban-plugin__item-title-wrapper {
+	background-color: var(--bg2);
+}
 
 .kanban-plugin__board button {
 	color: unset;
@@ -5417,7 +5444,7 @@ body .workspace-leaf-content[data-type="kanban"] .view-header,
 	background-attachment: local;
 }
 
-body .workspace-leaf-content[data-type="kanban"] .view-header {
+.theme-dark .workspace-leaf-content[data-type="kanban"] .view-header {
 	background-color: var(--kanban-background) !important;
 }
 
@@ -5713,7 +5740,7 @@ div.new-scene-container input#new-scene {
 	color: var(--text-faint);
 	background-color: var(--bg3);
 
-	padding: 4px 3px 5px 7px;
+	padding: 4px 0 5px 7px;
 	margin-right: -2px;
 
 	border: var(--thin-border);
@@ -6501,6 +6528,7 @@ pre button.copy:hover::BEFORE {
 /* ───────────────────────────────────────────────────
 << Style Settings (Settings Tab)
 ─────────────────────────────────────────────────── */
+
 /* sidebar */
 .workspace-leaf-content[data-type="style-settings"] .view-content {
 	padding: 8px;
@@ -6544,38 +6572,17 @@ pre button.copy:hover::BEFORE {
 	color: var(--editor-alt-accent);
 }
 
-/* styled import/export like buttons */
-.style-settings-import,
-.style-settings-export {
-	color: var(--button-text);
-	background-color: var(--interactive-bg);
-
-	transition: var(--medium-transition);
-
-	padding: 6px 12px;
+/* most styling of the import/export buttons
+are at the button section */
+body a.style-settings-import,
+body a.style-settings-export {
 	margin-right: 0 !important;
 	margin-left: 12px;
-
-	border: 2px solid var(--interactive-border);
-	border-radius: var(--round);
-
-	font-family: var(--button-font);
 	font-size: calc(var(--button-font-size) * 0.8);
-	font-weight: var(--button-font-weight);
-	line-height: 1.3em;
-	letter-spacing: 0.5px;
 	text-decoration: none;
 }
 
-body a.style-settings-import:hover,
-body a.style-settings-export:hover {
-	color: var(--button-hover-text) !important;
-	background-color: var(--interactive-hover-bg);
-	transition: var(--medium-transition);
-	border-color: var(--interactive-hover-border);
-}
-
-/* remove buggy export button for certain blocks */
+/* remove buggy and unnecessary export button for certain blocks */
 .style-settings-heading .setting-editor-extra-setting-button:last-child {
 	display: none;
 }
@@ -6613,8 +6620,53 @@ img.link-favicon {
 	filter: invert(0.85);
 }
 
+.grayscale-favicons .link-favicon {
+	filter: grayscale(100%);
+}
+
 /* ───────────────────────────────────────────────────
-<< Info Plugin
+<< File Info Panel (Side bar)
+─────────────────────────────────────────────────── */
+body .tlfFileInfoButton {
+	height: unset;
+	background-color: var(--bg1);
+	padding: 3px 3px 2px;
+}
+
+.tlfFileInfoButton:hover {
+	color: var(--alt-accent);
+	background-color: var(--bg1);
+}
+
+.workspace-leaf-content[data-type="tlfItemView"] {
+	padding: 3px;
+}
+
+body .tlfFileInfoTextArea,
+body .tlfFileInfoButton,
+body .tlfFileInfoLabel,
+body .tlfFileInfoValue,
+body .tlfFileInfoValueNumber {
+	font-size: var(--sidebar-font-size);
+}
+
+body .tlfFileInfoTextArea,
+body .tlfFileInfoButton,
+body .tlfFileInfoLabel {
+	color: var(--extra-contrast);
+}
+
+body .tlfFileInfoTextArea {
+	height: 15em;
+	width: 130%;
+}
+
+.theme-light .tlfFileInfoTextArea {
+	background-color: var(--bg1);
+}
+
+/* ───────────────────────────────────────────────────
+<< Get Info (Status bar)
 ─────────────────────────────────────────────────── */
 
 /* no top icon */
@@ -6705,16 +6757,18 @@ button.color-picker-swatch {
 }
 
 /* ───────────────────────────────────────────────────
-<< Other Minor Plugin Customizations
+<< Zoom
 ─────────────────────────────────────────────────── */
 
-/* <<< Zoom */
 a.zoom-plugin-title:hover {
 	color: var(--alt-accent);
 	opacity: 0.8 !important;
 }
 
-/* <<< Advanced Tables */
+/* ───────────────────────────────────────────────────
+<< Advanced Tables
+─────────────────────────────────────────────────── */
+
 .widget-icon:hover {
 	fill: var(--alt-accent) !important;
 }
@@ -6763,6 +6817,11 @@ community:
 - hotkey-helper
 - obsidian-git
 - various-complements
+- obsidian-excalidraw-plugin
+- obsidian-file-info-plugin
+- obsidian-zoom
+- table-editor-obsidian
+- dataview
 */
 
 /* ───────────────────────────────────────────────────
@@ -6813,12 +6872,6 @@ settings:
 	 type: class-toggle
 	 default: false
   -
-	 id: hide-signature
-	 title: Hide the "✧" in the Status Bar
-	 description: Hide the "signature" icon of the theme in the status bar.
-	 type: class-toggle
-	 default: false
-  -
 	 id: show-close-button
 	 title: Re-enable Close Buttons
 	 type: class-toggle
@@ -6855,34 +6908,9 @@ settings:
 	 description: The two buttons to star the current file and the current search.
 	 default: false
   -
-	 id: brightness-settings
-	 title: 🔆 Brightness
-	 description: Overall Brightness of the Theme
-	 type: heading
-	 level: 2
-	 collapsed: true
-  -
-	 id: brightness-light
-	 title: ☀️ Light Mode Brightness
-	 type: variable-number-slider
-	 default: 5
-	 min: 0
-	 max: 10
-	 step: 1
-	 format: '%'
-  -
-	 id: brightness-dark
-	 title: 🌒 Dark Mode Brightness
-	 type: variable-number-slider
-	 default: 5
-	 min: 0
-	 max: 10
-	 step: 1
-	 format: '%'
-  -
 	 id: aesthetics
-	 title: Aesthetics
-	 description: Shapes, Color Schemes (coming soon), Cursor, & Decoration
+	 title: Aesthetics 🎨
+	 description: Brightness, Color, Shapes, Cursor, & Decoration
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -6893,14 +6921,60 @@ settings:
 	 description: Enable to use angular shapes (🔲). Disable to use rounded shapes (🔘).
 	 default: false
   -
-	 id: dark-sat
-	 title: "🚧 Experimental: Blue Tint in Dark Mode"
-	 description: Amount of faint blue in Dark Mode. (Testing Ground for upcoming color scheme options.)
+	 id: brightness-light
+	 title: Brightness (Light Mode)
+	 type: variable-number-slider
+	 default: 5
+	 min: 0
+	 max: 10
+	 step: 1
+	 format: '%'
+  -
+	 id: light-hue
+	 title: 🚧 Color Tone (Light Mode)
+	 description: '(experimental) Overall color tone (hue) of the light theme. (Mind that the appearance of the color is also affected by brightness and saturation, i.e. low saturation leading to gray and how/low brightness leading to white/dark).'
+	 type: variable-number-slider
+	 default: 0
+	 min: 0
+	 max: 360
+	 step: 5
+  -
+	 id: light-sat
+	 title: "🚧 Color Intensity (Light Mode)"
+	 description: "(experimental) Intensity (saturation) of the chosen color tone. Setting it to zero will result in grayscale, regardless of the hue chosen. "
 	 type: variable-number-slider
 	 default: 10
 	 min: 0
 	 max: 15
+	 step: 2
+	 format: '%'
+  -
+	 id: brightness-dark
+	 title: Brightness (Dark Mode)
+	 type: variable-number-slider
+	 default: 5
+	 min: 0
+	 max: 10
 	 step: 1
+	 format: '%'
+  -
+	 id: dark-hue
+	 title: 🚧 Color Tone (Dark Mode)
+	 description: '(experimental) Overall color tone (hue) of the dark theme. (Mind that the appearance of the color is also affected by brightness and saturation, i.e. low saturation leading to gray and how/low brightness leading to white/dark).'
+	 type: variable-number-slider
+	 default: 220
+	 min: 0
+	 max: 360
+	 step: 5
+  -
+	 id: dark-sat
+	 title: "🚧 Color Intensity (Dark Mode)"
+	 description: "(experimental) Intensity (saturation) of the chosen color tone. Setting it to zero will result in grayscale, regardless of the hue chosen. "
+	 type: variable-number-slider
+	 default: 5
+	 min: 0
+	 max: 15
+	 step: 2
 	 format: '%'
   -
 	 id: block-cursor
@@ -6911,13 +6985,7 @@ settings:
   -
 	 id: mono-color-cursor
 	 title: Mono-colored Cursor
-	 description: 'Use a mono-colored, purple cursor like in previous versions of "Shimmering Focus".'
-	 type: class-toggle
-	 default: false
-  -
-	 id: quotation-mark-deco
-	 title: "Block Quote: Decorative Quotation Mark"
-	 description: Show a decorative quotation mark next to blockquotes in Preview Mode (no Live Preview yet).
+	 description: Use a mono-colored, purple cursor.
 	 type: class-toggle
 	 default: false
   -
@@ -6930,6 +6998,19 @@ settings:
 	 id: colored-yaml
 	 title: "YAML: Coloring"
 	 description: Use colored YAML frontmatter (in Edit Mode).
+	 type: class-toggle
+	 default: false
+  -
+	 id: quotation-mark-deco
+	 title: "Block Quotes: Decorative Quotation Mark"
+	 description: Show a decorative quotation mark next to blockquotes in Preview Mode (no Live Preview yet).
+	 type: class-toggle
+	 default: false
+  -
+	 id: hide-signature
+	 title: 'Status Bar: Hide the "✧" icon'
+	 description: Hide the decorative icon in the status bar.
+	 hub: ignore
 	 type: class-toggle
 	 default: false
   -
@@ -7201,52 +7282,6 @@ settings:
 	 type: class-toggle
 	 default: false
   -
-	 id: longform-settings
-	 title: Longform Plugin
-	 description: Font, Alignment, Background
-	 type: heading
-	 level: 2
-	 collapsed: true
-  -
-	 id: longform-font
-	 title: Main Font
-	 description: Font used in folders marked as Longform Project
-	 type: variable-text
-	 default: '"Crimson Pro"'
-  -
-	 id: longform-font-size
-	 title: Longform Font Size
-	 type: variable-number-slider
-	 default: 1.2
-	 min: 0.7
-	 max: 3
-	 step: 0.1
-	 format: em
-  -
-	 id: longform-left-aligned
-	 title: Left-aligned text
-	 description: Use left-aligned text instead of justified text.
-	 type: class-toggle
-	 default: false
-  -
-	 id: longform-no-text-indent
-	 title: First-Line Indent (Preview Mode)
-	 description: Indent the first Line of a paragraph in longform notes (only in preview mode).
-	 type: class-toggle
-	 default: false
-  -
-	 id: longform-no-bg
-	 title: No Background Coloring
-	 description: Turn off the slight coloring of longform notes.
-	 type: class-toggle
-	 default: false
-  -
-	 id: hide-index-files
-	 title: Hide files named "Index.md" from File Explorer
-	 description: Files named that way are created by some plugins like the Longform Plugin and in many cases should not be changed.
-	 type: class-toggle
-	 default: false
-  -
 	 id: mobile
 	 title: Mobile
 	 description: Settings specifically for mobile
@@ -7263,22 +7298,86 @@ settings:
 	 step: 0.05
 	 format: rem
   -
-	 id: miscellaneous
-	 title: Miscellaneous
-	 description: Popovers, Pandoc Citations, Annotation Tags, Active Line Highlighting, Command Palette, Alternating Row Colors, Relationship Lines, Calendar Plugin
+	 id: plugin-specific-settings
+	 title: Plugin-Specific Settings
+	 description: Longform, Popovers, Command Palette, Calendar Plugin
 	 type: heading
 	 level: 2
 	 collapsed: true
   -
 	 id: popover-size
-	 title: Size of Popovers (Page Previews)
-	 description: Width & Height of Popovers in px
+	 title: 'Page Preview: Size'
+	 description: Width & Height of Page Previews (Popovers) in px. (Mind that this is quadratic growth of the previews size.)
 	 type: variable-number-slider
 	 default: 350
 	 min: 200
 	 max: 600
 	 step: 50
 	 format: px
+  -
+	 id: grayscale-favicons
+	 title: 'Link Favicons: Grayscale Icons'
+	 type: class-toggle
+	 default: false
+  -
+	 id: move-plugin-name-to-left
+	 title: 'Command Palette: Move the plugin name back to the left'
+	 description: Enable this in case some commands are aren't displayed properly in the Command Palette.
+	 type: class-toggle
+	 default: false
+  -
+	 id: no-calendar-lines
+	 title: 'Calendar: Remove vertical lines'
+	 description: Remove the lines in the Calendar plugin's Calendar (making it more similar to its default look).
+	 type: class-toggle
+	 default: false
+  -
+	 id: longform-font
+	 title: 'Longform: Main Font'
+	 description: Font used in folders marked as Longform Project
+	 type: variable-text
+	 default: '"Crimson Pro"'
+  -
+	 id: longform-font-size
+	 title: 'Longform: Font Size'
+	 type: variable-number-slider
+	 default: 115
+	 min: 70
+	 max: 130
+	 step: 2
+	 format: '%'
+  -
+	 id: longform-left-aligned
+	 title: 'Longform: Left-aligned text'
+	 description: Use left-aligned text instead of justified text.
+	 type: class-toggle
+	 default: false
+  -
+	 id: longform-no-text-indent
+	 title: 'Longform: First-Line Indent (Preview Mode)'
+	 description: Indent the first Line of a paragraph in longform notes (preview mode only).
+	 type: class-toggle
+	 default: false
+  -
+	 id: longform-no-bg
+	 title: 'Longform No Background Coloring'
+	 description: Turn off the alternative background coloring of longform notes.
+	 type: class-toggle
+	 default: false
+  -
+	 id: hide-index-files
+	 title: 'Longform: Hide files named "Index.md" from File Explorer'
+	 description: Files named that way are created by some plugins like the Longform Plugin and in many cases should not be changed.
+	 type: class-toggle
+	 hub: ignore
+	 default: false
+  -
+	 id: miscellaneous
+	 title: Miscellaneous
+	 description: Pandoc Citations, Annotation Tags, Active Line Highlighting, Alternating Row Colors, Relationship Lines
+	 type: heading
+	 level: 2
+	 collapsed: true
   -
 	 id: no-pandoc-citation-emphasis
 	 title: No Emphasis of Pandoc Citations
@@ -7303,22 +7402,11 @@ settings:
 	 type: class-toggle
 	 default: false
   -
-	 id: move-plugin-name-to-left
-	 title: 'Command Palette: Move the plugin name back to the left'
-	 description: Enable this in case some commands are aren't displayed properly in the Command Palette.
-	 type: class-toggle
-	 default: false
-  -
 	 id: no-ul-relationship-lines
 	 title: Disable Relationship Lines for lists
 	 description: If you want to use a custom relationship line snippet or the relationship lines from the Outliner plugin, you can disable this theme's relationship lines to prevent interference.
 	 type: class-toggle
-	 default: false
-  -
-	 id: no-calendar-lines
-	 title: Remove lines in Calendar
-	 description: Remove the lines in the Calendar plugin's Calendar (making it more similar to its default look).
-	 type: class-toggle
+	 hub: ignore
 	 default: false
 */
 /* ─────────────────────────────────────────────────── */
