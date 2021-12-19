@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Develop Obsidian plugins.md",
+            "file": "10_Sources/notes_The Dawn of Everything.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "756c95f9b04fcf3e",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":45},\"to\":{\"line\":15,\"ch\":45}}}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "756c95f9b04fcf3e",
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Develop Obsidian plugins.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -110,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Develop Obsidian plugins.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -149,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Develop Obsidian plugins.md"
+                "file": "10_Sources/notes_The Dawn of Everything.md"
               }
             }
           },
@@ -218,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "84f4f33f118f4527",
@@ -230,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Develop Obsidian plugins.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -329,10 +335,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 690
+    "width": 690,
+    "collapsed": true
   },
   "active": "756c95f9b04fcf3e",
   "lastOpenFiles": [
+    "10_Sources/notes_The Dawn of Everything.md",
     "40_Evergreens/Develop Obsidian plugins.md",
     "20_Entry/21 TODO/BOOKLIST.md",
     "40_Evergreens/What is language's fundamental unit.md",
@@ -341,7 +349,6 @@
     "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md",
     "40_Evergreens/Empathy does not disallow judgment.md",
     "40_Evergreens/Children make wide assumptions about the world.md",
-    "40_Evergreens/How to read to understand.md",
-    "40_Evergreens/Use highlighter colors to create visual outlines.md"
+    "40_Evergreens/How to read to understand.md"
   ]
 }
