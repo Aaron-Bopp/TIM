@@ -8032,7 +8032,7 @@
     },
     "40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md": {
       "size": 1233,
-      "tags": 3,
+      "tags": 2,
       "links": 10
     },
     "10_Sources/Psychology of Race and Gender notes.md": {
@@ -9553,13 +9553,13 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1770,
+      "Refactor": 1771,
       "Create": 2165,
       "Link": 3747,
       "Expand": 348
     },
     "40_Evergreens": {
-      "Refactor": 124,
+      "Refactor": 125,
       "Create": 20,
       "Link": 259,
       "Expand": 176
@@ -9590,7 +9590,7 @@
       "20": 159,
       "21": 259,
       "22": 257,
-      "23": 296
+      "23": 297
     },
     "40_Evergreens": {
       "0": 44,
@@ -9616,7 +9616,7 @@
       "20": 20,
       "21": 40,
       "22": 10,
-      "23": 58
+      "23": 59
     }
   },
   "weeklyCommits": {
@@ -9627,7 +9627,7 @@
       "Thu": 409,
       "Fri": 192,
       "Sat": 0,
-      "Sun": 4844
+      "Sun": 4845
     },
     "40_Evergreens": {
       "Mon": 54,
@@ -9636,7 +9636,7 @@
       "Thu": 5,
       "Fri": 8,
       "Sat": 0,
-      "Sun": 322
+      "Sun": 323
     }
   },
   "recentCommits": {
@@ -9991,6 +9991,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
@@ -10040,8 +10041,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Tips for concentration.md\"> Tips for concentration </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender is a social construct.md\"> Gender is a social construct </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Science supports the validity of trans people.md\"> Science supports the validity of trans people </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/note writing.md\"> note writing </a>",
@@ -10380,7 +10380,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
