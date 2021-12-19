@@ -17,7 +17,7 @@ sr-ease: 230
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Bhuddism]], [[karma]]
+**Topics**:: [[Buddhism]], [[karma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

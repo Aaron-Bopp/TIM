@@ -3,9 +3,9 @@ created: 2021-12-14
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-16
+sr-due: 2021-12-19
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[Colonization and slavery lead to generational disparities in black communities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

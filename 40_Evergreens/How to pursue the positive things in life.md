@@ -3,8 +3,8 @@ created: 2021-11-21
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-12-16
-sr-interval: 2
+sr-due: 2021-12-24
+sr-interval: 6
 sr-ease: 150
 ---
 
@@ -26,7 +26,7 @@ sr-ease: 150
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-love]], [[self-improvement]], [[human advancement]]

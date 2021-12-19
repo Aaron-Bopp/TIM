@@ -3,9 +3,9 @@ created: 2021-12-08
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-16
-sr-interval: 2
-sr-ease: 210
+sr-due: 2021-12-19
+sr-interval: 1
+sr-ease: 190
 ---
 
 #### [[An increase in self-love and self-respect may lead to a loss of function]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

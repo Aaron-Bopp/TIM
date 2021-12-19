@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen, node/technique
-sr-due: 2021-12-15
-sr-interval: 3
+sr-due: 2021-12-31
+sr-interval: 13
 sr-ease: 250
 ---
 

@@ -13,7 +13,7 @@ aliases:
 
 ##### [[religion]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Christianity]]
-- [[Bhuddism]]
+- [[Buddhism]]
 - [[Hinduism]]
 
 ### <hr class="dataviews"/>

@@ -10,7 +10,7 @@ sr-ease: 231
 
 My deconstruction started in high school because of a general lack of [[love]] for the church. I didn't really get anything out of it, and I had kinda stopped trying to be a [[Christianity|christian]] after middle school. Part of the reason was I never had a spiritual experience even though I tried so hard. I basically felt like I deserved it and because I didn't get it I stopped trying. Even if I had gotten one I 100% believe that if you try hard enough and believe hard enough [[The brain is powerful enough to create supernatural experiences]] 
 
-I was disconnected from my [[faith]] enough that I was able to stop being a [[Christianity|christian]], before I decided that God wasn't real, and I wasn't really afraid of [[Deconstruction (Christianity)| deconstructing]] my [[faith]] because I only valued the church to please [[my parents]].  I still practiced [[Christianity]] (christian school, going to church, etc) until I was 19, because I was too scared of [[my parents]] reactions. I lied for four years straight, for really no benefit because I forced myself to live a lie for years and when I did tell them it was still [[religious trauma| traumatic]]: [[Fear cannot be a deterant for deconstructing your faith]]
+I was disconnected from my [[faith]] enough that I was able to stop being a [[Christianity|christian]], before I decided that God wasn't real, and I wasn't really afraid of [[Deconstruction (Christianity)| deconstructing]] my [[faith]] because I only valued the church to please [[my parents]].  I still practiced [[Christianity]] (christian school, going to church, etc) until I was 19, because I was too scared of [[my parents]] reactions. I lied for four years straight, for really no benefit because I forced myself to live a lie for years and when I did tell them it was still [[religious trauma| traumatic]]: [[Fear cannot be a deterrent for deconstructing your faith]]
 
 It took me two years of complete separation from the church and [[my parents]] on top of four years of not being a [[Christianity|christian]] before I felt like I could look at [[Christianity]] objectively, because [[Deconstructing your faith is like climbing through a jungle canopy]]. It was only when I was able to reach the top that I made the realizations about God 
 ^[[[The biblical christian God is evil and does not deserve to be worshipped]]]
@@ -35,7 +35,7 @@ Additionally I believe [[Worldviews are wrong if they make life seem easy and si
 -  [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 
 I have started to look other belief systems to contrast them to [[Christianity]]:
-[[The materialistic view of religions examines why humans invented and clung to religion]], but we still see religions like [[Bhuddism]] that do not focus on salvation. [[Bhuddism outlines a path and practice to end suffering, but does not promise it]].
+[[The materialistic view of religions examines why humans invented and clung to religion]], but we still see religions like [[Buddhism]] that do not focus on salvation. [[Buddhism outlines a path and practice to end suffering, but does not promise it]].
 
 ### <hr class="footnote"/>
 

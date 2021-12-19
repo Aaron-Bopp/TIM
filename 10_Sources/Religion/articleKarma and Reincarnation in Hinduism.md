@@ -10,7 +10,7 @@ source: https://www.hinduismtoday.com/hindu-basics/karma-and-reincarnation/
 
 ###### [[Karma and Reincarnation in Hinduism]]
 
-**Topics**::  [[Bhuddism]], [[eastern philosophy]]
+**Topics**::  [[Buddhism]], [[eastern philosophy]]
 
 **Last Edited**:: *`=this.file.mtime`*
 

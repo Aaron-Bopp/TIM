@@ -288,17 +288,16 @@ class ObsidianCodeMirrorOptionsSettingsTab extends require$$0.PluginSettingTab {
         this.plugin = plugin;
     }
     display() {
-        var _a, _b;
         const { containerEl } = this;
         containerEl.empty();
         containerEl.addClass("codemirror-options-settings");
         let tokenSettings;
-        if ((_a = this.app.vault.config) === null || _a === void 0 ? void 0 : _a.livePreview) {
+        if (!this.app.vault.getConfig("legacyEditor")) {
             containerEl.createEl("h3", {
                 text: "⚠️ Notice: Most of this plugin does not function when Live Preview mode is enabled.",
             });
         }
-        if (!((_b = this.app.vault.config) === null || _b === void 0 ? void 0 : _b.livePreview)) {
+        if (this.app.vault.getConfig("legacyEditor")) {
             containerEl.createEl("h3", {
                 text: "Markdown Parsing",
             });
@@ -594,73 +593,63 @@ class ObsidianCodeMirrorOptionsSettingsTab extends require$$0.PluginSettingTab {
             text: "Syntax Highlighting",
         });
         let lineNums, copyButton, copyButtonPre;
-        if (
-        //@ts-ignore
-        this.app.plugins.plugins["cm-editor-syntax-highlight-obsidian"]) {
-            new require$$0.Setting(containerEl)
-                .setName("Enable Edit Mode Syntax Highlighting Themes")
-                .setDesc(`Apply syntax highlighting themes to code blocks in edit mode. The default theme is Material Pale Night
+        new require$$0.Setting(containerEl)
+            .setName("Enable Edit Mode Syntax Highlighting Themes")
+            .setDesc(`Apply syntax highlighting themes to code blocks in edit mode. The default theme is Material Pale Night
                 but additional themes are available via the Style Settings plugin`)
-                .addToggle(toggle => toggle.setValue(this.plugin.settings.syntaxHighlighting).onChange(value => {
-                this.plugin.settings.syntaxHighlighting = value;
-                this.plugin.saveData(this.plugin.settings);
-                this.plugin.applyBodyClasses(true);
-            }));
-            new require$$0.Setting(containerEl)
-                .setName("Enable Preview Mode Syntax Highlighting Themes")
-                .setDesc(`Apply syntax highlighting themes to code blocks in preview mode. The default theme is Material Pale Night
+            .addToggle(toggle => toggle.setValue(this.plugin.settings.syntaxHighlighting).onChange(value => {
+            this.plugin.settings.syntaxHighlighting = value;
+            this.plugin.saveData(this.plugin.settings);
+            this.plugin.applyBodyClasses(true);
+        }));
+        new require$$0.Setting(containerEl)
+            .setName("Enable Preview Mode Syntax Highlighting Themes")
+            .setDesc(`Apply syntax highlighting themes to code blocks in preview mode. The default theme is Material Pale Night
         but additional themes are available via the Style Settings plugin`)
-                .addToggle(toggle => toggle.setValue(this.plugin.settings.enablePrismJSStyling).onChange(value => {
-                this.plugin.settings.enablePrismJSStyling = value;
-                this.plugin.saveData(this.plugin.settings);
-                this.plugin.applyBodyClasses(true);
-            }));
-            new require$$0.Setting(containerEl)
-                .setName("Use CodeMirror for syntax highlighting in preview mode")
-                .setDesc(`This setting creates consistent highlighting between edit and preview by using CodeMirror to highlight code in both modes.`)
-                .addToggle(toggle => toggle.setValue(this.plugin.settings.enableCMinPreview).onChange(value => {
-                this.plugin.settings.enableCMinPreview = value;
-                this.plugin.saveData(this.plugin.settings);
-                this.plugin.applyBodyClasses(true);
-                this.plugin.settings.enableCMinPreview
-                    ? (lineNums.settingEl.removeClass("setting-disabled"),
-                        copyButton.settingEl.removeClass("setting-disabled"),
-                        copyButtonPre.settingEl.removeClass("setting-disabled"))
-                    : (lineNums.settingEl.addClass("setting-disabled"),
-                        copyButton.settingEl.addClass("setting-disabled"),
-                        copyButtonPre.settingEl.addClass("setting-disabled"));
-            }));
-            lineNums = new require$$0.Setting(containerEl)
-                .setName("⚠️ Show line numbers for code blocks in preview mode")
-                .setDesc(`This setting will add line numbers to code blocks in preview mode.`)
-                .addToggle(toggle => toggle.setValue(this.plugin.settings.showLineNums).onChange(value => {
-                this.plugin.settings.showLineNums = value;
-                this.plugin.saveData(this.plugin.settings);
-                this.plugin.applyBodyClasses(true);
-            }));
-            copyButton = new require$$0.Setting(containerEl)
-                .setName("Enable copy button to code blocks in preview mode")
-                .setDesc(`This setting will add a copy button to the bottom left corner of code blocks in preview mode. The button will show up on code block hover.`)
-                .addToggle(toggle => toggle.setValue(this.plugin.settings.copyButton).onChange(value => {
-                this.plugin.settings.copyButton = value;
-                this.plugin.saveData(this.plugin.settings);
-                this.plugin.applyBodyClasses(true);
-            }));
-            copyButtonPre = new require$$0.Setting(containerEl)
-                .setName("⚠️ Enable copy button to all PRE blocks in preview mode")
-                .setDesc(`This setting will add a copy button to any PRE element. This could negatively impact certain plugins that render PRE blocks.`)
-                .addToggle(toggle => toggle.setValue(this.plugin.settings.copyButtonOnPRE).onChange(value => {
-                this.plugin.settings.copyButtonOnPRE = value;
-                this.plugin.saveData(this.plugin.settings);
-                this.plugin.applyBodyClasses(true);
-            }));
-        }
-        else {
-            new require$$0.Setting(containerEl)
-                .setName("Use CodeMirror for syntax highlighting in preview mode")
-                .setDesc('⚠️ Install the plugin "Editor Syntax Highlight" in order to use this feature')
-                .setClass("info");
-        }
+            .addToggle(toggle => toggle.setValue(this.plugin.settings.enablePrismJSStyling).onChange(value => {
+            this.plugin.settings.enablePrismJSStyling = value;
+            this.plugin.saveData(this.plugin.settings);
+            this.plugin.applyBodyClasses(true);
+        }));
+        new require$$0.Setting(containerEl)
+            .setName("Use CodeMirror for syntax highlighting in preview mode")
+            .setDesc(`This setting creates consistent highlighting between edit and preview by using CodeMirror to highlight code in both modes.`)
+            .addToggle(toggle => toggle.setValue(this.plugin.settings.enableCMinPreview).onChange(value => {
+            this.plugin.settings.enableCMinPreview = value;
+            this.plugin.saveData(this.plugin.settings);
+            this.plugin.applyBodyClasses(true);
+            this.plugin.settings.enableCMinPreview
+                ? (lineNums.settingEl.removeClass("setting-disabled"),
+                    copyButton.settingEl.removeClass("setting-disabled"),
+                    copyButtonPre.settingEl.removeClass("setting-disabled"))
+                : (lineNums.settingEl.addClass("setting-disabled"),
+                    copyButton.settingEl.addClass("setting-disabled"),
+                    copyButtonPre.settingEl.addClass("setting-disabled"));
+        }));
+        lineNums = new require$$0.Setting(containerEl)
+            .setName("⚠️ Show line numbers for code blocks in preview mode")
+            .setDesc(`This setting will add line numbers to code blocks in preview mode.`)
+            .addToggle(toggle => toggle.setValue(this.plugin.settings.showLineNums).onChange(value => {
+            this.plugin.settings.showLineNums = value;
+            this.plugin.saveData(this.plugin.settings);
+            this.plugin.applyBodyClasses(true);
+        }));
+        copyButton = new require$$0.Setting(containerEl)
+            .setName("Enable copy button to code blocks in preview mode")
+            .setDesc(`This setting will add a copy button to the bottom left corner of code blocks in preview mode. The button will show up on code block hover.`)
+            .addToggle(toggle => toggle.setValue(this.plugin.settings.copyButton).onChange(value => {
+            this.plugin.settings.copyButton = value;
+            this.plugin.saveData(this.plugin.settings);
+            this.plugin.applyBodyClasses(true);
+        }));
+        copyButtonPre = new require$$0.Setting(containerEl)
+            .setName("⚠️ Enable copy button to all PRE blocks in preview mode")
+            .setDesc(`This setting will add a copy button to any PRE element. This could negatively impact certain plugins that render PRE blocks.`)
+            .addToggle(toggle => toggle.setValue(this.plugin.settings.copyButtonOnPRE).onChange(value => {
+            this.plugin.settings.copyButtonOnPRE = value;
+            this.plugin.saveData(this.plugin.settings);
+            this.plugin.applyBodyClasses(true);
+        }));
         containerEl.createEl("h3", {
             text: "Syntax Highlighting Theme",
         });
@@ -3408,7 +3397,7 @@ var __assign =
                   // successfully made one
                   state.hmdTable = tableType;
                   state.hmdTableColumns = rowStyles;
-                  state.hmdTableID = "T" + stream.lineOracle.line;
+                  state.hmdTableID = "T" + stream.lineOracle?.line;
                   state.hmdTableRow = state.hmdTableCol = 0;
                 }
               }
@@ -4263,7 +4252,7 @@ var ___extends = (function () {
       title = mat[2] ? mat[2] : "";
       if (title.charAt(0) === '"') title = title.substr(1, title.length - 2).replace(/\\"/g, '"');
     }
-    return { url: url, title: title };
+    return { url: url?.trim(), title: title };
   }
   exports.ImageFolder = ImageFolder;
   fold_1.registerFolder("image", exports.ImageFolder, true);
@@ -6922,18 +6911,17 @@ class ObsidianCodeMirrorOptionsPlugin extends require$$0.Plugin {
         }, 0, true);
     }
     onload() {
-        var _a, _b;
         return __awaiter(this, void 0, void 0, function* () {
             // patch the default Obsidian methods, ASAP
             //@ts-ignore
-            if (!((_a = this.app.vault.config) === null || _a === void 0 ? void 0 : _a.livePreview))
+            if (this.app.vault.getConfig("legacyEditor"))
                 this.applyMonkeyPatches();
             // load settings
             yield this.loadSettings();
             // add the settings tab
             this.addSettingTab(new ObsidianCodeMirrorOptionsSettingsTab(this.app, this));
             //@ts-ignore
-            if (!((_b = this.app.vault.config) === null || _b === void 0 ? void 0 : _b.livePreview)) {
+            if (this.app.vault.getConfig("legacyEditor")) {
                 // initial-file-load is a custom event emitted by a patched MarkdownView.onLoadFile
                 this.registerEvent(this.app.workspace.on("initial-file-load", this.onFileLoad));
                 // file-unload is a custom event emitted by a patched MarkdownView.onUnloadFile

@@ -28,7 +28,7 @@ tags: node/topic/outline
 - [[mental illness]]
 - Techniques to improve mental health
 	- [[Tips for concentration]]
-	- [[mindfullness]]
+	- [[mindfulness]]
 	- ![[yoga#yoga customJS dv_funcs topicOutlineHeader dv this]]
 - [[Sadness is enlightenment and happiness is delusion]]
 - ![[my emotions#my emotions customJS dv_funcs topicOutlineHeader dv this]]

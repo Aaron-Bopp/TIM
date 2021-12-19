@@ -40,5 +40,5 @@ It may be something small, it may be something massive, or they may just get bor
 **Status**:: #EVER/GREEN/PRUNE 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[self-worth]], [[Bhuddism]], [[depression]], [[social justice]]
+**Topics**:: [[self-worth]], [[Buddhism]], [[depression]], [[social justice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -2,12 +2,14 @@
 created: 2021-06-20
 tags: node/evergreen
 date modified: Monday, October 4th 2021, 1:21:57 am
-sr-due: 2021-12-16
-sr-interval: 1
+sr-due: 2021-12-21
+sr-interval: 3
 sr-ease: 130
 ---
 
 #### [[A secure identity is the best defense against social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
+
+#TO/DO/WRITE rewrite this entire note #TO/TEND/PRUNE maybe it's doing too much?
 
 [[Mental health is a reaction to one's environment]]
 If you are insecure in your [[self]], you may feel levels of [[social discomfort]] during [[socialization]]. Part of this is because any slight to you, any level of ineptitude, or feeling of disapproval has nothing to be repelled by.

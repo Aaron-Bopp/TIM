@@ -17,6 +17,6 @@ Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[meditation]], [[mindfullness]]
+**Topics**:: [[meditation]], [[mindfulness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

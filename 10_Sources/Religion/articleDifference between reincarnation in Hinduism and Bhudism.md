@@ -9,11 +9,11 @@ source: https://medium.com/@xsm918/comparing-reincarnation-beliefs-between-hindu
 
 ###### [[Difference between reincarnation in Hinduism and Bhudism]]
 
-**Topics**::  [[Bhuddism]], [[Hinduism]], [[eastern philosophy]]
+**Topics**::  [[Buddhism]], [[Hinduism]], [[eastern philosophy]]
 
 **Last Edited**:: *`=this.file.mtime`*
 
-- [[Hinduism]] believe in a persisting [[soul]] but [[Bhuddism]] view [[Reincarnation]] as a repeated occurrence of life [^1]
+- [[Hinduism]] believe in a persisting [[soul]] but [[Buddhism]] view [[Reincarnation]] as a repeated occurrence of life [^1]
 
 ---
 

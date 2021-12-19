@@ -10,7 +10,7 @@ sr-ease: 272
 
 [[Self-image]] and [[self-perception]] are very closely related concepts, but they can both be influenced by outside factors and when they don't line up you end up with parts of your body and presentation you don't like.
 
-Hatred for yourself is born when you are unhappy with something in your life. Fundamentally this means that your [[perception]] of yourself is not accurate to what you want to be. The difficult part is that both your [[self-image]] and your [[self-perception]] can be out of step with what will actually make you happy. [[Bhuddism outlines a path and practice to end suffering, but does not promise it]]
+Hatred for yourself is born when you are unhappy with something in your life. Fundamentally this means that your [[perception]] of yourself is not accurate to what you want to be. The difficult part is that both your [[self-image]] and your [[self-perception]] can be out of step with what will actually make you happy. [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 
 [[Self-image]] can be influenced by a longing for something that you have never achieved, and once you achieve it you may realize that you never wanted to be that thing. Perhaps this is because you were emulating people around you instead of who you really want to be. Or because you that that [[self-image]] would be an answer to an unrelated problem.
 

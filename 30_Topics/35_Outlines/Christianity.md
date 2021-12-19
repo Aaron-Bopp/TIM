@@ -24,7 +24,7 @@ aliases:
 	- [[My Deconstruction journey]]
 	- [[My worldview is not about conversion it is about acceptance]]
     - [[You can leave the church without loosing your faith]]
-        - [[Fear cannot be a deterant for deconstructing your faith]]
+        - [[Fear cannot be a deterrent for deconstructing your faith]]
     - Analogies
         - [[Deconstructing your faith is like climbing through a jungle canopy]]
         - [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]]

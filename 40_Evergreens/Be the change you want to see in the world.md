@@ -3,8 +3,8 @@ created: 2021-11-24
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-16
-sr-interval: 2
+sr-due: 2021-12-22
+sr-interval: 4
 sr-ease: 150
 ---
 
@@ -17,7 +17,7 @@ sr-ease: 150
 - [[How to pursue the positive things in life]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[self-actualization]], [[morality]]

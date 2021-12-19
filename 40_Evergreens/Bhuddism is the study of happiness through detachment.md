@@ -23,7 +23,7 @@ The nature of happiness is not doing what you love its detachment from the decis
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Bhuddism]]
+**Topics**:: [[Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 :: [[DrK and DrMike conversation]]

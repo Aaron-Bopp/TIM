@@ -16,7 +16,7 @@ source: https://www.youtube.com/watch?v=t23N2Pib9rs
      - suppress emotions
           - rationalize emotions? [[Rationalizations are defense-mechanisms against strong emotions]]
      - These are good regulators but we need to accept our emotions
-- Managing emotional deregulation with [[mindfullness]] 
+- Managing emotional deregulation with [[mindfulness]] 
      - What do our emotions look like?
      - What is a more specific word for this emotion?
           - Validating emotions != saying the emotion is okay

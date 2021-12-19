@@ -13,6 +13,6 @@ aliases:
 
 enlightenment, [[liberation]], [[self]]-Realization, God-Realization, nirvikalpa samadhi and finally Moksha
 
-**See**:: [[Bhuddism]], [[human advancement]], [[self-actualization]]
+**See**:: [[Buddhism]], [[human advancement]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

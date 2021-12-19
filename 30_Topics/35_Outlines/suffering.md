@@ -7,11 +7,11 @@ tags: node/topic/outline
 
 the state of undergoing pain, distress, or hardship.
 
-**See**:: [[Bhuddism]]
+**See**:: [[Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[suffering]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- [[Bhuddism outlines a path and practice to end suffering, but does not promise it]]
+- [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 
 ### <hr class="dataviews"/>
 

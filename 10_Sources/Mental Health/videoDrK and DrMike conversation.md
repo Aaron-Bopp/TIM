@@ -34,7 +34,7 @@ source: https://www.youtube.com/watch?v=T_31hFh1XKM
 	- Nature of [[happiness]] is not doing what you [[love]] its detachment the decisions of life
 		- [[happiness]] comes from satisfaction in either choice and not placing stake what is the right decision
 		- You can feel sadness and still be happy
-	- [[Bhuddism]] is the study of [[happiness]] through detachment
+	- [[Buddhism]] is the study of [[happiness]] through detachment
 		- Bhudda was a prince who was un
 - Compliance vs Treatment
 	- Even if a treatment is 100% effective but it only gets a 5% compliance rate it won't change the world

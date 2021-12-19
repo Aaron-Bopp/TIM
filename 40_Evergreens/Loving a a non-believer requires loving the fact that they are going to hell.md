@@ -1,18 +1,19 @@
 ---
 created: 2021-06-13
 tags: node/evergreen
-sr-due: 2021-12-16
-sr-interval: 8
+sr-due: 2022-01-06
+sr-interval: 19
 sr-ease: 192
 ---
 
 #### [[Loving a a non-believer requires loving the fact that they are going to hell]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/DEOBFUSCATE [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
-- [[Humans are primarily irrational, illogical, emotional beings#Humans are irrational]]
-    - [[Human's have an inability to admit that they are wrong]]
-    - [[Human's will find explanations for inexplainable things]]
+[[Love]] has become a transaction that christians use to garner favor: [[Evangelicalism has commodified faith for profit]]
+
+- [[Faith is an abstraction of cognitive dissonance]]
+- [[Faith can be a useful tool for grounding yourself]] but [[You will never be pushed to understand marginalization unless you are part of a marginalized group]] 
+#TO/TEND/DEOBFUSCATE [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - [[Rationalizations are defense-mechanisms against strong emotions]]
 
 ### <hr class="footnote"/>

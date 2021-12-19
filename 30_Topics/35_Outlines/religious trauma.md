@@ -13,7 +13,7 @@ date modified: Monday, October 4th 2021, 12:06:19 am
 
 - [[Religious concepts are often too powerful for a child's mind]]
 	- [[We carry our childhood wounds into adulthood]]
-	- [[Fear cannot be a deterant for deconstructing your faith]]
+	- [[Fear cannot be a deterrent for deconstructing your faith]]
 - [[Deconstruction (Christianity)]] is often a large part of dealing with religious [[trauma]], but [[You can leave the church without loosing your faith]] [[There aren't any downsides to working through trauma]]
 - [[Working through trauma can involve of a lot of letting go]]
 
