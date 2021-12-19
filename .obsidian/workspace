@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/What is language's fundamental unit.md",
+            "file": "40_Evergreens/Develop Obsidian plugins.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -18,6 +18,18 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/21 TODO/BOOKLIST.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "756c95f9b04fcf3e",
               "group": null,
@@ -73,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/What is language's fundamental unit.md",
+                "file": "40_Evergreens/Develop Obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -98,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/What is language's fundamental unit.md",
+                "file": "40_Evergreens/Develop Obsidian plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/What is language's fundamental unit.md"
+                "file": "40_Evergreens/Develop Obsidian plugins.md"
               }
             }
           },
@@ -196,6 +208,14 @@
               "type": "BC-down",
               "state": {}
             }
+          },
+          {
+            "id": "4b3da38191df6692",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -210,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/What is language's fundamental unit.md",
+                "file": "40_Evergreens/Develop Obsidian plugins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -313,6 +333,8 @@
   },
   "active": "756c95f9b04fcf3e",
   "lastOpenFiles": [
+    "40_Evergreens/Develop Obsidian plugins.md",
+    "20_Entry/21 TODO/BOOKLIST.md",
     "40_Evergreens/What is language's fundamental unit.md",
     "40_Evergreens/The anti-vax movement is based off a white lie.md",
     "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
@@ -320,8 +342,6 @@
     "40_Evergreens/Empathy does not disallow judgment.md",
     "40_Evergreens/Children make wide assumptions about the world.md",
     "40_Evergreens/How to read to understand.md",
-    "40_Evergreens/Use highlighter colors to create visual outlines.md",
-    "40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md",
-    "40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md"
+    "40_Evergreens/Use highlighter colors to create visual outlines.md"
   ]
 }
