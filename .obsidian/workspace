@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/notes_The Dawn of Everything.md",
+            "file": "40_Evergreens/The anti-vax movement is based off a white lie.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "756c95f9b04fcf3e",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "756c95f9b04fcf3e",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":45},\"to\":{\"line\":15,\"ch\":45}}}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "756c95f9b04fcf3e",
@@ -91,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "40_Evergreens/The anti-vax movement is based off a white lie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -116,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "40_Evergreens/The anti-vax movement is based off a white lie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md"
+                "file": "40_Evergreens/The anti-vax movement is based off a white lie.md"
               }
             }
           },
@@ -236,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "40_Evergreens/The anti-vax movement is based off a white lie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -340,11 +346,11 @@
   },
   "active": "756c95f9b04fcf3e",
   "lastOpenFiles": [
+    "40_Evergreens/The anti-vax movement is based off a white lie.md",
     "10_Sources/notes_The Dawn of Everything.md",
     "40_Evergreens/Develop Obsidian plugins.md",
     "20_Entry/21 TODO/BOOKLIST.md",
     "40_Evergreens/What is language's fundamental unit.md",
-    "40_Evergreens/The anti-vax movement is based off a white lie.md",
     "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
     "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md",
     "40_Evergreens/Empathy does not disallow judgment.md",
