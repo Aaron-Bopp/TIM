@@ -1,4 +1,7 @@
 <% tp.file.include("[[META]]") %> node/evergreen
+sr-due: <% tp.date.now() %>
+sr-interval: 1
+sr-ease: 230
 ---
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>
 

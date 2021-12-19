@@ -7,7 +7,7 @@ sr-due: 2021-12-21
 sr-interval: 3
 sr-ease: 254
 ---
-#### [[black identity is inherently political]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Black identity is inherently political]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
  

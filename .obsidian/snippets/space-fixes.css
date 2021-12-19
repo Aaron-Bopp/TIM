@@ -36,21 +36,23 @@ cite {
     border: 0;
     margin: 0;
 }
+
 a.internal-link,
 span.cm-link,
 .cm-hmd-internal-link,
 .theme-dark .modal-content a,
 .theme-dark .markdown-preview-view a.footnote-link,
 .theme-dark .markdown-preview-view a.external-link {
-    color: #823ac5f8;
+    color: #9c32fff8;
+    font-weight: 550;
     text-decoration: none;
 }
 
-
+/* fix bullets for lp */
 .theme-dark span.list-bullet {
     visibility: hidden !important;
 }
-    
+
 .theme-dark span.list-bullet:after {
 content: '★'; 
 font-size: 14px;
@@ -59,3 +61,8 @@ margin-right: 0px;
 color: var(--gold1); 
 visibility: visible !important;
 }
+/* Fix paragraph padding */
+.cm-s-obsidian P, 
+.markdown-preview-view p {
+    padding-bottom: 25px;
+    }

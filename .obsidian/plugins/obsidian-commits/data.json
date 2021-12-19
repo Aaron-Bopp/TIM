@@ -6520,11 +6520,6 @@
       "tags": 2,
       "links": 1
     },
-    "40_Evergreens/Everybody can't be a capitalist.md": {
-      "size": 977,
-      "tags": 2,
-      "links": 14
-    },
     "10_Sources/Qoutes/I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander.md": {
       "size": 377,
       "tags": 1,
@@ -8973,7 +8968,7 @@
     "40_Evergreens/41 Inbox.md": {
       "size": 1171,
       "tags": 0,
-      "links": 20
+      "links": 21
     },
     "40_Evergreens/44 Identity.md": {
       "size": 1585,
@@ -9485,11 +9480,6 @@
       "tags": 3,
       "links": 15
     },
-    "Apartment hunt.md": {
-      "size": 1561,
-      "tags": 0,
-      "links": 0
-    },
     "40_Evergreens/How to process repressed emotions.md": {
       "size": 840,
       "tags": 4,
@@ -9520,16 +9510,6 @@
       "tags": 1,
       "links": 1
     },
-    "40_Evergreens/black identity is inherently political.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 1
-    },
-    "40_Evergreens/black identity is inseparable from other identities.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 1
-    },
     "30_Topics/31_Stubs/mindfulness.md": {
       "size": 399,
       "tags": 1,
@@ -9549,19 +9529,54 @@
       "size": 169,
       "tags": 1,
       "links": 1
+    },
+    "40_Evergreens/Capitalism necessitates class division.md": {
+      "size": 977,
+      "tags": 2,
+      "links": 15
+    },
+    "30_Topics/31_Stubs/Overton window.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/middle class.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "20_Entry/22 Note by status/Spaced Repetition Inbox.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "00_Meta/Personal/Apartment hunt.md": {
+      "size": 1561,
+      "tags": 0,
+      "links": 0
+    },
+    "40_Evergreens/Black identity is inseparable from other identities.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "40_Evergreens/Black identity is inherently political.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1771,
-      "Create": 2165,
-      "Link": 3747,
-      "Expand": 348
+      "Refactor": 1779,
+      "Create": 2171,
+      "Link": 3753,
+      "Expand": 350
     },
     "40_Evergreens": {
-      "Refactor": 125,
-      "Create": 20,
-      "Link": 259,
+      "Refactor": 131,
+      "Create": 22,
+      "Link": 263,
       "Expand": 176
     }
   },
@@ -9577,8 +9592,8 @@
       "7": 0,
       "8": 24,
       "9": 509,
-      "10": 125,
-      "11": 152,
+      "10": 140,
+      "11": 159,
       "12": 409,
       "13": 242,
       "14": 2290,
@@ -9603,8 +9618,8 @@
       "7": 0,
       "8": 0,
       "9": 99,
-      "10": 36,
-      "11": 61,
+      "10": 45,
+      "11": 64,
       "12": 32,
       "13": 63,
       "14": 33,
@@ -9627,7 +9642,7 @@
       "Thu": 409,
       "Fri": 192,
       "Sat": 0,
-      "Sun": 4845
+      "Sun": 4867
     },
     "40_Evergreens": {
       "Mon": 54,
@@ -9636,12 +9651,14 @@
       "Thu": 5,
       "Fri": 8,
       "Sat": 0,
-      "Sun": 323
+      "Sun": 335
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Notes not in outline.md\"> Notes not in outline </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Notes not in outline.md\"> Notes not in outline </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -9690,11 +9707,15 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Notes not in outline.md\"> Notes not in outline </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/testset.md\"> testset </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/Spaced Repetition Inbox.md\"> Spaced Repetition Inbox </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/middle class.md\"> middle class </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Overton window.md\"> Overton window </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseperable from other identities.md\"> black identity is inseperable from other identities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherintely political.md\"> black identity is inherintely political </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>",
@@ -9739,15 +9760,14 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurotypical.md\"> neurotypical </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/consent.md\"> consent </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/PTSD.md\"> PTSD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/improv.md\"> improv </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Theater.md\"> Theater </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From SANDWORM.md\"> tweets_Tweets From SANDWORM </a>",
-        "<a class=\"internal-link\" href=\"I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disability.md\"> disability </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/improv.md\"> improv </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Apartment hunt.md\"> Apartment hunt </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Capitalism necessitates class division.md\"> Capitalism necessitates class division </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Capitalism neccesitates class division.md\"> Capitalism neccesitates class division </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Buddhism.md\"> Buddhism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterrent for deconstructing your faith.md\"> Fear cannot be a deterrent for deconstructing your faith </a>",
@@ -9793,14 +9813,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
         "<a class=\"internal-link\" href=\"40_EvergreensConverting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> 40_EvergreensConverting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Worksheet 4.md\"> Worksheet 4 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregarment of affection.md\"> My unfulfilled need for parental validation became a fear of rejection and disregarment of affection </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Nathan Eloe.md\"> Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/My relationship with my parents.md\"> My relationship with my parents </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/my parents.md\"> my parents </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Worksheet 4.md\"> Worksheet 4 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Overton window.md\"> Overton window </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/middle class.md\"> middle class </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherently political.md\"> black identity is inherently political </a>",
@@ -9848,10 +9866,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md\"> articles_Decontextualizer - Paul Bricman </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9885,6 +9900,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Notes not in outline.md\"> Notes not in outline </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/testset.md\"> testset </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Am I surprised by the note title.md\"> Am I surprised by the note title </a>",
@@ -9932,12 +9950,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/test2.md\"> test2 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Knowledge of the world is painful.md\"> [Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's have an inability to admit that they are wrong.md\"> [Human's have an inability to admit that they are wrong </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md\"> [Human's will find explanations for inexplainable things </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Children make wide assumptions about the world.md\"> [Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Transformative justice is the alternative to punitive justice.md\"> [Transformative justice is the alternative to punitive justice </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[We are confined to the tools of our time.md\"> [We are confined to the tools of our time </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md\"> [Human's will find explanations for inexplainable things </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Capitalism necessitates class division.md\"> Capitalism necessitates class division </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -9985,10 +10003,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/heterarchy.md\"> heterarchy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
@@ -10171,9 +10186,15 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherintely political.md\"> black identity is inherintely political </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseperable from other identities.md\"> black identity is inseperable from other identities </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseperable from other identities.md\"> black identity is inseperable from other identities </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/testset.md\"> testset </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Capitalism necessitates class division.md\"> Capitalism necessitates class division </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Capitalism neccesitates class division.md\"> Capitalism neccesitates class division </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to margnalize people of color.md\"> Whiteness was created to margnalize people of color </a>",
@@ -10220,13 +10241,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgemental and outwardly accepting home creates trust issues.md\"> A inwardly judgemental and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not disallow judgment.md\"> Empathy does not disallow judgment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherently political.md\"> black identity is inherently political </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseparable from other identities.md\"> black identity is inseparable from other identities </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgemental and outwardly accepting home creates trust issues.md\"> A inwardly judgemental and outwardly accepting home creates trust issues </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherently political.md\"> black identity is inherently political </a>",
@@ -10276,8 +10294,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use Obsidian tags as temporal classifiers.md\"> Use Obsidian tags as temporal classifiers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender has historically been non-binary.md\"> Gender has historically been non-binary </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10310,9 +10327,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdf.md\"> asdfasdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Topics are terms that are too broadly defined.md\"> Topics are terms that are too broadly defined </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/testset.md\"> testset </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Capitalism necessitates class division.md\"> Capitalism necessitates class division </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -10360,10 +10382,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",

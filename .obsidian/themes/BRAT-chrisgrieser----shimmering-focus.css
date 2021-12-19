@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.351
+Version 1.360
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -171,8 +171,9 @@ This ToC is auto-generated via the .create-ToC.sh
 	--search-match-hl: var(--highlight-alt2);
 	--bold-in-darkmode: hsl(202 43% 57%);
 	--active-line: hsl(62 11% 63% / 12.5%);
-	--cursor-monocolor: var(--accent-lighter);
 	--spell-error-color: hsl(0 66% 64%);
+
+	--cursor-monocolor: var(--accent-lighter);
 }
 
 .theme-light {
@@ -191,8 +192,8 @@ This ToC is auto-generated via the .create-ToC.sh
 	--interactive-hover-border: var(--alt-accent-lighter);
 
 	--finished-task: var(--accent-lighter);
-	--cursor-duo-color-1: var(--alt-accent-lightest);
-	--cursor-duo-color-2: var(--accent-lightest);
+	--cursor-duo-color-1: var(--alt-accent-lighterer);
+	--cursor-duo-color-2: var(--accent-lighterer);
 	--a-row: rgb(0 0 0 / 3%);
 	--b-row: rgb(0 0 0 / 7%);
 
@@ -249,13 +250,14 @@ This ToC is auto-generated via the .create-ToC.sh
 
 .theme-light .longform-leaf,
 .theme-light {
-	--sat-correction-factor: 13%;
-	--b-light-1: calc(var(--brightness-light) + 92%);
-	--b-light-2: calc(var(--brightness-light) + 87%);
-	--b-light-3: calc(var(--brightness-light) + 81%);
-	--sat-light-1: calc((var(--light-sat) + var(--sat-correction-factor)) * 3);
-	--sat-light-2: calc((var(--light-sat) + var(--sat-correction-factor)) * 1.2);
-	--sat-light-3: calc((var(--light-sat) + var(--sat-correction-factor)) * 0.7);
+	--b-light-1: calc(var(--brightness-light) + 80%);
+	--b-light-2: calc(var(--brightness-light) + 76%);
+	--b-light-3: calc(var(--brightness-light) + 71%);
+
+	--sat-correction: 20%;
+	--sat-light-1: calc(calc(var(--light-sat) + var(--sat-correction)) * 2);
+	--sat-light-2: calc(calc(var(--light-sat) + var(--sat-correction)) * 1.7);
+	--sat-light-3: calc(calc(var(--light-sat) + var(--sat-correction)) * 1.4);
 
 	--bg1: hsl(var(--light-hue) var(--sat-light-1) var(--b-light-1));
 	--bg2: hsl(var(--light-hue) var(--sat-light-2) var(--b-light-2));
@@ -270,13 +272,17 @@ This ToC is auto-generated via the .create-ToC.sh
 	--backdrop-color: hsl(var(--light-hue) calc(var(--sat-light-3) * 0.8) calc(var(--b-light-3) - 10%));
 }
 
+.theme-dark .longform-leaf,
 .theme-dark {
 	--b-dark-1: calc(var(--brightness-dark) + 11%);
 	--b-dark-2: calc(var(--brightness-dark) + 7%);
 	--b-dark-3: calc(var(--brightness-dark) + 2%);
-	--sat-dark-1: calc(var(--dark-sat) * 0.7);
-	--sat-dark-2: calc(var(--dark-sat) * 1.2);
-	--sat-dark-3: calc(var(--dark-sat) * 3);
+
+	--sat-correction: 0%;
+	--sat-dark-1: calc(calc(var(--dark-sat) + var(--sat-correction)) * 1);
+	--sat-dark-2: calc(calc(var(--dark-sat) + var(--sat-correction)) * 1.5);
+	--sat-dark-3: calc(calc(var(--dark-sat) + var(--sat-correction)) * 2);
+
 	--bg1: hsl(var(--dark-hue) var(--sat-dark-1) var(--b-dark-1));
 	--bg2: hsl(var(--dark-hue) var(--sat-dark-2) var(--b-dark-2));
 	--bg3: hsl(var(--dark-hue) var(--sat-dark-3) var(--b-dark-3));
@@ -328,7 +334,7 @@ This ToC is auto-generated via the .create-ToC.sh
 
 .theme-light {
 	--shadow-color: hsl(0 0% 40% / 70%);
-	--shadow-base-size: 0;
+	--shadow-base-size: 0px;
 }
 
 .theme-dark {
@@ -336,16 +342,14 @@ This ToC is auto-generated via the .create-ToC.sh
 	--shadow-base-size: 3px;
 }
 
-.theme-light,
-.theme-dark {
+body.theme-light,
+body.theme-dark {
 	--shadow-blur: 6px;
-	--big-shadow-size: calc(var(--shadow-base-size) + 8px);
-	--medium-shadow-size: calc(var(--shadow-base-size) + 5px);
-	--small-shadow-size: var(--shadow-base-size);
 
-	--big-shadow: 4px 6px var(--shadow-blur) var(--big-shadow-size) var(--shadow-color);
-	--medium-shadow: 4px 6px var(--shadow-blur) var(--medium-shadow-size) var(--shadow-color);
-	--small-shadow: 2px 4px var(--shadow-blur) var(--small-shadow-size) var(--shadow-color);
+	--big-shadow: 4px 6px var(--shadow-blur) calc(var(--shadow-base-size) + 10px) var(--shadow-color);
+	--medium-shadow: 4px 6px var(--shadow-blur) calc(var(--shadow-base-size) + 5px) var(--shadow-color);
+	--small-shadow: 2px 4px var(--shadow-blur) calc(var(--shadow-base-size) + 0px) var(--shadow-color);
+	--button-shadow: 0 1px var(--shadow-blur) calc(var(--shadow-base-size) - 1px) var(--shadow-color);
 }
 
 /* ───────────────────────────────────────────────────
@@ -360,14 +364,14 @@ This ToC is auto-generated via the .create-ToC.sh
 	--pdf-size: 50vh;
 	--popover-size: 350;
 	--inactive-pane-opacity: 80%;
-	--tooltip-arrow-length: 20px;
+	--tooltip-arrow-length: 10px;
 
 	--signature: "⟡";
 	--empty-state-symbol-size: 8rem;
 
 	--quick-transition: 200ms ease-in-out;
 	--medium-transition: 350ms ease-in-out;
-	--slow-transition: 450ms ease-in-out;
+	--slow-transition: 600ms ease-in-out;
 }
 
 .longform-leaf,
@@ -1143,7 +1147,7 @@ body:not(.show-header-bar) .view-header-icon,
 body:not(.show-header-bar) .view-action svg {
 	color: var(--extra-contrast);
 	opacity: 0;
-	transition: var(--slow-transition);
+	transition: var(--medium-transition);
 }
 
 body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf .view-header:hover,
@@ -1151,7 +1155,7 @@ body:not(.show-header-bar) .workspace-split.mod-root > .workspace-leaf .view-hea
 body.show-header-bar .workspace-split.mod-root > .workspace-leaf .view-header {
 	height: 1.9em;
 	background-color: var(--bg2);
-	transition: var(--slow-transition);
+	transition: var(--medium-transition);
 }
 
 body.show-header-bar:not(.is-mobile) .view-header {
@@ -1345,10 +1349,11 @@ a.style-settings-export,
 .modal-container .modal .modal-content button.mod-cta {
 	color: var(--button-text);
 	background-color: var(--interactive-bg);
+	box-shadow: var(--button-shadow);
 
 	transition: var(--quick-transition);
 
-	padding: 6px 12px 5px;
+	padding: 5px 12px 6px;
 
 	border: 2px solid var(--interactive-border);
 	border-radius: var(--round);
@@ -1360,8 +1365,18 @@ a.style-settings-export,
 	letter-spacing: 0.5px;
 }
 
-body a.style-settings-import:hover,
-body a.style-settings-export:hover,
+/* fix for slightly different positioning of square fonts */
+.angular-shapes a.style-settings-import,
+.angular-shapes a.style-settings-export,
+.angular-shapes .modal-container .modal .modal-button-container button,
+.angular-shapes .modal-container .modal .modal-content button:not(.mod-cta),
+.angular-shapes .modal-container .modal .modal-content button.mod-cta {
+	padding-top: 6px;
+	padding-bottom: 5px;
+}
+
+body .setting-item-control a.style-settings-import:hover,
+body .setting-item-control a.style-settings-export:hover,
 .modal-container .modal .modal-button-container button:hover,
 .modal-container .modal .modal-content button:not(.mod-cta):hover,
 .modal-container .modal .modal-content button.mod-cta:hover {
@@ -1469,6 +1484,10 @@ textarea {
 
 input[type="text"] {
 	width: 250px;
+}
+
+.angular-shapes input[type="text"] {
+	padding-top: 7px;
 }
 
 .workspace-leaf-content input[type="text"] {
@@ -1687,7 +1706,7 @@ div.menu-item {
 
 .menu-separator {
 	margin: 0;
-	border-bottom: var(--muted-border);
+	border-bottom: var(--basic-border);
 }
 
 /* ───────────────────────────────────────────────────
@@ -2597,7 +2616,6 @@ body .workspace-leaf-resize-handle:active {
 .community-plugin-search .community-plugin-downloads::BEFORE,
 .community-plugin-search .community-plugin-downloads-text {
 	color: var(--extra-contrast);
-	font-size: 0.9em;
 }
 
 .community-plugin-downloads::BEFORE {
@@ -2730,6 +2748,75 @@ body .workspace-leaf-resize-handle:active {
 << Community Theme Browser
 ─────────────────────────────────────────────────── */
 
+/* ───────────────────────────────────────────────────
+<<< More prominent GitHub Info
+─────────────────────────────────────────────────── */
+
+.community-theme.is-selected .community-theme-info .clickable-icon {
+	display: block;
+
+	width: 90%;
+
+	position: absolute;
+	top: 70px;
+	right: 10px;
+
+	box-shadow: var(--button-shadow);
+
+	padding-top: 3px;
+	padding-bottom: 4px;
+	margin-right: 0;
+	margin-bottom: 5px;
+	margin-left: 0;
+
+	border-radius: var(--roundish);
+
+	line-height: 1.1em;
+}
+
+.theme-light .community-theme.is-selected .community-theme-info .clickable-icon {
+	color: hsl(50 60% 60%);
+	background-color: var(--bg1);
+}
+
+.theme-dark .community-theme.is-selected .community-theme-info .clickable-icon {
+	color: hsl(50 60% 60%);
+	background-color: hsl(0 0% 0%);
+}
+
+.community-theme.is-selected {
+	min-height: 300px;
+}
+
+.community-theme.is-selected .community-theme-info .clickable-icon::AFTER {
+	content: "README: Feature overview & Customization options";
+	padding-left: 4px;
+}
+
+.community-theme.is-selected svg.github-glyph > path {
+	display: none;
+}
+
+.community-theme.is-selected svg.github-glyph {
+	background-color: currentColor;
+	-webkit-mask-image: var(--external-url);
+}
+
+/* ───────────────────────────────────────────────────
+<<< Remaining Community Browser
+─────────────────────────────────────────────────── */
+
+.community-theme.is-selected,
+.community-theme {
+	color: var(--text-normal);
+	background: var(--bg3);
+}
+
+.community-theme.is-selected,
+.community-theme.is-selected .community-theme-info {
+	color: var(--text-normal);
+}
+
 .modal.mod-community-theme {
 	background-color: var(--bg2);
 	padding-top: 0;
@@ -2765,24 +2852,20 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 	font-style: italic;
 }
 
-.community-theme {
-	background: var(--bg3);
-}
-
 .community-theme-remove-button svg {
-	color: var(--text-muted) !important;
+	color: var(--text-muted);
 }
 
 .community-theme-remove-button:hover svg {
-	color: var(--alt-accent) !important;
+	color: var(--alt-accent);
 }
 
 /* greyed out "selected" button */
-.community-theme.is-selected button:first-child {
-	color: var(--text-faint) !important;
-	background-color: var(--bg3) !important;
+.modal-container .modal .community-theme.is-selected button:first-child {
+	color: var(--text-faint);
+	background-color: var(--bg3);
 	cursor: not-allowed;
-	border-color: var(--bg1) !important;
+	border-color: var(--bg1);
 }
 
 .modal.mod-community-theme .community-plugin-downloads-text::BEFORE {
@@ -2810,6 +2893,10 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 	font-size: 2.2em;
 	font-weight: 500;
 	text-transform: capitalize;
+}
+
+.community-theme-downloads .community-plugin-downloads-text {
+	top: 0;
 }
 
 /* corrects appearance in light mode */
@@ -3873,13 +3960,13 @@ body:not(.no-ul-relationship-lines) .markdown-preview-view > div > div > ul {
 /* hovered links in alt accent */
 .cm-string.cm-url:hover:not(.cm-formatting),
 .cm-hmd-internal-link:hover,
-.internal-link:hover,
+body div.app-container .workspace-tabs .workspace-leaf .view-content .internal-link:hover,
 .modal-content a:hover,
 .markdown-preview-view a.footnote-link:hover,
 .markdown-preview-view a.internal-link:hover,
 .markdown-preview-view a.external-link:hover,
 a:hover {
-	color: var(--alt-accent) !important;
+	color: var(--alt-accent);
 	cursor: pointer;
 }
 
@@ -3889,9 +3976,9 @@ a.internal-link.is-unresolved {
 	opacity: var(--unresolved-opacity) !important;
 }
 
-a.internal-link.is-unresolved:hover {
+body a.internal-link.is-unresolved:hover {
 	color: var(--alt-accent);
-	opacity: 0.8 !important;
+	opacity: 0.8;
 }
 
 /* don't underline the brackets */
@@ -5405,15 +5492,15 @@ https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/1
 
 /* stylelint-disable no-duplicate-selectors */
 .theme-light {
-	--kanban-background: hsl(var(--light-hue) var(--sat-light-3) 85%);
-	--active-hover-kanban-item: hsl(0 0% 93%);
-	--dot-color: hsl(0 0% 80% / 50%);
+	--kanban-background: hsl(var(--light-hue) calc(var(--sat-light-2) * 0.8) 82%);
+	--active-hover-kanban-item: hsl(var(--light-hue) var(--sat-light-2) 85%);
+	--dot-color: hsl(0 0% 50% / 20%);
 }
 
 .theme-dark {
-	--kanban-background: hsl(var(--dark-hue) var(--sat-dark-1) 17%);
-	--active-hover-kanban-item: hsl(0 0% 17%);
-	--dot-color: hsl(0 0% 13% / 50%);
+	--kanban-background: hsl(var(--dark-hue) calc(var(--sat-dark-2) * 1.2) 18%);
+	--active-hover-kanban-item: hsl(var(--dark-hue) var(--sat-dark-3) 15%);
+	--dot-color: hsl(0 0% 0% / 20%);
 }
 
 :root {
@@ -5428,6 +5515,7 @@ body .kanban-plugin__lane {
 
 body .kanban-plugin__item-title-wrapper {
 	background-color: var(--bg2);
+	padding: 5px 7px;
 }
 
 .kanban-plugin__board button {
@@ -5444,7 +5532,7 @@ body .workspace-leaf-content[data-type="kanban"] .view-header,
 	background-attachment: local;
 }
 
-.theme-dark .workspace-leaf-content[data-type="kanban"] .view-header {
+.workspace-leaf-content[data-type="kanban"] .view-header {
 	background-color: var(--kanban-background) !important;
 }
 
@@ -5465,10 +5553,6 @@ div.kanban-plugin__board > div {
 	padding-top: 0;
 	padding-left: 0;
 	margin-top: 0;
-}
-
-body .kanban-plugin__item-title-wrapper {
-	padding: 5px 7px;
 }
 
 /* font sizes  */
@@ -5552,6 +5636,7 @@ a.tag.kanban-plugin__item-tag {
 	background: none;
 }
 
+/* hover colors */
 .kanban-plugin__new-item-button:hover {
 	color: var(--alt-accent) !important;
 	background-color: var(--active-hover-kanban-item) !important;
@@ -6440,6 +6525,16 @@ pre button.copy:hover::BEFORE {
 	display: none;
 }
 
+/* padding to the left not needed, since aliases won't be displayed there */
+.another-quick-switcher__item__reason,
+.suggestion-item .another-quick-switcher__item {
+	margin-left: -17px;
+}
+
+.another-quick-switcher__item__reason__alias > svg {
+	margin-right: 10px;
+}
+
 .another-quick-switcher__item__directory::BEFORE {
 	content: "folder_open";
 	font-family: "Material Icons";
@@ -6469,7 +6564,9 @@ pre button.copy:hover::BEFORE {
 }
 
 /* unresolved items */
+.another-quick-switcher__phantom_item .another-quick-switcher__item__entry,
 .another-quick-switcher__phantom_item .another-quick-switcher__item__icon,
+.suggestion-item.is-selected .another-quick-switcher__phantom_item .another-quick-switcher__item__directory,
 .another-quick-switcher__phantom_item .another-quick-switcher__item__directory,
 .suggestion-item .another-quick-switcher__phantom_item {
 	color: var(--unresolved-link-color);
@@ -6482,13 +6579,7 @@ pre button.copy:hover::BEFORE {
 	opacity: 0.6;
 }
 
-.suggestion-item.is-selected .another-quick-switcher__phantom_item .another-quick-switcher__item__icon,
-.suggestion-item.is-selected .another-quick-switcher__phantom_item .another-quick-switcher__item__directory,
-.suggestion-item.is-selected .another-quick-switcher__phantom_item {
-	color: var(--text-accent);
-	opacity: 0.6;
-}
-
+/* hovered */
 .suggestion-item:hover .another-quick-switcher__phantom_item .another-quick-switcher__item__icon,
 .suggestion-item:hover .another-quick-switcher__phantom_item .another-quick-switcher__item__directory,
 .suggestion-item:hover .another-quick-switcher__phantom_item {
@@ -6569,22 +6660,28 @@ pre button.copy:hover::BEFORE {
 }
 
 .style-settings-heading .setting-item-name:hover {
-	color: var(--editor-alt-accent);
+	color: var(--alt-accent);
 }
 
 /* most styling of the import/export buttons
 are at the button section */
 body a.style-settings-import,
 body a.style-settings-export {
-	margin-right: 0 !important;
+	margin-right: 0;
 	margin-left: 12px;
-	font-size: calc(var(--button-font-size) * 0.8);
+	font-size: calc(var(--button-font-size) * 0.85);
 	text-decoration: none;
 }
 
 /* remove buggy and unnecessary export button for certain blocks */
 .style-settings-heading .setting-editor-extra-setting-button:last-child {
 	display: none;
+}
+
+/* settings tab as pane */
+.mod-root .workspace-leaf-content[data-type="style-settings"] .view-content {
+	padding-right: 20px;
+	padding-left: 20px;
 }
 
 /* ───────────────────────────────────────────────────
@@ -6729,6 +6826,33 @@ body div.get-info-menu > div > div {
 	content: "spellcheck";
 	font-family: "Material Icons";
 	font-size: 0.9rem;
+}
+
+body .lt-predictions-container {
+	background-color: var(--bg1);
+	box-shadow: var(--small-shadow);
+	border-radius: calc(var(--roundish) * 1.5);
+}
+
+.lt-ignore-btn:hover,
+.lt-ignore-btn,
+.lt-buttoncontainer > button {
+	background-color: var(--bg2);
+}
+
+body .lt-ignore-btn {
+	padding: 8px;
+	border-top: var(--muted-border);
+}
+
+body .lt-ignore-btn:hover {
+	color: var(--alt-accent);
+}
+
+.lt-buttoncontainer > button:hover {
+	color: var(--button-hover-text);
+	background-color: var(--interactive-hover-bg);
+	border-color: var(--interactive-hover-border);
 }
 
 /* ───────────────────────────────────────────────────
@@ -6934,7 +7058,7 @@ settings:
 	 title: 🚧 Color Tone (Light Mode)
 	 description: '(experimental) Overall color tone (hue) of the light theme. (Mind that the appearance of the color is also affected by brightness and saturation, i.e. low saturation leading to gray and how/low brightness leading to white/dark).'
 	 type: variable-number-slider
-	 default: 0
+	 default: 220
 	 min: 0
 	 max: 360
 	 step: 5
@@ -6945,7 +7069,7 @@ settings:
 	 type: variable-number-slider
 	 default: 10
 	 min: 0
-	 max: 15
+	 max: 20
 	 step: 2
 	 format: '%'
   -
@@ -6973,7 +7097,7 @@ settings:
 	 type: variable-number-slider
 	 default: 5
 	 min: 0
-	 max: 15
+	 max: 20
 	 step: 2
 	 format: '%'
   -

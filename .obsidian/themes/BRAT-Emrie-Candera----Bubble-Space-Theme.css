@@ -1998,7 +1998,7 @@ a[href^="#h/brown"] + mark:hover {
 /*COMMON B4.1 Light Mode (Bubble)*/
 
 /*COMMON B4.1.1 Metadata Container*/
-/*.theme-light .frontmatter-container {
+.theme-light .frontmatter-container {
   float: right;
   position: relative;
   right: -30px;
@@ -2020,7 +2020,7 @@ content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmH
   font-size: 30px !important;
   float: right;
   margin-top: -15px; /*🌟*/
-/*}
+}
 
 
 .theme-light .frontmatter-container:hover>.frontmatter-container-header {
@@ -2044,7 +2044,7 @@ z-index: 3;
 border: 2px rgb(92, 160, 199) solid !important;
 border-radius: 1.5em;}*/
 
-/*COMMON B4.1.2 Frontmatter Codeblock*//*
+/*COMMON B4.1.2 Frontmatter Codeblock*/
 .theme-light pre.frontmatter {
   float: right;
   position: relative;
@@ -2087,12 +2087,12 @@ border-radius: 1.5em;}*/
 }
 .theme-light pre.frontmatter:hover .code {
   visibility: visible;
-}*/
+}
 
 /*...............................................................*/
 
 /*COMMON B4.2 Dark Mode (Space)*/
-/*COMMON B4.2.1 Metadata Container*//*
+/*COMMON B4.2.1 Metadata Container*/
 .theme-dark .frontmatter-container {
   float: right;
   position: relative;
@@ -2114,7 +2114,7 @@ border-radius: 1.5em;}*/
 .theme-dark .frontmatter-container:hover::before {
   font-size: 30px !important;
   float: right;
-  margin-top: -15px; /*🌟*/*//*}
+  margin-top: -15px; /*🌟*/}
 
 .theme-dark .frontmatter-container:hover>.frontmatter-container-header {
   font-size: 20px;
@@ -2137,7 +2137,7 @@ border: 2px gray dotted !important;
 border-radius: 1.5em;}
 
 
-/*COMMON B4.2.2 Frontmatter Codeblock*/ /*
+/*COMMON B4.2.2 Frontmatter Codeblock*/ 
 .theme-dark pre.frontmatter {
   float: right;
   position: relative;
@@ -2178,7 +2178,7 @@ border-radius: 1.5em;}
 }
 .theme-dark pre.frontmatter:hover .code {
   visibility: visible;
-}*/
+}
 
 
 /* ─────────────── COMMON B5- Graph Control Horizontal Resizing  ────────────────── */

@@ -7,7 +7,7 @@ sr-due: 2021-12-19
 sr-interval: 1
 sr-ease: 230
 ---
-#### [[black identity is inseparable from other identities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Black identity is inseparable from other identities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
  

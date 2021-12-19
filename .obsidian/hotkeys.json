@@ -384,5 +384,14 @@
       ],
       "key": "E"
     }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }

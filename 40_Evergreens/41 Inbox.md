@@ -16,5 +16,6 @@
 	- [[Colonization and slavery lead to generational disparities in black communities]]
 	- [[How to process repressed emotions]]
 	- [[The Christian worldview is incompatible with most other worldviews]]
-	- [[black identity is inseparable from other identities]]
-	- [[black identity is inherently political]]
+	- [[Black identity is inseparable from other identities]]
+	- [[Black identity is inherently political]]
+	- [[Neurodiverse people are siloed into systems that work against them]]
