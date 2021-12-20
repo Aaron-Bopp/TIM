@@ -22,6 +22,10 @@ A bad decision for a beginner is one the will not teach them how to succeed or t
 ^[[[Better tools allow us to be less disciplined and more productive]]]
 A hard rule may be the more difficult path but will setup future success. Hard disciplines breed masters, easy disciplines attract wannabes.
 
+```ad-example
+<iframe width="835" height="470" src="https://www.youtube.com/embed/wfasQwNJ1G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
 
  ##### An experienced note taker know when to just delete a note.
 
