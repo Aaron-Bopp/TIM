@@ -10,19 +10,25 @@
           "type": "markdown",
           "state": {
             "file": "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "c5ef85b7d8d57463",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":22.511474609375}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":364},\"to\":{\"line\":12,\"ch\":364}},\"scroll\":4.964285662587807}"
+            },
+            {
+              "leaf": "c5ef85b7d8d57463",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":622},\"to\":{\"line\":32,\"ch\":622}},\"scroll\":25.273503751836273}"
             },
             {
               "leaf": "c5ef85b7d8d57463",

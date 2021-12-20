@@ -10,6 +10,8 @@ sr-ease: 157
 
 #### [[Better tools allow us to be less disciplined and more productive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Older generations are often shocked at the differences that they see in younger generations. Sometimes this results in disdain, sometimes in awe, and sometimes in wistfulness, wishing that they had not been [[We are confined to the tools of our time|confined to the tools of their time]]. Our new tools have allowed us to achieve things greater than our forbearers because they are more powerful.
+
 Less disciplined does not always mean less productive, and when your lack of discipline is a symptom of more powerful tools you may actually be more productive.
 
 Since we started doing modern computer [[programming]] in the early 1970s, our computing power has increased #TO/DO/FIND fold. We are able to hold more power in our hand today than an entire warehouse could hold back then. This has allowed for so much amazing [[software]], but software that is made today is different from the first twenty years of [[programming]]. We have so much computing power that we no longer push ourselves to efficiency. 

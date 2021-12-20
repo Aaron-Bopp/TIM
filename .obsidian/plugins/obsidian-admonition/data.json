@@ -1,11 +1,11 @@
 {
   "userAdmonitions": {},
-  "syntaxHighlight": false,
+  "syntaxHighlight": true,
   "copyButton": false,
   "version": "6.7.2",
   "autoCollapse": false,
   "defaultCollapseType": "open",
-  "syncLinks": false,
+  "syncLinks": true,
   "enableMarkdownProcessor": false,
   "injectColor": true,
   "parseTitles": true

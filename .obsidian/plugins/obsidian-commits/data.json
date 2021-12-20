@@ -6548,7 +6548,7 @@
     "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md": {
       "size": 2624,
       "tags": 2,
-      "links": 12
+      "links": 8
     },
     "40_Evergreens/Were Jesus' teachings anti-thetical to the modern christian church.md": {
       "size": 711,
@@ -9568,13 +9568,13 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1780,
+      "Refactor": 1781,
       "Create": 2171,
       "Link": 3754,
       "Expand": 353
     },
     "40_Evergreens": {
-      "Refactor": 132,
+      "Refactor": 133,
       "Create": 22,
       "Link": 264,
       "Expand": 179
@@ -9594,7 +9594,7 @@
       "9": 509,
       "10": 144,
       "11": 160,
-      "12": 409,
+      "12": 410,
       "13": 242,
       "14": 2290,
       "15": 127,
@@ -9620,7 +9620,7 @@
       "9": 99,
       "10": 49,
       "11": 65,
-      "12": 32,
+      "12": 33,
       "13": 63,
       "14": 33,
       "15": 0,
@@ -9636,7 +9636,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 308,
+      "Mon": 309,
       "Tue": 818,
       "Wed": 1464,
       "Thu": 409,
@@ -9645,7 +9645,7 @@
       "Sun": 4867
     },
     "40_Evergreens": {
-      "Mon": 59,
+      "Mon": 60,
       "Tue": 89,
       "Wed": 101,
       "Thu": 5,
@@ -10059,6 +10059,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Sympathy does not dissallow judgment.md\"> Sympathy does not dissallow judgment </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/note writing.md\"> note writing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
@@ -10108,7 +10109,6 @@
         "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
         "<a class=\"internal-link\" href=\"20_Entry/203 Me.md\"> 203 Me </a>",
         "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Hierarchy.md\"> Hierarchy </a>"
       ]
     },
@@ -10431,7 +10431,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>"
       ]
     }
   },

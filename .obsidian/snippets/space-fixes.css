@@ -64,5 +64,5 @@ visibility: visible !important;
 /* Fix paragraph padding */
 .cm-s-obsidian P, 
 .markdown-preview-view p {
-    padding-bottom: 25px;
+    padding-bottom: 0px;
     }
