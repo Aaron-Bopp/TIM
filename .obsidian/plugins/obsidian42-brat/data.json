@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "SkepticMystic/nlp",
     "horriblename/preview-mode-keybinds-obsidian",
     "chrisgrieser/obsidian-smarter-md-hotkeys",
     "TfTHacker/obsidian42-brat",
@@ -25,11 +26,11 @@
     },
     {
       "repo": "chrisgrieser/shimmering-focus",
-      "lastUpdate": "2021-12-19T16:41:37Z"
+      "lastUpdate": "2021-12-20T06:09:32Z"
     },
     {
       "repo": "SlRvb/Obsidian--ITS-Theme",
-      "lastUpdate": "2021-12-18T07:26:34Z"
+      "lastUpdate": "2021-12-20T01:58:00Z"
     },
     {
       "repo": "Emrie-Candera/Bubble-Space-Theme",
