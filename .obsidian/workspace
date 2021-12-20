@@ -45,7 +45,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Black identity is inherently political.md",
+            "file": "40_Evergreens/41 Inbox.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -54,6 +54,18 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "b6cd8001662b8410",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b6cd8001662b8410",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "b6cd8001662b8410",
               "group": null,
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Black identity is inherently political.md",
+                "file": "40_Evergreens/41 Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Black identity is inherently political.md",
+                "file": "40_Evergreens/41 Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,8 +181,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Black identity is inherently political.md"
+                "file": "40_Evergreens/41 Inbox.md"
               }
             },
             "pane-relief:history-v1": {
@@ -307,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Black identity is inherently political.md",
+                "file": "40_Evergreens/41 Inbox.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -419,6 +430,8 @@
   },
   "active": "b6cd8001662b8410",
   "lastOpenFiles": [
+    "40_Evergreens/41 Inbox.md",
+    "40_Evergreens/Neurodiverse people are siloed into systems that work against them.md",
     "40_Evergreens/Black identity is inherently political.md",
     "20_Entry/22 Note by status/Spaced Repetition Inbox.md",
     "40_Evergreens/Black identity is inseparable from other identities.md",
@@ -426,8 +439,6 @@
     "40_Evergreens/How to read to understand.md",
     "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
     "40_Evergreens/Sadness is enlightenment and happiness is delusion.md",
-    "40_Evergreens/Capitalism necessitates class division.md",
-    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
-    "40_Evergreens/How to process repressed emotions.md"
+    "40_Evergreens/Capitalism necessitates class division.md"
   ]
 }
