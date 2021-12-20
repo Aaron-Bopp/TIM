@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -21,8 +21,8 @@
             {
               "leaf": "c5ef85b7d8d57463",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":248},\"to\":{\"line\":25,\"ch\":248}},\"scroll\":19.005309518459622}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":22.511474609375}"
             },
             {
               "leaf": "c5ef85b7d8d57463",

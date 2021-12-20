@@ -6546,7 +6546,7 @@
       "links": 14
     },
     "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md": {
-      "size": 2275,
+      "size": 2624,
       "tags": 2,
       "links": 12
     },
@@ -9571,13 +9571,13 @@
       "Refactor": 1780,
       "Create": 2171,
       "Link": 3754,
-      "Expand": 352
+      "Expand": 353
     },
     "40_Evergreens": {
       "Refactor": 132,
       "Create": 22,
       "Link": 264,
-      "Expand": 178
+      "Expand": 179
     }
   },
   "dailyCommits": {
@@ -9593,7 +9593,7 @@
       "8": 24,
       "9": 509,
       "10": 144,
-      "11": 159,
+      "11": 160,
       "12": 409,
       "13": 242,
       "14": 2290,
@@ -9619,7 +9619,7 @@
       "8": 0,
       "9": 99,
       "10": 49,
-      "11": 64,
+      "11": 65,
       "12": 32,
       "13": 63,
       "14": 33,
@@ -9636,7 +9636,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 307,
+      "Mon": 308,
       "Tue": 818,
       "Wed": 1464,
       "Thu": 409,
@@ -9645,7 +9645,7 @@
       "Sun": 4867
     },
     "40_Evergreens": {
-      "Mon": 58,
+      "Mon": 59,
       "Tue": 89,
       "Wed": 101,
       "Thu": 5,
@@ -9657,6 +9657,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Notes not in outline.md\"> Notes not in outline </a>",
@@ -9706,8 +9707,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Notes not in outline.md\"> Notes not in outline </a>",
@@ -10115,6 +10115,7 @@
     "40_Evergreens": {
       "Expanded": [
         "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -10163,7 +10164,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought provide heterarchical structure.md\"> Webs of thought provide heterarchical structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>"
       ],
       "Created": [
