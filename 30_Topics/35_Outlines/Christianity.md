@@ -17,7 +17,7 @@ aliases:
 - [[The biblical christian God is evil and does not deserve to be worshipped]]
 	- [[Fear of hell is baked into Christianity for vulnerable believers]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
-- [[Were Jesus' teachings anti-thetical to the modern christian church]]
+- [[Are Jesus' teachings anti-thetical to the modern Christian church]]
 	- [[The church will fail if christians keep aligning themselves with hate instead of love]]
 	- [[Loving a a non-believer requires loving the fact that they are going to hell]]
 - [[Deconstruction (Christianity)]]

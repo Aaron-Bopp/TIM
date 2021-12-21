@@ -16,7 +16,7 @@ It is hard to look at the god described in the bible and not think he is either 
 
 - caveats
     - [[You can leave the church without loosing your faith]]
-    - [[Were Jesus' teachings anti-thetical to the modern christian church]]
+    - [[Are Jesus' teachings anti-thetical to the modern Christian church]]
 - results
     - [[Fear of hell is baked into Christianity for vulnerable believers]]
     - [[The Politicization of the Christian Church]]

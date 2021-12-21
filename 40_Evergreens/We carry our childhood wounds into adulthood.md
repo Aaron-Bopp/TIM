@@ -3,9 +3,9 @@ created: 2021-06-25
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-20
-sr-interval: 12
-sr-ease: 205
+sr-due: 2021-12-27
+sr-interval: 6
+sr-ease: 185
 ---
 
 #### [[We carry our childhood wounds into adulthood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

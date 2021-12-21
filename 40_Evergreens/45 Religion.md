@@ -22,7 +22,7 @@
 		- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 		- [[The biblical christian God is evil and does not deserve to be worshipped]]
 		- [[The actual work of being a good person isn't explored by Evangelicalism]]
-		- [[Were Jesus' teachings anti-thetical to the modern christian church]]
+		- [[Are Jesus' teachings anti-thetical to the modern Christian church]]
 	- [[Buddhism]]
 		- [[Bhuddism is the study of happiness through detachment]]
 		- [[Buddhism outlines a path and practice to end suffering, but does not promise it]]

@@ -3,12 +3,12 @@ created: 2021-12-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-21
-sr-interval: 3
+sr-due: 2021-12-31
+sr-interval: 10
 sr-ease: 254
 ---
-#### [[Black identity is inherently political]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#### [[Black identity is inherently political]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
  
 
@@ -17,7 +17,5 @@ sr-ease: 254
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**::  <% tp.file.cursor(1) %>
+**Topics**::  [[racism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

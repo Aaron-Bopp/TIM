@@ -12,6 +12,8 @@ sr-ease: 199
 
 [[My TO(DO) and EVER(GREEN) structure]] details how I add statuses and action items to [[evergreen notes]] in [[My TIM]]. In these, I am constantly contemplating is this note evergreen? and how do I make this note more evergreen? So what does being evergreen even me to me?
 
+#TO/PONDER/ME how this has changed as my vault has matured
+
 What is the inuition that drives this process? 
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Conceptual notes are lexically superior to atomic notes]]

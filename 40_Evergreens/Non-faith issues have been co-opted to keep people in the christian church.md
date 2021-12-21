@@ -18,7 +18,7 @@ To people who believe [[The bible is god breathed]],
 this propaganda can be very confusing, because it is often supported by scripture, 
 ^[[[The biblical christian God is evil and does not deserve to be worshipped]]]
 but the beliefs are obviously against the teaching of Jesus Christ.
-^[[[Were Jesus' teachings anti-thetical to the modern christian church]]]
+^[[[Are Jesus' teachings anti-thetical to the modern Christian church]]]
 Because [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]],
 so these feelings can be really hard to understand.
 It is hard to understand why the bible would be so confusing if it is "[[The bible is god breathed | god breathed]],"

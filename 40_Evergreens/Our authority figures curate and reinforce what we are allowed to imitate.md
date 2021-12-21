@@ -3,9 +3,9 @@ created: 2021-10-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-20
-sr-interval: 12
-sr-ease: 170
+sr-due: 2021-12-26
+sr-interval: 5
+sr-ease: 150
 ---
 
 #### [[Our authority figures curate and reinforce what we are allowed to imitate]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,5 +19,5 @@ In [[Social Learning Theory]], imitation is one of four key mechanism for social
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender]], [[lecture_Behavioral Evolution]]
+**Topics**:: [[gender]], [[Behavioral Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

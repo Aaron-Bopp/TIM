@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-20
-sr-interval: 28
+sr-due: 2022-02-25
+sr-interval: 66
 sr-ease: 230
 ---
 
@@ -12,17 +12,17 @@ sr-ease: 230
 
 First: Maximize link force, minimize link distance, and find a balance between repel force and centering force where you can start to see groupings of related notes. You may need to filter out large index's or add links to get groupings to appear.
 
-There will start to be noticeable stuctures:
+There will start to be noticeable structures:
 - Large groupings of evergreen notes around topics 
 - Related topics intersecting each other
-- New areas of study/thought can be seen as penninsulas and islands
-- Interdisciplinary notes can be seen as connecting two largely seperate topic groups. 
+- New areas of study/thought can be seen as peninsulas and islands
+- Interdisciplinary notes can be seen as connecting two largely separate topic groups. 
 
 As you spend more time in the graph, you will start to recognize related structures of notes: three notes that are always in a line, two notes that are always right next to eachother despite not being linked. These show you implicit relationships that exist within your knowledge. 
 
 This will work somewhat for just [[evergreen notes]], but will work even better if you have [[topic note|topic notes]] that naturally appear in notes without you having to think about linking them (you still need to create the links, either with the outgoing links' pane, scripts, or manually). Maps of content can either be helpful or hindering, depending on how many you have and how many notes link out of each one. 
 
-These relations become useful as your graph becomes larger, and your notes are more densily linked. You should be surprised at the links and the closness you are seeing between nodes, and often this only happen when you have so working in your vault frequently enough to forget how many links you add.
+These relations become useful as your graph becomes larger, and your notes are more densely linked. You should be surprised at the links and the closeness you are seeing between nodes, and often this only happen when you have so working in your vault frequently enough to forget how many links you add.
 
 Obsidian's graph is big a draw for newcomers, 
 and I think with a certain style of note taking  [^1]
