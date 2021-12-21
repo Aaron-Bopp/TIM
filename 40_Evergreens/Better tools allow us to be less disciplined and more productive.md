@@ -3,14 +3,14 @@ created: 2021-11-28
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-16
-sr-interval: 2
+sr-due: 2021-12-27
+sr-interval: 7
 sr-ease: 157
 ---
 
 #### [[Better tools allow us to be less disciplined and more productive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Older generations are often shocked at the differences that they see in younger generations. Sometimes this results in disdain, sometimes in awe, and sometimes in wistfulness, wishing that they had not been [[We are confined to the tools of our time|confined to the tools of their time]]. Our new tools have allowed us to achieve things greater than our forbearers because they are more powerful.
+Older generations are often shocked at the differences that they see in younger generations. Sometimes this results in disdain, sometimes in awe, and sometimes in wistfulness, wishing that they had not been [[We are confined to the tools of our time|confined to the tools of their time]]. Often, we have not surpassed our forbearers in skill, but our new tools have allowed us to achieve greater things because they are more powerful.
 
 Less disciplined does not always mean less productive, and when your lack of discipline is a symptom of more powerful tools you may actually be more productive.
 

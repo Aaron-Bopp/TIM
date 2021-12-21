@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - A bad decision for a beginner is not the same a bad decision for an expert
 tags: node/evergreen
-sr-due: 2022-01-03
-sr-interval: 26
+sr-due: 2022-02-02
+sr-interval: 44
 sr-ease: 170
 ---
 
@@ -31,6 +31,7 @@ A hard rule may be the more difficult path but will setup future success. Hard d
 
 ```ad-example
 When I started my [[second brain]], I made a lot of really specific [[evergreen notes]] and had no methodology for surfacing old notes except by stumbling upon them. They were linked into other notes, but there were so many new notes being created that many fell through the cracks, leading me to duplicate thoughts because I did note remember the relevant note.
+
 When I started to use [[spaced repetition]] for my notes, these "duplicate" notes started coming out through the woodwork and I had to spend time refactoring them and deciding how to incorporate these notes. Now that I have a better grasp if what is in my notes,
 ^[[[Use spaced repetition as a memory tool for your second brain]]]
 I won't even go to make those duplicate notes: [[Better tools allow us to be less disciplined and more productive]]
