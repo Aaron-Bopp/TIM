@@ -23,7 +23,7 @@ Ways to alter our environment: [[Tips for concentration]]
 **Status**:: #EVER/SPROUT/CULTIVATE   
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Pyschology]], [[mental illness]]
+**Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Psychology]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: [[ADHD]], [[gender dysphoria]], [[depression]]

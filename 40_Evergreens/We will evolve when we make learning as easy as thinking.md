@@ -25,5 +25,5 @@ sr-ease: 221
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[transhumanism]], [[Evolution]], [[Evolutionary Pyschology]]
+**Topics**:: [[transhumanism]], [[Evolution]], [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

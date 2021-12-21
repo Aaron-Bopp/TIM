@@ -14,7 +14,7 @@ sr-ease: 290
 
 #### [[Gender is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Current discussion of [[gender roles]], [[Patriarchy]], [[feminism]], [[sexism]] often revolves around the emphasis of this in our culture over the last 200 years, but the social construction of gender is a process that began before we split from chimps. A [[social construct]] does not have to be recent, rather it is our intuitive understanding of how our [[Evolutionary Pyschology]] impacts our [[Behavioral Pyschology]] to produce our [[gender schema]].
+Current discussion of [[gender roles]], [[Patriarchy]], [[feminism]], [[sexism]] often revolves around the emphasis of this in our culture over the last 200 years, but the social construction of gender is a process that began before we split from chimps. A [[social construct]] does not have to be recent, rather it is our intuitive understanding of how our [[Evolutionary Psychology]] impacts our [[Behavioral Psychology]] to produce our [[gender schema]].
 
 [[Our understanding of gender begins at a very early age]], and through behaviors like [[gender segregation]] [^1] and [[Gender self-socialization model|gender self-socialization]] we develop a [[gender schema]].  But despite these strong roots for our gender we still observe that [[Gender has historically been non-binary]] and [[Biology supports the validity of trans people]].
 

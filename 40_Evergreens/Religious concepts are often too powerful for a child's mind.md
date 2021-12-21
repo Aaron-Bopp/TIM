@@ -33,5 +33,5 @@ Because Christians have always had such a simple and obvious choice to avoid thi
 **Status**:: #EVER/GREEN/GRAFT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]], [[childhood]], [[Behavioral Pyschology]]
+**Topics**:: [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]], [[childhood]], [[Behavioral Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

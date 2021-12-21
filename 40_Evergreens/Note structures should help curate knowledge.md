@@ -1,14 +1,15 @@
 ---
 created: 2021-06-27
 tags: node/evergreen
-sr-due: 2021-12-18
-sr-interval: 15
+sr-due: 2022-01-28
+sr-interval: 38
 sr-ease: 207
 ---
 
 #### [[Note structures should help curate knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-#TO/TEND/PRUNE this note is kindoff the ancestor of [[Your second brain should be frictionless access to a curated base of knowledge]], [[Your second brain should be an inspirational hub of creativity]], [[Write your notes like you're planting an evergreen forest]]
+%%
+#TO/TEND/PRUNE this note is kind of the ancestor of [[Your second brain should be frictionless access to a curated base of knowledge]], [[Your second brain should be an inspirational hub of creativity]], [[Write your notes like you're planting an evergreen forest]]
+%%
 
 As you're writing, your note structures shouldn't be constricting your thought,
 they should be encouraging it.
@@ -20,9 +21,10 @@ This is why friction can be both a hinderance and boon to your [[knowledge work]
 %%If the borders of your structures are loosely defined it will make it easier for your brain to use them. Some might say that loosely defined structures will just lead to unorganized thought, 
 ^[[[Prioritize organization over categorization to avoid cognitive bias]]]
 or that friction can be a boon to creation,
-which can definitely be true.%%
+which can definitely be true.
 
 #TO/DO/CONCEPTUALIZE note stuctures and [[What makes a note evergreen]]
+%%
 Examples:
 [[my TO(DO) and EVER(GREEN) structure]] is grouping of tags that I update on every note in [[My TIM]]. These tags have loosely defined meanings, in that there is no exact definition of what a ever/seed is vs an ever/sprout, and often I will find notes and think that they much more deserve to be in a different category. But that process is expected and is part of maintaining [[evergreen notes]]. I know that I will be going through and constantly adding to, refining, and changing notes and thus changing their status tag, so if a note is mistagged, it will get seen again no matter what.
 

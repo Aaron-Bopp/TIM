@@ -3,8 +3,8 @@ created: 2021-12-02
 aliases:
   - "'Loving the loves of your loves' - John Green"
 tags: node/evergreen
-sr-due: 2021-12-17
-sr-interval: 3
+sr-due: 2021-12-31
+sr-interval: 10
 sr-ease: 167
 ---
 
@@ -13,7 +13,7 @@ sr-ease: 167
 [Loving the Loves of Your Loves - YouTube](https://www.youtube.com/watch?v=uZhnL_cTrfQ) from [[John Green]]
 
 %%
-#TO/DO/FIND video from tiktok guy about this with the bird example
+#TO/DO/FIND video from [[Tiktok]] guy about this with the bird example
 %%
 
 Mirroring the joy that your loved ones is a basic way of showing your love for them.
@@ -22,9 +22,10 @@ I think this generally a great thing to do for other people especially those who
 and is probably a pretty natural thing in general: 
 [[Humans love to group eachother]]
 
+#TO/TEND/GRAFT notes about [[empathy]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[love]], [[empathy]], [[socialization]]

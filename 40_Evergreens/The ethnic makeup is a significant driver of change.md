@@ -3,9 +3,9 @@ created: 2021-07-30
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-18
-sr-interval: 32
-sr-ease: 252
+sr-due: 2022-01-08
+sr-interval: 18
+sr-ease: 232
 ---
 
 #### [[The ethnic makeup is a significant driver of change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

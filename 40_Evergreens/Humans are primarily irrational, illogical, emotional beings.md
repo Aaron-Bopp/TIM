@@ -88,5 +88,5 @@ Much of human [[suffering]] has been the fulfillment of these behaviors in the h
 **Status**:: #EVER/GREEN/GROWING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[mental health]], [[self]], [[Evolutionary Pyschology]], [[political strategy]]
+**Topics**:: [[mental health]], [[self]], [[Evolutionary Psychology]], [[political strategy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -3,18 +3,20 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-17
-sr-interval: 13
+sr-due: 2022-01-27
+sr-interval: 37
 sr-ease: 230
 ---
 
 #### [[Race is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- [[Abortion and immigration are detrimental to white supremacy]]
 - [[Whiteness was created to marginalize people of color]]
+- [[Black identity is inherently political]]
+
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social construct]], [[racism]], [[white supremacy]], [[Civil Rights]]

@@ -14,7 +14,7 @@ Becoming obsessed/absorbed by this fact leads to thoughts like [[Sadness is enli
 
 - [[Insecure material conditions increase cognitive load and reduce outcomes]]
 - [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]
-- [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]
+- [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 - [[Single issue voters are anti-democratic]]
 - [[The Politicization of the Christian Church]]
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]

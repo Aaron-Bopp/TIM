@@ -11,7 +11,7 @@ date modified: Monday, November 1st 2021, 2:26:21 pm
 
 - [[stereotype threat]]
 - [[Insecure material conditions increase cognitive load and reduce outcomes]]
-- [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]
+- [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 - [[Stereotypes are social constructs]]
 
 ### <hr class="footnote"/>

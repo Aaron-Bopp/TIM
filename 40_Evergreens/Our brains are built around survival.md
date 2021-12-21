@@ -8,7 +8,7 @@ sr-ease: 235
 
 #### [[Our brains are built around survival]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This is a biological fact reinforced by [[socialization]], [[natural selection]],  and [[Evolutionary Pyschology]].
+This is a biological fact reinforced by [[socialization]], [[natural selection]],  and [[Evolutionary Psychology]].
 
 If a prehistoric human was attacked by a tiger and survived the rest of their life needed to be focused on avoiding tigers. They needed to be able to remember everything that lead up to the encounter, exactly how it happened, and exactly how to get out of it. However, in modern times, these natural instincts are not always needed to survive, and can even cause more emotional anguish than they prevent: [[Our brain will do anything it can to protect itself]] 
 

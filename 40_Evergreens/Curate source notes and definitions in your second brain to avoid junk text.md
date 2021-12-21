@@ -3,16 +3,17 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-19
-sr-interval: 11
+sr-due: 2022-01-15
+sr-interval: 25
 sr-ease: 190
 ---
 
 #### [[Curate source notes and definitions in your second brain to avoid junk text]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 There is a difference between idly grabbing every article you read the headline of and absorbing relevant qoutes into you [[second brain]]. There is a difference from creating friction for yourself with unfamiliar information that was copied and pasted from wikipedia and using term notes to reduce friction. There is a difference in creating empty notes just for the graph and using note stubs to find spontaneous connections.
+#TO/TEND/CONNECT [[The Collector's Fallacy]]
 
-I believe the difference lies in curating the information in your vault and controlling the way you can access that information, and this is an intergral part of [[Your second brain should be frictionless access to a curated base of knowledge]].
+I believe the difference lies in curating the information in your vault and controlling the way you can access that information, and this is an integral part of [[Your second brain should be frictionless access to a curated base of knowledge]].
 
 For me, this process looks like this:
 1. Import highlights that are relevant to my learning from what I read so that they are accessible through [[Obsidian (software)|]] search and I can return to the primary source easily.

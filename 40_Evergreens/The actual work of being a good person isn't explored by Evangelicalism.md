@@ -3,8 +3,8 @@ created: 2021-10-19
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-17
-sr-interval: 3
+sr-due: 2021-12-28
+sr-interval: 7
 sr-ease: 130
 ---
 
@@ -17,6 +17,9 @@ While the bible does talk about how to be a good person,
 [[Evangelicalism has commodified faith for profit]] and so they have largely abandoned this doctrine.
 
 "Have [[faith]] and you will be saved. Believe in the lord god and he will make your pain go away." These are empty promises. [[Evangelicalism]] hides the work and the struggle so that it can convert and control more people: [[Worldviews are wrong if they make life seem easy and simple]]
+%%
+#TO/TEND/DEOBFUSCATE difference between [[Evangelicalism has commodified faith for profit]] and this, especially this para
+%%
 
 [[Human's have an inability to admit that they are wrong]], and because [[Christianity]] is taught so early in childhood [^1] this is even more impactful: [[Religious concepts are often too powerful for a child's mind]]
 

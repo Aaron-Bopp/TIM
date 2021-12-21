@@ -47,7 +47,7 @@ source: null
 - we each have a **[[gender schema]]** that processes and organizes gender-linked associations
 - 5 and 6 year old children switched the gender of people in gender inconsistent scenarios and kept it in gender stereotypical scenarios pg 41
 # Chapter 7
-## [[Evolutionary Pyschology]]	
+## [[Evolutionary Psychology]]	
 - **[[sociobiology]]** - the applicatoin of evolutionary theory (natural selection) to social behavior [[socialization|social fitness]]
 - **evolutionary fitness** ==> the relative number of genes an animal contrubutes to the next generation
 - **parental investment** may play a role in in why females normally take most care of the offspring
@@ -102,7 +102,7 @@ source: null
 - Gender stereotypes can be implicit or explicit 
 - A liberal view of gender does not equate to a lack of gender stereotyping
 - Q: Why do people stereotype
-	- [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]. When meet a new person or interact with anew situation we fill in assumed information as a part of the process of learning about them. This is a normal process but overreliance on it can lead to negative stereotyping and making the person feel judged. Stereotyping another groups behavior as worse than our own personal behavior or the behavior of someone we admire is form of self-enhancement. This behavior leads to harmless distinctions and harmful beliefs ([[racism]], [[homophobia]], etc)
+	- [[Stereotyping has the psychological goal of comprehension and self-enhancement]]. When meet a new person or interact with anew situation we fill in assumed information as a part of the process of learning about them. This is a normal process but overreliance on it can lead to negative stereotyping and making the person feel judged. Stereotyping another groups behavior as worse than our own personal behavior or the behavior of someone we admire is form of self-enhancement. This behavior leads to harmless distinctions and harmful beliefs ([[racism]], [[homophobia]], etc)
 - Q: How is [[implicit bias]] measured
 	- Through reaction times. The faster an association is made the stronger that bias is.
 - Q: What is [[stereotype threat]]?

@@ -1,9 +1,9 @@
 ---
 created: 2021-06-15
 tags: node/evergreen
-sr-due: 2021-12-17
-sr-interval: 13
-sr-ease: 180
+sr-due: 2021-12-29
+sr-interval: 8
+sr-ease: 160
 ---
 
 #### [[Your anxiety is telling you everything that could go wrong not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -13,7 +13,8 @@ sr-ease: 180
 #TO/TEND/GRAFT this onto [[Your anxiety knows your insecurities better than you do]], [[Our brains are built around survival]]
 %%
 
-If you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with the thing or not. [[Social anxiety isn't irrational it's just overcompensation]]
+[[Social anxiety isn't irrational it's just overcompensation]],
+if you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with the thing or not. 
 
 Being able to do this requires a very healthy amount of [[mindfulness]], and a large amount of [[self]]-awareness. Once you've achieved these things your [[anxiety]] can start to be an aspect of your [[mindfulness]] rather than an inhibitor. 
 ^[[[Anxiety should be a tool at your disposal not an impedance to your life]]]
@@ -24,7 +25,7 @@ Being able to do this requires a very healthy amount of [[mindfulness]], and a l
 The reason this happens is rooted in [[Neuroscience]]. 
 ^[[[Humans are a product of evolution]]]
 [[Anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]].
-As we satisfy more and more of the [[Hierachy of Needs]] our need for such an advanced warning system grows less and less.
+As we satisfy more and more of the [[Hierarchy of needs]] our need for such an advanced warning system grows less and less.
 ^[[[Your anxiety knows your insecurities better than you do#Cause material insecurity]]]
 In modern society, our [[anxiety]] can seem like a irrational response, but it is just our brain doing what is has evolved to do. 
 %%

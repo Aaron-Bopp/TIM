@@ -5,4 +5,4 @@ tags: node/topic/stub
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 
-**See**:: [[Evolutionary Pyschology]]
+**See**:: [[Evolutionary Psychology]]

@@ -20,7 +20,7 @@ Since we started doing modern computer [[programming]] in the early 1970s, our c
 ^[[[We are confined to the tools of our time]]]
 but modern tools allow us to overcome both the friction of discipline and the [[friction]] the discipline was trying to solve.
 
-In the early days of [[knowledge work]], to save something you had to be purposeful about it. Either you saved the reference so that you could find it again, or you clipped the newspaper article and filed it away. If you wanted to collect a wealth of knowledge you needed to have an entire [[organization]] system just to keep track. Today, we have the power of computing and web clippers that make saving something arbitrary. This has led to the [Collector’s Fallacy](https://zettelkasten.de/posts/collectors-fallacy/). 
+In the early days of [[knowledge work]], to save something you had to be purposeful about it. Either you saved the reference so that you could find it again, or you clipped the newspaper article and filed it away. If you wanted to collect a wealth of knowledge you needed to have an entire [[organization]] system just to keep track. Today, we have the power of computing and web clippers that make saving something arbitrary. This has led to [[The Collector's Fallacy]].
 
 The skills the discipline taught cannot be forgotten
 - [[The more mistakes you've fixed the more bad decisions you can afford]]

@@ -4,4 +4,4 @@ tags: node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-**See**:: [[Behavioral Pyschology]]
+**See**:: [[Behavioral Psychology]]

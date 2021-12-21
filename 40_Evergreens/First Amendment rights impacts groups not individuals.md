@@ -3,14 +3,16 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-18
-sr-interval: 27
-sr-ease: 230
+sr-due: 2022-01-04
+sr-interval: 14
+sr-ease: 210
 ---
 
 #### [[First Amendment rights impacts groups not individuals]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-The five rights provided in the First Amendment are speech, [[religion]], press, assembly, right to petition (protest) the [[government]]. The rights are guaranteed at birth and no citizenship is required. This means that the founders considered these rights to be outside of American Citizenship and thus have little relationship to "being American." Unlike first amendment rights, [[Most rights were denied to Americans at its founding]]. I would say that in comparison to many other rights that First Amendment Rights have little effect on individual people's daily lives. The First Amendment is far more important in the restrictions is places on [[government]] and religious, [[mass media]], [[business]] organizations.
+The five rights provided in the First Amendment are speech, [[religion]], press, assembly, right to petition (protest) the [[government]]. The rights are guaranteed at birth and no citizenship is required. This means that the founders considered these rights to be outside of American Citizenship and thus have little relationship to "being American." 
+
+Unlike first amendment rights, [[Most rights were denied to Americans at its founding]]. I would say that in comparison to many other rights that First Amendment Rights have little effect on individual people's daily lives. The First Amendment is far more important in the restrictions is places on [[government]] and religious, [[mass media]], [[business]] organizations.
 
 The most important time that these rights apply is for [[protests]], but that is the time they are most under attack
 

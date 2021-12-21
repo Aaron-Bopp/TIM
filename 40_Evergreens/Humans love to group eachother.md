@@ -24,7 +24,7 @@ Possible mechanism behind [[racism]], [[homophobia]] [[partisanship]]
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolutionary Pyschology]]
+**Topics**:: [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

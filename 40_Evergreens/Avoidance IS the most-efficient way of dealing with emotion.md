@@ -34,5 +34,5 @@ One manifestation of this is our ego, because [[Our ego is our subconscious defe
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[childhood]], [[Behavioral Pyschology]]
+**Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[childhood]], [[Behavioral Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

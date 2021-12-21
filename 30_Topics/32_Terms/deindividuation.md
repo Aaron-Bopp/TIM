@@ -8,5 +8,5 @@ tags: node/topic/term
 
 A state where the person is anonymous and the social [[self|identity]] is demphasized.
 
-**See**:: [[Psychology]], [[Behavioral Pyschology]], [[socialization]]
+**See**:: [[Psychology]], [[Behavioral Psychology]], [[socialization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

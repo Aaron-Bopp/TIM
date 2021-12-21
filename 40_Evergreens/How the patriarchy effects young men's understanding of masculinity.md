@@ -31,7 +31,7 @@ sr-ease: 150
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Patriarchy]], [[socialization]], [[Masculinity]], [[Evolutionary Pyschology]]
+**Topics**:: [[Patriarchy]], [[socialization]], [[Masculinity]], [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

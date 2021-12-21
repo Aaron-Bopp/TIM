@@ -27,5 +27,5 @@ See:: [[How can parent's best help their children]]
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[childhood]], [[Behavioral Pyschology]]
+**Topics**:: [[childhood]], [[Behavioral Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

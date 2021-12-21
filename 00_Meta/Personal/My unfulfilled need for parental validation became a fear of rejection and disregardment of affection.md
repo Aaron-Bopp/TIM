@@ -3,12 +3,12 @@ created: 2021-07-30
 tags: node/evergreen, node/personal
 aliases:
   - null
-sr-due: 2021-12-17
-sr-interval: 9
+sr-due: 2022-01-17
+sr-interval: 27
 sr-ease: 218
 ---
 
-#### [[My unfulfilled need for parental validation became a fear of rejection and disregarment of affection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[My unfulfilled need for parental validation became a fear of rejection and disregardment of affection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[An unfulfilled need for validation results in a fear of rejection]] and [[A inwardly judgmental and outwardly accepting home creates trust issues]] were both at play during my childhood. [[my parents]] were very loving and very religious which I think is what brought about my [[religious trauma]] and my intense need for [[emotional validation]] from them. 
 

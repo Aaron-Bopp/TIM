@@ -24,7 +24,7 @@ This is why you should [[Look for understanding before you look for solutions]].
 
 [[Humans are primarily irrational, illogical, emotional beings]], so ingraining a belief is much easier than removing it, especially when this belief is built in childhood.
 ^[[[Children make wide assumptions about the world]]]
-This is why [[Stereotype|stereotypes]] are so dangerous: [[Stereotyping has the pyschological goal of comprehension and self-enhancement]], but once you have steretyped something, you are less likely to accept new information about that thing.
+This is why [[Stereotype|stereotypes]] are so dangerous: [[Stereotyping has the psychological goal of comprehension and self-enhancement]], but once you have steretyped something, you are less likely to accept new information about that thing.
 
 ### <hr class="footnote"/>
 

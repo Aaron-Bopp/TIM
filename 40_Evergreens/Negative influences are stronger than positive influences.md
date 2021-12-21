@@ -3,8 +3,8 @@ created: 2021-11-02
 aliases:
 - 
 tags: node/evergreen
-sr-due: 2021-12-19
-sr-interval: 11
+sr-due: 2022-01-16
+sr-interval: 26
 sr-ease: 190
 ---
 
@@ -14,7 +14,7 @@ This is true especially in childhood, because we [[We carry our childhood wounds
 
 #TO/DO/FIND William osman comment video
 
-There may be a root in [[Evolutionary Pyschology]] [^1] or it could be more related to [[Our brain will do anything it can to protect itself]]. Either way, negative influences root theirselves in our [[insecurity|insecurities]] and [[We value our biggest insecurities because they protect us from the biggest threats]]. Valueing a negative [[influence]] more than a positive one could mean we are more prepared against negative outcomes.
+There may be a root in [[Evolutionary Psychology]] [^1] or it could be more related to [[Our brain will do anything it can to protect itself]]. Either way, negative influences root their selves in our [[insecurity|insecurities]] and [[We value our biggest insecurities because they protect us from the biggest threats]]. Valuing a negative [[influence]] more than a positive one could mean we are more prepared against negative outcomes.
 
 [^1]: [[Our brains are built around survival]]
 
@@ -23,5 +23,5 @@ There may be a root in [[Evolutionary Pyschology]] [^1] or it could be more rela
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[childhood]], [[human experience]], [[trauma]], [[Behavioral Pyschology]]
+**Topics**:: [[childhood]], [[human experience]], [[trauma]], [[Behavioral Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -12,7 +12,7 @@ sr-ease: 203
 
 ##### Answers:: [[What is the cognitive effect of living in an unjust world]]
 
-- [[Evolutionary Pyschology]]
+- [[Evolutionary Psychology]]
     - [[Our brain will do anything it can to protect itself]]
         - [[The brain is powerful enough to create supernatural experiences]]
     - [[Human's will find explanations for inexplainable things]]
@@ -41,5 +41,5 @@ sr-ease: 203
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human experience]], [[Behavioral Pyschology]], [[human advancement]]
+**Topics**:: [[human experience]], [[Behavioral Psychology]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

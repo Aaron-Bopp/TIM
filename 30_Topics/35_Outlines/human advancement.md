@@ -6,7 +6,7 @@ tags: node/topic/outline
 
 - 
 
-**See**:: [[human experience]], [[Evolutionary Pyschology]]
+**See**:: [[human experience]], [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[human advancement]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

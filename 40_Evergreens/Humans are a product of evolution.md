@@ -21,5 +21,5 @@ sr-ease: 190
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolutionary Pyschology]]
+**Topics**:: [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -3,8 +3,8 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-19
-sr-interval: 15
+sr-due: 2022-01-24
+sr-interval: 34
 sr-ease: 185
 ---
 
@@ -14,6 +14,7 @@ Sometimes we don't know what is hurting us until we cut it off, and we can't gai
 
 [^1]: [[Your anxiety knows your insecurities better than you do]]
 
+#TO/TEND/WEED wording
 When you are trying to work through trauma. Don't try to be a hero and or have your cake and eat it to. [[There aren't any downsides to working through trauma]], but it can involve of a lot of very difficult situations and feelings because [[Working through trauma can involve of a lot of letting go]]. 
 
 [[Deconstructing your faith is like climbing through a jungle canopy]] reflects on this concept of stepping back to gain objectivity in relation to [[Deconstruction (Christianity)]]. 

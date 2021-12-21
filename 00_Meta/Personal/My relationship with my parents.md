@@ -12,7 +12,7 @@ My relationship with [[my parents]] is rocky at best. I think that I broke my da
 
 I think at a certain point you can't teach an old dog new tricks. It's kind of hard for me because I know [[In order to for my parents to love me, they need to admit they might be wrong]]
 
- -> [[My unfulfilled need for parental validation became a fear of rejection and disregarment of affection]]
+ -> [[My unfulfilled need for parental validation became a fear of rejection and disregardment of affection]]
 
 ---
 

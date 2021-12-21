@@ -35,7 +35,7 @@ Q:: Are [[language]] skills centered in one hemisphere of the brain?
 A:: While producing speech is much more inhibited by left hemisphere damage than right, language relies on both sides of the brain  
 > both hemispheres can figure out the meaning of words and sentences – and that they have differing strengths and weaknesses when it comes to comprehending. 
 %%
-highlight_tags:: [[Behavioral Pyschology]]
+highlight_tags:: [[Behavioral Psychology]]
 %%
 ##### ^241415937
 Q:: Do the different brain hemisphere's handle different tasks? 

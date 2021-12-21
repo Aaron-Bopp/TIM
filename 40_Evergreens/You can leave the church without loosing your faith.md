@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-12-18
-sr-interval: 10
+sr-due: 2022-01-16
+sr-interval: 26
 sr-ease: 212
 ---
 
@@ -19,12 +19,12 @@ Even if we know that the group we are a part of has evil members.
 [[Sometimes we can't grow until we change our environment]], and that may mean leaving the church, so you can get an objective view of [[Christianity]]:
 [[Deconstructing your faith is like climbing through a jungle canopy]]
 
-Plenty of people leave the church but still have [[faith]], or are trying to improve church even if they don't have [[faith]]. There's also a really big [[community]] of ex-christians who lead all different kinds of spiritual lives. Athiesm is not the only route for [[Deconstruction (Christianity)]] it's just the route I took.
+Plenty of people leave the church but still have [[faith]], or are trying to improve church even if they don't have [[faith]]. There's also a really big [[community]] of ex-christians who lead all different kinds of spiritual lives. [[Atheism]] is not the only route for [[Deconstruction (Christianity)]] it's just the route I took.
 
 #TO/EXPLORE/RESEARCH how [[Humans love to group eachother]] affects or reasoning ability [[Humans are primarily irrational, illogical, emotional beings]]
 
 %%
-While [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] because [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]], Chrisitians still have a very large capicity for empathy, and if you can get them to direct that it can be very powerful #TO/DO/CONCEPTUALIZE 
+While [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] because [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]], Christians still have a very large capicity for empathy, and if you can get them to direct that it can be very powerful #TO/DO/CONCEPTUALIZE 
 %%
 ### <hr class="footnote"/>
 

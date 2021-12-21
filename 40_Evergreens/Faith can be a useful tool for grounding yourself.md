@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-12-18
-sr-interval: 14
+sr-due: 2022-01-23
+sr-interval: 33
 sr-ease: 192
 ---
 
@@ -17,7 +17,7 @@ I think that [[religion]] can be a healthy way to avoid the uncertainty of not k
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[belief systems]], [[faith]], [[worldview]] 

@@ -26,6 +26,6 @@ One manifestation of this defense mechanisms is: [[Avoidance IS the most-efficie
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[subconscious|ego]], [[defense-mechanisms]], [[Behavioral Pyschology]], [[trauma]]
+**Topics**:: [[subconscious|ego]], [[defense-mechanisms]], [[Behavioral Psychology]], [[trauma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

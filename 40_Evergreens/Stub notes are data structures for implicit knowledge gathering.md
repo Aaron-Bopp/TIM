@@ -3,13 +3,14 @@ created: 2021-11-15
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-19
-sr-interval: 4
+sr-due: 2022-01-03
+sr-interval: 13
 sr-ease: 223
 ---
 
 #### [[Stub notes are data structures for implicit knowledge gathering]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/DO/FIND [[Andy Matuschak's Evergreen Notes]] notes on stubs
 - [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Nodes in the second brain are an abstraction of our first brain]]
