@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Human's have an inability to admit that they are wrong.md",
-            "mode": "source",
+            "file": "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -21,8 +21,14 @@
             {
               "leaf": "c5ef85b7d8d57463",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":11.25079369923425}"
+            },
+            {
+              "leaf": "c5ef85b7d8d57463",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Human's have an inability to admit that they are wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "c5ef85b7d8d57463",
@@ -135,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Human's have an inability to admit that they are wrong.md",
+                "file": "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -168,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Human's have an inability to admit that they are wrong.md",
+                "file": "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Human's have an inability to admit that they are wrong.md"
+                "file": "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md"
               }
             },
             "pane-relief:history-v1": {
@@ -315,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Human's have an inability to admit that they are wrong.md",
+                "file": "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -426,6 +432,7 @@
   },
   "active": "c5ef85b7d8d57463",
   "lastOpenFiles": [
+    "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
     "40_Evergreens/Human's have an inability to admit that they are wrong.md",
     "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
     "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
@@ -434,7 +441,6 @@
     "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md",
     "40_Evergreens/43 Mental Health.md",
     "40_Evergreens/42 Knowledge Management.md",
-    "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
-    "20_Entry/22 Note by status/Spaced Repetition Inbox.md"
+    "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md"
   ]
 }
