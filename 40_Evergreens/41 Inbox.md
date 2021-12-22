@@ -19,3 +19,4 @@
 	- [[Black identity is inseparable from other identities]]
 	- [[Black identity is inherently political]]
 	- [[Neurodiverse people are siloed into systems that work against them]]
+	- [[Write your notes with a system not within a system]]

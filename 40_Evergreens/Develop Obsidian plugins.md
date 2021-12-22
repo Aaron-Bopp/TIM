@@ -38,4 +38,5 @@ sr-ease: 250
 	- Twitter sidebar (timeline, favorites, bookmarks, lists, etc)
 		- possible example code [GitHub - samwarnick/obsidian-simple-embeds: A plugin for Obsidian that automatically turns links into embeds.](https://github.com/samwarnick/obsidian-simple-embeds)
 		- embed timelines or tweets [Twitter for Websites | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-for-websites)
+	- Vault logger to append note changes and links to daily notes
 - How to tell if a pane is not in view [Discord](https://discord.com/channels/686053708261228577/716028884885307432/920571021906546698)

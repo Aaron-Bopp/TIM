@@ -1,8 +1,11 @@
 #node/personal 
 # 2021
 ## December
+### 2021-12-21 12:17 pm
 
-### 2021-12-12 12:39am
+I am feeling really anxious. I am not quite sure why. It came as I was thinking about n[[note writing]], specifically differences between my system and the existing systems that it is based off of. I am going to see someone later, so it may just be [[social anxiety]], but it feels like something deeper. Like that I feel that I should be worried about something.
+
+### 2021-12-12 12:39 am
 
 I have been realizing how much of my difficulty comes from being scared or unaware of what others [[perception]]s of me are. I am obsessed with getting the right reactions from people, to the point of self-destruction. Obviously this isn't sustainable, nor am I trying to make it be. I am working towards finding a place where I can truly pursue being myself, both physically and mentally.
 

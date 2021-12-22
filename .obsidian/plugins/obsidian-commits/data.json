@@ -8948,7 +8948,7 @@
     "40_Evergreens/41 Inbox.md": {
       "size": 1171,
       "tags": 0,
-      "links": 21
+      "links": 22
     },
     "40_Evergreens/44 Identity.md": {
       "size": 1585,
@@ -9073,7 +9073,7 @@
     "00_Meta/Personal/Journal.md": {
       "size": 22860,
       "tags": 3,
-      "links": 52
+      "links": 53
     },
     "00_Meta/Personal/my emotions.md": {
       "size": 380,
@@ -9579,20 +9579,25 @@
       "size": 711,
       "tags": 2,
       "links": 7
+    },
+    "40_Evergreens/Write your notes with a system not within a system.md": {
+      "size": 829,
+      "tags": 2,
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1787,
-      "Create": 2174,
-      "Link": 3796,
-      "Expand": 364
+      "Refactor": 1788,
+      "Create": 2175,
+      "Link": 3801,
+      "Expand": 365
     },
     "40_Evergreens": {
-      "Refactor": 136,
+      "Refactor": 137,
       "Create": 22,
-      "Link": 301,
-      "Expand": 189
+      "Link": 305,
+      "Expand": 190
     }
   },
   "dailyCommits": {
@@ -9609,7 +9614,7 @@
       "9": 536,
       "10": 172,
       "11": 160,
-      "12": 410,
+      "12": 418,
       "13": 243,
       "14": 2290,
       "15": 127,
@@ -9635,7 +9640,7 @@
       "9": 118,
       "10": 73,
       "11": 65,
-      "12": 33,
+      "12": 39,
       "13": 64,
       "14": 33,
       "15": 0,
@@ -9652,7 +9657,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 310,
-      "Tue": 879,
+      "Tue": 887,
       "Wed": 1464,
       "Thu": 409,
       "Fri": 192,
@@ -9661,7 +9666,7 @@
     },
     "40_Evergreens": {
       "Mon": 61,
-      "Tue": 138,
+      "Tue": 144,
       "Wed": 101,
       "Thu": 5,
       "Fri": 8,
@@ -9672,6 +9677,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
@@ -9721,10 +9727,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/protests.md\"> protests </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sequential notes.md\"> Sequential notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/The Collector's Fallacy.md\"> The Collector's Fallacy </a>",
@@ -9774,10 +9780,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchoat trying to imitate a working form of communication..md\"> English is six languages in a trenchoat trying to imitate a working form of communication. </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/black people.md\"> black people </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/To my parents.md\"> To my parents </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/over-stimulation.md\"> over-stimulation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neurotypical.md\"> neurotypical </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/over-stimulation.md\"> over-stimulation </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Are Jesus' teachings anti-thetical to the modern Christian church.md\"> Are Jesus' teachings anti-thetical to the modern Christian church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Were Jesus' teachings anti-thetical to the modern Christian church.md\"> Were Jesus' teachings anti-thetical to the modern Christian church </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Evolutionary Psychology.md\"> Evolutionary Psychology </a>",
@@ -9827,10 +9833,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asfdasdfasdfasdfasdf.md\"> asfdasdfasdfasdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testing one.md\"> testing one </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/oh.md\"> oh </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/oh.md\"> oh </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -9880,8 +9886,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/XML.md\"> XML </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/PDF.md\"> PDF </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human interaction.md\"> human interaction </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9968,6 +9973,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md\"> [Human's will find explanations for inexplainable things </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
@@ -10014,11 +10023,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
@@ -10129,6 +10134,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
@@ -10178,7 +10184,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the starter types of note taking.md\"> What are the starter types of note taking </a>"
       ],
       "Created": [
@@ -10206,6 +10211,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/testset.md\"> testset </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Are Jesus' teachings anti-thetical to the modern Christian church.md\"> Are Jesus' teachings anti-thetical to the modern Christian church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Were Jesus' teachings anti-thetical to the modern Christian church.md\"> Were Jesus' teachings anti-thetical to the modern Christian church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stereotyping has the psychological goal of comprehension and self-enhancement.md\"> Stereotyping has the psychological goal of comprehension and self-enhancement </a>",
@@ -10255,10 +10261,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inacurate information.md\"> Mass media promotes the spread of inacurate information </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
@@ -10308,8 +10314,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between sympathy and empathy.md\"> What is the difference between sympathy and empathy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10347,6 +10352,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/testset.md\"> testset </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
@@ -10394,10 +10402,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",

@@ -104,7 +104,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "### {{DATE:YYYY-MM-DD hh:mm}}\n\n{{VALUE}}"
+        "format": "### {{DATE:YYYY-MM-DD hh:mm a}}\n\n{{VALUE}}"
       },
       "insertAfter": {
         "enabled": true,
