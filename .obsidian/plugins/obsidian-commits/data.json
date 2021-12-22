@@ -9604,14 +9604,24 @@
       "size": 0,
       "tags": 2,
       "links": 1
+    },
+    "00_Meta/Personal/To my parents.md": {
+      "size": 1989,
+      "tags": 0,
+      "links": 0
+    },
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md": {
+      "size": 750,
+      "tags": 1,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1793,
-      "Create": 2181,
-      "Link": 3834,
-      "Expand": 373
+      "Create": 2183,
+      "Link": 3836,
+      "Expand": 378
     },
     "40_Evergreens": {
       "Refactor": 142,
@@ -9636,8 +9646,8 @@
       "11": 160,
       "12": 418,
       "13": 243,
-      "14": 2290,
-      "15": 127,
+      "14": 2294,
+      "15": 132,
       "16": 889,
       "17": 1562,
       "18": 206,
@@ -9678,7 +9688,7 @@
     "/": {
       "Mon": 310,
       "Tue": 889,
-      "Wed": 1514,
+      "Wed": 1523,
       "Thu": 409,
       "Fri": 192,
       "Sat": 0,
@@ -9697,6 +9707,11 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/To my parents.md\"> To my parents </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/To my parents.md\"> To my parents </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/To my parents.md\"> To my parents </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/To my parents.md\"> To my parents </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/To my parents.md\"> To my parents </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -9742,14 +9757,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Single issue voters are anti-democratic.md\"> Single issue voters are anti-democratic </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/heterarchy.md\"> heterarchy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md\"> tweets_Tweets From Cressa Maeve Beer </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/To my parents.md\"> To my parents </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Naming things matters.md\"> Naming things matters </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mnemonic medium.md\"> mnemonic medium </a>",
@@ -9798,9 +9810,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/inequity.md\"> inequity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Abigail Thorn.md\"> Abigail Thorn </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Decontextualizer - Paul Bricman.md\"> articles_Decontextualizer - Paul Bricman </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/videoTransComingOutStory.md\"> videoTransComingOutStory </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
@@ -9856,6 +9866,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asfdasdfasdfasdfasdf.md\"> asfdasdfasdfasdfasdf </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md\"> tweets_Tweets From Cressa Maeve Beer </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
@@ -9905,8 +9916,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/heterarchy.md\"> heterarchy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/heterarchy.md\"> heterarchy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9993,6 +10003,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Knowledge of the world is painful.md\"> [Knowledge of the world is painful </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md\"> tweets_Tweets From Cressa Maeve Beer </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -10042,8 +10053,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",

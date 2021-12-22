@@ -1,41 +1,23 @@
-/* span.cm-hmd-internal-link[data-link-tags*="#" i]::before,
-a.internal-link[data-link-tags*="#" i]::before {
+.data-link-icon::before {
     font-size: 75%;
     opacity: 80%;
-} */
+}
 
-/* span.cm-hmd-internal-link[data-link-tags*="#" i]::before,
-a.internal-link[data-link-tags*="#" i]::before {
+.data-link-icon::before {
     font-weight: 600;
-} */
+}
 
 
-/* [data-link-tags*="#EVER/SEED" i]::before,
-
-span.cm-hmd-internal-link[data-link-tags*="#EVER/SEED" i]::before,
-a.internal-link[data-link-tags*="#EVER/SEED" i]::before,
-div.nav-file-title-content[data-link-tags*="#EVER/SEED" i]::before {
+.data-link-icon[data-link-tags*="#EVER/SEED" i]::before {
     content: "🌱";
-} */
+} 
 
-
-/* [data-link-tags*="#EVER/SPROUT" i]::before,
-
-span.cm-hmd-internal-link[data-link-tags*="#EVER/SPROUT" i]::before,
-a.internal-link[data-link-tags*="#EVER/SPROUT" i]::before,
-div.nav-file-title-content[data-link-tags*="#EVER/SPROUT" i]::before {
+.data-link-icon[data-link-tags*="#EVER/SPROUT" i]::before {
     content: "🌿️";
-} */
-
-
-
-/* span.cm-hmd-internal-link[data-link-tags*="#EVER/GREEN" i]::before,
-a.internal-link[data-link-tags*="#EVER/GREEN" i]::before,
-div.nav-file-title-content[data-link-tags*="#EVER/GREEN" i]::before  */
-/* [data-link-tags*="#EVER/GREEN" i]::before
-{
-    content: "🌲️";
-} */
+} 
+.data-link-icon[data-link-tags*="#EVER/GREEN" i]::before {
+    content: "🌲";
+} 
 
 [data-link-tags*="topic"],
 span.cm-hmd-internal-link[data-link-tags*="topic"],
@@ -47,9 +29,9 @@ a.internal-link[data-link-tags*="topic"] {
 
 [data-link-tags*="evergreen"],
 span.cm-hmd-internal-link[data-link-tags*="evergreen"],
-.markdown-source-view.mod-cm6 .cm-underline[data-link-tags*="evergreen"]
+.markdown-source-view.mod-cm6 .cm-underline[data-link-tags*="topic"]
 a.internal-link[data-link-tags*="evergreen"] {
-    color: rgb(88, 208, 255) !important;
+    color: rgba(71, 179, 221, 0.904) !important;
     text-decoration: none;
 }
 
@@ -61,9 +43,7 @@ a.internal-link[data-link-tags*="term"] {
     font-weight: 550;
 } */
 
-span.cm-hmd-internal-link[data-link-tags*="term"]::before,
-a.internal-link[data-link-tags*="term"]::before,
-div.nav-file-title-content[data-link-tags*="term"]::before {
+/* .data-link-icon::before {
     content: "📄";
 }
 
@@ -77,4 +57,4 @@ span.cm-hmd-internal-link[data-link-tags*="person"]::before,
 a.internal-link[data-link-tags*="person"]::before,
 div.nav-file-title-content[data-link-tags*="person"]::before {
     content: "🦱";
-}
+} */

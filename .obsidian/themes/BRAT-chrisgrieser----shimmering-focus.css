@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.397
+Version 1.411
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -269,12 +269,12 @@ the .create-ToC.sh.
 /* colors for longform projects */
 .theme-light:not(.longform-no-bg) .longform-leaf {
 	--light-hue: 20;
-	--light-sat: 5%;
+	--light-sat: 10%;
 }
 
 .theme-dark:not(.longform-no-bg) .longform-leaf {
-	--dark-hue: 270;
-	--dark-sat: 5%;
+	--dark-hue: 220;
+	--dark-sat: 20%;
 }
 
 .theme-light .longform-leaf,
@@ -498,7 +498,7 @@ body.theme-dark {
 	--monospace-font-size: 0.9rem;
 
 	--longform-font: "Crimson Pro";
-	--longform-font-size: 115%;
+	--longform-font-size: 1.1rem;
 
 	--sidebar-font-family: "iA Writer Quattro V";
 	--sidebar-font-size: 0.85rem;
@@ -812,9 +812,9 @@ svg.pencil {
 }
 
 /* preview mode */
-svg.lines-of-text > path { display: none }
+svg.reading-glasses > path { display: none }
 
-svg.lines-of-text {
+svg.reading-glasses {
 	position: relative;
 	right: 1px;
 	bottom: 1px;
@@ -823,7 +823,7 @@ svg.lines-of-text {
 
 	transform: scale(1.2);
 
-	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.3em' height='1.3em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 16 16'%3e%3cg fill='none'%3e%3cpath d='M2.984 8.625v.003a.5.5 0 0 1-.612.355c-.431-.114-.355-.611-.355-.611l.017-.062s.026-.084.047-.145a6.7 6.7 0 0 1 1.117-1.982C4.097 5.089 5.606 4 8 4c2.395 0 3.904 1.089 4.801 2.183a6.7 6.7 0 0 1 1.117 1.982a3.916 3.916 0 0 1 .06.187l.003.013l.002.004v.002a.5.5 0 0 1-.966.258l-.001-.004l-.008-.025a4.9 4.9 0 0 0-.2-.52a5.703 5.703 0 0 0-.78-1.263C11.285 5.912 10.044 5 8 5c-2.044 0-3.286.912-4.028 1.817a5.701 5.701 0 0 0-.945 1.674a3.018 3.018 0 0 0-.035.109l-.008.025z' fill='currentColor'/%3e%3cpath d='M8 7a2.5 2.5 0 1 0 0 5a2.5 2.5 0 0 0 0-5zM6.5 9.5a1.5 1.5 0 1 1 3 0a1.5 1.5 0 0 1-3 0z' fill='currentColor'/%3e%3c/g%3e%3c/svg%3e");
+	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.2em' height='1.2em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 16 16'%3e%3cg fill='none'%3e%3cpath d='M2.984 8.625v.003a.5.5 0 0 1-.612.355c-.431-.114-.355-.611-.355-.611l.017-.062s.026-.084.047-.145a6.7 6.7 0 0 1 1.117-1.982C4.097 5.089 5.606 4 8 4c2.395 0 3.904 1.089 4.801 2.183a6.7 6.7 0 0 1 1.117 1.982a3.916 3.916 0 0 1 .06.187l.003.013l.002.004v.002a.5.5 0 0 1-.966.258l-.001-.004l-.008-.025a4.9 4.9 0 0 0-.2-.52a5.703 5.703 0 0 0-.78-1.263C11.285 5.912 10.044 5 8 5c-2.044 0-3.286.912-4.028 1.817a5.701 5.701 0 0 0-.945 1.674a3.018 3.018 0 0 0-.035.109l-.008.025z' fill='currentColor'/%3e%3cpath d='M8 7a2.5 2.5 0 1 0 0 5a2.5 2.5 0 0 0 0-5zM6.5 9.5a1.5 1.5 0 1 1 3 0a1.5 1.5 0 0 1-3 0z' fill='currentColor'/%3e%3c/g%3e%3c/svg%3e");
 }
 
 /* options (menu) */
@@ -900,21 +900,32 @@ svg.up-and-down-arrows > path { display: none }
 
 svg.up-and-down-arrows {
 	background-color: currentColor;
-	margin-top: 1px;
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath d='M8 16H4l6 6V2H8zm6-11v17h2V8h4l-6-6z' fill='currentColor'/%3e%3c/svg%3e");
 }
 
-.setting-item-control button svg {
-	margin-top: 0;
+button svg.up-and-down-arrows {
+	position: relative;
+	bottom: 1.5px;
 }
 
-/* "add to dictionary" */
+/* "add to dictionary" & vale plugin */
 .menu svg.stacked-levels > path { display: none }
+svg.check-small > path { display: none }
 
+svg.check-small,
 .menu svg.stacked-levels {
 	background-color: currentColor;
-	margin-bottom: 1px;
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 16 16'%3e%3cg fill='currentColor'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M0 11h1v2h14v-2h1v3H0v-3z'/%3e%3cpath d='M6.84 11h-.88v-.86h-.022c-.383.66-.947.989-1.692.989c-.548 0-.977-.145-1.289-.435c-.308-.29-.462-.675-.462-1.155c0-1.028.605-1.626 1.816-1.794l1.649-.23c0-.935-.378-1.403-1.134-1.403c-.662 0-1.26.226-1.794.677v-.902c.541-.344 1.164-.516 1.87-.516c1.292 0 1.938.684 1.938 2.052V11zm-.88-2.782L4.633 8.4c-.408.058-.716.16-.924.307c-.208.143-.311.399-.311.768c0 .268.095.488.284.66c.194.168.45.253.768.253a1.41 1.41 0 0 0 1.08-.457c.286-.308.43-.696.43-1.165v-.548z'/%3e%3cpath d='M9.348 10.205h-.022V11h-.88V2.857h.88v3.61h.021c.434-.73 1.068-1.096 1.902-1.096c.705 0 1.257.247 1.654.741c.401.49.602 1.15.602 1.977c0 .92-.224 1.658-.672 2.213c-.447.551-1.06.827-1.837.827c-.726 0-1.276-.308-1.649-.924zm-.022-2.218v.768c0 .455.147.841.44 1.16c.298.315.674.473 1.128.473c.534 0 .951-.204 1.252-.613c.304-.408.456-.975.456-1.702c0-.613-.141-1.092-.424-1.44c-.283-.347-.666-.52-1.15-.52c-.511 0-.923.178-1.235.536c-.311.355-.467.8-.467 1.338z'/%3e%3c/g%3e%3c/svg%3e");
+}
+
+.menu svg.stacked-levels {
+	margin-bottom: 1px;
+}
+
+.workspace-tab-header-inner-icon svg.check-small {
+	position: relative;
+	right: -2px;
+	transform: scale(1.1);
 }
 
 /* ───────────────────────────────────────────────────
@@ -1193,6 +1204,10 @@ body .app-container .workspace-ribbon.is-collapsed {
 
 	word-wrap: break-word;
 	--tooltip-arrow: var(--tooltip-arrow-length) solid var(--notice-bg);
+}
+
+body:not(.angular-shapes) .tooltip {
+	padding-top: 3px;
 }
 
 .tooltip .tooltip-arrow {
@@ -1493,7 +1508,7 @@ body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 /* ───────────────────────────────────────────────────
 << Buttons
 ─────────────────────────────────────────────────── */
-
+/* buttons in default state */
 body .excalidraw .HelpDialog--btn,
 a.style-settings-import,
 a.style-settings-export,
@@ -1530,7 +1545,7 @@ a.style-settings-export,
 	padding-bottom: 5px;
 }
 
-/* hover */
+/* hovered buttons */
 body .excalidraw .HelpDialog--btn:hover,
 body .setting-item-control a.style-settings-import:hover,
 body .setting-item-control a.style-settings-export:hover,
@@ -1646,6 +1661,10 @@ input[type="text"] {
 
 .angular-shapes input[type="text"] {
 	padding-top: 7px;
+}
+
+body:not(.angular-shapes) input[type="text"] {
+	padding-top: 3px;
 }
 
 .workspace-leaf-content input[type="text"] {
@@ -1836,8 +1855,10 @@ div.menu-item {
 }
 
 .theme-light .menu div.menu-item.selected,
-.theme-light .menu div.menu-item:hover {
-	background-color: var(--bg1);
+.theme-light .menu div.menu-item:hover,
+.theme-dark .menu div.menu-item.selected,
+.theme-dark .menu div.menu-item:hover {
+	background-color: var(--bg2);
 }
 
 .menu-item-icon {
@@ -1959,6 +1980,10 @@ input.prompt-input {
 	font-size: calc(var(--button-font-size) + 0.1em);
 }
 
+body:not(.angular-shapes) input.prompt-input {
+	padding-top: 7px;
+}
+
 div.prompt-results {
 	padding-top: 0;
 	margin-top: 5px;
@@ -2029,6 +2054,7 @@ div.prompt-results {
 	background-color: var(--bg2);
 	border-radius: var(--roundish);
 	font-family: var(--button-font);
+	font-weight: var(--button-font-weight);
 }
 
 body.move-plugin-name-to-left .suggestion-prefix,
@@ -2764,7 +2790,7 @@ body .workspace-leaf-resize-handle:active {
 
 /* positioning fixes for close & clear buttons */
 .community-plugin-search .search-input-clear-button {
-	margin-right: 0.9em;
+	margin-right: 8px;
 }
 
 .community-plugin-search .setting-item .setting-item-info {
@@ -2899,8 +2925,31 @@ body .workspace-leaf-resize-handle:active {
 	margin-bottom: 10px;
 }
 
-.community-plugin-info p > button {
+.community-plugin-info button {
 	margin-right: 18px;
+}
+
+.modal.modal.mod-community-plugin .community-plugin-info button:last-child {
+	height: 2.1rem;
+
+	position: relative;
+	top: 0.5px;
+
+	padding-right: 3px;
+	padding-left: 2px;
+
+	font-size: 0;
+}
+
+.modal.modal.mod-community-plugin .community-plugin-info button:last-child::BEFORE {
+	content: "link";
+
+	position: relative;
+	top: 6.5px;
+	left: 5px;
+
+	font-family: var(--icon-font);
+	font-size: 1.5rem;
 }
 
 .community-plugin-info h2,
@@ -3315,15 +3364,18 @@ body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
 	color: hsl(54 69% 40%);
 }
 
+/* <<< Metadata Block */
 body .frontmatter-container .frontmatter-container-header {
+	margin-bottom: 5px;
+
 	border-bottom: var(--thin-border);
+
 	font-family: var(--smallcap-font);
 	font-size: 0.9em;
 	font-weight: 400;
 	text-transform: capitalize;
 }
 
-/* <<< Metadata Block */
 .markdown-preview-view .frontmatter-container {
 	color: var(--extra-contrast);
 	background: var(--bg2);
@@ -3334,6 +3386,11 @@ body .frontmatter-container .frontmatter-container-header {
 
 .markdown-preview-view .frontmatter-container-header:hover {
 	color: var(--alt-accent);
+}
+
+.frontmatter-container .frontmatter-section {
+	margin-top: 3px;
+	margin-bottom: 3px;
 }
 
 .frontmatter-section-label {
@@ -3494,7 +3551,7 @@ progress[value^="10"]::-WEBKIT-PROGRESS-VALUE { background: hsl(160 92% 70%) }
 	margin-bottom: 13px;
 
 	font-family: var(--smallcap-font);
-	font-size: 0.95em;
+	font-size: 0.95rem;
 }
 
 .view-content .markdown-preview-view img:not(.link-favicon) {
@@ -3834,41 +3891,43 @@ body:not(.no-alternating-header-italics) .markdown-preview-view h6 {
 << Blockquotes
 ─────────────────────────────────────────────────── */
 
-/* Edit Mode */
-body > .app-container .cm-quote {
+/* all italic */
+.markdown-preview-view blockquote,
+.cm-line .cm-quote {
 	color: var(--extra-contrast);
 	font-style: italic;
 }
 
-body > .app-container .HyperMD-quote {
-	padding-top: 0.4em;
-	padding-right: 0.8em;
-	padding-bottom: 0.5em;
-
-	border-right: var(--muted-border);
-	border-left: var(--muted-border);
-	border-radius: var(--roundish);
+/* underline emphasis in blockquote, since they are italic already */
+.markdown-preview-view blockquote > p > em,
+.cm-line .cm-em.cm-quote {
+	text-decoration: underline;
 }
 
-body > .app-container .HyperMD-quote ~ .HyperMD-quote {
-	border-top: none;
-	border-bottom: none;
+/* edit mode & live preview */
+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-quote {
+	background-color: var(--bg2);
+	padding: 0.4em 0.8em 0.5em 0;
+	border-right: var(--thick-border);
+	border-left: var(--thick-border);
+	border-radius: var(--roundish);
 }
 
 /* fixes color when text is selected */
 /* https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/11552/10?u=pseudometa */
-.theme-light .HyperMD-quote {
+.theme-light .mod-cm5 .HyperMD-quote {
 	background-color: rgb(0 0 0 / 3%);
 }
 
-.theme-dark .HyperMD-quote {
+.theme-dark .mod-cm5 .HyperMD-quote {
 	background-color: rgb(0 0 0 / 25%);
 }
 
 /* the ">" */
-body > .app-container .cm-formatting.cm-formatting-quote {
+.cm-formatting.cm-formatting-quote {
 	font-weight: 900;
-	font-style: unset;
+	font-style: normal;
 }
 
 /* style links in blockquotes, e.g. quote sources */
@@ -3882,23 +3941,18 @@ body > .app-container .cm-formatting.cm-formatting-quote {
 }
 
 /* Preview Mode */
-body > .app-container .markdown-preview-view blockquote {
+.markdown-preview-view blockquote {
 	color: var(--extra-contrast);
 	background-color: var(--bg2);
 
 	padding: 0.3em 0.7em 0.4em;
 	margin: 1.5em 0 1.5em 2em;
 
-	border: var(--muted-border);
+	border-top: none;
+	border-right: var(--thick-border);
+	border-bottom: none;
+	border-left: var(--thick-border);
 	border-radius: var(--roundish);
-
-	hyphens: auto;
-}
-
-/* underline emphasis in blockquote, since they are italic already */
-.markdown-preview-view blockquote > p > em,
-span.cm-em.cm-quote {
-	text-decoration: underline;
 }
 
 /* option for normal size */
@@ -4016,6 +4070,16 @@ body:not(.no-alternating-rows) .markdown-preview-view tr:nth-child(even) {
 
 body.no-alternating-rows > .app-container table > tbody > tr > td {
 	border-top: var(--table-border);
+}
+
+/* CM6: Live Preview */
+.mod-cm6 table th,
+.mod-cm6 table td {
+	padding: 4px 10px;
+}
+
+.cm-s-obsidian.mod-cm6 table th {
+	font-size: 1.05em;
 }
 
 /* ───────────────────────────────────────────────────
@@ -4153,16 +4217,15 @@ pre[class~="language-as"]::AFTER { content: "AppleScript"; }
 
 /* fix for the buggy selection of inline text
 https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/11552/10 */
-.theme-dark .cm-inline-code {
+.mods-cm5 .theme-dark .cm-inline-code {
 	background-color: rgb(0 0 0 / 20%) !important;
 }
 
-.theme-light .cm-inline-code {
+.mods-cm5 .theme-light .cm-inline-code {
 	background-color: rgb(0 0 0 / 5%) !important;
 }
 
-/* copy code button */
-
+/* copy & edit code button */
 button.copy-code-button {
 	z-index: 100;
 
@@ -4178,7 +4241,15 @@ button.copy-code-button {
 	font-size: 0;
 }
 
+.mod-cm6 .cm-preview-code-block .edit-block-button {
+	color: var(--extra-contrast);
+	background-color: var(--bg3);
+	border: var(--thin-border);
+}
+
+.mod-cm6 .cm-preview-code-block .edit-block-button:hover,
 button.copy-code-button:hover {
+	color: var(--button-hover-text);
 	background-color: var(--interactive-hover-bg) !important;
 }
 
@@ -4188,12 +4259,25 @@ button.copy-code-button::BEFORE {
 	font-size: 0.8rem;
 }
 
+/* CM6: embedded code block */
+.markdown-source-view.mod-cm6 .cm-embed-block:hover {
+	border: var(--basic-border);
+}
+
 /* ───────────────────────────────────────────────────
 << Syntax Highlighting
 ─────────────────────────────────────────────────── */
 
 .theme-light .token.operator {
 	background: transparent;
+}
+
+/* ───────────────────────────────────────────────────
+<< Bullet List
+─────────────────────────────────────────────────── */
+
+.is-live-preview.mod-cm6 .list-bullet {
+	padding-right: 5px;
 }
 
 /* ───────────────────────────────────────────────────
@@ -4212,6 +4296,7 @@ body:not(.no-ul-relationship-lines) .cm-hmd-list-indent {
 	position: relative;
 }
 
+body:not(.no-ul-relationship-lines) .cm-line .cm-hmd-list-indent::BEFORE,
 body:not(.no-ul-relationship-lines) .CodeMirror-line .cm-hmd-list-indent::BEFORE {
 	display: block;
 	content: "";
@@ -4221,7 +4306,7 @@ body:not(.no-ul-relationship-lines) .CodeMirror-line .cm-hmd-list-indent::BEFORE
 
 	position: absolute;
 	top: -1.6em;
-	left: 0;
+	left: 1.5px;
 
 	background-image: linear-gradient(to right, var(--text-faint) 1px, transparent 1px);
 
@@ -4565,14 +4650,23 @@ body > .app-container span.cm-tag {
 	color: var(--finished-task);
 }
 
+.mod-cm5.markdown-preview-view ul > li.task-list-item {
+	padding-left: 5px;
+	text-indent: -1.9em;
+}
+
+.is-live-preview.mod-cm6 input.task-list-item-checkbox {
+	margin-top: 0;
+}
+
 /* preview mode */
 /* https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/34 */
 input[type="checkbox"] {
-	filter: unset !important; /* removes hue filter */
+	filter: unset; /* removes hue filter */
 	cursor: pointer;
 
 	padding: 1px;
-	margin-top: 2px;
+	margin: 6px 3px 0 0;
 
 	border: 2px solid var(--hr-line-gray);
 	border-radius: var(--round);
@@ -4606,7 +4700,7 @@ li[data-task="x"] > .task-list-item-checkbox:hover {
 	margin-left: -10px;
 }
 
-/* <<< SlVrb's checkboxes Compatibility  */
+/* <<< SlVrb's Checkboxes Compatibility  */
 .markdown-source-view.mod-cm6 .task-list-item-checkbox[data-task="x"],
 .markdown-preview-view li[data-task="x"] > .task-list-item-checkbox,
 .markdown-preview-view li[data-task="x"] p .task-list-item-checkbox,
@@ -4627,13 +4721,12 @@ body .markdown-preview-view :not(li[data-task="x"]) p .task-list-item-checkbox:c
 body.check-bg .markdown-source-view.mod-cm6 .task-list-item-checkbox::BEFORE,
 body.check-bg .markdown-preview-view :not(li[data-task="x"]) > .task-list-item-checkbox:checked::BEFORE,
 body.check-bg .markdown-preview-view :not(li[data-task="x"]) p .task-list-item-checkbox:checked::BEFORE {
-	top: 1px;
+	top: 0.5px;
 	right: 5px;
 }
 
-body.check-bg .markdown-source-view.mod-cm6 .task-list-item-checkbox,
-body.check-bg .markdown-preview-view :not(li[data-task="x"]) > .task-list-item-checkbox:checked,
-body.check-bg .markdown-preview-view :not(li[data-task="x"]) p .task-list-item-checkbox:checked {
+body.check-bg .mod-cm5 .markdown-preview-view :not(li[data-task="x"]) > .task-list-item-checkbox:checked,
+body.check-bg .mod-cm5 .markdown-preview-view :not(li[data-task="x"]) p .task-list-item-checkbox:checked {
 	padding-bottom: 5px;
 }
 
@@ -4642,11 +4735,6 @@ body > div.app-container .markdown-preview-view ul > li.task-list-item.is-checke
 body > div.app-container .markdown-preview-view ol > li.task-list-item.is-checked {
 	margin-bottom: 0;
 	font-weight: unset; /* stylelint-disable-line font-weight-notation */
-}
-
-.markdown-preview-view ul > li.task-list-item {
-	padding-left: 5px;
-	text-indent: -1.9em;
 }
 
 /* ───────────────────────────────────────────────────
@@ -4671,9 +4759,6 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-lineba
 .theme-dark {
 	--text-selection: var(--selection-color);
 }
-
-/* alternative method */
-/* .CodeMirror-focused .CodeMirror-selected {} */
 
 /* ───────────────────────────────────────────────────
 << Multi-Color Highlighting
@@ -4751,35 +4836,60 @@ body:not(.no-pandoc-citation-emphasis) .cm-link.cm-quote.cm-hmd-barelink {
 << Footnotes
 ─────────────────────────────────────────────────── */
 
-/* set space above and below horizontal line that separates footnotes */
-.markdown-preview-view .footnotes hr {
+/* preview */
+.footnotes hr {
 	margin-top: 60px;
-	margin-bottom: 10px;
+	margin-bottom: 0;
 }
 
-/* footnotes preview */
-.markdown-preview-section .footnotes {
+.footnotes {
 	font-size: var(--footnote-size);
+	line-height: 1.15em;
 	text-align: justify;
 	hyphens: auto;
 }
 
-.markdown-preview-section .footnotes ol {
-	padding-inline-start: 1.6em;
+.footnotes ol {
+	padding-inline-start: 1em;
 }
 
-/* applies to number-references in the footnote text */
+.footnotes li {
+	padding-bottom: 0.8em;
+}
+
+.footnote-backref {
+	position: relative;
+	top: 4px;
+	padding-left: 5px;
+}
+
+.footnotes li::MARKER {
+	color: var(--text-faint);
+}
+
+/* editor */
+/* number-references in the footnote text */
 span.cm-link.cm-hmd-footnote {
 	color: var(--alt-accent) !important;
 	vertical-align: top;
 }
 
 /* footnotes (at the bottom) */
+.HyperMD-footnote.cm-line,
 .HyperMD-footnote.CodeMirror-line {
-	padding-left: 5px; /* same of paragraphs */
+	padding-top: 0.8em;
+	padding-left: 5px; /* same as paragraphs */
+
+	border-top: var(--thick-muted-border);
+
 	font-size: 85%;
+	line-height: 1.15em;
 	text-align: justify;
 	hyphens: auto;
+}
+
+.HyperMD-footnote + .HyperMD-footnote.cm-line {
+	border-top: none;
 }
 
 /* remove underline which only decreases readability */
@@ -4791,16 +4901,13 @@ span.cm-link.cm-hmd-footnote {
 << Horizontal line (hr)
 ─────────────────────────────────────────────────── */
 
-/* increased readability in edit mode */
 .cm-s-obsidian span.cm-hr {
 	color: var(--text-muted);
-	letter-spacing: 0.1em;
 }
 
-/* increased readability in preview mode */
-body > .app-container .markdown-preview-view div hr {
+.markdown-preview-view hr {
 	border-top: none;
-	border-bottom: 3px solid var(--hr-line-gray);
+	border-bottom: var(--thick-muted-border);
 }
 
 /* ───────────────────────────────────────────────────
@@ -5105,6 +5212,11 @@ body:not(.no-file-explorer-icons) .nav-file-title[data-path*="Word Count"] .nav-
 	content: "flag";
 }
 
+body:not(.no-file-explorer-icons) .nav-file-title[data-path*="Kanban"] .nav-file-title-content::BEFORE,
+body:not(.no-file-explorer-icons) .nav-file-title[data-path*="kanban"] .nav-file-title-content::BEFORE {
+	content: "dashboard";
+}
+
 /* ───────────────────────────────────────────────────
 << Panes
 ─────────────────────────────────────────────────── */
@@ -5296,11 +5408,27 @@ body:not(.no-alternating-rows) .outline .tree-item:nth-child(even) {
 }
 
 /* ───────────────────────────────────────────────────
-<<< Search
+<<< Search Pane
 ─────────────────────────────────────────────────── */
 
 .workspace-leaf-content[data-type="search"] .tree-item-self {
 	padding-left: 1.2em;
+}
+
+/* nav buttons closer together, so they are not split up to two lines to quickly */
+.workspace-leaf-content[data-type="search"] .nav-action-button {
+	margin-right: 2px;
+	margin-left: 0;
+}
+
+.workspace-leaf-content[data-type="search"] .nav-header {
+	padding-right: 1px;
+	padding-left: 1px;
+}
+
+.search-input-container {
+	margin-right: 6px;
+	margin-left: 6px;
 }
 
 .search-result-file-match {
@@ -5472,6 +5600,8 @@ body .popover {
 	background-color: var(--bg2);
 	padding-top: 10px;
 	padding-bottom: 10px;
+	border-bottom-left-radius: calc(var(--roundish) * 2.5);
+	border-top-left-radius: calc(var(--roundish) * 2.5);
 }
 
 .sync-history-content-container {
@@ -5482,8 +5612,8 @@ body .popover {
 	padding: 10px;
 
 	border-left: var(--muted-border);
-	border-top-right-radius: var(--roundish);
-	border-bottom-right-radius: var(--roundish);
+	border-top-right-radius: calc(var(--roundish) * 2.5);
+	border-bottom-right-radius: calc(var(--roundish) * 2.5);
 }
 
 .modal.mod-sync-history textarea:focus {
@@ -5603,6 +5733,13 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 /* ───────────────────────────────────────────────────
 < Community Plugins
 ─────────────────────────────────────────────────── */
+
+/* ───────────────────────────────────────────────────
+<< Dictionary
+─────────────────────────────────────────────────── */
+.view-content.dictionary-view-content {
+	padding-top: 8px;
+}
 
 /* ───────────────────────────────────────────────────
 << Git Plugin
@@ -5826,8 +5963,8 @@ https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/1
 
 /* stylelint-disable no-duplicate-selectors */
 .theme-light {
-	--kanban-background: hsl(var(--light-hue) calc(var(--sat-light-2) * 0.8) 82%);
-	--active-hover-kanban-item: hsl(var(--light-hue) var(--sat-light-2) 85%);
+	--kanban-background: hsl(var(--light-hue) var(--sat-light-3) calc(var(--b-light-3) - 2%));
+	--active-hover-kanban-item: hsl(var(--light-hue) var(--sat-light-3) 85%);
 	--dot-color: hsl(0 0% 50% / 20%);
 }
 
@@ -5843,14 +5980,7 @@ https://forum.obsidian.md/t/inline-code-occludes-text-selection-and-vim-cursor/1
 }
 /* stylelint-enable no-duplicate-selectors */
 
-body .kanban-plugin__lane {
-	background-color: var(--bg3);
-}
-
-body .kanban-plugin__item-title-wrapper {
-	background-color: var(--bg2);
-	padding: 5px 7px;
-}
+/* <<< Board */
 
 .kanban-plugin__board button {
 	color: unset;
@@ -5876,7 +6006,6 @@ body .workspace-leaf-content[data-type="kanban"] .view-header:hover {
 	background-image: unset;
 }
 
-/* more condensed */
 div.kanban-plugin__board > div {
 	padding: 0 0.6em 0.5em;
 }
@@ -5889,7 +6018,7 @@ div.kanban-plugin__board > div {
 	margin-top: 0;
 }
 
-/* font sizes  */
+/* <<< Font sizes  */
 body .kanban-plugin p {
 	margin: 0;
 	font-size: 0.95em;
@@ -5919,43 +6048,74 @@ textarea.kanban-plugin__item-input {
 	letter-spacing: -0.3px;
 }
 
+/* <<< Lanes */
+
+body .kanban-plugin__lane {
+	background-color: var(--bg3);
+	border: var(--basic-border);
+}
+
+body .kanban-plugin__item-title-wrapper {
+	background-color: var(--bg2);
+	padding: 5px 7px;
+	border: var(--thin-border);
+}
+
 /* vertical three dots on lane */
 .kanban-plugin__lane-settings-button-wrapper svg {
 	color: var(--text-faint);
-	stroke-width: 3px !important;
+	stroke-width: 4px;
+}
+
+body .kanban-plugin__lane-items {
+	padding-top: 0;
+	padding-bottom: 0;
+	margin: 0 2px;
+}
+
+body .kanban-plugin__item-content-wrapper,
+body .kanban-plugin__item-title-wrapper,
+body .kanban-plugin__lane {
+	border-radius: calc(var(--roundish) * 1.5);
+}
+
+/* space between lanes */
+body .kanban-plugin__lane-wrapper {
+	margin-right: 8px;
 }
 
 .kanban-plugin__lane-settings-button-wrapper:hover svg {
 	color: var(--alt-accent);
 }
 
-.kanban-plugin__lane-settings-button {
-	padding: 3px 7px !important;
+.kanban-plugin .kanban-plugin__lane-header-wrapper .kanban-plugin__lane-settings-button {
+	margin-right: 2px;
 }
 
 body .kanban-plugin__lane-header-wrapper {
-	padding: 7px;
+	padding: 7px 5px 4px;
+	border: none;
 }
 
-.kanban-plugin__lane-title-text > div > div > p {
-	margin-bottom: 2px !important;
+.kanban-plugin__lane-title-text div > p {
 	font-family: var(--button-font);
-	font-size: 1.05em !important;
+	font-size: 1.05em;
 	font-weight: var(--button-font-weight);
-	letter-spacing: 0.1px !important;
+	letter-spacing: 0.1px;
 }
 
 /* vertical three dots on card */
 /* card options still available via right click.
 not on mobile, since you cannot right click there. */
 body:not(.is-mobile) .kanban-plugin__item-postfix-button-wrapper {
-	display: none !important;
+	display: none;
 }
 
 /* "add card" field */
-.kanban-plugin__item-button-wrapper {
-	padding-top: 2px !important;
-	padding-bottom: 5px !important;
+body .kanban-plugin__item-button-wrapper {
+	padding-top: 0;
+	padding-bottom: 5px;
+	border-top: none;
 }
 
 button.kanban-plugin__new-item-button {
@@ -6001,12 +6161,7 @@ a.tag.kanban-plugin__item-tag {
 	padding-bottom: 0 !important;
 }
 
-.nav-file-title[data-path*="Kanban"] .nav-file-title-content::BEFORE,
-.nav-file-title[data-path*="kanban"] .nav-file-title-content::BEFORE {
-	content: "dashboard";
-}
-
-.kanban-plugin__item-markdown li .external-link::BEFORE {
+.kanban-plugin li .external-link::BEFORE {
 	margin-top: 1px;
 	margin-right: 6px;
 }
@@ -6017,27 +6172,26 @@ a.tag.kanban-plugin__item-tag {
 	border-width: 3px !important;
 }
 
-/* angular shapes setting */
-body:not(.angular-shapes) .kanban-plugin__board input[type="checkbox"] {
+/* checkboxes & angular shapes setting */
+body:not(.angular-shapes) .kanban-plugin input[type="checkbox"] {
 	height: 0.85em;
 	width: 0.85em;
-	margin-top: 1px;
+	margin-top: 0;
 	margin-right: 5px;
 	margin-left: 0;
 }
 
-body.angular-shapes .kanban-plugin__board input[type="checkbox"] {
+.kanban-plugin ul > li.task-list-item {
+	padding-left: 0;
+}
+
+body.angular-shapes .kanban-plugin input[type="checkbox"] {
 	height: 1em;
 	width: 1em;
 	margin-top: 0;
 }
 
-body.angular-shapes .kanban-plugin__item,
-body.angular-shapes .kanban-plugin__lane {
-	border-radius: 0;
-}
-
-.kanban-plugin__board input[type="checkbox"] {
+.kanban-plugin input[type="checkbox"] {
 	margin-left: 0;
 }
 
@@ -6244,6 +6398,7 @@ select[name~="projects"] {
 /* <<< Longform Editor */
 /* https://github.com/kevboh/longform#scene-only-styling */
 
+/* CM5 */
 .longform-leaf .markdown-preview-view,
 .longform-leaf .cm-s-obsidian {
 	font-family: var(--longform-font);
@@ -6252,12 +6407,18 @@ select[name~="projects"] {
 	letter-spacing: 0 !important;
 }
 
+.longform-leaf .cm-s-obsidian.mod-cm6 .cm-scroller {
+	font-family: var(--longform-font);
+	font-size: var(--longform-font-size);
+	line-height: 1.35;
+}
+
 body:not(.longform-left-aligned) .longform-leaf span:not(.cm-header) {
 	text-align: justify;
 	hyphens: auto;
 }
 
-body:not(.longform-no-text-indent) .longform-leaf .markdown-preview-view p {
+body.longform-text-indent .longform-leaf .markdown-preview-view p {
 	text-indent: 2em;
 }
 
@@ -6617,10 +6778,6 @@ body > .app-container div.view-content > div.BC-Matrix > div {
 
 body > .app-container div.view-content > div.BC-Matrix {
 	padding: 0;
-}
-
-body > .app-container div.view-content {
-	padding: 0 2.5px 2.5px;
 }
 
 /* "up", "same", and "down" */
@@ -7489,6 +7646,7 @@ community:
 - table-editor-obsidian
 - dataview
 - obsidian-cursor-location-plugin
+- nlp
 */
 
 /* ───────────────────────────────────────────────────
@@ -8033,11 +8191,11 @@ settings:
 	 id: longform-font-size
 	 title: 'Longform: Font Size'
 	 type: variable-number-slider
-	 default: 115
-	 min: 70
-	 max: 130
-	 step: 2
-	 format: '%'
+	 default: 1.1
+	 min: 0.7
+	 max: 1.7
+	 step: 0.05
+	 format: 'rem'
   -
 	 id: longform-left-aligned
 	 title: 'Longform: Left-aligned text'
@@ -8045,7 +8203,7 @@ settings:
 	 type: class-toggle
 	 default: false
   -
-	 id: longform-no-text-indent
+	 id: longform-text-indent
 	 title: 'Longform: First-Line Indent (Preview Mode)'
 	 description: Indent the first Line of a paragraph in longform notes (preview mode only).
 	 type: class-toggle

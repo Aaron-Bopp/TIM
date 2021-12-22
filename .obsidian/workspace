@@ -4,74 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "297ab75a7e542c04",
+        "id": "8aacba09f892b3a8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Anger fuels change.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "297ab75a7e542c04",
+              "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anger fuels change.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "297ab75a7e542c04",
+              "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":124,\"ch\":119},\"to\":{\"line\":124,\"ch\":119}},\"scroll\":109.46428596061104}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Searching for THE answer is dangerous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":9.928571325175614}"
             },
             {
-              "leaf": "297ab75a7e542c04",
+              "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Karma is based in the law of cause and effect.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":2},\"to\":{\"line\":13,\"ch\":2}},\"scroll\":7.857142990949205}"
             },
             {
-              "leaf": "297ab75a7e542c04",
+              "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Democracy is about an open forum of ideas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":11.988235473632812}"
             },
             {
-              "leaf": "297ab75a7e542c04",
+              "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/American's are scared of the word communism not it's meaning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":160},\"to\":{\"line\":12,\"ch\":160}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":2.377142769949777}"
             },
             {
-              "leaf": "297ab75a7e542c04",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Capitalism necessitates class division.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "297ab75a7e542c04",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/American's are scared of the word communism not it's meaning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":263},\"to\":{\"line\":12,\"ch\":263}},\"scroll\":2.2500001064368673}"
-            },
-            {
-              "leaf": "297ab75a7e542c04",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":54},\"to\":{\"line\":21,\"ch\":54}},\"scroll\":0.42857145289985543}"
-            },
-            {
-              "leaf": "297ab75a7e542c04",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How something is named effects people's perception of it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0.42857145289985543}"
-            },
-            {
-              "leaf": "297ab75a7e542c04",
+              "leaf": "8aacba09f892b3a8",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "b24b2ae7690e40d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b24b2ae7690e40d8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":9.981819846413352}"
             }
           ]
         }
@@ -105,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/EXPLORE/REASEARCH",
+                "query": "tag:#TO/TEND/WEED",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -124,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/Anger fuels change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -156,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/Anger fuels change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,13 +187,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -201,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40_Evergreens/Anger fuels change.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -291,6 +298,14 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "dde155eaf0d2b7b7",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -305,6 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/Anger fuels change.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -414,17 +430,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "297ab75a7e542c04",
+  "active": "8aacba09f892b3a8",
   "lastOpenFiles": [
+    "40_Evergreens/Anger fuels change.md",
+    "40_Evergreens/Searching for THE answer is dangerous.md",
+    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
+    "40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md",
+    "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
+    "00_Meta/Personal/To my parents.md",
     "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
     "40_Evergreens/Karma is based in the law of cause and effect.md",
     "40_Evergreens/Democracy is about an open forum of ideas.md",
-    "40_Evergreens/American's are scared of the word communism not it's meaning.md",
-    "40_Evergreens/Capitalism necessitates class division.md",
-    "30_Topics/31_Stubs/community.md",
-    "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
-    "40_Evergreens/How something is named effects people's perception of it.md",
-    "40_Evergreens/Untitled.md",
-    "00_Meta/Templates/EGNOTE.md"
+    "40_Evergreens/American's are scared of the word communism not it's meaning.md"
   ]
 }
