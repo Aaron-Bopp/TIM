@@ -3,8 +3,8 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-21
-sr-interval: 13
+sr-due: 2022-01-18
+sr-interval: 27
 sr-ease: 179
 ---
 
@@ -19,10 +19,10 @@ This introduces [[friction]], which is in direct contradiction to the [[philosop
 [[Your second brain should be frictionless access to a curated base of knowledge]]
 
 [[Spaced repetition]] can help alleviate this friction, by helping our first brain make connections in our second brain.
-%%^[For me, this is especially helpful because [[Neurodivergent people cannot stop their brain from solving problems]].]%%
+%%^[For me, this is especially helpful because [[Neurodivergent people cannot stop their brain from solving problems]].] #TO/DO/PROGRAM aside for publish%%
 Because this process is fruitful for creating connections it makes it vital in creating a strong [[second brain]], because [[Densely linked webs of thought provide intuitive access to knowledge]]. 
 
-While the main aspect of memory is the connections we make, any time we spend in notes and work with the note content will help us remember it. Additionally, if the note content is confusing or is layed out unintuitively, we may become more focused on that than the actual thought. This is why I also [[use spaced repetition to weed your digital garden]]
+While the main aspect of memory is the connections we make, any time we spend in notes and work with the note content will help us remember it. Additionally, if the note content is confusing or is layed out unintuitively, we may become more focused on that than the actual thought. This is why I also [[use spaced repetition to weed your digital garden]].
 
 
 ### <hr class="footnote"/>

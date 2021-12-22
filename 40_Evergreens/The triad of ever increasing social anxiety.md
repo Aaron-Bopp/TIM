@@ -1,14 +1,14 @@
 ---
 created: 2021-10-23
 tags: node/evergreen
-sr-due: 2021-12-22
-sr-interval: 18
-sr-ease: 176
+sr-due: 2022-01-02
+sr-interval: 11
+sr-ease: 156
 ---
 
 #### [[The triad of ever increasing social anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-So you're trying to be more [[socialization| social]] and you know:
+So you're trying to be more [[socialization|social]] and you know:
 1. [[A secure identity is the best defense against social anxiety]] but you don't have a secure identity because 
 2. [[Your anxiety knows your insecurities better than you do]] so you have no way of treating this anxiety which leads to [[social discomfort]] 
 3. Which weakens your identity because [[Identity is your understanding of yourself vs your interaction with the world]] 

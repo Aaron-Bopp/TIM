@@ -3,16 +3,17 @@ created: 2021-12-09
 aliases:
   - null
 tags: node/evergreen, node/question 
-sr-due: 2021-12-21
-sr-interval: 3
+sr-due: 2021-12-28
+sr-interval: 6
 sr-ease: 150
 ---
 
 #### [[How to read to understand]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+[[Evergreen notes organize knowledge so that it can grow]] and [[Use spaced repetition as a memory tool for your second brain]]. Is the only way to truly understand what you read through repeated exposure? #TO/EXPLORE/RESEARCH  [[mnemonic medium]]
+
 - [[Tips for concentration]]
 - [[Use highlighter colors to create visual outlines]] 
-- [[Evergreen notes organize knowledge so that it can grow]]
 - [[What is language's fundamental unit]]
 - [[What are the starter types of note taking]]
 - #TO/DO/CONCEPTUALIZE experience with book club

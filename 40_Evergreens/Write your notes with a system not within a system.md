@@ -3,9 +3,9 @@ created: 2021-12-21
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-21
+sr-due: 2021-12-23
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Write your notes with a system not within a system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,10 +20,10 @@ Don't let yourself get bogged down with questions like, "Am I using the system t
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[note writing]], [[second brain]]
+**Topics**:: [[note writing]], [[second brain]], [[evergreen notes]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

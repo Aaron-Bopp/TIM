@@ -5,8 +5,8 @@ aliases:
   - developing obsidian plugins
   - Plugin Ideas
 tags: node/evergreen, node/technique
-sr-due: 2021-12-22
-sr-interval: 7
+sr-due: 2022-01-07
+sr-interval: 16
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -39,4 +39,4 @@ sr-ease: 250
 		- possible example code [GitHub - samwarnick/obsidian-simple-embeds: A plugin for Obsidian that automatically turns links into embeds.](https://github.com/samwarnick/obsidian-simple-embeds)
 		- embed timelines or tweets [Twitter for Websites | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-for-websites)
 	- Vault logger to append note changes and links to daily notes
-- How to tell if a pane is not in view [Discord](https://discord.com/channels/686053708261228577/716028884885307432/920571021906546698)
+- How to tell if a pane is not in view: [Discord](https://discord.com/channels/686053708261228577/716028884885307432/920571021906546698)

@@ -1,8 +1,8 @@
 ---
 created: 2021-06-27
 tags: node/evergreen
-sr-due: 2021-12-22
-sr-interval: 10
+sr-due: 2022-01-17
+sr-interval: 26
 sr-ease: 226
 ---
 
@@ -15,11 +15,14 @@ A system that gives too much freedom, or too many options, may only reduce your 
 ^[[[Evergreen notes organize knowledge so that it can grow]]]
  [[My TIM]] is what has come of this, is an amalgamation of many different system that have learned and absorbed. 
 
+##### Counter:: systems create hard rules and [[Hard rules create cognitive bias]]
+
 Learning systems can help create thought, but it does so by [[influence|influencing]] thought. This means that if a system is pointing you in the wrong direction it will negatively impact your ability to create and learn. 
 ^[[[The way systems work can create cognitive bias]]]
 This is why you should [[Prioritize organization over categorization to avoid cognitive bias]]. 
 
-Here are some thoughts that may guide how you decide on and create your system
+Here are some thoughts that may guide how you decide on and create your system with creating hard rules: 
+- [[Write your notes with a system not within a system]]
 - [[Note structures should help curate knowledge]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Friction is the number one hindrance to learning]]
@@ -27,7 +30,7 @@ Here are some thoughts that may guide how you decide on and create your system
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[note writing]] 

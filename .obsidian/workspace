@@ -4,40 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "d6dc23fcb04a3d9f",
+        "id": "297ab75a7e542c04",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Rise of Conspiracy Culture.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "d6dc23fcb04a3d9f",
+              "leaf": "297ab75a7e542c04",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rise of Conspiracy Culture.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.892857498660387}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
-              "leaf": "d6dc23fcb04a3d9f",
+              "leaf": "297ab75a7e542c04",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My Deconstruction journey.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":124,\"ch\":119},\"to\":{\"line\":124,\"ch\":119}},\"scroll\":109.46428596061104}"
             },
             {
-              "leaf": "d6dc23fcb04a3d9f",
+              "leaf": "297ab75a7e542c04",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Karma is based in the law of cause and effect.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "d6dc23fcb04a3d9f",
+              "leaf": "297ab75a7e542c04",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Democracy is about an open forum of ideas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "297ab75a7e542c04",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/American's are scared of the word communism not it's meaning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":160},\"to\":{\"line\":12,\"ch\":160}}}"
+            },
+            {
+              "leaf": "297ab75a7e542c04",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Capitalism necessitates class division.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "297ab75a7e542c04",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/American's are scared of the word communism not it's meaning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":263},\"to\":{\"line\":12,\"ch\":263}},\"scroll\":2.2500001064368673}"
+            },
+            {
+              "leaf": "297ab75a7e542c04",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":54},\"to\":{\"line\":21,\"ch\":54}},\"scroll\":0.42857145289985543}"
+            },
+            {
+              "leaf": "297ab75a7e542c04",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How something is named effects people's perception of it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0.42857145289985543}"
+            },
+            {
+              "leaf": "297ab75a7e542c04",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -74,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TO/EXPLORE/REASEARCH",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -93,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Rise of Conspiracy Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -126,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Rise of Conspiracy Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,11 +180,12 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 436,
+    "width": 305,
     "collapsed": true
   },
   "right": {
@@ -171,9 +201,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40_Evergreens/Rise of Conspiracy Culture.md"
-              }
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "840e0a70de3f588e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "fb763e172d1bcd92",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -193,19 +245,7 @@
             }
           },
           {
-            "id": "55921913bfbee3ab",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "f46c886a6cdfa534",
+            "id": "47b3518370342bad",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -217,7 +257,7 @@
             }
           },
           {
-            "id": "72e5da2c8d76d0e0",
+            "id": "4d97869f5922bb12",
             "type": "leaf",
             "state": {
               "type": "BC-stats",
@@ -229,7 +269,7 @@
             }
           },
           {
-            "id": "a44cfc9d8b940088",
+            "id": "b805a72d0cc1ce7c",
             "type": "leaf",
             "state": {
               "type": "BC-down",
@@ -241,22 +281,10 @@
             }
           },
           {
-            "id": "4f176ac72c3ebf84",
+            "id": "7572170b53174850",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "71c774f2c2d8092d",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
+              "type": "git-view",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -265,7 +293,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "84f4f33f118f4527",
@@ -277,7 +305,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Rise of Conspiracy Culture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -384,20 +411,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 690,
+    "width": 706,
     "collapsed": true
   },
-  "active": "d6dc23fcb04a3d9f",
+  "active": "297ab75a7e542c04",
   "lastOpenFiles": [
-    "40_Evergreens/Rise of Conspiracy Culture.md",
-    "40_Evergreens/My Deconstruction journey.md",
-    "40_Evergreens/Non-faith issues have been co-opted to keep people in the Christian church.md",
-    "40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md",
-    "30_Topics/35_Outlines/Christianity.md",
-    "40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md",
-    "10_Sources/Andy Matuschak's Evergreen Notes.md",
-    "40_Evergreens/Organization systems are not mutually exclusive.md",
-    "40_Evergreens/Every person has an experience of gender.md",
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
+    "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
+    "40_Evergreens/Karma is based in the law of cause and effect.md",
+    "40_Evergreens/Democracy is about an open forum of ideas.md",
+    "40_Evergreens/American's are scared of the word communism not it's meaning.md",
+    "40_Evergreens/Capitalism necessitates class division.md",
+    "30_Topics/31_Stubs/community.md",
+    "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+    "40_Evergreens/How something is named effects people's perception of it.md",
+    "40_Evergreens/Untitled.md",
+    "00_Meta/Templates/EGNOTE.md"
   ]
 }

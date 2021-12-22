@@ -3,19 +3,18 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-22
-sr-interval: 11
+sr-due: 2022-01-14
+sr-interval: 23
 sr-ease: 210
 ---
 
 #### [[American's are scared of the word communism not it's meaning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Studies have shown time and time again that polling for economically left issues are supported by super majorities of the populace. Additionally studies have shown that people are happier when there is less income inequality[^1] and when they are part of strong communities. [[Capitalism necessitates class division]] is a undeniable fact of [[Capitalism]]. 
+Studies have shown time and time again that polling for economically left issues are supported by super majorities of the populace. Additionally studies have shown that people are happier when there is less income inequality [^1] and when they are part of strong [[community|communities]]. [[Capitalism necessitates class division]] is a undeniable fact of [[Capitalism]]. 
 
 - [[McCarthyism is an attack on totalitarianism not communism]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[Q justifies conservatives discontent]]
-- 
 
 ### <hr class="footnote"/>
 

@@ -3,8 +3,8 @@ created: 2021-11-09
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-21
-sr-interval: 10
+sr-due: 2022-01-09
+sr-interval: 18
 sr-ease: 170
 ---
 
@@ -19,6 +19,7 @@ this is about change and journey in our lives
 [[We are confined to the tools of our time]] 
 - [[Sometimes we can't grow until we change our environment]]
 - [[An increase in self-love and self-respect may lead to a loss of function]]
+- [[Be the change you want to see in the world]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
