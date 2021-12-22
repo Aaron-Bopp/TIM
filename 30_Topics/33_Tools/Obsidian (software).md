@@ -34,6 +34,7 @@ Obsidian is a markdown editor that includes many features that are valuable to [
 - [Bullet journalling setup](https://forum.obsidian.md/t/slrvbs-journaling-setup/22346/5) from [[SIRvb]]
 - [Massive vault on almost everything](https://notes.invertedpassion.com/_Start+here_)
 - [Discord mod Leah's vault](https://publish.obsidian.md/leah/Home)
+- [Medical based notes, completely flat structure](https://publish.obsidian.md/chromatically/publish+homepage)
 
 ## Built-ins
 

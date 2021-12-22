@@ -1,18 +1,15 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "BRAT-Emrie-Candera----Bubble-Space-Theme",
+  "cssTheme": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "adjust-footnotehrpadding",
     "S - Embed Adjustments",
     "S - External Link Icons",
-    "gradient-hr",
     "S - Images Adjustments",
     "wordcount_dashboard",
-    "obsidian.css.live-preview.list-rainbow-indents",
-    "S - Aside",
     "links",
-    "space-fixes"
+    "S - Aside"
   ],
   "translucency": false,
   "baseFontSizeAction": false

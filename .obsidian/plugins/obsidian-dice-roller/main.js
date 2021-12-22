@@ -33700,7 +33700,7 @@ var D4DiceShape = class extends DiceShape {
 };
 
 // src/view/renderer.ts
-var DiceRenderer = class extends import_obsidian7.Component {
+var _DiceRenderer = class extends import_obsidian7.Component {
   constructor(plugin) {
     super();
     this.plugin = plugin;
@@ -33729,6 +33729,7 @@ var DiceRenderer = class extends import_obsidian7.Component {
       medium: null,
       far: null
     };
+    this.extraFrames = _DiceRenderer.DEFAULT_EXTRA_FRAMES;
     this.renderer = new WebGLRenderer({
       alpha: true,
       antialias: true
@@ -33792,6 +33793,7 @@ var DiceRenderer = class extends import_obsidian7.Component {
           reject2(e);
         });
         this.animating = true;
+        this.extraFrames = _DiceRenderer.DEFAULT_EXTRA_FRAMES;
         this.render();
       }));
     });
@@ -33850,7 +33852,7 @@ var DiceRenderer = class extends import_obsidian7.Component {
       this.scene.remove(this.light);
     if (this.ambientLight)
       this.scene.remove(this.ambientLight);
-    this.light = new SpotLight(this.colors.spotlight, 1);
+    this.light = new SpotLight(this.colors.spotlight, 0.25);
     this.light.position.set(-maxwidth / 2, maxwidth / 2, maxwidth * 3);
     this.light.target.position.set(0, 0, 0);
     this.light.distance = maxwidth * 5;
@@ -33924,19 +33926,23 @@ var DiceRenderer = class extends import_obsidian7.Component {
   }
   render() {
     if (this.throwFinished()) {
-      try {
-        this.returnResult();
-        this.registerInterval(window.setTimeout(() => {
-          this.container.style.opacity = `0`;
+      if (this.extraFrames > 10) {
+        this.extraFrames--;
+      } else {
+        try {
+          this.returnResult();
           this.registerInterval(window.setTimeout(() => {
-            this.animating = false;
-            this.unload();
-          }, 1e3));
-        }, 2e3));
-      } catch (e) {
-        this.event.trigger("error", e);
+            this.container.style.opacity = `0`;
+            this.registerInterval(window.setTimeout(() => {
+              this.animating = false;
+              this.unload();
+            }, 1e3));
+          }, 2e3));
+        } catch (e) {
+          this.event.trigger("error", e);
+        }
+        return;
       }
-      return;
     }
     this.animation = requestAnimationFrame(() => this.render());
     this.world.step(this.frame_rate);
@@ -33982,7 +33988,7 @@ var DiceRenderer = class extends import_obsidian7.Component {
   }
   throwFinished() {
     let res = true;
-    const threshold = 6;
+    const threshold = 4;
     if (this.iterations < 10 / this.frame_rate) {
       for (const diceArray of this.current.values()) {
         for (const dice of diceArray) {
@@ -34009,6 +34015,8 @@ var DiceRenderer = class extends import_obsidian7.Component {
     return res;
   }
 };
+var DiceRenderer = _DiceRenderer;
+DiceRenderer.DEFAULT_EXTRA_FRAMES = 30;
 var World2 = class {
   constructor(WIDTH, HEIGHT) {
     this.WIDTH = WIDTH;
@@ -34042,12 +34050,21 @@ var World2 = class {
   buildWalls() {
     this.world.addContactMaterial(new ContactMaterial(this.deskMaterial, this.diceMaterial, {
       friction: 0.01,
-      restitution: 0.5
+      restitution: 0.5,
+      contactEquationRelaxation: 3,
+      contactEquationStiffness: 1e8
     }));
-    this.world.addContactMaterial(new ContactMaterial(this.barrierMaterial, this.diceMaterial, { friction: 0, restitution: 1 }));
+    this.world.addContactMaterial(new ContactMaterial(this.barrierMaterial, this.diceMaterial, {
+      friction: 0.01,
+      restitution: 1,
+      contactEquationRelaxation: 3,
+      contactEquationStiffness: 1e8
+    }));
     this.world.addContactMaterial(new ContactMaterial(this.diceMaterial, this.diceMaterial, {
-      friction: 0,
-      restitution: 0.5
+      friction: 0.1,
+      restitution: 0.5,
+      contactEquationRelaxation: 3,
+      contactEquationStiffness: 1e8
     }));
     this.world.addBody(new Body({
       allowSleep: false,
@@ -34103,16 +34120,16 @@ var DEFAULT_VECTOR = {
   pos: {
     x: 0 + 100 * Math.random(),
     y: 0 + 100 * Math.random(),
-    z: 0 + 100
+    z: 0 + 250
   },
   velocity: {
-    x: 500 * Math.random() * 2 - 1,
-    y: 500 * Math.random() * 2 - 1,
+    x: 600 * (Math.random() * 2 + 1),
+    y: 750 * (Math.random() * 2 + 1),
     z: 0
   },
   angular: {
-    x: 100 * Math.random(),
-    y: 100 * Math.random(),
+    x: 200 * Math.random(),
+    y: 200 * Math.random(),
     z: 100 * Math.random()
   },
   axis: {

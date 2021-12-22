@@ -7,14 +7,29 @@
         "id": "c5ef85b7d8d57463",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf"
+            "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "c5ef85b7d8d57463",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5ef85b7d8d57463",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/Neuroscience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":9},\"to\":{\"line\":19,\"ch\":9}}}"
+            },
             {
               "leaf": "c5ef85b7d8d57463",
               "group": null,
@@ -122,18 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard rules create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":3.2857142735500724}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":50},\"to\":{\"line\":21,\"ch\":50}},\"scroll\":3.5714286322496385}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":2.321428610962265}"
             }
           ]
         }
@@ -186,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf",
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -219,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf",
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436
+    "width": 436,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -264,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf"
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
               }
             },
             "pane-relief:history-v1": {
@@ -289,18 +293,6 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "436b69b1e5e0bb73",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -345,15 +337,19 @@
             }
           },
           {
-            "id": "cfabfcbcf893088d",
+            "id": "4f176ac72c3ebf84",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
+            }
+          },
+          {
+            "id": "71c774f2c2d8092d",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
             }
           }
         ],
@@ -369,7 +365,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf",
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -481,15 +477,15 @@
   },
   "active": "c5ef85b7d8d57463",
   "lastOpenFiles": [
+    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+    "30_Topics/35_Outlines/Neuroscience.md",
     "00_Meta/Personal/Documents/MO W-4 2021.pdf",
+    "30_Topics/31_Stubs/knowledge work.md",
+    "30_Topics/33_Tools/Obsidian (software).md",
     "00_Meta/Personal MOC.md",
     "00_Meta/Personal/Journal.md",
     "40_Evergreens/Write your notes with a system not within a system.md",
     "40_Evergreens/Use highlighter colors to create visual outlines.md",
-    "40_Evergreens/Every person has an experience of gender.md",
-    "00_Meta/Templates/EGNOTE.md",
-    "40_Evergreens/Develop Obsidian plugins.md",
-    "40_Evergreens/Black identity is inherently political.md",
-    "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md"
+    "40_Evergreens/Every person has an experience of gender.md"
   ]
 }

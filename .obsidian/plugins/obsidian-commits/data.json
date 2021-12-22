@@ -8363,7 +8363,7 @@
     "30_Topics/35_Outlines/Neuroscience.md": {
       "size": 736,
       "tags": 1,
-      "links": 8
+      "links": 9
     },
     "30_Topics/35_Outlines/mental health.md": {
       "size": 1328,
@@ -9595,7 +9595,7 @@
     "/": {
       "Refactor": 1788,
       "Create": 2176,
-      "Link": 3801,
+      "Link": 3802,
       "Expand": 365
     },
     "40_Evergreens": {
@@ -9629,7 +9629,7 @@
       "19": 196,
       "20": 160,
       "21": 259,
-      "22": 257,
+      "22": 258,
       "23": 297
     },
     "40_Evergreens": {
@@ -9662,7 +9662,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 310,
-      "Tue": 888,
+      "Tue": 889,
       "Wed": 1464,
       "Thu": 409,
       "Fri": 192,
@@ -9978,6 +9978,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Human's will find explanations for inexplainable things.md\"> [Human's will find explanations for inexplainable things </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Neuroscience.md\"> Neuroscience </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -10027,8 +10028,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\"> You can't blame people for failing to rise above their circumstances </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",

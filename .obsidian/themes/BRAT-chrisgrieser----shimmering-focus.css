@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.389
+Version 1.397
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -8,20 +8,26 @@ MIT License
 /* ───────────────────────────────────────────────────
 < Table of Content
 ─────────────────────────────────────────────────── */
-/* all sections begin with "< ", so you can search for
-"< section name" to navigate to the respective section.
-This ToC is auto-generated via the .create-ToC.sh
+/* all sections begin with "<", to navigate to the
+respective section. This ToC is auto-generated via
+the .create-ToC.sh.
 
 - Colors
-	- Backgrounds & Brightness
-- Variables
+	- Brightness
+	- Saturation
+	- Hue
+	- Shadows
+	- Borders
+- Other Variables
 - Fonts
-	- Base64-encoded Fonts
-	- Font Definitions
-	- Bold
+ 	- Base64-encoded Fonts
+ 	- Font Definitions
+ 	- Bold
 - Icons
+- Base Icons
+	- Plugin Icons
 - Shapes
-	- Angular Shapes
+	- Angular  or Round Shapes
 	- Cursor
 - UI Elements
 	- Title Bar
@@ -31,6 +37,7 @@ This ToC is auto-generated via the .create-ToC.sh
 	- Header Bar
 	- Status Bar
 	- Scrollbar
+- Vault Launch Progress Bar
 - Interactive Elements
 	- Buttons
 	- Warnings
@@ -39,30 +46,35 @@ This ToC is auto-generated via the .create-ToC.sh
 	- Dropdown & Slider
 	- Search & Replace (cmd + F)
 	- Context Menus
-	- Editor Suggestions
 	- Close Buttons
 - Prompts
 	- Command Palette
 	- QuickSwitcher
+	- Editor Suggestions
 - Sidebar
+	- Files in the Sidebar
 	- Tab Headers
 	- Resize Handles
 - Modals & Settings
 	- Modals in general
 	- Confirmation Modal
 	- Settings Menu
-	- Community Plugin Browser
-	- Community Theme Browser
+	- Plugin Browser
+		- Plugin Search Results (left side)
+		- Plugin Info /Readme (right side)
+	- Theme Browser
+		- GitHub Info for this Theme
+		- Remaining Community Theme Browser
 - Editor
 	- Active / Inactive Note
+	- Trailing Whitespace
 	- Empty State
-	- Editor Size
-	- Line Numbers (Gutter)
-	- Overscroll
+	- Editor Properties
+	- Embeds
 	- YAML Header
-		- YAML Frontmatter
-		- Metadata Block
-	- Collapse Indicators (Fold Gutter)
+ 		- YAML Frontmatter
+ 		- Metadata Block
+	- Gutter & Collapse Indicators
 	- Progress bars (<progress>)
 	- Images
 	- Mermaid
@@ -70,25 +82,28 @@ This ToC is auto-generated via the .create-ToC.sh
 	- Search Matches
 	- Spellcheck
 	- Max View
-		- Line Length & Tables
-		- Images
-		- PDFs
-		- Mermaid
+ 		- Line Length & Tables
+ 		- Images
+ 		- PDFs
+ 		- Mermaid
 - Markup
 	- Headings
 	- Blockquotes
 	- Tables
 	- Code Blocks & Inline Code
-	- Bullet point relationship lines
+	- Syntax Highlighting
+	- Bullet Point Relationship Lines
 	- Links
 	- Tags
 		- Annotation Tags
 	- Comments & HTML Tags
 	- Tasks
+	- Checkboxes
+ 		- SlVrb's checkboxes Compatibility
 	- Highlights & Selection
-		- Active Line Highlight
-		- Highlights
-		- Selection (Selected Text)
+ 		- Active Line Highlight
+ 		- Highlights
+ 		- Selection (Selected Text)
 	- Multi-Color Highlighting
 	- Pseudo-Spoiler-Tag
 	- Strikethroughs
@@ -97,11 +112,12 @@ This ToC is auto-generated via the .create-ToC.sh
 	- Horizontal line (hr)
 - Mobile
 - Core Plugins
+	- Editor Status (CM6)
 	- File Explorer
-	- Relationship Lines
-	- Folder Icons & Note Icons
+		- Relationship Lines
+		- Folder Icons & Note Icons
 	- Panes
-		- Panes in general
+ 		- Panes in general
 		- Outline
 		- Backlinks & Outgoing
 		- Search
@@ -111,14 +127,15 @@ This ToC is auto-generated via the .create-ToC.sh
 	- File Recovery
 	- Graph View
 - Community Plugins
+	- Git Plugin
 	- Calendar
 	- Templater
 	- Kanban
 	- Longform
-		- Longform Sidebar
-		- Longform Sidebar Icons
-		- Longform Editor
-		- Longform Icons
+ 		- Longform Sidebar
+ 		- Longform Sidebar Icons
+ 		- Longform Editor
+ 		- Longform Icons
 	- Ozan's Image in Editor
 	- Recent Files
 	- Quick Explorer
@@ -129,20 +146,23 @@ This ToC is auto-generated via the .create-ToC.sh
 	- Dangling Links
 	- Advanced Cursor
 	- CodeMirror Options
+	- Dataview
 	- Another Quick Switcher
 	- Activity History
 	- Style Settings (Settings Tab)
 	- Favicon Plugin
-	- Info Plugin
+	- File Info Panel (Side bar)
+	- Get Info (Status bar)
 	- Language Tool Integration
 	- Hotkey Helper
-	- Other Minor Plugin Customizations
-		- Zoom
-		- Advanced Tables
-- Plugin Compatibility Info for the Obsidian Hub
+	- Excalidraw
+	- Zoom
+	- Cursor Location
+	- Advanced Tables
+- Compatibility Info for the Obsidian Hub
 - Style Setting Options
- */
 
+ */
 /* ───────────────────────────────────────────────────
 < Colors
 ─────────────────────────────────────────────────── */
@@ -259,9 +279,9 @@ This ToC is auto-generated via the .create-ToC.sh
 
 .theme-light .longform-leaf,
 .theme-light {
-	--b-light-1: calc(var(--brightness-light) + 83%);
-	--b-light-2: calc(var(--brightness-light) + 79%);
-	--b-light-3: calc(var(--brightness-light) + 74%);
+	--b-light-1: calc(var(--brightness-light) + 82%);
+	--b-light-2: calc(var(--brightness-light) + 78%);
+	--b-light-3: calc(var(--brightness-light) + 73%);
 
 	--sat-correction: 5%;
 	--sat-light-1: calc(calc(var(--light-sat) + var(--sat-correction)) * 2);
@@ -629,7 +649,8 @@ svg {
 < Base Icons
 ─────────────────────────────────────────────────── */
 
-/* external link */
+/* span targets LP, a normal preview */
+span.external-link,
 a.external-link {
 	background-position-y: 5px;
 	background-image: var(--external-url);
@@ -681,9 +702,12 @@ svg.gear > path { display: none }
 
 svg.gear {
 	background-color: currentColor;
-	margin-right: 1px;
-	margin-bottom: 1.5px;
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.05em' height='1.05em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath fill='currentColor' d='M8.61 22a2.25 2.25 0 0 1-1.35-.46L5.19 20a2.37 2.37 0 0 1-.49-3.22a2.06 2.06 0 0 0 .23-1.86l-.06-.16a1.83 1.83 0 0 0-1.12-1.22h-.16a2.34 2.34 0 0 1-1.48-2.94L2.93 8a2.18 2.18 0 0 1 1.12-1.41a2.14 2.14 0 0 1 1.68-.12a1.93 1.93 0 0 0 1.78-.29l.13-.1a1.94 1.94 0 0 0 .73-1.51v-.24A2.32 2.32 0 0 1 10.66 2h2.55a2.26 2.26 0 0 1 1.6.67a2.37 2.37 0 0 1 .68 1.68v.28a1.76 1.76 0 0 0 .69 1.43l.11.08a1.74 1.74 0 0 0 1.59.26l.34-.11A2.26 2.26 0 0 1 21.1 7.8l.79 2.52a2.36 2.36 0 0 1-1.46 2.93l-.2.07A1.89 1.89 0 0 0 19 14.6a2 2 0 0 0 .25 1.65l.26.38a2.38 2.38 0 0 1-.5 3.23L17 21.41a2.24 2.24 0 0 1-3.22-.53l-.12-.17a1.75 1.75 0 0 0-1.5-.78a1.8 1.8 0 0 0-1.43.77l-.23.33A2.25 2.25 0 0 1 9 22a2 2 0 0 1-.39 0zM4.4 11.62a3.83 3.83 0 0 1 2.38 2.5v.12a4 4 0 0 1-.46 3.62a.38.38 0 0 0 0 .51L8.47 20a.25.25 0 0 0 .37-.07l.23-.33a3.77 3.77 0 0 1 6.2 0l.12.18a.3.3 0 0 0 .18.12a.25.25 0 0 0 .19-.05l2.06-1.56a.36.36 0 0 0 .07-.49l-.26-.38A4 4 0 0 1 17.1 14a3.92 3.92 0 0 1 2.49-2.61l.2-.07a.34.34 0 0 0 .19-.44l-.78-2.49a.35.35 0 0 0-.2-.19a.21.21 0 0 0-.19 0l-.34.11a3.74 3.74 0 0 1-3.43-.57L15 7.65a3.76 3.76 0 0 1-1.49-3v-.31a.37.37 0 0 0-.1-.26a.31.31 0 0 0-.21-.08h-2.54a.31.31 0 0 0-.29.33v.25a3.9 3.9 0 0 1-1.52 3.09l-.13.1a3.91 3.91 0 0 1-3.63.59a.22.22 0 0 0-.14 0a.28.28 0 0 0-.12.15L4 11.12a.36.36 0 0 0 .22.45z' data-name='%26lt%3bGroup%26gt%3b'/%3e%3cpath fill='currentColor' d='M12 15.5a3.5 3.5 0 1 1 3.5-3.5a3.5 3.5 0 0 1-3.5 3.5zm0-5a1.5 1.5 0 1 0 1.5 1.5a1.5 1.5 0 0 0-1.5-1.5z'/%3e%3c/svg%3e");
+}
+
+.installed-plugins-container .setting-editor-extra-setting-button svg.gear {
+	margin-right: 1px;
+	margin-bottom: 2px;
 }
 
 .side-dock-ribbon-action svg.gear {
@@ -755,6 +779,7 @@ svg.any-key {
 }
 
 .hotkey-list-container svg.any-key {
+	width: 1rem;
 	margin-top: 2px;
 }
 
@@ -879,6 +904,19 @@ svg.up-and-down-arrows {
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath d='M8 16H4l6 6V2H8zm6-11v17h2V8h4l-6-6z' fill='currentColor'/%3e%3c/svg%3e");
 }
 
+.setting-item-control button svg {
+	margin-top: 0;
+}
+
+/* "add to dictionary" */
+.menu svg.stacked-levels > path { display: none }
+
+.menu svg.stacked-levels {
+	background-color: currentColor;
+	margin-bottom: 1px;
+	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 16 16'%3e%3cg fill='currentColor'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M0 11h1v2h14v-2h1v3H0v-3z'/%3e%3cpath d='M6.84 11h-.88v-.86h-.022c-.383.66-.947.989-1.692.989c-.548 0-.977-.145-1.289-.435c-.308-.29-.462-.675-.462-1.155c0-1.028.605-1.626 1.816-1.794l1.649-.23c0-.935-.378-1.403-1.134-1.403c-.662 0-1.26.226-1.794.677v-.902c.541-.344 1.164-.516 1.87-.516c1.292 0 1.938.684 1.938 2.052V11zm-.88-2.782L4.633 8.4c-.408.058-.716.16-.924.307c-.208.143-.311.399-.311.768c0 .268.095.488.284.66c.194.168.45.253.768.253a1.41 1.41 0 0 0 1.08-.457c.286-.308.43-.696.43-1.165v-.548z'/%3e%3cpath d='M9.348 10.205h-.022V11h-.88V2.857h.88v3.61h.021c.434-.73 1.068-1.096 1.902-1.096c.705 0 1.257.247 1.654.741c.401.49.602 1.15.602 1.977c0 .92-.224 1.658-.672 2.213c-.447.551-1.06.827-1.837.827c-.726 0-1.276-.308-1.649-.924zm-.022-2.218v.768c0 .455.147.841.44 1.16c.298.315.674.473 1.128.473c.534 0 .951-.204 1.252-.613c.304-.408.456-.975.456-1.702c0-.613-.141-1.092-.424-1.44c-.283-.347-.666-.52-1.15-.52c-.511 0-.923.178-1.235.536c-.311.355-.467.8-.467 1.338z'/%3e%3c/g%3e%3c/svg%3e");
+}
+
 /* ───────────────────────────────────────────────────
 << Plugin Icons
 ─────────────────────────────────────────────────── */
@@ -893,9 +931,9 @@ svg.feather-mouse-pointer {
 }
 
 /* map of content */
-svg.stacked-levels > path { display: none }
+.workspace-tab-header svg.stacked-levels > path { display: none }
 
-svg.stacked-levels {
+.workspace-tab-header svg.stacked-levels {
 	background-color: currentColor;
 	transform: scale(1.1);
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 32 32'%3e%3cpath d='M22 3c-3.3 0-6 2.7-6 6c0 .992.383 2.004.875 3.125a35.124 35.124 0 0 0 1.75 3.406a62.171 62.171 0 0 0 2.563 4.031L22 20.75l.813-1.188s1.289-1.835 2.562-4.03a35.123 35.123 0 0 0 1.75-3.407C27.617 11.004 28 9.992 28 9c0-3.3-2.7-6-6-6zM11.969 4.938L4 8.344V27.53l8.031-3.468l8 3L28 23.655v-8.718a49.143 49.143 0 0 1-2 3.437v3.969l-5 2.125v-1.625l-1.469-2.125c-.156-.227-.34-.496-.531-.782v4.625l-6-2.25V7.438l1.094.407a7.853 7.853 0 0 1 .531-1.938zM22 5c2.219 0 4 1.781 4 4c0 .387-.242 1.3-.688 2.313c-.445 1.011-1.074 2.16-1.687 3.218c-.816 1.406-1.168 1.906-1.625 2.594c-.457-.688-.809-1.188-1.625-2.594c-.613-1.058-1.242-2.207-1.688-3.219C18.242 10.302 18 9.387 18 9c0-2.219 1.781-4 4-4zM11 7.5v14.844l-5 2.125V9.656zm11 0a1.5 1.5 0 1 0 0 3a1.5 1.5 0 0 0 0-3z' fill='currentColor'/%3e%3c/svg%3e");
@@ -964,17 +1002,20 @@ body.angular-shapes {
 << Cursor
 ─────────────────────────────────────────────────── */
 
+.cm-s-obsidian .cm-cursor,
 .CodeMirror-cursor {
 	/* needs the "1" at the end:  https://www.digitalocean.com/community/tutorials/css-gradient-borders-pure-css */
 	border-image: linear-gradient(var(--cursor-duo-color-1), var(--cursor-duo-color-2)) 1;
 	border-left-width: 3px;
 }
 
+body.mono-color-cursor .cm-cursor,
 body.mono-color-cursor .CodeMirror-cursor {
 	border-image: none;
 	border-color: var(--cursor-monocolor);
 }
 
+body.block-cursor .cm-s-obsidian .cm-cursor,
 body.block-cursor .CodeMirror-cursor {
 	opacity: 0.5;
 	border-left-width: 0.6em;
@@ -1038,7 +1079,7 @@ body.show-titlebar .workspace-ribbon.mod-left {
 	margin-top: 0;
 }
 
-/* styling when shown */
+/* styling when titlebar is shown */
 .titlebar-button {
 	color: var(--text-muted);
 	opacity: 1;
@@ -1204,8 +1245,6 @@ div.notice-container .notice {
 }
 
 body > div.notice-container .notice:hover {
-	position: relative;
-	right: -80px;
 	opacity: 0.8;
 }
 
@@ -1335,11 +1374,11 @@ body:not(.default-statusbar) .status-bar {
 .status-bar::AFTER {
 	color: var(--extra-contrast);
 	padding: 0;
-	margin-left: 10px;
+	margin-left: 13px;
 }
 
 .status-bar-item:first-child {
-	margin-left: 0;
+	margin-left: 0 !important;
 }
 
 body:not(.hide-signature) .status-bar::AFTER {
@@ -1690,7 +1729,7 @@ input.slider {
 	padding-top: 5px;
 
 	border: var(--thick-muted-border);
-	border-radius: var(--round);
+	border-radius: calc(var(--roundish) * 3);
 }
 
 body .document-search-container input[type="text"] {
@@ -1699,7 +1738,8 @@ body .document-search-container input[type="text"] {
 
 /* move up to avoid collision with statusbar */
 body:not(.default-statusbar) .document-search-container {
-	bottom: 2.7em
+	position: relative;
+	bottom: 2.4em;
 }
 
 div.document-replace {
@@ -1708,7 +1748,6 @@ div.document-replace {
 
 .document-search-container.mod-replace-mode {
 	height: 6.8em;
-	border-radius: calc(var(--round) / 2);
 }
 
 /* for whatever reason the horizontal scrollbar
@@ -1742,16 +1781,6 @@ so this has to be used ლ(ಠ_ಠლ)╯ */
 	border: var(--muted-border);
 }
 
-body > .app-container input.document-search-input:focus,
-body > .app-container input.document-replace-input:focus {
-	border: 2px solid var(--text-accent);
-}
-
-body > .app-container input.document-search-input:hover,
-body > .app-container input.document-replace-input:hover {
-	border: 2px solid var(--alt-accent);
-}
-
 button.document-search-button {
 	height: 2.2rem;
 
@@ -1761,7 +1790,7 @@ button.document-search-button {
 
 	margin: 5px 6px;
 
-	border-radius: var(--round);
+	border-radius: var(--roundish);
 }
 
 .document-search-button:hover {
@@ -1774,6 +1803,17 @@ body:not(.show-close-button) .document-search-close-button {
 	display: none;
 }
 
+/* only needed for CM5 */
+body > .app-container input.document-search-input:focus,
+body > .app-container input.document-replace-input:focus {
+	border: 2px solid var(--interactive-border);
+}
+
+body > .app-container input.document-search-input:hover,
+body > .app-container input.document-replace-input:hover {
+	border: 2px solid var(--interactive-hover-border);
+}
+
 /* ───────────────────────────────────────────────────
 << Context Menus
 ─────────────────────────────────────────────────── */
@@ -1781,7 +1821,7 @@ body:not(.show-close-button) .document-search-close-button {
 div.menu {
 	background-color: var(--bg1);
 	box-shadow: var(--medium-shadow);
-	padding: 2px 1px;
+	padding: 3px 0;
 	border: var(--thin-border);
 	border-radius: var(--roundish);
 }
@@ -2446,7 +2486,7 @@ body .workspace-leaf-resize-handle:active {
 	color: var(--extra-contrast);
 	background-color: var(--bg3);
 
-	padding: 2px 5px 4px;
+	padding: 3px 5px;
 	margin-top: 0;
 	margin-bottom: 5px;
 
@@ -2638,7 +2678,7 @@ body .workspace-leaf-resize-handle:active {
 .modal.mod-community-plugin .community-plugin-search .setting-item-control button {
 	color: var(--extra-contrast);
 	background-color: var(--bg2);
-	margin-left: 0;
+	margin-left: 2px;
 	border-color: var(--basic-border-color);
 }
 
@@ -3096,7 +3136,6 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 .modal.mod-community-theme .community-theme-filters-container .setting-item-control button {
 	height: 30px;
 	color: var(--extra-contrast);
-	stroke-width: 3px;
 	background-color: var(--bg2);
 	border-color: var(--basic-border-color);
 }
@@ -3150,6 +3189,31 @@ body:not(.less-heading-letter-spacing) .modal.mod-community-theme .modal-title {
 }
 
 /* ───────────────────────────────────────────────────
+<< Trailing Whitespace
+─────────────────────────────────────────────────── */
+.cm-line .cm-trailing-space-a::BEFORE,
+.cm-line .cm-trailing-space-b::BEFORE,
+.cm-line .cm-trailing-space-new-line::BEFORE {
+	position: absolute;
+	color: var(--text-faint);
+}
+
+.cm-line .cm-trailing-space-a::BEFORE {
+	content: "\00B7\00B7";
+}
+
+.cm-trailing-space-b::BEFORE,
+.cm-trailing-space-b + .cm-trailing-space-a::BEFORE {
+	content: "\00B7";
+	padding-left: 11px;
+}
+
+.cm-line .cm-trailing-space-new-line::BEFORE {
+	content: "\21B5";
+	padding-left: 15px;
+}
+
+/* ───────────────────────────────────────────────────
 << Empty State
 ─────────────────────────────────────────────────── */
 
@@ -3185,13 +3249,7 @@ body > .app-container .view-content > div > .markdown-preview-view {
 	padding-right: 0;
 }
 
-/* Gutter (Line Numbers) */
-.CodeMirror-linenumbers {
-	padding-top: 2px;
-	padding-right: 2px;
-}
-
-/* overscroll */
+/* Overscroll */
 body > div.app-container .view-content > div > .markdown-preview-view {
 	padding-bottom: 2em;
 }
@@ -3257,11 +3315,6 @@ body.colored-yaml .cm-s-obsidian .cm-hmd-frontmatter.cm-string {
 	color: hsl(54 69% 40%);
 }
 
-/* YAML-Header in Preview Mode */
-.markdown-preview-view pre.frontmatter.language-yaml {
-	display: none;
-}
-
 body .frontmatter-container .frontmatter-container-header {
 	border-bottom: var(--thin-border);
 	font-family: var(--smallcap-font);
@@ -3321,27 +3374,29 @@ body .frontmatter-container .frontmatter-container-header {
 }
 
 /* ───────────────────────────────────────────────────
-<< Collapse Indicators & Fold Gutters
+<< Gutter & Collapse Indicators
 ─────────────────────────────────────────────────── */
 
-/* Preview mode */
-.right-triangle {
-	height: 0.4em;
-	width: 0.4em;
+.CodeMirror-linenumbers {
+	padding-top: 2px;
+	padding-right: 2px;
 }
 
-.heading-collapse-indicator {
-	position: relative;
-	left: -10px;
-	padding-right: 0 !important;
+.markdown-preview-view .collapse-indicator .right-triangle {
+	height: 0.5em;
+	width: 0.5em;
 }
 
-.is-collapsed .heading-collapse-indicator.collapse-indicator.collapse-icon:hover,
-.heading-collapse-indicator.collapse-indicator.collapse-icon:hover {
+.cm-s-obsidian.mod-cm6 .collapse-indicator .right-triangle {
+	height: 0.9em;
+	width: 0.9em;
+}
+
+.collapse-indicator.collapse-icon:hover {
 	color: var(--alt-accent-lighter);
 }
 
-.is-collapsed .heading-collapse-indicator.collapse-indicator.collapse-icon {
+.is-collapsed .collapse-indicator.collapse-icon {
 	color: var(--text-accent);
 }
 
@@ -3366,25 +3421,23 @@ body .frontmatter-container .frontmatter-container-header {
 	color: var(--accent-lighter);
 }
 
-/* the "..." when content is folded */
+/* CM6/CM5: the "..." when content is folded */
+body:not(.show-fold-marker) .cm-foldPlaceholder,
 body:not(.show-fold-marker) .CodeMirror-foldmarker {
 	display: none;
 }
 
-/* fix for note being in the sidebar, thanks @SlRvb */
+/* CM5: collapse indicator positioning */
+.markdown-source-view.mod-cm5 .collapse-indicator {
+	position: relative;
+	left: -10px;
+	padding-right: 0;
+}
+
+/* fix for gutter color, thanks @SlRvb */
 .markdown-source-view.mod-cm6 .cm-gutters,
 .CodeMirror-foldgutter {
 	background-color: transparent !important;
-}
-
-/* hide fold icon */
-body:not(.show-collapse-buttons) .CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::AFTER {
-	opacity: 0;
-}
-
-/* hover over line shows fold icon */
-body:not(.show-collapse-buttons) .CodeMirror-code > div:hover .CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::AFTER {
-	opacity: 1;
 }
 
 /* ───────────────────────────────────────────────────
@@ -3563,7 +3616,7 @@ body > .app-container .obsidian-search-match-highlight:last-child {
 /* ───────────────────────────────────────────────────
 << Spellcheck
 ─────────────────────────────────────────────────── */
-
+/* all the following do not work in CM6 anymore */
 body:not(.classic-spellcheck-styling) .CodeMirror .cm-spell-error {
 	background-image: none;
 	text-decoration: underline wavy var(--spell-error-color);
@@ -3603,6 +3656,21 @@ body.no-comment-spellcheck .cm-comment.cm-overlay.cm-spell-error {
 body.no-barelink-spellcheck .cm-hmd-barelink.cm-overlay.cm-spell-error {
 	background-image: none;
 	text-decoration: none;
+}
+
+/* spellcheck dictionary (when modifying words through settings) */
+.spellchecker-dictionary-remove-button:hover {
+	color: var(--alt-accent);
+}
+
+body:not(.no-alternating-rows) .spellchecker-dictionary-item {
+	padding: 2px 6px;
+	margin-bottom: 0;
+	border-radius: var(--roundish);
+}
+
+.spellchecker-dictionary-item:nth-child(even) {
+	background-color: var(--a-row);
 }
 
 /* ───────────────────────────────────────────────────
@@ -3686,6 +3754,10 @@ body.focus-view-enabled .workspace-split.mod-left-split.is-collapsed ~ .workspac
 	font-weight: 700;
 	text-rendering: geometricPrecision;
 	line-height: 1.3em;
+}
+
+body .cm-s-obsidian .cm-header {
+	font-weight: 600;
 }
 
 .cm-header-1,
@@ -3791,11 +3863,6 @@ body > .app-container .HyperMD-quote ~ .HyperMD-quote {
 
 .theme-dark .HyperMD-quote {
 	background-color: rgb(0 0 0 / 25%);
-}
-
-/* when blockquote is also active line */
-body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-quote.CodeMirror-line {
-	background-color: var(--active-line);
 }
 
 /* the ">" */
@@ -4002,27 +4069,31 @@ body .markdown-preview-view pre code {
 	border-top-left-radius: var(--codeblock-roundness);
 }
 
-.cm-s-obsidian div.HyperMD-codeblock-end-bg {
+div.HyperMD-codeblock-end-bg {
 	border-bottom: var(--codeblock-border);
 	border-bottom-right-radius: var(--codeblock-roundness);
 	border-bottom-left-radius: var(--codeblock-roundness);
 }
 
-.cm-s-obsidian div.HyperMD-codeblock-bg:not(.HyperMD-codeblock-begin-bg) {
+div.HyperMD-codeblock-bg:not(.HyperMD-codeblock-begin-bg) {
 	background-color: var(--bg2);
 	border-right: var(--codeblock-border);
 	border-left: var(--codeblock-border);
 }
 
+/* interaction of active line highlight roundness with code blocks */
+body:not(.no-active-line-highlighting) .cm-active.HyperMD-codeblock,
 body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-codeblock-bg.CodeMirror-linebackground {
 	border-radius: 0;
 }
 
+body:not(.no-active-line-highlighting) .cm-active.HyperMD-codeblock-begin,
 body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-codeblock-begin-bg.CodeMirror-linebackground {
 	border-top-right-radius: var(--codeblock-roundness);
 	border-top-left-radius: var(--codeblock-roundness);
 }
 
+body:not(.no-active-line-highlighting) .cm-active.HyperMD-codeblock-end,
 body:not(.no-active-line-highlighting) .CodeMirror-activeline .HyperMD-codeblock-end-bg.CodeMirror-linebackground {
 	border-bottom-right-radius: var(--codeblock-roundness);
 	border-bottom-left-radius: var(--codeblock-roundness);
@@ -4215,8 +4286,25 @@ body a.internal-link.is-unresolved:hover {
 }
 
 /* don't underline the brackets */
-.cm-url.cm-formatting {
-	text-decoration: none !important;
+.cm-s-obsidian .cm-url.cm-formatting {
+	text-decoration: none;
+}
+
+/* <<< fold external URLs (CM6 Source Mode) */
+body:not(.show-urls) .cm-line:not(.cm-active) .cm-string.cm-url:not(.cm-formatting) {
+	font-size: 0;
+}
+
+body:not(.show-urls) .cm-line:not(.cm-active) .cm-string.cm-url:not(.cm-formatting)::AFTER {
+	content: "link";
+	position: relative;
+	top: 2px;
+	font-family: var(--icon-font);
+	font-size: 0.9rem;
+}
+
+body:not(.show-urls) .cm-line:not(.cm-active) .cm-url {
+	text-decoration: none;
 }
 
 /* ───────────────────────────────────────────────────
@@ -4514,7 +4602,7 @@ li[data-task="x"] > .task-list-item-checkbox:hover {
 }
 
 /* fix for legacy-editor, discussed here https://discord.com/channels/686053708261228577/702656734631821413/920422345422819339 */
-.markdown-source-view:not(.mod-cm6) .cm-formatting.cm-formatting-task {
+.markdown-source-view.mod-cm5 .cm-formatting.cm-formatting-task {
 	margin-left: -10px;
 }
 
@@ -4566,6 +4654,7 @@ body > div.app-container .markdown-preview-view ol > li.task-list-item.is-checke
 ─────────────────────────────────────────────────── */
 
 /* <<< Active Line Highlight */
+body:not(.no-active-line-highlighting) .cm-active,
 body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-linebackground {
 	background-color: var(--active-line);
 	border-radius: var(--roundish);
@@ -4746,6 +4835,23 @@ body.is-mobile .markdown-preview-view blockquote {
 /* ───────────────────────────────────────────────────
 < Core Plugins
 ─────────────────────────────────────────────────── */
+
+/* ───────────────────────────────────────────────────
+<< Editor Status (CM6)
+─────────────────────────────────────────────────── */
+
+.status-bar-item.plugin-editor-status {
+	position: relative;
+	bottom: 1px;
+}
+
+.status-bar-item.plugin-editor-status::BEFORE {
+	content: "preview";
+	position: relative;
+	top: 2px;
+	margin-right: 3px;
+	font-family: var(--icon-font);
+}
 
 /* ───────────────────────────────────────────────────
 << File Explorer
@@ -7300,11 +7406,37 @@ a.zoom-plugin-title:hover {
 }
 
 /* ───────────────────────────────────────────────────
+<< Cursor Location
+─────────────────────────────────────────────────── */
+
+/* do not add between-items-margin when empty */
+.status-bar-item.plugin-obsidian-cursor-location-plugin:empty + .status-bar-item {
+	margin-left: 0;
+}
+
+/* ───────────────────────────────────────────────────
 << Advanced Tables
 ─────────────────────────────────────────────────── */
 
 .widget-icon:hover {
 	fill: var(--alt-accent) !important;
+}
+
+/* ───────────────────────────────────────────────────
+<< Show Current File Path
+─────────────────────────────────────────────────── */
+
+.status-bar-item.plugin-obsidian-show-file-path {
+	position: relative;
+	bottom: 1px;
+}
+
+.status-bar-item.plugin-obsidian-show-file-path::BEFORE {
+	content: "folder";
+	position: relative;
+	top: 2px;
+	margin-right: 3px;
+	font-family: var(--icon-font);
 }
 
 /* ───────────────────────────────────────────────────
@@ -7356,6 +7488,7 @@ community:
 - obsidian-zoom
 - table-editor-obsidian
 - dataview
+- obsidian-cursor-location-plugin
 */
 
 /* ───────────────────────────────────────────────────
@@ -7406,6 +7539,12 @@ settings:
 	 type: class-toggle
 	 default: false
   -
+	 id: show-urls
+	 title: 'Source Mode (Obsidian 0.13+): Permanently show full URLs.'
+	 type: class-toggle
+	 description: In Source Mode, URLs on non-active lines will are folded (Obsidian 0.13+ only). Enable this to permanently show the full URL.
+	 default: false
+  -
 	 id: show-close-button
 	 title: Re-enable Close Buttons
 	 type: class-toggle
@@ -7418,12 +7557,6 @@ settings:
 	 description: When false, only the scroll bars in the Editor are shown.
 	 default: false
   -
-	 id: show-collapse-buttons
-	 title: Permanently show the Edit Mode Collapse Arrows
-	 type: class-toggle
-	 description: When false, you collapse buttons still become visible upon hovering.
-	 default: false
-  -
 	 id: show-fold-marker
 	 title: Re-enable the Fold Markers
 	 type: class-toggle
@@ -7433,7 +7566,13 @@ settings:
 	 id: show-graph-controls
 	 title: Permanently show the Graph Controls
 	 type: class-toggle
-	 description: When false, Graph controls are still visible when open, or upon hovering the top-left area.
+	 description: When false, graph controls are still visible when open, or upon hovering the top-left area.
+	 default: false
+  -
+	 id: show-starred-nav-buttons
+	 title: 'Starred Pane: Re-enable Buttons'
+	 description: The two buttons to star the current file and the current search.
+	 type: class-toggle
 	 default: false
   -
 	 id: aesthetics
@@ -7464,7 +7603,7 @@ settings:
 	         value: custom-colors
   -
 	 id: brightness-light
-	 title: '🚧 Custom Colors: Brightness (Light Mode)'
+	 title: 'Custom Colors: Brightness (Light Mode)'
 	 description: Note that a high brightness in light mode results in a white theme, regardless of the selected hue.
 	 type: variable-number-slider
 	 default: 7
@@ -7474,7 +7613,7 @@ settings:
 	 format: '%'
   -
 	 id: light-hue
-	 title: '🚧 Custom Colors: Hue (Light Mode)'
+	 title: 'Custom Colors: Hue (Light Mode)'
 	 description: 'Overall color tone of the theme. Mind that the appearance of the color is also affected by brightness and saturation.'
 	 type: variable-number-slider
 	 default: 220
@@ -7483,7 +7622,7 @@ settings:
 	 step: 5
   -
 	 id: light-sat
-	 title: '🚧 Custom Colors: Saturation (Light Mode)'
+	 title: 'Custom Colors: Saturation (Light Mode)'
 	 description: "Intensity of the chosen color tone (hue). Setting this to zero will result in grayscale, regardless of the hue chosen. "
 	 type: variable-number-slider
 	 default: 10
@@ -7493,7 +7632,7 @@ settings:
 	 format: '%'
   -
 	 id: brightness-dark
-	 title: '🚧 Custom Colors: Brightness (Dark Mode)'
+	 title: 'Custom Colors: Brightness (Dark Mode)'
 	 description: Note that a low brightness in dark mode results in a black theme, regardless of the selected hue.
 	 type: variable-number-slider
 	 default: 7
@@ -7503,7 +7642,7 @@ settings:
 	 format: '%'
   -
 	 id: dark-hue
-	 title: '🚧 Custom Colors: Hue (Dark Mode)'
+	 title: 'Custom Colors: Hue (Dark Mode)'
 	 description: 'Overall color tone of the theme. Mind that the appearance of the color is also affected by brightness and saturation.'
 	 type: variable-number-slider
 	 default: 220
@@ -7512,7 +7651,7 @@ settings:
 	 step: 5
   -
 	 id: dark-sat
-	 title: '🚧 Custom Colors: Saturation (Dark Mode)'
+	 title: 'Custom Colors: Saturation (Dark Mode)'
 	 description: "Intensity of the chosen color tone (hue). Setting this to zero will result in grayscale, regardless of the hue chosen. "
 	 type: variable-number-slider
 	 default: 5
@@ -7773,8 +7912,8 @@ settings:
 	 default: false
   -
 	 id: spellcheck-settings
-	 title: Spellcheck
-	 description: Style & Fine-tuning
+	 title: Spellcheck (deprecated)
+	 description: Legacy Editor only. Will be deprecated.
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -7845,7 +7984,7 @@ settings:
   -
 	 id: plugin-specific-settings
 	 title: Plugin-Specific Settings
-	 description: Longform, File Explorer, Starred Pane, Link Favicons, Page Preview, Command Palette, Calendar
+	 description: Longform, File Explorer, Link Favicons, Page Preview, Command Palette, Calendar
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -7853,12 +7992,6 @@ settings:
 	 id: no-file-explorer-icons
 	 title: 'File Explorer: No Icons'
 	 description: Removes the icons next next to files and folders in the file explorer and re-enables the collapse arrows.
-	 type: class-toggle
-	 default: false
-  -
-	 id: show-starred-nav-buttons
-	 title: 'Starred Pane: Re-enable Buttons'
-	 description: The two buttons to star the current file and the current search.
 	 type: class-toggle
 	 default: false
   -
@@ -7952,7 +8085,7 @@ settings:
   -
 	 id: annotation-tags-off
 	 title: 'Turn off "Annotation Tags"'
-	 description: '"Annotation Tags" will visually emphasize some tags that are commonly used for academic reading.'
+	 description: '"Annotation Tags" are about a dozen of tags for academic reading, e.g. "#definition" that are visually emphasized.'
 	 type: class-toggle
 	 default: false
   -
