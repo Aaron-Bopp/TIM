@@ -9584,12 +9584,17 @@
       "size": 829,
       "tags": 2,
       "links": 7
+    },
+    "00_Meta/Personal MOC.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1788,
-      "Create": 2175,
+      "Create": 2176,
       "Link": 3801,
       "Expand": 365
     },
@@ -9622,7 +9627,7 @@
       "17": 1562,
       "18": 206,
       "19": 196,
-      "20": 159,
+      "20": 160,
       "21": 259,
       "22": 257,
       "23": 297
@@ -9657,7 +9662,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 310,
-      "Tue": 887,
+      "Tue": 888,
       "Wed": 1464,
       "Thu": 409,
       "Fri": 192,
@@ -9730,6 +9735,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal MOC.md\"> Personal MOC </a>",
         "<a class=\"internal-link\" href=\"Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/protests.md\"> protests </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sequential notes.md\"> Sequential notes </a>",
@@ -9779,8 +9785,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/English.md\"> English </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchoat trying to imitate a working form of communication..md\"> English is six languages in a trenchoat trying to imitate a working form of communication. </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/black people.md\"> black people </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/To my parents.md\"> To my parents </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/over-stimulation.md\"> over-stimulation </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/To my parents.md\"> To my parents </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",

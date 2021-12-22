@@ -7,12 +7,26 @@
         "id": "c5ef85b7d8d57463",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "c5ef85b7d8d57463",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"00_Meta/Personal/Documents/MO W-4 2021.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c5ef85b7d8d57463",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal MOC.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "c5ef85b7d8d57463",
               "group": null,
@@ -120,18 +134,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":2.321428610962265}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An unfulfilled need for validation results in a fear of rejection.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -184,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -216,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -240,8 +244,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,7 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -364,6 +369,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00_Meta/Personal/Documents/MO W-4 2021.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -475,6 +481,8 @@
   },
   "active": "c5ef85b7d8d57463",
   "lastOpenFiles": [
+    "00_Meta/Personal/Documents/MO W-4 2021.pdf",
+    "00_Meta/Personal MOC.md",
     "00_Meta/Personal/Journal.md",
     "40_Evergreens/Write your notes with a system not within a system.md",
     "40_Evergreens/Use highlighter colors to create visual outlines.md",
@@ -482,8 +490,6 @@
     "00_Meta/Templates/EGNOTE.md",
     "40_Evergreens/Develop Obsidian plugins.md",
     "40_Evergreens/Black identity is inherently political.md",
-    "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
-    "40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md",
-    "40_Evergreens/People have been conditioned to believe the bible has to be infallible.md"
+    "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md"
   ]
 }
