@@ -6,7 +6,7 @@ sr-interval: 21
 sr-ease: 232
 ---
 
-#### [[Non-faith issues have been co-opted to keep people in the christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Non-faith issues have been co-opted to keep people in the Christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Be in the world not of the world because if you are of the world you start believing worldly things like evolution and that people who don't believe the same thing as me aren't inherently inferior
 
@@ -16,7 +16,7 @@ The main benefit from doing this comes down to [[Politics]] and [[The Politiciza
 
 To people who believe [[The bible is god breathed]], 
 this propaganda can be very confusing, because it is often supported by scripture, 
-^[[[The biblical christian God is evil and does not deserve to be worshipped]]]
+^[[[The biblical Christian God is evil and does not deserve to be worshipped]]]
 but the beliefs are obviously against the teaching of Jesus Christ.
 ^[[[Are Jesus' teachings anti-thetical to the modern Christian church]]]
 Because [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]],

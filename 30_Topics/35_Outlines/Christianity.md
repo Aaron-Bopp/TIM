@@ -2,7 +2,7 @@
 created: 2021-06-28
 tags: node/topic/outline
 aliases:
-  - christian
+  - Christian
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -11,10 +11,10 @@ aliases:
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Christianity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- [[The biblical christian God is evil and does not deserve to be worshipped]]
+- [[The biblical Christian God is evil and does not deserve to be worshipped]]
 - [[The Politicization of the Christian Church]]
 - [[Evangelicalism]]
-- [[The biblical christian God is evil and does not deserve to be worshipped]]
+- [[The biblical Christian God is evil and does not deserve to be worshipped]]
 	- [[Fear of hell is baked into Christianity for vulnerable believers]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - [[Are Jesus' teachings anti-thetical to the modern Christian church]]
@@ -29,7 +29,7 @@ aliases:
         - [[Deconstructing your faith is like climbing through a jungle canopy]]
         - [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]]
     - Why people deconstruct
-        - [[Non-faith issues have been co-opted to keep people in the christian church]]
+        - [[Non-faith issues have been co-opted to keep people in the Christian church]]
         - [[religious trauma]]
 
 ### <hr class="dataviews"/>

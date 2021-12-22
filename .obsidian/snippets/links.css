@@ -39,6 +39,7 @@ div.nav-file-title-content[data-link-tags*="#EVER/GREEN" i]::before  */
 
 [data-link-tags*="topic"],
 span.cm-hmd-internal-link[data-link-tags*="topic"],
+.markdown-source-view.mod-cm6 .cm-underline[data-link-tags*="topic"]
 a.internal-link[data-link-tags*="topic"] {
     color: rgba(187, 85, 54, 0.945) !important;
     text-decoration: none;
@@ -46,8 +47,9 @@ a.internal-link[data-link-tags*="topic"] {
 
 [data-link-tags*="evergreen"],
 span.cm-hmd-internal-link[data-link-tags*="evergreen"],
+.markdown-source-view.mod-cm6 .cm-underline[data-link-tags*="evergreen"]
 a.internal-link[data-link-tags*="evergreen"] {
-    color: rgba(71, 179, 221, 0.904) !important;
+    color: rgb(88, 208, 255) !important;
     text-decoration: none;
 }
 

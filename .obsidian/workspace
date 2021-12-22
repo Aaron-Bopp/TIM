@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ef85b7d8d57463",
+        "id": "d6dc23fcb04a3d9f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+            "file": "40_Evergreens/Rise of Conspiracy Culture.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,124 +19,28 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "c5ef85b7d8d57463",
+              "leaf": "d6dc23fcb04a3d9f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rise of Conspiracy Culture.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.892857498660387}"
             },
             {
-              "leaf": "c5ef85b7d8d57463",
+              "leaf": "d6dc23fcb04a3d9f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/Neuroscience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":9},\"to\":{\"line\":19,\"ch\":9}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My Deconstruction journey.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "c5ef85b7d8d57463",
+              "leaf": "d6dc23fcb04a3d9f",
               "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"00_Meta/Personal/Documents/MO W-4 2021.pdf\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "d6dc23fcb04a3d9f",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal MOC.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Journal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}},\"scroll\":9.23809525025945}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Write your notes with a system not within a system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use highlighter colors to create visual outlines.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.42857145289985543}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Every person has an experience of gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Black identity is inherently political.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":23},\"to\":{\"line\":19,\"ch\":23}},\"scroll\":0}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":2},\"to\":{\"line\":23,\"ch\":2}},\"scroll\":0}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":42},\"to\":{\"line\":14,\"ch\":42}},\"scroll\":6.250000106436867}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":276},\"to\":{\"line\":12,\"ch\":276}},\"scroll\":5.750000234161108}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":10.688888832374856}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Are Jesus' teachings anti-thetical to the modern Christian church.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":8.785714571573301}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":31},\"to\":{\"line\":27,\"ch\":31}},\"scroll\":3.5714286322496385}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.42857145289985543}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":35.82353049661046}"
-            },
-            {
-              "leaf": "c5ef85b7d8d57463",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard rules create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":3.2857142735500724}"
             }
           ]
         }
@@ -189,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                "file": "40_Evergreens/Rise of Conspiracy Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                "file": "40_Evergreens/Rise of Conspiracy Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
+                "file": "40_Evergreens/Rise of Conspiracy Culture.md"
               }
             },
             "pane-relief:history-v1": {
@@ -342,6 +246,10 @@
             "state": {
               "type": "graph-analysis",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -350,6 +258,10 @@
             "state": {
               "type": "RSS_FEED",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -365,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+                "file": "40_Evergreens/Rise of Conspiracy Culture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -475,17 +387,17 @@
     "width": 690,
     "collapsed": true
   },
-  "active": "c5ef85b7d8d57463",
+  "active": "d6dc23fcb04a3d9f",
   "lastOpenFiles": [
-    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
-    "30_Topics/35_Outlines/Neuroscience.md",
-    "00_Meta/Personal/Documents/MO W-4 2021.pdf",
-    "30_Topics/31_Stubs/knowledge work.md",
-    "30_Topics/33_Tools/Obsidian (software).md",
-    "00_Meta/Personal MOC.md",
-    "00_Meta/Personal/Journal.md",
-    "40_Evergreens/Write your notes with a system not within a system.md",
-    "40_Evergreens/Use highlighter colors to create visual outlines.md",
-    "40_Evergreens/Every person has an experience of gender.md"
+    "40_Evergreens/Rise of Conspiracy Culture.md",
+    "40_Evergreens/My Deconstruction journey.md",
+    "40_Evergreens/Non-faith issues have been co-opted to keep people in the Christian church.md",
+    "40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md",
+    "30_Topics/35_Outlines/Christianity.md",
+    "40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md",
+    "10_Sources/Andy Matuschak's Evergreen Notes.md",
+    "40_Evergreens/Organization systems are not mutually exclusive.md",
+    "40_Evergreens/Every person has an experience of gender.md",
+    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
   ]
 }

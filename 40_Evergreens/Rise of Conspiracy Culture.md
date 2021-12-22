@@ -13,6 +13,7 @@ sr-ease: 248
 - [[Q justifies conservatives discontent]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[The internet allows niche topics to flourish]]
+- #TO/EXPLORE/RESEARCH  the origins of the [[illuminati]] and how [[the right]] co-opted that group to make it a conspiracy
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

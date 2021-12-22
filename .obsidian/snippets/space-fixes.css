@@ -37,15 +37,25 @@ cite {
     margin: 0;
 }
 
-a.internal-link,
+.markdown-preview-view .internal-link,
+a,
 span.cm-link,
 .cm-hmd-internal-link,
+.markdown-source-view.mod-cm6 .cm-underline,
 .theme-dark .modal-content a,
 .theme-dark .markdown-preview-view a.footnote-link,
 .theme-dark .markdown-preview-view a.external-link {
-    color: #9c32fff8;
     font-weight: 550;
     text-decoration: none;
+}
+.cm-s-obsidian span.cm-link, 
+.cm-s-obsidian span.cm-hmd-internal-link,
+a,
+.theme-dark sup.footnote-ref {
+    color: #ab51fff8;
+}
+a:hover {
+    color: #d3abf8f8;
 }
 
 /* fix bullets for lp */
