@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
-            "mode": "preview",
+            "file": "10_Sources/notes_The Dawn of Everything.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -21,8 +21,14 @@
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.50029429075927}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":0.1464788754221419}"
             },
             {
               "leaf": "8aacba09f892b3a8",
@@ -111,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -144,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md"
+                "file": "10_Sources/notes_The Dawn of Everything.md"
               }
             },
             "pane-relief:history-v1": {
@@ -303,7 +309,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -415,6 +421,7 @@
   },
   "active": "8aacba09f892b3a8",
   "lastOpenFiles": [
+    "10_Sources/notes_The Dawn of Everything.md",
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
     "40_Evergreens/Anger fuels change.md",
     "20_Entry/24 Vault Stats/Word count Evergreens.md",
@@ -423,7 +430,6 @@
     "40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md",
     "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
     "00_Meta/Personal/To my parents.md",
-    "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
-    "40_Evergreens/Karma is based in the law of cause and effect.md"
+    "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md"
   ]
 }

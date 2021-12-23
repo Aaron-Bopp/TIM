@@ -20,10 +20,10 @@ type:
 	- we do question whether humans are innately good or evil, but those are human concepts
 		- ![[books_The Dawn of Everything#258309233]]
 - There are two main stories of prehistory
-	- Humans lived in a state of innocence and then fell
+	- [[Rousseauian]] Humans lived in a state of innocence and then fell
 		- Christian view ![[books_The Dawn of Everything#258309234]]
 		- Modern view ![[books_The Dawn of Everything#258309236]]
-	- Humans lived in a waring state and were civilized by [[society]]
+	- [[Hobbesian]] Humans lived in a waring state and were civilized by [[society]]
 		- ![[books_The Dawn of Everything#258309237]]
 		- ![[books_The Dawn of Everything#258309238]]
 - [[Humans in prehistory were not confined to small egalitarian bands]]

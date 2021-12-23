@@ -9398,7 +9398,7 @@
     "10_Sources/notes_The Dawn of Everything.md": {
       "size": 1318,
       "tags": 1,
-      "links": 17
+      "links": 19
     },
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md": {
       "size": 4661,
@@ -9620,7 +9620,7 @@
     "/": {
       "Refactor": 1793,
       "Create": 2183,
-      "Link": 3836,
+      "Link": 3837,
       "Expand": 378
     },
     "40_Evergreens": {
@@ -9654,7 +9654,7 @@
       "19": 196,
       "20": 160,
       "21": 259,
-      "22": 258,
+      "22": 259,
       "23": 297
     },
     "40_Evergreens": {
@@ -9688,7 +9688,7 @@
     "/": {
       "Mon": 310,
       "Tue": 889,
-      "Wed": 1523,
+      "Wed": 1524,
       "Thu": 409,
       "Fri": 192,
       "Sat": 0,
@@ -10003,6 +10003,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Knowledge of the world is painful.md\"> [Knowledge of the world is painful </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md\"> tweets_Tweets From Cressa Maeve Beer </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
@@ -10052,8 +10053,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
