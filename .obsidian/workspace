@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Anger fuels change.md",
-            "mode": "source",
+            "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -21,8 +21,14 @@
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anger fuels change.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "8aacba09f892b3a8",
@@ -53,30 +59,6 @@
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "b24b2ae7690e40d8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "b24b2ae7690e40d8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":9.981819846413352}"
             }
           ]
         }
@@ -129,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Anger fuels change.md",
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -162,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Anger fuels change.md",
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +169,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -207,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Anger fuels change.md"
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md"
               }
             },
             "pane-relief:history-v1": {
@@ -320,7 +303,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Anger fuels change.md",
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -432,15 +415,15 @@
   },
   "active": "8aacba09f892b3a8",
   "lastOpenFiles": [
+    "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
     "40_Evergreens/Anger fuels change.md",
-    "40_Evergreens/Searching for THE answer is dangerous.md",
+    "20_Entry/24 Vault Stats/Word count Evergreens.md",
     "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
+    "40_Evergreens/Searching for THE answer is dangerous.md",
     "40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md",
     "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
     "00_Meta/Personal/To my parents.md",
     "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
-    "40_Evergreens/Karma is based in the law of cause and effect.md",
-    "40_Evergreens/Democracy is about an open forum of ideas.md",
-    "40_Evergreens/American's are scared of the word communism not it's meaning.md"
+    "40_Evergreens/Karma is based in the law of cause and effect.md"
   ]
 }
