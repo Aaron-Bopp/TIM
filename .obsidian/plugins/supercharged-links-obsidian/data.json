@@ -7,7 +7,7 @@
   ],
   "targetTags": true,
   "presetFields": [],
-  "displayFieldsInContextMenu": true,
+  "displayFieldsInContextMenu": false,
   "globallyIgnoredFields": [],
   "classFilesPath": "Templates/SuperchargedLinks",
   "getFromInlineField": true,

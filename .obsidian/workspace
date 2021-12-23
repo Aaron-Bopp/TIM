@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/notes_The Dawn of Everything.md",
+            "file": "40_Evergreens/How something is named effects people's perception of it.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How something is named effects people's perception of it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.50029429075927}"
+              "eState": "{\"scroll\":26.96527463814617}"
             },
             {
               "leaf": "8aacba09f892b3a8",
@@ -117,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "40_Evergreens/How something is named effects people's perception of it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -150,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "40_Evergreens/How something is named effects people's perception of it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md"
+                "file": "40_Evergreens/How something is named effects people's perception of it.md"
               }
             },
             "pane-relief:history-v1": {
@@ -309,7 +315,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "40_Evergreens/How something is named effects people's perception of it.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -421,6 +427,7 @@
   },
   "active": "8aacba09f892b3a8",
   "lastOpenFiles": [
+    "40_Evergreens/How something is named effects people's perception of it.md",
     "10_Sources/notes_The Dawn of Everything.md",
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
     "40_Evergreens/Anger fuels change.md",
@@ -429,7 +436,6 @@
     "40_Evergreens/Searching for THE answer is dangerous.md",
     "40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md",
     "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
-    "00_Meta/Personal/To my parents.md",
-    "10_Sources/Readwise/Articles/articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md"
+    "00_Meta/Personal/To my parents.md"
   ]
 }
