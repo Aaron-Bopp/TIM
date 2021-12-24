@@ -1,6 +1,11 @@
 #node/personal 
-# 2021
+
 ## December
+
+### 2021-12-24 12:41 am
+
+My religious upbringing is core to my understanding of the world
+
 ### 2021-12-21 12:17 pm
 
 I am feeling really anxious. I am not quite sure why. It came as I was thinking about n[[note writing]], specifically differences between my system and the existing systems that it is based off of. I am going to see someone later, so it may just be [[social anxiety]], but it feels like something deeper. Like that I feel that I should be worried about something.
@@ -52,7 +57,7 @@ Am I dissasociating? Am I just dramatic? Is imagining people reading this after 
 Everything is a lie. Everthing is true
 
 pain
-%%Looking back now this just reads as [[over-stimulation]] 2021/12/12 I was in the middle of the one act at the time%%
+%%Looking back now this just reads as [[over-stimulation]] I was in the middle of the one act at the time - 2021/12/12 %%
 
 ## June
 
@@ -117,7 +122,8 @@ I have a similar feeling where even when I'm happy and enjoying myself it feels 
 
 The thought of idk how much pain im feeling/idk why im crying comes from [[my parents]] always discounting my crying by saying i have a fast cry trigger but I think that made me think that [[my emotions]] weren't natural and so I hid them and shut them off
 
-#TO/PONDERED/ME (yeah you're just trans hun 10/25/2021) Because I had so much trouble controlling [[my emotions]] as a child, I still view emotionality as weakness and there might be some misogyny there???? 
+Because I had so much trouble controlling [[my emotions]] as a child, I still view emotionality as weakness and there might be some misogyny there???? 
+%% #TO/PONDERED/ME (yeah you're just trans hun 10/25/2021) %%
 
 I isolate myself when I am sad or depressed because I am used to [[my emotions]] being invalidated. Did I say I don't know why I'm crying so often because if I said how I felt [[my emotions]] were invalidated or just because I actually didn't know? Why I am constantly searching for validation? What the fuck is even being validated? I never got an answer for why I was crying, so I just stopped crying. 
 
@@ -129,9 +135,9 @@ Do I wanna be the girl or do I just want the [[emotional validation]] that girls
 
 is it okay to want [[emotional validation]]? Do I want validation from people I know or people I don't know?
 
-#TO/PONDERED/ME ([[You can be taught to invalidate your own emotions]])   [[Emotional validation]] has been on my mind a lot recently. It feels like a lot of my worse behaviors are built around [[emotional validation]]. I cut myself off and refuse to reach out for help because I afraid that [[my emotions]] won't be validated. Of course this is a never ending circle 
+[[Emotional validation]] has been on my mind a lot recently. It feels like a lot of my worse behaviors are built around [[emotional validation]]. I cut myself off and refuse to reach out for help because I afraid that [[my emotions]] won't be validated. Of course this is a never ending circle
+%%([[You can be taught to invalidate your own emotions]]) %%
 
-#TO/PONDERED/ME 
 Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
 %%
 it's [[masking]], lol 7/29/21 
@@ -139,6 +145,7 @@ also you're autistic dumbass 10/25/21
 %%
 
 ## April
+
 ### April 2 
 
 To [[my parents]], //My [[trauma]] manifesto

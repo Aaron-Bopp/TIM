@@ -26,8 +26,8 @@ deliveredBy:
 ##### ^258309231
 
   
-###### ^258309231q
-> This mood makes itself felt everywhere, politically, socially, and philosophically. We are living in what the Greeks called the καιρóς (Kairos) – the right time – for a “metamorphosis of the gods,” i.e. of the fundamental principles and symbols.’ C. G. Jung, The Undiscovered Self (1958) 
+###### 
+> This mood makes itself felt everywhere, politically, socially, and philosophically. We are living in what the Greeks called the καιρóς (Kairos) – the right time – for a “metamorphosis of the gods,” i.e. of the fundamental principles and symbols.’ C. G. Jung, The Undiscovered Self (1958) ^258309231q
   [^258309231]
 
 [^258309231]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=109

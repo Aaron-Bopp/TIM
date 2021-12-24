@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "joethei/obsidian-tts",
     "SkepticMystic/nlp",
     "horriblename/preview-mode-keybinds-obsidian",
     "chrisgrieser/obsidian-smarter-md-hotkeys",

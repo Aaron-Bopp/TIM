@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c7d0e55dd2298e9a",
+        "id": "1b04079056d179ab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
-            "mode": "preview",
+            "file": "00_Meta/Personal/Journal.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -19,13 +19,13 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "c7d0e55dd2298e9a",
+              "leaf": "1b04079056d179ab",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Journal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "c7d0e55dd2298e9a",
+              "leaf": "1b04079056d179ab",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+                "file": "00_Meta/Personal/Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+                "file": "00_Meta/Personal/Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md"
+                "file": "00_Meta/Personal/Journal.md"
               }
             },
             "pane-relief:history-v1": {
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+                "file": "00_Meta/Personal/Journal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -372,19 +372,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706
+    "width": 706,
+    "collapsed": true
   },
-  "active": "c7d0e55dd2298e9a",
+  "active": "1b04079056d179ab",
   "lastOpenFiles": [
-    "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+    "00_Meta/Personal/Journal.md",
+    "Untitled.md",
+    "30_Topics/35_Outlines/human experience.md",
+    "40_Evergreens/The brain is powerful enough to create supernatural experiences.md",
     "10_Sources/notes_The Dawn of Everything.md",
+    "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
     "30_Topics/31_Stubs/Indigenous.md",
     "30_Topics/32_Terms/Johnny Decimal System.md",
     "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
-    "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md",
-    "40_Evergreens/How something is named effects people's perception of it.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md"
+    "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md"
   ]
 }
