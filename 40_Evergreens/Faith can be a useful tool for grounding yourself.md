@@ -10,6 +10,8 @@ sr-ease: 192
 
 I think that [[religion]] can be a healthy way to avoid the uncertainty of not knowing the answer to [[The three main questions of life]] and can lead to a happy and fruitful life.
 
+Prayer is basically [[meditation]] which has been shown to bring about supernatural experiences. ( #TO/DO/CITE )  
+
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[Our brain will do anything it can to protect itself]]
 - [[Faith is an abstraction of cognitive dissonance]]

@@ -2,7 +2,6 @@
 created: 2021-10-18
 aliases:
   - What is the difference between hope and optimism
-
 tags: node/evergreen, node/question
 sr-due: 2021-12-24
 sr-interval: 35
@@ -16,6 +15,8 @@ sr-ease: 230
 - [[Realism must acknowledge optimism's existence and effectiveness]]
 - [[Happiness is enlightenment and sadness is delusion]]
 - [[What is the cognitive effect of living in an unjust world]]
+- [[Transformative justice is the alternative to punitive justice]]
+- [[Be the change you want to see in the world]]
 
 ### <hr class="footnote"/>
 

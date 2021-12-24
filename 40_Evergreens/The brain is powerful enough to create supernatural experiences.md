@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-12-24
-sr-interval: 32
-sr-ease: 230
+sr-due: 2022-01-07
+sr-interval: 14
+sr-ease: 210
 ---
 
 #### [[The brain is powerful enough to create supernatural experiences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,15 +15,14 @@ These experiences have often been core to [[human advancement]] and [[self-actua
 [^1]:  [[Human's will find explanations for inexplainable things]]
 [^2]: [[The materialistic view of religions examines why humans invented and clung to religion]]
 
-The driver behind this biological process could be a [[morality|moral]] reaction. How do we justify killing another person? God told us to do it. How do we justify killing and entire village to steal their resources? They didn't worship the same god as us. [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in an unjust world?]]
-
 ##### Cause:: [[Faith is an abstraction of cognitive dissonance]]
 
-While supernatural experiences are rooted in our [[Psychology]], [[Christianity]] has commodified supernatural experiences for monetary gain. [[Capitalism]] has accelerated this and created modern [[Evangelicalism | charismatic church]] services which are the perfect environments for [[dissociation]] and [[panic attacks]]. It's all powered by [[guilt]], legitimate belief in a all-powerful god, and often emotional [[trauma]], and lots and lots of money. This is why Gcharismatic church's are especially prone to [[religious trauma]]: [[Religious concepts are often too powerful for a child's mind]] 
+The driver behind this biological process could be a [[morality|moral]] reaction. How do we justify killing another person? God told us to do it. How do we justify killing and entire village to steal their resources? They didn't worship the same god as us. [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in an unjust world?]]
 
-Not every modern Christian practice is bad. Prayer is basically [[meditation]] which has been shown to bring about supernatural experiences. This is one aspect of [[religion]] that has mostly positive impacts, but [[The church will fail if christians keep aligning themselves with hate instead of love]]
-
-What does this mean for the bible? Moses could have seen a burning bush. Why not? [[The materialistic view of religions examines why humans invented and clung to religion]]
+What does this mean for the bible? Moses could have seen a burning bush. Why not? but in modern times 
+[[People have been conditioned to believe the bible has to be infallible]]. 
+This moral reaction has been used to take advantage of [[Christianity|Christian's]] [[empathy]]:
+[[Evangelicalism has commodified faith for profit]]
 
 ### <hr class="footnote"/>
 

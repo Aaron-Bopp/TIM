@@ -3,9 +3,9 @@ created: 2021-12-15
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-24
-sr-interval: 2
-sr-ease: 190
+sr-due: 2021-12-25
+sr-interval: 1
+sr-ease: 170
 ---
 
 #### [[The Christian worldview is incompatible with most other worldviews]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

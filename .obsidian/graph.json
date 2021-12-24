@@ -1,12 +1,26 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#node",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#EVER/SPROUT/WATER",
+      "color": {
+        "a": 1,
+        "rgb": 3669760
+      }
+    },
+    {
+      "query": "tag:#EVER/SPROUT/CULTIVATE",
+      "color": {
+        "a": 1,
+        "rgb": 15626932
+      }
+    },
     {
       "query": "tag:#node/evergreen/technique",
       "color": {
@@ -48,32 +62,18 @@
         "a": 1,
         "rgb": 65535
       }
-    },
-    {
-      "query": "tag:#EVER/SPROUT/WATER",
-      "color": {
-        "a": 1,
-        "rgb": 3669760
-      }
-    },
-    {
-      "query": "tag:#EVER/SPROUT/CULTIVATE",
-      "color": {
-        "a": 1,
-        "rgb": 15626932
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 0.465671641791045,
+  "nodeSizeMultiplier": 0.388235294117647,
   "lineSizeMultiplier": 0.428227941176471,
   "collapse-forces": false,
-  "centerStrength": 0.500737463126844,
+  "centerStrength": 0.490588235294118,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6236522376815746,
-  "close": false
+  "scale": 0.3541183531553583,
+  "close": true
 }

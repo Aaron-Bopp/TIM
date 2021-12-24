@@ -25,6 +25,10 @@ You cannot fully [[blame]] them for this, as our brains are not really built to 
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
 - [[The Christian worldview is incompatible with most other worldviews]]
+
+##### Counter:: [[faith]] is no longer enough to satisfy people's [[cognitive dissonance]]
+
+![[The church will fail if christians keep aligning themselves with hate instead of love#^128168]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

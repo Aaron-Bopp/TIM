@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-12-24
-sr-interval: 3
-sr-ease: 152
+sr-due: 2021-12-26
+sr-interval: 2
+sr-ease: 132
 ---
 
 #### [[People have been conditioned to believe the bible has to be infallible]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,6 +15,9 @@ This has been built up as major part in [[Christianity|Christians]] psyches and 
 This encourages [[Searching for THE answer is dangerous]]
 - [[The bible is god breathed]]
 - [[The biblical Christian God is evil and does not deserve to be worshipped]]
+- [[Faith is an abstraction of cognitive dissonance]]
+- [[Faith can be a useful tool for grounding yourself]]
+- [[Non-faith issues have been co-opted to keep people in the Christian church]]
 
 ### <hr class="footnote"/>
 

@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: node/evergreen, node/personal 
-sr-due: 2021-12-24
-sr-interval: 16
+sr-due: 2022-01-28
+sr-interval: 35
 sr-ease: 204
 ---
 
@@ -12,8 +12,8 @@ While I am an atheist, I don't really try to convert people, I still have lots o
 
 In my experience most people's [[worldview]]s are not inherently objectionable,
 it is their apathy towards [[injustice]], or misguided support of it that is objectionable.
-It's only when I find that their [[worldview]] is guiding them towards these things that I attack it:
-[[You will never be pushed to understand marginalization unless you are part of a marginalized group]].
+^[[[You will never be pushed to understand marginalization unless you are part of a marginalized group]]]
+It's only when I find that their [[worldview]] is guiding them towards these things that I attack it: [[Transformative justice is the alternative to punitive justice]]
 
 In general, people do not like to view themselves as the bad guy, so if I can put myself in their shoes I do not see them as the bad guy either.
 ^[[[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]]
@@ -24,8 +24,11 @@ My ability to empathize cannot get in the way of holding people accountable for 
 that either directly or indirectly hurt others:
 [[Empathy does not disallow judgment]]
 
-[[Disambiguation - empathy, sympathy, compassion, pity]]
-[[Is cognitive dissonance the reason for harmful behaviors]]
+In addition, [[Realism must acknowledge optimism's existence and effectiveness]], if [[Christianity|Christians]] have done good in this world I must acknowledge it, but that does not mean I excuse harmful behaviors: [[Empathy does not disallow judgment]]. 
+Especially in the case of children: [[Religious concepts are often too powerful for a child's mind]]
+
+- [[Disambiguation - empathy, sympathy, compassion, pity]]
+- [[Is cognitive dissonance the reason for harmful behaviors]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 
