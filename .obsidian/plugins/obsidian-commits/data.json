@@ -9383,7 +9383,7 @@
     "10_Sources/notes_The Dawn of Everything.md": {
       "size": 4367,
       "tags": 2,
-      "links": 74
+      "links": 76
     },
     "10_Sources/Readwise/Articles/articles_Understanding human collective behaviour  Autistic Collaboration.md": {
       "size": 996,
@@ -9665,7 +9665,7 @@
     "/": {
       "Refactor": 1810,
       "Create": 2195,
-      "Link": 3911,
+      "Link": 3912,
       "Expand": 397
     },
     "40_Evergreens": {
@@ -9690,7 +9690,7 @@
       "10": 184,
       "11": 163,
       "12": 418,
-      "13": 243,
+      "13": 244,
       "14": 2294,
       "15": 132,
       "16": 889,
@@ -9735,7 +9735,7 @@
       "Tue": 889,
       "Wed": 1524,
       "Thu": 442,
-      "Fri": 281,
+      "Fri": 282,
       "Sat": 0,
       "Sun": 4867
     },
@@ -10058,6 +10058,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/language.md\"> language </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit.md\"> What is language's fundamental unit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
@@ -10099,8 +10100,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus.md\"> articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From 🐸 Frog Time 🐸.md\"> tweets_Tweets From 🐸 Frog Time 🐸 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",

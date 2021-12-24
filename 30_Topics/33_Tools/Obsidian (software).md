@@ -15,11 +15,11 @@ Obsidian is a markdown editor that includes many features that are valuable to [
 
 
 ## Getting Started
-- Okay I didn't scroll down past the dowload link on [obsidian.md](https://obsidian.md/) until I had been using it for almost a year, but it is a really good starting point!
+- Okay I didn't scroll down past the download link on [obsidian.md](https://obsidian.md/) until I had been using it for almost a year, but it is a really good starting point!
 - [Expansive list of resources and a weekly newsletter on Obsidian](https://obsidianroundup.org/resources/.)
 - [List of resources](https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp) for learning obsidian and [[knowledge management]]
  - [The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is a community effort to collect resources
-- Excellent beginner's guide to [Zettlekassen in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
+- Excellent beginner's guide to [Zettelkasten in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
 
 ### My notes that are useful to Obsidian users
 - [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
@@ -31,7 +31,7 @@ Obsidian is a markdown editor that includes many features that are valuable to [
 ### Example Vaults
 
 - [The quantum well](https://publish.obsidian.md/myquantumwell/Knowledge+Management) academic, math-related
-- [Bullet journalling setup](https://forum.obsidian.md/t/slrvbs-journaling-setup/22346/5) from [[SIRvb]]
+- [Bullet journaling setup](https://forum.obsidian.md/t/slrvbs-journaling-setup/22346/5) from [[SIRvb]]
 - [Massive vault on almost everything](https://notes.invertedpassion.com/_Start+here_)
 - [Discord mod Leah's vault](https://publish.obsidian.md/leah/Home)
 - [Medical based notes, completely flat structure](https://publish.obsidian.md/chromatically/publish+homepage)
@@ -41,6 +41,8 @@ Obsidian is a markdown editor that includes many features that are valuable to [
 These are things that are built into obsidian:
 - [[Mermaid (software)]]
 - CodeJax
+- [[HTML]] (with stipulations, but you can use many tags directly in your notes)
+	- You can embed [[HTML]] directly into your notes which allows you to do things like have iframes display web content
 
 ### CSS
 
@@ -51,10 +53,6 @@ You can use [[CSS]] to alter the visuals of the app and add some fun and interes
     - [Position images](https://slrvb.github.io/Site/3_Nebula/ITS-Theme/ITST_Image-Positions/)
 - Themes
     - Sanctum adds pseudo-admonitions
-
-### HTML
-
-You can embed [[HTML]] directly into your notes which allows you to do things like have iframes display web content
 
 ## Plugins
 

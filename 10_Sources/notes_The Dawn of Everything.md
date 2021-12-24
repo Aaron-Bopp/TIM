@@ -38,6 +38,10 @@ Our concepts of prehistory are antiquated
 
 #### What is our understanding of other humans?
 ![[books_The Dawn of Everything#261572331]]
+### What is our understanding of how the world works?
+![[books_The Dawn of Everything#261593451]]
+![[books_The Dawn of Everything#261593449]]
+
 ##   The two stories of prehistory
 There are two main stories of prehistory
 ![[books_The Dawn of Everything#261593426]]
@@ -48,10 +52,14 @@ Humans lived in a state of innocence and then fell, largely due to the rise of [
 Modern view ![[books_The Dawn of Everything#258309236]]
 ![[books_The Dawn of Everything#261572335]]
 ![[books_The Dawn of Everything#261572348]]
+![[books_The Dawn of Everything#261593450]]
+
 ### [[Hobbesian]] view
 Humans lived in a waring state and were civilized by [[society]]
-		![[books_The Dawn of Everything#258309237]]
-		![[books_The Dawn of Everything#258309238]]
+![[books_The Dawn of Everything#258309237]]
+![[books_The Dawn of Everything#258309238]]
+Hobbes also had a [[Christianity|Christian]] persepective
+![[books_The Dawn of Everything#261593448]]
 ### State Emergence
 ![[books_The Dawn of Everything#261593419]]
 ![[books_The Dawn of Everything#261593425]]
@@ -59,6 +67,9 @@ Humans lived in a waring state and were civilized by [[society]]
 ![[books_The Dawn of Everything#261593436]]
 Trade and commerce does not equal building up of capital 
 ![[books_The Dawn of Everything#261593455]]
+
+### Emergence of [[democracy]]
+![[books_The Dawn of Everything#261593453]]
 
 ### Emergence of [[racism]]
 ![[books_The Dawn of Everything#261593454]]
@@ -125,16 +136,10 @@ We need to be able to work together
 
 ## terms
 ![[books_The Dawn of Everything#261593439]]
+![[books_The Dawn of Everything#261593452]]
 
 # Unsure
 ![[books_The Dawn of Everything#261593434]]
 
 ![[books_The Dawn of Everything#261593445]]
 # New qoutes
-
-![[books_The Dawn of Everything#261593448]]
-![[books_The Dawn of Everything#261593449]]
-![[books_The Dawn of Everything#261593450]]
-![[books_The Dawn of Everything#261593451]]
-![[books_The Dawn of Everything#261593452]]
-![[books_The Dawn of Everything#261593453]]
