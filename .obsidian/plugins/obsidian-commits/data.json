@@ -9390,11 +9390,6 @@
       "tags": 1,
       "links": 20
     },
-    "10_Sources/Readwise/Books/books_The Dawn of Everything.md": {
-      "size": 4661,
-      "tags": 1,
-      "links": 1
-    },
     "10_Sources/Readwise/Articles/articles_Understanding human collective behaviour  Autistic Collaboration.md": {
       "size": 996,
       "tags": 2,
@@ -9634,13 +9629,18 @@
       "size": 243,
       "tags": 1,
       "links": 1
+    },
+    "10_Sources/Readwise/Books/books_The Dawn of Everything.md": {
+      "size": 25870,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1795,
-      "Create": 2187,
-      "Link": 3854,
+      "Refactor": 1797,
+      "Create": 2189,
+      "Link": 3858,
       "Expand": 380
     },
     "40_Evergreens": {
@@ -9675,7 +9675,7 @@
       "20": 161,
       "21": 279,
       "22": 263,
-      "23": 297
+      "23": 305
     },
     "40_Evergreens": {
       "0": 44,
@@ -9709,7 +9709,7 @@
       "Mon": 310,
       "Tue": 889,
       "Wed": 1524,
-      "Thu": 434,
+      "Thu": 442,
       "Fri": 192,
       "Sat": 0,
       "Sun": 4867
@@ -9780,6 +9780,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Single issue voters are anti-democratic.md\"> Single issue voters are anti-democratic </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/humanity.md\"> humanity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/progress.md\"> progress </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From 🐸 Frog Time 🐸.md\"> tweets_Tweets From 🐸 Frog Time 🐸 </a>",
@@ -9828,9 +9830,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rich text formatting.md\"> rich text formatting </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/human interaction.md\"> human interaction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research.md\"> Roam Research </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Roam Research (software).md\"> Roam Research (software) </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
@@ -9886,6 +9886,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdf.md\"> asdf </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/progress.md\"> progress </a>",
@@ -9934,9 +9936,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherently political.md\"> black identity is inherently political </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseparable from other identities.md\"> black identity is inseparable from other identities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md\"> How Masculinity and the black identity model are represented in 'Moonlight' </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9970,6 +9970,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/mnemonic medium.md\"> mnemonic medium </a>",
         "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Notes not in outline.md\"> Notes not in outline </a>",
@@ -10018,11 +10020,11 @@
         "<a class=\"internal-link\" href=\"test1.md\"> test1 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/test1.md\"> test1 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/test2.md\"> test2 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/test1.md\"> test1 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/test2.md\"> test2 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Knowledge of the world is painful.md\"> [Knowledge of the world is painful </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/test1.md\"> test1 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
@@ -10071,9 +10073,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",

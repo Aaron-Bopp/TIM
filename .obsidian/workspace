@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8aacba09f892b3a8",
+        "id": "c7d0e55dd2298e9a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/notes_The Dawn of Everything.md",
-            "mode": "source",
+            "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -19,124 +19,16 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "8aacba09f892b3a8",
+              "leaf": "c7d0e55dd2298e9a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Indigenous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "8aacba09f892b3a8",
+              "leaf": "c7d0e55dd2298e9a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Johnny Decimal System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":31},\"to\":{\"line\":20,\"ch\":31}},\"scroll\":10.28571418840058}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How something is named effects people's perception of it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":1},\"to\":{\"line\":14,\"ch\":1}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/sexism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Andy Matuschak.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Andy Matuschak.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":2},\"to\":{\"line\":16,\"ch\":2}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/language.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":33},\"to\":{\"line\":11,\"ch\":33}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Happiness is enlightenment and sadness is delusion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/self.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -189,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md"
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md"
               }
             },
             "pane-relief:history-v1": {
@@ -361,8 +253,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "84f4f33f118f4527",
@@ -374,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -483,8 +374,9 @@
     "direction": "horizontal",
     "width": 706
   },
-  "active": "8aacba09f892b3a8",
+  "active": "c7d0e55dd2298e9a",
   "lastOpenFiles": [
+    "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
     "10_Sources/notes_The Dawn of Everything.md",
     "30_Topics/31_Stubs/Indigenous.md",
     "30_Topics/32_Terms/Johnny Decimal System.md",
@@ -493,7 +385,6 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md",
     "40_Evergreens/How something is named effects people's perception of it.md",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md",
-    "00_Meta/Personal/I like the walls I put up, they have posters on them.md"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md"
   ]
 }

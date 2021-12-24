@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2442793,
+  "lastSavedStatusID": 2443353,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -333,7 +333,7 @@
     "10_Sources/Readwise/Articles/articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus.md": "12405416",
     "10_Sources/Readwise/Tweets/tweets_Tweets From 🐸 Frog Time 🐸.md": "12417841"
   },
-  "reimportShowConfirmation": true,
+  "reimportShowConfirmation": false,
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false
 }
