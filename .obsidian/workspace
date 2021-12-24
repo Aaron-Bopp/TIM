@@ -4,62 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "066bd2fe553d1df4",
-        "type": "split",
-        "children": [
-          {
-            "id": "1e396bcac307dd35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "1e396bcac307dd35",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":132,\"ch\":0},\"to\":{\"line\":132,\"ch\":0}},\"scroll\":118.07142961146882}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "7ac9f3b8465ec307",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "7ac9f3b8465ec307",
-                  "group": null,
-                  "state": "{\"type\":\"outline\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7ac9f3b8465ec307",
-                  "group": null,
-                  "state": "{\"type\":\"outline\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\"}}",
-                  "eState": "{}"
-                }
-              ]
-            }
+        "id": "1e396bcac307dd35",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/How to pursue the positive things in life.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What makes a note evergreen.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":19.273171029439787}"
+            },
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":3.2450703365702025}"
+            },
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/1968 was a major setback for the American left.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Every person has an experience of gender.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Using github with Unity projects.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You're never sure if you're trans.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":8.52571498325893}"
+            },
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/Spaced Repetition Inbox.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":2.513753702920017}"
+            },
+            {
+              "leaf": "1e396bcac307dd35",
+              "group": "a7bece2571735701",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/TEND/WEED",
+                "query": "tag:#node/question",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "40_Evergreens/How to pursue the positive things in life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -142,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "40_Evergreens/How to pursue the positive things in life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,12 +187,12 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -301,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "40_Evergreens/How to pursue the positive things in life.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -408,20 +428,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406,
-    "collapsed": true
+    "width": 643.2000122070312
   },
   "active": "1e396bcac307dd35",
   "lastOpenFiles": [
-    "10_Sources/notes_The Dawn of Everything.md",
-    "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
-    "30_Topics/33_Tools/Obsidian (software).md",
-    "40_Evergreens/The way systems work can create cognitive bias.md",
+    "40_Evergreens/How to pursue the positive things in life.md",
+    "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
+    "40_Evergreens/What makes a note evergreen.md",
+    "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+    "40_Evergreens/1968 was a major setback for the American left.md",
+    "40_Evergreens/Every person has an experience of gender.md",
+    "40_Evergreens/Using github with Unity projects.md",
+    "40_Evergreens/You're never sure if you're trans.md",
     "20_Entry/22 Note by status/Spaced Repetition Inbox.md",
-    "00_Meta/Templates/Get highlight embeds.md",
-    "30_Topics/31_Stubs/language.md",
-    "10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md",
-    "40_Evergreens/A healthy second brain requires a surplus of entry points.md",
-    "40_Evergreens/What is language's fundamental unit.md"
+    "10_Sources/notes_The Dawn of Everything.md"
   ]
 }

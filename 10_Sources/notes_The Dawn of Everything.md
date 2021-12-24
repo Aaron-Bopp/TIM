@@ -8,45 +8,54 @@ type:
 ---
 
 ##### [[notes_The Dawn of Everything ]]
- **Creator**::  ^874916
+ **Creator**:: 
  
 **Source**:: [[books_The Dawn of Everything]]
 
 **Related**:: 
+
+This is a working outline, so I am not going to try and preserve my current understanding as I ingest future chapters. The idea is that these concepts will be present across the book, and can later be abstracted into full fledged [[evergreen notes]]
 # Concept Outline
-## [[Humans have ignored the injustice of the world]]
- Most people only think about history to examine why things have gone wrong, they don't look to the history for answers
+## Modern views of ancient history
+
+### People easily ignore history
  ![[books_The Dawn of Everything#258309232]]
- we do question whether humans are innately good or evil, but those are human concepts
+ Most people only think about history to examine why things have gone wrong, they don't look to the history for answers. [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]] and people are not putting themselves in the shoes of ancient humans
+### People frame ancient history to serve their interests
+
+![[books_The Dawn of Everything#258309241]]
+ We do question whether humans are innately good or evil, but those are human concepts
+ 
  ![[books_The Dawn of Everything#258309233]]
-	
+It is far more important to most people to get what they want, rather than to seek truth.
 ![[books_The Dawn of Everything#261572330]]
 
-### People are willing to accept incomplete answers when it comes to history
-![[books_The Dawn of Everything#258309232q]]
-Our concepts of prehistory are antiquated
-![[books_The Dawn of Everything#258309235]]
-![[books_The Dawn of Everything#258309241]]
-![[books_The Dawn of Everything#261572338]]
 #### Bad assumptions
-![[books_The Dawn of Everything#261572343]]
-![[books_The Dawn of Everything#261572344]]
+![[books_The Dawn of Everything#261572343q]]
+![[books_The Dawn of Everything#261572344q]]
 ![[books_The Dawn of Everything#261572345]]
 ![[books_The Dawn of Everything#261572346]]
 ![[books_The Dawn of Everything#261593433]]
 
 
+### People are willing to accept incomplete answers when it comes to history
+![[books_The Dawn of Everything#258309232q]]
+#### Our concepts of prehistory are antiquated
+Many of the common conceptions of early human's have not changed since the [[enlightenment]]. 
+![[books_The Dawn of Everything#258309235]]
+![[books_The Dawn of Everything#258309241]]
+![[books_The Dawn of Everything#261572338]]
 #### What is our understanding of other humans?
 ![[books_The Dawn of Everything#261572331]]
-### What is our understanding of how the world works?
+#### What is our understanding of how the world works?
 ![[books_The Dawn of Everything#261593451]]
 ![[books_The Dawn of Everything#261593449]]
 
-##   The two stories of prehistory
-There are two main stories of prehistory
+### The two stories of prehistory
+There are two main stories of prehistory.
 ![[books_The Dawn of Everything#261593426]]
 
-### [[Rousseauian]] view
+#### [[Rousseauian]] view
 Humans lived in a state of innocence and then fell, largely due to the rise of [[agriculture]]
  Christian view ![[books_The Dawn of Everything#258309234]]
 Modern view ![[books_The Dawn of Everything#258309236]]
@@ -54,47 +63,57 @@ Modern view ![[books_The Dawn of Everything#258309236]]
 ![[books_The Dawn of Everything#261572348]]
 ![[books_The Dawn of Everything#261593450]]
 
-### [[Hobbesian]] view
+#### [[Hobbesian]] view
 Humans lived in a waring state and were civilized by [[society]]
 ![[books_The Dawn of Everything#258309237]]
 ![[books_The Dawn of Everything#258309238]]
 Hobbes also had a [[Christianity|Christian]] persepective
 ![[books_The Dawn of Everything#261593448]]
+
+### We believe that human's are evil
+![[books_The Dawn of Everything#261572334]]
+
+## Origins of [[humanity]]
+![[books_The Dawn of Everything#261593420]]
+
 ### State Emergence
 ![[books_The Dawn of Everything#261593419]]
 ![[books_The Dawn of Everything#261593425]]
+
+### Emergence of [[racism]]
+![[books_The Dawn of Everything#261593454]]
+
+### Emergence of [[democracy]]
+![[books_The Dawn of Everything#261593453]]
+
+### Early human behavior was massively complex
+![[books_The Dawn of Everything#261593422]]
+#### Examples
+[[Romito 2]]
+![[books_The Dawn of Everything#261593421]]
+
+[[Yanomami]] ![[books_The Dawn of Everything#261593423]]
+
 ### Emergence of [[capitalism]]
 ![[books_The Dawn of Everything#261593436]]
 Trade and commerce does not equal building up of capital 
 ![[books_The Dawn of Everything#261593455]]
 
-### Emergence of [[democracy]]
-![[books_The Dawn of Everything#261593453]]
+### Early [[society]] is both familiar and unfamiliar
+#### Did early societies have less [[inequity]]?
+![[books_The Dawn of Everything#261593431]]
 
-### Emergence of [[racism]]
-![[books_The Dawn of Everything#261593454]]
+## Human behavior
+### Highly evolutionary view
+![[books_The Dawn of Everything#261593424]]
 
-### We believe that human's are evil
-![[books_The Dawn of Everything#261572334]]
-## Origins of [[humanity]]
-![[books_The Dawn of Everything#261593420]]
-### Early human behavior was massively complex
-![[books_The Dawn of Everything#261593422]]
-[[Yanomami]] ![[books_The Dawn of Everything#261593423]]
-
-#### Examples
-![[books_The Dawn of Everything#261593421]]
 ###  [[Humans in prehistory were not confined to small egalitarian bands]]
 ![[books_The Dawn of Everything#258309241]]
-### Did early societies have less [[inequity]]
-![[books_The Dawn of Everything#261593431]]
 
 ### [[Agriculture does not enforce ranks and hierarchies]]
 ![[books_The Dawn of Everything#258309240]]
 ![[books_The Dawn of Everything#258309239]]
-## Human behavior
-### Highly evolutionary view
-![[books_The Dawn of Everything#261593424]]
+
 ### Respect for the [[subconscious]]
 ![[books_The Dawn of Everything#261593439]]
 ### Respect for travellers 
