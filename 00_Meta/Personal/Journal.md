@@ -142,6 +142,7 @@ Do I get tired of human interactions over time because I am an introvert or is t
 %%
 it's [[masking]], lol 7/29/21 
 also you're autistic dumbass 10/25/21
+[very meta](https://twitter.com/theaboppy/status/1474271404136845314) 12/24/21
 %%
 
 ## April
