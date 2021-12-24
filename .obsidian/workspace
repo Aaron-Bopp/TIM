@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
+            "file": "10_Sources/notes_The Dawn of Everything.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,110 +21,122 @@
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.741071607233312}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Indigenous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.42857145289985543}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Johnny Decimal System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":72},\"to\":{\"line\":12,\"ch\":72}},\"scroll\":2.857142905799711}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are meant to be broken.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":14},\"to\":{\"line\":16,\"ch\":14}},\"scroll\":5.28571444384906}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":23},\"to\":{\"line\":18,\"ch\":23}},\"scroll\":1.7500000638621205}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":88},\"to\":{\"line\":22,\"ch\":88}},\"scroll\":0}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.07142857370936144}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The internet allows niche topics to flourish.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":31},\"to\":{\"line\":14,\"ch\":31}},\"scroll\":12.350000091961451}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How something is named effects people's perception of it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":26.96527463814617}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.1464788754221419}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anger fuels change.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Searching for THE answer is dangerous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":9.928571325175614}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":31},\"to\":{\"line\":20,\"ch\":31}},\"scroll\":10.28571418840058}"
             },
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":2},\"to\":{\"line\":13,\"ch\":2}},\"scroll\":7.857142990949205}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How something is named effects people's perception of it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":1},\"to\":{\"line\":14,\"ch\":1}}}"
             },
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":11.988235473632812}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":2.377142769949777}"
-            },
-            {
-              "leaf": "8aacba09f892b3a8",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/sexism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Andy Matuschak.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Andy Matuschak.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":2},\"to\":{\"line\":16,\"ch\":2}}}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/language.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":33},\"to\":{\"line\":11,\"ch\":33}}}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Happiness is enlightenment and sadness is delusion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/self.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -177,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/When should you forgive people who don't deserve it.md"
+                "file": "10_Sources/notes_The Dawn of Everything.md"
               }
             },
             "pane-relief:history-v1": {
@@ -362,7 +374,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -473,15 +485,15 @@
   },
   "active": "8aacba09f892b3a8",
   "lastOpenFiles": [
-    "40_Evergreens/When should you forgive people who don't deserve it.md",
-    "40_Evergreens/Converting existing file formats to plaintext.md",
-    "40_Evergreens/The way systems work can create cognitive bias.md",
-    "40_Evergreens/What are the starter types of note taking.md",
-    "40_Evergreens/Stupid rules are meant to be broken.md",
-    "40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md",
-    "40_Evergreens/We are confined to the tools of our time.md",
-    "30_Topics/31_Stubs/progress.md",
-    "40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md",
-    "40_Evergreens/Are Jesus' teachings anti-thetical to the modern Christian church.md"
+    "10_Sources/notes_The Dawn of Everything.md",
+    "30_Topics/31_Stubs/Indigenous.md",
+    "30_Topics/32_Terms/Johnny Decimal System.md",
+    "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
+    "10_Sources/Qoutes/Being cool and marketable isn't the same as having rights.md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md",
+    "40_Evergreens/How something is named effects people's perception of it.md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Mac.md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md",
+    "00_Meta/Personal/I like the walls I put up, they have posters on them.md"
   ]
 }

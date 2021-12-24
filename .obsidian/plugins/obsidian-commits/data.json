@@ -8848,7 +8848,7 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md": {
       "size": 683,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md": {
       "size": 773,
@@ -9225,11 +9225,6 @@
       "tags": 1,
       "links": 3
     },
-    "10_Sources/Qoutes/I like the walls I put up, they have posters on them.md": {
-      "size": 243,
-      "tags": 1,
-      "links": 1
-    },
     "40_Evergreens/Whiteness was created to marginalize people of color.md": {
       "size": 616,
       "tags": 2,
@@ -9393,7 +9388,7 @@
     "10_Sources/notes_The Dawn of Everything.md": {
       "size": 1318,
       "tags": 1,
-      "links": 19
+      "links": 20
     },
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md": {
       "size": 4661,
@@ -9596,9 +9591,9 @@
       "links": 1
     },
     "40_Evergreens/How something is named effects people's perception of it.md": {
-      "size": 507,
+      "size": 589,
       "tags": 2,
-      "links": 5
+      "links": 7
     },
     "00_Meta/Personal/To my parents.md": {
       "size": 1989,
@@ -9634,20 +9629,25 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "00_Meta/Personal/I like the walls I put up, they have posters on them.md": {
+      "size": 243,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1794,
+      "Refactor": 1795,
       "Create": 2187,
-      "Link": 3851,
-      "Expand": 379
+      "Link": 3854,
+      "Expand": 380
     },
     "40_Evergreens": {
       "Refactor": 143,
       "Create": 25,
-      "Link": 340,
-      "Expand": 199
+      "Link": 341,
+      "Expand": 200
     }
   },
   "dailyCommits": {
@@ -9673,8 +9673,8 @@
       "18": 206,
       "19": 196,
       "20": 161,
-      "21": 278,
-      "22": 259,
+      "21": 279,
+      "22": 263,
       "23": 297
     },
     "40_Evergreens": {
@@ -9700,7 +9700,7 @@
       "19": 15,
       "20": 21,
       "21": 49,
-      "22": 10,
+      "22": 12,
       "23": 59
     }
   },
@@ -9709,7 +9709,7 @@
       "Mon": 310,
       "Tue": 889,
       "Wed": 1524,
-      "Thu": 429,
+      "Thu": 434,
       "Fri": 192,
       "Sat": 0,
       "Sun": 4867
@@ -9718,7 +9718,7 @@
       "Mon": 61,
       "Tue": 144,
       "Wed": 144,
-      "Thu": 15,
+      "Thu": 17,
       "Fri": 8,
       "Sat": 0,
       "Sun": 335
@@ -9727,6 +9727,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/To my parents.md\"> To my parents </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/To my parents.md\"> To my parents </a>",
@@ -9776,8 +9777,7 @@
         "<a class=\"internal-link\" href=\"Apartment hunt.md\"> Apartment hunt </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Single issue voters are anti-democratic.md\"> Single issue voters are anti-democratic </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Single issue voters are anti-democratic.md\"> Single issue voters are anti-democratic </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/humanity.md\"> humanity </a>",
@@ -9833,6 +9833,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Roam Research (software).md\"> Roam Research (software) </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the Christian church.md\"> Non-faith issues have been co-opted to keep people in the Christian church </a>",
@@ -9882,8 +9883,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdf.md\"> asdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdfasdf.md\"> asdfasdfasdfasdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdf.md\"> asdf </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
@@ -10023,6 +10023,9 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/[Knowledge of the world is painful.md\"> [Knowledge of the world is painful </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus.md\"> articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus </a>",
@@ -10070,10 +10073,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
@@ -10185,6 +10185,7 @@
     "40_Evergreens": {
       "Expanded": [
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -10233,8 +10234,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Flamingo Pose Meditation.md\"> Flamingo Pose Meditation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10407,6 +10407,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
@@ -10456,8 +10457,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Capitalism necessitates class division.md\"> Capitalism necessitates class division </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
