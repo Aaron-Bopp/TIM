@@ -3,9 +3,9 @@ created: 2021-12-11
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-23
-sr-interval: 2
-sr-ease: 190
+sr-due: 2021-12-24
+sr-interval: 1
+sr-ease: 170
 ---
 
 #### [[What are the starter types of note taking]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

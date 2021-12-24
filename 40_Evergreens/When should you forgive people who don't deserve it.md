@@ -22,5 +22,3 @@ sr-ease: 170
 
 **Topics**:: [[self-actualization]], [[fairness]], [[love]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

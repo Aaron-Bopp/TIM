@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/How something is named effects people's perception of it.md",
+            "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,62 @@
             {
               "leaf": "8aacba09f892b3a8",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.741071607233312}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.42857145289985543}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":72},\"to\":{\"line\":12,\"ch\":72}},\"scroll\":2.857142905799711}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are meant to be broken.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":14},\"to\":{\"line\":16,\"ch\":14}},\"scroll\":5.28571444384906}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":23},\"to\":{\"line\":18,\"ch\":23}},\"scroll\":1.7500000638621205}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":88},\"to\":{\"line\":22,\"ch\":88}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0.07142857370936144}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The internet allows niche topics to flourish.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":31},\"to\":{\"line\":14,\"ch\":31}},\"scroll\":12.350000091961451}"
+            },
+            {
+              "leaf": "8aacba09f892b3a8",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How something is named effects people's perception of it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
             },
             {
               "leaf": "8aacba09f892b3a8",
@@ -123,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/How something is named effects people's perception of it.md",
+                "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -156,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/How something is named effects people's perception of it.md",
+                "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -202,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/How something is named effects people's perception of it.md"
+                "file": "40_Evergreens/When should you forgive people who don't deserve it.md"
               }
             },
             "pane-relief:history-v1": {
@@ -283,27 +338,19 @@
             }
           },
           {
-            "id": "7572170b53174850",
+            "id": "dde155eaf0d2b7b7",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "RSS_FEED",
               "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             }
-          },
-          {
-            "id": "dde155eaf0d2b7b7",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "84f4f33f118f4527",
@@ -315,7 +362,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/How something is named effects people's perception of it.md",
+                "file": "40_Evergreens/When should you forgive people who don't deserve it.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -422,20 +469,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706,
-    "collapsed": true
+    "width": 706
   },
   "active": "8aacba09f892b3a8",
   "lastOpenFiles": [
-    "40_Evergreens/How something is named effects people's perception of it.md",
-    "10_Sources/notes_The Dawn of Everything.md",
-    "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
-    "40_Evergreens/Anger fuels change.md",
-    "20_Entry/24 Vault Stats/Word count Evergreens.md",
-    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
-    "40_Evergreens/Searching for THE answer is dangerous.md",
-    "40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md",
-    "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
-    "00_Meta/Personal/To my parents.md"
+    "40_Evergreens/When should you forgive people who don't deserve it.md",
+    "40_Evergreens/Converting existing file formats to plaintext.md",
+    "40_Evergreens/The way systems work can create cognitive bias.md",
+    "40_Evergreens/What are the starter types of note taking.md",
+    "40_Evergreens/Stupid rules are meant to be broken.md",
+    "40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md",
+    "40_Evergreens/We are confined to the tools of our time.md",
+    "30_Topics/31_Stubs/progress.md",
+    "40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md",
+    "40_Evergreens/Are Jesus' teachings anti-thetical to the modern Christian church.md"
   ]
 }

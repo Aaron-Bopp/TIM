@@ -8,7 +8,7 @@ sr-interval: 25
 sr-ease: 190
 ---
 
-#### [[Tiktok creates a false sense of unbreakable, expansive, and influential communites]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Tiktok creates a false sense of unbreakable, expansive, and influential communities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This sense is false because the [[community]] can be removed at anytime (banned, algorithm changes, whims of [[culture]]), it can be overrun by foul actors (through some algorithmic method), it can only be kept through constant interaction with the community. Yet while you are in it, you feel like this community is real and expansive, far more influential than it actually is: [[The internet allows niche topics to flourish]] 
 

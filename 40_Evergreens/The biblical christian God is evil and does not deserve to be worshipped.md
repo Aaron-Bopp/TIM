@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-12-23
-sr-interval: 38
-sr-ease: 274
+sr-due: 2022-01-12
+sr-interval: 20
+sr-ease: 254
 ---
 
 #### [[The biblical Christian God is evil and does not deserve to be worshipped]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

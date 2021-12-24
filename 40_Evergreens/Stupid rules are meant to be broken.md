@@ -3,8 +3,8 @@ created: 2021-07-04
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-23
-sr-interval: 19
+sr-due: 2022-02-03
+sr-interval: 42
 sr-ease: 207
 ---
 
@@ -14,6 +14,7 @@ sr-ease: 207
 
 This is really more saying if a rule is stupid you are justified in breaking it. Or if you have a big reason to break a rule you're justified in making it.
 
+#TO/TEND/WEED 
 [[Stupid rules are meant to be broken]] is something that my mother always said to me, which is ironic because I then went on to break many of her rules that she didn't think were stupid. This idea really enforced the idea that the law does not always bring about justice. This was very influential as I started to learn about the ways in which our system is broken. I have no loyalty to the law, or ancient laws, the only thing I have loyalty to is justice and [[fairness]]. That is what really matters
 %%
 I wonder if mom's sense of justice came more from the fact that she was entitled and less from any sense of true [[justice]]. I think she does have that sense, but I'm not sure 
