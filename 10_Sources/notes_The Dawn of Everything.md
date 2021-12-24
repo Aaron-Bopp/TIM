@@ -33,11 +33,14 @@ Our concepts of prehistory are antiquated
 ![[books_The Dawn of Everything#261572344]]
 ![[books_The Dawn of Everything#261572345]]
 ![[books_The Dawn of Everything#261572346]]
+![[books_The Dawn of Everything#261593433]]
+
 
 #### What is our understanding of other humans?
 ![[books_The Dawn of Everything#261572331]]
 ##   The two stories of prehistory
 There are two main stories of prehistory
+![[books_The Dawn of Everything#261593426]]
 
 ### [[Rousseauian]] view
 Humans lived in a state of innocence and then fell, largely due to the rise of [[agriculture]]
@@ -51,6 +54,15 @@ Humans lived in a waring state and were civilized by [[society]]
 		![[books_The Dawn of Everything#258309238]]
 ### State Emergence
 ![[books_The Dawn of Everything#261593419]]
+![[books_The Dawn of Everything#261593425]]
+### Emergence of [[capitalism]]
+![[books_The Dawn of Everything#261593436]]
+Trade and commerce does not equal building up of capital 
+![[books_The Dawn of Everything#261593455]]
+
+### Emergence of [[racism]]
+![[books_The Dawn of Everything#261593454]]
+
 ### We believe that human's are evil
 ![[books_The Dawn of Everything#261572334]]
 ## Origins of [[humanity]]
@@ -63,10 +75,30 @@ Humans lived in a waring state and were civilized by [[society]]
 ![[books_The Dawn of Everything#261593421]]
 ###  [[Humans in prehistory were not confined to small egalitarian bands]]
 ![[books_The Dawn of Everything#258309241]]
+### Did early societies have less [[inequity]]
+![[books_The Dawn of Everything#261593431]]
+
 ### [[Agriculture does not enforce ranks and hierarchies]]
 ![[books_The Dawn of Everything#258309240]]
 ![[books_The Dawn of Everything#258309239]]
+## Human behavior
+### Highly evolutionary view
+![[books_The Dawn of Everything#261593424]]
+### Respect for the [[subconscious]]
+![[books_The Dawn of Everything#261593439]]
+### Respect for travellers 
+![[books_The Dawn of Everything#261593441]]
+### Respect for [[women]]
+![[books_The Dawn of Everything#261593442]]
+
+
+
 ## How do we produce change?
+### Negative effects of western civilization
+![[books_The Dawn of Everything#261593429]]
+### What sorts of societies do people gravitate towards
+While contested how prevalent this was #TO/DO/CITE ![[books_The Dawn of Everything#261593430]]
+
 ### Inequality is an unactionable item 
 [[Hope is not optimism it is a practice for producing change]]
 ![[books_The Dawn of Everything#261572337]]
@@ -79,44 +111,27 @@ We need to be able to work together
 ![[books_The Dawn of Everything#261572339]]
 ### Progress requires change
 ![[books_The Dawn of Everything#261572340]]
+### progress requires respect
+![[books_The Dawn of Everything#261593444]]
 
 ## [[knowledge work]]
 ![[books_The Dawn of Everything#261572342]]
+![[books_The Dawn of Everything#261593435]]
 
 
 
 ## notable people
 ![[books_The Dawn of Everything#261572332]]
 
+## terms
+![[books_The Dawn of Everything#261593439]]
 
+# Unsure
+![[books_The Dawn of Everything#261593434]]
+
+![[books_The Dawn of Everything#261593445]]
 # New qoutes
 
-
-
-
-
-
-
-
-
-![[books_The Dawn of Everything#261593424]]
-![[books_The Dawn of Everything#261593425]]
-![[books_The Dawn of Everything#261593426]]
-![[books_The Dawn of Everything#261593454]]
-![[books_The Dawn of Everything#261593429]]
-![[books_The Dawn of Everything#261593430]]
-![[books_The Dawn of Everything#261593431]]
-![[books_The Dawn of Everything#261593433]]
-![[books_The Dawn of Everything#261593434]]
-![[books_The Dawn of Everything#261593435]]
-![[books_The Dawn of Everything#261593436]]
-![[books_The Dawn of Everything#261593455]]
-![[books_The Dawn of Everything#261593439]]
-![[books_The Dawn of Everything#261593440]]
-![[books_The Dawn of Everything#261593441]]
-![[books_The Dawn of Everything#261593442]]
-![[books_The Dawn of Everything#261593444]]
-![[books_The Dawn of Everything#261593445]]
 ![[books_The Dawn of Everything#261593448]]
 ![[books_The Dawn of Everything#261593449]]
 ![[books_The Dawn of Everything#261593450]]

@@ -16,13 +16,25 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 2,
           "stack": [
             {
               "leaf": "030d6bd7aabaef10",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":34},\"to\":{\"line\":21,\"ch\":34}},\"scroll\":11.28571418840058}"
+            },
+            {
+              "leaf": "030d6bd7aabaef10",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/Spaced Repetition Inbox.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0.7355573684859227}"
+            },
+            {
+              "leaf": "030d6bd7aabaef10",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":101,\"ch\":43},\"to\":{\"line\":101,\"ch\":43}},\"scroll\":89.47766762933847}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":132,\"ch\":0},\"to\":{\"line\":132,\"ch\":0}},\"scroll\":127.82141392267455}"
             },
             {
               "leaf": "030d6bd7aabaef10",
@@ -56,7 +68,7 @@
                   "leaf": "1e396bcac307dd35",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":13},\"to\":{\"line\":59,\"ch\":13}},\"scroll\":50.71428742943981}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":92,\"ch\":0},\"to\":{\"line\":92,\"ch\":0}},\"scroll\":79.07143369864453}"
                 }
               ]
             }
@@ -423,14 +435,14 @@
   "active": "030d6bd7aabaef10",
   "lastOpenFiles": [
     "10_Sources/notes_The Dawn of Everything.md",
+    "40_Evergreens/The way systems work can create cognitive bias.md",
+    "20_Entry/22 Note by status/Spaced Repetition Inbox.md",
     "00_Meta/Templates/Get highlight embeds.md",
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
     "30_Topics/31_Stubs/language.md",
     "10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md",
     "40_Evergreens/A healthy second brain requires a surplus of entry points.md",
     "40_Evergreens/What is language's fundamental unit.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From 🐸 Frog Time 🐸.md",
-    "10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md",
-    "40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From 🐸 Frog Time 🐸.md"
   ]
 }
