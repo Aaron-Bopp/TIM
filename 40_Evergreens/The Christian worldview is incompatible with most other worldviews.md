@@ -18,6 +18,7 @@ sr-ease: 170
 		- [[The actual work of being a good person isn't explored by Evangelicalism]]
 - [[Humans have decided to reject an unjust world]], but [[Christianity|christians]] have not [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] #TO/TEND/GRAFT 
 	- [[Faith can be a useful tool for grounding yourself]]
+	- [[Does cognitive dissonance increase your capacity for endurance]]
 - [[Humans are primarily irrational, illogical, emotional beings]] is at odds with [[The bible is god breathed]] #TO/TEND/GRAFT 
 	- [[Faith is an abstraction of cognitive dissonance]]
 	- [[What is the cognitive effect of living in an unjust world]]

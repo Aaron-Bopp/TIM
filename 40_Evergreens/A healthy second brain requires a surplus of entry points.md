@@ -3,9 +3,9 @@ created: 2021-12-12
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-24
+sr-due: 2021-12-25
 sr-interval: 1
-sr-ease: 175
+sr-ease: 155
 ---
 
 #### [[A healthy second brain requires a surplus of entry points]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

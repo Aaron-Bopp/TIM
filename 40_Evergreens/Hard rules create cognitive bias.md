@@ -3,8 +3,8 @@ created: 2021-12-12
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-24
-sr-interval: 3
+sr-due: 2021-12-30
+sr-interval: 6
 sr-ease: 173
 ---
 
@@ -17,9 +17,12 @@ The [[Spaced Repetition (plugin)]] has inperfect support for nested tags. This m
 ```
 
 - [[Is cognitive dissonance the reason for harmful behaviors]]
-- [[The way systems work can create cognitive bias]]
+- [[The way systems work can create cognitive bias]] #TO/TEND/GRAFT 
+	- [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Stupid rules are meant to be broken]]
+- [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 - [[Friction is the number one hindrance to learning]]
+- [[Use philosophies as far they are useful and nothing more]]
  
 
 ### <hr class="footnote"/>

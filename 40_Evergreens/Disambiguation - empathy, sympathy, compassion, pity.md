@@ -3,8 +3,8 @@ created: 2021-11-18
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-12-24
-sr-interval: 5
+sr-due: 2021-12-31
+sr-interval: 7
 sr-ease: 130
 ---
 
@@ -19,6 +19,7 @@ True empathy is not a blind taking on of emotion, it is putting yourself in that
 ![[sympathy]]
 ![[compassion]]
 
+#TO/EXPLORE/RESEARCH and #TO/DO/CONCEPTUALIZE wiki's definitions of these things
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

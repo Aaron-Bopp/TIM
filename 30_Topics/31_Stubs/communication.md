@@ -1,5 +1,5 @@
 ---
-created: 2021-12-12 
+created: 2021-12-24 
 aliases:
   - null
 tags: node/topic/stub
@@ -7,5 +7,5 @@ tags: node/topic/stub
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 
-**See**:: [[English]], [[communication]]
+**See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

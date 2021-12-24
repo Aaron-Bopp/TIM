@@ -15,7 +15,7 @@ sr-ease: 150
 - [[Tips for concentration]]
 - [[Use highlighter colors to create visual outlines]] 
 - [[What is language's fundamental unit]]
-- [[What are the starter types of note taking]]
+- [[Note taking is a spectrum from purely reproductive to purely productive.]]
 - #TO/DO/CONCEPTUALIZE experience with book club
 
 ### <hr class="footnote"/>

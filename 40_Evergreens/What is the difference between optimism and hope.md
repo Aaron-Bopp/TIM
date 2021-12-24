@@ -3,9 +3,9 @@ created: 2021-10-18
 aliases:
   - What is the difference between hope and optimism
 tags: node/evergreen, node/question
-sr-due: 2021-12-24
-sr-interval: 35
-sr-ease: 230
+sr-due: 2022-01-11
+sr-interval: 18
+sr-ease: 210
 ---
 
 #### [[What is the difference between optimism and hope]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,6 +17,7 @@ sr-ease: 230
 - [[What is the cognitive effect of living in an unjust world]]
 - [[Transformative justice is the alternative to punitive justice]]
 - [[Be the change you want to see in the world]]
+- [[Does cognitive dissonance increase your capacity for endurance]]
 
 ### <hr class="footnote"/>
 

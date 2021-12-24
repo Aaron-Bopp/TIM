@@ -3,19 +3,19 @@ created: 2021-12-11
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-24
+sr-due: 2021-12-25
 sr-interval: 1
-sr-ease: 170
+sr-ease: 150
 ---
 
-#### [[What are the starter types of note taking]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-Note taking is a spectrum from purely reproductive to purely productive.
+#### [[Note taking is a spectrum from purely reproductive to purely productive.]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Conceptual notes]] notes that are purely taken on individual concepts
 [[Sequential notes]] notes that are taken in the sequence of the thing they are notating like a lecture or book
 transformative notes: notes that transform the material into things like questions and answers or prompts
 
+##### What are the starter types of note taking?
+#TO/DO/FIND [[Eleanor Konik]]'s answer
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 

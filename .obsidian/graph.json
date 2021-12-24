@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#node/evergreen",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
       "query": "tag:#EVER/SPROUT/WATER",
       "color": {
         "a": 1,
@@ -55,13 +62,6 @@
         "a": 1,
         "rgb": 1194493
       }
-    },
-    {
-      "query": "tag:#node/evergreen",
-      "color": {
-        "a": 1,
-        "rgb": 65535
-      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3541183531553583,
+  "scale": 0.35863385762036326,
   "close": true
 }

@@ -36,7 +36,7 @@ A zettle is a single idea or thought as defined by the creator of the [[Zettelka
 #TO/DO/CONCEPTUALIZE inspo [How to achieve more while studying less - Obsidian & Conceptual Notes - YouTube](https://www.youtube.com/watch?v=MYJsGksojms)
 
 - [[What is language's fundamental unit]]
-- [[What are the starter types of note taking]]
+- [[Note taking is a spectrum from purely reproductive to purely productive.]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 

@@ -10,7 +10,7 @@
 	- [[Only use organization systems as far as they are useful]]
 	- [[An increase in self-love and self-respect may lead to a loss of function]]
 	- [[Webs of thought provide heterarchical structure]]
-	- [[What are the starter types of note taking]]
+	- [[Note taking is a spectrum from purely reproductive to purely productive.]]
 	- [[Evangelicalism has commodified faith for profit]]
 	- [[Hard rules create cognitive bias]]
 	- [[Colonization and slavery lead to generational disparities in black communities]]
@@ -23,3 +23,4 @@
 	- [[Names matter]]
 	- [[Humans have decided to take advantage of an unjust world]]
 	- [[To those with privilege, losing it feels like oppression]]
+	- [[Does cognitive dissonance increase your capacity for endurance]]

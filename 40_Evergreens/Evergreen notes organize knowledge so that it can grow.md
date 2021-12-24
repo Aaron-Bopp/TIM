@@ -13,7 +13,7 @@ sr-ease: 210
 %%
 - [ ] #TO/EXPLORE/RESEARCH how [[Andy Matuschak's Evergreen Notes]] connects to this idea
 - [ ] #TO/TEND/GRAFT [[What makes a note evergreen]]
-#TO/PONDER/ME do [[evergreen notes]] help you prevent [[cognitive bias]], or does constantly re-reading over your possibly incorrect conclusion stop you accepting new evidence?
+#TO/PONDER/ME do [[evergreen notes]] help you prevent [[cognitive bias]], or does constantly re-reading over your possibly incorrect conclusion stop you accepting new evidence? [[Webs of thought provide heterarchical structure]] but are often very self-referential #TO/DO/FIND video, #TO/DO/CONCEPTUALIZE [How Can I Believe You? - YouTube](https://www.youtube.com/watch?v=cVuKitl6qWA)
 %%
 
 [[Evergreen notes]] can be as small as a few sentences or as expansive as an entire breakdown of an idea.
