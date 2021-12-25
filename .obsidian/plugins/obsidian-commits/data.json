@@ -6706,9 +6706,9 @@
       "links": 8
     },
     "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md": {
-      "size": 1511,
-      "tags": 7,
-      "links": 12
+      "size": 3719,
+      "tags": 5,
+      "links": 15
     },
     "30_Topics/31_Stubs/validation.md": {
       "size": 0,
@@ -8210,11 +8210,6 @@
       "tags": 3,
       "links": 14
     },
-    "40_Evergreens/What makes a note evergreen.md": {
-      "size": 1039,
-      "tags": 4,
-      "links": 10
-    },
     "40_Evergreens/We will evolve when we make learning as easy as thinking.md": {
       "size": 1227,
       "tags": 2,
@@ -8756,7 +8751,7 @@
       "links": 1
     },
     "40_Evergreens/Organization systems are not mutually exclusive.md": {
-      "size": 1843,
+      "size": 2153,
       "tags": 3,
       "links": 13
     },
@@ -9659,20 +9654,25 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md": {
+      "size": 716,
+      "tags": 2,
+      "links": 9
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1810,
-      "Create": 2195,
-      "Link": 3915,
-      "Expand": 398
+      "Refactor": 1814,
+      "Create": 2196,
+      "Link": 3919,
+      "Expand": 403
     },
     "40_Evergreens": {
-      "Refactor": 152,
-      "Create": 29,
-      "Link": 383,
-      "Expand": 214
+      "Refactor": 156,
+      "Create": 30,
+      "Link": 387,
+      "Expand": 219
     }
   },
   "dailyCommits": {
@@ -9691,8 +9691,8 @@
       "11": 163,
       "12": 418,
       "13": 246,
-      "14": 2296,
-      "15": 132,
+      "14": 2304,
+      "15": 138,
       "16": 889,
       "17": 1562,
       "18": 206,
@@ -9717,8 +9717,8 @@
       "11": 65,
       "12": 39,
       "13": 64,
-      "14": 33,
-      "15": 0,
+      "14": 41,
+      "15": 6,
       "16": 4,
       "17": 29,
       "18": 7,
@@ -9735,7 +9735,7 @@
       "Tue": 889,
       "Wed": 1524,
       "Thu": 442,
-      "Fri": 286,
+      "Fri": 300,
       "Sat": 0,
       "Sun": 4867
     },
@@ -9744,7 +9744,7 @@
       "Tue": 144,
       "Wed": 144,
       "Thu": 17,
-      "Fri": 77,
+      "Fri": 91,
       "Sat": 0,
       "Sun": 335
     }
@@ -9752,6 +9752,11 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
@@ -9797,14 +9802,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Notes not in outline.md\"> Notes not in outline </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Notes not in outline.md\"> Notes not in outline </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating knew knowledge.md\"> Evergreen notes should be constantly integrating knew knowledge </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/communication.md\"> communication </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/meditation is a practice and discipline of observation.md\"> meditation is a practice and discipline of observation </a>",
@@ -9854,10 +9855,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/paulbricman.com.md\"> paulbricman.com </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/PDF.md\"> PDF </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
@@ -9907,10 +9908,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Frank Herbert.md\"> Frank Herbert </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/communication.md\"> communication </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>",
@@ -9960,8 +9961,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/protests.md\"> protests </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9997,6 +9997,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
@@ -10046,10 +10047,12 @@
         "<a class=\"internal-link\" href=\"10_Sources/i.md\"> i </a>",
         "<a class=\"internal-link\" href=\"test4.md\"> test4 </a>",
         "<a class=\"internal-link\" href=\"test1.md\"> test1 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/test1.md\"> test1 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/test2.md\"> test2 </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/test1.md\"> test1 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
@@ -10097,12 +10100,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus.md\"> articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
@@ -10152,10 +10153,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/'Don't be the reason that rules exist' - Nathan Eloe.md\"> 'Don't be the reason that rules exist' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduces outcomes.md\"> Insecure material conditions increase cognitive load and reduces outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How I process repressed emotions.md\"> How I process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Tips for concentration.md\"> Tips for concentration </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Tips for concentration.md\"> Tips for concentration </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
@@ -10205,12 +10206,16 @@
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/204 Content Areas.md\"> 204 Content Areas </a>",
         "<a class=\"internal-link\" href=\"20_Entry/204 Content Areas.md\"> 204 Content Areas </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit.md\"> What is language's fundamental unit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>",
@@ -10256,12 +10261,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10292,9 +10292,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/humans have decided to take advantage of an unjust world.md\"> humans have decided to take advantage of an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/To those with privilege, losing it feels like oppression.md\"> To those with privilege, losing it feels like oppression </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/meditation is a practice and discipline of observation.md\"> meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating knew knowledge.md\"> Evergreen notes should be constantly integrating knew knowledge </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
@@ -10344,10 +10346,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdf.md\"> asdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfsadf.md\"> asdfasdfsadf </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
@@ -10397,7 +10399,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md\"> How Masculinity and the black identity model are represented in 'Moonlight' </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>"
       ],
       "Refactored": [
@@ -10436,9 +10437,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testset.md\"> testset </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/mnemonic medium.md\"> mnemonic medium </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit.md\"> What is language's fundamental unit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>",
@@ -10486,10 +10491,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A story will either end where it began, or somewhere else.md\"> A story will either end where it began, or somewhere else </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Republicans have become a true opposition party.md\"> Republicans have become a true opposition party </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -10509,7 +10511,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
@@ -10543,7 +10546,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>"
       ]
     }
   },

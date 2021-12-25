@@ -27,7 +27,7 @@ There is simply no reason to limit yourself to one organization system if you ca
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]] #TO/TEND/GRAFT 
 - [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Use Obsidian tags as temporal classifiers]]
-- [[What makes a note evergreen]]
+- [[Evergreen notes should be constantly integrating new knowledge]]
 - [[Densely linked webs of thought provide intuitive access to knowledge]]
  
  

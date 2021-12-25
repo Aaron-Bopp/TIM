@@ -23,12 +23,12 @@ This is why friction can be both a hinderance and boon to your [[knowledge work]
 or that friction can be a boon to creation,
 which can definitely be true.
 
-#TO/DO/CONCEPTUALIZE note stuctures and [[What makes a note evergreen]]
+#TO/DO/CONCEPTUALIZE note stuctures and [[Evergreen notes should be constantly integrating new knowledge]]
 %%
 Examples:
 [[my TO(DO) and EVER(GREEN) structure]] is grouping of tags that I update on every note in [[My TIM]]. These tags have loosely defined meanings, in that there is no exact definition of what a ever/seed is vs an ever/sprout, and often I will find notes and think that they much more deserve to be in a different category. But that process is expected and is part of maintaining [[evergreen notes]]. I know that I will be going through and constantly adding to, refining, and changing notes and thus changing their status tag, so if a note is mistagged, it will get seen again no matter what.
 
-I have a **Topics** section in all of my [[evergreen notes]], who's [[purpose]] is clear: prompt me to add links without the pressure of including them in the note body. It makes it much easier to approach these areas because I know that really anything that go in them and that those things will most likely be helpful. #TO/TEND/GRAFT [[What makes a note evergreen]]
+I have a **Topics** section in all of my [[evergreen notes]], who's [[purpose]] is clear: prompt me to add links without the pressure of including them in the note body. It makes it much easier to approach these areas because I know that really anything that go in them and that those things will most likely be helpful. #TO/TEND/GRAFT [[Evergreen notes should be constantly integrating new knowledge]]
 
 ### <hr class="footnote"/>
 

@@ -545,3 +545,31 @@ why would you want to imitate your child playing kitchen when you have your own?
 
 [^261593453]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10255
 
+# New highlights added December 25, 2021 at 11:41 AM
+### Why the State Has No Origin
+#### The humble beginnings of sovereignty, bureaucracy and politics
+### Full Circle
+#### On the historical foundations of the indigenous critique
+### Conclusion
+#### The dawn of everything
+##### ^261600809
+
+  
+###### ^261600809q
+> Notes 
+  [^261600809]
+
+[^261600809]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10156
+
+#### 1. FAREWELL TO HUMANITY’S CHILDHOOD
+#### 2. WICKED LIBERTY
+#### 3. UNFREEZING THE ICE AGE
+#### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
+#### 5. MANY SEASONS AGO
+#### 6. GARDENS OF ADONIS
+#### 7. THE ECOLOGY OF FREEDOM
+#### 8. IMAGINARY CITIES
+#### 9. HIDING IN PLAIN SIGHT
+#### 10. WHY THE STATE HAS NO ORIGIN
+#### 11. FULL CIRCLE
+#### 12. CONCLUSION

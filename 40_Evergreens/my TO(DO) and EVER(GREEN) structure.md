@@ -43,7 +43,7 @@ This is an incomplete list, and new categories can be added whenever it feels ne
 
 This structure is designed to help classify what the state of an [[evergreen notes|evergreen note]] is. [^1] These are not strict and are more done by feel, but do help me decide when and how to work on a note. 
 
-[^1]: [[What makes a note evergreen]]
+[^1]: [[Evergreen notes should be constantly integrating new knowledge]]
 
 - **\#EVER** see all the [[evergreen notes]] in [[Obsidian (software)]]
 	- Seeds essentially functions as my writing inbox. If it doesn't have a body or links it cannot store for long and needs to be looked at.
