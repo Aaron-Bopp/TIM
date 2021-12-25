@@ -14,6 +14,213 @@ deliveredBy:
 
 
 # The Dawn of Everything
+# Highlights
+### Farewell to Humanity’s Childhood
+#### Or, why this is not a book about the origins of inequality
+- ![[books_The Dawn of Everything#258309231]]
+###### ^258309231q
+- ![[books_The Dawn of Everything#258309232]]
+###### ^258309232q
+- ![[books_The Dawn of Everything#258309233]]
+###### ^258309233q
+- ![[books_The Dawn of Everything#258309234]]
+###### ^258309234q
+- ![[books_The Dawn of Everything#258309235]]
+###### ^258309235q
+- ![[books_The Dawn of Everything#258309236]]
+###### ^258309236q
+- ![[books_The Dawn of Everything#258309237]]
+###### ^258309237q
+- ![[books_The Dawn of Everything#258309238]]
+###### ^258309238q
+- ![[books_The Dawn of Everything#261572330]]
+###### ^261572330q
+- ![[books_The Dawn of Everything#258309239]]
+###### ^258309239q
+- ![[books_The Dawn of Everything#258309240]]
+###### ^258309240q
+- ![[books_The Dawn of Everything#258309241]]
+###### ^258309241q
+- ![[books_The Dawn of Everything#261572331]]
+###### ^261572331q
+- ![[books_The Dawn of Everything#261572332]]
+###### ^261572332q
+#### WHY BOTH THE HOBBESIAN AND ROUSSEAUIAN VERSIONS OF HUMAN HISTORY HAVE DIRE POLITICAL IMPLICATIONS
+- ![[books_The Dawn of Everything#261572334]]
+###### ^261572334q
+- ![[books_The Dawn of Everything#261572335]]
+###### ^261572335q
+- ![[books_The Dawn of Everything#261572336]]
+###### ^261572336q
+- ![[books_The Dawn of Everything#261572337]]
+###### ^261572337q
+- ![[books_The Dawn of Everything#261572338]]
+###### ^261572338q
+- ![[books_The Dawn of Everything#261572339]]
+###### ^261572339q
+- ![[books_The Dawn of Everything#261572340]]
+###### ^261572340q
+#### SOME BRIEF EXAMPLES OF WHY RECEIVED UNDERSTANDINGS OF THE BROAD SWEEP OF HUMAN HISTORY ARE MOSTLY WRONG (OR, THE ETERNAL RETURN OF JEAN-JACQUES ROUSSEAU)
+- ![[books_The Dawn of Everything#261572342]]
+###### ^261572342q
+- ![[books_The Dawn of Everything#261572343]]
+###### ^261572343q
+- ![[books_The Dawn of Everything#261572344]]
+###### ^261572344q
+- ![[books_The Dawn of Everything#261572345]]
+###### ^261572345q
+- ![[books_The Dawn of Everything#261572346]]
+###### ^261572346q
+#### ON THE PURSUIT OF HAPPINESS
+- ![[books_The Dawn of Everything#261572348]]
+###### ^261572348q
+- ![[books_The Dawn of Everything#261572349]]
+###### ^261572349q
+- ![[books_The Dawn of Everything#261593419]]
+###### ^261593419q
+- ![[books_The Dawn of Everything#261593420]]
+###### ^261593420q
+- ![[books_The Dawn of Everything#261593421]]
+###### ^261593421q
+- ![[books_The Dawn of Everything#261593422]]
+###### ^261593422q
+- ![[books_The Dawn of Everything#261593423]]
+###### ^261593423q
+- ![[books_The Dawn of Everything#261593424]]
+###### ^261593424q
+- ![[books_The Dawn of Everything#261593425]]
+###### ^261593425q
+- ![[books_The Dawn of Everything#261593426]]
+###### ^261593426q
+- ![[books_The Dawn of Everything#261593454]]
+###### ^261593454q
+- ![[books_The Dawn of Everything#261593429]]
+###### ^261593429q
+- ![[books_The Dawn of Everything#261593430]]
+###### ^261593430q
+- ![[books_The Dawn of Everything#261593431]]
+###### ^261593431q
+#### HOW THE CONVENTIONAL NARRATIVE OF HUMAN HISTORY IS NOT ONLY WRONG, BUT QUITE NEEDLESSLY DULL
+- ![[books_The Dawn of Everything#261593433]]
+###### ^261593433q
+- ![[books_The Dawn of Everything#261593434]]
+###### ^261593434q
+- ![[books_The Dawn of Everything#261593435]]
+###### ^261593435q
+- ![[books_The Dawn of Everything#261593436]]
+###### ^261593436q
+- ![[books_The Dawn of Everything#261593455]]
+###### ^261593455q
+- ![[books_The Dawn of Everything#261593439]]
+###### ^261593439q
+- ![[books_The Dawn of Everything#261593440]]
+###### ^261593440q
+- ![[books_The Dawn of Everything#261593441]]
+###### ^261593441q
+- ![[books_The Dawn of Everything#261593442]]
+###### ^261593442q
+#### ON WHAT’S TO FOLLOW
+- ![[books_The Dawn of Everything#261593444]]
+###### ^261593444q
+- ![[books_The Dawn of Everything#261593445]]
+###### ^261593445q
+### Wicked Liberty
+#### The indigenous critique and the myth of progress
+### Why the State Has No Origin
+#### The humble beginnings of sovereignty, bureaucracy and politics
+### Full Circle
+#### On the historical foundations of the indigenous critique
+### Conclusion
+#### The dawn of everything
+- ![[books_The Dawn of Everything#261600809]]
+###### ^261600809q
+#### 1. FAREWELL TO HUMANITY’S CHILDHOOD
+- ![[books_The Dawn of Everything#261593448]]
+###### ^261593448q
+- ![[books_The Dawn of Everything#261593449]]
+###### ^261593449q
+- ![[books_The Dawn of Everything#261593450]]
+###### ^261593450q
+- ![[books_The Dawn of Everything#261593451]]
+###### ^261593451q
+- ![[books_The Dawn of Everything#261593452]]
+###### ^261593452q
+- ![[books_The Dawn of Everything#261593453]]
+###### ^261593453q
+#### 2. WICKED LIBERTY
+#### 3. UNFREEZING THE ICE AGE
+#### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
+#### 5. MANY SEASONS AGO
+#### 6. GARDENS OF ADONIS
+#### 7. THE ECOLOGY OF FREEDOM
+#### 8. IMAGINARY CITIES
+#### 9. HIDING IN PLAIN SIGHT
+#### 10. WHY THE STATE HAS NO ORIGIN
+#### 11. FULL CIRCLE
+#### 12. CONCLUSION
+# New highlights added December 25, 2021 at 11:45 AM
+- ![[books_The Dawn of Everything#262026842]]
+###### ^262026842q
+#### IN WHICH WE SHOW HOW CRITIQUES OF EUROCENTRISM CAN BACKFIRE, AND END UP TURNING ABORIGINAL THINKERS INTO ‘SOCK-PUPPETS’
+- ![[books_The Dawn of Everything#262026843]]
+###### ^262026843q
+- ![[books_The Dawn of Everything#262026812]]
+###### ^262026812q
+- ![[books_The Dawn of Everything#262026814]]
+###### ^262026814q
+- ![[books_The Dawn of Everything#262026815]]
+###### ^262026815q
+- ![[books_The Dawn of Everything#262026816]]
+###### ^262026816q
+- ![[books_The Dawn of Everything#262026817]]
+###### ^262026817q
+- ![[books_The Dawn of Everything#262026818]]
+###### ^262026818q
+- ![[books_The Dawn of Everything#262026819]]
+###### ^262026819q
+- ![[books_The Dawn of Everything#262026820]]
+###### ^262026820q
+- ![[books_The Dawn of Everything#262026844]]
+###### ^262026844q
+- ![[books_The Dawn of Everything#262026845]]
+###### ^262026845q
+- ![[books_The Dawn of Everything#262026824]]
+###### ^262026824q
+- ![[books_The Dawn of Everything#262026826]]
+###### ^262026826q
+- ![[books_The Dawn of Everything#262026827]]
+###### ^262026827q
+- ![[books_The Dawn of Everything#262026828]]
+###### ^262026828q
+- ![[books_The Dawn of Everything#262026829]]
+###### ^262026829q
+- ![[books_The Dawn of Everything#262026846]]
+###### ^262026846q
+- ![[books_The Dawn of Everything#262026832]]
+###### ^262026832q
+- ![[books_The Dawn of Everything#262026833]]
+###### ^262026833q
+- ![[books_The Dawn of Everything#262026834]]
+###### ^262026834q
+- ![[books_The Dawn of Everything#262026835]]
+###### ^262026835q
+- ![[books_The Dawn of Everything#262026836]]
+###### ^262026836q
+- ![[books_The Dawn of Everything#262026837]]
+###### ^262026837q
+- ![[books_The Dawn of Everything#262026838]]
+###### ^262026838q
+- ![[books_The Dawn of Everything#262026839]]
+###### ^262026839q
+- ![[books_The Dawn of Everything#262026840]]
+###### ^262026840q
+- ![[books_The Dawn of Everything#262026841]]
+###### ^262026841q
+
+
+
+
+# The Dawn of Everything
 
 **Related**:: 
 *`=this.highlight_tags`*
@@ -28,8 +235,8 @@ deliveredBy:
 ##### ^258309231
 
   
-###### 
-> This mood makes itself felt everywhere, politically, socially, and philosophically. We are living in what the Greeks called the καιρóς (Kairos) – the right time – for a “metamorphosis of the gods,” i.e. of the fundamental principles and symbols.’ C. G. Jung, The Undiscovered Self (1958) ^258309231q
+###### ^258309231q
+> This mood makes itself felt everywhere, politically, socially, and philosophically. We are living in what the Greeks called the καιρóς (Kairos) – the right time – for a “metamorphosis of the gods,” i.e. of the fundamental principles and symbols.’ C. G. Jung, The Undiscovered Self (1958) 
   [^258309231]
 
 [^258309231]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=109
@@ -491,6 +698,22 @@ question
 
 ### Wicked Liberty
 #### The indigenous critique and the myth of progress
+### Why the State Has No Origin
+#### The humble beginnings of sovereignty, bureaucracy and politics
+### Full Circle
+#### On the historical foundations of the indigenous critique
+### Conclusion
+#### The dawn of everything
+##### ^261600809
+
+  
+###### ^261600809q
+> Notes 
+  [^261600809]
+
+[^261600809]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10156
+
+#### 1. FAREWELL TO HUMANITY’S CHILDHOOD
 ##### ^261593448
 
   
@@ -545,23 +768,6 @@ why would you want to imitate your child playing kitchen when you have your own?
 
 [^261593453]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10255
 
-# New highlights added December 25, 2021 at 11:41 AM
-### Why the State Has No Origin
-#### The humble beginnings of sovereignty, bureaucracy and politics
-### Full Circle
-#### On the historical foundations of the indigenous critique
-### Conclusion
-#### The dawn of everything
-##### ^261600809
-
-  
-###### ^261600809q
-> Notes 
-  [^261600809]
-
-[^261600809]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10156
-
-#### 1. FAREWELL TO HUMANITY’S CHILDHOOD
 #### 2. WICKED LIBERTY
 #### 3. UNFREEZING THE ICE AGE
 #### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
@@ -573,3 +779,263 @@ why would you want to imitate your child playing kitchen when you have your own?
 #### 10. WHY THE STATE HAS NO ORIGIN
 #### 11. FULL CIRCLE
 #### 12. CONCLUSION
+# New highlights added December 25, 2021 at 11:45 AM
+##### ^262026842
+
+  
+###### ^262026842q
+> Intellectual historians have never really abandoned the Great Man theory of history. They often write as if all important ideas in a given age can be traced back to one or other extraordinary individual – whether Plato, Confucius, Adam Smith or Karl Marx – rather than seeing such authors’ writings as particularly brilliant interventions in debates that were already going on ... but which otherwise might never have been written down. 
+  [^262026842]
+
+[^262026842]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=606
+
+#### IN WHICH WE SHOW HOW CRITIQUES OF EUROCENTRISM CAN BACKFIRE, AND END UP TURNING ABORIGINAL THINKERS INTO ‘SOCK-PUPPETS’
+##### ^262026843
+
+  
+###### ^262026843q
+> ‘what is the origin of inequality among men, and is it authorized by natural law?’ ... The way the question is put, after all, assumes that social inequality did have an origin; that is, it takes for granted that there was a time when human beings were equals ... Rousseau was one such man: 
+  [^262026843]
+
+[^262026843]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=619
+
+##### ^262026812
+
+Oppressors justifyijng oppression  
+###### ^262026812q
+> This was a culture in which almost every aspect of human interaction – whether eating, drinking, working or socializing – was marked by elaborate pecking orders and rituals of social deference. The authors who submitted their essays to this competition were men who spent their lives having all their needs attended to by servants. 
+  [^262026812]
+
+[^262026812]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=625
+
+##### ^262026814
+
+  
+###### ^262026814q
+> Fascination with the question of social inequality was relatively new in the 1700s, and it had everything to do with the shock and confusion that followed Europe’s sudden integration into a global economy, where it had long been a very minor player. 
+  [^262026814]
+
+[^262026814]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=633
+
+##### ^262026815
+
+Possible origin  
+###### ^262026815q
+> European intellectuals of that time were just rediscovering Aristotle and the ancient world, and had very little idea what people were thinking and arguing about anywhere else. 
+  [^262026815]
+
+[^262026815]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=639
+
+##### ^262026816
+
+  
+###### ^262026816q
+> when Portuguese fleets began rounding Africa and bursting into the Indian Ocean – and especially with the Spanish conquest of the Americas. Suddenly, a few of the more powerful European kingdoms found themselves in control of vast stretches of the globe, and European intellectuals found themselves exposed, not only to the civilizations of China and India but to a whole plethora of previously unimagined social, scientific and political ideas. The ultimate result of this flood of new ideas came to be known as the ‘Enlightenment’. 
+  [^262026816]
+
+[^262026816]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=641
+
+##### ^262026817
+
+Many enlightenment thinkers attributed their thought to foreign sources despite the possible consequences  
+###### ^262026817q
+> What is really unusual about this case is that Leibniz was so honest about his intellectual influences. When he lived, Church authorities still wielded a great deal of power in most of Europe: anyone making an argument that non-Christian ways were in any way superior might find themselves facing charges of atheism, which was potentially a capital offence. 
+  [^262026817]
+
+[^262026817]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=661
+
+##### ^262026818
+
+  
+###### ^262026818q
+> Indigenous people are assumed to have lived in a completely different universe, inhabited a different reality, even; anything Europeans said about them was simply a shadow-play projection, fantasies of the ‘noble savage’ culled from the European tradition itself. 
+  [^262026818]
+
+[^262026818]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=672
+
+##### ^262026819
+
+  
+###### ^262026819q
+> We also know that many of those living in Europe who came to embrace principles of freedom and equality (principles barely existing in their countries a few generations before) claimed that accounts of these encounters had a profound influence on their thinking. 
+  [^262026819]
+
+[^262026819]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=680
+
+##### ^262026820
+
+Claim  
+###### ^262026820q
+> In fact, what we’ll see is not only that indigenous Americans – confronted with strange foreigners – gradually developed their own, surprisingly consistent critique of European institutions, but that these critiques came to be taken very seriously in Europe itself. 
+  [^262026820]
+
+[^262026820]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=688
+
+##### ^262026844
+
+  
+###### ^262026844q
+> For European audiences, the indigenous critique would come as a shock to the system, revealing possibilities for human emancipation that, once disclosed, could hardly be ignored. Indeed, the ideas expressed in that critique came to be perceived as such a menace to the fabric of European society that an entire body of theory was called into being, specifically to refute them. ... our standard historical meta-narrative about the ambivalent progress of human civilization, where freedoms are lost as societies grow bigger and more complex – was invented largely for the purpose… 
+  [^262026844]
+
+[^262026844]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=690
+
+##### ^262026845
+
+  
+%%
+highlight_tags:: [[hierarchy]]
+%%###### ^262026845q
+> ‘the origin of social inequality’ is not a problem which would have made sense to anyone in the Middle Ages. Ranks and hierarchies were assumed to… ... ‘Social equality’ – and therefore, its opposite, inequality – simply did not… 
+  [^262026845]
+
+[^262026845]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=696
+
+##### ^262026824
+
+  
+%%
+highlight_tags:: [[gender]]
+%%###### ^262026824q
+> Even in the Garden of Eden, as the thirteenth-century philosopher Thomas Aquinas observed,… 
+  [^262026824]
+
+[^262026824]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=698
+
+##### ^262026826
+
+  
+###### ^262026826q
+> A recent survey of medieval literature by two Italian scholars in fact finds no evidence that the Latin terms aequalitas or inaequalitas or their English, French, Spanish, German and Italian cognates were used to… 
+  [^262026826]
+
+[^262026826]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=699
+
+##### ^262026827
+
+  
+###### ^262026827q
+> natural law theory, in turn, arose largely in the course of debates about the moral and legal implications of Europe’… 
+  [^262026827]
+
+[^262026827]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=705
+
+##### ^262026828
+
+  
+###### ^262026828q
+> Spanish adventurers like Cortés and Pizarro carried out their conquests largely without authorization from higher authorities; afterwards, there were intense debates back home over whether such unvarnished aggression against people who,… 
+  [^262026828]
+
+[^262026828]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=706
+
+##### ^262026829
+
+  
+%%
+highlight_tags:: [[christianity]]
+%%###### ^262026829q
+> The key problem was that – unlike non-Christians of the Old World, who could be assumed to have had the opportunity to learn the teachings of Jesus, and therefore to have actively rejected them – it was fairly obvious that the inhabitants of the New World simply never had any… 
+  [^262026829]
+
+[^262026829]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=709
+
+##### ^262026846
+
+  
+###### ^262026846q
+> attempts to write off the inhabitants of the Americas as so utterly alien that they fell outside the bounds of humanity entirely, and could be treated literally… ... The legal and philosophical question then became: what rights do human beings have simply by dint of being human – that is, what rights could they be said to have ‘naturally’, even if they existed in a State of Nature, innocent of the teachings of… 
+  [^262026846]
+
+[^262026846]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=714
+
+##### ^262026832
+
+  
+###### ^262026832q
+> what is important, in this context, is that they opened a conceptual door. Writers like Thomas Hobbes, Hugo Grotius or John Locke could skip past the biblical narratives everyone used to start with, and begin instead with a question such as: what might humans have… 
+  [^262026832]
+
+[^262026832]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=722
+
+##### ^262026833
+
+  
+###### ^262026833q
+> Earlier authors, confronted by a population of forest dwellers with no king and employing only stone tools, were unlikely to have seen them as in any way primordial. Sixteenth-century scholars, such as the Spanish missionary José de Acosta, were more likely to conclude they were looking at the fallen vestiges of some ancient civilization, or refugees who had, in the course of their wanderings, forgotten the arts of metallurgy and civil governance. Such a conclusion would have made obvious common sense for people who assumed that all truly important knowledge had been revealed by God at the beginning of time, that cities had existed before the Flood, and that saw their own intellectual life largely as attempts to recover the lost wisdom of ancient Greeks and Romans. 
+  [^262026833]
+
+[^262026833]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=731
+
+##### ^262026834
+
+  
+###### ^262026834q
+> Introducing the concept of a State of Nature didn’t exactly flip all this around, at least not immediately, but it did allow political philosophers after the seventeenth century to imagine people without the trappings of civilization as something other than degenerate savages; 
+  [^262026834]
+
+[^262026834]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=738
+
+##### ^262026835
+
+  
+###### ^262026835q
+> ask a question like ‘what is the origin of inequality among men?’ This seems particularly odd considering how, prior to that time, most did not even consider social equality possible. 
+  [^262026835]
+
+[^262026835]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=745
+
+##### ^262026836
+
+  
+###### ^262026836q
+> Our notion that everyone is equal before the law, for instance, originally traces back to the idea that everyone is equal before the king, or emperor: since if one man is invested with absolute power, then obviously everyone else is equal in comparison. 
+  [^262026836]
+
+[^262026836]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=752
+
+##### ^262026837
+
+  
+###### ^262026837q
+> What we’re going to suggest is that American intellectuals – we are using the term ‘American’ as it was used at the time, to refer to indigenous inhabitants of the Western Hemisphere; and ‘intellectual’ to refer to anyone in the habit of arguing about abstract ideas – actually played a role in this conceptual revolution. It is very strange that this should be considered a particularly radical idea, but among mainstream intellectual historians today it is almost a heresy. 
+  [^262026837]
+
+[^262026837]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=767
+
+##### ^262026838
+
+  
+###### ^262026838q
+> anyone who has ever learned a truly alien language deny that doing so takes a great deal of imaginative work, trying to grasp unfamiliar concepts. 
+  [^262026838]
+
+[^262026838]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=774
+
+##### ^262026839
+
+  
+###### ^262026839q
+> missionaries typically conducted long philosophical debates as part of their professional duties; many others, on both sides, argued with one another either out of simple curiosity, or because they had immediate practical reasons to understand the other’s point of view. 
+  [^262026839]
+
+[^262026839]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=775
+
+##### ^262026840
+
+#TO/EXPLORE/READ  
+###### ^262026840q
+> In his (2009) Europe Through Arab Eyes, 1578–1727, Nabil Matar considers the relative lack of interest in Frankish Europe among medieval Muslim writers, and possible reasons for it (especially, pp. 6–18). 
+  [^262026840]
+
+[^262026840]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10316
+
+##### ^262026841
+
+  
+###### ^262026841q
+> Marquis d’Argenson, who also failed to win a prize, made precisely this argument: monarchy allowed the truest equality, he argued, and absolutist monarchy most of all, since everyone is equal before the absolute power of the king. 
+  [^262026841]
+
+[^262026841]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10340
+

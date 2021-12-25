@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2443353,
-  "currentSyncStatusID": 2451036,
+  "lastSavedStatusID": 2451054,
+  "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
   "booksIDsMap": {
@@ -331,7 +331,11 @@
     "10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md": "12317405",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md": "12400658",
     "10_Sources/Readwise/Articles/articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus.md": "12405416",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From 🐸 Frog Time 🐸.md": "12417841"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From 🐸 Frog Time 🐸.md": "12417841",
+    "10_Sources/Readwise/Articles/articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com.md": "12428288",
+    "10_Sources/Readwise/Articles/articles_How to Withdraw Money From Your 401(k) - SmartAsset.md": "12428323",
+    "10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md": "12428351",
+    "10_Sources/Readwise/Articles/articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal.md": "12429243"
   },
   "reimportShowConfirmation": false,
   "obsidianToken": "rdiuwojlcr",

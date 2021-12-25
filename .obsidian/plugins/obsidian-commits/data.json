@@ -9615,11 +9615,6 @@
       "tags": 1,
       "links": 1
     },
-    "10_Sources/Readwise/Books/books_The Dawn of Everything.md": {
-      "size": 25870,
-      "tags": 1,
-      "links": 3
-    },
     "40_Evergreens/Humans have decided to take advantage of an unjust world.md": {
       "size": 903,
       "tags": 2,
@@ -9659,14 +9654,39 @@
       "size": 716,
       "tags": 2,
       "links": 9
+    },
+    "10_Sources/Readwise/Articles/articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com.md": {
+      "size": 3792,
+      "tags": 1,
+      "links": 1
+    },
+    "10_Sources/Readwise/Articles/articles_How to Withdraw Money From Your 401(k) - SmartAsset.md": {
+      "size": 3388,
+      "tags": 1,
+      "links": 1
+    },
+    "10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md": {
+      "size": 2762,
+      "tags": 1,
+      "links": 1
+    },
+    "10_Sources/Readwise/Articles/articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal.md": {
+      "size": 2108,
+      "tags": 1,
+      "links": 1
+    },
+    "10_Sources/Readwise/Books/books_The Dawn of Everything.md": {
+      "size": 46725,
+      "tags": 2,
+      "links": 92
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1814,
-      "Create": 2196,
-      "Link": 3919,
-      "Expand": 403
+      "Refactor": 1817,
+      "Create": 2201,
+      "Link": 3932,
+      "Expand": 405
     },
     "40_Evergreens": {
       "Refactor": 156,
@@ -9688,8 +9708,8 @@
       "8": 47,
       "9": 641,
       "10": 184,
-      "11": 163,
-      "12": 418,
+      "11": 182,
+      "12": 422,
       "13": 246,
       "14": 2304,
       "15": 138,
@@ -9737,7 +9757,7 @@
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
-      "Sun": 4867
+      "Sun": 4890
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -9752,6 +9772,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
@@ -9800,11 +9822,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/The Collector's Fallacy.md\"> The Collector's Fallacy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal.md\"> articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md\"> articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_How to Withdraw Money From Your 401(k) - SmartAsset.md\"> articles_How to Withdraw Money From Your 401(k) - SmartAsset </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com.md\"> articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating knew knowledge.md\"> Evergreen notes should be constantly integrating knew knowledge </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/communication.md\"> communication </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
@@ -9850,12 +9875,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/Get highlight embeds.md\"> Get highlight embeds </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdf.md\"> asdfasdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/paulbricman.com.md\"> paulbricman.com </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md\"> tweets_Tweets From Byzen Stonefist's Witty Title </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasfasdf.md\"> asdfasfasdf </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
@@ -9911,6 +9931,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asfd.md\"> asfd </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com.md\"> articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_How to Withdraw Money From Your 401(k) - SmartAsset.md\"> articles_How to Withdraw Money From Your 401(k) - SmartAsset </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md\"> articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal.md\"> articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/communication.md\"> communication </a>",
@@ -9956,12 +9981,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\"> Longform media lets you reach people where they are at, short form media lets you reach people where you are at </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/protests.md\"> protests </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -9997,6 +10017,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
@@ -10046,10 +10067,17 @@
         "<a class=\"internal-link\" href=\"31_Stubstest3.md\"> 31_Stubstest3 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/i.md\"> i </a>",
         "<a class=\"internal-link\" href=\"test4.md\"> test4 </a>",
-        "<a class=\"internal-link\" href=\"test1.md\"> test1 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/test1.md\"> test1 </a>"
+        "<a class=\"internal-link\" href=\"test1.md\"> test1 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com.md\"> articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_How to Withdraw Money From Your 401(k) - SmartAsset.md\"> articles_How to Withdraw Money From Your 401(k) - SmartAsset </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md\"> articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal.md\"> articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
@@ -10092,15 +10120,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\"> Is cognitive dissonance the reason for harmful behaviors </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/To those with privilege, losing it feels like oppression.md\"> To those with privilege, losing it feels like oppression </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\"> Faith can be a useful tool for grounding yourself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Laura McConnell 🦡.md\"> tweets_Tweets From Laura McConnell 🦡 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
@@ -10156,6 +10176,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Tips for concentration.md\"> Tips for concentration </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
@@ -10204,9 +10226,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/204 Content Areas.md\"> 204 Content Areas </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>"
       ]
     },
     "40_Evergreens": {

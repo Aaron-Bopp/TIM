@@ -9,15 +9,39 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md",
-            "mode": "preview",
+            "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+            "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "f53e9856a6ee146d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "f53e9856a6ee146d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "f53e9856a6ee146d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":757.690161533043}"
+            },
+            {
+              "leaf": "f53e9856a6ee146d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":522.9900024414062}"
+            },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
@@ -41,6 +65,30 @@
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "22d5b87af2f5bb05",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00_Meta/Templates/Get highlight embeds.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "22d5b87af2f5bb05",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/Get highlight embeds.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":15},\"to\":{\"line\":12,\"ch\":15}}}"
             }
           ]
         }
@@ -93,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md",
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -126,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md",
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -263,22 +312,13 @@
             }
           },
           {
-            "id": "268425a03aaeb830",
+            "id": "4938af16c4bfa050",
             "type": "leaf",
             "state": {
-              "type": "search-ref",
+              "type": "outline",
               "state": {
-                "query": "(file:(\"books_The Dawn of Everything.md\") /^#{1,6} \\^261593448$/) OR (/#261593448]]/) ",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ]
@@ -293,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md",
+                "file": "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -400,19 +440,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 643.2000122070312
+    "width": 643.2000122070312,
+    "collapsed": true
   },
   "active": "f53e9856a6ee146d",
   "lastOpenFiles": [
+    "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
+    "00_Meta/Templates/Get highlight embeds.md",
+    "10_Sources/notes_The Dawn of Everything.md",
     "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md",
     "40_Evergreens/Note structures should help curate knowledge.md",
     "40_Evergreens/What makes a note evergreen.md",
     "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
     "40_Evergreens/Be the change you want to see in the world.md",
     "40_Evergreens/How to pursue the positive things in life.md",
-    "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
-    "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
-    "40_Evergreens/1968 was a major setback for the American left.md",
-    "40_Evergreens/Every person has an experience of gender.md"
+    "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md"
   ]
 }
