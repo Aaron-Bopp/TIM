@@ -1,38 +1,49 @@
 ---
 created: 2021-06-27
 tags: node/evergreen
-sr-due: 2021-12-26
-sr-interval: 18
-sr-ease: 208
+sr-due: 2022-01-06
+sr-interval: 11
+sr-ease: 188
 ---
 
 #### [[Choosing a note writing system is choosing a system for thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Choosing a note writing system is not about finding the right [[software]] to write in,
 ^[[The best note-taking app of 2021 | Capiche](https://capiche.com/e/best-note-taking-app-2021)]
-it is about choosing [[systems for thought|a system for thought]]: [[Note storage is important because it defines how you access and retain knowledge]]
+it is about choosing [[systems for thought|a system for thought]]. What system you choose depends majorly on what you are trying to accomplish. Are a student or researcher trying to bring all of your knowledge together for new conclusion? Are you a professional trying to map and manage all of your clients and projects? Are you just trying to get a hold of your life and offload some of the mental effort of keeping track of everything? All of these are prestigious goals, and can benefit from a well organized [[note writing]] system. 
+
+Unfortunately, we cannot dream up our perfect [[second brain]] and have it at our fingertips, because [[We are confined to the tools of our time]]. Creating a system that works for you can take a lot of work, but if you are committed to the process it can be highly rewarding in the end.
+
+So what are your primary concerns?
+
+##### I need to be able to easily make connections
 
 In a second brain this means choosing a system that makes these true:
 - [[Your second brain should be an inspirational hub of creativity]]
-- [[Your second brain should be frictionless access to a curated base of knowledge]]
-
-Unfortunately, we cannot dream up our perfect [[second brain]] and have it at our fingertips, because [[We are confined to the tools of our time]].
-[[Note storage is important because it defines how you access and retain knowledge]], and so choosing this peice of software is integral to minimizing [[friction]] in your system: 
-[[Friction is the number one hindrance to learning]]
-
-For me, [[My TIM]] is the closest I have gotten so far to [[We will evolve when we make learning as easy as thinking|making learning as easy as thinking]]
-
-- [[second brain]] #TO/TEND/PRUNE these connections
-	- [[Nodes in the second brain are an abstraction of our first brain]]
-	- [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
-	- [[The fragility of nodes in a second brain]]
 - [[Write your notes like you're planting an evergreen forest]]
+
+##### I want my notes to be infinitely scalable
+
+- [[Your second brain should be frictionless access to a curated base of knowledge]]
+- [[Evergreen notes organize knowledge so that it can grow]]
 - [[Organization systems are not mutually exclusive]]
-- [[Only use organization systems as far as they are useful]]
+- [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
+
+##### I need to know my notes are safe
+
+[[Note storage is important because it defines how you access and retain knowledge]], but it is also important in terms of security and access. A lot of software will store your notes in proprietary databases, and struggle to scale. For this a system like [[Obsidian (software)|Obsidian]] is going to fit you best.
+
+##### I need it to be really easy to take notes or else I won't do it 
+
+I fall into this boat. Until I found a note system that suited my brain and a software that allowed to me to reduce [[friction]] I almost never took notes. This has lead to [[My TIM]], which combines the systems mentioned above.
+
+- [[Friction is the number one hindrance to learning]]
+- [[Nodes in the second brain are an abstraction of our first brain]]
+- [[The fragility of nodes in a second brain]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge management]], [[second brain]], [[note writing]]

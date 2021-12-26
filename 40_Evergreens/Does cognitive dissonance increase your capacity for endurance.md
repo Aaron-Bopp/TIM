@@ -3,8 +3,8 @@ created: 2021-12-24
 aliases:
   - null
 tags: node/evergreen, node/question 
-sr-due: 2021-12-26
-sr-interval: 1
+sr-due: 2021-12-28
+sr-interval: 2
 sr-ease: 190
 ---
 
@@ -12,11 +12,11 @@ sr-ease: 190
 
 It feels like the people who are under the most pressure are often the ones who can put up with the most. This might be more related to the [[Hierarchy of needs]] than [[cognitive dissonance]]
 - [[The injustice of endurance]]
-- [[Faith is an abstraction of cognitive dissonance]]
+- [[Faith is an abstraction of cognitive dissonance]] #TO/TEND/GRAFT 
 	- [[Non-faith issues have been co-opted to keep people in the Christian church]]
 	- [[People have been conditioned to believe the bible has to be infallible]]
 	- [[The moral majority movement was the original 'making things political']]
-- [[human advancement]]
+- [[human advancement]] #TO/TEND/GRAFT 
 	- [[Be the change you want to see in the world]]
 	- [[You should the love the loves of those who you love]]
 	- [[Transformative justice is the alternative to punitive justice]]
@@ -28,7 +28,7 @@ It feels like the people who are under the most pressure are often the ones who 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive dissonance]], [[human advancement]], [[progress]]

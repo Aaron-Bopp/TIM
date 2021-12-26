@@ -2,16 +2,18 @@
 created: 2021-06-12
 tags: node/evergreen
 date modified: Monday, October 18th 2021, 11:16:49 pm
-sr-due: 2021-12-26
-sr-interval: 5
+sr-due: 2022-01-06
+sr-interval: 11
 sr-ease: 179
 ---
 
 #### [[Human's have an inability to admit that they are wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/TEND/CULTIVATE focus on content of linked notes
+
 Once the [[subconscious|ego]] has internalized a belief as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]], but fundamentally this produces [[cognitive dissonance]] as we are unable to integrate new information.
 ^[[[Evergreen notes should be constantly integrating new knowledge]]]
+#TO/PONDER/SOCIETY What pushes us to break this process?
 
 %%
 #TO/TEND/MULCH 
@@ -28,14 +30,14 @@ As we ask, [[What is the cognitive effect of living in an unjust world]], this i
 
 Even though this is one of the reasons for [[human advancement]],
 ^[[[Does cognitive dissonance increase your capacity for endurance]]]
- it can be detrimental. 
+it can be detrimental. 
 ^[[[Is cognitive dissonance the reason for harmful behaviors]]]
 It can make it hard to accept knew information because of this and because [[We are confined to the tools of our time]]. [[Knowledge of the world is painful]], but we should [[Be the change you want to see in the world]]. Try not to get stuck in [[pessimism]] and believe [[Sadness is enlightenment and happiness is delusion]], because [[Realism must acknowledge optimism's existence and effectiveness]]
 
 For more see [[Humans are primarily irrational, illogical, emotional beings]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN
+**Status**:: #EVER/GREEN/PRUNE 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]

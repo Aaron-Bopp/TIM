@@ -8,7 +8,7 @@ sr-interval: 1
 sr-ease: 150
 ---
 
-#### [[Names matter]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Names matter because they effect people's perception]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 How something is named effects people's [[perception]] of it.
 

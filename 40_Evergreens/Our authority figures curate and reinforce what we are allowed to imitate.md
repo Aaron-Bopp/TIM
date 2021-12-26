@@ -3,8 +3,8 @@ created: 2021-10-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-26
-sr-interval: 5
+sr-due: 2022-01-05
+sr-interval: 10
 sr-ease: 150
 ---
 
@@ -13,6 +13,7 @@ sr-ease: 150
 In [[Social Learning Theory]], imitation is one of four key mechanism for social learning. This means that children are more likely to imitate the actions of authority figures, most often [[parents]]: [[Parents need to model the ability to deal with emotion to their children]]
 
 - [[Children will imitate whatever is modeled for them]] #TO/TEND/DEOBFUSCATE 
+- [[How can parent's best help their children]]
 
 ### <hr class="footnote"/>
 
