@@ -3,8 +3,8 @@ created: 2021-12-24
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-25
-sr-interval: 1
+sr-due: 2021-12-27
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -12,11 +12,11 @@ sr-ease: 210
 
 - [[Dual Nostril Breathing Meditation]]
 - [[Flamingo Pose Meditation]]
- 
+ #TO/DO/CONCEPTUALIZE videos from dr.k
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[mindfulness]], [[human experience]]

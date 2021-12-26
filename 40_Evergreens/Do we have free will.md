@@ -3,16 +3,17 @@ created: 2021-11-06
 aliases:
   - null
 tags: node/evergreen, node/question, 
-sr-due: 2021-12-25
-sr-interval: 17
-sr-ease: 190
+sr-due: 2022-01-04
+sr-interval: 10
+sr-ease: 170
 ---
 
 #### [[Do we have free will]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-I feel like we don't have free will to choose everything in our life. Our circumstances control 99% of our life, through limiting or opening up options, both internally and externally. But with even that 1% we can influence our life and set ourselves on the path to [[enlightenment]] or [[suffering]]: [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
+I feel like we don't have free will to choose everything in our life. Our circumstances control 99% of our life, through limiting or opening up options, both internally and externally. But with even that 1% we can influence our life and set ourselves on the path to [[enlightenment]] or [[suffering]]: [[Buddhism outlines a path and practice to end suffering, but does not promise it]] 
+On a more practical level, [[You can't blame people for failing to rise above their circumstances]] and [[Insecure material conditions increase cognitive load and reduce outcomes]]
 
-Life is like sailing, you should have control of the rudder and the sail. Sometimes you lose control of the sail (loss of mental faculties/attention/conectration) sometimes you lose control of the rudder (not knowing what decision to make), and sometimes neither of those things matter because there is no wind (material conditions). We can learn to stear our ships into clearer, smoother waters, or we can start out in those areas, but if we get stuck with no wind, or blown away by a bad storm we could lose complete control and capsize. Sometimes this is salvagable if you have the knowledge, but other times it is not and you are set adrift until someone comes to save you, or you happen upon an island. 
+Life is like sailing, you should have control of the rudder and the sail. Sometimes you lose control of the sail (loss of mental faculties/attention/concentration) sometimes you lose control of the rudder (not knowing what decision to make), and sometimes neither of those things matter because there is no wind (material conditions). We can learn to steer our ships into clearer, smoother waters, or we can start out in those areas, but if we get stuck with no wind, or blown away by a bad storm we could lose complete control and capsize. Sometimes this is salvageable if you have the knowledge, but other times it is not and you are set adrift until someone comes to save you, or you happen upon an island. 
 
 - [[Your anxiety knows your insecurities better than you do]]
 - [[Our ego is our subconscious defense of our self]]

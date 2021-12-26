@@ -3,16 +3,16 @@ created: 2021-11-25
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-25
-sr-interval: 11
-sr-ease: 203
+sr-due: 2022-01-01
+sr-interval: 7
+sr-ease: 183
 ---
 
 #### [[Humans have decided to reject an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 ##### Answers:: [[What is the cognitive effect of living in an unjust world]]
 
-- [[Evolutionary Psychology]]
+- [[Evolutionary Psychology]] 
     - [[Our brain will do anything it can to protect itself]]
         - [[The brain is powerful enough to create supernatural experiences]]
     - [[Human's will find explanations for inexplainable things]]

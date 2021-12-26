@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-25
-sr-interval: 37
+sr-due: 2022-03-20
+sr-interval: 85
 sr-ease: 231
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 231
 
 [^1]: [[Negative influences are stronger than positive influences]]
 
-This means that even if your child never verbalizes their dysphoria, a toxic environment can still cause them to dissasociate. 
+This means that even if your child never verbalizes their dysphoria, a toxic environment can still cause them to disassociate. 
 This is why [[You can discover your transness at any point in life]] and [[Any experience of gender is acceptable]]
 
 [[Parents need to model the ability to deal with emotion to their children]] and that includes confusion about [[gender]].

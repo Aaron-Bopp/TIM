@@ -24,3 +24,4 @@
 	- [[Humans have decided to take advantage of an unjust world]]
 	- [[To those with privilege, losing it feels like oppression]]
 	- [[Does cognitive dissonance increase your capacity for endurance]]
+	- [[Hard boundaries reduce opportunities for creativity]]

@@ -17,6 +17,7 @@ The [[Spaced Repetition (plugin)]] has inperfect support for nested tags. This m
 ```
 
 - [[Is cognitive dissonance the reason for harmful behaviors]]
+- [[Hard boundaries reduce opportunities for creativity]]
 - [[The way systems work can create cognitive bias]] #TO/TEND/GRAFT 
 	- [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Stupid rules are meant to be broken]]

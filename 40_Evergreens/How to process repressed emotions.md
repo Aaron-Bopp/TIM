@@ -3,13 +3,14 @@ created: 2021-12-14
 aliases:
   - null
 tags: node/evergreen, node/technique, 
-sr-due: 2021-12-25
-sr-interval: 4
-sr-ease: 210
+sr-due: 2021-12-27
+sr-interval: 2
+sr-ease: 190
 ---
 
 #### [[How to process repressed emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/GRAFT 
 - [[We carry our childhood wounds into adulthood]]
 - [[Parents need to model the ability to deal with emotion to their children]]
 - [[Children make wide assumptions about the world]]

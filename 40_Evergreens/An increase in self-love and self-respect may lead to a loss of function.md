@@ -12,6 +12,9 @@ sr-ease: 190
 
 Once you start realizing and respecting your own needs, you may realize that you need more [[support]] than you realized. 
 
+Once you free yourself of [[guilt]] and [[shame]] it may appear that you lose [[motivation]]
+#TO/TEND/CONNECT [[tweets_Hey Here’s a Discourse....]]
+
 - [[neurodiversity]] #TO/TEND/GRAFT 
 	- [[Neurodiverse people can use their brain to their advantage]]
 	- [[Neurodiverse people are siloed into systems that work against them]]

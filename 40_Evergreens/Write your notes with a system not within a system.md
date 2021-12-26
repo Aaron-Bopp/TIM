@@ -3,9 +3,9 @@ created: 2021-12-21
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-25
-sr-interval: 2
-sr-ease: 210
+sr-due: 2021-12-26
+sr-interval: 1
+sr-ease: 190
 ---
 
 #### [[Write your notes with a system not within a system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,6 +16,7 @@ Don't let yourself get bogged down with questions like, "Am I using the system t
 - [[Better tools allow us to be less disciplined and more productive]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Use philosophies as far they are useful and nothing more]]
+- [[Hard rules create cognitive bias]]
  
 
 ### <hr class="footnote"/>

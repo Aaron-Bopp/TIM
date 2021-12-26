@@ -8,7 +8,7 @@ sr-ease: 130
 
 #### [[A secure identity is the best defense against social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-#TO/DO/WRITE rewrite this entire note #TO/TEND/PRUNE maybe it's doing too much?
+#TO/DO/WRITE rewrite this entire note #TO/TEND/PRUNE maybe it's doing too much? contrast a [[A repressed identity creates a mistrust of self-love and self-esteem]]
 
 [[Mental health is a reaction to one's environment]]
 If you are insecure in your [[self]], you may feel levels of [[social discomfort]] during [[socialization]]. Part of this is because any slight to you, any level of ineptitude, or feeling of disapproval has nothing to be repelled by.

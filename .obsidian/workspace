@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md",
+            "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,98 +21,122 @@
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":493},\"to\":{\"line\":14,\"ch\":493}},\"scroll\":7.785714145825831}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":1.8333333333333335}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/To those with privilege, losing it feels like oppression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":104},\"to\":{\"line\":14,\"ch\":104}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":65},\"to\":{\"line\":22,\"ch\":65}},\"scroll\":0}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":24},\"to\":{\"line\":21,\"ch\":24}},\"scroll\":1.2500000212873734}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":185.14518709989053}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":42},\"to\":{\"line\":8,\"ch\":42}}}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":572.1071401171538}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":15},\"to\":{\"line\":12,\"ch\":15}},\"scroll\":2.3333333333333335}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":172,\"ch\":45},\"to\":{\"line\":172,\"ch\":45}},\"scroll\":162.64444599454364}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":192},\"to\":{\"line\":12,\"ch\":192}},\"scroll\":0.033333333830038704}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":794.0484878077651}"
-            },
-            {
-              "leaf": "f53e9856a6ee146d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"books_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":14},\"to\":{\"line\":16,\"ch\":14}},\"scroll\":0.42857145289985543}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Write your notes with a system not within a system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":38},\"to\":{\"line\":18,\"ch\":38}}}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Do we have free will.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":356},\"to\":{\"line\":15,\"ch\":356}},\"scroll\":0.6999999682108561}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":757.690161533043}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.40000001589457196}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":522.9900024414062}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9333333174387614}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":65},\"to\":{\"line\":14,\"ch\":65}},\"scroll\":9.09999974568685}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Note structures should help curate knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":16.97934805828592}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice and discipline of observation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":23},\"to\":{\"line\":18,\"ch\":23}}}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":25.119149066032247}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":65},\"to\":{\"line\":20,\"ch\":65}}}"
             },
             {
               "leaf": "f53e9856a6ee146d",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Black identity is inseparable from other identities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0.40000001589457196}"
+            },
+            {
+              "leaf": "f53e9856a6ee146d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":30},\"to\":{\"line\":14,\"ch\":30}},\"scroll\":0}"
+            },
+            {
+              "leaf": "f53e9856a6ee146d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":299},\"to\":{\"line\":10,\"ch\":299}},\"scroll\":4.600000063578288}"
+            },
+            {
+              "leaf": "f53e9856a6ee146d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":244},\"to\":{\"line\":16,\"ch\":244}},\"scroll\":11.816666920979818}"
+            },
+            {
+              "leaf": "f53e9856a6ee146d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f53e9856a6ee146d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/ADHD is primarily an executive function disorder.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":23},\"to\":{\"line\":16,\"ch\":23}},\"scroll\":0}"
             }
           ]
         }
@@ -146,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/question",
+                "query": "tag:#node/source tweets guilt",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -165,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md",
+                "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -198,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md",
+                "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -340,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md"
+                "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md"
               }
             },
             "pane-relief:history-v1": {
@@ -360,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md",
+                "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -471,15 +495,15 @@
   },
   "active": "f53e9856a6ee146d",
   "lastOpenFiles": [
-    "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md",
-    "40_Evergreens/To those with privilege, losing it feels like oppression.md",
-    "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md",
-    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
-    "10_Sources/notes_The Dawn of Everything.md",
-    "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
-    "books_The Dawn of Everything.md",
-    "00_Meta/Templates/Get highlight embeds.md",
-    "40_Evergreens/Note structures should help curate knowledge.md",
-    "40_Evergreens/What makes a note evergreen.md"
+    "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
+    "40_Evergreens/Hard boundaries reduce opportunities for creativity.md",
+    "40_Evergreens/Hard rules create cognitive bias.md",
+    "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
+    "40_Evergreens/How to process repressed emotions.md",
+    "40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md",
+    "40_Evergreens/Humans have decided to take advantage of an unjust world.md",
+    "40_Evergreens/Write your notes with a system not within a system.md",
+    "40_Evergreens/Do we have free will.md",
+    "40_Evergreens/A healthy second brain requires a surplus of entry points.md"
   ]
 }
