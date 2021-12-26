@@ -5050,11 +5050,6 @@
       "tags": 0,
       "links": 0
     },
-    "00_Meta/Templates/NOTESCREATEDLISTS.md": {
-      "size": 692,
-      "tags": 0,
-      "links": 0
-    },
     "00_Meta/Templates/REFERENCESH3.md": {
       "size": 29,
       "tags": 0,
@@ -8046,9 +8041,9 @@
       "links": 2
     },
     "20_Entry/24 Vault Stats/CHARTS.md": {
-      "size": 803,
-      "tags": 1,
-      "links": 1
+      "size": 784,
+      "tags": 0,
+      "links": 0
     },
     "20_Entry/24 Vault Stats/Commits.md": {
       "size": 87,
@@ -9136,9 +9131,9 @@
       "links": 0
     },
     "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md": {
-      "size": 1005,
-      "tags": 3,
-      "links": 11
+      "size": 1156,
+      "tags": 4,
+      "links": 15
     },
     "30_Topics/31_Stubs/Germany.md": {
       "size": 0,
@@ -9328,7 +9323,7 @@
     "40_Evergreens/Hard rules create cognitive bias.md": {
       "size": 1322,
       "tags": 3,
-      "links": 11
+      "links": 12
     },
     "30_Topics/31_Stubs/rich text formatting.md": {
       "size": 0,
@@ -9686,23 +9681,23 @@
       "links": 19
     },
     "40_Evergreens/Hard boundaries reduce opportunities for creativity.md": {
-      "size": 511,
+      "size": 595,
       "tags": 2,
-      "links": 3
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1825,
+      "Refactor": 1829,
       "Create": 2205,
-      "Link": 3951,
-      "Expand": 412
+      "Link": 3955,
+      "Expand": 416
     },
     "40_Evergreens": {
       "Refactor": 159,
       "Create": 30,
-      "Link": 399,
-      "Expand": 224
+      "Link": 403,
+      "Expand": 226
     }
   },
   "dailyCommits": {
@@ -9726,8 +9721,8 @@
       "16": 899,
       "17": 1567,
       "18": 209,
-      "19": 216,
-      "20": 161,
+      "19": 224,
+      "20": 165,
       "21": 279,
       "22": 263,
       "23": 305
@@ -9752,7 +9747,7 @@
       "16": 4,
       "17": 32,
       "18": 9,
-      "19": 30,
+      "19": 36,
       "20": 21,
       "21": 49,
       "22": 12,
@@ -9767,7 +9762,7 @@
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
-      "Sun": 4928
+      "Sun": 4940
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -9776,12 +9771,16 @@
       "Thu": 17,
       "Fri": 91,
       "Sat": 0,
-      "Sun": 355
+      "Sun": 361
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
@@ -9828,11 +9827,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Republicans have become a true opposition party.md\"> Republicans have become a true opposition party </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"hard boundaries reduce opportunities for creativity.md\"> hard boundaries reduce opportunities for creativity </a>",
@@ -9941,6 +9936,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
@@ -9990,8 +9986,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/scaffolding.md\"> scaffolding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Every person has an experience of gender.md\"> Every person has an experience of gender </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -10025,9 +10020,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/NOTESCREATEDLISTS.md\"> NOTESCREATEDLISTS </a>",
         "<a class=\"internal-link\" href=\"books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
@@ -10077,10 +10074,12 @@
         "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/Modular Markup Processor.md\"> Modular Markup Processor </a>",
         "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/test5.md\"> test5 </a>",
         "<a class=\"internal-link\" href=\"31_Stubs/test3.md\"> test3 </a>",
-        "<a class=\"internal-link\" href=\"31_Stubstest3.md\"> 31_Stubstest3 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/i.md\"> i </a>"
+        "<a class=\"internal-link\" href=\"31_Stubstest3.md\"> 31_Stubstest3 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
@@ -10128,12 +10127,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between optimism and hope.md\"> What is the difference between optimism and hope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
@@ -10183,10 +10180,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/A difficult task is one that is easy to screw up even if you know what you're doing.md\"> A difficult task is one that is easy to screw up even if you know what you're doing </a>",
         "<a class=\"internal-link\" href=\"10_Sources/'Don't be the reason that rules exist' - Nathan Eloe.md\"> 'Don't be the reason that rules exist' - Nathan Eloe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduces outcomes.md\"> Insecure material conditions increase cognitive load and reduces outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How I process repressed emotions.md\"> How I process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Tips for concentration.md\"> Tips for concentration </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How I process repressed emotions.md\"> How I process repressed emotions </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
@@ -10236,12 +10233,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
@@ -10290,9 +10288,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\"> Neurodiverse people are siloed into systems that work against them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10380,6 +10376,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdf.md\"> asdfasdf </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
@@ -10429,8 +10426,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A secure identity is the best defense against social anxiety.md\"> A secure identity is the best defense against social anxiety </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherently political.md\"> black identity is inherently political </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseparable from other identities.md\"> black identity is inseparable from other identities </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherently political.md\"> black identity is inherently political </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10472,6 +10468,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Do we have free will.md\"> Do we have free will </a>",
@@ -10519,10 +10518,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",

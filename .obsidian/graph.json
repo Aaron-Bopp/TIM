@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#EVER/SPROUT/WATER",
+      "query": "tag:#EVER/SEED",
       "color": {
         "a": 1,
-        "rgb": 3669760
+        "rgb": 10090751
       }
     },
     {
-      "query": "tag:#EVER/SPROUT/CULTIVATE",
+      "query": "tag:#EVER/SPROUT",
       "color": {
         "a": 1,
-        "rgb": 15626932
+        "rgb": 4641481
+      }
+    },
+    {
+      "query": "tag:#node/evergreen",
+      "color": {
+        "a": 1,
+        "rgb": 65535
       }
     },
     {
@@ -55,13 +62,6 @@
         "a": 1,
         "rgb": 1194493
       }
-    },
-    {
-      "query": "tag:#node/evergreen",
-      "color": {
-        "a": 1,
-        "rgb": 65535
-      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.015420900893305573,
-  "close": true
+  "scale": 0.13807120506650508,
+  "close": false
 }
