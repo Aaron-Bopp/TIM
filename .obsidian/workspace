@@ -7,12 +7,41 @@
         "id": "6c7a0de01257033c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/My TIM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Human's have an inability to admit that they are wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":11.000000170298987}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brains are built around survival.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
             {
               "leaf": "6c7a0de01257033c",
               "group": null,
@@ -106,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -138,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -279,7 +310,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -298,6 +331,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -404,20 +438,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 643.2000122070312,
-    "collapsed": true
+    "width": 643.2000122070312
   },
   "active": "6c7a0de01257033c",
   "lastOpenFiles": [
+    "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+    "30_Topics/35_Outlines/My TIM.md",
+    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
+    "40_Evergreens/Our brains are built around survival.md",
     "00_Meta/Templates/NOTESCREATEDLISTS.md",
     "20_Entry/24 Vault Stats/CHARTS.md",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching-2.md",
     "10_Sources/Readwise/Tweets/tweets_This Book (‘No Contest’....md",
     "40_Evergreens/Neurodiverse people can use their brain to their advantage.md",
-    "40_Evergreens/Names matter.md",
-    "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
-    "40_Evergreens/Hard boundaries reduce opportunities for creativity.md",
-    "40_Evergreens/Hard rules create cognitive bias.md",
-    "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md"
+    "40_Evergreens/Names matter.md"
   ]
 }

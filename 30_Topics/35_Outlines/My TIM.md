@@ -4,6 +4,7 @@ tags: node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
+
 Since March 2021 I have become very interested in the [[knowledge management]] concept of a [[web of thought]] so intricate that it creates a [[second brain]]. In this quest I realized that my real purpose was to create a *Totally Integrated Machine*, where the purpose is not just to reflect my first brain, but to augment it.
 
 **See**:: [[second brain]], [[note writing]]

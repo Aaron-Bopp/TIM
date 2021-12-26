@@ -747,6 +747,7 @@ var TTSService = class {
         content = content.replace(/\*/g, "");
         content = content.replace(/\^/g, "");
         content = content.replace(/==/g, "");
+        content = content.replace(/^\S{6}/g, "");
       }
       if (!this.plugin.settings.speakLinks) {
         content = content.replace(/(?:__|[*#])|\[(.*?)]\(.*?\)/gm, "$1");
@@ -754,7 +755,7 @@ var TTSService = class {
       if (!this.plugin.settings.speakCodeblocks) {
         content = content.replace(/```[\s\S]*?```/g, "");
       }
-      if (this.plugin.settings.speakTitle) {
+      if (this.plugin.settings.speakTitle && (title == null ? void 0 : title.length) > 0) {
         content = title + " ! ! " + content;
       }
       if (!this.plugin.settings.speakEmoji) {
@@ -794,7 +795,9 @@ var TTSService = class {
   }
   play(view) {
     return __async(this, null, function* () {
-      let content = view.getViewData();
+      let selectedText = view.editor.getSelection().length > 0 ? view.editor.getSelection() : window.getSelection().toString();
+      let content = selectedText.length > 0 ? selectedText : view.getViewData();
+      let title = selectedText.length > 0 ? null : view.getDisplayText();
       const language = this.getLanguageFromFrontmatter(view);
       if (!this.plugin.settings.speakFrontmatter) {
         if (content.startsWith("---")) {
@@ -802,7 +805,7 @@ var TTSService = class {
           content = content.substring(content.indexOf("---") + 1);
         }
       }
-      yield this.say(view.getDisplayText(), content, language);
+      yield this.say(title, content, language);
     });
   }
   getLanguageFromFrontmatter(view) {
@@ -828,14 +831,17 @@ var TTSPlugin = class extends import_obsidian5.Plugin {
       console.log("loading tts plugin");
       if (import_obsidian5.Platform.isAndroidApp) {
         new import_obsidian5.Notice("TTS: due to a bug in android this plugin does not work on this platform");
-        throw Error("TTS: due to a bug in android this plugin does not work on this platform");
+        this.unload();
       }
       yield this.loadSettings();
       this.addCommand({
         id: "start-tts-playback",
         name: "Start playback",
-        editorCallback: (_, view) => {
-          this.ttsService.play(view);
+        checkCallback: (checking) => {
+          const markdownView = this.app.workspace.getActiveViewOfType(import_obsidian5.MarkdownView);
+          if (!checking && markdownView)
+            this.ttsService.play(markdownView);
+          return !!markdownView;
         }
       });
       this.addCommand({
@@ -875,8 +881,8 @@ var TTSPlugin = class extends import_obsidian5.Plugin {
       }));
       this.registerEvent(this.app.workspace.on("editor-menu", (menu, editor, markdownView) => {
         menu.addItem((item) => {
-          item.setTitle("Say selected text").setIcon("audio-file").onClick(() => {
-            this.ttsService.say("", editor.getSelection(), this.ttsService.getLanguageFromFrontmatter(markdownView));
+          item.setTitle(window.getSelection().toString().length > 0 ? "Read selected text" : "Read the note").setIcon("audio-file").onClick(() => {
+            this.ttsService.play(markdownView);
           });
         });
       }));
@@ -908,11 +914,8 @@ var TTSPlugin = class extends import_obsidian5.Plugin {
             }));
           });
         } else {
-          menu.addItem((item) => {
-            item.setIcon("play-audio-glyph").setTitle("Play").onClick(() => __async(this, null, function* () {
-              yield this.ttsService.play(markdownView);
-            }));
-          });
+          yield this.ttsService.play(markdownView);
+          return;
         }
       }
       if (window.speechSynthesis.speaking) {
