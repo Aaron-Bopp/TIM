@@ -12,7 +12,7 @@ sr-ease: 213
 
 Caused by [[parents]] failing to [[Parents need to model the ability to deal with emotion to their children|model the ability to deal with emotion to their children]] and can be expecially dangerous for [[neurodiversity|neurodiverse]] and [[transgender|trans]] children. [[Children will imitate whatever is modeled for them]]
 
-For example, [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]] because of this and the [[Gender self-socialization model]], which is why [[You can discover your transness at any point in life]].
+For example, [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] because of this and the [[Gender self-socialization model]], which is why [[You can discover your transness at any point in life]].
 
 - [[Avoidance IS the most-efficient way of dealing with emotion]]
 - [[Sometimes we can't grow until we change our environment]]

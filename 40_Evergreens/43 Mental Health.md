@@ -31,5 +31,5 @@
 	- [[gender dysphoria]]
 		- [[Gender Dysphoria is based in a intrinsic wrongness of self]]
 		- [[Any experience of gender dysphoria is acceptable]]
-		- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+		- [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 		- [[Studies show early acceptance of trans children normalizes mental health outcomes with peers]]

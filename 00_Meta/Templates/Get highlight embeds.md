@@ -9,7 +9,7 @@ for (match of matches) {
 	//console.log(match)
 	const header = match[0]
 	let embedcode = header.match(/\^(\d+)\n/)
-	console.log(embedcode)
+	if (header.match(/\^(\d+)q\n/)) {continue;}
 	embedcode = embedcode ? embedcode[1] : ""
 	output += embedcode ? `- ![[${title}#${embedcode}]]\n` : `${header}`
 }

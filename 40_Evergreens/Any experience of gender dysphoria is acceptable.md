@@ -19,7 +19,7 @@ sr-ease: 186
  Various experiences of gender dysphoria:
  - [[Gender Dysphoria is based in a intrinsic wrongness of self]]
  - [[A repressed identity creates a mistrust of self-love and self-esteem]]
-- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+- [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 
 ### <hr class="footnote"/>
 

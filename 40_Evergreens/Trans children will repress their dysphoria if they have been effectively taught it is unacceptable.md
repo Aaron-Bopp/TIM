@@ -8,11 +8,11 @@ sr-interval: 37
 sr-ease: 231
 ---
 
-#### [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/PONDER/ME My experience
 
- [[Our understanding of gender begins at a very early age]] and [[We carry our childhood wounds into adulthood]], so it only follows that [[trauma]] related to our [[gender]] would cause us to repress and [[dissociation|dissasociate]]. While having negative reinforcment makes this more likely to happen, [^1] because of the [[Gender self-socialization model]] we can still experience still repress these feelings of [[gender dysphoria]]: [[You can be taught to invalidate your own emotions]]
+ [[Our understanding of gender begins at a very early age]] and [[We carry our childhood wounds into adulthood]], so it only follows that [[trauma]] related to our [[gender]] would cause us to repress and [[dissociation|dissasociate]]. While having negative reinforcement makes this more likely to happen, [^1] because of the [[Gender self-socialization model]] we can still experience still repress these feelings of [[gender dysphoria]]: [[You can be taught to invalidate your own emotions]]
 
 [^1]: [[Negative influences are stronger than positive influences]]
 

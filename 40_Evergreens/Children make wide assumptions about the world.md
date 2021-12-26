@@ -15,7 +15,7 @@ sr-ease: 210
 - [[How can parent's best help their children]]
 - [[Knowledge of the world is painful]]
 - [[Stupid rules are meant to be broken]]  %% #TO/PONDER/ME  %%
-- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+- [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 - [[Our authority figures curate and reinforce what we are allowed to imitate]]
 
 ### <hr class="footnote"/>

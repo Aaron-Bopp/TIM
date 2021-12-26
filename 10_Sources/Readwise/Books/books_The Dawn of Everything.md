@@ -1,5 +1,5 @@
 ---
-created: 2021-12-24
+created: 2021-12-25
 aliases:
   - "The Dawn of Everything"
   - "The Dawn of Everything by David Graeber"
@@ -11,215 +11,6 @@ deliveredBy:
   - "readwise"
   - "kindle"
 ---
-
-
-# The Dawn of Everything
-# Highlights
-### Farewell to Humanity’s Childhood
-#### Or, why this is not a book about the origins of inequality
-- ![[books_The Dawn of Everything#258309231]]
-###### ^258309231q
-- ![[books_The Dawn of Everything#258309232]]
-###### ^258309232q
-- ![[books_The Dawn of Everything#258309233]]
-###### ^258309233q
-- ![[books_The Dawn of Everything#258309234]]
-###### ^258309234q
-- ![[books_The Dawn of Everything#258309235]]
-###### ^258309235q
-- ![[books_The Dawn of Everything#258309236]]
-###### ^258309236q
-- ![[books_The Dawn of Everything#258309237]]
-###### ^258309237q
-- ![[books_The Dawn of Everything#258309238]]
-###### ^258309238q
-- ![[books_The Dawn of Everything#261572330]]
-###### ^261572330q
-- ![[books_The Dawn of Everything#258309239]]
-###### ^258309239q
-- ![[books_The Dawn of Everything#258309240]]
-###### ^258309240q
-- ![[books_The Dawn of Everything#258309241]]
-###### ^258309241q
-- ![[books_The Dawn of Everything#261572331]]
-###### ^261572331q
-- ![[books_The Dawn of Everything#261572332]]
-###### ^261572332q
-#### WHY BOTH THE HOBBESIAN AND ROUSSEAUIAN VERSIONS OF HUMAN HISTORY HAVE DIRE POLITICAL IMPLICATIONS
-- ![[books_The Dawn of Everything#261572334]]
-###### ^261572334q
-- ![[books_The Dawn of Everything#261572335]]
-###### ^261572335q
-- ![[books_The Dawn of Everything#261572336]]
-###### ^261572336q
-- ![[books_The Dawn of Everything#261572337]]
-###### ^261572337q
-- ![[books_The Dawn of Everything#261572338]]
-###### ^261572338q
-- ![[books_The Dawn of Everything#261572339]]
-###### ^261572339q
-- ![[books_The Dawn of Everything#261572340]]
-###### ^261572340q
-#### SOME BRIEF EXAMPLES OF WHY RECEIVED UNDERSTANDINGS OF THE BROAD SWEEP OF HUMAN HISTORY ARE MOSTLY WRONG (OR, THE ETERNAL RETURN OF JEAN-JACQUES ROUSSEAU)
-- ![[books_The Dawn of Everything#261572342]]
-###### ^261572342q
-- ![[books_The Dawn of Everything#261572343]]
-###### ^261572343q
-- ![[books_The Dawn of Everything#261572344]]
-###### ^261572344q
-- ![[books_The Dawn of Everything#261572345]]
-###### ^261572345q
-- ![[books_The Dawn of Everything#261572346]]
-###### ^261572346q
-#### ON THE PURSUIT OF HAPPINESS
-- ![[books_The Dawn of Everything#261572348]]
-###### ^261572348q
-- ![[books_The Dawn of Everything#261572349]]
-###### ^261572349q
-- ![[books_The Dawn of Everything#261593419]]
-###### ^261593419q
-- ![[books_The Dawn of Everything#261593420]]
-###### ^261593420q
-- ![[books_The Dawn of Everything#261593421]]
-###### ^261593421q
-- ![[books_The Dawn of Everything#261593422]]
-###### ^261593422q
-- ![[books_The Dawn of Everything#261593423]]
-###### ^261593423q
-- ![[books_The Dawn of Everything#261593424]]
-###### ^261593424q
-- ![[books_The Dawn of Everything#261593425]]
-###### ^261593425q
-- ![[books_The Dawn of Everything#261593426]]
-###### ^261593426q
-- ![[books_The Dawn of Everything#261593454]]
-###### ^261593454q
-- ![[books_The Dawn of Everything#261593429]]
-###### ^261593429q
-- ![[books_The Dawn of Everything#261593430]]
-###### ^261593430q
-- ![[books_The Dawn of Everything#261593431]]
-###### ^261593431q
-#### HOW THE CONVENTIONAL NARRATIVE OF HUMAN HISTORY IS NOT ONLY WRONG, BUT QUITE NEEDLESSLY DULL
-- ![[books_The Dawn of Everything#261593433]]
-###### ^261593433q
-- ![[books_The Dawn of Everything#261593434]]
-###### ^261593434q
-- ![[books_The Dawn of Everything#261593435]]
-###### ^261593435q
-- ![[books_The Dawn of Everything#261593436]]
-###### ^261593436q
-- ![[books_The Dawn of Everything#261593455]]
-###### ^261593455q
-- ![[books_The Dawn of Everything#261593439]]
-###### ^261593439q
-- ![[books_The Dawn of Everything#261593440]]
-###### ^261593440q
-- ![[books_The Dawn of Everything#261593441]]
-###### ^261593441q
-- ![[books_The Dawn of Everything#261593442]]
-###### ^261593442q
-#### ON WHAT’S TO FOLLOW
-- ![[books_The Dawn of Everything#261593444]]
-###### ^261593444q
-- ![[books_The Dawn of Everything#261593445]]
-###### ^261593445q
-### Wicked Liberty
-#### The indigenous critique and the myth of progress
-### Why the State Has No Origin
-#### The humble beginnings of sovereignty, bureaucracy and politics
-### Full Circle
-#### On the historical foundations of the indigenous critique
-### Conclusion
-#### The dawn of everything
-- ![[books_The Dawn of Everything#261600809]]
-###### ^261600809q
-#### 1. FAREWELL TO HUMANITY’S CHILDHOOD
-- ![[books_The Dawn of Everything#261593448]]
-###### ^261593448q
-- ![[books_The Dawn of Everything#261593449]]
-###### ^261593449q
-- ![[books_The Dawn of Everything#261593450]]
-###### ^261593450q
-- ![[books_The Dawn of Everything#261593451]]
-###### ^261593451q
-- ![[books_The Dawn of Everything#261593452]]
-###### ^261593452q
-- ![[books_The Dawn of Everything#261593453]]
-###### ^261593453q
-#### 2. WICKED LIBERTY
-#### 3. UNFREEZING THE ICE AGE
-#### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
-#### 5. MANY SEASONS AGO
-#### 6. GARDENS OF ADONIS
-#### 7. THE ECOLOGY OF FREEDOM
-#### 8. IMAGINARY CITIES
-#### 9. HIDING IN PLAIN SIGHT
-#### 10. WHY THE STATE HAS NO ORIGIN
-#### 11. FULL CIRCLE
-#### 12. CONCLUSION
-# New highlights added December 25, 2021 at 11:45 AM
-- ![[books_The Dawn of Everything#262026842]]
-###### ^262026842q
-#### IN WHICH WE SHOW HOW CRITIQUES OF EUROCENTRISM CAN BACKFIRE, AND END UP TURNING ABORIGINAL THINKERS INTO ‘SOCK-PUPPETS’
-- ![[books_The Dawn of Everything#262026843]]
-###### ^262026843q
-- ![[books_The Dawn of Everything#262026812]]
-###### ^262026812q
-- ![[books_The Dawn of Everything#262026814]]
-###### ^262026814q
-- ![[books_The Dawn of Everything#262026815]]
-###### ^262026815q
-- ![[books_The Dawn of Everything#262026816]]
-###### ^262026816q
-- ![[books_The Dawn of Everything#262026817]]
-###### ^262026817q
-- ![[books_The Dawn of Everything#262026818]]
-###### ^262026818q
-- ![[books_The Dawn of Everything#262026819]]
-###### ^262026819q
-- ![[books_The Dawn of Everything#262026820]]
-###### ^262026820q
-- ![[books_The Dawn of Everything#262026844]]
-###### ^262026844q
-- ![[books_The Dawn of Everything#262026845]]
-###### ^262026845q
-- ![[books_The Dawn of Everything#262026824]]
-###### ^262026824q
-- ![[books_The Dawn of Everything#262026826]]
-###### ^262026826q
-- ![[books_The Dawn of Everything#262026827]]
-###### ^262026827q
-- ![[books_The Dawn of Everything#262026828]]
-###### ^262026828q
-- ![[books_The Dawn of Everything#262026829]]
-###### ^262026829q
-- ![[books_The Dawn of Everything#262026846]]
-###### ^262026846q
-- ![[books_The Dawn of Everything#262026832]]
-###### ^262026832q
-- ![[books_The Dawn of Everything#262026833]]
-###### ^262026833q
-- ![[books_The Dawn of Everything#262026834]]
-###### ^262026834q
-- ![[books_The Dawn of Everything#262026835]]
-###### ^262026835q
-- ![[books_The Dawn of Everything#262026836]]
-###### ^262026836q
-- ![[books_The Dawn of Everything#262026837]]
-###### ^262026837q
-- ![[books_The Dawn of Everything#262026838]]
-###### ^262026838q
-- ![[books_The Dawn of Everything#262026839]]
-###### ^262026839q
-- ![[books_The Dawn of Everything#262026840]]
-###### ^262026840q
-- ![[books_The Dawn of Everything#262026841]]
-###### ^262026841q
-
-
-
-
 # The Dawn of Everything
 
 **Related**:: 
@@ -698,88 +489,6 @@ question
 
 ### Wicked Liberty
 #### The indigenous critique and the myth of progress
-### Why the State Has No Origin
-#### The humble beginnings of sovereignty, bureaucracy and politics
-### Full Circle
-#### On the historical foundations of the indigenous critique
-### Conclusion
-#### The dawn of everything
-##### ^261600809
-
-  
-###### ^261600809q
-> Notes 
-  [^261600809]
-
-[^261600809]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10156
-
-#### 1. FAREWELL TO HUMANITY’S CHILDHOOD
-##### ^261593448
-
-  
-###### ^261593448q
-> For Hobbes, all things large and small in history were to be understood as the unfolding of forces set in motion by God, which are ultimately beyond the capacity of humans to control 
-  [^261593448]
-
-[^261593448]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10202
-
-##### ^261593449
-
-interesting connection to [[kharma]]  
-###### ^261593449q
-> Even a tailor making a garment is entering, from his first stitch, into a flow of historical entanglements that he is powerless to resist and of which he is largely unaware; his precise actions are tiny links in a great chain of causality that is the very fabric of human history, and – in this rather extreme metaphysics of entanglement – to suggest that he might have been doing these things some alternative way is to deny the whole, irreversible course of world history. 
-  [^261593449]
-
-[^261593449]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10204
-
-##### ^261593450
-
-  
-###### ^261593450q
-> For Rousseau, by contrast, what humans make, they could always unmake, or at least do differently. We could free ourselves from the chains that bind us; it just wasn’t going to be easy 
-  [^261593450]
-
-[^261593450]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10207
-
-##### ^261593451
-
-why would you want to imitate your child playing kitchen when you have your own?  
-###### ^261593451q
-> so many contemporary authors seem to enjoy imagining themselves as modern-day counterparts to the great social philosophers of the Enlightenment, men like Hobbes and Rousseau, playing out the same grand dialogue but with a more accurate cast of characters. 
-  [^261593451]
-
-[^261593451]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10213
-
-##### ^261593452
-
-  
-###### ^261593452q
-> Academics are very prone to a phenomenon called ‘schismogenesis’ 
-  [^261593452]
-
-[^261593452]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10250
-
-##### ^261593453
-
-  
-###### ^261593453q
-> actual direct democratic decision-making had been practised regularly in various parts of Africa or Amazonia, or for that matter in Russian or French peasant assemblies, for thousands of years; 
-  [^261593453]
-
-[^261593453]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10255
-
-#### 2. WICKED LIBERTY
-#### 3. UNFREEZING THE ICE AGE
-#### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
-#### 5. MANY SEASONS AGO
-#### 6. GARDENS OF ADONIS
-#### 7. THE ECOLOGY OF FREEDOM
-#### 8. IMAGINARY CITIES
-#### 9. HIDING IN PLAIN SIGHT
-#### 10. WHY THE STATE HAS NO ORIGIN
-#### 11. FULL CIRCLE
-#### 12. CONCLUSION
-# New highlights added December 25, 2021 at 11:45 AM
 ##### ^262026842
 
   
@@ -1021,6 +730,69 @@ highlight_tags:: [[christianity]]
 
 [^262026839]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=775
 
+### Why the State Has No Origin
+#### The humble beginnings of sovereignty, bureaucracy and politics
+### Full Circle
+#### On the historical foundations of the indigenous critique
+### Conclusion
+#### The dawn of everything
+### Notes
+#### 1. FAREWELL TO HUMANITY’S CHILDHOOD
+##### ^261593448
+
+  
+###### ^261593448q
+> For Hobbes, all things large and small in history were to be understood as the unfolding of forces set in motion by God, which are ultimately beyond the capacity of humans to control 
+  [^261593448]
+
+[^261593448]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10202
+
+##### ^261593449
+
+interesting connection to [[kharma]]  
+###### ^261593449q
+> Even a tailor making a garment is entering, from his first stitch, into a flow of historical entanglements that he is powerless to resist and of which he is largely unaware; his precise actions are tiny links in a great chain of causality that is the very fabric of human history, and – in this rather extreme metaphysics of entanglement – to suggest that he might have been doing these things some alternative way is to deny the whole, irreversible course of world history. 
+  [^261593449]
+
+[^261593449]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10204
+
+##### ^261593450
+
+  
+###### ^261593450q
+> For Rousseau, by contrast, what humans make, they could always unmake, or at least do differently. We could free ourselves from the chains that bind us; it just wasn’t going to be easy 
+  [^261593450]
+
+[^261593450]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10207
+
+##### ^261593451
+
+why would you want to imitate your child playing kitchen when you have your own?  
+###### ^261593451q
+> so many contemporary authors seem to enjoy imagining themselves as modern-day counterparts to the great social philosophers of the Enlightenment, men like Hobbes and Rousseau, playing out the same grand dialogue but with a more accurate cast of characters. 
+  [^261593451]
+
+[^261593451]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10213
+
+##### ^261593452
+
+  
+###### ^261593452q
+> Academics are very prone to a phenomenon called ‘schismogenesis’ 
+  [^261593452]
+
+[^261593452]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10250
+
+##### ^261593453
+
+  
+###### ^261593453q
+> actual direct democratic decision-making had been practised regularly in various parts of Africa or Amazonia, or for that matter in Russian or French peasant assemblies, for thousands of years; 
+  [^261593453]
+
+[^261593453]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10255
+
+#### 2. WICKED LIBERTY
 ##### ^262026840
 
 #TO/EXPLORE/READ  
@@ -1039,3 +811,13 @@ highlight_tags:: [[christianity]]
 
 [^262026841]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10340
 
+#### 3. UNFREEZING THE ICE AGE
+#### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
+#### 5. MANY SEASONS AGO
+#### 6. GARDENS OF ADONIS
+#### 7. THE ECOLOGY OF FREEDOM
+#### 8. IMAGINARY CITIES
+#### 9. HIDING IN PLAIN SIGHT
+#### 10. WHY THE STATE HAS NO ORIGIN
+#### 11. FULL CIRCLE
+#### 12. CONCLUSION

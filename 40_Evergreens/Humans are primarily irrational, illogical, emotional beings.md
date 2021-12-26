@@ -75,7 +75,7 @@ Much of human [[suffering]] has been the fulfillment of these behaviors in the h
 - [[The church will fail if christians keep aligning themselves with hate instead of love]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - [[Identity is your understanding of yourself vs your interaction with the world]]
-	- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+	- [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 
 ##### Is it worth it?
 

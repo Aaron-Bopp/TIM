@@ -18,7 +18,7 @@ sr-ease: 252
 
 If your assigned gender does not match your true gender your body will produce biological warnings of [[depression]], [[depersonalization]], [[derealization]], [[dissociation]], and obviously [[gender dysphoria]], but studies have shown that early social acceptance can bring these signs to near zero [^1]
 
-Unfortunately, [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]], which means that most trans children don't receive this kind of support. 
+Unfortunately, [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]], which means that most trans children don't receive this kind of support. 
 
 ##### Sex determines phenotype and genotype but not gender
 

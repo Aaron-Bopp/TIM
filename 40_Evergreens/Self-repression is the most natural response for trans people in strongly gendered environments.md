@@ -17,7 +17,7 @@ Trans people can look at [[Observational learning]] and [[gender schema]]'s and 
 
 This is why thoughts like [[You're never sure if you're trans]] are so difficult to overcome.
 
-#TO/TEND/GRAFT  [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]], [[You can be taught to invalidate your own emotions]], [[Avoidance IS the most-efficient way of dealing with emotion]]
+#TO/TEND/GRAFT  [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]], [[You can be taught to invalidate your own emotions]], [[Avoidance IS the most-efficient way of dealing with emotion]]
 
 ### <hr class="footnote"/>
 

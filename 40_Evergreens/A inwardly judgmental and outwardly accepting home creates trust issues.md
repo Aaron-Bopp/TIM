@@ -17,7 +17,7 @@ sr-ease: 130
     - [[Children in traumatic households expect more love than their parents can give]]
     - [[Children will imitate whatever is modeled for them]]
     - [[Our authority figures curate and reinforce what we are allowed to imitate]]
-    - [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+    - [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 - [[self]] #TO/TEND/GRAFT 
     - [[Self-hatred is born out of dissonance between self-image and self-perception]]
     - [[Identity is your understanding of yourself vs your interaction with the world]]

@@ -19,7 +19,7 @@ Possibly an answer to [[What is the cognitive effect of living in an unjust worl
 	- [[Humans are primarily irrational, illogical, emotional beings]]
 		- [[Rationalizations are defense-mechanisms against strong emotions]]
 - [[mental health]]
-	- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+	- [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 	- [[We carry our childhood wounds into adulthood]]
 		- [[A repressed identity creates a mistrust of self-love and self-esteem]]
 		- [[Avoidance IS the most-efficient way of dealing with emotion]]

@@ -25,7 +25,7 @@ Because Christians have always had such a simple and obvious choice to avoid thi
 - [[We carry our childhood wounds into adulthood]]
 - [[Children make wide assumptions about the world]]
 - [[Parents need to model the ability to deal with emotion to their children]]
-- [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]]
+- [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 - [[Human's will find explanations for inexplainable things]]
 
 ### <hr class="footnote"/>
