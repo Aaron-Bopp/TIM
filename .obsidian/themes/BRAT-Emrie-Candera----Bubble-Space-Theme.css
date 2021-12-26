@@ -6395,20 +6395,21 @@ Hide Aside and hover to reveal it*/
         border-bottom: 1px solid rgb(111, 70, 145) ;
     }  
 
-    .theme-dark .cm-s-obsidian span.cm-hashtag-begin {
+    /* .theme-dark .cm-s-obsidian span.cm-hashtag-begin {
         display: none;
         border: none ;
         margin-right: -6px;
-    }
+    } */
 
-    .theme-dark .cm-s-obsidian span.cm-hashtag::before {
+    .theme-dark .cm-s-obsidian span.cm-formatting-hashtag {
         content: '🌟';
-        padding-left: 0px !important;
+        padding-left: 30.0px !important;
     }
 
 
     .theme-dark .cm-s-obsidian span.cm-hashtag-end {
         border-right: 1px solid rgb(63, 84, 139);
+        padding-left: 10px;
         padding-right: 7px;
         border-left: none;
         border-radius: 10px;

@@ -75,4 +75,11 @@ visibility: visible !important;
 .cm-s-obsidian P, 
 .markdown-preview-view p {
     padding-bottom: 0px;
-    }
+}
+
+.theme-dark .cm-s-obsidian span.cm-hashtag {
+    content: "#" !important;
+}
+.theme-dark .cm-s-obsidian span.cm-hashtag {
+    content: "" !important;
+}

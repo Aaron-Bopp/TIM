@@ -18,6 +18,7 @@ Don't let yourself get bogged down with questions like, "Am I using the system t
 - [[Use philosophies as far they are useful and nothing more]]
 - [[Hard rules create cognitive bias]]
  
+#node/source/qoutes 
 
 ### <hr class="footnote"/>
 

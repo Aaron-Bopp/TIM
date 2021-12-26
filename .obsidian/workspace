@@ -27,6 +27,18 @@
             {
               "leaf": "6c7a0de01257033c",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":14.530356815883092}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Write your notes with a system not within a system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":26},\"to\":{\"line\":23,\"ch\":26}},\"scroll\":5.785714656722796}"
             },
@@ -124,12 +136,6 @@
               "leaf": "6c7a0de01257033c",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -487,18 +493,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 643.2000122070312
+    "width": 643.2000122070312,
+    "collapsed": true
   },
   "active": "6c7a0de01257033c",
   "lastOpenFiles": [
     "40_Evergreens/Write your notes with a system not within a system.md",
+    "40_Evergreens/Choosing a note writing system is choosing a system for thought.md",
     "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
     "40_Evergreens/Concepts are the fundamental unit of knowledge.md",
     "40_Evergreens/What are the differences between evergreen notes and conceptual notes.md",
     "40_Evergreens/What is language's fundamental unit.md",
     "40_Evergreens/Names matter because they effect people's perception.md",
     "40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md",
-    "40_Evergreens/Choosing a note writing system is choosing a system for thought.md",
     "50_Projects/Readwise Export for Obsidian - Templates and Process.md",
     "40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md"
   ]

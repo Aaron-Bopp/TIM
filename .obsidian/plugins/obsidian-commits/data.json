@@ -6738,7 +6738,7 @@
     "40_Evergreens/Choosing a note writing system is choosing a system for thought.md": {
       "size": 3103,
       "tags": 2,
-      "links": 20
+      "links": 24
     },
     "30_Topics/31_Stubs/friction.md": {
       "size": 0,
@@ -9537,7 +9537,7 @@
     },
     "40_Evergreens/Write your notes with a system not within a system.md": {
       "size": 829,
-      "tags": 2,
+      "tags": 3,
       "links": 10
     },
     "00_Meta/Personal MOC.md": {
@@ -9715,13 +9715,13 @@
     "/": {
       "Refactor": 1840,
       "Create": 2210,
-      "Link": 3983,
+      "Link": 3985,
       "Expand": 426
     },
     "40_Evergreens": {
       "Refactor": 169,
       "Create": 34,
-      "Link": 427,
+      "Link": 429,
       "Expand": 236
     }
   },
@@ -9742,7 +9742,7 @@
       "12": 422,
       "13": 270,
       "14": 2332,
-      "15": 138,
+      "15": 140,
       "16": 899,
       "17": 1567,
       "18": 209,
@@ -9768,7 +9768,7 @@
       "12": 39,
       "13": 85,
       "14": 66,
-      "15": 6,
+      "15": 8,
       "16": 4,
       "17": 32,
       "18": 9,
@@ -9787,7 +9787,7 @@
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
-      "Sun": 4994
+      "Sun": 4996
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -9796,7 +9796,7 @@
       "Thu": 17,
       "Fri": 91,
       "Sat": 0,
-      "Sun": 409
+      "Sun": 411
     }
   },
   "recentCommits": {
@@ -9961,6 +9961,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide unparalled access to knowledge.md\"> Densely linked webs of thought provide unparalled access to knowledge </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Feynman Learning Technique - Farnam Street.md\"> articles_The Feynman Learning Technique - Farnam Street </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
@@ -10010,8 +10011,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus.md\"> articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From 🐸 Frog Time 🐸.md\"> tweets_Tweets From 🐸 Frog Time 🐸 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md\"> tweets_Tweets From Cressa Maeve Beer </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md\"> tweets_Tweets From Cressa Maeve Beer </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -10103,6 +10103,7 @@
         "<a class=\"internal-link\" href=\"31_Stubstest3.md\"> 31_Stubstest3 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Feynman Learning Technique - Farnam Street.md\"> articles_The Feynman Learning Technique - Farnam Street </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
@@ -10145,7 +10146,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
@@ -10406,6 +10406,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/asdf.md\"> asdf </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
@@ -10455,8 +10456,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10499,6 +10499,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
@@ -10548,8 +10549,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
