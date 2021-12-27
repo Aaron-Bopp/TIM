@@ -20,7 +20,7 @@
 	- [[Black identity is inherently political]]
 	- [[Neurodiverse people are siloed into systems that work against them]]
 	- [[Write your notes with a system not within a system]]
-	- [[Names matter because they effect people's perception]]
+	- [[Names matter because they effect people's perception and understanding]]
 	- [[Humans have decided to take advantage of an unjust world]]
 	- [[To those with privilege, losing it feels like oppression]]
 	- [[Does cognitive dissonance increase your capacity for endurance]]

@@ -10,12 +10,13 @@ sr-ease: 210
 
 #### [[What are the differences between evergreen notes and conceptual notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Andy Matuschak's Evergreen Notes]] defines there key properties
- - concept-oriented
- - atomicity
- - emphasis on linkage
- - serendipity
- - develop over time 
+> By contrast, because [Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1), they’re small enough in scope that you can start and finish one note in well under half an hour (see [Evergreen notes permit smooth incremental progress in writing (“incremental writing”)](https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97)). Yet each note you write represents an increment in your thinking about that specific idea, and each note enriches the broader network of links ([Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)).
+^[[Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb)]
+>
+> <cite>[[Andy Matuschak]]</cite>
+
+[[Andy Matuschak's Evergreen Notes]] define [[evergreen notes]] as both [concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF) and [atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1) but in my vault I have primarily combined these concepts. This is partially because I think [[Conceptual notes are lexically superior to atomic notes]] but is primarily because [[Conceptual notes vary in size and scope]]. I do not think that there is any universal size that you should aim for in [[note writing]]. 
+
 I have evolved this to include
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Evergreen notes should be constantly integrating new knowledge]]

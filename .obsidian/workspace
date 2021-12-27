@@ -9,26 +9,62 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
+            "file": "40_Evergreens/Communities are knowledge graphs.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "6c7a0de01257033c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/stereotype.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are knowledge graphs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "6c7a0de01257033c",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":10.205128205128204}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/Spaced Repetition Inbox.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":6.7913844651442306}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Take note of the simple things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":63},\"to\":{\"line\":16,\"ch\":63}},\"scroll\":0.8666666348775228}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Names matter because they effect people's perception and understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":26},\"to\":{\"line\":24,\"ch\":26}},\"scroll\":10.78974366799379}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes vary in size and scope.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":25},\"to\":{\"line\":23,\"ch\":25}}}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":221},\"to\":{\"line\":34,\"ch\":221}},\"scroll\":27.196873664855957}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "6c7a0de01257033c",
@@ -101,42 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Write your notes with a system not within a system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":26},\"to\":{\"line\":23,\"ch\":26}},\"scroll\":5.785714656722796}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":12.722726995294744}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":26},\"to\":{\"line\":30,\"ch\":26}},\"scroll\":5.892857243211903}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":25},\"to\":{\"line\":45,\"ch\":25}},\"scroll\":25.0357142522627}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Readwise Export for Obsidian - Templates and Process.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":33},\"to\":{\"line\":4,\"ch\":33}},\"scroll\":0}"
             }
           ]
         }
@@ -170,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
+                "file": "40_Evergreens/Communities are knowledge graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
+                "file": "40_Evergreens/Communities are knowledge graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -364,7 +365,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md"
+                "file": "40_Evergreens/Communities are knowledge graphs.md"
               }
             },
             "pane-relief:history-v1": {
@@ -385,7 +386,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
+                "file": "40_Evergreens/Communities are knowledge graphs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -496,15 +497,15 @@
   },
   "active": "6c7a0de01257033c",
   "lastOpenFiles": [
-    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
-    "30_Topics/32_Terms/stereotype.md",
-    "40_Evergreens/Hard boundaries reduce opportunities for creativity.md",
-    "40_Evergreens/What are the differences between evergreen notes and conceptual notes.md",
-    "40_Evergreens/Neurodiverse people are siloed into systems that work against them.md",
     "40_Evergreens/Communities are knowledge graphs.md",
-    "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
-    "40_Evergreens/Humans have decided to take advantage of an unjust world.md",
-    "40_Evergreens/To those with privilege, losing it feels like oppression.md",
-    "40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md"
+    "40_Evergreens/Conceptual notes are lexically superior to atomic notes.md",
+    "20_Entry/22 Note by status/Spaced Repetition Inbox.md",
+    "40_Evergreens/Take note of the simple things in life.md",
+    "40_Evergreens/Hard boundaries reduce opportunities for creativity.md",
+    "40_Evergreens/Names matter because they effect people's perception and understanding.md",
+    "40_Evergreens/Conceptual notes vary in size and scope.md",
+    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
+    "40_Evergreens/What are the differences between evergreen notes and conceptual notes.md",
+    "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md"
   ]
 }

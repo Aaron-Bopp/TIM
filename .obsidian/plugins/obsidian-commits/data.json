@@ -6697,8 +6697,8 @@
     },
     "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md": {
       "size": 3719,
-      "tags": 5,
-      "links": 15
+      "tags": 2,
+      "links": 16
     },
     "30_Topics/31_Stubs/validation.md": {
       "size": 0,
@@ -9632,7 +9632,7 @@
     },
     "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md": {
       "size": 716,
-      "tags": 2,
+      "tags": 3,
       "links": 9
     },
     "10_Sources/Readwise/Articles/articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com.md": {
@@ -9685,20 +9685,15 @@
       "tags": 2,
       "links": 1
     },
-    "40_Evergreens/Names matter because they effect people's perception.md": {
-      "size": 1077,
-      "tags": 2,
-      "links": 8
-    },
     "40_Evergreens/Concepts are the fundamental unit of knowledge.md": {
       "size": 823,
       "tags": 2,
       "links": 8
     },
     "40_Evergreens/What are the differences between evergreen notes and conceptual notes.md": {
-      "size": 885,
+      "size": 1978,
       "tags": 3,
-      "links": 9
+      "links": 12
     },
     "10_Sources/Readwise/Articles/articles_The Feynman Learning Technique - Farnam Street.md": {
       "size": 799,
@@ -9707,27 +9702,37 @@
     },
     "30_Topics/31_Stubs/propaganda.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "30_Topics/32_Terms/stereotype.md": {
       "size": 321,
       "tags": 1,
       "links": 4
+    },
+    "40_Evergreens/Conceptual notes vary in size and scope.md": {
+      "size": 738,
+      "tags": 3,
+      "links": 9
+    },
+    "40_Evergreens/Names matter because they effect people's perception and understanding.md": {
+      "size": 1241,
+      "tags": 2,
+      "links": 8
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1844,
-      "Create": 2211,
-      "Link": 3990,
-      "Expand": 429
+      "Refactor": 1848,
+      "Create": 2212,
+      "Link": 3999,
+      "Expand": 433
     },
     "40_Evergreens": {
-      "Refactor": 172,
-      "Create": 34,
-      "Link": 434,
-      "Expand": 239
+      "Refactor": 176,
+      "Create": 35,
+      "Link": 442,
+      "Expand": 243
     }
   },
   "dailyCommits": {
@@ -9752,8 +9757,8 @@
       "17": 1567,
       "18": 209,
       "19": 231,
-      "20": 171,
-      "21": 279,
+      "20": 183,
+      "21": 285,
       "22": 263,
       "23": 305
     },
@@ -9778,8 +9783,8 @@
       "17": 32,
       "18": 9,
       "19": 43,
-      "20": 25,
-      "21": 49,
+      "20": 36,
+      "21": 55,
       "22": 12,
       "23": 59
     }
@@ -9792,7 +9797,7 @@
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
-      "Sun": 5009
+      "Sun": 5027
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -9801,12 +9806,16 @@
       "Thu": 17,
       "Fri": 91,
       "Sat": 0,
-      "Sun": 422
+      "Sun": 439
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
@@ -9853,13 +9862,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/propaganda.md\"> propaganda </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Feynman Learning Technique - Farnam Street.md\"> articles_The Feynman Learning Technique - Farnam Street </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
@@ -9909,10 +9915,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseperable from other identities.md\"> black identity is inseperable from other identities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherintely political.md\"> black identity is inherintely political </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/stereotype.md\"> stereotype </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception.md\"> Names matter because they effect people's perception </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Readwise Export for Obsidian - Templates and Process.md\"> Readwise Export for Obsidian - Templates and Process </a>",
@@ -9962,10 +9968,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Abigail Thorn.md\"> Abigail Thorn </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/propaganda.md\"> propaganda </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Feynman Learning Technique - Farnam Street.md\"> articles_The Feynman Learning Technique - Farnam Street </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
@@ -10012,11 +10021,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/progress.md\"> progress </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/humanity.md\"> humanity </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus.md\"> articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From 🐸 Frog Time 🐸.md\"> tweets_Tweets From 🐸 Frog Time 🐸 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The internet allows niche topics to flourish.md\"> The internet allows niche topics to flourish </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md\"> tweets_Tweets From Cressa Maeve Beer </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/humanity.md\"> humanity </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -10108,6 +10113,11 @@
         "<a class=\"internal-link\" href=\"31_Stubstest3.md\"> 31_Stubstest3 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
@@ -10153,14 +10163,12 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md\"> articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal.md\"> articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
@@ -10208,10 +10216,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoLife after a cult.md\"> videoLife after a cult </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\"> videoHow We're Shaped Mentally </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\"> videoHealing from Festered Emotions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDestiny Interviews Dr. K.md\"> videoDestiny Interviews Dr. K </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoBreaking the Cycle of Overthinking.md\"> videoBreaking the Cycle of Overthinking </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Using multiple processes vs multiple threads.md\"> Using multiple processes vs multiple threads </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/QUICKNOTE.md\"> QUICKNOTE </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDestiny Interviews Dr. K.md\"> videoDestiny Interviews Dr. K </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
@@ -10269,6 +10274,10 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
@@ -10315,11 +10324,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Republicans have become a true opposition party.md\"> Republicans have become a true opposition party </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10355,9 +10360,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Readwise Export for Obsidian - Templates and Process.md\"> Readwise Export for Obsidian - Templates and Process </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception.md\"> Names matter because they effect people's perception </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md\"> Trans children will repress their dysphoria if they have been effectively taught it is unacceptable </a>",
@@ -10407,10 +10414,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testing one.md\"> testing one </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/asfdasdfasdfasdfasdf.md\"> asfdasdfasdfasdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdfasdf.md\"> asdfasdfasdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdf.md\"> asdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdfasdf.md\"> asdfasdfasdfasdf </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
@@ -10458,10 +10467,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md\"> Longform media lets you reach people where they are at, short form media lets you reach people where you are at </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10504,6 +10510,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
@@ -10549,12 +10560,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between optimism and hope.md\"> What is the difference between optimism and hope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between optimism and hope.md\"> What is the difference between optimism and hope </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -10581,7 +10587,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",

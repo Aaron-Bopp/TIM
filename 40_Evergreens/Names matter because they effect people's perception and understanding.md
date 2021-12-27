@@ -3,12 +3,12 @@ created: 2021-12-22
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-26
-sr-interval: 1
+sr-due: 2021-12-28
+sr-interval: 2
 sr-ease: 150
 ---
 
-#### [[Names matter because they effect people's perception]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Names matter because they effect people's perception and understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 How something is named effects people's [[perception]] of it.
 
@@ -22,7 +22,7 @@ In [[my TO(DO) and EVER(GREEN) structure]], I have classification's of seed, spr
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[inter-personal communication]], [[influence]], [[self-love|self-care]], [[language]]

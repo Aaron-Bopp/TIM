@@ -10,6 +10,8 @@ sr-ease: 230
 
 #### [[Evergreen notes should be constantly integrating new knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/DO/CONCEPTUALIZE [How Can I Believe You? - YouTube](https://www.youtube.com/watch?v=cVuKitl6qWA)
+
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Write your notes with a system not within a system]]
 - [[Write your notes like you're planting an evergreen forest]]
