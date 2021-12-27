@@ -13,7 +13,7 @@ sr-ease: 167
 [Loving the Loves of Your Loves - YouTube](https://www.youtube.com/watch?v=uZhnL_cTrfQ) from [[John Green]]
 
 %%
-#TO/DO/FIND video from [[Tiktok]] guy about this with the bird example
+#TO/DO/FIND video from [[Tiktok]] guy (abraham piper?) about this with the bird example
 %%
 
 Mirroring the joy that your loved ones is a basic way of showing your love for them.

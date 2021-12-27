@@ -27,7 +27,7 @@ source: NWMSU
                 - Sitcoms created image of stereotypical of life
                 - Advertising increased a lot including in politics
             - [[Nuclear Fear]] 
-                - Federal Civil Defense administration spread propaganda in schools and popular culture 
+                - Federal Civil Defense administration spread [[propaganda]] in schools and popular culture 
                     - We live in an atomic age and we need to be aware
                     - Overly prepared and overblown fear
                         - Lots of people built fully furnished bunkers 

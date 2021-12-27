@@ -5148,7 +5148,7 @@
     "10_Sources/History/notes1950's General Notes.md": {
       "size": 5517,
       "tags": 1,
-      "links": 15
+      "links": 16
     },
     "10_Sources/History/notes1960's General Notes.md": {
       "size": 30383,
@@ -8778,7 +8778,7 @@
     "40_Evergreens/Take note of the simple things in life.md": {
       "size": 1117,
       "tags": 2,
-      "links": 6
+      "links": 8
     },
     "40_Evergreens/Note structures should help curate knowledge.md": {
       "size": 2558,
@@ -9015,11 +9015,6 @@
       "tags": 3,
       "links": 11
     },
-    "00_Meta/Personal/I have a stored up emotion of hating myself.md": {
-      "size": 1270,
-      "tags": 5,
-      "links": 11
-    },
     "00_Meta/Personal/I relate to.md": {
       "size": 13186,
       "tags": 1,
@@ -9028,17 +9023,12 @@
     "00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md": {
       "size": 2428,
       "tags": 2,
-      "links": 15
-    },
-    "00_Meta/Personal/In order to for my parents to love me, they need to admit they might be wrong.md": {
-      "size": 1799,
-      "tags": 3,
-      "links": 12
+      "links": 5
     },
     "00_Meta/Personal/Journal.md": {
-      "size": 22860,
-      "tags": 3,
-      "links": 53
+      "size": 28060,
+      "tags": 5,
+      "links": 71
     },
     "00_Meta/Personal/my emotions.md": {
       "size": 380,
@@ -9116,11 +9106,6 @@
       "links": 0
     },
     "30_Topics/31_Stubs/shame.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "30_Topics/31_Stubs/@mykola on Twitter.md": {
       "size": 0,
       "tags": 1,
       "links": 0
@@ -9505,11 +9490,6 @@
       "tags": 2,
       "links": 13
     },
-    "00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregardment of affection.md": {
-      "size": 911,
-      "tags": 4,
-      "links": 8
-    },
     "30_Topics/31_Stubs/protests.md": {
       "size": 0,
       "tags": 1,
@@ -9548,7 +9528,7 @@
     "40_Evergreens/Non-faith issues have been co-opted to keep people in the Christian church.md": {
       "size": 2315,
       "tags": 4,
-      "links": 22
+      "links": 23
     },
     "30_Topics/31_Stubs/scaffolding.md": {
       "size": 0,
@@ -9719,19 +9699,29 @@
       "size": 1241,
       "tags": 2,
       "links": 8
+    },
+    "30_Topics/36_Lists/Life principles.md": {
+      "size": 759,
+      "tags": 1,
+      "links": 8
+    },
+    "30_Topics/34_People/@mykola on Twitter.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1848,
-      "Create": 2212,
-      "Link": 3999,
-      "Expand": 433
+      "Refactor": 1855,
+      "Create": 2213,
+      "Link": 4010,
+      "Expand": 436
     },
     "40_Evergreens": {
       "Refactor": 176,
       "Create": 35,
-      "Link": 442,
+      "Link": 445,
       "Expand": 243
     }
   },
@@ -9758,7 +9748,7 @@
       "18": 209,
       "19": 231,
       "20": 183,
-      "21": 285,
+      "21": 307,
       "22": 263,
       "23": 305
     },
@@ -9784,7 +9774,7 @@
       "18": 9,
       "19": 43,
       "20": 36,
-      "21": 55,
+      "21": 58,
       "22": 12,
       "23": 59
     }
@@ -9797,7 +9787,7 @@
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
-      "Sun": 5027
+      "Sun": 5049
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -9806,12 +9796,15 @@
       "Thu": 17,
       "Fri": 91,
       "Sat": 0,
-      "Sun": 439
+      "Sun": 442
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
@@ -9859,12 +9852,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between optimism and hope.md\"> What is the difference between optimism and hope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/A list of principles.md\"> A list of principles </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/propaganda.md\"> propaganda </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The Feynman Learning Technique - Farnam Street.md\"> articles_The Feynman Learning Technique - Farnam Street </a>",
@@ -9914,10 +9905,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Overton window.md\"> Overton window </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseperable from other identities.md\"> black identity is inseperable from other identities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherintely political.md\"> black identity is inherintely political </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/@mykola on Twitter.md\"> @mykola on Twitter </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Life principles.md\"> Life principles </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/stereotype.md\"> stereotype </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception.md\"> Names matter because they effect people's perception </a>",
@@ -9965,12 +9958,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettelkassen.md\"> Zettelkassen </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human interaction.md\"> human interaction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/Abigail Thorn.md\"> Abigail Thorn </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/English is six languages in a trenchcoat trying to imitate a working form of communication..md\"> English is six languages in a trenchcoat trying to imitate a working form of communication. </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/propaganda.md\"> propaganda </a>",
@@ -10018,10 +10011,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/progress.md\"> progress </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/humanity.md\"> humanity </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -10060,6 +10050,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregardment of affection.md\"> My unfulfilled need for parental validation became a fear of rejection and disregardment of affection </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\"> In order to for my parents to love me, they need to admit they might be wrong </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/NOTESCREATEDLISTS.md\"> NOTESCREATEDLISTS </a>",
         "<a class=\"internal-link\" href=\"books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
@@ -10107,12 +10100,17 @@
         "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/^.md\"> ^ </a>",
         "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/PDF.md\"> PDF </a>",
         "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/death.au.md\"> death.au </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/Modular Markup Processor.md\"> Modular Markup Processor </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/test5.md\"> test5 </a>",
-        "<a class=\"internal-link\" href=\"31_Stubs/test3.md\"> test3 </a>",
-        "<a class=\"internal-link\" href=\"31_Stubstest3.md\"> 31_Stubstest3 </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/Modular Markup Processor.md\"> Modular Markup Processor </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes1950's General Notes.md\"> notes1950's General Notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the Christian church.md\"> Non-faith issues have been co-opted to keep people in the Christian church </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
@@ -10155,15 +10153,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/To those with privilege, losing it feels like oppression.md\"> To those with privilege, losing it feels like oppression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com.md\"> articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_How to Withdraw Money From Your 401(k) - SmartAsset.md\"> articles_How to Withdraw Money From Your 401(k) - SmartAsset </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md\"> articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal.md\"> articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
@@ -10219,6 +10209,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDestiny Interviews Dr. K.md\"> videoDestiny Interviews Dr. K </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\"> I thought negative emotions were natural and that positive emotions weren't real </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
@@ -10267,7 +10258,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"20_Entry/202 NOW.md\"> 202 NOW </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ]
@@ -10510,6 +10500,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the Christian church.md\"> Non-faith issues have been co-opted to keep people in the Christian church </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
@@ -10557,10 +10550,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between optimism and hope.md\"> What is the difference between optimism and hope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between optimism and hope.md\"> What is the difference between optimism and hope </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",

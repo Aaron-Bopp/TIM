@@ -16,7 +16,7 @@ source: null
 ## Document 2:  House Resolution Creating HUAC:  [House resolution.docx](https://nwmissouri.instructure.com/courses/35892/files/4822945?wrap=1)
 - Document:  Excerpt from House Resolution 282, the legislation that established the House Un-American Activities Committee in May 1938
 - for the [[purpose]] of conducting an investigation of 
-	1. (1) the extent, character, and object of** un-American **propaganda activities in [[America|the United States]]
+	1. (1) the extent, character, and object of** un-American **[[propaganda]] activities in [[America|the United States]]
 	2. (2) diffusion of domestic and foreign [[propaganda]] that attacks the constitution
 	3. (3) questions relating to such
 ## Document 3:  [J. Edgar Hoover testimony](https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3632)

@@ -59,6 +59,13 @@ Everything is a lie. Everthing is true
 pain
 %%Looking back now this just reads as [[over-stimulation]] I was in the middle of the one act at the time - 2021/12/12 %%
 
+## July
+### 2021-07-30
+#### My unfulfilled need for parental validation became a fear of rejection and disregardment of affection
+
+[[An unfulfilled need for validation results in a fear of rejection]] and [[A inwardly judgmental and outwardly accepting home creates trust issues]] were both at play during my childhood. [[my parents]] were very loving and very religious which I think is what brought about my [[religious trauma]] and my intense need for [[emotional validation]] from them. 
+
+#TO/TEND/CONCEPTUALIZE link between [[religious trauma]] and [[emotional validation]]
 ## June
 
 ### 2021-6-11
@@ -68,6 +75,40 @@ My self-image is purely based on other's perceptions of me
 This is a bit part of [[My relationship with my parents]]. From an early age, [[Self-hatred is born out of dissonance between self-image and self-perception]] caused me to not trust my own experience of the world because as a [[transgender|trans]] person, my [[self-image]] or my gender was wholly different than the [[gender]] that was expected of me.
 
 This really impacted my [[social anxiety]] because [[Your anxiety knows your insecurities better than you do]].
+#### I have a stored up emotion of hating myself
+
+When human's feel a certain emotion, they have no choice but to deal with it. When they feel that emotion again they have a choice whether to deal with it the same way as before or a different way. 
+^[#TO/EXPLORE/RESEARCH [[empathy#Somatic empathy]] relationship [[Humans are a product of evolution]]]
+In [[childhood]] we do not have many ways to deal with emotion, and so when they come up our brain will make strong and powerful decisions to deal with these emotions.
+^[this is why [[We carry our childhood wounds into adulthood]]]
+The fundamental emotional reactions of crying, laughter, screaming, are all a part of how we deal with the world. This is instinctual, but as children develop they start to learn different methods of dealing with emotions. [[Parents need to model the ability to deal with emotion to their children]]. 
+
+Unfortunately, one way of dealing with emotion is avoidance, and [[Avoidance IS the most-efficient way of dealing with emotion]]. 
+#### In order to for my parents to love me, they need to admit they might be wrong
+
+In order for me to feel like [[my parents]] [[love]] me, I need to see them empathize with me --> which requires them to consider the fact that they might be wrong:[[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
+
+[[empathy]] requires being able to put yourself in someone else shoes. For [[my parents]] this would mean recognizing that I may be right and that god doesn't exist. The reason this is so important to their [[love]] for me, is because their [[love]] for me is contingent on my being a [[Christianity|Christian]]. 
+
+[[Loving a a non-believer requires loving the fact that they are going to hell]]. For me, the [[Evangelicalism|Evangelical]] interpretation of hell, is so hateful, and destructive, that I cannot believe that the [[love]] [[my parents]] feel for me is real. If they did [[love]] me, they would not be able to live with the belief that I am going to hell. Similarly, [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]. 
+
+This issue is not black and white, the [[love]] that [[my parents]] feel for me is real, but it is not as real, or as full as if I was a [[Christianity | Christian]]. They may never admit that their [[love]] is not real, but they admit that they do not [[love]] me as much as they would if I was a [[Christianity|Christian]]. I think that may be a thought that they have had. 
+
+[[Religious concepts are often too powerful for a child's mind]]
+
+
+### 2021-06-03
+#### I thought negative emotions were natural and that positive emotions weren't real
+
+I think from an early age I had many sources of negative feedback for things that made me feel like who I was supposed to be was unnatural. Whether it was getting my hair cut short, or feeling a rush of testosterone when playing sports or being competitive, I didn't like the things that I was supposed to according to my assigned [[gender]] ([[Self-hatred is born out of dissonance between self-image and self-perception]], [[Gender Dysphoria is based in a intrinsic wrongness of self]]). Things that did make me feel good were discouraged and so I tried to repress to feeling and urges and in the process repressed most of my emotions. 
+
+[[An unfulfilled need for validation results in a fear of rejection]]
+
+The only logical thought process I could have at that age ([[We carry our childhood wounds into adulthood]]) was that the positive emotions that received negative condemnation were unnatural and so I made a sweeping generalization that all positive emotions were unnatural. This is why I poured my interests into things that were intellectual pursuits. My unfulfilled need for parental validation became a fear of rejection and disregardment of affection
+
+While I do think this sweeping generalization was there. Obviously as a child didn't understand it. Sometimes I would pursue things because I thought they really did make me happy, while other times they actually did make me happy but in a way that I didn't think was wrong. I still did things that makes me happy, I'm not going to lose those as I understand myself more ([[There aren't any downsides to working through trauma]]). As I have questioned my existence more and more I have discovered more and more internalized beliefs of mine that are irrational and unnatural. These discoveries give me hope, but the solution scares me. [[Realism must acknowledge optimism's existence and effectiveness]]
+
+This expanded on here: [[Sadness is enlightenment and happiness is delusion]]
 
 ## May
 

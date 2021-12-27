@@ -10,12 +10,12 @@ sr-ease: 212
 
 %% #TO/TEND/MULCH Be in the world not of the world because if you are of the world you start believing worldly things like evolution and that people who don't believe the same thing as me aren't inherently inferior%%
 
-[[Homophobia]], [[evolution]], [[abortion]] and lot of other non-faith issues have been used to keep people in the faith, and separated from the world with zero biblical backing. These issues do not affect anyone's personal relationship with god, but because [[People have been conditioned to believe the bible has to be infallible]] they do produce a strong emotional response and have been used as propaganda to keep people in the church: 
+[[Homophobia]], [[evolution]], [[abortion]] and lot of other non-faith issues have been used to keep people in the faith, and separated from the world with zero biblical backing. These issues do not affect anyone's personal relationship with god, but because [[People have been conditioned to believe the bible has to be infallible]] they do produce a strong emotional response and have been used as [[propaganda]] to keep people in the church: 
 
 The main benefit from doing this comes down to [[Politics]] and [[The Politicization of the Christian Church]]: [[Single issue voters are anti-democratic]]. [[Republican voters do not hold their leaders accountable]], [[Abortion and immigration are detrimental to white supremacy]] #TO/TEND/DEOBFUSCATE 
 
 To people who believe [[The bible is god breathed]], 
-this propaganda can be very confusing, because it is often supported by scripture, 
+this [[propaganda]] can be very confusing, because it is often supported by scripture, 
 ^[[[The biblical Christian God is evil and does not deserve to be worshipped]]]
 but the beliefs are obviously against the teaching of Jesus Christ.
 ^[[[Are Jesus' teachings anti-thetical to the modern Christian church]]]
