@@ -6395,11 +6395,10 @@ Hide Aside and hover to reveal it*/
         border-bottom: 1px solid rgb(111, 70, 145) ;
     }  
 
-    /* .theme-dark .cm-s-obsidian span.cm-hashtag-begin {
+    .theme-dark .cm-s-obsidian span.cm-hashtag-begin {
         display: none;
         border: none ;
-        margin-right: -6px;
-    } */
+    }
 
     .theme-dark .cm-s-obsidian span.cm-formatting-hashtag {
         content: '🌟';

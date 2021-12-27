@@ -22,7 +22,7 @@
               "leaf": "6c7a0de01257033c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Write your notes with a system not within a system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "6c7a0de01257033c",
@@ -247,13 +247,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 282
   },
   "right": {
     "id": "ca88ebed3efba281",
