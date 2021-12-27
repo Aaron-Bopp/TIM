@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
-            "mode": "preview",
+            "file": "00_Meta/Personal/Utilities.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -21,8 +21,86 @@
             {
               "leaf": "6c7a0de01257033c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Utilities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":1.0193738372031973}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 Index.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.402529761904762}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 Now.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":1.3694117826573988}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 Index.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":1.76}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":13.36583603828403}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/206 Folder Hierarchy.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 Now.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 Index.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/Spaced Repetition Inbox.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":8.0232199503946}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/41 Inbox.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Life principles.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":2.2559999084472655}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":19.4}"
             },
             {
               "leaf": "6c7a0de01257033c",
@@ -59,84 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/What is my path to happiness.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Journal.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":21.97176441865809}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":53},\"to\":{\"line\":15,\"ch\":53}}}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Word count Evergreens.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":53.68719714142723}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Journal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0.06666666766007741}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/How I process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.035714285714286}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.9833341439565}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Journal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":0},\"to\":{\"line\":64,\"ch\":0}},\"scroll\":60.93333307902018}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/propaganda.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":11}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
+                "file": "00_Meta/Personal/Utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
+                "file": "00_Meta/Personal/Utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,8 +247,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -364,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md"
+                "file": "00_Meta/Personal/Utilities.md"
               }
             },
             "pane-relief:history-v1": {
@@ -385,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
+                "file": "00_Meta/Personal/Utilities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -497,15 +496,15 @@
   },
   "active": "6c7a0de01257033c",
   "lastOpenFiles": [
-    "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
-    "10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
-    "10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md",
-    "10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md",
-    "00_Meta/Personal/my emotions.md",
-    "00_Meta/Personal/my parents.md",
-    "00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md",
-    "00_Meta/Personal/What is my path to happiness.md",
-    "00_Meta/Personal/Journal.md",
-    "40_Evergreens/You should the love the loves of those who you love.md"
+    "00_Meta/Personal/Utilities.md",
+    "20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md",
+    "20_Entry/205 Index.md",
+    "20_Entry/202 Now.md",
+    "20_Entry/209 Notepad.md",
+    "20_Entry/206 Folder Hierarchy.md",
+    "20_Entry/22 Note by status/Spaced Repetition Inbox.md",
+    "40_Evergreens/41 Inbox.md",
+    "30_Topics/36_Lists/Life principles.md",
+    "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md"
   ]
 }

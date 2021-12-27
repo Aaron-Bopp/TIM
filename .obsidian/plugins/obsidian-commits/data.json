@@ -9694,12 +9694,17 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "00_Meta/Personal/Utilities.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1858,
-      "Create": 2213,
+      "Refactor": 1859,
+      "Create": 2214,
       "Link": 4010,
       "Expand": 436
     },
@@ -9721,7 +9726,7 @@
       "6": 0,
       "7": 0,
       "8": 47,
-      "9": 641,
+      "9": 643,
       "10": 184,
       "11": 184,
       "12": 422,
@@ -9766,7 +9771,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 310,
+      "Mon": 312,
       "Tue": 889,
       "Wed": 1524,
       "Thu": 442,
@@ -9840,6 +9845,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Utilities.md\"> Utilities </a>",
         "<a class=\"internal-link\" href=\"30_Topics/A list of principles.md\"> A list of principles </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/propaganda.md\"> propaganda </a>",
@@ -9889,10 +9895,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/middle class.md\"> middle class </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Overton window.md\"> Overton window </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseperable from other identities.md\"> black identity is inseperable from other identities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherintely political.md\"> black identity is inherintely political </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_So I’ve Been Reading Up....md\"> tweets_So I’ve Been Reading Up... </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherintely political.md\"> black identity is inherintely political </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Utilities.md\"> Utilities </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/@mykola on Twitter.md\"> @mykola on Twitter </a>",
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Life principles.md\"> Life principles </a>",
@@ -9942,8 +9948,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettelkasten.md\"> Zettelkasten </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettelkassen.md\"> Zettelkassen </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/paulbricman.com.md\"> paulbricman.com </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human interaction.md\"> human interaction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human interaction.md\"> human interaction </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
