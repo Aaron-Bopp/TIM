@@ -14,10 +14,10 @@ When I first started looking for a [[note writing]] system, I did what anybody w
 
 [^1]: I remeber spending three hours fiddling with Notion buttons to create a bullet-journal system (when I had never even used bullet journal)
 
-I started crafting my own system based off everything that I was reading, tweaking and expanding it to my liking, until I finally stumbled up [[Andy Matuschak's Evergreen Notes]]. As I started to read [[Andy Matuschak|Andy's]] [[philosophy]], I realized that this is exactly the system that I had been designing. At the time, I was a little taken aback to see everything that I had been dreaming up so accurately reflected in [[evergreen notes]], but I now realize that I had been *implicitely* learning Andy's system through the knowledge graph of the PKM community. 
-All it took was one node that linked into the graph for me to start crawling the [[web of thought]]. I read about things upstream and downstream of [[evergreen notes]] and implicitely learned that concept. 
+I started crafting my own system based off everything that I was reading, tweaking and expanding it to my liking, until I finally stumbled up [[Andy Matuschak's Evergreen Notes]]. As I started to read [[Andy Matuschak|Andy's]] [[philosophy]], I realized that this is exactly the system that I had been designing. At the time, I was a little taken aback to see everything that I had been dreaming up so accurately reflected in [[evergreen notes]], but I now realize that I had been *implicitly* learning Andy's system through the knowledge graph of the PKM community. 
+All it took was one node that linked into the graph for me to start crawling the [[web of thought]]. I read about things upstream and downstream of [[evergreen notes]] and implicitly learned that concept. 
 
-This is the power of the knowledge graph. It expands your learning by placing thoughts in context. [^2] You can use that context to find and learn the concepts directly, or you can let them implicitely make you smarter: [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
+This is the power of the knowledge graph. It expands your learning by placing thoughts in context. [^2] You can use that context to find and learn the concepts directly, or you can let them implicitly make you smarter: [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
 
 [^2]: [[Nodes in the second brain are an abstraction of our first brain]]
 

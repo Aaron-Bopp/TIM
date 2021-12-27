@@ -20,5 +20,5 @@ sr-ease: 231
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Stereotype]], [[Behavioral Psychology]], [[social construct]]
+**Topics**:: [[stereotype]], [[Behavioral Psychology]], [[social construct]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

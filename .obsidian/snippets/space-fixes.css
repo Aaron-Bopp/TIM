@@ -77,9 +77,11 @@ visibility: visible !important;
     padding-bottom: 0px;
 }
 
-.theme-dark .cm-s-obsidian span.cm-hashtag {
-    content: "#" !important;
+.theme-dark .cm-s-obsidian span.cm-hashtag-begin {
+    display: inherit !important;
+    border: none ;
 }
-.theme-dark .cm-s-obsidian span.cm-hashtag {
+.theme-dark .cm-s-obsidian span.cm-hashtag::before {
+    display: none !important;
     content: "" !important;
 }

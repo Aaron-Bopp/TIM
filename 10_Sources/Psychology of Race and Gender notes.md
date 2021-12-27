@@ -281,7 +281,7 @@ type:
     - counter:: contact does not always have a positive effect
     - Conditions of contact: the more conditions are met, the more likely contact is positive
         - Equal status: interactors are not subordinate to each other ^[[[Our authority figures curate and reinforce what we are allowed to imitate]]] 
-        - intergroup cooperation and common goals: interactors are working together ^[competition breeds conflict and conflict breeds [[Stereotype]]]
+        - intergroup cooperation and common goals: interactors are working together ^[competition breeds conflict and conflict breeds [[stereotype]]]
         - [[support]] from authority: authority figure promotes or supports intergroup contact
         - friendship: developing friendships is the most effective at fulfilling the contact hypothesis
     - Forms of contact

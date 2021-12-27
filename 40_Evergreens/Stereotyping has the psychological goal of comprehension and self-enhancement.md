@@ -23,5 +23,5 @@ When meet a new person or interact with a new situation, we fill in assumed info
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Psychology]], [[Stereotype]], [[self-enhancement]], [[discrimination]], [[prejudice]]
+**Topics**:: [[Psychology]], [[stereotype]], [[self-enhancement]], [[discrimination]], [[prejudice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
