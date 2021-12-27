@@ -9020,25 +9020,10 @@
       "tags": 1,
       "links": 26
     },
-    "00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md": {
-      "size": 2428,
-      "tags": 2,
-      "links": 5
-    },
     "00_Meta/Personal/Journal.md": {
       "size": 28060,
       "tags": 5,
       "links": 71
-    },
-    "00_Meta/Personal/my emotions.md": {
-      "size": 380,
-      "tags": 2,
-      "links": 2
-    },
-    "00_Meta/Personal/my parents.md": {
-      "size": 302,
-      "tags": 2,
-      "links": 1
     },
     "00_Meta/Personal/My relationship with my parents.md": {
       "size": 1079,
@@ -9713,7 +9698,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1855,
+      "Refactor": 1858,
       "Create": 2213,
       "Link": 4010,
       "Expand": 436
@@ -9749,7 +9734,7 @@
       "19": 231,
       "20": 183,
       "21": 307,
-      "22": 263,
+      "22": 266,
       "23": 305
     },
     "40_Evergreens": {
@@ -9787,7 +9772,7 @@
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
-      "Sun": 5049
+      "Sun": 5052
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -10050,6 +10035,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/my emotions.md\"> my emotions </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/my parents.md\"> my parents </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\"> I thought negative emotions were natural and that positive emotions weren't real </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregardment of affection.md\"> My unfulfilled need for parental validation became a fear of rejection and disregardment of affection </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/In order to for my parents to love me, they need to admit they might be wrong.md\"> In order to for my parents to love me, they need to admit they might be wrong </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I have a stored up emotion of hating myself.md\"> I have a stored up emotion of hating myself </a>",
@@ -10097,10 +10085,7 @@
         "<a class=\"internal-link\" href=\"test9.md\"> test9 </a>",
         "<a class=\"internal-link\" href=\"50_Projects/a;lsdkjfl;askdjf.md\"> a;lsdkjfl;askdjf </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/test6.md\"> test6 </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/^.md\"> ^ </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/PDF.md\"> PDF </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/death.au.md\"> death.au </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/Modular Markup Processor.md\"> Modular Markup Processor </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/^.md\"> ^ </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",

@@ -7,12 +7,71 @@
         "id": "6c7a0de01257033c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":13.927058679917279}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":27.680555555555557}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/my emotions.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/my parents.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":17}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/What is my path to happiness.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Journal.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":21.97176441865809}"
+            },
             {
               "leaf": "6c7a0de01257033c",
               "group": null,
@@ -78,60 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/propaganda.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":11}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I have a stored up emotion of hating myself.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Take note of the simple things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":34},\"to\":{\"line\":29,\"ch\":34}},\"scroll\":12.708333333333334}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Life principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":1.2333333492279053}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Adderall.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/AI (artificial intelligence).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/@mykola on Twitter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Abolition.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Life principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Take note of the simple things in life.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":10.869565217391305}"
             }
           ]
         }
@@ -165,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/personal",
+                "query": "tag:#node/source/tweets",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -184,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -216,6 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,7 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282
+    "width": 305.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -356,7 +363,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -376,6 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -487,15 +497,15 @@
   },
   "active": "6c7a0de01257033c",
   "lastOpenFiles": [
-    "40_Evergreens/You should the love the loves of those who you love.md",
-    "20_Entry/24 Vault Stats/Word count Evergreens.md",
-    "00_Meta/Personal/Journal.md",
+    "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md",
+    "10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
+    "10_Sources/Readwise/Tweets/tweets_What’s In the #BuildB....md",
+    "10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md",
+    "00_Meta/Personal/my emotions.md",
+    "00_Meta/Personal/my parents.md",
     "00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md",
-    "00_Meta/Personal/How I process repressed emotions.md",
-    "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
-    "00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregardment of affection.md",
-    "30_Topics/31_Stubs/propaganda.md",
-    "00_Meta/Personal/In order to for my parents to love me, they need to admit they might be wrong.md",
-    "00_Meta/Personal/I have a stored up emotion of hating myself.md"
+    "00_Meta/Personal/What is my path to happiness.md",
+    "00_Meta/Personal/Journal.md",
+    "40_Evergreens/You should the love the loves of those who you love.md"
   ]
 }
