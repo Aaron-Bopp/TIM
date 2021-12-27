@@ -27,6 +27,18 @@
             {
               "leaf": "6c7a0de01257033c",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Dan Alloso.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Utilities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":1.0193738372031973}"
             },
@@ -125,18 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/my emotions.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/my parents.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":17}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -497,14 +497,14 @@
   "active": "6c7a0de01257033c",
   "lastOpenFiles": [
     "00_Meta/Personal/Utilities.md",
+    "30_Topics/34_People/Dan Alloso.md",
+    "50_Projects/Readwise Export for Obsidian - Templates and Process.md",
     "20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md",
     "20_Entry/205 Index.md",
     "20_Entry/202 Now.md",
     "20_Entry/209 Notepad.md",
     "20_Entry/206 Folder Hierarchy.md",
     "20_Entry/22 Note by status/Spaced Repetition Inbox.md",
-    "40_Evergreens/41 Inbox.md",
-    "30_Topics/36_Lists/Life principles.md",
-    "10_Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md"
+    "40_Evergreens/41 Inbox.md"
   ]
 }

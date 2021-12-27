@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2456758,
+  "lastSavedStatusID": 2465018,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -336,7 +336,9 @@
     "10_Sources/Readwise/Articles/articles_How to Withdraw Money From Your 401(k) - SmartAsset.md": "12428323",
     "10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md": "12428351",
     "10_Sources/Readwise/Articles/articles_3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal.md": "12429243",
-    "10_Sources/Readwise/Articles/articles_The Feynman Learning Technique - Farnam Street.md": "12443611"
+    "10_Sources/Readwise/Articles/articles_The Feynman Learning Technique - Farnam Street.md": "12443611",
+    "10_Sources/Readwise/Tweets/tweets_It’s Startling Sometimes....md": "12475647",
+    "10_Sources/Readwise/Tweets/tweets_A Lot of Paradoxes Might....md": "12475749"
   },
   "reimportShowConfirmation": false,
   "obsidianToken": "rdiuwojlcr",

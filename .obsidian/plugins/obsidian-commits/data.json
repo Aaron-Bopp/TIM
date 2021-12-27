@@ -9699,12 +9699,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "30_Topics/34_People/Dan Alloso.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1859,
-      "Create": 2214,
+      "Create": 2215,
       "Link": 4010,
       "Expand": 436
     },
@@ -9727,7 +9732,7 @@
       "7": 0,
       "8": 47,
       "9": 643,
-      "10": 184,
+      "10": 185,
       "11": 184,
       "12": 422,
       "13": 270,
@@ -9771,7 +9776,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 312,
+      "Mon": 313,
       "Tue": 889,
       "Wed": 1524,
       "Thu": 442,
@@ -9845,6 +9850,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Dan Alloso.md\"> Dan Alloso </a>",
         "<a class=\"internal-link\" href=\"Utilities.md\"> Utilities </a>",
         "<a class=\"internal-link\" href=\"30_Topics/A list of principles.md\"> A list of principles </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
@@ -9894,8 +9900,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/Spaced Repetition Inbox.md\"> Spaced Repetition Inbox </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/middle class.md\"> middle class </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Overton window.md\"> Overton window </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseperable from other identities.md\"> black identity is inseperable from other identities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherintely political.md\"> black identity is inherintely political </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseperable from other identities.md\"> black identity is inseperable from other identities </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Utilities.md\"> Utilities </a>",
