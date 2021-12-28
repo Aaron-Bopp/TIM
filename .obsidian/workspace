@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00_Meta/Personal/Utilities.md",
+            "file": "50_Projects/Readwise Export for Obsidian - Templates and Process.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "6c7a0de01257033c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Utilities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Readwise Export for Obsidian - Templates and Process.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Utilities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "6c7a0de01257033c",
@@ -131,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Let’s Talk About the Cor....md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":27.680555555555557}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/my emotions.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Meta/Personal/Utilities.md",
+                "file": "50_Projects/Readwise Export for Obsidian - Templates and Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Meta/Personal/Utilities.md",
+                "file": "50_Projects/Readwise Export for Obsidian - Templates and Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Meta/Personal/Utilities.md"
+                "file": "50_Projects/Readwise Export for Obsidian - Templates and Process.md"
               }
             },
             "pane-relief:history-v1": {
@@ -380,7 +380,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00_Meta/Personal/Utilities.md",
+                "file": "50_Projects/Readwise Export for Obsidian - Templates and Process.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -492,9 +492,9 @@
   },
   "active": "6c7a0de01257033c",
   "lastOpenFiles": [
+    "50_Projects/Readwise Export for Obsidian - Templates and Process.md",
     "00_Meta/Personal/Utilities.md",
     "30_Topics/34_People/Dan Alloso.md",
-    "50_Projects/Readwise Export for Obsidian - Templates and Process.md",
     "20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md",
     "20_Entry/205 Index.md",
     "20_Entry/202 Now.md",
