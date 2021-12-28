@@ -21,13 +21,6 @@ Obsidian is a markdown editor that includes many features that are valuable to [
  - [The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is a community effort to collect resources
 - Excellent beginner's guide to [Zettelkasten in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
 
-### My notes that are useful to Obsidian users
-- [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
-- [[Use Obsidian tags as temporal classifiers]]
-- [[Parsing markup text for Obsidian projects]]
-- [[Develop Obsidian plugins]]
-- See [[My TIM]] and [[42 Knowledge Management]] for more
-
 ### Example Vaults
 
 - [The quantum well](https://publish.obsidian.md/myquantumwell/Knowledge+Management) academic, math-related
@@ -69,5 +62,32 @@ It also has a variety of plugins that help the workflow
 - [[Spaced Repetition (plugin)]]
     - Help review flashcards and notes in Obsidian
 - [obsidian text expand](https://github.com/mrjackphil/obsidian-text-expand) 
+
+### Practically core plugins
+- [hotkey-helper](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/hotkey-helper) 
+- [tag-wrangler - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/tag-wrangler)
+- [table-editor-obsidian - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/table-editor-obsidian)
+- more complex version of note composer core plugin[note-refactor-obsidian - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/note-refactor-obsidian)
+- [better-word-count - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/better-word-count)
+- Most popular themes have customization through this [obsidian-style-settings - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/obsidian-style-settings)
+- [obsidian-linter - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/obsidian-linter)
+- heavily improves experience of using multiple panes [pane-relief - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/pane-relief)
+- [sliding-panes-obsidian - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/sliding-panes-obsidian)
+- Very handy for mac users [obsidian-electron-window-tweaker - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/obsidian-electron-window-tweaker)
+
+### Power user starter kit 
+- Powerful templates and arbitrary javascript execution [templater-obsidian - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/templater-obsidian)
+- can turn your vault into a database [dataview - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/dataview)
+- reduce friction of common tasks [quickadd - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/quickadd)
+- [obsidian-kanban - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/obsidian-kanban)
+- [buttons - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/buttons)
+### Programmer starter kit
+- Extremely handy
+	- [open-vscode - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/open-vscode)
+	- [obsidian-git - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/obsidian-git)
+- [Plugins for Editing Notes](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.01+Plugins+by+Category/Plugins+for+Editing+Notes)
+- [Automation plugins](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.01+Plugins+by+Category/Automation+plugins)
+- [Plugins that add or manage hotkeys](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.01+Plugins+by+Category/Plugins+that+add+or+manage+hotkeys)
+- Best used in conjunction with [[Templater]] and [[Dataview]] [customjs - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/customjs)
 
 See:: [[Develop Obsidian plugins]]

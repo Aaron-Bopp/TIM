@@ -8136,9 +8136,9 @@
       "links": 4
     },
     "30_Topics/33_Tools/Obsidian (software).md": {
-      "size": 3062,
+      "size": 6897,
       "tags": 1,
-      "links": 21
+      "links": 16
     },
     "30_Topics/33_Tools/Dataview.md": {
       "size": 1379,
@@ -9647,7 +9647,7 @@
     },
     "50_Projects/Readwise Export for Obsidian - Templates and Process.md": {
       "size": 0,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "40_Evergreens/Concepts are the fundamental unit of knowledge.md": {
@@ -9728,10 +9728,10 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1862,
+      "Refactor": 1864,
       "Create": 2219,
       "Link": 4027,
-      "Expand": 439
+      "Expand": 442
     },
     "40_Evergreens": {
       "Refactor": 179,
@@ -9758,7 +9758,7 @@
       "13": 270,
       "14": 2332,
       "15": 140,
-      "16": 899,
+      "16": 904,
       "17": 1567,
       "18": 209,
       "19": 231,
@@ -9797,7 +9797,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 313,
-      "Tue": 916,
+      "Tue": 921,
       "Wed": 1524,
       "Thu": 442,
       "Fri": 300,
@@ -9817,6 +9817,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
@@ -9864,10 +9867,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit.md\"> What is language's fundamental unit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between optimism and hope.md\"> What is the difference between optimism and hope </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖.md\"> tweets_Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖 </a>",
@@ -10171,6 +10171,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"50_Projects/Readwise Export for Obsidian - Templates and Process.md\"> Readwise Export for Obsidian - Templates and Process </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
@@ -10220,10 +10221,10 @@
         "<a class=\"internal-link\" href=\"00_Meta/Templates/CONTENT.md\"> CONTENT </a>",
         "<a class=\"internal-link\" href=\"20_Entry/QUICKNOTE.md\"> QUICKNOTE </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoLife after a cult.md\"> videoLife after a cult </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\"> videoHow We're Shaped Mentally </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\"> videoHealing from Festered Emotions </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\"> videoHow We're Shaped Mentally </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\"> I thought negative emotions were natural and that positive emotions weren't real </a>",
@@ -10273,8 +10274,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
         "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/202 NOW.md\"> 202 NOW </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/202 NOW.md\"> 202 NOW </a>"
       ]
     },
     "40_Evergreens": {
