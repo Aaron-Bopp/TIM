@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
+            "file": "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "6c7a0de01257033c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6c7a0de01257033c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":3.035714337412193}"
             },
             {
               "leaf": "6c7a0de01257033c",
@@ -131,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6c7a0de01257033c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":275},\"to\":{\"line\":25,\"ch\":275}},\"scroll\":0}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
+                "file": "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
+                "file": "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md"
+                "file": "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md"
               }
             },
             "pane-relief:history-v1": {
@@ -380,7 +380,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
+                "file": "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -491,6 +491,7 @@
   },
   "active": "6c7a0de01257033c",
   "lastOpenFiles": [
+    "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
     "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
     "40_Evergreens/How to process repressed emotions.md",
     "40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md",
@@ -499,7 +500,6 @@
     "40_Evergreens/The way systems work can create cognitive bias.md",
     "00_Meta/Personal/How I process repressed emotions.md",
     "40_Evergreens/Converting existing file formats to plaintext.md",
-    "40_Evergreens/Black identity is inseparable from other identities.md",
-    "40_Evergreens/Concepts are the fundamental unit of knowledge.md"
+    "40_Evergreens/Black identity is inseparable from other identities.md"
   ]
 }
