@@ -334,18 +334,6 @@
             }
           },
           {
-            "id": "dde155eaf0d2b7b7",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "a80c2bf9d7257c16",
             "type": "leaf",
             "state": {
@@ -370,9 +358,17 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "c3c64349c1352c5b",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "84f4f33f118f4527",

@@ -140,17 +140,18 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
   expandAndWrap(frontMarkup, endMarkup, editor) {
     return __async(this, null, function* () {
       const debug = true;
-      const markupOutsideSel = () => {
+      function isOutsideSel(bef, aft) {
         const so = startOffset();
         const eo = endOffset();
-        if (so - blen < 0)
+        if (so - bef.length < 0)
           return false;
-        if (eo - alen > noteLength())
+        if (eo - aft.length > noteLength())
           return false;
-        const charsBefore = editor.getRange(offToPos(so - blen), offToPos(so));
-        const charsAfter = editor.getRange(offToPos(eo), offToPos(eo + alen));
-        return charsBefore === frontMarkup && charsAfter === endMarkup;
-      };
+        const charsBefore = editor.getRange(offToPos(so - bef.length), offToPos(so));
+        const charsAfter = editor.getRange(offToPos(eo), offToPos(eo + aft.length));
+        return charsBefore === bef && charsAfter === aft;
+      }
+      const markupOutsideSel = () => isOutsideSel(frontMarkup, endMarkup);
       const noSel = () => !editor.somethingSelected();
       const multiLineSel = () => editor.getSelection().includes("\n");
       const noteLength = () => editor.getValue().length;
@@ -207,7 +208,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         return { anchor: startPos, head: endPos };
       }
       function trimSelection() {
-        const trimBefore = [
+        let trimBefore = [
           "###### ",
           "##### ",
           "#### ",
@@ -223,6 +224,8 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           frontMarkup
         ];
         const trimAfter = [" ", "\n", "	", endMarkup];
+        if (frontMarkup === "%%")
+          trimBefore = [frontMarkup];
         let selection = editor.getSelection();
         let so = startOffset();
         log("before trim", true);
@@ -259,21 +262,30 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         log("after trim", true);
       }
       function expandToWordBoundary() {
+        const originalSel = editor.getSelection();
         trimSelection();
-        log("before Exp to Word", true);
+        log("before expandToWordBoundary", true);
         const preSelExpAnchor = editor.getCursor("from");
         const preSelExpHead = editor.getCursor("to");
         const firstWordRange = textUnderCursor(preSelExpAnchor);
         preSelExpHead.ch--;
         const lastWordRange = textUnderCursor(preSelExpHead);
         preSelExpHead.ch++;
+        log("after expandToWordBoundary, before punctuation fix", true);
         const lastWord = editor.getRange(lastWordRange.anchor, lastWordRange.head);
         if (/^[.,;:\-–—]/.test(lastWord)) {
           lastWordRange.head.ch = lastWordRange.anchor.ch + 1;
           preSelExpHead.ch--;
         }
+        if (/[\])}"']/.test(originalSel.slice(-1)))
+          lastWordRange.head.ch++;
         editor.setSelection(firstWordRange.anchor, lastWordRange.head);
-        log("after expansion", true);
+        if (isOutsideSel('"', '"') || isOutsideSel("'", "'")) {
+          firstWordRange.anchor.ch--;
+          lastWordRange.head.ch++;
+          editor.setSelection(firstWordRange.anchor, lastWordRange.head);
+        }
+        log("after punctuation fix", true);
         trimSelection();
         return { anchor: preSelExpAnchor, head: preSelExpHead };
       }

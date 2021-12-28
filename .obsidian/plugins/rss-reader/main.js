@@ -2101,8 +2101,8 @@ var require_feather = __commonJS({
           function _interopRequireDefault(obj) {
             return obj && obj.__esModule ? obj : { default: obj };
           }
-          function _classCallCheck(instance7, Constructor) {
-            if (!(instance7 instanceof Constructor)) {
+          function _classCallCheck(instance8, Constructor) {
+            if (!(instance8 instanceof Constructor)) {
               throw new TypeError("Cannot call a class as a function");
             }
           }
@@ -5794,7 +5794,7 @@ var require_lodash5 = __commonJS({
 __export(exports, {
   default: () => RssReaderPlugin
 });
-var import_obsidian26 = __toModule(require("obsidian"));
+var import_obsidian28 = __toModule(require("obsidian"));
 
 // src/settings/settings.ts
 var DEFAULT_SETTINGS = Object.freeze({
@@ -5832,11 +5832,16 @@ var DEFAULT_SETTINGS = Object.freeze({
     previous: "ArrowLeft",
     next: "ArrowRight"
   },
-  folded: []
+  folded: [],
+  renamedText: {
+    filtered_folders: "",
+    folders: "",
+    no_folder: ""
+  }
 });
 
 // src/view/ViewLoader.ts
-var import_obsidian14 = __toModule(require("obsidian"));
+var import_obsidian16 = __toModule(require("obsidian"));
 
 // node_modules/svelte/internal/index.mjs
 function noop() {
@@ -6075,7 +6080,7 @@ function make_dirty(component, i) {
   }
   component.$$.dirty[i / 31 | 0] |= 1 << i % 31;
 }
-function init(component, options, instance7, create_fragment7, not_equal, props, append_styles, dirty = [-1]) {
+function init(component, options, instance8, create_fragment8, not_equal, props, append_styles, dirty = [-1]) {
   const parent_component = current_component;
   set_current_component(component);
   const $$ = component.$$ = {
@@ -6098,7 +6103,7 @@ function init(component, options, instance7, create_fragment7, not_equal, props,
   };
   append_styles && append_styles($$.root);
   let ready = false;
-  $$.ctx = instance7 ? instance7(component, options.props || {}, (i, ret, ...rest) => {
+  $$.ctx = instance8 ? instance8(component, options.props || {}, (i, ret, ...rest) => {
     const value = rest.length ? rest[0] : ret;
     if ($$.ctx && not_equal($$.ctx[i], $$.ctx[i] = value)) {
       if (!$$.skip_bound && $$.bound[i])
@@ -6111,7 +6116,7 @@ function init(component, options, instance7, create_fragment7, not_equal, props,
   $$.update();
   ready = true;
   run_all($$.before_update);
-  $$.fragment = create_fragment7 ? create_fragment7($$.ctx) : false;
+  $$.fragment = create_fragment8 ? create_fragment8($$.ctx) : false;
   if (options.target) {
     if (options.hydrate) {
       start_hydrating();
@@ -6407,23 +6412,25 @@ function getContent(element2, names) {
   names.forEach((name) => {
     if (name.contains("#")) {
       const [elementName, attr2] = name.split("#");
-      const data2 = getElementByName(element2, elementName);
-      if (data2) {
-        if (data2.nodeName === elementName) {
-          const tmp = data2.getAttr(attr2);
+      const data = getElementByName(element2, elementName);
+      if (data) {
+        if (data.nodeName === elementName) {
+          const tmp = data.getAttr(attr2);
+          console.log(tmp);
           if (tmp.length > 0) {
             value = tmp;
           }
         }
       }
-    }
-    const data = getElementByName(element2, name);
-    if (data) {
-      if (data.nodeValue && data.nodeValue.length > 0) {
-        value = data.nodeValue;
-      }
-      if (data.innerHTML && data.innerHTML.length > 0) {
-        value = data.innerHTML;
+    } else {
+      const data = getElementByName(element2, name);
+      if (data) {
+        if (data.nodeValue && data.nodeValue.length > 0) {
+          value = data.nodeValue;
+        }
+        if (data.innerHTML && data.innerHTML.length > 0) {
+          value = data.innerHTML;
+        }
       }
     }
   });
@@ -6435,7 +6442,7 @@ function getContent(element2, names) {
 function buildItem(element2) {
   return {
     title: getContent(element2, ["title"]),
-    description: getContent(element2, ["description"]),
+    description: getContent(element2, ["content", "content:encoded", "itunes:summary", "description", "summary", "media:description"]),
     content: getContent(element2, ["itunes:summary", "description", "summary", "media:description", "content", "content:encoded"]),
     category: getContent(element2, ["category"]),
     link: getContent(element2, ["link", "link#href"]),
@@ -6443,7 +6450,7 @@ function buildItem(element2) {
     pubDate: getContent(element2, ["pubDate", "published", "updated", "dc:date"]),
     enclosure: getContent(element2, ["enclosure#url", "yt:videoId"]),
     enclosureType: getContent(element2, ["enclosure#type"]),
-    image: getContent(element2, ["itunes:image#href"]),
+    image: getContent(element2, ["enclosure#url", "media:content#url", "itunes:image#href", "media:thumbnail#url"]),
     id: getContent(element2, ["id"]),
     language: null,
     folder: null,
@@ -6452,7 +6459,8 @@ function buildItem(element2) {
     favorite: null,
     created: null,
     tags: [],
-    hash: null
+    hash: null,
+    highlights: []
   };
 }
 function getAllItems(doc) {
@@ -6473,8 +6481,14 @@ function getAllItems(doc) {
 }
 function getFeedItems(feed) {
   return __async(this, null, function* () {
-    const rawData = yield (0, import_obsidian2.request)({ url: feed.url });
-    const data = new window.DOMParser().parseFromString(rawData, "text/xml");
+    let data;
+    try {
+      const rawData = yield (0, import_obsidian2.request)({ url: feed.url });
+      data = new window.DOMParser().parseFromString(rawData, "text/xml");
+    } catch (e) {
+      console.error(e);
+      return Promise.resolve(void 0);
+    }
     const items = [];
     const rawItems = getAllItems(data);
     const language = getContent(data, ["language"]).substr(0, 2);
@@ -6763,7 +6777,7 @@ var en_default = {
   syntax_reference: "Syntax Reference",
   syntax_looks: "Your current syntax looks like this: ",
   ask_filename: "Ask for filename",
-  ask_filename_help: "Disable to use title as filename(with invalid symbols removed)",
+  ask_filename_help: "Disable to apply the template below automatically(with invalid symbols removed)",
   refresh_time: "Refresh time",
   refresh_time_help: "How often should the feeds be refreshed, in minutes, use 0 to disable",
   specify_positive_number: "please specify a positive number",
@@ -6803,7 +6817,10 @@ var en_default = {
   scanning_duplicates: "Scanning for duplicates",
   do_not_close: "Please do not close this window",
   display_style: "Display Style",
-  list: "List"
+  list: "List",
+  cards: "Cards",
+  customize_terms: "Customize Terms",
+  content: "Content"
 };
 
 // src/l10n/locales/de.ts
@@ -6908,7 +6925,7 @@ var de_default = {
   syntax_reference: "Syntax Referenz",
   syntax_looks: "So wird es aussehen: ",
   ask_filename: "Nach Dateiname fragen",
-  ask_filename_help: "Deaktivieren um Titel als Dateinamen zu verwenden(ohne ung\xFCltige Zeichen)",
+  ask_filename_help: "Deaktivieren um die Vorlage automatisch anzuwenden(ohne ung\xFCltige Zeichen)",
   refresh_time: "Aktualisierungsintervall",
   refresh_time_help: "Wie h\xE4ufig soll auf neue Eintr\xE4ge \xFCberpr\xFCft werden(in Minuten), 0 zu deaktivieren",
   specify_positive_number: "Bitte eine positive Zahl angeben",
@@ -7135,6 +7152,12 @@ function applyTemplate(item, template, settings, filename) {
   });
   result = result.replace(/{{tags}}/, item.tags.join(", "));
   result = result.replace(/{{#tags}}/, item.tags.map((i) => "#" + i).join(", "));
+  result = result.replace(/{{highlights}}/, item.highlights.map((value) => "- " + (0, import_obsidian6.htmlToMarkdown)(value)).join("\n"));
+  result = result.replace(/({{highlights:).*(}})/g, function(k) {
+    const value = k.split(":")[1];
+    const separator = value.substring(0, value.indexOf("}"));
+    return item.highlights.map((i) => "" + i).join(separator);
+  });
   if (filename) {
     result = result.replace(/{{filename}}/g, filename);
   }
@@ -7634,26 +7657,26 @@ var passive = {
   passive: true
 };
 function effect3(_ref) {
-  var state = _ref.state, instance7 = _ref.instance, options = _ref.options;
+  var state = _ref.state, instance8 = _ref.instance, options = _ref.options;
   var _options$scroll = options.scroll, scroll = _options$scroll === void 0 ? true : _options$scroll, _options$resize = options.resize, resize = _options$resize === void 0 ? true : _options$resize;
   var window2 = getWindow(state.elements.popper);
   var scrollParents = [].concat(state.scrollParents.reference, state.scrollParents.popper);
   if (scroll) {
     scrollParents.forEach(function(scrollParent) {
-      scrollParent.addEventListener("scroll", instance7.update, passive);
+      scrollParent.addEventListener("scroll", instance8.update, passive);
     });
   }
   if (resize) {
-    window2.addEventListener("resize", instance7.update, passive);
+    window2.addEventListener("resize", instance8.update, passive);
   }
   return function() {
     if (scroll) {
       scrollParents.forEach(function(scrollParent) {
-        scrollParent.removeEventListener("scroll", instance7.update, passive);
+        scrollParent.removeEventListener("scroll", instance8.update, passive);
       });
     }
     if (resize) {
-      window2.removeEventListener("resize", instance7.update, passive);
+      window2.removeEventListener("resize", instance8.update, passive);
     }
   };
 }
@@ -8521,7 +8544,7 @@ function popperGenerator(generatorOptions) {
     };
     var effectCleanupFns = [];
     var isDestroyed = false;
-    var instance7 = {
+    var instance8 = {
       state,
       setOptions: function setOptions(setOptionsAction) {
         var options2 = typeof setOptionsAction === "function" ? setOptionsAction(state.options) : setOptionsAction;
@@ -8558,7 +8581,7 @@ function popperGenerator(generatorOptions) {
           }
         }
         runModifierEffects();
-        return instance7.update();
+        return instance8.update();
       },
       forceUpdate: function forceUpdate() {
         if (isDestroyed) {
@@ -8600,14 +8623,14 @@ function popperGenerator(generatorOptions) {
               state,
               options: _options,
               name,
-              instance: instance7
+              instance: instance8
             }) || state;
           }
         }
       },
       update: debounce(function() {
         return new Promise(function(resolve) {
-          instance7.forceUpdate();
+          instance8.forceUpdate();
           resolve(state);
         });
       }),
@@ -8620,9 +8643,9 @@ function popperGenerator(generatorOptions) {
       if (true) {
         console.error(INVALID_ELEMENT_ERROR);
       }
-      return instance7;
+      return instance8;
     }
-    instance7.setOptions(options).then(function(state2) {
+    instance8.setOptions(options).then(function(state2) {
       if (!isDestroyed && options.onFirstUpdate) {
         options.onFirstUpdate(state2);
       }
@@ -8634,7 +8657,7 @@ function popperGenerator(generatorOptions) {
           var cleanupFn = effect4({
             state,
             name,
-            instance: instance7,
+            instance: instance8,
             options: options2
           });
           var noopFn = function noopFn2() {
@@ -8649,7 +8672,7 @@ function popperGenerator(generatorOptions) {
       });
       effectCleanupFns = [];
     }
-    return instance7;
+    return instance8;
   };
 }
 
@@ -8767,13 +8790,13 @@ var TextInputSuggest = class {
         {
           name: "sameWidth",
           enabled: true,
-          fn: ({ state, instance: instance7 }) => {
+          fn: ({ state, instance: instance8 }) => {
             const targetWidth = `${state.rects.reference.width}px`;
             if (state.styles.popper.width === targetWidth) {
               return;
             }
             state.styles.popper.width = targetWidth;
-            instance7.update();
+            instance8.update();
           },
           phase: "beforeWrite",
           requires: ["computeStyles"]
@@ -8895,7 +8918,7 @@ Action.CREATE_NOTE = new _Action(t("create_note"), "create-new", (plugin, item) 
 Action.PASTE = new _Action(t("paste_to_note"), "paste", (plugin, item) => {
   return pasteToNote(plugin, item);
 });
-Action.COPY = new _Action(t("copy_to_clipboard"), "feather-clipboard", (_, item) => {
+Action.COPY = new _Action(t("copy_to_clipboard"), "documents", (_, item) => {
   return copy((0, import_obsidian9.htmlToMarkdown)(item.content));
 });
 Action.OPEN = new _Action(t("open_browser"), "open-elsewhere-glyph", (_, item) => {
@@ -8958,6 +8981,9 @@ var ItemModal = class extends import_obsidian10.Modal {
       this.plugin.writeFeedContent(() => {
         return feedContents;
       });
+      if (!this.plugin.settings) {
+        return;
+      }
       if (this.plugin.settings.hotkeys.read) {
         this.scope.register([], this.plugin.settings.hotkeys.read, () => {
           this.markAsRead();
@@ -9101,8 +9127,10 @@ var ItemModal = class extends import_obsidian10.Modal {
       });
       nextButton.buttonEl.addClass("rss-button");
       const title = contentEl.createEl("h1", "rss-title");
+      title.addClass("rss-selectable");
       title.setText(this.item.title);
       const subtitle = contentEl.createEl("h3", "rss-subtitle");
+      subtitle.addClass("rss-selectable");
       if (this.item.creator) {
         subtitle.appendText(this.item.creator);
       }
@@ -9144,8 +9172,14 @@ var ItemModal = class extends import_obsidian10.Modal {
     });
   }
   onClose() {
-    const { contentEl } = this;
-    contentEl.empty();
+    return __async(this, null, function* () {
+      const { contentEl } = this;
+      contentEl.empty();
+      const feedContents = this.plugin.settings.items;
+      yield this.plugin.writeFeedContent(() => {
+        return feedContents;
+      });
+    });
   }
   onOpen() {
     return __async(this, null, function* () {
@@ -9231,7 +9265,6 @@ function create_fragment3(ctx) {
       t1 = space();
       a = element("a");
       t2 = text(t2_value);
-      attr(a, "href", "/");
     },
     m(target, anchor) {
       if (if_block0)
@@ -9370,17 +9403,198 @@ var ItemTitle = class extends SvelteComponent {
 var ItemTitle_default = ItemTitle;
 
 // src/view/ItemView.svelte
+var import_obsidian13 = __toModule(require("obsidian"));
+
+// src/view/MarkdownContent.svelte
+var import_obsidian12 = __toModule(require("obsidian"));
+function create_if_block4(ctx) {
+  let p;
+  let html_action;
+  let mounted;
+  let dispose;
+  return {
+    c() {
+      p = element("p");
+    },
+    m(target, anchor) {
+      insert(target, p, anchor);
+      if (!mounted) {
+        dispose = action_destroyer(html_action = ctx[1].call(null, p, ctx[0]));
+        mounted = true;
+      }
+    },
+    p(ctx2, dirty) {
+      if (html_action && is_function(html_action.update) && dirty & 1)
+        html_action.update.call(null, ctx2[0]);
+    },
+    d(detaching) {
+      if (detaching)
+        detach(p);
+      mounted = false;
+      dispose();
+    }
+  };
+}
+function create_fragment4(ctx) {
+  let if_block_anchor;
+  let if_block = ctx[0].length > 0 && create_if_block4(ctx);
+  return {
+    c() {
+      if (if_block)
+        if_block.c();
+      if_block_anchor = empty();
+    },
+    m(target, anchor) {
+      if (if_block)
+        if_block.m(target, anchor);
+      insert(target, if_block_anchor, anchor);
+    },
+    p(ctx2, [dirty]) {
+      if (ctx2[0].length > 0) {
+        if (if_block) {
+          if_block.p(ctx2, dirty);
+        } else {
+          if_block = create_if_block4(ctx2);
+          if_block.c();
+          if_block.m(if_block_anchor.parentNode, if_block_anchor);
+        }
+      } else if (if_block) {
+        if_block.d(1);
+        if_block = null;
+      }
+    },
+    i: noop,
+    o: noop,
+    d(detaching) {
+      if (if_block)
+        if_block.d(detaching);
+      if (detaching)
+        detach(if_block_anchor);
+    }
+  };
+}
+function instance4($$self, $$props, $$invalidate) {
+  let { content = "" } = $$props;
+  let { plugin } = $$props;
+  const html = (node, content2) => {
+    import_obsidian12.MarkdownRenderer.renderMarkdown((0, import_obsidian12.htmlToMarkdown)(content2), node, "", plugin);
+  };
+  $$self.$$set = ($$props2) => {
+    if ("content" in $$props2)
+      $$invalidate(0, content = $$props2.content);
+    if ("plugin" in $$props2)
+      $$invalidate(2, plugin = $$props2.plugin);
+  };
+  return [content, html, plugin];
+}
+var MarkdownContent = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance4, create_fragment4, safe_not_equal, { content: 0, plugin: 2 });
+  }
+};
+var MarkdownContent_default = MarkdownContent;
+
+// src/view/ItemView.svelte
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[5] = list[i];
+  child_ctx[6] = list[i];
   return child_ctx;
 }
-function create_if_block4(ctx) {
+function create_if_block5(ctx) {
   let div;
+  let current_block_type_index;
+  let if_block;
+  let div_class_value;
+  let current;
+  const if_block_creators = [create_if_block_12, create_if_block_5];
+  const if_blocks = [];
+  function select_block_type(ctx2, dirty) {
+    if (ctx2[4].displayStyle === "list")
+      return 0;
+    if (ctx2[4].displayStyle === "cards")
+      return 1;
+    return -1;
+  }
+  if (~(current_block_type_index = select_block_type(ctx, -1))) {
+    if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+  }
+  return {
+    c() {
+      div = element("div");
+      if (if_block)
+        if_block.c();
+      attr(div, "class", div_class_value = "is-clickable rss-tooltip rss-feed-item " + (ctx[1].read ? "rss-read" : "rss-not-read"));
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      if (~current_block_type_index) {
+        if_blocks[current_block_type_index].m(div, null);
+      }
+      current = true;
+    },
+    p(ctx2, dirty) {
+      let previous_block_index = current_block_type_index;
+      current_block_type_index = select_block_type(ctx2, dirty);
+      if (current_block_type_index === previous_block_index) {
+        if (~current_block_type_index) {
+          if_blocks[current_block_type_index].p(ctx2, dirty);
+        }
+      } else {
+        if (if_block) {
+          group_outros();
+          transition_out(if_blocks[previous_block_index], 1, 1, () => {
+            if_blocks[previous_block_index] = null;
+          });
+          check_outros();
+        }
+        if (~current_block_type_index) {
+          if_block = if_blocks[current_block_type_index];
+          if (!if_block) {
+            if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx2);
+            if_block.c();
+          } else {
+            if_block.p(ctx2, dirty);
+          }
+          transition_in(if_block, 1);
+          if_block.m(div, null);
+        } else {
+          if_block = null;
+        }
+      }
+      if (!current || dirty & 2 && div_class_value !== (div_class_value = "is-clickable rss-tooltip rss-feed-item " + (ctx2[1].read ? "rss-read" : "rss-not-read"))) {
+        attr(div, "class", div_class_value);
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(if_block);
+      current = true;
+    },
+    o(local) {
+      transition_out(if_block);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching)
+        detach(div);
+      if (~current_block_type_index) {
+        if_blocks[current_block_type_index].d();
+      }
+    }
+  };
+}
+function create_if_block_5(ctx) {
+  let div3;
+  let span;
   let itemtitle;
   let t0;
+  let div2;
+  let div0;
+  let show_if = ctx[1].image && !ctx[1].image.includes(".mp3");
   let t1;
-  let div_class_value;
+  let div1;
   let current;
   itemtitle = new ItemTitle_default({
     props: {
@@ -9389,32 +9603,44 @@ function create_if_block4(ctx) {
       items: ctx[2]
     }
   });
-  itemtitle.$on("mouseover", ctx[4]);
-  itemtitle.$on("mouseleave", ctx[4]);
-  itemtitle.$on("focus", ctx[4]);
-  let if_block0 = ctx[1].tags.length > 0 && create_if_block_3(ctx);
-  let if_block1 = ctx[3] && create_if_block_12(ctx);
+  itemtitle.$on("mouseover", ctx[5]);
+  itemtitle.$on("mouseleave", ctx[5]);
+  itemtitle.$on("focus", ctx[5]);
+  let if_block0 = show_if && create_if_block_7(ctx);
+  let if_block1 = ctx[1].description && create_if_block_6(ctx);
   return {
     c() {
-      div = element("div");
+      div3 = element("div");
+      span = element("span");
       create_component(itemtitle.$$.fragment);
       t0 = space();
+      div2 = element("div");
+      div0 = element("div");
       if (if_block0)
         if_block0.c();
       t1 = space();
+      div1 = element("div");
       if (if_block1)
         if_block1.c();
-      attr(div, "class", div_class_value = "is-clickable rss-tooltip rss-feed-item " + (ctx[1].read ? "rss-read" : "rss-not-read"));
+      attr(span, "class", "rss-item-title");
+      attr(div0, "class", "rss-item");
+      attr(div1, "class", "rss-item");
+      attr(div2, "class", "rss-card-items");
+      attr(div3, "class", "rss-card is-clickable");
     },
     m(target, anchor) {
-      insert(target, div, anchor);
-      mount_component(itemtitle, div, null);
-      append(div, t0);
+      insert(target, div3, anchor);
+      append(div3, span);
+      mount_component(itemtitle, span, null);
+      append(div3, t0);
+      append(div3, div2);
+      append(div2, div0);
       if (if_block0)
-        if_block0.m(div, null);
-      append(div, t1);
+        if_block0.m(div0, null);
+      append(div2, t1);
+      append(div2, div1);
       if (if_block1)
-        if_block1.m(div, null);
+        if_block1.m(div1, null);
       current = true;
     },
     p(ctx2, dirty) {
@@ -9426,29 +9652,31 @@ function create_if_block4(ctx) {
       if (dirty & 4)
         itemtitle_changes.items = ctx2[2];
       itemtitle.$set(itemtitle_changes);
-      if (ctx2[1].tags.length > 0) {
+      if (dirty & 2)
+        show_if = ctx2[1].image && !ctx2[1].image.includes(".mp3");
+      if (show_if) {
         if (if_block0) {
           if_block0.p(ctx2, dirty);
         } else {
-          if_block0 = create_if_block_3(ctx2);
+          if_block0 = create_if_block_7(ctx2);
           if_block0.c();
-          if_block0.m(div, t1);
+          if_block0.m(div0, null);
         }
       } else if (if_block0) {
         if_block0.d(1);
         if_block0 = null;
       }
-      if (ctx2[3]) {
+      if (ctx2[1].description) {
         if (if_block1) {
           if_block1.p(ctx2, dirty);
-          if (dirty & 8) {
+          if (dirty & 2) {
             transition_in(if_block1, 1);
           }
         } else {
-          if_block1 = create_if_block_12(ctx2);
+          if_block1 = create_if_block_6(ctx2);
           if_block1.c();
           transition_in(if_block1, 1);
-          if_block1.m(div, null);
+          if_block1.m(div1, null);
         }
       } else if (if_block1) {
         group_outros();
@@ -9456,9 +9684,6 @@ function create_if_block4(ctx) {
           if_block1 = null;
         });
         check_outros();
-      }
-      if (!current || dirty & 2 && div_class_value !== (div_class_value = "is-clickable rss-tooltip rss-feed-item " + (ctx2[1].read ? "rss-read" : "rss-not-read"))) {
-        attr(div, "class", div_class_value);
       }
     },
     i(local) {
@@ -9475,7 +9700,7 @@ function create_if_block4(ctx) {
     },
     d(detaching) {
       if (detaching)
-        detach(div);
+        detach(div3);
       destroy_component(itemtitle);
       if (if_block0)
         if_block0.d();
@@ -9484,7 +9709,175 @@ function create_if_block4(ctx) {
     }
   };
 }
-function create_if_block_3(ctx) {
+function create_if_block_12(ctx) {
+  let itemtitle;
+  let t0;
+  let t1;
+  let if_block1_anchor;
+  let current;
+  itemtitle = new ItemTitle_default({
+    props: {
+      plugin: ctx[0],
+      item: ctx[1],
+      items: ctx[2]
+    }
+  });
+  itemtitle.$on("mouseover", ctx[5]);
+  itemtitle.$on("mouseleave", ctx[5]);
+  itemtitle.$on("focus", ctx[5]);
+  let if_block0 = ctx[1].tags.length > 0 && create_if_block_4(ctx);
+  let if_block1 = ctx[3] && create_if_block_2(ctx);
+  return {
+    c() {
+      create_component(itemtitle.$$.fragment);
+      t0 = space();
+      if (if_block0)
+        if_block0.c();
+      t1 = space();
+      if (if_block1)
+        if_block1.c();
+      if_block1_anchor = empty();
+    },
+    m(target, anchor) {
+      mount_component(itemtitle, target, anchor);
+      insert(target, t0, anchor);
+      if (if_block0)
+        if_block0.m(target, anchor);
+      insert(target, t1, anchor);
+      if (if_block1)
+        if_block1.m(target, anchor);
+      insert(target, if_block1_anchor, anchor);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      const itemtitle_changes = {};
+      if (dirty & 1)
+        itemtitle_changes.plugin = ctx2[0];
+      if (dirty & 2)
+        itemtitle_changes.item = ctx2[1];
+      if (dirty & 4)
+        itemtitle_changes.items = ctx2[2];
+      itemtitle.$set(itemtitle_changes);
+      if (ctx2[1].tags.length > 0) {
+        if (if_block0) {
+          if_block0.p(ctx2, dirty);
+        } else {
+          if_block0 = create_if_block_4(ctx2);
+          if_block0.c();
+          if_block0.m(t1.parentNode, t1);
+        }
+      } else if (if_block0) {
+        if_block0.d(1);
+        if_block0 = null;
+      }
+      if (ctx2[3]) {
+        if (if_block1) {
+          if_block1.p(ctx2, dirty);
+          if (dirty & 8) {
+            transition_in(if_block1, 1);
+          }
+        } else {
+          if_block1 = create_if_block_2(ctx2);
+          if_block1.c();
+          transition_in(if_block1, 1);
+          if_block1.m(if_block1_anchor.parentNode, if_block1_anchor);
+        }
+      } else if (if_block1) {
+        group_outros();
+        transition_out(if_block1, 1, 1, () => {
+          if_block1 = null;
+        });
+        check_outros();
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(itemtitle.$$.fragment, local);
+      transition_in(if_block1);
+      current = true;
+    },
+    o(local) {
+      transition_out(itemtitle.$$.fragment, local);
+      transition_out(if_block1);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(itemtitle, detaching);
+      if (detaching)
+        detach(t0);
+      if (if_block0)
+        if_block0.d(detaching);
+      if (detaching)
+        detach(t1);
+      if (if_block1)
+        if_block1.d(detaching);
+      if (detaching)
+        detach(if_block1_anchor);
+    }
+  };
+}
+function create_if_block_7(ctx) {
+  let img;
+  let img_src_value;
+  return {
+    c() {
+      img = element("img");
+      if (!src_url_equal(img.src, img_src_value = ctx[1].image))
+        attr(img, "src", img_src_value);
+      attr(img, "width", "250em");
+      attr(img, "alt", "Article");
+    },
+    m(target, anchor) {
+      insert(target, img, anchor);
+    },
+    p(ctx2, dirty) {
+      if (dirty & 2 && !src_url_equal(img.src, img_src_value = ctx2[1].image)) {
+        attr(img, "src", img_src_value);
+      }
+    },
+    d(detaching) {
+      if (detaching)
+        detach(img);
+    }
+  };
+}
+function create_if_block_6(ctx) {
+  let markdowncontent;
+  let current;
+  markdowncontent = new MarkdownContent_default({
+    props: { content: ctx[1].description }
+  });
+  return {
+    c() {
+      create_component(markdowncontent.$$.fragment);
+    },
+    m(target, anchor) {
+      mount_component(markdowncontent, target, anchor);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      const markdowncontent_changes = {};
+      if (dirty & 2)
+        markdowncontent_changes.content = ctx2[1].description;
+      markdowncontent.$set(markdowncontent_changes);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(markdowncontent.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(markdowncontent.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      destroy_component(markdowncontent, detaching);
+    }
+  };
+}
+function create_if_block_4(ctx) {
   let span;
   let each_value = ctx[1].tags;
   let each_blocks = [];
@@ -9534,7 +9927,7 @@ function create_if_block_3(ctx) {
 function create_each_block(ctx) {
   let t0;
   let a;
-  let t1_value = ctx[5] + "";
+  let t1_value = ctx[6] + "";
   let t1;
   let a_href_value;
   return {
@@ -9543,7 +9936,7 @@ function create_each_block(ctx) {
       a = element("a");
       t1 = text(t1_value);
       attr(a, "class", "tag rss-tag");
-      attr(a, "href", a_href_value = "#" + ctx[5]);
+      attr(a, "href", a_href_value = "#" + ctx[6]);
     },
     m(target, anchor) {
       insert(target, t0, anchor);
@@ -9551,9 +9944,9 @@ function create_each_block(ctx) {
       append(a, t1);
     },
     p(ctx2, dirty) {
-      if (dirty & 2 && t1_value !== (t1_value = ctx2[5] + ""))
+      if (dirty & 2 && t1_value !== (t1_value = ctx2[6] + ""))
         set_data(t1, t1_value);
-      if (dirty & 2 && a_href_value !== (a_href_value = "#" + ctx2[5])) {
+      if (dirty & 2 && a_href_value !== (a_href_value = "#" + ctx2[6])) {
         attr(a, "href", a_href_value);
       }
     },
@@ -9565,10 +9958,10 @@ function create_each_block(ctx) {
     }
   };
 }
-function create_if_block_12(ctx) {
+function create_if_block_2(ctx) {
   let if_block_anchor;
   let current;
-  let if_block = ctx[1].description !== ctx[1].content && create_if_block_2(ctx);
+  let if_block = ctx[1].description !== ctx[1].content && create_if_block_3(ctx);
   return {
     c() {
       if (if_block)
@@ -9589,7 +9982,7 @@ function create_if_block_12(ctx) {
             transition_in(if_block, 1);
           }
         } else {
-          if_block = create_if_block_2(ctx2);
+          if_block = create_if_block_3(ctx2);
           if_block.c();
           transition_in(if_block, 1);
           if_block.m(if_block_anchor.parentNode, if_block_anchor);
@@ -9620,7 +10013,7 @@ function create_if_block_12(ctx) {
     }
   };
 }
-function create_if_block_2(ctx) {
+function create_if_block_3(ctx) {
   let htmltooltip;
   let current;
   htmltooltip = new HtmlTooltip_default({
@@ -9655,10 +10048,10 @@ function create_if_block_2(ctx) {
     }
   };
 }
-function create_fragment4(ctx) {
+function create_fragment5(ctx) {
   let if_block_anchor;
   let current;
-  let if_block = ctx[1] && create_if_block4(ctx);
+  let if_block = ctx[1] && create_if_block5(ctx);
   return {
     c() {
       if (if_block)
@@ -9679,7 +10072,7 @@ function create_fragment4(ctx) {
             transition_in(if_block, 1);
           }
         } else {
-          if_block = create_if_block4(ctx2);
+          if_block = create_if_block5(ctx2);
           if_block.c();
           transition_in(if_block, 1);
           if_block.m(if_block_anchor.parentNode, if_block_anchor);
@@ -9710,7 +10103,9 @@ function create_fragment4(ctx) {
     }
   };
 }
-function instance4($$self, $$props, $$invalidate) {
+function instance5($$self, $$props, $$invalidate) {
+  let $settingsStore;
+  component_subscribe($$self, settingsStore, ($$value) => $$invalidate(4, $settingsStore = $$value));
   let { plugin = null } = $$props;
   let { item = null } = $$props;
   let { items = null } = $$props;
@@ -9726,18 +10121,18 @@ function instance4($$self, $$props, $$invalidate) {
     if ("items" in $$props2)
       $$invalidate(2, items = $$props2.items);
   };
-  return [plugin, item, items, hover, toggleHover];
+  return [plugin, item, items, hover, $settingsStore, toggleHover];
 }
 var ItemView = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance4, create_fragment4, safe_not_equal, { plugin: 0, item: 1, items: 2 });
+    init(this, options, instance5, create_fragment5, safe_not_equal, { plugin: 0, item: 1, items: 2 });
   }
 };
 var ItemView_default = ItemView;
 
 // src/view/FeedView.svelte
-var import_obsidian12 = __toModule(require("obsidian"));
+var import_obsidian14 = __toModule(require("obsidian"));
 function get_each_context2(ctx, list, i) {
   const child_ctx = ctx.slice();
   child_ctx[6] = list[i];
@@ -9903,7 +10298,7 @@ function create_else_block(ctx) {
     }
   };
 }
-function create_if_block5(ctx) {
+function create_if_block6(ctx) {
   let p;
   return {
     c() {
@@ -10136,12 +10531,12 @@ function create_each_block2(ctx) {
     }
   };
 }
-function create_fragment5(ctx) {
+function create_fragment6(ctx) {
   let current_block_type_index;
   let if_block;
   let if_block_anchor;
   let current;
-  const if_block_creators = [create_if_block5, create_else_block];
+  const if_block_creators = [create_if_block6, create_else_block];
   const if_blocks = [];
   function select_block_type(ctx2, dirty) {
     if (!ctx2[0])
@@ -10199,7 +10594,7 @@ function create_fragment5(ctx) {
     }
   };
 }
-function instance5($$self, $$props, $$invalidate) {
+function instance6($$self, $$props, $$invalidate) {
   let { feed = null } = $$props;
   let { plugin } = $$props;
   let folded = [];
@@ -10218,7 +10613,7 @@ function instance5($$self, $$props, $$invalidate) {
   }
   function openMenu(e) {
     return __awaiter(this, void 0, void 0, function* () {
-      const menu = new import_obsidian12.Menu(plugin.app);
+      const menu = new import_obsidian14.Menu(plugin.app);
       menu.addItem((menuItem) => {
         menuItem.setIcon("create-new").setTitle(t("create_all")).onClick(() => __awaiter(this, void 0, void 0, function* () {
           for (let item of feed.items) {
@@ -10267,41 +10662,41 @@ function instance5($$self, $$props, $$invalidate) {
 var FeedView = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance5, create_fragment5, safe_not_equal, { feed: 0, plugin: 1 });
+    init(this, options, instance6, create_fragment6, safe_not_equal, { feed: 0, plugin: 1 });
   }
 };
 var FeedView_default = FeedView;
 
 // src/view/FolderView.svelte
-var import_obsidian13 = __toModule(require("obsidian"));
+var import_obsidian15 = __toModule(require("obsidian"));
 function get_each_context3(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[13] = list[i];
+  child_ctx[14] = list[i];
   return child_ctx;
 }
 function get_each_context_1(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[16] = list[i];
+  child_ctx[17] = list[i];
   return child_ctx;
 }
 function get_each_context_2(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[13] = list[i];
+  child_ctx[14] = list[i];
   return child_ctx;
 }
 function get_each_context_3(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[21] = list[i];
+  child_ctx[22] = list[i];
   return child_ctx;
 }
 function get_each_context_4(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[24] = list[i];
+  child_ctx[25] = list[i];
   return child_ctx;
 }
 function get_each_context_5(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[24] = list[i];
+  child_ctx[25] = list[i];
   return child_ctx;
 }
 function create_else_block2(ctx) {
@@ -10309,9 +10704,9 @@ function create_else_block2(ctx) {
   let t0;
   let t1;
   let current;
-  let if_block0 = ctx[3] && create_if_block_7(ctx);
-  let if_block1 = !ctx[2] && create_if_block_6(ctx);
-  let if_block2 = ctx[2] && create_if_block_18(ctx);
+  let if_block0 = ctx[3] && create_if_block_9(ctx);
+  let if_block1 = !ctx[2] && create_if_block_8(ctx);
+  let if_block2 = ctx[2] && create_if_block_110(ctx);
   return {
     c() {
       div = element("div");
@@ -10323,6 +10718,7 @@ function create_else_block2(ctx) {
       t1 = space();
       if (if_block2)
         if_block2.c();
+      attr(div, "class", "rss-view");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -10344,7 +10740,7 @@ function create_else_block2(ctx) {
             transition_in(if_block0, 1);
           }
         } else {
-          if_block0 = create_if_block_7(ctx2);
+          if_block0 = create_if_block_9(ctx2);
           if_block0.c();
           transition_in(if_block0, 1);
           if_block0.m(div, t0);
@@ -10359,7 +10755,7 @@ function create_else_block2(ctx) {
       if (!ctx2[2]) {
         if (if_block1) {
         } else {
-          if_block1 = create_if_block_6(ctx2);
+          if_block1 = create_if_block_8(ctx2);
           if_block1.c();
           if_block1.m(div, t1);
         }
@@ -10374,7 +10770,7 @@ function create_else_block2(ctx) {
             transition_in(if_block2, 1);
           }
         } else {
-          if_block2 = create_if_block_18(ctx2);
+          if_block2 = create_if_block_110(ctx2);
           if_block2.c();
           transition_in(if_block2, 1);
           if_block2.m(div, null);
@@ -10411,7 +10807,7 @@ function create_else_block2(ctx) {
     }
   };
 }
-function create_if_block6(ctx) {
+function create_if_block7(ctx) {
   let p;
   return {
     c() {
@@ -10430,22 +10826,21 @@ function create_if_block6(ctx) {
     }
   };
 }
-function create_if_block_7(ctx) {
-  let div2;
+function create_if_block_9(ctx) {
   let div1;
+  let div0;
   let span;
   let show_if_1;
   let current_block_type_index;
   let if_block0;
   let t0;
-  let div0;
-  let div1_class_value;
-  let t2;
+  let div0_class_value;
+  let t1;
   let show_if = !ctx[1].contains("rss-filters");
   let current;
   let mounted;
   let dispose;
-  const if_block_creators = [create_if_block_17, create_else_block_5];
+  const if_block_creators = [create_if_block_20, create_else_block_8];
   const if_blocks = [];
   function select_block_type_1(ctx2, dirty) {
     if (show_if_1 == null || dirty & 2)
@@ -10456,36 +10851,42 @@ function create_if_block_7(ctx) {
   }
   current_block_type_index = select_block_type_1(ctx, -1);
   if_block0 = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
-  let if_block1 = show_if && create_if_block_8(ctx);
+  function select_block_type_2(ctx2, dirty) {
+    if (ctx2[4].renamedText.filtered_folders !== "")
+      return create_if_block_19;
+    return create_else_block_7;
+  }
+  let current_block_type = select_block_type_2(ctx, -1);
+  let if_block1 = current_block_type(ctx);
+  let if_block2 = show_if && create_if_block_10(ctx);
   return {
     c() {
-      div2 = element("div");
       div1 = element("div");
+      div0 = element("div");
       span = element("span");
       if_block0.c();
       t0 = space();
-      div0 = element("div");
-      div0.textContent = `${t("filtered_folders")}`;
-      t2 = space();
-      if (if_block1)
-        if_block1.c();
+      if_block1.c();
+      t1 = space();
+      if (if_block2)
+        if_block2.c();
       attr(span, "class", "tree-item-self is-clickable");
-      attr(div1, "class", div1_class_value = "" + ((ctx[1].contains("rss-filters") ? "is-collapsed" : "") + " tree-item is-clickable"));
-      attr(div2, "class", "rss-filtered-folders");
+      attr(div0, "class", div0_class_value = "" + ((ctx[1].contains("rss-filters") ? "is-collapsed" : "") + " tree-item is-clickable"));
+      attr(div1, "class", "rss-filtered-folders");
     },
     m(target, anchor) {
-      insert(target, div2, anchor);
-      append(div2, div1);
-      append(div1, span);
+      insert(target, div1, anchor);
+      append(div1, div0);
+      append(div0, span);
       if_blocks[current_block_type_index].m(span, null);
       append(span, t0);
-      append(span, div0);
-      append(div2, t2);
-      if (if_block1)
-        if_block1.m(div2, null);
+      if_block1.m(span, null);
+      append(div1, t1);
+      if (if_block2)
+        if_block2.m(div1, null);
       current = true;
       if (!mounted) {
-        dispose = listen(div1, "click", ctx[6]);
+        dispose = listen(div0, "click", ctx[7]);
         mounted = true;
       }
     },
@@ -10507,27 +10908,37 @@ function create_if_block_7(ctx) {
         transition_in(if_block0, 1);
         if_block0.m(span, t0);
       }
-      if (!current || dirty & 2 && div1_class_value !== (div1_class_value = "" + ((ctx2[1].contains("rss-filters") ? "is-collapsed" : "") + " tree-item is-clickable"))) {
-        attr(div1, "class", div1_class_value);
+      if (current_block_type === (current_block_type = select_block_type_2(ctx2, dirty)) && if_block1) {
+        if_block1.p(ctx2, dirty);
+      } else {
+        if_block1.d(1);
+        if_block1 = current_block_type(ctx2);
+        if (if_block1) {
+          if_block1.c();
+          if_block1.m(span, null);
+        }
+      }
+      if (!current || dirty & 2 && div0_class_value !== (div0_class_value = "" + ((ctx2[1].contains("rss-filters") ? "is-collapsed" : "") + " tree-item is-clickable"))) {
+        attr(div0, "class", div0_class_value);
       }
       if (dirty & 2)
         show_if = !ctx2[1].contains("rss-filters");
       if (show_if) {
-        if (if_block1) {
-          if_block1.p(ctx2, dirty);
+        if (if_block2) {
+          if_block2.p(ctx2, dirty);
           if (dirty & 2) {
-            transition_in(if_block1, 1);
+            transition_in(if_block2, 1);
           }
         } else {
-          if_block1 = create_if_block_8(ctx2);
-          if_block1.c();
-          transition_in(if_block1, 1);
-          if_block1.m(div2, null);
+          if_block2 = create_if_block_10(ctx2);
+          if_block2.c();
+          transition_in(if_block2, 1);
+          if_block2.m(div1, null);
         }
-      } else if (if_block1) {
+      } else if (if_block2) {
         group_outros();
-        transition_out(if_block1, 1, 1, () => {
-          if_block1 = null;
+        transition_out(if_block2, 1, 1, () => {
+          if_block2 = null;
         });
         check_outros();
       }
@@ -10536,26 +10947,27 @@ function create_if_block_7(ctx) {
       if (current)
         return;
       transition_in(if_block0);
-      transition_in(if_block1);
+      transition_in(if_block2);
       current = true;
     },
     o(local) {
       transition_out(if_block0);
-      transition_out(if_block1);
+      transition_out(if_block2);
       current = false;
     },
     d(detaching) {
       if (detaching)
-        detach(div2);
+        detach(div1);
       if_blocks[current_block_type_index].d();
-      if (if_block1)
-        if_block1.d();
+      if_block1.d();
+      if (if_block2)
+        if_block2.d();
       mounted = false;
       dispose();
     }
   };
 }
-function create_else_block_5(ctx) {
+function create_else_block_8(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -10584,7 +10996,7 @@ function create_else_block_5(ctx) {
     }
   };
 }
-function create_if_block_17(ctx) {
+function create_if_block_20(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -10613,7 +11025,47 @@ function create_if_block_17(ctx) {
     }
   };
 }
-function create_if_block_8(ctx) {
+function create_else_block_7(ctx) {
+  let span;
+  return {
+    c() {
+      span = element("span");
+      span.textContent = `${t("filtered_folders")}`;
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+    },
+    p: noop,
+    d(detaching) {
+      if (detaching)
+        detach(span);
+    }
+  };
+}
+function create_if_block_19(ctx) {
+  let span;
+  let t_1_value = ctx[4].renamedText.filtered_folders + "";
+  let t_1;
+  return {
+    c() {
+      span = element("span");
+      t_1 = text(t_1_value);
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+      append(span, t_1);
+    },
+    p(ctx2, dirty) {
+      if (dirty & 16 && t_1_value !== (t_1_value = ctx2[4].renamedText.filtered_folders + ""))
+        set_data(t_1, t_1_value);
+    },
+    d(detaching) {
+      if (detaching)
+        detach(span);
+    }
+  };
+}
+function create_if_block_10(ctx) {
   let span;
   let current;
   let each_value_2 = buildTreeStructure(ctx[3]);
@@ -10639,7 +11091,7 @@ function create_if_block_8(ctx) {
       current = true;
     },
     p(ctx2, dirty) {
-      if (dirty & 27) {
+      if (dirty & 43) {
         each_value_2 = buildTreeStructure(ctx2[3]);
         let i;
         for (i = 0; i < each_value_2.length; i += 1) {
@@ -10683,7 +11135,7 @@ function create_if_block_8(ctx) {
     }
   };
 }
-function create_else_block_4(ctx) {
+function create_else_block_6(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -10712,7 +11164,7 @@ function create_else_block_4(ctx) {
     }
   };
 }
-function create_if_block_16(ctx) {
+function create_if_block_18(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -10741,11 +11193,11 @@ function create_if_block_16(ctx) {
     }
   };
 }
-function create_if_block_14(ctx) {
-  let show_if = !ctx[1].contains("rss-filters-" + ctx[13].name);
+function create_if_block_16(ctx) {
+  let show_if = !ctx[1].contains("rss-filters-" + ctx[14].name);
   let if_block_anchor;
   let current;
-  let if_block = show_if && create_if_block_15(ctx);
+  let if_block = show_if && create_if_block_17(ctx);
   return {
     c() {
       if (if_block)
@@ -10760,7 +11212,7 @@ function create_if_block_14(ctx) {
     },
     p(ctx2, dirty) {
       if (dirty & 10)
-        show_if = !ctx2[1].contains("rss-filters-" + ctx2[13].name);
+        show_if = !ctx2[1].contains("rss-filters-" + ctx2[14].name);
       if (show_if) {
         if (if_block) {
           if_block.p(ctx2, dirty);
@@ -10768,7 +11220,7 @@ function create_if_block_14(ctx) {
             transition_in(if_block, 1);
           }
         } else {
-          if_block = create_if_block_15(ctx2);
+          if_block = create_if_block_17(ctx2);
           if_block.c();
           transition_in(if_block, 1);
           if_block.m(if_block_anchor.parentNode, if_block_anchor);
@@ -10799,10 +11251,10 @@ function create_if_block_14(ctx) {
     }
   };
 }
-function create_if_block_15(ctx) {
+function create_if_block_17(ctx) {
   let div;
   let current;
-  let each_value_5 = ctx[13].filter.items.items;
+  let each_value_5 = ctx[14].filter.items.items;
   let each_blocks = [];
   for (let i = 0; i < each_value_5.length; i += 1) {
     each_blocks[i] = create_each_block_5(get_each_context_5(ctx, each_value_5, i));
@@ -10827,7 +11279,7 @@ function create_if_block_15(ctx) {
     },
     p(ctx2, dirty) {
       if (dirty & 9) {
-        each_value_5 = ctx2[13].filter.items.items;
+        each_value_5 = ctx2[14].filter.items.items;
         let i;
         for (i = 0; i < each_value_5.length; i += 1) {
           const child_ctx = get_each_context_5(ctx2, each_value_5, i);
@@ -10878,9 +11330,9 @@ function create_each_block_5(ctx) {
   let current;
   itemview = new ItemView_default({
     props: {
-      item: ctx[24],
+      item: ctx[25],
       plugin: ctx[0],
-      items: ctx[13].filter.items.items
+      items: ctx[14].filter.items.items
     }
   });
   return {
@@ -10902,11 +11354,11 @@ function create_each_block_5(ctx) {
     p(ctx2, dirty) {
       const itemview_changes = {};
       if (dirty & 8)
-        itemview_changes.item = ctx2[24];
+        itemview_changes.item = ctx2[25];
       if (dirty & 1)
         itemview_changes.plugin = ctx2[0];
       if (dirty & 8)
-        itemview_changes.items = ctx2[13].filter.items.items;
+        itemview_changes.items = ctx2[14].filter.items.items;
       itemview.$set(itemview_changes);
     },
     i(local) {
@@ -10926,11 +11378,11 @@ function create_each_block_5(ctx) {
     }
   };
 }
-function create_if_block_9(ctx) {
-  let show_if = !ctx[1].contains("rss-filters-" + ctx[13].name);
+function create_if_block_11(ctx) {
+  let show_if = !ctx[1].contains("rss-filters-" + ctx[14].name);
   let if_block_anchor;
   let current;
-  let if_block = show_if && create_if_block_10(ctx);
+  let if_block = show_if && create_if_block_122(ctx);
   return {
     c() {
       if (if_block)
@@ -10945,7 +11397,7 @@ function create_if_block_9(ctx) {
     },
     p(ctx2, dirty) {
       if (dirty & 10)
-        show_if = !ctx2[1].contains("rss-filters-" + ctx2[13].name);
+        show_if = !ctx2[1].contains("rss-filters-" + ctx2[14].name);
       if (show_if) {
         if (if_block) {
           if_block.p(ctx2, dirty);
@@ -10953,7 +11405,7 @@ function create_if_block_9(ctx) {
             transition_in(if_block, 1);
           }
         } else {
-          if_block = create_if_block_10(ctx2);
+          if_block = create_if_block_122(ctx2);
           if_block.c();
           transition_in(if_block, 1);
           if_block.m(if_block_anchor.parentNode, if_block_anchor);
@@ -10984,10 +11436,10 @@ function create_if_block_9(ctx) {
     }
   };
 }
-function create_if_block_10(ctx) {
+function create_if_block_122(ctx) {
   let each_1_anchor;
   let current;
-  let each_value_3 = ctx[13].children;
+  let each_value_3 = ctx[14].children;
   let each_blocks = [];
   for (let i = 0; i < each_value_3.length; i += 1) {
     each_blocks[i] = create_each_block_3(get_each_context_3(ctx, each_value_3, i));
@@ -11010,8 +11462,8 @@ function create_if_block_10(ctx) {
       current = true;
     },
     p(ctx2, dirty) {
-      if (dirty & 27) {
-        each_value_3 = ctx2[13].children;
+      if (dirty & 43) {
+        each_value_3 = ctx2[14].children;
         let i;
         for (i = 0; i < each_value_3.length; i += 1) {
           const child_ctx = get_each_context_3(ctx2, each_value_3, i);
@@ -11054,7 +11506,7 @@ function create_if_block_10(ctx) {
     }
   };
 }
-function create_else_block_3(ctx) {
+function create_else_block_5(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -11083,7 +11535,7 @@ function create_else_block_3(ctx) {
     }
   };
 }
-function create_if_block_132(ctx) {
+function create_if_block_15(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -11112,11 +11564,11 @@ function create_if_block_132(ctx) {
     }
   };
 }
-function create_if_block_11(ctx) {
-  let show_if = !ctx[1].contains("rss-filters-" + ctx[21].filter.filter.name);
+function create_if_block_132(ctx) {
+  let show_if = !ctx[1].contains("rss-filters-" + ctx[22].filter.filter.name);
   let if_block_anchor;
   let current;
-  let if_block = show_if && create_if_block_122(ctx);
+  let if_block = show_if && create_if_block_14(ctx);
   return {
     c() {
       if (if_block)
@@ -11131,7 +11583,7 @@ function create_if_block_11(ctx) {
     },
     p(ctx2, dirty) {
       if (dirty & 10)
-        show_if = !ctx2[1].contains("rss-filters-" + ctx2[21].filter.filter.name);
+        show_if = !ctx2[1].contains("rss-filters-" + ctx2[22].filter.filter.name);
       if (show_if) {
         if (if_block) {
           if_block.p(ctx2, dirty);
@@ -11139,7 +11591,7 @@ function create_if_block_11(ctx) {
             transition_in(if_block, 1);
           }
         } else {
-          if_block = create_if_block_122(ctx2);
+          if_block = create_if_block_14(ctx2);
           if_block.c();
           transition_in(if_block, 1);
           if_block.m(if_block_anchor.parentNode, if_block_anchor);
@@ -11170,10 +11622,10 @@ function create_if_block_11(ctx) {
     }
   };
 }
-function create_if_block_122(ctx) {
+function create_if_block_14(ctx) {
   let div;
   let current;
-  let each_value_4 = ctx[21].filter.items.items;
+  let each_value_4 = ctx[22].filter.items.items;
   let each_blocks = [];
   for (let i = 0; i < each_value_4.length; i += 1) {
     each_blocks[i] = create_each_block_4(get_each_context_4(ctx, each_value_4, i));
@@ -11198,7 +11650,7 @@ function create_if_block_122(ctx) {
     },
     p(ctx2, dirty) {
       if (dirty & 9) {
-        each_value_4 = ctx2[21].filter.items.items;
+        each_value_4 = ctx2[22].filter.items.items;
         let i;
         for (i = 0; i < each_value_4.length; i += 1) {
           const child_ctx = get_each_context_4(ctx2, each_value_4, i);
@@ -11249,9 +11701,9 @@ function create_each_block_4(ctx) {
   let current;
   itemview = new ItemView_default({
     props: {
-      item: ctx[24],
+      item: ctx[25],
       plugin: ctx[0],
-      items: ctx[21].filter.items.items
+      items: ctx[22].filter.items.items
     }
   });
   return {
@@ -11273,11 +11725,11 @@ function create_each_block_4(ctx) {
     p(ctx2, dirty) {
       const itemview_changes = {};
       if (dirty & 8)
-        itemview_changes.item = ctx2[24];
+        itemview_changes.item = ctx2[25];
       if (dirty & 1)
         itemview_changes.plugin = ctx2[0];
       if (dirty & 8)
-        itemview_changes.items = ctx2[21].filter.items.items;
+        itemview_changes.items = ctx2[22].filter.items.items;
       itemview.$set(itemview_changes);
     },
     i(local) {
@@ -11305,7 +11757,7 @@ function create_each_block_3(ctx) {
   let if_block0;
   let t0;
   let span;
-  let t1_value = ctx[21].name + "";
+  let t1_value = ctx[22].name + "";
   let t1;
   let div0_class_value;
   let t2;
@@ -11313,21 +11765,21 @@ function create_each_block_3(ctx) {
   let current;
   let mounted;
   let dispose;
-  const if_block_creators = [create_if_block_132, create_else_block_3];
+  const if_block_creators = [create_if_block_15, create_else_block_5];
   const if_blocks = [];
-  function select_block_type_3(ctx2, dirty) {
+  function select_block_type_4(ctx2, dirty) {
     if (show_if == null || dirty & 10)
-      show_if = !!ctx2[1].contains("rss-filters-" + ctx2[21].filter.filter.name);
+      show_if = !!ctx2[1].contains("rss-filters-" + ctx2[22].filter.filter.name);
     if (show_if)
       return 0;
     return 1;
   }
-  current_block_type_index = select_block_type_3(ctx, -1);
+  current_block_type_index = select_block_type_4(ctx, -1);
   if_block0 = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
   function click_handler_2() {
-    return ctx[8](ctx[21]);
+    return ctx[9](ctx[22]);
   }
-  let if_block1 = ctx[21].filter !== void 0 && create_if_block_11(ctx);
+  let if_block1 = ctx[22].filter !== void 0 && create_if_block_132(ctx);
   return {
     c() {
       div1 = element("div");
@@ -11340,7 +11792,7 @@ function create_each_block_3(ctx) {
       if (if_block1)
         if_block1.c();
       t3 = space();
-      attr(div0, "class", div0_class_value = "" + ((ctx[1].contains("rss-filters-" + ctx[21].filter.filter.name) ? "is-collapsed" : "") + " tree-item-self is-clickable"));
+      attr(div0, "class", div0_class_value = "" + ((ctx[1].contains("rss-filters-" + ctx[22].filter.filter.name) ? "is-collapsed" : "") + " tree-item-self is-clickable"));
       attr(div1, "class", "tree-item-children");
     },
     m(target, anchor) {
@@ -11363,7 +11815,7 @@ function create_each_block_3(ctx) {
     p(new_ctx, dirty) {
       ctx = new_ctx;
       let previous_block_index = current_block_type_index;
-      current_block_type_index = select_block_type_3(ctx, dirty);
+      current_block_type_index = select_block_type_4(ctx, dirty);
       if (current_block_type_index !== previous_block_index) {
         group_outros();
         transition_out(if_blocks[previous_block_index], 1, 1, () => {
@@ -11379,19 +11831,19 @@ function create_each_block_3(ctx) {
         transition_in(if_block0, 1);
         if_block0.m(div0, t0);
       }
-      if ((!current || dirty & 8) && t1_value !== (t1_value = ctx[21].name + ""))
+      if ((!current || dirty & 8) && t1_value !== (t1_value = ctx[22].name + ""))
         set_data(t1, t1_value);
-      if (!current || dirty & 10 && div0_class_value !== (div0_class_value = "" + ((ctx[1].contains("rss-filters-" + ctx[21].filter.filter.name) ? "is-collapsed" : "") + " tree-item-self is-clickable"))) {
+      if (!current || dirty & 10 && div0_class_value !== (div0_class_value = "" + ((ctx[1].contains("rss-filters-" + ctx[22].filter.filter.name) ? "is-collapsed" : "") + " tree-item-self is-clickable"))) {
         attr(div0, "class", div0_class_value);
       }
-      if (ctx[21].filter !== void 0) {
+      if (ctx[22].filter !== void 0) {
         if (if_block1) {
           if_block1.p(ctx, dirty);
           if (dirty & 8) {
             transition_in(if_block1, 1);
           }
         } else {
-          if_block1 = create_if_block_11(ctx);
+          if_block1 = create_if_block_132(ctx);
           if_block1.c();
           transition_in(if_block1, 1);
           if_block1.m(div1, t3);
@@ -11436,7 +11888,7 @@ function create_each_block_2(ctx) {
   let if_block0;
   let t0;
   let span0;
-  let t1_value = ctx[13].name + "";
+  let t1_value = ctx[14].name + "";
   let t1;
   let div0_class_value;
   let t2;
@@ -11445,22 +11897,22 @@ function create_each_block_2(ctx) {
   let current;
   let mounted;
   let dispose;
-  const if_block_creators = [create_if_block_16, create_else_block_4];
+  const if_block_creators = [create_if_block_18, create_else_block_6];
   const if_blocks = [];
-  function select_block_type_2(ctx2, dirty) {
+  function select_block_type_3(ctx2, dirty) {
     if (show_if == null || dirty & 10)
-      show_if = !!ctx2[1].contains("rss-filters-" + ctx2[13].name);
+      show_if = !!ctx2[1].contains("rss-filters-" + ctx2[14].name);
     if (show_if)
       return 0;
     return 1;
   }
-  current_block_type_index = select_block_type_2(ctx, -1);
+  current_block_type_index = select_block_type_3(ctx, -1);
   if_block0 = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
   function click_handler_1() {
-    return ctx[7](ctx[13]);
+    return ctx[8](ctx[14]);
   }
-  let if_block1 = ctx[13].filter !== void 0 && create_if_block_14(ctx);
-  let if_block2 = ctx[13].children && create_if_block_9(ctx);
+  let if_block1 = ctx[14].filter !== void 0 && create_if_block_16(ctx);
+  let if_block2 = ctx[14].children && create_if_block_11(ctx);
   return {
     c() {
       div1 = element("div");
@@ -11478,7 +11930,7 @@ function create_each_block_2(ctx) {
         if_block2.c();
       t4 = space();
       attr(span1, "class", "tree-item-self is-clickable");
-      attr(div0, "class", div0_class_value = "" + ((ctx[1].contains("rss-filters-" + ctx[13].name) ? "is-collapsed" : "") + " tree-item is-clickable"));
+      attr(div0, "class", div0_class_value = "" + ((ctx[1].contains("rss-filters-" + ctx[14].name) ? "is-collapsed" : "") + " tree-item is-clickable"));
       attr(div1, "class", "tree-item-children");
     },
     m(target, anchor) {
@@ -11505,7 +11957,7 @@ function create_each_block_2(ctx) {
     p(new_ctx, dirty) {
       ctx = new_ctx;
       let previous_block_index = current_block_type_index;
-      current_block_type_index = select_block_type_2(ctx, dirty);
+      current_block_type_index = select_block_type_3(ctx, dirty);
       if (current_block_type_index !== previous_block_index) {
         group_outros();
         transition_out(if_blocks[previous_block_index], 1, 1, () => {
@@ -11521,19 +11973,19 @@ function create_each_block_2(ctx) {
         transition_in(if_block0, 1);
         if_block0.m(span1, t0);
       }
-      if ((!current || dirty & 8) && t1_value !== (t1_value = ctx[13].name + ""))
+      if ((!current || dirty & 8) && t1_value !== (t1_value = ctx[14].name + ""))
         set_data(t1, t1_value);
-      if (!current || dirty & 10 && div0_class_value !== (div0_class_value = "" + ((ctx[1].contains("rss-filters-" + ctx[13].name) ? "is-collapsed" : "") + " tree-item is-clickable"))) {
+      if (!current || dirty & 10 && div0_class_value !== (div0_class_value = "" + ((ctx[1].contains("rss-filters-" + ctx[14].name) ? "is-collapsed" : "") + " tree-item is-clickable"))) {
         attr(div0, "class", div0_class_value);
       }
-      if (ctx[13].filter !== void 0) {
+      if (ctx[14].filter !== void 0) {
         if (if_block1) {
           if_block1.p(ctx, dirty);
           if (dirty & 8) {
             transition_in(if_block1, 1);
           }
         } else {
-          if_block1 = create_if_block_14(ctx);
+          if_block1 = create_if_block_16(ctx);
           if_block1.c();
           transition_in(if_block1, 1);
           if_block1.m(div1, t3);
@@ -11545,14 +11997,14 @@ function create_each_block_2(ctx) {
         });
         check_outros();
       }
-      if (ctx[13].children) {
+      if (ctx[14].children) {
         if (if_block2) {
           if_block2.p(ctx, dirty);
           if (dirty & 8) {
             transition_in(if_block2, 1);
           }
         } else {
-          if_block2 = create_if_block_9(ctx);
+          if_block2 = create_if_block_11(ctx);
           if_block2.c();
           transition_in(if_block2, 1);
           if_block2.m(div1, t4);
@@ -11592,7 +12044,7 @@ function create_each_block_2(ctx) {
     }
   };
 }
-function create_if_block_6(ctx) {
+function create_if_block_8(ctx) {
   let h1;
   return {
     c() {
@@ -11608,68 +12060,73 @@ function create_if_block_6(ctx) {
     }
   };
 }
-function create_if_block_18(ctx) {
+function create_if_block_110(ctx) {
   let div1;
   let div0;
-  let span1;
+  let span;
   let show_if_1;
   let current_block_type_index;
   let if_block0;
   let t0;
-  let span0;
   let div0_class_value;
-  let t2;
+  let t1;
   let show_if = !ctx[1].contains("rss-folders");
   let current;
   let mounted;
   let dispose;
-  const if_block_creators = [create_if_block_5, create_else_block_2];
+  const if_block_creators = [create_if_block_72, create_else_block_4];
   const if_blocks = [];
-  function select_block_type_4(ctx2, dirty) {
+  function select_block_type_5(ctx2, dirty) {
     if (show_if_1 == null || dirty & 2)
       show_if_1 = !!ctx2[1].contains("rss-folders");
     if (show_if_1)
       return 0;
     return 1;
   }
-  current_block_type_index = select_block_type_4(ctx, -1);
+  current_block_type_index = select_block_type_5(ctx, -1);
   if_block0 = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
-  let if_block1 = show_if && create_if_block_23(ctx);
+  function select_block_type_6(ctx2, dirty) {
+    if (ctx2[4].renamedText.folders !== "")
+      return create_if_block_62;
+    return create_else_block_3;
+  }
+  let current_block_type = select_block_type_6(ctx, -1);
+  let if_block1 = current_block_type(ctx);
+  let if_block2 = show_if && create_if_block_23(ctx);
   return {
     c() {
       div1 = element("div");
       div0 = element("div");
-      span1 = element("span");
+      span = element("span");
       if_block0.c();
       t0 = space();
-      span0 = element("span");
-      span0.textContent = `${t("folders")}`;
-      t2 = space();
-      if (if_block1)
-        if_block1.c();
-      attr(span1, "class", "tree-item-self is-clickable");
+      if_block1.c();
+      t1 = space();
+      if (if_block2)
+        if_block2.c();
+      attr(span, "class", "tree-item-self is-clickable");
       attr(div0, "class", div0_class_value = "" + ((ctx[1].contains("rss-folders") ? "is-collapsed" : "") + " tree-item is-clickable"));
       attr(div1, "class", "rss-feeds-folders");
     },
     m(target, anchor) {
       insert(target, div1, anchor);
       append(div1, div0);
-      append(div0, span1);
-      if_blocks[current_block_type_index].m(span1, null);
-      append(span1, t0);
-      append(span1, span0);
-      append(div1, t2);
-      if (if_block1)
-        if_block1.m(div1, null);
+      append(div0, span);
+      if_blocks[current_block_type_index].m(span, null);
+      append(span, t0);
+      if_block1.m(span, null);
+      append(div1, t1);
+      if (if_block2)
+        if_block2.m(div1, null);
       current = true;
       if (!mounted) {
-        dispose = listen(div0, "click", ctx[9]);
+        dispose = listen(div0, "click", ctx[10]);
         mounted = true;
       }
     },
     p(ctx2, dirty) {
       let previous_block_index = current_block_type_index;
-      current_block_type_index = select_block_type_4(ctx2, dirty);
+      current_block_type_index = select_block_type_5(ctx2, dirty);
       if (current_block_type_index !== previous_block_index) {
         group_outros();
         transition_out(if_blocks[previous_block_index], 1, 1, () => {
@@ -11683,7 +12140,17 @@ function create_if_block_18(ctx) {
         } else {
         }
         transition_in(if_block0, 1);
-        if_block0.m(span1, t0);
+        if_block0.m(span, t0);
+      }
+      if (current_block_type === (current_block_type = select_block_type_6(ctx2, dirty)) && if_block1) {
+        if_block1.p(ctx2, dirty);
+      } else {
+        if_block1.d(1);
+        if_block1 = current_block_type(ctx2);
+        if (if_block1) {
+          if_block1.c();
+          if_block1.m(span, null);
+        }
       }
       if (!current || dirty & 2 && div0_class_value !== (div0_class_value = "" + ((ctx2[1].contains("rss-folders") ? "is-collapsed" : "") + " tree-item is-clickable"))) {
         attr(div0, "class", div0_class_value);
@@ -11691,21 +12158,21 @@ function create_if_block_18(ctx) {
       if (dirty & 2)
         show_if = !ctx2[1].contains("rss-folders");
       if (show_if) {
-        if (if_block1) {
-          if_block1.p(ctx2, dirty);
+        if (if_block2) {
+          if_block2.p(ctx2, dirty);
           if (dirty & 2) {
-            transition_in(if_block1, 1);
+            transition_in(if_block2, 1);
           }
         } else {
-          if_block1 = create_if_block_23(ctx2);
-          if_block1.c();
-          transition_in(if_block1, 1);
-          if_block1.m(div1, null);
+          if_block2 = create_if_block_23(ctx2);
+          if_block2.c();
+          transition_in(if_block2, 1);
+          if_block2.m(div1, null);
         }
-      } else if (if_block1) {
+      } else if (if_block2) {
         group_outros();
-        transition_out(if_block1, 1, 1, () => {
-          if_block1 = null;
+        transition_out(if_block2, 1, 1, () => {
+          if_block2 = null;
         });
         check_outros();
       }
@@ -11714,26 +12181,27 @@ function create_if_block_18(ctx) {
       if (current)
         return;
       transition_in(if_block0);
-      transition_in(if_block1);
+      transition_in(if_block2);
       current = true;
     },
     o(local) {
       transition_out(if_block0);
-      transition_out(if_block1);
+      transition_out(if_block2);
       current = false;
     },
     d(detaching) {
       if (detaching)
         detach(div1);
       if_blocks[current_block_type_index].d();
-      if (if_block1)
-        if_block1.d();
+      if_block1.d();
+      if (if_block2)
+        if_block2.d();
       mounted = false;
       dispose();
     }
   };
 }
-function create_else_block_2(ctx) {
+function create_else_block_4(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -11762,7 +12230,7 @@ function create_else_block_2(ctx) {
     }
   };
 }
-function create_if_block_5(ctx) {
+function create_if_block_72(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -11788,6 +12256,46 @@ function create_if_block_5(ctx) {
     },
     d(detaching) {
       destroy_component(iconcomponent, detaching);
+    }
+  };
+}
+function create_else_block_3(ctx) {
+  let span;
+  return {
+    c() {
+      span = element("span");
+      span.textContent = `${t("folders")}`;
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+    },
+    p: noop,
+    d(detaching) {
+      if (detaching)
+        detach(span);
+    }
+  };
+}
+function create_if_block_62(ctx) {
+  let span;
+  let t_1_value = ctx[4].renamedText.folders + "";
+  let t_1;
+  return {
+    c() {
+      span = element("span");
+      t_1 = text(t_1_value);
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+      append(span, t_1);
+    },
+    p(ctx2, dirty) {
+      if (dirty & 16 && t_1_value !== (t_1_value = ctx2[4].renamedText.folders + ""))
+        set_data(t_1, t_1_value);
+    },
+    d(detaching) {
+      if (detaching)
+        detach(span);
     }
   };
 }
@@ -11818,7 +12326,7 @@ function create_if_block_23(ctx) {
       current = true;
     },
     p(ctx2, dirty) {
-      if (dirty & 55) {
+      if (dirty & 119) {
         each_value = Object.keys(ctx2[2]);
         let i;
         for (i = 0; i < each_value.length; i += 1) {
@@ -11862,7 +12370,7 @@ function create_if_block_23(ctx) {
     }
   };
 }
-function create_else_block_12(ctx) {
+function create_else_block_2(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -11891,7 +12399,7 @@ function create_else_block_12(ctx) {
     }
   };
 }
-function create_if_block_4(ctx) {
+function create_if_block_52(ctx) {
   let iconcomponent;
   let current;
   iconcomponent = new IconComponent_default({
@@ -11920,10 +12428,56 @@ function create_if_block_4(ctx) {
     }
   };
 }
+function create_else_block_12(ctx) {
+  let span;
+  let t_1_value = (ctx[4].renamedText.no_folder !== "" ? ctx[4].renamedText.no_folder : t("no_folder")) + "";
+  let t_1;
+  return {
+    c() {
+      span = element("span");
+      t_1 = text(t_1_value);
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+      append(span, t_1);
+    },
+    p(ctx2, dirty) {
+      if (dirty & 16 && t_1_value !== (t_1_value = (ctx2[4].renamedText.no_folder !== "" ? ctx2[4].renamedText.no_folder : t("no_folder")) + ""))
+        set_data(t_1, t_1_value);
+    },
+    d(detaching) {
+      if (detaching)
+        detach(span);
+    }
+  };
+}
+function create_if_block_42(ctx) {
+  let span;
+  let t_1_value = ctx[14] + "";
+  let t_1;
+  return {
+    c() {
+      span = element("span");
+      t_1 = text(t_1_value);
+    },
+    m(target, anchor) {
+      insert(target, span, anchor);
+      append(span, t_1);
+    },
+    p(ctx2, dirty) {
+      if (dirty & 4 && t_1_value !== (t_1_value = ctx2[14] + ""))
+        set_data(t_1, t_1_value);
+    },
+    d(detaching) {
+      if (detaching)
+        detach(span);
+    }
+  };
+}
 function create_if_block_33(ctx) {
   let each_1_anchor;
   let current;
-  let each_value_1 = ctx[2][ctx[13]];
+  let each_value_1 = ctx[2][ctx[14]];
   let each_blocks = [];
   for (let i = 0; i < each_value_1.length; i += 1) {
     each_blocks[i] = create_each_block_1(get_each_context_1(ctx, each_value_1, i));
@@ -11947,7 +12501,7 @@ function create_if_block_33(ctx) {
     },
     p(ctx2, dirty) {
       if (dirty & 5) {
-        each_value_1 = ctx2[2][ctx2[13]];
+        each_value_1 = ctx2[2][ctx2[14]];
         let i;
         for (i = 0; i < each_value_1.length; i += 1) {
           const child_ctx = get_each_context_1(ctx2, each_value_1, i);
@@ -11995,7 +12549,7 @@ function create_each_block_1(ctx) {
   let current;
   feedview = new FeedView_default({
     props: {
-      feed: ctx[16],
+      feed: ctx[17],
       plugin: ctx[0]
     }
   });
@@ -12010,7 +12564,7 @@ function create_each_block_1(ctx) {
     p(ctx2, dirty) {
       const feedview_changes = {};
       if (dirty & 4)
-        feedview_changes.feed = ctx2[16];
+        feedview_changes.feed = ctx2[17];
       if (dirty & 1)
         feedview_changes.plugin = ctx2[0];
       feedview.$set(feedview_changes);
@@ -12032,74 +12586,76 @@ function create_each_block_1(ctx) {
 }
 function create_each_block3(ctx) {
   let div1;
-  let span1;
+  let span;
   let show_if_1;
   let current_block_type_index;
   let if_block0;
   let t0;
-  let span0;
-  let t1_value = (ctx[13] ? ctx[13] : t("no_folder")) + "";
+  let span_class_value;
   let t1;
-  let span1_class_value;
-  let t2;
   let div0;
-  let show_if = !ctx[1].contains(ctx[13]);
-  let t3;
+  let show_if = !ctx[1].contains(ctx[14]);
+  let t2;
   let current;
   let mounted;
   let dispose;
-  const if_block_creators = [create_if_block_4, create_else_block_12];
+  const if_block_creators = [create_if_block_52, create_else_block_2];
   const if_blocks = [];
-  function select_block_type_5(ctx2, dirty) {
+  function select_block_type_7(ctx2, dirty) {
     if (show_if_1 == null || dirty & 6)
-      show_if_1 = !!ctx2[1].contains(ctx2[13]);
+      show_if_1 = !!ctx2[1].contains(ctx2[14]);
     if (show_if_1)
       return 0;
     return 1;
   }
-  current_block_type_index = select_block_type_5(ctx, -1);
+  current_block_type_index = select_block_type_7(ctx, -1);
   if_block0 = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+  function select_block_type_8(ctx2, dirty) {
+    if (ctx2[14])
+      return create_if_block_42;
+    return create_else_block_12;
+  }
+  let current_block_type = select_block_type_8(ctx, -1);
+  let if_block1 = current_block_type(ctx);
   function click_handler_4() {
-    return ctx[10](ctx[13]);
+    return ctx[11](ctx[14]);
   }
   function contextmenu_handler(...args) {
-    return ctx[11](ctx[13], ...args);
+    return ctx[12](ctx[14], ...args);
   }
-  let if_block1 = show_if && create_if_block_33(ctx);
+  let if_block2 = show_if && create_if_block_33(ctx);
   return {
     c() {
       div1 = element("div");
-      span1 = element("span");
+      span = element("span");
       if_block0.c();
       t0 = space();
-      span0 = element("span");
-      t1 = text(t1_value);
-      t2 = space();
+      if_block1.c();
+      t1 = space();
       div0 = element("div");
-      if (if_block1)
-        if_block1.c();
-      t3 = space();
-      attr(span1, "class", span1_class_value = "" + ((ctx[1].contains(ctx[13]) ? "is-collapsed" : "") + " tree-item-self is-clickable"));
+      if (if_block2)
+        if_block2.c();
+      t2 = space();
+      attr(span, "class", span_class_value = "" + ((ctx[1].contains(ctx[14]) ? "is-collapsed" : "") + " tree-item-self is-clickable"));
       attr(div0, "class", "tree-item-children");
       attr(div1, "class", "rss-folder tree-item");
     },
     m(target, anchor) {
       insert(target, div1, anchor);
-      append(div1, span1);
-      if_blocks[current_block_type_index].m(span1, null);
-      append(span1, t0);
-      append(span1, span0);
-      append(span0, t1);
-      append(div1, t2);
+      append(div1, span);
+      if_blocks[current_block_type_index].m(span, null);
+      append(span, t0);
+      if_block1.m(span, null);
+      append(div1, t1);
       append(div1, div0);
-      if (if_block1)
-        if_block1.m(div0, null);
-      append(div1, t3);
+      if (if_block2)
+        if_block2.m(div0, null);
+      append(div1, t2);
       current = true;
       if (!mounted) {
         dispose = [
-          listen(span1, "click", click_handler_4),
-          listen(span1, "contextmenu", contextmenu_handler)
+          listen(span, "click", click_handler_4),
+          listen(span, "contextmenu", contextmenu_handler)
         ];
         mounted = true;
       }
@@ -12107,7 +12663,7 @@ function create_each_block3(ctx) {
     p(new_ctx, dirty) {
       ctx = new_ctx;
       let previous_block_index = current_block_type_index;
-      current_block_type_index = select_block_type_5(ctx, dirty);
+      current_block_type_index = select_block_type_7(ctx, dirty);
       if (current_block_type_index !== previous_block_index) {
         group_outros();
         transition_out(if_blocks[previous_block_index], 1, 1, () => {
@@ -12121,31 +12677,39 @@ function create_each_block3(ctx) {
         } else {
         }
         transition_in(if_block0, 1);
-        if_block0.m(span1, t0);
+        if_block0.m(span, t0);
       }
-      if ((!current || dirty & 4) && t1_value !== (t1_value = (ctx[13] ? ctx[13] : t("no_folder")) + ""))
-        set_data(t1, t1_value);
-      if (!current || dirty & 6 && span1_class_value !== (span1_class_value = "" + ((ctx[1].contains(ctx[13]) ? "is-collapsed" : "") + " tree-item-self is-clickable"))) {
-        attr(span1, "class", span1_class_value);
+      if (current_block_type === (current_block_type = select_block_type_8(ctx, dirty)) && if_block1) {
+        if_block1.p(ctx, dirty);
+      } else {
+        if_block1.d(1);
+        if_block1 = current_block_type(ctx);
+        if (if_block1) {
+          if_block1.c();
+          if_block1.m(span, null);
+        }
+      }
+      if (!current || dirty & 6 && span_class_value !== (span_class_value = "" + ((ctx[1].contains(ctx[14]) ? "is-collapsed" : "") + " tree-item-self is-clickable"))) {
+        attr(span, "class", span_class_value);
       }
       if (dirty & 6)
-        show_if = !ctx[1].contains(ctx[13]);
+        show_if = !ctx[1].contains(ctx[14]);
       if (show_if) {
-        if (if_block1) {
-          if_block1.p(ctx, dirty);
+        if (if_block2) {
+          if_block2.p(ctx, dirty);
           if (dirty & 6) {
-            transition_in(if_block1, 1);
+            transition_in(if_block2, 1);
           }
         } else {
-          if_block1 = create_if_block_33(ctx);
-          if_block1.c();
-          transition_in(if_block1, 1);
-          if_block1.m(div0, null);
+          if_block2 = create_if_block_33(ctx);
+          if_block2.c();
+          transition_in(if_block2, 1);
+          if_block2.m(div0, null);
         }
-      } else if (if_block1) {
+      } else if (if_block2) {
         group_outros();
-        transition_out(if_block1, 1, 1, () => {
-          if_block1 = null;
+        transition_out(if_block2, 1, 1, () => {
+          if_block2 = null;
         });
         check_outros();
       }
@@ -12154,31 +12718,32 @@ function create_each_block3(ctx) {
       if (current)
         return;
       transition_in(if_block0);
-      transition_in(if_block1);
+      transition_in(if_block2);
       current = true;
     },
     o(local) {
       transition_out(if_block0);
-      transition_out(if_block1);
+      transition_out(if_block2);
       current = false;
     },
     d(detaching) {
       if (detaching)
         detach(div1);
       if_blocks[current_block_type_index].d();
-      if (if_block1)
-        if_block1.d();
+      if_block1.d();
+      if (if_block2)
+        if_block2.d();
       mounted = false;
       run_all(dispose);
     }
   };
 }
-function create_fragment6(ctx) {
+function create_fragment7(ctx) {
   let current_block_type_index;
   let if_block;
   let if_block_anchor;
   let current;
-  const if_block_creators = [create_if_block6, create_else_block2];
+  const if_block_creators = [create_if_block7, create_else_block2];
   const if_blocks = [];
   function select_block_type(ctx2, dirty) {
     if (!ctx2[1])
@@ -12254,11 +12819,13 @@ function buildTreeStructure(filteredContent) {
   });
   return result;
 }
-function instance6($$self, $$props, $$invalidate) {
+function instance7($$self, $$props, $$invalidate) {
   let $sortedFeedsStore;
   let $filteredItemsStore;
+  let $settingsStore;
   component_subscribe($$self, sortedFeedsStore, ($$value) => $$invalidate(2, $sortedFeedsStore = $$value));
   component_subscribe($$self, filteredItemsStore, ($$value) => $$invalidate(3, $filteredItemsStore = $$value));
+  component_subscribe($$self, settingsStore, ($$value) => $$invalidate(4, $settingsStore = $$value));
   let { plugin } = $$props;
   let folded = [];
   foldedState.subscribe((value) => {
@@ -12287,7 +12854,7 @@ function instance6($$self, $$props, $$invalidate) {
   }
   function openMenu(e, feedItems) {
     return __awaiter(this, void 0, void 0, function* () {
-      const menu = new import_obsidian13.Menu(plugin.app);
+      const menu = new import_obsidian15.Menu(plugin.app);
       menu.addItem((menuItem) => {
         menuItem.setIcon("create-new").setTitle(t("create_all")).onClick(() => __awaiter(this, void 0, void 0, function* () {
           for (const item of feedItems) {
@@ -12324,6 +12891,7 @@ function instance6($$self, $$props, $$invalidate) {
     folded,
     $sortedFeedsStore,
     $filteredItemsStore,
+    $settingsStore,
     toggleFold,
     openMenuForFolder,
     click_handler,
@@ -12337,13 +12905,13 @@ function instance6($$self, $$props, $$invalidate) {
 var FolderView = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance6, create_fragment6, safe_not_equal, { plugin: 0 });
+    init(this, options, instance7, create_fragment7, safe_not_equal, { plugin: 0 });
   }
 };
 var FolderView_default = FolderView;
 
 // src/view/ViewLoader.ts
-var ViewLoader = class extends import_obsidian14.ItemView {
+var ViewLoader = class extends import_obsidian16.ItemView {
   constructor(leaf, plugin) {
     super(leaf);
     this.plugin = plugin;
@@ -12382,7 +12950,7 @@ var import_lodash8 = __toModule(require_lodash3());
 var import_lodash9 = __toModule(require_lodash4());
 
 // src/modals/FilteredFolderModal.ts
-var import_obsidian15 = __toModule(require("obsidian"));
+var import_obsidian17 = __toModule(require("obsidian"));
 var SortOrder = /* @__PURE__ */ ((SortOrder2) => {
   SortOrder2[SortOrder2["DATE_NEWEST"] = 0] = "DATE_NEWEST";
   SortOrder2[SortOrder2["DATE_OLDEST"] = 1] = "DATE_OLDEST";
@@ -12414,7 +12982,7 @@ var FilteredFolderModal = class extends BaseModal {
       const { contentEl } = this;
       contentEl.empty();
       let nameText;
-      const name = new import_obsidian15.Setting(contentEl).setName(t("name")).setDesc(t("filter_name_help")).addText((text2) => {
+      const name = new import_obsidian17.Setting(contentEl).setName(t("name")).setDesc(t("filter_name_help")).addText((text2) => {
         nameText = text2;
         text2.setValue(this.name).onChange((value) => {
           this.removeValidationError(text2);
@@ -12422,22 +12990,22 @@ var FilteredFolderModal = class extends BaseModal {
         });
       });
       name.controlEl.addClass("rss-setting-input");
-      new import_obsidian15.Setting(contentEl).setName(t("only_favorites")).addToggle((toggle) => {
+      new import_obsidian17.Setting(contentEl).setName(t("only_favorites")).addToggle((toggle) => {
         toggle.setValue(this.favorites).onChange((value) => {
           this.favorites = value;
         });
       });
-      new import_obsidian15.Setting(contentEl).setName(t("show_read")).addToggle((toggle) => {
+      new import_obsidian17.Setting(contentEl).setName(t("show_read")).addToggle((toggle) => {
         toggle.setValue(this.read).onChange((value) => {
           this.read = value;
         });
       });
-      new import_obsidian15.Setting(contentEl).setName(t("show_unread")).addToggle((toggle) => {
+      new import_obsidian17.Setting(contentEl).setName(t("show_unread")).addToggle((toggle) => {
         toggle.setValue(this.unread).onChange((value) => {
           this.unread = value;
         });
       });
-      const sorting = new import_obsidian15.Setting(contentEl).setName(t("sort")).addDropdown((dropdown) => {
+      const sorting = new import_obsidian17.Setting(contentEl).setName(t("sort")).addDropdown((dropdown) => {
         for (const order2 in SortOrder) {
           if (order2.length > 1) {
             dropdown.addOption(order2, t("sort_" + order2.toLowerCase()));
@@ -12452,7 +13020,7 @@ var FilteredFolderModal = class extends BaseModal {
       foldersDiv.createEl("h2", { text: t("folders") });
       foldersDiv.createEl("p", { text: t("filter_folder_help") });
       for (const folder in this.filterFolders) {
-        new import_obsidian15.Setting(foldersDiv).addSearch((search) => __async(this, null, function* () {
+        new import_obsidian17.Setting(foldersDiv).addSearch((search) => __async(this, null, function* () {
           new ArraySuggest(this.app, search.inputEl, get_store_value(folderStore));
           search.setValue(this.filterFolders[folder]).onChange((value) => __async(this, null, function* () {
             this.removeValidationError(search);
@@ -12467,7 +13035,7 @@ var FilteredFolderModal = class extends BaseModal {
         });
       }
       let folderValue = "";
-      const newFolder = new import_obsidian15.Setting(foldersDiv).addSearch((search) => __async(this, null, function* () {
+      const newFolder = new import_obsidian17.Setting(foldersDiv).addSearch((search) => __async(this, null, function* () {
         new ArraySuggest(this.app, search.inputEl, get_store_value(folderStore));
         search.onChange((value) => __async(this, null, function* () {
           folderValue = value;
@@ -12488,7 +13056,7 @@ var FilteredFolderModal = class extends BaseModal {
         return this.filterFolders.contains(feed.folder);
       }).map((feed) => feed.name);
       for (const feed in this.filterFeeds) {
-        new import_obsidian15.Setting(feedsDiv).addSearch((search) => __async(this, null, function* () {
+        new import_obsidian17.Setting(feedsDiv).addSearch((search) => __async(this, null, function* () {
           new ArraySuggest(this.app, search.inputEl, new Set(feeds));
           search.setValue(this.filterFeeds[feed]).onChange((value) => __async(this, null, function* () {
             this.removeValidationError(search);
@@ -12503,7 +13071,7 @@ var FilteredFolderModal = class extends BaseModal {
         });
       }
       let feedValue = "";
-      const newFeed = new import_obsidian15.Setting(feedsDiv).addSearch((search) => __async(this, null, function* () {
+      const newFeed = new import_obsidian17.Setting(feedsDiv).addSearch((search) => __async(this, null, function* () {
         new ArraySuggest(this.app, search.inputEl, new Set(feeds));
         search.onChange((value) => __async(this, null, function* () {
           feedValue = value;
@@ -12519,7 +13087,7 @@ var FilteredFolderModal = class extends BaseModal {
       tagDiv.createEl("h2", { text: t("tags") });
       tagDiv.createEl("p", { text: t("filter_tags_help") });
       for (const tag in this.filterTags) {
-        new import_obsidian15.Setting(tagDiv).addSearch((search) => __async(this, null, function* () {
+        new import_obsidian17.Setting(tagDiv).addSearch((search) => __async(this, null, function* () {
           new ArraySuggest(this.app, search.inputEl, get_store_value(tagsStore));
           search.setValue(this.filterTags[tag]).onChange((value) => __async(this, null, function* () {
             this.removeValidationError(search);
@@ -12539,7 +13107,7 @@ var FilteredFolderModal = class extends BaseModal {
       }
       let tagValue = "";
       let tagComponent;
-      const newTag = new import_obsidian15.Setting(tagDiv).addSearch((search) => __async(this, null, function* () {
+      const newTag = new import_obsidian17.Setting(tagDiv).addSearch((search) => __async(this, null, function* () {
         tagComponent = search;
         new ArraySuggest(this.app, search.inputEl, get_store_value(tagsStore));
         search.onChange((value) => __async(this, null, function* () {
@@ -12561,7 +13129,7 @@ var FilteredFolderModal = class extends BaseModal {
       });
       newTag.controlEl.addClass("rss-setting-input");
       const footerEl = contentEl.createDiv();
-      const footerButtons = new import_obsidian15.Setting(footerEl);
+      const footerButtons = new import_obsidian17.Setting(footerEl);
       footerButtons.addButton((b) => {
         b.setTooltip(t("save")).setIcon("checkmark").onClick(() => __async(this, null, function* () {
           let error = false;
@@ -12570,7 +13138,7 @@ var FilteredFolderModal = class extends BaseModal {
             error = true;
           }
           if (error) {
-            new import_obsidian15.Notice(t("fix_errors"));
+            new import_obsidian17.Notice(t("fix_errors"));
             return;
           }
           this.saved = true;
@@ -12598,17 +13166,17 @@ var FilteredFolderModal = class extends BaseModal {
 var import_ts_md53 = __toModule(require_md5());
 
 // src/settings/SettingsTab.ts
-var import_obsidian24 = __toModule(require("obsidian"));
+var import_obsidian26 = __toModule(require("obsidian"));
 
 // src/settings/FolderSuggestor.ts
-var import_obsidian16 = __toModule(require("obsidian"));
+var import_obsidian18 = __toModule(require("obsidian"));
 var FolderSuggest = class extends TextInputSuggest {
   getSuggestions(inputStr) {
     const abstractFiles = this.app.vault.getAllLoadedFiles();
     const folders = [];
     const lowerCaseInputStr = inputStr.toLowerCase();
     abstractFiles.forEach((folder) => {
-      if (folder instanceof import_obsidian16.TFolder && folder.path.toLowerCase().contains(lowerCaseInputStr)) {
+      if (folder instanceof import_obsidian18.TFolder && folder.path.toLowerCase().contains(lowerCaseInputStr)) {
         folders.push(folder);
       }
     });
@@ -12627,10 +13195,10 @@ var FolderSuggest = class extends TextInputSuggest {
 // src/settings/FeedSettings.ts
 var import_lodash4 = __toModule(require_lodash5());
 var import_lodash5 = __toModule(require_lodash());
-var import_obsidian21 = __toModule(require("obsidian"));
+var import_obsidian23 = __toModule(require("obsidian"));
 
 // src/modals/FeedModal.ts
-var import_obsidian17 = __toModule(require("obsidian"));
+var import_obsidian19 = __toModule(require("obsidian"));
 
 // src/view/FeedFolderSuggest.ts
 var FeedFolderSuggest = class extends TextInputSuggest {
@@ -12665,7 +13233,7 @@ var FeedModal = class extends BaseModal {
       const { contentEl } = this;
       contentEl.empty();
       let nameText;
-      const name = new import_obsidian17.Setting(contentEl).setName(t("name")).setDesc(t("name_help")).addText((text2) => {
+      const name = new import_obsidian19.Setting(contentEl).setName(t("name")).setDesc(t("name_help")).addText((text2) => {
         nameText = text2;
         text2.setValue(this.name).onChange((value) => {
           this.removeValidationError(text2);
@@ -12674,7 +13242,7 @@ var FeedModal = class extends BaseModal {
       });
       name.controlEl.addClass("rss-setting-input");
       let urlText;
-      const url = new import_obsidian17.Setting(contentEl).setName("URL").setDesc(t("url_help")).addText((text2) => {
+      const url = new import_obsidian19.Setting(contentEl).setName("URL").setDesc(t("url_help")).addText((text2) => {
         urlText = text2;
         text2.setValue(this.url).onChange((value) => __async(this, null, function* () {
           this.removeValidationError(text2);
@@ -12682,14 +13250,14 @@ var FeedModal = class extends BaseModal {
         }));
       });
       url.controlEl.addClass("rss-setting-input");
-      new import_obsidian17.Setting(contentEl).setName(t("folder")).setDesc(t("folder_help")).addSearch((search) => __async(this, null, function* () {
+      new import_obsidian19.Setting(contentEl).setName(t("folder")).setDesc(t("folder_help")).addSearch((search) => __async(this, null, function* () {
         new FeedFolderSuggest(this.app, search.inputEl);
         search.setValue(this.folder).setPlaceholder(t("no_folder")).onChange((value) => __async(this, null, function* () {
           this.folder = value;
         }));
       }));
       const footerEl = contentEl.createDiv();
-      const footerButtons = new import_obsidian17.Setting(footerEl);
+      const footerButtons = new import_obsidian19.Setting(footerEl);
       footerButtons.addButton((b) => {
         b.setTooltip(t("save")).setIcon("checkmark").onClick(() => __async(this, null, function* () {
           let error = false;
@@ -12712,7 +13280,7 @@ var FeedModal = class extends BaseModal {
             }
           }
           if (error) {
-            new import_obsidian17.Notice(t("fix_errors"));
+            new import_obsidian19.Notice(t("fix_errors"));
             return;
           }
           this.saved = true;
@@ -12737,7 +13305,7 @@ var FeedModal = class extends BaseModal {
 };
 
 // src/modals/ImportModal.ts
-var import_obsidian18 = __toModule(require("obsidian"));
+var import_obsidian20 = __toModule(require("obsidian"));
 
 // src/parser/opmlParser.ts
 function loadFeedsFromString(importData) {
@@ -12770,7 +13338,7 @@ function loadFeedsFromString(importData) {
 }
 
 // src/modals/ImportModal.ts
-var ImportModal = class extends import_obsidian18.Modal {
+var ImportModal = class extends import_obsidian20.Modal {
   constructor(plugin) {
     super(plugin.app);
     this.importData = "";
@@ -12778,7 +13346,7 @@ var ImportModal = class extends import_obsidian18.Modal {
   }
   onOpen() {
     return __async(this, null, function* () {
-      const setting = new import_obsidian18.Setting(this.contentEl).setName(t("choose_file")).setDesc(t("choose_file_help"));
+      const setting = new import_obsidian20.Setting(this.contentEl).setName(t("choose_file")).setDesc(t("choose_file_help"));
       const input = setting.controlEl.createEl("input", {
         attr: {
           type: "file",
@@ -12798,15 +13366,15 @@ var ImportModal = class extends import_obsidian18.Modal {
           reader.readAsText(file);
         }
       });
-      new import_obsidian18.Setting(this.contentEl).addButton((button) => {
+      new import_obsidian20.Setting(this.contentEl).addButton((button) => {
         button.setIcon("import-glyph").setTooltip(t("import")).onClick(() => __async(this, null, function* () {
           if (this.importData) {
             const feeds = yield loadFeedsFromString(this.importData);
             yield this.plugin.writeFeeds(() => this.plugin.settings.feeds.concat(feeds));
-            new import_obsidian18.Notice(t("imported_x_feeds", String(feeds.length)));
+            new import_obsidian20.Notice(t("imported_x_feeds", String(feeds.length)));
             this.close();
           } else {
-            new import_obsidian18.Notice(t("fix_errors"));
+            new import_obsidian20.Notice(t("fix_errors"));
           }
         }));
       }).addExtraButton((button) => {
@@ -12822,7 +13390,7 @@ var ImportModal = class extends import_obsidian18.Modal {
 var import_ts_md52 = __toModule(require_md5());
 
 // src/modals/CleanupModal.ts
-var import_obsidian19 = __toModule(require("obsidian"));
+var import_obsidian21 = __toModule(require("obsidian"));
 var import_lodash = __toModule(require_lodash5());
 var import_lodash2 = __toModule(require_lodash());
 var CleanupModal = class extends BaseModal {
@@ -12839,22 +13407,22 @@ var CleanupModal = class extends BaseModal {
       contentEl.createEl("h1", { text: t("cleanup") });
       contentEl.createEl("p", { text: t("cleanup_help") });
       contentEl.createEl("p", { text: t("cleanup_help2") });
-      new import_obsidian19.Setting(contentEl).setName(t("unread")).addToggle((toggle) => {
+      new import_obsidian21.Setting(contentEl).setName(t("unread")).addToggle((toggle) => {
         toggle.onChange((value) => {
           this.unread = value;
         });
       });
-      new import_obsidian19.Setting(contentEl).setName(t("read")).addToggle((toggle) => {
+      new import_obsidian21.Setting(contentEl).setName(t("read")).addToggle((toggle) => {
         toggle.onChange((value) => {
           this.read = value;
         });
       });
-      new import_obsidian19.Setting(contentEl).setName(t("favorite")).addToggle((toggle) => {
+      new import_obsidian21.Setting(contentEl).setName(t("favorite")).addToggle((toggle) => {
         toggle.onChange((value) => {
           this.favorite = value;
         });
       });
-      new import_obsidian19.Setting(contentEl).setName(t("tag")).addSearch((search) => {
+      new import_obsidian21.Setting(contentEl).setName(t("tag")).addSearch((search) => {
         const tags = [];
         for (const feed of this.plugin.settings.items) {
           for (const item of feed.items) {
@@ -12868,7 +13436,7 @@ var CleanupModal = class extends BaseModal {
         }));
       });
       let older_than_setting;
-      new import_obsidian19.Setting(contentEl).setName(t("older_than")).setDesc(t("older_than_help")).addText((text2) => {
+      new import_obsidian21.Setting(contentEl).setName(t("older_than")).setDesc(t("older_than_help")).addText((text2) => {
         older_than_setting = text2;
         text2.setPlaceholder("5").onChange((value) => {
           this.removeValidationError(text2);
@@ -12878,7 +13446,7 @@ var CleanupModal = class extends BaseModal {
         });
       }).controlEl.addClass("rss-setting-input");
       older_than_setting.inputEl.setAttr("onkeypress", "return event.charCode >= 48 && event.charCode <= 57");
-      new import_obsidian19.Setting(contentEl).setName(t("from_feed")).addDropdown((dropdown) => {
+      new import_obsidian21.Setting(contentEl).setName(t("from_feed")).addDropdown((dropdown) => {
         dropdown.addOption("all-option-id", t("all"));
         const sorted = (0, import_lodash.default)((0, import_lodash2.default)(this.plugin.settings.feeds, "folder"), function(o) {
           return o[0].folder;
@@ -12898,26 +13466,26 @@ var CleanupModal = class extends BaseModal {
       const summary = details.createEl("summary");
       summary.setText(t("advanced"));
       const advanced = details.createDiv("advanced");
-      new import_obsidian19.Setting(advanced).setName(t("remove_wrong_feed")).setDesc(t("remove_wrong_feed_help")).addToggle((toggle) => {
+      new import_obsidian21.Setting(advanced).setName(t("remove_wrong_feed")).setDesc(t("remove_wrong_feed_help")).addToggle((toggle) => {
         toggle.onChange((value) => {
           this.wrong_feed = value;
         });
       });
-      new import_obsidian19.Setting(contentEl).addButton((button) => {
+      new import_obsidian21.Setting(contentEl).addButton((button) => {
         button.setIcon("feather-trash").setTooltip(t("perform_cleanup")).onClick(() => __async(this, null, function* () {
           let items = this.plugin.settings.items;
-          let date = (0, import_obsidian19.moment)();
+          let date = (0, import_obsidian21.moment)();
           if (this.older_than) {
-            date = (0, import_obsidian19.moment)().subtract(this.older_than, "days");
+            date = (0, import_obsidian21.moment)().subtract(this.older_than, "days");
           }
           let count = 0;
           const itemsCount = items.reduce((count2, current) => count2 + current.items.length, 0);
-          const notice = new import_obsidian19.Notice(t("scanning_items", "0", itemsCount.toString()));
+          const notice = new import_obsidian21.Notice(t("scanning_items", "0", itemsCount.toString()));
           for (const feed of items) {
             for (const item of feed.items) {
               if (item !== void 0) {
                 let toRemove = 0;
-                if (item.pubDate === void 0 || (0, import_obsidian19.moment)(item.pubDate).isBefore(date)) {
+                if (item.pubDate === void 0 || (0, import_obsidian21.moment)(item.pubDate).isBefore(date)) {
                   if (this.feed === "all-option-id" || this.feed === item.folder + "-" + item.feed) {
                     if (this.read && item.read || !this.read && !item.read || this.read && !item.read) {
                       toRemove++;
@@ -13001,8 +13569,8 @@ function generateOPML(feeds) {
 }
 
 // src/modals/MessageModal.ts
-var import_obsidian20 = __toModule(require("obsidian"));
-var MessageModal = class extends import_obsidian20.Modal {
+var import_obsidian22 = __toModule(require("obsidian"));
+var MessageModal = class extends import_obsidian22.Modal {
   constructor(plugin, message) {
     super(plugin.app);
     this.message = message;
@@ -13026,13 +13594,13 @@ var MessageModal = class extends import_obsidian20.Modal {
 function displayFeedSettings(plugin, container) {
   container.empty();
   container.createEl("h3", { text: t("feeds") });
-  new import_obsidian21.Setting(container).setName(t("add_new")).setDesc(t("add_new_feed")).addButton((button) => {
+  new import_obsidian23.Setting(container).setName(t("add_new")).setDesc(t("add_new_feed")).addButton((button) => {
     return button.setTooltip(t("add_new_feed")).setIcon("feather-plus").onClick(() => __async(this, null, function* () {
       const modal = new FeedModal(plugin);
       modal.onClose = () => __async(this, null, function* () {
         if (modal.saved) {
           if (plugin.settings.feeds.some((item) => item.url === modal.url)) {
-            new import_obsidian21.Notice(t("feed_already_configured"));
+            new import_obsidian23.Notice(t("feed_already_configured"));
             return;
           }
           yield plugin.writeFeeds(() => plugin.settings.feeds.concat({
@@ -13059,7 +13627,7 @@ function displayFeedSettings(plugin, container) {
         plugin.app.vault.adapter.remove("rss-feeds-export.opml");
       }
       plugin.app.vault.create("rss-feeds-export.opml", generateOPML(plugin.settings.feeds));
-      new import_obsidian21.Notice(t("created_export"));
+      new import_obsidian23.Notice(t("created_export"));
     });
   })).addExtraButton((button) => __async(this, null, function* () {
     button.setTooltip(t("perform_cleanup")).setIcon("feather-trash").onClick(() => {
@@ -13077,7 +13645,7 @@ function displayFeedList(plugin, container, disabled = false) {
   for (const [, feeds] of Object.entries(sorted)) {
     for (const id in feeds) {
       const feed = feeds[id];
-      const setting = new import_obsidian21.Setting(container);
+      const setting = new import_obsidian23.Setting(container);
       setting.setName((feed.folder ? feed.folder : t("no_folder")) + " - " + feed.name);
       setting.setDesc(feed.url);
       setting.addExtraButton((b) => {
@@ -13089,10 +13657,11 @@ function displayFeedList(plugin, container, disabled = false) {
               const feeds2 = plugin.settings.feeds;
               feeds2.remove(oldFeed);
               feeds2.push({ name: modal.name, url: modal.url, folder: modal.folder });
-              const items = plugin.settings.items;
-              items.filter((content) => {
+              let items = plugin.settings.items;
+              items = items.filter((content) => {
                 return content.name === oldFeed.name && content.folder === oldFeed.folder;
-              }).forEach((content) => {
+              });
+              items.forEach((content) => {
                 content.name = modal.name;
                 content.folder = modal.folder;
                 content.hash = new import_ts_md52.Md5().appendStr(modal.name).appendStr(modal.folder).end();
@@ -13116,7 +13685,7 @@ function displayFeedList(plugin, container, disabled = false) {
           const modal = new MessageModal(plugin, t("reading_archive"));
           modal.open();
           displayFeedList(plugin, container, true);
-          const timemap = yield (0, import_obsidian21.request)({
+          const timemap = yield (0, import_obsidian23.request)({
             method: "GET",
             url: "https://web.archive.org/web/timemap/link/" + feed.url
           });
@@ -13139,7 +13708,7 @@ function displayFeedList(plugin, container, disabled = false) {
             for (const content of items) {
               if (feed2.folder === content.folder && feed2.name === content.name) {
                 const sortedItems = content.items.sort((a, b) => {
-                  return (0, import_obsidian21.moment)(b.pubDate).diff((0, import_obsidian21.moment)(a.pubDate));
+                  return (0, import_obsidian23.moment)(b.pubDate).diff((0, import_obsidian23.moment)(a.pubDate));
                 });
                 for (const item of sortedItems) {
                   const filter = feed2.items.filter((filterItem) => {
@@ -13177,12 +13746,12 @@ function displayFeedList(plugin, container, disabled = false) {
 }
 
 // src/settings/HotkeySettings.ts
-var import_obsidian22 = __toModule(require("obsidian"));
+var import_obsidian24 = __toModule(require("obsidian"));
 function displayHotkeys(plugin, containerEl) {
   containerEl.empty();
   containerEl.createEl("h2", { text: t("hotkeys") });
   containerEl.createEl("h3", { text: t("hotkeys_reading") });
-  new import_obsidian22.Setting(containerEl).setName(t("create_note")).addButton((button) => {
+  new import_obsidian24.Setting(containerEl).setName(t("create_note")).addButton((button) => {
     button.setButtonText(plugin.settings.hotkeys.create).setTooltip(t("customize_hotkey")).onClick(() => {
       button.setButtonText(t("press_key"));
       const listener = (e) => __async(this, null, function* () {
@@ -13197,7 +13766,7 @@ function displayHotkeys(plugin, containerEl) {
       window.addEventListener("keyup", listener);
     });
   });
-  new import_obsidian22.Setting(containerEl).setName(t("paste_to_note")).addButton((button) => {
+  new import_obsidian24.Setting(containerEl).setName(t("paste_to_note")).addButton((button) => {
     button.setButtonText(plugin.settings.hotkeys.paste).setTooltip(t("customize_hotkey")).onClick(() => {
       button.setButtonText(t("press_key"));
       const listener = (e) => __async(this, null, function* () {
@@ -13212,7 +13781,7 @@ function displayHotkeys(plugin, containerEl) {
       window.addEventListener("keyup", listener);
     });
   });
-  new import_obsidian22.Setting(containerEl).setName(t("open_browser")).addButton((button) => {
+  new import_obsidian24.Setting(containerEl).setName(t("open_browser")).addButton((button) => {
     button.setButtonText(plugin.settings.hotkeys.open).setTooltip(t("customize_hotkey")).onClick(() => {
       button.setButtonText(t("press_key"));
       const listener = (e) => __async(this, null, function* () {
@@ -13227,7 +13796,7 @@ function displayHotkeys(plugin, containerEl) {
       window.addEventListener("keyup", listener);
     });
   });
-  new import_obsidian22.Setting(containerEl).setName(t("copy_to_clipboard")).addButton((button) => {
+  new import_obsidian24.Setting(containerEl).setName(t("copy_to_clipboard")).addButton((button) => {
     button.setButtonText(plugin.settings.hotkeys.copy).setTooltip(t("customize_hotkey")).onClick(() => {
       button.setButtonText(t("press_key"));
       const listener = (e) => __async(this, null, function* () {
@@ -13242,7 +13811,7 @@ function displayHotkeys(plugin, containerEl) {
       window.addEventListener("keyup", listener);
     });
   });
-  new import_obsidian22.Setting(containerEl).setName(t("mark_as_favorite_remove")).addButton((button) => {
+  new import_obsidian24.Setting(containerEl).setName(t("mark_as_favorite_remove")).addButton((button) => {
     button.setButtonText(plugin.settings.hotkeys.favorite).setTooltip(t("customize_hotkey")).onClick(() => {
       button.setButtonText(t("press_key"));
       const listener = (e) => __async(this, null, function* () {
@@ -13257,7 +13826,7 @@ function displayHotkeys(plugin, containerEl) {
       window.addEventListener("keyup", listener);
     });
   });
-  new import_obsidian22.Setting(containerEl).setName(t("mark_as_read_unread")).addButton((button) => {
+  new import_obsidian24.Setting(containerEl).setName(t("mark_as_read_unread")).addButton((button) => {
     button.setButtonText(plugin.settings.hotkeys.read).setTooltip(t("customize_hotkey")).onClick(() => {
       button.setButtonText(t("press_key"));
       const listener = (e) => __async(this, null, function* () {
@@ -13272,7 +13841,7 @@ function displayHotkeys(plugin, containerEl) {
       window.addEventListener("keyup", listener);
     });
   });
-  new import_obsidian22.Setting(containerEl).setName(t("edit_tags")).addButton((button) => {
+  new import_obsidian24.Setting(containerEl).setName(t("edit_tags")).addButton((button) => {
     button.setButtonText(plugin.settings.hotkeys.tags).setTooltip(t("customize_hotkey")).onClick(() => {
       button.setButtonText(t("press_key"));
       const listener = (e) => __async(this, null, function* () {
@@ -13287,7 +13856,7 @@ function displayHotkeys(plugin, containerEl) {
       window.addEventListener("keyup", listener);
     });
   });
-  new import_obsidian22.Setting(containerEl).setName(t("next")).addButton((button) => {
+  new import_obsidian24.Setting(containerEl).setName(t("next")).addButton((button) => {
     button.setButtonText(plugin.settings.hotkeys.next).setTooltip(t("customize_hotkey")).onClick(() => {
       button.setButtonText(t("press_key"));
       const listener = (e) => __async(this, null, function* () {
@@ -13302,7 +13871,7 @@ function displayHotkeys(plugin, containerEl) {
       window.addEventListener("keyup", listener);
     });
   });
-  new import_obsidian22.Setting(containerEl).setName(t("previous")).addButton((button) => {
+  new import_obsidian24.Setting(containerEl).setName(t("previous")).addButton((button) => {
     button.setButtonText(plugin.settings.hotkeys.previous).setTooltip(t("customize_hotkey")).onClick(() => {
       button.setButtonText(t("press_key"));
       const listener = (e) => __async(this, null, function* () {
@@ -13318,7 +13887,7 @@ function displayHotkeys(plugin, containerEl) {
     });
   });
   if (plugin.app.plugins.plugins["obsidian-tts"]) {
-    new import_obsidian22.Setting(containerEl).setName(t("read_article_tts")).setTooltip(t("customize_hotkey")).addButton((button) => {
+    new import_obsidian24.Setting(containerEl).setName(t("read_article_tts")).setTooltip(t("customize_hotkey")).addButton((button) => {
       button.setButtonText(plugin.settings.hotkeys.tts).onClick(() => {
         button.setButtonText(t("press_key"));
         const listener = (e) => __async(this, null, function* () {
@@ -13337,18 +13906,18 @@ function displayHotkeys(plugin, containerEl) {
 }
 
 // src/settings/FilterSettings.ts
-var import_obsidian23 = __toModule(require("obsidian"));
+var import_obsidian25 = __toModule(require("obsidian"));
 function displayFilterSettings(plugin, containerEl) {
   containerEl.empty();
   containerEl.createEl("hr", { attr: { style: "border-top: 5px solid var(--background-modifier-border);" } });
   containerEl.createEl("h3", { text: t("filtered_folders") });
-  new import_obsidian23.Setting(containerEl).setName(t("add_new")).setDesc(t("add_new_filter")).addButton((button) => {
+  new import_obsidian25.Setting(containerEl).setName(t("add_new")).setDesc(t("add_new_filter")).addButton((button) => {
     return button.setTooltip(t("add_new_filter")).setIcon("feather-plus").onClick(() => __async(this, null, function* () {
       const modal = new FilteredFolderModal(plugin);
       modal.onClose = () => __async(this, null, function* () {
         if (modal.saved) {
           if (plugin.settings.filtered.some((folder) => folder.name === modal.name)) {
-            new import_obsidian23.Notice(t("filter_exists"));
+            new import_obsidian25.Notice(t("filter_exists"));
             return;
           }
           yield plugin.writeFiltered(() => plugin.settings.filtered.concat({
@@ -13374,7 +13943,7 @@ function displayFilterSettings(plugin, containerEl) {
     if (filter === void 0) {
       continue;
     }
-    const setting = new import_obsidian23.Setting(filtersDiv);
+    const setting = new import_obsidian25.Setting(filtersDiv);
     setting.setName(filter.name);
     const description = [];
     if (filter.read)
@@ -13433,7 +14002,7 @@ function displayFilterSettings(plugin, containerEl) {
 }
 
 // src/settings/SettingsTab.ts
-var RSSReaderSettingsTab = class extends import_obsidian24.PluginSettingTab {
+var RSSReaderSettingsTab = class extends import_obsidian26.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -13444,8 +14013,8 @@ var RSSReaderSettingsTab = class extends import_obsidian24.PluginSettingTab {
     containerEl.createEl("h2", { text: t("RSS_Reader") + " " + t("settings") });
     containerEl.createEl("h3", { text: t("file_creation") });
     const templateDesc = new DocumentFragment();
-    templateDesc.createDiv().innerHTML = t("template_new_help") + "<br>" + t("available_variables") + `<br><strong>{{title}}</strong> \u2192 Title <br><strong>{{link}}</strong> \u2192 Link to article<br><strong>{{author}}</strong> \u2192 Author of article<br><strong>{{published}}</strong> \u2192 Date published<br><strong>{{created}}</strong> \u2192 Note creation date<br><strong>{{description}}</strong> \u2192 Short article description<br><strong>{{content}}</strong> \u2192 article content<br><strong>{{folder}}</strong> \u2192 Folder of feed<br><strong>{{feed}}</strong> \u2192 Title of feed<br><strong>{{filename}}</strong> \u2192 Filename<br><strong>{{tags}}</strong> \u2192 Tags split by comma<br><strong>{{media}}</strong> \u2192 Link to video/audio file`;
-    new import_obsidian24.Setting(containerEl).setName(t("template_new")).setDesc(templateDesc).addTextArea((textArea) => {
+    templateDesc.createDiv().innerHTML = t("template_new_help") + "<br>" + t("available_variables") + `<br><strong>{{title}}</strong> \u2192 Title <br><strong>{{link}}</strong> \u2192 Link to article<br><strong>{{author}}</strong> \u2192 Author of article<br><strong>{{published}}</strong> \u2192 Date published<br><strong>{{created}}</strong> \u2192 Note creation date<br><strong>{{description}}</strong> \u2192 Short article description<br><strong>{{content}}</strong> \u2192 article content<br><strong>{{folder}}</strong> \u2192 Folder of feed<br><strong>{{feed}}</strong> \u2192 Title of feed<br><strong>{{filename}}</strong> \u2192 Filename<br><strong>{{tags}}</strong> \u2192 Tags split by comma<br><strong>{{media}}</strong> \u2192 Link to video/audio file<br><strong>{{highlights}}</strong> \u2192 Highlights`;
+    new import_obsidian26.Setting(containerEl).setName(t("template_new")).setDesc(templateDesc).addTextArea((textArea) => {
       textArea.setValue(this.plugin.settings.template).setPlaceholder(DEFAULT_SETTINGS.template).onChange((value) => __async(this, null, function* () {
         yield this.plugin.writeSettings(() => ({
           template: value
@@ -13455,8 +14024,8 @@ var RSSReaderSettingsTab = class extends import_obsidian24.PluginSettingTab {
       textArea.inputEl.setAttr("cols", 50);
     });
     const pasteTemplateDesc = new DocumentFragment();
-    pasteTemplateDesc.createDiv().innerHTML = t("template_new_help") + "<br>" + t("available_variables") + `<br><strong>{{title}}</strong> \u2192 Title <br><strong>{{link}}</strong> \u2192 Link to article<br><strong>{{author}}</strong> \u2192 Author of article<br><strong>{{published}}</strong> \u2192 Date published<br><strong>{{created}}</strong> \u2192 Note creation date<br><strong>{{description}}</strong> \u2192 Short article description<br><strong>{{content}}</strong> \u2192 article content<br><strong>{{folder}}</strong> \u2192 Folder of feed<br><strong>{{feed}}</strong> \u2192 Title of feed<br><strong>{{tags}}</strong> \u2192 Tags split by comma<br><strong>{{media}}</strong> \u2192 Link to video/audio file`;
-    new import_obsidian24.Setting(containerEl).setName(t("template_paste")).setDesc(pasteTemplateDesc).addTextArea((textArea) => {
+    pasteTemplateDesc.createDiv().innerHTML = t("template_new_help") + "<br>" + t("available_variables") + `<br><strong>{{title}}</strong> \u2192 Title <br><strong>{{link}}</strong> \u2192 Link to article<br><strong>{{author}}</strong> \u2192 Author of article<br><strong>{{published}}</strong> \u2192 Date published<br><strong>{{created}}</strong> \u2192 Note creation date<br><strong>{{description}}</strong> \u2192 Short article description<br><strong>{{content}}</strong> \u2192 article content<br><strong>{{folder}}</strong> \u2192 Folder of feed<br><strong>{{feed}}</strong> \u2192 Title of feed<br><strong>{{tags}}</strong> \u2192 Tags split by comma<br><strong>{{media}}</strong> \u2192 Link to video/audio file<br><strong>{{highlights}}</strong> \u2192 Highlights`;
+    new import_obsidian26.Setting(containerEl).setName(t("template_paste")).setDesc(pasteTemplateDesc).addTextArea((textArea) => {
       textArea.setValue(this.plugin.settings.pasteTemplate).setPlaceholder(DEFAULT_SETTINGS.pasteTemplate).onChange((value) => __async(this, null, function* () {
         yield this.plugin.writeSettings(() => ({
           pasteTemplate: value
@@ -13465,14 +14034,14 @@ var RSSReaderSettingsTab = class extends import_obsidian24.PluginSettingTab {
       textArea.inputEl.setAttr("rows", 15);
       textArea.inputEl.setAttr("cols", 50);
     });
-    new import_obsidian24.Setting(containerEl).setName(t("file_location")).setDesc(t("file_location_help")).addDropdown((dropdown) => __async(this, null, function* () {
+    new import_obsidian26.Setting(containerEl).setName(t("file_location")).setDesc(t("file_location_help")).addDropdown((dropdown) => __async(this, null, function* () {
       dropdown.addOption("default", t("file_location_default")).addOption("custom", t("file_location_custom")).setValue(this.plugin.settings.saveLocation).onChange((value) => __async(this, null, function* () {
         yield this.plugin.writeSettings(() => ({ saveLocation: value }));
         this.display();
       }));
     }));
     if (this.plugin.settings.saveLocation == "custom") {
-      new import_obsidian24.Setting(containerEl).setName(t("file_location_folder")).setDesc(t("file_location_folder_help")).addSearch((search) => __async(this, null, function* () {
+      new import_obsidian26.Setting(containerEl).setName(t("file_location_folder")).setDesc(t("file_location_folder_help")).addSearch((search) => __async(this, null, function* () {
         new FolderSuggest(this.app, search.inputEl);
         search.setValue(this.plugin.settings.saveLocationFolder).setPlaceholder(DEFAULT_SETTINGS.saveLocationFolder).onChange((value) => __async(this, null, function* () {
           yield this.plugin.writeSettings(() => ({ saveLocationFolder: value }));
@@ -13480,7 +14049,7 @@ var RSSReaderSettingsTab = class extends import_obsidian24.PluginSettingTab {
       }));
     }
     let dateFormatSampleEl;
-    const dateFormat = new import_obsidian24.Setting(containerEl).setName(t("date_format")).addMomentFormat((format2) => {
+    const dateFormat = new import_obsidian26.Setting(containerEl).setName(t("date_format")).addMomentFormat((format2) => {
       dateFormatSampleEl = format2.setDefaultFormat(DEFAULT_SETTINGS.dateFormat).setPlaceholder(DEFAULT_SETTINGS.dateFormat).setValue(this.plugin.settings.dateFormat).onChange((value) => __async(this, null, function* () {
         yield this.plugin.writeSettings(() => ({ dateFormat: value }));
       }));
@@ -13500,34 +14069,34 @@ var RSSReaderSettingsTab = class extends import_obsidian24.PluginSettingTab {
         this.display();
       }));
     });
-    new import_obsidian24.Setting(containerEl).setName(t("ask_filename")).setDesc(t("ask_filename_help")).addToggle((toggle) => {
+    new import_obsidian26.Setting(containerEl).setName(t("ask_filename")).setDesc(t("ask_filename_help")).addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.askForFilename).onChange((value) => __async(this, null, function* () {
         yield this.plugin.writeSettings(() => ({
           askForFilename: value
         }));
       }));
     });
-    new import_obsidian24.Setting(containerEl).setName(t("default_filename")).setDesc(t("default_filename_help")).addText((text3) => {
+    new import_obsidian26.Setting(containerEl).setName(t("default_filename")).setDesc(t("default_filename_help")).addText((text3) => {
       text3.setPlaceholder(DEFAULT_SETTINGS.defaultFilename).setValue(this.plugin.settings.defaultFilename).onChange((value) => __async(this, null, function* () {
         if (value.length > 0) {
           yield this.plugin.writeSettings(() => ({
             defaultFilename: value
           }));
         } else {
-          new import_obsidian24.Notice(t("fix_errors"));
+          new import_obsidian26.Notice(t("fix_errors"));
         }
       }));
     });
     containerEl.createEl("hr", { attr: { style: "border-top: 5px solid var(--background-modifier-border);" } });
     containerEl.createEl("h3", { text: "Misc" });
-    const refresh = new import_obsidian24.Setting(containerEl).setName(t("refresh_time")).setDesc(t("refresh_time_help")).addText((text3) => {
+    const refresh = new import_obsidian26.Setting(containerEl).setName(t("refresh_time")).setDesc(t("refresh_time_help")).addText((text3) => {
       text3.setPlaceholder(String(DEFAULT_SETTINGS.updateTime)).setValue(String(this.plugin.settings.updateTime)).onChange((value) => __async(this, null, function* () {
         if (value.length === 0) {
-          new import_obsidian24.Notice(t("specify_positive_number"));
+          new import_obsidian26.Notice(t("specify_positive_number"));
           return;
         }
         if (Number(value) < 0) {
-          new import_obsidian24.Notice(t("specify_positive_number"));
+          new import_obsidian26.Notice(t("specify_positive_number"));
           return;
         }
         yield this.plugin.writeSettings(() => ({ updateTime: Number(value) }));
@@ -13544,34 +14113,62 @@ var RSSReaderSettingsTab = class extends import_obsidian24.PluginSettingTab {
         this.display();
       }));
     });
-    new import_obsidian24.Setting(containerEl).setName(t("multi_device_usage")).setDesc(t("multi_device_usage_help")).addToggle((toggle) => {
+    new import_obsidian26.Setting(containerEl).setName(t("multi_device_usage")).setDesc(t("multi_device_usage_help")).addToggle((toggle) => {
       return toggle.setValue(this.plugin.settings.autoSync).onChange((value) => __async(this, null, function* () {
         yield this.plugin.writeSettings(() => ({
           autoSync: value
         }));
       }));
     });
-    new import_obsidian24.Setting(containerEl).setName(t("display_style")).addDropdown((dropdown) => {
-      return dropdown.setValue(this.plugin.settings.displayStyle).addOption("list", t("list")).onChange((value) => __async(this, null, function* () {
-        yield this.plugin.writeSettings(() => ({
-          displayStyle: value
-        }));
-      }));
-    });
+    containerEl.createEl("h2", { text: t("content") });
     const filterContainer = containerEl.createDiv("filter-container");
     displayFilterSettings(this.plugin, filterContainer);
-    containerEl.createEl("hr", { attr: { style: "border-top: 5px solid var(--background-modifier-border);" } });
     const feedsContainer = containerEl.createDiv("feed-container");
     displayFeedSettings(this.plugin, feedsContainer);
     containerEl.createEl("hr", { attr: { style: "border-top: 5px solid var(--background-modifier-border);" } });
     const hotkeyContainer = containerEl.createDiv("hotkey-container");
     displayHotkeys(this.plugin, hotkeyContainer);
+    containerEl.createEl("hr", { attr: { style: "border-top: 5px solid var(--background-modifier-border);" } });
+    const details = containerEl.createEl("details");
+    const summary = details.createEl("summary");
+    summary.setText(t("advanced"));
+    const advanced = details.createDiv("advanced");
+    advanced.createEl("h3", { text: t("customize_terms") });
+    advanced.createSpan({ text: "Change a few selected terms here. You can help translating the plugin " });
+    advanced.createEl("a", { text: "here", href: "https://github.com/joethei/obsidian-rss/tree/master/src/l10n" });
+    new import_obsidian26.Setting(advanced).setName(t("folders")).addText((text3) => {
+      text3.setPlaceholder(t("folders")).setValue(this.plugin.settings.renamedText.folders).onChange((value) => __async(this, null, function* () {
+        yield this.plugin.writeSettings(() => ({
+          renamedText: __spreadProps(__spreadValues({}, this.plugin.settings.renamedText), {
+            folders: value
+          })
+        }));
+      }));
+    });
+    new import_obsidian26.Setting(advanced).setName(t("filtered_folders")).addText((text3) => {
+      text3.setPlaceholder(t("filtered_folders")).setValue(this.plugin.settings.renamedText.filtered_folders).onChange((value) => __async(this, null, function* () {
+        yield this.plugin.writeSettings(() => ({
+          renamedText: __spreadProps(__spreadValues({}, this.plugin.settings.renamedText), {
+            filtered_folders: value
+          })
+        }));
+      }));
+    });
+    new import_obsidian26.Setting(advanced).setName(t("no_folder")).addText((text3) => {
+      text3.setPlaceholder(t("no_folder")).setValue(this.plugin.settings.renamedText.no_folder).onChange((value) => __async(this, null, function* () {
+        yield this.plugin.writeSettings(() => ({
+          renamedText: __spreadProps(__spreadValues({}, this.plugin.settings.renamedText), {
+            no_folder: value
+          })
+        }));
+      }));
+    });
   }
 };
 
 // src/modals/ArticleSuggestModal.ts
-var import_obsidian25 = __toModule(require("obsidian"));
-var ArticleSuggestModal = class extends import_obsidian25.SuggestModal {
+var import_obsidian27 = __toModule(require("obsidian"));
+var ArticleSuggestModal = class extends import_obsidian27.SuggestModal {
   constructor(plugin, items) {
     super(plugin.app);
     this.plugin = plugin;
@@ -13591,12 +14188,12 @@ var ArticleSuggestModal = class extends import_obsidian25.SuggestModal {
   }
   renderSuggestion(item, el) {
     el.createEl("div", { text: item.title });
-    el.createEl("small", { text: (0, import_obsidian25.moment)(item.pubDate).format(this.plugin.settings.dateFormat) + " " + item.creator });
+    el.createEl("small", { text: (0, import_obsidian27.moment)(item.pubDate).format(this.plugin.settings.dateFormat) + " " + item.creator });
   }
 };
 
 // src/main.ts
-var RssReaderPlugin = class extends import_obsidian26.Plugin {
+var RssReaderPlugin = class extends import_obsidian28.Plugin {
   onload() {
     return __async(this, null, function* () {
       console.log("loading plugin rss reader");
@@ -13604,7 +14201,6 @@ var RssReaderPlugin = class extends import_obsidian26.Plugin {
       addFeatherIcon("eye");
       addFeatherIcon("eye-off");
       addFeatherIcon("star");
-      addFeatherIcon("clipboard");
       addFeatherIcon("headphones");
       addFeatherIcon("upload");
       addFeatherIcon("trash");
@@ -13790,7 +14386,8 @@ var RssReaderPlugin = class extends import_obsidian26.Plugin {
       let result = [];
       for (const feed of this.settings.feeds) {
         const items2 = yield getFeedItems(feed);
-        result.push(items2);
+        if (items2)
+          result.push(items2);
       }
       const items = this.settings.items;
       for (const feed of items) {
@@ -13807,7 +14404,7 @@ var RssReaderPlugin = class extends import_obsidian26.Plugin {
         }
       }
       result = (0, import_lodash7.default)(result, items, customizer);
-      new import_obsidian26.Notice(t("refreshed_feeds"));
+      new import_obsidian28.Notice(t("refreshed_feeds"));
       yield this.writeFeedContent(() => result);
     });
   }
@@ -13833,7 +14430,7 @@ var RssReaderPlugin = class extends import_obsidian26.Plugin {
         return;
       if (config.filtered[0].filterType === void 0)
         return;
-      new import_obsidian26.Notice("RSS Reader: migrating data");
+      new import_obsidian28.Notice("RSS Reader: migrating data");
       for (const filter of config.filtered) {
         const newFilter = {
           filterFolders: [],
@@ -13867,10 +14464,10 @@ var RssReaderPlugin = class extends import_obsidian26.Plugin {
       }
       yield this.app.vault.adapter.write(configPath, JSON.stringify(config));
       yield this.loadSettings();
-      new import_obsidian26.Notice("RSS Reader: data has been migrated");
+      new import_obsidian28.Notice("RSS Reader: data has been migrated");
       if (config.read === void 0)
         return;
-      new import_obsidian26.Notice("RSS Reader: migrating data");
+      new import_obsidian28.Notice("RSS Reader: migrating data");
       for (const content of Object.values(config.items)) {
         for (const item of content.items) {
           if (config.read.items.some((readItem) => {
@@ -13891,7 +14488,7 @@ var RssReaderPlugin = class extends import_obsidian26.Plugin {
       delete config.favorites;
       yield this.app.vault.adapter.write(configPath, JSON.stringify(config));
       yield this.loadSettings();
-      new import_obsidian26.Notice("RSS Reader: data has been migrated");
+      new import_obsidian28.Notice("RSS Reader: data has been migrated");
     });
   }
   loadSettings() {
@@ -13909,7 +14506,7 @@ var RssReaderPlugin = class extends import_obsidian26.Plugin {
         } catch (e) {
           console.log("RSS Reader: could not parse json, check if the plugins data.json is valid.");
           console.error(e);
-          new import_obsidian26.Notice(t("RSS_Reader") + " could not parse plugin data. If this message keeps showing up, check the console");
+          new import_obsidian28.Notice(t("RSS_Reader") + " could not parse plugin data. If this message keeps showing up, check the console");
           return Promise.resolve();
         }
       }

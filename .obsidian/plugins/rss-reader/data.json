@@ -541,5 +541,10 @@
     "previous": "ArrowLeft",
     "next": "ArrowRight"
   },
-  "folded": []
+  "folded": [],
+  "renamedText": {
+    "filtered_folders": "",
+    "folders": "",
+    "no_folder": ""
+  }
 }
