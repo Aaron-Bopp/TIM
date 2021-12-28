@@ -1663,7 +1663,6 @@ var TAG_REGEX = /(?:(?<roll>\d+)[Dd])?#(?<tag>[\p{Letter}\p{Emoji_Presentation}\
 var TABLE_REGEX = /(?:(?<roll>\d+)[Dd])?\[\[(?<link>[\s\S]+?)#?\^(?<block>[\s\S]+?)\]\]\|?(?<header>[\s\S]+)?/;
 var SECTION_REGEX = /(?:(?<roll>\d+)[Dd])?\[\[(?<link>[\s\S]+)\]\]\|?(?<types>[\s\S]+)?/;
 var MATH_REGEX = /[\(\^\+\-\*\/\)]/;
-var DICE_REGEX = /(?<dice>(?<roll>\d+)(?:[Dd]?\[?(?:-?\d+\s?,)?\s?(?:-?\d+|%|F)\]?)?)(?<conditional>(?:(?:=|=!|<|>|<=|>=|=<|=>|\-=|=\-)\d+)*)?/;
 var OMITTED_REGEX = /(?<roll>\d+)?[Dd](?<faces>\[?(?:-?\d+\s?,)?\s?(?:-?\d+|%|F)\]?)?(?<conditional>(?:(?:=|=!|<|>|<=|>=|=<|=>|\-=|=\-)\d+)*)?/;
 var CONDITIONAL_REGEX = /(?:(?<operator>=|=!|<|>|<=|>=|=<|=>|\-=|=\-)(?<comparer>\d+))/g;
 var ICON_DEFINITION = "dice-roller-icon";
@@ -1750,6 +1749,7 @@ var GenericFileRoller = class extends GenericRoller {
     this.original = original;
     this.lexeme = lexeme;
     this.source = source;
+    this.watch = true;
     this.getPath();
     this.getFile();
   }
@@ -1764,6 +1764,8 @@ var GenericFileRoller = class extends GenericRoller {
   }
   registerFileWatcher() {
     this.plugin.registerEvent(this.plugin.app.vault.on("modify", (file) => __async(this, null, function* () {
+      if (!this.watch)
+        return;
       if (this.save)
         return;
       if (file !== this.file)
@@ -2118,6 +2120,9 @@ var StackRoller = class extends GenericRoller {
     this.loaded = true;
     this.trigger("loaded");
   }
+  get replacer() {
+    return `${this.result}`;
+  }
   get resultText() {
     let text = [];
     let index = 0;
@@ -2358,6 +2363,18 @@ ${this.resultText}`;
 
 // src/roller/section.ts
 var import_obsidian3 = __toModule(require("obsidian"));
+function nanoid(num) {
+  let result = "";
+  const characters = "abcdefghijklmnopqrstuvwxyz0123456789";
+  const charactersLength = characters.length;
+  for (let i = 0; i < num; i++) {
+    result += characters.charAt(Math.floor(Math.random() * charactersLength));
+  }
+  return result;
+}
+function blockid(len) {
+  return `dice-${nanoid(4)}`;
+}
 var SectionRoller = class extends GenericFileRoller {
   constructor(plugin, original, lexeme, source, inline = true, showDice = plugin.data.showDice) {
     super(plugin, original, lexeme, source, showDice);
@@ -2379,6 +2396,13 @@ var SectionRoller = class extends GenericFileRoller {
       }));
     });
     (0, import_obsidian3.setIcon)(this.copy, COPY_DEFINITION);
+  }
+  get replacer() {
+    const blockID = this.getBlockId(this.result);
+    if (blockID) {
+      return `![[${this.path}#^${blockID}]]`;
+    }
+    return ``;
   }
   get tooltip() {
     return `${this.original}
@@ -2454,6 +2478,21 @@ ${this.path}`;
     }
     return res.join("\n\n");
   }
+  getBlockId(cache) {
+    var _a;
+    const blocks = (_a = this.cache.blocks) != null ? _a : {};
+    const block = Object.entries(blocks).find(([id, block2]) => {
+      return samePosition(block2.position, cache.position);
+    });
+    if (!block) {
+      const blockID = `${blockid(4)}`;
+      const content = `${this.content.slice(0, this.result.position.end.offset + 1)}^${blockID}${this.content.slice(this.result.position.end.offset)}`;
+      this.watch = false;
+      this.plugin.app.vault.modify(this.file, content);
+      return blockID;
+    }
+    return block[0];
+  }
   getPath() {
     var _a;
     const { groups } = this.lexeme.data.match(SECTION_REGEX);
@@ -2503,6 +2542,7 @@ ${this.path}`;
             }).filter((r) => r);
             this.render();
             this.trigger("new-result");
+            this.result = this.results[0];
             resolve2(this.results[0]);
           });
         } else {
@@ -2514,6 +2554,7 @@ ${this.path}`;
           }).filter((r) => r);
           this.render();
           this.trigger("new-result");
+          this.result = this.results[0];
           resolve2(this.results[0]);
         }
       });
@@ -2560,6 +2601,9 @@ var TagRoller = class extends GenericRoller {
     this.rolls = Number(roll);
     this.types = types;
     this.getFiles();
+  }
+  get replacer() {
+    return this.result.replacer;
   }
   get typeText() {
     var _a;
@@ -2630,6 +2674,7 @@ var TagRoller = class extends GenericRoller {
           }));
           this.render();
           this.trigger("new-result");
+          this.result = this.results[0];
           resolve2(this.result);
         } else {
           this.on("loaded", () => {
@@ -2638,6 +2683,7 @@ var TagRoller = class extends GenericRoller {
             }));
             this.render();
             this.trigger("new-result");
+            this.result = this.results[0];
             resolve2(this.result);
           });
         }
@@ -2688,6 +2734,9 @@ var LinkRoller = class extends GenericRoller {
     this.tag = `#${tag}`;
     this.rolls = (_a = roll && !isNaN(Number(roll)) && Number(roll)) != null ? _a : 1;
     this.getFiles();
+  }
+  get replacer() {
+    return `[[${this.result.basename}]]`;
   }
   get tooltip() {
     return `${this.original}
@@ -2790,6 +2839,9 @@ var LineRoller = class extends GenericFileRoller {
       }));
     });
     (0, import_obsidian3.setIcon)(this.copy, COPY_DEFINITION);
+  }
+  get replacer() {
+    return this.result;
   }
   get tooltip() {
     return `${this.original}
@@ -2940,6 +2992,9 @@ var TableRoller = class extends GenericFileRoller {
   get tooltip() {
     return `${this.original}
 ${this.path} > ${this.block}${this.header ? " | " + this.header : ""}`;
+  }
+  get replacer() {
+    return this.result;
   }
   build() {
     return __async(this, null, function* () {
@@ -33708,7 +33763,6 @@ var _DiceRenderer = class extends import_obsidian7.Component {
     this.container = createDiv("renderer-container");
     this.shadows = true;
     this.iterations = 0;
-    this.factory = new DiceFactory(this.WIDTH, this.HEIGHT, this.plugin);
     this.frame_rate = 1 / 60;
     this.animating = false;
     this.colors = {
@@ -33734,7 +33788,6 @@ var _DiceRenderer = class extends import_obsidian7.Component {
       alpha: true,
       antialias: true
     });
-    this.addChild(this.factory);
   }
   get WIDTH() {
     return this.container.clientWidth / 2;
@@ -33767,6 +33820,8 @@ var _DiceRenderer = class extends import_obsidian7.Component {
     this.world.add(...[...this.current.values()].flat());
   }
   onload() {
+    this.factory = new DiceFactory(this.WIDTH, this.HEIGHT, this.plugin);
+    this.addChild(this.factory);
     this.container.empty();
     this.container.style.opacity = `1`;
     document.body.appendChild(this.container);
@@ -34657,20 +34712,26 @@ var DiceRollerPlugin = class extends import_obsidian8.Plugin {
           if (/^dice\-mod:\s*([\s\S]+)\s*?/.test(node.innerText) && info) {
             try {
               let [full, content] = node.innerText.match(/^dice\-mod:\s*([\s\S]+)\s*?/);
-              if (!DICE_REGEX.test(content)) {
-                new import_obsidian8.Notice("Replacing note content may only be done with Dice Rolls.");
-                continue;
+              let showFormula = this.data.displayFormulaForMod;
+              if (content.includes("|noform")) {
+                showFormula = false;
               }
-              const showFormula = !content.includes("|noform");
               content = content.replace("|noform", "");
               const roller = this.getRoller(content, ctx.sourcePath);
+              roller.on("new-result", () => __async(this, null, function* () {
+                const fileContent = (yield this.app.vault.cachedRead(file)).split("\n");
+                let splitContent = fileContent.slice(info.lineStart, info.lineEnd + 1);
+                const replacer = roller.replacer;
+                if (!replacer) {
+                  new import_obsidian8.Notice("Dice Roller: There was an issue modifying the file.");
+                  return;
+                }
+                const rep = showFormula ? `${roller.inlineText} **${replacer}**` : `**${replacer}**`;
+                splitContent = splitContent.join("\n").replace(`\`${full}\``, rep).split("\n");
+                fileContent.splice(info.lineStart, info.lineEnd - info.lineStart + 1, ...splitContent);
+                yield this.app.vault.modify(file, fileContent.join("\n"));
+              }));
               yield roller.roll();
-              const fileContent = (yield this.app.vault.cachedRead(file)).split("\n");
-              let splitContent = fileContent.slice(info.lineStart, info.lineEnd + 1);
-              const rep = showFormula ? `${roller.inlineText} **${roller.result}**` : `**${roller.result}**`;
-              splitContent = splitContent.join("\n").replace(`\`${full}\``, rep).split("\n");
-              fileContent.splice(info.lineStart, info.lineEnd - info.lineStart + 1, ...splitContent);
-              yield this.app.vault.modify(file, fileContent.join("\n"));
               continue;
             } catch (e) {
               console.error(e);

@@ -3,9 +3,9 @@ created: 2021-07-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-27
-sr-interval: 16
-sr-ease: 250
+sr-due: 2022-01-07
+sr-interval: 10
+sr-ease: 230
 ---
 
 #### [[Note storage is important because it defines how you access and retain knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

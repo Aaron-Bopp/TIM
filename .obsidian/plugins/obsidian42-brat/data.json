@@ -10,6 +10,10 @@
   ],
   "themesList": [
     {
+      "repo": "Emrie-Candera/Bubble-Space-Theme",
+      "lastUpdate": "2021-12-12T16:12:24Z"
+    },
+    {
       "repo": "ebullient/obsidian-theme-ebullientworks",
       "lastUpdate": "2021-12-23T18:03:23Z"
     },
@@ -23,19 +27,15 @@
     },
     {
       "repo": "jdanielmourao/obsidian-sanctum",
-      "lastUpdate": "2021-12-27T14:55:29Z"
+      "lastUpdate": "2021-12-28T11:00:26Z"
     },
     {
       "repo": "chrisgrieser/shimmering-focus",
-      "lastUpdate": "2021-12-27T23:29:49Z"
+      "lastUpdate": "2021-12-28T13:05:21Z"
     },
     {
       "repo": "SlRvb/Obsidian--ITS-Theme",
       "lastUpdate": "2021-12-27T17:46:03Z"
-    },
-    {
-      "repo": "Emrie-Candera/Bubble-Space-Theme",
-      "lastUpdate": "2021-12-12T16:12:24Z"
     }
   ],
   "updateAtStartup": true,

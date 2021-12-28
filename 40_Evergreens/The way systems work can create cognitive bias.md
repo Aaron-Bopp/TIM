@@ -3,9 +3,9 @@ created: 2021-12-12
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-27
-sr-interval: 4
-sr-ease: 196
+sr-due: 2021-12-30
+sr-interval: 2
+sr-ease: 176
 ---
 
 #### [[The way systems work can create cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

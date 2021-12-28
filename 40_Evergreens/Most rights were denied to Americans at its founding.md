@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-27
-sr-interval: 23
+sr-due: 2022-02-23
+sr-interval: 57
 sr-ease: 243
 ---
 
@@ -12,6 +12,7 @@ sr-ease: 243
 
 Many rights that now exist were denied to [[women]], [[black people]], and [[Indigenous]] peoples by our [[founding fathers]] like healthcare, housing, [[education]], fair trial, to vote, etc., 
 
+[[Black identity is inherently political]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

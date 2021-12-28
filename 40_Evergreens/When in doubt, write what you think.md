@@ -8,16 +8,14 @@ sr-ease: 250
 
 #### [[When in doubt, write what you think]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-> if you think "oh gosh I can't slow down, my mind goes a million miles a minute", put that mf to work. write down every word
-> ^[https://twitter.com/visakanv/status/1450289708802605056]
-> 
-> <cite>[[@visakanv on Twitter|visakanv]]</cite>
-
 Starting to write notes can be intimidating for many reasons, one of which being that you don't know what to write about.
 The beauty of a [[second brain]] is that it is meant to be an extension of your thought. This means you can write about anything that you are thinking about and soon *your thinking will be better.* 
 
 This doesn't mean your [[second brain]] has to be a journal, or a planner, or about you, it can just be whatever you're thinking about. This could mean it is where you put down your school notes, your [[TTRPG]] notes, your dreams, anything. 
 Once you have broken through the [[Fear is the number one hindrance to trying|fear of trying]], you will be able to explore [[systems for thought]]: [[Choosing a note writing system is choosing a system for thought]] 
+
+For me this meant [[Write your notes like you're planting an evergreen forest]] and [[Write your notes with a system not within a system]], but your journey will be different: 
+[[Communities are knowledge graphs]]
 
 ### <hr class="footnote"/>
 

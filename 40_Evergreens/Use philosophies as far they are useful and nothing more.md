@@ -12,6 +12,7 @@ sr-ease: 170
 
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[The way systems work can create cognitive bias]]
+- [[Hard rules create cognitive bias]]
 - [[Only use organization systems as far as they are useful]]
 - [[Do we have free will]]
 - [[How to pursue the positive things in life]]

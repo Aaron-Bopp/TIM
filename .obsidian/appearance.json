@@ -1,6 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "BRAT-jdanielmourao----obsidian-sanctum",
+  "cssTheme": "BRAT-Emrie-Candera----Bubble-Space-Theme",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "adjust-footnotehrpadding",
@@ -9,7 +9,9 @@
     "S - Images Adjustments",
     "wordcount_dashboard",
     "links",
-    "S - Aside"
+    "S - Aside",
+    "space-fixes",
+    "S - Admonitions"
   ],
   "translucency": false,
   "baseFontSizeAction": false

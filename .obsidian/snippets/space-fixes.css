@@ -62,6 +62,10 @@ a:hover {
 .theme-dark span.list-bullet {
     visibility: hidden !important;
 }
+.theme-dark span.cm-formatting-list-ul::after {
+    display: none !important;
+    visibility: hidden !important;
+}
 
 .theme-dark span.list-bullet:after {
 content: '★'; 
@@ -76,12 +80,12 @@ visibility: visible !important;
 .markdown-preview-view p {
     padding-bottom: 0px;
 }
-
-.theme-dark .cm-s-obsidian span.cm-hashtag-begin {
+/* tag fixes */
+/* .theme-dark .cm-s-obsidian span.cm-hashtag-begin {
     display: inherit !important;
     border: none ;
 }
 .theme-dark .cm-s-obsidian span.cm-hashtag::before {
     display: none !important;
     content: "" !important;
-}
+} */

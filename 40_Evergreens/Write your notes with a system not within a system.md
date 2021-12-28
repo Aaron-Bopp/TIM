@@ -3,8 +3,8 @@ created: 2021-12-21
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-27
-sr-interval: 1
+sr-due: 2021-12-31
+sr-interval: 3
 sr-ease: 170
 ---
 
@@ -14,17 +14,13 @@ sr-ease: 170
 but [[Organization systems are not mutually exclusive]].
 Don't let yourself get bogged down with questions like, "Am I using the system the way the creator intended?" 
 
-[[Write your notes like you're planting an evergreen forest]], let yourself find what works along the way.
-[[Learning how systems work can be a gateway to creating thought]] so 
-shop around and experiment with different systems.
-[[A healthy second brain requires a surplus of entry points]] so the more tools you can find the more productive you will be:
-[[Better tools allow us to be less disciplined and more productive]]
+[[When in doubt, write what you think]] these are your notes write them your way
 
-- [[Evergreen notes organize knowledge so that it can grow]]
-- [[Use philosophies as far they are useful and nothing more]]
-- [[Hard rules create cognitive bias]]
- 
-
+1. [[Write your notes like you're planting an evergreen forest]], let yourself find what works along the way.  
+1. [[Learning how systems work can be a gateway to creating thought]] so shop around and experiment with different systems.  
+1. [[A healthy second brain requires a surplus of entry points]] so the more tools you can find the more productive you will be:
+1. [[Better tools allow us to be less disciplined and more productive]] 
+1. [[Use philosophies as far they are useful and nothing more]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

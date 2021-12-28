@@ -7,7 +7,13 @@ sr-due: 2022-01-18
 sr-interval: 41
 sr-ease: 210
 ---
+
 #### [[Neurodiverse people can use their brain to their advantage]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+> if you think "oh gosh I can't slow down, my mind goes a million miles a minute", put that mf to work. write down every word
+> ^[https://twitter.com/visakanv/status/1450289708802605056]
+> 
+> <cite>[[@visakanv on Twitter|visakanv]]</cite>
 
 - [[Neurodivergent people cannot stop their brain from solving problems]]
 - [[Autism]]

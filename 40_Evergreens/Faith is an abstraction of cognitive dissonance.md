@@ -3,8 +3,8 @@ created: 2021-11-07
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-27
-sr-interval: 15
+sr-due: 2022-01-30
+sr-interval: 33
 sr-ease: 188
 ---
 
@@ -16,7 +16,7 @@ Christian's use faith as a shield to protect themselves from the horrors of the 
 ^[[[The Politicization of the Christian Church]]] 
 You cannot fully [[blame]] them for this, as our brains are not really built to handle a world that is this painful or to think far enough ahead to understand the full extent of our actions. We are built to believe in something better: [[Humans have decided to reject an unjust world]]
 
-- [[Our brain will do anything it can to protect itself]]
+- [[Our brain will do anything it can to protect itself]] #TO/TEND/GRAFT 
 	- [[The brain is powerful enough to create supernatural experiences]]
 	- [[Is cognitive dissonance the reason for harmful behaviors]]
 	- [[Our ego is our subconscious defense of our self]]
