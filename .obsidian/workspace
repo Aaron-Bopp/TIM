@@ -22,7 +22,7 @@
               "leaf": "6c7a0de01257033c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.794871794871796}"
             },
             {
               "leaf": "6c7a0de01257033c",
@@ -487,7 +487,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 878.5
+    "width": 878.5,
+    "collapsed": true
   },
   "active": "6c7a0de01257033c",
   "lastOpenFiles": [
