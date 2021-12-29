@@ -7,7 +7,7 @@ sr-ease: 230
 ---
 
 #### [[Is your self-talk bullying you or bodyguarding you]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-This is a practice exercise from #TO/DO/FIND source
+This is a practice exercise from [[books_You and Your Gender Identity|You and Your Gender Identity by Dara Hoffman-Fox]]
 
 With enough practice, you'll be able to tell if your [[self]]-talk is coming from an Internal Bully or from your Bodyguard. The key is to ask yourself: 
 - Which words are being used in my [[self]]-talk? 

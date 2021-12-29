@@ -10,7 +10,9 @@ sr-ease: 165
 
 #### [[We carry our childhood wounds into adulthood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/FIND video about childhood wounds
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0m8iATgqzcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DUkpWgcR8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Especially in [[childhood]], negative experiences cause us to make wide assumptions about the world. Because [[Negative influences are stronger than positive influences]], these experiences can become integral parts of our [[personality|personalities]] or form into [[mental illness]].
 

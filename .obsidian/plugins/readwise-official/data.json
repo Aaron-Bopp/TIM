@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2469061,
+  "lastSavedStatusID": 2471935,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -340,7 +340,8 @@
     "10_Sources/Readwise/Tweets/tweets_It’s Startling Sometimes....md": "12475647",
     "10_Sources/Readwise/Tweets/tweets_A Lot of Paradoxes Might....md": "12475749",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Laur.md": "12481136",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖.md": "12489526"
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖.md": "12489526",
+    "10_Sources/Readwise/Books/books_You and Your Gender Identity.md": "9250064"
   },
   "reimportShowConfirmation": false,
   "obsidianToken": "rdiuwojlcr",

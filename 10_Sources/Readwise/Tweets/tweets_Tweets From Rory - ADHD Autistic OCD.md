@@ -92,3 +92,40 @@ highlight_tags:: [[capitalism]]
 
 [^255548330]: https://twitter.com/roryreckons/status/1467068664985784325
 
+# New highlights added December 28, 2021 at 5:45 PM
+##### ^263520467
+
+  
+%%
+highlight_tags:: [[neurodivergency]]
+%%###### ^263520467q
+> My brain constantly impulsive solves problems when I’m doing other things. 
+> “Intrusive solutions” are one of my most common features. 
+  [^263520467]
+
+[^263520467]: https://twitter.com/roryreckons/status/1462693350000132100
+
+# New highlights added December 28, 2021 at 5:51 PM
+##### ^263521786
+
+  
+%%
+highlight_tags:: [[creativity]]
+%%###### ^263521786q
+> The higher my stress in a social situation = the worse my recall
+> The lower my stress alone = weird as hell super creative and usually correct answers I haven’t been thinking about. 
+  [^263521786]
+
+[^263521786]: https://twitter.com/roryreckons/status/1462694267709624325
+
+##### ^263521787
+
+  
+%%
+highlight_tags:: [[autism]]
+%%###### ^263521787q
+> I think the second I stop stressing my brain often releases solutions to me. This explains why I solve a lot of problems in the shower or just as I am going to sleep. It’s a very frustrating thing. 
+  [^263521787]
+
+[^263521787]: https://twitter.com/roryreckons/status/1462693715642707968
+
