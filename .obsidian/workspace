@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0f9263e6548eae29",
+        "id": "ddcb2869f5ca3ab0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/209 Notepad.md",
+            "file": "30_Topics/36_Lists/Life principles.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,19 +19,13 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "0f9263e6548eae29",
+              "leaf": "ddcb2869f5ca3ab0",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Life principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "0f9263e6548eae29",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "0f9263e6548eae29",
+              "leaf": "ddcb2869f5ca3ab0",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -87,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "30_Topics/36_Lists/Life principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -120,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "30_Topics/36_Lists/Life principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/209 Notepad.md"
+                "file": "30_Topics/36_Lists/Life principles.md"
               }
             },
             "pane-relief:history-v1": {
@@ -282,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "30_Topics/36_Lists/Life principles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -392,17 +386,17 @@
     "width": 878.5,
     "collapsed": true
   },
-  "active": "0f9263e6548eae29",
+  "active": "ddcb2869f5ca3ab0",
   "lastOpenFiles": [
+    "30_Topics/36_Lists/Life principles.md",
+    "40_Evergreens/42 Knowledge Management.md",
+    "40_Evergreens/Consciousness is the fundamental unit of existence.md",
+    "40_Evergreens/41 Inbox.md",
     "20_Entry/209 Notepad.md",
+    "20_Entry/Difference between reincarnation in Hinduism and Bhudism.md",
+    "10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md",
     "10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md",
     "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
-    "10_Sources/Mental Health/videoScarra Drk Interview.md",
-    "40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md",
-    "30_Topics/32_Terms/mnemonic medium.md",
-    "30_Topics/34_People/Andy Matuschak.md",
-    "10_Sources/Andy Matuschak's Evergreen Notes.md",
-    "40_Evergreens/How to process repressed emotions.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md"
+    "10_Sources/Mental Health/videoScarra Drk Interview.md"
   ]
 }

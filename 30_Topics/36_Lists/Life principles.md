@@ -16,7 +16,6 @@ tags: node/topic/list
 - [[Be the change you want to see in the world]]
 - [[The injustice of endurance]]
 - [[Take note of the simple things in life]]
-- [[You should the love the loves of those who you love]]
 - [[The three main questions of life]]
 - [[Stupid rules are meant to be broken]]
 

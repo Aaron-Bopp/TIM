@@ -7,7 +7,6 @@ type:
 source: https://medium.com/@xsm918/comparing-reincarnation-beliefs-between-hinduism-and-buddhism-2cb498c4041a
 ---
 
-###### [[Difference between reincarnation in Hinduism and Bhudism]]
 
 **Topics**::  [[Buddhism]], [[Hinduism]], [[eastern philosophy]]
 

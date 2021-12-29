@@ -27,3 +27,4 @@
 	- [[Hard boundaries reduce opportunities for creativity]]
 	- [[A totally integrated machine should automate as much of the thinking process as possible]]
 	- [[Concepts are the fundamental unit of knowledge]]
+	- [[Consciousness is the fundamental unit of existence]]

@@ -5323,7 +5323,7 @@
     "10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md": {
       "size": 12753,
       "tags": 1,
-      "links": 15
+      "links": 14
     },
     "10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md": {
       "size": 19610,
@@ -8156,9 +8156,9 @@
       "links": 27
     },
     "40_Evergreens/41 Inbox.md": {
-      "size": 1611,
+      "size": 1877,
       "tags": 0,
-      "links": 29
+      "links": 30
     },
     "40_Evergreens/44 Identity.md": {
       "size": 1585,
@@ -8703,7 +8703,7 @@
     "30_Topics/36_Lists/Life principles.md": {
       "size": 759,
       "tags": 1,
-      "links": 8
+      "links": 7
     },
     "30_Topics/34_People/@mykola on Twitter.md": {
       "size": 0,
@@ -9744,20 +9744,25 @@
       "size": 163,
       "tags": 1,
       "links": 0
+    },
+    "40_Evergreens/Consciousness is the fundamental unit of existence.md": {
+      "size": 1066,
+      "tags": 2,
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2068,
-      "Create": 2420,
-      "Link": 4283,
-      "Expand": 455
+      "Refactor": 2073,
+      "Create": 2422,
+      "Link": 4288,
+      "Expand": 458
     },
     "40_Evergreens": {
-      "Refactor": 183,
+      "Refactor": 184,
       "Create": 37,
-      "Link": 459,
-      "Expand": 251
+      "Link": 460,
+      "Expand": 252
     }
   },
   "dailyCommits": {
@@ -9784,8 +9789,8 @@
       "19": 231,
       "20": 183,
       "21": 708,
-      "22": 507,
-      "23": 305
+      "22": 521,
+      "23": 306
     },
     "40_Evergreens": {
       "0": 44,
@@ -9810,14 +9815,14 @@
       "19": 43,
       "20": 36,
       "21": 64,
-      "22": 12,
+      "22": 15,
       "23": 59
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 313,
-      "Tue": 1595,
+      "Tue": 1610,
       "Wed": 1524,
       "Thu": 442,
       "Fri": 300,
@@ -9826,7 +9831,7 @@
     },
     "40_Evergreens": {
       "Mon": 61,
-      "Tue": 175,
+      "Tue": 178,
       "Wed": 144,
       "Thu": 17,
       "Fri": 91,
@@ -9837,6 +9842,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
@@ -9884,12 +9892,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/To those with privilege, losing it feels like oppression.md\"> To those with privilege, losing it feels like oppression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"20_Entry/Difference between reincarnation in Hinduism and Bhudism.md\"> Difference between reincarnation in Hinduism and Bhudism </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/XML.md\"> XML </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/worldview.md\"> worldview </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/women.md\"> women </a>",
@@ -9938,11 +9945,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Revolt.md\"> Revolt </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Reincarnation.md\"> Reincarnation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/reppressed.md\"> reppressed </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/relationships.md\"> relationships </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/queerphobia.md\"> queerphobia </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/reppressed.md\"> reppressed </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/newsletter.eleanorkonik.com.md\"> newsletter.eleanorkonik.com </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/@roryreckons on Twitter.md\"> @roryreckons on Twitter </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Utilities.md\"> Utilities </a>",
@@ -9992,10 +9998,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inacurate information.md\"> Mass media promotes the spread of inacurate information </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettelkasten.md\"> Zettelkasten </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettelkassen.md\"> Zettelkassen </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettelkasten.md\"> Zettelkasten </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/abortion.md\"> abortion </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Acting.md\"> Acting </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/activism.md\"> activism </a>",
@@ -10045,8 +10051,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/diverse.md\"> diverse </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/eastern philosophy.md\"> eastern philosophy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/education.md\"> education </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional invalidation.md\"> emotional invalidation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional validation.md\"> emotional validation </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional invalidation.md\"> emotional invalidation </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -10085,6 +10090,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"20_Entry/Difference between reincarnation in Hinduism and Bhudism.md\"> Difference between reincarnation in Hinduism and Bhudism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/XML.md\"> XML </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/worldview.md\"> worldview </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/women.md\"> women </a>",
@@ -10134,10 +10140,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/reppressed.md\"> reppressed </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/relationships.md\"> relationships </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Reincarnation.md\"> Reincarnation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rationalizations.md\"> rationalizations </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Reincarnation.md\"> Reincarnation </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/abortion.md\"> abortion </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Acting.md\"> Acting </a>",
@@ -10184,11 +10193,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/PERSON.md\"> PERSON </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
@@ -10244,6 +10249,9 @@
         "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md\"> articleDifference between reincarnation in Hinduism and Bhudism </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mnemonic medium.md\"> mnemonic medium </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
@@ -10291,14 +10299,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
@@ -10348,8 +10354,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -10391,6 +10396,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/newsletter.eleanorkonik.com.md\"> newsletter.eleanorkonik.com </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception.md\"> Names matter because they effect people's perception </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
@@ -10440,8 +10446,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/oh.md\"> oh </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testing one.md\"> testing one </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asfdasdfasdfasdfasdf.md\"> asfdasdfasdfasdfasdf </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asdfasdfasdfasdf.md\"> asdfasdfasdfasdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/asfdasdfasdfasdfasdf.md\"> asfdasdfasdfasdfasdf </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
@@ -10537,6 +10542,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\"> Is your self-talk bullying you or bodyguarding you </a>",
@@ -10586,8 +10592,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/To those with privilege, losing it feels like oppression.md\"> To those with privilege, losing it feels like oppression </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
