@@ -8692,8 +8692,8 @@
     },
     "40_Evergreens/Names matter because they effect people's perception and understanding.md": {
       "size": 1241,
-      "tags": 2,
-      "links": 8
+      "tags": 3,
+      "links": 11
     },
     "30_Topics/36_Lists/Life principles.md": {
       "size": 759,
@@ -9775,13 +9775,13 @@
     "/": {
       "Refactor": 2082,
       "Create": 2426,
-      "Link": 4311,
+      "Link": 4313,
       "Expand": 459
     },
     "40_Evergreens": {
       "Refactor": 186,
       "Create": 38,
-      "Link": 469,
+      "Link": 471,
       "Expand": 252
     }
   },
@@ -9798,7 +9798,7 @@
       "8": 53,
       "9": 664,
       "10": 214,
-      "11": 192,
+      "11": 194,
       "12": 422,
       "13": 270,
       "14": 2332,
@@ -9824,7 +9824,7 @@
       "8": 29,
       "9": 222,
       "10": 83,
-      "11": 69,
+      "11": 71,
       "12": 39,
       "13": 85,
       "14": 66,
@@ -9843,7 +9843,7 @@
     "/": {
       "Mon": 313,
       "Tue": 1610,
-      "Wed": 1561,
+      "Wed": 1563,
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
@@ -9852,7 +9852,7 @@
     "40_Evergreens": {
       "Mon": 61,
       "Tue": 178,
-      "Wed": 156,
+      "Wed": 158,
       "Thu": 17,
       "Fri": 91,
       "Sat": 0,
@@ -10021,6 +10021,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Dr. K.md\"> Dr. K </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans yearn for a tool with no blood on it.md\"> Humans yearn for a tool with no blood on it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
@@ -10070,8 +10071,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy.md\"> democracy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/desire.md\"> desire </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/despair.md\"> despair </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DID (Dissociative Identity Disorder).md\"> DID (Dissociative Identity Disorder) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/digital garden.md\"> digital garden </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DID (Dissociative Identity Disorder).md\"> DID (Dissociative Identity Disorder) </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -10163,6 +10163,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Reincarnation.md\"> Reincarnation </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoBreaking the Cycle of Overthinking.md\"> videoBreaking the Cycle of Overthinking </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDestiny Interviews Dr. K.md\"> videoDestiny Interviews Dr. K </a>",
@@ -10212,8 +10213,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Meyers Briggs.md\"> Meyers Briggs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mindfulness.md\"> mindfulness </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/OCD.md\"> OCD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/panic attacks.md\"> panic attacks </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/panic attacks.md\"> panic attacks </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
@@ -10470,6 +10470,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/testing one.md\"> testing one </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans yearn for a tool with no blood on it.md\"> Humans yearn for a tool with no blood on it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>",
@@ -10519,8 +10520,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\"> Parents need to model the ability to deal with emotion to their children </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10563,6 +10563,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans yearn for a tool with no blood on it.md\"> Humans yearn for a tool with no blood on it </a>",
@@ -10612,8 +10613,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Do we have free will.md\"> Do we have free will </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",

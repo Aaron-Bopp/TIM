@@ -3,8 +3,8 @@ created: 2021-12-09
 aliases:
   - null
 tags: node/evergreen, node/question 
-sr-due: 2021-12-28
-sr-interval: 6
+sr-due: 2022-01-09
+sr-interval: 11
 sr-ease: 150
 ---
 

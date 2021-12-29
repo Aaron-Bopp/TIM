@@ -3,8 +3,8 @@ created: 2021-12-22
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-28
-sr-interval: 2
+sr-due: 2022-01-02
+sr-interval: 4
 sr-ease: 150
 ---
 
@@ -18,6 +18,9 @@ In [[my TO(DO) and EVER(GREEN) structure]], I have classification's of seed, spr
 
 - [[Trans people will look for any other solution than being trans]]
 - [[How to pursue the positive things in life]]
+- #TO/PONDER relation to [[cognitive dissonance]]
+- [[Q justifies conservatives discontent]]
+- [[American's are scared of the word communism not it's meaning]]
  
 
 ### <hr class="footnote"/>
