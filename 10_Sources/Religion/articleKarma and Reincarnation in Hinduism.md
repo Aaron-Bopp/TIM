@@ -25,7 +25,7 @@ source: https://www.hinduismtoday.com/hindu-basics/karma-and-reincarnation/
 	- [[enlightenment|Moksha]] comes when the [[soul]] has gone through all the experiences of life in the physical world [^8]
 	- A noble goal in [[Hinduism]] is to experience life
 - [[Suicide]] accelerates negative [[karma]] and it will take many live to reach the same point again. There is no escape from life. [^6]
-- Through [[selfless]] action that is surrendered to God [[Hinduism|Hindu]]'s  avoid being affected by the reaction of their actions. [[Bhuddism is the study of happiness through detachment]]
+- Through [[selfless]] action that is surrendered to God [[Hinduism|Hindu]]'s  avoid being affected by the reaction of their actions. [[Buddhism is the study of happiness through detachment]]
 	- God acts through [[Hinduism|Hindu]]'s and they should not take credit for their actions [^9]
 - [[Hinduism]] has room for all people, beggar, saint, or pyschopath. [^10]
 	- It has knowledge of inner states of [[conscious|consciousness]], [[yoga]], [[meditation]], and tolerance for all [[religion]] [^11]

@@ -3,9 +3,9 @@ created: 2021-12-24
 aliases:
   - null
 tags: node/evergreen, node/question 
-sr-due: 2021-12-28
-sr-interval: 2
-sr-ease: 190
+sr-due: 2021-12-30
+sr-interval: 1
+sr-ease: 170
 ---
 
 #### [[Does cognitive dissonance increase your capacity for endurance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

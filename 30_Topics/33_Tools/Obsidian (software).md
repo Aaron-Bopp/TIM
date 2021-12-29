@@ -15,11 +15,19 @@ Obsidian is a markdown editor that includes many features that are valuable to [
 
 
 ## Getting Started
-- Okay I didn't scroll down past the download link on [obsidian.md](https://obsidian.md/) until I had been using it for almost a year, but it is a really good starting point!
+- Okay, I didn't scroll down past the download link on [obsidian.md](https://obsidian.md/) until I had been using it for almost a year, but it is an excellent starting point!
 - [Expansive list of resources and a weekly newsletter on Obsidian](https://obsidianroundup.org/resources/.)
 - [List of resources](https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp) for learning obsidian and [[knowledge management]]
  - [The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is a community effort to collect resources
 - Excellent beginner's guide to [Zettelkasten in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
+
+### My notes that are useful to Obsidian users
+- [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
+- [[Use Obsidian tags as temporal classifiers]]
+- [[Parsing markup text for Obsidian projects]]
+- [[Develop Obsidian plugins]]
+- [[Combine notes instead of deleting them to avoid ghost data in a second brain]]
+- See [[My TIM]] and [[42 Knowledge Management]] for more
 
 ### Example Vaults
 

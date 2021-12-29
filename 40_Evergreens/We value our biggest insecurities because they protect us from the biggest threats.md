@@ -24,7 +24,7 @@ This valuing is often not [[conscious]], or the threat cannot be named easily, b
 [^2]: [[Hope is not optimism it is a practice for producing change]]
 
 
-%% #TO/EXPLORE/WATCH video drk made on this%%
+%% #TO/EXPLORE/WATCH video [[Dr. K]] made on this%%
 
 ### <hr class="footnote"/>
 

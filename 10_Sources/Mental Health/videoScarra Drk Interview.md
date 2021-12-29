@@ -28,11 +28,11 @@ source: https://www.youtube.com/watch?v=nB8g3n10_Z8
 - cognitive [[empathy]]
 - "when you say that the rationalization is the best way it's because that's what you're the best at"
 ### low self-worth
-- Admits that he has very low [[self-worth]], but then immediately goes and says that's normal, when [[DrK]] pushes he admits that he is being more vulnerable than he likes 
+- Admits that he has very low [[self-worth]], but then immediately goes and says that's normal, when [[Dr. K]] pushes he admits that he is being more vulnerable than he likes 
 - "Logic is your shield and you constantly work on yourself but that feeling of worthlessness doesn't go away"
 - "the more you work and that feeling doesn't go away what do you conclude"
-- scarra feels like he is incapable of certain and things but deals with that by saying that he can never be perfect, drk pushes back by saying you can never be perfect but saying that in response to your own feelings engenders hopelessness i.e Your someone that could do something but won't 
-### how does [[DrK]] approach 
+- scarra feels like he is incapable of certain and things but deals with that by saying that he can never be perfect, [[Dr. K]] pushes back by saying you can never be perfect but saying that in response to your own feelings engenders hopelessness i.e Your someone that could do something but won't 
+### how does [[Dr. K]] approach 
 - Recognizes verbally that something will be difficult
 - mirrors why patient rationalizes but pushes back against the [[purpose]] of that [[rationalizations|rationalization]]
 - asks basic questions like "What did you say in response this question" and lets the patient work through it 

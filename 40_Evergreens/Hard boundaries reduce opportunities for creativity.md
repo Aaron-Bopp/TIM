@@ -3,8 +3,8 @@ created: 2021-12-25
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-27
-sr-interval: 1
+sr-due: 2022-01-02
+sr-interval: 4
 sr-ease: 190
 ---
 
@@ -19,7 +19,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[organization]], [[knowledge work]], [[creativity]]

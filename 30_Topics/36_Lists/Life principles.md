@@ -13,11 +13,12 @@ tags: node/topic/list
 
 ##### [[Life principles]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-- [[Be the change you want to see in the world]]
 - [[The injustice of endurance]]
-- [[Take note of the simple things in life]]
-- [[The three main questions of life]]
 - [[Stupid rules are meant to be broken]]
+- [[The three main questions of life]]
+- [[You can't blame people for failing to rise above their circumstances]]
+- [[Take note of the simple things in life]]
+- [[Be the change you want to see in the world]]
 
 ### <hr class="dataviews"/>
 

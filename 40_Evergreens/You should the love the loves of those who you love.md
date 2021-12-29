@@ -28,5 +28,5 @@ and is probably a pretty natural thing in general:
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[love]], [[empathy]], [[socialization]]
+**Topics**:: [[love]], [[empathy]], [[socialization]], [[Life principles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

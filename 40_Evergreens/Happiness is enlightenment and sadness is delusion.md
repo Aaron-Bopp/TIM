@@ -16,7 +16,7 @@ This is “true [[optimism]]“: [[True optimism is acknowledging the suffering 
 
 This is no easy task, so [[Buddhism outlines a path and practice to end suffering, but does not promise it]] rather than making it [[Worldviews are wrong if they make life seem easy and simple| seem easy ]] and leading people into [[cognitive dissonance]].
 
-#TO/TEND/CONCEPTUALIZE the contrast here[[Sadness is enlightenment and happiness is delusion]] and here [[Bhuddism is the study of happiness through detachment|The nature of happiness is not doing what you love its detachment from the decisions of the life]].
+#TO/TEND/CONCEPTUALIZE the contrast here[[Sadness is enlightenment and happiness is delusion]] and here [[Buddhism is the study of happiness through detachment|The nature of happiness is not doing what you love its detachment from the decisions of the life]].
 
 
 ### <hr class="footnote"/>

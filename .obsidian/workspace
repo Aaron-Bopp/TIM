@@ -9,26 +9,134 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/36_Lists/Life principles.md",
+            "file": "20_Entry/209 Notepad.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "ddcb2869f5ca3ab0",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Life principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Dr. K.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":100},\"to\":{\"line\":2,\"ch\":100}}}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is the fundamental unit of existence.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":233},\"to\":{\"line\":27,\"ch\":233}}}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":25},\"to\":{\"line\":18,\"ch\":25}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":12.090909090909092}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The fragility of nodes in a second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":25},\"to\":{\"line\":18,\"ch\":25}}}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Buddhism is the study of happiness through detachment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":192},\"to\":{\"line\":12,\"ch\":192}}}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans yearn for a tool with no blood on it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":102},\"to\":{\"line\":12,\"ch\":102}}}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ddcb2869f5ca3ab0",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":18,\"ch\":4}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can discover your transness at any point in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":355},\"to\":{\"line\":12,\"ch\":355}}}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is a social construct.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":9.090909090909092}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":58},\"to\":{\"line\":20,\"ch\":58}}}"
+            },
+            {
+              "leaf": "ddcb2869f5ca3ab0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes vary in size and scope.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -62,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/DO/FIND",
+                "query": "tag:#TO/PONDERED",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/36_Lists/Life principles.md",
+                "file": "20_Entry/209 Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -114,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/36_Lists/Life principles.md",
+                "file": "20_Entry/209 Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +247,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -243,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/36_Lists/Life principles.md"
+                "file": "20_Entry/209 Notepad.md"
               }
             },
             "pane-relief:history-v1": {
@@ -276,7 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/36_Lists/Life principles.md",
+                "file": "20_Entry/209 Notepad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -383,20 +492,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 878.5,
-    "collapsed": true
+    "width": 878.5
   },
   "active": "ddcb2869f5ca3ab0",
   "lastOpenFiles": [
-    "30_Topics/36_Lists/Life principles.md",
-    "40_Evergreens/42 Knowledge Management.md",
-    "40_Evergreens/Consciousness is the fundamental unit of existence.md",
-    "40_Evergreens/41 Inbox.md",
     "20_Entry/209 Notepad.md",
-    "20_Entry/Difference between reincarnation in Hinduism and Bhudism.md",
-    "10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md",
-    "10_Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md",
-    "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
-    "10_Sources/Mental Health/videoScarra Drk Interview.md"
+    "30_Topics/34_People/Dr. K.md",
+    "40_Evergreens/Consciousness is the fundamental unit of existence.md",
+    "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md",
+    "10_Sources/Mental Health/videoHealing from Festered Emotions.md",
+    "40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md",
+    "40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md",
+    "30_Topics/33_Tools/Obsidian (software).md",
+    "40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md",
+    "30_Topics/31_Stubs/mindfulness.md"
   ]
 }

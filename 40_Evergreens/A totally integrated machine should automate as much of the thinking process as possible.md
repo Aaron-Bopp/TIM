@@ -3,9 +3,9 @@ created: 2021-12-26
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-27
+sr-due: 2021-12-30
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[A totally integrated machine should automate as much of the thinking process as possible]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

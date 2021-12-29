@@ -12,10 +12,10 @@ source: httpswww.youtube.comwatchv=ldTMLhTMZAc
 
 ### [Life after a cult](https://www.youtube.com/watch?v=ldTMLhTMZAc)
 
-- [[DrK]] said "It's okay" and Zorian teared up
+- [[Dr. K]] said "It's okay" and Zorian teared up
     - Similar to when a tiktoker accepted me and I bawled [[Journal#May 10-20th 2021]]
 - "I'm not allowed to make a mistake because a mistake means lost time and time is precious because I've already lost so much. The remainder of time is more valuable from this perspective"
-    - DrK doesn't accept this perspective despite how logically correct it is [[Humans are primarily irrational, illogical, emotional beings]]
+    - [[Dr. K]] doesn't accept this perspective despite how logically correct it is [[Humans are primarily irrational, illogical, emotional beings]]
         - "You can't make up for the past, it has already happened" [[Accepting responsibility is not only about your actions|Accepting responsibility for moving past your trauma]]
         - "You can't let your feelings to someone else. You can't tolerate letting other people know about the ugliest parts of your being"
         - #TO/PONDER/ME  "It's not a fear of rejection its a fear of acceptance" [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]

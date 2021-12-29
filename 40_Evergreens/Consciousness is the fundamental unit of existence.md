@@ -9,7 +9,6 @@ sr-ease: 230
 ---
 
 #### [[Consciousness is the fundamental unit of existence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-"Sometimes it's easiest to take the chances that have the highest likelihood of failure" - [[DrK]] [Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)
  
 The [[Yogis]] believed that [[conscious]] was outside of the mind because we are able to observer our own thoughts. We can only observe things outside of ourselves - [Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=3214)
 
@@ -24,5 +23,5 @@ As you become less trapped in your mind, you become more [[conscious]]
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[]]
+**Topics**:: [[conscious]], [[self]], [[enlightenment]], [[human experience]], [[transhumanism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

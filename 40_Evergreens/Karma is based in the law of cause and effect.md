@@ -10,7 +10,7 @@ sr-ease: 210
 
 #### [[Karma is based in the law of cause and effect]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- #TO/PONDER/ME how this has shaped my [[worldview]] [[Bhuddism is the study of happiness through detachment]]
+- #TO/PONDER/ME how this has shaped my [[worldview]] [[Buddhism is the study of happiness through detachment]]
 - [ ] #TO/TEND/CONNECT [[The materialistic view of religions examines why humans invented and clung to religion]]
 - [ ] #TO/TEND/CONCEPTUALIZE source note [[articleKarma and Reincarnation in Hinduism]]
 

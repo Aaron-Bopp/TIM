@@ -24,6 +24,6 @@
 		- [[The actual work of being a good person isn't explored by Evangelicalism]]
 		- [[Are Jesus' teachings anti-thetical to the modern Christian church]]
 	- [[Buddhism]]
-		- [[Bhuddism is the study of happiness through detachment]]
+		- [[Buddhism is the study of happiness through detachment]]
 		- [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 		- [[Karma is based in the law of cause and effect]]

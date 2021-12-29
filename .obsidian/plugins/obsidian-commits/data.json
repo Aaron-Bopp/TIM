@@ -4460,11 +4460,6 @@
       "tags": 3,
       "links": 21
     },
-    "40_Evergreens/Bhuddism is the study of happiness through detachment.md": {
-      "size": 872,
-      "tags": 2,
-      "links": 7
-    },
     "40_Evergreens/Children in traumatic households expect more love than their parents can give.md": {
       "size": 1314,
       "tags": 4,
@@ -4572,8 +4567,8 @@
     },
     "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md": {
       "size": 1609,
-      "tags": 6,
-      "links": 13
+      "tags": 7,
+      "links": 14
     },
     "40_Evergreens/Human's have an inability to admit that they are wrong.md": {
       "size": 2573,
@@ -4592,8 +4587,8 @@
     },
     "40_Evergreens/Humans yearn for a tool with no blood on it.md": {
       "size": 885,
-      "tags": 3,
-      "links": 6
+      "tags": 4,
+      "links": 7
     },
     "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md": {
       "size": 2165,
@@ -4817,7 +4812,7 @@
     },
     "40_Evergreens/The anti-vax movement is based off a white lie.md": {
       "size": 981,
-      "tags": 4,
+      "tags": 5,
       "links": 10
     },
     "40_Evergreens/The bible is god breathed.md": {
@@ -4918,7 +4913,7 @@
     "40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md": {
       "size": 1695,
       "tags": 3,
-      "links": 15
+      "links": 16
     },
     "40_Evergreens/Wealth Inequality creates a need for change.md": {
       "size": 873,
@@ -5067,8 +5062,8 @@
     },
     "00_Meta/Templates/TOPICNOTE.md": {
       "size": 302,
-      "tags": 1,
-      "links": 2
+      "tags": 0,
+      "links": 0
     },
     "00_Meta/Templates/TOPIC_HEADER.md": {
       "size": 72,
@@ -5213,7 +5208,7 @@
     "10_Sources/Mental Health/videoBreaking the Cycle of Overthinking.md": {
       "size": 813,
       "tags": 1,
-      "links": 5
+      "links": 6
     },
     "10_Sources/Mental Health/videoContrapoints-Envy.md": {
       "size": 1671,
@@ -5223,11 +5218,11 @@
     "10_Sources/Mental Health/videoDestiny Interviews Dr. K.md": {
       "size": 1010,
       "tags": 2,
-      "links": 3
+      "links": 4
     },
     "10_Sources/Mental Health/videoDrK and DrMike conversation.md": {
       "size": 2627,
-      "tags": 2,
+      "tags": 1,
       "links": 15
     },
     "10_Sources/Mental Health/videoEmotional Deregulation.md": {
@@ -5243,7 +5238,7 @@
     "10_Sources/Mental Health/videoHealing from Festered Emotions.md": {
       "size": 1738,
       "tags": 2,
-      "links": 11
+      "links": 12
     },
     "10_Sources/Mental Health/videoHistory of Human Sex.md": {
       "size": 1363,
@@ -5253,7 +5248,7 @@
     "10_Sources/Mental Health/videoHow We're Shaped Mentally.md": {
       "size": 1069,
       "tags": 2,
-      "links": 2
+      "links": 3
     },
     "10_Sources/Mental Health/videoLife after a cult.md": {
       "size": 1718,
@@ -7503,7 +7498,7 @@
     "30_Topics/33_Tools/Obsidian (software).md": {
       "size": 6897,
       "tags": 1,
-      "links": 16
+      "links": 22
     },
     "30_Topics/33_Tools/Dataview.md": {
       "size": 1379,
@@ -8033,7 +8028,7 @@
     "40_Evergreens/You should the love the loves of those who you love.md": {
       "size": 945,
       "tags": 4,
-      "links": 7
+      "links": 8
     },
     "40_Evergreens/Take note of the simple things in life.md": {
       "size": 1117,
@@ -8218,7 +8213,7 @@
     "20_Entry/209 Notepad.md": {
       "size": 2273,
       "tags": 4,
-      "links": 18
+      "links": 19
     },
     "20_Entry/202 Now.md": {
       "size": 1144,
@@ -8257,7 +8252,7 @@
     },
     "00_Meta/Personal/Journal.md": {
       "size": 28060,
-      "tags": 5,
+      "tags": 4,
       "links": 71
     },
     "00_Meta/Personal/My relationship with my parents.md": {
@@ -8703,7 +8698,7 @@
     "30_Topics/36_Lists/Life principles.md": {
       "size": 759,
       "tags": 1,
-      "links": 7
+      "links": 8
     },
     "30_Topics/34_People/@mykola on Twitter.md": {
       "size": 0,
@@ -9106,11 +9101,6 @@
       "links": 1
     },
     "30_Topics/31_Stubs/gender binary.md": {
-      "size": 152,
-      "tags": 1,
-      "links": 0
-    },
-    "30_Topics/31_Stubs/gender non-comformity.md": {
       "size": 152,
       "tags": 1,
       "links": 0
@@ -9748,20 +9738,50 @@
     "40_Evergreens/Consciousness is the fundamental unit of existence.md": {
       "size": 1066,
       "tags": 2,
-      "links": 5
+      "links": 7
+    },
+    "00_Meta/Templates/LIST.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "30_Topics/36_Lists/Cool people.md": {
+      "size": 612,
+      "tags": 1,
+      "links": 8
+    },
+    "30_Topics/34_People/F.D Signifier.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/gender non-conformity.md": {
+      "size": 152,
+      "tags": 1,
+      "links": 1
+    },
+    "40_Evergreens/Buddhism is the study of happiness through detachment.md": {
+      "size": 872,
+      "tags": 2,
+      "links": 8
+    },
+    "30_Topics/34_People/Dr. K.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2073,
-      "Create": 2422,
-      "Link": 4288,
-      "Expand": 458
+      "Refactor": 2082,
+      "Create": 2426,
+      "Link": 4311,
+      "Expand": 459
     },
     "40_Evergreens": {
-      "Refactor": 184,
-      "Create": 37,
-      "Link": 460,
+      "Refactor": 186,
+      "Create": 38,
+      "Link": 469,
       "Expand": 252
     }
   },
@@ -9777,8 +9797,8 @@
       "7": 0,
       "8": 53,
       "9": 664,
-      "10": 185,
-      "11": 184,
+      "10": 214,
+      "11": 192,
       "12": 422,
       "13": 270,
       "14": 2332,
@@ -9803,8 +9823,8 @@
       "7": 0,
       "8": 29,
       "9": 222,
-      "10": 73,
-      "11": 67,
+      "10": 83,
+      "11": 69,
       "12": 39,
       "13": 85,
       "14": 66,
@@ -9823,7 +9843,7 @@
     "/": {
       "Mon": 313,
       "Tue": 1610,
-      "Wed": 1524,
+      "Wed": 1561,
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
@@ -9832,7 +9852,7 @@
     "40_Evergreens": {
       "Mon": 61,
       "Tue": 178,
-      "Wed": 144,
+      "Wed": 156,
       "Thu": 17,
       "Fri": 91,
       "Sat": 0,
@@ -9842,6 +9862,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Cool people.md\"> Cool people </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
@@ -9891,10 +9912,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/DrK.md\"> DrK </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/F.D Signifier.md\"> F.D Signifier </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/LIST.md\"> LIST </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Difference between reincarnation in Hinduism and Bhudism.md\"> Difference between reincarnation in Hinduism and Bhudism </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/XML.md\"> XML </a>",
@@ -9941,13 +9965,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/scaffolding.md\"> scaffolding </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/savior complex.md\"> savior complex </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rich text formatting.md\"> rich text formatting </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Revolution.md\"> Revolution </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Revolt.md\"> Revolt </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Reincarnation.md\"> Reincarnation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/reppressed.md\"> reppressed </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Revolution.md\"> Revolution </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Dr. K.md\"> Dr. K </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender non-conformity.md\"> gender non-conformity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/F.D Signifier.md\"> F.D Signifier </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/newsletter.eleanorkonik.com.md\"> newsletter.eleanorkonik.com </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/@roryreckons on Twitter.md\"> @roryreckons on Twitter </a>",
@@ -9994,13 +10018,15 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgemental and outwardly accepting home creates trust issues.md\"> A inwardly judgemental and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inacurate information.md\"> Mass media promotes the spread of inacurate information </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zettelkasten.md\"> Zettelkasten </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Dr. K.md\"> Dr. K </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans yearn for a tool with no blood on it.md\"> Humans yearn for a tool with no blood on it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/F.D Signifier.md\"> F.D Signifier </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Cool people.md\"> Cool people </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/abortion.md\"> abortion </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Acting.md\"> Acting </a>",
@@ -10045,13 +10071,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/desire.md\"> desire </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/despair.md\"> despair </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/DID (Dissociative Identity Disorder).md\"> DID (Dissociative Identity Disorder) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/digital garden.md\"> digital garden </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/discipline.md\"> discipline </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disability.md\"> disability </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/diverse.md\"> diverse </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/eastern philosophy.md\"> eastern philosophy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/education.md\"> education </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/emotional invalidation.md\"> emotional invalidation </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/digital garden.md\"> digital garden </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -10143,6 +10163,23 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Reincarnation.md\"> Reincarnation </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoBreaking the Cycle of Overthinking.md\"> videoBreaking the Cycle of Overthinking </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDestiny Interviews Dr. K.md\"> videoDestiny Interviews Dr. K </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\"> videoHealing from Festered Emotions </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\"> videoHow We're Shaped Mentally </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans yearn for a tool with no blood on it.md\"> Humans yearn for a tool with no blood on it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender non-conformity.md\"> gender non-conformity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Cool people.md\"> Cool people </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/LIST.md\"> LIST </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Cool people.md\"> Cool people </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
@@ -10176,26 +10213,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mindfulness.md\"> mindfulness </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/OCD.md\"> OCD </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/panic attacks.md\"> panic attacks </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/powershell.md\"> powershell </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Prison abolition.md\"> Prison abolition </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/prison-industrial complex.md\"> prison-industrial complex </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Python.md\"> Python </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/queerphobia.md\"> queerphobia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-enhancement.md\"> self-enhancement </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-worth.md\"> self-worth </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sexism.md\"> sexism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Social media.md\"> Social media </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Software Development.md\"> Software Development </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sympathy.md\"> sympathy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transphobia.md\"> transphobia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/women.md\"> women </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/political strategy.md\"> political strategy </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\"> videoDrK and DrMike conversation </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/TOPICNOTE.md\"> TOPICNOTE </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
@@ -10243,12 +10266,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Monster of the Week.md\"> Monster of the Week </a>",
-        "<a class=\"internal-link\" href=\"40 Evergreens/Gender Dysphoria can take many forms.md\"> Gender Dysphoria can take many forms </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/TOPICNOTE.md\"> TOPICNOTE </a>",
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md\"> articleDifference between reincarnation in Hinduism and Bhudism </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
@@ -10297,9 +10319,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
       ]
     },
     "40_Evergreens": {
@@ -10393,9 +10413,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/@roryreckons on Twitter.md\"> @roryreckons on Twitter </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/newsletter.eleanorkonik.com.md\"> newsletter.eleanorkonik.com </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/newsletter.eleanorkonik.com.md\"> newsletter.eleanorkonik.com </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/F.D Signifier.md\"> F.D Signifier </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception.md\"> Names matter because they effect people's perception </a>",
@@ -10445,10 +10467,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/oh.md\"> oh </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/testing one.md\"> testing one </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/asfdasdfasdfasdfasdf.md\"> asfdasdfasdfasdfasdf </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/testing one.md\"> testing one </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans yearn for a tool with no blood on it.md\"> Humans yearn for a tool with no blood on it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
@@ -10496,10 +10520,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition as a memory tool for your second brain.md\"> Use spaced repetition as a memory tool for your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Every person has an experience of gender.md\"> Every person has an experience of gender </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use highlighter colors to create visual outlines.md\"> Use highlighter colors to create visual outlines </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Rise of Conspiracy Culture.md\"> Rise of Conspiracy Culture </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -10542,6 +10563,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans yearn for a tool with no blood on it.md\"> Humans yearn for a tool with no blood on it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
@@ -10586,13 +10613,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Do we have free will.md\"> Do we have free will </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/To those with privilege, losing it feels like oppression.md\"> To those with privilege, losing it feels like oppression </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Do we have free will.md\"> Do we have free will </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -10670,7 +10691,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>"
       ]
     }
   },

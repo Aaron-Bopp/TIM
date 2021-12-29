@@ -164,7 +164,7 @@ I have a similar feeling where even when I'm happy and enjoying myself it feels 
 The thought of idk how much pain im feeling/idk why im crying comes from [[my parents]] always discounting my crying by saying i have a fast cry trigger but I think that made me think that [[my emotions]] weren't natural and so I hid them and shut them off
 
 Because I had so much trouble controlling [[my emotions]] as a child, I still view emotionality as weakness and there might be some misogyny there???? 
-%% #TO/PONDERED/ME (yeah you're just trans hun 10/25/2021) %%
+%% (yeah you're just trans hun 10/25/2021) %%
 
 I isolate myself when I am sad or depressed because I am used to [[my emotions]] being invalidated. Did I say I don't know why I'm crying so often because if I said how I felt [[my emotions]] were invalidated or just because I actually didn't know? Why I am constantly searching for validation? What the fuck is even being validated? I never got an answer for why I was crying, so I just stopped crying. 
 

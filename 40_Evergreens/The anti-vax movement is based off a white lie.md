@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-28
-sr-interval: 10
+sr-due: 2022-01-14
+sr-interval: 16
 sr-ease: 130
 ---
 
@@ -13,6 +13,8 @@ sr-ease: 130
 The original study that started the [[anti-vax]] movement has been rescinded by it's author's, it has never been replicated, and had little support to begin with, yet it has spawned this movement.   #TO/DO/CITE 
 
 #TO/EXPLORE/RESEARCH other causes of this belief [[articles_COVID-19 and the Other Pandemic|COVID-19 and the Other Pandemic]]
+
+#TO/PONDER/SOCIETY differences between covid-19 [[anti-vax]] and pre-covid [[anti-vax]]
 
 - [[Rise of Misinformation in America]]
 - [[MAGA is built off nostalgia not facts]]
@@ -25,7 +27,5 @@ The original study that started the [[anti-vax]] movement has been rescinded by 
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Politics]], [[cognitive dissonance]],  [[anti-vax]]
+**Topics**:: [[Politics]], [[cognitive dissonance]], [[anti-vax]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-z

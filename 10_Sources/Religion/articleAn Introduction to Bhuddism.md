@@ -9,7 +9,7 @@ source: https://www.pbs.org/edens/thailand/buddhism.htm
 
 ###### [[articleAn Introduction to Bhuddism]]
 
-**Topics**::  [[Buddhism]], [[eastern philosophy]], [[Bhuddism is the study of happiness through detachment]], [[Happiness is enlightenment and sadness is delusion]]
+**Topics**::  [[Buddhism]], [[eastern philosophy]], [[Buddhism is the study of happiness through detachment]], [[Happiness is enlightenment and sadness is delusion]]
 #### birth
 > "to be born human is to Buddhists a precious chance at spiritual bliss, a rarity that one should not forsake." [^5]
 #### truths
