@@ -5271,9 +5271,9 @@
       "links": 12
     },
     "10_Sources/Mental Health/videoScarra Drk Interview.md": {
-      "size": 558,
+      "size": 2397,
       "tags": 2,
-      "links": 3
+      "links": 7
     },
     "10_Sources/Mental Health/videoWhat is Ego.md": {
       "size": 3338,
@@ -9750,8 +9750,8 @@
     "/": {
       "Refactor": 1870,
       "Create": 2223,
-      "Link": 4036,
-      "Expand": 447
+      "Link": 4039,
+      "Expand": 452
     },
     "40_Evergreens": {
       "Refactor": 183,
@@ -9780,7 +9780,7 @@
       "15": 140,
       "16": 904,
       "17": 1589,
-      "18": 211,
+      "18": 219,
       "19": 231,
       "20": 183,
       "21": 307,
@@ -9817,7 +9817,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 313,
-      "Tue": 945,
+      "Tue": 953,
       "Wed": 1524,
       "Thu": 442,
       "Fri": 300,
@@ -9837,6 +9837,11 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
@@ -9882,12 +9887,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/newsletter.eleanorkonik.com.md\"> newsletter.eleanorkonik.com </a>",
@@ -10138,6 +10138,9 @@
         "<a class=\"internal-link\" href=\"50_Projects/31_Stubs/^.md\"> ^ </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoScarra Drk Interview.md\"> videoScarra Drk Interview </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/PERSON.md\"> PERSON </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md\"> tweets_Tweets From Rory - ADHD Autistic OCD </a>",
@@ -10185,10 +10188,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
