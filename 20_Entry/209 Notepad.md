@@ -1,3 +1,4 @@
+"Sometimes it's easiest to take the chances that have the highest likelihood of failure" - [[DrK]] [Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)
 [[conceptual notes]] help you get the full extent of your brain power #TO/DO/CONCEPTUALIZE maybe when only combined with good systems [[Friction is the number one hindrance to learning]]
 
 
