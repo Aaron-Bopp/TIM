@@ -3,9 +3,9 @@ created: 2021-12-26
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-29
+sr-due: 2021-12-30
 sr-interval: 1
-sr-ease: 190
+sr-ease: 170
 ---
 
 #### [[What are the differences between evergreen notes and conceptual notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

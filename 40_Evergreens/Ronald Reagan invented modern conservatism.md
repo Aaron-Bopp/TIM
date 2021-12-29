@@ -3,8 +3,8 @@ created: 2021-07-30
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-29
-sr-interval: 34
+sr-due: 2022-03-29
+sr-interval: 90
 sr-ease: 264
 ---
 
@@ -18,7 +18,7 @@ Much of this belief is based on the incorrect assumption that [[Reagan]] said so
 
 [[Reagan]] then went back on his word and increased [[government]] spending that helped to bring the [[economy]] back from the 1982 crash.
 
-He also used this moral superiority to justify [[government]] interference in woman's right to choose. ([[Ronald Reagan Evil Empire Speech]])
+He also used this moral superiority to justify [[government]] interference in woman's right to choose. ^[[[speechRonald Reagan Evil Empire Speech]]]
 
 - [[Wealth Inequality creates a need for change]]
 - [[Anti-government stances lead to economic crashes]]
@@ -37,6 +37,6 @@ He also used this moral superiority to justify [[government]] interference in wo
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: (Ronald [[Reagan]]'s 'A Time to Choose' speech , para 6)
-[^2]: ([[Ronald Reagans Inaugural Address 1981]], para 9)
-[^3]: ([[Ronald Reagan Evil Empire Speech]]) 
-[^4]: ([[Reagans Impact and Legacy]]) 
+[^2]: ([[speechRonald Reagans Inaugural Address 1981]], para 9)
+[^3]: ([[speechRonald Reagan Evil Empire Speech]]) 
+[^4]: ([[articleReagans Impact and Legacy]]) 

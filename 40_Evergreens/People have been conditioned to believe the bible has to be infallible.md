@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 tags: node/evergreen
-sr-due: 2021-12-29
-sr-interval: 3
-sr-ease: 132
+sr-due: 2021-12-31
+sr-interval: 2
+sr-ease: 130
 ---
 
 #### [[People have been conditioned to believe the bible has to be infallible]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

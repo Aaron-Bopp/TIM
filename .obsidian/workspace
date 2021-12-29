@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ddcb2869f5ca3ab0",
+        "id": "58614c8e2087b19f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
+            "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,124 +19,124 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "ddcb2869f5ca3ab0",
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":1.4285714528998554}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.607142884512338}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.999999829701012}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.321429036709734}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Communities are support systems.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.321428610962265}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.1428571793497833}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.571428547100144}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Be the change you want to see in the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":93},\"to\":{\"line\":25,\"ch\":93}},\"scroll\":1.7142858115994217}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rise of Misinformation in America.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.815384571368877}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Ronald Reagan invented modern conservatism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0.7142857264499277}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":17.478873427201304}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":6.464285960611036}"
             },
             {
-              "leaf": "ddcb2869f5ca3ab0",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Names matter because they effect people's perception and understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":66},\"to\":{\"line\":22,\"ch\":66}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":9.678571729635712}"
             },
             {
-              "leaf": "ddcb2869f5ca3ab0",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is the fundamental unit of existence.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":57},\"to\":{\"line\":23,\"ch\":57}},\"scroll\":6.071428674824386}"
             },
             {
-              "leaf": "ddcb2869f5ca3ab0",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0.5361256624391566}"
             },
             {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to read to understand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":48},\"to\":{\"line\":18,\"ch\":48}}}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/To those with privilege, losing it feels like oppression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":22},\"to\":{\"line\":19,\"ch\":22}}}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is the fundamental unit of existence.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
+              "leaf": "58614c8e2087b19f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":233},\"to\":{\"line\":27,\"ch\":233}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":5.642857307074024}"
             },
             {
-              "leaf": "ddcb2869f5ca3ab0",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":25},\"to\":{\"line\":18,\"ch\":25}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "ddcb2869f5ca3ab0",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":12.090909090909092}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The fragility of nodes in a second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":25},\"to\":{\"line\":18,\"ch\":25}}}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Combine notes instead of deleting them to avoid ghost data in a second brain.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Buddhism is the study of happiness through detachment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":192},\"to\":{\"line\":12,\"ch\":192}}}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans yearn for a tool with no blood on it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":102},\"to\":{\"line\":12,\"ch\":102}}}"
-            },
-            {
-              "leaf": "ddcb2869f5ca3ab0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":5.607142884512338}"
             }
           ]
         }
@@ -170,12 +170,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/PONDERED",
+                "query": "tag:#TO/TEND/DEOBFUSCATE",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             },
             "pane-relief:history-v1": {
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
+                "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
+                "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,12 +247,12 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -262,6 +262,20 @@
         "id": "b7b3aaa71b0c0df5",
         "type": "tabs",
         "children": [
+          {
+            "id": "afac3dc49b00c8ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
           {
             "id": "840e0a70de3f588e",
             "type": "leaf",
@@ -335,7 +349,7 @@
             }
           },
           {
-            "id": "a80c2bf9d7257c16",
+            "id": "7572170b53174850",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -345,35 +359,9 @@
               "pos": 0,
               "stack": []
             }
-          },
-          {
-            "id": "4938af16c4bfa050",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "c3c64349c1352c5b",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "84f4f33f118f4527",
@@ -385,7 +373,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
+                "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -465,7 +453,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 199,
-                  "scale": 0.5818888499081147,
+                  "scale": 0.3101213937008831,
                   "close": true
                 }
               }
@@ -492,19 +480,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 878.5
+    "width": 706
   },
-  "active": "ddcb2869f5ca3ab0",
+  "active": "58614c8e2087b19f",
   "lastOpenFiles": [
-    "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
-    "40_Evergreens/Names matter because they effect people's perception and understanding.md",
-    "40_Evergreens/American's are scared of the word communism not it's meaning.md",
-    "40_Evergreens/Consciousness is the fundamental unit of existence.md",
-    "40_Evergreens/When should you forgive people who don't deserve it.md",
-    "40_Evergreens/Humans have decided to take advantage of an unjust world.md",
-    "40_Evergreens/How to read to understand.md",
-    "40_Evergreens/To those with privilege, losing it feels like oppression.md",
-    "20_Entry/209 Notepad.md",
-    "30_Topics/34_People/Dr. K.md"
+    "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
+    "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md",
+    "40_Evergreens/What are the differences between evergreen notes and conceptual notes.md",
+    "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+    "40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md",
+    "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
+    "40_Evergreens/Communities are support systems.md",
+    "40_Evergreens/People have been conditioned to believe the bible has to be infallible.md",
+    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
+    "40_Evergreens/Be the change you want to see in the world.md"
   ]
 }

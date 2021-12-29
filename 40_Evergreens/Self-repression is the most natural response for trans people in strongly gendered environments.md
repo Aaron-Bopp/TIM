@@ -3,9 +3,9 @@ created: 2021-10-03
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-29
-sr-interval: 6
-sr-ease: 133
+sr-due: 2022-01-01
+sr-interval: 3
+sr-ease: 130
 ---
 
 #### [[Self-repression is the most natural response for trans people in strongly gendered environments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
