@@ -6,7 +6,7 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#TO/DO/FIND [[Andy Matuschak]] note on this
+#TO/EXPLORE/RESEARCH [Mnemonic medium](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -19,6 +19,7 @@ sr-ease: 190
 	- [[Rationalizations are defense-mechanisms against strong emotions]]
 - [[Is cognitive dissonance the reason for harmful behaviors]]
 
+#TO/TEND/GRAFT [[videoScarra Drk Interview]]
  %%[[How I process repressed emotions]]%%
  #TO/EXPLORE/RESEARCH  [[Samskara]] more in depth 
 

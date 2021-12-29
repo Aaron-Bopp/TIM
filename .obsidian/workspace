@@ -22,7 +22,7 @@
               "leaf": "6c7a0de01257033c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoScarra Drk Interview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":12},\"to\":{\"line\":3,\"ch\":12}},\"scroll\":25.193638392857142}"
             },
             {
               "leaf": "6c7a0de01257033c",
@@ -123,7 +123,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/How to process repressed emotions.md",
+            "file": "40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -135,8 +135,20 @@
             {
               "leaf": "b4c4a07582fe2298",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b4c4a07582fe2298",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/mnemonic medium.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "b4c4a07582fe2298",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":44},\"to\":{\"line\":21,\"ch\":44}}}"
             }
           ]
         }
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Mental Health/videoScarra Drk Interview.md",
+                "file": "40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Mental Health/videoScarra Drk Interview.md",
+                "file": "40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -352,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Mental Health/videoScarra Drk Interview.md"
+                "file": "40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md"
               }
             },
             "pane-relief:history-v1": {
@@ -385,7 +397,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Mental Health/videoScarra Drk Interview.md",
+                "file": "40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -495,17 +507,17 @@
     "width": 878.5,
     "collapsed": true
   },
-  "active": "6c7a0de01257033c",
+  "active": "b4c4a07582fe2298",
   "lastOpenFiles": [
-    "10_Sources/Mental Health/videoScarra Drk Interview.md",
+    "40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md",
+    "30_Topics/32_Terms/mnemonic medium.md",
+    "30_Topics/34_People/Andy Matuschak.md",
+    "10_Sources/Andy Matuschak's Evergreen Notes.md",
     "40_Evergreens/How to process repressed emotions.md",
+    "10_Sources/Mental Health/videoScarra Drk Interview.md",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md",
     "40_Evergreens/We carry our childhood wounds into adulthood.md",
     "40_Evergreens/Is your self-talk bullying you or bodyguarding you.md",
-    "40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md",
-    "30_Topics/34_People/newsletter.eleanorkonik.com.md",
-    "10_Sources/Readwise/Books/books_You and Your Gender Identity.md",
-    "30_Topics/34_People/@roryreckons on Twitter.md",
-    "40_Evergreens/Parents need to model the ability to deal with emotion to their children.md"
+    "40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md"
   ]
 }

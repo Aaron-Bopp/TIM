@@ -13,6 +13,7 @@ Your personality type will change over your life, it may even change on what kin
 
 [[Enneagram]] does a good job at create personality types that are specific enough to be helpful, but get at the root of peoples personalities. Often times revealing the [[We carry our childhood wounds into adulthood|the wide assumptions we make in early childhood]]. 
 
+#TO/DO/CONCEPTUALIZE #TO/EXPLORE/WATCH  [3 Motivation Styles determined by Personality - YouTube](https://www.youtube.com/watch?v=tRWX21lW_bU) ideas of [[dosha]] as [[personality]] type and vata, pitta, and kapha types
 
 ### <hr class="footnote"/>
 
