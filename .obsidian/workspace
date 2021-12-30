@@ -9,32 +9,68 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/notes_Science of Meditation.md",
-            "mode": "source",
+            "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 0,
           "stack": [
             {
               "leaf": "c8f8b73bdecff617",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/hypothalamus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":21}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "c8f8b73bdecff617",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Hypothalamic Pituitary Adrenal (HPA) Axis.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":9},\"to\":{\"line\":11,\"ch\":9}}}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c8f8b73bdecff617",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Qi Gong.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c8f8b73bdecff617",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c8f8b73bdecff617",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Brahmamuhurtha.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c8f8b73bdecff617",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c8f8b73bdecff617",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/hormone.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":13}"
+            },
+            {
+              "leaf": "c8f8b73bdecff617",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
               "leaf": "c8f8b73bdecff617",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Science of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":49},\"to\":{\"line\":18,\"ch\":49}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":87},\"to\":{\"line\":30,\"ch\":87}}}"
             },
             {
               "leaf": "c8f8b73bdecff617",
@@ -101,42 +137,6 @@
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Karma Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":81},\"to\":{\"line\":11,\"ch\":81}}}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Jnana Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":79},\"to\":{\"line\":11,\"ch\":79}}}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Kriya Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":52},\"to\":{\"line\":11,\"ch\":52}}}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Bhakti Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":35},\"to\":{\"line\":11,\"ch\":35}}}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Raja Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":19},\"to\":{\"line\":23,\"ch\":19}}}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Karma Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":10},\"to\":{\"line\":11,\"ch\":10}}}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/notes_Science of Meditation.md",
+                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/notes_Science of Meditation.md",
+                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -268,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/notes_Science of Meditation.md"
+                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md"
               }
             },
             "pane-relief:history-v1": {
@@ -384,7 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/notes_Science of Meditation.md",
+                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -496,15 +497,15 @@
   },
   "active": "c8f8b73bdecff617",
   "lastOpenFiles": [
-    "10_Sources/notes_Science of Meditation.md",
-    "30_Topics/32_Terms/Hypothalamic Pituitary Adrenal (HPA) Axis.md",
-    "30_Topics/31_Stubs/hypothalamus.md",
-    "30_Topics/35_Outlines/meditation.md",
     "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "10_Sources/notes_Different Meditative Styles.md",
-    "30_Topics/32_Terms/Kundalini Yoga.md",
-    "30_Topics/32_Terms/Trataka.md",
-    "30_Topics/31_Stubs/divinity.md",
-    "30_Topics/32_Terms/Yama.md"
+    "30_Topics/32_Terms/Qi Gong.md",
+    "30_Topics/32_Terms/Brahmamuhurtha.md",
+    "30_Topics/32_Terms/hormone.md",
+    "10_Sources/notes_Science of Meditation.md",
+    "30_Topics/32_Terms/Eustress.md",
+    "30_Topics/32_Terms/Hypothalamic Pituitary Adrenal (HPA) Axis.md",
+    "30_Topics/32_Terms/Pituitary Gland.md",
+    "30_Topics/31_Stubs/hypothalamus.md",
+    "30_Topics/35_Outlines/meditation.md"
   ]
 }

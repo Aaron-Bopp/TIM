@@ -84,7 +84,7 @@ deliveredBy:
   
 > How do you prepare to perform?
 > A thread on priming for performance.
-> How what we say, do, and watch impacts our hormonal profile, which subsequently impacts our recovery and performance. 
+> How what we say, do, and watch impacts our [[hormone|hormonal]] profile, which subsequently impacts our recovery and performance. 
 > https://t.co/8wFQoudKso 
   [^247733309]
 

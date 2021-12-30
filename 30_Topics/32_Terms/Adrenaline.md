@@ -6,7 +6,7 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Hormone and neurotransmitter that is produced by the adrenal glands as part of the body's fight-or-flight response
+[[hormone]] and neurotransmitter that is produced by the adrenal glands as part of the body's fight-or-flight response
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
  Adrenaline will hit in seconds and last for minutes after it allows for fast action and hyper awareness of the situation [^1]

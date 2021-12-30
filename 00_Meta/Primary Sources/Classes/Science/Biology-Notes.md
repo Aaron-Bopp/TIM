@@ -460,7 +460,7 @@ Unit 2
 
     -   Methods
 
-        -   Transformed -- Bacterial host that takes up the modified plasmids (used to makes insulin, human growth hormone)
+        -   Transformed -- Bacterial host that takes up the modified plasmids (used to makes insulin, human growth [[hormone]])
 
 # Chromosomes and Inheritance
 

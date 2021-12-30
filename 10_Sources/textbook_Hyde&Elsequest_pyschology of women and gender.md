@@ -118,4 +118,4 @@ source: null
 - Q: What is a brain mosaic?
 	- ![[brain mosaic]]
 - Q: Do trans people's [[brain mosaic]] match their assigned or identified gender?
-	- Brain volume of trans people pre-hormones was a complex mix of masculine, feminine, and neutral sized regions and differences lessened towards their assigned gender on hormones. Research in this area is limited, and we do not have a full understanding of why certain regions are different sizes between men and women.
+	- Brain volume of trans people pre-[[hormone|hormones]] was a complex mix of masculine, feminine, and neutral sized regions and differences lessened towards their assigned gender on [[hormone|hormones]]. Research in this area is limited, and we do not have a full understanding of why certain regions are different sizes between men and women.
