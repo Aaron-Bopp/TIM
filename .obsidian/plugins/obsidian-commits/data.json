@@ -9769,13 +9769,23 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "10_Sources/notes_Dr. K's Guide Meditation Module.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "10_Sources/Healthy Gamer.md": {
+      "size": 36985,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2082,
-      "Create": 2426,
-      "Link": 4319,
+      "Refactor": 2087,
+      "Create": 2433,
+      "Link": 4321,
       "Expand": 460
     },
     "40_Evergreens": {
@@ -9804,8 +9814,8 @@
       "14": 2339,
       "15": 140,
       "16": 904,
-      "17": 1589,
-      "18": 219,
+      "17": 1595,
+      "18": 227,
       "19": 231,
       "20": 183,
       "21": 708,
@@ -9843,7 +9853,7 @@
     "/": {
       "Mon": 313,
       "Tue": 1610,
-      "Wed": 1570,
+      "Wed": 1584,
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
@@ -9915,6 +9925,13 @@
         "<a class=\"internal-link\" href=\"Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenal Gland.md\"> Adrenal Gland </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adenosine.md\"> Adenosine </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Acetycholine.md\"> Acetycholine </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/testing.md\"> testing </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Healthy Gamer.md\"> Healthy Gamer </a>",
+        "<a class=\"internal-link\" href=\"Healthy Gamer.md\"> Healthy Gamer </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dr. K's Guide Meditation Module.md\"> notes_Dr. K's Guide Meditation Module </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/DrK.md\"> DrK </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/F.D Signifier.md\"> F.D Signifier </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/LIST.md\"> LIST </a>",
@@ -9958,14 +9975,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sexism.md\"> sexism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-worth.md\"> self-worth </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-enhancement.md\"> self-enhancement </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/selfless.md\"> selfless </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-doubt.md\"> self-doubt </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self care.md\"> self care </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sadness.md\"> sadness </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/scaffolding.md\"> scaffolding </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/savior complex.md\"> savior complex </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rich text formatting.md\"> rich text formatting </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Revolution.md\"> Revolution </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/selfless.md\"> selfless </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Dr. K.md\"> Dr. K </a>",
@@ -10021,6 +10031,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dr. K's Guide Meditation Module.md\"> notes_Dr. K's Guide Meditation Module </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
@@ -10070,8 +10081,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Cultural Fundamentalism.md\"> Cultural Fundamentalism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/culture.md\"> culture </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cynacism.md\"> cynacism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy.md\"> democracy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/desire.md\"> desire </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/democracy.md\"> democracy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -10110,6 +10120,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/testing.md\"> testing </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenal Gland.md\"> Adrenal Gland </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adenosine.md\"> Adenosine </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Acetycholine.md\"> Acetycholine </a>",
+        "<a class=\"internal-link\" href=\"Healthy Gamer.md\"> Healthy Gamer </a>",
         "<a class=\"internal-link\" href=\"20_Entry/Difference between reincarnation in Hinduism and Bhudism.md\"> Difference between reincarnation in Hinduism and Bhudism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/XML.md\"> XML </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/worldview.md\"> worldview </a>",
@@ -10155,14 +10170,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/savior complex.md\"> savior complex </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sadness.md\"> sadness </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rich text formatting.md\"> rich text formatting </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Revolution.md\"> Revolution </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Revolt.md\"> Revolt </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Republican.md\"> Republican </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/reppressed.md\"> reppressed </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/relationships.md\"> relationships </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Reincarnation.md\"> Reincarnation </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Revolution.md\"> Revolution </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dr. K's Guide Meditation Module.md\"> notes_Dr. K's Guide Meditation Module </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
@@ -10212,8 +10223,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/homophobia.md\"> homophobia </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human survival.md\"> human survival </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hyperfocus.md\"> hyperfocus </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/language.md\"> language </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/masking.md\"> masking </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/language.md\"> language </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",

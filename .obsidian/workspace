@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
+            "file": "10_Sources/Healthy Gamer.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,32 @@
             {
               "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Healthy Gamer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/testing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Healthy Gamer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Dr. K's Guide Meditation Module.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "58614c8e2087b19f",
@@ -113,30 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":57},\"to\":{\"line\":23,\"ch\":57}},\"scroll\":6.071428674824386}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.5361256624391566}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":5.642857307074024}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":5.607142884512338}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
+                "file": "10_Sources/Healthy Gamer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
+                "file": "10_Sources/Healthy Gamer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -251,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -268,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md"
+                "file": "10_Sources/Healthy Gamer.md"
               }
             },
             "pane-relief:history-v1": {
@@ -360,8 +359,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "84f4f33f118f4527",
@@ -373,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
+                "file": "10_Sources/Healthy Gamer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -484,15 +482,15 @@
   },
   "active": "58614c8e2087b19f",
   "lastOpenFiles": [
+    "10_Sources/Healthy Gamer.md",
+    "30_Topics/32_Terms/testing.md",
+    "30_Topics/32_Terms/Adrenal Gland.md",
+    "30_Topics/32_Terms/Adenosine.md",
+    "30_Topics/32_Terms/Acetycholine.md",
+    "00_Meta/Templates/TERM.md",
+    "10_Sources/notes_Dr. K's Guide Meditation Module.md",
+    "30_Topics/34_People/Dr. K.md",
     "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
-    "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md",
-    "40_Evergreens/What are the differences between evergreen notes and conceptual notes.md",
-    "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
-    "40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md",
-    "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
-    "40_Evergreens/Communities are support systems.md",
-    "40_Evergreens/People have been conditioned to believe the bible has to be infallible.md",
-    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
-    "40_Evergreens/Be the change you want to see in the world.md"
+    "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md"
   ]
 }

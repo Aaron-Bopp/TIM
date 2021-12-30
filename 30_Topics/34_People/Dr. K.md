@@ -1,7 +1,7 @@
 ---
 created: 2021-12-29 
 aliases:
-  - DrK
+  - null
 tags: node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
