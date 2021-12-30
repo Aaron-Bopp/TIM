@@ -2,10 +2,10 @@
   "includeFirstLineAsNoteHeading": false,
   "excludeFirstLineInNote": true,
   "headingFormat": "#",
-  "newFileLocation": 1,
+  "newFileLocation": 0,
   "customFolder": "",
   "fileNamePrefix": "",
   "transcludeByDefault": false,
-  "noteLinkTemplate": "---\ncreated: 2021-12-29 \naliases:\n  - null\ntags: node/topic/term\n---\n`$=customJS.dv_funcs.mentionedIn(dv)`\n\n{{new_note_content}}\n ^[{{link}}]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)",
-  "refactoredNoteTemplate": ""
+  "noteLinkTemplate": "",
+  "refactoredNoteTemplate": "---\ncreated: 2021-12-29 \naliases:\n  - null\ntags: node/topic/term\n---\n`$=customJS.dv_funcs.mentionedIn(dv)`\n\n{{new_note_content}}\n ^[{{link}}]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)"
 }

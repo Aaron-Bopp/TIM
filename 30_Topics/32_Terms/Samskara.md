@@ -1,13 +1,13 @@
 ---
 created: 2021-10-19
+aliases:
+  - null
 tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-In Indian [[philosophy]] and Indian religions, [[Samskara|samskaras]] or [[Samskara|sanskaras]] are mental impressions, recollections, or psychological imprints.  [^1]
+Ball of undigested emotions and mental impressions formed due to previous life experiences, that gets triggered and causes suffering in present day.
+ ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`* 
-
-[^1]: [[videoSamskara]]
-
+*`$=customJS.dv_funcs.outlinedIn(dv, this)
