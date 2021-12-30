@@ -4609,18 +4609,18 @@ Hide Aside and hover to reveal it*/
     }
 
     /* Edit mode unordered list dash rendered as dot for WYSIWYG */
-    /* .theme-light span.cm-formatting-list-ul {
+     .theme-light span.cm-formatting-list-ul {
     visibility: hidden !important;
     padding-right: 4px;
-    } */
+    } 
 
-    /* .theme-light span.cm-formatting-list-ul:after {
+     .theme-light span.cm-formatting-list-ul:after {
     content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABmJLR0QA/wD/AP+gvaeTAAABmklEQVQokaWSMWiTURRGz3f/pNWmixWi7q4OLTi5mMFCHezg0gZjBRd17+ri6CYUnAQbSWvBwcGpYgX3VkUEF9eaoHUxQqP/+xxi6k/ULP3G+9555z7uhUNEw4UTjbsVVFk0qQZxEnlX1kvcXWs3l7v/hatLK7NYTUEZeduOr1I6hpmx3CMvNTqPbmz+BVeXVmZJekbwNEvRyiOfdCJC8TmssTxSneR5nF0cPKBBq1blI+JVltxKiuvGc+B1Ea2BwPI17HPy99Pt5nI3+v7KoqCcpfgNprNy3C6l0kbxW1mKlmAcJhYAAsCkGvJ2biaN5yTdQ36dR/pZhJPcw9pxUDuAIaok7SlcAj3J8uzdiAl9EVQLcOoQngI6gofDxqEcN3QOYBFbWDNhjY2A6J972o4Xf8zurlmpl0eqj4LzSHWj/fKRWAfIALpvN39Uzlx6g9IdxNHM8d4iLxqTfBV7XtLlTw9ufuh3XEj1yv0LRL4qGMfasbQnewo8bbQv0Wiv3no+uP/v3WZiwcF5wSnDrh1b4W+Ph3f7UPkFeM+6vmvDCTwAAAAASUVORK5CYII="); 
     font-size: 14px;
     margin-left: -15px;
     color: var(--gold1); 
     visibility: visible !important;
-    } */
+    } 
 
 
 /*...............................................................*/
@@ -6481,7 +6481,7 @@ Hide Aside and hover to reveal it*/
 
         /* Edit mode unordered list dash rendered as dot for WYSIWYG */
         
-        /* .theme-dark span.cm-formatting-list-ul {
+        .theme-dark span.cm-formatting-list-ul {
         visibility: hidden !important;
         }
         
@@ -6495,7 +6495,7 @@ Hide Aside and hover to reveal it*/
 
         .theme-dark ul li::marker {
         color: var(--gold1);
-        } */
+        }
 
 /*...............................................................*/
 

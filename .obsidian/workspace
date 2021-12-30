@@ -9,20 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/46 Politics.md",
-            "mode": "preview",
+            "file": "40_Evergreens/48 Technology.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 2,
           "stack": [
             {
               "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/46 Politics.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/46 Politics.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":34},\"to\":{\"line\":13,\"ch\":34}}}"
             },
             {
               "leaf": "58614c8e2087b19f",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/46 Politics.md",
+                "file": "40_Evergreens/48 Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/46 Politics.md",
+                "file": "40_Evergreens/48 Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/46 Politics.md"
+                "file": "40_Evergreens/48 Technology.md"
               }
             },
             "pane-relief:history-v1": {
@@ -383,7 +383,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/46 Politics.md",
+                "file": "40_Evergreens/48 Technology.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -495,9 +495,9 @@
   },
   "active": "58614c8e2087b19f",
   "lastOpenFiles": [
-    "40_Evergreens/46 Politics.md",
-    "40_Evergreens/47 Humanity.md",
     "40_Evergreens/48 Technology.md",
+    "40_Evergreens/47 Humanity.md",
+    "40_Evergreens/46 Politics.md",
     "40_Evergreens/49 Conclusions.md",
     "30_Topics/Topic Hierarchy.md",
     "40_Evergreens/41 Inbox.md",
