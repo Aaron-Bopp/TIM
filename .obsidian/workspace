@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d5825cff7950bc81",
+        "id": "2cfdd70fe6cc2838",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/33_Tools/Dataview.md",
+            "file": "30_Topics/32_Terms/Adenosine.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,124 +19,22 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "d5825cff7950bc81",
+              "leaf": "2cfdd70fe6cc2838",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dataview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Adenosine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
             },
             {
-              "leaf": "d5825cff7950bc81",
+              "leaf": "2cfdd70fe6cc2838",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/@visakanv on Twitter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":24.728988874908318}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/46 Politics.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":15.55977508517939}"
             },
             {
-              "leaf": "d5825cff7950bc81",
+              "leaf": "2cfdd70fe6cc2838",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Nathan Eloe.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Andy Matuschak.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes vary in size and scope.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":1},\"to\":{\"line\":18,\"ch\":1}}}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":58},\"to\":{\"line\":18,\"ch\":58}}}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":32},\"to\":{\"line\":27,\"ch\":32}},\"scroll\":0}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":88},\"to\":{\"line\":12,\"ch\":88}}}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard rules create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":2},\"to\":{\"line\":21,\"ch\":2}}}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parsing markup text for Obsidian projects.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":27},\"to\":{\"line\":21,\"ch\":27}},\"scroll\":14.368588903572995}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Anti-government stances lead to economic crashes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":41},\"to\":{\"line\":14,\"ch\":41}}}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is the fundamental unit of existence.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":58},\"to\":{\"line\":18,\"ch\":58}},\"scroll\":0}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d5825cff7950bc81",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":399},\"to\":{\"line\":29,\"ch\":399}},\"scroll\":0}"
             }
           ]
         }
@@ -170,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/topic/person",
+                "query": "\"years:\"",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/33_Tools/Dataview.md",
+                "file": "30_Topics/32_Terms/Adenosine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/33_Tools/Dataview.md",
+                "file": "30_Topics/32_Terms/Adenosine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,8 +145,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/33_Tools/Dataview.md"
+                "file": "30_Topics/32_Terms/Adenosine.md"
               }
             },
             "pane-relief:history-v1": {
@@ -385,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/33_Tools/Dataview.md",
+                "file": "30_Topics/32_Terms/Adenosine.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -494,17 +391,17 @@
     "direction": "horizontal",
     "width": 706
   },
-  "active": "d5825cff7950bc81",
+  "active": "2cfdd70fe6cc2838",
   "lastOpenFiles": [
-    "30_Topics/33_Tools/Dataview.md",
+    "30_Topics/32_Terms/Adenosine.md",
+    "40_Evergreens/46 Politics.md",
+    "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
+    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
+    "40_Evergreens/We are confined to the tools of our time.md",
     "30_Topics/34_People/@visakanv on Twitter.md",
+    "30_Topics/33_Tools/Dataview.md",
     "00_Meta/Personal/Nathan Eloe.md",
     "30_Topics/34_People/Andy Matuschak.md",
-    "20_Entry/209 Notepad.md",
-    "40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md",
-    "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
-    "40_Evergreens/Conceptual notes vary in size and scope.md",
-    "40_Evergreens/The way systems work can create cognitive bias.md",
-    "40_Evergreens/What are the differences between evergreen notes and conceptual notes.md"
+    "20_Entry/209 Notepad.md"
   ]
 }
