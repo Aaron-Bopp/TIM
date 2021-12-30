@@ -1,6 +1,6 @@
 ---
 created: 2021-06-16
-tags: node/topic/outline
+tags: created/2021/06/16, node/topic/outline
 parent: [[anxiety]]
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

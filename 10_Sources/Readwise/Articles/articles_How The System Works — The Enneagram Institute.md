@@ -4,7 +4,7 @@ aliases:
   - "How The System Works — The Enneagram Institute"
   - "How The System Works — The Enneagram Institute by enneagraminstitute.com"
   - "enneagraminstitute.com"
-tags: node/source/articles
+tags: created/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

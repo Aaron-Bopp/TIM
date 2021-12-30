@@ -1,6 +1,6 @@
 ---
 created: 2021-08-13
-tags: node/evergreen
+tags: created/2021/08/13, node/evergreen
 aliases:
   - Where does gender come from
   - the scientific basis of gender

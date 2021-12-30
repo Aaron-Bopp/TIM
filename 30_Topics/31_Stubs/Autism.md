@@ -1,6 +1,6 @@
 ---
 created: 2021-08-13
-tags: node/topic/stub
+tags: created/2021/08/13, node/topic/stub
 aliases:
   - autistic 
 ---

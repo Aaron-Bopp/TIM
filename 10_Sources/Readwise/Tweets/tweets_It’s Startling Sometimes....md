@@ -4,7 +4,7 @@ aliases:
   - "It’s Startling Sometimes..."
   - "It’s Startling Sometimes... by @visakanv on Twitter"
   - "@visakanv on Twitter"
-tags: node/source/tweets
+tags: created/2021/12/27, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

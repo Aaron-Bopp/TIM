@@ -4,7 +4,7 @@ aliases:
   - science denier
   - anti-science
   - anti science
-tags: node/topic/term
+tags: created/2021/08/01, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

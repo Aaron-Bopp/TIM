@@ -1,6 +1,6 @@
 ---
 created: 2021-06-28
-tags: node/topic/outline
+tags: created/2021/06/28, node/topic/outline
 aliases:
   - Christian
 ---

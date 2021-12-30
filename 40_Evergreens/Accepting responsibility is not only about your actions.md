@@ -1,6 +1,6 @@
 ---
 created: 2021-06-08
-tags: node/evergreen
+tags: created/2021/06/08, node/evergreen
 aliases:
   - Accepting responsibility for moving past your trauma
   - Accepting responsibility is about moving forward for yourself and for the people affected by the event

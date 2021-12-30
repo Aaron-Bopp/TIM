@@ -4,7 +4,7 @@ aliases:
   - "Tweets From Zami Draws ADHD Comics ✨"
   - "Tweets From Zami Draws ADHD Comics ✨ by @ZamiArts on Twitter"
   - "@ZamiArts on Twitter"
-tags: node/source/tweets
+tags: created/2021/12/04, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

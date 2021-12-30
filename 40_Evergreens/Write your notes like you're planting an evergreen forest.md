@@ -2,7 +2,7 @@
 created: 2021-06-15
 aliases:
   - "Writing your notes like you're planting an evergreen forest"
-tags: node/evergreen
+tags: created/2021/06/15, node/evergreen
 sr-due: 2022-01-08
 sr-interval: 25
 sr-ease: 210

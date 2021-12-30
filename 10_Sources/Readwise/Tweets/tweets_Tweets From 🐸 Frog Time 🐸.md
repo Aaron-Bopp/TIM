@@ -4,7 +4,7 @@ aliases:
   - "Tweets From 🐸 Frog Time 🐸"
   - "Tweets From 🐸 Frog Time 🐸 by @amazonmilkfrog on Twitter"
   - "@amazonmilkfrog on Twitter"
-tags: node/source/tweets
+tags: created/2021/12/24, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

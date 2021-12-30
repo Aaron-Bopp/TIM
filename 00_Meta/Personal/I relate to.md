@@ -1,6 +1,6 @@
 ---
 created: 2021-06-11
-tags: node/personal
+tags: created/2021/06/11, node/personal
 ---
 # [[Yes]]
 

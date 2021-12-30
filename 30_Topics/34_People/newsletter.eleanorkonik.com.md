@@ -3,7 +3,7 @@
 created: 2021-12-28 
 aliases:
   - Eleanor Konik
-tags: node/topic/person
+tags: created/2021/12/28, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

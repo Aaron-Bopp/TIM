@@ -4,7 +4,7 @@ aliases:
   - "1/ It's Very Interesting..."
   - "1/ It's Very Interesting... by @visakanv on Twitter"
   - "@visakanv on Twitter"
-tags: node/source/tweets
+tags: created/2021/11/01, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

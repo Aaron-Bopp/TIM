@@ -1,6 +1,6 @@
 ---
 created: 2021-08-01
-tags: node/source/notes
+tags: created/2021/08/01, node/source/notes
 creator: null
 type:
   - null

@@ -1,6 +1,6 @@
 ---
 created: 2021-04-30
-tags: node/source/notes
+tags: created/2021/04/30, node/source/notes
 type:
   - class
 ---

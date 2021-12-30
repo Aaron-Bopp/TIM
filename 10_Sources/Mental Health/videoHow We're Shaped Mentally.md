@@ -1,6 +1,6 @@
 ---
 created: 2021-05-29
-tags: node/source/videos
+tags: created/2021/05/29, node/source/videos
 creator: Dr.K
 type:
 - youtube

@@ -4,7 +4,7 @@ aliases:
   - "Unusual Governments to Take Inspiration From - SFWA"
   - "Unusual Governments to Take Inspiration From - SFWA by sfwa.org"
   - "sfwa.org"
-tags: node/source/articles
+tags: created/2021/12/15, node/source/articles
 type: 
   - articles
 deliveredBy: 

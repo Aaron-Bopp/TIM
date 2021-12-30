@@ -2,7 +2,7 @@
 created: 2021-11-15 
 aliases:
   - null
-tags: node/source/flashcards
+tags: created/2021/11/15, node/source/flashcards
 type:
   - null 
 ---

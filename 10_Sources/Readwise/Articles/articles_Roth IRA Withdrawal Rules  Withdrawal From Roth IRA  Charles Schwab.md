@@ -4,7 +4,7 @@ aliases:
   - "Roth IRA Withdrawal Rules | Withdrawal From Roth IRA | Charles Schwab"
   - "Roth IRA Withdrawal Rules | Withdrawal From Roth IRA | Charles Schwab by schwab.com"
   - "schwab.com"
-tags: node/source/articles
+tags: created/2021/12/24, node/source/articles
 type: 
   - articles
 deliveredBy: 

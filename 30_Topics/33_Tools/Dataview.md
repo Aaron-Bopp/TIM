@@ -1,6 +1,6 @@
 ---
 created: 2021-05-29
-tags: node/topic, node/topic/tool
+tags: created/2021/05/29, node/topic, node/topic/tool
 ---
 
 [[Dataview]] is an plugin for [[Obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.

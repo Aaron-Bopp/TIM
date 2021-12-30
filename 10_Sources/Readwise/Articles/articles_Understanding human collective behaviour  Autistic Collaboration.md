@@ -4,7 +4,7 @@ aliases:
   - "Understanding human collective behaviour | Autistic Collaboration"
   - "Understanding human collective behaviour | Autistic Collaboration by autcollab.org"
   - "autcollab.org"
-tags: node/source/articles
+tags: created/2021/12/13, node/source/articles
 type: 
   - articles
 deliveredBy: 

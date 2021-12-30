@@ -4,7 +4,7 @@ aliases:
   - "Conceptarium - Paul Bricman"
   - "Conceptarium - Paul Bricman by paulbricman.com"
   - "paulbricman.com"
-tags: node/source/articles
+tags: created/2021/11/17, node/source/articles
 type: 
   - articles
 deliveredBy: 

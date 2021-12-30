@@ -2,7 +2,7 @@
 created: 2021-11-17 
 aliases:
   - null
-tags: node/source/course
+tags: created/2021/11/17, node/source/course
 type:
   - class
   - notes

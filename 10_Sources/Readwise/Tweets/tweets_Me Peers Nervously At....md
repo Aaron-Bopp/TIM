@@ -4,7 +4,7 @@ aliases:
   - "Me: *Peers Nervously At..."
   - "Me: *Peers Nervously At... by @CharlotteEowyn on Twitter"
   - "@CharlotteEowyn on Twitter"
-tags: node/source/tweets
+tags: created/2021/11/06, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

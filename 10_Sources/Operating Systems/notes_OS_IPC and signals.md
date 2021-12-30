@@ -3,7 +3,7 @@ created: 2021-10-19
 aliases:
 - 
 
-tags: node/source/notes
+tags: created/2021/10/19, node/source/notes
 type:
 - 
 

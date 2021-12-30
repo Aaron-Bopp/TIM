@@ -2,7 +2,7 @@
 created: 2021-12-04 
 aliases:
   - null
-tags: node/topic/term
+tags: created/2021/12/04, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 > Cognitive bias is a *systematic* error in perception due to the environment that one is embedded into. 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2cfdd70fe6cc2838",
+        "id": "55345bc2091553a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
+            "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,115 +19,55 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "2cfdd70fe6cc2838",
+              "leaf": "55345bc2091553a9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "55345bc2091553a9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/6 Social Dysphoria.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "55345bc2091553a9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/8 Sexual Dysphoria.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "55345bc2091553a9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/7 Societal Dysphoria.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "55345bc2091553a9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/9 Presentational Dysphoria.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "2cfdd70fe6cc2838",
+              "leaf": "55345bc2091553a9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_A Lot of Paradoxes Might....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":31},\"to\":{\"line\":27,\"ch\":31}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "2cfdd70fe6cc2838",
+              "leaf": "55345bc2091553a9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcast_Unteachable Moment_This American Life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcastINVCEL.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/videos_Linear algebra_3Blue1Brown.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/videoSocial Constructs Philosophy Tube.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/videoTransComingOutStory.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Worksheet 4.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2cfdd70fe6cc2838",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Adenosine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/11 Managed Dysphoria Gender in Disguise.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "2cfdd70fe6cc2838",
+              "leaf": "55345bc2091553a9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/46 Politics.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":15.55977508517939}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "2cfdd70fe6cc2838",
+              "leaf": "55345bc2091553a9",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -164,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"years:\"",
+                "query": "tag:#created/2021/12",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -183,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
+                "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -216,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
+                "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -232,7 +172,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             },
@@ -241,11 +181,12 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 340
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -261,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md"
+                "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md"
               }
             },
             "pane-relief:history-v1": {
@@ -378,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
+                "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -485,19 +426,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706
+    "width": 706,
+    "collapsed": true
   },
-  "active": "2cfdd70fe6cc2838",
+  "active": "55345bc2091553a9",
   "lastOpenFiles": [
+    "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
+    "00_Meta/Primary Sources/gender-dysphoria-bible/6 Social Dysphoria.md",
+    "00_Meta/Primary Sources/gender-dysphoria-bible/8 Sexual Dysphoria.md",
+    "00_Meta/Primary Sources/gender-dysphoria-bible/7 Societal Dysphoria.md",
+    "00_Meta/Primary Sources/gender-dysphoria-bible/9 Presentational Dysphoria.md",
+    "00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md",
+    "00_Meta/Primary Sources/gender-dysphoria-bible/11 Managed Dysphoria Gender in Disguise.md",
+    "00_Meta/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
     "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
-    "10_Sources/Readwise/Tweets/tweets_A Lot of Paradoxes Might....md",
-    "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
-    "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
-    "10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md",
-    "10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
-    "10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md",
-    "10_Sources/podcast_Unteachable Moment_This American Life.md",
-    "10_Sources/podcastINVCEL.md",
-    "10_Sources/Psychology of Race and Gender notes.md"
+    "10_Sources/Readwise/Tweets/tweets_A Lot of Paradoxes Might....md"
   ]
 }

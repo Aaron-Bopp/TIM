@@ -4,7 +4,7 @@ aliases:
   - "Tweets From Visa Is Stretching"
   - "Tweets From Visa Is Stretching by @visakanv on Twitter"
   - "@visakanv on Twitter"
-tags: node/source/tweets
+tags: created/2021/11/10, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

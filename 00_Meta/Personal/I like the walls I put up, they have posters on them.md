@@ -2,7 +2,7 @@
 created: 2021-12-10 
 aliases:
   - null
-tags: node/source/qoutes
+tags: created/2021/12/10, node/source/qoutes
 ---
 
 **Source**:: 

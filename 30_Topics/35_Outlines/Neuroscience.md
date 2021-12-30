@@ -1,6 +1,6 @@
 ---
 created: 2021-06-16
-tags: node/topic/outline
+tags: created/2021/06/16, node/topic/outline
 aliases:
 - neurological
 date modified: Sunday, October 3rd 2021, 11:09:53 am

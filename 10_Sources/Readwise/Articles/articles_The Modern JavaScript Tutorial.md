@@ -4,7 +4,7 @@ aliases:
   - "The Modern JavaScript Tutorial"
   - "The Modern JavaScript Tutorial by javascript.info"
   - "javascript.info"
-tags: node/source/articles
+tags: created/2021/11/29, node/source/articles
 type: 
   - articles
 deliveredBy: 

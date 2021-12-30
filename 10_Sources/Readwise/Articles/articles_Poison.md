@@ -4,7 +4,7 @@ aliases:
   - "Poison"
   - "Poison by newsletter.eleanorkonik.com"
   - "newsletter.eleanorkonik.com"
-tags: node/source/articles
+tags: created/2021/11/03, node/source/articles
 type:
   - articles
 deliveredBy:

@@ -1,6 +1,6 @@
 ---
 created: 2021-10-06
-tags: node/topic/stub
+tags: created/2021/10/06, node/topic/stub
 sr-due: 2021-10-19
 sr-interval: 1
 sr-ease: 230

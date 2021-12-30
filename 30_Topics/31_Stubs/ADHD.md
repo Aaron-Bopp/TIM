@@ -2,7 +2,7 @@
 created: 2021-06-07
 aliases:
   - attention deficit hyperactivity disorder
-tags: node/topic/term
+tags: created/2021/06/07, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

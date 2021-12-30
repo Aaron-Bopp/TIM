@@ -1,6 +1,6 @@
 ---
 created: 2021-08-01
-tags: node/topic/stub
+tags: created/2021/08/01, node/topic/stub
 aliases:
 - anti vaccine
 - anti-vaccine

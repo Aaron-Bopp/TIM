@@ -1,6 +1,6 @@
 ---
 created: 2021-06-25
-tags: node/evergreen
+tags: created/2021/06/25, node/evergreen
 aliases:
   - null
 sr-due: 2021-12-31

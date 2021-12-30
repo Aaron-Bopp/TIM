@@ -2,7 +2,7 @@
 created: 2021-11-02
 aliases:
   - "COVID-19 and the Other Pandemic"
-tags: node/source/articles
+tags: created/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

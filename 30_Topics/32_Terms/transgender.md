@@ -1,6 +1,6 @@
 ---
 created: 2021-08-15
-tags: node/topic/term
+tags: created/2021/08/15, node/topic/term
 aliases:
 - trans
 - transness

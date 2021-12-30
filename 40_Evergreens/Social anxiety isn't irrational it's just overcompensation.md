@@ -1,6 +1,6 @@
 ---
 created: 2021-06-15
-tags: node/evergreen
+tags: created/2021/06/15, node/evergreen
 sr-due: 2022-01-08
 sr-interval: 29
 sr-ease: 214

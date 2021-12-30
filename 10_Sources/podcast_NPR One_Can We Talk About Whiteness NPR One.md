@@ -1,6 +1,6 @@
 ---
 created: 2021-08-29
-tags: node/source/notes
+tags: created/2021/08/29, node/source/notes
 creator: null
 type:
   - podcast

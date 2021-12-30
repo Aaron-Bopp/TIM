@@ -1,6 +1,6 @@
 ---
 created: 2021-08-15
-tags: node/topic/outline
+tags: created/2021/08/15, node/topic/outline
 aliases:
 - prisons
 ---

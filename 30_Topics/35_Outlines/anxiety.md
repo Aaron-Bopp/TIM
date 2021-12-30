@@ -1,6 +1,6 @@
 ---
 created: 2021-06-07
-tags: node/topic/outline
+tags: created/2021/06/07, node/topic/outline
 aliases:
 - anxious
 date modified: Wednesday, October 6th 2021, 2:34:37 pm

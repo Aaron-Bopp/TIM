@@ -68,7 +68,7 @@ What is the purpose of racial affinity groups?
 created: 2021-11-28
 aliases:
   - "Urn"
-tags: node/source/articles
+tags: created/2021/11/02, node/source/articles
 type: 
   - articles
 deliveredBy: 

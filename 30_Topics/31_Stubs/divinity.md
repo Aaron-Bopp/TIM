@@ -2,7 +2,7 @@
 created: 2021-12-29 
 aliases:
   - divine
-tags: node/topic/stub
+tags: created/2021/12/29, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

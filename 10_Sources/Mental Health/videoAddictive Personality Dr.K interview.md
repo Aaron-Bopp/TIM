@@ -1,6 +1,6 @@
 ---
 created: 2021-06-07
-tags: node/source/notes
+tags: created/2021/06/07, node/source/notes
 creator: DrK
 type:
   - youtube

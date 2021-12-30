@@ -4,7 +4,7 @@ aliases:
   - "Tweets From Mac"
   - "Tweets From Mac by @GoodPoliticGuy on Twitter"
   - "@GoodPoliticGuy on Twitter"
-tags: node/source/tweets
+tags: created/2021/11/01, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

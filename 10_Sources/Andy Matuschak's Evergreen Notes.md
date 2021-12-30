@@ -1,6 +1,6 @@
 ---
 created: 2021-05-29
-tags: node/source/notes
+tags: created/2021/05/29, node/source/notes
 type: second brain
 ---
 

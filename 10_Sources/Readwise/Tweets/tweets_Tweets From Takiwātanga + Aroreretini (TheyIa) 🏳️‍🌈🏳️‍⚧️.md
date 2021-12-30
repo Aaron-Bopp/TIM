@@ -4,7 +4,7 @@ aliases:
   - "Tweets From Takiwātanga + Aroreretini (They/Ia) 🏳️‍🌈🏳️‍⚧️"
   - "Tweets From Takiwātanga + Aroreretini (They/Ia) 🏳️‍🌈🏳️‍⚧️ by @takiwatangakare on Twitter"
   - "@takiwatangakare on Twitter"
-tags: node/source/tweets
+tags: created/2021/11/23, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

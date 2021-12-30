@@ -1,6 +1,6 @@
 ---
 created: 2021-05-10T18:22:56 (UTC -05:00)
-tags: []
+tags:created/2021/05/10
 source: https://genderdysphoria.fyi/gdb/conclusion
 author: Jocelyn Badgley
 ---

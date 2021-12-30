@@ -4,7 +4,7 @@ aliases:
   - "Five-Factor Model of Personality"
   - "Five-Factor Model of Personality by oxfordbibliographies.com"
   - "oxfordbibliographies.com"
-tags: node/source/articles
+tags: created/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

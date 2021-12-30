@@ -4,7 +4,7 @@ aliases:
   - "Hey Here’s a Discourse...."
   - "Hey Here’s a Discourse.... by @mykola on Twitter"
   - "@mykola on Twitter"
-tags: node/source/tweets
+tags: created/2021/12/08, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

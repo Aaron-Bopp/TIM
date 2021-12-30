@@ -3,7 +3,7 @@ created: 2021-10-23
 aliases:
 - 
 
-tags: node/source/videos
+tags: created/2021/10/23, node/source/videos
 type:
 - 
 

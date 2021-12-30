@@ -1,6 +1,6 @@
 ---
 created: 2021-05-15
-tags: node/source/notes
+tags: created/2021/05/15, node/source/notes
 creator: Heather Whipps
 type:
   - article

@@ -4,7 +4,7 @@ aliases:
   - "A #Thread of Threads: I..."
   - "A #Thread of Threads: I... by @commaficionado on Twitter"
   - "@commaficionado on Twitter"
-tags: node/source/tweets
+tags: created/2021/11/25, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

@@ -4,7 +4,7 @@ aliases:
   - "Tweets From Mia Moore 🏳️‍🌈"
   - "Tweets From Mia Moore 🏳️‍🌈 by @StopTweetingMia on Twitter"
   - "@StopTweetingMia on Twitter"
-tags: node/source/tweets
+tags: created/2021/11/13, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

@@ -1,6 +1,6 @@
 ---
 created: 2021-08-14
-tags: node/topic/stub
+tags: created/2021/08/14, node/topic/stub
 aliases:
 - PIC
 - prison industrial complex

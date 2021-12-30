@@ -1,6 +1,6 @@
 ---
 created: 2021-07-26
-tags: node/source/notes
+tags: created/2021/07/26, node/source/notes
 creator: Contrapoints
 type:
   - video

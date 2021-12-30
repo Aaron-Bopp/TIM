@@ -1,6 +1,6 @@
 ---
 created: 2021-10-10
-tags: node/topic/term
+tags: created/2021/10/10, node/topic/term
 aliases:
   - feminist
 ---

@@ -2,7 +2,7 @@
 created: 2021-10-18
 aliases:
   - What is the difference between hope and optimism
-tags: node/evergreen, node/question
+tags: created/2021/10/18, node/evergreen, node/question
 sr-due: 2022-01-11
 sr-interval: 18
 sr-ease: 210

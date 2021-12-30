@@ -1,6 +1,6 @@
 ---
 created: 2021-07-21
-tags: node/topic/outline
+tags: created/2021/07/21, node/topic/outline
 aliases:
 - identity
 - self-concept

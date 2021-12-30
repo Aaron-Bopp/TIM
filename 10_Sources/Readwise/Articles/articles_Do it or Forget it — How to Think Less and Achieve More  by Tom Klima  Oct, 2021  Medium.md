@@ -6,7 +6,7 @@ aliases:
   - "Do it or Forget it — How to Think Less and Achieve More | by Tom Klima |
     Oct, 2021 | Medium by Tom Klima"
   - "Tom Klima"
-tags: node/source/articles
+tags: created/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

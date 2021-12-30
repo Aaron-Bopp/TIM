@@ -4,7 +4,7 @@ aliases:
   - "Highlights From philosophy.ucsc.edu"
   - "Highlights From philosophy.ucsc.edu by philosophy.ucsc.edu"
   - "philosophy.ucsc.edu"
-tags: node/source/articles
+tags: created/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

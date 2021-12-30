@@ -4,7 +4,7 @@ aliases:
   - "Thinking About the Fact..."
   - "Thinking About the Fact... by @roryreckons on Twitter"
   - "@roryreckons on Twitter"
-tags: node/source/tweets
+tags: created/2021/11/10, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

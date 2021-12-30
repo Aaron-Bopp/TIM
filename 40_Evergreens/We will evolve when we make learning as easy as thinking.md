@@ -2,7 +2,7 @@
 created: 2021-11-15 
 aliases:
   - making learning as easy as thinking
-tags: node/evergreen
+tags: created/2021/11/15, node/evergreen
 sr-due: 2022-02-17
 sr-interval: 49
 sr-ease: 221

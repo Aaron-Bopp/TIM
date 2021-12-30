@@ -1,6 +1,6 @@
 ---
 created: 2021-07-18
-tags: node/topic/stub
+tags: created/2021/07/18, node/topic/stub
 aliases:
 - Cultural fundamentalism
 - cultural homogeneity

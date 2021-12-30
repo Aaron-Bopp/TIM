@@ -6,7 +6,7 @@ aliases:
   - "Despite what you've been told, you aren't 'left-brained' or 'right-brained'
     | Amy Novotney | The Guardian by Amy Novotney"
   - "Amy Novotney"
-tags: node/source/articles
+tags: created/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

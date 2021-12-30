@@ -1,6 +1,6 @@
 ---
 created: 2021-07-10
-tags: node/topic/outline
+tags: created/2021/07/10, node/topic/outline
 aliases:
   - religious
   - religions

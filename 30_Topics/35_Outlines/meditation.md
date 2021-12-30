@@ -1,6 +1,6 @@
 ---
 created: 2021-05-03
-tags: node/topic/outline
+tags: created/2021/05/03, node/topic/outline
 aliases:
   - meditating
 ---

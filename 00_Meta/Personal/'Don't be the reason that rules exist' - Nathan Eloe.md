@@ -2,7 +2,7 @@
 created: 2021-11-04
 aliases:
   - null
-tags: node/source/qoutes
+tags: created/2021/11/04, node/source/qoutes
 ---
 Source:: WebDev with [[Nathan Eloe]] FA21
 See:: [[Software Development]]

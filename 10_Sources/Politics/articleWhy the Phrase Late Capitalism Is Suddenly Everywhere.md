@@ -114,7 +114,7 @@ ___
 ##### PlainText
 ---
 created: 2021-07-29T18:03:20 (UTC -05:00)
-tags: [late capitalism]
+tags: created/2021/07/29, [late capitalism]
 source: https://www.theatlantic.com/business/archive/2017/05/late-capitalism/524943/
 author: Annie Lowrey
 

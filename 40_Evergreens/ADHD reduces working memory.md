@@ -3,7 +3,7 @@ created: 2021-10-20
 aliases:
   - reduced working memory
 
-tags: node/evergreen
+tags: created/2021/10/20, node/evergreen
 sr-due: 2022-01-01
 sr-interval: 18
 sr-ease: 255

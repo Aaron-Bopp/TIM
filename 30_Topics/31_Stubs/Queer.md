@@ -1,6 +1,6 @@
 ---
 created: 2021-10-09
-tags: node/topic/stub
+tags: created/2021/10/09, node/topic/stub
 aliases:
 - LGBT
 - LGBTQ

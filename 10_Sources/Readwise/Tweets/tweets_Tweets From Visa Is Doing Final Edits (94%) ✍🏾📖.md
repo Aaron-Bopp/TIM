@@ -4,7 +4,7 @@ aliases:
   - "Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖"
   - "Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖 by @visakanv on Twitter"
   - "@visakanv on Twitter"
-tags: node/source/tweets
+tags: created/2021/12/28, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

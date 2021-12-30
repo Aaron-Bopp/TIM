@@ -4,7 +4,7 @@ aliases:
   - "The Dawn of Everything"
   - "The Dawn of Everything by David Graeber"
   - "David Graeber"
-tags: node/source/books
+tags: created/2021/12/25, node/source/books
 type: 
   - books
 deliveredBy: 

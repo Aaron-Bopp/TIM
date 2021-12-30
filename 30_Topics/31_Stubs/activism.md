@@ -1,6 +1,6 @@
 ---
 created: 2021-10-20
-tags: node/topic/stub
+tags: created/2021/10/20, node/topic/stub
 aliases:
   - activists
   - activist

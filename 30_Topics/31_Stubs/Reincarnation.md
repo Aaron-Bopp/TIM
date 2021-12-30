@@ -1,6 +1,6 @@
 ---
 created: 2021-07-05
-tags: node/topic/stub
+tags: created/2021/07/05, node/topic/stub
 aliases:
 - samsara
 - punabbhava

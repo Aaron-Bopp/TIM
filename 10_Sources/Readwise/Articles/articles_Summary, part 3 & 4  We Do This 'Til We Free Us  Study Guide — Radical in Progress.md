@@ -6,7 +6,7 @@ aliases:
   - "Summary, part 3 & 4 | We Do This 'Til We Free Us | Study Guide — Radical in
     Progress by radicalinprogress.org"
   - "radicalinprogress.org"
-tags: node/source/articles
+tags: created/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:
