@@ -14,10 +14,8 @@ type:
 
 **Related**:: 
 
-```dataview
-LIST 
-FROM #node/topic/term and [[course_Dr. K's Guide to Mental Health]]
-```
 # [[meditation]]
 - 
 - [[notes_History of Meditation]]
+- [[notes_Different Meditative Styles]]
+- [[notes_Science of Meditation]]

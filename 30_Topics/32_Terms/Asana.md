@@ -6,7 +6,7 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The third step in the eightfold path of Raja Yoga, Asanas are yoga postures.
+The third step in the eightfold path of [[Raja Yoga]], Asanas are [[yoga]] postures.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::

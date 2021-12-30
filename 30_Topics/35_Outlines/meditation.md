@@ -1,6 +1,8 @@
 ---
 created: 2021-05-03
 tags: node/topic/outline
+aliases:
+  - meditating
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

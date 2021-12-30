@@ -6,7 +6,7 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Personal observances; the second step in the eightfold path of Raja Yoga.
+Personal observances; the second step in the eightfold path of [[Raja Yoga]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::

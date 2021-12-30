@@ -29,6 +29,7 @@ type:
 		- [[Jnana Yoga]] brute force way to [[enlightenment]] through intense [[philosophy]]
 		- [[Raja Yoga]] step wise process 
 			- [[Yama]] pure standards
+				- [[Ahimsa]]
 			- [[Niyama]] good morals
 			- [[Asana]] [[yoga]] postures
 			- [[Pranayama]] breath practices
@@ -43,10 +44,10 @@ type:
 	- [[Kundalini Yoga]]
 		- all about balancing our 7 [[Chakra|chakras]]
 	- [[Kriya Yoga]] goal is to purify your [[conscious|consciousness]]
-- [[Buddhism]] many of bhudda's teachers practiced [[Jnana Yoga]]
+- [[Buddhism]] many of [[Buddha]]'s teachers practiced [[Raja Yoga]]
 	- denominations of [[Buddhism]] 
-		- [[Theravada Buddhism]] more traditional from bhudda's literal words
-		- [[Mahayana Buddhism]]  you can learn from anyone who has achieved [[enlightenment]]
+		- [[Theravada Buddhism]] more traditional from [[Buddha]]'s literal words
+		- [[Mahayana Buddhism]] you can learn from anyone who has achieved [[enlightenment]]
 			- lead to [[Zen]] which lead to [[mindfulness]]
 			- [[mindfulness]] is only a tiny part of all [[meditation]] traditions
 		- [[Vajrayana Buddhism]]

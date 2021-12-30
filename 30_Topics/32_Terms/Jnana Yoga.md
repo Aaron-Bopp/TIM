@@ -9,5 +9,5 @@ tags: node/topic/term
 A system of [[Yoga]] that focuses on becoming enlightened through the power of contemplation.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**:: [[Jnana]], [[yoga]]
+**See**:: [[yoga]], [[Jnana]], [[Raja Yoga]], [[Bhakti Yoga]], [[Kriya Yoga]], [[Karma Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

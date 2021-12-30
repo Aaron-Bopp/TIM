@@ -4,7 +4,7 @@ type:
 ---
 
 ##### [[<% tp.file.title %> ]]
- **Creator**:: 
+**Creator**:: 
  
 **Source**::
 

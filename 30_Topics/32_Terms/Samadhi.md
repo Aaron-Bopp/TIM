@@ -9,5 +9,5 @@ tags: node/topic/term
 It is a temporary state of [[enlightenment]], where you experience your true [[self]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**:: [[meditation]], [[Dhyana]], [[Dharana]], [[Moksha]]
+**See**:: [[meditation]], [[Dhyana]], [[Dharana]], [[Moksha]], [[Raja Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
