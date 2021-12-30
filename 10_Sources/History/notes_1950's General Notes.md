@@ -1,13 +1,15 @@
 ---
 created: 2021-04-30
 tags: node/source/notes
-creator: null
 type:
   - class
-source: NWMSU
 ---
 
-- [[1940's General Notes]]
+**Creator**:: [[Aaron Bopp]]
+ 
+**Source**:: [[course_US History from 1870]]
+
+- [[notes_1940's General Notes]]
 - 1950s - Conformity and Conflict and the Second Red Scare
     - [[Second Red Scare Discussion]]
     - Growth of middle class,  Suburbia and [[business]] (Baby Boomers)
@@ -72,18 +74,4 @@ source: NWMSU
             - CRA 1960 - allowed [[government|govt]] to come in and register people people to vote where a pattern of racial discrimination 
             - This legislation was not executed quickly or without resistance
                 - [[Eisenhower]] did finally come in and enforce school desegregation
-- [[1960's General Notes]]
-
-
----
-
-**Topics**:: 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
-
-
+- [[notes_1960's General Notes]]

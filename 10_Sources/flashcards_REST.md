@@ -2,7 +2,7 @@
 created: 2021-11-19 
 aliases:
   - null
-tags: node/source/stub
+tags: node/source/flashcards
 type:
   - null 
 ---

@@ -1,13 +1,14 @@
 ---
 created: 2021-04-30
 tags: node/source/notes
-creator: null
 type:
   - class
-source: NWMSU
 ---
+**Creator**:: [[Aaron Bopp]]
+ 
+**Source**:: [[course_US History from 1870]]
 
-- [[1950's General Notes]]
+- [[notes_1950's General Notes]]
 - 1960s - More Liberal [[America]]
     - Election [[Nixon]] vs [[JFK]]
         - Both strongly against [[Communism]] with a service background
@@ -545,17 +546,4 @@ source: NWMSU
         - December Apollo missions success
     - Youth [[Revolution]] in 1970sth
     - Veterans return from the [[war]] in 1970s
-- [[1970's General Notes]]
-
----
-
-**Topics**:: 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
-
-
+- [[notes_1970's General Notes]]

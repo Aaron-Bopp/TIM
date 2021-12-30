@@ -102,15 +102,6 @@
     }
   ],
   "editor:toggle-italics": [],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "editor:focus-top": [
     {
       "modifiers": [
@@ -233,15 +224,6 @@
       "key": "K"
     }
   ],
-  "obsidian-another-quick-switcher:normal-search": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
   "obsidian-another-quick-switcher:recent-search": [
     {
       "modifiers": [
@@ -314,14 +296,6 @@
     }
   ],
   "various-complements:reload-custom-dictionaries": [],
-  "obsidian-smarter-md-hotkeys:smarter-wikilink": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Y"
-    }
-  ],
   "templater-obsidian:insert-templater": [
     {
       "modifiers": [
@@ -333,20 +307,12 @@
   "obsidian-smarter-md-hotkeys:smarter-asterisk-bold": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "D"
     }
   ],
   "editor:delete-paragraph": [],
-  "obsidian42-brat:BRAT-allCommands": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "obsidian42-text-transporter:obsidian42-text-transporter-combinedCommands": [
     {
       "modifiers": [
@@ -392,6 +358,39 @@
         "Shift"
       ],
       "key": "F"
+    }
+  ],
+  "obsidian42-brat:BRAT-allCommands": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "obsidian-another-quick-switcher:normal-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-smarter-md-hotkeys:smarter-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
     }
   ]
 }

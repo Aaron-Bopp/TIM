@@ -2,7 +2,7 @@
 created: 2021-11-15 
 aliases:
   - null
-tags: node/source/stub
+tags: node/source/flashcards
 type:
   - null 
 ---
@@ -13,7 +13,7 @@ type:
 
 **Source**::
 
-**Related**:: 
+**Related**:: [[Computer Science]], [[Software Development]]
 
 Q:: What is Atlas?  
 A::

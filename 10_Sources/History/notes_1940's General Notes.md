@@ -1,13 +1,15 @@
 ---
 created: 2021-04-30
 tags: node/source/notes
-creator: null
 type:
   - class
-source: NWMSU
 ---
 
-- [[1930's General Notes]]
+**Creator**:: [[Aaron Bopp]]
+ 
+**Source**:: [[course_US History from 1870]]
+
+- [[notes_1930's General Notes]]
 - WW2
     - Expansions
         - [[Germany]]
@@ -107,18 +109,6 @@ source: NWMSU
             - Ruled by emperor but military had full control of state
             - Industrial power but needed natural resources, colonialism was the answer
             - Believed other Asian nationalities were inferior
-- [[1950's General Notes]]
-
-
----
-
-**Topics**:: 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
+- [[notes_1950's General Notes]]
 
 

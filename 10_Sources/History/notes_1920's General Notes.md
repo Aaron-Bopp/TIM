@@ -1,11 +1,12 @@
 ---
 created: 2021-04-30
 tags: node/source/notes
-creator: null
 type:
   - class
-source: NWMSU
 ---
+**Creator**:: [[Aaron Bopp]]
+ 
+**Source**:: [[course_US History from 1870]]
 
 - Conflict and conformity (Lecture 14)
     - [[America]] was pushing towards isolationism and building the economy after world war 1 [[Calvin Coolidge|Coolidge]] the first supporter of trickle-down [[economy|economics]] (Lecture 14, part 1)
@@ -23,18 +24,5 @@ source: NWMSU
     - UNIA - Universal Negro Improvement Association. Garvey is a Black [[segregationist]]/mixed [[reactionist]]
     - [[Progressives]] believed that federal [[government]] could limit individual freedoms for higher responsibilities (21:30-22:30)
     - Bootlegging helped the rise of the mafia
-- [[1930's General Notes]]
-
-
----
-
-**Topics**:: 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
-
+- [[notes_1930's General Notes]]
 

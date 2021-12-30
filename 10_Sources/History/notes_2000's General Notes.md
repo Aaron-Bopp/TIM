@@ -1,12 +1,17 @@
 ---
 created: 2021-04-30
 tags: node/source/notes
-creator: null
 type:
   - class
-source: NWMSU
 ---
 
+##### [[notes_2000's General Notes ]]
+**Creator**:: [[Aaron Bopp]]
+ 
+**Source**:: [[course_US History from 1870]]
+
+
+- [[notes_1990's General Notes]]
 - [[W Bush]]
     - Election of 2000
         - Closest election in history
@@ -84,17 +89,3 @@ source: NWMSU
         - ended [[Iraq]] [[war]]
         - growth of isis 
         - drone warfare
-
-
----
-
-**Topics**::  [[American History]], [[21st Century America]] 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
-
-

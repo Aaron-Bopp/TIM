@@ -29,5 +29,5 @@ deliveredBy:
 
 [^255544826]: https://twitter.com/ZamiArts/status/1466438670764945408
 %%
-highlight_tags:: [[adhd]]
+highlight_tags:: [[ADHD]]
 %%

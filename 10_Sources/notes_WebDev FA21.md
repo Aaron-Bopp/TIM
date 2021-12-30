@@ -2,7 +2,7 @@
 created: 2021-11-17 
 aliases:
   - null
-tags: node/source/stub
+tags: node/source/course
 type:
   - class
   - notes

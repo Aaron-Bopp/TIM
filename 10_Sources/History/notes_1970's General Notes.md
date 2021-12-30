@@ -1,13 +1,14 @@
 ---
 created: 2021-04-30
 tags: node/source/notes
-creator: null
 type:
   - class
-source: NWMSU
 ---
+**Creator**:: [[Aaron Bopp]]
+ 
+**Source**:: [[course_US History from 1870]]
 
-- [[1960's General Notes]]
+- [[notes_1960's General Notes]]
 - Youth [[Revolt]]
      - [[Anti-war|Anti War]] - non-college students could be drafted, college students could nto
           - Broad wave of dissatisfaction among young middle class white [[America|Americans]]
@@ -154,17 +155,4 @@ source: NWMSU
                     - hostages weren't released until carter released money
                          - hostages weren't released until [[Reagan]]
                               - [[Reagan]] staffers sold weapons to [[Iran]] and may have helped keep hostages until [[Reagan]] elected
-- [[1980's General Notes]]
-
----
-
-**Topics**:: 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
-
-
+- [[notes_1980's General Notes]]

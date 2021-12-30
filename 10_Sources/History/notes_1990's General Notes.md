@@ -1,12 +1,14 @@
 ---
 created: 2021-04-30
 tags: node/source/notes
-creator: null
 type:
   - class
-source: NWMSU
 ---
+**Creator**:: [[Aaron Bopp]]
+ 
+**Source**:: [[course_US History from 1870]]
 
+- [[notes_1980's General Notes]]
 - [[HW Bush]]
     - [[Domestic policy]]
         - "New chapter focused on unity diversity and generosity"
@@ -85,18 +87,4 @@ source: NWMSU
             - Clinton won easily against dole thanks to [[economy]] and [[Republican]] infighting
         - Clinton's centrism and charm helped shape modern [[democratic]] party
             - whitewater and Lewinsky affair marred his legacy but not that badly
-- [[2000's General Notes]]
-
-
----
-
-**Topics**:: 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
-
-
+- [[notes_2000's General Notes]]

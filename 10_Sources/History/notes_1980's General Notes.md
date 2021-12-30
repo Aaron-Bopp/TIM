@@ -1,13 +1,14 @@
 ---
 created: 2021-04-30
 tags: node/source/notes
-creator: null
 type:
   - class
-source: NWMSU
 ---
+**Creator**:: [[Aaron Bopp]]
+ 
+**Source**:: [[course_US History from 1870]]
 
-- [[1970's General Notes]]
+- [[notes_1970's General Notes]]
 - [[Reagan]]
     - Lost in primary of 1976
     - Won in 1980 by 9 mil votes
@@ -105,19 +106,4 @@ source: NWMSU
         - made a fortune in oil 
     - growing fears of national [[debt]] but Bush offered no tax hikes
     - Dukakis had no notable features
-- [[1990's General Notes]]
-
-
----
-
-
-**Topics**:: 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
-
-
+- [[notes_1990's General Notes]]

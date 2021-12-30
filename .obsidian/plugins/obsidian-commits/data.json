@@ -5120,51 +5120,6 @@
       "tags": 0,
       "links": 29
     },
-    "10_Sources/History/notes1920's General Notes.md": {
-      "size": 2041,
-      "tags": 1,
-      "links": 17
-    },
-    "10_Sources/History/notes1930's General Notes.md": {
-      "size": 3185,
-      "tags": 1,
-      "links": 14
-    },
-    "10_Sources/History/notes1940's General Notes.md": {
-      "size": 5996,
-      "tags": 1,
-      "links": 17
-    },
-    "10_Sources/History/notes1950's General Notes.md": {
-      "size": 5517,
-      "tags": 1,
-      "links": 16
-    },
-    "10_Sources/History/notes1960's General Notes.md": {
-      "size": 30383,
-      "tags": 1,
-      "links": 65
-    },
-    "10_Sources/History/notes1970's General Notes.md": {
-      "size": 6995,
-      "tags": 1,
-      "links": 20
-    },
-    "10_Sources/History/notes1980's General Notes.md": {
-      "size": 5276,
-      "tags": 1,
-      "links": 25
-    },
-    "10_Sources/History/notes1990's General Notes.md": {
-      "size": 4022,
-      "tags": 1,
-      "links": 25
-    },
-    "10_Sources/History/notes2000's General Notes.md": {
-      "size": 3812,
-      "tags": 1,
-      "links": 15
-    },
     "10_Sources/History/notesReconstruction.md": {
       "size": 1294,
       "tags": 1,
@@ -6860,11 +6815,6 @@
       "tags": 1,
       "links": 1
     },
-    "30_Topics/32_Terms/ADHD.md": {
-      "size": 249,
-      "tags": 1,
-      "links": 2
-    },
     "30_Topics/32_Terms/Alexithymia.md": {
       "size": 200,
       "tags": 1,
@@ -6994,11 +6944,6 @@
       "size": 307,
       "tags": 1,
       "links": 2
-    },
-    "30_Topics/32_Terms/anti-liberalism.md": {
-      "size": 159,
-      "tags": 1,
-      "links": 0
     },
     "30_Topics/32_Terms/anti-science.md": {
       "size": 274,
@@ -7493,7 +7438,7 @@
     "10_Sources/notes_MongoDB and Mongoose.md": {
       "size": 1478,
       "tags": 1,
-      "links": 1
+      "links": 3
     },
     "10_Sources/Readwise/Articles/articles_Sexism may be harmful to men's mental health.md": {
       "size": 3110,
@@ -7639,11 +7584,6 @@
       "size": 784,
       "tags": 2,
       "links": 9
-    },
-    "30_Topics/35_Outlines/20th Century America.md": {
-      "size": 322,
-      "tags": 1,
-      "links": 8
     },
     "30_Topics/35_Outlines/Christianity.md": {
       "size": 1621,
@@ -7947,7 +7887,7 @@
     },
     "40_Evergreens/Organization systems are not mutually exclusive.md": {
       "size": 2153,
-      "tags": 3,
+      "tags": 4,
       "links": 13
     },
     "30_Topics/32_Terms/Intergroup contact theory.md": {
@@ -8001,7 +7941,7 @@
       "links": 11
     },
     "10_Sources/podcast_Unteachable Moment_This American Life.md": {
-      "size": 2930,
+      "size": 1227,
       "tags": 1,
       "links": 4
     },
@@ -9572,7 +9512,7 @@
     },
     "30_Topics/31_Stubs/structure.md": {
       "size": 165,
-      "tags": 1,
+      "tags": 2,
       "links": 0
     },
     "30_Topics/31_Stubs/struggle.md": {
@@ -9719,11 +9659,6 @@
       "size": 0,
       "tags": 1,
       "links": 0
-    },
-    "10_Sources/notes_Dr. K's Guide Meditation Module.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 3
     },
     "30_Topics/32_Terms/API (Application Programming Interface).md": {
       "size": 301,
@@ -10989,19 +10924,89 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "30_Topics/31_Stubs/infinite.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "10_Sources/History/notes_1950's General Notes.md": {
+      "size": 5517,
+      "tags": 1,
+      "links": 18
+    },
+    "10_Sources/History/notes_1960's General Notes.md": {
+      "size": 30383,
+      "tags": 1,
+      "links": 67
+    },
+    "10_Sources/History/notes_1970's General Notes.md": {
+      "size": 6995,
+      "tags": 1,
+      "links": 22
+    },
+    "10_Sources/History/notes_1980's General Notes.md": {
+      "size": 5276,
+      "tags": 1,
+      "links": 27
+    },
+    "10_Sources/History/notes_1990's General Notes.md": {
+      "size": 4022,
+      "tags": 1,
+      "links": 28
+    },
+    "10_Sources/History/notes_2000's General Notes.md": {
+      "size": 3812,
+      "tags": 1,
+      "links": 17
+    },
+    "30_Topics/35_Outlines/course_US History from 1870.md": {
+      "size": 623,
+      "tags": 1,
+      "links": 15
+    },
+    "10_Sources/History/notes_1940's General Notes.md": {
+      "size": 5996,
+      "tags": 1,
+      "links": 19
+    },
+    "10_Sources/History/notes_1930's General Notes.md": {
+      "size": 3185,
+      "tags": 1,
+      "links": 16
+    },
+    "10_Sources/History/notes_1920's General Notes.md": {
+      "size": 2041,
+      "tags": 1,
+      "links": 19
+    },
+    "00_Meta/Templates/auto link text.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/ADHD.md": {
+      "size": 249,
+      "tags": 1,
+      "links": 2
+    },
+    "30_Topics/31_Stubs/anti-liberalism.md": {
+      "size": 159,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2671,
-      "Create": 3237,
-      "Link": 5134,
-      "Expand": 519
+      "Refactor": 2687,
+      "Create": 3239,
+      "Link": 5150,
+      "Expand": 520
     },
     "40_Evergreens": {
       "Refactor": 189,
       "Create": 38,
-      "Link": 478,
+      "Link": 479,
       "Expand": 253
     }
   },
@@ -11020,8 +11025,8 @@
       "10": 277,
       "11": 223,
       "12": 422,
-      "13": 270,
-      "14": 2339,
+      "13": 303,
+      "14": 2341,
       "15": 140,
       "16": 904,
       "17": 1595,
@@ -11046,7 +11051,7 @@
       "10": 83,
       "11": 72,
       "12": 39,
-      "13": 85,
+      "13": 86,
       "14": 73,
       "15": 8,
       "16": 4,
@@ -11064,7 +11069,7 @@
       "Mon": 313,
       "Tue": 1610,
       "Wed": 3643,
-      "Thu": 643,
+      "Thu": 678,
       "Fri": 300,
       "Sat": 0,
       "Sun": 5052
@@ -11073,7 +11078,7 @@
       "Mon": 61,
       "Tue": 178,
       "Wed": 166,
-      "Thu": 20,
+      "Thu": 21,
       "Fri": 91,
       "Sat": 0,
       "Sun": 442
@@ -11082,6 +11087,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/course_US History from 1870.md\"> course_US History from 1870 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/anxiety.md\"> anxiety </a>",
@@ -11131,10 +11137,11 @@
         "<a class=\"internal-link\" href=\"Ketamine.md\"> Ketamine </a>",
         "<a class=\"internal-link\" href=\"Korean Ginseng.md\"> Korean Ginseng </a>",
         "<a class=\"internal-link\" href=\"Obsessive Compulsive Disorder (OCD).md\"> Obsessive Compulsive Disorder (OCD) </a>",
-        "<a class=\"internal-link\" href=\"Pituitary Gland.md\"> Pituitary Gland </a>",
-        "<a class=\"internal-link\" href=\"Psychosis.md\"> Psychosis </a>"
+        "<a class=\"internal-link\" href=\"Pituitary Gland.md\"> Pituitary Gland </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/auto link text.md\"> auto link text </a>",
+        "<a class=\"internal-link\" href=\"infinite.md\"> infinite </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/contentment.md\"> contentment </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Overview of Meditation Module.md\"> notes_Overview of Meditation Module </a>",
@@ -11183,11 +11190,22 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yogi.md\"> Yogi </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yoga Nidra.md\"> Yoga Nidra </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yantra.md\"> Yantra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yama.md\"> Yama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yajna.md\"> Yajna </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vishuddha Chakra.md\"> Vishuddha Chakra </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yama.md\"> Yama </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anti-liberalism.md\"> anti-liberalism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/ADHD.md\"> ADHD </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1920's General Notes.md\"> notes_1920's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1930's General Notes.md\"> notes_1930's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1940's General Notes.md\"> notes_1940's General Notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/course_US History from 1870.md\"> course_US History from 1870 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_2000's General Notes.md\"> notes_2000's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1990's General Notes.md\"> notes_1990's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1980's General Notes.md\"> notes_1980's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1970's General Notes.md\"> notes_1970's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1960's General Notes.md\"> notes_1960's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1950's General Notes.md\"> notes_1950's General Notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/infinite.md\"> infinite </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/behavior.md\"> behavior </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/breath.md\"> breath </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
@@ -11225,22 +11243,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the Christian church.md\"> Non-faith issues have been co-opted to keep people in the Christian church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md\"> The biblical Christian God is evil and does not deserve to be worshipped </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Are Jesus' teachings anti-thetical to the modern Christian church.md\"> Are Jesus' teachings anti-thetical to the modern Christian church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Were Jesus' teachings anti-thetical to the modern Christian church.md\"> Were Jesus' teachings anti-thetical to the modern Christian church </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Evolutionary Psychology.md\"> Evolutionary Psychology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Behavioral Psychology.md\"> Behavioral Psychology </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregardment of affection.md\"> My unfulfilled need for parental validation became a fear of rejection and disregardment of affection </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stereotyping has the psychological goal of comprehension and self-enhancement.md\"> Stereotyping has the psychological goal of comprehension and self-enhancement </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/structure.md\"> structure </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/infinite.md\"> infinite </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/contentment.md\"> contentment </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Overview of Meditation Module.md\"> notes_Overview of Meditation Module </a>",
@@ -11288,10 +11296,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ahamkara.md\"> Ahamkara </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ahimsa.md\"> Ahimsa </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ajna Chakra.md\"> Ajna Chakra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Alprazolam.md\"> Alprazolam </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ama.md\"> Ama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Amygdala.md\"> Amygdala </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anahata Chakra.md\"> Anahata Chakra </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Alprazolam.md\"> Alprazolam </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -11328,9 +11333,11 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
+        "<a class=\"internal-link\" href=\"course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dr. K's Guide Meditation Module.md\"> notes_Dr. K's Guide Meditation Module </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anxiety.md\"> Anxiety </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/DrK Interviews.md\"> DrK Interviews </a>",
@@ -11380,10 +11387,22 @@
         "<a class=\"internal-link\" href=\"Tantra.md\"> Tantra </a>",
         "<a class=\"internal-link\" href=\"Tachycardia.md\"> Tachycardia </a>",
         "<a class=\"internal-link\" href=\"Sympathetic Nervous System.md\"> Sympathetic Nervous System </a>",
-        "<a class=\"internal-link\" href=\"Symbiosis.md\"> Symbiosis </a>",
-        "<a class=\"internal-link\" href=\"Swadhyaya.md\"> Swadhyaya </a>"
+        "<a class=\"internal-link\" href=\"Symbiosis.md\"> Symbiosis </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/course_US History from 1870.md\"> course_US History from 1870 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1950's General Notes.md\"> notes_1950's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1960's General Notes.md\"> notes_1960's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1970's General Notes.md\"> notes_1970's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1980's General Notes.md\"> notes_1980's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1990's General Notes.md\"> notes_1990's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1940's General Notes.md\"> notes_1940's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1930's General Notes.md\"> notes_1930's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1920's General Notes.md\"> notes_1920's General Notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/course_US History from 1870.md\"> course_US History from 1870 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1990's General Notes.md\"> notes_1990's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_2000's General Notes.md\"> notes_2000's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dvesha.md\"> Dvesha </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Raga.md\"> Raga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vairagya.md\"> Vairagya </a>",
@@ -11421,20 +11440,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Association Cortices.md\"> Association Cortices </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Frontal Lobe.md\"> Frontal Lobe </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Central Nervous System (CNS).md\"> Central Nervous System (CNS) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vagus Nerve.md\"> Vagus Nerve </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vagus Nerve.md\"> Vagus Nerve </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Niyama.md\"> Niyama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pranayama.md\"> Pranayama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Santosha.md\"> Santosha </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
@@ -11490,6 +11496,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_2000's General Notes.md\"> notes_2000's General Notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>",
@@ -11539,8 +11546,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>"
       ]
     },
     "40_Evergreens": {
@@ -11691,6 +11697,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
@@ -11740,8 +11747,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\"> Parents need to model the ability to deal with emotion to their children </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\"> Parents need to model the ability to deal with emotion to their children </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",

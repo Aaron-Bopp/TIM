@@ -1,13 +1,14 @@
 ---
 created: 2021-04-30
 tags: node/source/notes
-creator: null
 type:
   - class
-source: NWMSU
 ---
+**Creator**:: [[Aaron Bopp]]
+ 
+**Source**:: [[course_US History from 1870]]
 
-- [[1920's General Notes]]
+- [[notes_1920's General Notes]]
 - [[Great Deppression
     - Causes of the Great Deppression
         - [[Wealth Inequality]]- 1%  650x the income of bottom 11%
@@ -53,18 +54,5 @@ source: NWMSU
             - Wagner Act - strengthed protection for works
             - Social Security - direct aid to retired workers, left a lot of people out but set a standard of helping who could not help themselves
             - Wealth Tax Act - those who benefited from the [[economy]] needed to share it
-- [[1940's General Notes]]
-
-
----
-
-**Topics**:: 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
-
+- [[notes_1940's General Notes]]
 

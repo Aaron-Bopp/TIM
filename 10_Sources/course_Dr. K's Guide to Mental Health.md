@@ -2,7 +2,7 @@
 created: 2021-12-29 
 aliases:
   - null
-tags: node/source/stub
+tags: node/source/course
 type:
   - null 
 ---

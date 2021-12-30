@@ -4,145 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8dc6c096bf381e",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Sanskrit.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Overview of Meditation Module.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":38},\"to\":{\"line\":11,\"ch\":38}}}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}},\"scroll\":14.85}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Anxiety 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":126},\"to\":{\"line\":29,\"ch\":126}},\"scroll\":4.545454545454545}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/Classes/Comp Sci/Global Impact Assignment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Anxiety 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":21},\"to\":{\"line\":23,\"ch\":21}}}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Graph Timeline.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":37.33031674208145}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Different Meditative Styles.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":39.600748262960984}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d8dc6c096bf381e",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "97b4ca43538b335b",
+        "id": "d5825cff7950bc81",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/209 Notepad.md",
+            "file": "00_Meta/Templates/auto link text.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -152,16 +19,124 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "97b4ca43538b335b",
+              "leaf": "d5825cff7950bc81",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/auto link text.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "97b4ca43538b335b",
+              "leaf": "d5825cff7950bc81",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Atman Padha.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/anti-science.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/anti-liberalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Anorgasmia.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Annamaya Kosha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Anhedonia.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Anandamaya Kosha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Anahata Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ama.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Alprazolam.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Alexithymia.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/algorithmic content.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Alexithymia.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ajna Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ahimsa.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ahamkara.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ahimsa.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Agoraphobia.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Adrenaline.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d5825cff7950bc81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Adrenal Gland.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -195,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#node/topic/term",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -214,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "00_Meta/Templates/auto link text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -247,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "00_Meta/Templates/auto link text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -272,8 +247,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -293,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/209 Notepad.md"
+                "file": "00_Meta/Templates/auto link text.md"
               }
             },
             "pane-relief:history-v1": {
@@ -409,7 +383,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "00_Meta/Templates/auto link text.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -519,17 +493,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "97b4ca43538b335b",
+  "active": "d5825cff7950bc81",
   "lastOpenFiles": [
-    "20_Entry/209 Notepad.md",
-    "30_Topics/32_Terms/Atman Padha.md",
-    "30_Topics/32_Terms/Sanskrit.md",
-    "10_Sources/notes_Overview of Meditation Module.md",
-    "30_Topics/32_Terms/Manas Padha.md",
-    "30_Topics/32_Terms/Sukkha Padha.md",
-    "30_Topics/32_Terms/Siddhi Padha.md",
-    "30_Topics/32_Terms/Jnana Padha.md",
-    "30_Topics/31_Stubs/conscious.md",
-    "40_Evergreens/Your anxiety knows your insecurities better than you do.md"
+    "00_Meta/Templates/auto link text.md",
+    "30_Topics/32_Terms/anti-science.md",
+    "30_Topics/31_Stubs/anti-liberalism.md",
+    "30_Topics/32_Terms/Anorgasmia.md",
+    "30_Topics/32_Terms/Annamaya Kosha.md",
+    "30_Topics/32_Terms/Anhedonia.md",
+    "30_Topics/32_Terms/Anandamaya Kosha.md",
+    "30_Topics/32_Terms/Anahata Chakra.md",
+    "30_Topics/32_Terms/Ama.md",
+    "30_Topics/32_Terms/Alprazolam.md"
   ]
 }

@@ -13,6 +13,8 @@ sr-ease: 130
 [[Pasted image 20211207012526.png|What is the difference between tags and folders?]]
 ^[[Discord](https://discord.com/channels/686053708261228577/744933215063638183/916205731609473034)]
 
+#TO/EXPLORE/READ [Why Categories for Your Note Archive are a Bad Idea • Zettelkasten Method](https://zettelkasten.de/posts/no-categories/)
+[Prefer associative ontologies to hierarchical taxonomies](https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy)
 - [[heterarchy]]
 
 Tags provide flexibility, Folders force [[organization]]  
