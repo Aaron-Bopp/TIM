@@ -10,4 +10,4 @@ A herb typically advertised as a cognitive enhancer, but clinical studies (inclu
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

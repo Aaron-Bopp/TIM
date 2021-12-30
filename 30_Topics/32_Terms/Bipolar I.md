@@ -10,4 +10,4 @@ Defined by manic episodes that last at least 7 days, or by manic symptoms that a
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

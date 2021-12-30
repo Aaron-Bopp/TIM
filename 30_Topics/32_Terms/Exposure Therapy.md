@@ -10,4 +10,4 @@ A psychological treatment that was developed to help people confront their fears
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

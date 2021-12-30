@@ -10,4 +10,4 @@ Clumps of protein that can form in the brain. When they build up, they can cause
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

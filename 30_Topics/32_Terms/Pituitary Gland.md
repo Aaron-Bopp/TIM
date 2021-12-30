@@ -10,4 +10,4 @@ A small, bean-shaped gland situated at the base of your brain, somewhat behind y
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

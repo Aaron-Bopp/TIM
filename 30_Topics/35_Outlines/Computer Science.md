@@ -22,7 +22,7 @@ tags: node/topic/outline
 - [[Software Development]]
 	- Tools
 		- [[Unity (game engine)]]
-			- [[Using github with Unity projects]]
+			- [[Using GitHub with Unity projects]]
 		- [[Vim]]
 - [[programming]]
 	- Cheatsheets

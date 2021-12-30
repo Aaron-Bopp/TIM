@@ -10,4 +10,4 @@ A hybrid tradition of Yoga that focuses on attaining enlightenment by purifying 
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

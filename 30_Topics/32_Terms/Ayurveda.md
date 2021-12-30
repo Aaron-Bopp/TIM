@@ -10,4 +10,4 @@ the science (ved) of life (ayu), Is a 5000-year old traditional Indian system of
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

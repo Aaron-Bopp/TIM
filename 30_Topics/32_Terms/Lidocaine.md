@@ -10,4 +10,4 @@ Local anesthetic used for analgesia in a wide variety of superficial and invasiv
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

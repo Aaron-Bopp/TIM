@@ -10,4 +10,4 @@ Situated around the pubic bone or sacrum, it governs relationships and connectio
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

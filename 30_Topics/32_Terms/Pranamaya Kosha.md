@@ -10,4 +10,4 @@ It is the energy body, composed of "Qi" or "Prana", which is in continuous flow 
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

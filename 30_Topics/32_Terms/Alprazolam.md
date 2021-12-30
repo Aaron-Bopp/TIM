@@ -10,4 +10,4 @@ An anti-anxiety medication belonging to the class of benzodiazepine drugs which 
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,4 +10,4 @@ Societal observances; the first step in the eightfold path of Raja Yoga.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

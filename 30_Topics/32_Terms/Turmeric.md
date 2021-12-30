@@ -10,4 +10,4 @@ a plant in the ginger family that is native to Southeast Asia and is grown comme
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

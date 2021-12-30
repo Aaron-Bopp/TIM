@@ -10,4 +10,4 @@ A major branch of Buddhism that originates from the Pali canon, which is a set o
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

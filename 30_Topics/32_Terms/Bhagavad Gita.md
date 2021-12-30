@@ -10,4 +10,4 @@ An ancient text from the Hindu tradition, in which an incarnation of god, called
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

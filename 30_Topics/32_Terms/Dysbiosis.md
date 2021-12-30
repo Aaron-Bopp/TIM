@@ -10,4 +10,4 @@ A reduction in microbial diversity and a combination of the loss of beneficial b
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

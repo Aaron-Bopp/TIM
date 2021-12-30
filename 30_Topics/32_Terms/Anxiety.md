@@ -10,4 +10,4 @@ Your body's natural response to stress. It's a feeling of fear or apprehension a
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

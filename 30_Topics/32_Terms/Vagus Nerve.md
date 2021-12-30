@@ -10,4 +10,4 @@ Historically cited as the pneumogastric nerve, it is the tenth cranial nerve or 
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,4 +10,4 @@ A central term in Ayurveda, which refers to the three humors, the balance of whi
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,4 +10,4 @@ A herb native to Asia that has been used as a tonic to improve well-being and en
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,4 +10,4 @@ refer to the the particular neurotransmitters: dopamine, norepinephrine and sero
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

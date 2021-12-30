@@ -10,4 +10,4 @@ A doshic balance that has deviated from Prakruti due to environmental factors.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,4 +10,4 @@ A major branch of Buddhism which states that there are multiple Buddhas, or enli
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,5 +10,5 @@ One of four nucleoside building blocks to DNA and RNA. Adenosine and adenosine r
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

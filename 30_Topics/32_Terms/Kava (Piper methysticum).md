@@ -10,4 +10,4 @@ A herb originating in the South Pacific, Kava is purported to relieve insomnia, 
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

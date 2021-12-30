@@ -10,4 +10,4 @@ Chinese tradition of coordinated body-posture and movement, breathing, and medit
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

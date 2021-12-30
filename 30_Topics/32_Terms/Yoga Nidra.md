@@ -10,4 +10,4 @@ Translated as "Yogic Sleep", it is a technique to achieve a deep state of relaxa
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

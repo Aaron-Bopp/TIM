@@ -4609,7 +4609,7 @@ Hide Aside and hover to reveal it*/
     }
 
     /* Edit mode unordered list dash rendered as dot for WYSIWYG */
-     .theme-light span.cm-formatting-list-ul {
+     /* .theme-light span.cm-formatting-list-ul {
     visibility: hidden !important;
     padding-right: 4px;
     } 
@@ -4620,7 +4620,7 @@ Hide Aside and hover to reveal it*/
     margin-left: -15px;
     color: var(--gold1); 
     visibility: visible !important;
-    } 
+    }  */
 
 
 /*...............................................................*/
@@ -6481,7 +6481,7 @@ Hide Aside and hover to reveal it*/
 
         /* Edit mode unordered list dash rendered as dot for WYSIWYG */
         
-        .theme-dark span.cm-formatting-list-ul {
+        /* .theme-dark span.cm-formatting-list-ul {
         visibility: hidden !important;
         }
         
@@ -6495,7 +6495,7 @@ Hide Aside and hover to reveal it*/
 
         .theme-dark ul li::marker {
         color: var(--gold1);
-        }
+        } */
 
 /*...............................................................*/
 

@@ -6,8 +6,8 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The Buddhist term for enlightenment.
+The [[Buddhism|Buddhist]] term for [[enlightenment]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+**See**:: [[meditation]], [[Dhyana]], [[Samadhi]], [[Dharana]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

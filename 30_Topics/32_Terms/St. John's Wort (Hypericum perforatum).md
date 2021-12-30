@@ -10,4 +10,4 @@ A herb indigenous to Europe, West Asia, and North Africa that has been used in t
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

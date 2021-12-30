@@ -10,4 +10,4 @@ A practice that aims to cleanse a part of our self, such as the body, energy, or
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

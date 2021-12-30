@@ -8,7 +8,7 @@ sr-interval: 103
 sr-ease: 270
 ---
 
-#### [[Using github with Unity projects]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Using GitHub with Unity projects]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 1. Use [[Githubs]] [existing unity gitgnore](https://github.com/github/gitignore/blob/master/Unity.gitignore) and setup your repo like normal
 	1. [alternate](https://gist.github.com/FullStackForger/20bbf62861394b1a3de0#file-gitignore)

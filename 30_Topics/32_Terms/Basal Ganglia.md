@@ -10,4 +10,4 @@ Situated at the base of the forebrain and top of the midbrain. Basal ganglia are
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,4 +10,4 @@ Situated at our solar plexus or the middle of our upper back, it is the heart ch
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

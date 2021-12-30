@@ -10,4 +10,4 @@ Traditional Chinese medicine (TCM) is thousands of years old and has changed lit
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

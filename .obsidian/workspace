@@ -9,31 +9,91 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/48 Technology.md",
+            "file": "10_Sources/Mental Health/notes_History of Meditation.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 1,
           "stack": [
             {
               "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/46 Politics.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":34},\"to\":{\"line\":13,\"ch\":34}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":32},\"to\":{\"line\":10,\"ch\":32}}}"
             },
             {
               "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/47 Humanity.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/notes_History of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":38},\"to\":{\"line\":50,\"ch\":38}},\"scroll\":26.115383574121008}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/notes_History of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Tantra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/48 Technology.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/notes_History of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":2},\"to\":{\"line\":21,\"ch\":2}},\"scroll\":16.901760130986492}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/mindfulness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Dharana.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.45454545454545453}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/48 Technology.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -77,66 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/42 Knowledge Management.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/Topic Hierarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/St. John's Wort (Hypericum perforatum).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/St. John's Wort (Hypericum perforatum).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":45},\"to\":{\"line\":9,\"ch\":45}}}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Tiktok.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Yama.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Yantra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Yoga Nidra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -170,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/topic",
+                "query": "tag:#TO",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/48 Technology.md",
+                "file": "10_Sources/Mental Health/notes_History of Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/48 Technology.md",
+                "file": "10_Sources/Mental Health/notes_History of Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -267,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/48 Technology.md"
+                "file": "10_Sources/Mental Health/notes_History of Meditation.md"
               }
             },
             "pane-relief:history-v1": {
@@ -383,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/48 Technology.md",
+                "file": "10_Sources/Mental Health/notes_History of Meditation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -495,15 +496,15 @@
   },
   "active": "58614c8e2087b19f",
   "lastOpenFiles": [
-    "40_Evergreens/48 Technology.md",
-    "40_Evergreens/47 Humanity.md",
-    "40_Evergreens/46 Politics.md",
-    "40_Evergreens/49 Conclusions.md",
-    "30_Topics/Topic Hierarchy.md",
-    "40_Evergreens/41 Inbox.md",
-    "40_Evergreens/42 Knowledge Management.md",
-    "30_Topics/32_Terms/St. John's Wort (Hypericum perforatum).md",
-    "30_Topics/32_Terms/Tiktok.md",
-    "30_Topics/32_Terms/Yama.md"
+    "10_Sources/Mental Health/notes_History of Meditation.md",
+    "30_Topics/32_Terms/Chakra.md",
+    "30_Topics/32_Terms/Yantra.md",
+    "30_Topics/32_Terms/Mantra.md",
+    "30_Topics/32_Terms/Vajrayana Buddhism.md",
+    "30_Topics/32_Terms/Jnana Yoga.md",
+    "30_Topics/31_Stubs/notes_History of Meditation.md",
+    "30_Topics/32_Terms/Tantra.md",
+    "30_Topics/32_Terms/Yajna.md",
+    "30_Topics/31_Stubs/spirituality.md"
   ]
 }

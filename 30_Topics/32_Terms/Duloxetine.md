@@ -10,4 +10,4 @@ A drug that works by dual serotonin and norepinephrine reuptake inhibition (SNRI
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

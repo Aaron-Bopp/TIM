@@ -10,4 +10,4 @@ Also known as Indian ginseng, ashwagandha is an herb known for its stress reliev
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

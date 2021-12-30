@@ -6,8 +6,8 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-A no-mind meditative state that typically follows dharana.
+A no-mind meditative state that typically follows [[dharana]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+**See**:: [[meditation]], [[Dharana]], [[Samadhi]], [[Moksha]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

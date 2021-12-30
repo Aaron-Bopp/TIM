@@ -12,7 +12,7 @@ tags: node/topic, node/topic/tool
 
 ##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-- [[Using github with Unity projects]]
+- [[Using GitHub with Unity projects]]
 
 ### <hr class="dataviews"/>
 

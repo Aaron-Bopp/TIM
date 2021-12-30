@@ -104,9 +104,10 @@ a:hover {
     color: var(--gold1); 
     padding-top: 4px;
 }
-.theme-light span.cm-formatting-list-ul:after {
+ /* span.cm-formatting-list-ul:after {
     visibility: hidden !important;
-}
+    margin-left:0px !important;
+} */
 
 /* Fix paragraph padding */
 .cm-s-obsidian P, 

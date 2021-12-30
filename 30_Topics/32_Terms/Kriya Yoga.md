@@ -10,4 +10,4 @@ A relatively modern distillation of Yoga, it is a system of attaining enlightenm
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

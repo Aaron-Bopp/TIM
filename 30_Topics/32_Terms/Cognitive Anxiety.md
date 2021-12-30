@@ -10,4 +10,4 @@ Broadly defined as “negative expectations, worries, and concerns about oneself
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

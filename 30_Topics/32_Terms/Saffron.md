@@ -10,4 +10,4 @@ a herb used both as a spice for food and in Eastern medicine for centuries for v
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

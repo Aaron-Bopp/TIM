@@ -10,4 +10,4 @@ Fundamental system which plays a role in regulating arousal and sleep−wake tra
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

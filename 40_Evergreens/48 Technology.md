@@ -14,4 +14,4 @@
 	- [[Operating Systems]]
 		- [[Monolithic vs Micro Kernels]]
 		- [[Using multiple processes vs multiple threads]]
-	- [[Using github with Unity projects]]
+	- [[Using GitHub with Unity projects]]

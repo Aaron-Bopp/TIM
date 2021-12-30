@@ -6,8 +6,8 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-It is a temporary state of enlightenment, where you experience your true self.
+It is a temporary state of [[enlightenment]], where you experience your true [[self]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+**See**:: [[meditation]], [[Dhyana]], [[Dharana]], [[Moksha]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

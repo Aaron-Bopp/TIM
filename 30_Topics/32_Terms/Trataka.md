@@ -10,4 +10,4 @@ Also known as fixed-point gazing, it is a shuddhi technique, typically practiced
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

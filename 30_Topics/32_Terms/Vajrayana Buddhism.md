@@ -10,4 +10,4 @@ A branch of Buddhism that included Tantric teachings, which had been deemphasize
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

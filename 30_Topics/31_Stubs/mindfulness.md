@@ -7,7 +7,7 @@ tags: node/topic/stub
 Mindfulness is the practice of purposely bringing one's attention to experiences occurring in the present moment without [[judgement|judgment]]. [^1]
 
 
-**See**:: [[mental health]]
+**See**:: [[mental health]], [[meditation]]
 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

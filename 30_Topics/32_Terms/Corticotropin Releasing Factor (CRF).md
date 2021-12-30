@@ -10,4 +10,4 @@ It is a releasing hormone, its main function is the stimulation of the pituitary
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

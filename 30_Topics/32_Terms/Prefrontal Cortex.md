@@ -10,4 +10,4 @@ A part of the brain located at the front of the frontal lobe. It is implicated i
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
