@@ -821,3 +821,69 @@ why would you want to imitate your child playing kitchen when you have your own?
 #### 10. WHY THE STATE HAS NO ORIGIN
 #### 11. FULL CIRCLE
 #### 12. CONCLUSION
+# New highlights added December 30, 2021 at 5:20 PM
+##### ^264301406
+
+  
+%%
+highlight_tags:: [[marginalized]]
+%%###### ^264301406q
+> this habit of thought is very convenient for students of Western literature, themselves trained in Cicero and Erasmus, who might otherwise be forced to actually try to learn something about what indigenous people thought about the world, and above all what they made of Europeans. 
+  [^264301406]
+
+[^264301406]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=792
+
+##### ^264301407
+
+  
+%%
+highlight_tags:: [[orange]]
+%%###### ^264301407q
+> We will argue that indigenous Americans did indeed develop a very strong critical view of their invaders’ institutions: a view which focused first on these institutions’ lack of freedom, and only later, as they became more familiar with European social arrangements, on equality. 
+  [^264301407]
+
+[^264301407]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=797
+
+##### ^264301408
+
+  
+%%
+highlight_tags:: [[orange]]
+%%###### ^264301408q
+> We will suggest that there is a reason why so many key Enlightenment thinkers insisted that their ideals of individual liberty and political equality were inspired by Native American sources and examples. Because it was true. 
+  [^264301408]
+
+[^264301408]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=802
+
+#### IN WHICH WE CONSIDER WHAT THE INHABITANTS OF NEW FRANCE MADE OF THEIR EUROPEAN INVADERS, ESPECIALLY IN MATTERS OF GENEROSITY, SOCIABILITY, MATERIAL WEALTH, CRIME, PUNISHMENT AND LIBERTY
+##### ^264337837
+
+  
+###### ^264337837q
+> The ‘Age of Reason’ was an age of debate. The Enlightenment was rooted in conversation; 
+  [^264337837]
+
+[^264337837]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=807
+
+##### ^264337838
+
+  
+%%
+highlight_tags:: [[dialogue]]
+%%###### ^264337838q
+> Many classic Enlightenment texts took the form of dialogues; 
+  [^264337838]
+
+[^264337838]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=808
+
+##### ^264301410
+
+  
+%%
+highlight_tags:: [[gender]]
+%%###### ^264301410q
+> bourgeois women may have especially appreciated the Jesuit Relations because it allowed them to read about discussions of women’s sexual freedom in a form that was entirely acceptable to the Church. 
+  [^264301410]
+
+[^264301410]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10346
+

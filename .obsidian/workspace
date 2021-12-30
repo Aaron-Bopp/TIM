@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/32_Terms/Adenosine.md",
+            "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,68 @@
             {
               "leaf": "2cfdd70fe6cc2838",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcast_Unteachable Moment_This American Life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/podcastINVCEL.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Psychology of Race and Gender notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/videos_Linear algebra_3Blue1Brown.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/videoSocial Constructs Philosophy Tube.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/videoTransComingOutStory.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Worksheet 4.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Adenosine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "2cfdd70fe6cc2838",
@@ -87,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/32_Terms/Adenosine.md",
+                "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -120,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/32_Terms/Adenosine.md",
+                "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/32_Terms/Adenosine.md"
+                "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md"
               }
             },
             "pane-relief:history-v1": {
@@ -282,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/32_Terms/Adenosine.md",
+                "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -393,15 +453,15 @@
   },
   "active": "2cfdd70fe6cc2838",
   "lastOpenFiles": [
-    "30_Topics/32_Terms/Adenosine.md",
-    "40_Evergreens/46 Politics.md",
-    "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
-    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
-    "40_Evergreens/We are confined to the tools of our time.md",
-    "30_Topics/34_People/@visakanv on Twitter.md",
-    "30_Topics/33_Tools/Dataview.md",
-    "00_Meta/Personal/Nathan Eloe.md",
-    "30_Topics/34_People/Andy Matuschak.md",
-    "20_Entry/209 Notepad.md"
+    "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
+    "10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md",
+    "10_Sources/podcast_Unteachable Moment_This American Life.md",
+    "10_Sources/podcastINVCEL.md",
+    "10_Sources/Psychology of Race and Gender notes.md",
+    "10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md",
+    "10_Sources/videos_Linear algebra_3Blue1Brown.md",
+    "10_Sources/videoSocial Constructs Philosophy Tube.md",
+    "10_Sources/videoTransComingOutStory.md",
+    "10_Sources/Worksheet 4.md"
   ]
 }

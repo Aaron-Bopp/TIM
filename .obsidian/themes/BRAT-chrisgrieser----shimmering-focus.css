@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.512
+Version 1.518
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -220,7 +220,7 @@ the .create-ToC.sh.
 
 .theme-light {
 	--editor-alt-accent: var(--alt-accent-darker);
-	--selection-color: hsl(259 100% 93% / 86.7%);
+	--selection-color: hsl(259 80% 93% / 99%);
 	--extra-contrast: hsl(0 0% 36%);
 	--text-muted: hsl(0 0% 53%);
 	--text-faint: hsl(0 0% 60%);
@@ -243,7 +243,7 @@ the .create-ToC.sh.
 
 .theme-dark {
 	--editor-alt-accent: var(--alt-accent);
-	--selection-color: hsl(302 24% 21% / 73%);
+	--selection-color: hsl(302 24% 17% / 99%);
 	--extra-contrast: hsl(0 0% 68%);
 	--text-muted: hsl(0 0% 58%);
 	--text-faint: hsl(0 0% 40%);
@@ -1223,7 +1223,7 @@ body.angular-shapes {
 << Cursor
 ─────────────────────────────────────────────────── */
 
-.cm-s-obsidian .cm-cursor,
+.cm-cursorLayer .cm-cursor,
 .CodeMirror-cursor {
 	/* needs the "1" at the end:  https://www.digitalocean.com/community/tutorials/css-gradient-borders-pure-css */
 	border-image: linear-gradient(var(--cursor-duo-color-1), var(--cursor-duo-color-2)) 1;
@@ -1240,6 +1240,11 @@ body.block-cursor .cm-s-obsidian .cm-cursor,
 body.block-cursor .CodeMirror-cursor {
 	opacity: 0.5;
 	border-left-width: 0.6em;
+}
+
+/* multi cursor */
+body:not(.mono-color-cursor) .cm-cursor.cm-cursor-secondary {
+	border-image: linear-gradient(hsl(220 100% 80%), hsl(40 100% 80%)) 1;
 }
 
 /* ───────────────────────────────────────────────────
@@ -1776,11 +1781,11 @@ p.mod-warning::BEFORE {
 	margin-left: 5px;
 }
 
-body:not(.normal-checkboxes) .checkbox-container::AFTER {
+.checkbox-container::AFTER {
 	display: none;
 }
 
-body:not(.normal-checkboxes) .checkbox-container {
+.checkbox-container {
 	height: 22px;
 	width: 22px;
 
@@ -1799,17 +1804,17 @@ body.angular-shapes .checkbox-container {
 }
 
 /* colors */
-body:not(.normal-checkboxes) .checkbox-container.is-enabled {
+.checkbox-container.is-enabled {
 	background-color: var(--interactive-bg);
 	border-color: var(--interactive-border);
 }
 
-body:not(.normal-checkboxes) .checkbox-container:hover {
+.checkbox-container:hover {
 	transition: var(--medium-transition);
 	border: 9px solid var(--interactive-hover-border);
 }
 
-body:not(.normal-checkboxes) .checkbox-container.is-enabled:hover {
+.checkbox-container.is-enabled:hover {
 	background-color: var(--bg2);
 	border-color: var(--interactive-hover-border);
 }
@@ -2537,11 +2542,6 @@ body .workspace-leaf-resize-handle:active {
 .modal-content h5 { font-size: var(--h5-size); }
 .modal-content h6 { font-size: var(--h6-size); }
 
-.modal-content li {
-	font-size: 1.1em;
-	line-height: 1.5em;
-}
-
 .modal-content {
 	margin-top: 0;
 }
@@ -2721,7 +2721,7 @@ body .workspace-leaf-resize-handle:active {
 }
 
 .vertical-tab-header-group:nth-child(2) .vertical-tab-header-group-title {
-	border-top: var(--thin-border);
+	border-top: var(--basic-border);
 }
 
 .vertical-tab-nav-item {
@@ -2894,6 +2894,10 @@ body .workspace-leaf-resize-handle:active {
 	border-top-left-radius: calc(var(--roundish) * 2.5);
 }
 
+.community-plugin-search > .setting-item:first-child {
+	padding-bottom: 0;
+}
+
 .community-plugin-search,
 .community-plugin-search-results {
 	border-bottom-left-radius: calc(var(--roundish) * 2.5);
@@ -2919,17 +2923,32 @@ body .workspace-leaf-resize-handle:active {
 	line-height: 1.2em;
 }
 
-.community-plugin-search-summary.u-muted {
-	padding-right: 5px;
-	padding-bottom: 2px;
+.community-plugin-search-summary {
+	padding: 3px 2px;
 
 	border-bottom: var(--thick-border);
 
-	font-family: var(--smallcap-font);
-	font-size: 1em;
+	font-size: 0.8em;
 	font-weight: 600;
 	text-transform: capitalize;
 	text-align: end;
+}
+
+/* hide the ":" since it looks ugly with right-aligned text */
+.community-plugin-search-summary::AFTER {
+	content: "  ";
+	background-color: var(--bg3);
+	margin-left: -4px;
+	white-space: pre-wrap;
+}
+
+/* hide the "showing" */
+.community-plugin-search-summary::BEFORE {
+	content: "                            ";
+	position: relative;
+	right: -4.3em;
+	background-color: var(--bg3);
+	white-space: pre-wrap;
 }
 
 .community-plugin-downloads::BEFORE,
@@ -2954,10 +2973,10 @@ body .workspace-leaf-resize-handle:active {
 .community-plugin-search-results .community-plugin-author {
 	display: inline-block;
 
-	color: var(--extra-contrast);
-	opacity: 0.8;
+	color: var(--text-faint);
 
-	margin-top: 3px;
+	margin-top: 5px;
+	margin-left: 3px;
 
 	font-family: var(--smallcap-font);
 	font-size: 0.85em;
@@ -3005,10 +3024,9 @@ body .workspace-leaf-resize-handle:active {
 
 /* installation icon */
 .flair.mod-pop {
-	top: 3px;
+	top: 0;
 	background: none;
 	font-size: 0;
-	line-height: 1;
 }
 
 .community-plugin-search .flair.mod-pop {
@@ -3028,7 +3046,7 @@ body .workspace-leaf-resize-handle:active {
 
 	font-family: "Inter";
 	font-size: 0.75rem;
-	line-height: 0.8;
+	line-height: 0.8em;
 }
 
 .community-plugin-info .community-plugin-name .flair.mod-pop::BEFORE {
@@ -3047,7 +3065,8 @@ body .workspace-leaf-resize-handle:active {
 }
 
 .community-plugin-downloads::BEFORE {
-	content: "↓";
+	content: "download";
+	font-family: var(--icon-font) !important;
 	vertical-align: top;
 }
 
@@ -3065,7 +3084,8 @@ body .workspace-leaf-resize-handle:active {
 ─────────────────────────────────────────────────── */
 
 .community-plugin-info {
-	padding: 10px 5px 10px 15px;
+	/* 50px for overscroll */
+	padding: 0 5px 50px 15px;
 	font-family: var(--default-font);
 }
 
@@ -3077,20 +3097,39 @@ body .workspace-leaf-resize-handle:active {
 }
 
 .community-plugin-info .community-plugin-name {
-	padding-bottom: 5px;
-	margin-bottom: 12px;
+	background-color: var(--bg2);
 
-	border-bottom: var(--thick-muted-border);
+	padding: 6px;
+	margin-right: -5px;
+	margin-left: -15px;
 
 	font-family: var(--heading-font);
 	font-size: calc(var(--h1-size) * 1.2);
 	font-weight: 700;
 	letter-spacing: var(--heading-letter-spacing);
+	text-align: end;
 }
 
-.community-plugin-info .community-plugin-downloads::BEFORE,
+/* repository link */
+.community-plugin-author + .community-plugin-author a {
+	font-size: 0;
+	text-decoration: none;
+}
+
+.community-plugin-author + .community-plugin-author a::BEFORE {
+	content: "launchdns";
+	position: relative;
+	bottom: -3.5px;
+	font-family: var(--icon-font);
+	font-size: 1rem;
+}
+
+.community-plugin-details .community-plugin-info .community-plugin-downloads::BEFORE {
+	font-size: 1em;
+	line-height: 1.4em;
+}
+
 .community-plugin-info .community-plugin-downloads {
-	margin-top: 0;
 	font-size: 1.2em;
 	line-height: 1.2em;
 }
@@ -3137,25 +3176,24 @@ body .workspace-leaf-resize-handle:active {
 /* copy URL button  */
 .modal.mod-community-plugin .community-plugin-info button:last-child {
 	height: 2.09rem;
-	background-color: var(--bg3);
-	padding: 0 3px 0 2px;
+	background-color: var(--bg2);
+	padding: 1px 3px 0 2px;
 	font-size: 0;
+}
+
+.angular-shapes .modal.mod-community-plugin .community-plugin-info button:last-child {
+	padding-top: 0;
 }
 
 .modal.modal.mod-community-plugin .community-plugin-info button:last-child::BEFORE {
 	content: "link";
+
 	position: relative;
+	top: 5px;
 	left: 5px;
+
 	font-family: var(--icon-font);
 	font-size: 1.25rem;
-}
-
-.angular-shapes .modal.modal.mod-community-plugin .community-plugin-info button:last-child {
-	top: 2px;
-}
-
-.angular-shapes .modal.modal.mod-community-plugin .community-plugin-info button:last-child::BEFORE {
-	top: 5px;
 }
 
 /* headings */
@@ -4439,6 +4477,10 @@ body {
 .cm-s-obsidian .cm-formatting-code.cm-inline-code,
 .cm-s-obsidian span.cm-inline-code {
 	color: var(--code-color);
+}
+
+.markdown-preview-view *:not(pre) > code {
+	border-radius: var(--slight-code-roundish);
 }
 
 .app-container .markdown-source-view .cm-contentContainer .cm-line .cm-inline-code:not(.cm-formatting-code),
@@ -8513,8 +8555,8 @@ settings:
 	 default: false
 	-
 	 id: preset-color-scheme
-	 title: "Preset Color Schemes"
-	 description: 'New Color Scheme: Nord ❄️. Selecting a preset color scheme other than "Custom Colors" overrides any Brightness, Color Tone, and Color Intensity settings. (More color schemes coming in the future!)'
+	 title: "Color Schemes"
+	 description: 'New Color Scheme: Nord ❄️. Selecting a color scheme other than "Custom Colors" overrides any Brightness, Color Tone, and Color Intensity settings. (More color schemes coming in the future!)'
 	 type: class-select
 	 allowEmpty: false
 	 default: classic-colors
@@ -8596,12 +8638,6 @@ settings:
 	 id: mono-color-cursor
 	 title: Mono-colored Cursor
 	 description: Use a mono-colored, purple cursor.
-	 type: class-toggle
-	 default: false
-	-
-	 id: normal-checkboxes
-	 title: "Menus: Normal Checkboxes"
-	 description: Use the checkboxes from the default theme.
 	 type: class-toggle
 	 default: false
 	-
