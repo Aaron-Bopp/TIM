@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Healthy Gamer.md",
+            "file": "30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,26 @@
             {
               "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Healthy Gamer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/Untitled.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":11,\"ch\":42}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/TERM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":157.39472994546801}"
             },
             {
               "leaf": "58614c8e2087b19f",
@@ -33,7 +51,7 @@
             {
               "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Healthy Gamer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
@@ -119,24 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":17.478873427201304}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":6.464285960611036}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":9.678571729635712}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":57},\"to\":{\"line\":23,\"ch\":57}},\"scroll\":6.071428674824386}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Healthy Gamer.md",
+                "file": "30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Healthy Gamer.md",
+                "file": "30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Healthy Gamer.md"
+                "file": "30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md"
               }
             },
             "pane-relief:history-v1": {
@@ -371,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Healthy Gamer.md",
+                "file": "30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -478,19 +478,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706
+    "width": 706,
+    "collapsed": true
   },
   "active": "58614c8e2087b19f",
   "lastOpenFiles": [
-    "10_Sources/Healthy Gamer.md",
+    "30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md",
+    "00_Meta/Templates/Untitled.md",
+    "00_Meta/Templates/TERM.md",
     "30_Topics/32_Terms/testing.md",
     "30_Topics/32_Terms/Adrenal Gland.md",
     "30_Topics/32_Terms/Adenosine.md",
     "30_Topics/32_Terms/Acetycholine.md",
-    "00_Meta/Templates/TERM.md",
     "10_Sources/notes_Dr. K's Guide Meditation Module.md",
     "30_Topics/34_People/Dr. K.md",
-    "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
-    "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md"
+    "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md"
   ]
 }

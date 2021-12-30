@@ -9775,7 +9775,7 @@
       "tags": 1,
       "links": 3
     },
-    "10_Sources/Healthy Gamer.md": {
+    "30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md": {
       "size": 36985,
       "tags": 0,
       "links": 0
@@ -9783,8 +9783,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2087,
-      "Create": 2433,
+      "Refactor": 2090,
+      "Create": 2434,
       "Link": 4321,
       "Expand": 460
     },
@@ -9815,7 +9815,7 @@
       "15": 140,
       "16": 904,
       "17": 1595,
-      "18": 227,
+      "18": 231,
       "19": 231,
       "20": 183,
       "21": 708,
@@ -9853,7 +9853,7 @@
     "/": {
       "Mon": 313,
       "Tue": 1610,
-      "Wed": 1584,
+      "Wed": 1588,
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
@@ -9925,6 +9925,7 @@
         "<a class=\"internal-link\" href=\"Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenal Gland.md\"> Adrenal Gland </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adenosine.md\"> Adenosine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Acetycholine.md\"> Acetycholine </a>",
@@ -9974,10 +9975,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/shame.md\"> shame </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sexism.md\"> sexism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-worth.md\"> self-worth </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-enhancement.md\"> self-enhancement </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/selfless.md\"> selfless </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-enhancement.md\"> self-enhancement </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Healthy Gamer.md\"> Healthy Gamer </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Dr. K.md\"> Dr. K </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender non-conformity.md\"> gender non-conformity </a>",
@@ -10026,9 +10028,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inherently political.md\"> black identity is inherently political </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not disallow judgment.md\"> Empathy does not disallow judgment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgemental and outwardly accepting home creates trust issues.md\"> A inwardly judgemental and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgemental and outwardly accepting home creates trust issues.md\"> A inwardly judgemental and outwardly accepting home creates trust issues </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"10_Sources/notes_Dr. K's Guide Meditation Module.md\"> notes_Dr. K's Guide Meditation Module </a>",
@@ -10120,6 +10120,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/testing.md\"> testing </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenal Gland.md\"> Adrenal Gland </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adenosine.md\"> Adenosine </a>",
@@ -10169,8 +10170,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/scaffolding.md\"> scaffolding </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/savior complex.md\"> savior complex </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sadness.md\"> sadness </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rich text formatting.md\"> rich text formatting </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Revolution.md\"> Revolution </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/rich text formatting.md\"> rich text formatting </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"10_Sources/notes_Dr. K's Guide Meditation Module.md\"> notes_Dr. K's Guide Meditation Module </a>",
