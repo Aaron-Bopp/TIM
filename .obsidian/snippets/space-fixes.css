@@ -67,14 +67,17 @@ a:hover {
     visibility: hidden !important;
 }
 
-.theme-dark span.list-bullet:after {
-content: '★'; 
-font-size: 14px;
-margin-left: -15px;
-margin-right: 0px;
-color: var(--gold1); 
-visibility: visible !important;
+.mod-cm6 .HyperMD-list-line .list-bullet::after,
+.mod-cm6 span.list-bullet::after {
+    content: '★'; 
+    font-size: 11px;
+    color: var(--gold1); 
+    visibility: visible;
+    position: absolute;
+    top: 4px;
+    left: -2px;
 }
+
 /* Fix paragraph padding */
 .cm-s-obsidian P, 
 .markdown-preview-view p {

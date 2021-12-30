@@ -9741,9 +9741,9 @@
       "links": 0
     },
     "30_Topics/32_Terms/Adrenaline.md": {
-      "size": 370,
+      "size": 549,
       "tags": 1,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Agoraphobia.md": {
       "size": 403,
@@ -9987,11 +9987,6 @@
     },
     "30_Topics/32_Terms/Clinical Depression.md": {
       "size": 379,
-      "tags": 1,
-      "links": 1
-    },
-    "30_Topics/32_Terms/CO2.md": {
-      "size": 239,
       "tags": 1,
       "links": 1
     },
@@ -10825,33 +10820,38 @@
       "tags": 1,
       "links": 1
     },
-    "30_Topics/32_Terms/Derealization.md": {
-      "size": 381,
+    "30_Topics/32_Terms/derealization.md": {
+      "size": 393,
       "tags": 1,
       "links": 1
     },
-    "30_Topics/32_Terms/Karma.md": {
-      "size": 248,
+    "30_Topics/32_Terms/karma.md": {
+      "size": 383,
+      "tags": 1,
+      "links": 2
+    },
+    "30_Topics/32_Terms/neuroticism.md": {
+      "size": 433,
       "tags": 1,
       "links": 1
     },
-    "30_Topics/32_Terms/Neuroticism.md": {
-      "size": 278,
+    "30_Topics/32_Terms/yoga.md": {
+      "size": 383,
       "tags": 1,
       "links": 1
     },
-    "30_Topics/32_Terms/Yoga.md": {
-      "size": 384,
-      "tags": 1,
-      "links": 1
+    "30_Topics/Topic Hierarchy.md": {
+      "size": 11798,
+      "tags": 0,
+      "links": 588
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2648,
-      "Create": 3197,
-      "Link": 4918,
-      "Expand": 485
+      "Refactor": 2653,
+      "Create": 3202,
+      "Link": 4928,
+      "Expand": 487
     },
     "40_Evergreens": {
       "Refactor": 186,
@@ -10881,7 +10881,7 @@
       "16": 904,
       "17": 1595,
       "18": 2174,
-      "19": 231,
+      "19": 253,
       "20": 183,
       "21": 708,
       "22": 521,
@@ -10918,7 +10918,7 @@
     "/": {
       "Mon": 313,
       "Tue": 1610,
-      "Wed": 3531,
+      "Wed": 3553,
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
@@ -10937,6 +10937,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>",
         "<a class=\"internal-link\" href=\"Acetycholine.md\"> Acetycholine </a>",
         "<a class=\"internal-link\" href=\"Adenosine.md\"> Adenosine </a>",
         "<a class=\"internal-link\" href=\"Amygdala.md\"> Amygdala </a>",
@@ -10985,11 +10987,14 @@
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/yoga.md\"> yoga </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/neuroticism.md\"> neuroticism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/karma.md\"> karma </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/derealization.md\"> derealization </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yoga.md\"> Yoga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Neuroticism.md\"> Neuroticism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Karma.md\"> Karma </a>",
@@ -11035,12 +11040,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Serotonin Reuptake Inhibitor (SRI).md\"> Serotonin Reuptake Inhibitor (SRI) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Serotonin Norepinephrine Reuptake Inhibitor (SNRI).md\"> Serotonin Norepinephrine Reuptake Inhibitor (SNRI) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Separation Anxiety Disorder.md\"> Separation Anxiety Disorder </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Selective Serotonin Reuptake Inhibitor (SSRI).md\"> Selective Serotonin Reuptake Inhibitor (SSRI) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Scrutiny.md\"> Scrutiny </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Satya.md\"> Satya </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Santosha.md\"> Santosha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sanskrit.md\"> Sanskrit </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sannyasa Ashram.md\"> Sannyasa Ashram </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Selective Serotonin Reuptake Inhibitor (SSRI).md\"> Selective Serotonin Reuptake Inhibitor (SSRI) </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
@@ -11096,6 +11096,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/black identity is inseparable from other identities.md\"> black identity is inseparable from other identities </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/derealization.md\"> derealization </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/karma.md\"> karma </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/neuroticism.md\"> neuroticism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/yoga.md\"> yoga </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zen.md\"> Zen </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Acetycholine.md\"> Acetycholine </a>",
@@ -11142,11 +11146,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Caffeine.md\"> Caffeine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Central Nervous System (CNS).md\"> Central Nervous System (CNS) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Chamomile (Matricaria recutita).md\"> Chamomile (Matricaria recutita) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Citta.md\"> Citta </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CO2.md\"> CO2 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cognitive Anxiety.md\"> Cognitive Anxiety </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cognitive Behavioral Therapy (CBT).md\"> Cognitive Behavioral Therapy (CBT) </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Citta.md\"> Citta </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -11186,6 +11186,11 @@
         "<a class=\"internal-link\" href=\"course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CO2.md\"> CO2 </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yoga.md\"> Yoga </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Neuroticism.md\"> Neuroticism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Karma.md\"> Karma </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Derealization.md\"> Derealization </a>",
         "<a class=\"internal-link\" href=\"Yoga.md\"> Yoga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/yoga.md\"> yoga </a>",
         "<a class=\"internal-link\" href=\"Samskara.md\"> Samskara </a>",
@@ -11231,14 +11236,15 @@
         "<a class=\"internal-link\" href=\"Sukkha Padha.md\"> Sukkha Padha </a>",
         "<a class=\"internal-link\" href=\"St. John's Wort (Hypericum perforatum).md\"> St. John's Wort (Hypericum perforatum) </a>",
         "<a class=\"internal-link\" href=\"Social Anxiety Disorder (SAD).md\"> Social Anxiety Disorder (SAD) </a>",
-        "<a class=\"internal-link\" href=\"Siddhi Padha.md\"> Siddhi Padha </a>",
-        "<a class=\"internal-link\" href=\"Shuddhi.md\"> Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"Shuddha.md\"> Shuddha </a>",
-        "<a class=\"internal-link\" href=\"Serotonin.md\"> Serotonin </a>",
-        "<a class=\"internal-link\" href=\"Serotonin Syndrome.md\"> Serotonin Syndrome </a>",
-        "<a class=\"internal-link\" href=\"Serotonin Reuptake Inhibitor (SRI).md\"> Serotonin Reuptake Inhibitor (SRI) </a>"
+        "<a class=\"internal-link\" href=\"Siddhi Padha.md\"> Siddhi Padha </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/derealization.md\"> derealization </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/karma.md\"> karma </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/neuroticism.md\"> neuroticism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/yoga.md\"> yoga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zen.md\"> Zen </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Acetycholine.md\"> Acetycholine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adenosine.md\"> Adenosine </a>",
@@ -11283,13 +11289,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bupropion.md\"> Bupropion </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Caffeine.md\"> Caffeine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Central Nervous System (CNS).md\"> Central Nervous System (CNS) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Chamomile (Matricaria recutita).md\"> Chamomile (Matricaria recutita) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Citta.md\"> Citta </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CO2.md\"> CO2 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cognitive Anxiety.md\"> Cognitive Anxiety </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cognitive Behavioral Therapy (CBT).md\"> Cognitive Behavioral Therapy (CBT) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Complementary and Alternative Medicine (CAM).md\"> Complementary and Alternative Medicine (CAM) </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Chamomile (Matricaria recutita).md\"> Chamomile (Matricaria recutita) </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
