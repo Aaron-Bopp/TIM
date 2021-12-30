@@ -6,8 +6,8 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The Sanskrit word for duty or responsibility.
+The [[Sanskrit]] word for [[duty]] or [[responsibility]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[eastern philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

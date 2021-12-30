@@ -9,7 +9,11 @@ type:
 source: https://www.youtube.com/watch?v=mIHEtK3WktE
 
 ---
+**Creator**:: [[Dr. K]]
+ 
+**Source**::
 
+**Related**:: 
 ### [Destiny Interviews Dr. K](https://www.youtube.com/watch?v=mIHEtK3WktE)
 
 - Dr.K's understanding of [[karma|Kharma]] is that every effect has a cause going back to the beginning of the universe.

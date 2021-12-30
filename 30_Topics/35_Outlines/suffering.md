@@ -7,7 +7,7 @@ tags: node/topic/outline
 
 the state of undergoing pain, distress, or hardship.
 
-**See**:: [[Buddhism]]
+**See**:: [[Buddhism]], [[Dukkha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[suffering]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

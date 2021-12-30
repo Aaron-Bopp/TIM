@@ -10,6 +10,11 @@ source: https://www.youtube.com/watch?v=UUC8qF5iDag
 
 ---
 
+**Creator**:: [[Dr. K]]
+ 
+**Source**::
+
+**Related**:: 
 ### [Existential Dread](https://www.youtube.com/watch?v=UUC8qF5iDag)
 - [[Neuroscience]]
 

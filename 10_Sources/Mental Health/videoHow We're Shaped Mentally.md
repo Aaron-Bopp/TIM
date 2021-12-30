@@ -6,12 +6,14 @@ type:
 - youtube
 - video
 - interview
-source: https://www.youtube.com/watch?v=PDTPg_qKvn8
-
 ---
 
 ### [How We're Shaped Mentally](https://www.youtube.com/watch?v=PDTPg_qKvn8)
+**Creator**:: [[Dr. K]]
+ 
+**Source**:: [Becoming a Psychiatrist, Nihachu? How We're Shaped Mentally | Dr. K Interviews - YouTube](https://www.youtube.com/watch?v=PDTPg_qKvn8)
 
+**Related**:: 
 - Nihachu's mother had problems with addiction
 - very shy, insecure, quiet growing up
 - Streaming helped growing and understanding things that were confusing as a kid

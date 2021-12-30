@@ -20,11 +20,11 @@ Being able to do this requires a very healthy amount of [[mindfulness]], and a l
 ^[[[Anxiety should be a tool at your disposal not an impedance to your life]]]
 [[Self-hatred is born out of dissonance between self-image and self-perception]]
 
-[[Anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but our [[subconscious]] does not know that. In turn, [[We value our biggest insecurities because they protect us from the biggest threats]]
+[[anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but our [[subconscious]] does not know that. In turn, [[We value our biggest insecurities because they protect us from the biggest threats]]
 
 The reason this happens is rooted in [[Neuroscience]]. 
 ^[[[Humans are a product of evolution]]]
-[[Anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]].
+[[anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]].
 As we satisfy more and more of the [[Hierarchy of needs]] our need for such an advanced warning system grows less and less.
 ^[[[Your anxiety knows your insecurities better than you do#Cause material insecurity]]]
 In modern society, our [[anxiety]] can seem like a irrational response, but it is just our brain doing what is has evolved to do. 

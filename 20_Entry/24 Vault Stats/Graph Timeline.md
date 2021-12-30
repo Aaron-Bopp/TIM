@@ -35,3 +35,6 @@
 ![[20211206.png]]
 ### No sleep, only graph
 ![[20211212.png]]
+
+### Building knowledge
+![[20211230.PNG]]

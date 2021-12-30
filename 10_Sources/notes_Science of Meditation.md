@@ -23,7 +23,7 @@ type:
 			- [[Cortisol]] affects [[adrenal]] glands
 		- 20 minutes is what is needed to turn off [[Hypothalamic Pituitary Adrenal (HPA) Axis]]
 	- A [[hormone]] is a body wide affect
-		- [[Cortisol]] gets your entire body ready for a stressful environment 
+		- [[Cortisol]] gets your entire body ready for a stressful environment  ^574aea
 			- [[Our brains are built around survival]] [[Cortisol]] is what helps us keep us alive
 		- [[Cortisol]] will make [[ADHD]] worse [[ADHD is not a lack of attention it is a misplacement of attention]]
 		- [[Cortisol]] also affects our [[immune system]] (it wants to get ready to heal)
@@ -51,7 +51,7 @@ type:
 - As you meditate, your [[Frontal Lobe|Frontal Lobes]] gain control over your [[Limbic System]] to help you control and regulate your [[emotions]]
 - [[Meditation helps us develop empathy]]
 	- there is cursory evidence for this
-#### [[Meditation helps us detach ]]
+#### [[Meditation helps us detach negative attachments]]
 - [[Association Cortices]] attach meaning to certain events
 	- as we meditate we separate out from our [[Association Cortices]]
 

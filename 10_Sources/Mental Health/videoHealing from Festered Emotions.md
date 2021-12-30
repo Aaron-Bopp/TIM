@@ -6,9 +6,12 @@ type:
   - youtube
   - video
   - interview
-source: https://www.youtube.com/watch?v=sXGhT4pJcj8
 ---
+**Creator**:: [[Dr. K]]
+ 
+**Source**:: [Healing from Festered Emotions ft. CrankGameplays (co-creator of Unus Annus) - YouTube](https://www.youtube.com/watch?v=sXGhT4pJcj8) 
 
+**Related**:: 
 ### [Healing from Festered Emotions](https://www.youtube.com/watch?v=sXGhT4pJcj8)
 
 - There is the emotional mind, the intellectual mind and the [[subconscious]]

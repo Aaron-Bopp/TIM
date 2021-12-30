@@ -1,14 +1,17 @@
 ---
 created: 2021-05-29
 tags: node/source/videos
-creator: Dr.K
 type: 
 - youtube
 - video
 - interview
-source: https://www.youtube.com/watch?v=lUxU6KnjNNs
-
 ---
+
+**Creator**:: [[Dr. K]]
+ 
+**Source**:: [Breaking the Cycle of Overthinking - YouTube](https://www.youtube.com/watch?v=lUxU6KnjNNs)
+
+**Related**:: 
 
 ### [Breaking the Cycle of Overthinking](https://www.youtube.com/watch?v=lUxU6KnjNNs)
 

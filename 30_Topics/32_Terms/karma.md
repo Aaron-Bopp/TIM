@@ -11,5 +11,5 @@ is basically the belief that that good actions bring [[happiness]] and bad actio
 The Yogic principle of cause and effect.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[eastern philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

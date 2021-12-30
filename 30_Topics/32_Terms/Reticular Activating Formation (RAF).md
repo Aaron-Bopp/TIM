@@ -9,5 +9,5 @@ tags: node/topic/term
 Fundamental system which plays a role in regulating arousal and sleep−wake transitions.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
