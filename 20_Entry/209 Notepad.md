@@ -2,6 +2,8 @@
 
 "Sometimes it's easiest to take the chances that have the highest likelihood of failure" - [[Dr. K]]
 [Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)
+ "You've learned to see the silver lining because otherwise life would be bleak" - [[Dr. K]] [How to Save a Relationship from Break Up | Dr. K Interviews - YouTube](https://youtu.be/YLO3XpPOEP8?t=4284)
+ 
 
 [[conceptual notes]] help you get the full extent of your brain power #TO/DO/CONCEPTUALIZE maybe when only combined with good systems [[Friction is the number one hindrance to learning]]
 

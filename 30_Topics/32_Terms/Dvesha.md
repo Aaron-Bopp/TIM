@@ -6,7 +6,7 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The Sanskrit word for the experience of repulsion or dislikes.
+The [[Sanskrit]] word for the experience of repulsion or dislikes.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::

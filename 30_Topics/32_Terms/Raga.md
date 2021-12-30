@@ -6,7 +6,7 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The Sanskrit word for the experience of attraction or likes.
+The [[Sanskrit]] word for the experience of attraction or likes.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::

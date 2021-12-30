@@ -8843,7 +8843,7 @@
     "30_Topics/31_Stubs/conscious.md": {
       "size": 200,
       "tags": 1,
-      "links": 0
+      "links": 2
     },
     "30_Topics/31_Stubs/consent.md": {
       "size": 163,
@@ -9853,7 +9853,7 @@
     "30_Topics/32_Terms/Atman Padha.md": {
       "size": 301,
       "tags": 1,
-      "links": 1
+      "links": 7
     },
     "30_Topics/32_Terms/Attachment Theory.md": {
       "size": 534,
@@ -10083,7 +10083,7 @@
     "30_Topics/32_Terms/Dvesha.md": {
       "size": 270,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Dx.md": {
       "size": 242,
@@ -10193,7 +10193,7 @@
     "30_Topics/32_Terms/Jnana Padha.md": {
       "size": 287,
       "tags": 1,
-      "links": 1
+      "links": 5
     },
     "30_Topics/32_Terms/Jnana Yoga.md": {
       "size": 297,
@@ -10278,7 +10278,7 @@
     "30_Topics/32_Terms/Manas Padha.md": {
       "size": 280,
       "tags": 1,
-      "links": 1
+      "links": 6
     },
     "30_Topics/32_Terms/Manas.md": {
       "size": 241,
@@ -10513,7 +10513,7 @@
     "30_Topics/32_Terms/Raga.md": {
       "size": 268,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Raja Yoga.md": {
       "size": 651,
@@ -10633,7 +10633,7 @@
     "30_Topics/32_Terms/Siddhi Padha.md": {
       "size": 267,
       "tags": 1,
-      "links": 1
+      "links": 6
     },
     "30_Topics/32_Terms/Social Anxiety Disorder (SAD).md": {
       "size": 677,
@@ -10648,7 +10648,7 @@
     "30_Topics/32_Terms/Sukkha Padha.md": {
       "size": 293,
       "tags": 1,
-      "links": 1
+      "links": 7
     },
     "30_Topics/32_Terms/Surya Namaskar.md": {
       "size": 274,
@@ -10723,7 +10723,7 @@
     "30_Topics/32_Terms/Vairagya.md": {
       "size": 241,
       "tags": 1,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Vajrayana Buddhism.md": {
       "size": 370,
@@ -10984,13 +10984,18 @@
       "size": 1141,
       "tags": 1,
       "links": 18
+    },
+    "30_Topics/31_Stubs/contentment.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 2671,
-      "Create": 3236,
-      "Link": 5121,
+      "Create": 3237,
+      "Link": 5134,
       "Expand": 519
     },
     "40_Evergreens": {
@@ -11013,7 +11018,7 @@
       "8": 53,
       "9": 728,
       "10": 277,
-      "11": 209,
+      "11": 223,
       "12": 422,
       "13": 270,
       "14": 2339,
@@ -11059,7 +11064,7 @@
       "Mon": 313,
       "Tue": 1610,
       "Wed": 3643,
-      "Thu": 629,
+      "Thu": 643,
       "Fri": 300,
       "Sat": 0,
       "Sun": 5052
@@ -11130,6 +11135,7 @@
         "<a class=\"internal-link\" href=\"Psychosis.md\"> Psychosis </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/contentment.md\"> contentment </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Overview of Meditation Module.md\"> notes_Overview of Meditation Module </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/matter.md\"> matter </a>",
@@ -11179,8 +11185,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yantra.md\"> Yantra </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yama.md\"> Yama </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yajna.md\"> Yajna </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vishuddha Chakra.md\"> Vishuddha Chakra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vikruti.md\"> Vikruti </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vishuddha Chakra.md\"> Vishuddha Chakra </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/behavior.md\"> behavior </a>",
@@ -11236,6 +11241,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/contentment.md\"> contentment </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Overview of Meditation Module.md\"> notes_Overview of Meditation Module </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
@@ -11285,8 +11291,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Alprazolam.md\"> Alprazolam </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ama.md\"> Ama </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Amygdala.md\"> Amygdala </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anahata Chakra.md\"> Anahata Chakra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anandamaya Kosha.md\"> Anandamaya Kosha </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anahata Chakra.md\"> Anahata Chakra </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -11379,6 +11384,18 @@
         "<a class=\"internal-link\" href=\"Swadhyaya.md\"> Swadhyaya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dvesha.md\"> Dvesha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Raga.md\"> Raga </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vairagya.md\"> Vairagya </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Atman Padha.md\"> Atman Padha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Manas Padha.md\"> Manas Padha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sukkha Padha.md\"> Sukkha Padha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Atman Padha.md\"> Atman Padha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Jnana Padha.md\"> Jnana Padha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Manas Padha.md\"> Manas Padha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Siddhi Padha.md\"> Siddhi Padha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sukkha Padha.md\"> Sukkha Padha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conscious.md\"> conscious </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cognitive Anxiety.md\"> Cognitive Anxiety </a>",
@@ -11417,19 +11434,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Niyama.md\"> Niyama </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pranayama.md\"> Pranayama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Santosha.md\"> Santosha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Shuddha.md\"> Shuddha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Tapas.md\"> Tapas </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/5 Biochemical Dysphoria.md\"> 5 Biochemical Dysphoria </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Iswara Pranidhana.md\"> Iswara Pranidhana </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Niyama.md\"> Niyama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Santosha.md\"> Santosha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Shuddha.md\"> Shuddha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Swadhyaya.md\"> Swadhyaya </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Tapas.md\"> Tapas </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md\"> 18 Androgenic Second Puberty 101 </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Santosha.md\"> Santosha </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",

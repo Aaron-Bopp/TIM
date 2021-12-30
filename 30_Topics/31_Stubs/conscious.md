@@ -7,8 +7,8 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-consciousness
+[The Scientific Problem of Consciousness - YouTube](https://www.youtube.com/watch?v=CJhSSPO8Ulk)
 
-**See**:: 
+**See**:: [[subconscious]], [[self]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

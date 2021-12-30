@@ -6,8 +6,8 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The path of the self, which explores the nature of a human being, and what makes up a person.
+The path of the [[self]], which explores the nature of a [[humanity|human]] being, and what makes up a person.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[Siddhi Padha]], [[Manas Padha]], [[Jnana Padha]], [[Sukkha Padha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
