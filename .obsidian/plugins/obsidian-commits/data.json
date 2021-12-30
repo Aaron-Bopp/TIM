@@ -8533,7 +8533,7 @@
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md": {
       "size": 39504,
       "tags": 2,
-      "links": 6
+      "links": 9
     },
     "40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md": {
       "size": 1998,
@@ -11000,7 +11000,7 @@
     "/": {
       "Refactor": 2689,
       "Create": 3239,
-      "Link": 5155,
+      "Link": 5156,
       "Expand": 524
     },
     "40_Evergreens": {
@@ -11029,7 +11029,7 @@
       "14": 2347,
       "15": 145,
       "16": 904,
-      "17": 1595,
+      "17": 1596,
       "18": 2174,
       "19": 254,
       "20": 184,
@@ -11069,7 +11069,7 @@
       "Mon": 313,
       "Tue": 1610,
       "Wed": 3643,
-      "Thu": 689,
+      "Thu": 690,
       "Fri": 300,
       "Sat": 0,
       "Sun": 5052
@@ -11390,6 +11390,7 @@
         "<a class=\"internal-link\" href=\"Symbiosis.md\"> Symbiosis </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
@@ -11439,8 +11440,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahman.md\"> Brahman </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahman.md\"> Brahman </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",

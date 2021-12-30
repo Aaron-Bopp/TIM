@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
+            "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -18,6 +18,42 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_A Lot of Paradoxes Might....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":31},\"to\":{\"line\":27,\"ch\":31}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2cfdd70fe6cc2838",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "2cfdd70fe6cc2838",
               "group": null,
@@ -147,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
+                "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -180,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
+                "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md"
+                "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md"
               }
             },
             "pane-relief:history-v1": {
@@ -342,7 +378,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
+                "file": "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -453,15 +489,15 @@
   },
   "active": "2cfdd70fe6cc2838",
   "lastOpenFiles": [
+    "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
+    "10_Sources/Readwise/Tweets/tweets_A Lot of Paradoxes Might....md",
+    "10_Sources/Readwise/Tweets/tweets_A #Thread of Threads◙I....md",
     "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md",
+    "10_Sources/Readwise/Tweets/tweets_1 It's Very Interesting....md",
+    "10_Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
     "10_Sources/podcast_NPR One_Can We Talk About Whiteness NPR One.md",
     "10_Sources/podcast_Unteachable Moment_This American Life.md",
     "10_Sources/podcastINVCEL.md",
-    "10_Sources/Psychology of Race and Gender notes.md",
-    "10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md",
-    "10_Sources/videos_Linear algebra_3Blue1Brown.md",
-    "10_Sources/videoSocial Constructs Philosophy Tube.md",
-    "10_Sources/videoTransComingOutStory.md",
-    "10_Sources/Worksheet 4.md"
+    "10_Sources/Psychology of Race and Gender notes.md"
   ]
 }
