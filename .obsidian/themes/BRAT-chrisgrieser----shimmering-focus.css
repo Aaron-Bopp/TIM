@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.498
+Version 1.506
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -210,7 +210,6 @@ the .create-ToC.sh.
 	--highlight-color: hsl(152 100% 50% / 40%);
 	--highlight-alt1: hsl(60 100% 50% / 40%);
 	--highlight-alt2: hsl(180 100% 50% / 40%);
-	--search-match-hl: var(--highlight-alt2);
 	--active-line: hsl(62 11% 63% / 10%);
 	--spell-error-color: hsl(0 66% 64%);
 
@@ -487,6 +486,7 @@ only sidebars and everything scrolling */
 	--thick-muted-border: 4px solid var(--muted-border-color);
 	--thin-border: 1px solid var(--basic-border-color);
 	--thin-muted-border: 1px solid var(--muted-border-color);
+	--search-match-hl: 1px solid hsl(60 100% 40%);
 }
 
 .theme-light {
@@ -681,7 +681,7 @@ only sidebars and everything scrolling */
 
 	--ui-font-family: "Recursive S";
 	--sidebar-font-size: 0.85rem;
-	--status-bar-font-size: 0.95rem;
+	--status-bar-font-size: 0.85rem;
 
 	--menu-font-family: "Recursive S";
 	--menu-font-size: 1rem;
@@ -940,6 +940,7 @@ svg.any-key {
 .hotkey-list-container svg.any-key {
 	width: 0.99rem;
 	margin-top: 3px;
+	margin-left: 1px;
 }
 
 .plugin-list-plugins svg.any-key {
@@ -1121,12 +1122,14 @@ svg.quote-glyph > path { display: none }
 svg.quote-glyph {
 	background-color: currentColor;
 	margin-bottom: 2px;
-	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.2em' height='1.2em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 32 32'%3e%3cpath d='M20 22h2l-5-12h-2l-5 12h2l1.24-3h5.53zm-5.93-5l1.82-4.42h.25L18 17z' fill='currentColor'/%3e%3cpath d='M12 28H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h20a2 2 0 0 1 2 2v11h-2V6H6v20h6z' fill='currentColor'/%3e%3cpath d='M23 27.18l-2.59-2.59L19 26l4 4l7-7l-1.41-1.41L23 27.18z' fill='currentColor'/%3e%3c/svg%3e");
+	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.1em' height='1.1em' preserveAspectRatio='xMidYMid meet' viewBox='0 0 32 32'%3e%3cpath d='M20 22h2l-5-12h-2l-5 12h2l1.24-3h5.53zm-5.93-5l1.82-4.42h.25L18 17z' fill='currentColor'/%3e%3cpath d='M12 28H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h20a2 2 0 0 1 2 2v11h-2V6H6v20h6z' fill='currentColor'/%3e%3cpath d='M23 27.18l-2.59-2.59L19 26l4 4l7-7l-1.41-1.41L23 27.18z' fill='currentColor'/%3e%3c/svg%3e");
 }
 
 .menu svg.quote-glyph {
-	height: 1.2rem;
-	width: 1.2rem;
+	height: 1.1rem;
+	width: 1.1rem;
+	position: relative;
+	top: 2px;
 }
 
 /* advanced cursor */
@@ -1404,10 +1407,6 @@ body .app-container .workspace-ribbon.is-collapsed {
 	--tooltip-arrow: var(--tooltip-arrow-length) solid var(--notice-bg);
 }
 
-body:not(.angular-shapes) .tooltip {
-	padding-top: 3px;
-}
-
 .tooltip .tooltip-arrow {
 	margin-top: calc(-1 * var(--tooltip-arrow-length) + 5px);
 	border-bottom: var(--tooltip-arrow);
@@ -1450,10 +1449,6 @@ div.notice-container .notice {
 	font-family: var(--button-font);
 	font-size: calc(var(--button-font-size) * 0.9);
 	letter-spacing: 0.6px;
-}
-
-.angular-shapes div.notice-container .notice {
-	padding: 6px 12px;
 }
 
 body > div.notice-container .notice:hover {
@@ -1575,7 +1570,7 @@ body:not(.default-statusbar) .status-bar {
 	right: 0;
 	bottom: 0;
 
-	padding: 7px 12px;
+	padding: 7px 0 6px 12px;
 
 	border-top: var(--muted-border);
 	border-left: var(--muted-border);
@@ -1589,15 +1584,14 @@ body:not(.default-statusbar) .status-bar {
 .status-bar::AFTER {
 	color: var(--extra-contrast);
 	padding: 0;
-	margin-left: 13px;
-}
-
-.status-bar-item:first-child {
-	margin-left: 0 !important;
+	margin-right: 13px;
 }
 
 body:not(.hide-signature) .status-bar::AFTER {
 	content: var(--signature);
+	position: relative;
+	bottom: 1px;
+	font-size: calc(var(--status-bar-font-size) * 1.1);
 	font-weight: 500;
 }
 
@@ -1733,17 +1727,6 @@ a.style-settings-export,
 	font-size: var(--button-font-size);
 	line-height: 1.3em;
 	letter-spacing: 0.5px;
-}
-
-/* fix for slightly different positioning of square fonts */
-.angular-shapes .excalidraw .HelpDialog--btn,
-.angular-shapes a.style-settings-import,
-.angular-shapes a.style-settings-export,
-.angular-shapes .modal-container .modal .modal-button-container button,
-.angular-shapes .modal-container .modal .modal-content button:not(.mod-cta),
-.angular-shapes .modal-container .modal .modal-content button.mod-cta {
-	padding-top: 6px;
-	padding-bottom: 5px;
 }
 
 /* hovered buttons */
@@ -2099,7 +2082,7 @@ div.menu-item {
 
 .menu-separator {
 	margin: 0;
-	border-bottom: var(--basic-border);
+	border-bottom: var(--thin-border);
 }
 
 /* ───────────────────────────────────────────────────
@@ -3138,32 +3121,29 @@ body .workspace-leaf-resize-handle:active {
 	margin-bottom: 10px;
 }
 
-.community-plugin-info button {
-	margin-right: 18px;
+/* contains the buttons */
+.mod-community-plugin .community-plugin-desc + p {
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+.mod-community-plugin .community-plugin-info button {
+	margin: 0 18px 0 0;
 }
 
 /* copy URL button  */
-.modal.modal.mod-community-plugin .community-plugin-info button:last-child {
-	height: 2.1rem;
-
-	position: relative;
-	top: 1px;
-
-	padding-right: 3px;
-	padding-left: 2px;
-
+.modal.mod-community-plugin .community-plugin-info button:last-child {
+	height: 2.07rem;
+	padding: 0 3px 0 2px;
 	font-size: 0;
 }
 
 .modal.modal.mod-community-plugin .community-plugin-info button:last-child::BEFORE {
 	content: "link";
-
 	position: relative;
-	top: 6.5px;
 	left: 5px;
-
 	font-family: var(--icon-font);
-	font-size: 1.5rem;
+	font-size: 1.3rem;
 }
 
 .angular-shapes .modal.modal.mod-community-plugin .community-plugin-info button:last-child {
@@ -3960,7 +3940,8 @@ body:not(.left-aligned-embeds) .pdf-embed {
 .is-flashing,
 body > div.app-container .obsidian-search-match-highlight {
 	color: var(--text-normal) !important;
-	background-color: var(--search-match-hl);
+	background: none;
+	outline: var(--search-match-hl);
 }
 
 .is-flashing {
@@ -4543,7 +4524,6 @@ body .markdown-preview-view pre {
 	background-color: var(--bg2);
 	padding: 0;
 	border: var(--codeblock-border);
-	border-top: none;
 	border-radius: var(--codeblock-roundness);
 }
 
@@ -5230,6 +5210,16 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-lineba
 	border-radius: var(--roundish);
 }
 
+/* active list item highlighting */
+body:not(.no-active-line-highlighting) .cm-active .cm-formatting-list,
+body:not(.no-active-line-highlighting) .cm-active .list-bullet {
+	color: var(--text-accent);
+}
+
+body:not(.no-active-line-highlighting) .cm-active .cm-formatting-list-ul {
+	font-weight: 700;
+}
+
 /* <<< Highlights */
 .markdown-preview-view mark,
 .cm-s-obsidian span.cm-highlight {
@@ -5453,7 +5443,7 @@ body.is-mobile .markdown-preview-view blockquote {
 
 .status-bar-item.plugin-editor-status {
 	position: relative;
-	bottom: 1px;
+	bottom: 2px;
 }
 
 .status-bar-item.plugin-editor-status::BEFORE {
@@ -5476,6 +5466,20 @@ body.is-mobile .markdown-preview-view blockquote {
 
 .workspace-leaf-content[data-type="file-explorer"] {
 	padding-right: 2px;
+}
+
+.workspace-leaf-content[data-type="file-explorer"] .nav-action-button {
+	margin-bottom: 0;
+}
+
+.workspace-leaf-content[data-type="file-explorer"] .nav-header {
+	padding-top: 0;
+	margin-top: 7px;
+	margin-bottom: 2px;
+}
+
+.workspace-leaf-content[data-type="file-explorer"] .nav-folder.mod-root {
+	margin-top: 6px;
 }
 
 /* ───────────────────────────────────────────────────
@@ -6277,6 +6281,14 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 /* ───────────────────────────────────────────────────
 < Community Plugins
 ─────────────────────────────────────────────────── */
+
+/* ───────────────────────────────────────────────────
+<< Discord Rich Presence
+─────────────────────────────────────────────────── */
+
+.status-bar-item.plugin-obsidian-discordrpc:empty {
+	display: none;
+}
 
 /* ───────────────────────────────────────────────────
 << Dictionary
@@ -8016,7 +8028,11 @@ body .tlfFileInfoTextArea {
 }
 
 .status-bar-item.plugin-get-info-plugin {
-	transform: scale(0.9);
+	height: var(--status-bar-font-size);
+	width: var(--status-bar-font-size);
+	position: relative;
+	bottom: 1px;
+	transform: scale(0.85);
 }
 
 body div.get-info-menu > div > div {
@@ -8050,7 +8066,7 @@ body div.get-info-menu > div > div {
 .lt-status-bar-check-icon::BEFORE {
 	content: "spellcheck";
 	font-family: var(--icon-font);
-	font-size: 0.9rem;
+	font-size: var(--status-bar-font-size);
 }
 
 body .lt-predictions-container {
@@ -8269,9 +8285,8 @@ a.zoom-plugin-title:hover {
 << Cursor Location
 ─────────────────────────────────────────────────── */
 
-/* do not add between-items-margin when empty */
-.status-bar-item.plugin-obsidian-cursor-location-plugin:empty + .status-bar-item {
-	margin-left: 0;
+.plugin-obsidian-cursor-location-plugin:empty {
+	display: none;
 }
 
 /* ───────────────────────────────────────────────────
@@ -8286,12 +8301,18 @@ a.zoom-plugin-title:hover {
 << Highlight Current Word
 ─────────────────────────────────────────────────── */
 
+body .cm-matched-word,
 body .cm-current-word {
-	text-decoration: 1px dotted underline var(--text-muted);
-	text-underline-offset: 2px;
+	text-decoration: 1.2px dotted underline var(--text-muted);
+	text-underline-offset: 3px;
 }
 
-.cm-comment .cm-current-word {
+body .cm-matched-string {
+	text-decoration: none;
+	outline: var(--search-match-hl);
+}
+
+.cm-comment .cm-matched-word {
 	text-decoration: none;
 }
 
@@ -8301,7 +8322,7 @@ body .cm-current-word {
 
 .status-bar-item.plugin-obsidian-show-file-path {
 	position: relative;
-	bottom: 1px;
+	bottom: 2px;
 }
 
 .status-bar-item.plugin-obsidian-show-file-path::BEFORE {
@@ -8639,11 +8660,11 @@ settings:
 	 id: status-bar-font-size
 	 title: Status Bar Font Size
 	 type: variable-number-slider
-	 default: 0.95
-	 min: 0.7
-	 max: 2.0
+	 default: 0.85
+	 min: 0.5
+	 max: 1.5
 	 step: 0.05
-	 format: em
+	 format: rem
 	-
 	 id: menu-font-family
 	 title: Menu Font

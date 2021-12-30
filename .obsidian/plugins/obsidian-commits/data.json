@@ -10843,14 +10843,14 @@
     "30_Topics/Topic Hierarchy.md": {
       "size": 11798,
       "tags": 0,
-      "links": 588
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2653,
+      "Refactor": 2654,
       "Create": 3202,
-      "Link": 4928,
+      "Link": 4929,
       "Expand": 487
     },
     "40_Evergreens": {
@@ -10881,8 +10881,8 @@
       "16": 904,
       "17": 1595,
       "18": 2174,
-      "19": 253,
-      "20": 183,
+      "19": 254,
+      "20": 184,
       "21": 708,
       "22": 521,
       "23": 306
@@ -10918,7 +10918,7 @@
     "/": {
       "Mon": 313,
       "Tue": 1610,
-      "Wed": 3553,
+      "Wed": 3555,
       "Thu": 442,
       "Fri": 300,
       "Sat": 0,
@@ -11240,6 +11240,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/derealization.md\"> derealization </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/karma.md\"> karma </a>",
@@ -11288,8 +11289,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Buddhi.md\"> Buddhi </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bupropion.md\"> Bupropion </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Caffeine.md\"> Caffeine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Central Nervous System (CNS).md\"> Central Nervous System (CNS) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Chamomile (Matricaria recutita).md\"> Chamomile (Matricaria recutita) </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Central Nervous System (CNS).md\"> Central Nervous System (CNS) </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
@@ -11345,6 +11345,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Samskara.md\"> Samskara </a>",
@@ -11394,8 +11395,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/My relationship with my parents.md\"> My relationship with my parents </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/My relationship with my parents.md\"> My relationship with my parents </a>"
       ]
     },
     "40_Evergreens": {
