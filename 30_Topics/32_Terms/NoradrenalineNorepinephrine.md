@@ -1,7 +1,8 @@
 ---
 created: 2021-12-29 
 aliases:
-  - null
+  - Noradrenaline
+  - Norepinephrine
 tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

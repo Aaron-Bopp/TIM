@@ -9,5 +9,5 @@ tags: node/topic/term
 [[Contentment]]; a [[Niyama]] in [[Raja Yoga]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[Shuddha]], [[Swadhyaya]], [[Tapas]], [[Iswara Pranidhana]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -9,5 +9,5 @@ tags: node/topic/term
 Surrender or devotion to God, a [[Niyama]] in [[Raja Yoga]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**:: [[Shuddha]]
+**See**:: [[Shuddha]], [[Santosha]], [[Tapas]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

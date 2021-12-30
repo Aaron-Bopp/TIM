@@ -4,169 +4,157 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f8b73bdecff617",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+        "id": "135beaa1f97013aa",
+        "type": "split",
+        "children": [
+          {
+            "id": "da18ed765b2d3977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/32_Terms/Reticular Activating Formation (RAF).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Swadhyaya.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":34},\"to\":{\"line\":11,\"ch\":34}}}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/ADHD reduces working memory.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":162},\"to\":{\"line\":13,\"ch\":162}}}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Serotonin.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Swadhisthana Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":83},\"to\":{\"line\":8,\"ch\":83}}}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Muladhara Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Sahasrara Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Vishuddha Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Manipura Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Vishuddha Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Anahata Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ajna Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/Topic Hierarchy.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":378.96670381721924}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Chakra.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Neurotransmitter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":14.045454545454545}"
-            },
-            {
-              "leaf": "c8f8b73bdecff617",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Reticular Activating Formation (RAF).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Science of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":9.071428571428571}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/NoradrenalineNorepinephrine.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Pranayama.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Different Meditative Styles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":18.79883381924198}"
+                },
+                {
+                  "leaf": "da18ed765b2d3977",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Iswara Pranidhana.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
             }
-          ]
-        }
-      },
-      {
-        "id": "da18ed765b2d3977",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/32_Terms/Iswara Pranidhana.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+          },
+          {
+            "id": "e7101cb0dc615de9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/32_Terms/Association Cortices.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "leaf": "e7101cb0dc615de9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/behavior.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":21}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "e7101cb0dc615de9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Association Cortices.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":53},\"to\":{\"line\":11,\"ch\":53}},\"scroll\":1.6818181818181817}"
+                },
+                {
+                  "leaf": "e7101cb0dc615de9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/behavior.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "e7101cb0dc615de9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Association Cortices.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":254},\"to\":{\"line\":8,\"ch\":254}}}"
+                },
+                {
+                  "leaf": "e7101cb0dc615de9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Parasympathetic Nervous System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "e7101cb0dc615de9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Reticular Activating Formation (RAF).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
           }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "da18ed765b2d3977",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Iswara Pranidhana.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":21},\"to\":{\"line\":11,\"ch\":21}}}"
-            }
-          ]
-        }
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "b3ee44c7425467f7",
+        "id": "290af142d82967a5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/32_Terms/Santosha.md",
+            "file": "10_Sources/notes_Science of Meditation.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -176,67 +164,158 @@
           "pos": 1,
           "stack": [
             {
-              "leaf": "b3ee44c7425467f7",
+              "leaf": "290af142d82967a5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Raja Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":31},\"to\":{\"line\":8,\"ch\":31}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Frontal Lobe.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":94},\"to\":{\"line\":11,\"ch\":94}},\"scroll\":0}"
             },
             {
-              "leaf": "b3ee44c7425467f7",
+              "leaf": "290af142d82967a5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Santosha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":33},\"to\":{\"line\":8,\"ch\":46}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Science of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":48},\"to\":{\"line\":32,\"ch\":48}},\"scroll\":9.071428571428571}"
             }
           ]
         }
       },
       {
-        "id": "03ae5f5854fb1942",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/32_Terms/Shuddha.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "03ae5f5854fb1942",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Shuddha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":78},\"to\":{\"line\":8,\"ch\":87}}}"
+        "id": "2d7046496ad41fca",
+        "type": "split",
+        "children": [
+          {
+            "id": "dfc5facb56a60044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/32_Terms/Autonomic Nervous System (ANS).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "dfc5facb56a60044",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Autonomic Nervous System (ANS).md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "dfc5facb56a60044",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
             }
-          ]
-        }
-      },
-      {
-        "id": "e419c2402a8081db",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/32_Terms/Tapas.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "e419c2402a8081db",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Tapas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":55},\"to\":{\"line\":8,\"ch\":64}}}"
+          },
+          {
+            "id": "c5106e1dc0a7fd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/32_Terms/Sympathetic Nervous System.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "c5106e1dc0a7fd4a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Sympathetic Nervous System.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c5106e1dc0a7fd4a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Autonomic Nervous System (ANS).md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
             }
-          ]
-        }
+          },
+          {
+            "id": "8576a7b57172744c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/32_Terms/Central Nervous System (CNS).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "8576a7b57172744c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Central Nervous System (CNS).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":9},\"to\":{\"line\":11,\"ch\":9}},\"scroll\":8.272727272727273}"
+                },
+                {
+                  "leaf": "8576a7b57172744c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Sympathetic Nervous System.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "5dc85aea1f8b8a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Topics/32_Terms/Vagus Nerve.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 2,
+              "stack": [
+                {
+                  "leaf": "5dc85aea1f8b8a4e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/breathing.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "5dc85aea1f8b8a4e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/breath.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0.45454545454545453}"
+                },
+                {
+                  "leaf": "5dc85aea1f8b8a4e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Vagus Nerve.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7.681818181818182}"
+                },
+                {
+                  "leaf": "5dc85aea1f8b8a4e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Central Nervous System (CNS).md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -267,7 +346,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO",
+                "query": "cranial",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -286,7 +365,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/32_Terms/Santosha.md",
+                "file": "10_Sources/notes_Science of Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -319,7 +398,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/32_Terms/Santosha.md",
+                "file": "10_Sources/notes_Science of Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -366,7 +445,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/32_Terms/Santosha.md"
+                "file": "10_Sources/notes_Science of Meditation.md"
               }
             },
             "pane-relief:history-v1": {
@@ -482,7 +561,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/32_Terms/Santosha.md",
+                "file": "10_Sources/notes_Science of Meditation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -592,17 +671,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "b3ee44c7425467f7",
+  "active": "290af142d82967a5",
   "lastOpenFiles": [
-    "30_Topics/32_Terms/Santosha.md",
-    "30_Topics/32_Terms/Raja Yoga.md",
-    "30_Topics/32_Terms/Iswara Pranidhana.md",
-    "30_Topics/32_Terms/Tapas.md",
-    "30_Topics/32_Terms/Shuddha.md",
-    "30_Topics/32_Terms/Swadhyaya.md",
-    "40_Evergreens/ADHD reduces working memory.md",
-    "30_Topics/31_Stubs/hyperfocus.md",
-    "30_Topics/32_Terms/Serotonin.md",
-    "30_Topics/32_Terms/Swadhisthana Chakra.md"
+    "10_Sources/notes_Science of Meditation.md",
+    "30_Topics/32_Terms/Association Cortices.md",
+    "30_Topics/31_Stubs/behavior.md",
+    "30_Topics/32_Terms/Reticular Activating Formation (RAF).md",
+    "30_Topics/32_Terms/Parasympathetic Nervous System.md",
+    "30_Topics/32_Terms/Vagus Nerve.md",
+    "30_Topics/32_Terms/Frontal Lobe.md",
+    "30_Topics/32_Terms/Frontal Lobes.md",
+    "30_Topics/32_Terms/Central Nervous System (CNS).md",
+    "30_Topics/31_Stubs/breathing.md"
   ]
 }

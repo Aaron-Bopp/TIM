@@ -4418,7 +4418,7 @@
     "40_Evergreens/ADHD reduces working memory.md": {
       "size": 966,
       "tags": 3,
-      "links": 10
+      "links": 9
     },
     "40_Evergreens/American's are scared of the word communism not it's meaning.md": {
       "size": 1028,
@@ -5413,7 +5413,7 @@
     "00_Meta/Primary Sources/gender-dysphoria-bible/5 Biochemical Dysphoria.md": {
       "size": 15152,
       "tags": 0,
-      "links": 27
+      "links": 28
     },
     "00_Meta/Primary Sources/gender-dysphoria-bible/6 Social Dysphoria.md": {
       "size": 10731,
@@ -7563,7 +7563,7 @@
     "10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md": {
       "size": 9752,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Rory - ADHD Autistic OCD.md": {
       "size": 4429,
@@ -8203,7 +8203,7 @@
     "00_Meta/Personal/I relate to.md": {
       "size": 13186,
       "tags": 1,
-      "links": 26
+      "links": 27
     },
     "00_Meta/Personal/Journal.md": {
       "size": 28060,
@@ -9968,7 +9968,7 @@
     "30_Topics/32_Terms/Central Nervous System (CNS).md": {
       "size": 458,
       "tags": 1,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Chamomile (Matricaria recutita).md": {
       "size": 464,
@@ -10136,14 +10136,9 @@
       "links": 1
     },
     "30_Topics/32_Terms/Frontal Lobe.md": {
-      "size": 502,
+      "size": 655,
       "tags": 1,
-      "links": 1
-    },
-    "30_Topics/32_Terms/Frontal Lobes.md": {
-      "size": 290,
-      "tags": 1,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Galphimia (Galphimia glauca).md": {
       "size": 486,
@@ -10203,7 +10198,7 @@
     "30_Topics/32_Terms/Iswara Pranidhana.md": {
       "size": 260,
       "tags": 1,
-      "links": 1
+      "links": 6
     },
     "30_Topics/32_Terms/Jnana Padha.md": {
       "size": 287,
@@ -10386,9 +10381,9 @@
       "links": 1
     },
     "30_Topics/32_Terms/Niyama.md": {
-      "size": 281,
+      "size": 556,
       "tags": 1,
-      "links": 2
+      "links": 11
     },
     "30_Topics/32_Terms/Nootropic.md": {
       "size": 262,
@@ -10488,7 +10483,7 @@
     "30_Topics/32_Terms/Pranayama.md": {
       "size": 385,
       "tags": 1,
-      "links": 3
+      "links": 6
     },
     "30_Topics/32_Terms/Pratyahara.md": {
       "size": 352,
@@ -10593,7 +10588,7 @@
     "30_Topics/32_Terms/Santosha.md": {
       "size": 243,
       "tags": 1,
-      "links": 1
+      "links": 8
     },
     "30_Topics/32_Terms/Satya.md": {
       "size": 261,
@@ -10638,7 +10633,7 @@
     "30_Topics/32_Terms/Shuddha.md": {
       "size": 290,
       "tags": 1,
-      "links": 1
+      "links": 7
     },
     "30_Topics/32_Terms/Shuddhi.md": {
       "size": 294,
@@ -10678,7 +10673,7 @@
     "30_Topics/32_Terms/Swadhyaya.md": {
       "size": 253,
       "tags": 1,
-      "links": 1
+      "links": 6
     },
     "30_Topics/32_Terms/Symbiosis.md": {
       "size": 291,
@@ -10703,7 +10698,7 @@
     "30_Topics/32_Terms/Tapas.md": {
       "size": 267,
       "tags": 1,
-      "links": 1
+      "links": 10
     },
     "30_Topics/32_Terms/Theravada Buddhism.md": {
       "size": 356,
@@ -10733,7 +10728,7 @@
     "30_Topics/32_Terms/Vagus Nerve.md": {
       "size": 383,
       "tags": 1,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Vairagya.md": {
       "size": 241,
@@ -10876,9 +10871,9 @@
       "links": 0
     },
     "10_Sources/notes_Science of Meditation.md": {
-      "size": 1212,
+      "size": 2962,
       "tags": 1,
-      "links": 18
+      "links": 37
     },
     "30_Topics/31_Stubs/hypothalamus.md": {
       "size": 0,
@@ -10934,17 +10929,57 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "30_Topics/31_Stubs/digestive process.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/blood flow.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/breathing.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/32_Terms/Parasympathetic Nervous System.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 4
+    },
+    "30_Topics/32_Terms/heart.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/maturity.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/impulse.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/behavior.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2661,
-      "Create": 3221,
-      "Link": 5056,
-      "Expand": 504
+      "Refactor": 2667,
+      "Create": 3230,
+      "Link": 5090,
+      "Expand": 511
     },
     "40_Evergreens": {
-      "Refactor": 187,
+      "Refactor": 188,
       "Create": 38,
       "Link": 478,
       "Expand": 253
@@ -10961,8 +10996,8 @@
       "6": 0,
       "7": 0,
       "8": 53,
-      "9": 701,
-      "10": 214,
+      "9": 728,
+      "10": 243,
       "11": 194,
       "12": 422,
       "13": 270,
@@ -10987,7 +11022,7 @@
       "6": 0,
       "7": 0,
       "8": 29,
-      "9": 222,
+      "9": 223,
       "10": 83,
       "11": 71,
       "12": 39,
@@ -11009,7 +11044,7 @@
       "Mon": 313,
       "Tue": 1610,
       "Wed": 3643,
-      "Thu": 524,
+      "Thu": 580,
       "Fri": 300,
       "Sat": 0,
       "Sun": 5052
@@ -11018,7 +11053,7 @@
       "Mon": 61,
       "Tue": 178,
       "Wed": 166,
-      "Thu": 18,
+      "Thu": 19,
       "Fri": 91,
       "Sat": 0,
       "Sun": 442
@@ -11027,6 +11062,13 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Frontal Lobe.md\"> Frontal Lobe </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Niyama.md\"> Niyama </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pituitary Gland.md\"> Pituitary Gland </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
@@ -11070,16 +11112,18 @@
         "<a class=\"internal-link\" href=\"Social Anxiety Disorder (SAD).md\"> Social Anxiety Disorder (SAD) </a>",
         "<a class=\"internal-link\" href=\"St. John's Wort (Hypericum perforatum).md\"> St. John's Wort (Hypericum perforatum) </a>",
         "<a class=\"internal-link\" href=\"Traditional Chinese Medicine (TCM).md\"> Traditional Chinese Medicine (TCM) </a>",
-        "<a class=\"internal-link\" href=\"Turmeric.md\"> Turmeric </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Cool people.md\"> Cool people </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>"
+        "<a class=\"internal-link\" href=\"Turmeric.md\"> Turmeric </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/behavior.md\"> behavior </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/impulse.md\"> impulse </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/maturity.md\"> maturity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/breating.md\"> breating </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/heart.md\"> heart </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/breathing.md\"> breathing </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/blood flow.md\"> blood flow </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/digestive process.md\"> digestive process </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neuron.md\"> neuron </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/pituitary.md\"> pituitary </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/blood pressure.md\"> blood pressure </a>",
@@ -11121,18 +11165,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ventral Medial Prefrontal Cortex.md\"> Ventral Medial Prefrontal Cortex </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vedic Psychology.md\"> Vedic Psychology </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vata.md\"> Vata </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vanaprastha Ashram.md\"> Vanaprastha Ashram </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vajrayana Buddhism.md\"> Vajrayana Buddhism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vairagya.md\"> Vairagya </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vagus Nerve.md\"> Vagus Nerve </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Tx.md\"> Tx </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Turmeric.md\"> Turmeric </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Trataka.md\"> Trataka </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Traditional Chinese Medicine (TCM).md\"> Traditional Chinese Medicine (TCM) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Theravada Buddhism.md\"> Theravada Buddhism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Tapas.md\"> Tapas </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vanaprastha Ashram.md\"> Vanaprastha Ashram </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/behavior.md\"> behavior </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/breath.md\"> breath </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hypothalamus.md\"> hypothalamus </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/divinity.md\"> divinity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Buddha.md\"> Buddha </a>",
@@ -11180,12 +11218,17 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Behavioral Psychology.md\"> Behavioral Psychology </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/My unfulfilled need for parental validation became a fear of rejection and disregardment of affection.md\"> My unfulfilled need for parental validation became a fear of rejection and disregardment of affection </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stereotyping has the psychological goal of comprehension and self-enhancement.md\"> Stereotyping has the psychological goal of comprehension and self-enhancement </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Apartment hunt.md\"> Apartment hunt </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Capitalism necessitates class division.md\"> Capitalism necessitates class division </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/maturity.md\"> maturity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/impulse.md\"> impulse </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/heart.md\"> heart </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/breating.md\"> breating </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/digestive process.md\"> digestive process </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/blood flow.md\"> blood flow </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/breathing.md\"> breathing </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/pituitary.md\"> pituitary </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neuron.md\"> neuron </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fight-or-flight response.md\"> fight-or-flight response </a>",
@@ -11228,15 +11271,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anxiety.md\"> Anxiety </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anxiolytic.md\"> Anxiolytic </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Aparigraha.md\"> Aparigraha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Asana.md\"> Asana </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ashwagandha.md\"> Ashwagandha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Association Cortices.md\"> Association Cortices </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Asteya.md\"> Asteya </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Atman Padha.md\"> Atman Padha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Attachment Theory.md\"> Attachment Theory </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Autonomic Nervous System (ANS).md\"> Autonomic Nervous System (ANS) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ayurveda.md\"> Ayurveda </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Basal Ganglia.md\"> Basal Ganglia </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Asana.md\"> Asana </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -11276,6 +11311,8 @@
         "<a class=\"internal-link\" href=\"course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Frontal Lobes.md\"> Frontal Lobes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/breath.md\"> breath </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_History of Meditation.md\"> notes_History of Meditation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CO2.md\"> CO2 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yoga.md\"> Yoga </a>",
@@ -11324,11 +11361,35 @@
         "<a class=\"internal-link\" href=\"Swadhyaya.md\"> Swadhyaya </a>",
         "<a class=\"internal-link\" href=\"Swadhisthana Chakra.md\"> Swadhisthana Chakra </a>",
         "<a class=\"internal-link\" href=\"Surya Namaskar.md\"> Surya Namaskar </a>",
-        "<a class=\"internal-link\" href=\"Sukkha Padha.md\"> Sukkha Padha </a>",
-        "<a class=\"internal-link\" href=\"St. John's Wort (Hypericum perforatum).md\"> St. John's Wort (Hypericum perforatum) </a>",
-        "<a class=\"internal-link\" href=\"Social Anxiety Disorder (SAD).md\"> Social Anxiety Disorder (SAD) </a>"
+        "<a class=\"internal-link\" href=\"Sukkha Padha.md\"> Sukkha Padha </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Frontal Lobe.md\"> Frontal Lobe </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Central Nervous System (CNS).md\"> Central Nervous System (CNS) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vagus Nerve.md\"> Vagus Nerve </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vagus Nerve.md\"> Vagus Nerve </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Niyama.md\"> Niyama </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pranayama.md\"> Pranayama </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Santosha.md\"> Santosha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Shuddha.md\"> Shuddha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Tapas.md\"> Tapas </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/5 Biochemical Dysphoria.md\"> 5 Biochemical Dysphoria </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\"> tweets_People Often Ask Me How... </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Iswara Pranidhana.md\"> Iswara Pranidhana </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Niyama.md\"> Niyama </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Santosha.md\"> Santosha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Shuddha.md\"> Shuddha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Swadhyaya.md\"> Swadhyaya </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Tapas.md\"> Tapas </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md\"> 18 Androgenic Second Puberty 101 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/19 Estrogenic Second Puberty 101.md\"> 19 Estrogenic Second Puberty 101 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ajna Chakra.md\"> Ajna Chakra </a>",
@@ -11353,33 +11414,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pineal Gland.md\"> Pineal Gland </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pituitary Gland.md\"> Pituitary Gland </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Serotonin.md\"> Serotonin </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenal Gland.md\"> Adrenal Gland </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/NoradrenalineNorepinephrine.md\"> NoradrenalineNorepinephrine </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/2 Policing and Criminal Justice 2020.md\"> 2 Policing and Criminal Justice 2020 </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/Dana companion peice write up.md\"> Dana companion peice write up </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Science/Biology-Notes.md\"> Biology-Notes </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md\"> 1 What is Gender </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Every Week, I Post a Thr....md\"> tweets_Every Week, I Post a Thr... </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/textbook_Hyde&Elsequest_pyschology of women and gender.md\"> textbook_Hyde&Elsequest_pyschology of women and gender </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenal Gland.md\"> Adrenal Gland </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Corticotropin Releasing Factor (CRF).md\"> Corticotropin Releasing Factor (CRF) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Eustress.md\"> Eustress </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Melatonin.md\"> Melatonin </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/NoradrenalineNorepinephrine.md\"> NoradrenalineNorepinephrine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pineal Gland.md\"> Pineal Gland </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Serotonin.md\"> Serotonin </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hypothalamic Pituitary Adrenal (HPA) Axis.md\"> Hypothalamic Pituitary Adrenal (HPA) Axis </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pituitary Gland.md\"> Pituitary Gland </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hypothalamic Pituitary Adrenal (HPA) Axis.md\"> Hypothalamic Pituitary Adrenal (HPA) Axis </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Different Meditative Styles.md\"> notes_Different Meditative Styles </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kundalini Yoga.md\"> Kundalini Yoga </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenal Gland.md\"> Adrenal Gland </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
@@ -11435,6 +11470,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>",
@@ -11484,8 +11520,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/My relationship with my parents.md\"> My relationship with my parents </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/create stubs.md\"> create stubs </a>"
       ]
     },
     "40_Evergreens": {
@@ -11858,7 +11893,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>"
       ]
     }
   },

@@ -6,8 +6,8 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Austerity, asceticism or discipline; a [[Niyama]] in [[Raja Yoga]].
+[[Austerity]], [[asceticism]] or [[discipline]]; a [[Niyama]] in [[Raja Yoga]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[Shuddha]], [[Santosha]], [[Iswara Pranidhana]], [[Swadhyaya]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
