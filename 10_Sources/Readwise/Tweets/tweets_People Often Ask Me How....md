@@ -142,7 +142,7 @@ deliveredBy:
 ##### ^249709288
   
 > There are shared traits too (not every either Autistic or ADHD people will have them):
-> * Hyperfocus
+> * [[hyperfocus]]
 > * Strong emotional feelings and empathy
 > * Divergent thinking
 > * Good problem solving ability

@@ -89,7 +89,7 @@ tags: node/personal
     - Experiencing the world as distant, dreamlike, foggy, lifeless, colorless, artificial, like a picture with no depth, or less than real
     - Lacking a sense of agency � feeling flat, robotic, dead, or like a �zombie�
     - Inability to imagine things
-    - you may hyperfocus on your appearance, attempting to try to spark some kind of joy, any kind of feeling of pride in your own body, only to be met with more hollowness.
+    - you may [[hyperfocus]] on your appearance, attempting to try to spark some kind of joy, any kind of feeling of pride in your own body, only to be met with more hollowness.
     - You often feel directionless in life. When asked about career goals in High School, you didn't really care about your answer. Even careers centered in your interests seemed kind of intolerable.
     - Surroundings that appear distorted, blurry, colorless, two-dimensional or artificial, or a heightened awareness and clarity of your surroundings. Leaves on trees feel like they have extra sharp edges, for example.
     - Distortions of distance and the size and shape of objects

@@ -28,4 +28,4 @@ The capacity to respond with an appropriate emotion to another's mental states
 
 ###### Somatic empathy
 
-This is a physical/[[Neuroscience|neurological]] reaction that is based of a neuron activation in the brain ^[[[Humans are a product of evolution]]]
+This is a physical/[[Neuroscience|neurological]] reaction that is based of a [[neuron]] activation in the brain ^[[[Humans are a product of evolution]]]

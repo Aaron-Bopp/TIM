@@ -34,7 +34,7 @@ Zinnia Jones [gives these descriptions for [[depersonalization]]](https://web.ar
 -   [[Sometimes]] ==Being able to think clearly, but feeling as if some essential quality is lacking from your thoughts or experience of the world==
 -   [[Sometimes]] ==A sense of disconnectedness from life, impeding you from creative and open involvement with the world==
 
-[[Yes]] ==You may put little care into your physical appearance, reaching for only the basic utilitarian needs in clothing and personal hygiene.== Alternatively, [[No]] ==you may hyperfocus on your appearance, attempting to try to spark some kind of joy, any kind of feeling of pride in your own body, only to be met with more hollowness.==
+[[Yes]] ==You may put little care into your physical appearance, reaching for only the basic utilitarian needs in clothing and personal hygiene.== Alternatively, [[No]] ==you may [[hyperfocus]] on your appearance, attempting to try to spark some kind of joy, any kind of feeling of pride in your own body, only to be met with more hollowness.==
 
 [[Yes]] ==You may be unconcerned with the state of your body, perhaps not even fearing death, because you have so little attachment to your life.==
 

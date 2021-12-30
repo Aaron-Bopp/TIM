@@ -6,7 +6,7 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Neurotransmitter that plays a role in pleasure, motivation, and learning.
+[[Neurotransmitter]] that plays a role in pleasure, motivation, and learning.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::

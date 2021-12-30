@@ -6,7 +6,7 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Major inhibitory neurotransmitter in the central nervous system which potentiates a sedating effect, relaxing skeletal muscles, and inducing sleep, anesthesia, and amnesia.
+Major inhibitory [[Neurotransmitter]] in the central nervous system which potentiates a sedating effect, relaxing skeletal muscles, and inducing sleep, anesthesia, and amnesia.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::

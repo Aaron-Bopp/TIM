@@ -722,7 +722,7 @@ Speciation
 
 -   Nervous tissue -- receives and transmits stimuli, converts stimulus to electrical impulse
 
-    -   Neuron (nerve cell) -- consists of cell body, dendrites, glial cells(take care of neuron) and axons(transmit signal to other cells or organ/muscle
+    -   [[neuron]] (nerve cell) -- consists of cell body, dendrites, glial cells(take care of neuron) and axons(transmit signal to other cells or organ/muscle
 
 -   Homeostasis -- how animals maintain internal environment when environment changes
 

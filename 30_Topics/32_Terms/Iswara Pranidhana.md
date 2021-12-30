@@ -6,8 +6,8 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Surrender or devotion to God, a Niyama in Raja Yoga.
+Surrender or devotion to God, a [[Niyama]] in [[Raja Yoga]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[Shuddha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

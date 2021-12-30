@@ -6,8 +6,8 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Situated around the pubic bone or sacrum, it governs relationships and connections.
+Situated around the pubic bone or [[sacrum]], it governs relationships and connections.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[Chakra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -6,8 +6,8 @@ tags: node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The study of the self; a Niyama in Raja Yoga.
+The study of the [[self]]; a [[Niyama]] in [[Raja Yoga]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[meditation]], [[yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
