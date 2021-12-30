@@ -3,8 +3,8 @@ created: 2021-12-26
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-30
-sr-interval: 1
+sr-due: 2022-01-01
+sr-interval: 2
 sr-ease: 170
 ---
 
@@ -22,9 +22,10 @@ I have evolved this to include
 - [[Evergreen notes should be constantly integrating new knowledge]]
 
 [[Conceptual notes]] is an aspect of [[evergreen notes]], but it is something of it's own. #TO/PONDER/ME 
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[knowledge work]], [[knowledge management]]

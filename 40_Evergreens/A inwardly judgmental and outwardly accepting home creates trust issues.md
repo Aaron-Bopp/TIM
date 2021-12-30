@@ -3,8 +3,8 @@ created: 2021-07-30
 tag: node/evergreen 
 aliases:
   - A inwardly judgementful and outwardly accepting home creates trust issues
-sr-due: 2021-12-30
-sr-interval: 9
+sr-due: 2022-01-13
+sr-interval: 14
 sr-ease: 130
 ---
 

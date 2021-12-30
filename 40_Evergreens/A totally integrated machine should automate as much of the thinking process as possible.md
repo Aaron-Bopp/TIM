@@ -3,8 +3,8 @@ created: 2021-12-26
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-30
-sr-interval: 1
+sr-due: 2022-01-01
+sr-interval: 2
 sr-ease: 190
 ---
 
@@ -23,7 +23,7 @@ If possible, you should not be the only thing inputting knowledge into your [[se
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[My TIM]]

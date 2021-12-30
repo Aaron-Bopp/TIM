@@ -4726,7 +4726,7 @@
       "links": 13
     },
     "40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md": {
-      "size": 1534,
+      "size": 1840,
       "tags": 3,
       "links": 11
     },
@@ -4977,8 +4977,8 @@
     },
     "40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md": {
       "size": 1493,
-      "tags": 2,
-      "links": 10
+      "tags": 3,
+      "links": 12
     },
     "40_Evergreens/Your anxiety knows your insecurities better than you do.md": {
       "size": 3642,
@@ -7291,7 +7291,7 @@
       "links": 0
     },
     "20_Entry/21 TODO/BOOKLIST.md": {
-      "size": 278,
+      "size": 516,
       "tags": 0,
       "links": 2
     },
@@ -7451,9 +7451,9 @@
       "links": 14
     },
     "40_Evergreens/We will evolve when we make learning as easy as thinking.md": {
-      "size": 1227,
+      "size": 1426,
       "tags": 2,
-      "links": 16
+      "links": 20
     },
     "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md": {
       "size": 753,
@@ -8101,9 +8101,9 @@
       "links": 0
     },
     "20_Entry/209 Notepad.md": {
-      "size": 2273,
+      "size": 2685,
       "tags": 4,
-      "links": 19
+      "links": 18
     },
     "20_Entry/202 Now.md": {
       "size": 1144,
@@ -8228,7 +8228,7 @@
     "40_Evergreens/The way systems work can create cognitive bias.md": {
       "size": 1746,
       "tags": 5,
-      "links": 27
+      "links": 28
     },
     "40_Evergreens/Neurodiverse people are siloed into systems that work against them.md": {
       "size": 870,
@@ -10998,16 +10998,16 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2687,
+      "Refactor": 2689,
       "Create": 3239,
-      "Link": 5150,
-      "Expand": 520
+      "Link": 5155,
+      "Expand": 524
     },
     "40_Evergreens": {
-      "Refactor": 189,
+      "Refactor": 190,
       "Create": 38,
-      "Link": 479,
-      "Expand": 253
+      "Link": 484,
+      "Expand": 255
     }
   },
   "dailyCommits": {
@@ -11026,8 +11026,8 @@
       "11": 223,
       "12": 422,
       "13": 303,
-      "14": 2341,
-      "15": 140,
+      "14": 2347,
+      "15": 145,
       "16": 904,
       "17": 1595,
       "18": 2174,
@@ -11052,8 +11052,8 @@
       "11": 72,
       "12": 39,
       "13": 86,
-      "14": 73,
-      "15": 8,
+      "14": 78,
+      "15": 11,
       "16": 4,
       "17": 40,
       "18": 11,
@@ -11069,7 +11069,7 @@
       "Mon": 313,
       "Tue": 1610,
       "Wed": 3643,
-      "Thu": 678,
+      "Thu": 689,
       "Fri": 300,
       "Sat": 0,
       "Sun": 5052
@@ -11078,7 +11078,7 @@
       "Mon": 61,
       "Tue": 178,
       "Wed": 166,
-      "Thu": 21,
+      "Thu": 29,
       "Fri": 91,
       "Sat": 0,
       "Sun": 442
@@ -11087,6 +11087,10 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/BOOKLIST.md\"> BOOKLIST </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/course_US History from 1870.md\"> course_US History from 1870 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
@@ -11133,11 +11137,7 @@
         "<a class=\"internal-link\" href=\"Flow State.md\"> Flow State </a>",
         "<a class=\"internal-link\" href=\"Frontal Lobe.md\"> Frontal Lobe </a>",
         "<a class=\"internal-link\" href=\"Generalized Anxiety Disorder (GAD).md\"> Generalized Anxiety Disorder (GAD) </a>",
-        "<a class=\"internal-link\" href=\"Ginkgo (Ginkgo Biloba).md\"> Ginkgo (Ginkgo Biloba) </a>",
-        "<a class=\"internal-link\" href=\"Ketamine.md\"> Ketamine </a>",
-        "<a class=\"internal-link\" href=\"Korean Ginseng.md\"> Korean Ginseng </a>",
-        "<a class=\"internal-link\" href=\"Obsessive Compulsive Disorder (OCD).md\"> Obsessive Compulsive Disorder (OCD) </a>",
-        "<a class=\"internal-link\" href=\"Pituitary Gland.md\"> Pituitary Gland </a>"
+        "<a class=\"internal-link\" href=\"Ginkgo (Ginkgo Biloba).md\"> Ginkgo (Ginkgo Biloba) </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"00_Meta/Templates/auto link text.md\"> auto link text </a>",
@@ -11246,6 +11246,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/structure.md\"> structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/infinite.md\"> infinite </a>",
@@ -11295,8 +11296,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenal Gland.md\"> Adrenal Gland </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ahamkara.md\"> Ahamkara </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ahimsa.md\"> Ahimsa </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ajna Chakra.md\"> Ajna Chakra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Alprazolam.md\"> Alprazolam </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ajna Chakra.md\"> Ajna Chakra </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -11390,6 +11390,10 @@
         "<a class=\"internal-link\" href=\"Symbiosis.md\"> Symbiosis </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/course_US History from 1870.md\"> course_US History from 1870 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_1950's General Notes.md\"> notes_1950's General Notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_1960's General Notes.md\"> notes_1960's General Notes </a>",
@@ -11436,11 +11440,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahman.md\"> Brahman </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Association Cortices.md\"> Association Cortices </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
@@ -11496,6 +11496,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\"> Learning how systems work can be a gateway to creating thought </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_2000's General Notes.md\"> notes_2000's General Notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
@@ -11544,13 +11546,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
@@ -11599,9 +11601,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\"> My worldview is not about conversion it is about acceptance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -11697,6 +11697,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
@@ -11746,8 +11747,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How something is named effects people's perception of it.md\"> How something is named effects people's perception of it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\"> Parents need to model the ability to deal with emotion to their children </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -11790,6 +11790,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The way systems work can create cognitive bias.md\"> The way systems work can create cognitive bias </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
@@ -11836,10 +11840,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>"
       ],
       "Removed Tags from": [
@@ -11921,7 +11921,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>"
       ]
     }
   },

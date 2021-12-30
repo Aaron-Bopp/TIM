@@ -1,4 +1,7 @@
-[[Consciousness is the fundamental unit of existence]]
+> "If you are the common denominator, then you also have the power to change"
+> ^[[Interview With A Murderer: Live After Prison - YouTube](https://youtu.be/W96yNjU_KFE?t=3949)]
+>
+> <cite>[[Dr. K]]</cite>
 
 "Sometimes it's easiest to take the chances that have the highest likelihood of failure" - [[Dr. K]]
 [Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)

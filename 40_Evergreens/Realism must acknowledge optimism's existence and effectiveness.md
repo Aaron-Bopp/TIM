@@ -19,6 +19,8 @@ Even if you think that optimism is ignorant it does not change the fact that opt
 %%
 #TO/TEND/GRAFT newer ideas%%
 
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN/GRAFT 

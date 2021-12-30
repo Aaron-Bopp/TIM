@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-30
-sr-interval: 39
+sr-due: 2022-04-07
+sr-interval: 98
 sr-ease: 250
 ---
 
@@ -15,7 +15,8 @@ sr-ease: 250
 > <cite>[[articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace|headspace.com]]</cite>
 - [[Human's will find explanations for inexplainable things]]
 - [[Our brains are built around survival]] or [[Our brain will do anything it can to protect itself]]
-
+- [[Humans are a product of evolution]]
+- #TO/DO/CONCEPTUALIZE connections to [[notes_Anxiety 101]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

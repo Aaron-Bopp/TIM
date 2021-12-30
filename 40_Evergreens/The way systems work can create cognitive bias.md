@@ -3,8 +3,8 @@ created: 2021-12-12
 aliases:
   - null
 tags: node/evergreen
-sr-due: 2021-12-30
-sr-interval: 2
+sr-due: 2022-01-03
+sr-interval: 4
 sr-ease: 176
 ---
 
@@ -16,6 +16,7 @@ sr-ease: 176
 	- [[Only use organization systems as far as they are useful]]
 	- [[Learning how systems work can be a gateway to creating thought]]
 	- [[Hard rules create cognitive bias]]
+	- [[Hard boundaries reduce opportunities for creativity]]
 - In the [[human experience]] #TO/TEND/GRAFT 
 	- [[Stereotypes are social constructs]]
 		- [[Stereotyping has the psychological goal of comprehension and self-enhancement]]

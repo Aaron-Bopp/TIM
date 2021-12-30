@@ -3,9 +3,9 @@ created: 2021-08-01
 tags: node/evergreen
 aliases:
   - null
-sr-due: 2021-12-30
-sr-interval: 16
-sr-ease: 249
+sr-due: 2022-02-18
+sr-interval: 50
+sr-ease: 229
 ---
 
 #### [[McCarthyism is an attack on totalitarianism not communism]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

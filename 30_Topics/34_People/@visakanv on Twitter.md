@@ -10,7 +10,8 @@ tags: node/topic/person
 ```dataview
 TABLE 
 	length(file.inlinks) as In, 
-	length(file.outlinks) as Out
+	length(file.outlinks) as Out,
+	date(years-bce) as Date
 from [[@visakanv on Twitter]]
 ```
 
