@@ -1,5 +1,9 @@
 #node/personal 
 
+### 2021-12-31 04:31 pm
+
+After years of [[atheism]], a drop of [[belief]] can still make my heart jump
+
 ## December
 
 ### 2021-12-24 12:41 am
@@ -8,7 +12,7 @@ My religious upbringing is core to my understanding of the world
 
 ### 2021-12-21 12:17 pm
 
-I am feeling really anxious. I am not quite sure why. It came as I was thinking about n[[note writing]], specifically differences between my system and the existing systems that it is based off of. I am going to see someone later, so it may just be [[social anxiety]], but it feels like something deeper. Like that I feel that I should be worried about something.
+I am feeling really anxious. I am not quite sure why. It came as I was thinking about [[note writing]], specifically differences between my system and the existing systems that it is based off of. I am going to see someone later, so it may just be [[social anxiety]], but it feels like something deeper. Like that I feel that I should be worried about something.
 
 ### 2021-12-12 12:39 am
 
@@ -60,12 +64,15 @@ pain
 %%Looking back now this just reads as [[over-stimulation]] I was in the middle of the one act at the time - 2021/12/12 %%
 
 ## July
+
 ### 2021-07-30
+
 #### My unfulfilled need for parental validation became a fear of rejection and disregardment of affection
 
 [[An unfulfilled need for validation results in a fear of rejection]] and [[A inwardly judgmental and outwardly accepting home creates trust issues]] were both at play during my childhood. [[my parents]] were very loving and very religious which I think is what brought about my [[religious trauma]] and my intense need for [[emotional validation]] from them. 
 
 #TO/TEND/CONCEPTUALIZE link between [[religious trauma]] and [[emotional validation]]
+
 ## June
 
 ### 2021-6-11
@@ -75,6 +82,7 @@ My self-image is purely based on other's perceptions of me
 This is a bit part of [[My relationship with my parents]]. From an early age, [[Self-hatred is born out of dissonance between self-image and self-perception]] caused me to not trust my own experience of the world because as a [[transgender|trans]] person, my [[self-image]] or my gender was wholly different than the [[gender]] that was expected of me.
 
 This really impacted my [[social anxiety]] because [[Your anxiety knows your insecurities better than you do]].
+
 #### I have a stored up emotion of hating myself
 
 When human's feel a certain emotion, they have no choice but to deal with it. When they feel that emotion again they have a choice whether to deal with it the same way as before or a different way. 
@@ -84,6 +92,7 @@ In [[childhood]] we do not have many ways to deal with emotion, and so when they
 The fundamental emotional reactions of crying, laughter, screaming, are all a part of how we deal with the world. This is instinctual, but as children develop they start to learn different methods of dealing with emotions. [[Parents need to model the ability to deal with emotion to their children]]. 
 
 Unfortunately, one way of dealing with emotion is avoidance, and [[Avoidance IS the most-efficient way of dealing with emotion]]. 
+
 #### In order to for my parents to love me, they need to admit they might be wrong
 
 In order for me to feel like [[my parents]] [[love]] me, I need to see them empathize with me --> which requires them to consider the fact that they might be wrong:[[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
@@ -96,8 +105,8 @@ This issue is not black and white, the [[love]] that [[my parents]] feel for me 
 
 [[Religious concepts are often too powerful for a child's mind]]
 
-
 ### 2021-06-03
+
 #### I thought negative emotions were natural and that positive emotions weren't real
 
 I think from an early age I had many sources of negative feedback for things that made me feel like who I was supposed to be was unnatural. Whether it was getting my hair cut short, or feeling a rush of testosterone when playing sports or being competitive, I didn't like the things that I was supposed to according to my assigned [[gender]] ([[Self-hatred is born out of dissonance between self-image and self-perception]], [[Gender Dysphoria is based in a intrinsic wrongness of self]]). Things that did make me feel good were discouraged and so I tried to repress to feeling and urges and in the process repressed most of my emotions. 

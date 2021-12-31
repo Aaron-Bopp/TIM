@@ -23,10 +23,11 @@ type: second brain
 	- concept oriented
 	- densely linked
 	- organically structural
-- My reading inbox is  the to(do) structure and my writing inbox is the ever(green) structure [[my TO(DO) and EVER(GREEN) structure]]
+- My reading inbox is  the to(do) structure and my writing inbox is the ever(green) structure [[my TO(DO) and EVER(GREEN) structure]] ^4e6b97
 - > Organizing by concept makes note-taking a little harder, but in a useful way: when writing new notes, we have to find where they fit into the whole. So we explore some part of our prior web of notes, which may lead us somewhere unexpected. [](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)
 - > These are often declarative or imperative phrases making a strong claim. This puts pressure on me to adequately support the claim in the body. If I write a note but struggle to summarize it in a sharp title, that’s often a sign that my thinking is muddy or that this note is about several topics"
-- > "define a new node extensionally (rather than intensionally) by simply linking to it from many other nodes—even before it has any content"  [[Stub notes are data structures for implicit knowledge gathering]]
+
+- > "define a new node extensionally (rather than intentionally) by simply linking to it from many other nodes—even before it has any content"  %% [[Stub notes are data structures for implicit knowledge gathering]]%% ^vscgpo
 
 - > "You need to be able to see the context around the backlink to understand what’s being implied." 
 ### [[spaced repetition]]

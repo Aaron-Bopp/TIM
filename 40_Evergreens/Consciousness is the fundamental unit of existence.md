@@ -18,6 +18,9 @@ As you become less trapped in your mind, you become more [[conscious]]
 
 [[conscious|consciousness]] is a skill and divinity is the goal... [[enlightenment]]?
 
+##### Counter:: Time is the fundamental unit of existence
+This doesn't make sense for someone who believes in [[reincarnation]] and [[karma]], but for most people their time on earth is the only there concerned about. #TO/PONDER what are the effects of this [[belief]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED
