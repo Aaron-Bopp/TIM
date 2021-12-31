@@ -1,11 +1,11 @@
-<% tp.file.include("[[META]]") %> node/source/stub
-type:
-  - null 
+<% tp.file.include("[[META]]") %> created/source/<% tp.date.now("YYYY/MM/DD") %>, node/source/notes
 ---
 
 ##### [[<% tp.file.title %> ]]
-**Creator**:: 
+**Creator**:: [[Dr. K]]
  
-**Source**::
+**Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Related**:: 
+**Link**:: 
+
+#### Terms

@@ -12,7 +12,8 @@ type:
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Related**:: 
+**Next**:: [[notes_Different Meditative Styles]]
+**Previous**:: [[notes_Overview of Meditation Module]]
 
 - [[meditation]] practices need to be specialized to the person
 - intersection of researchers and meditation practices

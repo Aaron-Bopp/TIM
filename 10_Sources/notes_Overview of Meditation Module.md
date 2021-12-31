@@ -8,11 +8,12 @@ type:
 ---
 
 ##### [[notes_Overview of Meditation Module ]]
-**Creator**:: 
+**Creator**:: [[Dr. K]]
  
-**Source**::
+**Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Related**:: 
+**Next**:: [[notes_History of Meditation]]
+**Previous**:: [[course_Dr. K's Guide to Mental Health]]
 
 - [[Dr. K]] spent a lot of time wanting to become a monk and learned from lots of teachers
 - Everybody needs a personalized method of meditation

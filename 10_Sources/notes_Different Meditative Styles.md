@@ -12,7 +12,11 @@ type:
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Related**:: 
+
+**Next**:: [[notes_Science of Meditation]]
+**Previous**:: [[notes_History of Meditation]]
+
+
 
 - [[Raja Yoga]]
 	- [[Yama]]s are societal observances
