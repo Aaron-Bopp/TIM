@@ -1,6 +1,6 @@
 ---
 created: 2021-05-31
-tags: created/2021/05/31, node/source/course
+tags: created/source/2021/05/31, node/source/course
 ---
 
 ##### [[course_US History from 1870 ]]

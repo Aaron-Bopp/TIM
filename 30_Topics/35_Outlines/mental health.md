@@ -8,7 +8,7 @@ embedded:
 - [[yoga]]
 - [[neurodivergency]]
 
-tags: created/2021/05/29, node/topic/outline
+tags: created/topic/2021/05/29, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

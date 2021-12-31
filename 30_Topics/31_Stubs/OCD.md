@@ -1,6 +1,6 @@
 ---
 created: 2021-06-16
-tags: created/2021/06/16, node/topic/stub
+tags: created/topic/2021/06/16, node/topic/stub
 aliases:
 - obsessive compulsive disorder
 - Obsessive Compulsive Disorder

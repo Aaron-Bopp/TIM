@@ -4,7 +4,7 @@ aliases:
   - "Tweets From Laur"
   - "Tweets From Laur by @im_just_laur on Twitter"
   - "@im_just_laur on Twitter"
-tags: created/2021/12/28, node/source/tweets
+tags: created/source/2021/12/28, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

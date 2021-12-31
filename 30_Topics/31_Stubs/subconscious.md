@@ -1,6 +1,6 @@
 ---
 created: 2021-07-02
-tags: created/2021/07/02, node/topic/stub
+tags: created/topic/2021/07/02, node/topic/stub
 aliases:
 - subconsciously
 - ego

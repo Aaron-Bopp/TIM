@@ -3,7 +3,7 @@ created: 2021-12-29
 aliases:
   - Noradrenaline
   - Norepinephrine
-tags: created/2021/12/29, node/topic/term
+tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

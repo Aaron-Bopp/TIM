@@ -1,6 +1,6 @@
 ---
 created: 2021-05-22
-tags: created/2021/05/22, node/evergreen
+tags: created/evergreen/2021/05/22, node/evergreen
 aliases:
   - Creating thought with a second brain
 sr-due: 2022-01-21

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "55345bc2091553a9",
+        "id": "de55d3ca6b025048",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
+            "file": "30_Topics/32_Terms/Acetycholine.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,58 +19,124 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "55345bc2091553a9",
+              "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Acetycholine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "55345bc2091553a9",
+              "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/6 Social Dysphoria.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "55345bc2091553a9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/8 Sexual Dysphoria.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "55345bc2091553a9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/7 Societal Dysphoria.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "55345bc2091553a9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/9 Presentational Dysphoria.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Adrenaline.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "55345bc2091553a9",
+              "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Alexithymia.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Anahata Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Anorgasmia.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "55345bc2091553a9",
+              "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/11 Managed Dysphoria Gender in Disguise.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Alprazolam.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/anti-science.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Alprazolam.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ajna Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ahamkara.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Abolition.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/201 Welcome.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "55345bc2091553a9",
+              "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 Now.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "55345bc2091553a9",
+              "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Writing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/205 Index.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/206 Folder Hierarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/207 Tag Hierarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/208 Note Hierarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -104,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2021/12",
+                "query": "tag:#created/evergreen/2021/08",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -123,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
+                "file": "30_Topics/32_Terms/Acetycholine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -156,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
+                "file": "30_Topics/32_Terms/Acetycholine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +238,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             },
@@ -182,11 +248,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 321
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -202,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md"
+                "file": "30_Topics/32_Terms/Acetycholine.md"
               }
             },
             "pane-relief:history-v1": {
@@ -319,7 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
+                "file": "30_Topics/32_Terms/Acetycholine.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -429,17 +495,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "55345bc2091553a9",
+  "active": "de55d3ca6b025048",
   "lastOpenFiles": [
-    "10_Sources/Qoutes/'It is a capital mistake to theorize without having data' - Sherlock Holmes.md",
-    "00_Meta/Primary Sources/gender-dysphoria-bible/6 Social Dysphoria.md",
-    "00_Meta/Primary Sources/gender-dysphoria-bible/8 Sexual Dysphoria.md",
-    "00_Meta/Primary Sources/gender-dysphoria-bible/7 Societal Dysphoria.md",
-    "00_Meta/Primary Sources/gender-dysphoria-bible/9 Presentational Dysphoria.md",
-    "00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md",
-    "00_Meta/Primary Sources/gender-dysphoria-bible/11 Managed Dysphoria Gender in Disguise.md",
-    "00_Meta/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
-    "10_Sources/Readwise/Tweets/tweets_Autism Adhd Field Report....md",
-    "10_Sources/Readwise/Tweets/tweets_A Lot of Paradoxes Might....md"
+    "30_Topics/32_Terms/Acetycholine.md",
+    "30_Topics/32_Terms/Adrenaline.md",
+    "30_Topics/32_Terms/Alexithymia.md",
+    "30_Topics/32_Terms/Anahata Chakra.md",
+    "30_Topics/32_Terms/Anorgasmia.md",
+    "30_Topics/32_Terms/Alprazolam.md",
+    "30_Topics/32_Terms/anti-science.md",
+    "30_Topics/32_Terms/Ajna Chakra.md",
+    "30_Topics/32_Terms/Ahamkara.md",
+    "30_Topics/32_Terms/Abolition.md"
   ]
 }

@@ -4,7 +4,7 @@ aliases:
   - "Highlights From twitter.com"
   - "Highlights From twitter.com by twitter.com"
   - "twitter.com"
-tags: created/2021/11/02, node/source/articles
+tags: created/source/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

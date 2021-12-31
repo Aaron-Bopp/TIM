@@ -4,7 +4,7 @@ aliases:
   - "Bulky Cameras, Meet the Lens-Less FlatCam"
   - "Bulky Cameras, Meet the Lens-Less FlatCam by npr.org"
   - "npr.org"
-tags: created/2021/11/02, node/source/articles
+tags: created/source/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

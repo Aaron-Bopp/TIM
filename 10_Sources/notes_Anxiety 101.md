@@ -2,7 +2,7 @@
 created: 2021-12-30 
 aliases:
   - null
-tags: created/2021/12/30, node/source/notes
+tags: created/source/2021/12/30, node/source/notes
 type:
   - null 
 ---

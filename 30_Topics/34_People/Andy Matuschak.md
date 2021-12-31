@@ -1,6 +1,6 @@
 ---
 created: 2021-05-29
-tags: created/2021/05/29, node/topic/person
+tags: created/topic/2021/05/29, node/topic/person
 ---
 [[Andy Matuschak's Evergreen Notes]]
 

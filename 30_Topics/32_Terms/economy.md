@@ -2,7 +2,7 @@
 created: 2021-10-06
 aliases:
   - economic
-tags: created/2021/10/06, node/topic/term
+tags: created/topic/2021/10/06, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

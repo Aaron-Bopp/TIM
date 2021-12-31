@@ -2,7 +2,7 @@
 created: 2021-05-31
 aliases:
   - Yogic
-tags: created/2021/05/31, node/topic/term
+tags: created/topic/2021/05/31, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

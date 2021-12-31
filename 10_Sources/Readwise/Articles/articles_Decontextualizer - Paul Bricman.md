@@ -4,7 +4,7 @@ aliases:
   - "Decontextualizer - Paul Bricman"
   - "Decontextualizer - Paul Bricman by paulbricman.com"
   - "paulbricman.com"
-tags: created/2021/12/11, node/source/articles
+tags: created/source/2021/12/11, node/source/articles
 type: 
   - articles
 deliveredBy: 

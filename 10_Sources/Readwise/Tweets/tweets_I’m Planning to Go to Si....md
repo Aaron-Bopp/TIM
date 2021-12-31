@@ -4,7 +4,7 @@ aliases:
   - "I’m Planning to Go to Si..."
   - "I’m Planning to Go to Si... by @visakanv on Twitter"
   - "@visakanv on Twitter"
-tags: created/2021/11/09, node/source/tweets
+tags: created/source/2021/11/09, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

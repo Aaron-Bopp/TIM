@@ -5,7 +5,7 @@ aliases:
   - "Semantic Battleground: The War of Neurodiversity by
     threetrackmind.wordpress.com"
   - "threetrackmind.wordpress.com"
-tags: created/2021/11/02, node/source/articles
+tags: created/source/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

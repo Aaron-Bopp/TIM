@@ -2,7 +2,7 @@
 created: 2021-11-09 
 aliases:
   - fear of trying
-tags: created/2021/11/09, node/evergreen
+tags: created/evergreen/2021/11/09, node/evergreen
 sr-due: 2022-01-12
 sr-interval: 35
 sr-ease: 228

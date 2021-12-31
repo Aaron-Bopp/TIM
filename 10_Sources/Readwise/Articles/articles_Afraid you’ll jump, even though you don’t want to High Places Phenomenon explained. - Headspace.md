@@ -6,7 +6,7 @@ aliases:
   - "Afraid you’ll jump, even though you don’t want to? High Places Phenomenon
     explained. - Headspace by headspace.com"
   - "headspace.com"
-tags: created/2021/11/02, node/source/articles
+tags: created/source/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

@@ -4,7 +4,7 @@ aliases:
   - "Various ways to include comments on your static site"
   - "Various ways to include comments on your static site by darekkay.com"
   - "darekkay.com"
-tags: created/2021/11/18, node/source/articles
+tags: created/source/2021/11/18, node/source/articles
 type: 
   - articles
 deliveredBy: 

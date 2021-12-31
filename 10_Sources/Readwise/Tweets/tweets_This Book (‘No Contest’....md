@@ -4,7 +4,7 @@ aliases:
   - "This Book (‘No Contest’..."
   - "This Book (‘No Contest’... by @roryreckons on Twitter"
   - "@roryreckons on Twitter"
-tags: created/2021/11/10, node/source/tweets
+tags: created/source/2021/11/10, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

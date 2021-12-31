@@ -4,7 +4,7 @@ aliases:
   - make obsidian plugins
   - developing obsidian plugins
   - Plugin Ideas
-tags: created/2021/10/23, node/evergreen, node/technique
+tags: created/evergreen/2021/10/23, node/evergreen, node/technique
 sr-due: 2022-01-07
 sr-interval: 16
 sr-ease: 250

@@ -2,7 +2,7 @@
 created: 2021-11-21 
 aliases:
   - null
-tags: created/2021/11/21, node/source/qoutes
+tags: created/source/2021/11/21, node/source/qoutes
 ---
 > A difficult task is one that is easy to screw up even if you know what you're doing
 >

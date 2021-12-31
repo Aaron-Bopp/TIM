@@ -4,7 +4,7 @@ aliases:
   - "Quantum computing for the very curious"
   - "Quantum computing for the very curious by Matuschak, Andy, Nielsen, Michael"
   - "Matuschak, Andy, Nielsen, Michael"
-tags: created/2021/11/02, node/source/articles
+tags: created/source/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

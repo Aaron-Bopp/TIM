@@ -4,7 +4,7 @@ aliases:
   - "Tweets From Laura McConnell 🦡"
   - "Tweets From Laura McConnell 🦡 by @LauraFMcConnell on Twitter"
   - "@LauraFMcConnell on Twitter"
-tags: created/2021/12/04, node/source/tweets
+tags: created/source/2021/12/04, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

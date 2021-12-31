@@ -4,7 +4,7 @@ aliases:
   - "Type Six — The Enneagram Institute"
   - "Type Six — The Enneagram Institute by enneagraminstitute.com"
   - "enneagraminstitute.com"
-tags: created/2021/11/02, node/source/articles
+tags: created/source/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

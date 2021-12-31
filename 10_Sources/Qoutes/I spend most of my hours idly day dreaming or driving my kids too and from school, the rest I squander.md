@@ -2,7 +2,7 @@
 created: 2021-09-22
 aliases:
   - null
-tags: created/2021/09/22, node/source/qoutes 
+tags: created/source/2021/09/22, node/source/qoutes 
 ---
 
 **Source**:: [how we spend our days - YouTube](https://youtu.be/job52mBUvjc?t=142)

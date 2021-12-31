@@ -2,7 +2,7 @@
 created: 2021-12-28 
 aliases:
   - null
-tags: created/2021/12/28, node/topic/person
+tags: created/topic/2021/12/28, node/topic/person
 aliases:
   - Rory McCarthy
 ---

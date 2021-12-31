@@ -3,7 +3,7 @@ created: 2021-06-17
 aliases:
   - empathic
   - empathise
-tags: created/2021/06/17, node/topic/stub
+tags: created/topic/2021/06/17, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

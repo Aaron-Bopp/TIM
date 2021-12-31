@@ -4,7 +4,7 @@ aliases:
   - "Every Week, I Post a Thr..."
   - "Every Week, I Post a Thr... by @stevemagness on Twitter"
   - "@stevemagness on Twitter"
-tags: created/2021/11/10, node/source/tweets
+tags: created/source/2021/11/10, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

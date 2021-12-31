@@ -4,7 +4,7 @@ aliases:
   - "Rank and File — Real Life"
   - "Rank and File — Real Life by Os Keyes"
   - "Os Keyes"
-tags: created/2021/11/02, node/source/articles
+tags: created/source/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

@@ -4,7 +4,7 @@ aliases:
   - "How To Take Notes From Podcasts With Snipd | Medium"
   - "How To Take Notes From Podcasts With Snipd | Medium by Snipd"
   - "Snipd"
-tags: created/2021/11/03, node/source/articles
+tags: created/source/2021/11/03, node/source/articles
 type:
   - articles
 deliveredBy:

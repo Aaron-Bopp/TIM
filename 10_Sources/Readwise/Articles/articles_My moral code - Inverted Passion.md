@@ -4,7 +4,7 @@ aliases:
   - "My moral code - Inverted Passion"
   - "My moral code - Inverted Passion by invertedpassion.com"
   - "invertedpassion.com"
-tags: created/2021/11/28, node/source/articles
+tags: created/source/2021/11/28, node/source/articles
 type: 
   - articles
 deliveredBy: 

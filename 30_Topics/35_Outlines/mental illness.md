@@ -1,6 +1,6 @@
 ---
 created: 2021-06-25
-tags: created/2021/06/25, node/topic/outline
+tags: created/topic/2021/06/25, node/topic/outline
 aliases:
   - null
 ---

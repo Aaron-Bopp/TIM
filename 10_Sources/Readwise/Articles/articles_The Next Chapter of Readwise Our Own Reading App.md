@@ -4,7 +4,7 @@ aliases:
   - "The Next Chapter of Readwise: Our Own Reading App"
   - "The Next Chapter of Readwise: Our Own Reading App by blog.readwise.io"
   - "blog.readwise.io"
-tags: created/2021/11/02, node/source/articles
+tags: created/source/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

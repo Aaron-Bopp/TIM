@@ -2,7 +2,7 @@
 created: 2021-12-29 
 aliases:
   - spiritual
-tags: created/2021/12/29, node/topic/stub
+tags: created/topic/2021/12/29, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

@@ -4,7 +4,7 @@ aliases:
   - "Tweets From Completely Stable Genius"
   - "Tweets From Completely Stable Genius by @yes_allcops on Twitter"
   - "@yes_allcops on Twitter"
-tags: created/2021/11/06, node/source/tweets
+tags: created/source/2021/11/06, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

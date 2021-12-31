@@ -13,6 +13,7 @@ cssclass: wordcountTable
 
 **set to 0 to ignore**
 
+
 charTarget:: 
 
 wordTarget:: 0

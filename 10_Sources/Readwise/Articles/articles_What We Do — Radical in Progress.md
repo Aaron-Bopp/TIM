@@ -4,7 +4,7 @@ aliases:
   - "What We Do — Radical in Progress"
   - "What We Do — Radical in Progress by radicalinprogress.org"
   - "radicalinprogress.org"
-tags: created/2021/11/02, node/source/articles
+tags: created/source/2021/11/02, node/source/articles
 type:
   - articles
 deliveredBy:

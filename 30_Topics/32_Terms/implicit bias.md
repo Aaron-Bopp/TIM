@@ -1,6 +1,6 @@
 ---
 created: 2021-10-19
-tags: created/2021/10/19, node/topic/term
+tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

@@ -1,6 +1,6 @@
 ---
 created: 2021-08-15
-tags: created/2021/08/15, node/topic/term
+tags: created/topic/2021/08/15, node/topic/term
 aliases:
   - Abolitionism
 date modified: Tuesday, September 28th 2021, 9:59:34 am

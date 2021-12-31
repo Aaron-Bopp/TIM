@@ -4,7 +4,7 @@ aliases:
   - "The Feynman Learning Technique - Farnam Street"
   - "The Feynman Learning Technique - Farnam Street by fs.blog"
   - "fs.blog"
-tags: created/2021/12/26, node/source/articles
+tags: created/source/2021/12/26, node/source/articles
 type: 
   - articles
 deliveredBy: 

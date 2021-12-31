@@ -2,7 +2,7 @@
 created: 2021-05-26
 aliases:
   - Obsidian
-tags: created/2021/05/26, node/topic/tool
+tags: created/topic/2021/05/26, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

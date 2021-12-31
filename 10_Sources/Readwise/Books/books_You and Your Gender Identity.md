@@ -4,7 +4,7 @@ aliases:
   - "You and Your Gender Identity"
   - "You and Your Gender Identity by Dara Hoffman-Fox, Zinnia Jones, Sam Dylan Finch, and Zander Keig"
   - "Dara Hoffman-Fox, Zinnia Jones, Sam Dylan Finch, and Zander Keig"
-tags: created/2021/07/23, node/source/books
+tags: created/source/2021/07/23, node/source/books
 type: 
   - books
 deliveredBy: 
