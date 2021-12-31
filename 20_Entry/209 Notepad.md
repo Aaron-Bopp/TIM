@@ -1,3 +1,6 @@
+> "Ego is when your sense of self comes from the outside" - [[Dr. K]]
+> [Healing from Festered Emotions ft. CrankGameplays (co-creator of Unus Annus) - YouTube](https://youtu.be/sXGhT4pJcj8?t=5255)
+
 > "If you are the common denominator, then you also have the power to change"
 > ^[[Interview With A Murderer: Live After Prison - YouTube](https://youtu.be/W96yNjU_KFE?t=3949)]
 >

@@ -7,12 +7,23 @@
         "id": "de55d3ca6b025048",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "20_Entry/209 Notepad.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
@@ -126,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":31},\"to\":{\"line\":79,\"ch\":31}},\"scroll\":67.42820282753456}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Falling Behind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":14},\"to\":{\"line\":16,\"ch\":14}}}"
             }
           ]
         }
@@ -165,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node",
+                "query": "tag:#node/source",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -184,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20_Entry/209 Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -216,6 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20_Entry/209 Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +267,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20_Entry/209 Notepad.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -376,6 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "20_Entry/209 Notepad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -487,6 +497,7 @@
   },
   "active": "de55d3ca6b025048",
   "lastOpenFiles": [
+    "20_Entry/209 Notepad.md",
     "10_Sources/course_Dr. K's Guide to Mental Health.md",
     "10_Sources/notes_Science of Meditation.md",
     "10_Sources/Mental Health/videoSamskara.md",
@@ -495,7 +506,6 @@
     "10_Sources/notes_the Fantasy Trap.md",
     "10_Sources/notes_Conditional Love.md",
     "10_Sources/notes_Herbs for Depression.md",
-    "10_Sources/notes_Dealing with Samskaras.md",
-    "10_Sources/notes_Falling Behind.md"
+    "10_Sources/notes_Dealing with Samskaras.md"
   ]
 }
