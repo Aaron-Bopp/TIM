@@ -6,8 +6,8 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The capacity to observe other parts of our self. Literally translated as the witnessing attitude, also known as mindfulness.
- ^[[[course_Dr. K's Guide to Mental Health]]]
+The capacity to observe other parts of our [[self]]. Literally translated as the witnessing attitude, also known as [[mindfulness]].
+ ^[[[notes_The Nature of Mind]]]
 
-**See**::
+**See**:: [[eastern philosophy]], [[meditation]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

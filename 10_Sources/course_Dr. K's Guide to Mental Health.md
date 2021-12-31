@@ -28,6 +28,7 @@ type:
 - [[notes_Sangha]]
 - [[notes_Shuddhi]]
 - [[notes_Satya]]
+- [[notes_The Nature of Mind]]
 - [[notes_the Nature of Self]]
 - [[notes_Panchakosha Theory]]
 - [[notes_Confidence vs Ego]]

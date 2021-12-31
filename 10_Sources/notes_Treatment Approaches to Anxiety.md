@@ -17,7 +17,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Serotonin Norepinephrine Reuptake Inhibitor (SNRI)]]
 - [[Serotonin Reuptake Inhibitor (SRI)]]
 - [[Psychodynamic Therapy]]
-- [[Cognitive Behavioral Therapy (CBT)]]
+- [[CBT]]
 - [[Dialectical Behavioral Therapy (DBT)]]
 - [[Complementary and Alternative Medicine (CAM)]]
 - [[Benzodiazepines]]

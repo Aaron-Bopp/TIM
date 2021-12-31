@@ -4501,7 +4501,7 @@
       "links": 17
     },
     "40_Evergreens/Dual Nostril Breathing Meditation.md": {
-      "size": 607,
+      "size": 1049,
       "tags": 4,
       "links": 4
     },
@@ -8031,9 +8031,9 @@
       "links": 9
     },
     "30_Topics/35_Outlines/meditation.md": {
-      "size": 738,
+      "size": 513,
       "tags": 2,
-      "links": 5
+      "links": 6
     },
     "30_Topics/35_Outlines/My TIM.md": {
       "size": 2039,
@@ -8780,11 +8780,6 @@
       "tags": 2,
       "links": 0
     },
-    "30_Topics/31_Stubs/conscious.md": {
-      "size": 200,
-      "tags": 2,
-      "links": 2
-    },
     "30_Topics/31_Stubs/consent.md": {
       "size": 163,
       "tags": 2,
@@ -9191,9 +9186,9 @@
       "links": 1
     },
     "30_Topics/31_Stubs/mindfulness.md": {
-      "size": 399,
+      "size": 569,
       "tags": 2,
-      "links": 3
+      "links": 7
     },
     "30_Topics/31_Stubs/morality.md": {
       "size": 178,
@@ -9678,7 +9673,7 @@
     "10_Sources/course_Dr. K's Guide to Mental Health.md": {
       "size": 2201,
       "tags": 2,
-      "links": 68
+      "links": 69
     },
     "30_Topics/32_Terms/Zen.md": {
       "size": 296,
@@ -9914,11 +9909,6 @@
       "size": 399,
       "tags": 2,
       "links": 5
-    },
-    "30_Topics/32_Terms/Cognitive Behavioral Therapy (CBT).md": {
-      "size": 385,
-      "tags": 2,
-      "links": 1
     },
     "30_Topics/32_Terms/Complementary and Alternative Medicine (CAM).md": {
       "size": 295,
@@ -10483,7 +10473,7 @@
     "30_Topics/32_Terms/Sakshi Bhava.md": {
       "size": 332,
       "tags": 2,
-      "links": 1
+      "links": 5
     },
     "30_Topics/32_Terms/Samadhi.md": {
       "size": 286,
@@ -10658,7 +10648,7 @@
     "30_Topics/32_Terms/Vairagya.md": {
       "size": 241,
       "tags": 2,
-      "links": 2
+      "links": 5
     },
     "30_Topics/32_Terms/Vajrayana Buddhism.md": {
       "size": 370,
@@ -11284,20 +11274,45 @@
       "size": 0,
       "tags": 2,
       "links": 3
+    },
+    "10_Sources/notes_The Nature of Mind.md": {
+      "size": 1254,
+      "tags": 2,
+      "links": 19
+    },
+    "30_Topics/32_Terms/conscious.md": {
+      "size": 535,
+      "tags": 2,
+      "links": 6
+    },
+    "30_Topics/32_Terms/CBT.md": {
+      "size": 536,
+      "tags": 2,
+      "links": 4
+    },
+    "30_Topics/31_Stubs/detachment.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "10_Sources/notes_System of Mind.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2714,
-      "Create": 3298,
-      "Link": 6372,
-      "Expand": 569
+      "Refactor": 2719,
+      "Create": 3301,
+      "Link": 6391,
+      "Expand": 576
     },
     "40_Evergreens": {
       "Refactor": 190,
       "Create": 38,
       "Link": 723,
-      "Expand": 271
+      "Expand": 272
     }
   },
   "dailyCommits": {
@@ -11315,8 +11330,8 @@
       "10": 277,
       "11": 223,
       "12": 422,
-      "13": 303,
-      "14": 2347,
+      "13": 304,
+      "14": 2380,
       "15": 145,
       "16": 904,
       "17": 2714,
@@ -11342,7 +11357,7 @@
       "11": 72,
       "12": 39,
       "13": 86,
-      "14": 78,
+      "14": 79,
       "15": 11,
       "16": 4,
       "17": 295,
@@ -11360,7 +11375,7 @@
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
-      "Fri": 300,
+      "Fri": 334,
       "Sat": 0,
       "Sun": 5052
     },
@@ -11369,7 +11384,7 @@
       "Tue": 178,
       "Wed": 166,
       "Thu": 284,
-      "Fri": 91,
+      "Fri": 92,
       "Sat": 0,
       "Sun": 442
     }
@@ -11377,6 +11392,13 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT.md\"> CBT </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mindfulness.md\"> mindfulness </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conscious.md\"> conscious </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Depression.md\"> notes_Herbs for Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Brain Gut Axis.md\"> notes_Brain Gut Axis </a>",
@@ -11420,16 +11442,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kriya Yoga.md\"> Kriya Yoga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Physiologic Anxiety.md\"> Physiologic Anxiety </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Raja Yoga.md\"> Raja Yoga </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/The Collector's Fallacy.md\"> The Collector's Fallacy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Computer Science.md\"> Computer Science </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/BOOKLIST.md\"> BOOKLIST </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/course_US History from 1870.md\"> course_US History from 1870 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/The Collector's Fallacy.md\"> The Collector's Fallacy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_System of Mind.md\"> notes_System of Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/detachment.md\"> detachment </a>",
+        "<a class=\"internal-link\" href=\"notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Inability to forgive.md\"> notes_Inability to forgive </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Protective Hopelessness.md\"> notes_Protective Hopelessness </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_the Fantasy Trap.md\"> notes_the Fantasy Trap </a>",
@@ -11477,12 +11495,13 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Dukkha.md\"> notes_Dukkha </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Vedic Psychology.md\"> notes_Vedic Psychology </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Confidence vs Ego.md\"> notes_Confidence vs Ego </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Panchakosha Theory.md\"> notes_Panchakosha Theory </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_the Nature of Self.md\"> notes_the Nature of Self </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Satya.md\"> notes_Satya </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Confidence vs Ego.md\"> notes_Confidence vs Ego </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT.md\"> CBT </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT (Cognitive Behavioral Therapy).md\"> CBT (Cognitive Behavioral Therapy) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/conscious.md\"> conscious </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anti-liberalism.md\"> anti-liberalism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/ADHD.md\"> ADHD </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_1920's General Notes.md\"> notes_1920's General Notes </a>",
@@ -11529,13 +11548,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Trans children will repress their dysphoria if they have been effectively taught it is unacceptable.md\"> Trans children will repress their dysphoria if they have been effectively taught it is unacceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter.md\"> Names matter </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_System of Mind.md\"> notes_System of Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/detachment.md\"> detachment </a>",
+        "<a class=\"internal-link\" href=\"notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Depression.md\"> notes_Herbs for Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Conditional Love.md\"> notes_Conditional Love </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_the Fantasy Trap.md\"> notes_the Fantasy Trap </a>",
@@ -11583,10 +11601,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_Dukkha.md\"> notes_Dukkha </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Karma.md\"> notes_Karma </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_the Nature of Self.md\"> notes_the Nature of Self </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Panchakosha Theory.md\"> notes_Panchakosha Theory </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Confidence vs Ego.md\"> notes_Confidence vs Ego </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Reframing Goals to Actions.md\"> notes_Reframing Goals to Actions </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_the Nature of Self.md\"> notes_the Nature of Self </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -11625,7 +11640,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
@@ -11681,6 +11697,22 @@
         "<a class=\"internal-link\" href=\"Sympathetic Nervous System.md\"> Sympathetic Nervous System </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_System of Mind.md\"> notes_System of Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sakshi Bhava.md\"> Sakshi Bhava </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vairagya.md\"> Vairagya </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT.md\"> CBT </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/conscious.md\"> conscious </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mindfulness.md\"> mindfulness </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conscious.md\"> conscious </a>",
+        "<a class=\"internal-link\" href=\"notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Depression.md\"> notes_Herbs for Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Conditional Love.md\"> notes_Conditional Love </a>",
@@ -11715,23 +11747,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_What is an Anxiety Disorder.md\"> notes_What is an Anxiety Disorder </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Physiologic Anxiety.md\"> notes_Physiologic Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Breath and Mind.md\"> notes_Breath and Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Tension in the Mind.md\"> notes_Tension in the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Feeding the Beast.md\"> notes_Feeding the Beast </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Solutions to Anxiety.md\"> notes_Solutions to Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Learned Anxiety.md\"> notes_Learned Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Responses to Anxiety.md\"> notes_Responses to Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Negative Emotions.md\"> notes_Negative Emotions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_cognitive Anxiety.md\"> notes_cognitive Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Thought Loops.md\"> notes_Thought Loops </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Learned Anxiety.md\"> notes_Learned Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Features of Clinical Depression.md\"> notes_Features of Clinical Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_General Treatment Principles.md\"> notes_General Treatment Principles </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Congruent Depression.md\"> notes_Congruent Depression </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Breath and Mind.md\"> notes_Breath and Mind </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>",
@@ -11842,6 +11858,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear of hell is baked into Christianity for vulnerable believers.md\"> Fear of hell is baked into Christianity for vulnerable believers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md\"> The materialistic view of religions examines why humans invented and clung to religion </a>",
@@ -11891,8 +11908,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",

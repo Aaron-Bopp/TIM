@@ -85,8 +85,14 @@ var COMMANDS = [
     after: "%%"
   },
   {
+    id: "smarter-html-comments",
+    name: "Smarter HTML Comments",
+    before: "<!--",
+    after: "-->"
+  },
+  {
     id: "smarter-inline-code",
-    name: "Smarter Inline Code",
+    name: "Smarter Code (Inline/Fenced)",
     before: "`",
     after: "`"
   },
@@ -113,6 +119,24 @@ var COMMANDS = [
     name: "Smarter Markdown Link/Image",
     before: "[",
     after: "]()"
+  },
+  {
+    id: "smarter-quotation-marks",
+    name: "Smarter Quotation Mark",
+    before: '"',
+    after: '"'
+  },
+  {
+    id: "smarter-round-brackets",
+    name: "Smarter Round Brackets",
+    before: "(",
+    after: ")"
+  },
+  {
+    id: "smarter-square-brackets",
+    name: "Smarter Square Brackets",
+    before: "]",
+    after: "["
   }
 ];
 
@@ -152,6 +176,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         return charsBefore === bef && charsAfter === aft;
       }
       const markupOutsideSel = () => isOutsideSel(frontMarkup, endMarkup);
+      const multiLineMarkup = () => frontMarkup === "`" || frontMarkup === "%%" || frontMarkup === "<!--";
       const noSel = () => !editor.somethingSelected();
       const multiLineSel = () => editor.getSelection().includes("\n");
       const noteLength = () => editor.getValue().length;
@@ -170,7 +195,9 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         let appended = "";
         if (appendSelection)
           appended = ': "' + editor.getSelection() + '"';
-        console.log("- " + msg + appended);
+        if (!msg.startsWith("\n"))
+          msg = "- " + msg;
+        console.log(msg + appended);
       }
       function textUnderCursor(ep) {
         if (markupOutsideSel() && noSel())
@@ -268,17 +295,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         const preSelExpAnchor = editor.getCursor("from");
         const preSelExpHead = editor.getCursor("to");
         const firstWordRange = textUnderCursor(preSelExpAnchor);
-        preSelExpHead.ch--;
         const lastWordRange = textUnderCursor(preSelExpHead);
-        preSelExpHead.ch++;
-        log("after expandToWordBoundary, before punctuation fix", true);
-        const lastWord = editor.getRange(lastWordRange.anchor, lastWordRange.head);
-        if (/^[.,;:\-–—]/.test(lastWord)) {
-          lastWordRange.head.ch = lastWordRange.anchor.ch + 1;
-          preSelExpHead.ch--;
-        }
-        if (/[\])}"']/.test(originalSel.slice(-1)))
-          lastWordRange.head.ch++;
         editor.setSelection(firstWordRange.anchor, lastWordRange.head);
         if (isOutsideSel('"', '"') || isOutsideSel("'", "'")) {
           firstWordRange.anchor.ch--;
@@ -311,6 +328,26 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         if (lineMode === "single")
           editor.setSelection(anchor, head);
       }
+      function wrapMultiLine() {
+        const selAnchor = editor.getCursor("from");
+        const selHead = editor.getCursor("to");
+        if (frontMarkup === "`") {
+          frontMarkup = "```";
+          endMarkup = "```";
+        }
+        selAnchor.ch = 0;
+        editor.setSelection(selAnchor);
+        editor.replaceSelection(frontMarkup + "\n");
+        selHead.ch = 0;
+        selHead.line = selHead.line + 2;
+        editor.setSelection(selHead);
+        editor.replaceSelection(endMarkup + "\n");
+        if (frontMarkup === "```") {
+          const languageDefPos = selAnchor;
+          languageDefPos.ch = 3;
+          editor.setSelection(languageDefPos);
+        }
+      }
       function insertURLtoMDLink() {
         return __async(this, null, function* () {
           const URLregex = /\b((?:[a-z][\w-]+:(?:\/{1,3}|[a-z0-9%])|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}\/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'".,<>?«»“”‘’]))/;
@@ -337,7 +374,12 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         applyMarkup(preSelExpAnchor, preSelExpHead, "single");
         return;
       }
-      if (multiLineSel()) {
+      if (multiLineSel() && multiLineMarkup()) {
+        log("Multiline Wrap");
+        wrapMultiLine();
+        return;
+      }
+      if (multiLineSel() && !multiLineMarkup()) {
         let pointerOff = startOffset();
         const lines = editor.getSelection().split("\n");
         log("lines: " + lines.length.toString());

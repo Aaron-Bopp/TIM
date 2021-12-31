@@ -20,7 +20,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Bupropion]]
 - [[Anorgasmia]]
 - [[Psychodynamic Therapy]]
-- [[Cognitive Behavioral Therapy (CBT)]]
+- [[CBT]]
 - [[Dialectical Behavioral Therapy (DBT)]]
 - [[Complementary and Alternative Medicine (CAM)]]
 - [[Traditional Chinese Medicine (TCM)]]

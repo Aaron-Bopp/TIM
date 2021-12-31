@@ -6,13 +6,8 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
+![[notes_The Nature of Mind#^576f87]]
 
-- Catch the moment between inhalation and exhalation [^1]
-	- What is the moment between inhalation and exhalation
-		- where does it happen
-		- what does it feel like
-	- Catch that moment and observe it
-		- "It's not about the answer it's about training yourself to look"
 
 **See**:: [[yoga]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
@@ -22,7 +17,6 @@ aliases:
 	- [[Flamingo Pose Meditation]]
 	- [[Dual Nostril Breathing Meditation]]
 
-[^1]: https://www.youtube.com/watch?v=n4jSkOjuLIg&t=5640s
 
 ### <hr class="dataviews"/>
 

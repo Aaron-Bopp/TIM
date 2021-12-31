@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.520
+Version 1.531
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -220,7 +220,7 @@ the .create-ToC.sh.
 
 .theme-light {
 	--editor-alt-accent: var(--alt-accent-darker);
-	--selection-color: hsl(259 80% 93% / 99%);
+	--selection-color: hsl(259 80% 91% / 99%);
 	--extra-contrast: hsl(0 0% 36%);
 	--text-muted: hsl(0 0% 53%);
 	--text-faint: hsl(0 0% 60%);
@@ -397,6 +397,7 @@ the .create-ToC.sh.
 	--background-primary-alt: var(--bg2);
 	--background-secondary: var(--bg2);
 	--background-secondary-alt: var(--bg3);
+	--background-modifier-border: var(--muted-border-color);
 }
 
 ::-WEBKIT-SCROLLBAR,
@@ -1726,7 +1727,7 @@ a.style-settings-export,
 
 	transition: var(--medium-transition);
 
-	padding: 5px 12px 6px;
+	padding: 5px 12px 7px;
 
 	border: 2px solid var(--interactive-border);
 	border-radius: var(--round);
@@ -1735,6 +1736,15 @@ a.style-settings-export,
 	font-size: var(--button-font-size);
 	line-height: 1.3em;
 	letter-spacing: 0.5px;
+}
+
+.angular-shapes body .excalidraw .HelpDialog--btn,
+.angular-shapes a.style-settings-import,
+.angular-shapes a.style-settings-export,
+.angular-shapes .modal-container .modal .modal-button-container button,
+.angular-shapes .modal-container .modal .modal-content button:not(.mod-cta),
+.angular-shapes .modal-container .modal .modal-content button.mod-cta {
+	padding-bottom: 6px;
 }
 
 /* hovered buttons */
@@ -1835,6 +1845,10 @@ input[type="password"] {
 	border-radius: var(--round);
 }
 
+body:not(.angular-shapes) input[type="text"] {
+	padding-top: 3px;
+}
+
 textarea {
 	padding: 4px 8px;
 	border-radius: calc(var(--roundish) * 1.5);
@@ -1844,14 +1858,6 @@ input[type="email"],
 input[type="password"],
 input[type="text"] {
 	width: 250px;
-}
-
-.angular-shapes input[type="text"] {
-	padding-top: 7px;
-}
-
-body:not(.angular-shapes) input[type="text"] {
-	padding-top: 3px;
 }
 
 .workspace-leaf-content input[type="text"] {
@@ -2926,7 +2932,7 @@ body .workspace-leaf-resize-handle:active {
 .community-plugin-search-summary {
 	padding: 3px 2px;
 
-	border-bottom: var(--thick-border);
+	border-bottom: var(--basic-border);
 
 	font-size: 0.8em;
 	font-weight: 600;
@@ -3026,11 +3032,12 @@ body .workspace-leaf-resize-handle:active {
 .flair.mod-pop {
 	top: 0;
 	background: none;
+	margin-left: 4px;
 	font-size: 0;
 }
 
 .community-plugin-search .flair.mod-pop {
-	top: 5px;
+	top: 4px;
 }
 
 .flair.mod-pop::BEFORE {
@@ -3045,13 +3052,8 @@ body .workspace-leaf-resize-handle:active {
 	border-radius: var(--round);
 
 	font-family: "Inter";
-	font-size: 0.7rem;
+	font-size: 0.65rem;
 	line-height: 0.8em;
-}
-
-.community-plugin-info .community-plugin-name .flair.mod-pop::BEFORE {
-	font-size: 1.2rem;
-	vertical-align: bottom;
 }
 
 /* download statistics */
@@ -3099,15 +3101,25 @@ body .workspace-leaf-resize-handle:active {
 .community-plugin-info .community-plugin-name {
 	background-color: var(--bg2);
 
-	padding: 6px;
+	padding: 6px 25px 6px 6px;
 	margin-right: -5px;
 	margin-left: -15px;
+
+	border-bottom: var(--basic-border);
 
 	font-family: var(--heading-font);
 	font-size: calc(var(--h1-size) * 1.2);
 	font-weight: 700;
 	letter-spacing: var(--heading-letter-spacing);
 	text-align: end;
+}
+
+/* installation icon */
+.community-plugin-info .community-plugin-name .flair.mod-pop::BEFORE {
+	position: relative;
+	top: 3px;
+	font-size: 1.3rem;
+	vertical-align: bottom;
 }
 
 /* repository link */
@@ -3122,6 +3134,11 @@ body .workspace-leaf-resize-handle:active {
 	bottom: -3.5px;
 	font-family: var(--icon-font);
 	font-size: 1rem;
+}
+
+/* properly lowercase the "by" */
+.community-plugin-info .community-plugin-author:nth-child(4)::FIRST-LETTER {
+	text-transform: lowercase;
 }
 
 .community-plugin-details .community-plugin-info .community-plugin-downloads::BEFORE {
@@ -3181,19 +3198,26 @@ body .workspace-leaf-resize-handle:active {
 	font-size: 0;
 }
 
-.angular-shapes .modal.mod-community-plugin .community-plugin-info button:last-child {
-	padding-top: 0;
-}
-
-.modal.modal.mod-community-plugin .community-plugin-info button:last-child::BEFORE {
+.modal.mod-community-plugin .community-plugin-info button:last-child::BEFORE {
 	content: "link";
 
 	position: relative;
 	top: 5px;
 	left: 5px;
 
+	color: var(--extra-contrast);
+
 	font-family: var(--icon-font);
 	font-size: 1.25rem;
+}
+
+.angular-shapes .modal.mod-community-plugin .community-plugin-info button:last-child {
+	position: relative;
+	bottom: 2.5px;
+}
+
+.angular-shapes .modal.mod-community-plugin .community-plugin-info button:last-child::BEFORE {
+	top: 7px;
 }
 
 /* headings */
@@ -4277,6 +4301,7 @@ body:not(.no-alternating-header-italics) .markdown-preview-view h6 {
 << Blockquotes
 ─────────────────────────────────────────────────── */
 
+.HyperMD-quote.CodeMirror-line,
 body .markdown-preview-view blockquote,
 .app-container .cm-s-obsidian .cm-line.HyperMD-quote {
 	border-left: 15px solid var(--basic-border-color);
@@ -4288,6 +4313,7 @@ body .markdown-preview-view blockquote,
 }
 
 /* edit mode & live preview */
+.HyperMD-quote.CodeMirror-line,
 .markdown-source-view.mod-cm6 .cm-line.HyperMD-quote {
 	background-color: var(--bg2);
 	padding: 0.4em 0.8em 0.5em 0;
@@ -4315,7 +4341,7 @@ body .markdown-preview-view blockquote,
 body:not(.no-active-line-highlighting) .cm-s-obsidian .cm-active.cm-line.HyperMD-quote {
 	color: var(--text-normal);
 	background-color: var(--active-line-bg);
-	border-left-color: var(--bg3);
+	border-left-color: var(--bg2);
 }
 
 /* Preview Mode */
@@ -5286,14 +5312,11 @@ body:not(.no-active-line-highlighting) .CodeMirror-activeline .CodeMirror-lineba
 	border-radius: var(--roundish);
 }
 
-/* active list item highlighting */
+/* active highlighting of markup */
+body:not(.no-active-line-highlighting) .cm-active .cm-formatting-header,
+body:not(.no-active-line-highlighting) .cm-active .cm-formatting-quote,
 body:not(.no-active-line-highlighting) .cm-active .cm-formatting-list,
 body:not(.no-active-line-highlighting) .cm-active .list-bullet {
-	color: var(--active-line-indicator);
-}
-
-/* active block quote highlighting */
-body:not(.no-active-line-highlighting) .cm-active .cm-formatting.cm-formatting-quote {
 	color: var(--active-line-indicator);
 }
 
@@ -5526,7 +5549,7 @@ body.is-mobile .markdown-preview-view blockquote {
 .status-bar-item.plugin-editor-status::BEFORE {
 	content: "preview";
 	position: relative;
-	top: 2px;
+	top: 2.5px;
 	margin-right: 3px;
 	font-family: var(--icon-font);
 }
@@ -6385,6 +6408,28 @@ body .view-content.dictionary-view-content .main {
 	border-radius: var(--roundish);
 }
 
+body .dict-s-popover__select-option.dict-s-popover__select-option.dict-s-popover__select-option {
+	padding: 6px 5px;
+	border-bottom: none;
+}
+
+body:not(.no-alternating-rows) .dict-s-popover__select-option:nth-child(even) {
+	background-color: var(--a-row);
+}
+
+.dict-s-popover__select-option:hover {
+	color: var(--alt-accent);
+	background-color: var(--bg3);
+}
+
+body .dict-s-popover.dict-s-popover.dict-s-popover {
+	max-height: 300px;
+	max-width: 300px;
+	background-color: var(--bg1);
+	box-shadow: var(--small-shadow);
+	border-radius: calc(var(--roundish) * 1.2);
+}
+
 /* ───────────────────────────────────────────────────
 << Git Plugin
 ─────────────────────────────────────────────────── */
@@ -7184,7 +7229,7 @@ body > div.app-container .longform-leaf .cm-s-obsidian .cm-hmd-frontmatter,
 .longform-leaf .markdown-preview-view code,
 .longform-leaf .cm-s-obsidian span.cm-inline-code,
 .longform-leaf .HyperMD-table-row,
-.longform-leaf .cm-formatting-task.cm-meta {
+.longform-leaf .cm-formatting-task {
 	font-family: var(--font-monospace);
 	font-size: var(--monospace-font-size);
 	text-align: start;
@@ -7205,7 +7250,7 @@ body:not(.longform-left-aligned) .longform-leaf *:not(.cm-header) {
 
 /* do not justify code blocks, headings, tables, and lists */
 body .app-container .longform-leaf .cm-s-obsidian .HyperMD-codeblock,
-body .app-container .longform-leaf table td,
+body .app-container .longform-leaf table td span,
 body .app-container .longform-leaf div.HyperMD-list-line.cm-line,
 body .app-container .longform-leaf div.HyperMD-header.cm-line,
 body .app-container .longform-leaf div.markdown-preview-view h1,
@@ -7582,6 +7627,7 @@ h6.BC-Matrix-header {
 	font-family: var(--smallcap-font);
 	font-size: 0.9em;
 	font-style: normal !important;
+	letter-spacing: 0.7px;
 }
 
 .workspace-leaf-content[data-type="BC-matrix"] .view-content button {
@@ -7590,6 +7636,7 @@ h6.BC-Matrix-header {
 
 body:not(.no-alternating-rows) .BC-Matrix-square li {
 	padding-left: 3px;
+	border-radius: calc(var(--roundish) * 0.7);
 }
 
 body:not(.no-alternating-rows) .BC-Matrix-square li:nth-child(even) {
@@ -7937,6 +7984,11 @@ body:not(.show-scrollbar) .workspace-split.mod-root .workspace-leaf-content[data
 	font-size: var(--menu-font-size);
 }
 
+.mod-root .workspace-leaf-content[data-type="style-settings"] .view-content {
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
 /* settings tab  */
 .style-settings-heading {
 	padding-top: 0;
@@ -7991,12 +8043,6 @@ body a.style-settings-export {
 	display: none;
 }
 
-/* settings tab as pane */
-.mod-root .workspace-leaf-content[data-type="style-settings"] .view-content {
-	padding-right: 20px;
-	padding-left: 20px;
-}
-
 /* ───────────────────────────────────────────────────
 << Favicon Plugin
 ─────────────────────────────────────────────────── */
@@ -8010,6 +8056,7 @@ body a.style-settings-export {
 
 .link-favicon:not(img) {
 	height: 1em !important;
+	cursor: default !important;
 	margin-right: 4px;
 	margin-bottom: 3px;
 	margin-left: 0;

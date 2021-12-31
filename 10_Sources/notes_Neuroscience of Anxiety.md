@@ -13,7 +13,7 @@ tags: created/source/2021/12/30, node/source/notes
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/neuroscience-of-anxiety)
 
 #### Terms
-- [[Cognitive Behavioral Therapy (CBT)]]
+- [[CBT]]
 - [[anxiety]]
 - [[Exposure Therapy]]
 - [[Anxiolytic]]

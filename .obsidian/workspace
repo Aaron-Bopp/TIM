@@ -4,7 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "de55d3ca6b025048",
+        "id": "00a046b487c69c19",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/notes_System of Mind.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "00a046b487c69c19",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_System of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "00a046b487c69c19",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Nature of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":30},\"to\":{\"line\":37,\"ch\":30}},\"scroll\":26.040977398427295}"
+            },
+            {
+              "leaf": "00a046b487c69c19",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":30},\"to\":{\"line\":30,\"ch\":30}},\"scroll\":14.767967300957856}"
+            },
+            {
+              "leaf": "00a046b487c69c19",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Nature of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "00a046b487c69c19",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "a1aa660fd88681af",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -14,124 +62,22 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "de55d3ca6b025048",
+              "leaf": "a1aa660fd88681af",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "de55d3ca6b025048",
+              "leaf": "a1aa660fd88681af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":127},\"to\":{\"line\":1,\"ch\":127}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/mindfulness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
             },
             {
-              "leaf": "de55d3ca6b025048",
+              "leaf": "a1aa660fd88681af",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Science of Meditation.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":29.8289013671875}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoSamskara.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Inability to forgive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":30},\"to\":{\"line\":84,\"ch\":30}},\"scroll\":67.42820282753456}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Protective Hopelessness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":30},\"to\":{\"line\":83,\"ch\":30}},\"scroll\":59.223076029073816}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_the Fantasy Trap.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":10},\"to\":{\"line\":14,\"ch\":10}}}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":26},\"to\":{\"line\":82,\"ch\":26}},\"scroll\":51.31602156484952}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Conditional Love.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":26},\"to\":{\"line\":81,\"ch\":26}},\"scroll\":71.23269160669386}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Herbs for Depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":30},\"to\":{\"line\":76,\"ch\":30}},\"scroll\":47.21346045145376}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Dealing with Samskaras.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":165},\"to\":{\"line\":9,\"ch\":165}}}"
             }
           ]
         }
@@ -165,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/source",
+                "query": "tag:#created/topic",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -184,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10_Sources/notes_System of Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -216,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10_Sources/notes_System of Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +179,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             },
@@ -260,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10_Sources/notes_System of Mind.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -376,6 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10_Sources/notes_System of Mind.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -485,17 +436,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "de55d3ca6b025048",
+  "active": "00a046b487c69c19",
   "lastOpenFiles": [
-    "20_Entry/209 Notepad.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "10_Sources/notes_Science of Meditation.md",
-    "10_Sources/Mental Health/videoSamskara.md",
-    "10_Sources/notes_Inability to forgive.md",
-    "10_Sources/notes_Protective Hopelessness.md",
-    "10_Sources/notes_the Fantasy Trap.md",
-    "10_Sources/notes_Conditional Love.md",
-    "10_Sources/notes_Herbs for Depression.md",
-    "10_Sources/notes_Dealing with Samskaras.md"
+    "10_Sources/notes_System of Mind.md",
+    "10_Sources/notes_The Nature of Mind.md",
+    "30_Topics/35_Outlines/meditation.md",
+    "40_Evergreens/Dual Nostril Breathing Meditation.md",
+    "30_Topics/31_Stubs/mindfulness.md",
+    "30_Topics/32_Terms/Sakshi Bhava.md",
+    "30_Topics/32_Terms/Vairagya.md",
+    "30_Topics/32_Terms/CBT.md",
+    "30_Topics/32_Terms/conscious.md",
+    "10_Sources/course_Dr. K's Guide to Mental Health.md"
   ]
 }

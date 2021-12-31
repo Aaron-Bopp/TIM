@@ -17,7 +17,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Dharma]]
 - [[karma]]
 - [[Psychodynamic Therapy]]
-- [[Cognitive Behavioral Therapy (CBT)]]
+- [[CBT]]
 - [[Panchakosha]]
 - [[Annamaya Kosha]]
 - [[Pranayama]]
