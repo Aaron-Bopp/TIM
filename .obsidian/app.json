@@ -60,5 +60,6 @@
   "livePreview": true,
   "smartIndentList": true,
   "useMarkdownLinks": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "autoPairMarkdown": false
 }

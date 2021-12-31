@@ -16,14 +16,16 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Dharana]]
 - [[Dhyana]]
 - [[Samadhi]]
-- [[Mantra]]
+- [[mantra]]
 
 #### Notes
-- [[Mantra]] can be in your [[language]] but don't have to be
-- [[Mantra]] isn't about the power of positive thinking (implanting positive thoughts into the mind) because it isn't putting thoughts into your mind, it's about taking things out of your [[mind]]
-- This what our active mind looks like: I. the outer senses ([[Indriya]]), II. thoughts, and III. thought generators ([[Samskara]]])
-- !![[Pasted image 20211231162517.png]]
+- [[mantra]] can be in your [[language]] and have personal meaning but should have specific sounds that give them power
+- [[mantra]] isn't about the power of positive thinking (implanting positive thoughts into the mind) because it isn't putting thoughts into your mind, it's about taking things out of your [[mind]]
+- This what our active mind looks like: I. the outer senses ([[Indriya]]), II. [[conscious]] mind, and III. [[subconscious]]
+	- ![[Pasted image 20211231162517.png]]
 
-- ![[Pasted image 20211231162356.png]]
--  ![[Pasted image 20211231162422.png]]
-- ![[Pasted image 20211231162555.png]]
+	- First stage is to clear out the [[mind]]
+		-  ![[Pasted image 20211231162356.png]]
+	- There is a relationship between impanting stuff in the [[subconscious]]
+	-  ![[Pasted image 20211231162422.png]]
+	- ![[Pasted image 20211231162555.png]]

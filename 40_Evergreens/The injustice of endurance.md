@@ -3,8 +3,8 @@ created: 2021-07-29
 tags: created/evergreen/2021/07/29, node/evergreen
 aliases:
   - null
-sr-due: 2021-12-31
-sr-interval: 27
+sr-due: 2022-03-03
+sr-interval: 62
 sr-ease: 230
 ---
 
@@ -18,6 +18,8 @@ This is the most soul-crushing part of living in [[late capitalism]]. You are fo
 
 #TO/EXPLORE/RESEARCH  [[Hierarchy of needs]]
 
+[[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
+
 > Just endure a few more days, it'll be the weekend soon.
 > 
 > Just endure a few more months, you'll get a better job soon.
@@ -28,13 +30,12 @@ This is the most soul-crushing part of living in [[late capitalism]]. You are fo
 > 
 > <cite>[[Aaron Bopp]]</cite>
 
-[[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]]
+**Topics**:: [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]], [[Life principles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

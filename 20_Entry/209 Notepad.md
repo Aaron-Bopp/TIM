@@ -1,15 +1,5 @@
-> "Ego is when your sense of self comes from the outside" - [[Dr. K]]
-> [Healing from Festered Emotions ft. CrankGameplays (co-creator of Unus Annus) - YouTube](https://youtu.be/sXGhT4pJcj8?t=5255)
+What is the value of open ended tasks? specifically [[my TO(DO) and EVER(GREEN) structure#EVER GREEN]]
 
-> "If you are the common denominator, then you also have the power to change"
-> ^[[Interview With A Murderer: Live After Prison - YouTube](https://youtu.be/W96yNjU_KFE?t=3949)]
->
-> <cite>[[Dr. K]]</cite>
-
-"Sometimes it's easiest to take the chances that have the highest likelihood of failure" - [[Dr. K]]
-[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)
- "You've learned to see the silver lining because otherwise life would be bleak" - [[Dr. K]] [How to Save a Relationship from Break Up | Dr. K Interviews - YouTube](https://youtu.be/YLO3XpPOEP8?t=4284)
- 
 
 [[conceptual notes]] help you get the full extent of your brain power #TO/DO/CONCEPTUALIZE maybe when only combined with good systems [[Friction is the number one hindrance to learning]]
 
@@ -18,17 +8,9 @@
 
 ## notes [[articles_My moral code - Inverted Passion]]
 What is [[morality]]? is based on our actions, is it objective, is it even ponderable, can we comprehend it?
-Some believe ![[articles_My moral code - Inverted Passion#^0160c9]] but I think that this is an impossible task
-- ![[articles_My moral code - Inverted Passion#253957366]]
-- ![[articles_My moral code - Inverted Passion#253957517]]
-- ![[articles_My moral code - Inverted Passion#253957570]]
-- ![[articles_My moral code - Inverted Passion#253958786]]
-- ![[articles_My moral code - Inverted Passion#253958456]]
-- ![[articles_My moral code - Inverted Passion#253958279]]
-- ![[articles_My moral code - Inverted Passion#253959072]]
+Some believe ![[articles_My moral code - Inverted Passion#^0160c9]] but I think this is an impossible task #TO/PONDER/SOCIETY 
 
 
-# general
 #TO/DO/PROGRAM [How to add a note shortcut to the homescreen on Android - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/how-to-add-a-note-shortcut-to-the-homescreen-on-android/20889)
 
 
@@ -39,5 +21,5 @@ Some believe ![[articles_My moral code - Inverted Passion#^0160c9]] but I think 
 [[Your anxiety knows your insecurities better than you do]]: #TO/EXPLORE/RESEARCH
 - [[Hierarchy of needs]] 
 	- If you are in a bad situation you can't advance past that state but you don't lose those higher needs 
-- arbitrage
+- [[arbitrage]]
 

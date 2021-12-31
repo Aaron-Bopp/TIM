@@ -1,6 +1,6 @@
 {
   "strategy": "default",
-  "matchStrategy": "prefix",
+  "matchStrategy": "partial",
   "maxNumberOfSuggestions": 5,
   "minNumberOfCharactersTriggered": 0,
   "delayMilliSeconds": 0,

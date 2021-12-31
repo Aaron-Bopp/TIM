@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "76339dcea3d72880",
+        "id": "578f710b66d29089",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/31_Stubs/belief systems.md",
+            "file": "30_Topics/32_Terms/mantra.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,88 +19,76 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "76339dcea3d72880",
+              "leaf": "578f710b66d29089",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/belief systems.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/mantra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":37},\"to\":{\"line\":9,\"ch\":37}}}"
             },
             {
-              "leaf": "76339dcea3d72880",
+              "leaf": "578f710b66d29089",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Belief is an addiction.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":70},\"to\":{\"line\":23,\"ch\":70}}}"
-            },
-            {
-              "leaf": "76339dcea3d72880",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.44999997823546184}"
-            },
-            {
-              "leaf": "76339dcea3d72880",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Apartment hunt.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Japa Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "76339dcea3d72880",
+              "leaf": "578f710b66d29089",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Personal/Personal MOC.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "76339dcea3d72880",
+              "leaf": "578f710b66d29089",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The injustice of endurance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+            },
+            {
+              "leaf": "578f710b66d29089",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":77},\"to\":{\"line\":20,\"ch\":77}},\"scroll\":13.214708988461242}"
+            },
+            {
+              "leaf": "578f710b66d29089",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Politicization of the Christian Church.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":57},\"to\":{\"line\":28,\"ch\":57}}}"
+            },
+            {
+              "leaf": "578f710b66d29089",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "76339dcea3d72880",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
-            },
-            {
-              "leaf": "76339dcea3d72880",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "76339dcea3d72880",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/throat.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "76339dcea3d72880",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Vishuddha Chakra.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "76339dcea3d72880",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "76339dcea3d72880",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_System of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":31},\"to\":{\"line\":22,\"ch\":31}}}"
-            },
-            {
-              "leaf": "76339dcea3d72880",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/identity.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "76339dcea3d72880",
+              "leaf": "578f710b66d29089",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "02b4ed2bca48f71c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "02b4ed2bca48f71c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":4},\"to\":{\"line\":27,\"ch\":4}},\"scroll\":19.51093620160927}"
             }
           ]
         }
@@ -134,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/topic",
+                "query": "arbitrage",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -153,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/31_Stubs/belief systems.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -186,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/31_Stubs/belief systems.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -211,7 +199,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/31_Stubs/belief systems.md"
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md"
               }
             },
             "pane-relief:history-v1": {
@@ -348,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/31_Stubs/belief systems.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -458,17 +447,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "76339dcea3d72880",
+  "active": "02b4ed2bca48f71c",
   "lastOpenFiles": [
-    "30_Topics/31_Stubs/belief systems.md",
-    "40_Evergreens/Belief is an addiction.md",
-    "00_Meta/Personal/Journal.md",
-    "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
-    "10_Sources/Andy Matuschak's Evergreen Notes.md",
-    "40_Evergreens/Andy Matuschak's Evergreen Notes^.md",
-    "40_Evergreens/Time is a valuable mode in a second brain.md",
-    "40_Evergreens/A second brain should be an extension of your thought.md",
-    "40_Evergreens/Consciousness is the fundamental unit of existence.md",
-    "30_Topics/31_Stubs/reincarnation.md"
+    "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
+    "30_Topics/32_Terms/mantra.md",
+    "Japa Meditation.md",
+    "30_Topics/32_Terms/prayer beads.md",
+    "10_Sources/course_Dr. K's Guide to Mental Health.md",
+    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md",
+    "Japan.md",
+    "40_Evergreens/The injustice of endurance.md",
+    "40_Evergreens/We carry our childhood wounds into adulthood.md",
+    "40_Evergreens/The Politicization of the Christian Church.md"
   ]
 }

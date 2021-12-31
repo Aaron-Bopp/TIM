@@ -20,7 +20,7 @@ type:
 	- [[Karma is based in the law of cause and effect]] through the conservation of matter
 - This belief was opposed to other [[belief systems]] that relied on higher powers ([[hierarchy]]). Instead of an all powerful god it was simple cause and effect
 	- [[yoga|Yogic]] tradition is a scientific tradition
-- [[Mantra]] oscillations in [[Brahman]] creates a particular thing
+- [[mantra]] oscillations in [[Brahman]] creates a particular thing
 	- this loosely relates to [[String Theory]]
 - [[Quantum Mechanics]]
 	- If you can describe a quality [[Brahman]] is not that, it is never a manifestation it is the potentiality 

@@ -13,6 +13,8 @@ type:
 **Source**::
 
 **Related**:: 
+#### Meditation techniques
+- [Japa](https://coaching.healthygamer.gg/guide/lessons/intro-to-mantra-practice/meditations/japa)
 
 # [[meditation]]
 - [[notes_Overview of Meditation Module]]

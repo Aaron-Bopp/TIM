@@ -10,6 +10,9 @@ sr-ease: 270
 
 #### [[Our ego is our subconscious defense of our self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+> "Ego is when your sense of self comes from the outside" - [[Dr. K]]
+> [Healing from Festered Emotions ft. CrankGameplays (co-creator of Unus Annus) - YouTube](https://youtu.be/sXGhT4pJcj8?t=5255)
+
 [[Rationalizations are defense-mechanisms against strong emotions]], and our [[subconscious|ego]] is the amalgamation of those defense-mechanisms, ready to activate at anytime. If the trigger is strong enough, we can completely dissolve into our ego, lose connection to our true [[self]], and fallback to whatever [[defense-mechanisms]] we have developed without a chance to intercept and change them: [[How to process repressed emotions]]
  %%[[How I process repressed emotions]]%%
 

@@ -21,7 +21,7 @@ type:
 	- they also moved away from the [[religion|religious]] aspects and lost the [[spirituality|spiritual]] roots ([[secularism|secularized]])
 - [[meditation]] began 5000 years ago in [[India]]
 	- [[Tantra]] for anything to manfest we need direction and fuel
-		- [[Mantra]], [[Yantra]], [[Yajna]] are both, and form the basis of [[yoga]]
+		- [[mantra]], [[Yantra]], [[Yajna]] are both, and form the basis of [[yoga]]
 		- ![[Pasted image 20211229224350.png]]
 - [[yoga]] we are connected to an [[infinite]] [[conscious|consciousness]] called [[Brahman]]
 	- ways to connect with the [[infinite]]
