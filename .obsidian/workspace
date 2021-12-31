@@ -7,13 +7,8 @@
         "id": "de55d3ca6b025048",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "20_Entry/209 Notepad.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
@@ -21,8 +16,14 @@
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":127},\"to\":{\"line\":1,\"ch\":127}}}"
             },
             {
               "leaf": "de55d3ca6b025048",
@@ -131,12 +132,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Dealing with Samskaras.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":31},\"to\":{\"line\":79,\"ch\":31}},\"scroll\":67.42820282753456}"
             }
           ]
         }
@@ -189,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +216,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,9 +260,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20_Entry/209 Notepad.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -385,7 +376,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
