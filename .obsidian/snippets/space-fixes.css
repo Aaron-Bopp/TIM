@@ -79,7 +79,7 @@ a:hover {
     color: var(--gold1); 
     visibility: visible;
     position: absolute;
-    top: 4px;
+    top: 2px;
     left: -2px;
 }
 .theme-light.mod-cm6 .HyperMD-list-line .list-bullet::after,

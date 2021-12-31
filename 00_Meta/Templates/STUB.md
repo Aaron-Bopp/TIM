@@ -1,4 +1,4 @@
-<% tp.file.include("[[META]]") %> node/topic/stub
+<% tp.file.include("[[META]]") %> created/topic/<% tp.date.now("YYYY/MM/DD") %>, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

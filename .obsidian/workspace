@@ -4,55 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "00a046b487c69c19",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/notes_System of Mind.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "00a046b487c69c19",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_System of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "00a046b487c69c19",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Nature of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":30},\"to\":{\"line\":37,\"ch\":30}},\"scroll\":26.040977398427295}"
-            },
-            {
-              "leaf": "00a046b487c69c19",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":30},\"to\":{\"line\":30,\"ch\":30}},\"scroll\":14.767967300957856}"
-            },
-            {
-              "leaf": "00a046b487c69c19",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Nature of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "00a046b487c69c19",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "a1aa660fd88681af",
+        "id": "76339dcea3d72880",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -62,22 +14,58 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "a1aa660fd88681af",
+              "leaf": "76339dcea3d72880",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "a1aa660fd88681af",
+              "leaf": "76339dcea3d72880",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/mindfulness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The anti-vax movement is based off a white lie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
             },
             {
-              "leaf": "a1aa660fd88681af",
+              "leaf": "76339dcea3d72880",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":165},\"to\":{\"line\":9,\"ch\":165}}}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "76339dcea3d72880",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/throat.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "76339dcea3d72880",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Vishuddha Chakra.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "76339dcea3d72880",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "76339dcea3d72880",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_System of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":31},\"to\":{\"line\":22,\"ch\":31}}}"
+            },
+            {
+              "leaf": "76339dcea3d72880",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/identity.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "76339dcea3d72880",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
@@ -130,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/notes_System of Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -163,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/notes_System of Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,9 +194,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10_Sources/notes_System of Mind.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -326,7 +310,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/notes_System of Mind.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -436,17 +419,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "00a046b487c69c19",
+  "active": "76339dcea3d72880",
   "lastOpenFiles": [
+    "40_Evergreens/The anti-vax movement is based off a white lie.md",
+    "30_Topics/31_Stubs/throat.md",
+    "30_Topics/32_Terms/Vishuddha Chakra.md",
+    "10_Sources/notes_Anxiety 101.md",
     "10_Sources/notes_System of Mind.md",
-    "10_Sources/notes_The Nature of Mind.md",
-    "30_Topics/35_Outlines/meditation.md",
-    "40_Evergreens/Dual Nostril Breathing Meditation.md",
-    "30_Topics/31_Stubs/mindfulness.md",
-    "30_Topics/32_Terms/Sakshi Bhava.md",
-    "30_Topics/32_Terms/Vairagya.md",
-    "30_Topics/32_Terms/CBT.md",
-    "30_Topics/32_Terms/conscious.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md"
+    "30_Topics/32_Terms/Indriya.md",
+    "30_Topics/31_Stubs/identity.md",
+    "00_Meta/Templates/EGNOTE.md",
+    "00_Meta/Templates/SOURCETEMPLATE.md",
+    "00_Meta/Templates/TERM.md"
   ]
 }

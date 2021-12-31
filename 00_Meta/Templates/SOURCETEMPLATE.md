@@ -2,10 +2,12 @@
 ---
 
 ##### [[<% tp.file.title %> ]]
-**Creator**:: [[Dr. K]]
+**Creator**:: 
  
-**Source**:: [[course_Dr. K's Guide to Mental Health]]
+**Source**:: 
 
 **Link**:: 
 
 #### Terms
+
+#### Notes

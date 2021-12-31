@@ -1,4 +1,4 @@
-<% tp.file.include("[[META]]") %> node/evergreen
+<% tp.file.include("[[META]]") %> created/evergreen/<% tp.date.now("YYYY/MM/DD") %>, node/evergreen
 sr-due: <% tp.date.now() %>
 sr-interval: 1
 sr-ease: 230

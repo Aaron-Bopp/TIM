@@ -20,5 +20,5 @@ Your personality type will change over your life, it may even change on what kin
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[personality]], [[Personality Tests]], [[self|identity]], [[self-actualization]]
+**Topics**:: [[personality]], [[Personality Tests]], [[identity]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

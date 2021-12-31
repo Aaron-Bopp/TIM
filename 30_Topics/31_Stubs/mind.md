@@ -1,4 +1,8 @@
-<% tp.file.include("[[META]]") %> created/topic/<% tp.date.now("YYYY/MM/DD") %>, node/topic/term
+---
+created: 2021-12-31 
+aliases:
+  - null
+tags: node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

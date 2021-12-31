@@ -17,4 +17,7 @@ tags: created/source/2021/12/31, node/source/notes
 - [[Indriya]]
 
 #### Notes
-- IF we can learn how to populate our mind with helpful thought that will lead to helpful actions
+- If we can learn how to populate our mind with helpful thought that will lead to helpful actions
+- Thoughts from the outside come from the [[Indriya]]s
+- [[Pratyahara]] is the way to gain control of your sense organs, create a window (with movable curtains) between you and the world
+- Thoughts can also come from the inside through [[Samskara]]s, these are emotions or learnings that have sunk into our [[subconscious]] [[mind]]

@@ -23,7 +23,7 @@ Avoidance can be enforced by the [[subconscious]] without our [[conscious]] know
 and if your [[subconscious]] has learned how to completely tune out emotions, it will start to use it at will.
 This can lead to a person feeling disconnected and out of control of their emotions, unable to feel certain emotions, or entirely [[dissociation|dissasociated]].
 
-One manifestation of this is our ego, because [[Our ego is our subconscious defense of our self]]. Another is a [[reppressed]] [[self|identity]] which impacts your ability to understand and respond to your environment:
+One manifestation of this is our ego, because [[Our ego is our subconscious defense of our self]]. Another is a [[reppressed]] [[identity]] which impacts your ability to understand and respond to your environment:
 ^[[[Mental health is a reaction to one's environment]]]
 [[A repressed identity creates a mistrust of self-love and self-esteem]]
 

@@ -3,16 +3,25 @@ created: 2021-12-30
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-type:
-  - null 
 ---
 
 ##### [[notes_Anxiety 101 ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Related**:: 
+**Related**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/anxiety-101)
+
+#### Terms
+
+- [[Dharma]]
+- [[anxiety]]
+- [[Cognitive Anxiety]]
+- [[Physiologic Anxiety]]
+- [[Adrenaline]]
+
+#### Notes
 
 - What is [[anxiety]]?
 - Why do we have [[anxiety]]?
