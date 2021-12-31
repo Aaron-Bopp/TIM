@@ -7,13 +7,8 @@
         "id": "de55d3ca6b025048",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
@@ -21,26 +16,14 @@
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.86796725742878}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_What is an Anxiety Disorder.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":37},\"to\":{\"line\":44,\"ch\":37}},\"scroll\":16.927900762266592}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Panchakosha Theory.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "de55d3ca6b025048",
@@ -51,92 +34,104 @@
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Responses to Anxiety.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Science of Meditation.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":29.8289013671875}"
             },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":30},\"to\":{\"line\":42,\"ch\":30}},\"scroll\":18.793588991077602}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Learned Anxiety.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoSamskara.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Inability to forgive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":25},\"to\":{\"line\":42,\"ch\":25}},\"scroll\":22.896152390307975}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":30},\"to\":{\"line\":84,\"ch\":30}},\"scroll\":67.42820282753456}"
             },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Thought Loops.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":88},\"to\":{\"line\":12,\"ch\":88}}}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":23},\"to\":{\"line\":41,\"ch\":23}},\"scroll\":14.767967300957856}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_cognitive Anxiety.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":92},\"to\":{\"line\":12,\"ch\":92}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Protective Hopelessness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":29},\"to\":{\"line\":40,\"ch\":29}},\"scroll\":18.793588991077602}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":30},\"to\":{\"line\":83,\"ch\":30}},\"scroll\":59.223076029073816}"
             },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Negative Emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":29},\"to\":{\"line\":49,\"ch\":29}},\"scroll\":14.767967300957856}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Depression in a Holistic Lens.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":13},\"to\":{\"line\":31,\"ch\":13}}}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":39},\"to\":{\"line\":48,\"ch\":39}},\"scroll\":22.896152390307975}"
-            },
-            {
-              "leaf": "de55d3ca6b025048",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Cognitive Depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_the Fantasy Trap.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":10},\"to\":{\"line\":14,\"ch\":10}}}"
             },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":30},\"to\":{\"line\":47,\"ch\":30}},\"scroll\":22.896152390307975}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":26},\"to\":{\"line\":82,\"ch\":26}},\"scroll\":51.31602156484952}"
             },
             {
               "leaf": "de55d3ca6b025048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Congruent Depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Conditional Love.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":26},\"to\":{\"line\":81,\"ch\":26}},\"scroll\":71.23269160669386}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Herbs for Depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":30},\"to\":{\"line\":76,\"ch\":30}},\"scroll\":47.21346045145376}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Dealing with Samskaras.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":31},\"to\":{\"line\":79,\"ch\":31}},\"scroll\":67.42820282753456}"
+            },
+            {
+              "leaf": "de55d3ca6b025048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_Falling Behind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":14},\"to\":{\"line\":16,\"ch\":14}}}"
             }
           ]
         }
@@ -170,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/evergreen/2021/08",
+                "query": "tag:#node",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +216,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -268,9 +260,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -386,7 +376,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -499,14 +488,14 @@
   "active": "de55d3ca6b025048",
   "lastOpenFiles": [
     "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "10_Sources/notes_What is an Anxiety Disorder.md",
-    "10_Sources/notes_Panchakosha Theory.md",
-    "10_Sources/notes_Responses to Anxiety.md",
-    "10_Sources/notes_Learned Anxiety.md",
-    "10_Sources/notes_Thought Loops.md",
-    "10_Sources/notes_cognitive Anxiety.md",
-    "10_Sources/notes_Intro to Mantra Practice.md",
-    "10_Sources/notes_Negative Emotions.md",
-    "10_Sources/notes_Depression in a Holistic Lens.md"
+    "10_Sources/notes_Science of Meditation.md",
+    "10_Sources/Mental Health/videoSamskara.md",
+    "10_Sources/notes_Inability to forgive.md",
+    "10_Sources/notes_Protective Hopelessness.md",
+    "10_Sources/notes_the Fantasy Trap.md",
+    "10_Sources/notes_Conditional Love.md",
+    "10_Sources/notes_Herbs for Depression.md",
+    "10_Sources/notes_Dealing with Samskaras.md",
+    "10_Sources/notes_Falling Behind.md"
   ]
 }

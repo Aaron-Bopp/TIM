@@ -6,12 +6,6 @@ type:
   - wikipedia
   - definition
 source: https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy)
-
-aliases:
-  - samskara's
-  - samskaras
-  - sanskara
-  - sanskaras
 ---
 
 - [[Samskara]] -> In Indian [[philosophy]] and Indian religions, [[Samskara|samskaras]] or [[Samskara|sanskaras]] are mental impressions, recollections, or psychological imprints. 
@@ -20,8 +14,7 @@ aliases:
 
 ---
 
-**Topics**::  [[eastern philosophy]], [[my emotions]], [[Emotional Quotent]], [[Emotional Deregulation]]
-
+**Topics**::  [[eastern philosophy]] 
 **Outline**::
 
 --- 

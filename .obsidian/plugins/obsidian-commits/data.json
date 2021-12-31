@@ -5213,7 +5213,7 @@
     "10_Sources/Mental Health/videoSamskara.md": {
       "size": 1843,
       "tags": 2,
-      "links": 12
+      "links": 9
     },
     "10_Sources/Mental Health/videoScarra Drk Interview.md": {
       "size": 2397,
@@ -9676,9 +9676,9 @@
       "links": 1
     },
     "10_Sources/course_Dr. K's Guide to Mental Health.md": {
-      "size": 1363,
+      "size": 2201,
       "tags": 2,
-      "links": 40
+      "links": 68
     },
     "30_Topics/32_Terms/Zen.md": {
       "size": 296,
@@ -11144,14 +11144,154 @@
       "size": 0,
       "tags": 2,
       "links": 3
+    },
+    "10_Sources/notes_What is an Anxiety Disorder.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    },
+    "10_Sources/notes_Physiologic Anxiety.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 7
+    },
+    "10_Sources/notes_Breath and Mind.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
+    },
+    "10_Sources/notes_Tension in the Mind.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    },
+    "10_Sources/notes_Feeding the Beast.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
+    },
+    "10_Sources/notes_Solutions to Anxiety.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 11
+    },
+    "10_Sources/notes_Neuroscience of Anxiety.md": {
+      "size": 645,
+      "tags": 2,
+      "links": 14
+    },
+    "10_Sources/notes_Generalized Anxiety disorder.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
+    },
+    "10_Sources/notes_Social Anxiety Disorder.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 6
+    },
+    "10_Sources/notes_Panic Disorder.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 10
+    },
+    "10_Sources/notes_Rebound Anxiety.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 11
+    },
+    "10_Sources/notes_Other Anxiety Disorders.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 7
+    },
+    "10_Sources/notes_Treatment Approaches to Anxiety.md": {
+      "size": 761,
+      "tags": 2,
+      "links": 15
+    },
+    "10_Sources/notes_Intro to Ayurveda.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    },
+    "10_Sources/notes_Ayurveda for Anxiety.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 12
+    },
+    "10_Sources/notes_Dietary Guidance in Ayurveda.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 9
+    },
+    "10_Sources/notes_Ayurveda for Depression.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 9
+    },
+    "10_Sources/notes_Intro to Herbs.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 12
+    },
+    "10_Sources/notes_Herbs for Anxiety.md": {
+      "size": 810,
+      "tags": 2,
+      "links": 21
+    },
+    "10_Sources/notes_Brain Gut Axis.md": {
+      "size": 610,
+      "tags": 2,
+      "links": 20
+    },
+    "10_Sources/notes_Working with Samskaras.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 8
+    },
+    "10_Sources/notes_Falling Behind.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
+    },
+    "10_Sources/notes_Dealing with Samskaras.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 6
+    },
+    "10_Sources/notes_Herbs for Depression.md": {
+      "size": 595,
+      "tags": 2,
+      "links": 13
+    },
+    "10_Sources/notes_Conditional Love.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
+    },
+    "10_Sources/notes_the Fantasy Trap.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
+    },
+    "10_Sources/notes_Protective Hopelessness.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
+    },
+    "10_Sources/notes_Inability to forgive.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2713,
-      "Create": 3270,
-      "Link": 6306,
-      "Expand": 561
+      "Refactor": 2714,
+      "Create": 3298,
+      "Link": 6372,
+      "Expand": 569
     },
     "40_Evergreens": {
       "Refactor": 190,
@@ -11181,8 +11321,8 @@
       "16": 904,
       "17": 2714,
       "18": 2228,
-      "19": 324,
-      "20": 184,
+      "19": 426,
+      "20": 185,
       "21": 708,
       "22": 551,
       "23": 364
@@ -11219,7 +11359,7 @@
       "Mon": 313,
       "Tue": 1610,
       "Wed": 3643,
-      "Thu": 1932,
+      "Thu": 2035,
       "Fri": 300,
       "Sat": 0,
       "Sun": 5052
@@ -11237,6 +11377,14 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Depression.md\"> notes_Herbs for Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Brain Gut Axis.md\"> notes_Brain Gut Axis </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Anxiety.md\"> notes_Herbs for Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Treatment Approaches to Anxiety.md\"> notes_Treatment Approaches to Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_General Treatment Principles.md\"> notes_General Treatment Principles </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Depression in a Holistic Lens.md\"> notes_Depression in a Holistic Lens </a>",
@@ -11279,17 +11427,37 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>",
         "<a class=\"internal-link\" href=\"20_Entry/21 TODO/BOOKLIST.md\"> BOOKLIST </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/course_US History from 1870.md\"> course_US History from 1870 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/anxiety.md\"> anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Overview of Meditation Module.md\"> notes_Overview of Meditation Module </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Overview of Meditation Module.md\"> notes_Overview of Meditation Module </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Inability to forgive.md\"> notes_Inability to forgive </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Protective Hopelessness.md\"> notes_Protective Hopelessness </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_the Fantasy Trap.md\"> notes_the Fantasy Trap </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Conditional Love.md\"> notes_Conditional Love </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Depression.md\"> notes_Herbs for Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dealing with Samskaras.md\"> notes_Dealing with Samskaras </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Falling Behind.md\"> notes_Falling Behind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Working with Samskaras.md\"> notes_Working with Samskaras </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Brain Gut Axis.md\"> notes_Brain Gut Axis </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Anxiety.md\"> notes_Herbs for Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Intro to Herbs.md\"> notes_Intro to Herbs </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Ayurveda for Depression.md\"> notes_Ayurveda for Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dietary Guidance in Ayurveda.md\"> notes_Dietary Guidance in Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Ayurveda for Anxiety.md\"> notes_Ayurveda for Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Treatment Approaches to Anxiety.md\"> notes_Treatment Approaches to Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Other Anxiety Disorders.md\"> notes_Other Anxiety Disorders </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Rebound Anxiety.md\"> notes_Rebound Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Panic Disorder.md\"> notes_Panic Disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Social Anxiety Disorder.md\"> notes_Social Anxiety Disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Generalized Anxiety disorder.md\"> notes_Generalized Anxiety disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Solutions to Anxiety.md\"> notes_Solutions to Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Feeding the Beast.md\"> notes_Feeding the Beast </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Tension in the Mind.md\"> notes_Tension in the Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Breath and Mind.md\"> notes_Breath and Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Physiologic Anxiety.md\"> notes_Physiologic Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_What is an Anxiety Disorder.md\"> notes_What is an Anxiety Disorder </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Responses to Anxiety.md\"> notes_Responses to Anxiety </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Learned Anxiety.md\"> notes_Learned Anxiety </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Thought Loops.md\"> notes_Thought Loops </a>",
@@ -11312,35 +11480,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_Confidence vs Ego.md\"> notes_Confidence vs Ego </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Panchakosha Theory.md\"> notes_Panchakosha Theory </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_the Nature of Self.md\"> notes_the Nature of Self </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Satya.md\"> notes_Satya </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Shuddhi.md\"> notes_Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Sangha.md\"> notes_Sangha </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Reframing Goals to Actions.md\"> notes_Reframing Goals to Actions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Karma Fal.md\"> notes_Karma Fal </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/update meta within folder.md\"> update meta within folder </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/auto link text.md\"> auto link text </a>",
-        "<a class=\"internal-link\" href=\"infinite.md\"> infinite </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/contentment.md\"> contentment </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Overview of Meditation Module.md\"> notes_Overview of Meditation Module </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/matter.md\"> matter </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/energy.md\"> energy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/behavior.md\"> behavior </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/impulse.md\"> impulse </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/maturity.md\"> maturity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/breating.md\"> breating </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/heart.md\"> heart </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/breathing.md\"> breathing </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/blood flow.md\"> blood flow </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/digestive process.md\"> digestive process </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/neuron.md\"> neuron </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/pituitary.md\"> pituitary </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Satya.md\"> notes_Satya </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anti-liberalism.md\"> anti-liberalism </a>",
@@ -11396,6 +11536,34 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\"> Humans have decided to take advantage of an unjust world </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Depression.md\"> notes_Herbs for Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Conditional Love.md\"> notes_Conditional Love </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_the Fantasy Trap.md\"> notes_the Fantasy Trap </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Protective Hopelessness.md\"> notes_Protective Hopelessness </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Inability to forgive.md\"> notes_Inability to forgive </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Working with Samskaras.md\"> notes_Working with Samskaras </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Falling Behind.md\"> notes_Falling Behind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dealing with Samskaras.md\"> notes_Dealing with Samskaras </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Intro to Herbs.md\"> notes_Intro to Herbs </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Anxiety.md\"> notes_Herbs for Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Brain Gut Axis.md\"> notes_Brain Gut Axis </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Ayurveda for Anxiety.md\"> notes_Ayurveda for Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dietary Guidance in Ayurveda.md\"> notes_Dietary Guidance in Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Ayurveda for Depression.md\"> notes_Ayurveda for Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Social Anxiety Disorder.md\"> notes_Social Anxiety Disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Panic Disorder.md\"> notes_Panic Disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Rebound Anxiety.md\"> notes_Rebound Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Other Anxiety Disorders.md\"> notes_Other Anxiety Disorders </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Treatment Approaches to Anxiety.md\"> notes_Treatment Approaches to Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Generalized Anxiety disorder.md\"> notes_Generalized Anxiety disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_What is an Anxiety Disorder.md\"> notes_What is an Anxiety Disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Physiologic Anxiety.md\"> notes_Physiologic Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Breath and Mind.md\"> notes_Breath and Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Tension in the Mind.md\"> notes_Tension in the Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Feeding the Beast.md\"> notes_Feeding the Beast </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Solutions to Anxiety.md\"> notes_Solutions to Anxiety </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Responses to Anxiety.md\"> notes_Responses to Anxiety </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Negative Emotions.md\"> notes_Negative Emotions </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
@@ -11418,35 +11586,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_the Nature of Self.md\"> notes_the Nature of Self </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Panchakosha Theory.md\"> notes_Panchakosha Theory </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Confidence vs Ego.md\"> notes_Confidence vs Ego </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Reframing Goals to Actions.md\"> notes_Reframing Goals to Actions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Sangha.md\"> notes_Sangha </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Shuddhi.md\"> notes_Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Satya.md\"> notes_Satya </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Karma Fal.md\"> notes_Karma Fal </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md\"> 'Don't be the reason that rules exist' - Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Acting Bio.md\"> Acting Bio </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/How I process repressed emotions.md\"> How I process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/My relationship with my parents.md\"> My relationship with my parents </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Nathan Eloe.md\"> Nathan Eloe </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md\"> 0 That's Gender Dysphoria, FYI </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/1 What is Gender.md\"> 1 What is Gender </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/10 Existential Euphoria.md\"> 10 Existential Euphoria </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/11 Managed Dysphoria Gender in Disguise.md\"> 11 Managed Dysphoria Gender in Disguise </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/12 Impostor Syndrome, but make it Trans.md\"> 12 Impostor Syndrome, but make it Trans </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/13 Diagnosing Gender Dysphoria.md\"> 13 Diagnosing Gender Dysphoria </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/14 Treating Gender Dysphoria.md\"> 14 Treating Gender Dysphoria </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/15 What is the Cause of Gender Incongruence.md\"> 15 What is the Cause of Gender Incongruence </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/16 Disorders of Sex Development Gender is not Chromosomal.md\"> 16 Disorders of Sex Development Gender is not Chromosomal </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/17 Hormones How do they work.md\"> 17 Hormones How do they work </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md\"> 18 Androgenic Second Puberty 101 </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Reframing Goals to Actions.md\"> notes_Reframing Goals to Actions </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -11542,6 +11682,44 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Depression.md\"> notes_Herbs for Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Conditional Love.md\"> notes_Conditional Love </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_the Fantasy Trap.md\"> notes_the Fantasy Trap </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Protective Hopelessness.md\"> notes_Protective Hopelessness </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Inability to forgive.md\"> notes_Inability to forgive </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Brain Gut Axis.md\"> notes_Brain Gut Axis </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Working with Samskaras.md\"> notes_Working with Samskaras </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Falling Behind.md\"> notes_Falling Behind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dealing with Samskaras.md\"> notes_Dealing with Samskaras </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Ayurveda for Depression.md\"> notes_Ayurveda for Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Intro to Herbs.md\"> notes_Intro to Herbs </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Herbs for Anxiety.md\"> notes_Herbs for Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Brain Gut Axis.md\"> notes_Brain Gut Axis </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Treatment Approaches to Anxiety.md\"> notes_Treatment Approaches to Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Ayurveda for Anxiety.md\"> notes_Ayurveda for Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Dietary Guidance in Ayurveda.md\"> notes_Dietary Guidance in Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Ayurveda for Depression.md\"> notes_Ayurveda for Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Social Anxiety Disorder.md\"> notes_Social Anxiety Disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Panic Disorder.md\"> notes_Panic Disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Rebound Anxiety.md\"> notes_Rebound Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Other Anxiety Disorders.md\"> notes_Other Anxiety Disorders </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Treatment Approaches to Anxiety.md\"> notes_Treatment Approaches to Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Generalized Anxiety disorder.md\"> notes_Generalized Anxiety disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_What is an Anxiety Disorder.md\"> notes_What is an Anxiety Disorder </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Physiologic Anxiety.md\"> notes_Physiologic Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Breath and Mind.md\"> notes_Breath and Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Tension in the Mind.md\"> notes_Tension in the Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Feeding the Beast.md\"> notes_Feeding the Beast </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Solutions to Anxiety.md\"> notes_Solutions to Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Learned Anxiety.md\"> notes_Learned Anxiety </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Responses to Anxiety.md\"> notes_Responses to Anxiety </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
@@ -11553,45 +11731,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Features of Clinical Depression.md\"> notes_Features of Clinical Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_General Treatment Principles.md\"> notes_General Treatment Principles </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Cognitive Depression.md\"> notes_Cognitive Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Depression in a Holistic Lens.md\"> notes_Depression in a Holistic Lens </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Karma.md\"> notes_Karma </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_General Differntial Diagnosis.md\"> notes_General Differntial Diagnosis </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Bipolar Disorder.md\"> notes_Bipolar Disorder </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Features of Clinical Depression.md\"> notes_Features of Clinical Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Vedic Psychology.md\"> notes_Vedic Psychology </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Dukkha.md\"> notes_Dukkha </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Dharma.md\"> notes_Dharma </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Karma.md\"> notes_Karma </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Satya.md\"> notes_Satya </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_the Nature of Self.md\"> notes_the Nature of Self </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Panchakosha Theory.md\"> notes_Panchakosha Theory </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Confidence vs Ego.md\"> notes_Confidence vs Ego </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Reframing Goals to Actions.md\"> notes_Reframing Goals to Actions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Sangha.md\"> notes_Sangha </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Shuddhi.md\"> notes_Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Satya.md\"> notes_Satya </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Karma Fal.md\"> notes_Karma Fal </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/SOURCETEMPLATE.md\"> SOURCETEMPLATE </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/notes_History of Meditation.md\"> notes_History of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Different Meditative Styles.md\"> notes_Different Meditative Styles </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Overview of Meditation Module.md\"> notes_Overview of Meditation Module </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Congruent Depression.md\"> notes_Congruent Depression </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>",
@@ -11647,6 +11787,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoSamskara.md\"> videoSamskara </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_2000's General Notes.md\"> notes_2000's General Notes </a>",
@@ -11696,8 +11837,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Roam Research (software).md\"> Roam Research (software) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>"
       ]
     },
     "40_Evergreens": {
