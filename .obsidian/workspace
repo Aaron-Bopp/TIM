@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meditation is a practice to develop a stronger conscious.md",
+            "file": "10_Sources/notes_The Dawn of Everything.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "58614c8e2087b19f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":249},\"to\":{\"line\":16,\"ch\":249}},\"scroll\":14.92410712724164}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Meditation is a practice to develop a stronger conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "58614c8e2087b19f",
@@ -129,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meditation is a practice to develop a stronger conscious.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -162,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meditation is a practice to develop a stronger conscious.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meditation is a practice to develop a stronger conscious.md"
+                "file": "10_Sources/notes_The Dawn of Everything.md"
               }
             },
             "pane-relief:history-v1": {
@@ -300,8 +306,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "84f4f33f118f4527",
@@ -313,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meditation is a practice to develop a stronger conscious.md",
+                "file": "10_Sources/notes_The Dawn of Everything.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -424,10 +429,10 @@
   },
   "active": "58614c8e2087b19f",
   "lastOpenFiles": [
+    "10_Sources/notes_The Dawn of Everything.md",
     "Meditation is a practice to develop a stronger conscious.md",
     "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md",
     "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
-    "10_Sources/notes_The Dawn of Everything.md",
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
     "30_Topics/35_Outlines/self.md",
     "30_Topics/32_Terms/Lewy Body.md",
