@@ -4311,14 +4311,14 @@ font-weight: bold;
 }
 
 /*BUBBLE B1.5 Links*/
-.theme-light .cm-hmd-internal-link, 
+/* .theme-light .cm-hmd-internal-link, 
 .theme-light .modal-content a,
 .theme-light .markdown-preview-view a.footnote-link,
 .theme-light .markdown-preview-view a.internal-link,
 .theme-light .markdown-preview-view a.external-link {
 color: var(--teal1) !important;
 font-weight: bold;
-}
+} */
 
 /*BUBBLE B1.6 Inline Code*/
 .theme-light .cm-s-obsidian span.cm-inline-code, 
@@ -6202,13 +6202,13 @@ color: rgb(63, 172, 245);
 }
 
 /*SPACE B1.5 Links*/
-.theme-dark .cm-hmd-internal-link,
+/* .theme-dark .cm-hmd-internal-link,
 .theme-dark .modal-content a,
 .theme-dark .markdown-preview-view a.footnote-link,
 .theme-dark .markdown-preview-view a.internal-link,
 .theme-dark .markdown-preview-view a.external-link {
 color: var(--teal1) !important;
-}
+} */
 
 
 /*SPACE B1.6 Inline Code*/

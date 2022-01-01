@@ -28,7 +28,7 @@ Blaming people for failing to rise above their situation is not only unfair, it 
 
 
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-actualization]], [[socialization]], [[social progress]], [[inter-personal communication]], [[empathy]]

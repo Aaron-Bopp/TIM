@@ -1,3 +1,5 @@
+[Dr. Mike Talks with Harvard Psychiatrist Dr. K - YouTube](https://youtu.be/T_31hFh1XKM?t=4618)
+
 What is the value of open ended tasks? specifically [[my TO(DO) and EVER(GREEN) structure#EVER GREEN]]
 
 
