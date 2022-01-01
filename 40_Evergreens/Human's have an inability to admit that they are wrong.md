@@ -11,7 +11,7 @@ sr-ease: 179
 
 #TO/TEND/CULTIVATE focus on content of linked notes
 
-Once the [[subconscious|ego]] has internalized a belief as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]], but fundamentally this produces [[cognitive dissonance]] as we are unable to integrate new information.
+Once the [[ego]] has internalized a belief as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]], but fundamentally this produces [[cognitive dissonance]] as we are unable to integrate new information.
 ^[[[Evergreen notes should be constantly integrating new knowledge]]]
 #TO/PONDER/SOCIETY What pushes us to break this process?
 

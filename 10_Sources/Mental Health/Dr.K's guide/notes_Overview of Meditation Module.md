@@ -15,6 +15,7 @@ type:
 **Next**:: [[notes_History of Meditation]]
 **Previous**:: [[course_Dr. K's Guide to Mental Health]]
 
+## Notes
 - [[Dr. K]] spent a lot of time wanting to become a monk and learned from lots of teachers
 - Everybody needs a personalized method of meditation
 	- Good teachers do not make you conform to their style
@@ -25,7 +26,7 @@ type:
 	- [[karma]]
 - [[Manas Padha]] - explore the nature of mind and thoughts
 - [[Jnana Padha]] - what is the nature of knowledge
-	- how can we Iearn most efficiently [[How to read to understand]]
+	- how can we learn most efficiently [[How to read to understand]]
 - [[Atman Padha]] what is the nature of a person? [[human experience]]
 	- as we [[self-actualization]] we can free ourselves [[A secure identity is the best defense against social anxiety]]
 - [[Siddhi Padha]] - how can we accomplish more? Difference between intention and manifestation

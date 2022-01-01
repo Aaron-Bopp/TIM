@@ -13,6 +13,7 @@ sr-ease: 210
 As opposed to dragging you back in life like the [[mind]] often does: 
 [[We carry our childhood wounds into adulthood]]
 
+- [[Bhakti Yoga]]
 - [[Be the change you want to see in the world]]
 - [[You can leave the church without loosing your faith]]
 - [[You can't blame people for failing to rise above their circumstances]]

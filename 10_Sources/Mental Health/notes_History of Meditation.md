@@ -15,12 +15,13 @@ type:
 **Next**:: [[notes_Different Meditative Styles]]
 **Previous**:: [[notes_Overview of Meditation Module]]
 
+## Notes
 - [[meditation]] practices need to be specialized to the person
 - intersection of researchers and meditation practices
 	- researchers saw that [[mindfulness]] was the at the core of all [[meditation]] practices, but they lost a lot of the nuance
 	- they also moved away from the [[religion|religious]] aspects and lost the [[spirituality|spiritual]] roots ([[secularism|secularized]])
 - [[meditation]] began 5000 years ago in [[India]]
-	- [[Tantra]] for anything to manfest we need direction and fuel
+	- [[Tantra]] for anything to manifest we need direction and fuel
 		- [[mantra]], [[Yantra]], [[Yajna]] are both, and form the basis of [[yoga]]
 		- ![[Pasted image 20211229224350.png]]
 - [[yoga]] we are connected to an [[infinite]] [[conscious|consciousness]] called [[Brahman]]
@@ -28,19 +29,20 @@ type:
 		- [[Bhakti Yoga]] religious path
 		- [[Karma Yoga]] purification through good deeds
 		- [[Jnana Yoga]] brute force way to [[enlightenment]] through intense [[philosophy]]
-		- [[Raja Yoga]] step wise process 
+		- [[Raja Yoga]] step wise process [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 			- [[Yama]] pure standards
 				- [[Ahimsa]]
 			- [[Niyama]] good morals
-			- [[Asana]] [[yoga]] postures
+			- [[asanas]] [[yoga]] postures
 			- [[Pranayama]] breath practices
 			- [[Pratyahara]] restrain impulses
 			- [[Dharana]] focusing
 			- [[Dhyana]] state of [[meditation]]
 			- [[Samadhi]] state of temporary [[enlightenment]]
 	- [[yoga]] is how we purify ourselves
+	- [[yoga]] is more based in purifying body and mind and [[meditation]] is more in detaching from them, but in the end they achieve the same thing #TO/DO/CONCEPTUALIZE 
 	- [[Hatha Yoga]]
-		- focused on [[Asana]] and [[Pranayama]]
+		- focused on [[asanas]] and [[Pranayama]]
 		- purely through perfecting mind and body you can achieve [[enlightenment]]
 	- [[Kundalini Yoga]]
 		- all about balancing our 7 [[Chakra|chakras]]
@@ -51,4 +53,4 @@ type:
 		- [[Mahayana Buddhism]] you can learn from anyone who has achieved [[enlightenment]]
 			- lead to [[Zen]] which lead to [[mindfulness]]
 			- [[mindfulness]] is only a tiny part of all [[meditation]] traditions
-		- [[Vajrayana Buddhism]]
+		- [[Vajrayana Buddhism]] [[manifestation]]

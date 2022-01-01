@@ -8,7 +8,7 @@ sr-interval: 20
 sr-ease: 188
 ---
 
-#### [[Worldviews are wrong if they make life seem easy and simple]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Worldviews should not make life seem easy and simple]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 If a worldview makes life seem easy, it will shape the way you view people who are struggling.
 The pursuit of [[self-actualization]] is different for every person, but if you aren't part of a [[marginalized]] group and your worldview tells you that all you need to do is one simple thing, you will view those people as lazy or wrong:

@@ -16,7 +16,7 @@ While the bible does talk about how to be a good person,
 ^[the ethics and success of it's teachings are up for debate]
 [[Evangelicalism has commodified faith for profit]] and so they have largely abandoned this doctrine.
 
-"Have [[faith]] and you will be saved. Believe in the lord god and he will make your pain go away." These are empty promises. [[Evangelicalism]] hides the work and the struggle so that it can convert and control more people: [[Worldviews are wrong if they make life seem easy and simple]]
+"Have [[faith]] and you will be saved. Believe in the lord god and he will make your pain go away." These are empty promises. [[Evangelicalism]] hides the work and the struggle so that it can convert and control more people: [[Worldviews should not make life seem easy and simple]]
 %%
 #TO/TEND/DEOBFUSCATE difference between [[Evangelicalism has commodified faith for profit]] and this, especially this para
 %%

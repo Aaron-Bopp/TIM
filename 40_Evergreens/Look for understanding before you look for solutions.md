@@ -21,7 +21,7 @@ and finding a common ground and productive solutions.
 When communicating with people you don't know (such as through the internet) [[empathy]] is the first and most important thing you should convey. If you do not show a willingness to understand somebody's opinion, they will not give you the time of day. Looking for understanding first will also lead to better outcomes when trying to convince someone of your solution 
 
 What is the root of this trait?
-- [[Worldviews are wrong if they make life seem easy and simple]] 
+- [[Worldviews should not make life seem easy and simple]] 
 - [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 - [[Human's have an inability to admit that they are wrong]]
 

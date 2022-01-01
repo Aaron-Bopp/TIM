@@ -35,9 +35,11 @@ Once someone has reached this state of "[[enlightenment]]," they will not only f
 
 It may be something small, it may be something massive, or they may just get bored with being cynical and come to think [[Happiness is enlightenment and sadness is delusion]]. If someone can trick themselves to be hopeful, that may be enough to make a permanent change in their life, because [[Hope is not optimism it is a practice for producing change]].
 
+For people that have become to aware of [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]], the only may be [[detachment]] from the [[suffering]] of the world: [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-worth]], [[Buddhism]], [[depression]], [[social justice]]

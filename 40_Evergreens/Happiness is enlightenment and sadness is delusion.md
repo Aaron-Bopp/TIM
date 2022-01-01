@@ -14,7 +14,7 @@ sr-ease: 250
 
 This is “true [[optimism]]“: [[True optimism is acknowledging the suffering of the world and defying it anyway|acknowledging the suffering of the world and defying it anyway]]. Even people who have fallen into [[pessimism]]  [[Realism must acknowledge optimism's existence and effectiveness|must acknowledge optimism's existence and effectiveness]]. 
 
-This is no easy task, so [[Buddhism outlines a path and practice to end suffering, but does not promise it]] rather than making it [[Worldviews are wrong if they make life seem easy and simple| seem easy ]] and leading people into [[cognitive dissonance]].
+This is no easy task, so [[Buddhism outlines a path and practice to end suffering, but does not promise it]] rather than making it [[Worldviews should not make life seem easy and simple| seem easy ]] and leading people into [[cognitive dissonance]].
 
 #TO/TEND/CONCEPTUALIZE the contrast here[[Sadness is enlightenment and happiness is delusion]] and here [[Buddhism is the study of happiness through detachment|The nature of happiness is not doing what you love its detachment from the decisions of the life]].
 

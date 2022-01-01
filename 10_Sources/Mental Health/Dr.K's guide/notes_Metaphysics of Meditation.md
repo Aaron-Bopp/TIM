@@ -17,6 +17,7 @@ type:
 #### Terms
 - [[Brahman]]
 
+## Notes
 - [[Yogi]]s believed that everything came from a sea of formless [[conscious|consciousness]] called [[Brahman]]
 	- [[Consciousness is the fundamental unit of existence]]
 	- when [[Brahman]] coalesces to become [[energy]] and energy coalesces to become [[matter]]
@@ -28,5 +29,5 @@ type:
 - [[Quantum Mechanics]]
 	- If you can describe a quality [[Brahman]] is not that, it is never a manifestation it is the potentiality 
 
-#### **References and further reading:**  
+##  **References and further reading:**  
 -   Gribbin, J. (1984). In search of Schrödinger's cat: Quantum physics and reality. Toronto: Bantam Books.

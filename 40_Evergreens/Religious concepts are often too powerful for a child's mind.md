@@ -17,7 +17,7 @@ Teaching children that their eternal fate is at stake is not healthy and leads t
 [[Parents need to model the ability to deal with emotion to their children]],
 but religious [[parents]] repeatedly teach their children that all of their problems can be solved in faith.
 Because Christians have always had such a simple and obvious choice to avoid this damnation, 
-^[[[Worldviews are wrong if they make life seem easy and simple]]]
+^[[[Worldviews should not make life seem easy and simple]]]
 [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
 - [[The brain is powerful enough to create supernatural experiences]]

@@ -21,6 +21,7 @@ tags: created/source/2021/12/31, node/source/notes
 - [[Sakshi Bhava]]
 - [[Psychosis]]
 
+#### Notes
 - [[conscious]] If something is observing the action of mind, it must be outside the mind [[Consciousness is the fundamental unit of existence]]
 	- even when we look at ourselves in mirrors or pictures we are merely seeing ourselves
 	- When day dreaming, who is the person lost in your thoughts? 

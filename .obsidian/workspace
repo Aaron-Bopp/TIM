@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
+            "file": "Karma is an open ended system of belief.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,20 @@
             {
               "leaf": "523da76e7cb06a92",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karma is an open ended system of belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":49},\"to\":{\"line\":13,\"ch\":49}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to develop a meditation practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":157},\"to\":{\"line\":14,\"ch\":157}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":40},\"to\":{\"line\":27,\"ch\":40}},\"scroll\":17.038722407201874}"
             },
             {
               "leaf": "523da76e7cb06a92",
@@ -125,17 +137,257 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Readwise Export for Obsidian - Templates and Process.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "b724b9ca74457349",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b724b9ca74457349",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}},\"scroll\":30.103577555973686}"
             },
             {
-              "leaf": "523da76e7cb06a92",
+              "leaf": "b724b9ca74457349",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Writing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fca1dc22b1b0062a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_System of Mind.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "fca1dc22b1b0062a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_System of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fca1dc22b1b0062a",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "9d0f889dfbf8a038",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9d0f889dfbf8a038",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":87},\"to\":{\"line\":25,\"ch\":87}},\"scroll\":26.04812477114473}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "de0b52c6acdc120b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Metaphysics of Meditation.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "de0b52c6acdc120b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Metaphysics of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":3},\"to\":{\"line\":31,\"ch\":3}},\"scroll\":8.695651884267766}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2c0ac717633c53ee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "2c0ac717633c53ee",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":8},\"to\":{\"line\":47,\"ch\":35}},\"scroll\":26.11695526958278}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "0b0db81f9cf19c3d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Meditation helps us gain control over our emotions.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0b0db81f9cf19c3d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Meditation helps us gain control over our emotions.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "523da76e7cb06a92",
+              "leaf": "0b0db81f9cf19c3d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "49a745f8bd99d61c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "49a745f8bd99d61c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":27},\"to\":{\"line\":24,\"ch\":27}},\"scroll\":12.822009830606785}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "15e1c3bcbe45ba62",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/32_Terms/Hatha Yoga.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "15e1c3bcbe45ba62",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/asanas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "15e1c3bcbe45ba62",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Hatha Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":10},\"to\":{\"line\":11,\"ch\":10}}}"
+            },
+            {
+              "leaf": "15e1c3bcbe45ba62",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5cde3cdac8ff6983",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Overview of Meditation Module.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5cde3cdac8ff6983",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Overview of Meditation Module.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":48},\"to\":{\"line\":29,\"ch\":29}},\"scroll\":12.822009830606785}"
+            },
+            {
+              "leaf": "5cde3cdac8ff6983",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -170,7 +422,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node",
+                "query": "tag:#created/evergreen/2021/11",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +441,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
+                "file": "Meditation helps us gain control over our emotions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +474,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
+                "file": "Meditation helps us gain control over our emotions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +500,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,7 +520,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md"
+                "file": "Meditation helps us gain control over our emotions.md"
               }
             },
             "pane-relief:history-v1": {
@@ -371,6 +623,25 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "c00a5917d91604ac",
+            "type": "leaf",
+            "state": {
+              "type": "search-ref",
+              "state": {
+                "query": "(file:(\"course_Dr. K's Guide to Mental Health.md\") /^#{1,6} Meditation techniques$/) OR (/#Meditation techniques]]/) ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
         ],
         "currentTab": 1
@@ -385,7 +656,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
+                "file": "Meditation helps us gain control over our emotions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -495,17 +766,17 @@
     "width": 930.9945068359375,
     "collapsed": true
   },
-  "active": "523da76e7cb06a92",
+  "active": "0b0db81f9cf19c3d",
   "lastOpenFiles": [
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
-    "40_Evergreens/Webs of thought provide heterarchical structure.md",
-    "40_Evergreens/What are the differences between evergreen notes and conceptual notes.md",
-    "40_Evergreens/What is the difference between blame and judgement.md",
-    "40_Evergreens/When should you forgive people who don't deserve it.md",
-    "40_Evergreens/You can be taught to invalidate your own emotions.md",
-    "40_Evergreens/You can leave the church without loosing your faith.md",
-    "40_Evergreens/Humans are a product of evolution.md",
-    "40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md"
+    "Meditation helps us gain control over our emotions.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
+    "30_Topics/32_Terms/Hatha Yoga.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md",
+    "30_Topics/32_Terms/Zen.md",
+    "00_Meta/Templates/META.md",
+    "40_Evergreens/Sadness is enlightenment and happiness is delusion.md",
+    "40_Evergreens/Buddhism is the study of happiness through detachment.md",
+    "20_Entry/209 Notepad.md",
+    "40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md"
   ]
 }

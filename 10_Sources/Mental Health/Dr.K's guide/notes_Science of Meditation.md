@@ -15,6 +15,7 @@ type:
 **Previous**:: [[notes_Different Meditative Styles]]
 **Next**:: [[notes_Metaphysics of Meditation]]
 
+## Notes
 #### [[Meditation helps us regulate our hormonal environment]]
 - Studies have found [[meditation|meditating]] for at least 20 minutes every day or every other it will affect you
 	- This is because of [[Stress]] physiology

@@ -13,6 +13,9 @@ sr-ease: 210
 
 The nature of happiness is not doing what you love its detachment from the decisions of the life
 
+#TO/EXPLORE/WATCH #TO/PONDER This section of the video which is really high understanding of this concept
+[Dr. Mike Talks with Harvard Psychiatrist Dr. K - YouTube](https://youtu.be/T_31hFh1XKM?t=4618)
+
 - [[Sadness is enlightenment and happiness is delusion]]
 - [[Happiness is enlightenment and sadness is delusion]]
 - [[Constantly working on yourself is a form a self-hatred]]

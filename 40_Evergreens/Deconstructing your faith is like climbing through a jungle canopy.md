@@ -16,7 +16,7 @@ or because [[Sometimes we can't grow until we change our environment]]
 
 [[Faith can be a useful tool for grounding yourself]], because christianity answers [[The three main questions of life]].
 Because Christianity is often taught from childhood, [^1] it can be very hard to comprehend a world without a plan, without a creator, and without purpose.
-[[There aren't any downsides to working through trauma]], but that doesn't mean that we will not feel lost and confused. [[Human's have an inability to admit that they are wrong]], so deconstructing your faith is a direct attack on the [[subconscious|ego]]: [[Faith is an abstraction of cognitive dissonance]]
+[[There aren't any downsides to working through trauma]], but that doesn't mean that we will not feel lost and confused. [[Human's have an inability to admit that they are wrong]], so deconstructing your faith is a direct attack on the [[ego]]: [[Faith is an abstraction of cognitive dissonance]]
 
 [^1]: [[Religious concepts are often too powerful for a child's mind]]
 

@@ -21,7 +21,7 @@ When entering in to this mindset it is imporant to remember
 
 
 This idea is especially important for [[Christianity|christians]], because [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] because they struggle to put themselves into the shoe's of non-christians.
-^[[[Worldviews are wrong if they make life seem easy and simple]]]
+^[[[Worldviews should not make life seem easy and simple]]]
 
 [[Do we have free will]] 
 

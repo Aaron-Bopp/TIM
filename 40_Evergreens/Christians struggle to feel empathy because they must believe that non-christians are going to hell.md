@@ -12,7 +12,7 @@ One of the core belief's of [[Christianity]] is that we have [[free-will]]. This
 ^[This is a very complicated relationship, #TO/PONDER relationship with [[Do we have free will]]]
 
 Because [[free-will]] is so integral to loving god and avoiding punishment, it becomes a core part of the [[Christianity |Christian]] [[worldview]], and when they see a non-believer they [[subconscious |subconsciously]] know that person has made the choice to go to hell and judge them for it.
-^[this is why [[Worldviews are wrong if they make life seem easy and simple]]]
+^[this is why [[Worldviews should not make life seem easy and simple]]]
 This plays a large part in the drive for evangelism and mission work, but it also changes [[Christianity|Christian]]'s relationships with others. 
 
 If Christian's were feeling [[empathy]] fully for these people that would receive eternal punishment

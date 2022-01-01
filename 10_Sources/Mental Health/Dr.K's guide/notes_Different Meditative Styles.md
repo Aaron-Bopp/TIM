@@ -17,7 +17,7 @@ type:
 **Previous**:: [[notes_History of Meditation]]
 
 
-
+## Notes
 - [[Raja Yoga]]
 	- [[Yama]]s are societal observances
 		- [[Ahimsa]] non-violence
@@ -31,7 +31,7 @@ type:
 		- [[Tapas]] [[discipline]]
 		- [[Swadhyaya]] self-study ([[self-actualization]])
 		- [[Iswara Pranidhana]] devotion to god (or recognizing that there is something within you that is [[divinity|divine]])
-	- [[Asana]] [[yoga]] postures 
+	- [[asanas]] [[yoga]] postures 
 		 - is the way we get our body in shape for [[enlightenment]]
 	- [[Pranayama]] control of breathing
 		- difference between life and death is existence of life energy, this is trying to boost that 

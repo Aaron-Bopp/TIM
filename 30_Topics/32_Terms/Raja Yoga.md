@@ -11,7 +11,7 @@ A system of Yoga, also known as the path of Kings, that focuses on gaining enlig
 
 1. [[Yama]] pure standards
 2. [[Niyama]] good morals
-3. [[Asana]] [[yoga]] postures
+3. [[asanas]] [[yoga]] postures
 4. [[Pranayama]] breath practices
 5. [[Pratyahara]] restrain impulses
 6. [[Dharana]] focusing

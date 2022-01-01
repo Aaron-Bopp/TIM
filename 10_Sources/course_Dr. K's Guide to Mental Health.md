@@ -25,14 +25,20 @@ type:
 - [[Meditation helps us develop empathy]]
 - [[Meditation is a practice to develop a stronger conscious]]
 - [[Meditation is a practice and discipline of observation]]
+- [[How to develop a meditation practice]]
 
 # Source notes
-## [[meditation]]
+## Watched
 - [[notes_Overview of Meditation Module]]
 - [[notes_History of Meditation]]
 - [[notes_Different Meditative Styles]]
 - [[notes_Science of Meditation]]
 - [[notes_Metaphysics of Meditation]]
+- [[notes_The Nature of Mind]]
+- [[notes_System of Mind]]
+- [[notes_Intro to Mantra Practice]]
+- 
+## Unwatched
 - [[notes_Knowledge of the Mind]]
 - [[notes_Vidya and Jnana]]
 - [[notes_Karma Fal]]
@@ -41,7 +47,6 @@ type:
 - [[notes_Sangha]]
 - [[notes_Shuddhi]]
 - [[notes_Satya]]
-- [[notes_The Nature of Mind]]
 - [[notes_the Nature of Self]]
 - [[notes_Panchakosha Theory]]
 - [[notes_Confidence vs Ego]]
@@ -49,8 +54,6 @@ type:
 - [[notes_Dukkha]]
 - [[notes_Dharma]]
 - [[notes_Karma]]
-- [[notes_Intro to Mantra Practice]]
-## [[anxiety]]
 - [[notes_Anxiety 101]]
 - [[notes_cognitive Anxiety]]
 - [[notes_Thought Loops]]
@@ -69,7 +72,6 @@ type:
 - [[notes_Rebound Anxiety]]
 - [[notes_Other Anxiety Disorders]]
 - [[notes_Treatment Approaches to Anxiety]]
-# [[depression]]
 - [[notes_Clinical vs Non-clinical depression]]
 - [[notes_Neuroscience of Depression]]
 - [[notes_General Differntial Diagnosis]]
@@ -81,7 +83,6 @@ type:
 - [[notes_Depression in a Holistic Lens]]
 - [[notes_Negative Emotions]]
 - [[notes_Working with Samskaras]]
-# anxiety and [[depression]]
 - [[notes_Intro to Ayurveda]]
 - [[notes_Ayurveda for Anxiety]]
 - [[notes_Dietary Guidance in Ayurveda]]
@@ -90,7 +91,6 @@ type:
 - [[notes_Herbs for Anxiety]]
 - [[notes_Herbs for Depression]]
 - [[notes_Brain Gut Axis]]
-# all three
 - [[notes_Falling Behind]]
 - [[notes_Dealing with Samskaras]]
 - [[notes_Conditional Love]]

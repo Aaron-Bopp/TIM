@@ -33,7 +33,7 @@ I went through a time of [[depression]], where fell into the fallacy that [[Sadn
 My feelings being a follower of Jesus have somewhat mellowed with time, but my feelings towards the church has not, and I still believe [[The biblical Christian God is evil and does not deserve to be worshipped]].
 The fact is [[realism must acknowledge optimism's existence and effectiveness]] if we want to create a better world: [[Be the change you want to see in the world]]
 
-Additionally I believe [[Worldviews are wrong if they make life seem easy and simple]] and that [[Christianity]] is one such worldview:
+Additionally I believe [[Worldviews should not make life seem easy and simple]] and that [[Christianity]] is one such worldview:
 - [[Faith is an abstraction of cognitive dissonance]]
 - [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 - [[Fear of hell is baked into Christianity for vulnerable believers]]
