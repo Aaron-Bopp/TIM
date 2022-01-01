@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/notes_The Dawn of Everything.md",
+            "file": "Change requires agreement.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,44 @@
             {
               "leaf": "58614c8e2087b19f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Change requires agreement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Meditation helps us gain control over our emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Respect for women.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Respect for travellers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Meditation is a practice to develop a stronger conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Emergence of democracy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":249},\"to\":{\"line\":16,\"ch\":249}},\"scroll\":14.92410712724164}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":33},\"to\":{\"line\":21,\"ch\":33}},\"scroll\":152.58930679523297}"
             },
             {
               "leaf": "58614c8e2087b19f",
@@ -135,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "Change requires agreement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -168,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "Change requires agreement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -214,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md"
+                "file": "Change requires agreement.md"
               }
             },
             "pane-relief:history-v1": {
@@ -318,7 +353,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "file": "Change requires agreement.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -429,15 +464,15 @@
   },
   "active": "58614c8e2087b19f",
   "lastOpenFiles": [
-    "10_Sources/notes_The Dawn of Everything.md",
+    "Change requires agreement.md",
+    "Meditation helps us gain control over our emotions.md",
+    "Respect for travellers.md",
     "Meditation is a practice to develop a stronger conscious.md",
+    "Emergence of democracy.md",
+    "10_Sources/notes_The Dawn of Everything.md",
     "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md",
     "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md",
-    "30_Topics/35_Outlines/self.md",
-    "30_Topics/32_Terms/Lewy Body.md",
-    "Karma is an open ended system of belief.md",
-    "Worlds views should be open ended and adaptive.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Overview of Meditation Module.md"
+    "30_Topics/35_Outlines/self.md"
   ]
 }

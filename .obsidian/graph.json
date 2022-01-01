@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#node/topic/term",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1369098035932731,
+  "scale": 0.03650090828680449,
   "close": true
 }

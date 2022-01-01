@@ -8236,9 +8236,9 @@
       "links": 0
     },
     "10_Sources/notes_The Dawn of Everything.md": {
-      "size": 8315,
-      "tags": 3,
-      "links": 121
+      "size": 4998,
+      "tags": 2,
+      "links": 78
     },
     "10_Sources/Readwise/Articles/articles_Understanding human collective behaviour  Autistic Collaboration.md": {
       "size": 996,
@@ -11764,14 +11764,154 @@
       "size": 49231,
       "tags": 2,
       "links": 13
+    },
+    "People easily ignore history.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "People frame ancient history to serve their interests.md": {
+      "size": 642,
+      "tags": 1,
+      "links": 8
+    },
+    "People are willing to accept incomplete answers when it comes to history.md": {
+      "size": 703,
+      "tags": 1,
+      "links": 9
+    },
+    "The two stories of prehistory.md": {
+      "size": 977,
+      "tags": 1,
+      "links": 18
+    },
+    "The discussions and situation of the enlightenment.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 5
+    },
+    "Origin of the myth of the noble savage.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "We believe that human's are evil.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Humans believed that society required a lack of freedom.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "State Emergence.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "Emergence of racism.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Emergence of democracy.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Early human behavior was massively complex.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 5
+    },
+    "European colonialism.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Emergence of capitalism.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "Early society is both familiar and unfamiliar.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "Highly evolutionary view.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Humans in prehistory were not confined to small egalitarian bands.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Agriculture does not enforce ranks and hierarchies.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "Respect for the subconscious.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Respect for travellers.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Respect for women.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Negative effects of western civilization.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "What sorts of societies do people gravitate towards.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "Inequality is an unactionable item.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 4
+    },
+    "Change requires agreement.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Progress requires change.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "progress requires respect.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Great thinkers value thought over success.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2789,
-      "Create": 3404,
-      "Link": 6651,
-      "Expand": 624
+      "Refactor": 2792,
+      "Create": 3432,
+      "Link": 6707,
+      "Expand": 627
     },
     "40_Evergreens": {
       "Refactor": 209,
@@ -11797,8 +11937,8 @@
       "12": 422,
       "13": 304,
       "14": 2380,
-      "15": 180,
-      "16": 1145,
+      "15": 208,
+      "16": 1207,
       "17": 2763,
       "18": 2267,
       "19": 464,
@@ -11842,7 +11982,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5144
+      "Sun": 5234
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -11857,6 +11997,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
+        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
+        "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hatha Yoga.md\"> Hatha Yoga </a>",
@@ -11904,12 +12047,37 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_System of Mind.md\"> notes_System of Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_System of Mind.md\"> notes_System of Mind </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT.md\"> CBT </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_System of Mind.md\"> notes_System of Mind </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>",
+        "<a class=\"internal-link\" href=\"progress requires respect.md\"> progress requires respect </a>",
+        "<a class=\"internal-link\" href=\"Progress requires change.md\"> Progress requires change </a>",
+        "<a class=\"internal-link\" href=\"Change requires agreement.md\"> Change requires agreement </a>",
+        "<a class=\"internal-link\" href=\"Inequality is an unactionable item.md\"> Inequality is an unactionable item </a>",
+        "<a class=\"internal-link\" href=\"What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>",
+        "<a class=\"internal-link\" href=\"Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
+        "<a class=\"internal-link\" href=\"Respect for women.md\"> Respect for women </a>",
+        "<a class=\"internal-link\" href=\"Respect for travellers.md\"> Respect for travellers </a>",
+        "<a class=\"internal-link\" href=\"Respect for the subconscious.md\"> Respect for the subconscious </a>",
+        "<a class=\"internal-link\" href=\"Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>",
+        "<a class=\"internal-link\" href=\"Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>",
+        "<a class=\"internal-link\" href=\"Highly evolutionary view.md\"> Highly evolutionary view </a>",
+        "<a class=\"internal-link\" href=\"Early society is both familiar and unfamiliar.md\"> Early society is both familiar and unfamiliar </a>",
+        "<a class=\"internal-link\" href=\"Emergence of capitalism.md\"> Emergence of capitalism </a>",
+        "<a class=\"internal-link\" href=\"European colonialism.md\"> European colonialism </a>",
+        "<a class=\"internal-link\" href=\"Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>",
+        "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>",
+        "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>",
+        "<a class=\"internal-link\" href=\"State Emergence.md\"> State Emergence </a>",
+        "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
+        "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>",
+        "<a class=\"internal-link\" href=\"Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
+        "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
+        "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
+        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
+        "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
+        "<a class=\"internal-link\" href=\"People easily ignore history.md\"> People easily ignore history </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
@@ -11932,35 +12100,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"prayer beads.md\"> prayer beads </a>",
         "<a class=\"internal-link\" href=\"JApa.md\"> JApa </a>",
-        "<a class=\"internal-link\" href=\"Japan.md\"> Japan </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/arbitrage.md\"> arbitrage </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/observation.md\"> observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/a second brain should be an extension of your thought.md\"> a second brain should be an extension of your thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/belief.md\"> belief </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction (the good kind).md\"> Belief is an addiction (the good kind) </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Working with Samskaras.md\"> notes_Working with Samskaras </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_What is an Anxiety Disorder.md\"> notes_What is an Anxiety Disorder </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vedic Psychology.md\"> notes_Vedic Psychology </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Treatment Approaches to Anxiety.md\"> notes_Treatment Approaches to Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Thought Loops.md\"> notes_Thought Loops </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_the Nature of Self.md\"> notes_the Nature of Self </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_the Fantasy Trap.md\"> notes_the Fantasy Trap </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Tension in the Mind.md\"> notes_Tension in the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_System of Mind.md\"> notes_System of Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Solutions to Anxiety.md\"> notes_Solutions to Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Social Anxiety Disorder.md\"> notes_Social Anxiety Disorder </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md\"> notes_Science of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Satya.md\"> notes_Satya </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Responses to Anxiety.md\"> notes_Responses to Anxiety </a>"
+        "<a class=\"internal-link\" href=\"Japan.md\"> Japan </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/ego.md\"> ego </a>",
@@ -12016,6 +12156,34 @@
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_1990's General Notes.md\"> notes_1990's General Notes </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"People easily ignore history.md\"> People easily ignore history </a>",
+        "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
+        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
+        "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
+        "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
+        "<a class=\"internal-link\" href=\"Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
+        "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>",
+        "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
+        "<a class=\"internal-link\" href=\"State Emergence.md\"> State Emergence </a>",
+        "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>",
+        "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>",
+        "<a class=\"internal-link\" href=\"Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>",
+        "<a class=\"internal-link\" href=\"European colonialism.md\"> European colonialism </a>",
+        "<a class=\"internal-link\" href=\"Emergence of capitalism.md\"> Emergence of capitalism </a>",
+        "<a class=\"internal-link\" href=\"Early society is both familiar and unfamiliar.md\"> Early society is both familiar and unfamiliar </a>",
+        "<a class=\"internal-link\" href=\"Highly evolutionary view.md\"> Highly evolutionary view </a>",
+        "<a class=\"internal-link\" href=\"Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>",
+        "<a class=\"internal-link\" href=\"Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>",
+        "<a class=\"internal-link\" href=\"Respect for the subconscious.md\"> Respect for the subconscious </a>",
+        "<a class=\"internal-link\" href=\"Respect for travellers.md\"> Respect for travellers </a>",
+        "<a class=\"internal-link\" href=\"Respect for women.md\"> Respect for women </a>",
+        "<a class=\"internal-link\" href=\"Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
+        "<a class=\"internal-link\" href=\"What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>",
+        "<a class=\"internal-link\" href=\"Inequality is an unactionable item.md\"> Inequality is an unactionable item </a>",
+        "<a class=\"internal-link\" href=\"Change requires agreement.md\"> Change requires agreement </a>",
+        "<a class=\"internal-link\" href=\"Progress requires change.md\"> Progress requires change </a>",
+        "<a class=\"internal-link\" href=\"progress requires respect.md\"> progress requires respect </a>",
+        "<a class=\"internal-link\" href=\"Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\"> Rationalizations are defense-mechanisms against strong emotions </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
@@ -12038,35 +12206,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dataview.md\"> Dataview </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hierarchy.md\"> hierarchy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/prayer beads.md\"> prayer beads </a>",
-        "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/arbitrage.md\"> arbitrage </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/observation.md\"> observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction (the good kind).md\"> Belief is an addiction (the good kind) </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Ayurveda for Anxiety.md\"> notes_Ayurveda for Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Ayurveda for Depression.md\"> notes_Ayurveda for Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Bipolar Disorder.md\"> notes_Bipolar Disorder </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Brain Gut Axis.md\"> notes_Brain Gut Axis </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Breath and Mind.md\"> notes_Breath and Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_cognitive Anxiety.md\"> notes_cognitive Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\"> notes_Cognitive Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Conditional Love.md\"> notes_Conditional Love </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Confidence vs Ego.md\"> notes_Confidence vs Ego </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dealing with Samskaras.md\"> notes_Dealing with Samskaras </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Depression in a Holistic Lens.md\"> notes_Depression in a Holistic Lens </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dietary Guidance in Ayurveda.md\"> notes_Dietary Guidance in Ayurveda </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md\"> notes_Different Meditative Styles </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dukkha.md\"> notes_Dukkha </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/prayer beads.md\"> prayer beads </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12108,7 +12248,8 @@
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
@@ -12164,6 +12305,34 @@
         "<a class=\"internal-link\" href=\"Vairagya.md\"> Vairagya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"People easily ignore history.md\"> People easily ignore history </a>",
+        "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
+        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
+        "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
+        "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
+        "<a class=\"internal-link\" href=\"Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
+        "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>",
+        "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
+        "<a class=\"internal-link\" href=\"State Emergence.md\"> State Emergence </a>",
+        "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>",
+        "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>",
+        "<a class=\"internal-link\" href=\"Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>",
+        "<a class=\"internal-link\" href=\"European colonialism.md\"> European colonialism </a>",
+        "<a class=\"internal-link\" href=\"Emergence of capitalism.md\"> Emergence of capitalism </a>",
+        "<a class=\"internal-link\" href=\"Early society is both familiar and unfamiliar.md\"> Early society is both familiar and unfamiliar </a>",
+        "<a class=\"internal-link\" href=\"Highly evolutionary view.md\"> Highly evolutionary view </a>",
+        "<a class=\"internal-link\" href=\"Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>",
+        "<a class=\"internal-link\" href=\"Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>",
+        "<a class=\"internal-link\" href=\"Respect for the subconscious.md\"> Respect for the subconscious </a>",
+        "<a class=\"internal-link\" href=\"Respect for travellers.md\"> Respect for travellers </a>",
+        "<a class=\"internal-link\" href=\"Respect for women.md\"> Respect for women </a>",
+        "<a class=\"internal-link\" href=\"Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
+        "<a class=\"internal-link\" href=\"What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>",
+        "<a class=\"internal-link\" href=\"Inequality is an unactionable item.md\"> Inequality is an unactionable item </a>",
+        "<a class=\"internal-link\" href=\"Change requires agreement.md\"> Change requires agreement </a>",
+        "<a class=\"internal-link\" href=\"Progress requires change.md\"> Progress requires change </a>",
+        "<a class=\"internal-link\" href=\"progress requires respect.md\"> progress requires respect </a>",
+        "<a class=\"internal-link\" href=\"Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\"> Rationalizations are defense-mechanisms against strong emotions </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
@@ -12186,37 +12355,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
         "<a class=\"internal-link\" href=\"Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
-        "<a class=\"internal-link\" href=\"Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
-        "<a class=\"internal-link\" href=\"Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/notes_History of Meditation.md\"> notes_History of Meditation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
-        "<a class=\"internal-link\" href=\"Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hatha Yoga.md\"> Hatha Yoga </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Zen.md\"> Zen </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/notes_History of Meditation.md\"> notes_History of Meditation </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hatha Yoga.md\"> Hatha Yoga </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Jnana Yoga.md\"> Jnana Yoga </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Karma Yoga.md\"> Karma Yoga </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bhakti Yoga.md\"> Bhakti Yoga </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>"
+        "<a class=\"internal-link\" href=\"Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The black identity has evolved past it's political origins.md\"> The black identity has evolved past it's political origins </a>",
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
@@ -12266,10 +12408,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
@@ -12319,8 +12461,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>"
       ]
     },
     "40_Evergreens": {
