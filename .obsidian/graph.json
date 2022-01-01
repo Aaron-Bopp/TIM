@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-tag:#node/topic/term",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#EVER/SEED",
@@ -33,6 +33,13 @@
       "color": {
         "a": 1,
         "rgb": 65403
+      }
+    },
+    {
+      "query": "tag:#node/topic/person",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     },
     {
@@ -70,10 +77,10 @@
   "nodeSizeMultiplier": 0.453724475122232,
   "lineSizeMultiplier": 0.428227941176471,
   "collapse-forces": false,
-  "centerStrength": 0.369982414557688,
+  "centerStrength": 0.54256880733945,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.08317427835927732,
+  "scale": 0.05932617187500257,
   "close": false
 }

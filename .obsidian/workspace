@@ -7,12 +7,41 @@
         "id": "738a2eee761496fa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/35_Outlines/self.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "738a2eee761496fa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/self.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "738a2eee761496fa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "738a2eee761496fa",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "738a2eee761496fa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Lewy Body.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "738a2eee761496fa",
               "group": null,
@@ -76,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "30_Topics/35_Outlines/self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -108,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "30_Topics/35_Outlines/self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +154,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             },
@@ -152,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "30_Topics/35_Outlines/self.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -287,6 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "30_Topics/35_Outlines/self.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -393,20 +427,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 930.9945068359375,
-    "collapsed": true
+    "width": 930.9945068359375
   },
   "active": "738a2eee761496fa",
   "lastOpenFiles": [
+    "30_Topics/35_Outlines/self.md",
+    "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md",
+    "30_Topics/32_Terms/Lewy Body.md",
     "Karma is an open ended system of belief.md",
     "Worlds views should be open ended and adaptive.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Overview of Meditation Module.md",
     "30_Topics/32_Terms/Bhakti Yoga.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
-    "Meditation is a practice to develop a stronger conscious.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_System of Mind.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md"
+    "Meditation is a practice to develop a stronger conscious.md"
   ]
 }
