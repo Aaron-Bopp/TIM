@@ -14,6 +14,7 @@ Humans want to believe because [[Humans have decided to reject an unjust world]]
 To be clear, this thinking isn't wrong,
 the problem is when we pathologize this addiction and spread it as far as we can: [[Evangelicalism has commodified faith for profit]]
 
+- [[Belief pulls you forward into life]]
 - [[Faith can be a useful tool for grounding yourself]]
 - [[The three main questions of life]]
 - [[Humans are a product of evolution]]

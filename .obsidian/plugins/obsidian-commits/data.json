@@ -7401,8 +7401,8 @@
       "links": 22
     },
     "30_Topics/33_Tools/Dataview.md": {
-      "size": 1379,
-      "tags": 4,
+      "size": 1606,
+      "tags": 5,
       "links": 6
     },
     "30_Topics/33_Tools/Dual (plugin).md": {
@@ -8115,51 +8115,6 @@
       "tags": 0,
       "links": 9
     },
-    "00_Meta/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 2
-    },
-    "00_Meta/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 2
-    },
-    "00_Meta/Personal/Acting Bio.md": {
-      "size": 849,
-      "tags": 4,
-      "links": 5
-    },
-    "00_Meta/Personal/How I process repressed emotions.md": {
-      "size": 4519,
-      "tags": 4,
-      "links": 11
-    },
-    "00_Meta/Personal/I relate to.md": {
-      "size": 13186,
-      "tags": 0,
-      "links": 27
-    },
-    "00_Meta/Personal/Journal.md": {
-      "size": 28060,
-      "tags": 4,
-      "links": 73
-    },
-    "00_Meta/Personal/My relationship with my parents.md": {
-      "size": 1079,
-      "tags": 4,
-      "links": 10
-    },
-    "00_Meta/Personal/Nathan Eloe.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
-    "00_Meta/Personal/What is my path to happiness.md": {
-      "size": 1098,
-      "tags": 4,
-      "links": 12
-    },
     "10_Sources/Worksheet 4.md": {
       "size": 7346,
       "tags": 0,
@@ -8380,11 +8335,6 @@
       "tags": 0,
       "links": 0
     },
-    "00_Meta/Personal/Apartment hunt.md": {
-      "size": 1561,
-      "tags": 0,
-      "links": 0
-    },
     "40_Evergreens/Black identity is inseparable from other identities.md": {
       "size": 562,
       "tags": 3,
@@ -8445,11 +8395,6 @@
       "tags": 3,
       "links": 0
     },
-    "00_Meta/Personal/To my parents.md": {
-      "size": 1989,
-      "tags": 0,
-      "links": 0
-    },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Cressa Maeve Beer.md": {
       "size": 750,
       "tags": 2,
@@ -8469,11 +8414,6 @@
       "size": 909,
       "tags": 2,
       "links": 3
-    },
-    "00_Meta/Personal/I like the walls I put up, they have posters on them.md": {
-      "size": 243,
-      "tags": 2,
-      "links": 1
     },
     "40_Evergreens/Humans have decided to take advantage of an unjust world.md": {
       "size": 903,
@@ -8588,11 +8528,6 @@
     "30_Topics/34_People/@mykola on Twitter.md": {
       "size": 0,
       "tags": 2,
-      "links": 0
-    },
-    "00_Meta/Personal/Utilities.md": {
-      "size": 0,
-      "tags": 0,
       "links": 0
     },
     "30_Topics/34_People/Dan Alloso.md": {
@@ -9661,9 +9596,9 @@
       "links": 1
     },
     "10_Sources/course_Dr. K's Guide to Mental Health.md": {
-      "size": 2201,
+      "size": 2924,
       "tags": 2,
-      "links": 69
+      "links": 76
     },
     "30_Topics/32_Terms/Zen.md": {
       "size": 296,
@@ -11300,11 +11235,6 @@
       "tags": 1,
       "links": 0
     },
-    "00_Meta/Personal/Personal MOC.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "10_Sources/Mental Health/Dr.K's guide/notes_Anxiety 101.md": {
       "size": 1349,
       "tags": 2,
@@ -11451,9 +11381,9 @@
       "links": 12
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md": {
-      "size": 898,
+      "size": 2087,
       "tags": 2,
-      "links": 16
+      "links": 25
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Karma Fal.md": {
       "size": 340,
@@ -11660,11 +11590,6 @@
       "tags": 2,
       "links": 0
     },
-    "40_Evergreens/Belief is an addiction.md": {
-      "size": 1147,
-      "tags": 3,
-      "links": 15
-    },
     "40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md": {
       "size": 1009,
       "tags": 3,
@@ -11675,11 +11600,6 @@
       "tags": 2,
       "links": 0
     },
-    "Japa Meditation.md": {
-      "size": 669,
-      "tags": 2,
-      "links": 6
-    },
     "30_Topics/32_Terms/prayer beads.md": {
       "size": 0,
       "tags": 2,
@@ -11689,20 +11609,115 @@
       "size": 315,
       "tags": 2,
       "links": 5
+    },
+    "40_Evergreens/Belief is an addiction.md": {
+      "size": 1147,
+      "tags": 3,
+      "links": 16
+    },
+    "40_Evergreens/Belief pulls you forward into life.md": {
+      "size": 539,
+      "tags": 3,
+      "links": 3
+    },
+    "30_Topics/32_Terms/Japa Meditation.md": {
+      "size": 669,
+      "tags": 2,
+      "links": 6
+    },
+    "30_Topics/31_Stubs/hierarchy.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "90_Personal/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "90_Personal/Personal/Acting Bio.md": {
+      "size": 849,
+      "tags": 4,
+      "links": 5
+    },
+    "90_Personal/Personal/Apartment hunt.md": {
+      "size": 1561,
+      "tags": 0,
+      "links": 0
+    },
+    "90_Personal/Personal/How I process repressed emotions.md": {
+      "size": 4519,
+      "tags": 4,
+      "links": 11
+    },
+    "90_Personal/Personal/I like the walls I put up, they have posters on them.md": {
+      "size": 243,
+      "tags": 2,
+      "links": 1
+    },
+    "90_Personal/Personal/I relate to.md": {
+      "size": 13186,
+      "tags": 0,
+      "links": 27
+    },
+    "90_Personal/Personal/Journal.md": {
+      "size": 28060,
+      "tags": 4,
+      "links": 73
+    },
+    "90_Personal/Personal/My relationship with my parents.md": {
+      "size": 1079,
+      "tags": 4,
+      "links": 10
+    },
+    "90_Personal/Personal/Nathan Eloe.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "90_Personal/Personal/Personal MOC.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "90_Personal/Personal/To my parents.md": {
+      "size": 1989,
+      "tags": 0,
+      "links": 0
+    },
+    "90_Personal/Personal/Utilities.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "90_Personal/Personal/What is my path to happiness.md": {
+      "size": 1098,
+      "tags": 4,
+      "links": 12
+    },
+    "90_Personal/91 Daily Notes/2021-12-31.md": {
+      "size": 47,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2747,
-      "Create": 3384,
-      "Link": 6568,
-      "Expand": 597
+      "Refactor": 2765,
+      "Create": 3387,
+      "Link": 6580,
+      "Expand": 603
     },
     "40_Evergreens": {
-      "Refactor": 200,
-      "Create": 45,
-      "Link": 747,
-      "Expand": 285
+      "Refactor": 202,
+      "Create": 46,
+      "Link": 751,
+      "Expand": 286
     }
   },
   "dailyCommits": {
@@ -11725,7 +11740,7 @@
       "15": 164,
       "16": 1145,
       "17": 2763,
-      "18": 2228,
+      "18": 2267,
       "19": 426,
       "20": 185,
       "21": 708,
@@ -11751,7 +11766,7 @@
       "15": 13,
       "16": 34,
       "17": 317,
-      "18": 11,
+      "18": 19,
       "19": 43,
       "20": 36,
       "21": 64,
@@ -11765,7 +11780,7 @@
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
-      "Fri": 643,
+      "Fri": 682,
       "Sat": 0,
       "Sun": 5052
     },
@@ -11774,7 +11789,7 @@
       "Tue": 178,
       "Wed": 166,
       "Thu": 284,
-      "Fri": 146,
+      "Fri": 154,
       "Sat": 0,
       "Sun": 442
     }
@@ -11782,6 +11797,12 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dataview.md\"> Dataview </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
@@ -11826,15 +11847,12 @@
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_Panchakosha Theory.md\"> notes_Panchakosha Theory </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Shuddhi.md\"> notes_Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/update meta within folder.md\"> update meta within folder </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\"> videoHow We're Shaped Mentally </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenal Gland.md\"> Adrenal Gland </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear of hell is baked into Christianity for vulnerable believers.md\"> Fear of hell is baked into Christianity for vulnerable believers </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Shuddhi.md\"> notes_Shuddhi </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2021-12-31.md\"> 2021-12-31 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/hierarchy.md\"> hierarchy </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"prayer beads.md\"> prayer beads </a>",
         "<a class=\"internal-link\" href=\"JApa.md\"> JApa </a>",
         "<a class=\"internal-link\" href=\"Japan.md\"> Japan </a>",
@@ -11882,12 +11900,27 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Learned Anxiety.md\"> notes_Learned Anxiety </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma Fal.md\"> notes_Karma Fal </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Herbs.md\"> notes_Intro to Herbs </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Utilities.md\"> Utilities </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/To my parents.md\"> To my parents </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Personal MOC.md\"> Personal MOC </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Nathan Eloe.md\"> Nathan Eloe </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/My relationship with my parents.md\"> My relationship with my parents </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/I relate to.md\"> I relate to </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/I like the walls I put up, they have posters on them.md\"> I like the walls I put up, they have posters on them </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/How I process repressed emotions.md\"> How I process repressed emotions </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Apartment hunt.md\"> Apartment hunt </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Acting Bio.md\"> Acting Bio </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md\"> 'Don't be the reason that rules exist' - Nathan Eloe </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\"> 'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hierarchy.md\"> hierarchy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Japa Meditation.md\"> Japa Meditation </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction a pulls you ahead in life.md\"> Belief is an addiction a pulls you ahead in life </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mantra.md\"> mantra </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/prayer beads.md\"> prayer beads </a>",
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
@@ -11920,27 +11953,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hypothalamus.md\"> hypothalamus </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/divinity.md\"> divinity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/Buddha.md\"> Buddha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Chakra.md\"> Chakra </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/notes_History of Meditation.md\"> notes_History of Meditation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Using GitHub with Unity projects.md\"> Using GitHub with Unity projects </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Healthy Gamer.md\"> Healthy Gamer </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/Dr. K.md\"> Dr. K </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/gender non-conformity.md\"> gender non-conformity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/F.D Signifier.md\"> F.D Signifier </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/newsletter.eleanorkonik.com.md\"> newsletter.eleanorkonik.com </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/@roryreckons on Twitter.md\"> @roryreckons on Twitter </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/Utilities.md\"> Utilities </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/@mykola on Twitter.md\"> @mykola on Twitter </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Buddha.md\"> Buddha </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dataview.md\"> Dataview </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hierarchy.md\"> hierarchy </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/prayer beads.md\"> prayer beads </a>",
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
@@ -11988,10 +12006,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Learned Anxiety.md\"> notes_Learned Anxiety </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Negative Emotions.md\"> notes_Negative Emotions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Other Anxiety Disorders.md\"> notes_Other Anxiety Disorders </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Negative Emotions.md\"> notes_Negative Emotions </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12090,6 +12105,15 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/prayer beads.md\"> prayer beads </a>",
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
@@ -12130,16 +12154,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dealing with Samskaras.md\"> notes_Dealing with Samskaras </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Depression in a Holistic Lens.md\"> notes_Depression in a Holistic Lens </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dietary Guidance in Ayurveda.md\"> notes_Dietary Guidance in Ayurveda </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md\"> notes_Different Meditative Styles </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dukkha.md\"> notes_Dukkha </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Falling Behind.md\"> notes_Falling Behind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Features of Clinical Depression.md\"> notes_Features of Clinical Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Feeding the Beast.md\"> notes_Feeding the Beast </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_General Differntial Diagnosis.md\"> notes_General Differntial Diagnosis </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_General Treatment Principles.md\"> notes_General Treatment Principles </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Generalized Anxiety disorder.md\"> notes_Generalized Anxiety disorder </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
@@ -12250,6 +12265,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
@@ -12299,8 +12315,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -12347,9 +12362,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction a pulls you ahead in life.md\"> Belief is an addiction a pulls you ahead in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Using GitHub with Unity projects.md\"> Using GitHub with Unity projects </a>",
@@ -12398,11 +12416,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/newtest.md\"> newtest </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\"> Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/newtest.md\"> newtest </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
@@ -12452,8 +12469,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\"> Constantly working on yourself is a form a self-hatred </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\"> Constantly working on yourself is a form a self-hatred </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -12499,6 +12515,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
@@ -12546,10 +12565,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the Christian church.md\"> Non-faith issues have been co-opted to keep people in the Christian church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",

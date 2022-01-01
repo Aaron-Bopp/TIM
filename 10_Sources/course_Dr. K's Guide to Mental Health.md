@@ -16,7 +16,18 @@ type:
 #### Meditation techniques
 - [Japa](https://coaching.healthygamer.gg/guide/lessons/intro-to-mantra-practice/meditations/japa)
 
-# [[meditation]]
+
+# Concepts
+- [[Meditation helps us regulate our nervous system]]
+- [[Meditation helps us detach negative attachments]]
+- [[Meditation helps us gain control over our emotions]]
+- [[Meditation helps us regulate our hormonal environment]]
+- [[Meditation helps us develop empathy]]
+- [[Meditation is a practice to develop a stronger conscious]]
+- [[Meditation is a practice and discipline of observation]]
+
+# Source notes
+## [[meditation]]
 - [[notes_Overview of Meditation Module]]
 - [[notes_History of Meditation]]
 - [[notes_Different Meditative Styles]]
@@ -39,7 +50,7 @@ type:
 - [[notes_Dharma]]
 - [[notes_Karma]]
 - [[notes_Intro to Mantra Practice]]
-# [[anxiety]]
+## [[anxiety]]
 - [[notes_Anxiety 101]]
 - [[notes_cognitive Anxiety]]
 - [[notes_Thought Loops]]

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "578f710b66d29089",
+        "id": "b5e4e5b1951e9256",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/32_Terms/mantra.md",
-            "mode": "source",
+            "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -19,76 +19,40 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "578f710b66d29089",
+              "leaf": "b5e4e5b1951e9256",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/mantra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":37},\"to\":{\"line\":9,\"ch\":37}}}"
-            },
-            {
-              "leaf": "578f710b66d29089",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Japa Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "578f710b66d29089",
+              "leaf": "b5e4e5b1951e9256",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "578f710b66d29089",
+              "leaf": "b5e4e5b1951e9256",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The injustice of endurance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
-            },
-            {
-              "leaf": "578f710b66d29089",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":77},\"to\":{\"line\":20,\"ch\":77}},\"scroll\":13.214708988461242}"
-            },
-            {
-              "leaf": "578f710b66d29089",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Politicization of the Christian Church.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":57},\"to\":{\"line\":28,\"ch\":57}}}"
-            },
-            {
-              "leaf": "578f710b66d29089",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Apartment hunt.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "578f710b66d29089",
+              "leaf": "b5e4e5b1951e9256",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/I like the walls I put up, they have posters on them.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b5e4e5b1951e9256",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2021-12-31.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b5e4e5b1951e9256",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "02b4ed2bca48f71c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "02b4ed2bca48f71c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":4},\"to\":{\"line\":27,\"ch\":4}},\"scroll\":19.51093620160927}"
             }
           ]
         }
@@ -122,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arbitrage",
+                "query": "tag:#node/topic/term ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -141,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
+                "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -174,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
+                "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,8 +163,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md"
+                "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md"
               }
             },
             "pane-relief:history-v1": {
@@ -337,7 +300,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
+                "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -447,17 +410,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "02b4ed2bca48f71c",
+  "active": "b5e4e5b1951e9256",
   "lastOpenFiles": [
-    "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
-    "30_Topics/32_Terms/mantra.md",
-    "Japa Meditation.md",
-    "30_Topics/32_Terms/prayer beads.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md",
-    "Japan.md",
-    "40_Evergreens/The injustice of endurance.md",
-    "40_Evergreens/We carry our childhood wounds into adulthood.md",
-    "40_Evergreens/The Politicization of the Christian Church.md"
+    "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
+    "90_Personal/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md",
+    "90_Personal/Personal/Apartment hunt.md",
+    "90_Personal/Personal/I like the walls I put up, they have posters on them.md",
+    "90_Personal/91 Daily Notes/2021-12-31.md",
+    "90_Personal/Personal/Vaccination Card.pdf",
+    "00_Meta/Attachments/Pasted image 20211231162555.png",
+    "00_Meta/Attachments/Pasted image 20211231162517.png",
+    "00_Meta/Attachments/Pasted image 20211231162422.png",
+    "00_Meta/Attachments/Pasted image 20211231162356.png"
   ]
 }

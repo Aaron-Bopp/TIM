@@ -5,6 +5,9 @@ tags: created/topic/2021/05/29, node/topic, node/topic/tool
 
 [[Dataview]] is an plugin for [[Obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
 
+#TO/EXPLORE/READ 
+[Toying with Relational Databases using Dataview - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/toying-with-relational-databases-using-dataview/17433?u=riddyrayes)
+
 **Topics**:: [[205 Index]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

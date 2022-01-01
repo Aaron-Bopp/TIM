@@ -12,7 +12,10 @@ type:
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Related**:: 
+**Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/metaphysics-of-meditation)
+
+#### Terms
+- [[Brahman]]
 
 - [[Yogi]]s believed that everything came from a sea of formless [[conscious|consciousness]] called [[Brahman]]
 	- [[Consciousness is the fundamental unit of existence]]
