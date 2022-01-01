@@ -45,6 +45,7 @@ Many of the common conceptions of early human's have not changed since the [[enl
 ![[books_The Dawn of Everything#258309235]]
 ![[books_The Dawn of Everything#258309241]]
 ![[books_The Dawn of Everything#261572338]]
+![[books_The Dawn of Everything#262026842]]
 #### What is our understanding of other humans?
 ![[books_The Dawn of Everything#261572331]]
 #### What is our understanding of how the world works?
@@ -55,6 +56,8 @@ Many of the common conceptions of early human's have not changed since the [[enl
 There are two main stories of prehistory.
 ![[books_The Dawn of Everything#261593426]]
 
+These stories, and the main quandary of the [[enlightenment]] lie in the origin of [[inequality]] and the [[morality]] of the origin.
+ ![[books_The Dawn of Everything#262026843]]
 #### [[Rousseauian]] view
 Humans lived in a state of innocence and then fell, largely due to the rise of [[agriculture]]
  Christian view ![[books_The Dawn of Everything#258309234]]
@@ -70,9 +73,19 @@ Humans lived in a waring state and were civilized by [[society]]
 Hobbes also had a [[Christianity|Christian]] persepective
 ![[books_The Dawn of Everything#261593448]]
 
+### The discussions and situation of the [[enlightenment]] 
+- ![[books_The Dawn of Everything#262026812]]
+- ![[books_The Dawn of Everything#262026814]]
+- ![[books_The Dawn of Everything#262026815]]
+- ![[books_The Dawn of Everything#262026820]] 
+![[books_The Dawn of Everything#262026844]]
+### Origin of the myth of the [[noble savage]]
+ - ![[books_The Dawn of Everything#262026818]]
+
 ### We believe that human's are evil
 ![[books_The Dawn of Everything#261572334]]
-
+### Humans believed that [[society]] required a lack of freedom
+![[books_The Dawn of Everything#262026844]]
 ## Origins of [[humanity]]
 ![[books_The Dawn of Everything#261593420]]
 
@@ -93,6 +106,9 @@ Hobbes also had a [[Christianity|Christian]] persepective
 ![[books_The Dawn of Everything#261593421]]
 
 [[Yanomami]] ![[books_The Dawn of Everything#261593423]]
+
+### European colonialism
+- ![[books_The Dawn of Everything#262026816]]
 
 ### Emergence of [[capitalism]]
 ![[books_The Dawn of Everything#261593436]]
@@ -148,6 +164,11 @@ We need to be able to work together
 ![[books_The Dawn of Everything#261572342]]
 ![[books_The Dawn of Everything#261593435]]
 
+### Great thinkers value thought over success
+- ![[books_The Dawn of Everything#262026817]]
+ - ![[books_The Dawn of Everything#262026818]]
+
+
 
 
 ## notable people
@@ -162,28 +183,6 @@ We need to be able to work together
 
 ![[books_The Dawn of Everything#261593445]]
 # New qoutes
-
-## New highlights added December 25, 2021 at 11:45 AM
-- ![[books_The Dawn of Everything#262026842]]
-#### IN WHICH WE SHOW HOW CRITIQUES OF EUROCENTRISM CAN BACKFIRE, AND END UP TURNING ABORIGINAL THINKERS INTO ‘SOCK-PUPPETS’
-- ![[books_The Dawn of Everything#262026843]]
-- ![[books_The Dawn of Everything#262026812]]
-- ![[books_The Dawn of Everything#262026814]]
-- ![[books_The Dawn of Everything#262026815]]
-- ![[books_The Dawn of Everything#262026816]]
-- ![[books_The Dawn of Everything#262026817]]
- - ![[books_The Dawn of Everything#262026818]]
-- ![[books_The Dawn of Everything#262026819]]
-- ![[books_The Dawn of Everything#262026820]]
-- ![[books_The Dawn of Everything#262026844]]
-- ![[books_The Dawn of Everything#262026845]]
-- ![[books_The Dawn of Everything#262026824]]
-- ![[books_The Dawn of Everything#262026826]]
-- ![[books_The Dawn of Everything#262026827]]
-- ![[books_The Dawn of Everything#262026828]]
-- ![[books_The Dawn of Everything#262026829]]
-- ![[books_The Dawn of Everything#262026846]]
-- ![[books_The Dawn of Everything#262026832]]
 - ![[books_The Dawn of Everything#262026833]]
 - ![[books_The Dawn of Everything#262026834]]
 - ![[books_The Dawn of Everything#262026835]]
@@ -193,3 +192,27 @@ We need to be able to work together
 - ![[books_The Dawn of Everything#262026839]]
 - ![[books_The Dawn of Everything#262026840]]
 - ![[books_The Dawn of Everything#262026841]]
+
+# New highlights added December 30, 2021 at 5:20 PM
+- ![[books_The Dawn of Everything#264301406]]
+- ![[books_The Dawn of Everything#264301407]]
+- ![[books_The Dawn of Everything#264301408]]
+#### IN WHICH WE CONSIDER WHAT THE INHABITANTS OF NEW FRANCE MADE OF THEIR EUROPEAN INVADERS, ESPECIALLY IN MATTERS OF GENEROSITY, SOCIABILITY, MATERIAL WEALTH, CRIME, PUNISHMENT AND LIBERTY
+- ![[books_The Dawn of Everything#264337837]]
+- ![[books_The Dawn of Everything#264337838]]
+- ![[books_The Dawn of Everything#264301410]]
+# New highlights added January 1, 2022 at 3:17 PM
+- ![[books_The Dawn of Everything#265135476]]
+- ![[books_The Dawn of Everything#265135477]]
+- ![[books_The Dawn of Everything#265135478]]
+- ![[books_The Dawn of Everything#265135479]]
+- ![[books_The Dawn of Everything#265135480]]
+- ![[books_The Dawn of Everything#265135481]]
+- ![[books_The Dawn of Everything#265135495]]
+- ![[books_The Dawn of Everything#265135484]]
+- ![[books_The Dawn of Everything#265135496]]
+- ![[books_The Dawn of Everything#265135488]]
+- ![[books_The Dawn of Everything#265135497]]
+- ![[books_The Dawn of Everything#265135491]]
+- ![[books_The Dawn of Everything#265135492]]
+- ![[books_The Dawn of Everything#265135493]]

@@ -1,10 +1,10 @@
 ---
-created: 2021-12-25
+created: 2022-01-01
 aliases:
   - "The Dawn of Everything"
   - "The Dawn of Everything by David Graeber"
   - "David Graeber"
-tags: created/source/2021/12/25, node/source/books
+tags: node/source/books
 type: 
   - books
 deliveredBy: 
@@ -730,6 +730,193 @@ highlight_tags:: [[christianity]]
 
 [^262026839]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=775
 
+##### ^264301406
+
+  
+%%
+highlight_tags:: [[marginalized]]
+%%###### ^264301406q
+> this habit of thought is very convenient for students of Western literature, themselves trained in Cicero and Erasmus, who might otherwise be forced to actually try to learn something about what indigenous people thought about the world, and above all what they made of Europeans. 
+  [^264301406]
+
+[^264301406]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=792
+
+##### ^264301407
+
+  
+%%
+highlight_tags:: [[orange]]
+%%###### ^264301407q
+> We will argue that indigenous Americans did indeed develop a very strong critical view of their invaders’ institutions: a view which focused first on these institutions’ lack of freedom, and only later, as they became more familiar with European social arrangements, on equality. 
+  [^264301407]
+
+[^264301407]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=797
+
+##### ^264301408
+
+  
+%%
+highlight_tags:: [[orange]]
+%%###### ^264301408q
+> We will suggest that there is a reason why so many key Enlightenment thinkers insisted that their ideals of individual liberty and political equality were inspired by Native American sources and examples. Because it was true. 
+  [^264301408]
+
+[^264301408]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=802
+
+#### IN WHICH WE CONSIDER WHAT THE INHABITANTS OF NEW FRANCE MADE OF THEIR EUROPEAN INVADERS, ESPECIALLY IN MATTERS OF GENEROSITY, SOCIABILITY, MATERIAL WEALTH, CRIME, PUNISHMENT AND LIBERTY
+##### ^264337837
+
+  
+###### ^264337837q
+> The ‘Age of Reason’ was an age of debate. The Enlightenment was rooted in conversation; 
+  [^264337837]
+
+[^264337837]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=807
+
+##### ^264337838
+
+  
+%%
+highlight_tags:: [[dialogue]]
+%%###### ^264337838q
+> Many classic Enlightenment texts took the form of dialogues; 
+  [^264337838]
+
+[^264337838]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=808
+
+##### ^265135476
+
+origin of the [[noble savage]]  
+###### ^265135476q
+> At that time, the region that came to be known as New France was inhabited largely by speakers of Montagnais-Naskapi, Algonkian and Iroquoian languages. Those closer to the coast were fishers, foresters and hunters, though most also practised horticulture; the Wendat (Huron),13 concentrated in major river valleys further inland, growing maize, squash and beans around fortified towns. Interestingly, early French observers attached little importance to such economic distinctions, especially since foraging or farming was, in either case, largely women’s work. The men, they noted, were primarily occupied in hunting and, occasionally, war, which meant they could in a sense be considered natural aristocrats. The idea of the ‘noble savage’ can be traced back to such estimations. 
+  [^265135476]
+
+[^265135476]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=814
+
+##### ^265135477
+
+  
+###### ^265135477q
+> What seemed to irritate Biard the most was that the Mi’kmaq would constantly assert that they were, as a result, ‘richer’ than the French. The French had more material possessions, the Mi’kmaq conceded; but they had other, greater assets: ease, comfort and time. 
+  [^265135477]
+
+[^265135477]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=829
+
+##### ^265135478
+
+perception of other cultures  
+###### ^265135478q
+> Sagard was at first highly critical of Wendat life, which he described as inherently sinful (he was obsessed with the idea that Wendat women were all intent on seducing him), but by the end of his sojourn he had come to the conclusion their social arrangements were in many ways superior to those at home in France. 
+  [^265135478]
+
+[^265135478]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=833
+
+##### ^265135479
+
+indigenous socialism  
+###### ^265135479q
+> Much like Biard’s Mi’kmaq, the Wendat were particularly offended by the French lack of generosity to one another: ‘They reciprocate hospitality and give such assistance to one another that the necessities of all are provided for without there being any indigent beggar in their towns and villages; and they considered it a very bad thing when they heard it said that there were in France a great many of these needy beggars, and thought that this was for lack of charity in us, and blamed us for it severely.’ 
+  [^265135479]
+
+[^265135479]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=839
+
+##### ^265135480
+
+  
+###### ^265135480q
+> That indigenous Americans lived in generally free societies, and that Europeans did not, was never really a matter of debate in these exchanges: both sides agreed this was the case. What they differed on was whether or not individual liberty was desirable. 
+  [^265135480]
+
+[^265135480]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=865
+
+##### ^265135481
+
+  
+###### ^265135481q
+> When it came to questions of personal freedom, the equality of men and women, sexual mores or popular sovereignty – or even, for that matter, theories of depth psychology18 – indigenous American attitudes are likely to be far closer to the reader’s own than seventeenth-century European ones. 
+  [^265135481]
+
+[^265135481]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=871
+
+##### ^265135495
+
+  
+%%
+highlight_tags:: [[anarchism]]
+%%###### ^265135495q
+> Nowadays, it’s almost impossible for anyone living in a liberal democracy to say they are against freedom ... This is one of the lasting legacies of the Enlightenment and of the American and French Revolutions. Personal freedom, we tend to believe, is inherently good (even if some of us also feel that a society based on total individual liberty – one which took it so far as to eliminate police, prisons or any sort of apparatus of coercion – would instantly collapse into violent chaos). 
+  [^265135495]
+
+[^265135495]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=875
+
+##### ^265135484
+
+  
+###### ^265135484q
+> Jesuits most certainly did not share this assumption. They tended to view individual liberty as animalistic. 
+  [^265135484]
+
+[^265135484]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=879
+
+##### ^265135496
+
+what did punishment look like in indigenous america?  
+%%
+highlight_tags:: [[justice]]
+%%###### ^265135496q
+> There is no punishment which is inflicted on the guilty, and no criminal who is not sure that his life and property are in no danger ... as a means of keeping the peace, the Wendat system of justice was not ineffective. ... Rather than punish culprits, the Wendat insisted the culprit’s entire lineage or clan pay compensation. This made it everyone’s responsibility to keep their kindred under control. ‘It is not the guilty who suffer the penalty,’ Lallemant explains, but rather ‘the public that must make amends for the offences of individuals.’ If a Huron had killed an Algonquin or another Huron, the whole country assembled to agree the number of gifts due to the grieving relatives, ‘to stay the vengeance that they might take’. 
+  [^265135496]
+
+[^265135496]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=894
+
+##### ^265135488
+
+Lallemant's view on why the community would provide such gifts  
+###### ^265135488q
+> the desire of glory and of appearing solicitous for the public welfare urges them to do on like occasions.’ 
+  [^265135488]
+
+[^265135488]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=906
+
+##### ^265135497
+
+  
+###### ^265135497q
+> Wendat society was not ‘economically egalitarian’ ... However, there was a difference between what we’d consider economic resources – like land, which was owned by families, worked by women, and whose products were largely disposed of by women’s collectives – and the kind of ‘wealth’ being referred to here, such as wampum (a word applied to strings and belts of beads, manufactured from the shells of Long Island’s quahog clam) or other treasures, which largely existed for political purposes. 
+  [^265135497]
+
+[^265135497]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=911
+
+##### ^265135491
+
+  
+%%
+highlight_tags:: [[performance]]
+%%###### ^265135491q
+> Wendat men hoarded such precious things largely to be able to give them away on dramatic occasions 
+  [^265135491]
+
+[^265135491]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=916
+
+##### ^265135492
+
+  
+###### ^265135492q
+> American women were considered to have full control over their own bodies, and that therefore unmarried women had sexual liberty and married women could divorce at will. 
+  [^265135492]
+
+[^265135492]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=933
+
+##### ^265135493
+
+  
+###### ^265135493q
+> The ‘wicked liberty of the savages’, one insisted, was the single greatest impediment to their ‘submitting to the yoke of the law of God’. 
+  [^265135493]
+
+[^265135493]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=936
+
+#### IN WHICH WE SHOW HOW EUROPEANS LEARNED FROM (NATIVE) AMERICANS ABOUT THE CONNECTION BETWEEN REASONED DEBATE, PERSONAL FREEDOMS AND THE REFUSAL OF ARBITRARY POWER
 ### Why the State Has No Origin
 #### The humble beginnings of sovereignty, bureaucracy and politics
 ### Full Circle
@@ -811,71 +998,6 @@ why would you want to imitate your child playing kitchen when you have your own?
 
 [^262026841]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10340
 
-#### 3. UNFREEZING THE ICE AGE
-#### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
-#### 5. MANY SEASONS AGO
-#### 6. GARDENS OF ADONIS
-#### 7. THE ECOLOGY OF FREEDOM
-#### 8. IMAGINARY CITIES
-#### 9. HIDING IN PLAIN SIGHT
-#### 10. WHY THE STATE HAS NO ORIGIN
-#### 11. FULL CIRCLE
-#### 12. CONCLUSION
-# New highlights added December 30, 2021 at 5:20 PM
-##### ^264301406
-
-  
-%%
-highlight_tags:: [[marginalized]]
-%%###### ^264301406q
-> this habit of thought is very convenient for students of Western literature, themselves trained in Cicero and Erasmus, who might otherwise be forced to actually try to learn something about what indigenous people thought about the world, and above all what they made of Europeans. 
-  [^264301406]
-
-[^264301406]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=792
-
-##### ^264301407
-
-  
-%%
-highlight_tags:: [[orange]]
-%%###### ^264301407q
-> We will argue that indigenous Americans did indeed develop a very strong critical view of their invaders’ institutions: a view which focused first on these institutions’ lack of freedom, and only later, as they became more familiar with European social arrangements, on equality. 
-  [^264301407]
-
-[^264301407]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=797
-
-##### ^264301408
-
-  
-%%
-highlight_tags:: [[orange]]
-%%###### ^264301408q
-> We will suggest that there is a reason why so many key Enlightenment thinkers insisted that their ideals of individual liberty and political equality were inspired by Native American sources and examples. Because it was true. 
-  [^264301408]
-
-[^264301408]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=802
-
-#### IN WHICH WE CONSIDER WHAT THE INHABITANTS OF NEW FRANCE MADE OF THEIR EUROPEAN INVADERS, ESPECIALLY IN MATTERS OF GENEROSITY, SOCIABILITY, MATERIAL WEALTH, CRIME, PUNISHMENT AND LIBERTY
-##### ^264337837
-
-  
-###### ^264337837q
-> The ‘Age of Reason’ was an age of debate. The Enlightenment was rooted in conversation; 
-  [^264337837]
-
-[^264337837]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=807
-
-##### ^264337838
-
-  
-%%
-highlight_tags:: [[dialogue]]
-%%###### ^264337838q
-> Many classic Enlightenment texts took the form of dialogues; 
-  [^264337838]
-
-[^264337838]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=808
-
 ##### ^264301410
 
   
@@ -887,3 +1009,13 @@ highlight_tags:: [[gender]]
 
 [^264301410]: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10346
 
+#### 3. UNFREEZING THE ICE AGE
+#### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
+#### 5. MANY SEASONS AGO
+#### 6. GARDENS OF ADONIS
+#### 7. THE ECOLOGY OF FREEDOM
+#### 8. IMAGINARY CITIES
+#### 9. HIDING IN PLAIN SIGHT
+#### 10. WHY THE STATE HAS NO ORIGIN
+#### 11. FULL CIRCLE
+#### 12. CONCLUSION

@@ -1382,7 +1382,263 @@
         "width": 930.9945068359375
       },
       "active": "779735696eadbc73"
+    },
+    "16:9 Outline only": {
+      "main": {
+        "id": "c27936291f29f65f",
+        "type": "split",
+        "children": [
+          {
+            "id": "98a145a0e104c581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Sources/notes_The Dawn of Everything.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "98a145a0e104c581",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/notes_The Dawn of Everything.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"scroll\":153.2544531220183}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e6fd778783afca8a",
+        "type": "split",
+        "children": [
+          {
+            "id": "585cafeabcc86a62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "208d80cb45f52f85",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "7f4634a1f9c650de",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#TO/TEND/DEOBFUSCATE",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "945ffe61918129cd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "10_Sources/notes_The Dawn of Everything.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0c769aef4d9945f1",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "fda1645ab822e2df",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "10_Sources/notes_The Dawn of Everything.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "e5b4565528193b1b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 305,
+        "collapsed": true
+      },
+      "right": {
+        "id": "ca88ebed3efba281",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7b3aaa71b0c0df5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afac3dc49b00c8ca",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "10_Sources/notes_The Dawn of Everything.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "840e0a70de3f588e",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "fb763e172d1bcd92",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d0fba7db97954050",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "47b3518370342bad",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-matrix",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "4d97869f5922bb12",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-stats",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "b805a72d0cc1ce7c",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-down",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "7572170b53174850",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 706
+      },
+      "active": "98a145a0e104c581"
     }
   },
-  "active": "21:9 Single note"
+  "active": "Single note"
 }
