@@ -19,6 +19,11 @@ This is because these world views broke down [[humanity]] to it's core elements 
 Even if your [[worldview]] is open ended and adaptive, it does not always mean that you will be that way. [[Human's have an inability to admit that they are wrong]], but this kind of [[worldview]] and consistent practice of [[meditation]] can help you separate from the irrationality of your [[ego]] and keep your [[self]] open to new ideas: [[Karma is an open ended system of belief]]
 
 
+- [[Hard boundaries reduce opportunities for creativity]]
+- [[Hard rules create cognitive bias]]
+- [[The way systems work can create cognitive bias]]
+- [[Use philosophies as far they are useful and nothing more]]
+- [[Webs of thought provide heterarchical structure]]
  
 
 ### <hr class="footnote"/>
