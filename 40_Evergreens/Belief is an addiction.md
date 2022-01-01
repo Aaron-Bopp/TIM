@@ -3,9 +3,9 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/evergreen/2021/12/31, node/evergreen
-sr-due: 2021-12-31
+sr-due: 2022-01-01
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Belief is an addiction]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,6 +15,8 @@ To be clear, this thinking isn't wrong,
 the problem is when we pathologize this addiction and spread it as far as we can: [[Evangelicalism has commodified faith for profit]]
 
 - [[Belief pulls you forward into life]]
+
+
 - [[Faith can be a useful tool for grounding yourself]]
 - [[The three main questions of life]]
 - [[Humans are a product of evolution]]

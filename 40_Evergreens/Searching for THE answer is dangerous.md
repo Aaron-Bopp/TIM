@@ -3,8 +3,8 @@ created: 2021-07-02
 tags: created/evergreen/2021/07/02, node/evergreen
 aliases:
   - null
-sr-due: 2021-12-31
-sr-interval: 23
+sr-due: 2022-02-14
+sr-interval: 45
 sr-ease: 215
 ---
 
@@ -24,12 +24,12 @@ This is why you should [[Look for understanding before you look for solutions]].
 
 [[Humans are primarily irrational, illogical, emotional beings]], so ingraining a belief is much easier than removing it, especially when this belief is built in childhood.
 ^[[[Children make wide assumptions about the world]]]
-This is why [[stereotype|stereotypes]] are so dangerous: [[Stereotyping has the psychological goal of comprehension and self-enhancement]], but once you have steretyped something, you are less likely to accept new information about that thing.
+This is why [[stereotype|stereotypes]] are so dangerous: [[Stereotyping has the psychological goal of comprehension and self-enhancement]], but once you have stereotyped something, you are less likely to accept new information about that thing.
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[inter-personal communication]], [[self-actualization]], [[self-enhancement]]
+**Topics**:: [[inter-personal communication]], [[self-actualization]], [[self-enhancement]], [[Life principles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

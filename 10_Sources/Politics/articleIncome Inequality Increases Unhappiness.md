@@ -7,7 +7,6 @@ type:
 source: https://news.virginia.edu/content/income-inequality-increases-unhappiness-study-shows
 ---
 
-###### [[SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness]]
 
 **Topics**:: 
 

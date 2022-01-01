@@ -12,7 +12,7 @@ sr-ease: 243
 
 Many rights that now exist were denied to [[women]], [[black people]], and [[Indigenous]] peoples by our [[founding fathers]] like healthcare, housing, [[education]], fair trial, to vote, etc., 
 
-[[Black identity is inherently political]]
+[[The black identity has evolved past it's political origins]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

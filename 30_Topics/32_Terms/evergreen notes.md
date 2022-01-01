@@ -2,8 +2,6 @@
 created: 2021-05-29
 tags: created/topic/2021/05/29, node/topic/term
 aliases:
-  - permanent note
-  - zettle
   - evergreens
   - evergreen note
 ---

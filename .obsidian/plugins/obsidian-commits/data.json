@@ -4593,7 +4593,7 @@
     "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md": {
       "size": 2165,
       "tags": 4,
-      "links": 14
+      "links": 15
     },
     "40_Evergreens/Is your self-talk bullying you or bodyguarding you.md": {
       "size": 799,
@@ -4773,7 +4773,7 @@
     "40_Evergreens/Searching for THE answer is dangerous.md": {
       "size": 2005,
       "tags": 4,
-      "links": 15
+      "links": 16
     },
     "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md": {
       "size": 2329,
@@ -5248,7 +5248,7 @@
     "10_Sources/Politics/articleIncome Inequality Increases Unhappiness.md": {
       "size": 6218,
       "tags": 2,
-      "links": 3
+      "links": 2
     },
     "10_Sources/Politics/articleWhy the Phrase Late Capitalism Is Suddenly Everywhere.md": {
       "size": 32862,
@@ -6603,7 +6603,7 @@
     "40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md": {
       "size": 1955,
       "tags": 4,
-      "links": 15
+      "links": 16
     },
     "30_Topics/DID (Dissociative Idenitty Disorder).md": {
       "size": 0,
@@ -8161,7 +8161,7 @@
       "links": 3
     },
     "40_Evergreens/Whiteness was created to marginalize people of color.md": {
-      "size": 616,
+      "size": 713,
       "tags": 3,
       "links": 8
     },
@@ -8266,9 +8266,9 @@
       "links": 8
     },
     "40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md": {
-      "size": 590,
+      "size": 754,
       "tags": 3,
-      "links": 6
+      "links": 8
     },
     "40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md": {
       "size": 1140,
@@ -8338,11 +8338,6 @@
     "40_Evergreens/Black identity is inseparable from other identities.md": {
       "size": 562,
       "tags": 3,
-      "links": 5
-    },
-    "40_Evergreens/Black identity is inherently political.md": {
-      "size": 595,
-      "tags": 4,
       "links": 5
     },
     "30_Topics/32_Terms/The Collector's Fallacy.md": {
@@ -8523,7 +8518,7 @@
     "30_Topics/36_Lists/Life principles.md": {
       "size": 759,
       "tags": 2,
-      "links": 8
+      "links": 9
     },
     "30_Topics/34_People/@mykola on Twitter.md": {
       "size": 0,
@@ -10873,7 +10868,7 @@
     "10_Sources/History/notes_1940's General Notes.md": {
       "size": 5996,
       "tags": 2,
-      "links": 19
+      "links": 18
     },
     "10_Sources/History/notes_1930's General Notes.md": {
       "size": 3185,
@@ -11593,7 +11588,7 @@
     "40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md": {
       "size": 1009,
       "tags": 3,
-      "links": 5
+      "links": 6
     },
     "30_Topics/32_Terms/arbitrage.md": {
       "size": 521,
@@ -11616,9 +11611,9 @@
       "links": 16
     },
     "40_Evergreens/Belief pulls you forward into life.md": {
-      "size": 539,
+      "size": 726,
       "tags": 3,
-      "links": 3
+      "links": 8
     },
     "30_Topics/32_Terms/Japa Meditation.md": {
       "size": 669,
@@ -11704,20 +11699,40 @@
       "size": 47,
       "tags": 0,
       "links": 0
+    },
+    "40_Evergreens/The black identity has evolved past it's political origins.md": {
+      "size": 595,
+      "tags": 3,
+      "links": 5
+    },
+    "40_Evergreens/A totally integrated machine should be infinitely scalable.md": {
+      "size": 1298,
+      "tags": 3,
+      "links": 15
+    },
+    "40_Evergreens/TIM.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 8
+    },
+    "30_Topics/31_Stubs/senses.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2765,
-      "Create": 3387,
-      "Link": 6580,
-      "Expand": 603
+      "Refactor": 2775,
+      "Create": 3393,
+      "Link": 6595,
+      "Expand": 609
     },
     "40_Evergreens": {
-      "Refactor": 202,
-      "Create": 46,
-      "Link": 751,
-      "Expand": 286
+      "Refactor": 206,
+      "Create": 47,
+      "Link": 764,
+      "Expand": 292
     }
   },
   "dailyCommits": {
@@ -11741,7 +11756,7 @@
       "16": 1145,
       "17": 2763,
       "18": 2267,
-      "19": 426,
+      "19": 463,
       "20": 185,
       "21": 708,
       "22": 551,
@@ -11767,7 +11782,7 @@
       "16": 34,
       "17": 317,
       "18": 19,
-      "19": 43,
+      "19": 67,
       "20": 36,
       "21": 64,
       "22": 16,
@@ -11780,7 +11795,7 @@
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
-      "Fri": 682,
+      "Fri": 719,
       "Sat": 0,
       "Sun": 5052
     },
@@ -11789,7 +11804,7 @@
       "Tue": 178,
       "Wed": 166,
       "Thu": 284,
-      "Fri": 154,
+      "Fri": 178,
       "Sat": 0,
       "Sun": 442
     }
@@ -11797,6 +11812,12 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dataview.md\"> Dataview </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
@@ -11841,15 +11862,15 @@
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_General Treatment Principles.md\"> notes_General Treatment Principles </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Depression in a Holistic Lens.md\"> notes_Depression in a Holistic Lens </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Bipolar Disorder.md\"> notes_Bipolar Disorder </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Panchakosha Theory.md\"> notes_Panchakosha Theory </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_Shuddhi.md\"> notes_Shuddhi </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_Depression in a Holistic Lens.md\"> notes_Depression in a Holistic Lens </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"senses.md\"> senses </a>",
+        "<a class=\"internal-link\" href=\"SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness.md\"> Income Inequality Increases Unhappiness </a>",
+        "<a class=\"internal-link\" href=\"SecondBrain/history/Did the Atomic Bombs end WW2.md\"> Did the Atomic Bombs end WW2 </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
+        "<a class=\"internal-link\" href=\"a totally integrated machine should be infinitely scalable.md\"> a totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2021-12-31.md\"> 2021-12-31 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/hierarchy.md\"> hierarchy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
@@ -11894,15 +11915,13 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Other Anxiety Disorders.md\"> notes_Other Anxiety Disorders </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Negative Emotions.md\"> notes_Negative Emotions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Learned Anxiety.md\"> notes_Learned Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/senses.md\"> senses </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/a totally integrated machine should be infinitely scalable.md\"> a totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The black identity has evolved past it's political origins.md\"> The black identity has evolved past it's political origins </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/Utilities.md\"> Utilities </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/To my parents.md\"> To my parents </a>",
@@ -11949,13 +11968,12 @@
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_1950's General Notes.md\"> notes_1950's General Notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/infinite.md\"> infinite </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/behavior.md\"> behavior </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/breath.md\"> breath </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parasympathetic Nervous System.md\"> Parasympathetic Nervous System </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hypothalamus.md\"> hypothalamus </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/divinity.md\"> divinity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/Buddha.md\"> Buddha </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/breath.md\"> breath </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/senses.md\"> senses </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dataview.md\"> Dataview </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hierarchy.md\"> hierarchy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
@@ -12003,10 +12021,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma Fal.md\"> notes_Karma Fal </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Learned Anxiety.md\"> notes_Learned Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Metaphysics of Meditation.md\"> notes_Metaphysics of Meditation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_MongoDB and Mongoose.md\"> notes_MongoDB and Mongoose </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Negative Emotions.md\"> notes_Negative Emotions </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Learned Anxiety.md\"> notes_Learned Anxiety </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12051,6 +12066,9 @@
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness.md\"> Income Inequality Increases Unhappiness </a>",
+        "<a class=\"internal-link\" href=\"SecondBrain/history/Did the Atomic Bombs end WW2.md\"> Did the Atomic Bombs end WW2 </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"Japan.md\"> Japan </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
@@ -12098,12 +12116,21 @@
         "<a class=\"internal-link\" href=\"Vajrayana Buddhism.md\"> Vajrayana Buddhism </a>",
         "<a class=\"internal-link\" href=\"Vairagya.md\"> Vairagya </a>",
         "<a class=\"internal-link\" href=\"Vagus Nerve.md\"> Vagus Nerve </a>",
-        "<a class=\"internal-link\" href=\"Tx.md\"> Tx </a>",
-        "<a class=\"internal-link\" href=\"Turmeric.md\"> Turmeric </a>",
-        "<a class=\"internal-link\" href=\"Trataka.md\"> Trataka </a>",
-        "<a class=\"internal-link\" href=\"Traditional Chinese Medicine (TCM).md\"> Traditional Chinese Medicine (TCM) </a>"
+        "<a class=\"internal-link\" href=\"Tx.md\"> Tx </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
@@ -12142,21 +12169,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Anxiety 101.md\"> notes_Anxiety 101 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Ayurveda for Anxiety.md\"> notes_Ayurveda for Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Ayurveda for Depression.md\"> notes_Ayurveda for Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Bipolar Disorder.md\"> notes_Bipolar Disorder </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Brain Gut Axis.md\"> notes_Brain Gut Axis </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Breath and Mind.md\"> notes_Breath and Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_cognitive Anxiety.md\"> notes_cognitive Anxiety </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\"> notes_Cognitive Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Conditional Love.md\"> notes_Conditional Love </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Confidence vs Ego.md\"> notes_Confidence vs Ego </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dealing with Samskaras.md\"> notes_Dealing with Samskaras </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Depression in a Holistic Lens.md\"> notes_Depression in a Holistic Lens </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Ayurveda for Depression.md\"> notes_Ayurveda for Depression </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The black identity has evolved past it's political origins.md\"> The black identity has evolved past it's political origins </a>",
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
@@ -12206,10 +12222,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Presentation is the realization of our self-perception and identity is the realization of our self-image.md\"> Presentation is the realization of our self-perception and identity is the realization of our self-image </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1940's General Notes.md\"> notes_1940's General Notes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Politics/articleIncome Inequality Increases Unhappiness.md\"> articleIncome Inequality Increases Unhappiness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
@@ -12258,13 +12275,17 @@
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/note writing.md\"> note writing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
@@ -12309,13 +12330,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\"> What are the differences between evergreen notes and conceptual notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -12363,9 +12378,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/a totally integrated machine should be infinitely scalable.md\"> a totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The black identity has evolved past it's political origins.md\"> The black identity has evolved past it's political origins </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction a pulls you ahead in life.md\"> Belief is an addiction a pulls you ahead in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
@@ -12413,12 +12432,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/206 Content Areas.md\"> 206 Content Areas </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/testing.md\"> testing </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/newtest.md\"> newtest </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Only use organization systems as far as they are useful.md\"> Only use organization systems as far as they are useful </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
@@ -12467,9 +12485,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Complex emotions are intellectual understandings of primal urges.md\"> Complex emotions are intellectual understandings of primal urges </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Constantly working on yourself is a form a self-hatred.md\"> Constantly working on yourself is a form a self-hatred </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -12515,6 +12531,17 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
@@ -12554,18 +12581,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\"> How the patriarchy effects young men's understanding of masculinity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to process repressed emotions.md\"> How to process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\"> Is your self-talk bullying you or bodyguarding you </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Most rights were denied to Americans at its founding.md\"> Most rights were denied to Americans at its founding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Non-faith issues have been co-opted to keep people in the Christian church.md\"> Non-faith issues have been co-opted to keep people in the Christian church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -12602,7 +12618,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The black identity has evolved past it's political origins.md\"> The black identity has evolved past it's political origins </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",

@@ -17,7 +17,7 @@
 	- [[How to process repressed emotions]]
 	- [[The Christian worldview is incompatible with most other worldviews]]
 	- [[Black identity is inseparable from other identities]]
-	- [[Black identity is inherently political]]
+	- [[The black identity has evolved past it's political origins]]
 	- [[Neurodiverse people are siloed into systems that work against them]]
 	- [[Write your notes with a system not within a system]]
 	- [[Names matter because they effect people's perception and understanding]]

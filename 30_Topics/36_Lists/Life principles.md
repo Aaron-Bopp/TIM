@@ -17,6 +17,7 @@ tags: created/topic/2021/12/26, node/topic/list
 - [[Stupid rules are meant to be broken]]
 - [[The three main questions of life]]
 - [[You can't blame people for failing to rise above their circumstances]]
+- [[Searching for THE answer is dangerous]]
 - [[Take note of the simple things in life]]
 - [[Be the change you want to see in the world]]
 

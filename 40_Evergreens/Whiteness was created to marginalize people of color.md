@@ -11,7 +11,7 @@ sr-ease: 190
 #### [[Whiteness was created to marginalize people of color]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 - [[Colonization and slavery lead to generational disparities in black communities]]
 - [[Race is a social construct]]
-	- [[Black identity is inherently political]]
+	- [[The black identity has evolved past it's political origins]]
 - [[Abortion and immigration are detrimental to white supremacy]]
 
 ### <hr class="footnote"/>

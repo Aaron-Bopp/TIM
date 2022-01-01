@@ -62,7 +62,6 @@ type:
             - Truman decides to use bomb to end the war and chooses Hiroshima and Nagasaki because they were industrial centers and highly populated
             - [[Russia|USSR]] and just began amassing troops as they agreed to in the Yalta Conference
             - Some died from bomb, others died from infections and wounds, some were effected by the radiation and are still discriminated against
-            - [[SecondBrain/history/Did the Atomic Bombs end WW2]]
                 - US knew that Japan was negotiating surrender through neutral states, but US only wanted unconditional surrender
                 - There was invasion in plans for November 1945
                 - Japan's navy was already weakened

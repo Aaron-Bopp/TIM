@@ -13,7 +13,7 @@ sr-ease: 190
 
 - [[Whiteness was created to marginalize people of color]]
 - [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
- - [[Black identity is inherently political]]
+ - [[The black identity has evolved past it's political origins]]
 
 ### <hr class="footnote"/>
 

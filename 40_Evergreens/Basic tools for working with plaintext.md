@@ -3,14 +3,14 @@ created: 2021-11-16
 aliases:
   - null
 tags: created/evergreen/2021/11/16, node/evergreen
-sr-due: 2021-12-31
-sr-interval: 23
+sr-due: 2022-02-21
+sr-interval: 52
 sr-ease: 232
 ---
 
 #### [[Basic tools for working with plaintext]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Being able to programatically process information can be an incredible boon for knowledge workers. Learning some of these tools will immediately expand the possibilities of what information you can access.  
+Being able to programmatically process information can be an incredible boon for knowledge workers. Learning some of these tools will immediately expand the possibilities of what information you can access.  
 ^[[[Note storage is important because it defines how you access and retain knowledge]]]
 
 Now if you are ready to learn or just need to brush up on your skills, here are some resources:
@@ -23,7 +23,7 @@ Now if you are ready to learn or just need to brush up on your skills, here are 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[programming]], [[knowledge management]], [[note writing]]

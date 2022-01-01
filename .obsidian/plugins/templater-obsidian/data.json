@@ -7,17 +7,13 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": true,
+  "trigger_on_file_creation": false,
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
-    {
-      "folder": "40_Evergreens",
-      "template": "00_Meta/Templates/EGNOTE.md"
-    },
     {
       "folder": "30_Topics/31_Stubs",
       "template": "00_Meta/Templates/STUB.md"

@@ -376,15 +376,7 @@
       "key": "O"
     }
   ],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
+  "switcher:open": [],
   "obsidian-smarter-md-hotkeys:smarter-wikilink": [
     {
       "modifiers": [

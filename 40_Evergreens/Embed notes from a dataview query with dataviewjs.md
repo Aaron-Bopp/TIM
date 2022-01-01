@@ -3,9 +3,9 @@ created: 2021-10-23
 aliases:
   - null
 tags: created/evergreen/2021/10/23, node/evergreen, node/technique
-sr-due: 2021-12-31
-sr-interval: 13
-sr-ease: 250
+sr-due: 2022-01-08
+sr-interval: 8
+sr-ease: 230
 ---
 
 #### [[Embed notes from a dataview query with dataviewjs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

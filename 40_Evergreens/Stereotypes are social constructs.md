@@ -13,7 +13,7 @@ sr-ease: 231
 - [[Insecure material conditions increase cognitive load and reduce outcomes|Sterotype threat increases cognitive load and reduces outcomes]]
 - [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 - [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]
-- [[Black identity is inherently political]]
+- [[The black identity has evolved past it's political origins]]
 
 ### <hr class="footnote"/>
 

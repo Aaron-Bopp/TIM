@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b5e4e5b1951e9256",
+        "id": "523da76e7cb06a92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
-            "mode": "preview",
+            "file": "40_Evergreens/Strong enough logic becomes belief.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -19,37 +19,103 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "b5e4e5b1951e9256",
+              "leaf": "523da76e7cb06a92",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Strong enough logic becomes belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Belief is an addiction.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":551},\"to\":{\"line\":12,\"ch\":551}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes vary in size and scope.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":15},\"to\":{\"line\":12,\"ch\":15}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":46},\"to\":{\"line\":15,\"ch\":46}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Belief pulls you forward into life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":26},\"to\":{\"line\":19,\"ch\":0}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Embed notes from a dataview query with dataviewjs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":25},\"to\":{\"line\":25,\"ch\":25}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Time is a valuable mode in a second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":25},\"to\":{\"line\":18,\"ch\":25}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":23},\"to\":{\"line\":21,\"ch\":23}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":38},\"to\":{\"line\":24,\"ch\":38}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/senses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "b5e4e5b1951e9256",
+              "leaf": "523da76e7cb06a92",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Belief pulls you forward into life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A second brain should be an extension of your thought.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+            },
+            {
+              "leaf": "523da76e7cb06a92",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "b5e4e5b1951e9256",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Apartment hunt.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b5e4e5b1951e9256",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/I like the walls I put up, they have posters on them.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b5e4e5b1951e9256",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2021-12-31.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b5e4e5b1951e9256",
+              "leaf": "523da76e7cb06a92",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -86,12 +152,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/topic/term ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             },
             "pane-relief:history-v1": {
@@ -105,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
+                "file": "40_Evergreens/Strong enough logic becomes belief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -138,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
+                "file": "40_Evergreens/Strong enough logic becomes belief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +220,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             },
@@ -167,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 375
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -183,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md"
+                "file": "40_Evergreens/Strong enough logic becomes belief.md"
               }
             },
             "pane-relief:history-v1": {
@@ -276,7 +342,7 @@
             }
           },
           {
-            "id": "c3f7b935c721aad7",
+            "id": "c0ba6d95f15115d9",
             "type": "leaf",
             "state": {
               "type": "RSS_FEED",
@@ -300,7 +366,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
+                "file": "40_Evergreens/Strong enough logic becomes belief.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -407,20 +473,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706,
-    "collapsed": true
+    "width": 930.9945068359375
   },
-  "active": "b5e4e5b1951e9256",
+  "active": "523da76e7cb06a92",
   "lastOpenFiles": [
-    "90_Personal/Personal/'A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe.md",
-    "90_Personal/Personal/'Don't be the reason that rules exist' - Nathan Eloe.md",
-    "90_Personal/Personal/Apartment hunt.md",
-    "90_Personal/Personal/I like the walls I put up, they have posters on them.md",
-    "90_Personal/91 Daily Notes/2021-12-31.md",
-    "90_Personal/Personal/Vaccination Card.pdf",
-    "00_Meta/Attachments/Pasted image 20211231162555.png",
-    "00_Meta/Attachments/Pasted image 20211231162517.png",
-    "00_Meta/Attachments/Pasted image 20211231162422.png",
-    "00_Meta/Attachments/Pasted image 20211231162356.png"
+    "40_Evergreens/Strong enough logic becomes belief.md",
+    "40_Evergreens/Belief is an addiction.md",
+    "40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md",
+    "40_Evergreens/Conceptual notes vary in size and scope.md",
+    "40_Evergreens/A totally integrated machine should be infinitely scalable.md",
+    "40_Evergreens/Belief pulls you forward into life.md",
+    "40_Evergreens/Embed notes from a dataview query with dataviewjs.md",
+    "40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md",
+    "40_Evergreens/Basic tools for working with plaintext.md",
+    "40_Evergreens/Time is a valuable mode in a second brain.md"
   ]
 }
