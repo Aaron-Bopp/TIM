@@ -9,26 +9,56 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 2,
           "stack": [
             {
               "leaf": "3d77b9e32eaddffa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":147},\"to\":{\"line\":14,\"ch\":147}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":41},\"to\":{\"line\":19,\"ch\":41}}}"
+            },
+            {
+              "leaf": "3d77b9e32eaddffa",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3d77b9e32eaddffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":36},\"to\":{\"line\":24,\"ch\":36}},\"scroll\":0}"
+            },
+            {
+              "leaf": "3d77b9e32eaddffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":34.66144167844824}"
+            },
+            {
+              "leaf": "3d77b9e32eaddffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Dukkha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":9.256793393815283}"
+            },
+            {
+              "leaf": "3d77b9e32eaddffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":3},\"to\":{\"line\":46,\"ch\":3}},\"scroll\":42.50475551273059}"
             },
             {
               "leaf": "3d77b9e32eaddffa",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":56},\"to\":{\"line\":45,\"ch\":56}},\"scroll\":0}"
             },
             {
               "leaf": "3d77b9e32eaddffa",
@@ -99,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -132,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md"
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md"
               }
             },
             "pane-relief:history-v1": {
@@ -294,7 +324,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -406,15 +436,15 @@
   },
   "active": "3d77b9e32eaddffa",
   "lastOpenFiles": [
-    "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
-    "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md",
-    "10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
+    "10_Sources/Mental Health/videoHow We're Shaped Mentally.md",
+    "30_Topics/32_Terms/Dvesha.md",
+    "30_Topics/32_Terms/Raga.md",
     "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "30_Topics/31_Stubs/notes_Depression module overview.md",
-    "90_Personal/91 Daily Notes/2022-01-02.md",
-    "30_Topics/Activating Ajna Chakra.md",
-    "30_Topics/Topic Hierarchy.md",
-    "Sirithil Primer.txt"
+    "10_Sources/Mental Health/Dr.K's guide/notes_Dukkha.md",
+    "30_Topics/32_Terms/Sukkha.md",
+    "30_Topics/32_Terms/source notes.md",
+    "00_Meta/Templates/SOURCETEMPLATE.md",
+    "30_Topics/32_Terms/Dukkha.md"
   ]
 }
