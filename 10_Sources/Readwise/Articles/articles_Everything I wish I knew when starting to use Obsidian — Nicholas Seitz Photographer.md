@@ -72,7 +72,7 @@ all you need to do to reduce friction is trim the edges. If it feels like more t
 
 ##### ^242107577
   
-> Understand what **fruitfulness** looks like when using your vault, and continue working at it such that that fruit can actually **grow.** Over time, you will experience the **friction** of unproductive processes. Where there is the most friction, simply **prune** those processes out of your workflow and continue working. 
+> Understand what **fruitfulness** looks like when using your vault, and continue working at it such that that fruit can actually **grow.** Over time, you will [[experience]] the **friction** of unproductive processes. Where there is the most friction, simply **prune** those processes out of your workflow and continue working. 
   [^242107577]
 
 [^242107577]:  https://nickseitz.com/writing/obsidian-day-one-starterpack?__readwiseLocation=1%2F15%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A2%2C9%2F15%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A58#:~:text=Understand%20what%20fruitfulness%20looks%20like%2Cyour%20workflow%20and%20continue%20working.

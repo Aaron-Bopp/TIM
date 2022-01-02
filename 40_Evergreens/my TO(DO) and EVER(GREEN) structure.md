@@ -54,7 +54,7 @@ This structure is designed to help classify what the state of an [[evergreen not
 	- **\#EVER/SPROUT** a concept that has information and value, but I have no current intention of expanding
 		- **\#EVER/SPROUT/WATER** I have [[source notes]] or ideas that I want to add 
 		- **\#EVER/SPROUT/CULTIVATE** needs to looked at in relation to other notes, or requires citation or outside content
-	- **\#EVER/GREEN** concept that holds weight, value, and knowledge in the [[second brain]]
+	- **\#EVER/GREEN** concept that holds weight, value, and [[knowledge]] in the [[second brain]]
 %%		- **\#EVER/GREEN/GROWING** This is a note that has the solid base of a concept and is interlinked with the [[second brain]], but many of those links need water, or are unplanted. This note is not ever/green because the notes linked within in it are actively changing, and that may require to work on the ever/green
 		- **\#EVER/GREEN/PRUNE** [[evergreen notes]] that needs to be looked at and rethought through in the context of the [[second brain]]. May include adding and removing connections, separating out distinct concepts into their own notes and removing inaccurate information%%
 

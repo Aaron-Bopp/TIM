@@ -1,6 +1,6 @@
 > # **Welcome to [[My TIM]]😊**
 > 
-> Whether you are a friend, foe, or simple traveler, welcome to a look into my [[second brain]]. I hope that the knowledge enshrined here will be helpful to you, and that you may leave more enriched than you arrive. Below I have outlined the more useful things on this site based on what you might be saying right now
+> Whether you are a friend, foe, or simple traveler, welcome to a look into my [[second brain]]. I hope that the [[knowledge]] enshrined here will be helpful to you, and that you may leave more enriched than you arrive. Below I have outlined the more useful things on this site based on what you might be saying right now
 
 # Wtf is going on, who are you, and how did I get here?
 
@@ -25,7 +25,7 @@ Oh you just want pretty dot pictures? [[Graph Timeline|say no more!]]
 
 # Obsidian? Note-taking? What are you talking about?
 
-Welcome to the world of [[knowledge management|personal knowledge management]] or PKM. This is a thriving community around curating and creating knowledge, I hope you jump in. 
+Welcome to the world of [[knowledge management|personal knowledge management]] or PKM. This is a thriving community around curating and creating [[knowledge]], I hope you jump in. 
 If you have twenty minutes, this video is a great introduction to [[conceptual notes]]: [How to achieve more while studying less - Obsidian & Conceptual Notes](https://www.youtube.com/watch?v=MYJsGksojms) Once you are hooked, go to [[Obsidian (software)#Getting Started]]
 
 If you're scared don't worry, you will be learning faster than you thought you could, because [[Communities are knowledge graphs]]. 

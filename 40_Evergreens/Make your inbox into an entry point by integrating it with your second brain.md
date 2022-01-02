@@ -14,7 +14,7 @@ In a typical inbox you may have things you haven't read, have skimmed, or have r
 ^[[[my TO(DO) and EVER(GREEN) structure]] allows for this]
 
 #TO/TEND/WEED 
-[[Evergreen notes organize knowledge so that it can grow]], and [[Use spaced repetition as a memory tool for your second brain]], so integrating your inbox will help you grow your existing knowledge and your potential knowledge: [[How to read to understand]]
+[[Evergreen notes organize knowledge so that it can grow]], and [[Use spaced repetition as a memory tool for your second brain]], so integrating your inbox will help you grow your existing [[knowledge]] and your potential knowledge: [[How to read to understand]]
 
 However, because [[Nodes in the second brain are an abstraction of our first brain#Nodes in the second brain are more fragile than thoughts in the first brain]], by making your inbox a part of your second brain 
 you are subjecting it [[The fragility of nodes in a second brain]]. Remember, [[Friction is the number one hindrance to learning]], 

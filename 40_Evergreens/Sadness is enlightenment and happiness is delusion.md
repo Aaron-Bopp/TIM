@@ -16,7 +16,7 @@ If a person internalizes the narrative that negative emotions are a sign of inte
 
 ##### Cause:: [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]]
 
-Once a person has set up this belief that negative emotion is associated with intelligence, you can struggle to find [[happiness]] in bleak situations, and find it easy to find [[sadness]] in neutral situations. As your intelligence and knowledge of the world increases, you will find that the only "proper" reaction is increasing sadness. 
+Once a person has set up this belief that negative emotion is associated with intelligence, you can struggle to find [[happiness]] in bleak situations, and find it easy to find [[sadness]] in neutral situations. As your intelligence and [[knowledge]] of the world increases, you will find that the only "proper" reaction is increasing sadness. 
 
 This way of living your life is [[subconscious|subconsciously]] attractive,
 because you will think your increasing sadness is a sign of your increasing intelligence, and that it is the only moral reaction the world we live in.

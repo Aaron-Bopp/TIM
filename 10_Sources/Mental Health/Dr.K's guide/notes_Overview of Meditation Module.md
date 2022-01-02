@@ -25,7 +25,7 @@ type:
 	- [[Dharma]]
 	- [[karma]]
 - [[Manas Padha]] - explore the nature of mind and thoughts
-- [[Jnana Padha]] - what is the nature of knowledge
+- [[Jnana Padha]] - what is the nature of [[knowledge]]
 	- how can we learn most efficiently [[How to read to understand]]
 - [[Atman Padha]] what is the nature of a person? [[human experience]]
 	- as we [[self-actualization]] we can free ourselves [[A secure identity is the best defense against social anxiety]]

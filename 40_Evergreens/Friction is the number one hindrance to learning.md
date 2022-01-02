@@ -19,7 +19,7 @@ What causes friction?
 - Fragile tools 
 
 These force you to keep focusing back on the problem from distractions. 
-Prerequisite knowledge you need, constantly shifting things in and out of your working memory, avoiding and pushing past loud noises or strong emotions, figuring out something you were told is wrong.
+Prerequisite [[knowledge]] you need, constantly shifting things in and out of your working memory, avoiding and pushing past loud noises or strong emotions, figuring out something you were told is wrong.
 
 Good systems for learning reduce this friction:
 - Libraries

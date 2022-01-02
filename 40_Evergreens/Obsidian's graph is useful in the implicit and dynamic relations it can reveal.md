@@ -18,7 +18,7 @@ There will start to be noticeable structures:
 - New areas of study/thought can be seen as peninsulas and islands
 - Interdisciplinary notes can be seen as connecting two largely separate topic groups. 
 
-As you spend more time in the graph, you will start to recognize related structures of notes: three notes that are always in a line, two notes that are always right next to eachother despite not being linked. These show you implicit relationships that exist within your knowledge. 
+As you spend more time in the graph, you will start to recognize related structures of notes: three notes that are always in a line, two notes that are always right next to eachother despite not being linked. These show you implicit relationships that exist within your [[knowledge]]. 
 
 This will work somewhat for just [[evergreen notes]], but will work even better if you have [[topic note|topic notes]] that naturally appear in notes without you having to think about linking them (you still need to create the links, either with the outgoing links' pane, scripts, or manually). Maps of content can either be helpful or hindering, depending on how many you have and how many notes link out of each one. 
 

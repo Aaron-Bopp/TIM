@@ -4,59 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "55de60179ee909ab",
+        "id": "36a705750b795927",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "55de60179ee909ab",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Strong enough logic becomes belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "55de60179ee909ab",
+              "leaf": "36a705750b795927",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "55de60179ee909ab",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":10},\"to\":{\"line\":12,\"ch\":7}},\"scroll\":0}"
-            },
-            {
-              "leaf": "55de60179ee909ab",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/Activating Ajna Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-            },
-            {
-              "leaf": "55de60179ee909ab",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":38.114715481142326}"
-            },
-            {
-              "leaf": "55de60179ee909ab",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":28},\"to\":{\"line\":42,\"ch\":28}},\"scroll\":27.656966279579077}"
-            },
-            {
-              "leaf": "55de60179ee909ab",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "55de60179ee909ab",
+              "leaf": "36a705750b795927",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -169,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,25 +201,6 @@
             "state": {
               "type": "RSS_FEED",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "7e24a517288c6907",
-            "type": "leaf",
-            "state": {
-              "type": "search-ref",
-              "state": {
-                "query": "(file:(\"The church will fail if christians keep aligning themselves with hate instead of love.md\") \"^128168\") OR (\"The church will fail if christians keep aligning themselves with hate instead of love#^128168\") ",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -432,17 +377,17 @@
     "width": 930.9945068359375,
     "collapsed": true
   },
-  "active": "55de60179ee909ab",
+  "active": "36a705750b795927",
   "lastOpenFiles": [
-    "40_Evergreens/Strong enough logic becomes belief.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
-    "30_Topics/32_Terms/Japa Meditation.md",
-    "30_Topics/Activating Ajna Chakra.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md",
-    "30_Topics/32_Terms/unconscious.md",
-    "30_Topics/32_Terms/subconscious.md",
+    "40_Evergreens/We learn by transforming information into understanding.md",
     "30_Topics/32_Terms/Citta.md",
-    "30_Topics/32_Terms/Samskara.md"
+    "30_Topics/31_Stubs/experience.md",
+    "30_Topics/31_Stubs/knowledge.md",
+    "30_Topics/32_Terms/Yogi.md",
+    "30_Topics/32_Terms/Jnana.md",
+    "30_Topics/31_Stubs/information.md",
+    "30_Topics/32_Terms/Vidya.md"
   ]
 }

@@ -20,7 +20,7 @@ they should inspire [[creativity]]:
 With [[evergreen notes]],
 you don't need to have a fully formulated idea to start writing, so 
 [[Write your notes like you're planting an evergreen forest]].
-As you continue to spend time with your notes you will develop them not just based on the idea's you had at the time, but new ideas. As you reread over old notes you will find connections to new notes or old notes that you have gained new understanding of. In this way evergreen notes help you grow your knowledge over time.
+As you continue to spend time with your notes you will develop them not just based on the idea's you had at the time, but new ideas. As you reread over old notes you will find connections to new notes or old notes that you have gained new understanding of. In this way evergreen notes help you grow your [[knowledge]] over time.
 
 From [[Andy Matuschak's Evergreen Notes]]: [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb) however my concept of [[evergreen notes]] is just slightly different than his: [[What are the differences between evergreen notes and conceptual notes]]
 

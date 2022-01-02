@@ -23,7 +23,7 @@ source: https://www.hinduismtoday.com/hindu-basics/karma-and-reincarnation/
 - [[reincarnation]] is the natural cycle of birth, death & rebirth, called [[reincarnation|samsara]]. A [[soul]] will continue to go in and out of bodies until it has reached perfection [^5]
 	- the goal of [[Hinduism]] is to escape [[reincarnation]] through [[enlightenment]] through [[love]] of the Gods [^7]
 	- [[enlightenment|Moksha]] comes when the [[soul]] has gone through all the experiences of life in the physical world [^8]
-	- A noble goal in [[Hinduism]] is to experience life
+	- A noble goal in [[Hinduism]] is to [[experience]] life
 - [[Suicide]] accelerates negative [[karma]] and it will take many live to reach the same point again. There is no escape from life. [^6]
 - Through [[selfless]] action that is surrendered to God [[Hinduism|Hindu]]'s  avoid being affected by the reaction of their actions. [[Buddhism is the study of happiness through detachment]]
 	- God acts through [[Hinduism|Hindu]]'s and they should not take credit for their actions [^9]

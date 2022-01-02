@@ -5,7 +5,7 @@ aliases:
 - ignorant
 ---
 
-lack of knowledge or information.
+lack of [[knowledge]] or information.
 
 **See**:: 
 

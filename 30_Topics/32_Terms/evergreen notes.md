@@ -11,7 +11,7 @@ aliases:
 > 
 > <cite>[[Andy Matuschak]]</cite>
 
-Evergreen notes are the fundamental unit of knowledge in [[My TIM]]. 
+Evergreen notes are the fundamental unit of [[knowledge]] in [[My TIM]]. 
 
 **See**:: [[My TIM]], [[second brain]], [[knowledge management]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

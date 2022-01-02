@@ -59,7 +59,7 @@ type:
 - There is nothing racist about categorizing people by race, it is when you treat people differently based off that group that it becomes racist.
 ### Scientific Racism
 - The use of science to justify racist beliefs and racial stratification
-- There has been a lack of objectivity in race based science
+- There has been a lack of [[objectivity]] in race based science
 - Physiognomy: judging psychological factors based on external appearance, especially the face
 	- now known as a pseudo-science 
 - r/K theory: species can be ordered on a continuum based on number and quality of offspring

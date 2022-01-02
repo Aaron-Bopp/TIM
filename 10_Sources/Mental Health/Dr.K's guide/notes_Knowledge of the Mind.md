@@ -36,15 +36,16 @@ type:
 		-  we need to read and study at a time when our [[conscious]] is calm
 	- [[Evergreen notes organize knowledge so that it can grow]]
 	- [[What is the difference between creation and recreation]]
-	- [[How do we learn]]
+	- [[We learn by transforming information into understanding]]
 - the more active our [[mind]] the less we will be able to absorb
-- [[Dr. K]] started studying in the [[Brahmamuhurtha]] when his mind was less active
-	- this allowed him to absorb better in class and not have to force himself to study after class
-	- One think to note is that [[Dr. K]] is very good at self study and has strong [[Vata]] this may not work for everyone 
-- Waking up early
-- visual acuity is higher (we see more shades of green) at dawn and dusk, we have evolved to be more active and dawn and dusk [[Humans are a product of evolution]]
-- [[Brahmamuhurtha]] will probably not work for teenagers as they're [[circadian rhythm]] is shifted forward a couple hours
-- we can also adjust what we are [[senses|sensing]] ([[Indriya]]), by lighting certain incense listening to music 
+- why we should study in the [[Brahmamuhurtha]]
+	- [[Dr. K]] started studying in the [[Brahmamuhurtha]] when his mind was less active
+		- this allowed him to absorb better in class and not have to force himself to study after class
+		- One think to note is that [[Dr. K]] is very good at self study and has strong [[Vata]] this may not work for everyone 
+	- Waking up early
+	- visual acuity is higher (we see more shades of green) at dawn and dusk, we have evolved to be more active and dawn and dusk [[Humans are a product of evolution]]
+	- [[Brahmamuhurtha]] will probably not work for teenagers as they're [[circadian rhythm]] is shifted forward a couple hours
+	- we can also adjust what we are [[senses|sensing]] ([[Indriya]]), by lighting certain incense listening to music 
 - this is why [[spaced repetition]] is valuable. working memory gets locked down into our permanent memory in the [[Hippocampus]] while we [[sleep]] 
 - if we create boundaries around or time our [[mind]] will start to respect those
 	- [[Meditation is a practice and discipline of observation]]
@@ -54,5 +55,3 @@ type:
 	- [[Pitta]] can study for long period but needs break at the end of the day
 	- [[Vata]] brief periods with breaks
 - [[knowledge]] is called from our [[unconscious]] to our [[conscious]] [[mind]]
--
- 

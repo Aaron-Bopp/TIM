@@ -10,7 +10,7 @@ sr-ease: 192
 
 #### [[Mental health is a reaction to one's environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This environment includes our physical environment (the one we experience), our chemical environment (what is going into the body, and what is the brain producing), and our emotional environment (how our brain is reacting to our physical and chemical environments). Whether through chemical imbalances [^1] or [[reppressed]] [[emotions]] [^4] it makes sense that these internal stimuli our mental state would reflect our environment, but sometimes external stimuli like societal structure [^3] or [[material conditions]],[^2] produce more complex emotional reactions.
+This environment includes our physical environment (the one we [[experience]]), our chemical environment (what is going into the body, and what is the brain producing), and our emotional environment (how our brain is reacting to our physical and chemical environments). Whether through chemical imbalances [^1] or [[reppressed]] [[emotions]] [^4] it makes sense that these internal stimuli our mental state would reflect our environment, but sometimes external stimuli like societal structure [^3] or [[material conditions]],[^2] produce more complex emotional reactions.
 
 [[Complex emotions are intellectual understandings of primal urges]], is an internal reaction to an internal stimuli
 

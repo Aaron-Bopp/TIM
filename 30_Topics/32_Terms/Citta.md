@@ -8,7 +8,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 The backdrop of the [[mind]], which contains our [[Samskara|samskaras]].
 ^[[[course_Dr. K's Guide to Mental Health]]]
-This is the [[subconscious]]
+This is the [[unconscious]]
 
 **See**:: [[subconscious]], [[conscious]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

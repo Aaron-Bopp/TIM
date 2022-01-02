@@ -27,10 +27,10 @@ For many people, leaving the church requires leaving most of what they've known,
 especially if they have highly religious [[parents]].
 ^[[[Working through trauma can involve of a lot of letting go]]]
 
-Some people can never truly reach objectivity with [[Christianity]] because they have had legitimate spiritual experiences or have experienced a personal relationship with god. Those experiences are very much real and are often the main reason people stay in the church: [[The brain is powerful enough to create supernatural experiences]]. 
+Some people can never truly reach [[objectivity]] with [[Christianity]] because they have had legitimate spiritual experiences or have experienced a personal relationship with god. Those experiences are very much real and are often the main reason people stay in the church: [[The brain is powerful enough to create supernatural experiences]]. 
 
 [[The Christian worldview is incompatible with most other worldviews]] also means that they will [[struggle]] to conceptualize the [[belief systems]] of others in an objective way. 
-If you can never get to this place of objectivity, you may get stuck feeling like you're [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before | constructing a puzzle you haven't seen before]].
+If you can never get to this place of [[objectivity]], you may get stuck feeling like you're [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before | constructing a puzzle you haven't seen before]].
 
 ### <hr class="footnote"/>
 
