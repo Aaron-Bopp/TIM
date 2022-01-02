@@ -10,7 +10,14 @@ sr-ease: 130
 
 #### [[A inwardly judgmental and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/WRITE Story about seeing your [[parents]] be very kind to a stranger, and then coming home and hearing about all the ways they were [[judgement|judging]] the person.
+When I was a kid I grew up in a very [[religion|religious]] household,
+^[[[My Deconstruction journey]]]
+and so I was very aware of the consequences of not being a [[Christianity|Christian]].
+^[[[Religious concepts are often too powerful for a child's mind]]]
+I was also a had a soft [[heart]] and cared a lot a bout [[justice]]. 
+So it was very shocking to me when we would come home from church and I would hear my [[parents]] talk about the people who they had been so nice to at church in such [[judgement|judgmentful]] ways. 
+This was very confusing for me, and I developed a lot of [[anxiety]] around not being able to trust what my [[parents]] would say.
+
 - [[What is the difference between blame and judgement]]
 - [[trauma]] [[childhood]] #TO/TEND/GRAFT 
     - [[Parents need to model the ability to deal with emotion to their children]]

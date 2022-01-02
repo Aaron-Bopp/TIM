@@ -21104,6 +21104,7 @@ const DEFAULT_SETTINGS = {
     showTrail: true,
     showGrid: true,
     showPrevNext: true,
+    squareDirectionsOrder: [0, 1, 2, 3, 4],
     limitTrailCheckboxes: [],
     limitJumpToFirstFields: [],
     showAll: false,
@@ -23737,7 +23738,7 @@ function create_if_block_1$4(ctx) {
 				if_block = null;
 			}
 
-			if (dirty & /*filteredSquaresArr, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron, settings*/ 15) {
+			if (dirty & /*filteredSquaresArr, settings, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron*/ 15) {
 				each_value_2 = /*square*/ ctx[12].impliedItems;
 				let i;
 
@@ -23800,6 +23801,7 @@ function create_each_block_2$3(ctx) {
 	let t;
 	let div_class_value;
 	let div_aria_label_value;
+	let div_aria_label_position_value;
 	let mounted;
 	let dispose;
 
@@ -23818,7 +23820,7 @@ function create_each_block_2$3(ctx) {
 			t = text(t_value);
 			attr(div, "class", div_class_value = "" + (null_to_empty(/*impliedItem*/ ctx[15].cls) + " svelte-1dlhare"));
 			attr(div, "aria-label", div_aria_label_value = /*impliedItem*/ ctx[15].parent ?? "");
-			attr(div, "aria-label-position", "left");
+			attr(div, "aria-label-position", div_aria_label_position_value = /*settings*/ ctx[1].rlLeaf ? "left" : "right");
 			attr(li, "class", "BC-Implied");
 		},
 		m(target, anchor) {
@@ -23845,6 +23847,10 @@ function create_each_block_2$3(ctx) {
 
 			if (dirty & /*filteredSquaresArr*/ 1 && div_aria_label_value !== (div_aria_label_value = /*impliedItem*/ ctx[15].parent ?? "")) {
 				attr(div, "aria-label", div_aria_label_value);
+			}
+
+			if (dirty & /*settings*/ 2 && div_aria_label_position_value !== (div_aria_label_position_value = /*settings*/ ctx[1].rlLeaf ? "left" : "right")) {
+				attr(div, "aria-label-position", div_aria_label_position_value);
 			}
 		},
 		d(detaching) {
@@ -23935,7 +23941,7 @@ function create_each_block$8(ctx) {
 		p(ctx, dirty) {
 			if (dirty & /*filteredSquaresArr*/ 1 && t0_value !== (t0_value = /*squares*/ ctx[9].map(func).join(", ") + "")) set_data(t0, t0_value);
 
-			if (dirty & /*filteredSquaresArr, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron, settings*/ 15) {
+			if (dirty & /*filteredSquaresArr, settings, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron*/ 15) {
 				each_value_1 = /*squares*/ ctx[9];
 				let i;
 
@@ -23995,7 +24001,7 @@ function create_fragment$c(ctx) {
 			}
 		},
 		p(ctx, [dirty]) {
-			if (dirty & /*filteredSquaresArr, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron, settings*/ 15) {
+			if (dirty & /*filteredSquaresArr, settings, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron*/ 15) {
 				each_value = /*filteredSquaresArr*/ ctx[0];
 				let i;
 
@@ -24412,7 +24418,7 @@ function create_if_block_1$3(ctx) {
 				if_block = null;
 			}
 
-			if (dirty & /*filteredSquaresArr, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron, settings*/ 15) {
+			if (dirty & /*filteredSquaresArr, settings, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron*/ 15) {
 				each_value_2 = /*square*/ ctx[12].impliedItems;
 				let i;
 
@@ -24509,6 +24515,7 @@ function create_each_block_2$2(ctx) {
 	let t;
 	let div_class_value;
 	let div_aria_label_value;
+	let div_aria_label_position_value;
 	let mounted;
 	let dispose;
 
@@ -24531,7 +24538,7 @@ function create_each_block_2$2(ctx) {
 			? "↑ " + /*impliedItem*/ ctx[15].parent
 			: "");
 
-			attr(div, "aria-label-position", "left");
+			attr(div, "aria-label-position", div_aria_label_position_value = /*settings*/ ctx[1].rlLeaf ? "left" : "right");
 			attr(li, "class", "BC-Implied");
 		},
 		m(target, anchor) {
@@ -24560,6 +24567,10 @@ function create_each_block_2$2(ctx) {
 			? "↑ " + /*impliedItem*/ ctx[15].parent
 			: "")) {
 				attr(div, "aria-label", div_aria_label_value);
+			}
+
+			if (dirty & /*settings*/ 2 && div_aria_label_position_value !== (div_aria_label_position_value = /*settings*/ ctx[1].rlLeaf ? "left" : "right")) {
+				attr(div, "aria-label-position", div_aria_label_position_value);
 			}
 		},
 		d(detaching) {
@@ -24637,7 +24648,7 @@ function create_each_block$7(ctx) {
 			append(div, t);
 		},
 		p(ctx, dirty) {
-			if (dirty & /*filteredSquaresArr, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron, settings*/ 15) {
+			if (dirty & /*filteredSquaresArr, settings, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron*/ 15) {
 				each_value_1 = /*squares*/ ctx[9];
 				let i;
 
@@ -24697,7 +24708,7 @@ function create_fragment$b(ctx) {
 			}
 		},
 		p(ctx, [dirty]) {
-			if (dirty & /*filteredSquaresArr, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron, settings*/ 15) {
+			if (dirty & /*filteredSquaresArr, settings, openOrSwitch, app, hoverPreview, matrixView, dropPathNDendron*/ 15) {
 				each_value = /*filteredSquaresArr*/ ctx[0];
 				let i;
 
@@ -24847,9 +24858,10 @@ class MatrixView extends require$$0.ItemView {
         const realTos = reals.map((real) => real.to);
         return implieds.filter((implied) => !realTos.includes(implied.to));
     }
-    getHierSquares(userHiers, currFile, settings) {
+    getHierSquares(userHiers, currFile) {
         const { plugin } = this;
-        const { mainG } = plugin;
+        const { mainG, settings } = plugin;
+        const { alphaSortAsc, enableAlphaSort, treatCurrNodeAsImpliedSibling, squareDirectionsOrder, } = settings;
         if (!mainG)
             return [];
         const { basename } = currFile;
@@ -24882,7 +24894,7 @@ class MatrixView extends require$$0.ItemView {
                 closedUp.forEachOutEdge(basename, (k, a, s, par) => {
                     if (hier.up.includes(a.field)) {
                         closedUp.forEachInEdge(par, (k, a, s, t) => {
-                            if (s === basename && !settings.treatCurrNodeAsImpliedSibling)
+                            if (s === basename && !treatCurrNodeAsImpliedSibling)
                                 return;
                             iSamesII.push(this.toInternalLinkObj(s, false, t));
                         });
@@ -24891,11 +24903,13 @@ class MatrixView extends require$$0.ItemView {
             }
             is.push(...iSamesII);
             // !SECTION
-            iu = this.removeDuplicateImplied(ru, iu);
-            is = this.removeDuplicateImplied(rs, is);
-            id = this.removeDuplicateImplied(rd, id);
-            iN = this.removeDuplicateImplied(rn, iN);
-            ip = this.removeDuplicateImplied(rp, ip);
+            [iu, is, id, iN, ip] = [
+                this.removeDuplicateImplied(ru, iu),
+                this.removeDuplicateImplied(rs, is),
+                this.removeDuplicateImplied(rd, id),
+                this.removeDuplicateImplied(rn, iN),
+                this.removeDuplicateImplied(rp, ip),
+            ];
             const iSameNoDup = [];
             is.forEach((impSib) => {
                 if (iSameNoDup.every((noDup) => noDup.to !== impSib.to)) {
@@ -24906,9 +24920,8 @@ class MatrixView extends require$$0.ItemView {
             const getFieldInHier = (dir) => hier[dir][0]
                 ? hier[dir].join(", ")
                 : `${hier[getOppDir(dir)].join(",")}${ARROW_DIRECTIONS[dir]}`;
-            const { alphaSortAsc } = settings;
             const squares = [ru, rs, rd, rn, rp, iu, is, id, iN, ip];
-            if (settings.enableAlphaSort) {
+            if (enableAlphaSort) {
                 squares.forEach((sq) => sq.sort((a, b) => {
                     var _a, _b;
                     return ((_a = a.alt) !== null && _a !== void 0 ? _a : a.to) < ((_b = b.alt) !== null && _b !== void 0 ? _b : b.to)
@@ -24933,7 +24946,7 @@ class MatrixView extends require$$0.ItemView {
                 { iN },
                 { ip },
             ]);
-            return [
+            const square = [
                 {
                     realItems: ru,
                     impliedItems: iu,
@@ -24960,6 +24973,7 @@ class MatrixView extends require$$0.ItemView {
                     field: getFieldInHier("prev"),
                 },
             ];
+            return squareDirectionsOrder.map((order) => square[order]);
         });
     }
     async draw() {
@@ -24995,7 +25009,7 @@ class MatrixView extends require$$0.ItemView {
                     await this.draw();
                 };
             });
-            const hierSquares = this.getHierSquares(userHiers, currFile, settings).filter((squareArr) => squareArr.some((square) => square.realItems.length + square.impliedItems.length > 0));
+            const hierSquares = this.getHierSquares(userHiers, currFile).filter((squareArr) => squareArr.some((sq) => sq.realItems.length + sq.impliedItems.length > 0));
             const compInput = {
                 target: contentEl,
                 props: {
@@ -25018,20 +25032,20 @@ class MatrixView extends require$$0.ItemView {
     }
 }
 
+const fragWithHTML = (html) => createFragment((frag) => (frag.createDiv().innerHTML = html));
 class BCSettingTab extends require$$0.PluginSettingTab {
     constructor(app, plugin) {
         super(app, plugin);
         this.plugin = plugin;
+        this.app = app;
     }
     async display() {
         const { plugin, containerEl } = this;
         const { settings } = plugin;
         containerEl.empty();
         containerEl.createEl("h2", { text: "Settings for Breadcrumbs plugin" });
-        const fieldDetails = containerEl.createEl("details", {
-            cls: "field-details",
-        });
-        fieldDetails.createEl("summary", { text: "Hierarchies" });
+        const details = (text, parent = containerEl) => parent.createEl("details", {}, (d) => d.createEl("summary", { text }));
+        const fieldDetails = details("Hierarchies");
         fieldDetails.createEl("p", {
             text: "Here you can set up different hierarchies you use in your vault. To add a new hierarchy, click the plus button. Then, fill in the field names of your hierachy into the 3 boxes that appear. The ↑ field is for parent relations, the → field is for siblings, and ↓ is for child relations.",
         });
@@ -25042,56 +25056,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             target: fieldDetails,
             props: { plugin },
         });
-        const hierarchyNoteDetails = containerEl.createEl("details");
-        hierarchyNoteDetails.createEl("summary", { text: "Hierarchy Notes" });
-        new require$$0.Setting(hierarchyNoteDetails)
-            .setName("Hierarchy Note(s)")
-            .setDesc("A list of notes used to create external Breadcrumb structures.")
-            .addText((text) => {
-            text
-                .setPlaceholder("Hierarchy Note(s)")
-                .setValue(settings.hierarchyNotes.join(", "));
-            text.inputEl.onblur = async () => {
-                const splits = splitAndTrim(text.getValue());
-                if (splits[0] === undefined) {
-                    settings.hierarchyNotes = splits;
-                    await plugin.saveSettings();
-                }
-                else if (splits.every((note) => isInVault(this.app, note))) {
-                    settings.hierarchyNotes = splits;
-                    await plugin.saveSettings();
-                }
-                else {
-                    new require$$0.Notice("Atleast one of the notes is not in your vault");
-                }
-            };
-        });
-        new require$$0.Setting(hierarchyNoteDetails)
-            .setName("Hierarchy Note Up Field Name")
-            .setDesc("Using the breadcrumbs generated by the hierarchy note, which ↑ type should they count as? This has to be one of the ↑ types of one of your existing hierarchies. If you want it to be something else, you can make a new hierarchy just for it.")
-            .addText((text) => {
-            let finalValue = settings.HNUpField;
-            text.setPlaceholder("").setValue(settings.HNUpField);
-            text.inputEl.onblur = async () => {
-                finalValue = text.getValue();
-                if (finalValue === "") {
-                    settings.HNUpField = finalValue;
-                    await plugin.saveSettings();
-                }
-                else {
-                    const upFields = getFields(settings.userHiers, "up");
-                    if (upFields.includes(finalValue)) {
-                        settings.HNUpField = finalValue;
-                        await plugin.saveSettings();
-                    }
-                    else {
-                        new require$$0.Notice("The field name must be one of the exisitng ↓ fields in your hierarchies.");
-                    }
-                }
-            };
-        });
-        const generalDetails = containerEl.createEl("details");
-        generalDetails.createEl("summary", { text: "General Options" });
+        const generalDetails = details("General Options");
         new require$$0.Setting(generalDetails)
             .setName("Show Refresh Index Notice")
             .setDesc("When Refreshing Index, should it show a notice once the operation is complete?")
@@ -25139,15 +25104,8 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             });
         });
         new require$$0.Setting(generalDetails)
-            .setName("Enable Field Suggestor")
-            .setDesc('Alot of Breadcrumbs features require a metadata (or inline Dataview) field to work. For example, `BC-folder-note`. The Field Suggestor will show an autocomplete menu with all available Breadcrumbs field options when the content you type matches the regex /^BC-.*$/. Basically, just type "BC-" at the start of a line to trigger it.')
-            .addToggle((toggle) => toggle.setValue(settings.fieldSuggestor).onChange(async (value) => {
-            settings.fieldSuggestor = value;
-            await plugin.saveSettings();
-        }));
-        new require$$0.Setting(generalDetails)
             .setName("Refresh Index on Note Change")
-            .setDesc("Refresh the Breadcrumbs index data everytime you change notes. This is how Breadcrumbs used to work, making it responsive to changes immediately after changing notes. However, this can be very slow on large vaults, so it is off by default.")
+            .setDesc("Refresh the Breadcrumbs index data everytime you change notes.\nThis is how Breadcrumbs used to work, making it responsive to changes immediately after changing notes. However, this can be very slow on large vaults, so it is off by default.")
             .addToggle((toggle) => toggle
             .setValue(settings.refreshOnNoteChange)
             .onChange(async (value) => {
@@ -25156,7 +25114,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         }));
         new require$$0.Setting(generalDetails)
             .setName("Fields used for Alternative note names (Aliases)")
-            .setDesc("A comma-separated list of fields you use to specify note name aliases. These fields will be checked, in order, and be used to display an alternate note title in both the list/matrix view, and trail/grid view. This field will probably be `alias` or `aliases`, but it can be anything, like `title`, for example.")
+            .setDesc(fragWithHTML("A comma-separated list of fields you use to specify note name aliases. These fields will be checked, in order, and be used to display an alternate note title in both the list/matrix view, and trail/grid view.</br>This field will probably be <code>alias</code> or <code>aliases</code>, but it can be anything, like <code>title</code>, for example."))
             .addText((text) => {
             text.setValue(settings.altLinkFields.join(", "));
             text.inputEl.onblur = async () => {
@@ -25166,7 +25124,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         });
         new require$$0.Setting(generalDetails)
             .setName("Use yaml or inline fields for hierarchy data")
-            .setDesc("If enabled, Breadcrumbs will make it's hierarchy using yaml fields, and inline fields (if you have Dataview enabled). If this is disabled, it will only use Juggl links for it's metadata (See below).")
+            .setDesc("If enabled, Breadcrumbs will make it's hierarchy using yaml fields, and inline fields (if you have Dataview enabled).\nIf this is disabled, it will only use Juggl links for it's metadata (See below).")
             .addToggle((toggle) => toggle.setValue(settings.useAllMetadata).onChange(async (value) => {
             settings.useAllMetadata = value;
             await plugin.saveSettings();
@@ -25174,7 +25132,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         }));
         new require$$0.Setting(generalDetails)
             .setName("Use Juggl link syntax without having Juggl installed.")
-            .setDesc("Should Breadcrumbs look for [Juggl links](https://juggl.io/Link+Types) even if you don't have Juggl installed? If you do have Juggl installed, it will always look for Juggl links.")
+            .setDesc(fragWithHTML('Should Breadcrumbs look for <a href="https://juggl.io/Link+Types">Juggl links</a> even if you don\'t have Juggl installed? If you do have Juggl installed, it will always look for Juggl links.'))
             .addToggle((toggle) => toggle
             .setValue(settings.parseJugglLinksWithoutJuggl)
             .onChange(async (value) => {
@@ -25195,7 +25153,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         if (this.app.plugins.plugins.dataview !== undefined) {
             new require$$0.Setting(generalDetails)
                 .setName("Dataview Wait Time")
-                .setDesc('Enter an integer number of seconds to wait for the Dataview Index to load. The larger your vault, the longer it will take. If you see an error in the console saying "Cannot destructure currGraphs of undefined", try making this time longer. If you don\'t get that error, you can make this time shorter to make the Breadcrumbs load faster. The default is 5 seconds.')
+                .setDesc('Enter an integer number of seconds to wait for the Dataview Index to load. The larger your vault, the longer it will take.\nIf you see an error in the console saying "Cannot destructure currGraphs of undefined", try making this time longer. If you don\'t get that error, you can make this time shorter to make the Breadcrumbs load faster. The default is 5 seconds.')
                 .addText((text) => text
                 .setPlaceholder("Seconds")
                 .setValue((settings.dvWaitTime / 1000).toString())
@@ -25210,11 +25168,10 @@ class BCSettingTab extends require$$0.PluginSettingTab {
                 }
             }));
         }
-        const MLViewDetails = containerEl.createEl("details");
-        MLViewDetails.createEl("summary", { text: "Matrix/List View" });
+        const MLViewDetails = details("Matrix/List View");
         new require$$0.Setting(MLViewDetails)
             .setName("Show Matrix or List view by default")
-            .setDesc("When Obsidian first loads, which view should it show? On = Matrix, Off = List")
+            .setDesc("When Obsidian first loads, which view should it show? ✅ = Matrix, ❌ = List")
             .addToggle((toggle) => toggle.setValue(settings.defaultView).onChange(async (value) => {
             settings.defaultView = value;
             await plugin.saveSettings();
@@ -25223,7 +25180,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         // new Setting(MLViewDetails)
         //   .setName("Show all field names or just relation types")
         //   .setDesc(
-        //     "This changes the headers in matrix/list view. You can have the headers be the list of metadata fields for each relation type (e.g. `parent, broader, upper`). Or you can have them just be the name of the relation type, i.e. 'Parent', 'Sibling', 'Child'. On = show the full list of names."
+        //     "This changes the headers in matrix/list view. You can have the headers be the list of metadata fields for each relation type (e.g. `parent, broader, upper`). Or you can have them just be the name of the relation type, i.e. 'Parent', 'Sibling', 'Child'. ✅ = show the full list of names."
         //   )
         //   .addToggle((toggle) =>
         //     toggle.setValue(settings.showNameOrType).onChange(async (value) => {
@@ -25234,12 +25191,44 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         //   );
         new require$$0.Setting(MLViewDetails)
             .setName("Show Relationship Type")
-            .setDesc("Show whether a link is real or implied. A real link is one you explicitly put in a note. E.g. parent:: [[Note]]. An implied link is the reverse of a real link. For example, if A is the real parent of B, then B must be the implied child of A.")
+            .setDesc(fragWithHTML("Show whether a link is real or implied. A real link is one you explicitly put in a note. E.g. <code>parent:: [[Note]]</code>. An implied link is the reverse of a real link. For example, if A is the real parent of B, then B must be the implied child of A."))
             .addToggle((toggle) => toggle.setValue(settings.showRelationType).onChange(async (value) => {
             settings.showRelationType = value;
             await plugin.saveSettings();
             await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
         }));
+        new require$$0.Setting(MLViewDetails)
+            .setName("Directions Order")
+            .setDesc(fragWithHTML(`Change the order in which the directions appear in the M/L view. Use numbers to change the order, the default is "up, same, down, next, prev" (<code>01234</code>).
+          <ul>
+            <li>0 = up</li>
+            <li>1 = same</li>
+            <li>2 = down</li>
+            <li>3 = next</li>
+            <li>4 = prev</li>
+          </ul>
+          <strong>Note:</strong> You can only change the order of the directions. You can't add or remove directions.`))
+            .addText((text) => {
+            text.setValue(settings.squareDirectionsOrder.join(""));
+            text.inputEl.onblur = async () => {
+                const value = text.getValue();
+                if (value.length === 5 &&
+                    value.includes("0") &&
+                    value.includes("1") &&
+                    value.includes("2") &&
+                    value.includes("3") &&
+                    value.includes("4")) {
+                    settings.squareDirectionsOrder = value
+                        .split("")
+                        .map((order) => Number.parseInt(order));
+                    await plugin.saveSettings();
+                    await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
+                }
+                else {
+                    new require$$0.Notice('The value must be a 5 digit number using only the digits "0", "1", "2", "3", "4"');
+                }
+            };
+        });
         new require$$0.Setting(MLViewDetails)
             .setName("Enable Alpahebtical Sorting")
             .setDesc("By default, items in the Matrix view are sorted by the order they appear in your notes. Toggle this on to enable Alphabetical sorting. You can choose ascending/descending order in the setting below.")
@@ -25251,7 +25240,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         // TODO hide this setting if !enableAlphaSort
         new require$$0.Setting(MLViewDetails)
             .setName("Sort Alphabetically Ascending/Descending")
-            .setDesc("Sort square items alphabetically in Ascending (on) or Descending (off) order.")
+            .setDesc("Sort square items alphabetically in Ascending (✅) or Descending (❌) order, by default.")
             .addToggle((toggle) => toggle.setValue(settings.alphaSortAsc).onChange(async (value) => {
             settings.alphaSortAsc = value;
             await plugin.saveSettings();
@@ -25269,7 +25258,12 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         }));
         new require$$0.Setting(MLViewDetails)
             .setName("Filter Implied Siblings")
-            .setDesc("Implied siblings are: 1) notes with the same parent, or 2) notes that are real siblings. This setting only applies to type 1 implied siblings. If enabled, Breadcrumbs will filter type 1 implied siblings so that they not only share the same parent, but the parent relation has the exact same type. For example, the two real relations B --parent-> A, and C --parent-> A create an implied sibling between B and C (they have the same parent, A). The two real relations B --parent-> A, and C --up-> A create an implied sibling between B and C (they also have the same parent, A). But if this setting is turned on, the second implied sibling would not show, because the parent types are differnet (parent versus up).")
+            .setDesc(fragWithHTML(`Implied siblings are:
+          <ol>
+          <li>notes with the same parent, or</li>
+          <li>notes that are real siblings.</li>
+          </ol>
+          This setting only applies to type 1 implied siblings. If enabled, Breadcrumbs will filter type 1 implied siblings so that they not only share the same parent, but the parent relation has the exact same type. For example, the two real relations <code>B -parent-> A</code>, and <code>C -parent-> A</code> create an implied sibling between B and C (they have the same parent, A). The two real relations <code>B -parent-> A</code>, and <code>C -up-> A</code> create an implied sibling between B and C (they also have the same parent, A). But if this setting is turned on, the second implied sibling would not show, because the parent types are differnet (parent versus up).`))
             .addToggle((toggle) => toggle
             .setValue(settings.filterImpliedSiblingsOfDifferentTypes)
             .onChange(async (value) => {
@@ -25279,16 +25273,14 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         }));
         new require$$0.Setting(MLViewDetails)
             .setName("Open View in Right or Left side")
-            .setDesc("When loading the matrix view, should it open on the left or right side leaf? On = Right, Off = Left.")
+            .setDesc("When loading the matrix view, should it open on the left or right side leaf? ✅ = Right, ❌ = Left.")
             .addToggle((toggle) => toggle.setValue(settings.rlLeaf).onChange(async (value) => {
-            var _a;
             settings.rlLeaf = value;
             await plugin.saveSettings();
-            await ((_a = plugin.getActiveTYPEView(MATRIX_VIEW)) === null || _a === void 0 ? void 0 : _a.onClose());
+            await this.app.workspace.detachLeavesOfType(MATRIX_VIEW);
             await openView(this.app, MATRIX_VIEW, MatrixView, value ? "right" : "left");
         }));
-        const trailDetails = containerEl.createEl("details");
-        trailDetails.createEl("summary", { text: "Trail/Grid" });
+        const trailDetails = details("Trail/Grid");
         new require$$0.Setting(trailDetails)
             .setName("Show Breadcrumbs")
             .setDesc("Show a set of different views at the top of the current note.")
@@ -25321,18 +25313,6 @@ class BCSettingTab extends require$$0.PluginSettingTab {
                 options: getFields(settings.userHiers, "up"),
             },
         });
-        // new Setting(trailDetails)
-        //   .setName("Field name to hide trail")
-        //   .setDesc(
-        //     "A note-specific toggle to hide the Trail View. By default, it is `hide-trail`. So, to hide the trail on a specific note, add the field to that note's yaml, like so: `hide-trail: {{anything}}`."
-        //   )
-        //   .addText((text) => {
-        //     text.setValue(settings.hideTrailField);
-        //     text.inputEl.onblur = async () => {
-        //       settings.hideTrailField = text.getValue();
-        //       await plugin.saveSettings();
-        //     };
-        //   });
         new require$$0.Setting(trailDetails)
             .setName("Views to show")
             .setDesc("Choose which of the views to show at the top of the note.\nTrail, Grid, and/or the Next-Previous view.")
@@ -25408,7 +25388,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         });
         new require$$0.Setting(trailDetails)
             .setName("Index Note(s)")
-            .setDesc("The note that all of your other notes lead back to. The parent of all your parent notes. Just enter the name. So if your index note is `000 Home.md`, enter `000 Home`. You can also have multiple index notes (comma-separated list). The breadcrumb trail will show the shortest path back to any one of the index notes listed. You can now leave this field empty, meaning the trail will show a path going as far up the parent-tree as possible.")
+            .setDesc(fragWithHTML("The note that all of your other notes lead back to. The parent of all your parent notes. Just enter the basename. So if your index note is <code>000 Home.md</code>, enter <code>000 Home</code>. You can also have multiple index notes (comma-separated list). The breadcrumb trail will show the shortest path back to any one of the index notes listed. You can now leave this field empty, meaning the trail will show a path going as far up the parent-tree as possible."))
             .addText((text) => {
             text
                 .setPlaceholder("Index Note")
@@ -25437,7 +25417,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         }));
         new require$$0.Setting(trailDetails)
             .setName("Default: All or Shortest")
-            .setDesc("If multiple paths are found going up the parent tree, should all of them be shown by default, or only the shortest? On = all, off = shortest")
+            .setDesc("If multiple paths are found going up the parent tree, should all of them be shown by default, or only the shortest? ✅ = all, ❌ = shortest")
             .addToggle((toggle) => toggle.setValue(settings.showAll).onChange(async (value) => {
             settings.showAll = value;
             await plugin.saveSettings();
@@ -25467,7 +25447,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         }));
         new require$$0.Setting(trailDetails)
             .setName("Respect Readable Line Length")
-            .setDesc("Should the breadcrumbs trail adjust its width to the readable line length, or use as much space as possible? On = use readable line length.")
+            .setDesc("Should the breadcrumbs trail adjust its width to the readable line length, or use as much space as possible? ✅ = use readable line length.")
             .addToggle((toggle) => toggle
             .setValue(settings.respectReadableLineLength)
             .onChange(async (value) => {
@@ -25475,20 +25455,83 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.drawTrail();
         }));
-        const downViewDetails = containerEl.createEl("details");
-        downViewDetails.createEl("summary", { text: "Down View" });
+        const downViewDetails = details("Down View");
         new require$$0.Setting(downViewDetails)
             .setName("Enable line wrapping")
-            .setDesc("Make the items in the down view line wrap when there isn't enough space (On). Off makes them overflow off the screen.")
+            .setDesc("Make the items in the down view line wrap when there isn't enough space (✅). ❌ makes them overflow off the screen.")
             .addToggle((toggle) => toggle.setValue(settings.downViewWrap).onChange(async (value) => {
             settings.downViewWrap = value;
             await plugin.saveSettings();
         }));
-        const alternativeHierarchyDetails = containerEl.createEl("details");
-        alternativeHierarchyDetails.createEl("summary", {
-            text: "Alternative Hierarchies",
-        });
+        const alternativeHierarchyDetails = details("Alternative Hierarchies");
         new require$$0.Setting(alternativeHierarchyDetails)
+            .setName("Enable Field Suggestor")
+            .setDesc(fragWithHTML('Alot of Breadcrumbs features require a metadata (or inline Dataview) field to work. For example, `BC-folder-note`.</br>The Field Suggestor will show an autocomplete menu with all available Breadcrumbs field options when the content you type matches the regex <code>/^BC-.*$/</code>. Basically, just type "BC-" at the start of a line to trigger it.'))
+            .addToggle((toggle) => toggle.setValue(settings.fieldSuggestor).onChange(async (value) => {
+            settings.fieldSuggestor = value;
+            await plugin.saveSettings();
+        }));
+        const hierarchyNoteDetails = alternativeHierarchyDetails
+            .createDiv({
+            attr: { style: "padding-left: 10px;" },
+        })
+            .createEl("details", {}, (d) => d.createEl("summary", {
+            text: "Hierarchy Notes",
+        }));
+        new require$$0.Setting(hierarchyNoteDetails)
+            .setName("Hierarchy Note(s)")
+            .setDesc("A list of notes used to create external Breadcrumb structures.")
+            .addText((text) => {
+            text
+                .setPlaceholder("Hierarchy Note(s)")
+                .setValue(settings.hierarchyNotes.join(", "));
+            text.inputEl.onblur = async () => {
+                const splits = splitAndTrim(text.getValue());
+                if (splits[0] === undefined) {
+                    settings.hierarchyNotes = splits;
+                    await plugin.saveSettings();
+                }
+                else if (splits.every((note) => isInVault(this.app, note))) {
+                    settings.hierarchyNotes = splits;
+                    await plugin.saveSettings();
+                }
+                else {
+                    new require$$0.Notice("Atleast one of the notes is not in your vault");
+                }
+            };
+        });
+        new require$$0.Setting(hierarchyNoteDetails)
+            .setName("Hierarchy Note Up Field Name")
+            .setDesc("Using the breadcrumbs generated by the hierarchy note, which ↑ type should they count as? This has to be one of the ↑ types of one of your existing hierarchies. If you want it to be something else, you can make a new hierarchy just for it.")
+            .addText((text) => {
+            let finalValue = settings.HNUpField;
+            text.setPlaceholder("").setValue(settings.HNUpField);
+            text.inputEl.onblur = async () => {
+                finalValue = text.getValue();
+                if (finalValue === "") {
+                    settings.HNUpField = finalValue;
+                    await plugin.saveSettings();
+                }
+                else {
+                    const upFields = getFields(settings.userHiers, "up");
+                    if (upFields.includes(finalValue)) {
+                        settings.HNUpField = finalValue;
+                        await plugin.saveSettings();
+                    }
+                    else {
+                        new require$$0.Notice("The field name must be one of the exisitng ↓ fields in your hierarchies.");
+                    }
+                }
+            };
+        });
+        const csvDetails = alternativeHierarchyDetails
+            .createDiv({
+            attr: { style: "padding-left: 10px;" },
+        })
+            .createEl("details", {}, (d) => d.createEl("summary", {
+            text: "CSV Notes",
+        }));
+        new require$$0.Setting(csvDetails)
             .setName("CSV Breadcrumb Paths")
             .setDesc("The file path of a csv files with breadcrumbs information.")
             .addText((text) => {
@@ -25498,16 +25541,23 @@ class BCSettingTab extends require$$0.PluginSettingTab {
                 await plugin.saveSettings();
             };
         });
-        new require$$0.Setting(alternativeHierarchyDetails)
+        const dendronDetails = alternativeHierarchyDetails
+            .createDiv({
+            attr: { style: "padding-left: 10px;" },
+        })
+            .createEl("details", {}, (d) => d.createEl("summary", {
+            text: "Dendron Notes",
+        }));
+        new require$$0.Setting(dendronDetails)
             .setName("Add Dendron notes to graph")
-            .setDesc("Dendron notes create a hierarchy using note names.\n`math.algebra` is a note about algebra, whose parent is `math`.\n`math.calculus.limits` is a note about limits whose parent is the note `math.calculus`, whose parent is `math`.")
+            .setDesc(fragWithHTML("Dendron notes create a hierarchy using note names.</br><code>nmath.algebra</code> is a note about algebra, whose parent is <code>math</code>.</br><code>nmath.calculus.limits</code> is a note about limits whose parent is the note <code>math.calculus</code>, the parent of which is <code>math</code>."))
             .addToggle((toggle) => toggle.setValue(settings.addDendronNotes).onChange(async (value) => {
             settings.addDendronNotes = value;
             await plugin.saveSettings();
         }));
-        new require$$0.Setting(alternativeHierarchyDetails)
+        new require$$0.Setting(dendronDetails)
             .setName("Dendron note delimiter")
-            .setDesc("If you choose to use Dendron notes (setting above), which delimiter should Breadcrumbs look for? The default is `.`.")
+            .setDesc(fragWithHTML("If you choose to use Dendron notes (setting above), which delimiter should Breadcrumbs look for? The default is <code>.</code>."))
             .addText((text) => {
             text
                 .setPlaceholder("Delimiter")
@@ -25526,9 +25576,9 @@ class BCSettingTab extends require$$0.PluginSettingTab {
                 }
             };
         });
-        new require$$0.Setting(alternativeHierarchyDetails)
+        new require$$0.Setting(dendronDetails)
             .setName("Trim Dendron Note Names")
-            .setDesc("When displaying a dendron note name, should it be trimmed to only show the last item in the chain? e.g. `A.B.C` would be trimmed to only display `C`.")
+            .setDesc(fragWithHTML("When displaying a dendron note name, should it be trimmed to only show the last item in the chain?</br>e.g. <code>A.B.C</code> would be trimmed to only display <code>C</code>."))
             .addToggle((toggle) => toggle.setValue(settings.trimDendronNotes).onChange(async (value) => {
             settings.trimDendronNotes = value;
             await plugin.saveSettings();
@@ -25539,7 +25589,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             settings.dendronNoteField = fields[0];
             await plugin.saveSettings();
         }
-        new require$$0.Setting(alternativeHierarchyDetails)
+        new require$$0.Setting(dendronDetails)
             .setName("Dendron Note Field")
             .setDesc("Which field should Breadcrumbs use for Dendron notes?")
             .addDropdown((cb) => {
@@ -25552,10 +25602,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
                 await plugin.saveSettings();
             });
         });
-        const writeBCsToFileDetails = containerEl.createEl("details");
-        writeBCsToFileDetails.createEl("summary", {
-            text: "Write Breadcrumbs to File",
-        });
+        const writeBCsToFileDetails = details("Write Breadcrumbs to File");
         const limitWriteBCDiv = writeBCsToFileDetails.createDiv({
             cls: "limit-ML-fields",
         });
@@ -25578,14 +25625,13 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             await plugin.saveSettings();
         }));
         new require$$0.Setting(writeBCsToFileDetails)
-            .setName("Show the `Write Breadcrumbs to ALL Files` command")
+            .setName(fragWithHTML("Show the <code>Write Breadcrumbs to ALL Files</code> command"))
             .setDesc("This command attempts to update ALL files with implied breadcrumbs pointing to them. So, it is not shown by default (even though it has 3 confirmation boxes to ensure you want to run it")
             .addToggle((toggle) => toggle.setValue(settings.showWriteAllBCsCmd).onChange(async (value) => {
             settings.showWriteAllBCsCmd = value;
             await plugin.saveSettings();
         }));
-        const visModalDetails = containerEl.createEl("details");
-        visModalDetails.createEl("summary", { text: "Visualisation Modal" });
+        const visModalDetails = details("Visualisation Modal");
         new require$$0.Setting(visModalDetails)
             .setName("Default Visualisation Type")
             .setDesc("Which visualisation to show by defualt")
@@ -25638,27 +25684,25 @@ class BCSettingTab extends require$$0.PluginSettingTab {
                 await plugin.saveSettings();
             });
         });
-        const createIndexDetails = containerEl.createEl("details");
-        createIndexDetails.createEl("summary", { text: "Create Index" });
+        const createIndexDetails = details("Create Index");
         new require$$0.Setting(createIndexDetails)
             .setName("Add wiklink brackets")
-            .setDesc("When creating an index, should it wrap the note name in wikilinks `[[]]` or not. On = yes, off = no.")
+            .setDesc(fragWithHTML("When creating an index, should it wrap the note name in wikilinks <code>[[]]</code> or not.\n✅ = yes, ❌ = no."))
             .addToggle((toggle) => toggle.setValue(settings.wikilinkIndex).onChange(async (value) => {
             settings.wikilinkIndex = value;
             await plugin.saveSettings();
         }));
         new require$$0.Setting(createIndexDetails)
             .setName("Show aliases of notes in index")
-            .setDesc("Show the aliases of each note in brackets. On = yes, off = no.")
+            .setDesc("Show the aliases of each note in brackets.\n✅ = yes, ❌ = no.")
             .addToggle((toggle) => toggle.setValue(settings.aliasesInIndex).onChange(async (value) => {
             settings.aliasesInIndex = value;
             await plugin.saveSettings();
         }));
-        const debugDetails = containerEl.createEl("details");
-        debugDetails.createEl("summary", { text: "Debugging" });
+        const debugDetails = details("Debugging");
         new require$$0.Setting(debugDetails)
             .setName("Debug Mode")
-            .setDesc("Set the minimum level of debug messages to console log. If you choose `TRACE`, then everything will be logged. If you choose `ERROR`, then only the most necessary issues will be logged. `SILENT` will turn off all logs.")
+            .setDesc(fragWithHTML("Set the minimum level of debug messages to console log. If you choose <code>TRACE</code>, then everything will be logged. If you choose <code>ERROR</code>, then only the most necessary issues will be logged. <code>SILENT</code> will turn off all logs."))
             .addDropdown((dd) => {
             Object.keys(loglevel.levels).forEach((key) => dd.addOption(key, key));
             dd.setValue(settings.debugMode).onChange(async (value) => {
@@ -51566,7 +51610,8 @@ class BCPlugin extends require$$0.Plugin {
                 return;
             }
             const succInfo = mainG.mapInEdges(file.basename, (k, a, s, t) => {
-                const oppField = getOppFields(userHiers, a.field)[0];
+                var _a;
+                const oppField = (_a = getOppFields(userHiers, a.field)[0]) !== null && _a !== void 0 ? _a : fallbackOppField(a.field, a.dir);
                 return { succ: s, field: oppField };
             });
             for (const { succ, field } of succInfo) {
@@ -51579,7 +51624,12 @@ class BCPlugin extends require$$0.Plugin {
                     // TODO Check if this note already has this field
                     let content = await app.vault.read(file);
                     const splits = splitAtYaml(content);
-                    content = splits[0] + `\n${field}:: [[${succ}]]` + splits[1];
+                    content =
+                        splits[0] +
+                            (splits[0].length ? "\n" : "") +
+                            `${field}:: [[${succ}]]` +
+                            (splits[1].length ? "\n" : "") +
+                            splits[1];
                     await app.vault.modify(file, content);
                 }
             }
@@ -51869,8 +51919,47 @@ class BCPlugin extends require$$0.Plugin {
                 },
             });
         });
+        getFields(settings.userHiers).forEach((field) => {
+            this.addCommand({
+                id: `new-file-with-curr-as-${field}`,
+                name: `Create a new '${field}' from the current note`,
+                callback: async () => {
+                    var _a, _b;
+                    const { app } = this;
+                    const { userHiers, writeBCsInline } = settings;
+                    const currFile = app.workspace.getActiveFile();
+                    if (!currFile)
+                        return;
+                    const newFilePath = app.fileManager.getNewFileParent(currFile.path);
+                    const oppField = (_a = getOppFields(userHiers, field)[0]) !== null && _a !== void 0 ? _a : fallbackOppField(field, getFieldInfo(userHiers, field).fieldDir);
+                    const newFile = await app.vault.create(require$$0.normalizePath(`${newFilePath.path}/${field} of ${currFile.basename}.md`), writeBCsInline
+                        ? `${oppField}:: [[${currFile.basename}]]`
+                        : `---\n${oppField}: ['${currFile.basename}']\n---`);
+                    if (!writeBCsInline) {
+                        const { api } = (_b = app.plugins.plugins.metaedit) !== null && _b !== void 0 ? _b : {};
+                        if (!api) {
+                            new require$$0.Notice("Metaedit must be enabled to write to yaml. Alternatively, toggle the setting `Write Breadcrumbs Inline` to use Dataview inline fields instead.");
+                            return;
+                        }
+                        await createOrUpdateYaml(field, newFile.basename, currFile, app.metadataCache.getFileCache(currFile).frontmatter, api);
+                    }
+                    else {
+                        // TODO Check if this note already has this field
+                        let content = await app.vault.read(currFile);
+                        const splits = splitAtYaml(content);
+                        content =
+                            splits[0] +
+                                (splits[0].length ? "\n" : "") +
+                                `${field}:: [[${newFile.basename}]]` +
+                                (splits[1].length ? "\n" : "") +
+                                splits[1];
+                        await app.vault.modify(currFile, content);
+                    }
+                    app.workspace.activeLeaf.openFile(newFile);
+                },
+            });
+        });
         this.addRibbonIcon(addFeatherIcon("tv"), "Breadcrumbs Visualisation", () => new VisModal(this.app, this).open());
-        this.statusBatItemEl = this.addStatusBarItem();
         this.addSettingTab(new BCSettingTab(this.app, this));
     }
     getActiveTYPEView(type) {
@@ -52245,15 +52334,30 @@ class BCPlugin extends require$$0.Plugin {
         eligableAlts.forEach((altFile) => {
             const tagNoteFile = altFile.file;
             const tagNoteBasename = getDVBasename(tagNoteFile);
-            const tag = altFile[BC_TAG_NOTE].trim();
+            const tag = altFile[BC_TAG_NOTE].trim().toLowerCase();
             if (!tag.startsWith("#"))
                 return;
             const hasThisTag = (file) => {
-                var _a, _b, _c, _d, _e;
-                const cache = this.app.metadataCache.getFileCache(file);
-                return (((_a = cache === null || cache === void 0 ? void 0 : cache.tags) === null || _a === void 0 ? void 0 : _a.map((t) => t.tag).some((t) => t.includes(tag))) ||
-                    ((_c = (_b = cache === null || cache === void 0 ? void 0 : cache.frontmatter) === null || _b === void 0 ? void 0 : _b.tags) === null || _c === void 0 ? void 0 : _c.includes(tag.slice(1))) ||
-                    ((_e = (_d = cache === null || cache === void 0 ? void 0 : cache.frontmatter) === null || _d === void 0 ? void 0 : _d.tag) === null || _e === void 0 ? void 0 : _e.includes(tag.slice(1))));
+                var _a, _b;
+                const { tags, frontmatter } = this.app.metadataCache.getFileCache(file);
+                if (tags === null || tags === void 0 ? void 0 : tags.map((t) => t.tag.toLowerCase()).some((t) => t.includes(tag)))
+                    return true;
+                if (typeof (frontmatter === null || frontmatter === void 0 ? void 0 : frontmatter.tag) === "string") {
+                    if (frontmatter === null || frontmatter === void 0 ? void 0 : frontmatter.tag.toLowerCase().includes(tag.slice(1)))
+                        return true;
+                }
+                else {
+                    if ((_a = frontmatter === null || frontmatter === void 0 ? void 0 : frontmatter.tag) === null || _a === void 0 ? void 0 : _a.some((t) => t.toLowerCase().includes(tag.slice(1))))
+                        return true;
+                }
+                if (typeof (frontmatter === null || frontmatter === void 0 ? void 0 : frontmatter.tags) === "string") {
+                    if (frontmatter === null || frontmatter === void 0 ? void 0 : frontmatter.tags.toLowerCase().includes(tag.slice(1)))
+                        return true;
+                }
+                else {
+                    if ((_b = frontmatter === null || frontmatter === void 0 ? void 0 : frontmatter.tags) === null || _b === void 0 ? void 0 : _b.some((t) => t.toLowerCase().includes(tag.slice(1))))
+                        return true;
+                }
             };
             const targets = frontms
                 .map((ff) => ff.file)
@@ -52340,37 +52444,6 @@ class BCPlugin extends require$$0.Plugin {
                 this.populateMain(mainG, currSlice, dendronNoteField, nextSlice, sourceOrder, targetOrder, true);
             });
         }
-        // frontms.forEach((frontm) => {
-        //   const { file } = frontm;
-        //   const basename = getDVBasename(file);
-        //   // It could have the node from another means already, but that doesn't mean it should return...
-        //   // if (mainG.hasNode(basename)) return;
-        //   const splits = basename.split(dendronNoteDelimiter);
-        //   if (splits.length < 2) return;
-        //   const reversed = splits.reverse();
-        //   reversed.forEach((split, i) => {
-        //     const currSlice = reversed
-        //       .slice(i)
-        //       .reverse()
-        //       .join(dendronNoteDelimiter);
-        //     const nextSlice = reversed
-        //       .slice(i + 1)
-        //       .reverse()
-        //       .join(dendronNoteDelimiter);
-        //     if (!nextSlice) return;
-        //     const sourceOrder = this.getSourceOrder(frontm);
-        //     const targetOrder = this.getTargetOrder(frontms, nextSlice);
-        //     this.populateMain(
-        //       mainG,
-        //       currSlice,
-        //       dendronNoteField,
-        //       nextSlice,
-        //       sourceOrder,
-        //       targetOrder,
-        //       true
-        //     );
-        //   });
-        // });
     }
     async initGraphs() {
         const mainG = new graphology_umd_min.MultiGraph();
@@ -52468,22 +52541,12 @@ class BCPlugin extends require$$0.Plugin {
             }
             db.end2G();
             // !SECTION  Hierarchy Notes
-            console.time("Folder-Notes");
             this.addFolderNotesToGraph(eligableAlts[BC_FOLDER_NOTE], frontms, mainG);
-            console.timeEnd("Folder-Notes");
-            console.time("Tag-Notes");
             this.addTagNotesToGraph(eligableAlts[BC_TAG_NOTE], frontms, mainG);
-            console.timeEnd("Tag-Notes");
-            console.time("Link-Notes");
             this.addLinkNotesToGraph(eligableAlts[BC_LINK_NOTE], frontms, mainG);
-            console.timeEnd("Link-Notes");
             db.start1G("Traverse-Notes");
-            console.time("Traverse-Notes");
             this.addTraverseNotesToGraph(eligableAlts[BC_TRAVERSE_NOTE], frontms, mainG, this.buildObsGraph());
-            console.timeEnd("Traverse-Notes");
-            console.time("Dendron-Notes");
             this.addDendronNotesToGraph(frontms, mainG);
-            console.timeEnd("Dendron-Notes");
             db.end1G();
             files.forEach((file) => {
                 const { basename } = file;
@@ -52658,9 +52721,8 @@ class BCPlugin extends require$$0.Plugin {
             }
             else {
                 view = activeMDView.contentEl.querySelector("div.markdown-source-view");
-                if (view.hasClass("is-live-preview")) {
+                if (view.hasClass("is-live-preview"))
                     livePreview = true;
-                }
             }
             (_c = activeMDView.containerEl
                 .querySelectorAll(".BC-trail")) === null || _c === void 0 ? void 0 : _c.forEach((trail) => trail.remove());
@@ -52718,6 +52780,11 @@ class BCPlugin extends require$$0.Plugin {
                     cmSizer.before(trailDiv);
             }
             trailDiv.empty();
+            if (settings.indexNotes.includes(basename)) {
+                trailDiv.innerText = "Index Note";
+                db.end2G();
+                return;
+            }
             if (noItems) {
                 trailDiv.innerText = noPathMessage;
                 db.end2G();

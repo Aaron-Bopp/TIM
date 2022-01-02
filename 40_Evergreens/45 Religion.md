@@ -18,7 +18,6 @@
 			- [[The church will fail if christians keep aligning themselves with hate instead of love]]
 		- [[People have been conditioned to believe the bible has to be infallible]]    
 		- [[The bible is god breathed]]
-		- [[Loving a a non-believer requires loving the fact that they are going to hell]]
 		- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 		- [[The biblical Christian God is evil and does not deserve to be worshipped]]
 		- [[The actual work of being a good person isn't explored by Evangelicalism]]

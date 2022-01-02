@@ -12,9 +12,9 @@ sr-ease: 247
 
 I honestly think that the only way that the church can continue to exist is through throwing out the sanctity of the bible and cherry-picking it.  Church membership is down 40% in the past 30 years and its only gonna keep going down [^1]
 
-This is majorly due to [[The Politicization of the Christian Church]], but is also due to the inherent risk of such a [[Neuroscience|neurological]] powerful belief: [[Evangelicalism has commodified faith for profit]]
+This is majorly due to [[The Politicization of the Christian Church]], but is also due to the inherent risk of such a [[Neuroscience|neurological]] powerful belief: 
+[[Faith is an abstraction of cognitive dissonance]]
 
-#TO/EXPLORE/RESEARCH  does the rise in access to information through the internet impact [[belief systems]] and [[Christianity]], with the [[Rise of Conspiracy Culture]], people are turning to conspiracies instead of [[faith]] to satisfy their [[cognitive dissonance]], [[Q justifies conservatives discontent]], [[Humans are primarily irrational, illogical, emotional beings]] ^128168
 
 ### <hr class="footnote"/>
 

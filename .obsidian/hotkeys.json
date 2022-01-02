@@ -386,5 +386,23 @@
     }
   ],
   "various-complements:predictable-complements": [],
-  "various-complements:show-suggestions": []
+  "various-complements:show-suggestions": [],
+  "pane-relief:swap-next": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "pane-relief:swap-prev": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ]
 }

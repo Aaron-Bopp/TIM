@@ -28,7 +28,8 @@ You cannot fully [[blame]] them for this, as our brains are not really built to 
 
 ##### Counter:: [[faith]] is no longer enough to satisfy people's [[cognitive dissonance]]
 
-![[The church will fail if christians keep aligning themselves with hate instead of love#^128168]]
+#TO/EXPLORE/RESEARCH  does the rise in access to information through the internet impact [[belief systems]] and [[Christianity]], with the [[Rise of Conspiracy Culture]], people are turning to conspiracies instead of [[faith]] to satisfy their [[cognitive dissonance]], [[Q justifies conservatives discontent]], [[Humans are primarily irrational, illogical, emotional beings]] ^128168
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

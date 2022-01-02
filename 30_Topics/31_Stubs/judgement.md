@@ -2,7 +2,7 @@
 created: 2021-10-23
 aliases:
 - judged
-- judgment
+- judgmentful
 - judging
 tags: created/topic/2021/10/23, node/topic/stub
 ---

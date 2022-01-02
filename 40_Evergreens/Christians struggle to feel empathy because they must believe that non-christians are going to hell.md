@@ -15,17 +15,23 @@ Because [[free-will]] is so integral to loving god and avoiding punishment, it b
 ^[this is why [[Worldviews should not make life seem easy and simple]]]
 This plays a large part in the drive for evangelism and mission work, but it also changes [[Christianity|Christian]]'s relationships with others. 
 
+[[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]], 
+but [[Christianity|Christians]] are blocked from that understanding and by the impossible rules of their [[faith]]:
+[[Hard rules create cognitive bias]]
+
 If Christian's were feeling [[empathy]] fully for these people that would receive eternal punishment
 they wouldn't be able to go on,
 they wouldn't be able to do anything but evangelize or praise god for allowing them to be spared.
 Christians will find endless rationalizations around why this is something they can accept,
 because 
 [[Human's will find explanations for inexplainable things]].
-How can you love someone you know is condemned to death? How can you bear to live in a world where some people will suffer eternally? How can you bear it? This is the [[cognitive dissonance]] that [[Christianity]] causes: [[Faith is an abstraction of cognitive dissonance]]
+How can you love someone you know is condemned to death? How can you bear to live in a world where some people will suffer eternally? How can you bear it?
+This is the [[cognitive dissonance]] that [[Christianity]] causes: [[Faith is an abstraction of cognitive dissonance]]
 
-[[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]], 
-but [[Christianity|Christians]] are blocked from that understanding and by the impossible rules of their [[faith]]:
-[[Hard rules create cognitive bias]]
+[[Love]] has become a transaction that christians use to garner favor: 
+[[Evangelicalism has commodified faith for profit]]
+while the truly caring and empathetic people in the church have been pushed to hate instead of love:
+[[The church will fail if christians keep aligning themselves with hate instead of love]]
 
 ### <hr class="footnote"/>
 

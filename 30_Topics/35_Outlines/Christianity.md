@@ -19,7 +19,6 @@ aliases:
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - [[Are Jesus' teachings anti-thetical to the modern Christian church]]
 	- [[The church will fail if christians keep aligning themselves with hate instead of love]]
-	- [[Loving a a non-believer requires loving the fact that they are going to hell]]
 - [[Deconstruction (Christianity)]]
 	- [[My Deconstruction journey]]
 	- [[My worldview is not about conversion it is about acceptance]]

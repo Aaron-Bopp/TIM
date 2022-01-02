@@ -12,7 +12,7 @@ sr-ease: 230
 
 #TO/DO/WRITE Analogy of ticket salesman and confused customer
 
-While [[The brain is powerful enough to create supernatural experiences]], [[Christianity]] has commodified supernatural experiences for monetary gain. [[Capitalism]] has accelerated this and created modern [[Evangelicalism | charismatic church]] services which are the perfect environments for [[dissociation]] and [[panic attacks]]. It's all powered by [[guilt]], legitimate belief in a all-powerful god, and often emotional [[trauma]], and lots and lots of money. This is why Charismatic church's are especially prone to [[religious trauma]]: [[Religious concepts are often too powerful for a child's mind]] 
+While [[The brain is powerful enough to create supernatural experiences]], [[Christianity]] has commodified supernatural experiences for monetary gain. [[Capitalism]] has accelerated this and created the modern [[Evangelicalism|charismatic church]] services which are the perfect environments for [[dissociation]] and [[panic attacks]]. It's all powered by [[guilt]], legitimate belief in a all-powerful god, and often emotional [[trauma]], and lots and lots of money. This is why Charismatic church's are especially prone to [[religious trauma]]: [[Religious concepts are often too powerful for a child's mind]] 
 
 - [[The Politicization of the Christian Church]] #TO/TEND/GRAFT 
 	- [[People have been conditioned to believe the bible has to be infallible]]

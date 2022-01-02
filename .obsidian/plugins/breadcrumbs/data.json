@@ -59,6 +59,13 @@
   "showTrail": true,
   "showGrid": false,
   "showPrevNext": true,
+  "squareDirectionsOrder": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
   "limitTrailCheckboxes": [
     "up",
     "Area"

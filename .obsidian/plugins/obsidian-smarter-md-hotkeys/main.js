@@ -175,8 +175,17 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         const charsAfter = editor.getRange(offToPos(eo), offToPos(eo + aft.length));
         return charsBefore === bef && charsAfter === aft;
       }
-      const markupOutsideSel = () => isOutsideSel(frontMarkup, endMarkup);
       const multiLineMarkup = () => frontMarkup === "`" || frontMarkup === "%%" || frontMarkup === "<!--";
+      const markupOutsideSel = () => isOutsideSel(frontMarkup, endMarkup);
+      function markupOutsideMultiline(anchor, head) {
+        if (anchor.line === 0)
+          return false;
+        if (head.line === editor.lastLine())
+          return false;
+        const prevLineContent = editor.getLine(anchor.line - 1);
+        const followLineContent = editor.getLine(head.line + 1);
+        return prevLineContent.startsWith(frontMarkup) && followLineContent.startsWith(endMarkup);
+      }
       const noSel = () => !editor.somethingSelected();
       const multiLineSel = () => editor.getSelection().includes("\n");
       const noteLength = () => editor.getValue().length;
@@ -189,6 +198,17 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           offset = noteLength();
         return editor.offsetToPos(offset);
       };
+      function deleteLine(lineNo) {
+        if (lineNo < editor.lastLine()) {
+          const lineStart = { line: lineNo, ch: 0 };
+          const nextLineStart = { line: lineNo + 1, ch: 0 };
+          editor.replaceRange("", lineStart, nextLineStart);
+        } else {
+          const previousLineEnd = { line: lineNo - 1, ch: editor.getLine(lineNo).length };
+          const lineEnd = { line: lineNo, ch: editor.getLine(lineNo).length };
+          editor.replaceRange("", previousLineEnd, lineEnd);
+        }
+      }
       function log(msg, appendSelection) {
         if (!debug)
           return;
@@ -306,6 +326,13 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         trimSelection();
         return { anchor: preSelExpAnchor, head: preSelExpHead };
       }
+      function recalibratePos(pos) {
+        contentChangeList.forEach((change) => {
+          if (pos.line === change.line)
+            pos.ch += change.shift;
+        });
+        return pos;
+      }
       function applyMarkup(preSelExpAnchor, preSelExpHead, lineMode) {
         const selectedText = editor.getSelection();
         const so = startOffset();
@@ -316,12 +343,14 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           return;
         if (!markupOutsideSel()) {
           editor.replaceSelection(frontMarkup + selectedText + endMarkup);
+          contentChangeList.push({ line: anchor.line, shift: blen }, { line: head.line, shift: alen });
           anchor.ch += blen;
           head.ch += blen;
         }
         if (markupOutsideSel()) {
           editor.setSelection(offToPos(so - blen), offToPos(eo + alen));
           editor.replaceSelection(selectedText);
+          contentChangeList.push({ line: anchor.line, shift: -blen }, { line: head.line, shift: -alen });
           anchor.ch -= blen;
           head.ch -= blen;
         }
@@ -330,22 +359,30 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
       }
       function wrapMultiLine() {
         const selAnchor = editor.getCursor("from");
+        selAnchor.ch = 0;
         const selHead = editor.getCursor("to");
+        selHead.ch = editor.getLine(selHead.line).length;
         if (frontMarkup === "`") {
           frontMarkup = "```";
           endMarkup = "```";
+          alen = 3;
+          blen = 3;
         }
-        selAnchor.ch = 0;
-        editor.setSelection(selAnchor);
-        editor.replaceSelection(frontMarkup + "\n");
-        selHead.ch = 0;
-        selHead.line = selHead.line + 2;
-        editor.setSelection(selHead);
-        editor.replaceSelection(endMarkup + "\n");
-        if (frontMarkup === "```") {
-          const languageDefPos = selAnchor;
-          languageDefPos.ch = 3;
-          editor.setSelection(languageDefPos);
+        if (!markupOutsideMultiline(selAnchor, selHead)) {
+          editor.setSelection(selAnchor);
+          editor.replaceSelection(frontMarkup + "\n");
+          selHead.line++;
+          editor.setSelection(selHead);
+          editor.replaceSelection("\n" + endMarkup);
+          if (frontMarkup === "```") {
+            const languageDefPos = selAnchor;
+            languageDefPos.ch = 3;
+            editor.setSelection(languageDefPos);
+          }
+        }
+        if (markupOutsideMultiline(selAnchor, selHead)) {
+          deleteLine(selAnchor.line - 1);
+          deleteLine(selHead.line + 1);
         }
       }
       function insertURLtoMDLink() {
@@ -366,35 +403,42 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
       log("\nSmarterMD Hotkeys triggered\n---------------------------");
       if (endMarkup === "]()")
         [frontMarkup, endMarkup] = yield insertURLtoMDLink();
-      const [blen, alen] = [frontMarkup.length, endMarkup.length];
-      trimSelection();
-      if (!multiLineSel()) {
-        log("single line");
-        const { anchor: preSelExpAnchor, head: preSelExpHead } = expandToWordBoundary();
-        applyMarkup(preSelExpAnchor, preSelExpHead, "single");
-        return;
-      }
-      if (multiLineSel() && multiLineMarkup()) {
-        log("Multiline Wrap");
-        wrapMultiLine();
-        return;
-      }
-      if (multiLineSel() && !multiLineMarkup()) {
-        let pointerOff = startOffset();
-        const lines = editor.getSelection().split("\n");
-        log("lines: " + lines.length.toString());
-        lines.forEach((line) => {
-          console.log("");
-          editor.setSelection(offToPos(pointerOff), offToPos(pointerOff + line.length));
+      let [blen, alen] = [frontMarkup.length, endMarkup.length];
+      const contentChangeList = [];
+      const allCursors = editor.listSelections();
+      allCursors.forEach((sel) => {
+        sel.anchor = recalibratePos(sel.anchor);
+        sel.head = recalibratePos(sel.head);
+        editor.setSelection(sel.anchor, sel.head);
+        trimSelection();
+        if (!multiLineSel()) {
+          log("single line");
           const { anchor: preSelExpAnchor, head: preSelExpHead } = expandToWordBoundary();
-          pointerOff += line.length + 1;
-          if (markupOutsideSel())
-            pointerOff -= blen + alen;
-          else
-            pointerOff += blen + alen;
-          applyMarkup(preSelExpAnchor, preSelExpHead, "multi");
-        });
-      }
+          applyMarkup(preSelExpAnchor, preSelExpHead, "single");
+          return;
+        }
+        if (multiLineSel() && multiLineMarkup()) {
+          log("Multiline Wrap");
+          wrapMultiLine();
+          return;
+        }
+        if (multiLineSel() && !multiLineMarkup()) {
+          let pointerOff = startOffset();
+          const lines = editor.getSelection().split("\n");
+          log("lines: " + lines.length.toString());
+          lines.forEach((line) => {
+            console.log("");
+            editor.setSelection(offToPos(pointerOff), offToPos(pointerOff + line.length));
+            const { anchor: preSelExpAnchor, head: preSelExpHead } = expandToWordBoundary();
+            pointerOff += line.length + 1;
+            if (markupOutsideSel())
+              pointerOff -= blen + alen;
+            else
+              pointerOff += blen + alen;
+            applyMarkup(preSelExpAnchor, preSelExpHead, "multi");
+          });
+        }
+      });
     });
   }
 };
