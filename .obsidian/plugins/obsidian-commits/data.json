@@ -10603,7 +10603,7 @@
     "30_Topics/32_Terms/karma.md": {
       "size": 383,
       "tags": 2,
-      "links": 3
+      "links": 4
     },
     "30_Topics/32_Terms/neuroticism.md": {
       "size": 433,
@@ -11251,9 +11251,9 @@
       "links": 19
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md": {
-      "size": 694,
+      "size": 811,
       "tags": 2,
-      "links": 7
+      "links": 10
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Dietary Guidance in Ayurveda.md": {
       "size": 419,
@@ -11336,9 +11336,9 @@
       "links": 5
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md": {
-      "size": 392,
+      "size": 577,
       "tags": 2,
-      "links": 7
+      "links": 9
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md": {
       "size": 2518,
@@ -12054,14 +12054,24 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "30_Topics/31_Stubs/notes_Dharma.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/performance.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 2928,
-      "Create": 3468,
-      "Link": 6879,
-      "Expand": 685
+      "Create": 3470,
+      "Link": 6886,
+      "Expand": 687
     },
     "40_Evergreens": {
       "Refactor": 266,
@@ -12088,8 +12098,8 @@
       "13": 336,
       "14": 2381,
       "15": 229,
-      "16": 1233,
-      "17": 2763,
+      "16": 1239,
+      "17": 2768,
       "18": 2267,
       "19": 493,
       "20": 203,
@@ -12132,7 +12142,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5636
+      "Sun": 5647
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12147,6 +12157,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dukkha.md\"> notes_Dukkha </a>",
@@ -12195,11 +12207,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
         "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
-        "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>"
+        "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/performance.md\"> performance </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/peace.md\"> peace </a>",
         "<a class=\"internal-link\" href=\"Sukkha.md\"> Sukkha </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change is based off of things that you can't control.md\"> Radicalization is when you are convinced that the things you need to change is based off of things that you can't control </a>",
@@ -12248,9 +12260,7 @@
         "<a class=\"internal-link\" href=\"Respect for the subconscious.md\"> Respect for the subconscious </a>",
         "<a class=\"internal-link\" href=\"Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>",
         "<a class=\"internal-link\" href=\"Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>",
-        "<a class=\"internal-link\" href=\"Highly evolutionary view.md\"> Highly evolutionary view </a>",
-        "<a class=\"internal-link\" href=\"Early society is both familiar and unfamiliar.md\"> Early society is both familiar and unfamiliar </a>",
-        "<a class=\"internal-link\" href=\"Emergence of capitalism.md\"> Emergence of capitalism </a>"
+        "<a class=\"internal-link\" href=\"Highly evolutionary view.md\"> Highly evolutionary view </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sukkha.md\"> Sukkha </a>",
@@ -12306,6 +12316,8 @@
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Dharma.md\"> notes_Dharma </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/performance.md\"> performance </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/peace.md\"> peace </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sukkha.md\"> Sukkha </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
@@ -12354,9 +12366,7 @@
         "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>",
         "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>",
         "<a class=\"internal-link\" href=\"Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>",
-        "<a class=\"internal-link\" href=\"European colonialism.md\"> European colonialism </a>",
-        "<a class=\"internal-link\" href=\"Emergence of capitalism.md\"> Emergence of capitalism </a>",
-        "<a class=\"internal-link\" href=\"Early society is both familiar and unfamiliar.md\"> Early society is both familiar and unfamiliar </a>"
+        "<a class=\"internal-link\" href=\"European colonialism.md\"> European colonialism </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12456,6 +12466,11 @@
         "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/karma.md\"> karma </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dvesha.md\"> Dvesha </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Raga.md\"> Raga </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
@@ -12501,12 +12516,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterrent for deconstructing your faith.md\"> Fear cannot be a deterrent for deconstructing your faith </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Overview of Meditation Module.md\"> notes_Overview of Meditation Module </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/201 Welcome.md\"> 201 Welcome </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",

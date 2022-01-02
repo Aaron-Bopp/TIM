@@ -17,3 +17,8 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Grahastha Ashram]]
 - [[Vanaprastha Ashram]]
 - [[Sannyasa Ashram]]
+
+## Notes
+- [[karma]] is something is presented to you
+- [[Dharma]] is linked to [[karma]] so pay attention to your [[karma]]
+- Fill a page with what you think is wrong with the world

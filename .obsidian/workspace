@@ -9,32 +9,32 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 1,
           "stack": [
             {
               "leaf": "3d77b9e32eaddffa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":41},\"to\":{\"line\":19,\"ch\":41}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/karma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":18},\"to\":{\"line\":10,\"ch\":18}}}"
             },
             {
               "leaf": "3d77b9e32eaddffa",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":7},\"to\":{\"line\":21,\"ch\":7}}}"
             },
             {
               "leaf": "3d77b9e32eaddffa",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":36},\"to\":{\"line\":24,\"ch\":36}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":22},\"to\":{\"line\":28,\"ch\":22}},\"scroll\":0}"
             },
             {
               "leaf": "3d77b9e32eaddffa",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md"
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md"
               }
             },
             "pane-relief:history-v1": {
@@ -324,7 +324,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -436,6 +436,8 @@
   },
   "active": "3d77b9e32eaddffa",
   "lastOpenFiles": [
+    "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
+    "30_Topics/32_Terms/karma.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
     "10_Sources/Mental Health/videoHow We're Shaped Mentally.md",
     "30_Topics/32_Terms/Dvesha.md",
@@ -443,8 +445,6 @@
     "10_Sources/course_Dr. K's Guide to Mental Health.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Dukkha.md",
     "30_Topics/32_Terms/Sukkha.md",
-    "30_Topics/32_Terms/source notes.md",
-    "00_Meta/Templates/SOURCETEMPLATE.md",
-    "30_Topics/32_Terms/Dukkha.md"
+    "30_Topics/32_Terms/source notes.md"
   ]
 }

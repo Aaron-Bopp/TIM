@@ -19,10 +19,14 @@ tags: created/source/2021/12/30, node/source/notes
 
 ## Notes
 - the [[mind]] is attracted to some things ([[Raga]]) and repulsed by other things ([[Dvesha]])
-- when we act in accordance with our [[Dharma]] is what allows us to do the hard thing
-	- 
 - We want to retreat from negative stimuli
+- when we act in accordance with our [[Dharma]] it allows us to do the hard thing
+	- [[performance]] isn't a [[Dharma]]
+		- ex medical school isn't grades it is about becoming a doctor that people can depend on
+- how to find [[Dharma]]
+	- tied to your [[karma]]
 
+next:: [[notes_Karma]]
 
 
 **References and further reading**  
