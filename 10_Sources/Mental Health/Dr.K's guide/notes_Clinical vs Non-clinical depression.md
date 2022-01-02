@@ -23,10 +23,13 @@ tags: created/source/2021/12/30, node/source/notes
 	- responds to [[mind]] [[body]] techniques like [[yoga]]
 	- the [[brain]] is lying to you, we can't follow it's inclinition
 - [[Congruent Depression]] defined by [[Dr. K]]
-	- i've been depressed since I was a teenager
-	- their [[brain]] isn't malfunctioning, they are just stuck in life
+	- "i've been depressed since I was a teenager"
+		- their [[brain]] isn't malfunctioning, they are just stuck in life
 	- [[brain]] is just recognizing what is real
 		- path out is through [[realization]], [[conversion]], [[Jnana]] of our [[human experience]]
 - We may have over-medicalized [[depression]]
 	- [[society]] has become more depressed because of [[existential dread]]
 next:: [[notes_Neuroscience of Depression]]
+next:: [[notes_Congruent Depression]]
+next:: [[notes_Intro to Ayurveda]]
+next:: [[notes_General Differntial Diagnosis]]

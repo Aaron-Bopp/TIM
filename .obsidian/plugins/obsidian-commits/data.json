@@ -11213,7 +11213,7 @@
     "10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md": {
       "size": 1152,
       "tags": 2,
-      "links": 17
+      "links": 20
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_cognitive Anxiety.md": {
       "size": 374,
@@ -12050,7 +12050,7 @@
     "/": {
       "Refactor": 2920,
       "Create": 3462,
-      "Link": 6858,
+      "Link": 6859,
       "Expand": 672
     },
     "40_Evergreens": {
@@ -12076,7 +12076,7 @@
       "11": 239,
       "12": 596,
       "13": 336,
-      "14": 2380,
+      "14": 2381,
       "15": 208,
       "16": 1207,
       "17": 2763,
@@ -12122,7 +12122,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5588
+      "Sun": 5589
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12446,6 +12446,7 @@
         "<a class=\"internal-link\" href=\"Vanaprastha Ashram.md\"> Vanaprastha Ashram </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
@@ -12495,8 +12496,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md\"> The biblical Christian God is evil and does not deserve to be worshipped </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political failure was due to lack of activism and poltical inneficacy.md\"> Yang's political failure was due to lack of activism and poltical inneficacy </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
