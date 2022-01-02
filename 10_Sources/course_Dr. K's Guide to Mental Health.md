@@ -40,9 +40,9 @@ type:
 - [[notes_System of Mind]]
 - [[notes_Intro to Mantra Practice]]
 - [[notes_Depression module overview]]
-## Unwatched
 - [[notes_Knowledge of the Mind]]
 - [[notes_Vidya and Jnana]]
+## Unwatched
 - [[notes_Karma Fal]]
 - [[notes_Reframing Goals to Actions]]
 - [[notes_Origin of Motivation]]

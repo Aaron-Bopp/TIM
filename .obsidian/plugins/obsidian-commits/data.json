@@ -11221,9 +11221,9 @@
       "links": 6
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md": {
-      "size": 326,
+      "size": 508,
       "tags": 2,
-      "links": 3
+      "links": 5
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Conditional Love.md": {
       "size": 368,
@@ -11236,9 +11236,9 @@
       "links": 4
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md": {
-      "size": 353,
+      "size": 753,
       "tags": 2,
-      "links": 4
+      "links": 11
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Dealing with Samskaras.md": {
       "size": 378,
@@ -12015,16 +12015,6 @@
       "tags": 2,
       "links": 0
     },
-    "notes_Depression module overview.md": {
-      "size": 1197,
-      "tags": 2,
-      "links": 22
-    },
-    "30_Topics/31_Stubs/notes_Depression module overview.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
     "30_Topics/31_Stubs/India.md": {
       "size": 0,
       "tags": 2,
@@ -12044,14 +12034,19 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "10_Sources/Mental Health/Dr.K's guide/notes_Depression module overview.md": {
+      "size": 1197,
+      "tags": 2,
+      "links": 22
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2920,
-      "Create": 3462,
-      "Link": 6859,
-      "Expand": 672
+      "Refactor": 2925,
+      "Create": 3465,
+      "Link": 6864,
+      "Expand": 677
     },
     "40_Evergreens": {
       "Refactor": 265,
@@ -12077,7 +12072,7 @@
       "12": 596,
       "13": 336,
       "14": 2381,
-      "15": 208,
+      "15": 226,
       "16": 1207,
       "17": 2763,
       "18": 2267,
@@ -12122,7 +12117,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5589
+      "Sun": 5607
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12137,6 +12132,11 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\"> notes_Cognitive Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
+        "<a class=\"internal-link\" href=\"Characters.md\"> Characters </a>",
+        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
+        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Default Mode Network (DMN).md\"> Default Mode Network (DMN) </a>",
@@ -12182,14 +12182,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
-        "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
-        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
-        "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hatha Yoga.md\"> Hatha Yoga </a>"
+        "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Characters.md\"> Characters </a>",
+        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
+        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
         "<a class=\"internal-link\" href=\"norepinephrine.md\"> norepinephrine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-awareness.md\"> self-awareness </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/India.md\"> India </a>",
@@ -12237,12 +12235,10 @@
         "<a class=\"internal-link\" href=\"Emergence of capitalism.md\"> Emergence of capitalism </a>",
         "<a class=\"internal-link\" href=\"European colonialism.md\"> European colonialism </a>",
         "<a class=\"internal-link\" href=\"Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>",
-        "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>",
-        "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>",
-        "<a class=\"internal-link\" href=\"State Emergence.md\"> State Emergence </a>",
-        "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>"
+        "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Depression module overview.md\"> notes_Depression module overview </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/norepinephrine.md\"> norepinephrine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/(DSM).md\"> (DSM) </a>",
@@ -12292,8 +12288,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Progress requires change.md\"> Progress requires change </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/People easily ignore history.md\"> People easily ignore history </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-awareness.md\"> self-awareness </a>",
@@ -12393,6 +12388,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Depression module overview.md\"> notes_Depression module overview </a>",
+        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
+        "<a class=\"internal-link\" href=\"Characters.md\"> Characters </a>",
+        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
@@ -12439,13 +12438,14 @@
         "<a class=\"internal-link\" href=\"Vishuddha Chakra.md\"> Vishuddha Chakra </a>",
         "<a class=\"internal-link\" href=\"Vikruti.md\"> Vikruti </a>",
         "<a class=\"internal-link\" href=\"Vijnanamaya Kosha.md\"> Vijnanamaya Kosha </a>",
-        "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>",
-        "<a class=\"internal-link\" href=\"Ventral Medial Prefrontal Cortex.md\"> Ventral Medial Prefrontal Cortex </a>",
-        "<a class=\"internal-link\" href=\"Vedic Psychology.md\"> Vedic Psychology </a>",
-        "<a class=\"internal-link\" href=\"Vata.md\"> Vata </a>",
-        "<a class=\"internal-link\" href=\"Vanaprastha Ashram.md\"> Vanaprastha Ashram </a>"
+        "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\"> notes_Cognitive Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
+        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
@@ -12491,12 +12491,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not disallow judgment.md\"> Empathy does not disallow judgment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md\"> The biblical Christian God is evil and does not deserve to be worshipped </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",

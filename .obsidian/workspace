@@ -4,73 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "320816411ebc5177",
+        "id": "3d77b9e32eaddffa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md",
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "320816411ebc5177",
+              "leaf": "3d77b9e32eaddffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Abortion and immigration are detrimental to white supremacy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":147},\"to\":{\"line\":14,\"ch\":147}}}"
+            },
+            {
+              "leaf": "3d77b9e32eaddffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3d77b9e32eaddffa",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":37},\"to\":{\"line\":24,\"ch\":37}},\"scroll\":0}"
             },
             {
-              "leaf": "320816411ebc5177",
+              "leaf": "3d77b9e32eaddffa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":48},\"to\":{\"line\":10,\"ch\":48}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":0},\"to\":{\"line\":42,\"ch\":0}},\"scroll\":63.19921427188854}"
             },
             {
-              "leaf": "320816411ebc5177",
+              "leaf": "3d77b9e32eaddffa",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "320816411ebc5177",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Bipolar Disorder.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":22},\"to\":{\"line\":16,\"ch\":22}},\"scroll\":0}"
-            },
-            {
-              "leaf": "320816411ebc5177",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Mood Lability.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "320816411ebc5177",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "320816411ebc5177",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":35.03469271284912}"
-            },
-            {
-              "leaf": "320816411ebc5177",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "320816411ebc5177",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/NoradrenalineNorepinephrine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -156,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md"
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md"
               }
             },
             "pane-relief:history-v1": {
@@ -318,7 +294,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -428,17 +404,17 @@
     "width": 930.9945068359375,
     "collapsed": true
   },
-  "active": "320816411ebc5177",
+  "active": "3d77b9e32eaddffa",
   "lastOpenFiles": [
+    "10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md",
+    "40_Evergreens/Abortion and immigration are detrimental to white supremacy.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Bipolar Disorder.md",
-    "30_Topics/32_Terms/Mood Lability.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md",
-    "30_Topics/32_Terms/NoradrenalineNorepinephrine.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md",
-    "30_Topics/32_Terms/Ketamine.md",
-    "30_Topics/31_Stubs/norepinephrine.md",
-    "30_Topics/32_Terms/Default Mode Network (DMN).md"
+    "10_Sources/johnf.dovidioReducingIntergroupBias2017 - Extracted Annotations (1242021, 95940 AM)Contact theory and research provides a comprehensive conceptual foundation.md",
+    "10_Sources/course_Dr. K's Guide to Mental Health.md",
+    "30_Topics/31_Stubs/notes_Depression module overview.md",
+    "90_Personal/91 Daily Notes/2022-01-02.md",
+    "30_Topics/Activating Ajna Chakra.md",
+    "30_Topics/Topic Hierarchy.md",
+    "Sirithil Primer.txt"
   ]
 }

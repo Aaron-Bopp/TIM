@@ -14,3 +14,13 @@ tags: created/source/2021/12/30, node/source/notes
 
 #### Terms
 - [[Congruent Depression]]
+
+## Notes
+- two weeks to a year where a person's state is [[depression]]
+- [[Humans are a product of evolution]]
+	- There must be a reason that the ability to become depressed for a period of time must have been selected
+	- what is the [[Evolutionary Psychology]] of have a period of limbo
+		- [[depression]] is you [[mind]] [[body]] [[soul]]'s way of telling you something is missing in your life
+	- How do we find the thing
+next:: [[notes_Cognitive Depression]]
+	

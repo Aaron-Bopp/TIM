@@ -13,3 +13,11 @@ tags: created/source/2021/12/30, node/source/notes
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/cognitive-depression)
 
 #### Terms
+- What are the cognitive features of the depressed [[mind]]
+	- stuck in the past
+	- negative self-attitude
+		- worthlessness
+		- powerlessness
+		- hopelessness
+	- low [[motivation]]
+- 
