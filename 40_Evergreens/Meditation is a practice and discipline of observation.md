@@ -10,6 +10,11 @@ sr-ease: 210
 
 #### [[Meditation is a practice and discipline of observation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+When Western researcher's started studying the science behind [[meditation]] and [[yoga]] they tried to distill these practices into one thing: 
+^[[[notes_History of Meditation]]]
+[[mindfulness]]
+
+
 - [[Dual Nostril Breathing Meditation]]
 - [[Flamingo Pose Meditation]]
  #TO/DO/CONCEPTUALIZE videos from dr.k

@@ -20,6 +20,7 @@ type:
 - intersection of researchers and meditation practices
 	- researchers saw that [[mindfulness]] was the at the core of all [[meditation]] practices, but they lost a lot of the nuance
 	- they also moved away from the [[religion|religious]] aspects and lost the [[spirituality|spiritual]] roots ([[secularism|secularized]])
+### [[Meditation increases our ability to influence the world]]
 - [[meditation]] began 5000 years ago in [[India]]
 	- [[Tantra]] for anything to manifest we need direction and fuel
 		- [[mantra]], [[Yantra]], [[Yajna]] are both, and form the basis of [[yoga]]

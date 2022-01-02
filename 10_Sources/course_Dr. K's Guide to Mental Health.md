@@ -26,6 +26,7 @@ type:
 - [[Meditation is a practice to develop a stronger conscious]]
 - [[Meditation is a practice and discipline of observation]]
 - [[How to develop a meditation practice]]
+- [[Meditation improves mental, physical, and emotional health]]
 
 # Source notes
 ## Watched

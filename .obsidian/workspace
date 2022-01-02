@@ -4,12 +4,222 @@
     "type": "split",
     "children": [
       {
+        "id": "c34e244673f5aeb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/notes_History of Meditation.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c34e244673f5aeb5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/notes_History of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":34},\"to\":{\"line\":29,\"ch\":34}},\"scroll\":40.19921346122955}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "29255a97941fd4fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00_Meta/Templates/Daily note.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "29255a97941fd4fb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/Daily note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "29255a97941fd4fb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":9.782608218395751}"
+            },
+            {
+              "leaf": "29255a97941fd4fb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/notes_History of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":61},\"to\":{\"line\":22,\"ch\":61}},\"scroll\":13.908966770356713}"
+            },
+            {
+              "leaf": "29255a97941fd4fb",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "bb1ecf48f0eb6732",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "90_Personal/91 Daily Notes/2022-01-02.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "bb1ecf48f0eb6732",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2022-01-02.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "bb1ecf48f0eb6732",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Develop Obsidian plugins.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":11.478260632582717}"
+            },
+            {
+              "leaf": "bb1ecf48f0eb6732",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dataview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":32.46334418286072}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "67c0a64220635f47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00_Meta/Templates/PERSON.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "67c0a64220635f47",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/PERSON.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":48},\"to\":{\"line\":0,\"ch\":79}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "6e27fec62d773538",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Meditation helps us regulate our hormonal environment.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6e27fec62d773538",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.782608369801237}"
+            },
+            {
+              "leaf": "6e27fec62d773538",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1de8f64d998a25a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "1de8f64d998a25a1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":41},\"to\":{\"line\":53,\"ch\":41}},\"scroll\":45.5219376421225}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "82377d96893132f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "82377d96893132f0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our nervous system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":8.695651884267766}"
+            },
+            {
+              "leaf": "82377d96893132f0",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
         "id": "4aebf3bb8931730c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Worlds views should be open ended and adaptive.md",
+            "file": "Meditation is a practice to develop a stronger conscious.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +231,32 @@
             {
               "leaf": "4aebf3bb8931730c",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Meditation is a practice to develop a stronger conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":24},\"to\":{\"line\":20,\"ch\":24}},\"scroll\":4.347825942133883}"
+            },
+            {
+              "leaf": "4aebf3bb8931730c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice and discipline of observation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":12.976222714744267}"
+            },
+            {
+              "leaf": "4aebf3bb8931730c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Meditation is a practice to develop a stronger conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":24},\"to\":{\"line\":14,\"ch\":24}},\"scroll\":10.268746103220643}"
+            },
+            {
+              "leaf": "4aebf3bb8931730c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There is a difference between thinking and creating.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":33},\"to\":{\"line\":21,\"ch\":33}}}"
+            },
+            {
+              "leaf": "4aebf3bb8931730c",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds views should be open ended and adaptive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "4aebf3bb8931730c",
@@ -95,47 +329,95 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "0c6fb82333b64770",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0c6fb82333b64770",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "dfd475d6c47d8faf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "dfd475d6c47d8faf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "4aebf3bb8931730c",
+              "leaf": "dfd475d6c47d8faf",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Belief is an addiction.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":8.695651884267766}"
+            },
+            {
+              "leaf": "dfd475d6c47d8faf",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "153adbdd722b8cda",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Metaphysics of Meditation.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "153adbdd722b8cda",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Metaphysics of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.822009830606785}"
             },
             {
-              "leaf": "4aebf3bb8931730c",
+              "leaf": "153adbdd722b8cda",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "4aebf3bb8931730c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "4aebf3bb8931730c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds views should be open ended and adaptive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "4aebf3bb8931730c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "4aebf3bb8931730c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes vary in size and scope.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "4aebf3bb8931730c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -189,7 +471,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds views should be open ended and adaptive.md",
+                "file": "90_Personal/91 Daily Notes/2022-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +504,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worlds views should be open ended and adaptive.md",
+                "file": "90_Personal/91 Daily Notes/2022-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +530,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -268,7 +550,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worlds views should be open ended and adaptive.md"
+                "file": "90_Personal/91 Daily Notes/2022-01-02.md"
               }
             },
             "pane-relief:history-v1": {
@@ -404,7 +686,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Worlds views should be open ended and adaptive.md",
+                "file": "90_Personal/91 Daily Notes/2022-01-02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -511,19 +793,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 930.9945068359375
+    "width": 930.9945068359375,
+    "collapsed": true
   },
-  "active": "4aebf3bb8931730c",
+  "active": "bb1ecf48f0eb6732",
   "lastOpenFiles": [
-    "Worlds views should be open ended and adaptive.md",
+    "90_Personal/91 Daily Notes/2022-01-02.md",
+    "40_Evergreens/Develop Obsidian plugins.md",
+    "00_Meta/Templates/Daily note.md",
+    "30_Topics/33_Tools/Dataview.md",
+    "00_Meta/Templates/PERSON.md",
+    "40_Evergreens/Meditation increases our ability to influence the world.md",
+    "10_Sources/Mental Health/notes_History of Meditation.md",
     "Meditation is a practice to develop a stronger conscious.md",
-    "40_Evergreens/There is a difference between thinking and creating.md",
-    "Meditation helps us detach negative attachments.md",
-    "Meditation helps us gain control over our emotions.md",
-    "40_Evergreens/Whiteness was created to marginalize people of color.md",
-    "40_Evergreens/The triad of ever increasing social anxiety.md",
-    "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
-    "40_Evergreens/Sadness is enlightenment and happiness is delusion.md",
-    "40_Evergreens/Strong enough logic becomes belief.md"
+    "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
+    "40_Evergreens/Meditation helps us regulate our nervous system.md"
   ]
 }
