@@ -1,7 +1,7 @@
 - [[48 Technology]]
 	- [[internet]]
 		- [[The internet allows niche topics to flourish]]
-		- [[Tiktok creates a false sense of unbreakable, expansive, and influential communities]]
+		- [[Social media creates a false sense of unbreakable, expansive, and influential communities]]
 	- [[Obsidian (software)]]
 		- [[markup]]
 			- [[Parsing markup text for Obsidian projects]]

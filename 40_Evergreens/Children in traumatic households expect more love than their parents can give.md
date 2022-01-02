@@ -22,6 +22,7 @@ The parents are unable to give [[unconditional love]] because they are showing t
 This is why [[A inwardly judgmental and outwardly accepting home creates trust issues]]
 
 For more: [[How can parent's best help their children]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

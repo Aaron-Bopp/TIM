@@ -8197,13 +8197,13 @@
     },
     "40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md": {
       "size": 1643,
-      "tags": 4,
+      "tags": 3,
       "links": 15
     },
     "40_Evergreens/Evangelicalism has commodified faith for profit.md": {
-      "size": 1531,
-      "tags": 5,
-      "links": 19
+      "size": 2036,
+      "tags": 4,
+      "links": 21
     },
     "40_Evergreens/Hard rules create cognitive bias.md": {
       "size": 1322,
@@ -8384,11 +8384,6 @@
       "size": 750,
       "tags": 2,
       "links": 2
-    },
-    "40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md": {
-      "size": 1368,
-      "tags": 4,
-      "links": 9
     },
     "10_Sources/Readwise/Articles/articles_That Is Not How Your Brain Works - Issue 111 Spotlight - Nautilus.md": {
       "size": 684,
@@ -11904,20 +11899,30 @@
       "size": 0,
       "tags": 3,
       "links": 1
+    },
+    "40_Evergreens/Social media creates a false sense of unbreakable, expansive, and influential communities.md": {
+      "size": 1660,
+      "tags": 3,
+      "links": 9
+    },
+    "30_Topics/34_People/@hankgreen on Twitter.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2805,
-      "Create": 3433,
-      "Link": 6719,
-      "Expand": 634
+      "Refactor": 2810,
+      "Create": 3434,
+      "Link": 6722,
+      "Expand": 636
     },
     "40_Evergreens": {
-      "Refactor": 220,
+      "Refactor": 224,
       "Create": 48,
-      "Link": 790,
-      "Expand": 304
+      "Link": 792,
+      "Expand": 306
     }
   },
   "dailyCommits": {
@@ -11942,7 +11947,7 @@
       "17": 2763,
       "18": 2267,
       "19": 493,
-      "20": 192,
+      "20": 203,
       "21": 708,
       "22": 551,
       "23": 364
@@ -11968,7 +11973,7 @@
       "17": 317,
       "18": 19,
       "19": 94,
-      "20": 43,
+      "20": 51,
       "21": 64,
       "22": 16,
       "23": 59
@@ -11982,7 +11987,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5267
+      "Sun": 5278
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -11991,12 +11996,14 @@
       "Thu": 284,
       "Fri": 182,
       "Sat": 0,
-      "Sun": 491
+      "Sun": 499
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
@@ -12045,11 +12052,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"@hankgreen on Twitter.md\"> @hankgreen on Twitter </a>",
         "<a class=\"internal-link\" href=\"There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
         "<a class=\"internal-link\" href=\"Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>",
         "<a class=\"internal-link\" href=\"progress requires respect.md\"> progress requires respect </a>",
@@ -12099,10 +12105,11 @@
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2021-12-31.md\"> 2021-12-31 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/hierarchy.md\"> hierarchy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"prayer beads.md\"> prayer beads </a>",
-        "<a class=\"internal-link\" href=\"JApa.md\"> JApa </a>"
+        "<a class=\"internal-link\" href=\"prayer beads.md\"> prayer beads </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/@hankgreen on Twitter.md\"> @hankgreen on Twitter </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social media creates a false sense of unbreakable, expansive, and influential communities.md\"> Social media creates a false sense of unbreakable, expansive, and influential communities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/ego.md\"> ego </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/ego.md\"> ego </a>",
@@ -12151,11 +12158,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/ADHD.md\"> ADHD </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_1920's General Notes.md\"> notes_1920's General Notes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_1930's General Notes.md\"> notes_1930's General Notes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1940's General Notes.md\"> notes_1940's General Notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/course_US History from 1870.md\"> course_US History from 1870 </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/History/notes_2000's General Notes.md\"> notes_2000's General Notes </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/History/notes_1940's General Notes.md\"> notes_1940's General Notes </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/@hankgreen on Twitter.md\"> @hankgreen on Twitter </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
         "<a class=\"internal-link\" href=\"People easily ignore history.md\"> People easily ignore history </a>",
@@ -12205,8 +12211,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/senses.md\"> senses </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dataview.md\"> Dataview </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hierarchy.md\"> hierarchy </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dataview.md\"> Dataview </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12306,6 +12311,8 @@
         "<a class=\"internal-link\" href=\"Vajrayana Buddhism.md\"> Vajrayana Buddhism </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
@@ -12354,11 +12361,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hatha Yoga.md\"> Hatha Yoga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Jnana Yoga.md\"> Jnana Yoga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Karma Yoga.md\"> Karma Yoga </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kriya Yoga.md\"> Kriya Yoga </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Raja Yoga.md\"> Raja Yoga </a>",
-        "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kriya Yoga.md\"> Kriya Yoga </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
@@ -12406,10 +12414,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
@@ -12467,6 +12472,8 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
@@ -12515,9 +12522,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Republican voters do not hold their leaders accountable.md\"> Republican voters do not hold their leaders accountable </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\"> Studies show early acceptance of trans children normalizes mental health outcomes with peers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The three main questions of life.md\"> The three main questions of life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\"> We will evolve when we make learning as easy as thinking </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/True optimism is acknowledging the suffering of the world and defying it anyway.md\"> True optimism is acknowledging the suffering of the world and defying it anyway </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -12570,6 +12575,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social media creates a false sense of unbreakable, expansive, and influential communities.md\"> Social media creates a false sense of unbreakable, expansive, and influential communities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Worldviews should not make life seem easy and simple.md\"> Worldviews should not make life seem easy and simple </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
@@ -12619,8 +12625,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/400 Content Areas.md\"> 400 Content Areas </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/4 Content Areas.md\"> 4 Content Areas </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/206 Content Areas.md\"> 206 Content Areas </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/4 Content Areas.md\"> 4 Content Areas </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
@@ -12721,6 +12726,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
@@ -12769,9 +12776,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When in doubt, write what you think.md\"> When in doubt, write what you think </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -12816,7 +12821,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",

@@ -22,7 +22,7 @@ This fact has both good and bad consequences. While anonymous boards like 4chan 
 
 It has also allowed for a culture shift, where previously niche topics like [[DnD (Dungeons and Dragons)| DnD]] can gain a wider audience, and thus gain a larger player base.
 
-[[Tiktok]] and it's algorithm based method of delivering content allows people to easily connect to people with similar interests to them: [[Tiktok creates a false sense of unbreakable, expansive, and influential communities]]
+[[Tiktok]] and it's algorithm based method of delivering content allows people to easily connect to people with similar interests to them: [[Social media creates a false sense of unbreakable, expansive, and influential communities]]
 
 #TO/EXPLORE/WATCH [We're Thinking About Facebook Wrong - YouTube](https://www.youtube.com/watch?v=EJtNmd1kV44) connection
 

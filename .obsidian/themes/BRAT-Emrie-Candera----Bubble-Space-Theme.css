@@ -6386,7 +6386,7 @@ Hide Aside and hover to reveal it*/
 /*SPACE B1.12 Tags*/
 
     /*SPACE B1.12.1 Edit Mode*/
-    .theme-dark .cm-s-obsidian span.cm-hashtag {
+    /* .theme-dark .cm-s-obsidian span.cm-hashtag {
         font-size: 13px !important;
         color: rgb(229, 207, 250);
         text-decoration: none;
@@ -6395,27 +6395,27 @@ Hide Aside and hover to reveal it*/
         padding-bottom: 1px;
         border-top: 1px solid rgb(111, 70, 145) ;
         border-bottom: 1px solid rgb(111, 70, 145) ;
-    }  
-
+    }   */
+/* 
     .theme-dark .cm-s-obsidian span.cm-hashtag-begin {
         display: none;
         border: none ;
         margin-right: -6px;
-    }
+    } */
 
-    .theme-dark .cm-s-obsidian span.cm-hashtag::before {
+    /* .theme-dark .cm-s-obsidian span.cm-hashtag::before {
         content: '🌟';
         padding-left: 0px !important;
-    }
+    } */
 
 
-    .theme-dark .cm-s-obsidian span.cm-hashtag-end {
+    /* .theme-dark .cm-s-obsidian span.cm-hashtag-end {
         border-right: 1px solid rgb(63, 84, 139);
         padding-right: 7px;
         border-left: none;
         border-radius: 10px;
         display: inline;
-    }
+    } */
 
     /*SPACE B1.12.2 Preview Mode*/
     .theme-dark .tag {

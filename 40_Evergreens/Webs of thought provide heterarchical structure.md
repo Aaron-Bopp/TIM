@@ -16,7 +16,7 @@ sr-ease: 203
 - [[Densely linked webs of thought provide intuitive access to knowledge]]
 - [[Communities are knowledge graphs]]
 - #TO/DO/CONCEPTUALIZE relations to the [[internet]], [[human interaction]]
-	- [[Tiktok creates a false sense of unbreakable, expansive, and influential communities]]
+	- [[Social media creates a false sense of unbreakable, expansive, and influential communities]]
 	- [[The internet allows niche topics to flourish]]
 
 ### <hr class="footnote"/>
