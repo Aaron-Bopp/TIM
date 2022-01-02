@@ -19,5 +19,5 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Bipolar I]]
 - [[Bipolar II]]
 - [[Mania]]
-- [[Diagnostic and Statistical Manual of Mental Disorders (DSM)]]
+- [[DSM]]
 - [[Cyclothymia]]

@@ -39,7 +39,7 @@ type:
 - [[notes_The Nature of Mind]]
 - [[notes_System of Mind]]
 - [[notes_Intro to Mantra Practice]]
-- 
+- [[notes_Depression module overview]]
 ## Unwatched
 - [[notes_Knowledge of the Mind]]
 - [[notes_Vidya and Jnana]]

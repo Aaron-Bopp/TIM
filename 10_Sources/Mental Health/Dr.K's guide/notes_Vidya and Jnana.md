@@ -44,3 +44,6 @@ tags: created/source/2021/12/30, node/source/notes
 		- if our will-power is strong we follow [[super-ego]] weak we follow our [[id]]
 			- [[Jnana]] removes this concept
 			- once we learn our lesson it's easy to avoid that thing
+- [[meditation]] techniques to help us learn and understand
+	- [[Ajna Chakra]] helps you develop the capacity to understand 
+	- [[Manipura Chakra]] best for digesting and transforming [[information]]

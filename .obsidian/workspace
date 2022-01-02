@@ -7,12 +7,59 @@
         "id": "36a705750b795927",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 2,
           "stack": [
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/norepinephrine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":44},\"to\":{\"line\":10,\"ch\":44}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ketamine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":240},\"to\":{\"line\":8,\"ch\":240}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":7},\"to\":{\"line\":28,\"ch\":7}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":43},\"to\":{\"line\":31,\"ch\":43}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes_Depression module overview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":47},\"to\":{\"line\":32,\"ch\":47}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":36},\"to\":{\"line\":41,\"ch\":36}},\"scroll\":20.58570023420639}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our nervous system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "36a705750b795927",
               "group": null,
@@ -22,8 +69,98 @@
             {
               "leaf": "36a705750b795927",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/Activating Ajna Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/XML.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/worldview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Visual Studio Code.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":47},\"to\":{\"line\":4,\"ch\":47}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Van Life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Python.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/purpose.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/mass media.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/material conditions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/materialism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Markdown.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36a705750b795927",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/liberation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "320816411ebc5177",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/32_Terms/NoradrenalineNorepinephrine.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "320816411ebc5177",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/NoradrenalineNorepinephrine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -76,6 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -108,6 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,8 +271,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +290,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -268,6 +408,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -379,15 +520,15 @@
   },
   "active": "36a705750b795927",
   "lastOpenFiles": [
-    "10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md",
-    "40_Evergreens/We learn by transforming information into understanding.md",
-    "30_Topics/32_Terms/Citta.md",
-    "30_Topics/31_Stubs/experience.md",
-    "30_Topics/31_Stubs/knowledge.md",
-    "30_Topics/32_Terms/Yogi.md",
-    "30_Topics/32_Terms/Jnana.md",
-    "30_Topics/31_Stubs/information.md",
-    "30_Topics/32_Terms/Vidya.md"
+    "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md",
+    "30_Topics/32_Terms/NoradrenalineNorepinephrine.md",
+    "30_Topics/32_Terms/Ketamine.md",
+    "30_Topics/31_Stubs/norepinephrine.md",
+    "30_Topics/32_Terms/Default Mode Network (DMN).md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md",
+    "30_Topics/32_Terms/Clinical Depression.md",
+    "30_Topics/32_Terms/DSM.md",
+    "30_Topics/32_Terms/Congruent Depression.md",
+    "notes_Depression module overview.md"
   ]
 }

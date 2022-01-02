@@ -9250,11 +9250,6 @@
       "tags": 2,
       "links": 0
     },
-    "30_Topics/31_Stubs/Python.md": {
-      "size": 381,
-      "tags": 2,
-      "links": 3
-    },
     "30_Topics/31_Stubs/Queer.md": {
       "size": 184,
       "tags": 2,
@@ -9485,11 +9480,6 @@
       "tags": 2,
       "links": 0
     },
-    "30_Topics/31_Stubs/Visual Studio Code.md": {
-      "size": 588,
-      "tags": 2,
-      "links": 0
-    },
     "30_Topics/31_Stubs/white supremacy.md": {
       "size": 204,
       "tags": 2,
@@ -9568,7 +9558,7 @@
     "10_Sources/course_Dr. K's Guide to Mental Health.md": {
       "size": 2924,
       "tags": 2,
-      "links": 78
+      "links": 79
     },
     "30_Topics/32_Terms/Zen.md": {
       "size": 296,
@@ -9793,7 +9783,7 @@
     "30_Topics/32_Terms/Clinical Depression.md": {
       "size": 379,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Cognitive Anxiety.md": {
       "size": 399,
@@ -9836,9 +9826,9 @@
       "links": 1
     },
     "30_Topics/32_Terms/Default Mode Network (DMN).md": {
-      "size": 591,
+      "size": 708,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Dementia.md": {
       "size": 387,
@@ -9859,11 +9849,6 @@
       "size": 266,
       "tags": 2,
       "links": 7
-    },
-    "30_Topics/32_Terms/Diagnostic and Statistical Manual of Mental Disorders (DSM).md": {
-      "size": 362,
-      "tags": 2,
-      "links": 1
     },
     "30_Topics/32_Terms/Dialectical Behavioral Therapy (DBT).md": {
       "size": 385,
@@ -10043,7 +10028,7 @@
     "30_Topics/32_Terms/Ketamine.md": {
       "size": 643,
       "tags": 2,
-      "links": 1
+      "links": 8
     },
     "30_Topics/32_Terms/Korean Ginseng.md": {
       "size": 803,
@@ -10193,7 +10178,7 @@
     "30_Topics/32_Terms/NoradrenalineNorepinephrine.md": {
       "size": 386,
       "tags": 2,
-      "links": 7
+      "links": 8
     },
     "30_Topics/32_Terms/Obsessive Compulsive Disorder (OCD).md": {
       "size": 541,
@@ -10830,11 +10815,6 @@
       "tags": 2,
       "links": 17
     },
-    "30_Topics/35_Outlines/course_US History from 1870.md": {
-      "size": 623,
-      "tags": 2,
-      "links": 15
-    },
     "10_Sources/History/notes_1940's General Notes.md": {
       "size": 5996,
       "tags": 2,
@@ -11231,9 +11211,9 @@
       "links": 5
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md": {
-      "size": 409,
+      "size": 1152,
       "tags": 2,
-      "links": 5
+      "links": 17
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_cognitive Anxiety.md": {
       "size": 374,
@@ -11401,9 +11381,9 @@
       "links": 7
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md": {
-      "size": 401,
+      "size": 1326,
       "tags": 2,
-      "links": 6
+      "links": 13
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Overview of Meditation Module.md": {
       "size": 1285,
@@ -11518,7 +11498,7 @@
     "10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md": {
       "size": 1863,
       "tags": 2,
-      "links": 21
+      "links": 24
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_What is an Anxiety Disorder.md": {
       "size": 340,
@@ -11807,7 +11787,7 @@
     },
     "30_Topics/31_Stubs/conversion.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "30_Topics/31_Stubs/objectivity.md": {
@@ -12002,7 +11982,7 @@
     },
     "30_Topics/31_Stubs/brain.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "40_Evergreens/Humans try really hard to avoid understanding their mistakes.md": {
@@ -12019,14 +11999,59 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "10_Sources/course_US History from 1870.md": {
+      "size": 623,
+      "tags": 2,
+      "links": 15
+    },
+    "30_Topics/33_Tools/Python.md": {
+      "size": 381,
+      "tags": 2,
+      "links": 3
+    },
+    "30_Topics/33_Tools/Visual Studio Code.md": {
+      "size": 588,
+      "tags": 2,
+      "links": 0
+    },
+    "notes_Depression module overview.md": {
+      "size": 1197,
+      "tags": 2,
+      "links": 22
+    },
+    "30_Topics/31_Stubs/notes_Depression module overview.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/India.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/32_Terms/DSM.md": {
+      "size": 522,
+      "tags": 2,
+      "links": 2
+    },
+    "30_Topics/31_Stubs/self-awareness.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/norepinephrine.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2914,
-      "Create": 3457,
-      "Link": 6838,
-      "Expand": 665
+      "Refactor": 2920,
+      "Create": 3462,
+      "Link": 6858,
+      "Expand": 672
     },
     "40_Evergreens": {
       "Refactor": 265,
@@ -12049,8 +12074,8 @@
       "9": 764,
       "10": 315,
       "11": 239,
-      "12": 590,
-      "13": 304,
+      "12": 596,
+      "13": 336,
       "14": 2380,
       "15": 208,
       "16": 1207,
@@ -12097,7 +12122,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5550
+      "Sun": 5588
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12112,6 +12137,13 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Default Mode Network (DMN).md\"> Default Mode Network (DMN) </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>",
+        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
+        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans try really hard to avoid understanding our mistakes.md\"> Humans try really hard to avoid understanding our mistakes </a>",
@@ -12155,16 +12187,14 @@
         "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
         "<a class=\"internal-link\" href=\"Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hatha Yoga.md\"> Hatha Yoga </a>",
-        "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
-        "<a class=\"internal-link\" href=\"Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
-        "<a class=\"internal-link\" href=\"Meditation helps us gain control over our emotions.md\"> Meditation helps us gain control over our emotions </a>",
-        "<a class=\"internal-link\" href=\"Meditation helps us gain control over our emotions.md\"> Meditation helps us gain control over our emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hatha Yoga.md\"> Hatha Yoga </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"norepinephrine.md\"> norepinephrine </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-awareness.md\"> self-awareness </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/India.md\"> India </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Depression module overview.md\"> notes_Depression module overview </a>",
+        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/subjective.md\"> subjective </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/objective.md\"> objective </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/brain.md\"> brain </a>",
@@ -12210,14 +12240,15 @@
         "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>",
         "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>",
         "<a class=\"internal-link\" href=\"State Emergence.md\"> State Emergence </a>",
-        "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
-        "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>",
-        "<a class=\"internal-link\" href=\"Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
-        "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
-        "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
-        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>"
+        "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/norepinephrine.md\"> norepinephrine </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/(DSM).md\"> (DSM) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Visual Studio Code.md\"> Visual Studio Code </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Python.md\"> Python </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_US History from 1870.md\"> course_US History from 1870 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans try really hard to avoid understanding their mistakes.md\"> Humans try really hard to avoid understanding their mistakes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
         "<a class=\"internal-link\" href=\"We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
@@ -12262,15 +12293,16 @@
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/People easily ignore history.md\"> People easily ignore history </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Inequality is an unactionable item.md\"> Inequality is an unactionable item </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Highly evolutionary view.md\"> Highly evolutionary view </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/self-awareness.md\"> self-awareness </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/norepinephrine.md\"> norepinephrine </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Depression module overview.md\"> notes_Depression module overview </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/India.md\"> India </a>",
+        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/conversion.md\"> conversion </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/brain.md\"> brain </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/information.md\"> information </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/objective.md\"> objective </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/subjective.md\"> subjective </a>",
@@ -12314,14 +12346,7 @@
         "<a class=\"internal-link\" href=\"Early society is both familiar and unfamiliar.md\"> Early society is both familiar and unfamiliar </a>",
         "<a class=\"internal-link\" href=\"Highly evolutionary view.md\"> Highly evolutionary view </a>",
         "<a class=\"internal-link\" href=\"Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>",
-        "<a class=\"internal-link\" href=\"Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>",
-        "<a class=\"internal-link\" href=\"Respect for the subconscious.md\"> Respect for the subconscious </a>",
-        "<a class=\"internal-link\" href=\"Respect for travellers.md\"> Respect for travellers </a>",
-        "<a class=\"internal-link\" href=\"Respect for women.md\"> Respect for women </a>",
-        "<a class=\"internal-link\" href=\"Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
-        "<a class=\"internal-link\" href=\"What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>",
-        "<a class=\"internal-link\" href=\"Inequality is an unactionable item.md\"> Inequality is an unactionable item </a>",
-        "<a class=\"internal-link\" href=\"Change requires agreement.md\"> Change requires agreement </a>"
+        "<a class=\"internal-link\" href=\"Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12421,6 +12446,19 @@
         "<a class=\"internal-link\" href=\"Vanaprastha Ashram.md\"> Vanaprastha Ashram </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Default Mode Network (DMN).md\"> Default Mode Network (DMN) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ketamine.md\"> Ketamine </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/NoradrenalineNorepinephrine.md\"> NoradrenalineNorepinephrine </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>",
+        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge.md\"> knowledge </a>",
@@ -12458,20 +12496,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political failure was due to lack of activism and poltical inneficacy.md\"> Yang's political failure was due to lack of activism and poltical inneficacy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md\"> articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md\"> articleKarma and Reincarnation in Hinduism </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/204 Writing.md\"> 204 Writing </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Citta.md\"> Citta </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Congruent Depression.md\"> Congruent Depression </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Jnana.md\"> Jnana </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Linguistic Cortex.md\"> Linguistic Cortex </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vidya.md\"> Vidya </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political failure was due to lack of activism and poltical inneficacy.md\"> Yang's political failure was due to lack of activism and poltical inneficacy </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
