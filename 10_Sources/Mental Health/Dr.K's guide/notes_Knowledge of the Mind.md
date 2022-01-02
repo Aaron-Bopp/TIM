@@ -40,7 +40,7 @@ type:
 - the more active our [[mind]] the less we will be able to absorb
 - [[Dr. K]] started studying in the [[Brahmamuhurtha]] when his mind was less active
 	- this allowed him to absorb better in class and not have to force himself to study after class
-	- One think to note is that [[Dr. K]] is very good at self study and has storng [[Vata]] this may not work for everyone 
+	- One think to note is that [[Dr. K]] is very good at self study and has strong [[Vata]] this may not work for everyone 
 - Waking up early
 - visual acuity is higher (we see more shades of green) at dawn and dusk, we have evolved to be more active and dawn and dusk [[Humans are a product of evolution]]
 - [[Brahmamuhurtha]] will probably not work for teenagers as they're [[circadian rhythm]] is shifted forward a couple hours
@@ -48,3 +48,11 @@ type:
 - this is why [[spaced repetition]] is valuable. working memory gets locked down into our permanent memory in the [[Hippocampus]] while we [[sleep]] 
 - if we create boundaries around or time our [[mind]] will start to respect those
 	- [[Meditation is a practice and discipline of observation]]
+	- contrasts [[Better tools allow us to be less disciplined and more productive]] because this [[discipline]] actually makes our [[mind]] a better tool 
+- How to study depending on your [[Dosha]]
+	- [[Kapha]] slower to start but once they get into they can go for a very long time
+	- [[Pitta]] can study for long period but needs break at the end of the day
+	- [[Vata]] brief periods with breaks
+- [[knowledge]] is called from our [[unconscious]] to our [[conscious]] [[mind]]
+-
+ 

@@ -14,7 +14,8 @@ type:
 
 **Related**:: 
 #### Meditation techniques
-- [Japa](https://coaching.healthygamer.gg/guide/lessons/intro-to-mantra-practice/meditations/japa)
+- [[Japa Meditation]]
+- [[Activating Ajna Chakra]]
 
 
 # Concepts

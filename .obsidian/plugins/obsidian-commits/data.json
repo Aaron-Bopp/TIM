@@ -9568,7 +9568,7 @@
     "10_Sources/course_Dr. K's Guide to Mental Health.md": {
       "size": 2924,
       "tags": 2,
-      "links": 76
+      "links": 78
     },
     "30_Topics/32_Terms/Zen.md": {
       "size": 296,
@@ -11361,9 +11361,9 @@
       "links": 7
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md": {
-      "size": 2065,
+      "size": 2518,
       "tags": 1,
-      "links": 27
+      "links": 31
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Learned Anxiety.md": {
       "size": 418,
@@ -11586,7 +11586,7 @@
       "links": 9
     },
     "30_Topics/32_Terms/Japa Meditation.md": {
-      "size": 669,
+      "size": 777,
       "tags": 2,
       "links": 6
     },
@@ -11949,14 +11949,19 @@
       "size": 0,
       "tags": 2,
       "links": 3
+    },
+    "30_Topics/Activating Ajna Chakra.md": {
+      "size": 552,
+      "tags": 2,
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2819,
-      "Create": 3442,
-      "Link": 6763,
-      "Expand": 656
+      "Refactor": 2820,
+      "Create": 3443,
+      "Link": 6768,
+      "Expand": 659
     },
     "40_Evergreens": {
       "Refactor": 230,
@@ -11977,7 +11982,7 @@
       "7": 0,
       "8": 67,
       "9": 764,
-      "10": 305,
+      "10": 315,
       "11": 223,
       "12": 422,
       "13": 304,
@@ -12027,7 +12032,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5356
+      "Sun": 5366
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12042,6 +12047,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Japa Meditation.md\"> Japa Meditation </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Activating Ajna Chakra.md\"> Activating Ajna Chakra </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
@@ -12089,12 +12097,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/notes_History of Meditation.md\"> notes_History of Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/Activating the Ajna Chakra.md\"> Activating the Ajna Chakra </a>",
         "<a class=\"internal-link\" href=\"unconscious.md\"> unconscious </a>",
         "<a class=\"internal-link\" href=\"The history of meditation is a mix of science and magic.md\"> The history of meditation is a mix of science and magic </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-02.md\"> 2022-01-02 </a>",
@@ -12144,10 +12150,10 @@
         "<a class=\"internal-link\" href=\"How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
         "<a class=\"internal-link\" href=\"god.md\"> god </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
-        "<a class=\"internal-link\" href=\"senses.md\"> senses </a>",
-        "<a class=\"internal-link\" href=\"SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness.md\"> Income Inequality Increases Unhappiness </a>"
+        "<a class=\"internal-link\" href=\"senses.md\"> senses </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/Activating Ajna Chakra.md\"> Activating Ajna Chakra </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/unconscious.md\"> unconscious </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/subconscious.md\"> subconscious </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
@@ -12197,10 +12203,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Personal MOC.md\"> Personal MOC </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/identity.md\"> identity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT.md\"> CBT </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/identity.md\"> identity </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/Activating the Ajna Chakra.md\"> Activating the Ajna Chakra </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/unconscious.md\"> unconscious </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
@@ -12250,8 +12256,7 @@
         "<a class=\"internal-link\" href=\"Meditation helps us gain control over our emotions.md\"> Meditation helps us gain control over our emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/ego.md\"> ego </a>",
-        "<a class=\"internal-link\" href=\"Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>"
+        "<a class=\"internal-link\" href=\"Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12351,6 +12356,10 @@
         "<a class=\"internal-link\" href=\"Vajrayana Buddhism.md\"> Vajrayana Buddhism </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Activating Ajna Chakra.md\"> Activating Ajna Chakra </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Activating Ajna Chakra.md\"> Activating Ajna Chakra </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
@@ -12397,11 +12406,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
         "<a class=\"internal-link\" href=\"People easily ignore history.md\"> People easily ignore history </a>",
         "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
-        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
-        "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
-        "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
-        "<a class=\"internal-link\" href=\"Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
-        "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>"
+        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
