@@ -1,9 +1,9 @@
 ---
 created: 2021-06-12
 tags: created/evergreen/2021/06/12, node/evergreen
-sr-due: 2022-01-01
-sr-interval: 24
-sr-ease: 198
+sr-due: 2022-01-15
+sr-interval: 13
+sr-ease: 178
 ---
 
 #### [[Knowledge of the world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -12,6 +12,9 @@ This is a big part of [[Accepting responsibility is not only about your actions]
 
 Becoming obsessed/absorbed by this fact leads to thoughts like [[Sadness is enlightenment and happiness is delusion]]
 
+Once you have realized this, you will realize [[You can't blame people for failing to rise above their circumstances]]
+
+#TO/TEND/GRAFT 
 - [[Insecure material conditions increase cognitive load and reduce outcomes]]
 - [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]
 - [[Stereotyping has the psychological goal of comprehension and self-enhancement]]

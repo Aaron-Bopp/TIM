@@ -4607,8 +4607,8 @@
     },
     "40_Evergreens/Knowledge of the world is painful.md": {
       "size": 1249,
-      "tags": 3,
-      "links": 14
+      "tags": 4,
+      "links": 15
     },
     "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md": {
       "size": 1255,
@@ -6502,8 +6502,8 @@
     },
     "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md": {
       "size": 1782,
-      "tags": 4,
-      "links": 12
+      "tags": 5,
+      "links": 13
     },
     "40_Evergreens/Do we have free will.md": {
       "size": 1788,
@@ -8211,9 +8211,9 @@
       "links": 12
     },
     "40_Evergreens/A healthy second brain requires a surplus of entry points.md": {
-      "size": 821,
-      "tags": 3,
-      "links": 9
+      "size": 1107,
+      "tags": 6,
+      "links": 12
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Byzen Stonefist's Witty Title.md": {
       "size": 762,
@@ -9420,11 +9420,6 @@
       "tags": 2,
       "links": 0
     },
-    "30_Topics/31_Stubs/subconscious.md": {
-      "size": 179,
-      "tags": 2,
-      "links": 0
-    },
     "30_Topics/31_Stubs/sympathy.md": {
       "size": 713,
       "tags": 2,
@@ -9521,9 +9516,9 @@
       "links": 0
     },
     "40_Evergreens/Consciousness is the fundamental unit of existence.md": {
-      "size": 1265,
+      "size": 1505,
       "tags": 4,
-      "links": 10
+      "links": 17
     },
     "00_Meta/Templates/LIST.md": {
       "size": 0,
@@ -9793,7 +9788,7 @@
     "30_Topics/32_Terms/Citta.md": {
       "size": 263,
       "tags": 2,
-      "links": 1
+      "links": 5
     },
     "30_Topics/32_Terms/Clinical Depression.md": {
       "size": 379,
@@ -11366,9 +11361,9 @@
       "links": 7
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md": {
-      "size": 303,
+      "size": 2065,
       "tags": 1,
-      "links": 9
+      "links": 27
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Learned Anxiety.md": {
       "size": 418,
@@ -11713,17 +11708,7 @@
     "40_Evergreens/How to develop a meditation practice.md": {
       "size": 668,
       "tags": 3,
-      "links": 7
-    },
-    "Karma is an open ended system of belief.md": {
-      "size": 0,
-      "tags": 3,
-      "links": 2
-    },
-    "Worlds views should be open ended and adaptive.md": {
-      "size": 1807,
-      "tags": 3,
-      "links": 24
+      "links": 8
     },
     "40_Evergreens/Worldviews should not make life seem easy and simple.md": {
       "size": 1141,
@@ -11736,19 +11721,19 @@
       "links": 0
     },
     "Meditation helps us gain control over our emotions.md": {
-      "size": 1015,
+      "size": 1207,
       "tags": 3,
-      "links": 12
+      "links": 17
     },
     "Meditation is a practice to develop a stronger conscious.md": {
       "size": 1248,
-      "tags": 4,
-      "links": 16
+      "tags": 3,
+      "links": 17
     },
     "Meditation helps us detach negative attachments.md": {
-      "size": 907,
+      "size": 1260,
       "tags": 3,
-      "links": 10
+      "links": 18
     },
     "10_Sources/Readwise/Books/books_The Dawn of Everything.md": {
       "size": 49231,
@@ -11911,9 +11896,9 @@
       "links": 0
     },
     "40_Evergreens/Meditation increases our ability to influence the world.md": {
-      "size": 1100,
+      "size": 1333,
       "tags": 3,
-      "links": 12
+      "links": 14
     },
     "40_Evergreens/Meditation helps us regulate our hormonal environment.md": {
       "size": 624,
@@ -11934,20 +11919,50 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "90_Personal/91 Daily Notes/2022-01-02.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "40_Evergreens/Karma is an open ended system of belief.md": {
+      "size": 704,
+      "tags": 3,
+      "links": 8
+    },
+    "40_Evergreens/Worlds views should be open ended and adaptive.md": {
+      "size": 1807,
+      "tags": 3,
+      "links": 24
+    },
+    "The history of meditation is a mix of science and magic.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 4
+    },
+    "30_Topics/32_Terms/subconscious.md": {
+      "size": 179,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/32_Terms/unconscious.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2814,
-      "Create": 3439,
-      "Link": 6740,
-      "Expand": 646
+      "Refactor": 2819,
+      "Create": 3442,
+      "Link": 6763,
+      "Expand": 656
     },
     "40_Evergreens": {
-      "Refactor": 228,
+      "Refactor": 230,
       "Create": 48,
-      "Link": 806,
-      "Expand": 314
+      "Link": 817,
+      "Expand": 318
     }
   },
   "dailyCommits": {
@@ -11961,8 +11976,8 @@
       "6": 0,
       "7": 0,
       "8": 67,
-      "9": 751,
-      "10": 277,
+      "9": 764,
+      "10": 305,
       "11": 223,
       "12": 422,
       "13": 304,
@@ -11987,8 +12002,8 @@
       "6": 0,
       "7": 0,
       "8": 37,
-      "9": 241,
-      "10": 83,
+      "9": 247,
+      "10": 94,
       "11": 72,
       "12": 39,
       "13": 86,
@@ -12012,7 +12027,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5315
+      "Sun": 5356
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12021,12 +12036,22 @@
       "Thu": 284,
       "Fri": 182,
       "Sat": 0,
-      "Sun": 525
+      "Sun": 542
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
+        "<a class=\"internal-link\" href=\"Meditation helps us gain control over our emotions.md\"> Meditation helps us gain control over our emotions </a>",
+        "<a class=\"internal-link\" href=\"Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
@@ -12067,19 +12092,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Whiteness was created to marginalize people of color.md\"> Whiteness was created to marginalize people of color </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Dataview.md\"> Dataview </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\"> notes_Intro to Mantra Practice </a>",
-        "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
-        "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"unconscious.md\"> unconscious </a>",
+        "<a class=\"internal-link\" href=\"The history of meditation is a mix of science and magic.md\"> The history of meditation is a mix of science and magic </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-02.md\"> 2022-01-02 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/Daily note.md\"> Daily note </a>",
         "<a class=\"internal-link\" href=\"Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
@@ -12127,12 +12145,13 @@
         "<a class=\"internal-link\" href=\"god.md\"> god </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
         "<a class=\"internal-link\" href=\"senses.md\"> senses </a>",
-        "<a class=\"internal-link\" href=\"SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness.md\"> Income Inequality Increases Unhappiness </a>",
-        "<a class=\"internal-link\" href=\"SecondBrain/history/Did the Atomic Bombs end WW2.md\"> Did the Atomic Bombs end WW2 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
-        "<a class=\"internal-link\" href=\"a totally integrated machine should be infinitely scalable.md\"> a totally integrated machine should be infinitely scalable </a>"
+        "<a class=\"internal-link\" href=\"SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness.md\"> Income Inequality Increases Unhappiness </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/unconscious.md\"> unconscious </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/subconscious.md\"> subconscious </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
@@ -12179,13 +12198,14 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Personal MOC.md\"> Personal MOC </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/identity.md\"> identity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT.md\"> CBT </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT (Cognitive Behavioral Therapy).md\"> CBT (Cognitive Behavioral Therapy) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/conscious.md\"> conscious </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anti-liberalism.md\"> anti-liberalism </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT.md\"> CBT </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/unconscious.md\"> unconscious </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
+        "<a class=\"internal-link\" href=\"The history of meditation is a mix of science and magic.md\"> The history of meditation is a mix of science and magic </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
@@ -12231,12 +12251,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/ego.md\"> ego </a>",
         "<a class=\"internal-link\" href=\"Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
-        "<a class=\"internal-link\" href=\"Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/notes_History of Meditation.md\"> notes_History of Meditation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
-        "<a class=\"internal-link\" href=\"god.md\"> god </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12336,6 +12351,24 @@
         "<a class=\"internal-link\" href=\"Vajrayana Buddhism.md\"> Vajrayana Buddhism </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/unconscious.md\"> unconscious </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Citta.md\"> Citta </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
+        "<a class=\"internal-link\" href=\"The history of meditation is a mix of science and magic.md\"> The history of meditation is a mix of science and magic </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
+        "<a class=\"internal-link\" href=\"Meditation helps us gain control over our emotions.md\"> Meditation helps us gain control over our emotions </a>",
+        "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
+        "<a class=\"internal-link\" href=\"Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
@@ -12368,27 +12401,10 @@
         "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
         "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
         "<a class=\"internal-link\" href=\"Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
-        "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>",
-        "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
-        "<a class=\"internal-link\" href=\"State Emergence.md\"> State Emergence </a>",
-        "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>",
-        "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>",
-        "<a class=\"internal-link\" href=\"Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>",
-        "<a class=\"internal-link\" href=\"European colonialism.md\"> European colonialism </a>",
-        "<a class=\"internal-link\" href=\"Emergence of capitalism.md\"> Emergence of capitalism </a>",
-        "<a class=\"internal-link\" href=\"Early society is both familiar and unfamiliar.md\"> Early society is both familiar and unfamiliar </a>",
-        "<a class=\"internal-link\" href=\"Highly evolutionary view.md\"> Highly evolutionary view </a>",
-        "<a class=\"internal-link\" href=\"Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>",
-        "<a class=\"internal-link\" href=\"Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>",
-        "<a class=\"internal-link\" href=\"Respect for the subconscious.md\"> Respect for the subconscious </a>",
-        "<a class=\"internal-link\" href=\"Respect for travellers.md\"> Respect for travellers </a>",
-        "<a class=\"internal-link\" href=\"Respect for women.md\"> Respect for women </a>",
-        "<a class=\"internal-link\" href=\"Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
-        "<a class=\"internal-link\" href=\"What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>",
-        "<a class=\"internal-link\" href=\"Inequality is an unactionable item.md\"> Inequality is an unactionable item </a>",
-        "<a class=\"internal-link\" href=\"Change requires agreement.md\"> Change requires agreement </a>"
+        "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
@@ -12438,8 +12454,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Christianity.md\"> Christianity </a>",
@@ -12497,6 +12512,10 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
@@ -12543,11 +12562,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear of hell is baked into Christianity for vulnerable believers.md\"> Fear of hell is baked into Christianity for vulnerable believers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md\"> The materialistic view of religions examines why humans invented and clung to religion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Tips for concentration.md\"> Tips for concentration </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md\"> Evergreen notes should be constantly integrating new knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith can be a useful tool for grounding yourself.md\"> Faith can be a useful tool for grounding yourself </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Tips for concentration.md\"> Tips for concentration </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -12600,6 +12615,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
@@ -12648,11 +12665,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Personal.md\"> 41 Personal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/44 Self.md\"> 44 Self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/46 Politics.md\"> 46 Politics </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
@@ -12700,10 +12718,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inherently political.md\"> Black identity is inherently political </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Capitalism necessitates class division.md\"> Capitalism necessitates class division </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -12751,6 +12766,14 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
@@ -12793,15 +12816,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The injustice of endurance.md\"> The injustice of endurance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Politicization of the Christian Church.md\"> The Politicization of the Christian Church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",

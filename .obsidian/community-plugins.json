@@ -3,7 +3,6 @@
   "table-editor-obsidian",
   "open-vscode",
   "obsidian-dictionary-plugin",
-  "obsidian-spaced-repetition",
   "obsidian-auto-link-title",
   "templater-obsidian",
   "mrj-add-codemirror-matchbrackets",
@@ -63,5 +62,6 @@
   "obsidian-outliner",
   "obsidian-open-link-with",
   "obsidian-notes-from-template",
-  "obsidian-tracker"
+  "obsidian-tracker",
+  "obsidian-spaced-repetition"
 ]

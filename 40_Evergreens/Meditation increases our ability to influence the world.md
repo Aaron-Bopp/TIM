@@ -22,6 +22,7 @@ When people meditate for a long time they feel the [[perception]] of the world c
 
 [[The history of meditation is a mix of science and magic]]
 
+[[conscious|consciousness]] is a skill and divinity is the goal... [[enlightenment]]?
 
 This is [[Tantra]]
 ![[Pasted image 20211229224350.png]]

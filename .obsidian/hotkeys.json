@@ -404,5 +404,13 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-open-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

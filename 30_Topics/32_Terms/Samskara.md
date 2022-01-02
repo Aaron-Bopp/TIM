@@ -1,7 +1,7 @@
 ---
 created: 2021-10-19
 aliases:
-  - null
+  - samskaras
 tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
