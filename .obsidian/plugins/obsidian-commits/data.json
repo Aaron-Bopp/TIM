@@ -4602,7 +4602,7 @@
     },
     "40_Evergreens/MAGA is built off nostalgia not facts.md": {
       "size": 694,
-      "tags": 4,
+      "tags": 3,
       "links": 5
     },
     "40_Evergreens/McCarthyism is an attack on totalitarianism not communism.md": {
@@ -12108,13 +12108,13 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2946,
+      "Refactor": 2947,
       "Create": 3478,
       "Link": 6908,
       "Expand": 700
     },
     "40_Evergreens": {
-      "Refactor": 273,
+      "Refactor": 274,
       "Create": 50,
       "Link": 848,
       "Expand": 326
@@ -12143,7 +12143,7 @@
       "18": 2292,
       "19": 500,
       "20": 218,
-      "21": 719,
+      "21": 720,
       "22": 551,
       "23": 364
     },
@@ -12169,7 +12169,7 @@
       "18": 21,
       "19": 94,
       "20": 55,
-      "21": 73,
+      "21": 74,
       "22": 16,
       "23": 59
     }
@@ -12182,7 +12182,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5708
+      "Sun": 5709
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12191,7 +12191,7 @@
       "Thu": 284,
       "Fri": 182,
       "Sat": 0,
-      "Sun": 626
+      "Sun": 627
     }
   },
   "recentCommits": {
@@ -12559,6 +12559,7 @@
         "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
@@ -12608,8 +12609,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\"> videoDrK and DrMike conversation </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/TOPICNOTE.md\"> TOPICNOTE </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
@@ -12976,6 +12976,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -13025,8 +13026,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
