@@ -1,9 +1,9 @@
 ---
 created: 2021-06-11
 tags: created/evergreen/2021/06/11, node/evergreen
-sr-due: 2022-01-02
-sr-interval: 39
-sr-ease: 268
+sr-due: 2022-01-24
+sr-interval: 21
+sr-ease: 248
 aliases:
   - "Sadness is not enlightenment and happiness is not delusion"
   - "A intelligent view of the world is hopeless so hope is a delusion"
@@ -14,16 +14,14 @@ aliases:
 
 If a person internalizes the narrative that negative emotions are a sign of intelligence, it can warp their [[realism|realistic]] [[perception]] of the world, because [[Human's have an inability to admit that they are wrong]].
 
-##### Cause:: [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]]
-
 Once a person has set up this belief that negative emotion is associated with intelligence, you can struggle to find [[happiness]] in bleak situations, and find it easy to find [[sadness]] in neutral situations. As your intelligence and [[knowledge]] of the world increases, you will find that the only "proper" reaction is increasing sadness. 
 
 This way of living your life is [[subconscious|subconsciously]] attractive,
 because you will think your increasing sadness is a sign of your increasing intelligence, and that it is the only moral reaction the world we live in.
-As your [[despair]] grows, so does your fear of the possibility of hope, because then your [[realism|realistic]] view of the world is wrong,
-^[[[Human's have an inability to admit that they are wrong]]]
-and your despair has been for nothing.
-^[[[Sometimes we can't grow until we change our environment]]]
+As your [[despair]] grows, so does your fear of the possibility of hope,
+because then your [[realism|realistic]] view of the world is wrong,
+and your despair has been for nothing. 
+[[Rationalizations are defense-mechanisms against strong emotions]] and your anger against the [[injustice]] of the world has caused you to make [[rationalizations]] about how you can [[change]] it.
 This [[feedback loop]] leads to inaction, [[depression]], [[pessimism]], and [[cynacism]].
 ^[[[Mental health is a reaction to one's environment]]]
 
@@ -31,11 +29,18 @@ This [[feedback loop]] leads to inaction, [[depression]], [[pessimism]], and [[c
 
 Once someone has reached this state of "[[enlightenment]]," they will not only find it incredibly hard to be happy, they will see any [[happiness]] they do find as illogical, unnatural, and generally unwarranted, but [[Realism must acknowledge optimism's existence and effectiveness]].
 
-[[Knowledge of the world is painful]], but [[Accepting responsibility is not only about your actions]]: [[Be the change you want to see in the world]]
+The path out will be different for every person, but for everybody some change is needed.
+^[[[Sometimes we can't grow until we change our environment]]]
 
 It may be something small, it may be something massive, or they may just get bored with being cynical and come to think [[Happiness is enlightenment and sadness is delusion]]. If someone can trick themselves to be hopeful, that may be enough to make a permanent change in their life, because [[Hope is not optimism it is a practice for producing change]].
 
-For people that have become to aware of [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]], the only may be [[detachment]] from the [[suffering]] of the world: [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
+#TO/TEND/GRAFT ideas of [[karma]] and [[Dharma]] and [[Ashram]]
+%% #TO/TEND/MULCH 
+For people that have become to aware of [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]], the only may be [[detachment]] from the [[suffering]] of the world: [[Buddhism outlines a path and practice to end suffering, but does not promise it]]%%
+
+[[Knowledge of the world is painful]], but [[Accepting responsibility is not only about your actions]]: [[Be the change you want to see in the world]]
+
+
 
 ### <hr class="footnote"/>
 

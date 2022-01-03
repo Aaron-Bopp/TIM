@@ -3,8 +3,8 @@ created: 2022-01-01
 aliases:
   - null
 tags: created/evergreen/2022/01/01, node/evergreen
-sr-due: 2022-01-01
-sr-interval: 1
+sr-due: 2022-01-08
+sr-interval: 5
 sr-ease: 230
 ---
 
@@ -16,7 +16,7 @@ while [[eastern philosophy]] like [[meditation]], [[yoga]], and even [[Buddhism]
 This is because these [[worldview]]s broke down [[humanity]] to it's core elements. As we learn more about how the [[body]] and [[mind]] work, we only see more and more evidence for this viewpoints.
 ^[[[notes_Science of Meditation]]]
 
-Even if your [[worldview]] is open ended and adaptive, it does not always mean that you will be that way. [[Human's have an inability to admit that they are wrong]], but this kind of [[worldview]] and consistent practice of [[meditation]] can help you separate from the irrationality of your [[ego]] and keep your [[self]] open to new ideas: [[Karma is an open ended system of belief]]
+Even if your [[worldview]] is open ended and adaptive, it does not always mean that you will be. [[Human's have an inability to admit that they are wrong]], but this kind of [[worldview]] and consistent practice of [[meditation]] can help you separate from the irrationality of your [[ego]] and keep your [[self]] open to new ideas: [[Karma is an open ended system of belief]]
 
 
 - [[Hard boundaries reduce opportunities for creativity]]
@@ -28,7 +28,7 @@ Even if your [[worldview]] is open ended and adaptive, it does not always mean t
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[belief systems]], [[religion]], [[self]], [[human interaction]]

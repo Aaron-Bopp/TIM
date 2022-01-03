@@ -25,7 +25,7 @@ tags: created/source/2021/12/30, node/source/notes
 	- Fill a page with what you think is wrong with the world
 		- You will be surprised with what your [[mind]] navigates towards
 	- You may not be ready for your final [[Dharma]], what is something that you could do that could move you forward
-- these are the four stages of life 
+- these are the four stages of life [[Ashram]]
 	- [[Brahmacharya Ashram]]
 		- learn a skill that allows you to be independent
 	- [[Grahastha Ashram]]

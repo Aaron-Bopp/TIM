@@ -9,11 +9,6 @@ sr-ease: 190
 ---
 
 #### [[Consciousness is the fundamental unit of existence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
- 
-The [[Yogi|Yogis]] believed that [[conscious]] was outside of the mind because we are able to observe our own thoughts. We can only observe things outside of ourselves - [Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=3214)
-
-Yogis concluded that there was no difference between dreams and reality
-![[Pasted image 20211231140855.png]]
 
 
 [[Brahman]] to become the [[energy]] of the universe and it coalesces to become [[matter]] 

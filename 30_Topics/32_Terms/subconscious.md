@@ -7,8 +7,8 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The **subconscious** is that part of consciousness that is not currently in focal awareness
+The **subconscious** is that part of [[conscious|consciousness]] that is not currently in focal awareness
 
-**See**:: 
+**See**:: [[conscious]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

@@ -26,6 +26,8 @@ but on a much more [[spirituality|spiritual]] level we are interacting with the 
 ^[[[Brahman]]]
 [[Consciousness is the fundamental unit of existence]]
 
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

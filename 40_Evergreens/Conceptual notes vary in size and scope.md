@@ -3,14 +3,14 @@ created: 2021-12-26
 aliases:
   - null
 tags: created/evergreen/2021/12/26, node/evergreen
-sr-due: 2022-01-01
+sr-due: 2022-01-04
 sr-interval: 1
-sr-ease: 150
+sr-ease: 130
 ---
 
 #### [[Conceptual notes vary in size and scope]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/GRAFT 
+#TO/TEND/GRAFT #TO/DO/CONCEPTUALIZE 
 - [[Evergreen notes should be constantly integrating new knowledge]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[What are the differences between evergreen notes and conceptual notes]]

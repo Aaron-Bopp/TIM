@@ -12,7 +12,7 @@ sr-ease: 230
 
 - [[Mental health is a reaction to one's environment]]
 
- - [[Meditation helps us regulate our nervous system]]
+- [[Meditation helps us regulate our nervous system]]
 - [[Meditation helps us regulate our hormonal environment]]
 - [[Meditation helps us detach negative attachments]]
 - [[Meditation helps us gain control over our emotions]]
@@ -26,5 +26,5 @@ sr-ease: 230
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[mental health]], [[self]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -3,14 +3,14 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/evergreen/2021/12/31, node/evergreen
-sr-due: 2022-01-01
+sr-due: 2022-01-04
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[Strong enough logic becomes belief]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Who?
+%%Who?
 - Scientists 
 - [[Dr. K]]
  - dummies [[Rationalizations are defense-mechanisms against strong emotions]]
@@ -26,7 +26,7 @@ Scientists [[perception]]s can be wrong, but their logic makes up for it
 
 Mathematicians do not rely on perception they only rely on logic
 
-[[Belief is an addiction]]
+[[Humans are addicted to believing]]%%
 
 
 ### <hr class="footnote"/>

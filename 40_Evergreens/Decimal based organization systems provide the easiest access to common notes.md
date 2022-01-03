@@ -3,8 +3,8 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/evergreen/2021/12/31, node/evergreen
-sr-due: 2022-01-01
-sr-interval: 1
+sr-due: 2022-01-07
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -14,7 +14,7 @@ When using the [[Johnny Decimal System]], I have come to use certain codes inste
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[organization]], [[note writing]]

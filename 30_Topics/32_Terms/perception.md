@@ -1,5 +1,7 @@
 ---
 created: 2021-10-18
+aliases:
+  - perceive
 tags: created/topic/2021/10/18, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

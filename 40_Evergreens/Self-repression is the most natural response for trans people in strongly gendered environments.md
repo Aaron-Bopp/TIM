@@ -3,14 +3,16 @@ created: 2021-10-03
 tags: created/evergreen/2021/10/03, node/evergreen
 aliases:
   - null
-sr-due: 2022-01-01
-sr-interval: 3
+sr-due: 2022-01-09
+sr-interval: 6
 sr-ease: 130
 ---
 
 #### [[Self-repression is the most natural response for trans people in strongly gendered environments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Trans people can look at [[Observational learning]] and [[gender schema]]'s and find explanations for why they may have never questioned their gender until late in life. Studies like the Pike and Jennings commercial study in 2005, [^1] show that children as young as 5 and 6 have a gender schema, and it impacts how they learn about the world: [[Children will imitate whatever is modeled for them]]. This means that trans people could observe, imitate, and limit themselves to gendered behavior for their assigned [[gender]] without ever performing behaviors for their actual gender, and even if they did, punishment [^2] for that behavior would reinforce their gender schema. 
+[[transgender|Trans]] people can look at [[Observational learning]] and find explanations for why they may have never questioned their gender until late in life. Studies like the Pike and Jennings commercial study in 2005, [^1] show that children as young as 5 and 6 have a [[gender schema]], and it impacts how they learn about the world.
+^[[[Children will imitate whatever is modeled for them]]]
+This means that trans people could observe, imitate, and limit themselves to gendered behavior for their assigned [[gender]] without ever performing behaviors for their actual gender, and even if they did, punishment for that behavior would reinforce their gender schema. [^2]
 
 [^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]
 [^2]: especially from strongly gendered authority figures ie [[parents]], [[childhood]] [[trauma]]

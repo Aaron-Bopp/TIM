@@ -407,14 +407,7 @@
       "key": "G"
     }
   ],
-  "macro-plugin:macro-plugin:review-good": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "G"
-    }
-  ],
+  "macro-plugin:macro-plugin:review-good": [],
   "macro-plugin:macro-plugin:review-hard": [
     {
       "modifiers": [

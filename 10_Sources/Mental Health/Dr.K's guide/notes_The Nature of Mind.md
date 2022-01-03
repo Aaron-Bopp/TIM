@@ -28,12 +28,13 @@ tags: created/source/2021/12/31, node/source/notes
 - ![[Pasted image 20211231140855.png]]
 - lucid dreaming is dreaming with an element of [[conscious|consciousness]]
 - [[Sakshi Bhava]] or [[mindfulness]] is the ability to separate from your [[mind]] and observe your thoughts objectively. 
+	- [[Consciousness is our capacity to introspect]]
 - In [[CBT]]
 	- [[Thought Fusion]] is the self combined with the thoughts
 	- [[Though Diffusion]] is [[detachment]] from your thoughts like [[Vairagya]]
 - [[Flow State]] is about getting as far away from the distractions of the [[mind]] and achieve pure focus
 - [[Dhyana]] is pure [[conscious]] without mental activity
 
- ![[Pasted image 20211231141949.png]] ^576f87
+  ^576f87
 
  Next:: [[notes_System of Mind]]
