@@ -38,7 +38,7 @@ tags: created/source/2021/12/30, node/source/notes
 		- we push our thoughts away
 	- [[Jnana]] starts with our experience and what we understand and build from there
 	- [[Ajna Chakra]] [[Activating Ajna Chakra]] will help us gain 
-	- [[Freud]] describe [[super-ego]] and [[id]]
+	- [[Sigmund Freud]] describe [[super-ego]] and [[id]]
 		- [[super-ego]] or moralistic [[self]] telling us what to do
 		- [[id]] is what we want
 		- if our will-power is strong we follow [[super-ego]] weak we follow our [[id]]

@@ -19,6 +19,7 @@ sr-ease: 190
 	- [[Rationalizations are defense-mechanisms against strong emotions]]
 - [[Is cognitive dissonance the reason for harmful behaviors]]
 
+#TO/EXPLORE/WATCH [How to Unsuppress Emotions | Healthy Gamer Webinar #6 - YouTube](https://www.youtube.com/watch?v=70669ZJdmWg)
 #TO/TEND/GRAFT [[videoScarra Drk Interview]]
  %%[[How I process repressed emotions]]%%
  #TO/EXPLORE/RESEARCH  [[Samskara]] more in depth 

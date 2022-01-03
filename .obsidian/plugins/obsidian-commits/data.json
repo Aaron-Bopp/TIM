@@ -10153,7 +10153,7 @@
     "30_Topics/32_Terms/Oedipal complex.md": {
       "size": 500,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Palpitations.md": {
       "size": 252,
@@ -11461,7 +11461,7 @@
       "links": 10
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md": {
-      "size": 1863,
+      "size": 2146,
       "tags": 2,
       "links": 24
     },
@@ -12086,8 +12086,8 @@
       "links": 6
     },
     "30_Topics/37_Techniques/How to process repressed emotions.md": {
-      "size": 986,
-      "tags": 6,
+      "size": 1149,
+      "tags": 7,
       "links": 13
     },
     "30_Topics/37_Techniques/Parsing markup text for Obsidian projects.md": {
@@ -12104,14 +12104,19 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "Sigmund Freud.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2947,
-      "Create": 3478,
-      "Link": 6908,
-      "Expand": 700
+      "Refactor": 2948,
+      "Create": 3479,
+      "Link": 6911,
+      "Expand": 702
     },
     "40_Evergreens": {
       "Refactor": 274,
@@ -12132,7 +12137,7 @@
       "7": 0,
       "8": 67,
       "9": 764,
-      "10": 315,
+      "10": 322,
       "11": 239,
       "12": 596,
       "13": 336,
@@ -12176,7 +12181,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 313,
+      "Mon": 320,
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
@@ -12197,6 +12202,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
@@ -12245,11 +12252,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Freud.md\"> Freud </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/learning.md\"> learning </a>",
         "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
@@ -12299,10 +12305,10 @@
         "<a class=\"internal-link\" href=\"Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>",
         "<a class=\"internal-link\" href=\"progress requires respect.md\"> progress requires respect </a>",
         "<a class=\"internal-link\" href=\"Progress requires change.md\"> Progress requires change </a>",
-        "<a class=\"internal-link\" href=\"Change requires agreement.md\"> Change requires agreement </a>",
-        "<a class=\"internal-link\" href=\"Inequality is an unactionable item.md\"> Inequality is an unactionable item </a>"
+        "<a class=\"internal-link\" href=\"Change requires agreement.md\"> Change requires agreement </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Sigmund Freud.md\"> Sigmund Freud </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Flamingo Pose Meditation.md\"> Flamingo Pose Meditation </a>",
@@ -12352,10 +12358,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Early society is both familiar and unfamiliar.md\"> Early society is both familiar and unfamiliar </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Change requires agreement.md\"> Change requires agreement </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/How to process repressed emotions.md\"> How to process repressed emotions </a>",
+        "<a class=\"internal-link\" href=\"Sigmund Freud.md\"> Sigmund Freud </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/learning.md\"> learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/technology.md\"> technology </a>",
@@ -12404,9 +12411,7 @@
         "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
         "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
         "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
-        "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
-        "<a class=\"internal-link\" href=\"Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
-        "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>"
+        "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12506,6 +12511,7 @@
         "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Oedipal complex.md\"> Oedipal complex </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
@@ -12555,8 +12561,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>",
         "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",

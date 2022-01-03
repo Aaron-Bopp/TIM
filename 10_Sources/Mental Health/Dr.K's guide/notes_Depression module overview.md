@@ -28,6 +28,6 @@ tags: created/source/2022/01/02, node/source/notes
 	- [[Rationalizations are defense-mechanisms against strong emotions]]
 	- [[Sadness is enlightenment and happiness is delusion]]
 - [[notes_Inability to forgive]]
-	- [[Freud]] described [[depression]] as anger directed against the [[self]]
+	- [[Sigmund Freud]] described [[depression]] as anger directed against the [[self]]
 	- how to move forward in life
 - [[notes_Clinical vs Non-clinical depression]]
