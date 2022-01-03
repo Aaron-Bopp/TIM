@@ -14,16 +14,18 @@ sr-ease: 230
 > If you say that you cannot do something in good [[conscience]] you mean that you cannot do it because you think it is wrong. 
 ^[[In good conscience/in all conscience definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/us/dictionary/english/in-good-conscience-in-all-conscience)]%%
 
-Many people think that [[conscious|consciousness]] is an  of [[humanity]], but I think that while humans are the only ones to achieve it, [[conscious|consciousness]] is variable within our species.
+Many people think that [[conscious|consciousness]] is a fundamental part of [[humanity]], but I think that while humans are the only ones to achieve it, [[conscious|consciousness]] is variable within our species just like our capacity to introspect: [[Humans are primarily irrational, illogical, emotional beings]]
 
-The [[Yogi|Yogis]] observed that we can only [[perception|perceive]] things that are separate from us, so because we can perceive our own thought, our [[conscious|consciousness]] was outside of the [[mind]].
+The [[Yogi|Yogis]] observed that we can only [[perception|perceive]] things that are separate from us, so because we can perceive our own thought, our [[conscious|consciousness]] must be outside of the [[mind]].
 ^[[[notes_The Nature of Mind]]]
 This would mean that if something is impairing our ability to observe our own thoughts, we are less [[conscious]] and if we are able to more easily observe our thoughts we are more [[conscious]].
 This is no new idea, and is the basis of much [[eastern philosophy]].
-^[[[Meditation is a practice and discipline of observation]]
+^[
+[[Meditation is a practice and discipline of observation]]
 and so it
 it strengthens our ability to observe ourselves:
-[[Meditation is a practice to develop a stronger conscious]]]
+[[Meditation is a practice to develop a stronger conscious]]
+]
 
 The specific ability to introspect is called [[Sakshi Bhava]], or as it has been popularized in [[America]], [[mindfulness]]. 
 
@@ -34,13 +36,13 @@ The specific ability to introspect is called [[Sakshi Bhava]], or as it has been
 [[Buddhism is the study of happiness through detachment]]
 
 Followed to it's conclusion [[mindfulness]] will allow you to calm your [[senses]],
-^[[[Meditation helps us regulate our nervous system]]]
+^[[[Meditation helps us regulate our nervous system]] helps with [[Your anxiety knows your insecurities better than you do]]]
 heal [[childhood]] wounds,
-^[[[Meditation helps us detach negative attachments]]]
+^[[[Meditation helps us detach negative attachments]] helps with [[We carry our childhood wounds into adulthood]]]
 overcome our emotional [[rationalizations]],
-^[[[Meditation helps us gain control over our emotions]]]
+^[[[Meditation helps us gain control over our emotions]] helps with [[Rationalizations are defense-mechanisms against strong emotions]]]
 reach [[flow state]] of [[friction|frictionless]] concentration,
-^[[[notes_The Nature of Mind]]]
+^[[[notes_The Nature of Mind]] helps with [[We will evolve when we make learning as easy as thinking]]]
 and finally a no-mind state known as [[Dhyana]].
 
 ![[Pasted image 20211231141949.png]]
@@ -51,7 +53,7 @@ and finally a no-mind state known as [[Dhyana]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[self]], [[mental health]]

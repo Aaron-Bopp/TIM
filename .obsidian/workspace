@@ -4,102 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ad66361d224fd696",
+        "id": "f4f826707fa338f3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/32_Terms/Sakshi Bhava.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Sakshi Bhava.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is our capacity to introspect.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":10},\"to\":{\"line\":12,\"ch\":10}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice to develop a stronger conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.521739102457682}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":40},\"to\":{\"line\":28,\"ch\":40}}}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":34},\"to\":{\"line\":13,\"ch\":34}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.9089669217622}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Strong enough logic becomes belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":38},\"to\":{\"line\":28,\"ch\":38}},\"scroll\":8.695651884267766}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":26},\"to\":{\"line\":23,\"ch\":26}}}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are addicted to believing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":40},\"to\":{\"line\":16,\"ch\":40}},\"scroll\":0.8695651581456795}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":27.735053345073315}"
-            },
-            {
-              "leaf": "ad66361d224fd696",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_The Next Chapter of Readwise Our Own Reading App.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":111},\"to\":{\"line\":18,\"ch\":111}},\"scroll\":0}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "92fc8ef2af20df14",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -109,70 +19,40 @@
           "pos": 1,
           "stack": [
             {
-              "leaf": "92fc8ef2af20df14",
+              "leaf": "f4f826707fa338f3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/friction.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":15},\"to\":{\"line\":3,\"ch\":15}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Brahmacharya Ashram.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "92fc8ef2af20df14",
+              "leaf": "f4f826707fa338f3",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is our capacity to introspect.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":20.1194709931444}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "8a16f9ee22ca6087",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Consciousness is the fundamental unit of existence.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "8a16f9ee22ca6087",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is the fundamental unit of existence.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":4.347825942133883}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":70},\"to\":{\"line\":22,\"ch\":70}},\"scroll\":8.343749727943267}"
             },
             {
-              "leaf": "8a16f9ee22ca6087",
+              "leaf": "f4f826707fa338f3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f4f826707fa338f3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Dharma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":19},\"to\":{\"line\":9,\"ch\":19}}}"
+            },
+            {
+              "leaf": "f4f826707fa338f3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f4f826707fa338f3",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "3f3b4426e96f5d03",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "3f3b4426e96f5d03",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":106},\"to\":{\"line\":34,\"ch\":106}},\"scroll\":25.088364491370047}"
             }
           ]
         }
@@ -225,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -258,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -304,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Consciousness is our capacity to introspect.md"
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md"
               }
             },
             "pane-relief:history-v1": {
@@ -421,7 +301,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
+                "file": "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -528,20 +408,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 930.9945068359375,
-    "collapsed": true
+    "width": 930.9945068359375
   },
-  "active": "92fc8ef2af20df14",
+  "active": "f4f826707fa338f3",
   "lastOpenFiles": [
-    "40_Evergreens/Consciousness is our capacity to introspect.md",
-    "30_Topics/31_Stubs/friction.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md",
-    "40_Evergreens/Consciousness is the fundamental unit of existence.md",
-    "30_Topics/32_Terms/perception.md",
-    "30_Topics/32_Terms/Sakshi Bhava.md",
-    "40_Evergreens/Meditation is a practice to develop a stronger conscious.md",
-    "30_Topics/32_Terms/subconscious.md",
-    "30_Topics/32_Terms/conscious.md",
-    "40_Evergreens/Meditation improves mental, physical, and emotional health.md"
+    "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
+    "30_Topics/32_Terms/Brahmacharya Ashram.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
+    "30_Topics/32_Terms/Dharma.md",
+    "30_Topics/31_Stubs/notes_Dharma.md",
+    "90_Personal/Personal/Journal.md",
+    "90_Personal/What is wrong with the world.md",
+    "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+    "40_Evergreens/Meditation improves mental, physical, and emotional health.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Brain Gut Axis.md"
   ]
 }

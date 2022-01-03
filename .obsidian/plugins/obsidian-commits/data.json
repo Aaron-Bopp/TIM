@@ -9471,9 +9471,9 @@
       "links": 0
     },
     "40_Evergreens/Consciousness is the fundamental unit of existence.md": {
-      "size": 1120,
-      "tags": 4,
-      "links": 15
+      "size": 1660,
+      "tags": 5,
+      "links": 22
     },
     "00_Meta/Templates/LIST.md": {
       "size": 0,
@@ -11573,7 +11573,7 @@
     "90_Personal/Personal/Journal.md": {
       "size": 33776,
       "tags": 4,
-      "links": 75
+      "links": 89
     },
     "90_Personal/Personal/My relationship with my parents.md": {
       "size": 1079,
@@ -11691,14 +11691,14 @@
       "links": 11
     },
     "40_Evergreens/Meditation improves mental, physical, and emotional health.md": {
-      "size": 914,
+      "size": 1145,
       "tags": 3,
-      "links": 12
+      "links": 18
     },
     "40_Evergreens/Meditation helps us regulate our nervous system.md": {
       "size": 829,
       "tags": 3,
-      "links": 10
+      "links": 14
     },
     "00_Meta/Templates/Daily note.md": {
       "size": 522,
@@ -12010,11 +12010,6 @@
       "tags": 2,
       "links": 0
     },
-    "30_Topics/31_Stubs/notes_Dharma.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
     "30_Topics/31_Stubs/performance.md": {
       "size": 0,
       "tags": 2,
@@ -12090,11 +12085,6 @@
       "tags": 5,
       "links": 8
     },
-    "90_Personal/What is wrong with the world.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "30_Topics/31_Stubs/learning.md": {
       "size": 0,
       "tags": 2,
@@ -12148,21 +12138,21 @@
     "40_Evergreens/Consciousness is our capacity to introspect.md": {
       "size": 3069,
       "tags": 5,
-      "links": 36
+      "links": 41
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2962,
+      "Refactor": 2964,
       "Create": 3487,
-      "Link": 6966,
-      "Expand": 718
+      "Link": 6976,
+      "Expand": 723
     },
     "40_Evergreens": {
       "Refactor": 285,
       "Create": 50,
-      "Link": 883,
-      "Expand": 339
+      "Link": 889,
+      "Expand": 341
     }
   },
   "dailyCommits": {
@@ -12182,7 +12172,7 @@
       "12": 605,
       "13": 365,
       "14": 2434,
-      "15": 231,
+      "15": 248,
       "16": 1239,
       "17": 2771,
       "18": 2292,
@@ -12208,7 +12198,7 @@
       "12": 102,
       "13": 109,
       "14": 113,
-      "15": 17,
+      "15": 25,
       "16": 40,
       "17": 317,
       "18": 21,
@@ -12221,7 +12211,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 413,
+      "Mon": 430,
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
@@ -12230,7 +12220,7 @@
       "Sun": 5709
     },
     "40_Evergreens": {
-      "Mon": 120,
+      "Mon": 128,
       "Tue": 178,
       "Wed": 166,
       "Thu": 284,
@@ -12242,6 +12232,11 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12287,12 +12282,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
         "<a class=\"internal-link\" href=\"Characters.md\"> Characters </a>",
         "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
-        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Default Mode Network (DMN).md\"> Default Mode Network (DMN) </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>"
+        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12401,6 +12391,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Emergence of democracy.md\"> Emergence of democracy </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12450,8 +12441,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/change.md\"> change </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge.md\"> knowledge </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/realization.md\"> realization </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Activating the Ajna Chakra.md\"> Activating the Ajna Chakra </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/realization.md\"> realization </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12501,6 +12491,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Dharma.md\"> notes_Dharma </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Depression module overview.md\"> notes_Depression module overview </a>",
         "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
         "<a class=\"internal-link\" href=\"Characters.md\"> Characters </a>",
@@ -12549,11 +12541,18 @@
         "<a class=\"internal-link\" href=\"Yama.md\"> Yama </a>",
         "<a class=\"internal-link\" href=\"Yajna.md\"> Yajna </a>",
         "<a class=\"internal-link\" href=\"Vishuddha Chakra.md\"> Vishuddha Chakra </a>",
-        "<a class=\"internal-link\" href=\"Vikruti.md\"> Vikruti </a>",
-        "<a class=\"internal-link\" href=\"Vijnanamaya Kosha.md\"> Vijnanamaya Kosha </a>",
-        "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>"
+        "<a class=\"internal-link\" href=\"Vikruti.md\"> Vikruti </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12595,16 +12594,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Oedipal complex.md\"> Oedipal complex </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Enneagram.md\"> Enneagram </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Meyers Briggs.md\"> Meyers Briggs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dosha.md\"> Dosha </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
@@ -12715,6 +12705,8 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12763,8 +12755,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>"
       ],
       "Created": [
@@ -12873,6 +12863,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/a totally integrated machine should be infinitely scalable.md\"> a totally integrated machine should be infinitely scalable </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12922,8 +12913,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is primarily an executive function disorder.md\"> ADHD is primarily an executive function disorder </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\"> An increase in self-love and self-respect may lead to a loss of function </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/American's are scared of the word communism not it's meaning.md\"> American's are scared of the word communism not it's meaning </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -12974,6 +12964,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -13019,12 +13014,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The fragility of nodes in a second brain.md\"> The fragility of nodes in a second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Trans people will look for any other solution than being trans.md\"> Trans people will look for any other solution than being trans </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political failure was due to lack of activism and poltical inneficacy.md\"> Yang's political failure was due to lack of activism and poltical inneficacy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans try really hard to avoid understanding our mistakes.md\"> Humans try really hard to avoid understanding our mistakes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\"> You're not afraid of falling off the cliff you're afraid of jumping off the cliff </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",

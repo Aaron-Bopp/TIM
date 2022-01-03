@@ -10,21 +10,26 @@ sr-ease: 190
 
 #### [[Consciousness is the fundamental unit of existence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Ancient [[yoga|Yogic]] tradition offers an alternative to traditional [[Western]] creation myths such as [[Christianity]]'s. Instead of an all-powerful, all-knowing, and frankly problematic
+^[[[The biblical Christian God is evil and does not deserve to be worshipped]]]
+god, the universe was formed from an [[infinite]] sea of [[conscious|consciousness]] called [[Brahman]]
 
-[[Brahman]] to become the [[energy]] of the universe and it coalesces to become [[matter]] 
+This sea coalesced to become the [[energy]] which coalesced to become [[matter]].
 ^[[[notes_Metaphysics of Meditation]]]
 This is how [[Meditation increases our ability to influence the world#On a spiritual level]] 
 
+#TO/DO/FIND  quote "I think therefore I am"
+The only thing we can truly know is real is our [[perception]]. Our [[conscious|consciousness]] is the only thing we can guarantee. Yet our [[conscious]] is limited by our [[mind-body complex]].
 As you become less trapped in your mind, you become more [[conscious]]:
 [[Meditation is a practice to develop a stronger conscious]]
 
-
 ##### Counter:: Time is the fundamental unit of existence
+
 This doesn't make sense for someone who believes in [[reincarnation]] and [[karma]], but for most people their time on earth is the only there concerned about. #TO/PONDER what are the effects of this [[belief]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[conscious]], [[self]], [[enlightenment]], [[human experience]], [[transhumanism]]

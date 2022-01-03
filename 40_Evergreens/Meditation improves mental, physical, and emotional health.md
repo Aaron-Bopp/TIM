@@ -3,22 +3,28 @@ created: 2022-01-02T09:04:12
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-02
+sr-due: 2022-01-04
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Meditation improves mental, physical, and emotional health]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- [[Mental health is a reaction to one's environment]]
+[[Mental health is a reaction to one's environment]] and the [[mind-body complex]] is a interconnected web of [[hormone]]s, [[emotions]], [[Neurotransmitter]]s and so much more.
+^[[[notes_Brain Gut Axis]]]
+
+- [[Meditation is a practice and discipline of observation]]
 
 - [[Meditation helps us regulate our nervous system]]
 - [[Meditation helps us regulate our hormonal environment]]
+
 - [[Meditation helps us detach negative attachments]]
 - [[Meditation helps us gain control over our emotions]]
 - [[Meditation helps us develop empathy]]
-- [[Meditation is a practice and discipline of observation]]
+
+- [[Consciousness is our capacity to introspect]]
 - [[Meditation is a practice to develop a stronger conscious]]
+
 - [[How to develop a meditation practice]]
 
 ### <hr class="footnote"/>
