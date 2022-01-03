@@ -12079,13 +12079,18 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "30_Topics/36_Lists/Video essays.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 2929,
-      "Create": 3473,
-      "Link": 6901,
+      "Create": 3474,
+      "Link": 6903,
       "Expand": 696
     },
     "40_Evergreens": {
@@ -12116,7 +12121,7 @@
       "16": 1239,
       "17": 2771,
       "18": 2292,
-      "19": 493,
+      "19": 496,
       "20": 203,
       "21": 708,
       "22": 551,
@@ -12157,7 +12162,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5675
+      "Sun": 5678
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12225,6 +12230,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disease.md\"> disease </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mind-body complex.md\"> mind-body complex </a>",
         "<a class=\"internal-link\" href=\"Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
@@ -12274,8 +12280,7 @@
         "<a class=\"internal-link\" href=\"What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>",
         "<a class=\"internal-link\" href=\"Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
         "<a class=\"internal-link\" href=\"Respect for women.md\"> Respect for women </a>",
-        "<a class=\"internal-link\" href=\"Respect for travellers.md\"> Respect for travellers </a>",
-        "<a class=\"internal-link\" href=\"Respect for the subconscious.md\"> Respect for the subconscious </a>"
+        "<a class=\"internal-link\" href=\"Respect for travellers.md\"> Respect for travellers </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
@@ -12331,6 +12336,7 @@
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Progress requires change.md\"> Progress requires change </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disease.md\"> disease </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Dharma.md\"> notes_Dharma </a>",
@@ -12380,8 +12386,7 @@
         "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>",
         "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
         "<a class=\"internal-link\" href=\"State Emergence.md\"> State Emergence </a>",
-        "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>",
-        "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>"
+        "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12481,6 +12486,7 @@
         "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Enneagram.md\"> Enneagram </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Meyers Briggs.md\"> Meyers Briggs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dosha.md\"> Dosha </a>",
@@ -12530,8 +12536,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
