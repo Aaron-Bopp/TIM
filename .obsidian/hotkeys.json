@@ -295,7 +295,6 @@
       "key": "S"
     }
   ],
-  "various-complements:reload-custom-dictionaries": [],
   "templater-obsidian:insert-templater": [
     {
       "modifiers": [
@@ -371,8 +370,6 @@
       "key": "A"
     }
   ],
-  "various-complements:predictable-complements": [],
-  "various-complements:show-suggestions": [],
   "pane-relief:swap-next": [
     {
       "modifiers": [
@@ -414,6 +411,16 @@
         "Alt"
       ],
       "key": "H"
+    }
+  ],
+  "various-complements:reload-custom-dictionaries": [],
+  "various-complements:predictable-complements": [],
+  "various-complements:show-suggestions": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
     }
   ]
 }

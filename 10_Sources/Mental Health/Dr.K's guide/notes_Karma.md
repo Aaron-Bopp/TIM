@@ -20,8 +20,8 @@ tags: created/source/2021/12/30, node/source/notes
 
 ## Notes
 - [[karma]] is something is presented to you
-- [[Dharma]] is linked to [[karma]] so pay attention to your [[karma]]
-- How to find your [[Dharma]]
+- [[Dharma]] is linked to [[karma]] so pay attention to your [[karma]] 
+- How to find your [[Dharma]] how can I have a stored
 	- Fill a page with what you think is wrong with the world
 		- You will be surprised with what your [[mind]] navigates towards
 	- You may not be ready for your final [[Dharma]], what is something that you could do that could move you forward
