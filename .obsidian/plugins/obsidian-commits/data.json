@@ -4701,9 +4701,9 @@
       "links": 12
     },
     "40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md": {
-      "size": 1213,
+      "size": 1556,
       "tags": 5,
-      "links": 9
+      "links": 13
     },
     "40_Evergreens/Q justifies conservatives discontent.md": {
       "size": 681,
@@ -8823,7 +8823,7 @@
     "30_Topics/31_Stubs/Enneagram.md": {
       "size": 211,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/31_Stubs/envy.md": {
       "size": 146,
@@ -9088,7 +9088,7 @@
     "30_Topics/31_Stubs/Meyers Briggs.md": {
       "size": 176,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/31_Stubs/mindfulness.md": {
       "size": 569,
@@ -9868,7 +9868,7 @@
     "30_Topics/32_Terms/Dosha.md": {
       "size": 332,
       "tags": 2,
-      "links": 1
+      "links": 7
     },
     "30_Topics/32_Terms/Dukkha.md": {
       "size": 270,
@@ -11316,9 +11316,9 @@
       "links": 3
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md": {
-      "size": 239,
+      "size": 1863,
       "tags": 2,
-      "links": 3
+      "links": 19
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Herbs.md": {
       "size": 464,
@@ -11336,9 +11336,9 @@
       "links": 5
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md": {
-      "size": 577,
+      "size": 1516,
       "tags": 2,
-      "links": 9
+      "links": 12
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md": {
       "size": 2518,
@@ -12064,20 +12064,35 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "30_Topics/Uijayi Pranayama.md": {
+      "size": 659,
+      "tags": 2,
+      "links": 6
+    },
+    "30_Topics/31_Stubs/mind-body complex.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/disease.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2928,
-      "Create": 3470,
-      "Link": 6886,
-      "Expand": 687
+      "Refactor": 2929,
+      "Create": 3473,
+      "Link": 6901,
+      "Expand": 696
     },
     "40_Evergreens": {
       "Refactor": 266,
       "Create": 49,
-      "Link": 845,
-      "Expand": 322
+      "Link": 846,
+      "Expand": 323
     }
   },
   "dailyCommits": {
@@ -12099,8 +12114,8 @@
       "14": 2381,
       "15": 229,
       "16": 1239,
-      "17": 2768,
-      "18": 2267,
+      "17": 2771,
+      "18": 2292,
       "19": 493,
       "20": 203,
       "21": 708,
@@ -12126,7 +12141,7 @@
       "15": 15,
       "16": 40,
       "17": 317,
-      "18": 19,
+      "18": 21,
       "19": 94,
       "20": 51,
       "21": 64,
@@ -12142,7 +12157,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5647
+      "Sun": 5675
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12151,12 +12166,21 @@
       "Thu": 284,
       "Fri": 182,
       "Sat": 0,
-      "Sun": 611
+      "Sun": 613
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
@@ -12198,18 +12222,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
         "<a class=\"internal-link\" href=\"Meditation helps us gain control over our emotions.md\"> Meditation helps us gain control over our emotions </a>",
         "<a class=\"internal-link\" href=\"Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
-        "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disease.md\"> disease </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mind-body complex.md\"> mind-body complex </a>",
+        "<a class=\"internal-link\" href=\"Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/performance.md\"> performance </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/peace.md\"> peace </a>",
@@ -12257,12 +12275,10 @@
         "<a class=\"internal-link\" href=\"Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
         "<a class=\"internal-link\" href=\"Respect for women.md\"> Respect for women </a>",
         "<a class=\"internal-link\" href=\"Respect for travellers.md\"> Respect for travellers </a>",
-        "<a class=\"internal-link\" href=\"Respect for the subconscious.md\"> Respect for the subconscious </a>",
-        "<a class=\"internal-link\" href=\"Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>",
-        "<a class=\"internal-link\" href=\"Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>",
-        "<a class=\"internal-link\" href=\"Highly evolutionary view.md\"> Highly evolutionary view </a>"
+        "<a class=\"internal-link\" href=\"Respect for the subconscious.md\"> Respect for the subconscious </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sukkha.md\"> Sukkha </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Depression module overview.md\"> notes_Depression module overview </a>",
@@ -12312,10 +12328,11 @@
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Respect for travellers.md\"> Respect for travellers </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Respect for the subconscious.md\"> Respect for the subconscious </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/progress requires respect.md\"> progress requires respect </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Progress requires change.md\"> Progress requires change </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Progress requires change.md\"> Progress requires change </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disease.md\"> disease </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/performance.md\"> performance </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/peace.md\"> peace </a>",
@@ -12364,9 +12381,7 @@
         "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
         "<a class=\"internal-link\" href=\"State Emergence.md\"> State Emergence </a>",
         "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>",
-        "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>",
-        "<a class=\"internal-link\" href=\"Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>",
-        "<a class=\"internal-link\" href=\"European colonialism.md\"> European colonialism </a>"
+        "<a class=\"internal-link\" href=\"Emergence of democracy.md\"> Emergence of democracy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12466,6 +12481,19 @@
         "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Enneagram.md\"> Enneagram </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Meyers Briggs.md\"> Meyers Briggs </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dosha.md\"> Dosha </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md\"> notes_Dharma </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma.md\"> notes_Karma </a>",
@@ -12503,20 +12531,7 @@
         "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge.md\"> knowledge </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/objectivity.md\"> objectivity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/information.md\"> information </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Jnana.md\"> Jnana </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vidya.md\"> Vidya </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/knowledge.md\"> knowledge </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/objectivity.md\"> objectivity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Jnana Padha.md\"> Jnana Padha </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterrent for deconstructing your faith.md\"> Fear cannot be a deterrent for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Psychology of Race and Gender notes.md\"> Psychology of Race and Gender notes </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
@@ -12627,6 +12642,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
@@ -12676,8 +12692,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -12882,6 +12897,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterrent for deconstructing your faith.md\"> Fear cannot be a deterrent for deconstructing your faith </a>",
@@ -12931,8 +12947,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
