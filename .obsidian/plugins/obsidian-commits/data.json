@@ -11578,7 +11578,7 @@
     "90_Personal/Personal/Journal.md": {
       "size": 28060,
       "tags": 4,
-      "links": 73
+      "links": 74
     },
     "90_Personal/Personal/My relationship with my parents.md": {
       "size": 1079,
@@ -11706,9 +11706,9 @@
       "links": 10
     },
     "00_Meta/Templates/Daily note.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
+      "size": 522,
+      "tags": 1,
+      "links": 2
     },
     "90_Personal/91 Daily Notes/2022-01-02.md": {
       "size": 0,
@@ -12109,14 +12109,29 @@
       "size": 0,
       "tags": 3,
       "links": 0
+    },
+    "90_Personal/91 Daily Notes/2022-01-03.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "20_Entry/24 Vault Stats/Created Today.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "20_Entry/24 Vault Stats/Modified Today.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 2948,
-      "Create": 3479,
-      "Link": 6911,
-      "Expand": 702
+      "Create": 3482,
+      "Link": 6916,
+      "Expand": 703
     },
     "40_Evergreens": {
       "Refactor": 274,
@@ -12139,7 +12154,7 @@
       "9": 764,
       "10": 322,
       "11": 239,
-      "12": 596,
+      "12": 605,
       "13": 336,
       "14": 2381,
       "15": 229,
@@ -12181,7 +12196,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 320,
+      "Mon": 329,
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
@@ -12202,6 +12217,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Daily note.md\"> Daily note </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
@@ -12251,10 +12267,12 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Modified Today.md\"> Modified Today </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Created Today.md\"> Created Today </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-03.md\"> 2022-01-03 </a>",
         "<a class=\"internal-link\" href=\"Freud.md\"> Freud </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/learning.md\"> learning </a>",
         "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
@@ -12302,10 +12320,7 @@
         "<a class=\"internal-link\" href=\"Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"@hankgreen on Twitter.md\"> @hankgreen on Twitter </a>",
         "<a class=\"internal-link\" href=\"There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
-        "<a class=\"internal-link\" href=\"Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>",
-        "<a class=\"internal-link\" href=\"progress requires respect.md\"> progress requires respect </a>",
-        "<a class=\"internal-link\" href=\"Progress requires change.md\"> Progress requires change </a>",
-        "<a class=\"internal-link\" href=\"Change requires agreement.md\"> Change requires agreement </a>"
+        "<a class=\"internal-link\" href=\"Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Sigmund Freud.md\"> Sigmund Freud </a>",
@@ -12361,6 +12376,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-03.md\"> 2022-01-03 </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Daily note.md\"> Daily note </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/How to process repressed emotions.md\"> How to process repressed emotions </a>",
         "<a class=\"internal-link\" href=\"Sigmund Freud.md\"> Sigmund Freud </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/learning.md\"> learning </a>",
@@ -12409,9 +12426,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
         "<a class=\"internal-link\" href=\"People easily ignore history.md\"> People easily ignore history </a>",
         "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
-        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
-        "<a class=\"internal-link\" href=\"The two stories of prehistory.md\"> The two stories of prehistory </a>",
-        "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>"
+        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12511,6 +12526,9 @@
         "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Daily note.md\"> Daily note </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-03.md\"> 2022-01-03 </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Oedipal complex.md\"> Oedipal complex </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>",
@@ -12558,10 +12576,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ketamine.md\"> Ketamine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/NoradrenalineNorepinephrine.md\"> NoradrenalineNorepinephrine </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>",
-        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",

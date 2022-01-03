@@ -1,4 +1,6 @@
 ---
+created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %> 
+tags: daily
 stats:
   - totags: 
   - toexplore:
@@ -8,22 +10,15 @@ stats:
   - topics:
   - sources:
 ---
-#### Modified today
-```dataview
-TABLE 
-	Status,
-	length(file.inlinks) as In, 
-	length(file.outlinks) as Out
-WHERE date(file.mday) = date(today)
-```
-#### Created today
-```dataview
-TABLE
-	file.inlinks as In,
-	length(file.outlinks) as Out
-FROM #created/evergreen/<% tp.date.now("YYYY/MM/DD") %>
-```
+
+## Created
+
+![[Created Today]]
+
+## Modified
+
+![[Modified Today]]
 
 #### Modified Yesterday
-#### Created Yesterday
 
+#### Created Yesterday

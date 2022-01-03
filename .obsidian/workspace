@@ -6,13 +6,14 @@
       {
         "id": "779735696eadbc73",
         "type": "leaf",
+        "dimension": 33.360032038446136,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+            "file": "90_Personal/91 Daily Notes/2022-01-03.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         },
         "pane-relief:history-v1": {
@@ -21,8 +22,20 @@
             {
               "leaf": "779735696eadbc73",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2022-01-03.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":3},\"to\":{\"line\":11,\"ch\":3}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Journal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":12.966372141360338}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -125,18 +138,80 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":3.2173911002795625}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "d0298d0bed7134c8",
+        "type": "leaf",
+        "dimension": 33.27993592310773,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00_Meta/Templates/Daily note.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "d0298d0bed7134c8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/Daily note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":7}},\"scroll\":0}"
             },
             {
-              "leaf": "779735696eadbc73",
+              "leaf": "d0298d0bed7134c8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Modified Today.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "779735696eadbc73",
+              "leaf": "d0298d0bed7134c8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Created Today.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "d0298d0bed7134c8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/Daily note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":1.8260868775275725}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "c642299fe5a79b6a",
+        "type": "leaf",
+        "dimension": 33.360032038446136,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00_Meta/Templates/META.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c642299fe5a79b6a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/META.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":5},\"to\":{\"line\":4,\"ch\":5}}}"
+            },
+            {
+              "leaf": "c642299fe5a79b6a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/EGNOTE.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -189,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+                "file": "90_Personal/91 Daily Notes/2022-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+                "file": "90_Personal/91 Daily Notes/2022-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +323,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -268,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md"
+                "file": "90_Personal/91 Daily Notes/2022-01-03.md"
               }
             },
             "pane-relief:history-v1": {
@@ -373,7 +448,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+                "file": "90_Personal/91 Daily Notes/2022-01-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -485,15 +560,15 @@
   },
   "active": "779735696eadbc73",
   "lastOpenFiles": [
+    "90_Personal/91 Daily Notes/2022-01-03.md",
+    "00_Meta/Templates/Daily note.md",
+    "20_Entry/24 Vault Stats/Modified Today.md",
+    "20_Entry/24 Vault Stats/Created Today.md",
+    "00_Meta/Templates/META.md",
+    "00_Meta/Templates/EGNOTE.md",
+    "90_Personal/Personal/Journal.md",
     "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
     "30_Topics/37_Techniques/How to process repressed emotions.md",
-    "Sigmund Freud.md",
-    "30_Topics/32_Terms/Oedipal complex.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Depression module overview.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_System of Mind.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md"
+    "Sigmund Freud.md"
   ]
 }
