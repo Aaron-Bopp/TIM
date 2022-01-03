@@ -10,8 +10,6 @@ sr-ease: 248
 
 #### [[MAGA is built off nostalgia not facts]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/PROGRAM iframe and clip for this youtube video
-
 "Make America Great Again," but when was [[America]] great? and how would we even get it to that point again. This will stump most conservatives, or lead to some extremely racist remarks (ex. [When Was America Great?: The Daily Show - YouTube](https://youtu.be/uVQvWwHM5kM))
 
 ### <hr class="footnote"/>

@@ -18,7 +18,7 @@ All thoughts are made up of the electrons connecting neurons. The path's between
 In our first brain there is no such thing as "fragility" there is only learning and forgetting, but in the second brain learning doesn't happen on it's own and forgetting is impossible:
 [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
-The easiest way that we can surpass the first brain is *permanency.* Data can sit for #TO/DO/FIND years and still be accessible, but unlike in our first brain, data will not grow over time:
+The easiest way that we can surpass the first brain is *permanency.* Data can sit for 20 years on a hard drive and still be accessible, but unlike in our first brain, data will not grow over time:
 [[The fragility of nodes in a second brain]]
 
 Much of [[knowledge management]] is centered around how to handle these problems: [[A healthy second brain requires a surplus of entry points]]

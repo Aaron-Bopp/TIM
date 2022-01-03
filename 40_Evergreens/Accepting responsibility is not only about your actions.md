@@ -4,15 +4,15 @@ tags: created/evergreen/2021/06/08, node/evergreen
 aliases:
   - Accepting responsibility for moving past your trauma
   - Accepting responsibility is about moving forward for yourself and for the people affected by the event
-sr-due: 2022-01-01
-sr-interval: 24
+sr-due: 2022-03-02
+sr-interval: 59
 sr-ease: 242
 ---
 
 #### [[Accepting responsibility is not only about your actions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 %%I wish I could have ancestors that I'm proud of. I wish I could look back and see [[culture]] and history that I could draw from. But I can't. #TO/PONDER/ME %%
-Sometimes accepting responsibility for something means accepting the responsibility of fixing it. Accepting responsibility for things outside of your control does not have anything to do with the actions. Actions cannot be reversed, nor can they often be rectified.
+Sometimes accepting responsibility for something means accepting the responsibility of fixing it. Accepting responsibility for things outside of your control does not have anything to do with the actions. Actions cannot be reversed, nor can they often be made up for.
 ^[[[Transformative justice is the alternative to punitive justice]]]
 Accepting responsibility means acknowledging why the event happened, what it did to you, and what it did to other people.
 This can mean accepting responsibility for moving past your [[trauma]], the needs of others being pushed upon you, or the sins of your ancestors that you still benefit from.  This means that [[Working through trauma can involve of a lot of letting go]]

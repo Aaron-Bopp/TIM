@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1f05599b5dac54d3",
+        "id": "779735696eadbc73",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Converting existing file formats to plaintext.md",
+            "file": "40_Evergreens/MAGA is built off nostalgia not facts.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,130 +19,124 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "1f05599b5dac54d3",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/MAGA is built off nostalgia not facts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "1f05599b5dac54d3",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/Activating Ajna Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/Topic Hierarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/It is valuable to admit that you might be wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/transhumanism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "1f05599b5dac54d3",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Video essays.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.9999994700808}"
             },
             {
-              "leaf": "1f05599b5dac54d3",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Life principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "1f05599b5dac54d3",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Video essays.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.9999994700808}"
             },
             {
-              "leaf": "1f05599b5dac54d3",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2022-01-02.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.456521530125036}"
             },
             {
-              "leaf": "1f05599b5dac54d3",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2022-01-02.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":18.912694515712644}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2021-12-31.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2022-01-02.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2022-01-02.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":12.894940647387843}"
-            },
-            {
-              "leaf": "1f05599b5dac54d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "3dc51fb690add6c6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+            },
             {
-              "leaf": "3dc51fb690add6c6",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We will evolve when we make learning as easy as thinking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":3.2173911002795625}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Look for understanding before you look for solutions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":40},\"to\":{\"line\":23,\"ch\":40}}}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Look for understanding before you look for solutions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":83},\"to\":{\"line\":20,\"ch\":83}},\"scroll\":4.913043211655558}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             }
           ]
         }
@@ -176,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/topic/technique",
+                "query": "tag:#TO/DO/PROGRAM",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -195,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Converting existing file formats to plaintext.md",
+                "file": "40_Evergreens/MAGA is built off nostalgia not facts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -228,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Converting existing file formats to plaintext.md",
+                "file": "40_Evergreens/MAGA is built off nostalgia not facts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -274,8 +268,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Converting existing file formats to plaintext.md"
+                "file": "40_Evergreens/MAGA is built off nostalgia not facts.md"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "840e0a70de3f588e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -307,31 +313,7 @@
             }
           },
           {
-            "id": "7572170b53174850",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "a8783d3f7c103ea4",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "7af8285ba47b2c1e",
+            "id": "47b3518370342bad",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -343,7 +325,7 @@
             }
           },
           {
-            "id": "438949572d2f4db2",
+            "id": "4d97869f5922bb12",
             "type": "leaf",
             "state": {
               "type": "BC-stats",
@@ -355,7 +337,7 @@
             }
           },
           {
-            "id": "7c4495fcd132facb",
+            "id": "b805a72d0cc1ce7c",
             "type": "leaf",
             "state": {
               "type": "BC-down",
@@ -367,10 +349,10 @@
             }
           },
           {
-            "id": "cebc6d219b4df3ad",
+            "id": "7572170b53174850",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "git-view",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -379,7 +361,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "84f4f33f118f4527",
@@ -391,7 +373,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Converting existing file formats to plaintext.md",
+                "file": "40_Evergreens/MAGA is built off nostalgia not facts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -501,17 +483,17 @@
     "width": 930.9945068359375,
     "collapsed": true
   },
-  "active": "1f05599b5dac54d3",
+  "active": "779735696eadbc73",
   "lastOpenFiles": [
-    "40_Evergreens/Converting existing file formats to plaintext.md",
-    "30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
-    "30_Topics/37_Techniques/Activating Ajna Chakra.md",
-    "30_Topics/Topic Hierarchy.md",
-    "40_Evergreens/It is valuable to admit that you might be wrong.md",
-    "30_Topics/31_Stubs/transhumanism.md",
-    "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
-    "30_Topics/36_Lists/Video essays.md",
-    "30_Topics/36_Lists/Life principles.md",
-    "90_Personal/91 Daily Notes/2022-01-02.md"
+    "40_Evergreens/MAGA is built off nostalgia not facts.md",
+    "40_Evergreens/Parents need to model the ability to deal with emotion to their children.md",
+    "10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md",
+    "20_Entry/209 Notepad.md",
+    "40_Evergreens/A story will either end where it began, or somewhere else.md",
+    "40_Evergreens/Basic tools for working with plaintext.md",
+    "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md",
+    "40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md",
+    "40_Evergreens/Children in traumatic households expect more love than their parents can give.md",
+    "40_Evergreens/You should the love the loves of those who you love.md"
   ]
 }

@@ -10,10 +10,6 @@ sr-ease: 190
 
 #### [[Children in traumatic households expect more love than their parents can give]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-%%
-#TO/DO/FIND Dr.K qoute about all children being [[trauma|traumatized]]
-%%
-
 #TO/TEND/PRUNE to generalize less
 This is because the reason the child's home is traumatic is because of the [[parents]] and there is no way the parents can overcome this.
 ^[[[Our authority figures curate and reinforce what we are allowed to imitate]]]

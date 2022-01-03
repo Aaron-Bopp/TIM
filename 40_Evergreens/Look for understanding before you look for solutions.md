@@ -9,6 +9,8 @@ sr-ease: 250
 ---
 
 #### [[Look for understanding before you look for solutions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+[Therapist Teaches how to Convince Anyone of Anything - YouTube](https://www.youtube.com/watch?v=8bAEuX2w2Ow)
 %%
 This note is more about [[inter-personal communication]] and [[Searching for THE answer is dangerous]] is more about [[self-actualization]]
 #TO/TEND/DEOBFUSCATE title and body
@@ -29,7 +31,6 @@ This is ironic because [[The materialistic view of religions examines why humans
 
  [[Searching for THE answer is dangerous]] is a manifestation of this trait on a [[self-actualization|personal]] level.
 
-- [ ] #TO/DO/FIND DrKs video on this 
 
 ### <hr class="footnote"/>
 
