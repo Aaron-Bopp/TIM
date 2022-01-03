@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/31_Stubs/transhumanism.md",
+            "file": "40_Evergreens/Converting existing file formats to plaintext.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,38 @@
             {
               "leaf": "1f05599b5dac54d3",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "1f05599b5dac54d3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1f05599b5dac54d3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/Activating Ajna Chakra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1f05599b5dac54d3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/Topic Hierarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1f05599b5dac54d3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/It is valuable to admit that you might be wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1f05599b5dac54d3",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/transhumanism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "1f05599b5dac54d3",
@@ -146,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/evergreen/2022/01/01",
+                "query": "tag:#node/topic/technique",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -165,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
+                "file": "40_Evergreens/Converting existing file formats to plaintext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -198,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
+                "file": "40_Evergreens/Converting existing file formats to plaintext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,7 +253,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/We will evolve when we make learning as easy as thinking.md"
+                "file": "40_Evergreens/Converting existing file formats to plaintext.md"
               }
             },
             "pane-relief:history-v1": {
@@ -360,7 +391,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
+                "file": "40_Evergreens/Converting existing file formats to plaintext.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -470,17 +501,17 @@
     "width": 930.9945068359375,
     "collapsed": true
   },
-  "active": "3dc51fb690add6c6",
+  "active": "1f05599b5dac54d3",
   "lastOpenFiles": [
-    "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
+    "40_Evergreens/Converting existing file formats to plaintext.md",
+    "30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
+    "30_Topics/37_Techniques/Activating Ajna Chakra.md",
+    "30_Topics/Topic Hierarchy.md",
+    "40_Evergreens/It is valuable to admit that you might be wrong.md",
     "30_Topics/31_Stubs/transhumanism.md",
+    "40_Evergreens/We will evolve when we make learning as easy as thinking.md",
     "30_Topics/36_Lists/Video essays.md",
     "30_Topics/36_Lists/Life principles.md",
-    "90_Personal/91 Daily Notes/2022-01-02.md",
-    "90_Personal/91 Daily Notes/2021-12-31.md",
-    "40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md",
-    "30_Topics/31_Stubs/Enneagram.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md",
-    "30_Topics/31_Stubs/Meyers Briggs.md"
+    "90_Personal/91 Daily Notes/2022-01-02.md"
   ]
 }

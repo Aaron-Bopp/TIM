@@ -4480,11 +4480,6 @@
       "tags": 3,
       "links": 10
     },
-    "40_Evergreens/Convert words docs (docx) to markdown (md) with powershell and pandoc.md": {
-      "size": 648,
-      "tags": 4,
-      "links": 4
-    },
     "40_Evergreens/Creationism built an anti-science culture.md": {
       "size": 714,
       "tags": 3,
@@ -9451,9 +9446,9 @@
       "links": 0
     },
     "30_Topics/31_Stubs/transhumanism.md": {
-      "size": 165,
+      "size": 624,
       "tags": 2,
-      "links": 0
+      "links": 3
     },
     "30_Topics/31_Stubs/transphobia.md": {
       "size": 205,
@@ -11770,11 +11765,6 @@
       "tags": 2,
       "links": 3
     },
-    "30_Topics/Activating Ajna Chakra.md": {
-      "size": 552,
-      "tags": 2,
-      "links": 5
-    },
     "30_Topics/31_Stubs/knowledge.md": {
       "size": 0,
       "tags": 2,
@@ -12065,11 +12055,6 @@
       "tags": 2,
       "links": 0
     },
-    "30_Topics/Uijayi Pranayama.md": {
-      "size": 659,
-      "tags": 2,
-      "links": 6
-    },
     "30_Topics/31_Stubs/mind-body complex.md": {
       "size": 0,
       "tags": 0,
@@ -12084,20 +12069,45 @@
       "size": 0,
       "tags": 2,
       "links": 1
+    },
+    "30_Topics/31_Stubs/technology.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "40_Evergreens/It is valuable to admit that you might be wrong.md": {
+      "size": 888,
+      "tags": 3,
+      "links": 5
+    },
+    "30_Topics/37_Techniques/Activating Ajna Chakra.md": {
+      "size": 552,
+      "tags": 2,
+      "links": 5
+    },
+    "30_Topics/37_Techniques/Uijayi Pranayama.md": {
+      "size": 659,
+      "tags": 2,
+      "links": 6
+    },
+    "30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md": {
+      "size": 648,
+      "tags": 4,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2929,
-      "Create": 3474,
-      "Link": 6903,
-      "Expand": 696
+      "Refactor": 2932,
+      "Create": 3476,
+      "Link": 6907,
+      "Expand": 698
     },
     "40_Evergreens": {
       "Refactor": 266,
-      "Create": 49,
-      "Link": 846,
-      "Expand": 323
+      "Create": 50,
+      "Link": 848,
+      "Expand": 324
     }
   },
   "dailyCommits": {
@@ -12121,8 +12131,8 @@
       "16": 1239,
       "17": 2771,
       "18": 2292,
-      "19": 496,
-      "20": 203,
+      "19": 500,
+      "20": 210,
       "21": 708,
       "22": 551,
       "23": 364
@@ -12148,7 +12158,7 @@
       "17": 317,
       "18": 21,
       "19": 94,
-      "20": 51,
+      "20": 55,
       "21": 64,
       "22": 16,
       "23": 59
@@ -12162,7 +12172,7 @@
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
-      "Sun": 5678
+      "Sun": 5689
     },
     "40_Evergreens": {
       "Mon": 61,
@@ -12171,12 +12181,14 @@
       "Thu": 284,
       "Fri": 182,
       "Sat": 0,
-      "Sun": 613
+      "Sun": 617
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Ayurveda.md\"> notes_Intro to Ayurveda </a>",
@@ -12225,11 +12237,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
-        "<a class=\"internal-link\" href=\"Meditation helps us gain control over our emotions.md\"> Meditation helps us gain control over our emotions </a>",
-        "<a class=\"internal-link\" href=\"Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>"
+        "<a class=\"internal-link\" href=\"Meditation helps us gain control over our emotions.md\"> Meditation helps us gain control over our emotions </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/technology.md\"> technology </a>",
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disease.md\"> disease </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mind-body complex.md\"> mind-body complex </a>",
@@ -12278,11 +12290,12 @@
         "<a class=\"internal-link\" href=\"Change requires agreement.md\"> Change requires agreement </a>",
         "<a class=\"internal-link\" href=\"Inequality is an unactionable item.md\"> Inequality is an unactionable item </a>",
         "<a class=\"internal-link\" href=\"What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>",
-        "<a class=\"internal-link\" href=\"Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
-        "<a class=\"internal-link\" href=\"Respect for women.md\"> Respect for women </a>",
-        "<a class=\"internal-link\" href=\"Respect for travellers.md\"> Respect for travellers </a>"
+        "<a class=\"internal-link\" href=\"Negative effects of western civilization.md\"> Negative effects of western civilization </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Activating Ajna Chakra.md\"> Activating Ajna Chakra </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sukkha.md\"> Sukkha </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
@@ -12330,12 +12343,11 @@
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/State Emergence.md\"> State Emergence </a>",
         "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Respect for women.md\"> Respect for women </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Respect for travellers.md\"> Respect for travellers </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Respect for the subconscious.md\"> Respect for the subconscious </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/progress requires respect.md\"> progress requires respect </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Progress requires change.md\"> Progress requires change </a>"
+        "<a class=\"internal-link\" href=\"50_Projects/Dawn of everything/Respect for travellers.md\"> Respect for travellers </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/technology.md\"> technology </a>",
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disease.md\"> disease </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
@@ -12384,9 +12396,7 @@
         "<a class=\"internal-link\" href=\"The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
         "<a class=\"internal-link\" href=\"Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
         "<a class=\"internal-link\" href=\"We believe that human's are evil.md\"> We believe that human's are evil </a>",
-        "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
-        "<a class=\"internal-link\" href=\"State Emergence.md\"> State Emergence </a>",
-        "<a class=\"internal-link\" href=\"Emergence of racism.md\"> Emergence of racism </a>"
+        "<a class=\"internal-link\" href=\"Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12486,6 +12496,8 @@
         "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Enneagram.md\"> Enneagram </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Meyers Briggs.md\"> Meyers Briggs </a>",
@@ -12534,9 +12546,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>",
         "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>"
+        "<a class=\"internal-link\" href=\"notes_Depression module overview.md\"> notes_Depression module overview </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
@@ -12647,6 +12657,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
@@ -12696,8 +12707,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -12748,7 +12758,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change is based off of things that you can't control.md\"> Radicalization is when you are convinced that the things you need to change is based off of things that you can't control </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change is based off of things that you can't control.md\"> Radicalization is when you are convinced that the things you need to change is based off of things that you can't control </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
@@ -12804,6 +12815,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction a pulls you ahead in life.md\"> Belief is an addiction a pulls you ahead in life </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
@@ -12853,8 +12865,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -12902,6 +12913,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
@@ -12951,8 +12963,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
