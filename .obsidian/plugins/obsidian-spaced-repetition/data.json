@@ -18,9 +18,7 @@
     "multilineCardSeparator": "A::",
     "multilineReversedCardSeparator": "??",
     "tagsToReview": [
-      "#node/evergreen",
-      "#node/topic/outline",
-      ""
+      "#node/evergreen"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
@@ -34,6 +32,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2022-01-02",
+  "buryDate": "2022-01-03",
   "buryList": []
 }

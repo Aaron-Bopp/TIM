@@ -19,13 +19,6 @@ This is true both in how we [[influence]] other's and how we make [[progress]].
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
 
-> it’s funny how sometimes it really does take a decade to persuade someone of something. 
-> at that sort of timescale it’s not even about direct engagement so much as it is about just living your best life in accordance with your principles in a sustainable way, and waiting for them to encounter difficulties their worldview & context does not allow them to cope with 
-  [^247641489]
->
-> <cite>[[@visakanv on Twitter|visakanv]]</cite>
-
-[^247641489]: [[tweets_It’s Funny How Sometimes...|It’s Funny How Sometimes... by @visakanv on Twitter]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

@@ -1,0 +1,26 @@
+{
+  "macros": [
+    {
+      "mobileOnly": false,
+      "icon": "cross",
+      "commandID": "macro-plugin:review-hard",
+      "commands": [
+        "obsidian-spaced-repetition:srs-note-review-hard",
+        "obsidian-spaced-repetition:srs-note-review-open-note"
+      ],
+      "delay": 10,
+      "name": "Review Hard"
+    },
+    {
+      "mobileOnly": false,
+      "icon": "bullet-list-glyph",
+      "commandID": "macro-plugin:review-good",
+      "commands": [
+        "obsidian-spaced-repetition:srs-note-review-good",
+        "obsidian-spaced-repetition:srs-note-review-open-note"
+      ],
+      "delay": 110,
+      "name": "Review good"
+    }
+  ]
+}

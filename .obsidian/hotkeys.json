@@ -321,22 +321,8 @@
       "key": "L"
     }
   ],
-  "obsidian-spaced-repetition:srs-note-review-good": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "G"
-    }
-  ],
-  "obsidian-spaced-repetition:srs-note-review-hard": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "H"
-    }
-  ],
+  "obsidian-spaced-repetition:srs-note-review-good": [],
+  "obsidian-spaced-repetition:srs-note-review-hard": [],
   "hotkeysplus-obsidian:toggle-bullet-number": [],
   "hotkeysplus-obsidian:toggle-embed": [],
   "hotkeysplus-obsidian:better-toggle-todo": [],
@@ -411,6 +397,30 @@
         "Alt"
       ],
       "key": "S"
+    }
+  ],
+  "macro-plugin:review-good": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "macro-plugin:macro-plugin:review-good": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "macro-plugin:macro-plugin:review-hard": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
     }
   ]
 }

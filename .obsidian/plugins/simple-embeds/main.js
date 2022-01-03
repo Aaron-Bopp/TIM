@@ -285,7 +285,7 @@ class SimpleEmbedsPlugin extends obsidian.Plugin {
         const replaceWithEmbed = disableAutomaticEmbeds
             ? a.innerText.endsWith("|embed")
             : !a.innerText.endsWith("|noembed");
-        a.innerText = a.innerText.replace("|noembed", "").replace("|embed", "");
+        a.innerHTML = a.innerHTML.replace("|noembed", "").replace("|embed", "");
         if (isWithinText && !disableAutomaticEmbeds) {
             return;
         }

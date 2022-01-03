@@ -3,8 +3,8 @@ created: 2021-11-28
 aliases:
   - null
 tags: created/evergreen/2021/11/28, node/evergreen
-sr-due: 2022-01-01
-sr-interval: 4
+sr-due: 2022-01-12
+sr-interval: 9
 sr-ease: 137
 ---
 
@@ -19,10 +19,9 @@ Since we started doing modern computer [[programming]] in the early 1970s, our c
 ```
 
 [[Friction is the number one hindrance to learning]] talks about how friction stunts the process of learning. Discipline can be used to overcome this friction, such as with [[Niklas Luhmann]]'s [[Zettelkasten]],
-but modern tools allow us to overcome both the friction of discipline and the [[friction]] the discipline was trying to solve.
+but modern tools allow us to overcome both the friction of discipline and the [[friction]] the discipline was trying to solve. 
 
-[[Powerful tools make dangerous toys]].
-In the early days of [[knowledge work]], to save something, you had to be purposeful about it. Either you saved the reference so that you could find it again, or you clipped the newspaper article and filed it away. If you wanted to collect a wealth of knowledge, you needed to have an entire [[organization]] system just to keep track. Today, we have the power of computing and web clippers that make saving something arbitrary. This has led to [[The Collector's Fallacy]].
+In the early days of [[knowledge work]], to save something, you had to be purposeful about it. Either you saved the reference so that you could find it again, or you clipped the newspaper article and filed it away. If you wanted to collect a wealth of knowledge, you needed to have an entire [[organization]] system just to keep track. Today, we have the power of computing and web clippers that make saving something arbitrary. [[Powerful tools make dangerous toys]] and in this case has led to [[The Collector's Fallacy]].
 
 The skills the discipline taught cannot be forgotten:
 [[The more mistakes you've fixed the more bad decisions you can afford]]

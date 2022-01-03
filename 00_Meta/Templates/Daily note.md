@@ -11,6 +11,7 @@ stats:
   - sources:
 ---
 
+[[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] 
 ## Created
 
 ![[Created Today]]
@@ -22,3 +23,4 @@ stats:
 #### Modified Yesterday
 
 #### Created Yesterday
+

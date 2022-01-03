@@ -936,7 +936,7 @@ highlight_tags:: [[performance]]
 
 ##### ^261593449
 
-interesting connection to [[kharma]]  
+interesting connection to [[karma]]  
 ###### ^261593449q
 > Even a tailor making a garment is entering, from his first stitch, into a flow of historical entanglements that he is powerless to resist and of which he is largely unaware; his precise actions are tiny links in a great chain of causality that is the very fabric of human history, and – in this rather extreme metaphysics of entanglement – to suggest that he might have been doing these things some alternative way is to deny the whole, irreversible course of world history. 
   [^261593449]

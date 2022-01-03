@@ -4,152 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "779735696eadbc73",
+        "id": "ad66361d224fd696",
         "type": "leaf",
-        "dimension": 33.360032038446136,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "90_Personal/91 Daily Notes/2022-01-03.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2022-01-03.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":3},\"to\":{\"line\":11,\"ch\":3}},\"scroll\":0}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Journal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":12.966372141360338}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/How to process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sigmund Freud.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Oedipal complex.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":37},\"to\":{\"line\":6,\"ch\":37}},\"scroll\":0}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sigmund Freud.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Oedipal complex.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":296},\"to\":{\"line\":8,\"ch\":296}},\"scroll\":0}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.367653558768037}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Depression module overview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.525206194570048}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":23.39507366271198}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_System of Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/MAGA is built off nostalgia not facts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.9999994700808}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Parents need to model the ability to deal with emotion to their children.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Various ways to include comments on your static site.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.9999994700808}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.456521530125036}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Basic tools for working with plaintext.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":3.2173911002795625}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "d0298d0bed7134c8",
-        "type": "leaf",
-        "dimension": 33.27993592310773,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00_Meta/Templates/Daily note.md",
+            "file": "40_Evergreens/Worlds views should be open ended and adaptive.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,59 +19,46 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "d0298d0bed7134c8",
+              "leaf": "ad66361d224fd696",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/Daily note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":7}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Worlds views should be open ended and adaptive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "d0298d0bed7134c8",
+              "leaf": "ad66361d224fd696",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Modified Today.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":23},\"to\":{\"line\":27,\"ch\":23}}}"
+            },
+            {
+              "leaf": "ad66361d224fd696",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":30},\"to\":{\"line\":22,\"ch\":30}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ad66361d224fd696",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "d0298d0bed7134c8",
+              "leaf": "ad66361d224fd696",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Created Today.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/technology.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "d0298d0bed7134c8",
+              "leaf": "ad66361d224fd696",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/Daily note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":1.8260868775275725}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "c642299fe5a79b6a",
-        "type": "leaf",
-        "dimension": 33.360032038446136,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00_Meta/Templates/META.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "c642299fe5a79b6a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/META.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":5},\"to\":{\"line\":4,\"ch\":5}}}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             },
             {
-              "leaf": "c642299fe5a79b6a",
+              "leaf": "ad66361d224fd696",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/EGNOTE.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
@@ -245,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "freud",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -264,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_Personal/91 Daily Notes/2022-01-03.md",
+                "file": "40_Evergreens/Worlds views should be open ended and adaptive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -297,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_Personal/91 Daily Notes/2022-01-03.md",
+                "file": "40_Evergreens/Worlds views should be open ended and adaptive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -323,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -343,32 +190,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_Personal/91 Daily Notes/2022-01-03.md"
+                "file": "40_Evergreens/Worlds views should be open ended and adaptive.md"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "840e0a70de3f588e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "fb763e172d1bcd92",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -388,7 +211,31 @@
             }
           },
           {
-            "id": "47b3518370342bad",
+            "id": "7572170b53174850",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "8a57e6c89aa04f30",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "25c0d2edb8f2efd5",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -400,7 +247,7 @@
             }
           },
           {
-            "id": "4d97869f5922bb12",
+            "id": "50837dfda6285fcd",
             "type": "leaf",
             "state": {
               "type": "BC-stats",
@@ -412,7 +259,7 @@
             }
           },
           {
-            "id": "b805a72d0cc1ce7c",
+            "id": "c21e7e6a8f7e8d19",
             "type": "leaf",
             "state": {
               "type": "BC-down",
@@ -424,10 +271,22 @@
             }
           },
           {
-            "id": "7572170b53174850",
+            "id": "8e17f442fa8295c5",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "graph-analysis",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1e2c8665e59a5135",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -436,7 +295,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "84f4f33f118f4527",
@@ -448,7 +307,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "90_Personal/91 Daily Notes/2022-01-03.md",
+                "file": "40_Evergreens/Worlds views should be open ended and adaptive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -555,20 +414,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 930.9945068359375,
-    "collapsed": true
+    "width": 930.9945068359375
   },
-  "active": "779735696eadbc73",
+  "active": "ad66361d224fd696",
   "lastOpenFiles": [
-    "90_Personal/91 Daily Notes/2022-01-03.md",
-    "00_Meta/Templates/Daily note.md",
-    "20_Entry/24 Vault Stats/Modified Today.md",
-    "20_Entry/24 Vault Stats/Created Today.md",
-    "00_Meta/Templates/META.md",
-    "00_Meta/Templates/EGNOTE.md",
+    "40_Evergreens/Worlds views should be open ended and adaptive.md",
+    "40_Evergreens/A totally integrated machine should be infinitely scalable.md",
+    "30_Topics/31_Stubs/infinite.md",
+    "40_Evergreens/When should you forgive people who don't deserve it.md",
+    "30_Topics/31_Stubs/responsibility.md",
+    "30_Topics/31_Stubs/persuasion.md",
+    "40_Evergreens/We are confined to the tools of our time.md",
+    "30_Topics/31_Stubs/technology.md",
     "90_Personal/Personal/Journal.md",
-    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
-    "30_Topics/37_Techniques/How to process repressed emotions.md",
-    "Sigmund Freud.md"
+    "40_Evergreens/Time is a valuable mode in a second brain.md"
   ]
 }

@@ -4411,14 +4411,14 @@
       "links": 12
     },
     "40_Evergreens/ADHD is primarily an executive function disorder.md": {
-      "size": 601,
+      "size": 1117,
       "tags": 3,
-      "links": 4
+      "links": 8
     },
     "40_Evergreens/ADHD reduces working memory.md": {
-      "size": 966,
+      "size": 653,
       "tags": 4,
-      "links": 9
+      "links": 6
     },
     "40_Evergreens/American's are scared of the word communism not it's meaning.md": {
       "size": 1028,
@@ -6636,9 +6636,9 @@
       "links": 24
     },
     "40_Evergreens/We are confined to the tools of our time.md": {
-      "size": 1601,
+      "size": 1098,
       "tags": 3,
-      "links": 18
+      "links": 16
     },
     "40_Evergreens/Fear is the number one hindrance to trying.md": {
       "size": 1035,
@@ -7741,9 +7741,9 @@
       "links": 7
     },
     "40_Evergreens/When should you forgive people who don't deserve it.md": {
-      "size": 687,
+      "size": 1988,
       "tags": 4,
-      "links": 9
+      "links": 21
     },
     "10_Sources/Readwise/Tweets/tweets_Tweets From Autistic Callum.md": {
       "size": 1157,
@@ -7823,7 +7823,7 @@
     "40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md": {
       "size": 1756,
       "tags": 4,
-      "links": 13
+      "links": 14
     },
     "10_Sources/Readwise/Articles/articles_The Top 10 Strategies for Reducing Prejudice.md": {
       "size": 5867,
@@ -8016,9 +8016,9 @@
       "links": 0
     },
     "40_Evergreens/Use philosophies as far they are useful and nothing more.md": {
-      "size": 740,
-      "tags": 3,
-      "links": 10
+      "size": 934,
+      "tags": 5,
+      "links": 14
     },
     "30_Topics/32_Terms/knowledge graph.md": {
       "size": 0,
@@ -11481,9 +11481,9 @@
       "links": 0
     },
     "40_Evergreens/Time is a valuable mode in a second brain.md": {
-      "size": 820,
-      "tags": 3,
-      "links": 5
+      "size": 1060,
+      "tags": 4,
+      "links": 7
     },
     "40_Evergreens/A second brain should be an extension of your thought.md": {
       "size": 735,
@@ -11576,9 +11576,9 @@
       "links": 27
     },
     "90_Personal/Personal/Journal.md": {
-      "size": 28060,
+      "size": 33776,
       "tags": 4,
-      "links": 74
+      "links": 75
     },
     "90_Personal/Personal/My relationship with my parents.md": {
       "size": 1079,
@@ -11623,7 +11623,7 @@
     "40_Evergreens/A totally integrated machine should be infinitely scalable.md": {
       "size": 1298,
       "tags": 3,
-      "links": 15
+      "links": 16
     },
     "40_Evergreens/TIM.md": {
       "size": 0,
@@ -11708,7 +11708,7 @@
     "00_Meta/Templates/Daily note.md": {
       "size": 522,
       "tags": 1,
-      "links": 2
+      "links": 4
     },
     "90_Personal/91 Daily Notes/2022-01-02.md": {
       "size": 0,
@@ -11723,7 +11723,7 @@
     "40_Evergreens/Worlds views should be open ended and adaptive.md": {
       "size": 1807,
       "tags": 3,
-      "links": 24
+      "links": 26
     },
     "30_Topics/32_Terms/subconscious.md": {
       "size": 179,
@@ -12124,20 +12124,30 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "30_Topics/31_Stubs/persuasion.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/responsibility.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2948,
-      "Create": 3482,
-      "Link": 6916,
-      "Expand": 703
+      "Refactor": 2955,
+      "Create": 3484,
+      "Link": 6935,
+      "Expand": 709
     },
     "40_Evergreens": {
-      "Refactor": 274,
+      "Refactor": 280,
       "Create": 50,
-      "Link": 848,
-      "Expand": 326
+      "Link": 863,
+      "Expand": 331
     }
   },
   "dailyCommits": {
@@ -12155,8 +12165,8 @@
       "10": 322,
       "11": 239,
       "12": 605,
-      "13": 336,
-      "14": 2381,
+      "13": 365,
+      "14": 2386,
       "15": 229,
       "16": 1239,
       "17": 2771,
@@ -12181,8 +12191,8 @@
       "10": 94,
       "11": 72,
       "12": 102,
-      "13": 86,
-      "14": 79,
+      "13": 109,
+      "14": 82,
       "15": 15,
       "16": 40,
       "17": 317,
@@ -12196,7 +12206,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 329,
+      "Mon": 363,
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
@@ -12205,7 +12215,7 @@
       "Sun": 5709
     },
     "40_Evergreens": {
-      "Mon": 61,
+      "Mon": 87,
       "Tue": 178,
       "Wed": 166,
       "Thu": 284,
@@ -12217,6 +12227,12 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is primarily an executive function disorder.md\"> ADHD is primarily an executive function disorder </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/Daily note.md\"> Daily note </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/How to process repressed emotions.md\"> How to process repressed emotions </a>",
@@ -12261,15 +12277,11 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Vidya and Jnana.md\"> notes_Vidya and Jnana </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Japa Meditation.md\"> Japa Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Activating Ajna Chakra.md\"> Activating Ajna Chakra </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Japa Meditation.md\"> Japa Meditation </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/responsibility.md\"> responsibility </a>",
+        "<a class=\"internal-link\" href=\"persuasion.md\"> persuasion </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Modified Today.md\"> Modified Today </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Created Today.md\"> Created Today </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-03.md\"> 2022-01-03 </a>",
@@ -12318,11 +12330,10 @@
         "<a class=\"internal-link\" href=\"Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
         "<a class=\"internal-link\" href=\"Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
         "<a class=\"internal-link\" href=\"Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
-        "<a class=\"internal-link\" href=\"@hankgreen on Twitter.md\"> @hankgreen on Twitter </a>",
-        "<a class=\"internal-link\" href=\"There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
-        "<a class=\"internal-link\" href=\"Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>"
+        "<a class=\"internal-link\" href=\"@hankgreen on Twitter.md\"> @hankgreen on Twitter </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/persuasion.md\"> persuasion </a>",
         "<a class=\"internal-link\" href=\"Sigmund Freud.md\"> Sigmund Freud </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/How to process repressed emotions.md\"> How to process repressed emotions </a>",
@@ -12372,10 +12383,16 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Emergence of capitalism.md\"> Emergence of capitalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Early society is both familiar and unfamiliar.md\"> Early society is both familiar and unfamiliar </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Change requires agreement.md\"> Change requires agreement </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Agriculture does not enforce ranks and hierarchies.md\"> Agriculture does not enforce ranks and hierarchies </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Change requires agreement.md\"> Change requires agreement </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/responsibility.md\"> responsibility </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/persuasion.md\"> persuasion </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-03.md\"> 2022-01-03 </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/Daily note.md\"> Daily note </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/How to process repressed emotions.md\"> How to process repressed emotions </a>",
@@ -12419,14 +12436,7 @@
         "<a class=\"internal-link\" href=\"The history of meditation is a mix of science and magic.md\"> The history of meditation is a mix of science and magic </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/@hankgreen on Twitter.md\"> @hankgreen on Twitter </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
-        "<a class=\"internal-link\" href=\"People easily ignore history.md\"> People easily ignore history </a>",
-        "<a class=\"internal-link\" href=\"People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
-        "<a class=\"internal-link\" href=\"People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12470,7 +12480,9 @@
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Depression module overview.md\"> notes_Depression module overview </a>",
@@ -12526,6 +12538,18 @@
         "<a class=\"internal-link\" href=\"Vidya.md\"> Vidya </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is primarily an executive function disorder.md\"> ADHD is primarily an executive function disorder </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/Daily note.md\"> Daily note </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/Daily note.md\"> Daily note </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-03.md\"> 2022-01-03 </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
@@ -12564,21 +12588,11 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\"> notes_Cognitive Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\"> notes_Cognitive Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\"> notes_Cognitive Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>",
-        "<a class=\"internal-link\" href=\"Sithril.md\"> Sithril </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Depression.md\"> notes_Neuroscience of Depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Default Mode Network (DMN).md\"> Default Mode Network (DMN) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ketamine.md\"> Ketamine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/NoradrenalineNorepinephrine.md\"> NoradrenalineNorepinephrine </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Clinical vs Non-clinical depression.md\"> notes_Clinical vs Non-clinical depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Congruent Depression.md\"> notes_Congruent Depression </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
@@ -12627,11 +12641,11 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/2 A Brief History of Gender Dysphoria.md\"> 2 A Brief History of Gender Dysphoria </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\"> videoDrK and DrMike conversation </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/TOPICNOTE.md\"> TOPICNOTE </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/TOPICNOTE.md\"> TOPICNOTE </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Cognitive Depression.md\"> notes_Cognitive Depression </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\"> notes_Knowledge of the Mind </a>",
@@ -12680,13 +12694,16 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is primarily an executive function disorder.md\"> ADHD is primarily an executive function disorder </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
@@ -12732,12 +12749,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Hope is not optimism it is a practice for producing change.md\"> Hope is not optimism it is a practice for producing change </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction.md\"> Belief is an addiction </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Hope is not optimism it is a practice for producing change.md\"> Hope is not optimism it is a practice for producing change </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -12845,6 +12857,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction a pulls you ahead in life.md\"> Belief is an addiction a pulls you ahead in life </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
@@ -12890,12 +12907,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Anti-government stances lead to economic crashes.md\"> Anti-government stances lead to economic crashes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Anxiety should be a tool at your disposal not an impedance to your life.md\"> Anxiety should be a tool at your disposal not an impedance to your life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender dysphoria is acceptable.md\"> Any experience of gender dysphoria is acceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender is acceptable.md\"> Any experience of gender is acceptable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Are Jesus' teachings anti-thetical to the modern Christian church.md\"> Are Jesus' teachings anti-thetical to the modern Christian church </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender is acceptable.md\"> Any experience of gender is acceptable </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -12907,7 +12919,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"40_Evergreens/41.01.md\"> 41.01 </a>",
@@ -12943,6 +12957,16 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is primarily an executive function disorder.md\"> ADHD is primarily an executive function disorder </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
@@ -12983,19 +13007,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
@@ -13044,11 +13060,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evangelicalism has commodified faith for profit.md\"> Evangelicalism has commodified faith for profit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Negative influences are stronger than positive influences.md\"> Negative influences are stronger than positive influences </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
@@ -13097,9 +13113,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/45 Religion.md\"> 45 Religion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>"
       ]
     }
   },
