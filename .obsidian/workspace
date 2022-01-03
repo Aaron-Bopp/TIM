@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/37_Techniques/How to process repressed emotions.md",
+            "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/How to process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/How to process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "779735696eadbc73",
@@ -131,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How the patriarchy effects young men's understanding of masculinity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/37_Techniques/How to process repressed emotions.md",
+                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/37_Techniques/How to process repressed emotions.md",
+                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/37_Techniques/How to process repressed emotions.md"
+                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md"
               }
             },
             "pane-relief:history-v1": {
@@ -373,7 +373,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/37_Techniques/How to process repressed emotions.md",
+                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -485,6 +485,7 @@
   },
   "active": "779735696eadbc73",
   "lastOpenFiles": [
+    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
     "30_Topics/37_Techniques/How to process repressed emotions.md",
     "Sigmund Freud.md",
     "30_Topics/32_Terms/Oedipal complex.md",
@@ -493,7 +494,6 @@
     "10_Sources/course_Dr. K's Guide to Mental Health.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_System of Mind.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md",
-    "40_Evergreens/MAGA is built off nostalgia not facts.md"
+    "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md"
   ]
 }
