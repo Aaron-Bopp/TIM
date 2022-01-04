@@ -10,29 +10,32 @@ sr-ease: 230
 
 #### [[Meditation increases our ability to influence the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Consciousness is the fundamental unit of existence]] and because [[Meditation is a practice to develop a stronger conscious]] it helps us to [[manifestation|manifest]] our will upon the world.
+[[The history of meditation is a mixture of science and spirituality]]
+[[Consciousness is our capacity to introspect]]
 
 ##### On a human level
-When people meditate for a long time they feel the [[perception]] of the world change, and more easily recognize what they need to do to succeed. [[meditation]] also helps people to focus and achieve things they are already trying to do: [[Meditation helps us gain control over our emotions]]
+When people meditate for a long time they feel their [[perception]] of the world change,
+and more easily recognize what they need to do to succeed.
+[[Meditation]] also helps people to focus and achieve things they are already trying to do: [[Meditation helps us gain control over our emotions]]
 
 ##### On a scientific level
 [[Meditation helps us regulate our hormonal environment]] and [[Meditation helps us regulate our nervous system]]
 
 ##### On a spiritual level
 
-[[The history of meditation is a mixture of science and spirituality]]
+[[Consciousness is the fundamental unit of existence]] and because [[Meditation is a practice to develop a stronger conscious]] it helps us to [[manifestation|manifest]] our will upon the world.
+
 
 [[conscious|consciousness]] is a skill and divinity is the goal... [[enlightenment]]?
 
-This is [[Tantra]]
-![[Pasted image 20211229224350.png]]
+This is [[Tantra]], [[manifestation]] of our will into the world.
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[human advancement]], [[meditation]], [[influence]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

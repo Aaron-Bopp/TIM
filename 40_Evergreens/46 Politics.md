@@ -39,5 +39,5 @@
 	- [[political strategy]]
 		- [[Anger fuels change]]
 		- [[The ethnic makeup is a significant driver of change]]
-		- [[Yang's political failure was due to lack of activism and poltical inneficacy]]
+		- [[Yang's political failure was due to lack of activism and political inefficacy]]
 		- [[Yang's political success was due to his common sense campaign]]

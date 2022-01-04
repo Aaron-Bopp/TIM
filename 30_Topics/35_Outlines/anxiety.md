@@ -45,6 +45,13 @@ Your body's natural response to stress. It's a feeling of fear or apprehension a
 
 ### <hr class="dataviews"/>
 
+```dataview
+LIST
+FROM #node/evergreen 
+WHERE contains(topics, [[anxiety]])
+```
+
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+	
 `$=customJS.dv_funcs.sortableColumns()`
 

@@ -9,6 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 It is an [[eastern philosophy|eastern system]] of [[spirituality]] that focuses on harnesses "Shiva" or cosmic [[conscious|consciousness]], and "Shakti" or energy, to manifest something in the world.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
+![[Pasted image 20211229224350.png]]
 **See**:: [[yoga]], [[mantra]], [[Yantra]], [[Yajna]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

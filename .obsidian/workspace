@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fe106dd94116d0dc",
+        "id": "58614c8e2087b19f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
-            "mode": "preview",
+            "file": "30_Topics/32_Terms/Tantra.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -19,124 +19,118 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "fe106dd94116d0dc",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/My TIM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":5.035714133029376}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Python.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dataview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.05855476001196}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Tantra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "fe106dd94116d0dc",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zen.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":21.58258958848152}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We learn by transforming information into understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "fe106dd94116d0dc",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":39.69196576779895}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Vijnanamaya Kosha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/How to process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "fe106dd94116d0dc",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Tiktok.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Yang's political failure was due to lack of activism and political inefficacy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":1423},\"to\":{\"line\":12,\"ch\":1423}},\"scroll\":0}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "fe106dd94116d0dc",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/topic note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":57},\"to\":{\"line\":23,\"ch\":57}},\"scroll\":6.071428674824386}"
             },
             {
-              "leaf": "fe106dd94116d0dc",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Turmeric.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0.5361256624391566}"
             },
             {
-              "leaf": "fe106dd94116d0dc",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/TERFS.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":5.642857307074024}"
             },
             {
-              "leaf": "fe106dd94116d0dc",
+              "leaf": "58614c8e2087b19f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/subconscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":5.607142884512338}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":12},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "58614c8e2087b19f",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "b23dd0684051b2d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/notes_History of Meditation.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b23dd0684051b2d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/notes_History of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.367205108291095}"
             },
             {
-              "leaf": "fe106dd94116d0dc",
+              "leaf": "b23dd0684051b2d6",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/stub notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Shuddha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Serotonin Reuptake Inhibitor (SRI).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Selective Serotonin Reuptake Inhibitor (SSRI).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Sanskrit.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/realism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "fe106dd94116d0dc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Korean Ginseng.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":27.153034720686822}"
             }
           ]
         }
@@ -170,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/evergreen",
+                "query": "tag:#TO/TEND/DEOBFUSCATE",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+                "file": "10_Sources/Mental Health/notes_History of Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+                "file": "10_Sources/Mental Health/notes_History of Meditation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -251,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -267,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md"
+                "file": "10_Sources/Mental Health/notes_History of Meditation.md"
               }
             },
             "pane-relief:history-v1": {
@@ -322,41 +317,9 @@
               "pos": 0,
               "stack": []
             }
-          },
-          {
-            "id": "899febfeacd001c7",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            }
-          },
-          {
-            "id": "aef534350b817baa",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "2edf347430219d25",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "b011a3557398d692",
-            "type": "leaf",
-            "state": {
-              "type": "BC-down",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "84f4f33f118f4527",
@@ -368,7 +331,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+                "file": "10_Sources/Mental Health/notes_History of Meditation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -477,17 +440,17 @@
     "direction": "horizontal",
     "width": 706
   },
-  "active": "fe106dd94116d0dc",
+  "active": "b23dd0684051b2d6",
   "lastOpenFiles": [
-    "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
-    "30_Topics/35_Outlines/My TIM.md",
-    "30_Topics/33_Tools/Python.md",
-    "30_Topics/33_Tools/Dataview.md",
-    "30_Topics/32_Terms/Zettelkasten.md",
-    "30_Topics/32_Terms/Zen.md",
-    "30_Topics/32_Terms/yoga.md",
-    "30_Topics/32_Terms/Vijnanamaya Kosha.md",
-    "30_Topics/32_Terms/Tiktok.md",
-    "30_Topics/32_Terms/topic note.md"
+    "10_Sources/Mental Health/notes_History of Meditation.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
+    "30_Topics/32_Terms/Tantra.md",
+    "40_Evergreens/Meditation increases our ability to influence the world.md",
+    "40_Evergreens/We learn by transforming information into understanding.md",
+    "30_Topics/37_Techniques/How to process repressed emotions.md",
+    "40_Evergreens/Hard boundaries reduce opportunities for creativity.md",
+    "40_Evergreens/Yang's political failure was due to lack of activism and political inefficacy.md",
+    "30_Topics/31_Stubs/Palestine.md",
+    "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md"
   ]
 }

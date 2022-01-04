@@ -9,7 +9,11 @@ tags: created/topic/2021/10/06, node/topic/outline
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+```dataview
+LIST
+FROM #node/evergreen 
+WHERE contains(topics, [[Reagan]])
+```
 %% DO NOT EDIT ABOVE %%
 ##### [[Reagan]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
