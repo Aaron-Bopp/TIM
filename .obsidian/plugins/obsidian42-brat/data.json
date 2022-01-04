@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "nothingislost/obsidian-sortable",
     "joethei/obsidian-tts",
     "SkepticMystic/nlp",
     "horriblename/preview-mode-keybinds-obsidian",

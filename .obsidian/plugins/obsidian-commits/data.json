@@ -8068,7 +8068,7 @@
     "20_Entry/202 Now.md": {
       "size": 1144,
       "tags": 1,
-      "links": 1
+      "links": 4
     },
     "20_Entry/205 Index.md": {
       "size": 1048,
@@ -12145,7 +12145,7 @@
     "/": {
       "Refactor": 2966,
       "Create": 3487,
-      "Link": 6978,
+      "Link": 6979,
       "Expand": 723
     },
     "40_Evergreens": {
@@ -12179,7 +12179,7 @@
       "19": 500,
       "20": 218,
       "21": 720,
-      "22": 551,
+      "22": 552,
       "23": 364
     },
     "40_Evergreens": {
@@ -12211,7 +12211,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 434,
+      "Mon": 435,
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
@@ -12544,6 +12544,7 @@
         "<a class=\"internal-link\" href=\"Vikruti.md\"> Vikruti </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"20_Entry/202 Now.md\"> 202 Now </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
@@ -12593,8 +12594,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Templates/Daily note.md\"> Daily note </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-03.md\"> 2022-01-03 </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Oedipal complex.md\"> Oedipal complex </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Oedipal complex.md\"> Oedipal complex </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
