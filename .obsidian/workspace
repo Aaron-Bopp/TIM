@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/31_Stubs/knowledge work.md",
-            "mode": "source",
+            "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -21,20 +21,122 @@
             {
               "leaf": "fe106dd94116d0dc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/knowledge work.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":8.870292846017126}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "fe106dd94116d0dc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/My TIM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":5.035714133029376}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Python.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Dataview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.05855476001196}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "fe106dd94116d0dc",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zen.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":39.69196576779895}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Vijnanamaya Kosha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Tiktok.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/topic note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Turmeric.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/TERFS.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/subconscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/stub notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Shuddha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Serotonin Reuptake Inhibitor (SRI).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Selective Serotonin Reuptake Inhibitor (SSRI).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Sanskrit.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/realism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fe106dd94116d0dc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Korean Ginseng.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -87,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/31_Stubs/knowledge work.md",
+                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -120,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/31_Stubs/knowledge work.md",
+                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,13 +247,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -167,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/31_Stubs/knowledge work.md"
+                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md"
               }
             },
             "pane-relief:history-v1": {
@@ -268,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/31_Stubs/knowledge work.md",
+                "file": "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -379,15 +479,15 @@
   },
   "active": "fe106dd94116d0dc",
   "lastOpenFiles": [
-    "30_Topics/31_Stubs/knowledge work.md",
-    "40_Evergreens/Hard boundaries reduce opportunities for creativity.md",
-    "90_Personal/91 Daily Notes/2022-01-04.md",
-    "30_Topics/32_Terms/Evolutionary Psychology.md",
-    "40_Evergreens/You can discover your transness at any point in life.md",
-    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
-    "40_Evergreens/Humans love to group eachother.md",
-    "40_Evergreens/Humans are a product of evolution.md",
-    "30_Topics/35_Outlines/human experience.md",
-    "30_Topics/32_Terms/Social Learning Theory.md"
+    "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+    "30_Topics/35_Outlines/My TIM.md",
+    "30_Topics/33_Tools/Python.md",
+    "30_Topics/33_Tools/Dataview.md",
+    "30_Topics/32_Terms/Zettelkasten.md",
+    "30_Topics/32_Terms/Zen.md",
+    "30_Topics/32_Terms/yoga.md",
+    "30_Topics/32_Terms/Vijnanamaya Kosha.md",
+    "30_Topics/32_Terms/Tiktok.md",
+    "30_Topics/32_Terms/topic note.md"
   ]
 }
