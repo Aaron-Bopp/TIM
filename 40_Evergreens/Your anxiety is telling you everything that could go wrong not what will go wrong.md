@@ -23,8 +23,7 @@ Being able to do this requires a very healthy amount of [[mindfulness]], and a l
 
 The reason this happens is rooted in [[Neuroscience]]. 
 [[Anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]].
-^[[[Humans are a product of evolution]]]    
-%% 
+^[[[Humans are a product of evolution]]]  %% 
 #TO/TEND/MULCH As we satisfy more and more of the [[Hierarchy of needs]] our need for such an advanced warning system grows less and less.
 ^[[[Your anxiety knows your insecurities better than you do#Cause material insecurity]]]
 %% 
