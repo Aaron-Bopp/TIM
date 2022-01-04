@@ -41,7 +41,7 @@ heal [[childhood]] wounds,
 ^[[[Meditation helps us detach negative attachments]] helps with [[We carry our childhood wounds into adulthood]]]
 overcome our emotional [[rationalizations]],
 ^[[[Meditation helps us gain control over our emotions]] helps with [[Rationalizations are defense-mechanisms against strong emotions]]]
-reach [[flow state]] of [[friction|frictionless]] concentration,
+reach a [[flow state]] of [[friction|frictionless]] concentration,
 ^[[[notes_The Nature of Mind]] helps with [[We will evolve when we make learning as easy as thinking]]]
 and finally a no-mind state known as [[Dhyana]].
 

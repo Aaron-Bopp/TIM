@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/22 Note by status/EVERGREENS.md",
-            "mode": "preview",
+            "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -21,8 +21,44 @@
             {
               "leaf": "9129227f420414c1",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is our capacity to introspect.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":8},\"to\":{\"line\":43,\"ch\":8}},\"scroll\":0}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is the fundamental unit of existence.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 Now.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/political strategy.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERGREENS.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"scroll\":26.390604610700304}"
             },
             {
               "leaf": "9129227f420414c1",
@@ -129,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/22 Note by status/EVERGREENS.md",
+                "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -162,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/22 Note by status/EVERGREENS.md",
+                "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -207,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/22 Note by status/EVERGREENS.md"
+                "file": "40_Evergreens/Consciousness is our capacity to introspect.md"
               }
             },
             "pane-relief:history-v1": {
@@ -324,7 +360,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/22 Note by status/EVERGREENS.md",
+                "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -431,20 +467,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 930.9945068359375,
-    "collapsed": true
+    "width": 834
   },
   "active": "9129227f420414c1",
   "lastOpenFiles": [
+    "40_Evergreens/Consciousness is our capacity to introspect.md",
+    "40_Evergreens/Consciousness is the fundamental unit of existence.md",
+    "20_Entry/203 Me.md",
+    "20_Entry/202 Now.md",
+    "30_Topics/31_Stubs/political strategy.md",
     "20_Entry/22 Note by status/EVERGREENS.md",
     "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "20_Entry/202 Now.md",
     "30_Topics/32_Terms/Ashram.md",
     "30_Topics/34_People/Sigmund Freud.md",
-    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
-    "20_Entry/24 Vault Stats/Graph Timeline.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
-    "30_Topics/32_Terms/Brahmacharya Ashram.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md"
+    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md"
   ]
 }

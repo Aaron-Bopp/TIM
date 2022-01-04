@@ -10,6 +10,8 @@ sr-ease: 190
 
 #### [[Consciousness is the fundamental unit of existence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=4336)
+
 Ancient [[yoga|Yogic]] tradition offers an alternative to traditional [[Western]] creation myths such as [[Christianity]]'s. Instead of an all-powerful, all-knowing, and frankly problematic
 ^[[[The biblical Christian God is evil and does not deserve to be worshipped]]]
 god, the universe was formed from an [[infinite]] sea of [[conscious|consciousness]] called [[Brahman]]
