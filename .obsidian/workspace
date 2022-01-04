@@ -22,6 +22,36 @@
             {
               "leaf": "9129227f420414c1",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Ashram.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":8},\"to\":{\"line\":2,\"ch\":8}}}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/34_People/Sigmund Freud.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":4.913043211655558}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
@@ -132,7 +162,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -378,15 +409,15 @@
   },
   "active": "9129227f420414c1",
   "lastOpenFiles": [
+    "30_Topics/32_Terms/Ashram.md",
+    "30_Topics/34_People/Sigmund Freud.md",
+    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md",
     "20_Entry/24 Vault Stats/Graph Timeline.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
     "30_Topics/32_Terms/Brahmacharya Ashram.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
     "30_Topics/32_Terms/Dharma.md",
     "30_Topics/31_Stubs/notes_Dharma.md",
-    "90_Personal/Personal/Journal.md",
-    "90_Personal/What is wrong with the world.md",
-    "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
-    "40_Evergreens/Meditation improves mental, physical, and emotional health.md"
+    "90_Personal/Personal/Journal.md"
   ]
 }

@@ -12090,11 +12090,6 @@
       "tags": 2,
       "links": 0
     },
-    "Sigmund Freud.md": {
-      "size": 0,
-      "tags": 3,
-      "links": 0
-    },
     "90_Personal/91 Daily Notes/2022-01-03.md": {
       "size": 0,
       "tags": 1,
@@ -12130,20 +12125,25 @@
       "tags": 3,
       "links": 16
     },
-    "Ashram.md": {
-      "size": 564,
-      "tags": 2,
-      "links": 8
-    },
     "40_Evergreens/Consciousness is our capacity to introspect.md": {
       "size": 3069,
       "tags": 5,
       "links": 41
+    },
+    "30_Topics/34_People/Sigmund Freud.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
+    },
+    "30_Topics/32_Terms/Ashram.md": {
+      "size": 564,
+      "tags": 2,
+      "links": 8
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2964,
+      "Refactor": 2966,
       "Create": 3487,
       "Link": 6978,
       "Expand": 723
@@ -12175,7 +12175,7 @@
       "15": 248,
       "16": 1239,
       "17": 2771,
-      "18": 2294,
+      "18": 2296,
       "19": 500,
       "20": 218,
       "21": 720,
@@ -12211,7 +12211,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 432,
+      "Mon": 434,
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
@@ -12338,6 +12338,8 @@
         "<a class=\"internal-link\" href=\"Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ashram.md\"> Ashram </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/Sigmund Freud.md\"> Sigmund Freud </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are addicted to believing.md\"> Humans are addicted to believing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human.md\"> Human </a>",
@@ -12386,9 +12388,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Humans believed that society required a lack of freedom.md\"> Humans believed that society required a lack of freedom </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Highly evolutionary view.md\"> Highly evolutionary view </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/European colonialism.md\"> European colonialism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Emergence of racism.md\"> Emergence of racism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Emergence of democracy.md\"> Emergence of democracy </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/European colonialism.md\"> European colonialism </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
