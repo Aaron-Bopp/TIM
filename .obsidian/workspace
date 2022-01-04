@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6812d7dc398cb007",
+        "id": "fe106dd94116d0dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/31_Stubs/Adderall.md",
+            "file": "30_Topics/31_Stubs/knowledge work.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,76 +19,22 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "6812d7dc398cb007",
+              "leaf": "fe106dd94116d0dc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Adderall.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/knowledge work.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":8.870292846017126}"
             },
             {
-              "leaf": "6812d7dc398cb007",
+              "leaf": "fe106dd94116d0dc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/activism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6812d7dc398cb007",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Acting.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6812d7dc398cb007",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/abortion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "6812d7dc398cb007",
+              "leaf": "fe106dd94116d0dc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "6812d7dc398cb007",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Black identity is inseparable from other identities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6812d7dc398cb007",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":12.131353371678301}"
-            },
-            {
-              "leaf": "6812d7dc398cb007",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans try really hard to avoid understanding their mistakes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":57},\"to\":{\"line\":17,\"ch\":57}}}"
-            },
-            {
-              "leaf": "6812d7dc398cb007",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Social media creates a false sense of unbreakable, expansive, and influential communities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "6812d7dc398cb007",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Wealth Inequality creates a need for change.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6812d7dc398cb007",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A second brain should be an extension of your thought.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6812d7dc398cb007",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes is a better term than atomic notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":25},\"to\":{\"line\":21,\"ch\":25}},\"scroll\":1.3437500395812088}"
             }
           ]
         }
@@ -122,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/TEND/DEOBFUSCATE",
+                "query": "tag:#node/evergreen",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -141,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/31_Stubs/Adderall.md",
+                "file": "30_Topics/31_Stubs/knowledge work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -174,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/31_Stubs/Adderall.md",
+                "file": "30_Topics/31_Stubs/knowledge work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,11 +145,13 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -219,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/31_Stubs/Adderall.md"
+                "file": "30_Topics/31_Stubs/knowledge work.md"
               }
             },
             "pane-relief:history-v1": {
@@ -264,42 +212,6 @@
             }
           },
           {
-            "id": "47b3518370342bad",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "4d97869f5922bb12",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "b805a72d0cc1ce7c",
-            "type": "leaf",
-            "state": {
-              "type": "BC-down",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "7572170b53174850",
             "type": "leaf",
             "state": {
@@ -310,9 +222,41 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "899febfeacd001c7",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "aef534350b817baa",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "2edf347430219d25",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "b011a3557398d692",
+            "type": "leaf",
+            "state": {
+              "type": "BC-down",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "84f4f33f118f4527",
@@ -324,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/31_Stubs/Adderall.md",
+                "file": "30_Topics/31_Stubs/knowledge work.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -433,17 +377,17 @@
     "direction": "horizontal",
     "width": 706
   },
-  "active": "6812d7dc398cb007",
+  "active": "fe106dd94116d0dc",
   "lastOpenFiles": [
-    "30_Topics/31_Stubs/Adderall.md",
-    "30_Topics/31_Stubs/activism.md",
-    "30_Topics/31_Stubs/Acting.md",
-    "30_Topics/31_Stubs/abortion.md",
-    "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
+    "30_Topics/31_Stubs/knowledge work.md",
     "40_Evergreens/Hard boundaries reduce opportunities for creativity.md",
-    "40_Evergreens/Black identity is inseparable from other identities.md",
-    "40_Evergreens/Webs of thought provide heterarchical structure.md",
-    "30_Topics/31_Stubs/organization.md",
-    "30_Topics/32_Terms/heterarchy.md"
+    "90_Personal/91 Daily Notes/2022-01-04.md",
+    "30_Topics/32_Terms/Evolutionary Psychology.md",
+    "40_Evergreens/You can discover your transness at any point in life.md",
+    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
+    "40_Evergreens/Humans love to group eachother.md",
+    "40_Evergreens/Humans are a product of evolution.md",
+    "30_Topics/35_Outlines/human experience.md",
+    "30_Topics/32_Terms/Social Learning Theory.md"
   ]
 }

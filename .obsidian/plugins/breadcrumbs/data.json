@@ -99,6 +99,23 @@
   "userHiers": [
     {
       "up": [
+        "Topics"
+      ],
+      "same": [
+        "See"
+      ],
+      "down": [
+        "lower"
+      ],
+      "next": [
+        "n"
+      ],
+      "prev": [
+        "p"
+      ]
+    },
+    {
+      "up": [
         "up"
       ],
       "same": [
@@ -113,15 +130,6 @@
       "prev": [
         "prev"
       ]
-    },
-    {
-      "up": [
-        "Area"
-      ],
-      "same": [],
-      "down": [],
-      "next": [],
-      "prev": []
     }
   ],
   "writeBCsInline": true,

@@ -40,7 +40,6 @@
   "graph-analysis",
   "better-word-count",
   "mysnippets-plugin",
-  "breadcrumbs",
   "metaedit",
   "obsidian-another-quick-switcher",
   "various-complements",
@@ -64,5 +63,6 @@
   "obsidian-notes-from-template",
   "obsidian-tracker",
   "obsidian-spaced-repetition",
-  "obsidian-sortable"
+  "obsidian-sortable",
+  "breadcrumbs"
 ]
