@@ -14,7 +14,7 @@ sr-ease: 130
 - [[Evergreen notes should be constantly integrating new knowledge]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[What are the differences between evergreen notes and conceptual notes]]
-- [[Conceptual notes is a better term than atomic notes]]
+- [[Conceptual note is a better term than atomic note]]
 - [[Concepts are the fundamental unit of knowledge]]
  
 

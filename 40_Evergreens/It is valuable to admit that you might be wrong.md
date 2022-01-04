@@ -3,9 +3,9 @@ created: 2022-01-02T20:47:32
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-02
+sr-due: 2022-01-05
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[It is valuable to admit that you might be wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -23,7 +23,7 @@ sr-ease: 230
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[influence]], [[self-awareness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

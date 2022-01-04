@@ -4977,8 +4977,8 @@
     },
     "00_Meta/Templates/EGNOTE.md": {
       "size": 281,
-      "tags": 0,
-      "links": 2
+      "tags": 4,
+      "links": 1
     },
     "00_Meta/Templates/EVERGREEN_HEADER.md": {
       "size": 77,
@@ -8358,7 +8358,7 @@
     "40_Evergreens/Meditation is a practice and discipline of observation.md": {
       "size": 767,
       "tags": 4,
-      "links": 8
+      "links": 9
     },
     "40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md": {
       "size": 1402,
@@ -8443,7 +8443,7 @@
     "40_Evergreens/Names matter because they effect people's perception and understanding.md": {
       "size": 1431,
       "tags": 4,
-      "links": 11
+      "links": 12
     },
     "30_Topics/36_Lists/Life principles.md": {
       "size": 895,
@@ -10423,7 +10423,7 @@
     "30_Topics/32_Terms/Tantra.md": {
       "size": 533,
       "tags": 2,
-      "links": 8
+      "links": 9
     },
     "30_Topics/32_Terms/Tapas.md": {
       "size": 267,
@@ -11663,7 +11663,7 @@
     "40_Evergreens/Meditation increases our ability to influence the world.md": {
       "size": 1333,
       "tags": 3,
-      "links": 18
+      "links": 17
     },
     "40_Evergreens/Meditation helps us regulate our hormonal environment.md": {
       "size": 862,
@@ -11970,11 +11970,6 @@
       "tags": 2,
       "links": 22
     },
-    "40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md": {
-      "size": 1278,
-      "tags": 3,
-      "links": 8
-    },
     "30_Topics/32_Terms/Sukkha.md": {
       "size": 0,
       "tags": 2,
@@ -12013,7 +12008,7 @@
     "40_Evergreens/It is valuable to admit that you might be wrong.md": {
       "size": 888,
       "tags": 3,
-      "links": 5
+      "links": 7
     },
     "30_Topics/37_Techniques/Activating Ajna Chakra.md": {
       "size": 552,
@@ -12125,11 +12120,6 @@
       "tags": 4,
       "links": 18
     },
-    "40_Evergreens/Conceptual notes is a better term than atomic notes.md": {
-      "size": 1967,
-      "tags": 3,
-      "links": 12
-    },
     "30_Topics/31_Stubs/AI.md": {
       "size": 164,
       "tags": 2,
@@ -12149,19 +12139,34 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "40_Evergreens/Conceptual note is a better term than atomic note.md": {
+      "size": 1967,
+      "tags": 3,
+      "links": 12
+    },
+    "40_Evergreens/People are radicalized when they are convinced that change is out of their control.md": {
+      "size": 1278,
+      "tags": 3,
+      "links": 8
+    },
+    "30_Topics/31_Stubs/Western.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4110,
-      "Create": 4622,
-      "Link": 7000,
+      "Refactor": 4114,
+      "Create": 4623,
+      "Link": 7006,
       "Expand": 794
     },
     "40_Evergreens": {
-      "Refactor": 293,
+      "Refactor": 296,
       "Create": 50,
-      "Link": 902,
+      "Link": 905,
       "Expand": 347
     }
   },
@@ -12181,8 +12186,8 @@
       "11": 2573,
       "12": 605,
       "13": 368,
-      "14": 2441,
-      "15": 248,
+      "14": 2447,
+      "15": 253,
       "16": 1239,
       "17": 2771,
       "18": 2296,
@@ -12207,8 +12212,8 @@
       "11": 75,
       "12": 102,
       "13": 109,
-      "14": 117,
-      "15": 25,
+      "14": 122,
+      "15": 26,
       "16": 40,
       "17": 317,
       "18": 21,
@@ -12222,7 +12227,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 435,
-      "Tue": 3981,
+      "Tue": 3992,
       "Wed": 3643,
       "Thu": 2035,
       "Fri": 723,
@@ -12231,7 +12236,7 @@
     },
     "40_Evergreens": {
       "Mon": 128,
-      "Tue": 205,
+      "Tue": 211,
       "Wed": 166,
       "Thu": 284,
       "Fri": 182,
@@ -12295,6 +12300,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Serotonin.md\"> Serotonin </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Western.md\"> Western </a>",
         "<a class=\"internal-link\" href=\"Palestine.md\"> Palestine </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/50_Projects/Using spaced repetition for your conceptual notes.md\"> Using spaced repetition for your conceptual notes </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/50_Projects/Readwise Export for Obsidian - Templates and Process.md\"> Readwise Export for Obsidian - Templates and Process </a>",
@@ -12344,10 +12350,11 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Negative effects of western civilization.md\"> Negative effects of western civilization </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Negative effects of western civilization.md\"> Negative effects of western civilization </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\"> People are radicalized when they are convinced that change is out of their control </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual note is a better term than atomic note.md\"> Conceptual note is a better term than atomic note </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Palestine.md\"> Palestine </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political failure was due to lack of activism and political inefficacy.md\"> Yang's political failure was due to lack of activism and political inefficacy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/fYang's political failure was due to lack of activism and political inefficacy.md\"> fYang's political failure was due to lack of activism and political inefficacy </a>",
@@ -12396,11 +12403,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Respect for travellers.md\"> Respect for travellers </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Respect for the subconscious.md\"> Respect for the subconscious </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/progress requires respect.md\"> progress requires respect </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Progress requires change.md\"> Progress requires change </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/People easily ignore history.md\"> People easily ignore history </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Progress requires change.md\"> Progress requires change </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/EGNOTE.md\"> EGNOTE </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Western.md\"> Western </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Palestine.md\"> Palestine </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
@@ -12449,9 +12456,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/objective.md\"> objective </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/subjective.md\"> subjective </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/objectivity.md\"> objectivity </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/understanding.md\"> understanding </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/experience.md\"> experience </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/objectivity.md\"> objectivity </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12554,6 +12559,10 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Inequality is an unactionable item.md\"> Inequality is an unactionable item </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Tantra.md\"> Tantra </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/Politics.md\"> Politics </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/stub notes.md\"> stub notes </a>",
@@ -12600,11 +12609,7 @@
         "<a class=\"internal-link\" href=\"Ashram.md\"> Ashram </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Readwise (software).md\"> Readwise (software) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Readwise (software).md\"> Readwise (software) </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
@@ -12660,6 +12665,8 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoDrK and DrMike conversation.md\"> videoDrK and DrMike conversation </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/EGNOTE.md\"> EGNOTE </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md\"> notes_The Nature of Mind </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
@@ -12708,9 +12715,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Personal/I thought negative emotions were natural and that positive emotions weren't real.md\"> I thought negative emotions were natural and that positive emotions weren't real </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>"
       ]
     },
     "40_Evergreens": {
@@ -12820,6 +12825,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\"> People are radicalized when they are convinced that change is out of their control </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual note is a better term than atomic note.md\"> Conceptual note is a better term than atomic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political failure was due to lack of activism and political inefficacy.md\"> Yang's political failure was due to lack of activism and political inefficacy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/fYang's political failure was due to lack of activism and political inefficacy.md\"> fYang's political failure was due to lack of activism and political inefficacy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political failure was due to lack of activism and political inneficacy.md\"> Yang's political failure was due to lack of activism and political inneficacy </a>",
@@ -12868,9 +12875,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans try really hard to avoid understanding our mistakes.md\"> Humans try really hard to avoid understanding our mistakes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Worlds views should be open ended and adaptive.md\"> Worlds views should be open ended and adaptive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
@@ -12974,6 +12979,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\"> Hard boundaries reduce opportunities for creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans try really hard to avoid understanding their mistakes.md\"> Humans try really hard to avoid understanding their mistakes </a>",
@@ -13021,10 +13029,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md\"> Prioritize organization over categorization to avoid cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy does not disallow judgment.md\"> Empathy does not disallow judgment </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Sometimes we can't grow until we change our environment.md\"> Sometimes we can't grow until we change our environment </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
@@ -13080,6 +13085,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Tiktok creates a false sense of unbreakable, expansive, and influential communities.md\"> Tiktok creates a false sense of unbreakable, expansive, and influential communities </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
@@ -13129,8 +13135,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>"
       ]
     }
   },

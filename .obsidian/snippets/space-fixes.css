@@ -1,13 +1,13 @@
-hr {
+/* hr {
   height: 0.25rem;
   display: block;
   margin: 0.35em !important;
   clear: both;
-}
+} */
 
-cite {
+/* cite {
   padding-top: 0 !important;
-}
+} */
 
 .theme-dark .graph-view.color-line {
   color: #04244b;
@@ -26,16 +26,16 @@ cite {
 .graph-view.graph-view.color-fill-focused {
   color: #ff0000 !important;
 }
-.markdown-embed-title {
+/* .markdown-embed-title {
   display: none;
-}
+} */
 
-.markdown-embed {
+/* .markdown-embed {
   max-height: none;
   padding: 0;
   border: 0;
   margin: 0;
-}
+} */
 
 .data-link-text,
 .markdown-preview-view .internal-link,

@@ -6,7 +6,7 @@ const relative_path = "30_Topics/31_Stubs"
 
 const matches = content.matchAll(/\[\[([^\[\]\#\|]+)[^\]]*\]\]/g);
 for (match of matches) {
-	const filename = match[1]
+	const filename = match[1].trim()
 	if (!tp.file.exists(filename)) {
 		tp.file.create_new(stubTemplate,  relative_path + "/" + filename, false, root );
 	}

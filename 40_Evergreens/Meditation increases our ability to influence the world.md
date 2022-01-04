@@ -3,9 +3,9 @@ created: 2022-01-02T08:55:52
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-02
+sr-due: 2022-01-05
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Meditation increases our ability to influence the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -32,7 +32,7 @@ This is [[Tantra]], [[manifestation]] of our will into the world.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[meditation]], [[influence]]

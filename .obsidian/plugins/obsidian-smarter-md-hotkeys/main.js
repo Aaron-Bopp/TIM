@@ -163,7 +163,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
   }
   expandAndWrap(frontMarkup, endMarkup, editor) {
     return __async(this, null, function* () {
-      const debug = true;
+      const debug = false;
       function isOutsideSel(bef, aft) {
         const so = startOffset();
         const eo = endOffset();

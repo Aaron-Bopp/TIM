@@ -21,14 +21,13 @@ def convert(directory, new_directory):
                     os.makedirs(os.path.dirname(os.path.join(new_directory, relative_path)), exist_ok=True)
                     # write file 
                     with open(os.path.join(new_directory, relative_path), 'w', encoding='utf-8') as f:
-                        # seed = re.search(r'\:\:\s*\#EVER\/SE', text)
-                        seed = False
+                        weed = re.search(r'\:\:\s*\#EVER\/WEED', text)
                         if '20_Entry' in relative_path:
                             text = re.sub(r'```dataview', "````md\n```dataview", text)
                             text = re.sub(r'```\s*$', "```\n````", text)
                         if 'Templates' in relative_path:
                             f.write(f'````md\n{text}\n````')
-                        elif not seed:
+                        elif not weed:
                             text = re.sub(r'\*?(edited)?\s*`\$?=[^`]*`\*?', "", text)
                             text = re.sub(r'### \<hr.*\/\>', '\n---', text)
                             f.write(text)

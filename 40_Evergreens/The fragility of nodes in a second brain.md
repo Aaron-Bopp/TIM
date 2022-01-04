@@ -24,7 +24,7 @@ In [[My TIM]] I have created a classification structure and one of it's purposes
 
 [[evergreen notes|Evergreens]] are the quentisential conceptual [^2] node of the second brain. They are interlinked with each other and apply to many topics. Each one provides context and recieves context from others, but can still stand on their own. Evergreens may need to be pruned, but they rarely need to be felled. These are the least fragile and the most powerful nodes, which is why they are our focus: [[Write your notes like you're planting an evergreen forest]]
 
-[^2]: [[Conceptual notes is a better term than atomic notes]]
+[^2]: [[Conceptual note is a better term than atomic note]]
 
 There are more subcategorizations that provide clarification on what a node will do:
 

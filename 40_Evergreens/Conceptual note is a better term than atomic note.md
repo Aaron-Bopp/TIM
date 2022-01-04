@@ -8,7 +8,7 @@ sr-interval: 12
 sr-ease: 132
 ---
 
-#### [[Conceptual notes is a better term than atomic notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Conceptual note is a better term than atomic note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Names matter because they effect people's perception and understanding]], and 
 I think that in name alone [[conceptual notes]] are superior to atomic notes. 

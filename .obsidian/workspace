@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "58614c8e2087b19f",
+        "id": "8339b36f0f1e019b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/32_Terms/Tantra.md",
+            "file": "00_Meta/Templates/EGNOTE.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,118 +19,82 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Tantra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/EGNOTE.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/PERSON.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":21.58258958848152}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We learn by transforming information into understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":18},\"to\":{\"line\":35,\"ch\":18}},\"scroll\":20.04475000832208}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/How to process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice and discipline of observation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Yang's political failure was due to lack of activism and political inefficacy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":1423},\"to\":{\"line\":12,\"ch\":1423}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":4.741935434252119}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":6.4516126055127145}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":57},\"to\":{\"line\":23,\"ch\":57}},\"scroll\":6.071428674824386}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/heterarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.5361256624391566}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":5.642857307074024}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When in doubt, write what you think.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the difference between blame and judgement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":10.609865103412506}"
             },
             {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":5.607142884512338}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":12},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "58614c8e2087b19f",
+              "leaf": "8339b36f0f1e019b",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "b23dd0684051b2d6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/Mental Health/notes_History of Meditation.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "b23dd0684051b2d6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/notes_History of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.367205108291095}"
-            },
-            {
-              "leaf": "b23dd0684051b2d6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":27.153034720686822}"
             }
           ]
         }
@@ -183,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Mental Health/notes_History of Meditation.md",
+                "file": "00_Meta/Templates/EGNOTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -216,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Mental Health/notes_History of Meditation.md",
+                "file": "00_Meta/Templates/EGNOTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,12 +205,12 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -262,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Mental Health/notes_History of Meditation.md"
+                "file": "00_Meta/Templates/EGNOTE.md"
               }
             },
             "pane-relief:history-v1": {
@@ -317,6 +281,38 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "ba947bfb53110a15",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba6ba783bdc6f42d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d4f2bd1278f8d8b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec1a8cea448baebc",
+            "type": "leaf",
+            "state": {
+              "type": "BC-down",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -331,7 +327,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Mental Health/notes_History of Meditation.md",
+                "file": "00_Meta/Templates/EGNOTE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -438,19 +434,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706
+    "width": 694
   },
-  "active": "b23dd0684051b2d6",
+  "active": "8339b36f0f1e019b",
   "lastOpenFiles": [
-    "10_Sources/Mental Health/notes_History of Meditation.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Intro to Mantra Practice.md",
-    "30_Topics/32_Terms/Tantra.md",
-    "40_Evergreens/Meditation increases our ability to influence the world.md",
-    "40_Evergreens/We learn by transforming information into understanding.md",
-    "30_Topics/37_Techniques/How to process repressed emotions.md",
-    "40_Evergreens/Hard boundaries reduce opportunities for creativity.md",
-    "40_Evergreens/Yang's political failure was due to lack of activism and political inefficacy.md",
-    "30_Topics/31_Stubs/Palestine.md",
-    "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md"
+    "00_Meta/Templates/EGNOTE.md",
+    "00_Meta/Templates/PERSON.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md",
+    "00_Meta/Templates/create stubs.md",
+    "10_Sources/course_Dr. K's Guide to Mental Health.md",
+    "40_Evergreens/Meditation is a practice and discipline of observation.md",
+    "40_Evergreens/People are radicalized when they are convinced that change is out of their control.md",
+    "40_Evergreens/Webs of thought provide heterarchical structure.md",
+    "30_Topics/32_Terms/heterarchy.md",
+    "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md"
   ]
 }

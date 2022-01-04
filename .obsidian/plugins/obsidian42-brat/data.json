@@ -4,7 +4,6 @@
     "joethei/obsidian-tts",
     "SkepticMystic/nlp",
     "horriblename/preview-mode-keybinds-obsidian",
-    "chrisgrieser/obsidian-smarter-md-hotkeys",
     "TfTHacker/obsidian42-brat",
     "jmilldotdev/obsidian-frontmatter-tag-suggest",
     "joethei/obsidian-rss"
@@ -12,7 +11,7 @@
   "themesList": [
     {
       "repo": "Emrie-Candera/Bubble-Space-Theme",
-      "lastUpdate": "2021-12-12T16:12:24Z"
+      "lastUpdate": "2022-01-04T19:40:07Z"
     },
     {
       "repo": "ebullient/obsidian-theme-ebullientworks",

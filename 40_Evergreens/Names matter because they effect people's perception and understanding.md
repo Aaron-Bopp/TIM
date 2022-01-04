@@ -3,8 +3,8 @@ created: 2021-12-22
 aliases:
   - null
 tags: created/evergreen/2021/12/22, node/evergreen
-sr-due: 2022-01-02
-sr-interval: 4
+sr-due: 2022-01-14
+sr-interval: 10
 sr-ease: 150
 ---
 
@@ -13,9 +13,10 @@ sr-ease: 150
 How something is named effects people's [[perception]] of it.
 
 ```ad-example
-In [[my TO(DO) and EVER(GREEN) structure]], I have classification's of seed, sprout, and green for note status. When I go to publish my vault, I have my script setup to not publish any seeds, which means that if I am comfortable with a notes content I should update it's status to sprout. This was working fine, until I read a pursuading article about a seedbox. Now functionally, my sprout status is no different from their seeds, but the difference in naming has been bothering me, and has pursuaded me to change my script: [[Hard rules create cognitive bias]]
+In [[my TO(DO) and EVER(GREEN) structure]], I have classification's of seed, sprout, and green for note status. When I go to publish my vault, I have my script setup to not publish any seeds so that I could have content that isn't fully formed yet not be published automatically. If I wanted something to be published, I should update it's status to sprout. This was working fine, until I read a pursuading article about a seedbox. Now functionally, my sprout status is no different from their seeds, but the difference in naming has been bothering me, and has pursuaded me to change my script: [[Hard rules create cognitive bias]]
 ```
 
+- [[Conceptual note is a better term than atomic note]]
 - [[Trans people will look for any other solution than being trans]]
 - [[How to pursue the positive things in life]]
 - #TO/PONDER relation to [[cognitive dissonance]]

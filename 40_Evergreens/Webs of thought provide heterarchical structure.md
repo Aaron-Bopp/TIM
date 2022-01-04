@@ -10,6 +10,8 @@ sr-ease: 203
 
 #### [[Webs of thought provide heterarchical structure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/DO/CONCEPTUALIZE 
+
 ![[heterarchy]]
 
 - [[Organization systems are not mutually exclusive]]

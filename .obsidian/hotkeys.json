@@ -436,5 +436,14 @@
       ],
       "key": "H"
     }
+  ],
+  "editor:insert-link": [],
+  "obsidian-smarter-md-hotkeys:smarter-md-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
   ]
 }
