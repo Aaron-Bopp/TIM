@@ -3,15 +3,14 @@ created: 2021-12-24
 aliases:
   - null
 tags: created/evergreen/2021/12/24, node/evergreen
-sr-due: 2022-01-03
-sr-interval: 6
-sr-ease: 210
+sr-due: 2022-01-07
+sr-interval: 3
+sr-ease: 190
 ---
 
 #### [[Meditation is a practice and discipline of observation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-When [[Western]] researcher's started studying the science behind [[meditation]] and [[yoga]] they tried to distill these practices into one thing: 
-[[mindfulness]]
+When [[Western]] researcher's started studying the science behind [[meditation]] and [[yoga]] they tried to distill these practices into one thing:  [[mindfulness]]
 ^[[[notes_History of Meditation]]]
 
 

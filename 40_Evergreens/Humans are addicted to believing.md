@@ -24,6 +24,7 @@ the problem is when we pathologize this addiction and spread it as far as we can
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[Is cognitive dissonance the reason for harmful behaviors]]
 - [[Hope is not optimism it is a practice for producing change]]
+- [[What is the cognitive effect of living in an unjust world]]
 
  
 

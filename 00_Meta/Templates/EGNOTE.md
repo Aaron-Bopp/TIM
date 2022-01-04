@@ -1,8 +1,4 @@
----
-created: 2022-01-04T15:13:24 
-aliases:
-  - null
-tags: created/evergreen/<% tp.date.now("YYYY/MM/DD") %>, node/evergreen
+<% tp.file.include("[[META]]") %> created/evergreen/<% tp.date.now("YYYY/MM/DD") %>, node/evergreen
 sr-due: <% tp.date.now() %>
 sr-interval: 1
 sr-ease: 230
@@ -10,7 +6,7 @@ sr-ease: 230
 
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>
 
- #newTag_with-hypen
+<% tp.file.cursor(0) %> 
 
 ### <hr class="footnote"/>
 

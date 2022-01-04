@@ -9,20 +9,104 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00_Meta/Templates/EGNOTE.md",
+            "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "8339b36f0f1e019b",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/hopelessness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Writing is the catalyst of understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":30},\"to\":{\"line\":22,\"ch\":30}}}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans transfer their wonder into creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/I don't write my notes for myself.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans long to know what to do.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":53},\"to\":{\"line\":12,\"ch\":53}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Purpose is derived from within duty is derived from without.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us detach negative attachments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":8.276922763922276}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice and discipline of observation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":148},\"to\":{\"line\":12,\"ch\":148}}}"
+            },
+            {
+              "leaf": "8339b36f0f1e019b",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/EGNOTE.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "8339b36f0f1e019b",
@@ -52,48 +136,6 @@
               "leaf": "8339b36f0f1e019b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice and discipline of observation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":4.741935434252119}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":6.4516126055127145}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/heterarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When in doubt, write what you think.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":10.609865103412506}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -128,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/TEND/DEOBFUSCATE",
+                "query": "tag:#created/evergreen/2022/01/03",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -147,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Meta/Templates/EGNOTE.md",
+                "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -180,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Meta/Templates/EGNOTE.md",
+                "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Meta/Templates/EGNOTE.md"
+                "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md"
               }
             },
             "pane-relief:history-v1": {
@@ -288,6 +330,10 @@
             "state": {
               "type": "RSS_FEED",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -296,6 +342,10 @@
             "state": {
               "type": "BC-matrix",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -304,6 +354,10 @@
             "state": {
               "type": "BC-stats",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -312,6 +366,10 @@
             "state": {
               "type": "BC-down",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -327,7 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00_Meta/Templates/EGNOTE.md",
+                "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -434,19 +492,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 694
+    "width": 694,
+    "collapsed": true
   },
   "active": "8339b36f0f1e019b",
   "lastOpenFiles": [
-    "00_Meta/Templates/EGNOTE.md",
-    "00_Meta/Templates/PERSON.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md",
-    "00_Meta/Templates/create stubs.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "40_Evergreens/Meditation is a practice and discipline of observation.md",
-    "40_Evergreens/People are radicalized when they are convinced that change is out of their control.md",
-    "40_Evergreens/Webs of thought provide heterarchical structure.md",
-    "30_Topics/32_Terms/heterarchy.md",
-    "40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md"
+    "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
+    "30_Topics/31_Stubs/hopelessness.md",
+    "30_Topics/31_Stubs/hope.md",
+    "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
+    "40_Evergreens/Writing is the catalyst of understanding.md",
+    "40_Evergreens/Humans are drawn to the unknown and repelled by the known.md",
+    "40_Evergreens/Humans transfer their wonder into creativity.md",
+    "40_Evergreens/I don't write my notes for myself.md",
+    "40_Evergreens/Humans long to know what to do.md",
+    "40_Evergreens/Humans are addicted to believing.md"
   ]
 }
