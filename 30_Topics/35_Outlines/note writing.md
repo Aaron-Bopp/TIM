@@ -14,6 +14,9 @@ aliases:
 **See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[note writing]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Thoughts on kinds of notes
 	- [[The fragility of nodes in a second brain]]

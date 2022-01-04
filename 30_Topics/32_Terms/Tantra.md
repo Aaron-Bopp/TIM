@@ -11,3 +11,7 @@ It is an [[eastern philosophy|eastern system]] of [[spirituality]] that focuses 
 
 **See**:: [[yoga]], [[mantra]], [[Yantra]], [[Yajna]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

@@ -11,3 +11,7 @@ Defined by manic episodes that last at least 7 days, or by manic symptoms that a
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

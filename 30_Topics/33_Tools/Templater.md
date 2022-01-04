@@ -12,6 +12,9 @@ Docs:: https://silentvoid13.github.io/Templater/
 **Topics**:: [[Obsidian (software)]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 Q:: <% tp.file.cursor(0) %>  
 
 A::

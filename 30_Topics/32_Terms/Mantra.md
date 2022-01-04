@@ -11,3 +11,7 @@ A phrase of power, almost like a magical spell, that is chanted to create a part
 
 **See**:: [[yoga]], [[Tantra]], [[Yantra]], [[Yajna]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

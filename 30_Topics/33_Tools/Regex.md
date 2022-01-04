@@ -13,6 +13,9 @@ A regular expression is a sequence of characters that specifies a search pattern
 **Topics**:: [[Computer Science]], [[programming]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 [^1]: https://en.wikipedia.org/wiki/Regular%20expression
 
 ## Getting started

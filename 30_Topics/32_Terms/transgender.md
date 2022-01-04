@@ -11,6 +11,9 @@ aliases:
 **See**:: [[Queer]], [[gender]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[transgender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[You're never sure if you're trans]]
 - [[You can discover your transness at any point in life]]

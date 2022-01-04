@@ -11,3 +11,7 @@ Surrender or devotion to God, a [[Niyama]] in [[Raja Yoga]].
 
 **See**:: [[Shuddha]], [[Santosha]], [[Tapas]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

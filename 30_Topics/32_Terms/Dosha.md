@@ -11,3 +11,7 @@ A central term in [[Ayurveda]], which refers to the three humors, the balance of
 
 **See**:: [[Vata]], [[Pitta]], [[Kapha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

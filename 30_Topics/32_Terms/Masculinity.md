@@ -10,4 +10,7 @@ Masculine traits are simply traits that appear more in men. [^1]
 **See**:: [[Patriarchy]], [[gender]], [[Masculinism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 [^1]: [[articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying]]

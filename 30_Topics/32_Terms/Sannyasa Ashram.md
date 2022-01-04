@@ -11,3 +11,7 @@ The fourth of the four stages of life according to the [[Hinduism|Hindu]] tradit
 
 **See**:: [[Grahastha Ashram]], [[Vanaprastha Ashram]], [[Brahmacharya Ashram]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

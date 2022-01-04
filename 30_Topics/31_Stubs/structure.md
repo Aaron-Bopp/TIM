@@ -9,5 +9,8 @@ tags: created/topic/2021/12/07, node/topic/stub
 #TO/EXPLORE/READ [A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method](https://zettelkasten.de/posts/three-layers-structure-zettelkasten/)
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`* 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

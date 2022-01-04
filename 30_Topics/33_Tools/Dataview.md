@@ -11,7 +11,9 @@ tags: created/topic/2021/05/29, node/topic, node/topic/tool
 **Topics**:: [[205 Index]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
 
+%% DO NOT EDIT ABOVE %%
 source code:: https://github.com/blacksmithgu/obsidian-dataview
 documentation:: https://blacksmithgu.github.io/obsidian-dataview/
 snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/104
@@ -42,3 +44,6 @@ snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, http
 **Topics**:: [[SQL]], [[data querrying]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

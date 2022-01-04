@@ -9,26 +9,44 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
+            "file": "30_Topics/31_Stubs/Adderall.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "6812d7dc398cb007",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Adderall.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6812d7dc398cb007",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/activism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6812d7dc398cb007",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/Acting.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6812d7dc398cb007",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/abortion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "6812d7dc398cb007",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "6812d7dc398cb007",
@@ -123,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
+                "file": "30_Topics/31_Stubs/Adderall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -156,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
+                "file": "30_Topics/31_Stubs/Adderall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -202,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/The history of meditation is a mixture of science and spirituality.md"
+                "file": "30_Topics/31_Stubs/Adderall.md"
               }
             },
             "pane-relief:history-v1": {
@@ -307,7 +324,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
+                "file": "30_Topics/31_Stubs/Adderall.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -418,15 +435,15 @@
   },
   "active": "6812d7dc398cb007",
   "lastOpenFiles": [
+    "30_Topics/31_Stubs/Adderall.md",
+    "30_Topics/31_Stubs/activism.md",
+    "30_Topics/31_Stubs/Acting.md",
+    "30_Topics/31_Stubs/abortion.md",
     "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
     "40_Evergreens/Hard boundaries reduce opportunities for creativity.md",
     "40_Evergreens/Black identity is inseparable from other identities.md",
     "40_Evergreens/Webs of thought provide heterarchical structure.md",
     "30_Topics/31_Stubs/organization.md",
-    "30_Topics/32_Terms/heterarchy.md",
-    "30_Topics/31_Stubs/AI.md",
-    "40_Evergreens/Humans try really hard to avoid understanding their mistakes.md",
-    "40_Evergreens/Social media creates a false sense of unbreakable, expansive, and influential communities.md",
-    "40_Evergreens/Wealth Inequality creates a need for change.md"
+    "30_Topics/32_Terms/heterarchy.md"
   ]
 }

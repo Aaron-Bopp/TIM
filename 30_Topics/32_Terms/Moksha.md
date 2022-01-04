@@ -11,3 +11,7 @@ The [[Buddhism|Buddhist]] term for [[enlightenment]].
 
 **See**:: [[meditation]], [[Dhyana]], [[Samadhi]], [[Dharana]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

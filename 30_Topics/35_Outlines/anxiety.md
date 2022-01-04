@@ -18,6 +18,9 @@ Your body's natural response to stress. It's a feeling of fear or apprehension a
 **See**:: [[mental health]], [[mental illness]], [[self]], [[mindfulness]], [[conscious]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Your anxiety is telling you everything that could go wrong not what will go wrong]]

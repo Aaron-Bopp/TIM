@@ -10,4 +10,7 @@ the applicatoin of evolutionary theory (natural selection) to social behavior [[
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 [^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]

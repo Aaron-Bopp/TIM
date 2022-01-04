@@ -11,3 +11,7 @@ The second of the four stages of life according to the [[Hinduism|Hindu]] tradit
 
 **See**:: [[Sannyasa Ashram]], [[Vanaprastha Ashram]], [[Brahmacharya Ashram]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

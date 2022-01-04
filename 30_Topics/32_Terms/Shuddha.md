@@ -11,3 +11,7 @@ Also known as Shaucha, it is the observance of cleanliness, a [[Niyama]] in [[Ra
 
 **See**:: [[Swadhyaya]], [[Santosha]], [[Tapas]], [[Iswara Pranidhana]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

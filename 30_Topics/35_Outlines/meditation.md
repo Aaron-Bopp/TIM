@@ -12,6 +12,9 @@ aliases:
 **See**:: [[yoga]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[meditation]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Techniques
 	- [[Flamingo Pose Meditation]]

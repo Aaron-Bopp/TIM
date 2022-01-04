@@ -11,3 +11,7 @@ Similar to the major [[religion|religions]] of the world, it is the path of [[de
 
 **See**:: [[yoga]], [[Raja Yoga]], [[Kriya Yoga]], [[Jnana Yoga]], [[Karma Yoga]], [[Hatha Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

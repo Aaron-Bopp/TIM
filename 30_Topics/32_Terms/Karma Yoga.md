@@ -11,3 +11,7 @@ A system of [[Yoga]] that focuses on becoming [[enlightenment|enlightened]] by d
 
 **See**:: [[yoga]], [[Raja Yoga]], [[Bhakti Yoga]], [[Kriya Yoga]], [[Jnana Yoga]], [[Hatha Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

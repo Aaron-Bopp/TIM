@@ -13,4 +13,6 @@ Source:: [GitHub - phibr0/obsidian-dictionary: Dictionary - Obsidian Plugin | Th
 **See**:: [[Obsidian (software)]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
 
+%% DO NOT EDIT ABOVE %%

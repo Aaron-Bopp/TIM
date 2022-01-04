@@ -11,3 +11,7 @@ It is a temporary state of [[enlightenment]], where you experience your true [[s
 
 **See**:: [[meditation]], [[Dhyana]], [[Dharana]], [[Moksha]], [[Raja Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

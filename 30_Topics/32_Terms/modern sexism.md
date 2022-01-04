@@ -7,7 +7,10 @@ tags: created/topic/2021/11/10, node/topic/term
 a more subtle form of sexism not involving explicit admission of sexist beliefs, i.e denial of sexism, complainst about "special treatment," endorsement of double-standards [^1]
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`* 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 [^1]: [[Psychology of Race and Gender notes]]
 

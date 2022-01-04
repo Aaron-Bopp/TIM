@@ -12,5 +12,8 @@ A [[stereotype threat]] is when a person is concerned a negative sterotype affec
 **See**:: [[racism]], [[Psychology]], [[stereotype]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 [^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]
 

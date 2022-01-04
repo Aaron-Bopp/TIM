@@ -23,3 +23,7 @@ A system of Yoga, also known as the path of Kings, that focuses on gaining enlig
 
 **See**:: [[yoga]], [[Raja Yoga]], [[Bhakti Yoga]], [[Kriya Yoga]], [[Jnana Yoga]], [[Karma Yoga]], [[Hatha Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

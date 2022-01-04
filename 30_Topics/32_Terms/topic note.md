@@ -30,4 +30,6 @@ A topic note can come to be in two ways:
 **See**:: [[My TIM]], [[note writing]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
 
+%% DO NOT EDIT ABOVE %%

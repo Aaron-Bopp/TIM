@@ -13,7 +13,9 @@ Obsidian is a markdown editor that includes many features that are valuable to [
 **See**:: [[Zettelkasten]], [[second brain]], [[knowledge management]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
 
+%% DO NOT EDIT ABOVE %%
 ## Getting Started
 - Okay, I didn't scroll down past the download link on [obsidian.md](https://obsidian.md/) until I had been using it for almost a year, but it is an excellent starting point!
 - [Expansive list of resources and a weekly newsletter on Obsidian](https://obsidianroundup.org/resources/.)

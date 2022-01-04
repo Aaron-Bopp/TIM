@@ -8,6 +8,9 @@ tags: created/topic/2021/07/21, node/topic/outline
 **See**:: [[Capitalism]], [[Marxism]], [[Communism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[Wealth Inequality]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Wealth Inequality creates a need for change]]
 

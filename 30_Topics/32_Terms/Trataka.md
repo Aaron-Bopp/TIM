@@ -11,3 +11,7 @@ Also known as fixed-point gazing, it is a shuddhi technique, typically practiced
 
 **See**:: [[meditation]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

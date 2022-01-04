@@ -11,3 +11,7 @@ Situated at the base of our [[spine]], it governs our [[impulse|impulses]].
 
 **See**:: [[Chakra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

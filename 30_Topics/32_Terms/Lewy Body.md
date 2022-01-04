@@ -11,3 +11,7 @@ Clumps of protein that can form in the brain. When they build up, they can cause
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

@@ -12,6 +12,9 @@ This topic serves as a bride between [[Prison abolition]] and the [[prison-indus
 **See**:: [[social justice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[Prison]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[prison-industrial complex]]
 - [[Prison abolition]]

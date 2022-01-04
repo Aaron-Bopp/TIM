@@ -11,3 +11,7 @@ Situated at the [[navel]] or lower [[back]], it governs our [[digestive process|
 
 **See**:: [[Chakra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

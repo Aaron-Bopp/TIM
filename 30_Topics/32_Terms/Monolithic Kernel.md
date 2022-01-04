@@ -10,5 +10,8 @@ All kernil services ([[Virtual File System| VFS]], schedulers, device drivers) l
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 [^1]: [[notes_OS_Operating Systems]]
 

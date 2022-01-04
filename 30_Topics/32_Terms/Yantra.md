@@ -11,3 +11,7 @@ They are symbols of power, that when meditated on allow the meditator to harness
 
 **See**::[[yoga]], [[Tantra]], [[mantra]], [[Yajna]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

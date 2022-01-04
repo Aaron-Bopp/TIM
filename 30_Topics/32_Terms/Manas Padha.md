@@ -11,3 +11,7 @@ The path of the [[mind]], which focuses on exploring the nature of the mind.
 
 **See**:: [[Siddhi Padha]], [[Sukkha Padha]], [[Jnana Padha]], [[Atman Padha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

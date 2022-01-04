@@ -14,6 +14,9 @@ date modified: Monday, October 4th 2021, 9:58:06 pm
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[self]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Identity is your understanding of yourself vs your interaction with the world]]
 - There are two modes of viewing yourself, [[self-perception]] and [[self-image]]

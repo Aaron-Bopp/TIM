@@ -11,6 +11,8 @@ Transhumanism is the [[philosophy]] concerning general advocation for [[humanity
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UvYcunuF3Eo?start=1711" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`* 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
 
+%% DO NOT EDIT ABOVE %%

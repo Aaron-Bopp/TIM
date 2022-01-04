@@ -17,3 +17,6 @@ enlightenment, [[liberation]], [[self]]-Realization, God-Realization, nirvikalpa
 **See**:: [[Buddhism]], [[human advancement]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

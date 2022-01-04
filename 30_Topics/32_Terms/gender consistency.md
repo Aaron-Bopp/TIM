@@ -10,5 +10,8 @@ understanding that gender is consistent despite superfical changes in appearance
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 [^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]
 

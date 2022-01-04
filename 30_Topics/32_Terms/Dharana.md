@@ -11,3 +11,7 @@ A focusing technique that can lead to reach deeper states of [[meditation]].
 
 **See**:: [[meditation]], [[Dhyana]], [[Samadhi]], [[Moksha]], [[Raja Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

@@ -11,3 +11,7 @@ Situated at the crown of our head, when [[kundalini energy]] reaches this point,
 
 **See**:: [[Chakra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

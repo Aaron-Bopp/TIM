@@ -11,3 +11,7 @@ The first of the four stages of life according to the [[Hinduism|Hindu]] traditi
 
 **See**:: [[Sannyasa Ashram]], [[Grahastha Ashram]], [[Vanaprastha Ashram]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

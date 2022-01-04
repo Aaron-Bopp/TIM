@@ -11,3 +11,7 @@ Situated at our [[solar plexus]] or the middle of our upper back, it is the hear
 
 **See**:: [[Chakra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

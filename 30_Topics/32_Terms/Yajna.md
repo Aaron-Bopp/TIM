@@ -11,3 +11,7 @@ These are particular rituals that are used to harness the desired kind of cosmic
 
 **See**:: [[yoga]], [[Tantra]], [[Yantra]], [[mantra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

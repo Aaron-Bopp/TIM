@@ -10,6 +10,9 @@ tags: created/topic/2022/01/02, node/topic
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[Video essays]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [Bo Burnham vs. Jeff Bezos](https://www.youtube.com/watch?v=UvYcunuF3Eo)

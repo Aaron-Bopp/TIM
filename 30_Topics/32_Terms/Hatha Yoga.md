@@ -11,3 +11,7 @@ A hybrid tradition of [[Yoga]] that focuses on attaining [[enlightenment]] by pu
 
 **See**:: [[Raja Yoga]], [[Kundalini Yoga]], [[Bhakti Yoga]], [[Kriya Yoga]], [[Jnana Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

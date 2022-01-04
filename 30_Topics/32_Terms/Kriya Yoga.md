@@ -11,3 +11,7 @@ A relatively modern distillation of [[Yoga]], it is a system of attaining [[enli
 
 **See**:: [[yoga]], [[Raja Yoga]], [[Bhakti Yoga]], [[Jnana Yoga]], [[Karma Yoga]], [[Hatha Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

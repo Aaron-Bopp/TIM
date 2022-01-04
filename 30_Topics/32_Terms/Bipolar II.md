@@ -11,3 +11,7 @@ Defined by a pattern of depressive episodes and hypomanic episodes, but not the 
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

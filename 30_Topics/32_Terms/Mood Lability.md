@@ -11,3 +11,7 @@ Rapid, often exaggerated changes in mood, where strong emotions or feelings (unc
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

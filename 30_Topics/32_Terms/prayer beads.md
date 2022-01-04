@@ -12,3 +12,7 @@ Has a variable amount of beads based on [[purpose]], and has a guru bead which h
 
 **See**:: [[eastern philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

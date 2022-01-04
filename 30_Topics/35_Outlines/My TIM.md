@@ -10,6 +10,9 @@ Since March 2021 I have become very interested in the [[knowledge management]] c
 **See**:: [[second brain]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[My TIM]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Where do we start?
 	- [[Nodes in the second brain are an abstraction of our first brain]]

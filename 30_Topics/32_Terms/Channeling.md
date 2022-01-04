@@ -10,5 +10,8 @@ the differential treatment in which See select differenct toys, activities for b
 **See**:: [[gender]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
- [^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
+[^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]
 

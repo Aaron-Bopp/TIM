@@ -11,3 +11,7 @@ The observation of non-violence, a [[Yama]] in [[Raja Yoga]].
 
 **See**:: [[yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

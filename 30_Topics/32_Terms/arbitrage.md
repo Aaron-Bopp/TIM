@@ -11,3 +11,7 @@ Arbitrage is **the simultaneous purchase and sale of the same asset in different
 
 **See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

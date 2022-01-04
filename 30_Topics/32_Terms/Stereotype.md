@@ -10,5 +10,8 @@ A generalized belief towards a group or a member of group [^1]
 **See**:: [[prejudice]], [[discrimination]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 [^1]: [[Psychology of Race and Gender notes]]
 

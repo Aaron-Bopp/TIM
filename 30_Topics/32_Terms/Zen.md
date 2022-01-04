@@ -11,3 +11,7 @@ A [[Buddhism|Buddhist]] tradition of [[meditation]] that consists of open-awaren
 
 **See**:: [[eastern philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

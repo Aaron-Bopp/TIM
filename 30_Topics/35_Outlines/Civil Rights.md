@@ -8,6 +8,9 @@ tags: created/topic/2021/07/04, node/topic/outline
 **See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[Civil Rights]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[social justice]]
 - [[The injustice of endurance]]	

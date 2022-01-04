@@ -10,6 +10,9 @@ the state of undergoing pain, distress, or hardship.
 **See**:: [[Buddhism]], [[Dukkha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%
 ##### [[suffering]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 

@@ -11,3 +11,7 @@ A no-mind meditative state that typically follows [[dharana]].
 
 **See**:: [[meditation]], [[Dharana]], [[Samadhi]], [[Moksha]], [[Raja Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

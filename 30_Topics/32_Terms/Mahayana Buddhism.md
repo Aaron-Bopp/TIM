@@ -11,3 +11,7 @@ A major branch of [[Buddhism]] which states that there are multiple [[Buddha]]s,
 
 **See**:: [[Theravada Buddhism]], [[Vajrayana Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

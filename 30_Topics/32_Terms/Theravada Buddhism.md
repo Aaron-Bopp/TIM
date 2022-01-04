@@ -11,3 +11,7 @@ A major branch of [[Buddhism]] that originates from the Pali canon, which is a s
 
 **See**:: [[Vajrayana Buddhism]], [[Mahayana Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+%% DO NOT EDIT BELOW %%
+
+%% DO NOT EDIT ABOVE %%

@@ -23,5 +23,7 @@ def move_stubs(directory):
                         f.write(text)
 if __name__ == '__main__':
     # # get current working directory
+    os.chdir(r'30_Topics')
     directory = os.getcwd()
-    move_stubs(r'/30_Topics')
+    print(directory)
+    move_stubs(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics')
