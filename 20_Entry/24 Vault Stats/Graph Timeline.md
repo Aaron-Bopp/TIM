@@ -30,11 +30,17 @@
 ![[20211121.png]]
 ![[20211204.png]]
 ### Almost done with finals
-![[202111211.png]]
+![[2021112f.png]]
 ### A galaxy of thought
 ![[20211206.png]]
 ### No sleep, only graph
 ![[20211212.png]]
 
+# 2022
+## January
 ### Building knowledge
 ![[20211230.PNG]]
+### High flying
+![[20220102.PNG]]
+### Digesting
+![[20220103a.png]]

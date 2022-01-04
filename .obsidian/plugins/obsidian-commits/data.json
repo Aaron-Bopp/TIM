@@ -8033,7 +8033,7 @@
     "20_Entry/24 Vault Stats/Graph Timeline.md": {
       "size": 1069,
       "tags": 0,
-      "links": 16
+      "links": 18
     },
     "50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md": {
       "size": 2659,
@@ -12145,7 +12145,7 @@
     "/": {
       "Refactor": 2964,
       "Create": 3487,
-      "Link": 6976,
+      "Link": 6978,
       "Expand": 723
     },
     "40_Evergreens": {
@@ -12175,7 +12175,7 @@
       "15": 248,
       "16": 1239,
       "17": 2771,
-      "18": 2292,
+      "18": 2294,
       "19": 500,
       "20": 218,
       "21": 720,
@@ -12211,7 +12211,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 430,
+      "Mon": 432,
       "Tue": 1610,
       "Wed": 3643,
       "Thu": 2035,
@@ -12544,6 +12544,8 @@
         "<a class=\"internal-link\" href=\"Vikruti.md\"> Vikruti </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
         "<a class=\"internal-link\" href=\"90_Personal/What is wrong with the world.md\"> What is wrong with the world </a>",
@@ -12592,9 +12594,7 @@
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-03.md\"> 2022-01-03 </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Oedipal complex.md\"> Oedipal complex </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/transhumanism.md\"> transhumanism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
