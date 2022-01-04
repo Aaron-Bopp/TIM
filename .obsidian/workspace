@@ -4,138 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "8339b36f0f1e019b",
+        "id": "b8b93508a4991aa0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
+            "file": "40_Evergreens/Capitalism necessitates class division.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "8339b36f0f1e019b",
+              "leaf": "b8b93508a4991aa0",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/hopelessness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Capitalism necessitates class division.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "8339b36f0f1e019b",
+              "leaf": "b8b93508a4991aa0",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Writing is the catalyst of understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":30},\"to\":{\"line\":22,\"ch\":30}}}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans transfer their wonder into creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/I don't write my notes for myself.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans long to know what to do.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":53},\"to\":{\"line\":12,\"ch\":53}},\"scroll\":0}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Purpose is derived from within duty is derived from without.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us detach negative attachments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":8.276922763922276}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice and discipline of observation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":148},\"to\":{\"line\":12,\"ch\":148}}}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/EGNOTE.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/PERSON.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Different Meditative Styles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":18},\"to\":{\"line\":35,\"ch\":18}},\"scroll\":20.04475000832208}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Templates/create stubs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8339b36f0f1e019b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice and discipline of observation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -170,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/evergreen/2022/01/03",
+                "query": "tag:#created/evergreen/2022/01/04",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
+                "file": "40_Evergreens/Capitalism necessitates class division.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
+                "file": "40_Evergreens/Capitalism necessitates class division.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,11 +140,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -268,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md"
+                "file": "40_Evergreens/Capitalism necessitates class division.md"
               }
             },
             "pane-relief:history-v1": {
@@ -385,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
+                "file": "40_Evergreens/Capitalism necessitates class division.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -492,20 +385,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 694,
-    "collapsed": true
+    "width": 694
   },
-  "active": "8339b36f0f1e019b",
+  "active": "b8b93508a4991aa0",
   "lastOpenFiles": [
-    "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
-    "30_Topics/31_Stubs/hopelessness.md",
-    "30_Topics/31_Stubs/hope.md",
-    "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
-    "40_Evergreens/Writing is the catalyst of understanding.md",
-    "40_Evergreens/Humans are drawn to the unknown and repelled by the known.md",
-    "40_Evergreens/Humans transfer their wonder into creativity.md",
-    "40_Evergreens/I don't write my notes for myself.md",
-    "40_Evergreens/Humans long to know what to do.md",
-    "40_Evergreens/Humans are addicted to believing.md"
+    "40_Evergreens/Capitalism necessitates class division.md",
+    "40_Evergreens/Mass media promotes the spread of inaccurate information.md",
+    "40_Evergreens/The way systems work can create cognitive bias.md",
+    "40_Evergreens/To those with privilege, losing it feels like oppression.md",
+    "40_Evergreens/There is a difference between thinking and creating.md",
+    "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
+    "40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md",
+    "40_Evergreens/Karma is an open ended system of belief.md",
+    "40_Evergreens/Consciousness is our capacity to introspect.md",
+    "20_Entry/209 Notepad.md"
   ]
 }

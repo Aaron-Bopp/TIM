@@ -3,16 +3,12 @@ created: 2022-01-03T14:35:51
 aliases:
   - null
 tags: created/evergreen/2022/01/03, node/evergreen
-sr-due: 2022-01-03
-sr-interval: 1
+sr-due: 2022-01-07
+sr-interval: 3
 sr-ease: 230
 ---
 
 #### [[Consciousness is our capacity to introspect]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-%%
-#TO/EXPLORE/RESEARCH etymology of conscience
-> If you say that you cannot do something in good [[conscience]] you mean that you cannot do it because you think it is wrong. 
-^[[In good conscience/in all conscience definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/us/dictionary/english/in-good-conscience-in-all-conscience)]%%
 
 Many people think that [[conscious|consciousness]] is a fundamental part of [[humanity]], but I think that while humans are the only ones to achieve it, [[conscious|consciousness]] is variable within our species just like our capacity to introspect: [[Humans are primarily irrational, illogical, emotional beings]]
 

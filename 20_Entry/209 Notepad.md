@@ -1,3 +1,8 @@
+
+#TO/EXPLORE/RESEARCH etymology of conscience
+> If you say that you cannot do something in good [[conscience]] you mean that you cannot do it because you think it is wrong. 
+^[[In good conscience/in all conscience definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/us/dictionary/english/in-good-conscience-in-all-conscience)]
+
 [The Highly Sensitive Person and Childhood Trauma - YouTube](https://www.youtube.com/watch?v=GEtygF6LHkk)
 Is it possible to think your way out of everything? [[Jnana Yoga]]
 

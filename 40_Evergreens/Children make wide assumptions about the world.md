@@ -10,13 +10,17 @@ sr-ease: 210
 
 #### [[Children make wide assumptions about the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+This is because [[We carry our childhood wounds into adulthood]],
+and [[Negative influences are stronger than positive influences]].
+
+- [[We value our biggest insecurities because they protect us from the biggest threats]]
+- [[Your anxiety knows your insecurities better than you do]]
+- [[Our authority figures curate and reinforce what we are allowed to imitate]]
 - [[Human's will find explanations for inexplainable things]]
-- [[We carry our childhood wounds into adulthood]]
 - [[How can parent's best help their children]]
 - [[Knowledge of the world is painful]]
 - [[Stupid rules are meant to be broken]]  %% #TO/PONDER/ME  %%
 - [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
-- [[Our authority figures curate and reinforce what we are allowed to imitate]]
 
 ### <hr class="footnote"/>
 

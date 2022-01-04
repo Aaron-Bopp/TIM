@@ -3,9 +3,9 @@ created: 2021-10-19
 aliases:
   - humans love for grouping eachother
 tags: created/evergreen/2021/10/19, node/evergreen
-sr-due: 2022-01-03
-sr-interval: 26
-sr-ease: 219
+sr-due: 2022-01-19
+sr-interval: 15
+sr-ease: 199
 ---
 
 #### [[Humans love to group eachother]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -24,7 +24,7 @@ Possible mechanism behind [[racism]], [[homophobia]] [[partisanship]]
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolutionary Psychology]]
+**Topics**:: [[Evolutionary Psychology]], [[Behavioral Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

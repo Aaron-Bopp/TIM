@@ -1,14 +1,14 @@
 ---
 created: 2021-05-25
 tags: created/evergreen/2021/05/25, node/evergreen
-sr-due: 2022-01-03
-sr-interval: 52
+sr-due: 2022-06-05
+sr-interval: 152
 sr-ease: 290
 ---
 
 #### [[my TO(DO) and EVER(GREEN) structure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This structure could be applied to any system, but it works best in [[Obsidian (software)|Obsidian]], or other systems that treat tags the same way. In Obsidian tags can filter backlinks, the graph view, and be used with many plugins. Additionally when used in search queries they surface and filter notes. This makes tags useful as both a classifier of note type, and a way to mark work items: [[Use Obsidian tags as temporal classifiers]]
+This structure could be applied to any system, but it works best in [[Obsidian (software)|Obsidian]], or other systems that treats tags the same way. In Obsidian tags can filter backlinks, the graph view, and be used with many plugins. Additionally when used in search queries they surface and filter notes. This makes tags useful as both a classifier of note type, and a way to mark work items: [[Use Obsidian tags as temporal classifiers]]
 
 ##### \#TO(DO)
 
@@ -30,14 +30,9 @@ This is an incomplete list, and new categories can be added whenever it feels ne
 		- **\#TO/EXPLORE/READ** 
 		- **\#TO/EXPLORE/WATCH**
 		- **\#TO/EXPLORE/RESEARCH** 
-	- **\#TO/PONDER** ideas or concepts that require deep thought.
+	- **\#TO/PONDER** ideas or concepts that require deep thought or time to process
 		- **\#TO/PONDER/ME** 
 		- **\#TO/PONDER/SOCIETY**
-	- Optionally if you enjoy looking back your daily accomplishments modify your tags in this way (leave the last part). You can then order search by last modified
-	- **\#TO/DONE** 
-	- **\#TO/EXPLORED**
-	- **\#TO/PONDERED**
- 
 
 ##### \#EVER(GREEN)
 

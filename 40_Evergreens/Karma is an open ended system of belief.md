@@ -3,18 +3,18 @@ created: 2022-01-01
 aliases:
   - null
 tags: created/evergreen/2022/01/01, node/evergreen
-sr-due: 2022-01-03
-sr-interval: 1
+sr-due: 2022-01-07
+sr-interval: 3
 sr-ease: 210
 ---
 
 #### [[Karma is an open ended system of belief]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
 - [[Worlds views should be open ended and adaptive]]
 - [[Karma is based in the law of cause and effect]] 
 - [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 - [[Buddhism is the study of happiness through detachment]]
+- [[The Christian worldview is incompatible with most other worldviews]]
 
 ### <hr class="footnote"/>
 

@@ -3,8 +3,8 @@ created: 2021-12-15
 aliases:
   - null
 tags: created/evergreen/2021/12/15, node/evergreen
-sr-due: 2022-01-03
-sr-interval: 3
+sr-due: 2022-01-08
+sr-interval: 4
 sr-ease: 150
 ---
 
@@ -26,6 +26,9 @@ sr-ease: 150
 	- [[The moral majority movement was the original 'making things political']]
 	- [[Single issue voters are anti-democratic]]
 	- [[Abortion and immigration are detrimental to white supremacy]]
+- [[Belief pulls you forward into life]]
+	- [[Humans are addicted to believing]]
+	- [[Worlds views should be open ended and adaptive]]
 
 ### <hr class="footnote"/>
 

@@ -3,18 +3,19 @@ created: 2021-12-12
 aliases:
   - null
 tags: created/evergreen/2021/12/12, node/evergreen
-sr-due: 2022-01-03
-sr-interval: 13
+sr-due: 2022-02-05
+sr-interval: 32
 sr-ease: 230
 ---
 
 #### [[Evangelicalism has commodified faith for profit]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Evangelicalism]] is like a crooked salesman. They scream and scream about how all you need to do is pray one little prayer and then your entire life will be changed.
-"Have [[faith]] and you will be saved. Believe in the lord god and he will make your pain go away. All you need is one little prayer and your life will be changed forever!"
+"Have [[faith]] and you will be saved. [[belief|Believe]] in the lord god and he will make your pain go away. All you need is one little prayer and your life will be changed forever!"
 But when people come back to the salesman because they believed and didn't have their pain go away or feel any change at all, they are told that they are the problem. 
 "You should find it easy to be a good person because your a good Christian,
-here say the prayer again." 
+here say the prayer again!" 
+
 [[The actual work of being a good person isn't explored by Evangelicalism]]
 
 While [[The brain is powerful enough to create supernatural experiences]], [[Christianity]] has commodified supernatural experiences for monetary gain. [[Capitalism]] has accelerated this and created the modern [[Evangelicalism|charismatic church]] service which is the perfect environments for [[dissociation]] and [[panic attacks]]. It's all powered by [[guilt]], legitimate belief in a all-powerful god, and often emotional [[trauma]], and lots and lots of money. This is why Charismatic church's are especially prone to [[religious trauma]]: [[Religious concepts are often too powerful for a child's mind]] 

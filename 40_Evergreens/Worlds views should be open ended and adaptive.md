@@ -25,7 +25,6 @@ Even if your [[worldview]] is open ended and adaptive, it does not always mean t
 - [[Use philosophies as far they are useful and nothing more]]
 - [[Webs of thought provide heterarchical structure]]
  
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

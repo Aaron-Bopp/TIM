@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: created/evergreen/2021/06/28, node/evergreen
-sr-due: 2022-01-03
-sr-interval: 3
+sr-due: 2022-01-09
+sr-interval: 5
 sr-ease: 130
 ---
 
@@ -13,11 +13,13 @@ sr-ease: 130
 - [[Non-faith issues have been co-opted to keep people in the Christian church]]
 - [[The Christian worldview is incompatible with most other worldviews]]
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
+- [[Humans are addicted to believing]]
 
 This has been built up as major part in [[Christianity|Christians]] psyches and affects a lot of their [[subconscious]] decision-making.
 
 This encourages [[Searching for THE answer is dangerous]]
 - [[The biblical Christian God is evil and does not deserve to be worshipped]]
+- [[The actual work of being a good person isn't explored by Evangelicalism]]
 - [[Faith is an abstraction of cognitive dissonance]]
 
 ### <hr class="footnote"/>
