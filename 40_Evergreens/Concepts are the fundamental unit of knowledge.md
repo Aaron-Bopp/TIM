@@ -22,7 +22,7 @@ sr-ease: 210
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[note writing]], [[knowledge work]], [[knowledge management]]
+**Topics**:: [[note writing]], [[knowledge work]], [[knowledge management]], [[conceptual notes]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

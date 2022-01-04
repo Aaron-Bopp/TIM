@@ -3,9 +3,9 @@ created: 2021-12-18
 aliases:
   - null
 tags: created/evergreen/2021/12/18, node/evergreen
-sr-due: 2022-01-02
-sr-interval: 5
-sr-ease: 210
+sr-due: 2022-01-07
+sr-interval: 3
+sr-ease: 190
 ---
 
 #### [[Black identity is inseparable from other identities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

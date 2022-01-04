@@ -6,7 +6,7 @@ tags: created/topic/2021/05/22, node/topic/term
 
 A system that compliments, supliments, and extends the abilities of our first brain.
 
-**See**:: [[My TIM]], [[Zettelkasten]], [[note writing]], [[AI (artificial intelligence)]]
+**See**:: [[My TIM]], [[Zettelkasten]], [[note writing]], [[AI]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

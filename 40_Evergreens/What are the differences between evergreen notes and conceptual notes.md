@@ -15,7 +15,7 @@ sr-ease: 170
 >
 > <cite>[[Andy Matuschak]]</cite>
 
-[[Andy Matuschak's Evergreen Notes]] define [[evergreen notes]] as both [concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF) and [atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1) but in my vault I have primarily combined these concepts. This is partially because I think [[Conceptual notes are lexically superior to atomic notes]] but is primarily because [[Conceptual notes vary in size and scope]]. I do not think that there is any universal size that you should aim for in [[note writing]]. 
+[[Andy Matuschak's Evergreen Notes]] define [[evergreen notes]] as both [concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF) and [atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1) but in my vault I have primarily combined these concepts. This is partially because I think [[Conceptual notes is a better term than atomic notes]] but is primarily because [[Conceptual notes vary in size and scope]]. I do not think that there is any universal size that you should aim for in [[note writing]]. 
 
 I have evolved this to include
 - [[Evergreen notes organize knowledge so that it can grow]]

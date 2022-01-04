@@ -20,7 +20,7 @@ When people meditate for a long time they feel the [[perception]] of the world c
 
 ##### On a spiritual level
 
-[[The history of meditation is a mix of science and magic]]
+[[The history of meditation is a mixture of science and spirituality]]
 
 [[conscious|consciousness]] is a skill and divinity is the goal... [[enlightenment]]?
 
