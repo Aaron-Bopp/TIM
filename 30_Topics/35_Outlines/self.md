@@ -19,7 +19,7 @@ date modified: Monday, October 4th 2021, 9:58:06 pm
 - There are two modes of viewing yourself, [[self-perception]] and [[self-image]]
 	- [[self-perception]]
 	- [[self-image]]
-- [[The triad of ever increasing social anxiety]]
+- [[Social anxiety is a feedback loop]]
 - [[self-actualization]]
 - [[self-love]]
 - [[self-hate]]

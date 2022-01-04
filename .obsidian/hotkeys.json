@@ -320,8 +320,6 @@
       "key": "L"
     }
   ],
-  "obsidian-spaced-repetition:srs-note-review-good": [],
-  "obsidian-spaced-repetition:srs-note-review-hard": [],
   "hotkeysplus-obsidian:toggle-bullet-number": [],
   "hotkeysplus-obsidian:toggle-embed": [],
   "hotkeysplus-obsidian:better-toggle-todo": [],
@@ -421,6 +419,22 @@
         "Shift"
       ],
       "key": "Enter"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-good": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-hard": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
     }
   ]
 }

@@ -4,12 +4,18 @@ aliases:
   - What is the cognitive effect of living in an unjust world?
   - The cognitive effect of living in an unjust world
 tags: created/evergreen/2021/10/18, node/evergreen, node/question
-sr-due: 2022-01-02
-sr-interval: 25
+sr-due: 2022-02-27
+sr-interval: 54
 sr-ease: 197
 ---
 
 #### [[What is the cognitive effect of living in an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+%% #TO/DO/FIND story, Need to establish that the world is unjust%%
+
+%%There is more that one answer, how should they be represented? #TO/PONDER/ME %%
+
+%%What is the conclusion%%
 
 Possible Answers: 
 - [[Humans have decided to reject an unjust world]]

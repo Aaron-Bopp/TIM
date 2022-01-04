@@ -1,3 +1,4 @@
+[The Highly Sensitive Person and Childhood Trauma - YouTube](https://www.youtube.com/watch?v=GEtygF6LHkk)
 Is it possible to think your way out of everything? [[Jnana Yoga]]
 
 

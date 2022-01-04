@@ -16,6 +16,8 @@ Discovering what deeper mechanism is behind your anxiety can be difficult task, 
  
  ##### Cause:: repressed identity
  
+#TO/TEND/REFACTOR these notes [[Your anxiety knows your insecurities better than you do#Cause repressed identity]], [[We value our biggest insecurities because they protect us from the biggest threats]]
+
  #TO/TEND/DEOBFUSCATE [[A repressed identity creates a mistrust of self-love and self-esteem]] and this section
  
  #TO/TEND/CONNECT [[A secure identity is the best defense against social anxiety]]

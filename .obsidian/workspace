@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
+            "file": "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,44 @@
             {
               "leaf": "9129227f420414c1",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Social anxiety is a feedback loop.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":15},\"to\":{\"line\":20,\"ch\":15}},\"scroll\":0}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":18},\"to\":{\"line\":19,\"ch\":18}},\"scroll\":8.76}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/Dual Nostril Breathing Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":32},\"to\":{\"line\":11,\"ch\":32}}}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/91 Daily Notes/2022-01-04.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is our capacity to introspect.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":8},\"to\":{\"line\":43,\"ch\":8}},\"scroll\":0}"
+              "eState": "{}"
             },
             {
               "leaf": "9129227f420414c1",
@@ -101,18 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":4.913043211655558}"
-            },
-            {
-              "leaf": "9129227f420414c1",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9129227f420414c1",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         }
@@ -165,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
+                "file": "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -198,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
+                "file": "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Consciousness is our capacity to introspect.md"
+                "file": "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md"
               }
             },
             "pane-relief:history-v1": {
@@ -360,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Consciousness is our capacity to introspect.md",
+                "file": "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -471,15 +495,15 @@
   },
   "active": "9129227f420414c1",
   "lastOpenFiles": [
+    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
+    "40_Evergreens/Social anxiety is a feedback loop.md",
+    "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
+    "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+    "30_Topics/37_Techniques/Dual Nostril Breathing Meditation.md",
+    "20_Entry/209 Notepad.md",
+    "90_Personal/91 Daily Notes/2022-01-04.md",
     "40_Evergreens/Consciousness is our capacity to introspect.md",
     "40_Evergreens/Consciousness is the fundamental unit of existence.md",
-    "20_Entry/203 Me.md",
-    "20_Entry/202 Now.md",
-    "30_Topics/31_Stubs/political strategy.md",
-    "20_Entry/22 Note by status/EVERGREENS.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "30_Topics/32_Terms/Ashram.md",
-    "30_Topics/34_People/Sigmund Freud.md",
-    "40_Evergreens/Evergreen notes organize knowledge so that it can grow.md"
+    "20_Entry/203 Me.md"
   ]
 }
