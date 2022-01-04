@@ -4702,8 +4702,8 @@
     },
     "40_Evergreens/Religious concepts are often too powerful for a child's mind.md": {
       "size": 1968,
-      "tags": 3,
-      "links": 19
+      "tags": 4,
+      "links": 20
     },
     "40_Evergreens/Republican voters do not hold their leaders accountable.md": {
       "size": 1460,
@@ -11673,7 +11673,7 @@
     "40_Evergreens/Meditation helps us regulate our nervous system.md": {
       "size": 829,
       "tags": 3,
-      "links": 14
+      "links": 11
     },
     "00_Meta/Templates/Daily note.md": {
       "size": 522,
@@ -12199,19 +12199,24 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "40_Evergreens/Mass media promotes the spread of inaccurate information.md": {
+      "size": 743,
+      "tags": 3,
+      "links": 8
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4124,
-      "Create": 4633,
-      "Link": 7049,
+      "Refactor": 4125,
+      "Create": 4634,
+      "Link": 7053,
       "Expand": 810
     },
     "40_Evergreens": {
-      "Refactor": 303,
-      "Create": 57,
-      "Link": 941,
+      "Refactor": 304,
+      "Create": 58,
+      "Link": 945,
       "Expand": 362
     }
   },
@@ -12234,7 +12239,7 @@
       "14": 2447,
       "15": 263,
       "16": 1297,
-      "17": 2782,
+      "17": 2788,
       "18": 2296,
       "19": 500,
       "20": 218,
@@ -12260,7 +12265,7 @@
       "14": 122,
       "15": 31,
       "16": 91,
-      "17": 326,
+      "17": 332,
       "18": 21,
       "19": 94,
       "20": 55,
@@ -12272,7 +12277,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 435,
-      "Tue": 4071,
+      "Tue": 4077,
       "Wed": 3643,
       "Thu": 2035,
       "Fri": 723,
@@ -12281,7 +12286,7 @@
     },
     "40_Evergreens": {
       "Mon": 128,
-      "Tue": 276,
+      "Tue": 282,
       "Wed": 166,
       "Thu": 284,
       "Fri": 182,
@@ -12345,6 +12350,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Mania.md\"> Mania </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"hopelessness.md\"> hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Writing is the catalyst of understanding.md\"> Writing is the catalyst of understanding </a>",
@@ -12394,8 +12400,7 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/We believe that human's are evil.md\"> We believe that human's are evil </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/The two stories of prehistory.md\"> The two stories of prehistory </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/State Emergence.md\"> State Emergence </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/The discussions and situation of the enlightenment.md\"> The discussions and situation of the enlightenment </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/hopelessness.md\"> hopelessness </a>",
@@ -12451,6 +12456,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Respect for the subconscious.md\"> Respect for the subconscious </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
@@ -12499,9 +12506,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disease.md\"> disease </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Dharma.md\"> notes_Dharma </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/performance.md\"> performance </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/peace.md\"> peace </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Dharma.md\"> notes_Dharma </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12604,6 +12609,8 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
@@ -12652,9 +12659,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-04.md\"> 2022-01-04 </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/202 Now.md\"> 202 Now </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/202 Now.md\"> 202 Now </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12710,6 +12715,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md\"> 18 Androgenic Second Puberty 101 </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans transfer their wonder into creativity.md\"> Humans transfer their wonder into creativity </a>",
@@ -12759,8 +12765,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mnemonic medium.md\"> mnemonic medium </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
       ]
     },
     "40_Evergreens": {
@@ -12818,6 +12823,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Writing is the catalyst of understanding.md\"> Writing is the catalyst of understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans transfer their wonder into creativity.md\"> Humans transfer their wonder into creativity </a>",
@@ -12867,8 +12873,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/a second brain should be an extension of your thought.md\"> a second brain should be an extension of your thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\"> Evergreen notes help us bridge the gap between knowledge and understanding </a>",
@@ -12924,6 +12929,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
@@ -12972,9 +12979,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/TIM.md\"> TIM </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -13026,6 +13031,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is an open ended system of belief.md\"> Karma is an open ended system of belief </a>",
@@ -13074,9 +13081,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\"> Meditation improves mental, physical, and emotional health </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\"> Meditation helps us regulate our hormonal environment </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -13132,6 +13137,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans transfer their wonder into creativity.md\"> Humans transfer their wonder into creativity </a>",
@@ -13181,8 +13187,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>"
       ]
     }
   },

@@ -3,9 +3,9 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/evergreen/2021/12/31, node/evergreen
-sr-due: 2022-01-04
+sr-due: 2022-01-05
 sr-interval: 1
-sr-ease: 190
+sr-ease: 170
 ---
 
 #### [[Strong enough logic becomes belief]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -31,7 +31,7 @@ Mathematicians do not rely on perception they only rely on logic
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[philosophy]]

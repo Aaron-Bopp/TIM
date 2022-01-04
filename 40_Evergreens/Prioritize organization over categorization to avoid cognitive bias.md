@@ -3,9 +3,9 @@ created: 2021-10-23
 aliases:
   - null
 tags: created/evergreen/2021/10/23, node/evergreen
-sr-due: 2022-01-04
-sr-interval: 21
-sr-ease: 210
+sr-due: 2022-01-16
+sr-interval: 12
+sr-ease: 190
 ---
 
 #### [[Prioritize organization over categorization to avoid cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

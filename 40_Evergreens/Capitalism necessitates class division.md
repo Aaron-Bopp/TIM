@@ -3,9 +3,9 @@ created: 2021-11-02
 aliases:
   - null
 tags: created/evergreen/2021/11/02, node/evergreen
-sr-due: 2022-01-03
-sr-interval: 12
-sr-ease: 170
+sr-due: 2022-01-11
+sr-interval: 7
+sr-ease: 150
 ---
 
 #### [[Capitalism necessitates class division]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
