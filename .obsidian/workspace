@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
-            "mode": "source",
+            "file": "20_Entry/22 Note by status/EVERGREENS.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -21,8 +21,14 @@
             {
               "leaf": "9129227f420414c1",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/EVERGREENS.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "9129227f420414c1",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":39.71928020565553}"
             },
             {
               "leaf": "9129227f420414c1",
@@ -123,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
+                "file": "20_Entry/22 Note by status/EVERGREENS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -156,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
+                "file": "20_Entry/22 Note by status/EVERGREENS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,8 +187,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md"
+                "file": "20_Entry/22 Note by status/EVERGREENS.md"
               }
             },
             "pane-relief:history-v1": {
@@ -319,7 +324,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
+                "file": "20_Entry/22 Note by status/EVERGREENS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -431,6 +436,7 @@
   },
   "active": "9129227f420414c1",
   "lastOpenFiles": [
+    "20_Entry/22 Note by status/EVERGREENS.md",
     "10_Sources/course_Dr. K's Guide to Mental Health.md",
     "20_Entry/202 Now.md",
     "30_Topics/32_Terms/Ashram.md",
@@ -439,7 +445,6 @@
     "20_Entry/24 Vault Stats/Graph Timeline.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Karma.md",
     "30_Topics/32_Terms/Brahmacharya Ashram.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md",
-    "30_Topics/32_Terms/Dharma.md"
+    "10_Sources/Mental Health/Dr.K's guide/notes_Dharma.md"
   ]
 }
