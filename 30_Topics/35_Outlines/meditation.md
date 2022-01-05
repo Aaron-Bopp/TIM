@@ -6,8 +6,6 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-![[notes_The Nature of Mind#^576f87]]
-
 
 **See**:: [[yoga]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

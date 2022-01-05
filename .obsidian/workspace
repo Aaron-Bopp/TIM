@@ -7,12 +7,53 @@
         "id": "35bb62fcb568d330",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "20_Entry/209 Notepad.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.16}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":15},\"to\":{\"line\":17,\"ch\":15}},\"scroll\":0}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Samadhi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Dhyana.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Dharana.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "35bb62fcb568d330",
               "group": null,
@@ -23,7 +64,7 @@
               "leaf": "35bb62fcb568d330",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":24},\"to\":{\"line\":47,\"ch\":24}},\"scroll\":35.37737789203085}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":26},\"to\":{\"line\":30,\"ch\":26}},\"scroll\":31.16555269922879}"
             },
             {
               "leaf": "35bb62fcb568d330",
@@ -96,18 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":33},\"to\":{\"line\":48,\"ch\":33}},\"scroll\":48.82827763496144}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":57},\"to\":{\"line\":16,\"ch\":57}}}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         }
@@ -141,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/evergreen/2022/01/04",
+                "query": "tag:#TO/PONDER",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -160,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20_Entry/209 Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -192,6 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20_Entry/209 Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +247,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,7 +267,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20_Entry/209 Notepad.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -351,6 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "20_Entry/209 Notepad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -434,15 +469,15 @@
   },
   "active": "35bb62fcb568d330",
   "lastOpenFiles": [
+    "20_Entry/209 Notepad.md",
+    "30_Topics/35_Outlines/meditation.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_The Nature of Mind.md",
+    "30_Topics/32_Terms/Samadhi.md",
+    "30_Topics/32_Terms/Dhyana.md",
+    "30_Topics/32_Terms/Dharana.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md",
     "30_Topics/32_Terms/Dementia.md",
     "30_Topics/32_Terms/Parkinson's Disease.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Satya.md",
-    "30_Topics/32_Terms/Satya.md",
-    "30_Topics/32_Terms/Shuddhi.md",
-    "30_Topics/32_Terms/Sangha.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Reframing Goals to Actions.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md"
+    "10_Sources/course_Dr. K's Guide to Mental Health.md"
   ]
 }

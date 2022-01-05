@@ -7978,7 +7978,7 @@
     "30_Topics/35_Outlines/meditation.md": {
       "size": 513,
       "tags": 2,
-      "links": 6
+      "links": 5
     },
     "30_Topics/35_Outlines/My TIM.md": {
       "size": 2039,
@@ -12213,7 +12213,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4128,
+      "Refactor": 4129,
       "Create": 4636,
       "Link": 7124,
       "Expand": 824
@@ -12248,7 +12248,7 @@
       "18": 2296,
       "19": 523,
       "20": 261,
-      "21": 743,
+      "21": 744,
       "22": 552,
       "23": 364
     },
@@ -12282,7 +12282,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 435,
-      "Tue": 4167,
+      "Tue": 4168,
       "Wed": 3643,
       "Thu": 2035,
       "Fri": 723,
@@ -12720,6 +12720,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/18 Androgenic Second Puberty 101.md\"> 18 Androgenic Second Puberty 101 </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12769,8 +12770,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Life principles.md\"> Life principles </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md\"> articleDifference between reincarnation in Hinduism and Bhudism </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mnemonic medium.md\"> mnemonic medium </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Obsidian (software).md\"> Obsidian (software) </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/mnemonic medium.md\"> mnemonic medium </a>"
       ]
     },
     "40_Evergreens": {
