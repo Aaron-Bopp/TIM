@@ -7548,7 +7548,7 @@
     "30_Topics/32_Terms/enlightenment.md": {
       "size": 540,
       "tags": 2,
-      "links": 5
+      "links": 6
     },
     "30_Topics/35_Outlines/self.md": {
       "size": 1078,
@@ -9958,7 +9958,7 @@
     "30_Topics/32_Terms/Karma Yoga.md": {
       "size": 537,
       "tags": 2,
-      "links": 9
+      "links": 10
     },
     "30_Topics/32_Terms/Kava (Piper methysticum).md": {
       "size": 519,
@@ -10551,9 +10551,9 @@
       "links": 1
     },
     "30_Topics/32_Terms/yoga.md": {
-      "size": 676,
+      "size": 815,
       "tags": 2,
-      "links": 9
+      "links": 12
     },
     "30_Topics/Topic Hierarchy.md": {
       "size": 11798,
@@ -11982,8 +11982,8 @@
     },
     "30_Topics/31_Stubs/mind-body complex.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
+      "tags": 2,
+      "links": 3
     },
     "30_Topics/31_Stubs/disease.md": {
       "size": 0,
@@ -12210,8 +12210,8 @@
     "/": {
       "Refactor": 4125,
       "Create": 4634,
-      "Link": 7054,
-      "Expand": 810
+      "Link": 7059,
+      "Expand": 811
     },
     "40_Evergreens": {
       "Refactor": 304,
@@ -12241,7 +12241,7 @@
       "16": 1297,
       "17": 2789,
       "18": 2296,
-      "19": 500,
+      "19": 506,
       "20": 218,
       "21": 720,
       "22": 552,
@@ -12277,7 +12277,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 435,
-      "Tue": 4078,
+      "Tue": 4084,
       "Wed": 3643,
       "Thu": 2035,
       "Fri": 723,
@@ -12297,6 +12297,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/yoga.md\"> yoga </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
@@ -12346,8 +12347,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kava (Piper methysticum).md\"> Kava (Piper methysticum) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kernel Space.md\"> Kernel Space </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ketamine.md\"> Ketamine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Mahayana Buddhism.md\"> Mahayana Buddhism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Mania.md\"> Mania </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Mahayana Buddhism.md\"> Mahayana Buddhism </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
@@ -12456,6 +12456,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Respect for the subconscious.md\"> Respect for the subconscious </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mind-body complex.md\"> mind-body complex </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
@@ -12505,8 +12506,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/technology.md\"> technology </a>",
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/disease.md\"> disease </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/notes_Dharma.md\"> notes_Dharma </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/Uijayi Pranayama.md\"> Uijayi Pranayama </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12609,6 +12609,10 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/enlightenment.md\"> enlightenment </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Karma Yoga.md\"> Karma Yoga </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/yoga.md\"> yoga </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mind-body complex.md\"> mind-body complex </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
@@ -12655,11 +12659,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A second brain should be an extension of your thought.md\"> A second brain should be an extension of your thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-04.md\"> 2022-01-04 </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",

@@ -7,12 +7,125 @@
         "id": "6f8e775d13c60c2e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/32_Terms/yoga.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/eastern philosophy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Bhakti Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":9},\"to\":{\"line\":11,\"ch\":9}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Jnana Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Hatha Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Jnana Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Hatha Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Karma Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":45},\"to\":{\"line\":9,\"ch\":45}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Kriya Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Raja Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Dhyana.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":7}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Moksha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Dharana.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/mind-body complex.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/body.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":15.6}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Hatha Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":92},\"to\":{\"line\":11,\"ch\":92}}}"
+            },
+            {
+              "leaf": "6f8e775d13c60c2e",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
             {
               "leaf": "6f8e775d13c60c2e",
               "group": null,
@@ -70,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "30_Topics/32_Terms/yoga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -102,6 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "30_Topics/32_Terms/yoga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,13 +241,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -147,7 +260,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "30_Topics/32_Terms/yoga.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -263,6 +378,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "30_Topics/32_Terms/yoga.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -374,15 +490,15 @@
   },
   "active": "6f8e775d13c60c2e",
   "lastOpenFiles": [
-    "90_Personal/91 Daily Notes/2022-01-04.md",
-    "90_Personal/Personal/Journal.md",
-    "40_Evergreens/Strong enough logic becomes belief.md",
-    "40_Evergreens/First Amendment rights impacts groups not individuals.md",
-    "40_Evergreens/Purpose is derived from within duty is derived from without.md",
-    "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
-    "40_Evergreens/Humans long to know what to do.md",
-    "40_Evergreens/Conceptual notes vary in size and scope.md",
-    "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
-    "40_Evergreens/What is the difference between blame and judgement.md"
+    "30_Topics/32_Terms/yoga.md",
+    "30_Topics/31_Stubs/eastern philosophy.md",
+    "30_Topics/32_Terms/Bhakti Yoga.md",
+    "30_Topics/32_Terms/Jnana Yoga.md",
+    "30_Topics/32_Terms/Hatha Yoga.md",
+    "30_Topics/32_Terms/Karma Yoga.md",
+    "30_Topics/32_Terms/Kriya Yoga.md",
+    "30_Topics/32_Terms/Raja Yoga.md",
+    "30_Topics/32_Terms/Dhyana.md",
+    "30_Topics/32_Terms/Moksha.md"
   ]
 }
