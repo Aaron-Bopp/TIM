@@ -17,7 +17,7 @@ tags: created/topic/2021/12/26, node/topic/list
 ##### [[Life principles]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[The injustice of endurance]]
-- [[Stupid rules are meant to be broken]]
+- [[Stupid rules are made to be broken]]
 - [[The three main questions of life]]
 - [[You can't blame people for failing to rise above their circumstances]]
 - [[Searching for THE answer is dangerous]]

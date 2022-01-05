@@ -41,10 +41,10 @@
       "Removes two or more consecutive spaces. Ignores spaces at the beginning and ending of the line. ": true
     },
     "Remove Hyphenated Line Breaks": {
-      "Removes hyphenated line breaks. Useful when pasting text from textbooks.": false
+      "Removes hyphenated line breaks. Useful when pasting text from textbooks.": true
     },
     "Remove Consecutive List Markers": {
-      "Removes consecutive list markers. Useful when copy-pasting list items.": false
+      "Removes consecutive list markers. Useful when copy-pasting list items.": true
     },
     "Proper Ellipsis": {
       "Replaces three consecutive dots with an ellipsis.": false

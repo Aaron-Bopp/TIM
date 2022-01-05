@@ -16,6 +16,8 @@ So you try to be more [[socialization|social]] and this happens:
 2. [[Your anxiety knows your insecurities better than you do]]. There is a some [[insecurity]] that you could fix if but you can treat this because... 
 3. [[Identity is your understanding of yourself vs your interaction with the world]] so your [[identity]] is that of someone who is unable to do what they want to do and so the [[feedback loop]] repeats
 
+[[Social anxiety]] disorders can lead to introverted, highly socially aware individuals, and addressing that [[anxiety]] can sometimes be seen as the destruction of an essential part of their [[identity]].
+^[[[Our ego is our subconscious defense of our self]] and [[We value our biggest insecurities because they protect us from the biggest threats]]]
 The only way out of this is loop is [[self-actualization]], and spending too much time in this loop can lead to [[Sadness is enlightenment and happiness is delusion|The fallacy that sadness is enlightenment and happiness is delusion]] or repressing your [[identity]] even further: [[A repressed identity creates a mistrust of self-love and self-esteem]]
 
 #TO/TEND/GRAFT [[Self-hatred is born out of dissonance between self-image and self-perception]]

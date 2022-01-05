@@ -20,7 +20,7 @@
 	- [[Civil Rights]]
 		- [[social justice]]
 			- [[Feminism is the antithesis to patriarchy]]
-			- [[How the patriarchy effects young men's understanding of masculinity]]
+			- [[Patriarchy convinces young men that they can and should be oppressors]]
 			- [[Transformative justice is the alternative to punitive justice]]
 			- [[Whiteness was created to marginalize people of color]]
 		- [[white supremacy]]

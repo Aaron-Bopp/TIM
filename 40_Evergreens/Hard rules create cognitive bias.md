@@ -20,7 +20,7 @@ The [[Spaced Repetition (plugin)]] has inperfect support for nested tags. This m
 - [[The way systems work can create cognitive bias]] #TO/TEND/GRAFT 
 	- [[Better tools allow us to be less disciplined and more productive]]
 	- [[Prioritize organization over categorization to avoid cognitive bias]]
-- [[Stupid rules are meant to be broken]]
+- [[Stupid rules are made to be broken]]
 - [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 - [[Friction is the number one hindrance to learning]]
 - [[Use philosophies as far they are useful and nothing more]]

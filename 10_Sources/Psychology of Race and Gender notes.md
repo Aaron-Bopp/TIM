@@ -230,7 +230,7 @@ type:
 ## Notes
 - [[sexism]]
 	- [[modern sexism]] - a more subtle form of sexism not involving explicit admission of sexist beliefs, i.e denial of sexism, complainst about "special treatment," endorsement of double-standards
-	- [[How the patriarchy effects young men's understanding of masculinity]]
+	- [[Patriarchy convinces young men that they can and should be oppressors]]
 		- higher levels of sexist behavior
 		- higher levels of negative mental health outcomes
 		- lower likelihood of seeking help

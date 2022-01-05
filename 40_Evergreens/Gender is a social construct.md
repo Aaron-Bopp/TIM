@@ -37,4 +37,4 @@ The prominence of the [[gender binary]] in our [[socialization]], the politiciza
 
 [^1]: [[Gender segregation increases gendered play]]
 [^2]: [[You will never be pushed to understand marginalization unless you are part of a marginalized group]] talks about the [[ignorance]] that is inherent in being in the most [[privilege|priveleged]] social group.
-[^3]: [[How the patriarchy effects young men's understanding of masculinity]]
+[^3]: [[Patriarchy convinces young men that they can and should be oppressors]]

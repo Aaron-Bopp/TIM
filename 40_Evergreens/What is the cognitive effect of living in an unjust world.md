@@ -22,7 +22,7 @@ Possible Answers:
 	- [[Faith is an abstraction of cognitive dissonance]]
 - [[Our brain will do anything it can to protect itself]]
 - [[The injustice of endurance]]
-- [[Stupid rules are meant to be broken]]
+- [[Stupid rules are made to be broken]]
 
 Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different forms:
 - [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else
@@ -40,7 +40,7 @@ We know that [[Humans are primarily irrational, illogical, emotional beings]] an
 - [[Human's will find explanations for inexplainable things]]
 	- [[Stereotypes are social constructs]]
 	- [[Humans love to group eachother]]
-	- [[Stupid rules are meant to be broken]]
+	- [[Stupid rules are made to be broken]]
 - [[The injustice of endurance]]
 
 ### <hr class="footnote"/>

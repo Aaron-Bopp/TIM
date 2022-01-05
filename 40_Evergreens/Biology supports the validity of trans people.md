@@ -10,7 +10,7 @@ sr-ease: 252
 
 #### [[Biology supports the validity of trans people]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-> Present evidence seems to suggest that a person’s [[gender]] is established during gestation while the cerebral cortex of the brain is forming
+> Present evidence seems to suggest that a person’s [[gender]] is established during gestation while the [[cerebral cortex]] of the brain is forming
 > 
 > <cite>[[1 What is Gender]]</cite> 
 

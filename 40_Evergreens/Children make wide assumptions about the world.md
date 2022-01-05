@@ -19,7 +19,7 @@ and [[Negative influences are stronger than positive influences]].
 - [[Human's will find explanations for inexplainable things]]
 - [[How can parent's best help their children]]
 - [[Knowledge of the world is painful]]
-- [[Stupid rules are meant to be broken]]  %% #TO/PONDER/ME  %%
+- [[Stupid rules are made to be broken]]  %% #TO/PONDER/ME  %%
 - [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 
 ### <hr class="footnote"/>
