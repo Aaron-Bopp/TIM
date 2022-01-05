@@ -15,7 +15,7 @@ There is a difference between idly grabbing every article you read the headline 
 
 I believe the difference lies in curating the information in your vault and controlling the way you can access that information, and this is an integral part of [[Your second brain should be frictionless access to a curated base of knowledge]].
 
-#TO/DO/CREATE [[Readwise Export for Obsidian - Templates and Process]]
+[[Readwise Export for Obsidian - Templates and Process]]
 For me, this process looks like this:
 1. Import highlights that are relevant to my learning from what I read so that they are accessible through [[Obsidian (software)|]] search and I can return to the primary source easily.
 	- This can be tedious on it's own. Use tools like that can do this automatically, e.g [[Readwise]]

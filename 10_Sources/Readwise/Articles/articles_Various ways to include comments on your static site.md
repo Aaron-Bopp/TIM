@@ -22,7 +22,7 @@ deliveredBy:
 
 # Highlights
 ##### ^250411954
-#TO/DO/PROGRAM some way to do comments for publish, maybe just twitter .h1  
+#TO/PROGRAM some way to do comments for publish, maybe just twitter .h1  
 > Various ways to include comments on your static site 
   [^250411954]
 

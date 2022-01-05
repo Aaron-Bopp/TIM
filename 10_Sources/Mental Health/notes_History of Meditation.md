@@ -41,7 +41,7 @@ type:
 			- [[Dhyana]] state of [[meditation]]
 			- [[Samadhi]] state of temporary [[enlightenment]]
 	- [[yoga]] is how we purify ourselves
-	- [[yoga]] is more based in purifying body and mind and [[meditation]] is more in detaching from them, but in the end they achieve the same thing #TO/DO/CONCEPTUALIZE 
+	- [[yoga]] is more based in purifying body and mind and [[meditation]] is more in detaching from them, but in the end they achieve the same thing #TO/PONDER/CONCEPT 
 	- [[Hatha Yoga]]
 		- focused on [[asanas]] and [[Pranayama]]
 		- purely through perfecting mind and body you can achieve [[enlightenment]]

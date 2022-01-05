@@ -10,7 +10,7 @@ sr-ease: 150
 
 #### [[What is the difference between blame and judgement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/CONCEPTUALIZE and #TO/DO/CREATE  this note
+#TO/PONDER/CONCEPT 
 ##### [[blame]]
 
 [[You can't blame people for failing to rise above their circumstances]]

@@ -10,14 +10,22 @@ sr-ease: 215
 
 #### [[Searching for THE answer is dangerous]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-If you only ever search for answers to problem's, you lose sight of the actual point of [[education]]: to better understand the world. 
-^[[[Knowledge of the world is painful]], but [[Realism must acknowledge optimism's existence and effectiveness]]]
-If you only search for THE answer to your question,
+If you only search for **THE** answer to your question,
 (the one that will mean you don't have to keep thinking about it),
-you wall yourself off to better understanding that may come from
-the additional questions, or the lack of answers that stem from the question you're asking. %% #TO/TEND/WEED %%
-You may think you are just looking for a satisfactory answer, but often answers that satisfy you are built off of logical fallacies. 
-^[[[Human's will find explanations for inexplainable things]]]
+you wall yourself off to better [[understanding]] 
+and you lose sight of the actual point of [[education]]: [[Be the change you want to see in the world]]
+^[[[Knowledge of the world is painful]], but [[Realism must acknowledge optimism's existence and effectiveness]]]
+
+The additional questions, or the lack of answers that stem from the question you're asking are important!
+
+%%
+#TO/TEND/MULCH 
+You probably think you are looking for better [[understanding]],
+but if you more interested in satisfying your [[cognitive dissonance]] or [[ignorance]] than actually [[learning]]
+you going accept answers that are built off of logical fallacies. 
+%%
+[[You can't control what happens you can only control what you do]],
+similarly you can control what answer you are going to find you can only control how you look for it.
 Additionally, if you spend a long time looking for this answer you will [[subconscious|subconsciously]] be unwilling to accept criticism of that point when you try to communicate it to others.
 ^[[[Human's have an inability to admit that they are wrong]]]
 This is why you should [[Look for understanding before you look for solutions]].

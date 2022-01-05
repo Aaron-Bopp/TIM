@@ -10,7 +10,7 @@ sr-ease: 190
 
 #### [[Prioritize organization over categorization to avoid cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/CONCEPTUALIZE porous concepts can be obfuscated if you have too much categorization [Discord](https://discord.com/channels/686053708261228577/710585052769157141/916313872531603486)
+#TO/PONDER/CONCEPT porous concepts can be obfuscated if you have too much categorization [Discord](https://discord.com/channels/686053708261228577/710585052769157141/916313872531603486)
 
 ##### This will cause you to waste energy
 

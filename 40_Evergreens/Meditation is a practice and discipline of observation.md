@@ -16,7 +16,7 @@ When [[Western philosophy|western]] researcher's started studying the science be
 
 - [[Dual Nostril Breathing Meditation]]
 - [[Flamingo Pose Meditation]]
- #TO/DO/CONCEPTUALIZE videos from dr.k
+ #TO/PONDER/CONCEPT videos from dr.k
 
 ### <hr class="footnote"/>
 

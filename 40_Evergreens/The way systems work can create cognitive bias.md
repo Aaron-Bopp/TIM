@@ -10,7 +10,7 @@ sr-ease: 176
 
 #### [[The way systems work can create cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/CONCEPTUALIZE #TO/EXPLORE/WATCH social construct video from [[Abigail Thorn]] and how the structures caused by inequity in our world would recreate [[stereotype]]s even if we completely forgot them
+#TO/PONDER/CONCEPT #TO/EXPLORE/WATCH social construct video from [[Abigail Thorn]] and how the structures caused by inequity in our world would recreate [[stereotype]]s even if we completely forgot them
 - In [[knowledge work]] #TO/TEND/GRAFT 
 	- [[Prioritize organization over categorization to avoid cognitive bias]]
 	- [[Only use organization systems as far as they are useful]]

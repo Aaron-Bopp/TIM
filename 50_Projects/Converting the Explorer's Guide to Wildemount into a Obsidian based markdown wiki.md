@@ -105,5 +105,5 @@ The final result would look like this:
  ### New connections
  
  
- #TO/DO/CREATE [[Github]] gists
+ #TO/PROGRAM [[Github]] gists
  

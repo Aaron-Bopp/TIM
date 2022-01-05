@@ -22,7 +22,6 @@ deliveredBy:
 
 # Highlights
 ##### ^255544826
-#TO/MV  
 > I almost forgot to post this again, this week truly has been like the first panel... 
 > ![](https://pbs.twimg.com/media/FFnWMovXMAQs6qm.jpg) 
   [^255544826]

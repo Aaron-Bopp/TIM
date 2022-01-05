@@ -14,7 +14,7 @@ While [[Gender is a social construct]] it still has very real impact on our [[hu
 [[Our understanding of gender begins at a very early age]], 
 see [[Gender segregation increases gendered play]]. 
 
-#TO/DO/WRITE anecdote for [[cis]] people to help the conceptualize their [[gender]] if they have not before
+#TO/WRITE anecdote for [[cis]] people to help the conceptualize their [[gender]] if they have not before
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

@@ -20,7 +20,7 @@ sr-ease: 170
 	- [[Realism must acknowledge optimism's existence and effectiveness]]
 - [[Do we have free will]] and [[existential dread]]
 
-#TO/DO/CONCEPTUALIZE ideas of [[karma]] and [[Dharma]]
+#TO/PONDER/CONCEPT ideas of [[karma]] and [[Dharma]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

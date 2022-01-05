@@ -10,7 +10,7 @@ sr-ease: 210
 
 # [[Parsing markup text for Obsidian projects]] 
 
-#TO/DO/WRITE  about idiosyncrasies of [[Obsidian (software)]] [[markup]]
+#TO/WRITE  about idiosyncrasies of [[Obsidian (software)]] [[markup]]
 - [[Basic tools for working with plaintext]]
 - [[Converting existing file formats to plaintext]]
 - [[Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki]]

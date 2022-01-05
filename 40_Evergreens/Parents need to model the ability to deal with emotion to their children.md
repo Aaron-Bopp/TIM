@@ -14,7 +14,7 @@ sr-ease: 251
 During [[childhood]], it is incredibly important that the [[parents]] model [[self soothing]], [[self care]], [[self-love|self-validation]], but if [[parents]] fail to teach these things sometimes the opposite can be taught
 
 #TO/TEND/CONCEPTUALIZE these tweets
-#TO/DO/PROGRAM better way to deal with these tweets
+#TO/PROGRAM better way to deal with these tweets
 - <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have felt permanently guilty for no reason since I was like 8 years old</p>&mdash; Brooke Schofield (@BroookeAmber) <a href="https://twitter.com/BroookeAmber/status/1452002738078830594?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote>
 	- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A lot of times it stems from abuse, really critical [[parents]], and/or a god-based religion where your deeds are [[judgement|judged]] and determined whether you are &#39;punished&#39; if you&#39;re not good enough (think eternal damnation, things going wrong or bad things happening as punishment)</p>&mdash; BewitchedBrina (@thekilljoybrina) <a href="https://twitter.com/thekilljoybrina/status/1452295481627918339?ref_src=twsrc%5Etfw">October 24, 2021</a></blockquote>
 	- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">relating this to Eriksons theory of Psychodevelopment: stage 3 initiative v shame and guilt. In this stage kids want to start to do things on their own like tie their shoes, pick out their own outfits etc. and if allowed to the Child will develop a sense of autonomy and be way</p>&mdash; awbs 🪐 (@cans0fsoup) <a href="https://twitter.com/cans0fsoup/status/1452400024848158725?ref_src=twsrc%5Etfw">October 24, 2021</a></blockquote>

@@ -16,7 +16,7 @@ sr-ease: 250
 - [[Human's will find explanations for inexplainable things]]
 - [[Our brains are built around survival]] or [[Our brain will do anything it can to protect itself]]
 - [[Humans are a product of evolution]]
-- #TO/DO/CONCEPTUALIZE connections to [[notes_Anxiety 101]]
+- #TO/PONDER/CONCEPT connections to [[notes_Anxiety 101]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

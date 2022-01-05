@@ -21,7 +21,7 @@ Accepting responsibility is about moving forward for yourself and for the people
 
 Accepting responsibility for these kind of things is not taught at a young age in [[America]] because that goes against [[individualism]]: [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 
-%% #TO/DO/CONCEPTUALIZE  [[Karma Fal]] %%
+%% #TO/PONDER/CONCEPT  [[Karma Fal]] %%
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 

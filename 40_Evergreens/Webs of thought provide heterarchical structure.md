@@ -10,14 +10,14 @@ sr-ease: 203
 
 #### [[Webs of thought provide heterarchical structure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/CONCEPTUALIZE 
+#TO/PONDER/CONCEPT 
 
 ![[heterarchy]]
 
 - [[Organization systems are not mutually exclusive]]
 - [[Densely linked webs of thought provide intuitive access to knowledge]]
 - [[Communities are knowledge graphs]]
-- #TO/DO/CONCEPTUALIZE relations to the [[internet]], [[human interaction]]
+- #TO/PONDER/CONCEPT relations to the [[internet]], [[human interaction]]
 	- [[Social media creates a false sense of unbreakable, expansive, and influential communities]]
 	- [[The internet allows niche topics to flourish]]
 

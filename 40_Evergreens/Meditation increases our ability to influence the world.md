@@ -18,7 +18,7 @@ When people meditate for a long time they feel their [[perception]] of the world
 and more easily recognize what they need to do to succeed.
 [[Meditation]] also helps people to focus and achieve things they are already trying to do: [[Meditation helps us gain control over our emotions]]
 
-#TO/DO/CONCEPTUALIZE 
+#TO/PONDER/CONCEPT 
 - [[notes_Shuddhi]]
 - [[notes_Sangha]]
 ##### On a scientific level

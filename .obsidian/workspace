@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "150acb33df26ae9c",
+        "id": "fea7cdaba32fe77d",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -14,13 +14,13 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "150acb33df26ae9c",
+              "leaf": "fea7cdaba32fe77d",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "150acb33df26ae9c",
+              "leaf": "fea7cdaba32fe77d",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/TEND",
+                "query": "tag:#exclude",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -362,17 +361,17 @@
     "width": 694,
     "collapsed": true
   },
-  "active": "150acb33df26ae9c",
+  "active": "fea7cdaba32fe77d",
   "lastOpenFiles": [
-    "10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md",
-    "40_Evergreens/Humans try really hard to avoid understanding their mistakes.md",
-    "40_Evergreens/Strong enough logic becomes belief.md",
-    "40_Evergreens/Why I only callout Christianity.md",
-    "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
-    "40_Evergreens/It is valuable to admit that you might be wrong.md",
-    "40_Evergreens/Conceptual notes vary in size and scope.md",
-    "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
-    "40_Evergreens/Belief pulls you forward into life.md",
-    "40_Evergreens/There is a difference between thinking and creating.md"
+    "20_Entry/24 Vault Stats/Word count Evergreens.md",
+    "30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
+    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
+    "40_Evergreens/How to read to understand.md",
+    "40_Evergreens/You can leave the church without loosing your faith.md",
+    "40_Evergreens/ADHD is primarily an executive function disorder.md",
+    "10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md",
+    "10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md",
+    "40_Evergreens/A healthy second brain requires a surplus of entry points.md",
+    "40_Evergreens/A secure identity is the best defense against social anxiety.md"
   ]
 }

@@ -10,7 +10,7 @@ sr-ease: 190
 
 #### [[The history of meditation is a mixture of science and spirituality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/CONCEPTUALIZE 
+#TO/PONDER/CONCEPT 
 - [[notes_History of Meditation]]
 - [[notes_Science of Meditation]]
 - [[notes_Intro to Mantra Practice]]

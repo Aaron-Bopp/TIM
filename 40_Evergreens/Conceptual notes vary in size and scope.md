@@ -10,7 +10,7 @@ sr-ease: 130
 
 #### [[Conceptual notes vary in size and scope]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/GRAFT #TO/DO/CONCEPTUALIZE 
+#TO/TEND/GRAFT #TO/PONDER/CONCEPT 
 - [[Evergreen notes should be constantly integrating new knowledge]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[What are the differences between evergreen notes and conceptual notes]]

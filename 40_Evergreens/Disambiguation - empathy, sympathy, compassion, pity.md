@@ -19,7 +19,7 @@ True empathy is not a blind taking on of emotion, it is putting yourself in that
 ![[sympathy]]
 ![[compassion]]
 
-#TO/EXPLORE/RESEARCH and #TO/DO/CONCEPTUALIZE wiki's definitions of these things
+#TO/EXPLORE/RESEARCH and #TO/PONDER/CONCEPT wiki's definitions of these things
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 

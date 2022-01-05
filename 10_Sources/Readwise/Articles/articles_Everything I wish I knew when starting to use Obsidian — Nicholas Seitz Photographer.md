@@ -64,7 +64,7 @@ This is not always true for people with hyper fixations
 highlight_tags:: [[neurodiversity]]
 %%
 ##### ^242107395
-all you need to do to reduce friction is trim the edges. If it feels like more than that you're probably trying to fit a square plug in a round hole #TO/DO/CONCEPTUALIZE  
+all you need to do to reduce friction is trim the edges. If it feels like more than that you're probably trying to fit a square plug in a round hole #TO/PONDER/CONCEPT  
 > Pruning is not tearing up the entire plant and starting over. 
   [^242107395]
 
@@ -78,7 +78,7 @@ all you need to do to reduce friction is trim the edges. If it feels like more t
 [^242107577]:  https://nickseitz.com/writing/obsidian-day-one-starterpack?__readwiseLocation=1%2F15%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A2%2C9%2F15%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A58#:~:text=Understand%20what%20fruitfulness%20looks%20like%2Cyour%20workflow%20and%20continue%20working.
 
 ##### ^239361990
-- [ ] #TO/DO/READ the rest of this article  
+- [ ] #TO/EXPLORE/READ the rest of this article  
 > I’ll start with several key “best practices” I’ve found in my time using Obsidian. 
   [^239361990]
 

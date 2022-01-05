@@ -10,7 +10,7 @@ sr-ease: 190
 
 #### [[We learn by transforming information into understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/CONCEPTUALIZE [[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]] 
+#TO/PONDER/CONCEPT [[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]] 
 - [[We are confined to the tools of our time]]
 - [[Humans try really hard to avoid understanding their mistakes]]
 - [[Rationalizations are defense-mechanisms against strong emotions]]

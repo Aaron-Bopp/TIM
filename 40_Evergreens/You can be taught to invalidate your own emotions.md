@@ -8,11 +8,21 @@ sr-ease: 213
 
 #### [[You can be taught to invalidate your own emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/GRAFT  [[Our authority figures curate and reinforce what we are allowed to imitate]]
+[[Our authority figures curate and reinforce what we are allowed to imitate]], and in [[childhood]] our most prominent authority figures are our [[parents]]. If our parents model [[emotional invalidation]] or invalidate us, we will learn this [[behavior]].
 
-Caused by [[parents]] failing to [[Parents need to model the ability to deal with emotion to their children|model the ability to deal with emotion to their children]] and can be expecially dangerous for [[neurodiversity|neurodiverse]] and [[transgender|trans]] children. [[Children will imitate whatever is modeled for them]]
+This can be especially dangerous for [[neurodiversity|neurodiverse]] and [[transgender|trans]] children because [[Our brain will do anything it can to protect itself]]. These two populations are especially at risk because of the power of their [[brain]]s and the seriousness of their [[cognitive dissonance]]. 
+^[
+For neurodivergent kids this lies more in
+[[Neurodivergent people cannot stop their brain from solving problems]] 
+and for trans kids it lies more in 
+how [[Our understanding of gender begins at a very early age]]
+and [[Children make wide assumptions about the world]] 
+but these conditions are often [[co-morbid]] anyways
+]
 
 For example, [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] because of this and the [[Gender self-socialization model]], which is why [[You can discover your transness at any point in life]].
+
+#TO/EXPLORE/WATCH #TO/PONDER/CONCEPT ["If You Have These 6 Beliefs", You Were Raised by a Narcissist Parents! - YouTube](https://www.youtube.com/watch?v=Ei8DITAQTrE&list=WL&index=143)
 
 - [[Avoidance IS the most-efficient way of dealing with emotion]]
 - [[Sometimes we can't grow until we change our environment]]

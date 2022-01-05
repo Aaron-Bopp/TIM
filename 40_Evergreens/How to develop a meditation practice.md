@@ -12,7 +12,7 @@ sr-ease: 210
 
 You need a good [[teacher]], [[commitment]], and a little bit of [[belief]].
 
-#TO/DO/CONCEPTUALIZE [[notes_Sangha]]
+#TO/PONDER/CONCEPT [[notes_Sangha]]
 
 It may take you a while to perceive the effects of [[meditation]], but over time it will improve your life:
 [[Meditation improves mental, physical, and emotional health]]
