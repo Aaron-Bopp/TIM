@@ -21,7 +21,7 @@ and more easily recognize what they need to do to succeed.
 ##### On a scientific level
 [[Meditation helps us regulate our hormonal environment]] and [[Meditation helps us regulate our nervous system]]
 
-##### On a spiritual level
+##### On a [[spirituality|spiritual]] level
 
 [[Consciousness is the fundamental unit of existence]] and because [[Meditation is a practice to develop a stronger conscious]] it helps us to [[manifestation|manifest]] our will upon the world.
 

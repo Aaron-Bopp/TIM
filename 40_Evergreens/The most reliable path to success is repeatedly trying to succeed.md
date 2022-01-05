@@ -18,7 +18,7 @@ sr-ease: 230
 >
 > <cite>[[Dr. K]]</cite> 
 
-It's not about being successful, it's about doing what you can do to get close to success.
+It's not about being successful, it's about doing what you can do to get close to [[success]].
 
 ### <hr class="footnote"/>
 

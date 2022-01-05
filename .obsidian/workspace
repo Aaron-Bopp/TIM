@@ -4,130 +4,184 @@
     "type": "split",
     "children": [
       {
-        "id": "6f8e775d13c60c2e",
+        "id": "35bb62fcb568d330",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/32_Terms/yoga.md",
+            "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "6f8e775d13c60c2e",
+              "leaf": "35bb62fcb568d330",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/eastern philosophy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":62},\"to\":{\"line\":28,\"ch\":62}},\"scroll\":18.68875}"
             },
             {
-              "leaf": "6f8e775d13c60c2e",
+              "leaf": "35bb62fcb568d330",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":57},\"to\":{\"line\":16,\"ch\":57}}}"
             },
             {
-              "leaf": "6f8e775d13c60c2e",
+              "leaf": "35bb62fcb568d330",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Bhakti Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":9},\"to\":{\"line\":11,\"ch\":9}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Jnana Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Hatha Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Jnana Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Hatha Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Karma Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":45},\"to\":{\"line\":9,\"ch\":45}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Kriya Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Raja Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Dhyana.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":7}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Moksha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Dharana.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "da13d34cd5e6194c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Meditation is a practice to develop a stronger conscious.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "da13d34cd5e6194c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice to develop a stronger conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":31.52}"
             },
             {
-              "leaf": "6f8e775d13c60c2e",
+              "leaf": "da13d34cd5e6194c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/mind-body complex.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/body.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":15.6}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Hatha Yoga.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":92},\"to\":{\"line\":11,\"ch\":92}}}"
-            },
-            {
-              "leaf": "6f8e775d13c60c2e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "d5a4d6d59a89378a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "d5a4d6d59a89378a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.116709511568125}"
             },
             {
-              "leaf": "6f8e775d13c60c2e",
+              "leaf": "d5a4d6d59a89378a",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "3971d38677ecb6ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Meditation helps us detach negative attachments.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "3971d38677ecb6ae",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us detach negative attachments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4}"
+            },
+            {
+              "leaf": "3971d38677ecb6ae",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "31dbefe054ab02e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "31dbefe054ab02e7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our nervous system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.2}"
+            },
+            {
+              "leaf": "31dbefe054ab02e7",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "f9aa867db2ca1659",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Meditation improves mental, physical, and emotional health.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f9aa867db2ca1659",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.767609254498716}"
+            },
+            {
+              "leaf": "f9aa867db2ca1659",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -183,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/32_Terms/yoga.md",
+                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -216,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/32_Terms/yoga.md",
+                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -261,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/32_Terms/yoga.md"
+                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md"
               }
             },
             "pane-relief:history-v1": {
@@ -378,7 +433,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/32_Terms/yoga.md",
+                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -488,17 +543,17 @@
     "width": 694,
     "collapsed": true
   },
-  "active": "6f8e775d13c60c2e",
+  "active": "35bb62fcb568d330",
   "lastOpenFiles": [
-    "30_Topics/32_Terms/yoga.md",
-    "30_Topics/31_Stubs/eastern philosophy.md",
-    "30_Topics/32_Terms/Bhakti Yoga.md",
-    "30_Topics/32_Terms/Jnana Yoga.md",
-    "30_Topics/32_Terms/Hatha Yoga.md",
-    "30_Topics/32_Terms/Karma Yoga.md",
-    "30_Topics/32_Terms/Kriya Yoga.md",
-    "30_Topics/32_Terms/Raja Yoga.md",
-    "30_Topics/32_Terms/Dhyana.md",
-    "30_Topics/32_Terms/Moksha.md"
+    "10_Sources/course_Dr. K's Guide to Mental Health.md",
+    "40_Evergreens/Meditation is a practice to develop a stronger conscious.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
+    "40_Evergreens/Meditation helps us detach negative attachments.md",
+    "40_Evergreens/Meditation helps us regulate our nervous system.md",
+    "40_Evergreens/Meditation improves mental, physical, and emotional health.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md",
+    "30_Topics/31_Stubs/success.md",
+    "30_Topics/32_Terms/Bhagavad Gita.md",
+    "90_Personal/Personal/Journal.md"
   ]
 }

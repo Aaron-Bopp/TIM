@@ -51,6 +51,6 @@ source: https://www.pbs.org/edens/thailand/buddhism.htm
 
 [^4]:  Contrary to what is accepted in contemporary society, the Buddhist interpretation of [[karma]] does not refer to preordained fate. [[Karma]] refers to good or bad actions a person takes during her lifetime. Good actions, which involve either the absence of bad actions, or actual positive acts, such as generosity, righteousness, and [[meditation]], bring about [[happiness]] in the long run. Bad actions, such as lying, stealing or killing, bring about unhappiness in the long run. The weight that actions carry is determined by five conditions: frequent, repetitive action; determined, intentional action; action performed without regret; action against extraordinary persons; and action toward those who have helped one in the past. Finally, there is also neutral [[karma]], which derives from acts such as breathing, eating or sleeping. Neutral [[karma]] has no benefits or costs.
 
-[^5]:   The realm of man also offers one other aspect lacking in the other five planes, an opportunity to achieve [[enlightenment]], or Nirvana. Given the sheer number of living things, to be born human is to Buddhists a precious chance at spiritual bliss, a rarity that one should not forsake.
+[^5]:   The realm of man also offers one other aspect lacking in the other five planes, an opportunity to achieve [[enlightenment]], or Nirvana. Given the sheer number of living things, to be born human is to Buddhists a precious chance at [[spirituality|spiritual]] bliss, a rarity that one should not forsake.
 
 

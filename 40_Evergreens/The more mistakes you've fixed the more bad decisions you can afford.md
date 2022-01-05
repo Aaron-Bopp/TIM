@@ -20,7 +20,7 @@ A bad decision for a beginner is not the same as a bad decision for an expert. A
 
 A bad decision for a beginner is one the will not teach them how to succeed or teach them to make more mistakes. 
 ^[[[Better tools allow us to be less disciplined and more productive]]]
-A hard rule may be the more difficult path but will setup future success. Hard disciplines breed masters, easy disciplines attract wannabes.
+A hard rule may be the more difficult path but will setup future [[success]]. Hard disciplines breed masters, easy disciplines attract wannabes.
 
 ```ad-example
 [✂️ 5 minutes per stage teaches new players how to make better decisions - YouTube](https://youtube.com/clip/Ugkx6LEodXxizNkOw4P3M097XvZCZIGHvLTU)

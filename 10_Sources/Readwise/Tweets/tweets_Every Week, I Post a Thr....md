@@ -237,7 +237,7 @@ deliveredBy:
 
 ##### ^247733326
   
-> We've all heard of the hot streak. Of success begetting success.
+> We've all heard of the hot streak. Of [[success]] begetting success.
 > There's a biological driver: Testosterone. After a win, we get a jolt of testosterone which then makes us more likely to win the next game.
 > https://t.co/YOjfhVBfZw 
   [^247733326]
@@ -307,7 +307,7 @@ deliveredBy:
 ##### ^247733334
   
 > Eliud Kipchoge is the greatest marathoner on the planet. He also happens to be a kind of runner philosopher.
-> From dealing with success to working as a team to taking notes, Kipchoge teaches us how to perform better in a healthy and sustainable way: https://t.co/3C19OZJaPK 
+> From dealing with [[success]] to working as a team to taking notes, Kipchoge teaches us how to perform better in a healthy and sustainable way: https://t.co/3C19OZJaPK 
   [^247733334]
 
 [^247733334]: https://twitter.com/stevemagness/status/1438940513667846150

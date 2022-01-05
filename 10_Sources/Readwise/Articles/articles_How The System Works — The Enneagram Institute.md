@@ -57,7 +57,7 @@ highlight_tags:: [[there aren't any downsides to working through trauma]], [[hum
 
 ##### ^212153102
   
-> many people in the latter half of their lives have reported the development of their so-called “second wing.” And in individuals who have been pursuing psychological and/or spiritual work, we have seen evidence that this is true. We do not know, however, whether these students were merely seeing all of the positive potentials of the nine types unfolding in them as they matured—their second wing being one of the other seven types—or whether this was a specific development of the second wing type 
+> many people in the latter half of their lives have reported the development of their so-called “second wing.” And in individuals who have been pursuing psychological and/or [[spirituality|spiritual]] work, we have seen evidence that this is true. We do not know, however, whether these students were merely seeing all of the positive potentials of the nine types unfolding in them as they matured—their second wing being one of the other seven types—or whether this was a specific development of the second wing type 
   [^212153102]
 
 [^212153102]:  https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F5%2F0%2F14%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A123%2C0%2F5%2F0%2F14%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A622#:~:text=many%20people%20in%20the%20latter%2Cof%20the%20second%20wing%20type

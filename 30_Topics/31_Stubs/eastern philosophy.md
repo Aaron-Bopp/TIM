@@ -8,7 +8,7 @@ tags: created/topic/2021/07/03, node/topic/stub
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 
-**See**:: 
+**See**:: [[Western philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

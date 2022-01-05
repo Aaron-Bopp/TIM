@@ -29,7 +29,7 @@ tags: created/source/2021/12/30, node/source/notes
 	- [[Buddhism is the study of happiness through detachment]]
 - [[suffering]] comes from our attachment to our expectations
 - as we grow up we learn to detach our worth from those who are around us
-	- success can come with [[suffering]] if you are attached to expectations
+	- [[success]] can come with [[suffering]] if you are attached to expectations
 		- example bridezilla
 	- people hold on to [[resentment]] for a long time
 - You can have strong [[emotions]] and still have [[peace]] because you are detached	

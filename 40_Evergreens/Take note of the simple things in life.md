@@ -20,7 +20,6 @@ Sometimes this means finally *taking the piece of advise* your friend has given 
 - [[Be the change you want to see in the world]]
 - [[How to pursue the positive things in life]]
 - [[You should the love the loves of those who you love]]
-%%- [[What is my path to happiness]]%%
 
 ### <hr class="footnote"/>
 

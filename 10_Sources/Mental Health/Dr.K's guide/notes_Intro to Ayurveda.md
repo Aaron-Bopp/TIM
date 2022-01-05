@@ -14,7 +14,7 @@ tags: created/source/2021/12/30, node/source/notes
 
 #### Terms
 ## Notes
-- [[Western]] [[medicine]] likes to divide and conquer
+- [[Western philosophy|western]] [[medicine]] likes to divide and conquer
 	- it's about dividing things into small groups so that you can understand each thing in depth, and then build up the bigger picture
 	- Separates people out from [[disease]]s to find the purest [[disease]] process and figure out the perfect treatment process
 - [[Ayurveda]] realizes that [[disease]] cannot be separated from people

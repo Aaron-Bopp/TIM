@@ -10,7 +10,7 @@ sr-ease: 190
 
 #### [[Meditation is a practice and discipline of observation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-When [[Western]] researcher's started studying the science behind [[meditation]] and [[yoga]] they tried to distill these practices into one thing:  [[mindfulness]]
+When [[Western philosophy|western]] researcher's started studying the science behind [[meditation]] and [[yoga]] they tried to distill these practices into one thing:  [[mindfulness]]
 ^[[[notes_History of Meditation]]]
 
 

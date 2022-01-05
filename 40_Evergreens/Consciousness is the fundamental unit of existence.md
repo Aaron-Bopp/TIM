@@ -12,7 +12,7 @@ sr-ease: 170
 
 [Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=4336)
 
-Ancient [[yoga|Yogic]] tradition offers an alternative to traditional [[Western]] creation myths such as [[Christianity]]'s. Instead of an all-powerful, all-knowing, and frankly problematic god, 
+Ancient [[yoga|Yogic]] tradition offers an alternative to traditional [[Western philosophy|western]] creation myths such as [[Christianity]]'s. Instead of an all-powerful, all-knowing, and frankly problematic god, 
 ^[[[The biblical Christian God is evil and does not deserve to be worshipped]]]
 the universe was formed from an [[infinite]] sea of [[conscious|consciousness]] called [[Brahman]]
 

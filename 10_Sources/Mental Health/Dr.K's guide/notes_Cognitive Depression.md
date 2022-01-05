@@ -35,7 +35,7 @@ tags: created/source/2021/12/30, node/source/notes
 			- Orbital Frontal Cortex
 			- Anterior singulate cortex
 		- Calculate whether it's worth it to do something
-			- balances energy and chance of success
+			- balances energy and chance of [[success]]
 		- [[mind]] tells you something is not worth it
 - The reasons there a so many different solutions for [[depression]] is because they don't work 
 	- A large amount of solutions shows that most of those solutions are wrong

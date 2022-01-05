@@ -37,7 +37,7 @@ deliveredBy:
 
 ##### ^212179855
   
-> They are typically “spiritual seekers” who have a great yearning for connection with the cosmos, as well as with other people. They work to maintain their peace of mind just as they work to establish peace and harmony in their world. The issues encountered in the Nine are fundamental to all psychological and spiritual work—being awake versus falling asleep to our true nature; presence versus entrancement, openness versus blockage, tension versus relaxation, peace versus pain, union versus separation 
+> They are typically “spiritual seekers” who have a great yearning for connection with the cosmos, as well as with other people. They work to maintain their peace of mind just as they work to establish peace and harmony in their world. The issues encountered in the Nine are fundamental to all psychological and [[spirituality|spiritual]] work—being awake versus falling asleep to our true nature; presence versus entrancement, openness versus blockage, tension versus relaxation, peace versus pain, union versus separation 
   [^212179855]
 
 [^212179855]:  https://enneagraminstitute.com/type-9?__readwiseLocation=2%2F1%2F0%2F6%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A104%2C2%2F1%2F0%2F6%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A608#:~:text=They%20are%20typically%20%E2%80%9Cspiritual%20seekers%E2%80%9D%2Cversus%20pain%2C%20union%20versus%20separation

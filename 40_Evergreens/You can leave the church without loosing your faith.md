@@ -19,7 +19,7 @@ Even if we know that the group we are a part of has evil members.
 [[Sometimes we can't grow until we change our environment]], and that may mean leaving the church, so you can get an objective view of [[Christianity]]:
 [[Deconstructing your faith is like climbing through a jungle canopy]]
 
-Plenty of people leave the church but still have [[faith]], or are trying to improve church even if they don't have [[faith]]. There's also a really big [[community]] of ex-christians who lead all different kinds of spiritual lives. [[Atheism]] is not the only route for [[Deconstruction (Christianity)]] it's just the route I took.
+Plenty of people leave the church but still have [[faith]], or are trying to improve church even if they don't have [[faith]]. There's also a really big [[community]] of ex-christians who lead all different kinds of [[spirituality|spiritual]] lives. [[Atheism]] is not the only route for [[Deconstruction (Christianity)]] it's just the route I took.
 
 #TO/EXPLORE/RESEARCH how [[Humans love to group eachother]] affects or reasoning ability [[Humans are primarily irrational, illogical, emotional beings]]
 
