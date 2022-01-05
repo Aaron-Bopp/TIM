@@ -7,7 +7,7 @@ aliases:
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 
-**See**::
+**See**:: [[human interaction]], [[inter-personal communication]], [[Sangha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

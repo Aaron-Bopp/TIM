@@ -14,6 +14,7 @@ tags: created/source/2021/12/30, node/source/notes
 
 #### Terms
 ## Notes
+- prev:: [[Karma Fal]]
 - [[Motivation is focusing on one task until completion]]
 	- We aren't taught what motivation is or where it comes from
 		- [[desire]] and [[motivation]] are very different things
@@ -29,4 +30,5 @@ tags: created/source/2021/12/30, node/source/notes
 		- our mind is a lightbulb but we need to make it a laser beam
 	- Our actions are cultivated out of our thoughts
 	- The most [[success|successful]] people keep their mind focused on one thought
+- nest:: [[notes_Sangha]]
 	

@@ -6,10 +6,10 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-It refers to your community, or orbit, consisting of the people who you spend the most time with.
+It refers to your [[community]], or orbit, consisting of the people who you spend the most time with.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[meditation]], [[human interaction]], [[inter-personal communication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

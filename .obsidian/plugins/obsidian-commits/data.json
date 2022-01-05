@@ -6843,7 +6843,7 @@
     "30_Topics/32_Terms/Samskara.md": {
       "size": 353,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Scalars.md": {
       "size": 242,
@@ -8608,7 +8608,7 @@
     "30_Topics/31_Stubs/community.md": {
       "size": 156,
       "tags": 2,
-      "links": 0
+      "links": 3
     },
     "30_Topics/31_Stubs/Communism.md": {
       "size": 148,
@@ -9498,7 +9498,7 @@
     "10_Sources/course_Dr. K's Guide to Mental Health.md": {
       "size": 3458,
       "tags": 2,
-      "links": 86
+      "links": 90
     },
     "30_Topics/32_Terms/Zen.md": {
       "size": 296,
@@ -9773,7 +9773,7 @@
     "30_Topics/32_Terms/Dementia.md": {
       "size": 387,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Dharana.md": {
       "size": 280,
@@ -10148,7 +10148,7 @@
     "30_Topics/32_Terms/Parkinson's Disease.md": {
       "size": 538,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Passionflower (Passiflora incarnata).md": {
       "size": 510,
@@ -10293,7 +10293,7 @@
     "30_Topics/32_Terms/Sangha.md": {
       "size": 305,
       "tags": 2,
-      "links": 1
+      "links": 5
     },
     "30_Topics/32_Terms/Sankalpa.md": {
       "size": 316,
@@ -10318,7 +10318,7 @@
     "30_Topics/32_Terms/Satya.md": {
       "size": 261,
       "tags": 2,
-      "links": 3
+      "links": 4
     },
     "30_Topics/32_Terms/Scrutiny.md": {
       "size": 244,
@@ -10363,7 +10363,7 @@
     "30_Topics/32_Terms/Shuddhi.md": {
       "size": 294,
       "tags": 2,
-      "links": 1
+      "links": 5
     },
     "30_Topics/32_Terms/Siddhi Padha.md": {
       "size": 267,
@@ -11313,7 +11313,7 @@
     "10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md": {
       "size": 1214,
       "tags": 2,
-      "links": 12
+      "links": 14
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Other Anxiety Disorders.md": {
       "size": 445,
@@ -11366,9 +11366,9 @@
       "links": 3
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md": {
-      "size": 339,
+      "size": 1346,
       "tags": 2,
-      "links": 6
+      "links": 14
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Satya.md": {
       "size": 348,
@@ -11381,9 +11381,9 @@
       "links": 40
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md": {
-      "size": 1376,
+      "size": 2597,
       "tags": 2,
-      "links": 10
+      "links": 30
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Social Anxiety Disorder.md": {
       "size": 424,
@@ -12204,14 +12204,19 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "30_Topics/31_Stubs/truth.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 4128,
-      "Create": 4635,
-      "Link": 7104,
-      "Expand": 820
+      "Create": 4636,
+      "Link": 7124,
+      "Expand": 824
     },
     "40_Evergreens": {
       "Refactor": 305,
@@ -12242,8 +12247,8 @@
       "17": 2789,
       "18": 2296,
       "19": 523,
-      "20": 259,
-      "21": 720,
+      "20": 261,
+      "21": 743,
       "22": 552,
       "23": 364
     },
@@ -12277,7 +12282,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 435,
-      "Tue": 4142,
+      "Tue": 4167,
       "Wed": 3643,
       "Thu": 2035,
       "Fri": 723,
@@ -12297,6 +12302,10 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma Fal.md\"> notes_Karma Fal </a>",
@@ -12343,13 +12352,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cyclothymia.md\"> Cyclothymia </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Duloxetine.md\"> Duloxetine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Emotional Mirroring.md\"> Emotional Mirroring </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Fenugreek (Trigonella foenum-graecum).md\"> Fenugreek (Trigonella foenum-graecum) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Galphimia (Galphimia glauca).md\"> Galphimia (Galphimia glauca) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender segregation.md\"> gender segregation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Gender self-socialization model.md\"> Gender self-socialization model </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ginkgo (Ginkgo Biloba).md\"> Ginkgo (Ginkgo Biloba) </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Fenugreek (Trigonella foenum-graecum).md\"> Fenugreek (Trigonella foenum-graecum) </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/truth.md\"> truth </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/success.md\"> success </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"hopelessness.md\"> hopelessness </a>",
@@ -12399,8 +12405,7 @@
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/202 NOW.md\"> 202 NOW </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/201 Welcome.md\"> 201 Welcome </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/We believe that human's are evil.md\"> We believe that human's are evil </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/The two stories of prehistory.md\"> The two stories of prehistory </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/What sorts of societies do people gravitate towards.md\"> What sorts of societies do people gravitate towards </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Western philosophy.md\"> Western philosophy </a>",
@@ -12456,6 +12461,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Respect for travellers.md\"> Respect for travellers </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/truth.md\"> truth </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/success.md\"> success </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mind-body complex.md\"> mind-body complex </a>",
@@ -12505,8 +12511,7 @@
         "<a class=\"internal-link\" href=\"Sigmund Freud.md\"> Sigmund Freud </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/learning.md\"> learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/technology.md\"> technology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/technology.md\"> technology </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12609,6 +12614,25 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Negative effects of western civilization.md\"> Negative effects of western civilization </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dementia.md\"> Dementia </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Parkinson's Disease.md\"> Parkinson's Disease </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Satya.md\"> Satya </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Shuddhi.md\"> Shuddhi </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/community.md\"> community </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sangha.md\"> Sangha </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Samskara.md\"> Samskara </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
@@ -12640,26 +12664,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma Fal.md\"> notes_Karma Fal </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_How The System Works — The Enneagram Institute.md\"> articles_How The System Works — The Enneagram Institute </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Type Nine — The Enneagram Institute.md\"> articles_Type Nine — The Enneagram Institute </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md\"> articleKarma and Reincarnation in Hinduism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bhagavad Gita.md\"> Bhagavad Gita </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/eastern philosophy.md\"> eastern philosophy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Western philosophy.md\"> Western philosophy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Qi Gong.md\"> Qi Gong </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Tantra.md\"> Tantra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yantra.md\"> Yantra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/yoga.md\"> yoga </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can leave the church without loosing your faith.md\"> You can leave the church without loosing your faith </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/enlightenment.md\"> enlightenment </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Karma Yoga.md\"> Karma Yoga </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/yoga.md\"> yoga </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mind-body complex.md\"> mind-body complex </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/articleKarma and Reincarnation in Hinduism.md\"> articleKarma and Reincarnation in Hinduism </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",

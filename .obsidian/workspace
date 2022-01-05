@@ -7,13 +7,8 @@
         "id": "35bb62fcb568d330",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
@@ -21,8 +16,86 @@
             {
               "leaf": "35bb62fcb568d330",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":24},\"to\":{\"line\":47,\"ch\":24}},\"scroll\":35.37737789203085}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":62},\"to\":{\"line\":28,\"ch\":62}},\"scroll\":18.68875}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":3},\"to\":{\"line\":63,\"ch\":3}},\"scroll\":50.440616966580976}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Satya.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":10},\"to\":{\"line\":14,\"ch\":10}}}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Satya.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Reframing Goals to Actions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":26},\"to\":{\"line\":17,\"ch\":26}}}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":39},\"to\":{\"line\":19,\"ch\":39}},\"scroll\":7.72463768115942}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":25},\"to\":{\"line\":24,\"ch\":25}},\"scroll\":5.6}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":50.901285347043704}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":30},\"to\":{\"line\":36,\"ch\":30}},\"scroll\":11.06}"
+            },
+            {
+              "leaf": "35bb62fcb568d330",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":33},\"to\":{\"line\":48,\"ch\":33}},\"scroll\":48.82827763496144}"
             },
             {
               "leaf": "35bb62fcb568d330",
@@ -32,156 +105,6 @@
             },
             {
               "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "da13d34cd5e6194c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Meditation is a practice to develop a stronger conscious.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "da13d34cd5e6194c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation is a practice to develop a stronger conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":31.52}"
-            },
-            {
-              "leaf": "da13d34cd5e6194c",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "d5a4d6d59a89378a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "d5a4d6d59a89378a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.116709511568125}"
-            },
-            {
-              "leaf": "d5a4d6d59a89378a",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "3971d38677ecb6ae",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Meditation helps us detach negative attachments.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "3971d38677ecb6ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us detach negative attachments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4}"
-            },
-            {
-              "leaf": "3971d38677ecb6ae",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "31dbefe054ab02e7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "31dbefe054ab02e7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our nervous system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.2}"
-            },
-            {
-              "leaf": "31dbefe054ab02e7",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "f9aa867db2ca1659",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Meditation improves mental, physical, and emotional health.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "f9aa867db2ca1659",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.767609254498716}"
-            },
-            {
-              "leaf": "f9aa867db2ca1659",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -237,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -270,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -299,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -315,9 +235,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -433,73 +351,44 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "tag:#node",
+                  "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": true,
+                  "hideUnresolved": false,
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "tag:#topic/outline",
+                      "query": "tag:#node/evergreen",
                       "color": {
                         "a": 1,
-                        "rgb": 9785102
+                        "rgb": 14701138
                       }
                     },
                     {
-                      "query": "tag:#topic/term",
+                      "query": "tag:#node/topic/term",
                       "color": {
                         "a": 1,
-                        "rgb": 16162052
+                        "rgb": 14725458
                       }
                     },
                     {
-                      "query": "tag:#topic/stub",
+                      "query": "tag:#node/topic/stub",
                       "color": {
                         "a": 1,
-                        "rgb": 13413478
+                        "rgb": 11657298
                       }
                     },
                     {
-                      "query": "tag:#topic/technique",
+                      "query": "tag:#node/source",
                       "color": {
                         "a": 1,
-                        "rgb": 16056320
-                      }
-                    },
-                    {
-                      "query": "tag:#EVER/GREEN",
-                      "color": {
-                        "a": 1,
-                        "rgb": 356867
-                      }
-                    },
-                    {
-                      "query": "tag:#EVER/SEED",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3251005
-                      }
-                    },
-                    {
-                      "query": "tag:#EVER/SPROUT",
-                      "color": {
-                        "a": 1,
-                        "rgb": 10610705
-                      }
-                    },
-                    {
-                      "query": "tag:#content",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1594594
+                        "rgb": 5526240
                       }
                     }
                   ],
@@ -513,8 +402,8 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 199,
-                  "scale": 0.3101213937008831,
-                  "close": true
+                  "scale": 0.05725562340123523,
+                  "close": false
                 }
               }
             },
@@ -545,15 +434,15 @@
   },
   "active": "35bb62fcb568d330",
   "lastOpenFiles": [
+    "10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md",
+    "30_Topics/32_Terms/Dementia.md",
+    "30_Topics/32_Terms/Parkinson's Disease.md",
     "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "40_Evergreens/Meditation is a practice to develop a stronger conscious.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
-    "40_Evergreens/Meditation helps us detach negative attachments.md",
-    "40_Evergreens/Meditation helps us regulate our nervous system.md",
-    "40_Evergreens/Meditation improves mental, physical, and emotional health.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md",
-    "30_Topics/31_Stubs/success.md",
-    "30_Topics/32_Terms/Bhagavad Gita.md",
-    "90_Personal/Personal/Journal.md"
+    "10_Sources/Mental Health/Dr.K's guide/notes_Satya.md",
+    "30_Topics/32_Terms/Satya.md",
+    "30_Topics/32_Terms/Shuddhi.md",
+    "30_Topics/32_Terms/Sangha.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Reframing Goals to Actions.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md"
   ]
 }

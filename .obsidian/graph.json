@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#node ",
+  "search": "tag:#node/evergreen",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.32133638605037157,
-  "close": true
+  "scale": 0.05932617187500188,
+  "close": false
 }

@@ -5,7 +5,7 @@ aliases:
 tags: created/source/2022/01/02, node/source/notes
 ---
 
-##### [[10_Sources/Mental Health/Dr.K's guide/notes_Depression module overview ]]
+##### [[notes_Depression module overview]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
