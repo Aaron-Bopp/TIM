@@ -11548,7 +11548,7 @@
     "90_Personal/Personal/Journal.md": {
       "size": 33776,
       "tags": 4,
-      "links": 89
+      "links": 90
     },
     "90_Personal/Personal/My relationship with my parents.md": {
       "size": 1079,
@@ -12210,7 +12210,7 @@
     "/": {
       "Refactor": 4125,
       "Create": 4634,
-      "Link": 7053,
+      "Link": 7054,
       "Expand": 810
     },
     "40_Evergreens": {
@@ -12239,7 +12239,7 @@
       "14": 2447,
       "15": 263,
       "16": 1297,
-      "17": 2788,
+      "17": 2789,
       "18": 2296,
       "19": 500,
       "20": 218,
@@ -12277,7 +12277,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 435,
-      "Tue": 4077,
+      "Tue": 4078,
       "Wed": 3643,
       "Thu": 2035,
       "Fri": 723,
@@ -12609,6 +12609,7 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Humans in prehistory were not confined to small egalitarian bands.md\"> Humans in prehistory were not confined to small egalitarian bands </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Religious concepts are often too powerful for a child's mind.md\"> Religious concepts are often too powerful for a child's mind </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
@@ -12658,8 +12659,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-04.md\"> 2022-01-04 </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/202 Now.md\"> 202 Now </a>"
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-04.md\"> 2022-01-04 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
