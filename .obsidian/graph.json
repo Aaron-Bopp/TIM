@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#node",
+  "search": "tag:#node ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.03122016294837274,
-  "close": true
+  "scale": 0.047628133285045025,
+  "close": false
 }
