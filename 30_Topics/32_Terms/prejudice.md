@@ -13,5 +13,5 @@ A generalized feeling towards a group or a member of group  [^1]
 %% DO NOT EDIT BELOW %%
 
 %% DO NOT EDIT ABOVE %%
-[^1]: [[Psychology of Race and Gender notes]]
+[^1]: [[course_Psychology of Race and Gender]]
 

@@ -4,26 +4,139 @@
     "type": "split",
     "children": [
       {
-        "id": "fea7cdaba32fe77d",
+        "id": "c114312a31a22072",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "fea7cdaba32fe77d",
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoEmotional Deregulation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":8},\"to\":{\"line\":7,\"ch\":8}},\"scroll\":5.709677401988242}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.677419215905934}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoWhat is Ego.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":62},\"to\":{\"line\":14,\"ch\":62}},\"scroll\":8.25806425811102}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/History/articleAncient Cave Art Full of Teenage Graffiti.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoEmotional Deregulation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.741934972796826}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoRejection Sensitivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":32.83112424051843}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Psychology of Race and Gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c114312a31a22072",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "fea7cdaba32fe77d",
+              "leaf": "c114312a31a22072",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Psychology of Race and Gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.205644013544328}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Niyama.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":71},\"to\":{\"line\":15,\"ch\":71}},\"scroll\":1.0322580322638775}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Swadhyaya.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Shuddha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Santosha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Shuddha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Santosha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -57,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#exclude",
+                "query": "tag:#node/source/notes",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -76,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -108,6 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +267,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -280,6 +397,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -361,17 +479,17 @@
     "width": 694,
     "collapsed": true
   },
-  "active": "fea7cdaba32fe77d",
+  "active": "c114312a31a22072",
   "lastOpenFiles": [
-    "20_Entry/24 Vault Stats/Word count Evergreens.md",
-    "30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md",
-    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
-    "40_Evergreens/How to read to understand.md",
-    "40_Evergreens/You can leave the church without loosing your faith.md",
-    "40_Evergreens/ADHD is primarily an executive function disorder.md",
-    "10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md",
-    "10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md",
-    "40_Evergreens/A healthy second brain requires a surplus of entry points.md",
-    "40_Evergreens/A secure identity is the best defense against social anxiety.md"
+    "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
+    "10_Sources/Mental Health/videoEmotional Deregulation.md",
+    "10_Sources/Mental Health/videoHealing from Festered Emotions.md",
+    "10_Sources/Mental Health/videoWhat is Ego.md",
+    "30_Topics/32_Terms/Ahamkara.md",
+    "30_Topics/31_Stubs/ego.md",
+    "30_Topics/32_Terms/subconscious.md",
+    "10_Sources/History/articleAncient Cave Art Full of Teenage Graffiti.md",
+    "10_Sources/Mental Health/videoRejection Sensitivity.md",
+    "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md"
   ]
 }

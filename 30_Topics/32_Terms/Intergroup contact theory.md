@@ -12,5 +12,5 @@ Contact hypothesis: interacting with people from an outgroup, you hold [[prejudi
 %% DO NOT EDIT BELOW %%
 
 %% DO NOT EDIT ABOVE %%
-[^1]: [[Psychology of Race and Gender notes#Week 16]]
+[^1]: [[course_Psychology of Race and Gender#Week 16]]
 

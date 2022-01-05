@@ -9,17 +9,17 @@ source: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
 
 ###### What is Ego
 
-https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8
+#TO/EXPLORE/WATCH https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL
 
 - [00:35](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=35.353769194549564)
-	- Uhumgar is the "I feeling" which is the false [[self]]
+	- [[Ahamkara]] is the "I feeling" which is the false [[self]]
 		- anything you can put on a resume
 - [02:07](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=127.88540695803833) 
-	- Uhumgar arises as as defense mechanism
+	- [[Ahamkara]] arises as as defense mechanism
 	- takes negative emotion and tries to get rid of it
 - [04:12](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=252.43009295040895)
 	- [[subconscious]] builds up your [[self]]
-	- Uhumgar == [[subconscious]]
+	- [[Ahamkara]] == [[subconscious]]
 - [04:47](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=287.86191701244815)
 	- The mask we where in certain situations is a manifestation of [[subconscious]].
 		- [[subconscious]] can impact authenticity, if being authentic works against the go it gets suppressed

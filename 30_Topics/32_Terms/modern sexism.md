@@ -12,5 +12,5 @@ a more subtle form of sexism not involving explicit admission of sexist beliefs,
 %% DO NOT EDIT BELOW %%
 
 %% DO NOT EDIT ABOVE %%
-[^1]: [[Psychology of Race and Gender notes]]
+[^1]: [[course_Psychology of Race and Gender]]
 

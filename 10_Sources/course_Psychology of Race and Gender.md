@@ -2,12 +2,12 @@
 created: 2021-12-01 
 aliases:
   - null
-tags: created/source/2021/12/01, node/source
+tags: created/source/2021/12/01, node/source/course
 type:
   - null 
 ---
 
-##### [[Psychology of Race and Gender notes ]]
+##### [[course_Psychology of Race and Gender ]]
  **Creator**:: 
  
 **Source**:: FA21 

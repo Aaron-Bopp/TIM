@@ -14,4 +14,4 @@ hatred of women [^1]
 %% DO NOT EDIT BELOW %%
 
 %% DO NOT EDIT ABOVE %%
-[^1]: [[Psychology of Race and Gender notes#Week 13]]
+[^1]: [[course_Psychology of Race and Gender#Week 13]]

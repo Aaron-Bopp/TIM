@@ -7,7 +7,7 @@ tags: created/topic/2022/01/01, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 
-**See**::
+**See**:: [[Ahamkara]], [[self]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

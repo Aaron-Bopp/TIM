@@ -12,5 +12,5 @@ experiencing pejudice/discrimination leads to high stress levels, causing negati
 %% DO NOT EDIT BELOW %%
 
 %% DO NOT EDIT ABOVE %%
-[^1]: [[Psychology of Race and Gender notes]]
+[^1]: [[course_Psychology of Race and Gender]]
 
