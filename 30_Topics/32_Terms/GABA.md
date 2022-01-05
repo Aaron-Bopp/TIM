@@ -1,7 +1,8 @@
 ---
 created: 2021-12-29 
 aliases:
-  - null
+  - Gamma-Aminobutyric Acid (GABA)
+  - Gamma-Aminobutyric Acid 
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

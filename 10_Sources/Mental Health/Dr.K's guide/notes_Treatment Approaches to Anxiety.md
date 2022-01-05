@@ -21,7 +21,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Dialectical Behavioral Therapy (DBT)]]
 - [[Complementary and Alternative Medicine (CAM)]]
 - [[Benzodiazepines]]
-- [[Gamma-Aminobutyric Acid (GABA)]]
+- [[GABA]]
 - [[Alprazolam]]
 - [[Psychotherapy]]
 - [[Traditional Chinese Medicine (TCM)]]

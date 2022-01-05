@@ -20,7 +20,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[neuroticism]]
 - [[Amygdala]]
 - [[Bed Nucleus of the Stria Terminalis (BNST)]]
-- [[Gamma-Aminobutyric Acid (GABA)]]
+- [[GABA]]
 - [[Medial Prefrontal Cortex (mPFC)]]
 - [[Hippocampus]]
 - [[Corticotropin Releasing Factor (CRF)]]

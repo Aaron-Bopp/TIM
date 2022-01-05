@@ -4,203 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "35bb62fcb568d330",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 2,
-          "stack": [
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/cerebral cortex.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Biology supports the validity of trans people.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":122},\"to\":{\"line\":16,\"ch\":122}},\"scroll\":0}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our understanding of gender begins at a very early age.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":4}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":9}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Patriarchy convinces young men that they can and should be oppressors.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":21.355994358251056}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":328},\"to\":{\"line\":30,\"ch\":328}},\"scroll\":0}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Note structures should help curate knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":49},\"to\":{\"line\":14,\"ch\":49}},\"scroll\":0}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":1384},\"to\":{\"line\":13,\"ch\":129}},\"scroll\":0}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A secure identity is the best defense against social anxiety.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are made to be broken.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":25},\"to\":{\"line\":26,\"ch\":25}},\"scroll\":8}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.75187969924812}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.684}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":202},\"to\":{\"line\":19,\"ch\":202}},\"scroll\":4.36}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":56},\"to\":{\"line\":28,\"ch\":56}},\"scroll\":0.36}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":12.806501547987615}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Journal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":133,\"ch\":0},\"to\":{\"line\":133,\"ch\":0}},\"scroll\":116.3175}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Journal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":27},\"to\":{\"line\":12,\"ch\":27}}}"
-            },
-            {
-              "leaf": "35bb62fcb568d330",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "c69db8d04034f412",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "c69db8d04034f412",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.775193798449612}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "98aa3ab48a08cd25",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Satya.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": []
-        }
-      },
-      {
-        "id": "c98b0448b56a59b5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/31_Stubs/validation.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": []
-        }
-      },
-      {
-        "id": "101e01244bd18d70",
+        "id": "a7415e87e2c9119e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -208,59 +12,12 @@
         },
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
-        }
-      },
-      {
-        "id": "cbda8f184b25c2c0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "30_Topics/32_Terms/emotional mirroring.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
           "stack": [
             {
-              "leaf": "cbda8f184b25c2c0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/emotional mirroring.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":142},\"to\":{\"line\":8,\"ch\":142}}}"
-            },
-            {
-              "leaf": "cbda8f184b25c2c0",
+              "leaf": "a7415e87e2c9119e",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "d65fdf20d1256991",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/course_Dr. K's Guide to Mental Health.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "d65fdf20d1256991",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Dr. K's Guide to Mental Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":57},\"to\":{\"line\":46,\"ch\":57}},\"scroll\":65.86580976863753}"
             }
           ]
         }
@@ -313,7 +70,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -346,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -391,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40_Evergreens/Our understanding of gender begins at a very early age.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -509,7 +262,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Our understanding of gender begins at a very early age.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -591,17 +343,17 @@
     "width": 694,
     "collapsed": true
   },
-  "active": "35bb62fcb568d330",
+  "active": "a7415e87e2c9119e",
   "lastOpenFiles": [
-    "40_Evergreens/Our understanding of gender begins at a very early age.md",
-    "40_Evergreens/Biology supports the validity of trans people.md",
-    "30_Topics/31_Stubs/cerebral cortex.md",
-    "40_Evergreens/People are radicalized when they are convinced that change is out of their control.md",
-    "40_Evergreens/Patriarchy convinces young men that they can and should be oppressors.md",
-    "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
-    "40_Evergreens/Note structures should help curate knowledge.md",
-    "40_Evergreens/Write your notes like you're planting an evergreen forest.md",
-    "40_Evergreens/How Masculinity and the black identity model are represented in 'Moonlight'.md",
-    "40_Evergreens/A secure identity is the best defense against social anxiety.md"
+    "30_Topics/32_Terms/Alprazolam.md",
+    "30_Topics/32_Terms/Lidocaine.md",
+    "30_Topics/32_Terms/Tachycardia.md",
+    "30_Topics/32_Terms/Amygdala.md",
+    "30_Topics/32_Terms/Cyclothymia.md",
+    "30_Topics/32_Terms/Ventral Medial Prefrontal Cortex.md",
+    "30_Topics/32_Terms/Peristalsis.md",
+    "30_Topics/32_Terms/Symbiosis.md",
+    "30_Topics/32_Terms/Dysbiosis.md",
+    "30_Topics/32_Terms/Monoamines.md"
   ]
 }

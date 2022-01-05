@@ -15,7 +15,7 @@ tags: created/source/2021/12/30, node/source/notes
 #### Terms
 - [[Negative Self Attitude (NSA)]]
 - [[Benzodiazepines]]
-- [[Gamma-Aminobutyric Acid (GABA)]]
+- [[GABA]]
 - [[Alprazolam]]
 - [[Nootropic]]
 - [[Dopamine]]

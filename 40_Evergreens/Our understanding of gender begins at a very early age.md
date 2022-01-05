@@ -20,13 +20,13 @@ While young children can discern gender at an early age that does not mean gende
 ^[[[Gender has historically been non-binary]]]
 Additionally, [[Biology supports the validity of trans people]]
 
-This studied understanding of gender in children only reinforces the validity of [[transgender|trans]] children. [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] because of such as the [[trauma]] of [[Parents need to model the ability to deal with emotion to their children| parents not respecting our gender identity]]. [[How can parent's best help their children]]
+This studied understanding of gender in children only reinforces the validity of [[transgender|trans]] children. [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] %%because of such as the [[trauma]] of [[Parents need to model the ability to deal with emotion to their children|parents not respecting our gender identity]]. [[How can parent's best help their children]] #TO/TEND/MULCH %%
 
 #TO/DO/CONCEPTUALIZE information from studies
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[childhood]]
