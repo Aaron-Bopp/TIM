@@ -4,7 +4,7 @@
   "maxNumberOfSuggestions": 11,
   "minNumberOfCharactersTriggered": 0,
   "complementAutomatically": true,
-  "overwriteDuplicatedExistedPhrase": true,
+  "overwriteDuplicatedExistedPhrase": false,
   "delayMilliSeconds": 20,
   "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
   "ignoreEnterKey": true,

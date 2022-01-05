@@ -29,7 +29,6 @@ I went through a time of [[depression]], where fell into the fallacy that [[Sadn
 [^2]: [[Knowledge of the world is painful]]
 [^3]: [[Accepting responsibility is not only about your actions]], [[Parents need to model the ability to deal with emotion to their children]]
 
-
 My feelings being a follower of Jesus have somewhat mellowed with time, but my feelings towards the church has not, and I still believe [[The biblical Christian God is evil and does not deserve to be worshipped]].
 The fact is [[realism must acknowledge optimism's existence and effectiveness]] if we want to create a better world: [[Be the change you want to see in the world]]
 
@@ -46,6 +45,8 @@ Additionally, I have focused in on the way that [[Evangelicalism]] has perverted
 
 I have started to look other belief systems to contrast them to [[Christianity]]:
 [[The materialistic view of religions examines why humans invented and clung to religion]], but we still see religions like [[Buddhism]] that do not focus on salvation. [[Buddhism outlines a path and practice to end suffering, but does not promise it]].
+
+While [[learning]] about other [[religion]]s, I have decided to [[Use philosophies as far they are useful and nothing more]], and this is [[Why I only callout Christianity]]
 
 ### <hr class="footnote"/>
 

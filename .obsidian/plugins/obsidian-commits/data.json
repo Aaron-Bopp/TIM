@@ -4618,7 +4618,7 @@
     "40_Evergreens/My Deconstruction journey.md": {
       "size": 5156,
       "tags": 4,
-      "links": 49
+      "links": 53
     },
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md": {
       "size": 5028,
@@ -4788,7 +4788,7 @@
     "40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md": {
       "size": 1184,
       "tags": 3,
-      "links": 6
+      "links": 7
     },
     "40_Evergreens/The ethnic makeup is a significant driver of change.md": {
       "size": 733,
@@ -6472,8 +6472,8 @@
     },
     "40_Evergreens/Mental health is a reaction to one's environment.md": {
       "size": 1721,
-      "tags": 3,
-      "links": 19
+      "tags": 5,
+      "links": 21
     },
     "40_Evergreens/Complex emotions are intellectual understandings of primal urges.md": {
       "size": 1134,
@@ -9428,7 +9428,7 @@
     "40_Evergreens/Consciousness is the fundamental unit of existence.md": {
       "size": 1926,
       "tags": 6,
-      "links": 23
+      "links": 24
     },
     "00_Meta/Templates/LIST.md": {
       "size": 0,
@@ -10028,7 +10028,7 @@
     "30_Topics/32_Terms/Mirtazapine.md": {
       "size": 373,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Moksha.md": {
       "size": 244,
@@ -12234,20 +12234,30 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "90_Personal/91 Daily Notes/2022-01-05.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 4
+    },
+    "40_Evergreens/Why I only callout Christianity.md": {
+      "size": 1225,
+      "tags": 3,
+      "links": 9
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4156,
-      "Create": 4642,
-      "Link": 7165,
-      "Expand": 830
+      "Refactor": 4159,
+      "Create": 4645,
+      "Link": 7178,
+      "Expand": 832
     },
     "40_Evergreens": {
-      "Refactor": 325,
-      "Create": 58,
-      "Link": 968,
-      "Expand": 368
+      "Refactor": 327,
+      "Create": 59,
+      "Link": 978,
+      "Expand": 370
     }
   },
   "dailyCommits": {
@@ -12262,8 +12272,8 @@
       "7": 0,
       "8": 81,
       "9": 767,
-      "10": 332,
-      "11": 2573,
+      "10": 333,
+      "11": 2593,
       "12": 605,
       "13": 368,
       "14": 2447,
@@ -12289,7 +12299,7 @@
       "8": 46,
       "9": 250,
       "10": 102,
-      "11": 75,
+      "11": 90,
       "12": 102,
       "13": 109,
       "14": 122,
@@ -12308,7 +12318,7 @@
     "/": {
       "Mon": 435,
       "Tue": 4221,
-      "Wed": 3670,
+      "Wed": 3691,
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
@@ -12317,7 +12327,7 @@
     "40_Evergreens": {
       "Mon": 128,
       "Tue": 332,
-      "Wed": 166,
+      "Wed": 181,
       "Thu": 284,
       "Fri": 182,
       "Sat": 0,
@@ -12327,6 +12337,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/GABA.md\"> GABA </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
@@ -12375,11 +12387,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bipolar I.md\"> Bipolar I </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmacharya Ashram.md\"> Brahmacharya Ashram </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bupropion.md\"> Bupropion </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Central Nervous System (CNS).md\"> Central Nervous System (CNS) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Chamomile (Matricaria recutita).md\"> Chamomile (Matricaria recutita) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cognitive Anxiety.md\"> Cognitive Anxiety </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Central Nervous System (CNS).md\"> Central Nervous System (CNS) </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I talk so much about Christianity.md\"> Why I talk so much about Christianity </a>",
+        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-05.md\"> 2022-01-05 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/amnesia.md\"> amnesia </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anesthesia.md\"> anesthesia </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sleep.md\"> sleep </a>",
@@ -12427,12 +12440,10 @@
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/21 TODO/TODO.md\"> TODO </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/21 TODO/BOOKLIST.md\"> BOOKLIST </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/208 Note Hierarchy.md\"> 208 Note Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/206 Folder Hierarchy.md\"> 206 Folder Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/207 Tag Hierarchy.md\"> 207 Tag Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/204 Writing.md\"> 204 Writing </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/208 Note Hierarchy.md\"> 208 Note Hierarchy </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/GABA.md\"> GABA </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cerebral cortex.md\"> cerebral cortex </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Patriarchy convinces young men that they can and should be oppressors.md\"> Patriarchy convinces young men that they can and should be oppressors </a>",
@@ -12482,10 +12493,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Python.md\"> Python </a>",
         "<a class=\"internal-link\" href=\"10_Sources/course_US History from 1870.md\"> course_US History from 1870 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans try really hard to avoid understanding their mistakes.md\"> Humans try really hard to avoid understanding their mistakes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
-        "<a class=\"internal-link\" href=\"We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-05.md\"> 2022-01-05 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/central nervous system.md\"> central nervous system </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sleep.md\"> sleep </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mood.md\"> mood </a>",
@@ -12532,11 +12546,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/responsibility.md\"> responsibility </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/persuasion.md\"> persuasion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12589,6 +12599,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/BIONOTE.md\"> BIONOTE </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
@@ -12638,10 +12649,18 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Progress requires change.md\"> Progress requires change </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People easily ignore history.md\"> People easily ignore history </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People are willing to accept incomplete answers when it comes to history.md\"> People are willing to accept incomplete answers when it comes to history </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Mirtazapine.md\"> Mirtazapine </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-05.md\"> 2022-01-05 </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Benzodiazepines.md\"> Benzodiazepines </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Biopsy.md\"> Biopsy </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmi (Bacopa monnieri).md\"> Brahmi (Bacopa monnieri) </a>",
@@ -12683,18 +12702,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Shuddhi.md\"> Shuddhi </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/community.md\"> community </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sangha.md\"> Sangha </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\"> notes_Sangha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Samskara.md\"> Samskara </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Shuddhi.md\"> notes_Shuddhi </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Patriarchy convinces young men that they can and should be oppressors.md\"> Patriarchy convinces young men that they can and should be oppressors </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
@@ -12744,8 +12755,7 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/13 Diagnosing Gender Dysphoria.md\"> 13 Diagnosing Gender Dysphoria </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/17 Hormones How do they work.md\"> 17 Hormones How do they work </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/20 In Conclusion.md\"> 20 In Conclusion </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/3 Gender Euporia.md\"> 3 Gender Euporia </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/5 Biochemical Dysphoria.md\"> 5 Biochemical Dysphoria </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/3 Gender Euporia.md\"> 3 Gender Euporia </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
@@ -12803,6 +12813,8 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
@@ -12851,11 +12863,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Personality types are 3d and interconnected, not 2d and static.md\"> Personality types are 3d and interconnected, not 2d and static </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Radicalization is when you are convinced that the things you need to change are out of your control.md\"> Radicalization is when you are convinced that the things you need to change are out of your control </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans try really hard to avoid understanding our mistakes.md\"> Humans try really hard to avoid understanding our mistakes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\"> A healthy second brain requires a surplus of entry points </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/We learn by transforming information into understanding.md\"> We learn by transforming information into understanding </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I talk so much about Christianity.md\"> Why I talk so much about Christianity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Writing is the catalyst of understanding.md\"> Writing is the catalyst of understanding </a>",
@@ -12905,10 +12916,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/a second brain should be an extension of your thought.md\"> a second brain should be an extension of your thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Andy Matuschak's Evergreen Notes^.md\"> Andy Matuschak's Evergreen Notes^ </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Patriarchy convinces young men that they can and should be oppressors.md\"> Patriarchy convinces young men that they can and should be oppressors </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are made to be broken.md\"> Stupid rules are made to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\"> Evergreen notes help us bridge the gap between knowledge and understanding </a>",
@@ -12958,10 +12969,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The history of meditation is a mix of science and magic.md\"> The history of meditation is a mix of science and magic </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice to develop a stronger conscious.md\"> Meditation is a practice to develop a stronger conscious </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us gain control over our emotions.md\"> Meditation helps us gain control over our emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans try really hard to avoid understanding our mistakes.md\"> Humans try really hard to avoid understanding our mistakes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>",
@@ -13009,10 +13022,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\"> Rationalizations are defense-mechanisms against strong emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -13067,6 +13077,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/My Deconstruction journey.md\"> My Deconstruction journey </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
@@ -13110,16 +13127,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within duty is derived from without.md\"> Purpose is derived from within duty is derived from without </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans long to know what to do.md\"> Humans long to know what to do </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/I don't write my notes for myself.md\"> I don't write my notes for myself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\"> Evergreen notes help us bridge the gap between knowledge and understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within duty is derived from without.md\"> Purpose is derived from within duty is derived from without </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\"> Evergreen notes help us bridge the gap between knowledge and understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\"> Evergreen notes help us bridge the gap between knowledge and understanding </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Patriarchy convinces young men that they can and should be oppressors.md\"> Patriarchy convinces young men that they can and should be oppressors </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
@@ -13169,8 +13180,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Is your self-talk bullying you or bodyguarding you.md\"> Is your self-talk bullying you or bodyguarding you </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Neurodivergent people cannot stop their brain from solving problems.md\"> Neurodivergent people cannot stop their brain from solving problems </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive..md\"> Note taking is a spectrum from purely reproductive to purely productive. </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",

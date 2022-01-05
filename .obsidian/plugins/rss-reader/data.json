@@ -19,7 +19,10 @@
       "read": true,
       "unread": true,
       "sortOrder": "ALPHABET_NORMAL",
-      "name": "Favorites"
+      "name": "Favorites",
+      "ignoreTags": [],
+      "ignoreFolders": [],
+      "ignoreFeeds": []
     }
   ],
   "saveLocation": "default",

@@ -2176,7 +2176,6 @@
     color: var(--mgbg);
     font-size: 1.2em;
     padding-top: 0px;
-
 }
 
 .modal.mod-settings .vertical-tab-nav-item.is-active {
@@ -2193,10 +2192,6 @@
     padding: 8px 0px 0px 8px;
     background-color: var(--mnbg);
     font-size: 1em;
-}
-
-.modal.mod-settings .vertical-tab-content-container {
-    height: 750px !important;
 }
 
 /* @ SETTINGS C3: Theme Store*/
@@ -2646,24 +2641,24 @@ html {
         text-decoration: none !important;
         border-top: 1px solid var(--tborder) ;
         border-bottom: 1px solid var(--tborder) ;
-    }  */
+    } 
 
-    /* .cm-hashtag-begin {
+    .cm-hashtag-begin {
         display: none;
         border: none ;
         margin-right: -6px;
-    } */
+    }
 
-    /* .cm-hashtag::before {
+    .cm-hashtag::before {
         content: var(--tb4);
         border-left: 1px solid var(--tborder);
         padding-left: 4px;
         border-left: none;
         border-radius: 10px ;
         display: inline;
-    } */
+    }
 
-    /* .cm-hashtag-end {
+    .cm-hashtag-end {
         border-right: 1px solid var(--tborder);
         padding-right: 7px;
         border-left: none;

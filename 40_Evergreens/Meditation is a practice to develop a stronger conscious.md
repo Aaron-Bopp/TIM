@@ -22,8 +22,9 @@ If we calm the [[conscious]] it will allow us to have closer connection to the [
 ^[[[notes_Intro to Mantra Practice]]]
 
 The method behind this is a calming of the [[Autonomic Nervous System (ANS)]]: [[Meditation helps us regulate our nervous system]]
-but on a much more [[spirituality|spiritual]] level we are interacting with the building blocks of the universe:
+but on a much more [[spirituality|spiritual]] level we are interacting with the building blocks 
 ^[[[Brahman]]]
+of the universe:
 [[Consciousness is the fundamental unit of existence]]
 
 
@@ -34,4 +35,4 @@ but on a much more [[spirituality|spiritual]] level we are interacting with the 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[mindfulness]], 
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+*`$=customJS.dv_funcs.outline

@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.558
+Version 1.561
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -1528,6 +1528,11 @@ body:not(.show-statusbar):not(.default-statusbar) .status-bar:hover {
 /* so stuff on the bottom of the right sidebar can still be clicked */
 body:not(.default-statusbar) .mod-right-split .workspace-tabs:last-child .workspace-leaf-content {
 	padding-bottom: 2em;
+}
+
+/* fix for plugins adding empty elements to the statusbar */
+.status-bar-item:empty {
+	display: none;
 }
 
 /* ───────────────────────────────────────────────────
@@ -3722,12 +3727,10 @@ body .frontmatter-container .frontmatter-container-header {
 /* ───────────────────────────────────────────────────
 << Gutter & Collapse Indicators
 ─────────────────────────────────────────────────── */
-
+/* collapse indicator size increase fixed due to insider release */
 /* Preview Mode */
 .heading-collapse-indicator .right-triangle,
 .list-collapse-indicator .right-triangle {
-	height: 0.8rem;
-	width: 0.8rem;
 	color: var(--text-muted);
 }
 
@@ -3740,14 +3743,10 @@ body .frontmatter-container .frontmatter-container-header {
 }
 
 .frontmatter-collapse-indicator .right-triangle {
-	height: 0.6rem;
-	width: 0.6rem;
 }
 
 /* edit mode */
 .cm-s-obsidian.mod-cm6 .collapse-indicator .right-triangle {
-	height: 1em;
-	width: 1em;
 }
 
 /* hover / collapse colors, applies to edit & preview */
@@ -4064,7 +4063,7 @@ body:not(.no-alternating-rows) .spellchecker-dictionary-item {
 }
 
 body:not(.is-mobile) .view-content .is-live-preview img,
-body:not(.is-mobile) .view-content .markdown-preview-view img,
+body:not(.is-mobile) .view-content > *:not(.kanban-plugin) .markdown-preview-view img,
 body:not(.is-mobile) .oz-image-widget-cm6 > img:not(:active),
 body:not(.is-mobile) .app-container div.oz-image-widget > img:not(:active) {
 	max-width: calc(var(--image-size) * 1%);
@@ -6743,6 +6742,10 @@ div.kanban-plugin__board > div {
 	padding: 0.3em;
 }
 
+body:not(.show-header-bar) div.kanban-plugin__board > div {
+	padding-top: 0;
+}
+
 .kanban-plugin__board.kanban-plugin__board .kanban-plugin__item-tag,
 .kanban-plugin__board.kanban-plugin__board .kanban-plugin__item-tags,
 .kanban-plugin__board.kanban-plugin__board .kanban-plugin__item-metadata {
@@ -7588,11 +7591,6 @@ button.MS-OpenSnippet:hover svg.ms-snippet path {
 /* ───────────────────────────────────────────────────
 << Breadcrumbs
 ─────────────────────────────────────────────────── */
-
-/* fix as long as there is no status bar content */
-.status-bar-item.plugin-breadcrumbs {
-	display: none;
-}
 
 /* matrix */
 .BC-Matrix-square li::MARKER {
@@ -8443,14 +8441,6 @@ body .excalidraw .HelpDialog--header {
 a.zoom-plugin-title:hover {
 	color: var(--alt-accent);
 	opacity: 0.8 !important;
-}
-
-/* ───────────────────────────────────────────────────
-<< Cursor Location
-─────────────────────────────────────────────────── */
-
-.plugin-obsidian-cursor-location-plugin:empty {
-	display: none;
 }
 
 /* ───────────────────────────────────────────────────

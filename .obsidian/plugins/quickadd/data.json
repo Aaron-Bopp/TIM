@@ -122,6 +122,13 @@
       },
       "openFile": true,
       "openFileInMode": "default"
+    },
+    {
+      "id": "4c7f7779-400a-479b-b4d5-894d757af89d",
+      "name": "1Foot",
+      "type": "Macro",
+      "command": false,
+      "macroId": null
     }
   ],
   "macros": [
@@ -333,6 +340,12 @@
           "choiceId": "f6ac5fe8-3494-49c6-a769-a4409130b435"
         }
       ],
+      "runOnStartup": false
+    },
+    {
+      "name": "1foot",
+      "id": "50eead21-ed5c-4bbd-a636-0ac3a3661eb4",
+      "commands": [],
       "runOnStartup": false
     }
   ]
