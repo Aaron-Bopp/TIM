@@ -3,8 +3,8 @@ created: 2021-10-03
 tags: created/evergreen/2021/10/03, node/evergreen
 aliases:
   - null
-sr-due: 2022-01-05
-sr-interval: 10
+sr-due: 2022-01-20
+sr-interval: 15
 sr-ease: 150
 ---
 
@@ -14,6 +14,7 @@ In [[Social Learning Theory]], imitation is one of four key mechanism for social
 
 - [[Children will imitate whatever is modeled for them]] #TO/TEND/DEOBFUSCATE 
 - [[How can parent's best help their children]]
+- [[Humans long to know what to do]]
 
 ### <hr class="footnote"/>
 

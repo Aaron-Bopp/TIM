@@ -3,8 +3,8 @@ created: 2021-12-21
 aliases:
   - null
 tags: created/evergreen/2021/12/21, node/evergreen
-sr-due: 2022-01-05
-sr-interval: 5
+sr-due: 2022-01-16
+sr-interval: 11
 sr-ease: 170
 ---
 
@@ -14,7 +14,8 @@ sr-ease: 170
 but [[Organization systems are not mutually exclusive]].
 Don't let yourself get bogged down with questions like, "Am I using the system the way the creator intended?" 
 
-[[When in doubt, write what you think]], these are your notes write them your way
+These are your notes write them your way, 
+and [[When in doubt, write what you think]].
 
 1. [[Write your notes like you're planting an evergreen forest]], let yourself find what works along the way.  
 1. [[Learning how systems work can be a gateway to creating thought]] so shop around and experiment with different systems.  

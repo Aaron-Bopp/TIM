@@ -3,9 +3,9 @@ created: 2022-01-01T19:18:34
 aliases:
   - null
 tags: created/evergreen/2022/01/01, node/evergreen
-sr-due: 2022-01-05
+sr-due: 2022-01-06
 sr-interval: 1
-sr-ease: 190
+sr-ease: 170
 ---
 
 #### [[There is a difference between thinking and creating]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,6 +18,7 @@ Many task requires thought, remembering how you did something before, understand
  - [[Writing is the catalyst of understanding]]
  - [[Our understanding of gender begins at a very early age]]
  - [[Humans transfer their wonder into creativity]]
+ - [[Humans try really hard to avoid understanding their mistakes]]
 
 ### <hr class="footnote"/>
 

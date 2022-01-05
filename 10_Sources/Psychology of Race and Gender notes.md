@@ -34,7 +34,7 @@ type:
 ##  Barriers: White Privilege 
 - Privilege is exemption from struggles or added obstacles based solely on your social identity
 	- people can have advantaged and disadvantaged identities [[intersectionality]]
-	- race, ability, socio-economic status, religious status, [[gender]] are all forms of privilege
+	- race, ability, [[socio-economic]] status, religious status, [[gender]] are all forms of privilege
 # Week 3
 ## Readings
 - [[Historical Foundations of Race]]
@@ -69,7 +69,7 @@ type:
 	- black scores are increasing faster than other groups
 - racial admixture
 	- black kids with high iqs do not reliably have more european dna than those with lower IQs
-- it all comes down to socio-economic status
+- it all comes down to [[socio-economic]] status
 # Week 4
 ## Readings
 - [[Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf]]

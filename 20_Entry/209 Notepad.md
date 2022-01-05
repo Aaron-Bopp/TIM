@@ -1,4 +1,4 @@
-%%
+![[tweets_Tweets From 🐸 Frog Time 🐸#261542754]]%%
 #TO/TEND/MULCH 
 One manifestation of this defense mechanisms is: [[Avoidance IS the most-efficient way of dealing with emotion]]. Many people will find that they are only able to verbalize emotions that they have processed on their own first.%%
 

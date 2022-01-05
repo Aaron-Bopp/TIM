@@ -3,8 +3,8 @@ created: 2022-01-04T16:00:57
 aliases:
   - null
 tags: created/evergreen/2022/01/04, node/evergreen
-sr-due: 2022-01-05
-sr-interval: 1
+sr-due: 2022-01-07
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -12,7 +12,7 @@ sr-ease: 210
 
 - [[notes_Dharma]] [[notes_Karma]] 
 - [[Humans are drawn to the unknown and repelled by the known]]
-- 
+- [[Be the change you want to see in the world]]
 
 ### <hr class="footnote"/>
 

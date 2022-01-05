@@ -433,7 +433,7 @@ type:
                     - Lack of hope
                     - American institutions created this
                 - Findings
-                    - Divisions along racial and socio-economic lings
+                    - Divisions along racial and [[socio-economic]] lings
                     - poverty levels
                     - employment
                     - poverty as cause

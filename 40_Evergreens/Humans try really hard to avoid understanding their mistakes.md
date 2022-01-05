@@ -17,8 +17,7 @@ We answer to our urges first and our [[morality]] second
 - [[Rationalizations are defense-mechanisms against strong emotions]]
 - [[Our brain will do anything it can to protect itself]]
 - [[We are confined to the tools of our time]]
-
- 
+- [[Human's have an inability to admit that they are wrong]]
 
 ### <hr class="footnote"/>
 

@@ -3,8 +3,8 @@ created: 2022-01-05T11:44:23
 aliases:
   - null
 tags: created/evergreen/2022/01/05, node/evergreen
-sr-due: 2022-01-05
-sr-interval: 1
+sr-due: 2022-01-07
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -15,6 +15,7 @@ Because I know a lot about it and it has had a massive impact on my life. I beli
 Which other [[religion]]s may have problematic histories as well, I am not aware of them or at least not to the point where I would make a statement on it. When I talk about [[eastern philosophy]], I do so in the spirit of [[Use philosophies as far they are useful and nothing more]]. I am going to take whatever positives I can and if something clashes with my [[morality]] I am just not going to use it. This is really how I use [[Christianity]], but there this process involved a lot of unlearning, and I have documented most of that in this vault.
 
 Now feel free to read [[My Deconstruction journey]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

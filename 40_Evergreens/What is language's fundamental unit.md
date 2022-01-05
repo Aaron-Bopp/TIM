@@ -3,8 +3,8 @@ created: 2021-11-16
 aliases:
   - null
 tags: created/evergreen/2021/11/16, node/evergreen
-sr-due: 2022-01-05
-sr-interval: 12
+sr-due: 2022-01-30
+sr-interval: 25
 sr-ease: 210
 ---
 
@@ -23,7 +23,7 @@ then paragraph's are amino acids, notes are cells, and books are organisms.
 Books are paths through evergreen forests
 
 ![[English is six languages in a trenchcoat trying to imitate a working form of communication.#qoute]]
-![[tweets_Tweets From 🐸 Frog Time 🐸#261542754]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

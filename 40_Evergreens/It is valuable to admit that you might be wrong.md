@@ -3,8 +3,8 @@ created: 2022-01-02T20:47:32
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-05
-sr-interval: 1
+sr-due: 2022-01-07
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -16,7 +16,12 @@ sr-ease: 210
 - [[We are confined to the tools of our time]]
 - [[Searching for THE answer is dangerous]]
 - [[You can't blame people for failing to rise above their circumstances]]
-- [[People have been conditioned to believe the bible has to be infallible]]
+- [[The Christian worldview is incompatible with most other worldviews]]
+	- [[People have been conditioned to believe the bible has to be infallible]]
+	- [[Faith is an abstraction of cognitive dissonance]]
+	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
+	- [[Worldviews should not make life seem easy and simple]]
+- [[Worlds views should be open ended and adaptive]]
 
 ### <hr class="footnote"/>
 

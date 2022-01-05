@@ -3,8 +3,8 @@ created: 2022-01-02T08:55:52
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-05
-sr-interval: 1
+sr-due: 2022-01-07
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -18,6 +18,9 @@ When people meditate for a long time they feel their [[perception]] of the world
 and more easily recognize what they need to do to succeed.
 [[Meditation]] also helps people to focus and achieve things they are already trying to do: [[Meditation helps us gain control over our emotions]]
 
+#TO/DO/CONCEPTUALIZE 
+- [[notes_Shuddhi]]
+- [[notes_Sangha]]
 ##### On a scientific level
 [[Meditation helps us regulate our hormonal environment]] and [[Meditation helps us regulate our nervous system]]
 
@@ -30,6 +33,8 @@ and more easily recognize what they need to do to succeed.
 
 This is [[Tantra]], [[manifestation]] of our will into the world.
 
+[[Be the change you want to see in the world]]
+[[You can't blame people for failing to rise above their circumstances]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
