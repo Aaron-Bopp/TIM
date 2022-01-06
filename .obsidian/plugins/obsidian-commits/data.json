@@ -8021,9 +8021,9 @@
       "links": 0
     },
     "20_Entry/209 Notepad.md": {
-      "size": 2311,
+      "size": 2897,
       "tags": 6,
-      "links": 16
+      "links": 15
     },
     "20_Entry/202 Now.md": {
       "size": 1144,
@@ -12273,10 +12273,10 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4173,
+      "Refactor": 4175,
       "Create": 4650,
-      "Link": 7232,
-      "Expand": 847
+      "Link": 7234,
+      "Expand": 848
     },
     "40_Evergreens": {
       "Refactor": 335,
@@ -12305,7 +12305,7 @@
       "15": 276,
       "16": 1319,
       "17": 2798,
-      "18": 2296,
+      "18": 2301,
       "19": 523,
       "20": 261,
       "21": 744,
@@ -12343,7 +12343,7 @@
     "/": {
       "Mon": 435,
       "Tue": 4221,
-      "Wed": 3779,
+      "Wed": 3784,
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
@@ -12362,6 +12362,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Niyama.md\"> Niyama </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>",
@@ -12411,8 +12412,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans transfer their wonder into creativity.md\"> Humans transfer their wonder into creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are addicted to believing.md\"> Humans are addicted to believing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans long to know what to do.md\"> Humans long to know what to do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans long to know what to do.md\"> Humans long to know what to do </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
@@ -12521,6 +12521,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoWhat is Ego.md\"> videoWhat is Ego </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
@@ -12570,8 +12571,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\"> Your anxiety knows your insecurities better than you do </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-04.md\"> 2022-01-04 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>"
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-04.md\"> 2022-01-04 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12677,6 +12677,7 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoWhat is Ego.md\"> videoWhat is Ego </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/ego.md\"> ego </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ahamkara.md\"> Ahamkara </a>",
@@ -12726,10 +12727,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Why I only callout Christianity.md\"> Why I only callout Christianity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Mirtazapine.md\"> Mirtazapine </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
@@ -12779,10 +12780,10 @@
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md\"> 0 That's Gender Dysphoria, FYI </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit.md\"> What is language's fundamental unit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
@@ -12832,8 +12833,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
         "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
       ]
     },
     "40_Evergreens": {

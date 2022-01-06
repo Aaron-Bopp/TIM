@@ -1,8 +1,9 @@
 self-blame and social deficiency
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjrjZh1Nris?start=5742" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![[tweets_Tweets From 🐸 Frog Time 🐸#261542754]]%%
+![[tweets_Tweets From 🐸 Frog Time 🐸#261542754]]
+
 #TO/TEND/MULCH 
-One manifestation of this defense mechanisms is: [[Avoidance IS the most-efficient way of dealing with emotion]]. Many people will find that they are only able to verbalize emotions that they have processed on their own first.%%
+One manifestation of this defense mechanisms is: [[Avoidance IS the most-efficient way of dealing with emotion]]. Many people will find that they are only able to verbalize emotions that they have processed on their own first.
 
 #TO/EXPLORE/RESEARCH etymology of conscience
 > If you say that you cannot do something in good [[conscience]] you mean that you cannot do it because you think it is wrong. 
