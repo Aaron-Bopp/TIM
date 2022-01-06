@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.566
+Version 1.574
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -718,6 +718,9 @@ only sidebars and everything scrolling */
 	--h4-size: 1.3em;
 	--h5-size: 1.15em;
 	--h6-size: 1.05em;
+
+	/* needed for some edge cases */
+	--original-font: "Inter", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, helvetica, arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif; /* stylelint-disable-line max-line-length */
 }
 
 .less-heading-letter-spacing {
@@ -939,7 +942,7 @@ svg.vertical-three-dots > path { display: none }
 
 svg.vertical-three-dots {
 	background-color: currentColor;
-	margin-top: 0.5px;
+	margin-top: 1.5px;
 	transform: scale(1.1);
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMidYMid meet' viewBox='0 0 20 20'%3e%3cpath d='M3 11h14V9H3v2zm0 5h14v-2H3v2zM3 4v2h14V4H3z' fill='currentColor'/%3e%3c/svg%3e");
 }
@@ -2986,7 +2989,7 @@ body .workspace-leaf-resize-handle:active {
 .flair.mod-pop::BEFORE {
 	content: "✓";
 
-	font-family: "Inter";
+	font-family: var(--original-font);
 	font-size: 0.65rem;
 	line-height: 0.8em;
 
@@ -3224,6 +3227,7 @@ body .workspace-leaf-resize-handle:active {
 	content: "Feature Overview";
 	font-family: var(--button-font);
 	font-size: var(--button-font-size);
+	font-weight: 500;
 	padding-left: 4px;
 }
 
@@ -3552,18 +3556,10 @@ body > div.app-container .view-content > div > .markdown-preview-view {
 << Active Line Highlight
 ─────────────────────────────────────────────────── */
 
-body:not(.no-active-highlight):not(.focused-highlight) .cm-active,
+body:not(.no-active-highlight):not(.focused-highlight) .cm-active:not(.cm-gutterElement),
 body:not(.no-active-highlight):not(.focused-highlight) .CodeMirror-activeline .CodeMirror-linebackground {
 	background-color: var(--active-line-bg);
 	border-radius: var(--roundish);
-}
-
-/* active highlighting of markup */
-body:not(.no-active-highlight) .cm-active .cm-formatting-header,
-body:not(.no-active-highlight) .cm-active .cm-formatting-quote,
-body:not(.no-active-highlight) .cm-active .cm-formatting-list,
-body:not(.no-active-highlight) .cm-active .list-bullet {
-	color: var(--active-line-indicator);
 }
 
 .focused-highlight .cm-cursor::BEFORE {
@@ -3582,8 +3578,23 @@ body:not(.no-active-highlight) .cm-active .list-bullet {
 	visibility: visible;
 }
 
+/* needed, as focused line highlight created very long scrolling to the right */
 .focused-highlight .markdown-source-view .cm-scroller {
 	overflow-x: hidden;
+}
+
+/* show only active line number */
+body:not(.show-all-line-numbers) .cm-lineNumbers .cm-gutterElement:not(.cm-active):not(:hover) {
+	opacity: 0;
+}
+
+/* when disabled, active highlighting of markup */
+.show-all-line-numbers:not(.no-active-highlight) .cm-lineNumbers .cm-active.cm-gutterElement,
+.show-all-line-numbers:not(.no-active-highlight) .cm-active .cm-formatting-header,
+.show-all-line-numbers:not(.no-active-highlight) .cm-active .cm-formatting-quote,
+.show-all-line-numbers:not(.no-active-highlight) .cm-active .cm-formatting-list,
+.show-all-line-numbers:not(.no-active-highlight) .cm-active .list-bullet {
+	color: var(--active-line-indicator);
 }
 
 /* ───────────────────────────────────────────────────
@@ -3748,44 +3759,43 @@ body .frontmatter-container .frontmatter-container-header {
 }
 
 /* ───────────────────────────────────────────────────
-<< Gutter & Collapse Indicators
+<< Gutter
+<< Collapse Indicators
 ─────────────────────────────────────────────────── */
-/* collapse indicator size increase fixed due to insider release */
-/* Preview Mode */
-.heading-collapse-indicator .right-triangle,
-.list-collapse-indicator .right-triangle {
-	color: var(--text-muted);
+
+/* fixes some fonts like iA Writer making the non-breaking space too big */
+/* can be removed with from 0.13.20 on */
+.mod-cm6 .collapse-indicator {
+	font-family: var(--original-font);
+	font-size: 2rem;
 }
 
-.heading-collapse-indicator.collapse-indicator {
-	padding-right: 4px;
+/* hide collapse indicators until hovered/active line */
+body:not(.permanently-show-collapse-indicators) li:not(:hover) div:not(.is-collapsed) > .collapse-indicator,
+body:not(.permanently-show-collapse-indicators) h1:not(:hover) div:not(.is-collapsed) > .collapse-indicator,
+body:not(.permanently-show-collapse-indicators) h2:not(:hover) div:not(.is-collapsed) > .collapse-indicator,
+body:not(.permanently-show-collapse-indicators) h3:not(:hover) div:not(.is-collapsed) > .collapse-indicator,
+body:not(.permanently-show-collapse-indicators) h4:not(:hover) div:not(.is-collapsed) > .collapse-indicator,
+body:not(.permanently-show-collapse-indicators) h5:not(:hover) div:not(.is-collapsed) > .collapse-indicator,
+body:not(.permanently-show-collapse-indicators) h6:not(:hover) div:not(.is-collapsed) > .collapse-indicator,
+body:not(.permanently-show-collapse-indicators) .cm-line:not(:hover):not(.cm-active) div:not(.is-collapsed) > .collapse-indicator {
+	opacity: 0;
 }
 
-.list-collapse-indicator.collapse-indicator {
-	padding-left: 0;
-}
-
-.frontmatter-collapse-indicator .right-triangle {
-}
-
-/* edit mode */
+.mod-cm6 + .markdown-reading-view .collapse-indicator svg,
 .cm-s-obsidian.mod-cm6 .collapse-indicator .right-triangle {
+	height: 0.65rem;
+	width: 0.65rem;
+}
+
+/* line numbers moved to allow for more space for collapse indicators */
+.cm-gutter.cm-lineNumbers {
+	margin-right: 4px;
 }
 
 /* hover / collapse colors, applies to edit & preview */
 .collapse-indicator:hover svg {
 	color: var(--alt-accent-lighter);
-	cursor: pointer;
-}
-
-.is-collapsed .collapse-indicator svg {
-	color: var(--accent-lighter);
-}
-
-/* fix for gutter color @SlRvb */
-.markdown-source-view.mod-cm6 .cm-gutters,
-.CodeMirror-foldgutter {
-	background-color: transparent !important;
 }
 
 /* CM6/CM5: the "..." when content is folded */
@@ -3818,6 +3828,10 @@ body:not(.show-fold-marker) .CodeMirror-foldmarker {
 .CodeMirror-linenumbers {
 	padding-top: 2px;
 	padding-right: 2px;
+}
+
+.CodeMirror-foldgutter {
+	background-color: transparent !important;
 }
 
 /* CM5: collapse indicator positioning */
@@ -3964,7 +3978,7 @@ body:not(.left-aligned-embeds) div.mermaid {
 /* bugfix for mermaid font */
 .mermaid {
 	font-size: 0.9em;
-	--mermaid-font: "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif; /* stylelint-disable-line max-line-length */
+	--mermaid-font: var(--original-font);
 }
 
 /* ───────────────────────────────────────────────────
@@ -4198,12 +4212,17 @@ body .cm-s-obsidian .cm-header,
 	padding-right: 6px;
 }
 
-.is-live-preview .cm-line:not(.cm-active) .cm-header-1::BEFORE { content: "H1"; }
-.is-live-preview .cm-line:not(.cm-active) .cm-header-2::BEFORE { content: "H2"; }
-.is-live-preview .cm-line:not(.cm-active) .cm-header-3::BEFORE { content: "H3"; }
-.is-live-preview .cm-line:not(.cm-active) .cm-header-4::BEFORE { content: "H4"; }
-.is-live-preview .cm-line:not(.cm-active) .cm-header-5::BEFORE { content: "H5"; }
-.is-live-preview .cm-line:not(.cm-active) .cm-header-6::BEFORE { content: "H6"; }
+/* only first header gets the prefix */
+.cm-header + .cm-header::BEFORE {
+	display: none;
+}
+
+.is-live-preview .cm-header-1::BEFORE { content: "H1" }
+.is-live-preview .cm-header-2::BEFORE { content: "H2" }
+.is-live-preview .cm-header-3::BEFORE { content: "H3" }
+.is-live-preview .cm-header-4::BEFORE { content: "H4" }
+.is-live-preview .cm-header-5::BEFORE { content: "H5" }
+.is-live-preview .cm-header-6::BEFORE { content: "H6" }
 
 /* Alternation between italic & different font style
 for all headings to improve distinctiveness */
@@ -4223,7 +4242,7 @@ body:not(.no-alternating-header-italics) .markdown-preview-view h6 {
 .HyperMD-quote.CodeMirror-line,
 body .markdown-preview-view blockquote,
 .app-container .cm-s-obsidian .cm-line.HyperMD-quote {
-	border-left: 15px solid var(--basic-border-color);
+	border-left: 10px solid var(--basic-border-color);
 }
 
 .markdown-preview-view blockquote,
@@ -4553,7 +4572,7 @@ body .markdown-preview-view pre {
 
 /* border on top created like this, since the
 ::after element cannot be moved on a border */
-/* needs CM6 as condition,since every line in
+/* needs CM6 as condition, since every line in
 CM5 has the "pre" type */
 .mod-cm6 + .markdown-reading-view pre[class*="language-"]::BEFORE {
 	display: block;
@@ -4686,24 +4705,16 @@ pre[class~="language-as"]::AFTER { content: "AppleScript"; }
 ─────────────────────────────────────────────────── */
 
 /* less indention to save space */
-body:not(.no-ul-relationship-lines) .markdown-preview-view > div > div > ol,
-body:not(.no-ul-relationship-lines) .markdown-preview-view > div > div > ul {
-	padding-left: 27px;
+.markdown-preview-view > div > div > ol,
+.markdown-preview-view > div > div > ul {
+	padding-left: 1rem;
 }
 
-/* fix indention */
-.is-live-preview.mod-cm6 .list-bullet {
-	padding-right: 5px;
-}
-
-/* .markdown-source-view.mod-cm6 .cm-content .list-bullet {
-		color: transparent;
-}
-.markdown-source-view.mod-cm6 .cm-content .list-bullet::before {
+/* .mod-cm6 .cm-content .list-bullet::after {
 		color: var(--text-normal);
 		content: "⦿";
-}
- */
+} */
+
 /* ───────────────────────────────────────────────────
 << Bullet Point Relationship Lines
 ─────────────────────────────────────────────────── */
@@ -4711,17 +4722,7 @@ body:not(.no-ul-relationship-lines) .markdown-preview-view > div > div > ul {
 /* https://github.com/vslinko/obsidian-outliner/blob/main/styles.css */
 
 /* Edit Mode */
-body:not(.no-ul-relationship-lines) .cm-s-obsidian .HyperMD-list-line {
-	padding-top: 0.2em;
-	overflow: hidden;
-}
-
-body:not(.no-ul-relationship-lines) .cm-hmd-list-indent {
-	position: relative;
-}
-
 body { /* stylelint-disable-line no-duplicate-selectors */
-	/* default size for iA Writer Quattro */
 	--indention-size: 3.05ch;
 	--relationship-line-color: var(--text-faint);
 }
@@ -4732,6 +4733,15 @@ body { /* stylelint-disable-line no-duplicate-selectors */
 
 .relationship-line-fix-proportional {
 	--indention-size: 1.8ch;
+}
+
+body:not(.no-ul-relationship-lines) .cm-s-obsidian .HyperMD-list-line {
+	padding-top: 0.2em;
+	overflow-y: clip;
+}
+
+body:not(.no-ul-relationship-lines) .cm-hmd-list-indent {
+	position: relative;
 }
 
 body:not(.no-ul-relationship-lines) .cm-line .cm-hmd-list-indent::BEFORE,
@@ -5668,7 +5678,6 @@ body:not(.no-file-explorer-icons) .nav-folder.is-collapsed .nav-folder-title[dat
 	content: "attach_file";
 }
 
-body:not(.no-file-explorer-icons) .nav-folder-title[data-path*="old"] .nav-folder-title-content::BEFORE,
 body:not(.no-file-explorer-icons) .nav-folder-title[data-path*="Archiv"] .nav-folder-title-content::BEFORE,
 body:not(.no-file-explorer-icons) .nav-folder-title[data-path*="archive"] .nav-folder-title-content::BEFORE {
 	content: "inventory_2";
@@ -8596,7 +8605,7 @@ settings:
 	 default: false
 	-
 	 id: show-urls
-	 title: 'Source Mode: Permanently show full URLs (new Editor only)'
+	 title: 'Permanently show full URLs (new Editor Source Mode only)'
 	 type: class-toggle
 	 description: In Source Mode, URLs on non-active lines will are folded (Obsidian 0.13+ only). Enable this to permanently show the full URL.
 	 default: false
@@ -8613,16 +8622,28 @@ settings:
 	 description: When false, only the scroll bars in the Editor are shown.
 	 default: false
 	-
+	 id: permanently-show-collapse-indicators
+	 title: Permanently show the Collapse Arrows
+	 description: When false, collapse arrows only become visible when hovered or in the active line.
+	 type: class-toggle
+	 default: false
+	-
 	 id: show-fold-marker
 	 title: Re-enable the Fold Markers
-	 type: class-toggle
 	 description: Fold markers are the ellipses ("...") next to a folded/collapsed item.
+	 type: class-toggle
+	 default: false
+	-
+	 id: show-all-line-numbers
+	 title: Show all line numbers
+	 description: "When 'Show line number' is enabled in the settings, all line numbers will be shown. When false, only the line numbers of the active and hovered line will be shown."
+	 type: class-toggle
 	 default: false
 	-
 	 id: show-graph-controls
 	 title: Permanently show the Graph Controls
-	 type: class-toggle
 	 description: When false, graph controls are still visible when open, or upon hovering the top-left area.
+	 type: class-toggle
 	 default: false
 	-
 	 id: show-starred-nav-buttons
@@ -8755,8 +8776,8 @@ settings:
 	 default: false
 	-
 	 id: font-settings
-	 title: Font & Text
-	 description: Font Sizes, Font Faces, Kerning, Alignment
+	 title: Typography
+	 description: Font, Headings, Blockquotes, Font Sizes, Headings, Letter Spacing, Alignment
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -8924,28 +8945,11 @@ settings:
 	 format: em
 	-
 	 id: content-settings
-	 title: Views & Content
-	 description: Max View, Focus View, Images, PDFs, Active & Focused Line Highlight ⚡️
+	 title: Views & Media
+	 description: Max View, Focus View, Images, PDFs
 	 type: heading
 	 level: 2
 	 collapsed: true
-	-
-	 id: active-line-highlight
-	 title: ⚡️ Active Line Highlight
-	 description: '"Focused Highlight" will only emphasize the active line instead of the active block, similar to Code Editors. ⚠️ However, this comes at the cost of disabling any form of horizontal scrolling in the editor. (Focused Highlight does not work in the Legacy Editor.)'
-	 type: class-select
-	 allowEmpty: false
-	 default: active-block-highlight
-	 options:
-	 -
-		label: Default Line Highlight
-		value: active-block-highlight
-	 -
-		label: Focused Highlight
-		value: focused-highlight
-	 -
-		label: No Highlight
-		value: no-active-highlight
 	-
 	 id: max-view-enabled
 	 title: 'Enable "Max View"'
@@ -8997,60 +9001,46 @@ settings:
 	 type: class-toggle
 	 default: false
 	-
-	 id: spellcheck-settings
-	 title: Spellcheck (deprecated)
-	 description: Legacy Editor only
+	 id: gutter-features
+	 title: 🆕 Gutter & Active Line
+	 description: Active & Focused Line Highlight, Footnote Indicators
 	 type: heading
 	 level: 2
 	 collapsed: true
 	-
-	 id: classic-spellcheck-styling
-	 title: Use Classic Spellcheck Styling
-	 description: Turns off the spellcheck styling of this theme and use the classic spellcheck styling.
-	 type: class-toggle
-	 default: false
+	 id: active-line-highlight
+	 title: ⚡️ Active Line Highlight
+	 description: '"Focused Highlight" will only emphasize the active line instead of the active paragraph (block), similar to Code Editors. ⚠️ However, this comes at the cost of disabling any form of horizontal scrolling in the editor. (Focused Highlight does not work in the Legacy Editor.)'
+	 type: class-select
+	 allowEmpty: false
+	 default: active-block-highlight
+	 options:
+	 -
+		label: Default Line Highlight
+		value: active-block-highlight
+	 -
+		label: 🚧 Focused Highlight
+		value: focused-highlight
+	 -
+		label: No Highlight
+		value: no-active-highlight
 	-
-	 id: no-yaml-spellcheck
-	 title: No Spellcheck in YAML Header
-	 description: Turn off Spellcheck in YAML Header.
-	 type: class-toggle
-	 default: false
-	-
-	 id: no-blockquote-spellcheck
-	 title: No Spellcheck in Blockquotes
-	 description: Turn off Spellcheck in Blockquotes.
-	 type: class-toggle
-	 default: false
-	-
-	 id: no-html-spellcheck
-	 title: No Spellcheck for HTML Tags
-	 description: Turn off Spellcheck in HTML Tags (e.g. <br/> not marked)
-	 type: class-toggle
-	 default: false
-	-
-	 id: no-header-spellcheck
-	 title: No Spellcheck in Headers
-	 description: Turn off Spellcheck in all headings.
-	 type: class-toggle
-	 default: false
-	-
-	 id: no-strikethrough-spellcheck
-	 title: No Spellcheck in Strikethroughs
-	 description: Turn off Spellcheck in any text enclosed by the strikethrough syntax (~~foobar~~).
-	 type: class-toggle
-	 default: false
-	-
-	 id: no-comment-spellcheck
-	 title: No Spellcheck in Comments
-	 description: Turn off Spellcheck in comments (%%comments%% as well as <!--comments-->).
-	 type: class-toggle
-	 default: false
-	-
-	 id: no-barelink-spellcheck
-	 title: No Spellcheck in Pandoc Citations
-	 description: Turn off Spellcheck in Pandoc Citations (Bare Links).
-	 type: class-toggle
-	 default: false
+	 id: footnote-gutter
+	 title: "⦿ Footnote Indicator"
+	 description: Displays a small indicator in the gutter when a footnote is present. (Note that the numbered indicator does not count properly footnotes on the same line.)
+	 type: class-select
+	 allowEmpty: false
+	 default: simple-fn-indicator
+	 options:
+	 -
+		label: Default Footnote Indicator
+		value: simple-fn-indicator
+	 -
+		label: 🚧 Numbered Footnote Indicator
+		value: numbered-fn-indicator
+	 -
+		label: No Footnote Indicator
+		value: no-fn-indicator
 	-
 	 id: mobile
 	 title: Mobile
@@ -9089,7 +9079,7 @@ settings:
 	-
 	 id: popover-size
 	 title: 'Page Preview: Size'
-	 description: Width & Height of Page Previews (Popovers) in px. (Note that this means a quadratic growth of the preview size.)
+	 description: Width & Height of Page Previews (Popovers) in px. (Note that this setting means a quadratic growth of the preview size.)
 	 type: variable-number-slider
 	 default: 350
 	 min: 200
@@ -9166,29 +9156,18 @@ settings:
 	 hub: ignore
 	 default: false
 	-
-	 id: academic-features
-	 title: Academic Work
-	 description: Pandoc Citations, Annotation Tags, Footnote Indicators
+	 id: miscellaneous
+	 title: Miscellaneous
+	 description: File Name Trimming, Pandoc Citations, Annotation Tags, Alternating Row Colors, Relationship Lines
 	 type: heading
 	 level: 2
 	 collapsed: true
 	-
-	 id: footnote-gutter
-	 title: 🆕 Footnote Indicator
-	 description: Displays a small indicator in the gutter when a footnote is present. (Note that the numbered indicator does not count properly footnotes on the same line.)
-	 type: class-select
-	 allowEmpty: false
-	 default: simple-fn-indicator
-	 options:
-	 -
-		label: Default Footnote Indicator
-		value: simple-fn-indicator
-	 -
-		label: 🚧 Numbered Footnote Indicator
-		value: numbered-fn-indicator
-	 -
-		label: No Footnote Indicator
-		value: no-fn-indicator
+	 id: trim-long-filenames
+	 title: 'Sidebar: Trim File Names'
+	 description: When enabled long filenames will be trimmed. When disabled, long filenames will be wrapped to the next line. Affects most, but not all side bar plugin.
+	 type: class-toggle
+	 default: false
 	-
 	 id: no-pandoc-citation-emphasis
 	 title: No Emphasis of Pandoc Citations
@@ -9202,19 +9181,6 @@ settings:
 	 type: class-toggle
 	 default: false
 	-
-	 id: miscellaneous
-	 title: Miscellaneous
-	 description: File Name Trimming, Alternating Row Colors, Relationship Lines
-	 type: heading
-	 level: 2
-	 collapsed: true
-	-
-	 id: trim-long-filenames
-	 title: 'Sidebar: Trim File Names'
-	 description: When enabled long filenames will be trimmed. When disabled, long filenames will be wrapped to the next line.
-	 type: class-toggle
-	 default: false
-	-
 	 id: no-alternating-rows
 	 title: Turn off Alternating Row Coloring
 	 type: class-toggle
@@ -9225,6 +9191,61 @@ settings:
 	 description: If you want to use a custom relationship line snippet or the relationship lines from the Outliner plugin, you can disable this theme's relationship lines to prevent interference.
 	 type: class-toggle
 	 hub: ignore
+	 default: false
+	-
+	 id: spellcheck-settings
+	 title: Spellcheck (deprecated)
+	 description: Legacy Editor only
+	 type: heading
+	 level: 2
+	 collapsed: true
+	-
+	 id: classic-spellcheck-styling
+	 title: Use Classic Spellcheck Styling
+	 description: Turns off the spellcheck styling of this theme and use the classic spellcheck styling.
+	 type: class-toggle
+	 default: false
+	-
+	 id: no-yaml-spellcheck
+	 title: No Spellcheck in YAML Header
+	 description: Turn off Spellcheck in YAML Header.
+	 type: class-toggle
+	 default: false
+	-
+	 id: no-blockquote-spellcheck
+	 title: No Spellcheck in Blockquotes
+	 description: Turn off Spellcheck in Blockquotes.
+	 type: class-toggle
+	 default: false
+	-
+	 id: no-html-spellcheck
+	 title: No Spellcheck for HTML Tags
+	 description: Turn off Spellcheck in HTML Tags (e.g. <br/> not marked)
+	 type: class-toggle
+	 default: false
+	-
+	 id: no-header-spellcheck
+	 title: No Spellcheck in Headers
+	 description: Turn off Spellcheck in all headings.
+	 type: class-toggle
+	 default: false
+	-
+	 id: no-strikethrough-spellcheck
+	 title: No Spellcheck in Strikethroughs
+	 description: Turn off Spellcheck in any text enclosed by the strikethrough syntax (~~foobar~~).
+	 type: class-toggle
+	 default: false
+	-
+	 id: no-comment-spellcheck
+	 title: No Spellcheck in Comments
+	 description: Turn off Spellcheck in comments (%%comments%% as well as <!--comments-->).
+	 type: class-toggle
+	 default: false
+	-
+	 id: no-barelink-spellcheck
+	 title: No Spellcheck in Pandoc Citations
+	 description: Turn off Spellcheck in Pandoc Citations (Bare Links).
+	 type: class-toggle
 	 default: false
 */
 /* ─────────────────────────────────────────────────── */

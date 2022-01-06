@@ -24,7 +24,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Dosha]] 
 	- [[Kapha]] like water
 		- very thoughtful before they act
-		- large body's and slower [[metabolism]]
+		- large [[body]]'s and slower [[metabolism]]
 		- under stress: [[depression]], [[sadness]]
 	- [[Pitta]] like fire
 		- driven viscious,

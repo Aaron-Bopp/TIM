@@ -3,9 +3,9 @@ created: 2022-01-02T08:55:52
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-07
+sr-due: 2022-01-08
 sr-interval: 2
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[Meditation increases our ability to influence the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

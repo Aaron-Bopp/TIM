@@ -3,13 +3,14 @@ created: 2021-06-25
 tags: created/evergreen/2021/06/25, node/evergreen
 aliases:
   - null
-sr-due: 2022-01-06
-sr-interval: 6
+sr-due: 2022-01-17
+sr-interval: 11
 sr-ease: 165
 ---
 
 #### [[We carry our childhood wounds into adulthood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/EXPLORE/WATCH #TO/PONDER/CONCEPT these videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0m8iATgqzcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DUkpWgcR8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

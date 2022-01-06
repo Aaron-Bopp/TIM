@@ -3,8 +3,8 @@ created: 2022-01-02T09:05:50
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-06
-sr-interval: 2
+sr-due: 2022-01-10
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -15,11 +15,15 @@ sr-ease: 210
 
 These systems impact the entire [[mind-body complex]] which can get you out of your [[fight-or-flight response]], and many other things: [[Meditation improves mental, physical, and emotional health]]
 
+- [[Our brains are built around survival]] 
+	- [[Social anxiety isn't irrational it's just overcompensation]]
+		- You shouldn't be having to deal with [[Cortisol]] and [[Adrenaline]] just going to school and talking to people
+
  
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mind-body complex]], [[mental health]], [[meditation]]

@@ -2,7 +2,7 @@
   "token": "TJA3wfWPb3eWRM5UeHz9dQju11tWTEqHI5fzWFqUyqyQvQFEry",
   "readwiseDir": "10_Sources/Readwise",
   "frequency": "0",
-  "triggerOnLoad": true,
+  "triggerOnLoad": false,
   "isSyncing": false,
   "lastSyncFailed": false,
   "lastSavedStatusID": 2534712,

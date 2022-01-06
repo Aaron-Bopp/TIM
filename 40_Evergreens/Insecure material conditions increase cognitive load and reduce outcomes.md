@@ -3,8 +3,8 @@ created: 2021-05-31
 aliases:
   - Sterotype threat increases cognitive load and reduces outcomes
 tags: created/evergreen/2021/05/31, node/evergreen
-sr-due: 2022-01-06
-sr-interval: 29
+sr-due: 2022-03-08
+sr-interval: 61
 sr-ease: 205
 ---
 
@@ -18,7 +18,7 @@ Anxiety is a feeling of worry, nervousness, or unease about something with an un
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[socialization]], [[social construct]], [[stereotype threat]]

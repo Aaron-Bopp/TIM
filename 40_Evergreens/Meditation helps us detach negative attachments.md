@@ -10,15 +10,12 @@ sr-ease: 170
 
 #### [[Meditation helps us detach negative attachments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-The [[Association Cortices]] are what make the attachments that we use to survive
-^[[[Humans are a product of evolution]]]
-but they do that by lodging [[emotions]] in our [[subconscious]] called [[Samskara]].
-If those attachments are left unchecked it can lead to very bad things 
-^[[[We carry our childhood wounds into adulthood]]]
-but [[meditation]] allows us to gain [[control]] over our [[subconscious]] and [[detachment]] from those [[emotions]].
+[[brain emo]]
+[[We carry our childhood wounds into adulthood]] because of 
+[[How memory works]] and [[Rationalizations are defense-mechanisms against strong emotions]].
+[[Our ego is our subconscious defense of our self]] and will create [[rationalizations]] to prevent us from accessing and healing our [[Samskara]]. 
 
 [[Consciousness is our capacity to introspect]] and [[Meditation is a practice to develop a stronger conscious]]. 
-[[Our ego is our subconscious defense of our self]] and will create [[rationalizations]] to prevent us from accessing and healing our [[Samskara]]. 
 We can get past the [[ego]] by calming our [[mind]] and directly accessing our [[unconscious]].
 
 ![[Pasted image 20211231162422.png]]

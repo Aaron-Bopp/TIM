@@ -31,7 +31,7 @@ tags: created/source/2021/12/30, node/source/notes
 		- distractions can be bring us to the present
 		- [[meditation]] trains your mind to come back to the present
 - Why is [[anxiety]] on the rise?
-	- we think of [[anxiety]] as purely mental, but we have ignored the body
+	- we think of [[anxiety]] as purely mental, but we have ignored the [[body]]
 - [[Cognitive Anxiety]] is a learned [[behavior]] from [[childhood]] [[Children make wide assumptions about the world]]
 - [[Physiologic Anxiety]]
 	- produces [[Adrenaline]] which makes our [[brain]] think in black and white
