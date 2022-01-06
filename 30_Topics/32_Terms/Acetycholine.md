@@ -6,7 +6,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-A [[Neurotransmitter]] that plays a major role in the parasympathetic nervous system for muscle contraction.
+A [[Neurotransmitter]] that plays a major role in the [[parasympathetic nervous system]] for muscle contraction.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::

@@ -37,7 +37,7 @@
 2. Microinsult - black people don't try to fit in with american culture that's why blacks and whites don't get along
 3. Microinvalidation - Oh you're from [[Palestine]]? do you mean [[Israel]]?
 > **b.)** In your own words, explain the difference between a *microaggression* and "regular" forms of prejudice and discrimination. **(2 pts)**
-- Microaggressions do not explicitely state bigotry, rather they imply it by ignoring systemic racism, steretyping the [[marginalized]] group, or disrespecting their culture. Prejudice and [[discrimination]] take the attitudes that fuel microaggressions and turn them into discriminatory action.
+- Microaggressions do not explicitely state bigotry, rather they imply it by ignoring systemic racism, steretyping the [[marginalization|marginalized]] group, or disrespecting their culture. Prejudice and [[discrimination]] take the attitudes that fuel microaggressions and turn them into discriminatory action.
 
 	**Dovidio et al. (2017) -- Reducing Intergroup Bias through Intergroup Contact**
 

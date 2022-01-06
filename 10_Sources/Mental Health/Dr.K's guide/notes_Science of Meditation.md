@@ -33,7 +33,7 @@ type:
 	- [[Eustress]] is the perfect amount of [[stress]] to bring out our best stress
 		- [[flow state]] is the state of optimal activity (good [[hormone|hormonal]] balance)
 #### [[Meditation helps us regulate our nervous system]]
-- [[Autonomic Nervous System (ANS)]]
+- [[ANS]]
 	- Yin and yang is an ancient study of the body
 		- there are times when our body is prepped and ready to go and times when our body is relaxed
 	- [[Sympathetic Nervous System]]
@@ -43,7 +43,7 @@ type:
 		- Blood goes away from limbs to our stomach
 		- decreases [[blood flow]] to certain parts of our brain
 		- causes food coma
-	- [[meditation]] can regulate the [[Autonomic Nervous System (ANS)]] be activating the [[Sympathetic Nervous System]] or [[Parasympathetic Nervous System]]
+	- [[meditation]] can regulate the [[ANS]] be activating the [[Sympathetic Nervous System]] or [[Parasympathetic Nervous System]]
 		- [[Dual Nostril Breathing Meditation]] either nostril will affect either the [[Sympathetic Nervous System]] or [[Parasympathetic Nervous System]]
 #### [[Meditation helps us gain control over our emotions]]
 - Maturity is governed by the [[Frontal Lobe]] 

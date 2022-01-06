@@ -4,7 +4,6 @@ tags: created/topic/2021/10/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-
 A generalized feeling towards a group or a member of group  [^1]
 
 **See**:: [[prejudice]], [[discrimination]], [[Psychology]]
@@ -14,4 +13,3 @@ A generalized feeling towards a group or a member of group  [^1]
 
 %% DO NOT EDIT ABOVE %%
 [^1]: [[course_Psychology of Race and Gender]]
-

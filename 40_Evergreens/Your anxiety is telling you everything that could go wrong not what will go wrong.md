@@ -34,7 +34,7 @@ In modern society, our [[anxiety]] can seem like a irrational response, but it i
 
 #TO/EXPLORE/RESEARCH is there a threshold where so many of you [[Hierarchy of needs]] are met that you have no choice but to fall into [[existential dread]]
 
-#TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[OCD]]?
+#TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[30_Topics/31_Stubs/OCD]]?
 %%
 
 [[Your anxiety knows your insecurities better than you do]].

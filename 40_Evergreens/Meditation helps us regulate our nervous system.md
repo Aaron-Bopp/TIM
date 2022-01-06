@@ -10,7 +10,7 @@ sr-ease: 210
 
 #### [[Meditation helps us regulate our nervous system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Meditation]] can regulate the [[Autonomic Nervous System (ANS)]] by activating the [[Sympathetic Nervous System]] or [[Parasympathetic Nervous System]] to keep them in balance.
+[[Meditation]] can regulate the [[ANS]] by activating the [[Sympathetic Nervous System]] or [[Parasympathetic Nervous System]] to keep them in balance.
 ^[[[notes_Science of Meditation#Meditation helps us regulate our nervous system]]]
 
 These systems impact the entire [[mind-body complex]] which can get you out of your [[fight-or-flight response]], and many other things: [[Meditation improves mental, physical, and emotional health]]

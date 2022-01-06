@@ -734,7 +734,7 @@ highlight_tags:: [[christianity]]
 
   
 %%
-highlight_tags:: [[marginalized]]
+highlight_tags:: [[marginalization]]
 %%###### ^264301406q
 > this habit of thought is very convenient for students of Western literature, themselves trained in Cicero and Erasmus, who might otherwise be forced to actually try to learn something about what indigenous people thought about the world, and above all what they made of Europeans. 
   [^264301406]

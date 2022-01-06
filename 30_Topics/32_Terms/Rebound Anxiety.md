@@ -6,7 +6,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Return of anxiety symptoms after an anxiolytic substance (eg. medication, alcohol, etc) wears off
+Return of [[anxiety]] symptoms after an anxiolytic substance (eg. medication, alcohol, etc) wears off
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::

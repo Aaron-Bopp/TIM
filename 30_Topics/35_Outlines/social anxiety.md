@@ -28,7 +28,7 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 		- [[There aren't any downsides to working through trauma]]
 - Comorbid
 	- General [[anxiety]]
-	- worsened by [[OCD]]
+	- worsened by [[30_Topics/31_Stubs/OCD]]
 	- [[depression]]
 
 

@@ -14,7 +14,7 @@ aliases:
 
 %% DO NOT EDIT ABOVE %%
 ##### [[mental illness]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- [[OCD]]
+- [[30_Topics/31_Stubs/OCD]]
 - [[ADHD]]
 - [[anxiety]]
 - [[social anxiety]]

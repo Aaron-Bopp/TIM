@@ -4,9 +4,9 @@ tags: created/topic/2021/10/23, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-experiencing pejudice/discrimination leads to high stress levels, causing negative mental and physical health outcomes [^1]
+experiencing [[prejudice]]/discrimination leads to high [[stress]] levels, causing negative mental and physical health outcomes [^1]
 
-**See**::
+**See**:: [[mental health]], [[racism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

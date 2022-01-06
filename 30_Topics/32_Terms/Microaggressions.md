@@ -2,13 +2,13 @@
 created: 2021-11-17 
 aliases:
   - null
-tags: created/topic/2021/11/17, node/topic/term
+tags: created/topic/2021/11/17, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 [^1]
 
-**See**::
+**See**:: [[marginalization]], [[racism]], [[bigotry]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

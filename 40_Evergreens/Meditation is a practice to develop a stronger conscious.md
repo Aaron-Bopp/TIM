@@ -19,7 +19,7 @@ Different styles of [[meditation]] will help us find the best way for our [[cons
 
 If we calm the [[conscious]] it will allow us to have closer connection to the [[subconscious]] which is why [[Meditation helps us detach negative attachments]]
 
-The method behind this is a calming of the [[Autonomic Nervous System (ANS)]]: [[Meditation helps us regulate our nervous system]]
+The method behind this is a calming of the [[ANS]]: [[Meditation helps us regulate our nervous system]]
 but on a much more [[spirituality|spiritual]] level we are interacting with the building blocks 
 ^[[[Brahman]]]
 of the [[universe]]:

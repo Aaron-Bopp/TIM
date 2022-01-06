@@ -4,9 +4,9 @@ aliases:
   - null
 tags: created/topic/2021/11/10, node/topic/term
 ---
-a more subtle form of sexism not involving explicit admission of sexist beliefs, i.e denial of sexism, complainst about "special treatment," endorsement of double-standards [^1]
+a more subtle form of sexism not involving explicit admission of sexist beliefs, i.e denial of [[sexism]], complainst about "special treatment," endorsement of double-standards [^1]
 
-**See**::
+**See**:: [[mysogyny]], [[women]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

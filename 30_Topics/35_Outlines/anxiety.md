@@ -34,7 +34,7 @@ Your body's natural response to stress. It's a feeling of fear or apprehension a
 	- Overthinking
 	- [[Agoraphobia]]
 - Comorbid conditions
-	- [[OCD]]
+	- [[30_Topics/31_Stubs/OCD]]
 	- [[depression]]
 	- [[ADHD]]
 - Causes

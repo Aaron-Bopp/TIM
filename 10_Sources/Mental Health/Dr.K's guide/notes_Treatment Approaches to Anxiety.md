@@ -14,7 +14,7 @@ tags: created/source/2021/12/30, node/source/notes
 
 #### Terms
 - [[Ayurveda]]
-- [[Serotonin Norepinephrine Reuptake Inhibitor (SNRI)]]
+- [[SNRI]]
 - [[Serotonin Reuptake Inhibitor (SRI)]]
 - [[Psychodynamic Therapy]]
 - [[CBT]]

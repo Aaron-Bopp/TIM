@@ -7,7 +7,7 @@ tags: created/topic/2021/10/13, node/topic/term
 
 [[Kernel Space]] only holds [[Inter Process Communication | IPC]], [[CPU]] scheduling and virtual memory while all other services run in user space using sockets and message passing to communicated [^1]
 
-**See**::
+**See**:: [[Operating Systems]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

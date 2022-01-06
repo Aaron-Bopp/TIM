@@ -13,6 +13,6 @@ tags: created/source/2021/12/30, node/source/notes
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/social-anxiety-disorder)
 
 #### Terms
-- [[Generalized Anxiety Disorder (GAD)]]
+- [[GAD]]
 - [[Social Anxiety Disorder (SAD)]]
 - [[Scrutiny]]

@@ -16,4 +16,4 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Separation Anxiety Disorder]]
 - [[Phobias]]
 - [[Exposure Therapy]]
-- [[Obsessive Compulsive Disorder (OCD)]]
+- [[30_Topics/32_Terms/OCD]]

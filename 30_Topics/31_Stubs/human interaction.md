@@ -1,7 +1,7 @@
 ---
 created: 2021-12-12 
 aliases:
-  - null
+  - social interaction
 tags: created/topic/2021/12/12, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

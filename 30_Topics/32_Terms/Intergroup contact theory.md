@@ -4,9 +4,9 @@ aliases:
   - null
 tags: created/topic/2021/12/01, node/topic/term
 ---
-Contact hypothesis: interacting with people from an outgroup, you hold [[prejudice]] toward will reduce your pejudice towrd the group as a while [^1]
+Contact hypothesis: interacting with people from an outgroup, you hold [[prejudice]] toward will reduce your [[prejudice]] toward the group as a while [^1]
 
-**See**::
+**See**:: [[racism]], [[marginalization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

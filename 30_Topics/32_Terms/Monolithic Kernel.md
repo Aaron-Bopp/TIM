@@ -5,9 +5,9 @@ tags: created/topic/2021/10/13, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 
-All kernil services ([[Virtual File System| VFS]], schedulers, device drivers) live in [[Kernel Space]] and share memory while communicated through the [[Application Binary Interface | ABI]] [^1]
+All kernel services ([[Virtual File System| VFS]], schedulers, device drivers) live in [[Kernel Space]] and share memory while communicated through the [[Application Binary Interface | ABI]] [^1]
 
-**See**::
+**See**:: [[Operating Systems]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
