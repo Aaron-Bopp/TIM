@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 It is the vital life-force energy according to Chinese traditional medicine and martial arts.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[Pranamaya Kosha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

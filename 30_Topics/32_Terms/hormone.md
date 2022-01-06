@@ -3,7 +3,7 @@ created: 2021-12-30
 aliases:
   - hormones
   - hormonal
-tags: created/topic/2021/12/30, node/topic/term
+tags: created/topic/2021/12/30, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

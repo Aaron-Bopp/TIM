@@ -11,7 +11,7 @@ tags: created/topic/2021/12/29, node/topic/term
 form [[psychotherapy]] that focuses on identifying inaccurate or negative thinking, so you can view challenging situations more clearly and respond to them in a more effective way.
  ^[[[notes_The Nature of Mind]]]
 
-**See**:: [[mindfulness]], [[Psychology]]
+**See**:: [[mindfulness]], [[Psychology]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

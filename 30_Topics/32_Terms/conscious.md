@@ -7,7 +7,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-If something is observing the action of mind, it must be outside the mind, this is consciousness. [[Sakshi Bhava]] or [[mindfulness]] is the capacity to observe this 
+If something is observing the action of [[mind]], it must be outside the mind, this is consciousness. [[Sakshi Bhava]] or [[mindfulness]] is the capacity to observe this 
 ^[[[notes_The Nature of Mind]]]
 
 [The Scientific Problem of Consciousness - YouTube](https://www.youtube.com/watch?v=CJhSSPO8Ulk)

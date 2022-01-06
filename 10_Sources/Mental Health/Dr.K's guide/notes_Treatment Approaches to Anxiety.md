@@ -18,7 +18,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Serotonin Reuptake Inhibitor (SRI)]]
 - [[Psychodynamic Therapy]]
 - [[CBT]]
-- [[Dialectical Behavioral Therapy (DBT)]]
+- [[DBT]]
 - [[Complementary and Alternative Medicine (CAM)]]
 - [[Benzodiazepines]]
 - [[GABA]]

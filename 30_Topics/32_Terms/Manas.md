@@ -6,7 +6,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The emotional aspect of our mind.
+The emotional aspect of our [[mind]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
 **See**::

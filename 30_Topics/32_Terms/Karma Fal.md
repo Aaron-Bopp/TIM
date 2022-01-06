@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 The idea that we are not entitled to the fruits of our actions, only our actions.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[karma]], [[Dharma]], [[Krishna]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

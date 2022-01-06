@@ -6,10 +6,10 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-Persistent depressive disorder that is a more chronic depression.
+Persistent depressive disorder that is a more chronic [[depression]].
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

@@ -4,9 +4,9 @@ tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-The tendency to anixously expect, readily perceive, and intensely react to rejection  [^1]
+The tendency to anxiously expect, readily perceive, and intensely react to rejection  [^1]
 
-**See**::
+**See**:: [[anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

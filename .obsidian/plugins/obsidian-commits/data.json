@@ -6448,7 +6448,7 @@
     "30_Topics/32_Terms/TERFS.md": {
       "size": 0,
       "tags": 2,
-      "links": 2
+      "links": 4
     },
     "40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md": {
       "size": 1843,
@@ -6508,7 +6508,7 @@
     "30_Topics/32_Terms/stub notes.md": {
       "size": 0,
       "tags": 2,
-      "links": 2
+      "links": 4
     },
     "40_Evergreens/Communities are knowledge graphs.md": {
       "size": 2797,
@@ -6753,17 +6753,17 @@
     "30_Topics/32_Terms/Alexithymia.md": {
       "size": 200,
       "tags": 2,
-      "links": 2
+      "links": 3
     },
     "30_Topics/32_Terms/capitalism.md": {
       "size": 159,
       "tags": 2,
-      "links": 0
+      "links": 2
     },
     "30_Topics/32_Terms/Channeling.md": {
       "size": 364,
       "tags": 2,
-      "links": 2
+      "links": 4
     },
     "30_Topics/32_Terms/cis.md": {
       "size": 273,
@@ -6831,19 +6831,19 @@
       "links": 1
     },
     "30_Topics/32_Terms/Social Learning Theory.md": {
-      "size": 429,
+      "size": 502,
       "tags": 2,
-      "links": 4
+      "links": 7
     },
     "30_Topics/32_Terms/supply-side economics.md": {
       "size": 537,
       "tags": 2,
-      "links": 3
+      "links": 4
     },
     "30_Topics/32_Terms/Term notes.md": {
-      "size": 610,
+      "size": 710,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Tiktok.md": {
       "size": 175,
@@ -6888,7 +6888,7 @@
     "30_Topics/32_Terms/BIPOC.md": {
       "size": 248,
       "tags": 2,
-      "links": 0
+      "links": 2
     },
     "30_Topics/32_Terms/Black Identity model.md": {
       "size": 220,
@@ -6898,7 +6898,7 @@
     "30_Topics/32_Terms/brain mosaic.md": {
       "size": 480,
       "tags": 2,
-      "links": 3
+      "links": 4
     },
     "30_Topics/32_Terms/Cortisol.md": {
       "size": 398,
@@ -6918,7 +6918,7 @@
     "30_Topics/32_Terms/depression.md": {
       "size": 175,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/discrimination.md": {
       "size": 324,
@@ -6928,7 +6928,7 @@
     "30_Topics/32_Terms/dissociation.md": {
       "size": 179,
       "tags": 2,
-      "links": 3
+      "links": 4
     },
     "30_Topics/32_Terms/Dyslexithymia.md": {
       "size": 203,
@@ -6983,7 +6983,7 @@
     "30_Topics/32_Terms/j-hat.md": {
       "size": 236,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Kernel Space.md": {
       "size": 537,
@@ -7088,12 +7088,7 @@
     "30_Topics/32_Terms/Rejection Sensitivity.md": {
       "size": 289,
       "tags": 2,
-      "links": 1
-    },
-    "30_Topics/32_Terms/self soothing.md": {
-      "size": 157,
-      "tags": 2,
-      "links": 0
+      "links": 2
     },
     "30_Topics/32_Terms/self-actualization.md": {
       "size": 232,
@@ -7125,15 +7120,10 @@
       "tags": 2,
       "links": 7
     },
-    "30_Topics/32_Terms/small government.md": {
-      "size": 173,
-      "tags": 2,
-      "links": 1
-    },
     "30_Topics/32_Terms/sociobiology.md": {
       "size": 341,
       "tags": 2,
-      "links": 2
+      "links": 3
     },
     "30_Topics/32_Terms/stereotype threat.md": {
       "size": 920,
@@ -7343,12 +7333,12 @@
     "30_Topics/32_Terms/ignorance.md": {
       "size": 128,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/index note.md": {
       "size": 349,
       "tags": 2,
-      "links": 4
+      "links": 5
     },
     "10_Sources/podcastINVCEL.md": {
       "size": 4712,
@@ -8258,7 +8248,7 @@
     "30_Topics/32_Terms/Sequential notes.md": {
       "size": 0,
       "tags": 2,
-      "links": 0
+      "links": 3
     },
     "40_Evergreens/Stereotyping has the psychological goal of comprehension and self-enhancement.md": {
       "size": 1296,
@@ -9628,7 +9618,7 @@
     "30_Topics/32_Terms/Brahmacharya.md": {
       "size": 320,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Brahmamuhurtha.md": {
       "size": 315,
@@ -9653,7 +9643,7 @@
     "30_Topics/32_Terms/Bupropion.md": {
       "size": 601,
       "tags": 2,
-      "links": 1
+      "links": 7
     },
     "30_Topics/32_Terms/Caffeine.md": {
       "size": 313,
@@ -9703,7 +9693,7 @@
     "30_Topics/32_Terms/Cytochrome P450 system (CYP450).md": {
       "size": 324,
       "tags": 2,
-      "links": 1
+      "links": 5
     },
     "30_Topics/32_Terms/Cytokines.md": {
       "size": 324,
@@ -9734,11 +9724,6 @@
       "size": 266,
       "tags": 2,
       "links": 7
-    },
-    "30_Topics/32_Terms/Dialectical Behavioral Therapy (DBT).md": {
-      "size": 385,
-      "tags": 2,
-      "links": 1
     },
     "30_Topics/32_Terms/Diaphoresis.md": {
       "size": 275,
@@ -9773,7 +9758,7 @@
     "30_Topics/32_Terms/Dx.md": {
       "size": 242,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Dysbiosis.md": {
       "size": 296,
@@ -9783,7 +9768,7 @@
     "30_Topics/32_Terms/Dysthymia.md": {
       "size": 273,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Eustress.md": {
       "size": 300,
@@ -9793,17 +9778,17 @@
     "30_Topics/32_Terms/Exposure Therapy.md": {
       "size": 392,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Fenugreek (Trigonella foenum-graecum).md": {
       "size": 558,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Flow State.md": {
-      "size": 572,
+      "size": 695,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Frontal Lobe.md": {
       "size": 770,
@@ -9813,7 +9798,7 @@
     "30_Topics/32_Terms/Galphimia (Galphimia glauca).md": {
       "size": 565,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/GI.md": {
       "size": 250,
@@ -9828,7 +9813,7 @@
     "30_Topics/32_Terms/Gotu kola (Centella asiatica).md": {
       "size": 366,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Grahastha Ashram.md": {
       "size": 528,
@@ -9883,7 +9868,7 @@
     "30_Topics/32_Terms/Karma Fal.md": {
       "size": 289,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Karma Yoga.md": {
       "size": 537,
@@ -9893,7 +9878,7 @@
     "30_Topics/32_Terms/Kava (Piper methysticum).md": {
       "size": 519,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Ketamine.md": {
       "size": 750,
@@ -9903,7 +9888,7 @@
     "30_Topics/32_Terms/Korean Ginseng.md": {
       "size": 803,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Kriya Yoga.md": {
       "size": 508,
@@ -9928,7 +9913,7 @@
     "30_Topics/32_Terms/Limbic System.md": {
       "size": 262,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Linguistic Cortex.md": {
       "size": 237,
@@ -9940,11 +9925,6 @@
       "tags": 2,
       "links": 6
     },
-    "30_Topics/32_Terms/Major Depressive Disorder (MDD).md": {
-      "size": 340,
-      "tags": 2,
-      "links": 2
-    },
     "30_Topics/32_Terms/Manas Padha.md": {
       "size": 280,
       "tags": 2,
@@ -9953,7 +9933,7 @@
     "30_Topics/32_Terms/Manas.md": {
       "size": 241,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Mania.md": {
       "size": 545,
@@ -9968,7 +9948,7 @@
     "30_Topics/32_Terms/Manomaya Kosha.md": {
       "size": 272,
       "tags": 2,
-      "links": 2
+      "links": 3
     },
     "30_Topics/32_Terms/Medial Prefrontal Cortex (mPFC).md": {
       "size": 289,
@@ -10008,7 +9988,7 @@
     "30_Topics/32_Terms/Mood Lability.md": {
       "size": 364,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Muladhara Chakra.md": {
       "size": 267,
@@ -10058,17 +10038,17 @@
     "30_Topics/32_Terms/Palpitations.md": {
       "size": 252,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Panchakosha.md": {
       "size": 310,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Panic Disorder.md": {
       "size": 380,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Parkinson's Disease.md": {
       "size": 538,
@@ -10078,7 +10058,7 @@
     "30_Topics/32_Terms/Passionflower (Passiflora incarnata).md": {
       "size": 510,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Peristalsis.md": {
       "size": 293,
@@ -10088,7 +10068,7 @@
     "30_Topics/32_Terms/Personality Disorder.md": {
       "size": 339,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Phobias.md": {
       "size": 254,
@@ -10103,7 +10083,7 @@
     "30_Topics/32_Terms/Pineal Gland.md": {
       "size": 613,
       "tags": 2,
-      "links": 5
+      "links": 6
     },
     "30_Topics/32_Terms/Pitta.md": {
       "size": 287,
@@ -10118,22 +10098,22 @@
     "30_Topics/32_Terms/Prakruti.md": {
       "size": 256,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Prana.md": {
       "size": 305,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Pranamaya Kosha.md": {
       "size": 298,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Pranayama.md": {
       "size": 509,
       "tags": 2,
-      "links": 6
+      "links": 7
     },
     "30_Topics/32_Terms/Pratyahara.md": {
       "size": 352,
@@ -10148,12 +10128,12 @@
     "30_Topics/32_Terms/Psychodynamic Therapy.md": {
       "size": 381,
       "tags": 2,
-      "links": 1
+      "links": 6
     },
     "30_Topics/32_Terms/Psychosis.md": {
       "size": 581,
       "tags": 2,
-      "links": 1
+      "links": 7
     },
     "30_Topics/32_Terms/Psychotherapy.md": {
       "size": 547,
@@ -10168,7 +10148,7 @@
     "30_Topics/32_Terms/Qi.md": {
       "size": 301,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Raga.md": {
       "size": 268,
@@ -10183,7 +10163,7 @@
     "30_Topics/32_Terms/Rebound Anxiety.md": {
       "size": 305,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Reticular Activating Formation (RAF).md": {
       "size": 297,
@@ -10193,12 +10173,12 @@
     "30_Topics/32_Terms/Rose Root (Rhodiola rosea).md": {
       "size": 589,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Saffron.md": {
       "size": 603,
       "tags": 2,
-      "links": 1
+      "links": 6
     },
     "30_Topics/32_Terms/Sahasrara Chakra.md": {
       "size": 307,
@@ -10223,7 +10203,7 @@
     "30_Topics/32_Terms/Sankalpa.md": {
       "size": 316,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Sannyasa Ashram.md": {
       "size": 533,
@@ -10233,7 +10213,7 @@
     "30_Topics/32_Terms/Sanskrit.md": {
       "size": 268,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Santosha.md": {
       "size": 243,
@@ -10250,15 +10230,10 @@
       "tags": 2,
       "links": 1
     },
-    "30_Topics/32_Terms/Selective Serotonin Reuptake Inhibitor (SSRI).md": {
-      "size": 394,
-      "tags": 2,
-      "links": 1
-    },
     "30_Topics/32_Terms/Separation Anxiety Disorder.md": {
       "size": 283,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Serotonin Reuptake Inhibitor (SRI).md": {
       "size": 402,
@@ -10266,9 +10241,9 @@
       "links": 1
     },
     "30_Topics/32_Terms/Serotonin Syndrome.md": {
-      "size": 545,
+      "size": 632,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Serotonin.md": {
       "size": 621,
@@ -10293,12 +10268,12 @@
     "30_Topics/32_Terms/Social Anxiety Disorder (SAD).md": {
       "size": 677,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/St. John's Wort (Hypericum perforatum).md": {
-      "size": 647,
+      "size": 746,
       "tags": 2,
-      "links": 1
+      "links": 6
     },
     "30_Topics/32_Terms/Sukkha Padha.md": {
       "size": 293,
@@ -10308,7 +10283,7 @@
     "30_Topics/32_Terms/Surya Namaskar.md": {
       "size": 274,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Swadhisthana Chakra.md": {
       "size": 291,
@@ -10351,24 +10326,24 @@
       "links": 5
     },
     "30_Topics/32_Terms/Traditional Chinese Medicine (TCM).md": {
-      "size": 610,
+      "size": 710,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Trataka.md": {
       "size": 343,
       "tags": 2,
-      "links": 2
+      "links": 3
     },
     "30_Topics/32_Terms/Turmeric.md": {
       "size": 687,
       "tags": 2,
-      "links": 1
+      "links": 3
     },
     "30_Topics/32_Terms/Tx.md": {
       "size": 242,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Vagus Nerve.md": {
       "size": 501,
@@ -10398,7 +10373,7 @@
     "30_Topics/32_Terms/Vedic Psychology.md": {
       "size": 254,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "30_Topics/32_Terms/Ventral Medial Prefrontal Cortex.md": {
       "size": 399,
@@ -10413,7 +10388,7 @@
     "30_Topics/32_Terms/Vijnanamaya Kosha.md": {
       "size": 317,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Vikruti.md": {
       "size": 286,
@@ -10443,12 +10418,12 @@
     "30_Topics/32_Terms/Yoga Nidra.md": {
       "size": 293,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Yogi.md": {
       "size": 231,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "30_Topics/32_Terms/Depersonalization.md": {
       "size": 269,
@@ -11013,7 +10988,7 @@
     "30_Topics/32_Terms/CBT.md": {
       "size": 536,
       "tags": 2,
-      "links": 4
+      "links": 5
     },
     "30_Topics/31_Stubs/detachment.md": {
       "size": 0,
@@ -11151,7 +11126,7 @@
       "links": 8
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_General Treatment Principles.md": {
-      "size": 707,
+      "size": 587,
       "tags": 2,
       "links": 15
     },
@@ -11858,7 +11833,7 @@
     "30_Topics/32_Terms/DSM.md": {
       "size": 522,
       "tags": 2,
-      "links": 2
+      "links": 3
     },
     "30_Topics/31_Stubs/self-awareness.md": {
       "size": 0,
@@ -12257,7 +12232,7 @@
     },
     "30_Topics/31_Stubs/herb.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "30_Topics/31_Stubs/linear algebra.md": {
@@ -12309,14 +12284,64 @@
       "size": 718,
       "tags": 2,
       "links": 3
+    },
+    "30_Topics/32_Terms/SSRI.md": {
+      "size": 562,
+      "tags": 2,
+      "links": 2
+    },
+    "30_Topics/32_Terms/MDD.md": {
+      "size": 340,
+      "tags": 2,
+      "links": 2
+    },
+    "30_Topics/32_Terms/DBT.md": {
+      "size": 536,
+      "tags": 2,
+      "links": 2
+    },
+    "30_Topics/31_Stubs/medicine.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/fear.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/insomnia.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/Alzheimer's Disease.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/32_Terms/self-soothing.md": {
+      "size": 157,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/Europe.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/Asia.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4187,
-      "Create": 4659,
-      "Link": 7286,
-      "Expand": 856
+      "Refactor": 4193,
+      "Create": 4665,
+      "Link": 7365,
+      "Expand": 864
     },
     "40_Evergreens": {
       "Refactor": 336,
@@ -12327,8 +12352,8 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 397,
-      "1": 111,
+      "0": 467,
+      "1": 140,
       "2": 31,
       "3": 2,
       "4": 0,
@@ -12384,7 +12409,7 @@
       "Mon": 435,
       "Tue": 4221,
       "Wed": 3788,
-      "Thu": 2112,
+      "Thu": 2211,
       "Fri": 723,
       "Sat": 0,
       "Sun": 5709
@@ -12402,6 +12427,14 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Social Learning Theory.md\"> Social Learning Theory </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/St. John's Wort (Hypericum perforatum).md\"> St. John's Wort (Hypericum perforatum) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Term notes.md\"> Term notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Traditional Chinese Medicine (TCM).md\"> Traditional Chinese Medicine (TCM) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Flow State.md\"> Flow State </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DBT.md\"> DBT </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SSRI.md\"> SSRI </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Serotonin Syndrome.md\"> Serotonin Syndrome </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/OCD.md\"> OCD </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/mental illness.md\"> mental illness </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Frontal Lobe.md\"> Frontal Lobe </a>",
@@ -12444,17 +12477,15 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md\"> notes_Origin of Motivation </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Reframing Goals to Actions.md\"> notes_Reframing Goals to Actions </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Reframing Goals to Actions.md\"> notes_Reframing Goals to Actions </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma Fal.md\"> notes_Karma Fal </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma Fal.md\"> notes_Karma Fal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/yoga.md\"> yoga </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Develop Obsidian plugins.md\"> Develop Obsidian plugins </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Karma Fal.md\"> notes_Karma Fal </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Asia.md\"> Asia </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Europe.md\"> Europe </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Alzheimer's Disease.md\"> Alzheimer's Disease </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/insomnia.md\"> insomnia </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fear.md\"> fear </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/medicine.md\"> medicine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/drugs.md\"> drugs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/tea.md\"> tea </a>",
         "<a class=\"internal-link\" href=\"physiology.md\"> physiology </a>",
@@ -12499,15 +12530,13 @@
         "<a class=\"internal-link\" href=\"TIM-clone/50_Projects/How I outlined my brain (literally just use all of the organization techniques at once).md\"> How I outlined my brain (literally just use all of the organization techniques at once) </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/RECENTLY-MODIFIED.md\"> RECENTLY-MODIFIED </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/Modified Today.md\"> Modified Today </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/Created Today.md\"> Created Today </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/Graph Timeline.md\"> Graph Timeline </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/GALLERY.md\"> GALLERY </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/Commits.md\"> Commits </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/Average links per note type.md\"> Average links per note type </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/24 Vault Stats/Modified Today.md\"> Modified Today </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-soothing.md\"> self-soothing </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DBT.md\"> DBT </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MDD.md\"> MDD </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SSRI.md\"> SSRI </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/OCD.md\"> OCD </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CNS.md\"> CNS </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CRF.md\"> CRF </a>",
@@ -12554,13 +12583,16 @@
         "<a class=\"internal-link\" href=\"Sigmund Freud.md\"> Sigmund Freud </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Parsing markup text for Obsidian projects.md\"> Parsing markup text for Obsidian projects </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/How to process repressed emotions.md\"> How to process repressed emotions </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Flamingo Pose Meditation.md\"> Flamingo Pose Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Embed notes from a dataview query with dataviewjs.md\"> Embed notes from a dataview query with dataviewjs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Flamingo Pose Meditation.md\"> Flamingo Pose Meditation </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Alzheimer's Disease.md\"> Alzheimer's Disease </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Europe.md\"> Europe </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Asia.md\"> Asia </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/insomnia.md\"> insomnia </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/herb.md\"> herb </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/medicine.md\"> medicine </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fear.md\"> fear </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/tea.md\"> tea </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/drugs.md\"> drugs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/linear algebra.md\"> linear algebra </a>",
@@ -12604,14 +12636,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Writing is the catalyst of understanding.md\"> Writing is the catalyst of understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans transfer their wonder into creativity.md\"> Humans transfer their wonder into creativity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans long to know what to do.md\"> Humans long to know what to do </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/I don't write my notes for myself.md\"> I don't write my notes for myself </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/duty.md\"> duty </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within duty is derived from without.md\"> Purpose is derived from within duty is derived from without </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\"> Evergreen notes help us bridge the gap between knowledge and understanding </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/EGNOTE.md\"> EGNOTE </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/EGNOTE.md\"> EGNOTE </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans long to know what to do.md\"> Humans long to know what to do </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12662,9 +12687,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_General Treatment Principles.md\"> notes_General Treatment Principles </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/small government.md\"> small government </a>",
         "<a class=\"internal-link\" href=\"q.md\"> q </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/BIONOTE.md\"> BIONOTE </a>",
@@ -12714,61 +12741,60 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Respect for travellers.md\"> Respect for travellers </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Respect for the subconscious.md\"> Respect for the subconscious </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Progress requires change.md\"> Progress requires change </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People easily ignore history.md\"> People easily ignore history </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People easily ignore history.md\"> People easily ignore history </a>"
       ],
       "Linked": [
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmamuhurtha.md\"> Brahmamuhurtha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Caffeine.md\"> Caffeine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Depersonalization.md\"> Depersonalization </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Major Depressive Disorder (MDD).md\"> Major Depressive Disorder (MDD) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Medial Prefrontal Cortex (mPFC).md\"> Medial Prefrontal Cortex (mPFC) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Micro Kernel.md\"> Micro Kernel </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Monoamine Oxidase (MAO).md\"> Monoamine Oxidase (MAO) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Monolithic Kernel.md\"> Monolithic Kernel </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/OCD.md\"> OCD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anandamaya Kosha.md\"> Anandamaya Kosha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dopamine.md\"> Dopamine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Duloxetine.md\"> Duloxetine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Frontal Lobe.md\"> Frontal Lobe </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/gender consistency.md\"> gender consistency </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SNRI.md\"> SNRI </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CNS.md\"> CNS </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anxiolytic.md\"> Anxiolytic </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Aparigraha.md\"> Aparigraha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Generalized Anxiety Disorder (GAD).md\"> Generalized Anxiety Disorder (GAD) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ginkgo (Ginkgo Biloba).md\"> Ginkgo (Ginkgo Biloba) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Hippocampus.md\"> Hippocampus </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/i-hat.md\"> i-hat </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Iswara Pranidhana.md\"> Iswara Pranidhana </a>",
-        "<a class=\"internal-link\" href=\"physiology.md\"> physiology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/arbitrage.md\"> arbitrage </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ashwagandha.md\"> Ashwagandha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Asteya.md\"> Asteya </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Attachment Theory.md\"> Attachment Theory </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bipolar I.md\"> Bipolar I </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bipolar II.md\"> Bipolar II </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Mania.md\"> Mania </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/BNST.md\"> BNST </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/ANS.md\"> ANS </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Acetycholine.md\"> Acetycholine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Adrenaline.md\"> Adrenaline </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Agoraphobia.md\"> Agoraphobia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ajna Chakra.md\"> Ajna Chakra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ama.md\"> Ama </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Microaggressions.md\"> Microaggressions </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Phobias.md\"> Phobias </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/marginalization.md\"> marginalization </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Intergroup contact theory.md\"> Intergroup contact theory </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Minority stress.md\"> Minority stress </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/modern sexism.md\"> modern sexism </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoWhat is Ego.md\"> videoWhat is Ego </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/ego.md\"> ego </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ahamkara.md\"> Ahamkara </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/subconscious.md\"> subconscious </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Niyama.md\"> Niyama </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sankalpa.md\"> Sankalpa </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sanskrit.md\"> Sanskrit </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dx.md\"> Dx </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Rose Root (Rhodiola rosea).md\"> Rose Root (Rhodiola rosea) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sankalpa.md\"> Sankalpa </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Separation Anxiety Disorder.md\"> Separation Anxiety Disorder </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Social Anxiety Disorder (SAD).md\"> Social Anxiety Disorder (SAD) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Social Learning Theory.md\"> Social Learning Theory </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/St. John's Wort (Hypericum perforatum).md\"> St. John's Wort (Hypericum perforatum) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Surya Namaskar.md\"> Surya Namaskar </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/TERFS.md\"> TERFS </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Term notes.md\"> Term notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Traditional Chinese Medicine (TCM).md\"> Traditional Chinese Medicine (TCM) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Trataka.md\"> Trataka </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Turmeric.md\"> Turmeric </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Tx.md\"> Tx </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vedic Psychology.md\"> Vedic Psychology </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vijnanamaya Kosha.md\"> Vijnanamaya Kosha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yoga Nidra.md\"> Yoga Nidra </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yogi.md\"> Yogi </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Manas.md\"> Manas </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Manomaya Kosha.md\"> Manomaya Kosha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Mood Lability.md\"> Mood Lability </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Palpitations.md\"> Palpitations </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Panic Disorder.md\"> Panic Disorder </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Passionflower (Passiflora incarnata).md\"> Passionflower (Passiflora incarnata) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Prakruti.md\"> Prakruti </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pranamaya Kosha.md\"> Pranamaya Kosha </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pranayama.md\"> Pranayama </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Qi.md\"> Qi </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Rejection Sensitivity.md\"> Rejection Sensitivity </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Saffron.md\"> Saffron </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DSM.md\"> DSM </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Dysthymia.md\"> Dysthymia </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Exposure Therapy.md\"> Exposure Therapy </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Fenugreek (Trigonella foenum-graecum).md\"> Fenugreek (Trigonella foenum-graecum) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Flow State.md\"> Flow State </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Galphimia (Galphimia glauca).md\"> Galphimia (Galphimia glauca) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Gotu kola (Centella asiatica).md\"> Gotu kola (Centella asiatica) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/j-hat.md\"> j-hat </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Karma Fal.md\"> Karma Fal </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kava (Piper methysticum).md\"> Kava (Piper methysticum) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Korean Ginseng.md\"> Korean Ginseng </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bupropion.md\"> Bupropion </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/capitalism.md\"> capitalism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CBT.md\"> CBT </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Channeling.md\"> Channeling </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cytochrome P450 system (CYP450).md\"> Cytochrome P450 system (CYP450) </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/depression.md\"> depression </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DBT.md\"> DBT </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Alexithymia.md\"> Alexithymia </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Mermaid (software).md\"> Mermaid (software) </a>",

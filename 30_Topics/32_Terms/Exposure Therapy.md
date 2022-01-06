@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 A psychological treatment that was developed to help people confront their fears. When people are fearful of something, they tend to avoid the feared objects, activities or situations.
  ^[[[course_Dr. K's Guide to Mental Health]]]
 
-**See**::
+**See**:: [[fear]], [[therapy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

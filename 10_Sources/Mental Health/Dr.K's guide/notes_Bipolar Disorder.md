@@ -13,7 +13,7 @@ tags: created/source/2021/12/30, node/source/notes
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/bipolar-disorder)
 
 #### Terms
-- [[Major Depressive Disorder (MDD)]]
+- [[MDD]]
 - [[Bipolar Disorder]]
 - [[Mood Lability]]
 - [[Bipolar I]]

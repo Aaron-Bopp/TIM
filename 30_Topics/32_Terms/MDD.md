@@ -1,7 +1,8 @@
 ---
 created: 2021-12-29 
 aliases:
-  - null
+  - Major Depressive Disorder (MDD)
+  - Major Depressive Disorder 
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

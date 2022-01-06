@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2505995,
+  "lastSavedStatusID": 2534712,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -341,7 +341,8 @@
     "10_Sources/Readwise/Tweets/tweets_A Lot of Paradoxes Might....md": "12475749",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Laur.md": "12481136",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖.md": "12489526",
-    "10_Sources/Readwise/Books/books_You and Your Gender Identity.md": "9250064"
+    "10_Sources/Readwise/Books/books_You and Your Gender Identity.md": "9250064",
+    "10_Sources/Readwise/Articles/articles_Materials.md": "12672286"
   },
   "reimportShowConfirmation": false,
   "obsidianToken": "rdiuwojlcr",

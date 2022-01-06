@@ -7,7 +7,7 @@ tags: created/topic/2021/10/16, node/topic/term
 
 y axis basic vector unit [^1]
 
-**See**::
+**See**:: [[linear algebra]], [[math]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

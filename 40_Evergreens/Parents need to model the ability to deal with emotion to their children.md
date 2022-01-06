@@ -11,7 +11,7 @@ sr-ease: 251
 
 #### [[Parents need to model the ability to deal with emotion to their children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-During [[childhood]], it is incredibly important that the [[parents]] model [[self soothing]], [[self care]], [[self-love|self-validation]], but if [[parents]] fail to teach these things sometimes the opposite can be taught
+During [[childhood]], it is incredibly important that the [[parents]] model [[self-soothing]], [[self care]], [[self-love|self-validation]], but if [[parents]] fail to teach these things sometimes the opposite can be taught
 
 #TO/TEND/CONCEPTUALIZE these tweets
 #TO/PROGRAM better way to deal with these tweets
@@ -28,7 +28,7 @@ Coming from an unloving home makes it hard to take in kindness or understand tha
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human advancement]], [[Neuroscience]], [[social fitness]], [[self care]], [[self soothing]], [[self-validation]] 
+**Topics**:: [[human advancement]], [[Neuroscience]], [[social fitness]], [[self care]], [[self-soothing]], [[self-validation]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: ![[videoExistential Dread#Competence comes from empathic mirroring]]
