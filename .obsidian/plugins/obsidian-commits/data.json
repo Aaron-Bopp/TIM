@@ -12273,8 +12273,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4177,
-      "Create": 4650,
+      "Refactor": 4178,
+      "Create": 4651,
       "Link": 7234,
       "Expand": 848
     },
@@ -12307,7 +12307,7 @@
       "17": 2798,
       "18": 2301,
       "19": 523,
-      "20": 263,
+      "20": 265,
       "21": 744,
       "22": 552,
       "23": 417
@@ -12343,7 +12343,7 @@
     "/": {
       "Mon": 435,
       "Tue": 4221,
-      "Wed": 3786,
+      "Wed": 3788,
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
@@ -12415,6 +12415,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans long to know what to do.md\"> Humans long to know what to do </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"q.md\"> q </a>",
         "<a class=\"internal-link\" href=\"Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
         "<a class=\"internal-link\" href=\"Sagacious sayings.md\"> Sagacious sayings </a>",
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Sticky concepts.md\"> Sticky concepts </a>",
@@ -12464,8 +12465,7 @@
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/22 Note by status/EVERGREENS.md\"> EVERGREENS </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/23 Note by type/JUSTEVERGREENS.md\"> JUSTEVERGREENS </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/23 Note by type/TopicNotes.md\"> TopicNotes </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/23 Note by type/File Sizes.md\"> File Sizes </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/23 Note by type/Content Areas.md\"> Content Areas </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/20_Entry/23 Note by type/File Sizes.md\"> File Sizes </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"10_Sources/course_Psychology of Race and Gender.md\"> course_Psychology of Race and Gender </a>",
@@ -12624,6 +12624,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"q.md\"> q </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Templates/BIONOTE.md\"> BIONOTE </a>",
         "<a class=\"internal-link\" href=\"90_Personal/Personal/What is my path to happiness.md\"> What is my path to happiness </a>",
@@ -12673,8 +12674,7 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Respect for the subconscious.md\"> Respect for the subconscious </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Progress requires change.md\"> Progress requires change </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People easily ignore history.md\"> People easily ignore history </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Origin of the myth of the noble savage.md\"> Origin of the myth of the noble savage </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People frame ancient history to serve their interests.md\"> People frame ancient history to serve their interests </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",

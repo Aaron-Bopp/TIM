@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "779735696eadbc73",
+        "id": "2448b40d1fdbed3b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
-            "mode": "preview",
+            "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -19,124 +19,46 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "779735696eadbc73",
+              "leaf": "2448b40d1fdbed3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Learning how systems work can be a gateway to creating thought.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "779735696eadbc73",
+              "leaf": "2448b40d1fdbed3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.56}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "779735696eadbc73",
+              "leaf": "2448b40d1fdbed3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":36},\"to\":{\"line\":32,\"ch\":36}},\"scroll\":18.393333333333334}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "779735696eadbc73",
+              "leaf": "2448b40d1fdbed3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Mermaid (software).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Only use organization systems as far as they are useful.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "779735696eadbc73",
+              "leaf": "2448b40d1fdbed3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":17.279691516709512}"
             },
             {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.852}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.4}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":9.52}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/Neuroscience.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/asdfasdf.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zettelkasten.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "779735696eadbc73",
+              "leaf": "2448b40d1fdbed3b",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "779735696eadbc73",
+              "leaf": "2448b40d1fdbed3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition to weed your digital garden.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":388},\"to\":{\"line\":18,\"ch\":388}},\"scroll\":0.42857145289985543}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard rules create cognitive bias.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evangelicalism has commodified faith for profit.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":31},\"to\":{\"line\":17,\"ch\":31}},\"scroll\":1.1428571793497833}"
-            },
-            {
-              "leaf": "779735696eadbc73",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":49},\"to\":{\"line\":14,\"ch\":49}},\"scroll\":0.6428571367750362}"
             }
           ]
         }
@@ -170,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/EXPLORE",
+                "query": "tag:#TO/TEND",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -189,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
+                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
+                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md"
+                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md"
               }
             },
             "pane-relief:history-v1": {
@@ -373,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
+                "file": "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -482,17 +404,17 @@
     "direction": "horizontal",
     "width": 930.9945068359375
   },
-  "active": "779735696eadbc73",
+  "active": "2448b40d1fdbed3b",
   "lastOpenFiles": [
-    "40_Evergreens/Our brain will do anything it can to protect itself.md",
-    "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
-    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
-    "30_Topics/33_Tools/Mermaid (software).md",
-    "30_Topics/31_Stubs/structure.md",
-    "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
-    "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md",
-    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
-    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
-    "40_Evergreens/You can leave the church without loosing your faith.md"
+    "40_Evergreens/Learning how systems work can be a gateway to creating thought.md",
+    "40_Evergreens/Choosing a note writing system is choosing a system for thought.md",
+    "40_Evergreens/Organization systems are not mutually exclusive.md",
+    "40_Evergreens/Only use organization systems as far as they are useful.md",
+    "q.md",
+    "20_Entry/205 Index.md",
+    "30_Topics/32_Terms/index note.md",
+    "30_Topics/31_Stubs/propaganda.md",
+    "30_Topics/31_Stubs/Breadcrumbs.md",
+    "30_Topics/37_Techniques/Parsing markup text for Obsidian projects.md"
   ]
 }
