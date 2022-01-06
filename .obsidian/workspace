@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c114312a31a22072",
+        "id": "779735696eadbc73",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/209 Notepad.md",
-            "mode": "source",
+            "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -19,124 +19,124 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":164},\"to\":{\"line\":6,\"ch\":164}},\"scroll\":0.6048780301722084}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0.56}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":36},\"to\":{\"line\":32,\"ch\":36}},\"scroll\":18.393333333333334}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Mermaid (software).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoEmotional Deregulation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":8},\"to\":{\"line\":7,\"ch\":8}},\"scroll\":5.709677401988242}"
-            },
-            {
-              "leaf": "c114312a31a22072",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoHealing from Festered Emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.677419215905934}"
-            },
-            {
-              "leaf": "c114312a31a22072",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoWhat is Ego.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":62},\"to\":{\"line\":14,\"ch\":62}},\"scroll\":8.25806425811102}"
-            },
-            {
-              "leaf": "c114312a31a22072",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/History/articleAncient Cave Art Full of Teenage Graffiti.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoEmotional Deregulation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.741934972796826}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your anxiety knows your insecurities better than you do.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.852}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoRejection Sensitivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.4}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":32.83112424051843}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can't blame people for failing to rise above their circumstances.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":9.52}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Psychology of Race and Gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/Neuroscience.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/asdfasdf.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Zettelkasten.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "779735696eadbc73",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/course_Psychology of Race and Gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "c114312a31a22072",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.205644013544328}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition to weed your digital garden.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":388},\"to\":{\"line\":18,\"ch\":388}},\"scroll\":0.42857145289985543}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c114312a31a22072",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Niyama.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":71},\"to\":{\"line\":15,\"ch\":71}},\"scroll\":1.0322580322638775}"
-            },
-            {
-              "leaf": "c114312a31a22072",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Swadhyaya.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard rules create cognitive bias.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Shuddha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You should the love the loves of those who you love.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+            },
+            {
+              "leaf": "779735696eadbc73",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Santosha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evangelicalism has commodified faith for profit.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":31},\"to\":{\"line\":17,\"ch\":31}},\"scroll\":1.1428571793497833}"
             },
             {
-              "leaf": "c114312a31a22072",
+              "leaf": "779735696eadbc73",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Shuddha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the starter types of note taking.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":49},\"to\":{\"line\":14,\"ch\":49}},\"scroll\":0.6428571367750362}"
             }
           ]
         }
@@ -170,10 +170,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node/source/notes",
+                "query": "tag:#TO/EXPLORE",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,11 +248,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 375
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/209 Notepad.md"
+                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md"
               }
             },
             "pane-relief:history-v1": {
@@ -313,19 +313,7 @@
             }
           },
           {
-            "id": "7572170b53174850",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "ba6ba783bdc6f42d",
+            "id": "47b3518370342bad",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -337,7 +325,7 @@
             }
           },
           {
-            "id": "3d4f2bd1278f8d8b",
+            "id": "4d97869f5922bb12",
             "type": "leaf",
             "state": {
               "type": "BC-stats",
@@ -349,7 +337,7 @@
             }
           },
           {
-            "id": "ec1a8cea448baebc",
+            "id": "b805a72d0cc1ce7c",
             "type": "leaf",
             "state": {
               "type": "BC-down",
@@ -361,22 +349,10 @@
             }
           },
           {
-            "id": "37fe93aa3023a2d1",
+            "id": "7572170b53174850",
             "type": "leaf",
             "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "bfaf3f00e34eea26",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
+              "type": "git-view",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -397,45 +373,73 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/209 Notepad.md",
+                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "",
+                  "search": "tag:#node",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "tag:#node/evergreen",
+                      "query": "tag:#topic/outline",
                       "color": {
                         "a": 1,
-                        "rgb": 14701138
+                        "rgb": 9785102
                       }
                     },
                     {
-                      "query": "tag:#node/topic/term",
+                      "query": "tag:#topic/term",
                       "color": {
                         "a": 1,
-                        "rgb": 14725458
+                        "rgb": 16162052
                       }
                     },
                     {
-                      "query": "tag:#node/topic/stub",
+                      "query": "tag:#topic/stub",
                       "color": {
                         "a": 1,
-                        "rgb": 11657298
+                        "rgb": 13413478
                       }
                     },
                     {
-                      "query": "tag:#node/source",
+                      "query": "tag:#topic/technique",
                       "color": {
                         "a": 1,
-                        "rgb": 5526240
+                        "rgb": 16056320
+                      }
+                    },
+                    {
+                      "query": "tag:#EVER/GREEN",
+                      "color": {
+                        "a": 1,
+                        "rgb": 356867
+                      }
+                    },
+                    {
+                      "query": "tag:#EVER/SEED",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3251005
+                      }
+                    },
+                    {
+                      "query": "tag:#EVER/SPROUT",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10610705
+                      }
+                    },
+                    {
+                      "query": "tag:#content",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1594594
                       }
                     }
                   ],
@@ -449,8 +453,8 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 199,
-                  "scale": 0.05725562340123523,
-                  "close": false
+                  "scale": 0.3101213937008831,
+                  "close": true
                 }
               }
             },
@@ -476,20 +480,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 694,
-    "collapsed": true
+    "width": 930.9945068359375
   },
-  "active": "c114312a31a22072",
+  "active": "779735696eadbc73",
   "lastOpenFiles": [
-    "20_Entry/209 Notepad.md",
-    "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
-    "10_Sources/Mental Health/videoEmotional Deregulation.md",
-    "10_Sources/Mental Health/videoHealing from Festered Emotions.md",
-    "10_Sources/Mental Health/videoWhat is Ego.md",
-    "30_Topics/32_Terms/Ahamkara.md",
-    "30_Topics/31_Stubs/ego.md",
-    "30_Topics/32_Terms/subconscious.md",
-    "10_Sources/History/articleAncient Cave Art Full of Teenage Graffiti.md",
-    "10_Sources/Mental Health/videoRejection Sensitivity.md"
+    "40_Evergreens/Our brain will do anything it can to protect itself.md",
+    "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
+    "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
+    "30_Topics/33_Tools/Mermaid (software).md",
+    "30_Topics/31_Stubs/structure.md",
+    "40_Evergreens/Your anxiety knows your insecurities better than you do.md",
+    "40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md",
+    "40_Evergreens/You can't blame people for failing to rise above their circumstances.md",
+    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+    "40_Evergreens/You can leave the church without loosing your faith.md"
   ]
 }

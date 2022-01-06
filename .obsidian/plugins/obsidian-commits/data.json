@@ -4918,7 +4918,7 @@
     "40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md": {
       "size": 2643,
       "tags": 7,
-      "links": 25
+      "links": 24
     },
     "40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md": {
       "size": 1493,
@@ -7162,7 +7162,7 @@
     },
     "30_Topics/33_Tools/Mermaid (software).md": {
       "size": 388,
-      "tags": 4,
+      "tags": 2,
       "links": 2
     },
     "30_Topics/32_Terms/bi-directional links.md": {
@@ -12273,13 +12273,13 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4175,
+      "Refactor": 4177,
       "Create": 4650,
       "Link": 7234,
       "Expand": 848
     },
     "40_Evergreens": {
-      "Refactor": 335,
+      "Refactor": 336,
       "Create": 59,
       "Link": 1015,
       "Expand": 382
@@ -12307,7 +12307,7 @@
       "17": 2798,
       "18": 2301,
       "19": 523,
-      "20": 261,
+      "20": 263,
       "21": 744,
       "22": 552,
       "23": 417
@@ -12333,7 +12333,7 @@
       "17": 332,
       "18": 21,
       "19": 99,
-      "20": 62,
+      "20": 63,
       "21": 74,
       "22": 16,
       "23": 97
@@ -12343,7 +12343,7 @@
     "/": {
       "Mon": 435,
       "Tue": 4221,
-      "Wed": 3784,
+      "Wed": 3786,
       "Thu": 2035,
       "Fri": 723,
       "Sat": 0,
@@ -12352,7 +12352,7 @@
     "40_Evergreens": {
       "Mon": 128,
       "Tue": 332,
-      "Wed": 238,
+      "Wed": 239,
       "Thu": 284,
       "Fri": 182,
       "Sat": 0,
@@ -12730,6 +12730,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mental health is a reaction to one's environment.md\"> Mental health is a reaction to one's environment </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Mermaid (software).md\"> Mermaid (software) </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_Tweets From Zami Draws ADHD Comics ✨.md\"> tweets_Tweets From Zami Draws ADHD Comics ✨ </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
@@ -12779,10 +12780,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The black identity has evolved past it's political origins.md\"> The black identity has evolved past it's political origins </a>",
         "<a class=\"internal-link\" href=\"Japa Meditation.md\"> Japa Meditation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Personal/I relate to.md\"> I relate to </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The anti-vax movement is based off a white lie.md\"> The anti-vax movement is based off a white lie </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit.md\"> What is language's fundamental unit </a>",
@@ -12832,8 +12833,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/History/notes_2000's General Notes.md\"> notes_2000's General Notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/Topic Hierarchy.md\"> Topic Hierarchy </a>"
       ]
     },
     "40_Evergreens": {
@@ -13208,6 +13208,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is language's fundamental unit.md\"> What is language's fundamental unit </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
@@ -13257,8 +13258,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation is a practice and discipline of observation.md\"> Meditation is a practice and discipline of observation </a>"
       ]
     }
   },

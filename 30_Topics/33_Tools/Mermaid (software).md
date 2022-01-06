@@ -5,10 +5,9 @@ aliases:
   - null
 ---
 
-https://mermaid-js.github.io/mermaid/#/
-#TO/EXPLORE/RESEARCH 
+Docs:: [https://mermaid-js.github.io/mermaid/#/](https://mermaid-js.github.io/mermaid/#/)
 
-#TO/EXPLORE/WATCH https://www.youtube.com/watch?v=Tsu02d6Qti0
+Tutorial:: [Comprehensive Overview | Using Mermaid Flowcharts In Obsidian 🧜🏻‍♀️️ - YouTube](https://www.youtube.com/watch?v=Tsu02d6Qti0)
 
 **Topics**:: [[Obsidian (software)]], [[Javascript]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

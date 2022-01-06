@@ -23,7 +23,8 @@ Being able to do this requires a very healthy amount of [[mindfulness]], and a l
 
 The reason this happens is rooted in [[Neuroscience]]. 
 [[Anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]].
-^[[[Humans are a product of evolution]]]  %% 
+^[[[Humans are a product of evolution]]]  
+%% 
 #TO/TEND/MULCH As we satisfy more and more of the [[Hierarchy of needs]] our need for such an advanced warning system grows less and less.
 ^[[[Your anxiety knows your insecurities better than you do#Cause material insecurity]]]
 %% 
@@ -31,7 +32,7 @@ In modern society, our [[anxiety]] can seem like a irrational response, but it i
 %%
 #TO/EXPLORE/RESEARCH Is modern over compensation or just the next natural step in human [[Evolution]].
 
-#TO/EXPLORE/RESEARCH is there a threshold where so many of you [[Hierachy of Needs]] are met that you have no choice but to fall into [[existential dread]]
+#TO/EXPLORE/RESEARCH is there a threshold where so many of you [[Hierarchy of needs]] are met that you have no choice but to fall into [[existential dread]]
 
 #TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[OCD]]?
 %%
