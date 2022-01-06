@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
+            "file": "20_Entry/209 Notepad.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "c114312a31a22072",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c114312a31a22072",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "c114312a31a22072",
@@ -131,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Shuddha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c114312a31a22072",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Santosha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
+                "file": "20_Entry/209 Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
+                "file": "20_Entry/209 Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md"
+                "file": "20_Entry/209 Notepad.md"
               }
             },
             "pane-relief:history-v1": {
@@ -397,7 +397,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
+                "file": "20_Entry/209 Notepad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -481,6 +481,7 @@
   },
   "active": "c114312a31a22072",
   "lastOpenFiles": [
+    "20_Entry/209 Notepad.md",
     "10_Sources/Mental Health/videoAddictive Personality Dr.K interview.md",
     "10_Sources/Mental Health/videoEmotional Deregulation.md",
     "10_Sources/Mental Health/videoHealing from Festered Emotions.md",
@@ -489,7 +490,6 @@
     "30_Topics/31_Stubs/ego.md",
     "30_Topics/32_Terms/subconscious.md",
     "10_Sources/History/articleAncient Cave Art Full of Teenage Graffiti.md",
-    "10_Sources/Mental Health/videoRejection Sensitivity.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Knowledge of the Mind.md"
+    "10_Sources/Mental Health/videoRejection Sensitivity.md"
   ]
 }
