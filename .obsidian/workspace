@@ -4,151 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e338c8c7b24e47cf",
+        "id": "13a996e5b6985d4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Meditation helps us detach negative attachments.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 5,
-          "stack": [
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How memory works.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":43},\"to\":{\"line\":25,\"ch\":43}}}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/physiology.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How memory works.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":66},\"to\":{\"line\":12,\"ch\":66}},\"scroll\":0}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us detach negative attachments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":92},\"to\":{\"line\":14,\"ch\":92}},\"scroll\":6.548386548485915}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":19},\"to\":{\"line\":21,\"ch\":19}},\"scroll\":0}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our hormonal environment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":28.68548168587769}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":26},\"to\":{\"line\":31,\"ch\":26}},\"scroll\":9.83870922340689}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":99},\"to\":{\"line\":20,\"ch\":99}},\"scroll\":0}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our nervous system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":6.419354419430405}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Organization systems are not mutually exclusive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":1.741935434252119}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":24},\"to\":{\"line\":42,\"ch\":24}},\"scroll\":24.62768760542331}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We carry our childhood wounds into adulthood.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":48},\"to\":{\"line\":12,\"ch\":48}},\"scroll\":19.641129294927843}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How memory works.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":27},\"to\":{\"line\":14,\"ch\":27}}}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Human's have an inability to admit that they are wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.03225806350824617}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are a product of evolution.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":4.064516064527755}"
-            },
-            {
-              "leaf": "e338c8c7b24e47cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sticky concepts connect disparate ideas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":68},\"to\":{\"line\":17,\"ch\":68}}}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "47a3182ae2ea6780",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
-            "mode": "source",
+            "file": "40_Evergreens/How to balance investment.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -157,16 +19,10 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "47a3182ae2ea6780",
+              "leaf": "13a996e5b6985d4e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.548387086850424}"
-            },
-            {
-              "leaf": "47a3182ae2ea6780",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Association Cortices.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":8.860214831029936}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to balance investment.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":9.903225595571506}"
             }
           ]
         }
@@ -219,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Meditation helps us detach negative attachments.md",
+                "file": "40_Evergreens/How to balance investment.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -252,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Meditation helps us detach negative attachments.md",
+                "file": "40_Evergreens/How to balance investment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 577
+    "width": 447,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -297,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Meditation helps us detach negative attachments.md"
+                "file": "40_Evergreens/How to balance investment.md"
               }
             },
             "pane-relief:history-v1": {
@@ -426,7 +283,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Meditation helps us detach negative attachments.md",
+                "file": "40_Evergreens/How to balance investment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -533,20 +390,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706,
-    "collapsed": true
+    "width": 706
   },
-  "active": "e338c8c7b24e47cf",
+  "active": "13a996e5b6985d4e",
   "lastOpenFiles": [
-    "40_Evergreens/Meditation helps us detach negative attachments.md",
-    "40_Evergreens/How memory works.md",
-    "40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md",
-    "30_Topics/32_Terms/physiology.md",
+    "40_Evergreens/How to balance investment.md",
+    "10_Sources/Readwise/Articles/articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com.md",
+    "10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
-    "30_Topics/32_Terms/Association Cortices.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "40_Evergreens/Meditation helps us regulate our hormonal environment.md",
-    "40_Evergreens/Meditation increases our ability to influence the world.md",
-    "40_Evergreens/Meditation improves mental, physical, and emotional health.md"
+    "10_Sources/Readwise/Articles/articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium.md",
+    "20_Entry/209 Notepad.md",
+    "10_Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md",
+    "10_Sources/Readwise/Articles/articles_Replacement prod.pdf.md",
+    "10_Sources/Readwise/Articles/articles_Rank and File — Real Life.md",
+    "10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md"
   ]
 }
