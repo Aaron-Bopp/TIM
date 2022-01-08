@@ -14,6 +14,7 @@ Sayings that have wisdom beyond their simplicity
 ##### [[Sagacious sayings]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[The grass is always greener on the other side]]
+- [[Healed people heal people]]
 
 ### <hr class="dataviews"/>
 
