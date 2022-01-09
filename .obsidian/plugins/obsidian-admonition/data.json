@@ -2,11 +2,12 @@
   "userAdmonitions": {},
   "syntaxHighlight": true,
   "copyButton": false,
-  "version": "6.7.2",
+  "version": "6.8.0",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "syncLinks": true,
-  "enableMarkdownProcessor": false,
+  "enableMarkdownProcessor": true,
   "injectColor": true,
-  "parseTitles": true
+  "parseTitles": true,
+  "allowMSSyntax": true
 }

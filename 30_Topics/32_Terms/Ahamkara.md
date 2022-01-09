@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 The "I" feeling, or the sense of [[self]] (not the true self), commonly translated as the [[ego]].
- ^[[[course_Dr. K's Guide to Mental Health]]]
+^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[ego]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

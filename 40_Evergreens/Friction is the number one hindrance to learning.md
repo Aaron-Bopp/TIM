@@ -32,11 +32,9 @@ Good systems for learning reduce this friction:
 
 **[[We will evolve when we make learning as easy as thinking]]**
 
-```ad-note
-title: How does this apply to a [[second brain]]?
-1. [[Your second brain should be frictionless access to a curated base of knowledge]]
-2. [[Your second brain should be an inspirational hub of creativity]]
-```
+> [!note: How does this apply to a second brain]
+> 1. [[Your second brain should be frictionless access to a curated base of knowledge]]
+> 2. [[Your second brain should be an inspirational hub of creativity]]
 
 ##### Counter:: Friction can be used to engage the first brain
 

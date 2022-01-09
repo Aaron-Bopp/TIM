@@ -2195,6 +2195,10 @@
 }
 
 /* @ SETTINGS C3: Theme Store*/
+.community-theme-screenshot {
+ width:max-content !important; 
+}
+
 .modal.mod-community-theme {
     background-color: var(--background-primary);
     border-radius: 20px;
@@ -2635,7 +2639,7 @@ html {
 
 /* @ MARKDOWN A9: Tags*/
     /* # A9.1 Edit*/
-    /* .cm-hashtag {
+    .cm-hashtag {
         font-size: 0.7em !important;
         color: var(--tcolor) !important;
         text-decoration: none !important;
@@ -2664,7 +2668,7 @@ html {
         border-left: none;
         border-radius: 10px;
         display: inline;
-    } */
+    }
 
     /* # A9.2 Preview*/
     .tag {
@@ -2678,12 +2682,12 @@ html {
     }
 
     /* # A9.3 Hover*/
-    /* .tag:hover,
+    .tag:hover,
     .cm-hashtag:hover {
         background: linear-gradient(90deg, var(--tcol1) 5%, var(--tcol2) 18%, var(--tcol3) 45%);
         color: white !important;
         font-size: 0.8em !important;
-    } */
+    }
 
 /* ~~~~~~~~~~~~~~~~~~ MARKDOWN B: LISTS ~~~~~~~~~~~~~~~~~~ */
 /* @ MARKDOWN B1: Bulleted List*/
@@ -2882,19 +2886,28 @@ button.copy-code-button {
 /* @ MARKDOWN D1: HR*/
 hr {
     border-width: 2px;
+    overflow: visible;
+}
+
+.workspace-leaf-resize-handle::after {
+    visibility: hidden;
 }
 
 hr::after {
     content: var(--hrcon);
     color: var(--hrcol);
     display: inline-block;
-    position: absolute;
+    position: relative;
     left: 50%;
     transform: var(--hrtrans);
     transform-origin: 50% 50%;
     padding: 0.8rem;
     background-color: var(--background-primary);
     clip-path: polygon(50% 0%, 68% 26%, 98% 35%, 79% 60%, 79% 91%, 51% 78%, 21% 91%, 23% 59%, 2% 35%, 33% 27%);
+    }
+
+    .hr.cm-line {
+        padding-top: 15px;
     }
 
 /* @ MARKDOWN D2: HTML Progress Bar*/

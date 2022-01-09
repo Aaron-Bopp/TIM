@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 Persistent depressive disorder that is a more chronic [[depression]].
- ^[[[course_Dr. K's Guide to Mental Health]]]
+^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

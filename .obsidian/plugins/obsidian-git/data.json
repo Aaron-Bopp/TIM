@@ -13,5 +13,6 @@
   "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "mergeOnPull": true
+  "mergeOnPull": true,
+  "treeStructure": false
 }

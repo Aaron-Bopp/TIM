@@ -1788,6 +1788,7 @@ var DiceRoller = class {
     this.modifiersAllowed = true;
     this.static = false;
     this.conditions = [];
+    this.fudge = false;
     var _a;
     if (!/(\-?\d+)[dD]?(\d+|%|\[\d+,\s?\d+\])?/.test(dice)) {
       throw new Error("Non parseable dice string passed to DiceRoll.");
@@ -1808,6 +1809,7 @@ var DiceRoller = class {
     if (max === "F") {
       max = 1;
       min = -1;
+      this.fudge = true;
     }
     if (Number(max) < Number(min)) {
       [max, min] = [min, max];
@@ -2072,8 +2074,8 @@ var DiceRoller = class {
 var StuntRoller = class extends DiceRoller {
   constructor(dice, lexeme) {
     super(`3d6`, lexeme);
-    this.lexeme = lexeme;
     this.dice = dice;
+    this.lexeme = lexeme;
   }
   get doubles() {
     return new Set([...this.results].map(([, { usable, value }]) => usable ? value : 0)).size < 3;
@@ -2095,6 +2097,38 @@ var StuntRoller = class extends DiceRoller {
       str.push(`${result[1].value}`);
     }
     return `[${str.join(", ")}]`;
+  }
+};
+var PercentRoller = class extends DiceRoller {
+  constructor(dice, lexeme) {
+    super(dice, lexeme);
+    this.dice = dice;
+    this.lexeme = lexeme;
+    this.stack = [];
+    const faces = `${this.faces.max}`.split("");
+    for (let i = 0; i < this.rolls; i++) {
+      const stack = [];
+      for (const face of faces) {
+        const roller = new DiceRoller(`1d${face}`);
+        stack.push(roller);
+        roller.roll();
+      }
+      this.stack.push(stack);
+    }
+  }
+  get result() {
+    return this.stack.map((stack) => Number(stack.map((dice) => dice.result).join(""))).reduce((a2, b2) => a2 + b2);
+  }
+  get display() {
+    return this.stack.map((stack) => stack.map((v) => v.result).join(",")).join("|");
+  }
+  roll() {
+    if (!this.stack || !this.stack.length)
+      return super.roll();
+    this.stack.forEach((stack) => stack.map((dice) => dice.roll()));
+    return [
+      ...this.stack.map((stack) => stack.map((dice) => dice.result)).flat()
+    ];
   }
 };
 var StackRoller = class extends GenericRoller {
@@ -2276,7 +2310,7 @@ ${this.resultText}`;
               });
               break;
             }
-            case "dice":
+            case "dice": {
               if (dice.parenedDice && /^d/.test(dice.original) && this.stack.length) {
                 const previous = this.stack.pop();
                 dice.data = `${previous.result}${dice.original}`;
@@ -2289,13 +2323,25 @@ ${this.resultText}`;
               this.stackCopy.push(this.dice[index]);
               index++;
               break;
-            case "stunt":
+            }
+            case "stunt": {
               if (!this.dice[index]) {
                 this.dice[index] = new StuntRoller(dice.original, dice);
               }
               this.stack.push(this.dice[index]);
               this.stackCopy.push(this.dice[index]);
               index++;
+              break;
+            }
+            case "%": {
+              if (!this.dice[index]) {
+                this.dice[index] = new PercentRoller(dice.original, dice);
+              }
+              this.stack.push(this.dice[index]);
+              this.stackCopy.push(this.dice[index]);
+              index++;
+              break;
+            }
           }
         }
         const final = this.stack.pop();
@@ -3368,7 +3414,7 @@ var D8 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><s
 var D10 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:none;stroke: currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:15px !important;}</style></defs><g id="Shapes"><rect class="cls-1" x="102.75" y="102.75" width="294.51" height="294.51" rx="9.8" transform="translate(-103.55 250) rotate(-45)"/></g><g fill="currentColor" id="Layer_1" data-name="Layer 1"><path d="M219,330.69H199V198.24L158.92,213V194.91l56.93-21.38H219Z"/><path d="M344.47,264q0,34.92-11.93,51.89t-37.27,17q-25,0-37.06-16.6t-12.46-49.57V240.13q0-34.47,11.92-51.24t37.38-16.75q25.24,0,37.17,16.16t12.25,49.9ZM324.59,236.8q0-25.23-7.09-36.79t-22.45-11.55q-15.26,0-22.23,11.5t-7.2,35.34v31.8q0,25.35,7.36,37.43t22.29,12.09q14.72,0,21.86-11.39t7.46-35.88Z"/></g></svg>`;
 var D12 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:none;stroke: currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:15px !important;}</style></defs><g id="Shapes"><path class="cls-1" d="M244.31,29.14,52,168.87a9.72,9.72,0,0,0-3.52,10.84l73.47,226.1a9.69,9.69,0,0,0,9.21,6.69H368.87a9.69,9.69,0,0,0,9.21-6.69l73.47-226.1A9.72,9.72,0,0,0,448,168.87L255.69,29.14A9.66,9.66,0,0,0,244.31,29.14Z"/></g><g fill="currentColor" id="Layer_1" data-name="Layer 1"><path d="M208,330.69H188V198.24L147.93,213V194.91l56.93-21.38H208Z"/><path d="M342.28,330.69H239.8V316.4l54.14-60.15q12-13.65,16.6-22.19a37,37,0,0,0,4.56-17.67q0-12.24-7.41-20.08t-19.77-7.85q-14.82,0-23,8.44t-8.22,23.47H236.79q0-21.6,13.91-34.91t37.22-13.32q21.81,0,34.49,11.44T335.08,214q0,23.1-29.43,55l-41.9,45.44h78.53Z"/></g></svg>`;
 var D20 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:none;stroke: currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:15px !important;}</style></defs><g id="Shapes"><path class="cls-1" d="M55.14,143.27V356.73a10,10,0,0,0,5,8.66L245,472.11a10,10,0,0,0,10,0L439.86,365.39a10,10,0,0,0,5-8.66V143.27a10,10,0,0,0-5-8.66L255,27.89a10,10,0,0,0-10,0L60.14,134.61A10,10,0,0,0,55.14,143.27Z"/></g><g fill="currentColor" id="Layer_1" data-name="Layer 1"><path d="M251.34,330.69H148.86V316.4L203,256.25q12-13.65,16.6-22.19a37,37,0,0,0,4.57-17.67q0-12.24-7.42-20.08T197,188.46q-14.82,0-23,8.44t-8.22,23.47H145.86q0-21.6,13.91-34.91T197,172.14q21.81,0,34.48,11.44T244.15,214q0,23.1-29.44,55l-41.89,45.44h78.52Z"/><path d="M361.67,264q0,34.92-11.92,51.89t-37.27,17q-25,0-37.06-16.6T263,266.67V240.13q0-34.47,11.93-51.24t37.38-16.75q25.25,0,37.17,16.16t12.24,49.9ZM341.8,236.8q0-25.23-7.09-36.79t-22.45-11.55Q297,188.46,290,200t-7.19,35.34v31.8q0,25.35,7.36,37.43t22.29,12.09q14.72,0,21.86-11.39t7.46-35.88Z"/></g></svg>`;
-var D100 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:none;stroke: currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:15px !important;}</style></defs><g fill="currentColor" id="Layer_1" data-name="Layer 1"><path d="M172.54,194.88q0-15.7,10.19-25.49t26.72-9.79q16.76,0,27,9.67t10.19,26.19v8.44q0,15.82-10.19,25.43t-26.72,9.61q-16.65,0-26.9-9.67T172.54,203.2Zm22.5,9.17q0,7.06,4,11.37a13.88,13.88,0,0,0,10.61,4.3,13.24,13.24,0,0,0,10.43-4.36Q224,211,224,203.69V195c0-4.71-1.28-8.53-3.86-11.43s-6.14-4.36-10.67-4.36a13.56,13.56,0,0,0-10.43,4.3q-4,4.31-4,12Zm21.33,115.87L199.84,311l83.32-133.36,16.53,8.91Zm37.73-29.06q0-15.83,10.31-25.49t26.72-9.67q16.65,0,26.9,9.55t10.25,26.31V300q0,15.71-10.08,25.37T291.37,335q-16.87,0-27.07-9.73t-10.2-25.78Zm22.5,9.28a15.82,15.82,0,0,0,4.22,11.08,13.71,13.71,0,0,0,10.55,4.6q14.29,0,14.29-15.92V291q0-7.08-4-11.38a15.08,15.08,0,0,0-21.09,0q-4,4.31-4,11.73Z"/><circle class="cls-1" cx="246.23" cy="250" r="189.38"/></g></svg>`;
+var D100 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:none;stroke: currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:15px !important;}</style></defs><g id="Shapes"><circle class="cls-1" cx="246.23" cy="250" r="189.38"/></g><g fill="currentColor" id="Layer_1" data-name="Layer 1"><path d="M172.54,194.88q0-15.7,10.19-25.49t26.72-9.79q16.76,0,27,9.67t10.19,26.19v8.44q0,15.82-10.19,25.43t-26.72,9.61q-16.65,0-26.9-9.67T172.54,203.2Zm22.5,9.17q0,7.06,4,11.37a13.88,13.88,0,0,0,10.61,4.3,13.24,13.24,0,0,0,10.43-4.36Q224,211,224,203.69V195c0-4.71-1.28-8.53-3.86-11.43s-6.14-4.36-10.67-4.36a13.56,13.56,0,0,0-10.43,4.3q-4,4.31-4,12Zm21.33,115.87L199.84,311l83.32-133.36,16.53,8.91Zm37.73-29.06q0-15.83,10.31-25.49t26.72-9.67q16.65,0,26.9,9.55t10.25,26.31V300q0,15.71-10.08,25.37T291.37,335q-16.87,0-27.07-9.73t-10.2-25.78Zm22.5,9.28a15.82,15.82,0,0,0,4.22,11.08,13.71,13.71,0,0,0,10.55,4.6q14.29,0,14.29-15.92V291q0-7.08-4-11.38a15.08,15.08,0,0,0-21.09,0q-4,4.31-4,11.73Z"/></g></svg>`;
 (0, import_obsidian6.addIcon)("d4", D4);
 (0, import_obsidian6.addIcon)("d6", D6);
 (0, import_obsidian6.addIcon)("d8", D8);
@@ -33224,7 +33270,9 @@ var DiceShape = class {
     return this.geometry.geometry;
   }
   create() {
-    this.geometry = new Mesh(this.getGeometry(), this.getMaterials());
+    const geometry = this.getGeometry();
+    const materials = this.getMaterials();
+    this.geometry = new Mesh(geometry, materials);
     this.geometry.receiveShadow = true;
     this.geometry.castShadow = true;
     this.body.position.set(0 + this.radius * 2 * Math.random(), 0 + this.radius * 2 * Math.random(), 0 + this.radius * 4);
@@ -33371,9 +33419,8 @@ var DiceShape = class {
   }
   getMaterials() {
     let materials = [];
-    for (let i = 0; i < this.labels.length; ++i) {
-      let texture = null;
-      texture = this.createTextTexture(i);
+    for (let i = 0; i < this.labels.length; i++) {
+      let texture = this.createTextTexture(i);
       materials.push(new MeshPhongMaterial(Object.assign({}, MATERIAL_OPTIONS, { map: texture })));
     }
     return materials;
@@ -33418,7 +33465,8 @@ var DiceShape = class {
         mass: this.mass,
         shape: this.shape
       }),
-      geometry: this.geometry.clone()
+      geometry: this.geometry.clone(),
+      values: this.values
     };
   }
 };
@@ -33684,6 +33732,39 @@ var D6DiceShape = class extends DiceShape {
     this.create();
   }
 };
+var FudgeDiceShape = class extends DiceShape {
+  constructor(w2, h, options = DEFAULT_DICE_OPTIONS) {
+    super(w2, h, options);
+    this.mass = 300;
+    this.tab = 0.1;
+    this.af = Math.PI / 4;
+    this.chamfer = 0.96;
+    this.vertices = [
+      [-1, -1, -1],
+      [1, -1, -1],
+      [1, 1, -1],
+      [-1, 1, -1],
+      [-1, -1, 1],
+      [1, -1, 1],
+      [1, 1, 1],
+      [-1, 1, 1]
+    ];
+    this.faces = [
+      [0, 3, 2, 1, 1],
+      [1, 2, 6, 5, 2],
+      [0, 1, 5, 4, 3],
+      [3, 7, 6, 2, 4],
+      [0, 4, 7, 3, 5],
+      [4, 5, 6, 7, 6]
+    ];
+    this.scaleFactor = 0.9;
+    this.sides = 6;
+    this.margin = 1;
+    this.labels = ["", "", "+", "-", " ", "+", "-", " "];
+    this.values = [null, 1, -1, 0, 1, -1, 0];
+    this.create();
+  }
+};
 var D4DiceShape = class extends DiceShape {
   constructor(w2, h, options = DEFAULT_DICE_OPTIONS) {
     super(w2, h, options);
@@ -33765,6 +33846,7 @@ var _DiceRenderer = class extends import_obsidian7.Component {
     this.iterations = 0;
     this.frame_rate = 1 / 60;
     this.animating = false;
+    this.factory = new DiceFactory(this.WIDTH, this.HEIGHT, this.plugin);
     this.colors = {
       ambient: 16777215,
       spotlight: 16777215
@@ -33820,7 +33902,6 @@ var _DiceRenderer = class extends import_obsidian7.Component {
     this.world.add(...[...this.current.values()].flat());
   }
   onload() {
-    this.factory = new DiceFactory(this.WIDTH, this.HEIGHT, this.plugin);
     this.addChild(this.factory);
     this.container.empty();
     this.container.style.opacity = `1`;
@@ -34261,6 +34342,7 @@ var Dice = class {
     return this.geometry.geometry;
   }
   getUpsideValue() {
+    var _a, _b;
     let vector = new Vector3(0, 0, this.sides == 4 ? -1 : 1);
     let closest_face, closest_angle = Math.PI * 2;
     const normals = this.buffer.getAttribute("normal").array;
@@ -34279,7 +34361,7 @@ var Dice = class {
     let matindex = closest_face.materialIndex - 1;
     if (this.sides == 10 && matindex == 0)
       matindex = 10;
-    return matindex;
+    return (_b = (_a = this.data.values) == null ? void 0 : _a[matindex]) != null ? _b : matindex;
   }
   shiftUpperValue(to) {
     let geometry = this.geometry.geometry.clone();
@@ -34349,6 +34431,7 @@ var DiceFactory = class extends import_obsidian7.Component {
     this.d8 = new D8DiceShape(this.width, this.height, this.colors);
     this.d6 = new D6DiceShape(this.width, this.height, this.colors);
     this.d4 = new D4DiceShape(this.width, this.height, this.colors);
+    this.fudge = new FudgeDiceShape(this.width, this.height, this.colors);
   }
   get colors() {
     return {
@@ -34365,6 +34448,7 @@ var DiceFactory = class extends import_obsidian7.Component {
     this.d8 = new D8DiceShape(this.width, this.height, this.colors);
     this.d6 = new D6DiceShape(this.width, this.height, this.colors);
     this.d4 = new D4DiceShape(this.width, this.height, this.colors);
+    this.fudge = new FudgeDiceShape(this.width, this.height, this.colors);
   }
   onunload() {
     this.dispose();
@@ -34395,8 +34479,9 @@ var DiceFactory = class extends import_obsidian7.Component {
           dice.push(...new Array(roller.rolls).fill(0).map((r) => new D4Dice(this.width, this.height, this.d4.clone(), vector)));
           break;
         }
+        case 1:
         case 6: {
-          dice.push(...new Array(roller.rolls).fill(0).map((r) => new D6Dice(this.width, this.height, this.d6.clone(), vector)));
+          dice.push(...new Array(roller.rolls).fill(0).map((r) => new D6Dice(this.width, this.height, roller.fudge ? this.fudge.clone() : this.d6.clone(), vector)));
           break;
         }
         case 8: {
@@ -35055,6 +35140,14 @@ ${e}`, 5e3);
         data: dice,
         original: lexeme,
         conditionals: []
+      };
+    });
+    this.lexer.addRule(/\d+[Dd]\d+%/, function(lexeme) {
+      return {
+        type: "%",
+        data: lexeme.replace(/^\D+/g, ""),
+        original: lexeme,
+        conditionals: null
       };
     });
     this.lexer.addRule(/kh?(?!:l)(\d*)/, function(lexeme) {

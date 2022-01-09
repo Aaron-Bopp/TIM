@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 The [[yoga|Yogic]] model of the [[mind]] and its faculties.
- ^[[[course_Dr. K's Guide to Mental Health]]]
+^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[meditation]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

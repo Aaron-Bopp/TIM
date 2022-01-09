@@ -53,6 +53,7 @@ __export(exports, {
 });
 
 // const.ts
+var DEBUGGING = false;
 var COMMANDS = [
   {
     id: "smarter-asterisk-bold",
@@ -110,7 +111,7 @@ var COMMANDS = [
   },
   {
     id: "smarter-wikilink",
-    name: "Smarter wikilink (internal link)",
+    name: "Smarter Wikilink (Internal Link)",
     before: "[[",
     after: "]]"
   },
@@ -135,9 +136,42 @@ var COMMANDS = [
   {
     id: "smarter-square-brackets",
     name: "Smarter Square Brackets",
-    before: "]",
-    after: "["
+    before: "[",
+    after: "]"
+  },
+  {
+    id: "smarter-delete",
+    name: "Smarter Delete",
+    before: "delete",
+    after: ""
   }
+];
+var TRIMBEFORE = [
+  "###### ",
+  "##### ",
+  "#### ",
+  "### ",
+  "## ",
+  "# ",
+  "- [ ] ",
+  "- [x] ",
+  "- ",
+  ">",
+  " ",
+  "\n",
+  "	"
+];
+var TRIMAFTER = [
+  " ",
+  "\n",
+  "	"
+];
+var IMAGEEXTENSIONS = [
+  "png",
+  "jpg",
+  "jpeg",
+  "gif",
+  "tiff"
 ];
 
 // main.ts
@@ -163,7 +197,6 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
   }
   expandAndWrap(frontMarkup, endMarkup, editor) {
     return __async(this, null, function* () {
-      const debug = false;
       function isOutsideSel(bef, aft) {
         const so = startOffset();
         const eo = endOffset();
@@ -175,7 +208,14 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         const charsAfter = editor.getRange(offToPos(eo), offToPos(eo + aft.length));
         return charsBefore === bef && charsAfter === aft;
       }
-      const multiLineMarkup = () => frontMarkup === "`" || frontMarkup === "%%" || frontMarkup === "<!--";
+      function isInFrontSel(bef) {
+        const so = startOffset();
+        if (so - bef.length < 0)
+          return false;
+        const charsBefore = editor.getRange(offToPos(so - bef.length), offToPos(so));
+        return charsBefore === bef;
+      }
+      const multiLineMarkup = () => ["`", "%%", "<!--"].includes(frontMarkup);
       const markupOutsideSel = () => isOutsideSel(frontMarkup, endMarkup);
       function markupOutsideMultiline(anchor, head) {
         if (anchor.line === 0)
@@ -210,7 +250,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         }
       }
       function log(msg, appendSelection) {
-        if (!debug)
+        if (!DEBUGGING)
           return;
         let appended = "";
         if (appendSelection)
@@ -255,24 +295,15 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         return { anchor: startPos, head: endPos };
       }
       function trimSelection() {
-        let trimBefore = [
-          "###### ",
-          "##### ",
-          "#### ",
-          "### ",
-          "## ",
-          "# ",
-          "- [ ] ",
-          "- [x] ",
-          "- ",
-          " ",
-          "\n",
-          "	",
-          frontMarkup
-        ];
-        const trimAfter = [" ", "\n", "	", endMarkup];
-        if (frontMarkup === "%%")
+        let trimAfter = TRIMAFTER;
+        let trimBefore = TRIMBEFORE;
+        if (multiLineMarkup()) {
           trimBefore = [frontMarkup];
+          trimAfter = [endMarkup];
+        } else if (frontMarkup !== "delete") {
+          trimBefore.push(frontMarkup);
+          trimAfter.push(endMarkup);
+        }
         let selection = editor.getSelection();
         let so = startOffset();
         log("before trim", true);
@@ -309,7 +340,6 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         log("after trim", true);
       }
       function expandToWordBoundary() {
-        const originalSel = editor.getSelection();
         trimSelection();
         log("before expandToWordBoundary", true);
         const preSelExpAnchor = editor.getCursor("from");
@@ -333,29 +363,27 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         });
         return pos;
       }
-      function applyMarkup(preSelExpAnchor, preSelExpHead, lineMode) {
+      function applyMarkup(preAnchor, preHead, lineMode) {
         const selectedText = editor.getSelection();
         const so = startOffset();
         const eo = endOffset();
-        const anchor = preSelExpAnchor;
-        const head = preSelExpHead;
         if (noSel() && lineMode === "multi")
           return;
         if (!markupOutsideSel()) {
           editor.replaceSelection(frontMarkup + selectedText + endMarkup);
-          contentChangeList.push({ line: anchor.line, shift: blen }, { line: head.line, shift: alen });
-          anchor.ch += blen;
-          head.ch += blen;
+          contentChangeList.push({ line: preAnchor.line, shift: blen }, { line: preHead.line, shift: alen });
+          preAnchor.ch += blen;
+          preHead.ch += blen;
         }
         if (markupOutsideSel()) {
           editor.setSelection(offToPos(so - blen), offToPos(eo + alen));
           editor.replaceSelection(selectedText);
-          contentChangeList.push({ line: anchor.line, shift: -blen }, { line: head.line, shift: -alen });
-          anchor.ch -= blen;
-          head.ch -= blen;
+          contentChangeList.push({ line: preAnchor.line, shift: -blen }, { line: preHead.line, shift: -alen });
+          preAnchor.ch -= blen;
+          preHead.ch -= blen;
         }
         if (lineMode === "single")
-          editor.setSelection(anchor, head);
+          editor.setSelection(preAnchor, preHead);
       }
       function wrapMultiLine() {
         const selAnchor = editor.getCursor("from");
@@ -388,17 +416,34 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
       function insertURLtoMDLink() {
         return __async(this, null, function* () {
           const URLregex = /\b((?:[a-z][\w-]+:(?:\/{1,3}|[a-z0-9%])|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}\/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'".,<>?«»“”‘’]))/;
-          const imageURLregex = /\.(png|jpe?g|gif|tiff?)$/;
           const cbText = (yield navigator.clipboard.readText()).trim();
           let frontMarkup_ = frontMarkup;
           let endMarkup_ = endMarkup;
           if (URLregex.test(cbText)) {
             endMarkup_ = "](" + cbText + ")";
-            if (imageURLregex.test(cbText))
+            const urlExtension = cbText.split(".").pop();
+            if (IMAGEEXTENSIONS.includes(urlExtension))
               frontMarkup_ = "![";
           }
           return [frontMarkup_, endMarkup_];
         });
+      }
+      function smartDelete() {
+        if (isInFrontSel("#")) {
+          const anchor = editor.getCursor("from");
+          const head = editor.getCursor("to");
+          if (anchor.ch)
+            anchor.ch--;
+          editor.setSelection(anchor, head);
+        }
+        if (isInFrontSel(" ")) {
+          const anchor = editor.getCursor("from");
+          const head = editor.getCursor("to");
+          if (anchor.ch)
+            anchor.ch--;
+          editor.setSelection(anchor, head);
+        }
+        editor.replaceSelection("");
       }
       log("\nSmarterMD Hotkeys triggered\n---------------------------");
       if (endMarkup === "]()")
@@ -411,18 +456,18 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         sel.head = recalibratePos(sel.head);
         editor.setSelection(sel.anchor, sel.head);
         trimSelection();
-        if (!multiLineSel()) {
+        if (frontMarkup === "delete") {
+          log("Smart Delete");
+          expandToWordBoundary();
+          smartDelete();
+        } else if (!multiLineSel()) {
           log("single line");
           const { anchor: preSelExpAnchor, head: preSelExpHead } = expandToWordBoundary();
           applyMarkup(preSelExpAnchor, preSelExpHead, "single");
-          return;
-        }
-        if (multiLineSel() && multiLineMarkup()) {
+        } else if (multiLineSel() && multiLineMarkup()) {
           log("Multiline Wrap");
           wrapMultiLine();
-          return;
-        }
-        if (multiLineSel() && !multiLineMarkup()) {
+        } else if (multiLineSel() && !multiLineMarkup()) {
           let pointerOff = startOffset();
           const lines = editor.getSelection().split("\n");
           log("lines: " + lines.length.toString());

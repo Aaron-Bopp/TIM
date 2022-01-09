@@ -43,6 +43,10 @@
   "indexNotes": [
     ""
   ],
+  "namingSystemField": "",
+  "namingSystemRegex": "",
+  "namingSystemSplit": ".",
+  "namingSystemEndsWithDelimiter": false,
   "refreshOnNoteChange": false,
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
@@ -52,6 +56,7 @@
   "parseJugglLinksWithoutJuggl": false,
   "showNameOrType": true,
   "showRelationType": true,
+  "regexNoteField": "",
   "rlLeaf": true,
   "showAllPathsIfNoneToIndexNote": false,
   "showBCs": true,

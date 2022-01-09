@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 A system of [[Yoga]] that focuses on [[meditation]] on the [[Chakra]]s in order to develop particular faculties.
- ^[[[course_Dr. K's Guide to Mental Health]]]
+^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
  
 - [[Muladhara Chakra]] if you are struggling with impulses
 - [[Swadhisthana Chakra]] if you struggle to connect with people

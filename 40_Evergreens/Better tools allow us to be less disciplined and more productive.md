@@ -14,9 +14,8 @@ Older generations are often shocked at the differences that they see in younger 
 
 Less disciplined does not always mean less productive, and when your lack of discipline is a symptom of more powerful tools, you may actually be more productive.
 
-```ad-example
-Since we started doing modern computer [[programming]] in the early 1970s, our computing power has increased #TO/DO/FIND fold. We are able to hold more power in our hand today than an entire warehouse could hold back then. This has allowed for so much amazing [[software]], but software that is made today is different from the first twenty years of [[programming]]. We have so much computing power that we no longer push ourselves to efficiency. 
-```
+> [!example]
+> Since we started doing modern computer [[programming]] in the early 1970s, our computing power has increased #TO/DO/FIND fold. We are able to hold more power in our hand today than an entire warehouse could hold back then. This has allowed for so much amazing [[software]], but software that is made today is different from the first twenty years of [[programming]]. We have so much computing power that we no longer push ourselves to efficiency. 
 
 [[Friction is the number one hindrance to learning]] talks about how friction stunts the process of learning. Discipline can be used to overcome this friction, such as with [[Niklas Luhmann]]'s [[Zettelkasten]],
 but modern tools allow us to overcome both the friction of discipline and the [[friction]] the discipline was trying to solve. 

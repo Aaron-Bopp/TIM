@@ -10,12 +10,11 @@ sr-ease: 200
 
 #### [[Your second brain should be frictionless access to a curated base of knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-```ad-summary
-Your priorities for collecting thought in your [[second brain]] should be: 
-1. The relation between your thoughts and other peoples thoughts
-2. The organization of your thoughts and others thoughts
-3. The accessibility of these thoughts
-```
+> [!summary]
+> Your priorities for collecting thought in your [[second brain]] should be: 
+> 1. The relation between your thoughts and other peoples thoughts
+> 2. The organization of your thoughts and others thoughts
+> 3. The accessibility of these thoughts
 
 Many a [[knowledge management|PKM]] guru has warned against [[The Collector's Fallacy]], of collecting more thought than you can use. I think this is very wise advice for new users who may not know what the purpose of the knowledge management system is or how to store information in it valuably, but if collection allows for more frictionless access to knowledge then it can be ignored. 
 

@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 [[society|Societal]] observances; the first step in the eightfold path of [[Raja Yoga]].
- ^[[[course_Dr. K's Guide to Mental Health]]]
+^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 Observances 
 ^[[[notes_Different Meditative Styles]]]

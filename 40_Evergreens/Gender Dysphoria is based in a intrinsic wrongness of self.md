@@ -10,9 +10,8 @@ sr-ease: 192
 
 #### [[Gender Dysphoria is based in a intrinsic wrongness of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-```ad-warning
-Remember, [[Any experience of gender dysphoria is acceptable]] and [[Any experience of gender is acceptable]] are still true. This is just one experience of [[gender dysphoria]].
-```
+> [!warning]
+> Remember, [[Any experience of gender dysphoria is acceptable]] and [[Any experience of gender is acceptable]] are still true. This is just one experience of [[gender dysphoria]].
 
 
  > In principle, [[Gender Dysphoria]] is a feeling of wrongness intrinsic to the [[self]]. There is no logical backing to this wrongness, there is nothing which explains it, you cannot describe why you feel this way, it is just there. Things in your existence are incorrect, and even knowing which things _are_ incorrect can be hard to properly identify.

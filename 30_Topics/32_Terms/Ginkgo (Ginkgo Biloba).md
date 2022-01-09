@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 A [[herb]] typically advertised as a cognitive enhancer, but clinical studies (including the large Ginkgo Evaluation of [[Memory]] study) generally show supplementation with ginkgo does not improve cognitive performance. Please consult with your healthcare provider before taking any herbal supplements.
- ^[[[course_Dr. K's Guide to Mental Health]]]
+^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
