@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7b06bff7a5635d71",
+        "id": "9341e6f32b537750",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -14,13 +14,13 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "7b06bff7a5635d71",
+              "leaf": "9341e6f32b537750",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "7b06bff7a5635d71",
+              "leaf": "9341e6f32b537750",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#created/source/2021/05/08",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,12 +132,12 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 447,
-    "collapsed": true
+    "width": 447
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -213,6 +213,10 @@
             "state": {
               "type": "BC-matrix",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -221,6 +225,10 @@
             "state": {
               "type": "BC-stats",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -229,6 +237,10 @@
             "state": {
               "type": "BC-down",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -237,6 +249,10 @@
             "state": {
               "type": "Saved Queries View",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -361,17 +377,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "7b06bff7a5635d71",
+  "active": "9341e6f32b537750",
   "lastOpenFiles": [
+    "30_Topics/31_Stubs/the natural world.md",
+    "30_Topics/32_Terms/feng shui.md",
     "90_Personal/91 Daily Notes/2022-01-09.md",
+    "20_Entry/24 Vault Stats/ECpD (Evergreens Created per Day).md",
+    "20_Entry/24 Vault Stats/Created Today.md",
+    "20_Entry/24 Vault Stats/Commits.md",
+    "30_Topics/32_Terms/Ketamine.md",
     "30_Topics/32_Terms/Kundalini Yoga.md",
     "30_Topics/37_Techniques/Uijayi Pranayama.md",
-    "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
-    "40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
-    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
-    "40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md",
-    "40_Evergreens/Names matter because they effect people's perception and understanding.md",
-    "40_Evergreens/Hard rules create cognitive bias.md",
-    "40_Evergreens/Friction is the number one hindrance to learning.md"
+    "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md"
   ]
 }

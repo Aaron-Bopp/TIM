@@ -1,13 +1,14 @@
 
 
 ```dataviewjs
-const createdDates = Array.from(dv.pages('#node/evergreen').created).map(p => p.toLocaleString())
+const createdDates = Array.from(dv.pages('#node/evergreen').created).map(p => new Date(p).setHours(0,0,0,0))
 console.log(createdDates)
 
-const uniqueDates = Array.from(new Set(createdDates)).sort(p => new Date(p))
+let uniqueDates = Array.from(new Set(createdDates)).sort()
 console.log(uniqueDates)
 const counts = uniqueDates.map(d => createdDates.reduce((total,x) => (x==d ? total+1 : total), 0))
 console.log(counts)
+uniqueDates = uniqueDates.map(p => new Date(p).toLocaleString())
 const chartData = {
     type: 'bar',
     data: {

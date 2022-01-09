@@ -7215,11 +7215,6 @@
       "tags": 0,
       "links": 2
     },
-    "20_Entry/24 Vault Stats/CHARTS.md": {
-      "size": 784,
-      "tags": 0,
-      "links": 0
-    },
     "20_Entry/24 Vault Stats/Commits.md": {
       "size": 87,
       "tags": 0,
@@ -12374,14 +12369,39 @@
       "size": 0,
       "tags": 1,
       "links": 4
+    },
+    "20_Entry/24 Vault Stats/ECpD (Evergreens Created per Day).md": {
+      "size": 784,
+      "tags": 0,
+      "links": 0
+    },
+    "30_Topics/32_Terms/feng shui.md": {
+      "size": 798,
+      "tags": 2,
+      "links": 6
+    },
+    "30_Topics/31_Stubs/Taoism.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/balance.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "30_Topics/31_Stubs/harmony.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4412,
-      "Create": 4673,
-      "Link": 7406,
-      "Expand": 907
+      "Refactor": 4416,
+      "Create": 4679,
+      "Link": 7409,
+      "Expand": 908
     },
     "40_Evergreens": {
       "Refactor": 343,
@@ -12403,7 +12423,7 @@
       "8": 83,
       "9": 807,
       "10": 585,
-      "11": 2594,
+      "11": 2608,
       "12": 648,
       "13": 368,
       "14": 2447,
@@ -12452,7 +12472,7 @@
       "Thu": 2263,
       "Fri": 729,
       "Sat": 0,
-      "Sun": 5962
+      "Sun": 5976
     },
     "40_Evergreens": {
       "Mon": 128,
@@ -12467,6 +12487,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Agoraphobia.md\"> Agoraphobia </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Association Cortices.md\"> Association Cortices </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Basal Ganglia.md\"> Basal Ganglia </a>",
@@ -12516,10 +12537,15 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Traditional Chinese Medicine (TCM).md\"> Traditional Chinese Medicine (TCM) </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Flow State.md\"> Flow State </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DBT.md\"> DBT </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SSRI.md\"> SSRI </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Serotonin Syndrome.md\"> Serotonin Syndrome </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SSRI.md\"> SSRI </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/the natural world.md\"> the natural world </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/harmony.md\"> harmony </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/the natural world.md\"> the natural world </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/balance.md\"> balance </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Taoism.md\"> Taoism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Feng shui.md\"> Feng shui </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-09.md\"> 2022-01-09 </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-08.md\"> 2022-01-08 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
@@ -12564,15 +12590,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Writing is the catalyst of understanding.md\"> Writing is the catalyst of understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans transfer their wonder into creativity.md\"> Humans transfer their wonder into creativity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/I don't write my notes for myself.md\"> I don't write my notes for myself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans long to know what to do.md\"> Humans long to know what to do </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/duty.md\"> duty </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within duty is derived from without.md\"> Purpose is derived from within duty is derived from without </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"Evergreen notes help us bridge the gap between knowledge and understanding.md\"> Evergreen notes help us bridge the gap between knowledge and understanding </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Western.md\"> Western </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/I don't write my notes for myself.md\"> I don't write my notes for myself </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/ECpD (Evergreens Created per Day).md\"> ECpD (Evergreens Created per Day) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How memory works.md\"> How memory works </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\"> The brain lodges emotional reactions in our unconscious memory </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/physiology.md\"> physiology </a>",
@@ -12621,11 +12643,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/34_People/Sigmund Freud.md\"> Sigmund Freud </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are addicted to believing.md\"> Humans are addicted to believing </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Human.md\"> Human </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Readwise (software).md\"> Readwise (software) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/persuasion.md\"> persuasion </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Human.md\"> Human </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Taoism.md\"> Taoism </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-09.md\"> 2022-01-09 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-08.md\"> 2022-01-08 </a>",
@@ -12674,9 +12696,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/cerebral cortex.md\"> cerebral cortex </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/truth.md\"> truth </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/success.md\"> success </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Accepting responsibility is not only about your actions.md\"> Accepting responsibility is not only about your actions </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/truth.md\"> truth </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/How memory works.md\"> How memory works </a>",
@@ -12732,6 +12752,8 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_General Treatment Principles.md\"> notes_General Treatment Principles </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/the natural world.md\"> the natural world </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/the natural world.md\"> the natural world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/small government.md\"> small government </a>",
         "<a class=\"internal-link\" href=\"q.md\"> q </a>",
         "<a class=\"internal-link\" href=\"test.md\"> test </a>",
@@ -12780,11 +12802,10 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Respect for women.md\"> Respect for women </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/progress requires respect.md\"> progress requires respect </a>",
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Respect for travellers.md\"> Respect for travellers </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Respect for the subconscious.md\"> Respect for the subconscious </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Progress requires change.md\"> Progress requires change </a>",
-        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/People easily ignore history.md\"> People easily ignore history </a>"
+        "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/Respect for the subconscious.md\"> Respect for the subconscious </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-09.md\"> 2022-01-09 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
@@ -12834,8 +12855,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vedic Psychology.md\"> Vedic Psychology </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vijnanamaya Kosha.md\"> Vijnanamaya Kosha </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yoga Nidra.md\"> Yoga Nidra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yogi.md\"> Yogi </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Manas.md\"> Manas </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Yogi.md\"> Yogi </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/Mermaid (software).md\"> Mermaid (software) </a>",
