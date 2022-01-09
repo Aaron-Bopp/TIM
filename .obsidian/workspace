@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/36_Lists/Sagacious sayings.md",
+            "file": "40_Evergreens/We learn by transforming information into understanding.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,32 @@
             {
               "leaf": "13a996e5b6985d4e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Sagacious sayings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We learn by transforming information into understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "13a996e5b6985d4e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us detach negative attachments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":16.57056424369054}"
+            },
+            {
+              "leaf": "13a996e5b6985d4e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to balance investment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "13a996e5b6985d4e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/God is the human capacity to believe.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13a996e5b6985d4e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Sagacious sayings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "13a996e5b6985d4e",
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/36_Lists/Sagacious sayings.md",
+                "file": "40_Evergreens/We learn by transforming information into understanding.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -126,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/36_Lists/Sagacious sayings.md",
+                "file": "40_Evergreens/We learn by transforming information into understanding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/36_Lists/Sagacious sayings.md"
+                "file": "40_Evergreens/We learn by transforming information into understanding.md"
               }
             },
             "pane-relief:history-v1": {
@@ -289,7 +313,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "84f4f33f118f4527",
@@ -301,7 +325,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/36_Lists/Sagacious sayings.md",
+                "file": "40_Evergreens/We learn by transforming information into understanding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -412,15 +436,15 @@
   },
   "active": "13a996e5b6985d4e",
   "lastOpenFiles": [
-    "30_Topics/36_Lists/Sagacious sayings.md",
-    "40_Evergreens/God is the human capacity to believe.md",
-    "30_Topics/31_Stubs/ego.md",
+    "40_Evergreens/We learn by transforming information into understanding.md",
+    "40_Evergreens/Meditation helps us detach negative attachments.md",
     "40_Evergreens/How to balance investment.md",
+    "40_Evergreens/God is the human capacity to believe.md",
+    "30_Topics/36_Lists/Sagacious sayings.md",
+    "30_Topics/31_Stubs/ego.md",
     "10_Sources/Readwise/Articles/articles_Roth IRA vs. 401(k) Which Is Better for You  RamseySolutions.com.md",
     "10_Sources/Readwise/Articles/articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab.md",
     "10_Sources/Mental Health/Dr.K's guide/notes_Science of Meditation.md",
-    "10_Sources/Readwise/Articles/articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium.md",
-    "20_Entry/209 Notepad.md",
-    "10_Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md"
+    "10_Sources/Readwise/Articles/articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium.md"
   ]
 }
