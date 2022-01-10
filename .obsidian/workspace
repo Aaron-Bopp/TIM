@@ -7,12 +7,41 @@
         "id": "9341e6f32b537750",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Humans are drawn to the unknown and repelled by the known.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "9341e6f32b537750",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9341e6f32b537750",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Using multiple processes vs multiple threads.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":25},\"to\":{\"line\":18,\"ch\":25}},\"scroll\":0}"
+            },
+            {
+              "leaf": "9341e6f32b537750",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans transfer their wonder into creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":2.9032256724807213}"
+            },
+            {
+              "leaf": "9341e6f32b537750",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":23},\"to\":{\"line\":50,\"ch\":23}},\"scroll\":0}"
+            },
             {
               "leaf": "9341e6f32b537750",
               "group": null,
@@ -76,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40_Evergreens/Humans are drawn to the unknown and repelled by the known.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -108,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40_Evergreens/Humans are drawn to the unknown and repelled by the known.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447
+    "width": 447,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -152,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40_Evergreens/Humans are drawn to the unknown and repelled by the known.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -268,6 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40_Evergreens/Humans are drawn to the unknown and repelled by the known.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -374,20 +409,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706,
-    "collapsed": true
+    "width": 706
   },
   "active": "9341e6f32b537750",
   "lastOpenFiles": [
+    "40_Evergreens/Humans are drawn to the unknown and repelled by the known.md",
+    "40_Evergreens/Using multiple processes vs multiple threads.md",
+    "40_Evergreens/Humans transfer their wonder into creativity.md",
+    "40_Evergreens/Choosing a note writing system is choosing a system for thought.md",
     "30_Topics/31_Stubs/the natural world.md",
     "30_Topics/32_Terms/feng shui.md",
     "90_Personal/91 Daily Notes/2022-01-09.md",
     "20_Entry/24 Vault Stats/ECpD (Evergreens Created per Day).md",
     "20_Entry/24 Vault Stats/Created Today.md",
-    "20_Entry/24 Vault Stats/Commits.md",
-    "30_Topics/32_Terms/Ketamine.md",
-    "30_Topics/32_Terms/Kundalini Yoga.md",
-    "30_Topics/37_Techniques/Uijayi Pranayama.md",
-    "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md"
+    "20_Entry/24 Vault Stats/Commits.md"
   ]
 }
