@@ -20976,7 +20976,7 @@ class KoFi extends SvelteComponent {
 const MATRIX_VIEW = "BC-matrix";
 const STATS_VIEW = "BC-stats";
 const DUCK_VIEW = "BC-ducks";
-const DOWN_VIEW = "BC-down";
+const TREE_VIEW = "BC-tree";
 const TRAIL_ICON = "BC-trail-icon";
 const TRAIL_ICON_SVG = '<path fill="currentColor" stroke="currentColor" d="M48.8,4c-6,0-13.5,0.5-19.7,3.3S17.9,15.9,17.9,25c0,5,2.6,9.7,6.1,13.9s8.1,8.3,12.6,12.3s9,7.8,12.2,11.5 c3.2,3.7,5.1,7.1,5.1,10.2c0,14.4-13.4,19.3-13.4,19.3c-0.7,0.2-1.2,0.8-1.3,1.5s0.1,1.4,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3 c0,0,16.1-6.1,16.1-23c0-4.6-2.6-8.8-6.1-12.8c-3.5-4-8.1-7.9-12.6-11.8c-4.5-3.9-8.9-7.9-12.2-11.8c-3.2-3.9-5.2-7.7-5.2-11.4 c0-7.8,3.6-11.6,8.8-14S43,8,48.8,8c4.6,0,9.3,0,11,0c0.7,0,1.4-0.4,1.7-1c0.3-0.6,0.3-1.4,0-2s-1-1-1.7-1C58.3,4,53.4,4,48.8,4 L48.8,4z M78.1,4c-0.6,0-1.2,0.2-1.6,0.7l-8.9,9.9c-0.5,0.6-0.7,1.4-0.3,2.2c0.3,0.7,1,1.2,1.8,1.2h0.1l-2.8,2.6 c-0.6,0.6-0.8,1.4-0.5,2.2c0.3,0.8,1,1.3,1.9,1.3h1.3l-4.5,4.6c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h10v4 c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8v-4h10c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L86.9,24h1.3 c0.8,0,1.6-0.5,1.9-1.3c0.3-0.8,0.1-1.6-0.5-2.2l-2.8-2.6h0.1c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.3-2.2l-8.9-9.9 C79.1,4.3,78.6,4,78.1,4L78.1,4z M78,9l4.4,4.9h-0.7c-0.8,0-1.6,0.5-1.9,1.3c-0.3,0.8-0.1,1.6,0.5,2.2l2.8,2.6h-1.1 c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l4.5,4.6H70.8l4.5-4.6c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-1.1 l2.8-2.6c0.6-0.6,0.8-1.4,0.5-2.2c-0.3-0.8-1-1.3-1.9-1.3h-0.7L78,9z M52.4,12c-4.1,0-7.1,0.5-9.4,1.5c-2.3,1-3.8,2.5-4.5,4.3 c-0.7,1.8-0.5,3.6,0.1,5.2c0.6,1.5,1.5,2.9,2.5,3.9c5.4,5.4,18.1,12.6,29.6,21c5.8,4.2,11.2,8.6,15.1,13c3.9,4.4,6.2,8.7,6.2,12.4 c0,14.5-12.9,18.7-12.9,18.7c-0.7,0.2-1.2,0.8-1.4,1.5s0.1,1.5,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3c0,0,15.6-5.6,15.6-22.5 c0-5.3-2.9-10.3-7.2-15.1C84.6,53.6,79,49,73.1,44.7c-11.8-8.6-24.8-16.3-29.2-20.6c-0.6-0.6-1.2-1.5-1.6-2.4 c-0.3-0.9-0.4-1.7-0.1-2.4c0.3-0.7,0.8-1.4,2.3-2c1.5-0.7,4.1-1.2,7.8-1.2c4.9,0,9.4,0.1,9.4,0.1c0.7,0,1.4-0.3,1.8-1 c0.4-0.6,0.4-1.4,0-2.1c-0.4-0.6-1.1-1-1.8-1C61.9,12.1,57.3,12,52.4,12L52.4,12z M24,46c-0.5,0-1.1,0.2-1.4,0.6L9.2,60.5 c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h3l-6.5,6.8c-0.6,0.6-0.7,1.4-0.4,2.2s1,1.2,1.8,1.2H13l-8.5,8.6 C4,83.2,3.8,84,4.2,84.8C4.5,85.5,5.2,86,6,86h16v5.4c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8V86h16 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L35,74h4.4c0.8,0,1.5-0.5,1.8-1.2s0.2-1.6-0.4-2.2l-6.5-6.8h3 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.4-2.2L25.4,46.6C25.1,46.2,24.5,46,24,46L24,46z M24,50.9l8.7,9h-3 c-0.8,0-1.5,0.5-1.8,1.2s-0.2,1.6,0.4,2.2l6.5,6.8h-4.5c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l8.5,8.6H10.8l8.5-8.6 c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-4.5l6.5-6.8c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-3L24,50.9z"/>';
 const DUCK_ICON = "BC-duck-icon";
@@ -21029,8 +21029,9 @@ const blankRealNImplied = () => {
         prev: { reals: [], implieds: [] },
     };
 };
-const [BC_FOLDER_NOTE, BC_TAG_NOTE, BC_TAG_NOTE_FIELD, BC_TAG_NOTE_EXACT, BC_LINK_NOTE, BC_TRAVERSE_NOTE, BC_REGEX_NOTE, BC_REGEX_NOTE_FIELD, BC_HIDE_TRAIL, BC_ORDER,] = [
+const [BC_FOLDER_NOTE, BC_FOLDER_NOTE_SUBFOLDER, BC_TAG_NOTE, BC_TAG_NOTE_FIELD, BC_TAG_NOTE_EXACT, BC_LINK_NOTE, BC_TRAVERSE_NOTE, BC_REGEX_NOTE, BC_REGEX_NOTE_FIELD, BC_HIDE_TRAIL, BC_ORDER,] = [
     "BC-folder-note",
+    "BC-folder-note-subfolder",
     "BC-tag-note",
     "BC-tag-note-field",
     "BC-tag-note-exact",
@@ -21047,6 +21048,12 @@ const BC_FIELDS_INFO = [
         desc: "Set this note as a Breadcrumbs folder-note. All other notes in this folder will be added to the graph with the field name specified in this key's value",
         after: ": ",
         alt: true,
+    },
+    {
+        field: BC_FOLDER_NOTE_SUBFOLDER,
+        desc: "This folder note should take notes in the same folder as it, _and_ notes in subfolders of it.",
+        after: ": true",
+        alt: false,
     },
     {
         field: BC_TAG_NOTE,
@@ -21145,6 +21152,7 @@ const DEFAULT_SETTINGS = {
     regexNoteField: "",
     rlLeaf: true,
     showAllPathsIfNoneToIndexNote: false,
+    showAllAliases: true,
     showBCs: true,
     showBCsInEditLPMode: false,
     showRefreshNotice: true,
@@ -21152,6 +21160,7 @@ const DEFAULT_SETTINGS = {
     showTrail: true,
     showGrid: true,
     showPrevNext: true,
+    sortByNameShowAlias: false,
     squareDirectionsOrder: [0, 1, 2, 3, 4],
     limitTrailCheckboxes: [],
     limitJumpToFirstFields: [],
@@ -22655,6 +22664,25 @@ function strToRegex(input) {
     }
 }
 const dropHash = (tag) => tag.startsWith("#") ? tag.slice(1) : tag;
+function getAlt(node, plugin) {
+    var _a;
+    const { app } = plugin;
+    const { altLinkFields, showAllAliases } = plugin.settings;
+    if (altLinkFields.length) {
+        const file = app.metadataCache.getFirstLinkpathDest(node, "");
+        if (file) {
+            const metadata = app.metadataCache.getFileCache(file);
+            for (const altField of altLinkFields) {
+                const value = (_a = metadata === null || metadata === void 0 ? void 0 : metadata.frontmatter) === null || _a === void 0 ? void 0 : _a[altField];
+                const arr = typeof value === "string" ? splitAndTrim(value) : value;
+                if (value)
+                    return showAllAliases ? arr.join(", ") : arr[0];
+            }
+        }
+    }
+    else
+        return null;
+}
 
 /* node_modules\svelte-icons\components\IconBase.svelte generated by Svelte v3.35.0 */
 
@@ -23051,14 +23079,14 @@ function get_each_context$a(ctx, list, i) {
 	return child_ctx;
 }
 
-function get_each_context_1$7(ctx, list, i) {
+function get_each_context_1$8(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[15] = list[i];
 	return child_ctx;
 }
 
 // (93:6) {#each DIRECTIONS as dir}
-function create_each_block_1$7(ctx) {
+function create_each_block_1$8(ctx) {
 	let div;
 	let label;
 	let t0_value = ARROW_DIRECTIONS[/*dir*/ ctx[15]] + "";
@@ -23154,7 +23182,7 @@ function create_each_block$a(ctx) {
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_1.length; i += 1) {
-		each_blocks[i] = create_each_block_1$7(get_each_context_1$7(ctx, each_value_1, i));
+		each_blocks[i] = create_each_block_1$8(get_each_context_1$8(ctx, each_value_1, i));
 	}
 
 	return {
@@ -23227,12 +23255,12 @@ function create_each_block$a(ctx) {
 				let i;
 
 				for (i = 0; i < each_value_1.length; i += 1) {
-					const child_ctx = get_each_context_1$7(ctx, each_value_1, i);
+					const child_ctx = get_each_context_1$8(ctx, each_value_1, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block_1$7(child_ctx);
+						each_blocks[i] = create_each_block_1$8(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(details, t8);
 					}
@@ -23519,7 +23547,7 @@ function get_each_context$9(ctx, list, i) {
 	return child_ctx;
 }
 
-function get_each_context_1$6(ctx, list, i) {
+function get_each_context_1$7(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[16] = list[i];
 	return child_ctx;
@@ -23913,7 +23941,7 @@ function create_each_block_2$3(ctx) {
 }
 
 // (25:6) {#each squares as square}
-function create_each_block_1$6(ctx) {
+function create_each_block_1$7(ctx) {
 	let if_block_anchor;
 	let if_block = (/*square*/ ctx[16].realItems.length || /*showImpliedRelations*/ ctx[5] && /*square*/ ctx[16].impliedItems.length) && create_if_block$6(ctx);
 
@@ -23959,7 +23987,7 @@ function create_each_block$9(ctx) {
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_1.length; i += 1) {
-		each_blocks[i] = create_each_block_1$6(get_each_context_1$6(ctx, each_value_1, i));
+		each_blocks[i] = create_each_block_1$7(get_each_context_1$7(ctx, each_value_1, i));
 	}
 
 	return {
@@ -23997,12 +24025,12 @@ function create_each_block$9(ctx) {
 				let i;
 
 				for (i = 0; i < each_value_1.length; i += 1) {
-					const child_ctx = get_each_context_1$6(ctx, each_value_1, i);
+					const child_ctx = get_each_context_1$7(ctx, each_value_1, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block_1$6(child_ctx);
+						each_blocks[i] = create_each_block_1$7(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(details, t2);
 					}
@@ -24162,7 +24190,7 @@ function get_each_context$8(ctx, list, i) {
 	return child_ctx;
 }
 
-function get_each_context_1$5(ctx, list, i) {
+function get_each_context_1$6(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[16] = list[i];
 	return child_ctx;
@@ -24632,7 +24660,7 @@ function create_each_block_2$2(ctx) {
 }
 
 // (21:6) {#each squares as square}
-function create_each_block_1$5(ctx) {
+function create_each_block_1$6(ctx) {
 	let if_block_anchor;
 	let if_block = (/*square*/ ctx[16].realItems.length || /*showImpliedRelations*/ ctx[5] && /*square*/ ctx[16].impliedItems.length) && create_if_block$5(ctx);
 
@@ -24674,7 +24702,7 @@ function create_each_block$8(ctx) {
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_1.length; i += 1) {
-		each_blocks[i] = create_each_block_1$5(get_each_context_1$5(ctx, each_value_1, i));
+		each_blocks[i] = create_each_block_1$6(get_each_context_1$6(ctx, each_value_1, i));
 	}
 
 	return {
@@ -24703,12 +24731,12 @@ function create_each_block$8(ctx) {
 				let i;
 
 				for (i = 0; i < each_value_1.length; i += 1) {
-					const child_ctx = get_each_context_1$5(ctx, each_value_1, i);
+					const child_ctx = get_each_context_1$6(ctx, each_value_1, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block_1$5(child_ctx);
+						each_blocks[i] = create_each_block_1$6(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(div, t);
 					}
@@ -24893,15 +24921,16 @@ class MatrixView extends require$$0.ItemView {
     }
     getAlt(node) {
         var _a;
-        const { altLinkFields } = this.plugin.settings;
+        const { altLinkFields, showAllAliases } = this.plugin.settings;
         if (altLinkFields.length) {
             const file = this.app.metadataCache.getFirstLinkpathDest(node, "");
             if (file) {
                 const metadata = this.app.metadataCache.getFileCache(file);
                 for (const altField of altLinkFields) {
                     const value = (_a = metadata === null || metadata === void 0 ? void 0 : metadata.frontmatter) === null || _a === void 0 ? void 0 : _a[altField];
+                    const arr = typeof value === "string" ? splitAndTrim(value) : value;
                     if (value)
-                        return value;
+                        return showAllAliases ? arr.join(", ") : arr[0];
                 }
             }
         }
@@ -24916,7 +24945,7 @@ class MatrixView extends require$$0.ItemView {
     getHierSquares(userHiers, currFile) {
         const { plugin } = this;
         const { mainG, settings } = plugin;
-        const { alphaSortAsc, enableAlphaSort, treatCurrNodeAsImpliedSibling, squareDirectionsOrder, } = settings;
+        const { alphaSortAsc, enableAlphaSort, treatCurrNodeAsImpliedSibling, squareDirectionsOrder, sortByNameShowAlias, } = settings;
         if (!mainG)
             return [];
         const { basename } = currFile;
@@ -24979,7 +25008,8 @@ class MatrixView extends require$$0.ItemView {
             if (enableAlphaSort) {
                 squares.forEach((sq) => sq.sort((a, b) => {
                     var _a, _b;
-                    return ((_a = a.alt) !== null && _a !== void 0 ? _a : a.to) < ((_b = b.alt) !== null && _b !== void 0 ? _b : b.to)
+                    return (sortByNameShowAlias ? a.to : (_a = a.alt) !== null && _a !== void 0 ? _a : a.to) <
+                        (sortByNameShowAlias ? b.to : (_b = b.alt) !== null && _b !== void 0 ? _b : b.to)
                         ? alphaSortAsc
                             ? -1
                             : 1
@@ -25043,7 +25073,10 @@ class MatrixView extends require$$0.ItemView {
                 return;
             contentEl.createEl("button", {
                 text: this.matrixQ ? "List" : "Matrix",
-                attr: { "aria-label": "Mode" },
+                attr: {
+                    "aria-label": "Mode",
+                    style: "padding: 1px 6px 2px 6px !important; margin-left: 7px;",
+                },
             }, (el) => {
                 el.onclick = async () => {
                     this.matrixQ = !this.matrixQ;
@@ -25051,10 +25084,19 @@ class MatrixView extends require$$0.ItemView {
                     await this.draw();
                 };
             });
-            contentEl.createEl("button", { text: "↻", attr: { "aria-label": "Refresh Index" } }, (el) => (el.onclick = async () => await this.plugin.refreshIndex()));
+            contentEl.createEl("button", {
+                text: "↻",
+                attr: {
+                    "aria-label": "Refresh Index",
+                    style: "padding: 1px 6px 2px 6px;",
+                },
+            }, (el) => (el.onclick = async () => await this.plugin.refreshIndex()));
             contentEl.createEl("button", {
                 text: settings.alphaSortAsc ? "↗" : "↘",
-                attr: { "aria-label": "Alphabetical sorting order" },
+                attr: {
+                    "aria-label": "Alphabetical sorting order",
+                    style: "padding: 1px 6px 2px 6px;",
+                },
             }, (el) => {
                 el.onclick = async () => {
                     this.plugin.settings.alphaSortAsc =
@@ -25157,7 +25199,7 @@ class BCSettingTab extends require$$0.PluginSettingTab {
         })
             .addToggle((toggle) => {
             toggle
-                .setTooltip("Down View")
+                .setTooltip("Tree View")
                 .setValue(settings.openDownOnLoad)
                 .onChange(async (value) => {
                 settings.openDownOnLoad = value;
@@ -25183,6 +25225,14 @@ class BCSettingTab extends require$$0.PluginSettingTab {
                 await plugin.saveSettings();
             };
         });
+        new require$$0.Setting(generalDetails)
+            .setName("Only show first alias")
+            .setDesc("If a note has an alias (using the fields in the setting above), should only the first one be shown?")
+            .addToggle((toggle) => toggle.setValue(!settings.showAllAliases).onChange(async (value) => {
+            settings.showAllAliases = !value;
+            await plugin.saveSettings();
+            await plugin.refreshIndex();
+        }));
         new require$$0.Setting(generalDetails)
             .setName("Use yaml or inline fields for hierarchy data")
             .setDesc("If enabled, Breadcrumbs will make it's hierarchy using yaml fields, and inline fields (if you have Dataview enabled).\nIf this is disabled, it will only use Juggl links for it's metadata (See below).")
@@ -25305,6 +25355,16 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             .setDesc("Sort square items alphabetically in Ascending (✅) or Descending (❌) order, by default.")
             .addToggle((toggle) => toggle.setValue(settings.alphaSortAsc).onChange(async (value) => {
             settings.alphaSortAsc = value;
+            await plugin.saveSettings();
+            await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
+        }));
+        new require$$0.Setting(MLViewDetails)
+            .setName("Sort by note name, but show alias")
+            .setDesc("When this is turned off, notes will first be sorted by their alias, and then by their name if no alias is found. Turn this on to sort by note name always, but still show the alias in the results.")
+            .addToggle((toggle) => toggle
+            .setValue(settings.sortByNameShowAlias)
+            .onChange(async (value) => {
+            settings.sortByNameShowAlias = value;
             await plugin.saveSettings();
             await plugin.getActiveTYPEView(MATRIX_VIEW).draw();
         }));
@@ -25527,10 +25587,10 @@ class BCSettingTab extends require$$0.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.drawTrail();
         }));
-        const downViewDetails = subDetails("Down View", viewDetails);
-        new require$$0.Setting(downViewDetails)
+        const treeViewDetails = subDetails("Tree View", viewDetails);
+        new require$$0.Setting(treeViewDetails)
             .setName("Enable line wrapping")
-            .setDesc("Make the items in the down view line wrap when there isn't enough space (✅). ❌ makes them overflow off the screen.")
+            .setDesc("Make the items in the tree view line wrap when there isn't enough space (✅). ❌ makes them overflow off the screen.")
             .addToggle((toggle) => toggle.setValue(settings.downViewWrap).onChange(async (value) => {
             settings.downViewWrap = value;
             await plugin.saveSettings();
@@ -25908,29 +25968,707 @@ class BCSettingTab extends require$$0.PluginSettingTab {
     }
 }
 
-/* src\Components\NextPrev.svelte generated by Svelte v3.35.0 */
+/* src\Components\RenderMarkdown.svelte generated by Svelte v3.35.0 */
 
 function add_css$8() {
+	var style = element("style");
+	style.id = "svelte-7e9i10-style";
+	style.textContent = "div.BC-note-content.svelte-7e9i10{padding-left:20px}";
+	append(document.head, style);
+}
+
+function create_fragment$c(ctx) {
+	let div;
+
+	return {
+		c() {
+			div = element("div");
+			attr(div, "class", "BC-note-content svelte-7e9i10");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			/*div_binding*/ ctx[3](div);
+		},
+		p: noop,
+		i: noop,
+		o: noop,
+		d(detaching) {
+			if (detaching) detach(div);
+			/*div_binding*/ ctx[3](null);
+		}
+	};
+}
+
+function instance$c($$self, $$props, $$invalidate) {
+	var __awaiter = this && this.__awaiter || function (thisArg, _arguments, P, generator) {
+		function adopt(value) {
+			return value instanceof P
+			? value
+			: new P(function (resolve) {
+						resolve(value);
+					});
+		}
+
+		return new (P || (P = Promise))(function (resolve, reject) {
+				function fulfilled(value) {
+					try {
+						step(generator.next(value));
+					} catch(e) {
+						reject(e);
+					}
+				}
+
+				function rejected(value) {
+					try {
+						step(generator["throw"](value));
+					} catch(e) {
+						reject(e);
+					}
+				}
+
+				function step(result) {
+					result.done
+					? resolve(result.value)
+					: adopt(result.value).then(fulfilled, rejected);
+				}
+
+				step((generator = generator.apply(thisArg, _arguments || [])).next());
+			});
+	};
+
+	let { path } = $$props;
+	let { app } = $$props;
+
+	function getContent(note) {
+		return __awaiter(this, void 0, void 0, function* () {
+			const file = app.metadataCache.getFirstLinkpathDest(note, "");
+			return yield app.vault.cachedRead(file);
+		});
+	}
+
+	let el;
+
+	onMount(() => __awaiter(void 0, void 0, void 0, function* () {
+		require$$0.MarkdownRenderer.renderMarkdown(yield getContent(path), el, path, null);
+	}));
+
+	function div_binding($$value) {
+		binding_callbacks[$$value ? "unshift" : "push"](() => {
+			el = $$value;
+			$$invalidate(0, el);
+		});
+	}
+
+	$$self.$$set = $$props => {
+		if ("path" in $$props) $$invalidate(1, path = $$props.path);
+		if ("app" in $$props) $$invalidate(2, app = $$props.app);
+	};
+
+	return [el, path, app, div_binding];
+}
+
+class RenderMarkdown extends SvelteComponent {
+	constructor(options) {
+		super();
+		if (!document.getElementById("svelte-7e9i10-style")) add_css$8();
+		init(this, options, instance$c, create_fragment$c, safe_not_equal, { path: 1, app: 2 });
+	}
+}
+
+/* src\Components\CBTree.svelte generated by Svelte v3.35.0 */
+
+function add_css$7() {
+	var style = element("style");
+	style.id = "svelte-yt7jmz-style";
+	style.textContent = ".BC-tree.svelte-yt7jmz{padding-left:5px}pre.indent.svelte-yt7jmz{display:inline;background-color:transparent;position:top}details.svelte-yt7jmz{display:inline-block}.is-unresolved.svelte-yt7jmz{color:var(--text-muted)}";
+	append(document.head, style);
+}
+
+function get_each_context$7(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[27] = list[i][0];
+	child_ctx[28] = list[i][1];
+	return child_ctx;
+}
+
+// (48:0) {#if title !== "false"}
+function create_if_block_2$2(ctx) {
+	let h3;
+	let t0;
+	let t1;
+	let t2;
+
+	return {
+		c() {
+			h3 = element("h3");
+			t0 = text(/*dir*/ ctx[1]);
+			t1 = text(" of ");
+			t2 = text(/*basename*/ ctx[8]);
+		},
+		m(target, anchor) {
+			insert(target, h3, anchor);
+			append(h3, t0);
+			append(h3, t1);
+			append(h3, t2);
+		},
+		p(ctx, dirty) {
+			if (dirty & /*dir*/ 2) set_data(t0, /*dir*/ ctx[1]);
+		},
+		d(detaching) {
+			if (detaching) detach(h3);
+		}
+	};
+}
+
+// (53:4) {#if indent.length / 2 <= max && indent.length / 2 >= min}
+function create_if_block$4(ctx) {
+	let current_block_type_index;
+	let if_block;
+	let if_block_anchor;
+	let current;
+	const if_block_creators = [create_if_block_1$3, create_else_block$3];
+	const if_blocks = [];
+
+	function select_block_type(ctx, dirty) {
+		if (/*content*/ ctx[3] === "open" || /*content*/ ctx[3] === "closed") return 0;
+		return 1;
+	}
+
+	current_block_type_index = select_block_type(ctx);
+	if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+
+	return {
+		c() {
+			if_block.c();
+			if_block_anchor = empty();
+		},
+		m(target, anchor) {
+			if_blocks[current_block_type_index].m(target, anchor);
+			insert(target, if_block_anchor, anchor);
+			current = true;
+		},
+		p(ctx, dirty) {
+			let previous_block_index = current_block_type_index;
+			current_block_type_index = select_block_type(ctx);
+
+			if (current_block_type_index === previous_block_index) {
+				if_blocks[current_block_type_index].p(ctx, dirty);
+			} else {
+				group_outros();
+
+				transition_out(if_blocks[previous_block_index], 1, 1, () => {
+					if_blocks[previous_block_index] = null;
+				});
+
+				check_outros();
+				if_block = if_blocks[current_block_type_index];
+
+				if (!if_block) {
+					if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+					if_block.c();
+				} else {
+					if_block.p(ctx, dirty);
+				}
+
+				transition_in(if_block, 1);
+				if_block.m(if_block_anchor.parentNode, if_block_anchor);
+			}
+		},
+		i(local) {
+			if (current) return;
+			transition_in(if_block);
+			current = true;
+		},
+		o(local) {
+			transition_out(if_block);
+			current = false;
+		},
+		d(detaching) {
+			if_blocks[current_block_type_index].d(detaching);
+			if (detaching) detach(if_block_anchor);
+		}
+	};
+}
+
+// (78:6) {:else}
+function create_else_block$3(ctx) {
+	let div;
+	let pre;
+	let t0_value = /*indent*/ ctx[27] + "-" + "";
+	let t0;
+	let t1;
+	let span;
+	let a;
+	let t2_value = dropDendron(/*link*/ ctx[28], /*settings*/ ctx[6]) + "";
+	let t2;
+	let a_class_value;
+	let t3;
+	let mounted;
+	let dispose;
+
+	function click_handler_1(...args) {
+		return /*click_handler_1*/ ctx[16](/*link*/ ctx[28], ...args);
+	}
+
+	return {
+		c() {
+			div = element("div");
+			pre = element("pre");
+			t0 = text(t0_value);
+			t1 = space();
+			span = element("span");
+			a = element("a");
+			t2 = text(t2_value);
+			t3 = space();
+			attr(pre, "class", "indent svelte-yt7jmz");
+
+			attr(a, "class", a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*link*/ ctx[28])
+			? ""
+			: "is-unresolved") + " svelte-yt7jmz");
+
+			attr(span, "class", "internal-link");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			append(div, pre);
+			append(pre, t0);
+			append(div, t1);
+			append(div, span);
+			append(span, a);
+			append(a, t2);
+			append(div, t3);
+
+			if (!mounted) {
+				dispose = [
+					listen(span, "click", click_handler_1),
+					listen(span, "mouseover", mouseover_handler_1)
+				];
+
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+
+			if (dirty & /*plugin*/ 1 && a_class_value !== (a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*link*/ ctx[28])
+			? ""
+			: "is-unresolved") + " svelte-yt7jmz")) {
+				attr(a, "class", a_class_value);
+			}
+		},
+		i: noop,
+		o: noop,
+		d(detaching) {
+			if (detaching) detach(div);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+// (54:6) {#if content === "open" || content === "closed"}
+function create_if_block_1$3(ctx) {
+	let div;
+	let pre;
+	let t0_value = /*indent*/ ctx[27] + "";
+	let t0;
+	let t1;
+	let details;
+	let summary;
+	let span;
+	let a;
+	let t2_value = dropDendron(/*link*/ ctx[28], /*settings*/ ctx[6]) + "";
+	let t2;
+	let a_class_value;
+	let t3;
+	let rendermarkdown;
+	let details_open_value;
+	let t4;
+	let current;
+	let mounted;
+	let dispose;
+
+	function click_handler(...args) {
+		return /*click_handler*/ ctx[15](/*link*/ ctx[28], ...args);
+	}
+
+	rendermarkdown = new RenderMarkdown({
+			props: {
+				app: /*app*/ ctx[7],
+				path: /*link*/ ctx[28]
+			}
+		});
+
+	return {
+		c() {
+			div = element("div");
+			pre = element("pre");
+			t0 = text(t0_value);
+			t1 = space();
+			details = element("details");
+			summary = element("summary");
+			span = element("span");
+			a = element("a");
+			t2 = text(t2_value);
+			t3 = space();
+			create_component(rendermarkdown.$$.fragment);
+			t4 = space();
+			attr(pre, "class", "indent svelte-yt7jmz");
+
+			attr(a, "class", a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*link*/ ctx[28])
+			? ""
+			: "is-unresolved") + " svelte-yt7jmz");
+
+			attr(span, "class", "internal-link");
+			details.open = details_open_value = /*content*/ ctx[3] === "open";
+			attr(details, "class", "svelte-yt7jmz");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			append(div, pre);
+			append(pre, t0);
+			append(div, t1);
+			append(div, details);
+			append(details, summary);
+			append(summary, span);
+			append(span, a);
+			append(a, t2);
+			append(details, t3);
+			mount_component(rendermarkdown, details, null);
+			append(div, t4);
+			current = true;
+
+			if (!mounted) {
+				dispose = [
+					listen(span, "click", click_handler),
+					listen(span, "mouseover", mouseover_handler)
+				];
+
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+
+			if (!current || dirty & /*plugin*/ 1 && a_class_value !== (a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*link*/ ctx[28])
+			? ""
+			: "is-unresolved") + " svelte-yt7jmz")) {
+				attr(a, "class", a_class_value);
+			}
+
+			if (!current || dirty & /*content*/ 8 && details_open_value !== (details_open_value = /*content*/ ctx[3] === "open")) {
+				details.open = details_open_value;
+			}
+		},
+		i(local) {
+			if (current) return;
+			transition_in(rendermarkdown.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(rendermarkdown.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			if (detaching) detach(div);
+			destroy_component(rendermarkdown);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+// (52:2) {#each lines as [indent, link]}
+function create_each_block$7(ctx) {
+	let if_block_anchor;
+	let current;
+	let if_block = /*indent*/ ctx[27].length / 2 <= /*max*/ ctx[5] && /*indent*/ ctx[27].length / 2 >= /*min*/ ctx[4] && create_if_block$4(ctx);
+
+	return {
+		c() {
+			if (if_block) if_block.c();
+			if_block_anchor = empty();
+		},
+		m(target, anchor) {
+			if (if_block) if_block.m(target, anchor);
+			insert(target, if_block_anchor, anchor);
+			current = true;
+		},
+		p(ctx, dirty) {
+			if (/*indent*/ ctx[27].length / 2 <= /*max*/ ctx[5] && /*indent*/ ctx[27].length / 2 >= /*min*/ ctx[4]) {
+				if (if_block) {
+					if_block.p(ctx, dirty);
+
+					if (dirty & /*max, min*/ 48) {
+						transition_in(if_block, 1);
+					}
+				} else {
+					if_block = create_if_block$4(ctx);
+					if_block.c();
+					transition_in(if_block, 1);
+					if_block.m(if_block_anchor.parentNode, if_block_anchor);
+				}
+			} else if (if_block) {
+				group_outros();
+
+				transition_out(if_block, 1, 1, () => {
+					if_block = null;
+				});
+
+				check_outros();
+			}
+		},
+		i(local) {
+			if (current) return;
+			transition_in(if_block);
+			current = true;
+		},
+		o(local) {
+			transition_out(if_block);
+			current = false;
+		},
+		d(detaching) {
+			if (if_block) if_block.d(detaching);
+			if (detaching) detach(if_block_anchor);
+		}
+	};
+}
+
+function create_fragment$b(ctx) {
+	let t;
+	let div;
+	let current;
+	let if_block = /*title*/ ctx[2] !== "false" && create_if_block_2$2(ctx);
+	let each_value = /*lines*/ ctx[9];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value.length; i += 1) {
+		each_blocks[i] = create_each_block$7(get_each_context$7(ctx, each_value, i));
+	}
+
+	const out = i => transition_out(each_blocks[i], 1, 1, () => {
+		each_blocks[i] = null;
+	});
+
+	return {
+		c() {
+			if (if_block) if_block.c();
+			t = space();
+			div = element("div");
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			attr(div, "class", "BC-tree svelte-yt7jmz");
+		},
+		m(target, anchor) {
+			if (if_block) if_block.m(target, anchor);
+			insert(target, t, anchor);
+			insert(target, div, anchor);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(div, null);
+			}
+
+			current = true;
+		},
+		p(ctx, [dirty]) {
+			if (/*title*/ ctx[2] !== "false") {
+				if (if_block) {
+					if_block.p(ctx, dirty);
+				} else {
+					if_block = create_if_block_2$2(ctx);
+					if_block.c();
+					if_block.m(t.parentNode, t);
+				}
+			} else if (if_block) {
+				if_block.d(1);
+				if_block = null;
+			}
+
+			if (dirty & /*content, app, lines, openOrSwitch, plugin, isInVault, dropDendron, settings, max, min*/ 761) {
+				each_value = /*lines*/ ctx[9];
+				let i;
+
+				for (i = 0; i < each_value.length; i += 1) {
+					const child_ctx = get_each_context$7(ctx, each_value, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+						transition_in(each_blocks[i], 1);
+					} else {
+						each_blocks[i] = create_each_block$7(child_ctx);
+						each_blocks[i].c();
+						transition_in(each_blocks[i], 1);
+						each_blocks[i].m(div, null);
+					}
+				}
+
+				group_outros();
+
+				for (i = each_value.length; i < each_blocks.length; i += 1) {
+					out(i);
+				}
+
+				check_outros();
+			}
+		},
+		i(local) {
+			if (current) return;
+
+			for (let i = 0; i < each_value.length; i += 1) {
+				transition_in(each_blocks[i]);
+			}
+
+			current = true;
+		},
+		o(local) {
+			each_blocks = each_blocks.filter(Boolean);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				transition_out(each_blocks[i]);
+			}
+
+			current = false;
+		},
+		d(detaching) {
+			if (if_block) if_block.d(detaching);
+			if (detaching) detach(t);
+			if (detaching) detach(div);
+			destroy_each(each_blocks, detaching);
+		}
+	};
+}
+
+const mouseover_handler = e => {
+	
+}; //   hoverPreview needs an itemView so it can access `app`...
+//   hoverPreview(e, el, link)
+
+const mouseover_handler_1 = e => {
+	
+}; //   hoverPreview needs an itemView so it can access `app`...
+//   hoverPreview(e, el, link)
+
+function instance$b($$self, $$props, $$invalidate) {
+	
+	
+	
+	let { plugin } = $$props;
+	let { ctx } = $$props;
+	let { el } = $$props;
+	let { dir } = $$props;
+	let { fields } = $$props;
+	let { title } = $$props;
+	let { depth } = $$props;
+	let { flat } = $$props;
+	let { content } = $$props;
+	const { settings, app, mainG } = plugin;
+	const { sourcePath } = ctx;
+	const currFile = app.metadataCache.getFirstLinkpathDest(sourcePath, "");
+	const { userHiers } = settings;
+	const { basename } = currFile;
+	let min = 0, max = Infinity;
+
+	if (depth !== undefined) {
+		const minNum = parseInt(depth[0]);
+		if (!isNaN(minNum)) min = minNum;
+		const maxNum = parseInt(depth[1]);
+		if (!isNaN(maxNum)) max = maxNum;
+	}
+
+	const oppDir = getOppDir(dir);
+	const upnDown = getSubInDirs(mainG, dir, oppDir);
+	const closed = getReflexiveClosure(upnDown, userHiers);
+	const down = getSubInDirs(closed, dir);
+	const allPaths = dfsAllPaths(down, basename);
+	const index = plugin.createIndex(allPaths, false);
+	loglevel.info({ allPaths, index });
+
+	const lines = index.split("\n").map(line => {
+		const pair = line.split("- ");
+		return [flat === "true" ? "" : pair[0], pair.slice(1).join("- ")];
+	}).filter(pair => pair[1] !== "");
+
+	const click_handler = async (link, e) => await openOrSwitch(plugin.app, link, e);
+	const click_handler_1 = async (link, e) => await openOrSwitch(plugin.app, link, e);
+
+	$$self.$$set = $$props => {
+		if ("plugin" in $$props) $$invalidate(0, plugin = $$props.plugin);
+		if ("ctx" in $$props) $$invalidate(10, ctx = $$props.ctx);
+		if ("el" in $$props) $$invalidate(11, el = $$props.el);
+		if ("dir" in $$props) $$invalidate(1, dir = $$props.dir);
+		if ("fields" in $$props) $$invalidate(12, fields = $$props.fields);
+		if ("title" in $$props) $$invalidate(2, title = $$props.title);
+		if ("depth" in $$props) $$invalidate(13, depth = $$props.depth);
+		if ("flat" in $$props) $$invalidate(14, flat = $$props.flat);
+		if ("content" in $$props) $$invalidate(3, content = $$props.content);
+	};
+
+	return [
+		plugin,
+		dir,
+		title,
+		content,
+		min,
+		max,
+		settings,
+		app,
+		basename,
+		lines,
+		ctx,
+		el,
+		fields,
+		depth,
+		flat,
+		click_handler,
+		click_handler_1
+	];
+}
+
+class CBTree extends SvelteComponent {
+	constructor(options) {
+		super();
+		if (!document.getElementById("svelte-yt7jmz-style")) add_css$7();
+
+		init(this, options, instance$b, create_fragment$b, safe_not_equal, {
+			plugin: 0,
+			ctx: 10,
+			el: 11,
+			dir: 1,
+			fields: 12,
+			title: 2,
+			depth: 13,
+			flat: 14,
+			content: 3
+		});
+	}
+}
+
+/* src\Components\NextPrev.svelte generated by Svelte v3.35.0 */
+
+function add_css$6() {
 	var style = element("style");
 	style.id = "svelte-1cqb0v5-style";
 	style.textContent = ".BC-nexts.svelte-1cqb0v5 div.svelte-1cqb0v5{text-align:right}.BC-right-arrow.svelte-1cqb0v5.svelte-1cqb0v5{padding-left:5px;float:right}.BC-left-arrow.svelte-1cqb0v5.svelte-1cqb0v5{padding-right:5px;float:left}.BC-nexts.svelte-1cqb0v5.svelte-1cqb0v5{border-left:1px solid var(--background-modifier-border)}.BC-prevs.svelte-1cqb0v5.svelte-1cqb0v5{border-right:1px solid var(--background-modifier-border)}.BC-NextPrev-Container.svelte-1cqb0v5.svelte-1cqb0v5{display:grid;grid-template-columns:1fr 1fr}";
 	append(document.head, style);
 }
 
-function get_each_context$7(ctx, list, i) {
+function get_each_context$6(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[6] = list[i];
 	return child_ctx;
 }
 
-function get_each_context_1$4(ctx, list, i) {
+function get_each_context_1$5(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[9] = list[i];
 	return child_ctx;
 }
 
 // (15:6) {#each prev as p}
-function create_each_block_1$4(ctx) {
+function create_each_block_1$5(ctx) {
 	let div;
 	let strong;
 	let t0_value = /*p*/ ctx[9].field + "";
@@ -25988,7 +26726,7 @@ function create_each_block_1$4(ctx) {
 }
 
 // (28:6) {#each next as n}
-function create_each_block$7(ctx) {
+function create_each_block$6(ctx) {
 	let div;
 	let t0_value = /*n*/ ctx[6].to + "";
 	let t0;
@@ -26045,7 +26783,7 @@ function create_each_block$7(ctx) {
 	};
 }
 
-function create_fragment$c(ctx) {
+function create_fragment$a(ctx) {
 	let div2;
 	let div0;
 	let span0;
@@ -26056,14 +26794,14 @@ function create_fragment$c(ctx) {
 	let each_blocks_1 = [];
 
 	for (let i = 0; i < each_value_1.length; i += 1) {
-		each_blocks_1[i] = create_each_block_1$4(get_each_context_1$4(ctx, each_value_1, i));
+		each_blocks_1[i] = create_each_block_1$5(get_each_context_1$5(ctx, each_value_1, i));
 	}
 
 	let each_value = /*next*/ ctx[1];
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block$7(get_each_context$7(ctx, each_value, i));
+		each_blocks[i] = create_each_block$6(get_each_context$6(ctx, each_value, i));
 	}
 
 	return {
@@ -26111,12 +26849,12 @@ function create_fragment$c(ctx) {
 				let i;
 
 				for (i = 0; i < each_value_1.length; i += 1) {
-					const child_ctx = get_each_context_1$4(ctx, each_value_1, i);
+					const child_ctx = get_each_context_1$5(ctx, each_value_1, i);
 
 					if (each_blocks_1[i]) {
 						each_blocks_1[i].p(child_ctx, dirty);
 					} else {
-						each_blocks_1[i] = create_each_block_1$4(child_ctx);
+						each_blocks_1[i] = create_each_block_1$5(child_ctx);
 						each_blocks_1[i].c();
 						each_blocks_1[i].m(span0, null);
 					}
@@ -26134,12 +26872,12 @@ function create_fragment$c(ctx) {
 				let i;
 
 				for (i = 0; i < each_value.length; i += 1) {
-					const child_ctx = get_each_context$7(ctx, each_value, i);
+					const child_ctx = get_each_context$6(ctx, each_value, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block$7(child_ctx);
+						each_blocks[i] = create_each_block$6(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(span1, null);
 					}
@@ -26162,7 +26900,7 @@ function create_fragment$c(ctx) {
 	};
 }
 
-function instance$c($$self, $$props, $$invalidate) {
+function instance$a($$self, $$props, $$invalidate) {
 	
 	
 	
@@ -26186,28 +26924,28 @@ function instance$c($$self, $$props, $$invalidate) {
 class NextPrev extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1cqb0v5-style")) add_css$8();
-		init(this, options, instance$c, create_fragment$c, safe_not_equal, { app: 0, plugin: 3, next: 1, prev: 2 });
+		if (!document.getElementById("svelte-1cqb0v5-style")) add_css$6();
+		init(this, options, instance$a, create_fragment$a, safe_not_equal, { app: 0, plugin: 3, next: 1, prev: 2 });
 	}
 }
 
 /* src\Components\TrailGrid.svelte generated by Svelte v3.35.0 */
 
-function add_css$7() {
+function add_css$5() {
 	var style = element("style");
 	style.id = "svelte-ybyqyo-style";
 	style.textContent = "div.BC-trail-grid.svelte-ybyqyo{border:2px solid var(--background-modifier-border);display:grid;align-items:stretch;width:auto;height:auto}div.BC-trail-grid-item.svelte-ybyqyo{display:flex;flex-direction:column;border:1px solid var(--background-modifier-border);align-items:center;justify-content:center;padding:2px;font-size:smaller}div.BC-trail-grid-item.BC-filler.svelte-ybyqyo{opacity:0.7}.dot.svelte-ybyqyo{height:5px;width:5px;border-radius:50%;display:inline-block}";
 	append(document.head, style);
 }
 
-function get_each_context$6(ctx, list, i) {
+function get_each_context$5(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[21] = list[i];
 	child_ctx[23] = i;
 	return child_ctx;
 }
 
-function get_each_context_1$3(ctx, list, i) {
+function get_each_context_1$4(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[24] = list[i];
 	return child_ctx;
@@ -26220,9 +26958,9 @@ function get_each_context_2$1(ctx, list, i) {
 }
 
 // (81:8) {#if step.value && settings.gridDots}
-function create_if_block$4(ctx) {
+function create_if_block$3(ctx) {
 	let div;
-	let each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[2][/*step*/ ctx[24].value] / 1000));
+	let each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[3][/*step*/ ctx[24].value] / 1000));
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_2.length; i += 1) {
@@ -26247,8 +26985,8 @@ function create_if_block$4(ctx) {
 			}
 		},
 		p(ctx, dirty) {
-			if (dirty & /*settings, wordCounts*/ 20) {
-				each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[2][/*step*/ ctx[24].value] / 1000));
+			if (dirty & /*settings, wordCounts*/ 40) {
+				each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[3][/*step*/ ctx[24].value] / 1000));
 				let i;
 
 				for (i = 0; i < each_value_2.length; i += 1) {
@@ -26285,7 +27023,7 @@ function create_each_block_2$1(ctx) {
 		c() {
 			span = element("span");
 			attr(span, "class", "dot svelte-ybyqyo");
-			set_style(span, "background-color", /*settings*/ ctx[4].dotsColour);
+			set_style(span, "background-color", /*settings*/ ctx[5].dotsColour);
 		},
 		m(target, anchor) {
 			insert(target, span, anchor);
@@ -26298,10 +27036,10 @@ function create_each_block_2$1(ctx) {
 }
 
 // (64:4) {#each allRuns[i] as step}
-function create_each_block_1$3(ctx) {
+function create_each_block_1$4(ctx) {
 	let div1;
 	let div0;
-	let t0_value = dropDendron(/*step*/ ctx[24].value, /*settings*/ ctx[4]) + "";
+	let t0_value = (getAlt(/*step*/ ctx[24].value, /*plugin*/ ctx[2]) ?? dropDendron(/*step*/ ctx[24].value, /*settings*/ ctx[5])) + "";
 	let t0;
 	let div0_class_value;
 	let t1;
@@ -26310,7 +27048,7 @@ function create_each_block_1$3(ctx) {
 	let div1_style_value;
 	let mounted;
 	let dispose;
-	let if_block = /*step*/ ctx[24].value && /*settings*/ ctx[4].gridDots && create_if_block$4(ctx);
+	let if_block = /*step*/ ctx[24].value && /*settings*/ ctx[5].gridDots && create_if_block$3(ctx);
 
 	function click_handler(...args) {
 		return /*click_handler*/ ctx[9](/*step*/ ctx[24], ...args);
@@ -26331,8 +27069,8 @@ function create_each_block_1$3(ctx) {
 			attr(div0, "class", div0_class_value = "" + (null_to_empty(linkClass(/*app*/ ctx[1], /*step*/ ctx[24].value)) + " svelte-ybyqyo"));
 			attr(div1, "class", div1_class_value = "BC-trail-grid-item " + (/*step*/ ctx[24].value === "" ? "BC-filler" : "") + " svelte-ybyqyo");
 
-			attr(div1, "style", div1_style_value = "\r\n            grid-area: " + (/*step*/ ctx[24].first + 1) + " / " + (/*i*/ ctx[23] + 1) + " / \r\n                " + (/*step*/ ctx[24].last + 2) + " / " + (/*i*/ ctx[23] + 2) + ";\r\n            " + (/*settings*/ ctx[4].gridHeatmap
-			? `background-color: ${/*settings*/ ctx[4].heatmapColour}${Math.round(/*children*/ ctx[3][/*step*/ ctx[24].value] * 200 + 55).toString(16)}`
+			attr(div1, "style", div1_style_value = "\r\n            grid-area: " + (/*step*/ ctx[24].first + 1) + " / " + (/*i*/ ctx[23] + 1) + " / \r\n                " + (/*step*/ ctx[24].last + 2) + " / " + (/*i*/ ctx[23] + 2) + ";\r\n            " + (/*settings*/ ctx[5].gridHeatmap
+			? `background-color: ${/*settings*/ ctx[5].heatmapColour}${Math.round(/*children*/ ctx[4][/*step*/ ctx[24].value] * 200 + 55).toString(16)}`
 			: ""));
 		},
 		m(target, anchor) {
@@ -26354,15 +27092,16 @@ function create_each_block_1$3(ctx) {
 		},
 		p(new_ctx, dirty) {
 			ctx = new_ctx;
+			if (dirty & /*plugin*/ 4 && t0_value !== (t0_value = (getAlt(/*step*/ ctx[24].value, /*plugin*/ ctx[2]) ?? dropDendron(/*step*/ ctx[24].value, /*settings*/ ctx[5])) + "")) set_data(t0, t0_value);
 
 			if (dirty & /*app*/ 2 && div0_class_value !== (div0_class_value = "" + (null_to_empty(linkClass(/*app*/ ctx[1], /*step*/ ctx[24].value)) + " svelte-ybyqyo"))) {
 				attr(div0, "class", div0_class_value);
 			}
 
-			if (/*step*/ ctx[24].value && /*settings*/ ctx[4].gridDots) if_block.p(ctx, dirty);
+			if (/*step*/ ctx[24].value && /*settings*/ ctx[5].gridDots) if_block.p(ctx, dirty);
 
-			if (dirty & /*children*/ 8 && div1_style_value !== (div1_style_value = "\r\n            grid-area: " + (/*step*/ ctx[24].first + 1) + " / " + (/*i*/ ctx[23] + 1) + " / \r\n                " + (/*step*/ ctx[24].last + 2) + " / " + (/*i*/ ctx[23] + 2) + ";\r\n            " + (/*settings*/ ctx[4].gridHeatmap
-			? `background-color: ${/*settings*/ ctx[4].heatmapColour}${Math.round(/*children*/ ctx[3][/*step*/ ctx[24].value] * 200 + 55).toString(16)}`
+			if (dirty & /*children*/ 16 && div1_style_value !== (div1_style_value = "\r\n            grid-area: " + (/*step*/ ctx[24].first + 1) + " / " + (/*i*/ ctx[23] + 1) + " / \r\n                " + (/*step*/ ctx[24].last + 2) + " / " + (/*i*/ ctx[23] + 2) + ";\r\n            " + (/*settings*/ ctx[5].gridHeatmap
+			? `background-color: ${/*settings*/ ctx[5].heatmapColour}${Math.round(/*children*/ ctx[4][/*step*/ ctx[24].value] * 200 + 55).toString(16)}`
 			: ""))) {
 				attr(div1, "style", div1_style_value);
 			}
@@ -26377,9 +27116,246 @@ function create_each_block_1$3(ctx) {
 }
 
 // (63:2) {#each transposedTrails as col, i}
-function create_each_block$6(ctx) {
+function create_each_block$5(ctx) {
 	let each_1_anchor;
-	let each_value_1 = /*allRuns*/ ctx[7][/*i*/ ctx[23]];
+	let each_value_1 = /*allRuns*/ ctx[8][/*i*/ ctx[23]];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value_1.length; i += 1) {
+		each_blocks[i] = create_each_block_1$4(get_each_context_1$4(ctx, each_value_1, i));
+	}
+
+	return {
+		c() {
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			each_1_anchor = empty();
+		},
+		m(target, anchor) {
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(target, anchor);
+			}
+
+			insert(target, each_1_anchor, anchor);
+		},
+		p(ctx, dirty) {
+			if (dirty & /*allRuns, settings, Math, children, openOrSwitch, app, hoverPreview, activeLeafView, range, wordCounts, linkClass, getAlt, plugin, dropDendron*/ 382) {
+				each_value_1 = /*allRuns*/ ctx[8][/*i*/ ctx[23]];
+				let i;
+
+				for (i = 0; i < each_value_1.length; i += 1) {
+					const child_ctx = get_each_context_1$4(ctx, each_value_1, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+					} else {
+						each_blocks[i] = create_each_block_1$4(child_ctx);
+						each_blocks[i].c();
+						each_blocks[i].m(each_1_anchor.parentNode, each_1_anchor);
+					}
+				}
+
+				for (; i < each_blocks.length; i += 1) {
+					each_blocks[i].d(1);
+				}
+
+				each_blocks.length = each_value_1.length;
+			}
+		},
+		d(detaching) {
+			destroy_each(each_blocks, detaching);
+			if (detaching) detach(each_1_anchor);
+		}
+	};
+}
+
+function create_fragment$9(ctx) {
+	let div;
+	let each_value = /*transposedTrails*/ ctx[7];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value.length; i += 1) {
+		each_blocks[i] = create_each_block$5(get_each_context$5(ctx, each_value, i));
+	}
+
+	return {
+		c() {
+			div = element("div");
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			attr(div, "class", "BC-trail-grid svelte-ybyqyo");
+			set_style(div, "grid-template-columns", ("1fr ").repeat(/*transposedTrails*/ ctx[7].length));
+			set_style(div, "grid-template-rows", ("1fr ").repeat(/*sortedTrails*/ ctx[0].length));
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(div, null);
+			}
+		},
+		p(ctx, [dirty]) {
+			if (dirty & /*allRuns, settings, Math, children, openOrSwitch, app, hoverPreview, activeLeafView, range, wordCounts, linkClass, getAlt, plugin, dropDendron*/ 382) {
+				each_value = /*transposedTrails*/ ctx[7];
+				let i;
+
+				for (i = 0; i < each_value.length; i += 1) {
+					const child_ctx = get_each_context$5(ctx, each_value, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+					} else {
+						each_blocks[i] = create_each_block$5(child_ctx);
+						each_blocks[i].c();
+						each_blocks[i].m(div, null);
+					}
+				}
+
+				for (; i < each_blocks.length; i += 1) {
+					each_blocks[i].d(1);
+				}
+
+				each_blocks.length = each_value.length;
+			}
+
+			if (dirty & /*sortedTrails*/ 1) {
+				set_style(div, "grid-template-rows", ("1fr ").repeat(/*sortedTrails*/ ctx[0].length));
+			}
+		},
+		i: noop,
+		o: noop,
+		d(detaching) {
+			if (detaching) detach(div);
+			destroy_each(each_blocks, detaching);
+		}
+	};
+}
+
+function instance$9($$self, $$props, $$invalidate) {
+	
+	
+	let { sortedTrails } = $$props;
+	let { app } = $$props;
+	let { plugin } = $$props;
+	const settings = plugin.settings;
+	const currFile = app.workspace.getActiveFile();
+	const activeLeafView = app.workspace.activeLeaf.view;
+	const allCells = [...new Set(sortedTrails.reduce((a, b) => [...a, ...b]))];
+	const wordCounts = {};
+
+	allCells.forEach(cell => {
+		var _a;
+
+		try {
+			$$invalidate(
+				3,
+				wordCounts[cell] = (_a = app.metadataCache.getFirstLinkpathDest(cell, "")) === null || _a === void 0
+				? void 0
+				: _a.stat.size,
+				wordCounts
+			);
+		} catch(error) {
+			console.log(error, { currFile });
+			$$invalidate(3, wordCounts[cell] = 0, wordCounts);
+		}
+	});
+
+	// const data: {[cell: string]: number} = {}
+	// allCells.forEach(cell => data[cell] = app.metadataCache.getFileCache(app.metadataCache.getFirstLinkpathDest(cell, currFile.path))?.links.length ?? 0);
+	const { mainG } = plugin;
+
+	const [up, down] = [getSubInDirs(mainG, "up"), getSubInDirs(mainG, "down")];
+	const closedParents = closeImpliedLinks(up, down);
+	const children = {};
+	allCells.forEach(cell => $$invalidate(4, children[cell] = getOutNeighbours(closedParents, cell).length, children));
+	const normalisedData = normalise(Object.values(children));
+
+	allCells.forEach((cell, i) => {
+		$$invalidate(4, children[cell] = normalisedData[i], children);
+	});
+
+	// const normalisedData = allCells.forEach(cell => {
+	// })
+	// const links: {[cell: string]: number}[] = []
+	// data.forEach(cell => links[Object.keys(cell)[0]] = (Object.values(cell)[0]?.links.length ?? 0))
+	// console.log(data)
+	const maxLength = Math.max(...sortedTrails.map(trail => trail.length));
+
+	const paddedTrails = sortedTrails.map(trail => padArray(trail, maxLength));
+
+	// const permutations: string[][][] = permute(paddedTrails.map(trail => [trail[0]]))
+	// //  permutations.map(trails => sum(transpose(trails).map(runs).map(runs => runs.length)))
+	// const ALLRuns = permutations.map(permutation => transpose(permutation).map(runs))
+	// const runsPerRun = ALLRuns.map(runs => runs[0].length)
+	// const minRunLength = Math.min(...runsPerRun);
+	// const indexOfMinRun = runsPerRun.indexOf(minRunLength);
+	// const minRun = ALLRuns[indexOfMinRun]
+	const transposedTrails = transpose(paddedTrails);
+
+	const allRuns = transposedTrails.map(runs);
+	const click_handler = (step, e) => openOrSwitch(app, step.value, e);
+	const mouseover_handler = (step, e) => hoverPreview(e, activeLeafView, step.value);
+
+	$$self.$$set = $$props => {
+		if ("sortedTrails" in $$props) $$invalidate(0, sortedTrails = $$props.sortedTrails);
+		if ("app" in $$props) $$invalidate(1, app = $$props.app);
+		if ("plugin" in $$props) $$invalidate(2, plugin = $$props.plugin);
+	};
+
+	return [
+		sortedTrails,
+		app,
+		plugin,
+		wordCounts,
+		children,
+		settings,
+		activeLeafView,
+		transposedTrails,
+		allRuns,
+		click_handler,
+		mouseover_handler
+	];
+}
+
+class TrailGrid extends SvelteComponent {
+	constructor(options) {
+		super();
+		if (!document.getElementById("svelte-ybyqyo-style")) add_css$5();
+		init(this, options, instance$9, create_fragment$9, safe_not_equal, { sortedTrails: 0, app: 1, plugin: 2 });
+	}
+}
+
+/* src\Components\TrailPath.svelte generated by Svelte v3.35.0 */
+
+function add_css$4() {
+	var style = element("style");
+	style.id = "svelte-3c1frp-style";
+	style.textContent = "span.BC-trail-path-container.svelte-3c1frp{display:flex;justify-content:space-between}";
+	append(document.head, style);
+}
+
+function get_each_context$4(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[10] = list[i];
+	return child_ctx;
+}
+
+function get_each_context_1$3(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[13] = list[i];
+	child_ctx[15] = i;
+	return child_ctx;
+}
+
+// (20:8) {:else}
+function create_else_block$2(ctx) {
+	let each_1_anchor;
+	let each_value_1 = /*trail*/ ctx[10];
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_1.length; i += 1) {
@@ -26402,8 +27378,8 @@ function create_each_block$6(ctx) {
 			insert(target, each_1_anchor, anchor);
 		},
 		p(ctx, dirty) {
-			if (dirty & /*allRuns, settings, Math, children, openOrSwitch, app, hoverPreview, activeLeafView, range, wordCounts, linkClass, dropDendron*/ 190) {
-				each_value_1 = /*allRuns*/ ctx[7][/*i*/ ctx[23]];
+			if (dirty & /*settings, trailsToShow, openOrSwitch, app, hoverPreview, view, getAlt, plugin, dropDendron*/ 118) {
+				each_value_1 = /*trail*/ ctx[10];
 				let i;
 
 				for (i = 0; i < each_value_1.length; i += 1) {
@@ -26432,251 +27408,14 @@ function create_each_block$6(ctx) {
 	};
 }
 
-function create_fragment$b(ctx) {
-	let div;
-	let each_value = /*transposedTrails*/ ctx[6];
-	let each_blocks = [];
-
-	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block$6(get_each_context$6(ctx, each_value, i));
-	}
-
-	return {
-		c() {
-			div = element("div");
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].c();
-			}
-
-			attr(div, "class", "BC-trail-grid svelte-ybyqyo");
-			set_style(div, "grid-template-columns", ("1fr ").repeat(/*transposedTrails*/ ctx[6].length));
-			set_style(div, "grid-template-rows", ("1fr ").repeat(/*sortedTrails*/ ctx[0].length));
-		},
-		m(target, anchor) {
-			insert(target, div, anchor);
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].m(div, null);
-			}
-		},
-		p(ctx, [dirty]) {
-			if (dirty & /*allRuns, settings, Math, children, openOrSwitch, app, hoverPreview, activeLeafView, range, wordCounts, linkClass, dropDendron*/ 190) {
-				each_value = /*transposedTrails*/ ctx[6];
-				let i;
-
-				for (i = 0; i < each_value.length; i += 1) {
-					const child_ctx = get_each_context$6(ctx, each_value, i);
-
-					if (each_blocks[i]) {
-						each_blocks[i].p(child_ctx, dirty);
-					} else {
-						each_blocks[i] = create_each_block$6(child_ctx);
-						each_blocks[i].c();
-						each_blocks[i].m(div, null);
-					}
-				}
-
-				for (; i < each_blocks.length; i += 1) {
-					each_blocks[i].d(1);
-				}
-
-				each_blocks.length = each_value.length;
-			}
-
-			if (dirty & /*sortedTrails*/ 1) {
-				set_style(div, "grid-template-rows", ("1fr ").repeat(/*sortedTrails*/ ctx[0].length));
-			}
-		},
-		i: noop,
-		o: noop,
-		d(detaching) {
-			if (detaching) detach(div);
-			destroy_each(each_blocks, detaching);
-		}
-	};
-}
-
-function instance$b($$self, $$props, $$invalidate) {
-	
-	
-	let { sortedTrails } = $$props;
-	let { app } = $$props;
-	let { plugin } = $$props;
-	const settings = plugin.settings;
-	const currFile = app.workspace.getActiveFile();
-	const activeLeafView = app.workspace.activeLeaf.view;
-	const allCells = [...new Set(sortedTrails.reduce((a, b) => [...a, ...b]))];
-	const wordCounts = {};
-
-	allCells.forEach(cell => {
-		var _a;
-
-		try {
-			$$invalidate(
-				2,
-				wordCounts[cell] = (_a = app.metadataCache.getFirstLinkpathDest(cell, "")) === null || _a === void 0
-				? void 0
-				: _a.stat.size,
-				wordCounts
-			);
-		} catch(error) {
-			console.log(error, { currFile });
-			$$invalidate(2, wordCounts[cell] = 0, wordCounts);
-		}
-	});
-
-	// const data: {[cell: string]: number} = {}
-	// allCells.forEach(cell => data[cell] = app.metadataCache.getFileCache(app.metadataCache.getFirstLinkpathDest(cell, currFile.path))?.links.length ?? 0);
-	const { mainG } = plugin;
-
-	const [up, down] = [getSubInDirs(mainG, "up"), getSubInDirs(mainG, "down")];
-	const closedParents = closeImpliedLinks(up, down);
-	const children = {};
-	allCells.forEach(cell => $$invalidate(3, children[cell] = getOutNeighbours(closedParents, cell).length, children));
-	const normalisedData = normalise(Object.values(children));
-
-	allCells.forEach((cell, i) => {
-		$$invalidate(3, children[cell] = normalisedData[i], children);
-	});
-
-	// const normalisedData = allCells.forEach(cell => {
-	// })
-	// const links: {[cell: string]: number}[] = []
-	// data.forEach(cell => links[Object.keys(cell)[0]] = (Object.values(cell)[0]?.links.length ?? 0))
-	// console.log(data)
-	const maxLength = Math.max(...sortedTrails.map(trail => trail.length));
-
-	const paddedTrails = sortedTrails.map(trail => padArray(trail, maxLength));
-
-	// const permutations: string[][][] = permute(paddedTrails.map(trail => [trail[0]]))
-	// //  permutations.map(trails => sum(transpose(trails).map(runs).map(runs => runs.length)))
-	// const ALLRuns = permutations.map(permutation => transpose(permutation).map(runs))
-	// const runsPerRun = ALLRuns.map(runs => runs[0].length)
-	// const minRunLength = Math.min(...runsPerRun);
-	// const indexOfMinRun = runsPerRun.indexOf(minRunLength);
-	// const minRun = ALLRuns[indexOfMinRun]
-	const transposedTrails = transpose(paddedTrails);
-
-	const allRuns = transposedTrails.map(runs);
-	const click_handler = (step, e) => openOrSwitch(app, step.value, e);
-	const mouseover_handler = (step, e) => hoverPreview(e, activeLeafView, step.value);
-
-	$$self.$$set = $$props => {
-		if ("sortedTrails" in $$props) $$invalidate(0, sortedTrails = $$props.sortedTrails);
-		if ("app" in $$props) $$invalidate(1, app = $$props.app);
-		if ("plugin" in $$props) $$invalidate(8, plugin = $$props.plugin);
-	};
-
-	return [
-		sortedTrails,
-		app,
-		wordCounts,
-		children,
-		settings,
-		activeLeafView,
-		transposedTrails,
-		allRuns,
-		plugin,
-		click_handler,
-		mouseover_handler
-	];
-}
-
-class TrailGrid extends SvelteComponent {
-	constructor(options) {
-		super();
-		if (!document.getElementById("svelte-ybyqyo-style")) add_css$7();
-		init(this, options, instance$b, create_fragment$b, safe_not_equal, { sortedTrails: 0, app: 1, plugin: 8 });
-	}
-}
-
-/* src\Components\TrailPath.svelte generated by Svelte v3.35.0 */
-
-function add_css$6() {
-	var style = element("style");
-	style.id = "svelte-3c1frp-style";
-	style.textContent = "span.BC-trail-path-container.svelte-3c1frp{display:flex;justify-content:space-between}";
-	append(document.head, style);
-}
-
-function get_each_context$5(ctx, list, i) {
-	const child_ctx = ctx.slice();
-	child_ctx[10] = list[i];
-	return child_ctx;
-}
-
-function get_each_context_1$2(ctx, list, i) {
-	const child_ctx = ctx.slice();
-	child_ctx[13] = list[i];
-	child_ctx[15] = i;
-	return child_ctx;
-}
-
-// (20:8) {:else}
-function create_else_block$3(ctx) {
-	let each_1_anchor;
-	let each_value_1 = /*trail*/ ctx[10];
-	let each_blocks = [];
-
-	for (let i = 0; i < each_value_1.length; i += 1) {
-		each_blocks[i] = create_each_block_1$2(get_each_context_1$2(ctx, each_value_1, i));
-	}
-
-	return {
-		c() {
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].c();
-			}
-
-			each_1_anchor = empty();
-		},
-		m(target, anchor) {
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].m(target, anchor);
-			}
-
-			insert(target, each_1_anchor, anchor);
-		},
-		p(ctx, dirty) {
-			if (dirty & /*settings, trailsToShow, openOrSwitch, app, hoverPreview, view, dropDendron*/ 58) {
-				each_value_1 = /*trail*/ ctx[10];
-				let i;
-
-				for (i = 0; i < each_value_1.length; i += 1) {
-					const child_ctx = get_each_context_1$2(ctx, each_value_1, i);
-
-					if (each_blocks[i]) {
-						each_blocks[i].p(child_ctx, dirty);
-					} else {
-						each_blocks[i] = create_each_block_1$2(child_ctx);
-						each_blocks[i].c();
-						each_blocks[i].m(each_1_anchor.parentNode, each_1_anchor);
-					}
-				}
-
-				for (; i < each_blocks.length; i += 1) {
-					each_blocks[i].d(1);
-				}
-
-				each_blocks.length = each_value_1.length;
-			}
-		},
-		d(detaching) {
-			destroy_each(each_blocks, detaching);
-			if (detaching) detach(each_1_anchor);
-		}
-	};
-}
-
 // (18:8) {#if trail.length === 0}
-function create_if_block_1$3(ctx) {
+function create_if_block_1$2(ctx) {
 	let span;
 
 	return {
 		c() {
 			span = element("span");
-			span.textContent = `${/*settings*/ ctx[4].noPathMessage}`;
+			span.textContent = `${/*settings*/ ctx[5].noPathMessage}`;
 		},
 		m(target, anchor) {
 			insert(target, span, anchor);
@@ -26689,13 +27428,13 @@ function create_if_block_1$3(ctx) {
 }
 
 // (29:12) {#if i < trail.length - 1}
-function create_if_block_2$2(ctx) {
+function create_if_block_2$1(ctx) {
 	let span;
 
 	return {
 		c() {
 			span = element("span");
-			span.textContent = `${" " + /*settings*/ ctx[4].trailSeperator + " "}`;
+			span.textContent = `${" " + /*settings*/ ctx[5].trailSeperator + " "}`;
 		},
 		m(target, anchor) {
 			insert(target, span, anchor);
@@ -26708,9 +27447,9 @@ function create_if_block_2$2(ctx) {
 }
 
 // (21:10) {#each trail as crumb, i}
-function create_each_block_1$2(ctx) {
+function create_each_block_1$3(ctx) {
 	let span;
-	let t0_value = dropDendron(/*crumb*/ ctx[13], /*settings*/ ctx[4]) + "";
+	let t0_value = (getAlt(/*crumb*/ ctx[13], /*plugin*/ ctx[2]) ?? dropDendron(/*crumb*/ ctx[13], /*settings*/ ctx[5])) + "";
 	let t0;
 	let t1;
 	let if_block_anchor;
@@ -26725,7 +27464,7 @@ function create_each_block_1$2(ctx) {
 		return /*mouseover_handler*/ ctx[8](/*crumb*/ ctx[13], ...args);
 	}
 
-	let if_block = /*i*/ ctx[15] < /*trail*/ ctx[10].length - 1 && create_if_block_2$2(ctx);
+	let if_block = /*i*/ ctx[15] < /*trail*/ ctx[10].length - 1 && create_if_block_2$1(ctx);
 
 	return {
 		c() {
@@ -26754,13 +27493,13 @@ function create_each_block_1$2(ctx) {
 		},
 		p(new_ctx, dirty) {
 			ctx = new_ctx;
-			if (dirty & /*trailsToShow*/ 8 && t0_value !== (t0_value = dropDendron(/*crumb*/ ctx[13], /*settings*/ ctx[4]) + "")) set_data(t0, t0_value);
+			if (dirty & /*trailsToShow, plugin*/ 20 && t0_value !== (t0_value = (getAlt(/*crumb*/ ctx[13], /*plugin*/ ctx[2]) ?? dropDendron(/*crumb*/ ctx[13], /*settings*/ ctx[5])) + "")) set_data(t0, t0_value);
 
 			if (/*i*/ ctx[15] < /*trail*/ ctx[10].length - 1) {
 				if (if_block) {
 					if_block.p(ctx, dirty);
 				} else {
-					if_block = create_if_block_2$2(ctx);
+					if_block = create_if_block_2$1(ctx);
 					if_block.c();
 					if_block.m(if_block_anchor.parentNode, if_block_anchor);
 				}
@@ -26781,13 +27520,13 @@ function create_each_block_1$2(ctx) {
 }
 
 // (16:4) {#each trailsToShow as trail}
-function create_each_block$5(ctx) {
+function create_each_block$4(ctx) {
 	let div;
 	let t;
 
 	function select_block_type(ctx, dirty) {
-		if (/*trail*/ ctx[10].length === 0) return create_if_block_1$3;
-		return create_else_block$3;
+		if (/*trail*/ ctx[10].length === 0) return create_if_block_1$2;
+		return create_else_block$2;
 	}
 
 	let current_block_type = select_block_type(ctx);
@@ -26825,10 +27564,10 @@ function create_each_block$5(ctx) {
 }
 
 // (38:2) {#if sortedTrails.length > 1}
-function create_if_block$3(ctx) {
+function create_if_block$2(ctx) {
 	let div;
 	let button;
-	let t_value = (/*showAll*/ ctx[2] ? "Shortest" : "All") + "";
+	let t_value = (/*showAll*/ ctx[3] ? "Shortest" : "All") + "";
 	let t;
 	let mounted;
 	let dispose;
@@ -26851,7 +27590,7 @@ function create_if_block$3(ctx) {
 			}
 		},
 		p(ctx, dirty) {
-			if (dirty & /*showAll*/ 4 && t_value !== (t_value = (/*showAll*/ ctx[2] ? "Shortest" : "All") + "")) set_data(t, t_value);
+			if (dirty & /*showAll*/ 8 && t_value !== (t_value = (/*showAll*/ ctx[3] ? "Shortest" : "All") + "")) set_data(t, t_value);
 		},
 		d(detaching) {
 			if (detaching) detach(div);
@@ -26861,18 +27600,18 @@ function create_if_block$3(ctx) {
 	};
 }
 
-function create_fragment$a(ctx) {
+function create_fragment$8(ctx) {
 	let span;
 	let div;
 	let t;
-	let each_value = /*trailsToShow*/ ctx[3];
+	let each_value = /*trailsToShow*/ ctx[4];
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block$5(get_each_context$5(ctx, each_value, i));
+		each_blocks[i] = create_each_block$4(get_each_context$4(ctx, each_value, i));
 	}
 
-	let if_block = /*sortedTrails*/ ctx[0].length > 1 && create_if_block$3(ctx);
+	let if_block = /*sortedTrails*/ ctx[0].length > 1 && create_if_block$2(ctx);
 
 	return {
 		c() {
@@ -26900,17 +27639,17 @@ function create_fragment$a(ctx) {
 			if (if_block) if_block.m(span, null);
 		},
 		p(ctx, [dirty]) {
-			if (dirty & /*settings, trailsToShow, openOrSwitch, app, hoverPreview, view, dropDendron*/ 58) {
-				each_value = /*trailsToShow*/ ctx[3];
+			if (dirty & /*settings, trailsToShow, openOrSwitch, app, hoverPreview, view, getAlt, plugin, dropDendron*/ 118) {
+				each_value = /*trailsToShow*/ ctx[4];
 				let i;
 
 				for (i = 0; i < each_value.length; i += 1) {
-					const child_ctx = get_each_context$5(ctx, each_value, i);
+					const child_ctx = get_each_context$4(ctx, each_value, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block$5(child_ctx);
+						each_blocks[i] = create_each_block$4(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(div, null);
 					}
@@ -26927,7 +27666,7 @@ function create_fragment$a(ctx) {
 				if (if_block) {
 					if_block.p(ctx, dirty);
 				} else {
-					if_block = create_if_block$3(ctx);
+					if_block = create_if_block$2(ctx);
 					if_block.c();
 					if_block.m(span, null);
 				}
@@ -26946,7 +27685,7 @@ function create_fragment$a(ctx) {
 	};
 }
 
-function instance$a($$self, $$props, $$invalidate) {
+function instance$8($$self, $$props, $$invalidate) {
 	let trailsToShow;
 	
 	
@@ -26958,28 +27697,28 @@ function instance$a($$self, $$props, $$invalidate) {
 	let showAll = settings.showAll;
 	const click_handler = async (crumb, e) => await openOrSwitch(app, crumb, e);
 	const mouseover_handler = (crumb, e) => hoverPreview(e, view, crumb);
-	const click_handler_1 = () => $$invalidate(2, showAll = !showAll);
+	const click_handler_1 = () => $$invalidate(3, showAll = !showAll);
 
 	$$self.$$set = $$props => {
 		if ("sortedTrails" in $$props) $$invalidate(0, sortedTrails = $$props.sortedTrails);
 		if ("app" in $$props) $$invalidate(1, app = $$props.app);
-		if ("plugin" in $$props) $$invalidate(6, plugin = $$props.plugin);
+		if ("plugin" in $$props) $$invalidate(2, plugin = $$props.plugin);
 	};
 
 	$$self.$$.update = () => {
-		if ($$self.$$.dirty & /*showAll, sortedTrails*/ 5) {
-			$$invalidate(3, trailsToShow = showAll ? sortedTrails : [sortedTrails[0]]);
+		if ($$self.$$.dirty & /*showAll, sortedTrails*/ 9) {
+			$$invalidate(4, trailsToShow = showAll ? sortedTrails : [sortedTrails[0]]);
 		}
 	};
 
 	return [
 		sortedTrails,
 		app,
+		plugin,
 		showAll,
 		trailsToShow,
 		settings,
 		view,
-		plugin,
 		click_handler,
 		mouseover_handler,
 		click_handler_1
@@ -26989,12 +27728,12 @@ function instance$a($$self, $$props, $$invalidate) {
 class TrailPath extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-3c1frp-style")) add_css$6();
-		init(this, options, instance$a, create_fragment$a, safe_not_equal, { sortedTrails: 0, app: 1, plugin: 6 });
+		if (!document.getElementById("svelte-3c1frp-style")) add_css$4();
+		init(this, options, instance$8, create_fragment$8, safe_not_equal, { sortedTrails: 0, app: 1, plugin: 2 });
 	}
 }
 
-/* node_modules\svelte-icons\fa\FaFire.svelte generated by Svelte v3.35.0 */
+/* node_modules\svelte-icons\fa\FaInfo.svelte generated by Svelte v3.35.0 */
 
 function create_default_slot$2(ctx) {
 	let path;
@@ -27002,7 +27741,7 @@ function create_default_slot$2(ctx) {
 	return {
 		c() {
 			path = svg_element("path");
-			attr(path, "d", "M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z");
+			attr(path, "d", "M20 424.229h20V279.771H20c-11.046 0-20-8.954-20-20V212c0-11.046 8.954-20 20-20h112c11.046 0 20 8.954 20 20v212.229h20c11.046 0 20 8.954 20 20V492c0 11.046-8.954 20-20 20H20c-11.046 0-20-8.954-20-20v-47.771c0-11.046 8.954-20 20-20zM96 0C56.235 0 24 32.235 24 72s32.235 72 72 72 72-32.235 72-72S135.764 0 96 0z");
 		},
 		m(target, anchor) {
 			insert(target, path, anchor);
@@ -27013,10 +27752,10 @@ function create_default_slot$2(ctx) {
 	};
 }
 
-function create_fragment$9(ctx) {
+function create_fragment$7(ctx) {
 	let iconbase;
 	let current;
-	const iconbase_spread_levels = [{ viewBox: "0 0 384 512" }, /*$$props*/ ctx[0]];
+	const iconbase_spread_levels = [{ viewBox: "0 0 192 512" }, /*$$props*/ ctx[0]];
 
 	let iconbase_props = {
 		$$slots: { default: [create_default_slot$2] },
@@ -27063,632 +27802,7 @@ function create_fragment$9(ctx) {
 	};
 }
 
-function instance$9($$self, $$props, $$invalidate) {
-	$$self.$$set = $$new_props => {
-		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
-	};
-
-	$$props = exclude_internal_props($$props);
-	return [$$props];
-}
-
-class FaFire extends SvelteComponent {
-	constructor(options) {
-		super();
-		init(this, options, instance$9, create_fragment$9, safe_not_equal, {});
-	}
-}
-
-/* node_modules\svelte-icons\fa\FaRegSnowflake.svelte generated by Svelte v3.35.0 */
-
-function create_default_slot$1(ctx) {
-	let path;
-
-	return {
-		c() {
-			path = svg_element("path");
-			attr(path, "d", "M440.1 355.2l-39.2-23 34.1-9.3c8.4-2.3 13.4-11.1 11.1-19.6l-4.1-15.5c-2.2-8.5-10.9-13.6-19.3-11.3L343 298.2 271.2 256l71.9-42.2 79.7 21.7c8.4 2.3 17-2.8 19.3-11.3l4.1-15.5c2.2-8.5-2.7-17.3-11.1-19.6l-34.1-9.3 39.2-23c7.5-4.4 10.1-14.2 5.8-21.9l-7.9-13.9c-4.3-7.7-14-10.3-21.5-5.9l-39.2 23 9.1-34.7c2.2-8.5-2.7-17.3-11.1-19.6l-15.2-4.1c-8.4-2.3-17 2.8-19.3 11.3l-21.3 81-71.9 42.2v-84.5L306 70.4c6.1-6.2 6.1-16.4 0-22.6l-11.1-11.3c-6.1-6.2-16.1-6.2-22.2 0l-24.9 25.4V16c0-8.8-7-16-15.7-16h-15.7c-8.7 0-15.7 7.2-15.7 16v46.1l-24.9-25.4c-6.1-6.2-16.1-6.2-22.2 0L142.1 48c-6.1 6.2-6.1 16.4 0 22.6l58.3 59.3v84.5l-71.9-42.2-21.3-81c-2.2-8.5-10.9-13.6-19.3-11.3L72.7 84c-8.4 2.3-13.4 11.1-11.1 19.6l9.1 34.7-39.2-23c-7.5-4.4-17.1-1.8-21.5 5.9l-7.9 13.9c-4.3 7.7-1.8 17.4 5.8 21.9l39.2 23-34.1 9.1c-8.4 2.3-13.4 11.1-11.1 19.6L6 224.2c2.2 8.5 10.9 13.6 19.3 11.3l79.7-21.7 71.9 42.2-71.9 42.2-79.7-21.7c-8.4-2.3-17 2.8-19.3 11.3l-4.1 15.5c-2.2 8.5 2.7 17.3 11.1 19.6l34.1 9.3-39.2 23c-7.5 4.4-10.1 14.2-5.8 21.9L10 391c4.3 7.7 14 10.3 21.5 5.9l39.2-23-9.1 34.7c-2.2 8.5 2.7 17.3 11.1 19.6l15.2 4.1c8.4 2.3 17-2.8 19.3-11.3l21.3-81 71.9-42.2v84.5l-58.3 59.3c-6.1 6.2-6.1 16.4 0 22.6l11.1 11.3c6.1 6.2 16.1 6.2 22.2 0l24.9-25.4V496c0 8.8 7 16 15.7 16h15.7c8.7 0 15.7-7.2 15.7-16v-46.1l24.9 25.4c6.1 6.2 16.1 6.2 22.2 0l11.1-11.3c6.1-6.2 6.1-16.4 0-22.6l-58.3-59.3v-84.5l71.9 42.2 21.3 81c2.2 8.5 10.9 13.6 19.3 11.3L375 428c8.4-2.3 13.4-11.1 11.1-19.6l-9.1-34.7 39.2 23c7.5 4.4 17.1 1.8 21.5-5.9l7.9-13.9c4.6-7.5 2.1-17.3-5.5-21.7z");
-		},
-		m(target, anchor) {
-			insert(target, path, anchor);
-		},
-		d(detaching) {
-			if (detaching) detach(path);
-		}
-	};
-}
-
-function create_fragment$8(ctx) {
-	let iconbase;
-	let current;
-	const iconbase_spread_levels = [{ viewBox: "0 0 448 512" }, /*$$props*/ ctx[0]];
-
-	let iconbase_props = {
-		$$slots: { default: [create_default_slot$1] },
-		$$scope: { ctx }
-	};
-
-	for (let i = 0; i < iconbase_spread_levels.length; i += 1) {
-		iconbase_props = assign(iconbase_props, iconbase_spread_levels[i]);
-	}
-
-	iconbase = new IconBase({ props: iconbase_props });
-
-	return {
-		c() {
-			create_component(iconbase.$$.fragment);
-		},
-		m(target, anchor) {
-			mount_component(iconbase, target, anchor);
-			current = true;
-		},
-		p(ctx, [dirty]) {
-			const iconbase_changes = (dirty & /*$$props*/ 1)
-			? get_spread_update(iconbase_spread_levels, [iconbase_spread_levels[0], get_spread_object(/*$$props*/ ctx[0])])
-			: {};
-
-			if (dirty & /*$$scope*/ 2) {
-				iconbase_changes.$$scope = { dirty, ctx };
-			}
-
-			iconbase.$set(iconbase_changes);
-		},
-		i(local) {
-			if (current) return;
-			transition_in(iconbase.$$.fragment, local);
-			current = true;
-		},
-		o(local) {
-			transition_out(iconbase.$$.fragment, local);
-			current = false;
-		},
-		d(detaching) {
-			destroy_component(iconbase, detaching);
-		}
-	};
-}
-
-function instance$8($$self, $$props, $$invalidate) {
-	$$self.$$set = $$new_props => {
-		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
-	};
-
-	$$props = exclude_internal_props($$props);
-	return [$$props];
-}
-
-class FaRegSnowflake extends SvelteComponent {
-	constructor(options) {
-		super();
-		init(this, options, instance$8, create_fragment$8, safe_not_equal, {});
-	}
-}
-
-/* src\Components\Down.svelte generated by Svelte v3.35.0 */
-
-function add_css$5() {
-	var style = element("style");
-	style.id = "svelte-1mg8nz0-style";
-	style.textContent = ".BC-downs.svelte-1mg8nz0{padding-left:5px}pre.svelte-1mg8nz0{display:inline}.is-unresolved.svelte-1mg8nz0{color:var(--text-muted)}.icon.svelte-1mg8nz0{color:var(--text-normal);display:inline-block;padding-top:5px !important;width:20px;height:20px}";
-	append(document.head, style);
-}
-
-function get_each_context$4(ctx, list, i) {
-	const child_ctx = ctx.slice();
-	child_ctx[11] = list[i];
-	return child_ctx;
-}
-
-// (52:4) {:else}
-function create_else_block$2(ctx) {
-	let fafire;
-	let current;
-	fafire = new FaFire({});
-
-	return {
-		c() {
-			create_component(fafire.$$.fragment);
-		},
-		m(target, anchor) {
-			mount_component(fafire, target, anchor);
-			current = true;
-		},
-		i(local) {
-			if (current) return;
-			transition_in(fafire.$$.fragment, local);
-			current = true;
-		},
-		o(local) {
-			transition_out(fafire.$$.fragment, local);
-			current = false;
-		},
-		d(detaching) {
-			destroy_component(fafire, detaching);
-		}
-	};
-}
-
-// (50:4) {#if frozen}
-function create_if_block_1$2(ctx) {
-	let faregsnowflake;
-	let current;
-	faregsnowflake = new FaRegSnowflake({});
-
-	return {
-		c() {
-			create_component(faregsnowflake.$$.fragment);
-		},
-		m(target, anchor) {
-			mount_component(faregsnowflake, target, anchor);
-			current = true;
-		},
-		i(local) {
-			if (current) return;
-			transition_in(faregsnowflake.$$.fragment, local);
-			current = true;
-		},
-		o(local) {
-			transition_out(faregsnowflake.$$.fragment, local);
-			current = false;
-		},
-		d(detaching) {
-			destroy_component(faregsnowflake, detaching);
-		}
-	};
-}
-
-// (68:4) {#if line.length > 1}
-function create_if_block$2(ctx) {
-	let div;
-	let pre;
-	let t0_value = /*line*/ ctx[11][0] + "-" + "";
-	let t0;
-	let t1;
-	let span;
-	let a;
-	let t2_value = dropDendron(/*line*/ ctx[11][1], /*settings*/ ctx[5]) + "";
-	let t2;
-	let a_class_value;
-	let t3;
-	let div_style_value;
-	let mounted;
-	let dispose;
-
-	function click_handler_2(...args) {
-		return /*click_handler_2*/ ctx[8](/*line*/ ctx[11], ...args);
-	}
-
-	function mouseover_handler(...args) {
-		return /*mouseover_handler*/ ctx[9](/*line*/ ctx[11], ...args);
-	}
-
-	return {
-		c() {
-			div = element("div");
-			pre = element("pre");
-			t0 = text(t0_value);
-			t1 = space();
-			span = element("span");
-			a = element("a");
-			t2 = text(t2_value);
-			t3 = space();
-			attr(pre, "class", "svelte-1mg8nz0");
-
-			attr(a, "class", a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[11][1])
-			? ""
-			: "is-unresolved") + " svelte-1mg8nz0");
-
-			attr(span, "class", "internal-link");
-
-			attr(div, "style", div_style_value = /*settings*/ ctx[5].downViewWrap
-			? ""
-			: "white-space: nowrap;");
-		},
-		m(target, anchor) {
-			insert(target, div, anchor);
-			append(div, pre);
-			append(pre, t0);
-			append(div, t1);
-			append(div, span);
-			append(span, a);
-			append(a, t2);
-			append(div, t3);
-
-			if (!mounted) {
-				dispose = [
-					listen(span, "click", click_handler_2),
-					listen(span, "mouseover", mouseover_handler)
-				];
-
-				mounted = true;
-			}
-		},
-		p(new_ctx, dirty) {
-			ctx = new_ctx;
-			if (dirty & /*lines*/ 16 && t0_value !== (t0_value = /*line*/ ctx[11][0] + "-" + "")) set_data(t0, t0_value);
-			if (dirty & /*lines*/ 16 && t2_value !== (t2_value = dropDendron(/*line*/ ctx[11][1], /*settings*/ ctx[5]) + "")) set_data(t2, t2_value);
-
-			if (dirty & /*plugin, lines*/ 17 && a_class_value !== (a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[11][1])
-			? ""
-			: "is-unresolved") + " svelte-1mg8nz0")) {
-				attr(a, "class", a_class_value);
-			}
-		},
-		d(detaching) {
-			if (detaching) detach(div);
-			mounted = false;
-			run_all(dispose);
-		}
-	};
-}
-
-// (67:2) {#each lines as line}
-function create_each_block$4(ctx) {
-	let if_block_anchor;
-	let if_block = /*line*/ ctx[11].length > 1 && create_if_block$2(ctx);
-
-	return {
-		c() {
-			if (if_block) if_block.c();
-			if_block_anchor = empty();
-		},
-		m(target, anchor) {
-			if (if_block) if_block.m(target, anchor);
-			insert(target, if_block_anchor, anchor);
-		},
-		p(ctx, dirty) {
-			if (/*line*/ ctx[11].length > 1) {
-				if (if_block) {
-					if_block.p(ctx, dirty);
-				} else {
-					if_block = create_if_block$2(ctx);
-					if_block.c();
-					if_block.m(if_block_anchor.parentNode, if_block_anchor);
-				}
-			} else if (if_block) {
-				if_block.d(1);
-				if_block = null;
-			}
-		},
-		d(detaching) {
-			if (if_block) if_block.d(detaching);
-			if (detaching) detach(if_block_anchor);
-		}
-	};
-}
-
-function create_fragment$7(ctx) {
-	let div0;
-	let span;
-	let current_block_type_index;
-	let if_block;
-	let span_aria_label_value;
-	let t0;
-	let button;
-	let t2;
-	let div1;
-	let current;
-	let mounted;
-	let dispose;
-	const if_block_creators = [create_if_block_1$2, create_else_block$2];
-	const if_blocks = [];
-
-	function select_block_type(ctx, dirty) {
-		if (/*frozen*/ ctx[3]) return 0;
-		return 1;
-	}
-
-	current_block_type_index = select_block_type(ctx);
-	if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
-	let each_value = /*lines*/ ctx[4];
-	let each_blocks = [];
-
-	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block$4(get_each_context$4(ctx, each_value, i));
-	}
-
-	return {
-		c() {
-			div0 = element("div");
-			span = element("span");
-			if_block.c();
-			t0 = space();
-			button = element("button");
-			button.textContent = "↻";
-			t2 = space();
-			div1 = element("div");
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].c();
-			}
-
-			attr(span, "class", "icon svelte-1mg8nz0");
-
-			attr(span, "aria-label", span_aria_label_value = /*frozen*/ ctx[3]
-			? `Frozen on: ${/*basename*/ ctx[2]}`
-			: "Unfrozen");
-
-			attr(span, "aria-label-position", "left");
-			attr(button, "aria-label", "Refresh Stats View (also refreshes Breadcrumbs Index)");
-			attr(div1, "class", "BC-downs svelte-1mg8nz0");
-		},
-		m(target, anchor) {
-			insert(target, div0, anchor);
-			append(div0, span);
-			if_blocks[current_block_type_index].m(span, null);
-			append(div0, t0);
-			append(div0, button);
-			insert(target, t2, anchor);
-			insert(target, div1, anchor);
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].m(div1, null);
-			}
-
-			current = true;
-
-			if (!mounted) {
-				dispose = [
-					listen(span, "click", /*click_handler*/ ctx[6]),
-					listen(button, "click", /*click_handler_1*/ ctx[7])
-				];
-
-				mounted = true;
-			}
-		},
-		p(ctx, [dirty]) {
-			let previous_block_index = current_block_type_index;
-			current_block_type_index = select_block_type(ctx);
-
-			if (current_block_type_index !== previous_block_index) {
-				group_outros();
-
-				transition_out(if_blocks[previous_block_index], 1, 1, () => {
-					if_blocks[previous_block_index] = null;
-				});
-
-				check_outros();
-				if_block = if_blocks[current_block_type_index];
-
-				if (!if_block) {
-					if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
-					if_block.c();
-				}
-
-				transition_in(if_block, 1);
-				if_block.m(span, null);
-			}
-
-			if (!current || dirty & /*frozen, basename*/ 12 && span_aria_label_value !== (span_aria_label_value = /*frozen*/ ctx[3]
-			? `Frozen on: ${/*basename*/ ctx[2]}`
-			: "Unfrozen")) {
-				attr(span, "aria-label", span_aria_label_value);
-			}
-
-			if (dirty & /*settings, openOrSwitch, plugin, lines, hoverPreview, view, isInVault, dropDendron*/ 51) {
-				each_value = /*lines*/ ctx[4];
-				let i;
-
-				for (i = 0; i < each_value.length; i += 1) {
-					const child_ctx = get_each_context$4(ctx, each_value, i);
-
-					if (each_blocks[i]) {
-						each_blocks[i].p(child_ctx, dirty);
-					} else {
-						each_blocks[i] = create_each_block$4(child_ctx);
-						each_blocks[i].c();
-						each_blocks[i].m(div1, null);
-					}
-				}
-
-				for (; i < each_blocks.length; i += 1) {
-					each_blocks[i].d(1);
-				}
-
-				each_blocks.length = each_value.length;
-			}
-		},
-		i(local) {
-			if (current) return;
-			transition_in(if_block);
-			current = true;
-		},
-		o(local) {
-			transition_out(if_block);
-			current = false;
-		},
-		d(detaching) {
-			if (detaching) detach(div0);
-			if_blocks[current_block_type_index].d();
-			if (detaching) detach(t2);
-			if (detaching) detach(div1);
-			destroy_each(each_blocks, detaching);
-			mounted = false;
-			run_all(dispose);
-		}
-	};
-}
-
 function instance$7($$self, $$props, $$invalidate) {
-	
-	
-	let { plugin } = $$props;
-	let { view } = $$props;
-	const { settings } = plugin;
-	const { userHiers } = settings;
-	let frozen = false;
-	let { basename } = plugin.app.workspace.getActiveFile();
-
-	plugin.app.workspace.on("active-leaf-change", () => {
-		if (frozen) return;
-		$$invalidate(2, basename = plugin.app.workspace.getActiveFile().basename);
-	});
-
-	let lines;
-
-	const click_handler = () => {
-		$$invalidate(3, frozen = !frozen);
-		if (!frozen) $$invalidate(2, basename = plugin.app.workspace.getActiveFile().basename);
-	};
-
-	const click_handler_1 = async () => {
-		await plugin.refreshIndex();
-		await view.draw();
-	};
-
-	const click_handler_2 = async (line, e) => await openOrSwitch(plugin.app, line[1], e);
-	const mouseover_handler = (line, e) => hoverPreview(e, view, line[1]);
-
-	$$self.$$set = $$props => {
-		if ("plugin" in $$props) $$invalidate(0, plugin = $$props.plugin);
-		if ("view" in $$props) $$invalidate(1, view = $$props.view);
-	};
-
-	$$self.$$.update = () => {
-		if ($$self.$$.dirty & /*plugin, basename*/ 5) {
-			{
-				const { mainG } = plugin;
-				const upnDown = getSubInDirs(mainG, "up", "down");
-				const closed = getReflexiveClosure(upnDown, userHiers);
-				const down = getSubInDirs(closed, "down");
-				const allPaths = dfsAllPaths(down, basename);
-				const index = plugin.createIndex(allPaths, false);
-				loglevel.info({ allPaths, index });
-
-				$$invalidate(4, lines = index.split("\n").map(line => {
-					const pair = line.split("- ");
-					return [pair[0], pair.slice(1).join("- ")];
-				}).filter(pair => pair[1] !== ""));
-			}
-		}
-	};
-
-	return [
-		plugin,
-		view,
-		basename,
-		frozen,
-		lines,
-		settings,
-		click_handler,
-		click_handler_1,
-		click_handler_2,
-		mouseover_handler
-	];
-}
-
-class Down extends SvelteComponent {
-	constructor(options) {
-		super();
-		if (!document.getElementById("svelte-1mg8nz0-style")) add_css$5();
-		init(this, options, instance$7, create_fragment$7, safe_not_equal, { plugin: 0, view: 1 });
-	}
-}
-
-class DownView extends require$$0.ItemView {
-    constructor(leaf, plugin) {
-        super(leaf);
-        this.icon = addFeatherIcon("corner-right-down");
-        this.plugin = plugin;
-    }
-    async onload() {
-        // trace("DownView.onload");
-        super.onload();
-        this.app.workspace.onLayoutReady(async () => {
-            await this.draw();
-        });
-    }
-    getViewType() {
-        return DOWN_VIEW;
-    }
-    getDisplayText() {
-        return "Breadcrumbs Down";
-    }
-    async onOpen() { }
-    onClose() {
-        var _a;
-        (_a = this.view) === null || _a === void 0 ? void 0 : _a.$destroy();
-        return Promise.resolve();
-    }
-    async draw() {
-        this.contentEl.empty();
-        this.view = new Down({
-            target: this.contentEl,
-            props: { plugin: this.plugin, view: this },
-        });
-    }
-}
-
-/* node_modules\svelte-icons\fa\FaInfo.svelte generated by Svelte v3.35.0 */
-
-function create_default_slot(ctx) {
-	let path;
-
-	return {
-		c() {
-			path = svg_element("path");
-			attr(path, "d", "M20 424.229h20V279.771H20c-11.046 0-20-8.954-20-20V212c0-11.046 8.954-20 20-20h112c11.046 0 20 8.954 20 20v212.229h20c11.046 0 20 8.954 20 20V492c0 11.046-8.954 20-20 20H20c-11.046 0-20-8.954-20-20v-47.771c0-11.046 8.954-20 20-20zM96 0C56.235 0 24 32.235 24 72s32.235 72 72 72 72-32.235 72-72S135.764 0 96 0z");
-		},
-		m(target, anchor) {
-			insert(target, path, anchor);
-		},
-		d(detaching) {
-			if (detaching) detach(path);
-		}
-	};
-}
-
-function create_fragment$6(ctx) {
-	let iconbase;
-	let current;
-	const iconbase_spread_levels = [{ viewBox: "0 0 192 512" }, /*$$props*/ ctx[0]];
-
-	let iconbase_props = {
-		$$slots: { default: [create_default_slot] },
-		$$scope: { ctx }
-	};
-
-	for (let i = 0; i < iconbase_spread_levels.length; i += 1) {
-		iconbase_props = assign(iconbase_props, iconbase_spread_levels[i]);
-	}
-
-	iconbase = new IconBase({ props: iconbase_props });
-
-	return {
-		c() {
-			create_component(iconbase.$$.fragment);
-		},
-		m(target, anchor) {
-			mount_component(iconbase, target, anchor);
-			current = true;
-		},
-		p(ctx, [dirty]) {
-			const iconbase_changes = (dirty & /*$$props*/ 1)
-			? get_spread_update(iconbase_spread_levels, [iconbase_spread_levels[0], get_spread_object(/*$$props*/ ctx[0])])
-			: {};
-
-			if (dirty & /*$$scope*/ 2) {
-				iconbase_changes.$$scope = { dirty, ctx };
-			}
-
-			iconbase.$set(iconbase_changes);
-		},
-		i(local) {
-			if (current) return;
-			transition_in(iconbase.$$.fragment, local);
-			current = true;
-		},
-		o(local) {
-			transition_out(iconbase.$$.fragment, local);
-			current = false;
-		},
-		d(detaching) {
-			destroy_component(iconbase, detaching);
-		}
-	};
-}
-
-function instance$6($$self, $$props, $$invalidate) {
 	$$self.$$set = $$new_props => {
 		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
 	};
@@ -27700,13 +27814,13 @@ function instance$6($$self, $$props, $$invalidate) {
 class FaInfo extends SvelteComponent {
 	constructor(options) {
 		super();
-		init(this, options, instance$6, create_fragment$6, safe_not_equal, {});
+		init(this, options, instance$7, create_fragment$7, safe_not_equal, {});
 	}
 }
 
 /* src\Components\Ducks.svelte generated by Svelte v3.35.0 */
 
-function add_css$4() {
+function add_css$3() {
 	var style = element("style");
 	style.id = "svelte-gmdm3a-style";
 	style.textContent = ".icon.svelte-gmdm3a{color:var(--text-normal);display:inline-block;padding-top:5px !important;width:20px;height:20px}";
@@ -27772,7 +27886,7 @@ function create_each_block$3(ctx) {
 	};
 }
 
-function create_fragment$5(ctx) {
+function create_fragment$6(ctx) {
 	let div;
 	let h6;
 	let t1;
@@ -27909,7 +28023,7 @@ function create_fragment$5(ctx) {
 	};
 }
 
-function instance$5($$self, $$props, $$invalidate) {
+function instance$6($$self, $$props, $$invalidate) {
 	
 	
 	
@@ -27967,8 +28081,8 @@ function instance$5($$self, $$props, $$invalidate) {
 class Ducks extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-gmdm3a-style")) add_css$4();
-		init(this, options, instance$5, create_fragment$5, safe_not_equal, { plugin: 5, app: 0, ducksView: 1 });
+		if (!document.getElementById("svelte-gmdm3a-style")) add_css$3();
+		init(this, options, instance$6, create_fragment$6, safe_not_equal, { plugin: 5, app: 0, ducksView: 1 });
 	}
 }
 
@@ -27980,7 +28094,6 @@ class DucksView extends require$$0.ItemView {
         this.plugin = plugin;
     }
     async onload() {
-        // trace("DuckView.onload");
         super.onload();
         await this.plugin.saveSettings();
         this.app.workspace.onLayoutReady(async () => {
@@ -28058,7 +28171,7 @@ class FieldSuggestor extends require$$0.EditorSuggest {
 
 /* src\Components\ModifyHNItemComp.svelte generated by Svelte v3.35.0 */
 
-function add_css$3() {
+function add_css$2() {
 	var style = element("style");
 	style.id = "svelte-13g4k7i-style";
 	style.textContent = "pre.svelte-13g4k7i{display:inline}";
@@ -28066,7 +28179,7 @@ function add_css$3() {
 }
 
 // (21:2) {#if rel === "up"}
-function create_if_block_2$1(ctx) {
+function create_if_block_2(ctx) {
 	let if_block_anchor;
 
 	function select_block_type(ctx, dirty) {
@@ -28209,7 +28322,7 @@ function create_if_block$1(ctx) {
 	};
 }
 
-function create_fragment$4(ctx) {
+function create_fragment$5(ctx) {
 	let h5;
 	let t0;
 	let t1_value = ARROW_DIRECTIONS[/*rel*/ ctx[0]] + "";
@@ -28237,7 +28350,7 @@ function create_fragment$4(ctx) {
 	let button;
 	let mounted;
 	let dispose;
-	let if_block0 = /*rel*/ ctx[0] === "up" && create_if_block_2$1(ctx);
+	let if_block0 = /*rel*/ ctx[0] === "up" && create_if_block_2(ctx);
 
 	function select_block_type_1(ctx, dirty) {
 		if (/*rel*/ ctx[0] === "same") return create_if_block$1;
@@ -28337,7 +28450,7 @@ function create_fragment$4(ctx) {
 				if (if_block0) {
 					if_block0.p(ctx, dirty);
 				} else {
-					if_block0 = create_if_block_2$1(ctx);
+					if_block0 = create_if_block_2(ctx);
 					if_block0.c();
 					if_block0.m(div1, t5);
 				}
@@ -28387,7 +28500,7 @@ function create_fragment$4(ctx) {
 	};
 }
 
-function instance$4($$self, $$props, $$invalidate) {
+function instance$5($$self, $$props, $$invalidate) {
 	
 	
 	let { modal } = $$props;
@@ -28468,9 +28581,9 @@ function instance$4($$self, $$props, $$invalidate) {
 class ModifyHNItemComp extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-13g4k7i-style")) add_css$3();
+		if (!document.getElementById("svelte-13g4k7i-style")) add_css$2();
 
-		init(this, options, instance$4, create_fragment$4, safe_not_equal, {
+		init(this, options, instance$5, create_fragment$5, safe_not_equal, {
 			modal: 1,
 			settings: 7,
 			hnItem: 2,
@@ -28639,7 +28752,7 @@ class HierarchyNoteSelectorModal extends require$$0.FuzzySuggestModal {
 
 /* src\Components\Stats.svelte generated by Svelte v3.35.0 */
 
-function add_css$2() {
+function add_css$1() {
 	var style = element("style");
 	style.id = "svelte-rb5mhu-style";
 	style.textContent = "table.svelte-rb5mhu{border-collapse:collapse}td.svelte-rb5mhu:first-child{text-align:right}td.svelte-rb5mhu,th.svelte-rb5mhu{padding:3px;border:1px solid var(--background-modifier-border);white-space:pre-line}";
@@ -28652,7 +28765,7 @@ function get_each_context$2(ctx, list, i) {
 	return child_ctx;
 }
 
-function get_each_context_1$1(ctx, list, i) {
+function get_each_context_1$2(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[28] = list[i];
 	return child_ctx;
@@ -29177,7 +29290,7 @@ function create_each_block_2(ctx) {
 }
 
 // (213:4) {#each DIRECTIONS as dir}
-function create_each_block_1$1(ctx) {
+function create_each_block_1$2(ctx) {
 	let td;
 	let t0_value = lodash.sum(/*data*/ ctx[2].map(func_5)) + "";
 	let t0;
@@ -29280,7 +29393,7 @@ function create_each_block$2(ctx) {
 	};
 }
 
-function create_fragment$3(ctx) {
+function create_fragment$4(ctx) {
 	let table;
 	let thead;
 	let tr0;
@@ -29339,7 +29452,7 @@ function create_fragment$3(ctx) {
 	let each_blocks_1 = [];
 
 	for (let i = 0; i < each_value_1.length; i += 1) {
-		each_blocks_1[i] = create_each_block_1$1(get_each_context_1$1(ctx, each_value_1, i));
+		each_blocks_1[i] = create_each_block_1$2(get_each_context_1$2(ctx, each_value_1, i));
 	}
 
 	let each_value = DIRECTIONS$1;
@@ -29569,12 +29682,12 @@ function create_fragment$3(ctx) {
 				let i;
 
 				for (i = 0; i < each_value_1.length; i += 1) {
-					const child_ctx = get_each_context_1$1(ctx, each_value_1, i);
+					const child_ctx = get_each_context_1$2(ctx, each_value_1, i);
 
 					if (each_blocks_1[i]) {
 						each_blocks_1[i].p(child_ctx, dirty);
 					} else {
-						each_blocks_1[i] = create_each_block_1$1(child_ctx);
+						each_blocks_1[i] = create_each_block_1$2(child_ctx);
 						each_blocks_1[i].c();
 						each_blocks_1[i].m(tr3, null);
 					}
@@ -29625,7 +29738,7 @@ function create_fragment$3(ctx) {
 	};
 }
 
-function instance$3($$self, $$props, $$invalidate) {
+function instance$4($$self, $$props, $$invalidate) {
 	
 	
 	let { plugin } = $$props;
@@ -29756,8 +29869,8 @@ function instance$3($$self, $$props, $$invalidate) {
 class Stats extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-rb5mhu-style")) add_css$2();
-		init(this, options, instance$3, create_fragment$3, safe_not_equal, { plugin: 0 }, [-1, -1]);
+		if (!document.getElementById("svelte-rb5mhu-style")) add_css$1();
+		init(this, options, instance$4, create_fragment$4, safe_not_equal, { plugin: 0 }, [-1, -1]);
 	}
 }
 
@@ -29793,6 +29906,733 @@ class StatsView extends require$$0.ItemView {
         this.view = new Stats({
             target: contentEl,
             props: { plugin },
+        });
+    }
+}
+
+/* node_modules\svelte-icons\fa\FaFire.svelte generated by Svelte v3.35.0 */
+
+function create_default_slot$1(ctx) {
+	let path;
+
+	return {
+		c() {
+			path = svg_element("path");
+			attr(path, "d", "M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z");
+		},
+		m(target, anchor) {
+			insert(target, path, anchor);
+		},
+		d(detaching) {
+			if (detaching) detach(path);
+		}
+	};
+}
+
+function create_fragment$3(ctx) {
+	let iconbase;
+	let current;
+	const iconbase_spread_levels = [{ viewBox: "0 0 384 512" }, /*$$props*/ ctx[0]];
+
+	let iconbase_props = {
+		$$slots: { default: [create_default_slot$1] },
+		$$scope: { ctx }
+	};
+
+	for (let i = 0; i < iconbase_spread_levels.length; i += 1) {
+		iconbase_props = assign(iconbase_props, iconbase_spread_levels[i]);
+	}
+
+	iconbase = new IconBase({ props: iconbase_props });
+
+	return {
+		c() {
+			create_component(iconbase.$$.fragment);
+		},
+		m(target, anchor) {
+			mount_component(iconbase, target, anchor);
+			current = true;
+		},
+		p(ctx, [dirty]) {
+			const iconbase_changes = (dirty & /*$$props*/ 1)
+			? get_spread_update(iconbase_spread_levels, [iconbase_spread_levels[0], get_spread_object(/*$$props*/ ctx[0])])
+			: {};
+
+			if (dirty & /*$$scope*/ 2) {
+				iconbase_changes.$$scope = { dirty, ctx };
+			}
+
+			iconbase.$set(iconbase_changes);
+		},
+		i(local) {
+			if (current) return;
+			transition_in(iconbase.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(iconbase.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			destroy_component(iconbase, detaching);
+		}
+	};
+}
+
+function instance$3($$self, $$props, $$invalidate) {
+	$$self.$$set = $$new_props => {
+		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
+	};
+
+	$$props = exclude_internal_props($$props);
+	return [$$props];
+}
+
+class FaFire extends SvelteComponent {
+	constructor(options) {
+		super();
+		init(this, options, instance$3, create_fragment$3, safe_not_equal, {});
+	}
+}
+
+/* node_modules\svelte-icons\fa\FaRegSnowflake.svelte generated by Svelte v3.35.0 */
+
+function create_default_slot(ctx) {
+	let path;
+
+	return {
+		c() {
+			path = svg_element("path");
+			attr(path, "d", "M440.1 355.2l-39.2-23 34.1-9.3c8.4-2.3 13.4-11.1 11.1-19.6l-4.1-15.5c-2.2-8.5-10.9-13.6-19.3-11.3L343 298.2 271.2 256l71.9-42.2 79.7 21.7c8.4 2.3 17-2.8 19.3-11.3l4.1-15.5c2.2-8.5-2.7-17.3-11.1-19.6l-34.1-9.3 39.2-23c7.5-4.4 10.1-14.2 5.8-21.9l-7.9-13.9c-4.3-7.7-14-10.3-21.5-5.9l-39.2 23 9.1-34.7c2.2-8.5-2.7-17.3-11.1-19.6l-15.2-4.1c-8.4-2.3-17 2.8-19.3 11.3l-21.3 81-71.9 42.2v-84.5L306 70.4c6.1-6.2 6.1-16.4 0-22.6l-11.1-11.3c-6.1-6.2-16.1-6.2-22.2 0l-24.9 25.4V16c0-8.8-7-16-15.7-16h-15.7c-8.7 0-15.7 7.2-15.7 16v46.1l-24.9-25.4c-6.1-6.2-16.1-6.2-22.2 0L142.1 48c-6.1 6.2-6.1 16.4 0 22.6l58.3 59.3v84.5l-71.9-42.2-21.3-81c-2.2-8.5-10.9-13.6-19.3-11.3L72.7 84c-8.4 2.3-13.4 11.1-11.1 19.6l9.1 34.7-39.2-23c-7.5-4.4-17.1-1.8-21.5 5.9l-7.9 13.9c-4.3 7.7-1.8 17.4 5.8 21.9l39.2 23-34.1 9.1c-8.4 2.3-13.4 11.1-11.1 19.6L6 224.2c2.2 8.5 10.9 13.6 19.3 11.3l79.7-21.7 71.9 42.2-71.9 42.2-79.7-21.7c-8.4-2.3-17 2.8-19.3 11.3l-4.1 15.5c-2.2 8.5 2.7 17.3 11.1 19.6l34.1 9.3-39.2 23c-7.5 4.4-10.1 14.2-5.8 21.9L10 391c4.3 7.7 14 10.3 21.5 5.9l39.2-23-9.1 34.7c-2.2 8.5 2.7 17.3 11.1 19.6l15.2 4.1c8.4 2.3 17-2.8 19.3-11.3l21.3-81 71.9-42.2v84.5l-58.3 59.3c-6.1 6.2-6.1 16.4 0 22.6l11.1 11.3c6.1 6.2 16.1 6.2 22.2 0l24.9-25.4V496c0 8.8 7 16 15.7 16h15.7c8.7 0 15.7-7.2 15.7-16v-46.1l24.9 25.4c6.1 6.2 16.1 6.2 22.2 0l11.1-11.3c6.1-6.2 6.1-16.4 0-22.6l-58.3-59.3v-84.5l71.9 42.2 21.3 81c2.2 8.5 10.9 13.6 19.3 11.3L375 428c8.4-2.3 13.4-11.1 11.1-19.6l-9.1-34.7 39.2 23c7.5 4.4 17.1 1.8 21.5-5.9l7.9-13.9c4.6-7.5 2.1-17.3-5.5-21.7z");
+		},
+		m(target, anchor) {
+			insert(target, path, anchor);
+		},
+		d(detaching) {
+			if (detaching) detach(path);
+		}
+	};
+}
+
+function create_fragment$2(ctx) {
+	let iconbase;
+	let current;
+	const iconbase_spread_levels = [{ viewBox: "0 0 448 512" }, /*$$props*/ ctx[0]];
+
+	let iconbase_props = {
+		$$slots: { default: [create_default_slot] },
+		$$scope: { ctx }
+	};
+
+	for (let i = 0; i < iconbase_spread_levels.length; i += 1) {
+		iconbase_props = assign(iconbase_props, iconbase_spread_levels[i]);
+	}
+
+	iconbase = new IconBase({ props: iconbase_props });
+
+	return {
+		c() {
+			create_component(iconbase.$$.fragment);
+		},
+		m(target, anchor) {
+			mount_component(iconbase, target, anchor);
+			current = true;
+		},
+		p(ctx, [dirty]) {
+			const iconbase_changes = (dirty & /*$$props*/ 1)
+			? get_spread_update(iconbase_spread_levels, [iconbase_spread_levels[0], get_spread_object(/*$$props*/ ctx[0])])
+			: {};
+
+			if (dirty & /*$$scope*/ 2) {
+				iconbase_changes.$$scope = { dirty, ctx };
+			}
+
+			iconbase.$set(iconbase_changes);
+		},
+		i(local) {
+			if (current) return;
+			transition_in(iconbase.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(iconbase.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			destroy_component(iconbase, detaching);
+		}
+	};
+}
+
+function instance$2($$self, $$props, $$invalidate) {
+	$$self.$$set = $$new_props => {
+		$$invalidate(0, $$props = assign(assign({}, $$props), exclude_internal_props($$new_props)));
+	};
+
+	$$props = exclude_internal_props($$props);
+	return [$$props];
+}
+
+class FaRegSnowflake extends SvelteComponent {
+	constructor(options) {
+		super();
+		init(this, options, instance$2, create_fragment$2, safe_not_equal, {});
+	}
+}
+
+/* src\Components\SideTree.svelte generated by Svelte v3.35.0 */
+
+function add_css() {
+	var style = element("style");
+	style.id = "svelte-7s7d25-style";
+	style.textContent = "button.svelte-7s7d25{display:inline;padding:1px 6px 2px 6px}.BC-downs.svelte-7s7d25{padding-left:5px}pre.svelte-7s7d25{display:inline}.is-unresolved.svelte-7s7d25{color:var(--text-muted)}.icon.svelte-7s7d25{color:var(--text-normal);display:inline-block;padding-top:5px !important;width:20px;height:20px}";
+	append(document.head, style);
+}
+
+function get_each_context$1(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[14] = list[i];
+	return child_ctx;
+}
+
+function get_each_context_1$1(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[17] = list[i];
+	return child_ctx;
+}
+
+// (55:2) {:else}
+function create_else_block(ctx) {
+	let fafire;
+	let current;
+	fafire = new FaFire({});
+
+	return {
+		c() {
+			create_component(fafire.$$.fragment);
+		},
+		m(target, anchor) {
+			mount_component(fafire, target, anchor);
+			current = true;
+		},
+		i(local) {
+			if (current) return;
+			transition_in(fafire.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(fafire.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			destroy_component(fafire, detaching);
+		}
+	};
+}
+
+// (53:2) {#if frozen}
+function create_if_block_1(ctx) {
+	let faregsnowflake;
+	let current;
+	faregsnowflake = new FaRegSnowflake({});
+
+	return {
+		c() {
+			create_component(faregsnowflake.$$.fragment);
+		},
+		m(target, anchor) {
+			mount_component(faregsnowflake, target, anchor);
+			current = true;
+		},
+		i(local) {
+			if (current) return;
+			transition_in(faregsnowflake.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(faregsnowflake.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			destroy_component(faregsnowflake, detaching);
+		}
+	};
+}
+
+// (71:2) {#each DIRECTIONS as direction}
+function create_each_block_1$1(ctx) {
+	let option;
+	let t_value = /*direction*/ ctx[17] + "";
+	let t;
+	let option_value_value;
+
+	return {
+		c() {
+			option = element("option");
+			t = text(t_value);
+			option.__value = option_value_value = /*direction*/ ctx[17];
+			option.value = option.__value;
+		},
+		m(target, anchor) {
+			insert(target, option, anchor);
+			append(option, t);
+		},
+		p: noop,
+		d(detaching) {
+			if (detaching) detach(option);
+		}
+	};
+}
+
+// (78:4) {#if line.length > 1}
+function create_if_block(ctx) {
+	let div;
+	let pre;
+	let t0_value = /*line*/ ctx[14][0] + "-" + "";
+	let t0;
+	let t1;
+	let span;
+	let a;
+	let t2_value = dropDendron(/*line*/ ctx[14][1], /*settings*/ ctx[6]) + "";
+	let t2;
+	let a_class_value;
+	let t3;
+	let div_style_value;
+	let mounted;
+	let dispose;
+
+	function click_handler_2(...args) {
+		return /*click_handler_2*/ ctx[11](/*line*/ ctx[14], ...args);
+	}
+
+	function mouseover_handler(...args) {
+		return /*mouseover_handler*/ ctx[12](/*line*/ ctx[14], ...args);
+	}
+
+	return {
+		c() {
+			div = element("div");
+			pre = element("pre");
+			t0 = text(t0_value);
+			t1 = space();
+			span = element("span");
+			a = element("a");
+			t2 = text(t2_value);
+			t3 = space();
+			attr(pre, "class", "svelte-7s7d25");
+
+			attr(a, "class", a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[14][1])
+			? ""
+			: "is-unresolved") + " svelte-7s7d25");
+
+			attr(span, "class", "internal-link");
+
+			attr(div, "style", div_style_value = /*settings*/ ctx[6].downViewWrap
+			? ""
+			: "white-space: nowrap;");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			append(div, pre);
+			append(pre, t0);
+			append(div, t1);
+			append(div, span);
+			append(span, a);
+			append(a, t2);
+			append(div, t3);
+
+			if (!mounted) {
+				dispose = [
+					listen(span, "click", click_handler_2),
+					listen(span, "mouseover", mouseover_handler)
+				];
+
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+			if (dirty & /*lines*/ 32 && t0_value !== (t0_value = /*line*/ ctx[14][0] + "-" + "")) set_data(t0, t0_value);
+			if (dirty & /*lines*/ 32 && t2_value !== (t2_value = dropDendron(/*line*/ ctx[14][1], /*settings*/ ctx[6]) + "")) set_data(t2, t2_value);
+
+			if (dirty & /*plugin, lines*/ 33 && a_class_value !== (a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[14][1])
+			? ""
+			: "is-unresolved") + " svelte-7s7d25")) {
+				attr(a, "class", a_class_value);
+			}
+		},
+		d(detaching) {
+			if (detaching) detach(div);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+// (77:2) {#each lines as line}
+function create_each_block$1(ctx) {
+	let if_block_anchor;
+	let if_block = /*line*/ ctx[14].length > 1 && create_if_block(ctx);
+
+	return {
+		c() {
+			if (if_block) if_block.c();
+			if_block_anchor = empty();
+		},
+		m(target, anchor) {
+			if (if_block) if_block.m(target, anchor);
+			insert(target, if_block_anchor, anchor);
+		},
+		p(ctx, dirty) {
+			if (/*line*/ ctx[14].length > 1) {
+				if (if_block) {
+					if_block.p(ctx, dirty);
+				} else {
+					if_block = create_if_block(ctx);
+					if_block.c();
+					if_block.m(if_block_anchor.parentNode, if_block_anchor);
+				}
+			} else if (if_block) {
+				if_block.d(1);
+				if_block = null;
+			}
+		},
+		d(detaching) {
+			if (if_block) if_block.d(detaching);
+			if (detaching) detach(if_block_anchor);
+		}
+	};
+}
+
+function create_fragment$1(ctx) {
+	let span;
+	let current_block_type_index;
+	let if_block;
+	let span_aria_label_value;
+	let t0;
+	let button;
+	let t2;
+	let select;
+	let t3;
+	let div;
+	let current;
+	let mounted;
+	let dispose;
+	const if_block_creators = [create_if_block_1, create_else_block];
+	const if_blocks = [];
+
+	function select_block_type(ctx, dirty) {
+		if (/*frozen*/ ctx[4]) return 0;
+		return 1;
+	}
+
+	current_block_type_index = select_block_type(ctx);
+	if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+	let each_value_1 = DIRECTIONS$1;
+	let each_blocks_1 = [];
+
+	for (let i = 0; i < each_value_1.length; i += 1) {
+		each_blocks_1[i] = create_each_block_1$1(get_each_context_1$1(ctx, each_value_1, i));
+	}
+
+	let each_value = /*lines*/ ctx[5];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value.length; i += 1) {
+		each_blocks[i] = create_each_block$1(get_each_context$1(ctx, each_value, i));
+	}
+
+	return {
+		c() {
+			span = element("span");
+			if_block.c();
+			t0 = space();
+			button = element("button");
+			button.textContent = "↻";
+			t2 = space();
+			select = element("select");
+
+			for (let i = 0; i < each_blocks_1.length; i += 1) {
+				each_blocks_1[i].c();
+			}
+
+			t3 = space();
+			div = element("div");
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			attr(span, "class", "icon svelte-7s7d25");
+
+			attr(span, "aria-label", span_aria_label_value = /*frozen*/ ctx[4]
+			? `Frozen on: ${/*basename*/ ctx[3]}`
+			: "Unfrozen");
+
+			attr(span, "aria-label-position", "left");
+			attr(button, "aria-label", "Refresh Stats View (also refreshes Breadcrumbs Index)");
+			attr(button, "class", "svelte-7s7d25");
+			attr(select, "class", "dropdown");
+			if (/*dir*/ ctx[2] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[10].call(select));
+			attr(div, "class", "BC-downs svelte-7s7d25");
+		},
+		m(target, anchor) {
+			insert(target, span, anchor);
+			if_blocks[current_block_type_index].m(span, null);
+			insert(target, t0, anchor);
+			insert(target, button, anchor);
+			insert(target, t2, anchor);
+			insert(target, select, anchor);
+
+			for (let i = 0; i < each_blocks_1.length; i += 1) {
+				each_blocks_1[i].m(select, null);
+			}
+
+			select_option(select, /*dir*/ ctx[2]);
+			insert(target, t3, anchor);
+			insert(target, div, anchor);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(div, null);
+			}
+
+			current = true;
+
+			if (!mounted) {
+				dispose = [
+					listen(span, "click", /*click_handler*/ ctx[8]),
+					listen(button, "click", /*click_handler_1*/ ctx[9]),
+					listen(select, "change", /*select_change_handler*/ ctx[10])
+				];
+
+				mounted = true;
+			}
+		},
+		p(ctx, [dirty]) {
+			let previous_block_index = current_block_type_index;
+			current_block_type_index = select_block_type(ctx);
+
+			if (current_block_type_index !== previous_block_index) {
+				group_outros();
+
+				transition_out(if_blocks[previous_block_index], 1, 1, () => {
+					if_blocks[previous_block_index] = null;
+				});
+
+				check_outros();
+				if_block = if_blocks[current_block_type_index];
+
+				if (!if_block) {
+					if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+					if_block.c();
+				}
+
+				transition_in(if_block, 1);
+				if_block.m(span, null);
+			}
+
+			if (!current || dirty & /*frozen, basename*/ 24 && span_aria_label_value !== (span_aria_label_value = /*frozen*/ ctx[4]
+			? `Frozen on: ${/*basename*/ ctx[3]}`
+			: "Unfrozen")) {
+				attr(span, "aria-label", span_aria_label_value);
+			}
+
+			if (dirty & /*DIRECTIONS*/ 0) {
+				each_value_1 = DIRECTIONS$1;
+				let i;
+
+				for (i = 0; i < each_value_1.length; i += 1) {
+					const child_ctx = get_each_context_1$1(ctx, each_value_1, i);
+
+					if (each_blocks_1[i]) {
+						each_blocks_1[i].p(child_ctx, dirty);
+					} else {
+						each_blocks_1[i] = create_each_block_1$1(child_ctx);
+						each_blocks_1[i].c();
+						each_blocks_1[i].m(select, null);
+					}
+				}
+
+				for (; i < each_blocks_1.length; i += 1) {
+					each_blocks_1[i].d(1);
+				}
+
+				each_blocks_1.length = each_value_1.length;
+			}
+
+			if (dirty & /*dir, DIRECTIONS*/ 4) {
+				select_option(select, /*dir*/ ctx[2]);
+			}
+
+			if (dirty & /*settings, openOrSwitch, plugin, lines, hoverPreview, view, isInVault, dropDendron*/ 99) {
+				each_value = /*lines*/ ctx[5];
+				let i;
+
+				for (i = 0; i < each_value.length; i += 1) {
+					const child_ctx = get_each_context$1(ctx, each_value, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+					} else {
+						each_blocks[i] = create_each_block$1(child_ctx);
+						each_blocks[i].c();
+						each_blocks[i].m(div, null);
+					}
+				}
+
+				for (; i < each_blocks.length; i += 1) {
+					each_blocks[i].d(1);
+				}
+
+				each_blocks.length = each_value.length;
+			}
+		},
+		i(local) {
+			if (current) return;
+			transition_in(if_block);
+			current = true;
+		},
+		o(local) {
+			transition_out(if_block);
+			current = false;
+		},
+		d(detaching) {
+			if (detaching) detach(span);
+			if_blocks[current_block_type_index].d();
+			if (detaching) detach(t0);
+			if (detaching) detach(button);
+			if (detaching) detach(t2);
+			if (detaching) detach(select);
+			destroy_each(each_blocks_1, detaching);
+			if (detaching) detach(t3);
+			if (detaching) detach(div);
+			destroy_each(each_blocks, detaching);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+function instance$1($$self, $$props, $$invalidate) {
+	let oppDir;
+	
+	
+	
+	let { plugin } = $$props;
+	let { view } = $$props;
+	const { settings } = plugin;
+	const { userHiers } = settings;
+	let dir = "down";
+	let frozen = false;
+	let { basename } = plugin.app.workspace.getActiveFile();
+
+	plugin.app.workspace.on("active-leaf-change", () => {
+		if (frozen) return;
+		$$invalidate(3, basename = plugin.app.workspace.getActiveFile().basename);
+	});
+
+	let lines;
+
+	const click_handler = () => {
+		$$invalidate(4, frozen = !frozen);
+		if (!frozen) $$invalidate(3, basename = plugin.app.workspace.getActiveFile().basename);
+	};
+
+	const click_handler_1 = async () => {
+		await plugin.refreshIndex();
+		await view.draw();
+	};
+
+	function select_change_handler() {
+		dir = select_value(this);
+		$$invalidate(2, dir);
+	}
+
+	const click_handler_2 = async (line, e) => await openOrSwitch(plugin.app, line[1], e);
+	const mouseover_handler = (line, e) => hoverPreview(e, view, line[1]);
+
+	$$self.$$set = $$props => {
+		if ("plugin" in $$props) $$invalidate(0, plugin = $$props.plugin);
+		if ("view" in $$props) $$invalidate(1, view = $$props.view);
+	};
+
+	$$self.$$.update = () => {
+		if ($$self.$$.dirty & /*dir*/ 4) {
+			$$invalidate(7, oppDir = getOppDir(dir));
+		}
+
+		if ($$self.$$.dirty & /*plugin, dir, oppDir, basename*/ 141) {
+			{
+				const { mainG } = plugin;
+				const upnDown = getSubInDirs(mainG, dir, oppDir);
+				const closed = getReflexiveClosure(upnDown, userHiers);
+				const down = getSubInDirs(closed, dir);
+				const allPaths = dfsAllPaths(down, basename);
+				const index = plugin.createIndex(allPaths, false);
+				loglevel.info({ allPaths, index });
+
+				$$invalidate(5, lines = index.split("\n").map(line => {
+					const pair = line.split("- ");
+					return [pair[0], pair.slice(1).join("- ")];
+				}).filter(pair => pair[1] !== ""));
+			}
+		}
+	};
+
+	return [
+		plugin,
+		view,
+		dir,
+		basename,
+		frozen,
+		lines,
+		settings,
+		oppDir,
+		click_handler,
+		click_handler_1,
+		select_change_handler,
+		click_handler_2,
+		mouseover_handler
+	];
+}
+
+class SideTree extends SvelteComponent {
+	constructor(options) {
+		super();
+		if (!document.getElementById("svelte-7s7d25-style")) add_css();
+		init(this, options, instance$1, create_fragment$1, safe_not_equal, { plugin: 0, view: 1 });
+	}
+}
+
+class TreeView extends require$$0.ItemView {
+    constructor(leaf, plugin) {
+        super(leaf);
+        this.icon = addFeatherIcon("corner-right-down");
+        this.plugin = plugin;
+    }
+    async onload() {
+        super.onload();
+        this.app.workspace.onLayoutReady(async () => {
+            await this.draw();
+        });
+    }
+    getViewType() {
+        return TREE_VIEW;
+    }
+    getDisplayText() {
+        return "Breadcrumbs Down";
+    }
+    async onOpen() { }
+    onClose() {
+        var _a;
+        (_a = this.view) === null || _a === void 0 ? void 0 : _a.$destroy();
+        return Promise.resolve();
+    }
+    async draw() {
+        this.contentEl.empty();
+        this.view = new SideTree({
+            target: this.contentEl,
+            props: { plugin: this.plugin, view: this },
         });
     }
 }
@@ -51282,7 +52122,7 @@ const treeMap = (graph, app, currFile, modal, width, height) => {
 
 /* src\Components\VisComp.svelte generated by Svelte v3.35.0 */
 
-function get_each_context$1(ctx, list, i) {
+function get_each_context(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[20] = list[i];
 	child_ctx[21] = list;
@@ -51329,7 +52169,7 @@ function create_each_block_1(ctx) {
 }
 
 // (153:2) {#each selectors as selector}
-function create_each_block$1(ctx) {
+function create_each_block(ctx) {
 	let span;
 	let t0_value = /*selector*/ ctx[20].text + "";
 	let t0;
@@ -51421,7 +52261,7 @@ function create_each_block$1(ctx) {
 	};
 }
 
-function create_fragment$2(ctx) {
+function create_fragment(ctx) {
 	let div0;
 	let t;
 	let div1;
@@ -51429,7 +52269,7 @@ function create_fragment$2(ctx) {
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block$1(get_each_context$1(ctx, each_value, i));
+		each_blocks[i] = create_each_block(get_each_context(ctx, each_value, i));
 	}
 
 	return {
@@ -51460,12 +52300,12 @@ function create_fragment$2(ctx) {
 				let i;
 
 				for (i = 0; i < each_value.length; i += 1) {
-					const child_ctx = get_each_context$1(ctx, each_value, i);
+					const child_ctx = get_each_context(ctx, each_value, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block$1(child_ctx);
+						each_blocks[i] = create_each_block(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(div0, null);
 					}
@@ -51489,7 +52329,7 @@ function create_fragment$2(ctx) {
 	};
 }
 
-function instance$2($$self, $$props, $$invalidate) {
+function instance($$self, $$props, $$invalidate) {
 	let argArr;
 	
 	
@@ -51647,7 +52487,7 @@ function instance$2($$self, $$props, $$invalidate) {
 class VisComp extends SvelteComponent {
 	constructor(options) {
 		super();
-		init(this, options, instance$2, create_fragment$2, safe_not_equal, { modal: 1, settings: 2 });
+		init(this, options, instance, create_fragment, safe_not_equal, { modal: 1, settings: 2 });
 	}
 }
 
@@ -51780,680 +52620,6 @@ class VisModal extends require$$0.Modal {
     onClose() {
         this.contentEl.empty();
     }
-}
-
-/* src\Components\RenderMarkdown.svelte generated by Svelte v3.35.0 */
-
-function add_css$1() {
-	var style = element("style");
-	style.id = "svelte-7e9i10-style";
-	style.textContent = "div.BC-note-content.svelte-7e9i10{padding-left:20px}";
-	append(document.head, style);
-}
-
-function create_fragment$1(ctx) {
-	let div;
-
-	return {
-		c() {
-			div = element("div");
-			attr(div, "class", "BC-note-content svelte-7e9i10");
-		},
-		m(target, anchor) {
-			insert(target, div, anchor);
-			/*div_binding*/ ctx[3](div);
-		},
-		p: noop,
-		i: noop,
-		o: noop,
-		d(detaching) {
-			if (detaching) detach(div);
-			/*div_binding*/ ctx[3](null);
-		}
-	};
-}
-
-function instance$1($$self, $$props, $$invalidate) {
-	var __awaiter = this && this.__awaiter || function (thisArg, _arguments, P, generator) {
-		function adopt(value) {
-			return value instanceof P
-			? value
-			: new P(function (resolve) {
-						resolve(value);
-					});
-		}
-
-		return new (P || (P = Promise))(function (resolve, reject) {
-				function fulfilled(value) {
-					try {
-						step(generator.next(value));
-					} catch(e) {
-						reject(e);
-					}
-				}
-
-				function rejected(value) {
-					try {
-						step(generator["throw"](value));
-					} catch(e) {
-						reject(e);
-					}
-				}
-
-				function step(result) {
-					result.done
-					? resolve(result.value)
-					: adopt(result.value).then(fulfilled, rejected);
-				}
-
-				step((generator = generator.apply(thisArg, _arguments || [])).next());
-			});
-	};
-
-	let { path } = $$props;
-	let { app } = $$props;
-
-	function getContent(note) {
-		return __awaiter(this, void 0, void 0, function* () {
-			const file = app.metadataCache.getFirstLinkpathDest(note, "");
-			return yield app.vault.cachedRead(file);
-		});
-	}
-
-	let el;
-
-	onMount(() => __awaiter(void 0, void 0, void 0, function* () {
-		require$$0.MarkdownRenderer.renderMarkdown(yield getContent(path), el, path, null);
-	}));
-
-	function div_binding($$value) {
-		binding_callbacks[$$value ? "unshift" : "push"](() => {
-			el = $$value;
-			$$invalidate(0, el);
-		});
-	}
-
-	$$self.$$set = $$props => {
-		if ("path" in $$props) $$invalidate(1, path = $$props.path);
-		if ("app" in $$props) $$invalidate(2, app = $$props.app);
-	};
-
-	return [el, path, app, div_binding];
-}
-
-class RenderMarkdown extends SvelteComponent {
-	constructor(options) {
-		super();
-		if (!document.getElementById("svelte-7e9i10-style")) add_css$1();
-		init(this, options, instance$1, create_fragment$1, safe_not_equal, { path: 1, app: 2 });
-	}
-}
-
-/* src\Components\Tree.svelte generated by Svelte v3.35.0 */
-
-function add_css() {
-	var style = element("style");
-	style.id = "svelte-yt7jmz-style";
-	style.textContent = ".BC-tree.svelte-yt7jmz{padding-left:5px}pre.indent.svelte-yt7jmz{display:inline;background-color:transparent;position:top}details.svelte-yt7jmz{display:inline-block}.is-unresolved.svelte-yt7jmz{color:var(--text-muted)}";
-	append(document.head, style);
-}
-
-function get_each_context(ctx, list, i) {
-	const child_ctx = ctx.slice();
-	child_ctx[26] = list[i];
-	return child_ctx;
-}
-
-// (45:0) {#if title !== "false"}
-function create_if_block_2(ctx) {
-	let h3;
-	let t0;
-	let t1;
-	let t2;
-
-	return {
-		c() {
-			h3 = element("h3");
-			t0 = text(/*dir*/ ctx[1]);
-			t1 = text(" of ");
-			t2 = text(/*basename*/ ctx[7]);
-		},
-		m(target, anchor) {
-			insert(target, h3, anchor);
-			append(h3, t0);
-			append(h3, t1);
-			append(h3, t2);
-		},
-		p(ctx, dirty) {
-			if (dirty & /*dir*/ 2) set_data(t0, /*dir*/ ctx[1]);
-		},
-		d(detaching) {
-			if (detaching) detach(h3);
-		}
-	};
-}
-
-// (50:4) {#if line.length > 1 && line[0].length / 2 < depthAsNum}
-function create_if_block(ctx) {
-	let current_block_type_index;
-	let if_block;
-	let if_block_anchor;
-	let current;
-	const if_block_creators = [create_if_block_1, create_else_block];
-	const if_blocks = [];
-
-	function select_block_type(ctx, dirty) {
-		if (/*content*/ ctx[3] === "open" || /*content*/ ctx[3] === "closed") return 0;
-		return 1;
-	}
-
-	current_block_type_index = select_block_type(ctx);
-	if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
-
-	return {
-		c() {
-			if_block.c();
-			if_block_anchor = empty();
-		},
-		m(target, anchor) {
-			if_blocks[current_block_type_index].m(target, anchor);
-			insert(target, if_block_anchor, anchor);
-			current = true;
-		},
-		p(ctx, dirty) {
-			let previous_block_index = current_block_type_index;
-			current_block_type_index = select_block_type(ctx);
-
-			if (current_block_type_index === previous_block_index) {
-				if_blocks[current_block_type_index].p(ctx, dirty);
-			} else {
-				group_outros();
-
-				transition_out(if_blocks[previous_block_index], 1, 1, () => {
-					if_blocks[previous_block_index] = null;
-				});
-
-				check_outros();
-				if_block = if_blocks[current_block_type_index];
-
-				if (!if_block) {
-					if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
-					if_block.c();
-				} else {
-					if_block.p(ctx, dirty);
-				}
-
-				transition_in(if_block, 1);
-				if_block.m(if_block_anchor.parentNode, if_block_anchor);
-			}
-		},
-		i(local) {
-			if (current) return;
-			transition_in(if_block);
-			current = true;
-		},
-		o(local) {
-			transition_out(if_block);
-			current = false;
-		},
-		d(detaching) {
-			if_blocks[current_block_type_index].d(detaching);
-			if (detaching) detach(if_block_anchor);
-		}
-	};
-}
-
-// (76:6) {:else}
-function create_else_block(ctx) {
-	let div;
-	let pre;
-	let t0_value = /*line*/ ctx[26][0] + "-" + "";
-	let t0;
-	let t1;
-	let span;
-	let a;
-	let t2_value = dropDendron(/*line*/ ctx[26][1], /*settings*/ ctx[5]) + "";
-	let t2;
-	let a_class_value;
-	let t3;
-	let mounted;
-	let dispose;
-
-	function click_handler_1(...args) {
-		return /*click_handler_1*/ ctx[15](/*line*/ ctx[26], ...args);
-	}
-
-	return {
-		c() {
-			div = element("div");
-			pre = element("pre");
-			t0 = text(t0_value);
-			t1 = space();
-			span = element("span");
-			a = element("a");
-			t2 = text(t2_value);
-			t3 = space();
-			attr(pre, "class", "indent svelte-yt7jmz");
-
-			attr(a, "class", a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[26][1])
-			? ""
-			: "is-unresolved") + " svelte-yt7jmz");
-
-			attr(span, "class", "internal-link");
-		},
-		m(target, anchor) {
-			insert(target, div, anchor);
-			append(div, pre);
-			append(pre, t0);
-			append(div, t1);
-			append(div, span);
-			append(span, a);
-			append(a, t2);
-			append(div, t3);
-
-			if (!mounted) {
-				dispose = [
-					listen(span, "click", click_handler_1),
-					listen(span, "mouseover", mouseover_handler_1)
-				];
-
-				mounted = true;
-			}
-		},
-		p(new_ctx, dirty) {
-			ctx = new_ctx;
-
-			if (dirty & /*plugin*/ 1 && a_class_value !== (a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[26][1])
-			? ""
-			: "is-unresolved") + " svelte-yt7jmz")) {
-				attr(a, "class", a_class_value);
-			}
-		},
-		i: noop,
-		o: noop,
-		d(detaching) {
-			if (detaching) detach(div);
-			mounted = false;
-			run_all(dispose);
-		}
-	};
-}
-
-// (51:6) {#if content === "open" || content === "closed"}
-function create_if_block_1(ctx) {
-	let div;
-	let pre;
-	let t0_value = /*line*/ ctx[26][0] + "";
-	let t0;
-	let t1;
-	let details;
-	let summary;
-	let span;
-	let a;
-	let t2_value = dropDendron(/*line*/ ctx[26][1], /*settings*/ ctx[5]) + "";
-	let t2;
-	let a_class_value;
-	let t3;
-	let rendermarkdown;
-	let details_open_value;
-	let t4;
-	let current;
-	let mounted;
-	let dispose;
-
-	function click_handler(...args) {
-		return /*click_handler*/ ctx[14](/*line*/ ctx[26], ...args);
-	}
-
-	rendermarkdown = new RenderMarkdown({
-			props: {
-				app: /*app*/ ctx[6],
-				path: /*line*/ ctx[26][1]
-			}
-		});
-
-	return {
-		c() {
-			div = element("div");
-			pre = element("pre");
-			t0 = text(t0_value);
-			t1 = space();
-			details = element("details");
-			summary = element("summary");
-			span = element("span");
-			a = element("a");
-			t2 = text(t2_value);
-			t3 = space();
-			create_component(rendermarkdown.$$.fragment);
-			t4 = space();
-			attr(pre, "class", "indent svelte-yt7jmz");
-
-			attr(a, "class", a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[26][1])
-			? ""
-			: "is-unresolved") + " svelte-yt7jmz");
-
-			attr(span, "class", "internal-link");
-			details.open = details_open_value = /*content*/ ctx[3] === "open";
-			attr(details, "class", "svelte-yt7jmz");
-		},
-		m(target, anchor) {
-			insert(target, div, anchor);
-			append(div, pre);
-			append(pre, t0);
-			append(div, t1);
-			append(div, details);
-			append(details, summary);
-			append(summary, span);
-			append(span, a);
-			append(a, t2);
-			append(details, t3);
-			mount_component(rendermarkdown, details, null);
-			append(div, t4);
-			current = true;
-
-			if (!mounted) {
-				dispose = [
-					listen(span, "click", click_handler),
-					listen(span, "mouseover", mouseover_handler)
-				];
-
-				mounted = true;
-			}
-		},
-		p(new_ctx, dirty) {
-			ctx = new_ctx;
-
-			if (!current || dirty & /*plugin*/ 1 && a_class_value !== (a_class_value = "internal-link " + (isInVault(/*plugin*/ ctx[0].app, /*line*/ ctx[26][1])
-			? ""
-			: "is-unresolved") + " svelte-yt7jmz")) {
-				attr(a, "class", a_class_value);
-			}
-
-			if (!current || dirty & /*content*/ 8 && details_open_value !== (details_open_value = /*content*/ ctx[3] === "open")) {
-				details.open = details_open_value;
-			}
-		},
-		i(local) {
-			if (current) return;
-			transition_in(rendermarkdown.$$.fragment, local);
-			current = true;
-		},
-		o(local) {
-			transition_out(rendermarkdown.$$.fragment, local);
-			current = false;
-		},
-		d(detaching) {
-			if (detaching) detach(div);
-			destroy_component(rendermarkdown);
-			mounted = false;
-			run_all(dispose);
-		}
-	};
-}
-
-// (49:2) {#each lines as line}
-function create_each_block(ctx) {
-	let if_block_anchor;
-	let current;
-	let if_block = /*line*/ ctx[26].length > 1 && /*line*/ ctx[26][0].length / 2 < /*depthAsNum*/ ctx[4] && create_if_block(ctx);
-
-	return {
-		c() {
-			if (if_block) if_block.c();
-			if_block_anchor = empty();
-		},
-		m(target, anchor) {
-			if (if_block) if_block.m(target, anchor);
-			insert(target, if_block_anchor, anchor);
-			current = true;
-		},
-		p(ctx, dirty) {
-			if (/*line*/ ctx[26].length > 1 && /*line*/ ctx[26][0].length / 2 < /*depthAsNum*/ ctx[4]) {
-				if (if_block) {
-					if_block.p(ctx, dirty);
-
-					if (dirty & /*depthAsNum*/ 16) {
-						transition_in(if_block, 1);
-					}
-				} else {
-					if_block = create_if_block(ctx);
-					if_block.c();
-					transition_in(if_block, 1);
-					if_block.m(if_block_anchor.parentNode, if_block_anchor);
-				}
-			} else if (if_block) {
-				group_outros();
-
-				transition_out(if_block, 1, 1, () => {
-					if_block = null;
-				});
-
-				check_outros();
-			}
-		},
-		i(local) {
-			if (current) return;
-			transition_in(if_block);
-			current = true;
-		},
-		o(local) {
-			transition_out(if_block);
-			current = false;
-		},
-		d(detaching) {
-			if (if_block) if_block.d(detaching);
-			if (detaching) detach(if_block_anchor);
-		}
-	};
-}
-
-function create_fragment(ctx) {
-	let t;
-	let div;
-	let current;
-	let if_block = /*title*/ ctx[2] !== "false" && create_if_block_2(ctx);
-	let each_value = /*lines*/ ctx[8];
-	let each_blocks = [];
-
-	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block(get_each_context(ctx, each_value, i));
-	}
-
-	const out = i => transition_out(each_blocks[i], 1, 1, () => {
-		each_blocks[i] = null;
-	});
-
-	return {
-		c() {
-			if (if_block) if_block.c();
-			t = space();
-			div = element("div");
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].c();
-			}
-
-			attr(div, "class", "BC-tree svelte-yt7jmz");
-		},
-		m(target, anchor) {
-			if (if_block) if_block.m(target, anchor);
-			insert(target, t, anchor);
-			insert(target, div, anchor);
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].m(div, null);
-			}
-
-			current = true;
-		},
-		p(ctx, [dirty]) {
-			if (/*title*/ ctx[2] !== "false") {
-				if (if_block) {
-					if_block.p(ctx, dirty);
-				} else {
-					if_block = create_if_block_2(ctx);
-					if_block.c();
-					if_block.m(t.parentNode, t);
-				}
-			} else if (if_block) {
-				if_block.d(1);
-				if_block = null;
-			}
-
-			if (dirty & /*content, app, lines, openOrSwitch, plugin, isInVault, dropDendron, settings, depthAsNum*/ 377) {
-				each_value = /*lines*/ ctx[8];
-				let i;
-
-				for (i = 0; i < each_value.length; i += 1) {
-					const child_ctx = get_each_context(ctx, each_value, i);
-
-					if (each_blocks[i]) {
-						each_blocks[i].p(child_ctx, dirty);
-						transition_in(each_blocks[i], 1);
-					} else {
-						each_blocks[i] = create_each_block(child_ctx);
-						each_blocks[i].c();
-						transition_in(each_blocks[i], 1);
-						each_blocks[i].m(div, null);
-					}
-				}
-
-				group_outros();
-
-				for (i = each_value.length; i < each_blocks.length; i += 1) {
-					out(i);
-				}
-
-				check_outros();
-			}
-		},
-		i(local) {
-			if (current) return;
-
-			for (let i = 0; i < each_value.length; i += 1) {
-				transition_in(each_blocks[i]);
-			}
-
-			current = true;
-		},
-		o(local) {
-			each_blocks = each_blocks.filter(Boolean);
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				transition_out(each_blocks[i]);
-			}
-
-			current = false;
-		},
-		d(detaching) {
-			if (if_block) if_block.d(detaching);
-			if (detaching) detach(t);
-			if (detaching) detach(div);
-			destroy_each(each_blocks, detaching);
-		}
-	};
-}
-
-const mouseover_handler = e => {
-	
-}; //   hoverPreview needs an itemView so it can access `app`...
-//   hoverPreview(e, el, line[1])
-
-const mouseover_handler_1 = e => {
-	
-}; //   hoverPreview needs an itemView so it can access `app`...
-//   hoverPreview(e, el, line[1])
-
-function instance($$self, $$props, $$invalidate) {
-	
-	
-	
-	let { plugin } = $$props;
-	let { ctx } = $$props;
-	let { el } = $$props;
-	let { dir } = $$props;
-	let { fields } = $$props;
-	let { title } = $$props;
-	let { depth } = $$props;
-	let { flat } = $$props;
-	let { content } = $$props;
-	const { settings, app, mainG } = plugin;
-	const { sourcePath } = ctx;
-	const currFile = app.metadataCache.getFirstLinkpathDest(sourcePath, "");
-	const { userHiers } = settings;
-	const { basename } = currFile;
-	let depthAsNum = 1000;
-
-	if (depth !== undefined && depth !== "") {
-		const num = parseInt(depth);
-		if (!isNaN(num)) depthAsNum = num;
-	}
-
-	const oppDir = getOppDir(dir);
-	const upnDown = getSubInDirs(mainG, dir, oppDir);
-	const closed = getReflexiveClosure(upnDown, userHiers);
-	const down = getSubInDirs(closed, dir);
-	const allPaths = dfsAllPaths(down, basename);
-	const index = plugin.createIndex(allPaths, false);
-	loglevel.info({ allPaths, index });
-
-	const lines = index.split("\n").map(line => {
-		const pair = line.split("- ");
-		return [flat === "true" ? "" : pair[0], pair.slice(1).join("- ")];
-	}).filter(pair => pair[1] !== "");
-
-	const click_handler = async (line, e) => await openOrSwitch(plugin.app, line[1], e);
-	const click_handler_1 = async (line, e) => await openOrSwitch(plugin.app, line[1], e);
-
-	$$self.$$set = $$props => {
-		if ("plugin" in $$props) $$invalidate(0, plugin = $$props.plugin);
-		if ("ctx" in $$props) $$invalidate(9, ctx = $$props.ctx);
-		if ("el" in $$props) $$invalidate(10, el = $$props.el);
-		if ("dir" in $$props) $$invalidate(1, dir = $$props.dir);
-		if ("fields" in $$props) $$invalidate(11, fields = $$props.fields);
-		if ("title" in $$props) $$invalidate(2, title = $$props.title);
-		if ("depth" in $$props) $$invalidate(12, depth = $$props.depth);
-		if ("flat" in $$props) $$invalidate(13, flat = $$props.flat);
-		if ("content" in $$props) $$invalidate(3, content = $$props.content);
-	};
-
-	return [
-		plugin,
-		dir,
-		title,
-		content,
-		depthAsNum,
-		settings,
-		app,
-		basename,
-		lines,
-		ctx,
-		el,
-		fields,
-		depth,
-		flat,
-		click_handler,
-		click_handler_1
-	];
-}
-
-class Tree extends SvelteComponent {
-	constructor(options) {
-		super();
-		if (!document.getElementById("svelte-yt7jmz-style")) add_css();
-
-		init(this, options, instance, create_fragment, safe_not_equal, {
-			plugin: 0,
-			ctx: 9,
-			el: 10,
-			dir: 1,
-			fields: 11,
-			title: 2,
-			depth: 12,
-			flat: 13,
-			content: 3
-		});
-	}
 }
 
 class BCPlugin extends require$$0.Plugin {
@@ -52631,8 +52797,8 @@ class BCPlugin extends require$$0.Plugin {
             },
             {
                 plain: "Down",
-                type: DOWN_VIEW,
-                constructor: DownView,
+                type: TREE_VIEW,
+                constructor: TreeView,
                 openOnLoad: settings.openDownOnLoad,
             },
         ];
@@ -52880,6 +53046,7 @@ class BCPlugin extends require$$0.Plugin {
                         }
                     }
                     if (threadingTemplate) {
+                        // @ts-ignore
                         const editor = leaf.view.editor;
                         editor.setCursor(editor.getValue().length);
                     }
@@ -52904,7 +53071,7 @@ class BCPlugin extends require$$0.Plugin {
             const { dir, fields, type, title, depth, flat } = parsedSource;
             switch (type) {
                 case "tree":
-                    new Tree({
+                    new CBTree({
                         target: el,
                         props: Object.assign({ plugin: this, ctx,
                             el }, parsedSource),
@@ -52925,9 +53092,14 @@ class BCPlugin extends require$$0.Plugin {
         results.field = results.field
             ? splitAndTrim(results.field)
             : undefined;
+        if (results.depth) {
+            const match = results.depth.match(/(\d*)-?(\d*)/);
+            results.depth = [match[1], match[2]];
+        }
         return results;
     }
     codeblockError(parsedSource) {
+        var _a;
         const { dir, fields, type, title, depth, flat, content } = parsedSource;
         const { userHiers } = this.settings;
         let err = "";
@@ -52937,13 +53109,13 @@ class BCPlugin extends require$$0.Plugin {
         if (!validDir)
             err += `<code>dir: ${dir}</code> is not a valid direction.</br>`;
         const allFields = getFields(userHiers);
-        fields === null || fields === void 0 ? void 0 : fields.forEach((f) => {
+        (_a = [fields].flat()) === null || _a === void 0 ? void 0 : _a.forEach((f) => {
             if (!allFields.includes(f))
                 err += `<code>field: ${f}</code> is not a field in your hierarchies.</br>`;
         });
         if (title !== undefined && title !== "false")
             err += `<code>title: ${title}</code> is not a valid value. It has to be <code>false</code>, or leave the entire line out.</br>`;
-        if (depth !== undefined && isNaN(parseInt(depth)))
+        if (depth !== undefined && depth.every((num) => isNaN(parseInt(num))))
             err += `<code>depth: ${depth}</code> is not a valid value. It has to be a number.</br>`;
         if (flat !== undefined && flat !== "true")
             err += `<code>flat: ${flat}</code> is not a valid value. It has to be <code>true</code>, or leave the entire line out.</br>`;
@@ -53144,6 +53316,7 @@ class BCPlugin extends require$$0.Plugin {
         const queue = [item];
         while (queue.length) {
             const currItem = queue.shift();
+            // @ts-ignore
             if (typeof currItem.defaultComparator === "function") {
                 const possibleUnproxied = Object.assign({}, currItem);
                 const { values } = possibleUnproxied;
@@ -53317,9 +53490,12 @@ class BCPlugin extends require$$0.Plugin {
             const { file } = altFile;
             const basename = getDVBasename(file);
             const folder = getFolder(file);
+            const subfolders = altFile[BC_FOLDER_NOTE_SUBFOLDER];
             const targets = frontms
                 .map((ff) => ff.file)
-                .filter((other) => getFolder(other) === folder && other.path !== file.path)
+                .filter((other) => (subfolders
+                ? getFolder(other).includes(folder)
+                : getFolder(other) === folder) && other.path !== file.path)
                 .map(getDVBasename);
             const field = altFile[BC_FOLDER_NOTE];
             if (typeof field !== "string" || !fields.includes(field))

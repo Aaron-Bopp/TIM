@@ -59,6 +59,7 @@
   "regexNoteField": "",
   "rlLeaf": true,
   "showAllPathsIfNoneToIndexNote": false,
+  "showAllAliases": true,
   "showBCs": true,
   "showBCsInEditLPMode": false,
   "showRefreshNotice": true,
@@ -66,6 +67,7 @@
   "showTrail": true,
   "showGrid": false,
   "showPrevNext": true,
+  "sortByNameShowAlias": false,
   "squareDirectionsOrder": [
     0,
     1,
