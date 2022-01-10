@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.596
+Version 1.616
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -271,7 +271,7 @@ the .create-ToC.sh.
 }
 
 /* ───────────────────────────────────────────────────
-<< Brightness, Saturation, Hue
+<< Color Schemes
 ─────────────────────────────────────────────────── */
 
 /* default values (no Style Settings Plugin) */
@@ -306,6 +306,10 @@ the .create-ToC.sh.
 	--brightness-dark: 9%;
 }
 
+/* ───────────────────────────────────────────────────
+<< Brightness, Saturation, Hue
+─────────────────────────────────────────────────── */
+
 .theme-light {
 	--b-light-1: calc(var(--brightness-light) + 82%);
 	--b-light-2: calc(var(--brightness-light) + 78%);
@@ -321,9 +325,8 @@ the .create-ToC.sh.
 	--bg3: hsl(var(--light-hue) var(--sat-light-3) var(--b-light-3));
 
 	--header-bg: hsl(var(--light-hue) calc(var(--sat-light-3) * 1.1) calc(var(--b-light-2) - 2%));
-	--notice-bg: hsl(var(--light-hue) calc(var(--sat-light-3) * 0.8) var(--b-light-3));
+	--notice-bg: hsl(var(--light-hue) calc(var(--sat-light-3) * 0.8) var(--b-light-2));
 	--resize-handle-color: hsl(var(--light-hue) var(--sat-light-2) calc(var(--b-light-2) - 1%));
-	--scrollbar-bg: hsl(var(--light-hue) var(--sat-light-3) calc(var(--b-light-2) - 8%));
 	--suggester-b-row: hsl(var(--light-hue) var(--sat-light-2) calc(var(--b-light-1) - 3%));
 	--muted-border-color: hsl(var(--light-hue) var(--sat-light-3) calc(var(--b-light-3) + 3%));
 	--basic-border-color: hsl(var(--light-hue) var(--sat-light-3) calc(var(--b-light-3) - 5%));
@@ -347,7 +350,6 @@ the .create-ToC.sh.
 	--header-bg: hsl(var(--dark-hue) calc(var(--sat-dark-1) * 1.6) calc(var(--b-dark-2) - 2%));
 	--notice-bg: hsl(var(--dark-hue) calc(var(--sat-dark-1) * 0.8) var(--b-dark-1));
 	--resize-handle-color: hsl(var(--dark-hue)  var(--sat-dark-2) calc(var(--b-dark-2) - 1%));
-	--scrollbar-bg: hsl(var(--dark-hue) var(--sat-dark-1) calc(var(--b-dark-2) + 9%));
 	--suggester-b-row: hsl(var(--dark-hue)  var(--sat-dark-1) calc(var(--b-dark-1) - 2%));
 	--muted-border-color: hsl(var(--dark-hue) var(--sat-dark-1) calc(var(--b-dark-1) - 6%));
 	--basic-border-color: hsl(var(--dark-hue) var(--sat-dark-1) calc(var(--b-dark-1) + 6%));
@@ -376,7 +378,6 @@ the .create-ToC.sh.
 
 	--header-bg: hsl(var(--longform-light-hue) calc(var(--sat-light-3) * 1.1) calc(var(--b-light-2) - 2%));
 	--resize-handle-color: hsl(var(--longform-light-hue) var(--sat-light-2) calc(var(--b-light-2) - 1%));
-	--scrollbar-bg: hsl(var(--longform-light-hue) var(--sat-light-3) calc(var(--b-light-2) - 8%));
 	--muted-border-color: hsl(var(--longform-light-hue) var(--sat-light-3) calc(var(--b-light-3) + 3%));
 	--basic-border-color: hsl(var(--longform-light-hue) var(--sat-light-3) calc(var(--b-light-3) - 5%));
 }
@@ -388,7 +389,6 @@ the .create-ToC.sh.
 
 	--header-bg: hsl(var(--longform-dark-hue) calc(var(--sat-dark-1) * 1.6) calc(var(--b-dark-2) - 2%));
 	--resize-handle-color: hsl(var(--longform-dark-hue)  var(--sat-dark-2) calc(var(--b-dark-2) - 1%));
-	--scrollbar-bg: hsl(var(--longform-dark-hue) var(--sat-dark-1) calc(var(--b-dark-2) + 9%));
 	--muted-border-color: hsl(var(--longform-dark-hue) var(--sat-dark-1) calc(var(--b-dark-1) - 6%));
 	--basic-border-color: hsl(var(--longform-dark-hue) var(--sat-dark-1) calc(var(--b-dark-1) + 6%));
 }
@@ -412,7 +412,7 @@ the .create-ToC.sh.
 }
 
 ::-WEBKIT-SCROLLBAR-THUMB {
-	background-color: var(--scrollbar-bg);
+	background-color: var(--resize-handle-color);
 }
 
 .workspace-split.mod-root .view-content {
@@ -461,8 +461,8 @@ body.theme-dark {
 	--toggle-disabled-inset-shadow: -1px -1px 2px 0px var(--inset-shadow-color) inset;
 	--tab-inset-shadow: -1px -1px 0 var(--inset-shadow-color) inset;
 	--textbox-inset-shadow: 1px 1px 1px var(--inset-shadow-color) inset;
-	--button-inset-shadow: -2px -2px 3px var(--inset-shadow-color) inset;
-	--muted-button-shadow: -1px -1px 1px var(--inset-shadow-color) inset;
+	--button-inset-shadow: -1px -1px 3px var(--inset-shadow-color) inset;
+	--muted-button-inset-shadow: -1px -1px 2px var(--inset-shadow-color) inset;
 	--notice-inset-shadow: -1px -1px 2px var(--inset-shadow-color) inset;
 }
 
@@ -474,7 +474,7 @@ body.theme-dark {
 	--tab-inset-shadow: -1px -1px 0px var(--inset-shadow-black) inset;
 	--textbox-inset-shadow: 2px 2px 1px var(--inset-shadow-black) inset;
 	--button-inset-shadow: -2px -2px 2px var(--inset-shadow-color) inset;
-	--muted-button-shadow: -1px -1px 1px var(--inset-shadow-black) inset;
+	--muted-button-inset-shadow: -1px -1px 1px var(--inset-shadow-black) inset;
 	--notice-inset-shadow: -1px -1px 2px var(--inset-shadow-black) inset;
 }
 
@@ -539,14 +539,16 @@ only sidebars and everything scrolling */
 :root {
 	--resize-handle-color-thickness: 3px;
 	--resize-handle-color-hovered-thickness: 6px;
-	--scrollbar-bg-thickness: 8px;
+	--scrollbar-thickness: 8px;
 	--image-size: 50;
 	--pdf-size: 50vh;
 	--popover-size: 350;
 	--inactive-pane-opacity: 75%;
 	--tooltip-arrow-length: 10px;
+	--readable-length: 700px;
 
 	--signature: "⟡";
+	--pseudo-admonition-prefix: "ℹ️";
 	--empty-state-symbol-size: 8rem;
 }
 
@@ -1125,9 +1127,13 @@ svg.longform > path { display: none }
 
 svg.longform {
 	background-color: currentColor;
+
 	position: relative;
+	top: 1px;
 	right: -1px;
+
 	transform: scale(1.1);
+
 	-webkit-mask-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMidYMid meet' viewBox='0 0 24 24'%3e%3cpath d='M3 2h2v20H3zm16 0H6v20h13c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm-1 10H9v-2h9v2zm0-4H9V6h9v2z' fill='currentColor'/%3e%3c/svg%3e");
 }
 
@@ -1136,6 +1142,14 @@ svg.longform {
 ─────────────────────────────────────────────────── */
 
 /* ───────────────────────────────────────────────────
+<< GLobal Filter
+─────────────────────────────────────────────────── */
+
+.grayscale { filter: grayscale(0.85) }
+.sepia { filter: sepia(0.85) }
+
+/* ───────────────────────────────────────────────────
+
 << Angular or Round Shapes
 ─────────────────────────────────────────────────── */
 
@@ -1617,27 +1631,21 @@ body:not(.show-scrollbar) ::-WEBKIT-SCROLLBAR {
 	display: unset;
 }
 
-/* .workspace-split.mod-vertical ::-WEBKIT-SCROLLBAR {
-	display: unset;
-} */
+/* removes scrollbar background */
+::-WEBKIT-SCROLLBAR {
+	background-color: transparent;
+}
 
-::-WEBKIT-SCROLLBAR:active,
-::-WEBKIT-SCROLLBAR:hover,
 ::-WEBKIT-SCROLLBAR-THUMB:active,
 ::-WEBKIT-SCROLLBAR-THUMB:hover,
-::-WEBKIT-SCROLLBAR,
 ::-WEBKIT-SCROLLBAR-THUMB {
-	width: var(--scrollbar-bg-thickness);
+	width: var(--scrollbar-thickness);
 	border-radius: var(--roundish);
 }
 
 /* hover / active colors */
 ::-WEBKIT-SCROLLBAR-THUMB:hover {
 	background-color: var(--scrollbar-bg-hover);
-}
-
-::-WEBKIT-SCROLLBAR:hover {
-	background-color: var(--bg2);
 }
 
 ::-WEBKIT-SCROLLBAR-THUMB:active {
@@ -1784,7 +1792,7 @@ p.mod-warning::BEFORE {
 	cursor: pointer;
 }
 
-.checkbox-container.is-enabled {
+body .checkbox-container.is-enabled {
 	box-shadow: var(--toggle-enabled-inset-shadow);
 }
 
@@ -1914,12 +1922,18 @@ select.dropdown:hover {
 input[type="range"] {
 	width: 150px;
 	background-color: var(--bg3) !important;
+	box-shadow: var(--textbox-inset-shadow);
 	border-radius: calc(var(--roundish) / 2);
 }
 
 input[type="range"]::-WEBKIT-SLIDER-THUMB {
 	background-color: var(--interactive-bg) !important;
+	box-shadow: var(--toggle-enabled-inset-shadow);
 	border-radius: var(--round);
+}
+
+input[type="range"]::-WEBKIT-SLIDER-THUMB {
+
 }
 
 /* ───────────────────────────────────────────────────
@@ -2860,6 +2874,7 @@ body .workspace-leaf-resize-handle:active {
 .setting-hotkey {
 	font-family: var(--button-font);
 	background-color: var(--bg2);
+	box-shadow: var(--muted-button-inset-shadow);
 	border: var(--thin-border);
 	border-radius: var(--roundish);
 }
@@ -2931,7 +2946,7 @@ body .workspace-leaf-resize-handle:active {
 .modal.mod-community-plugin .community-plugin-search .setting-item-control button {
 	color: var(--extra-contrast);
 	background-color: var(--bg2);
-	box-shadow: var(--muted-button-shadow);
+	box-shadow: var(--muted-button-inset-shadow);
 
 	margin-right: 8px;
 	margin-left: 4px;
@@ -3168,6 +3183,10 @@ body .workspace-leaf-resize-handle:active {
 	text-transform: lowercase;
 }
 
+.community-plugin-info .community-plugin-version {
+	margin-top: -21px;
+}
+
 .community-plugin-info .community-plugin-version,
 .community-plugin-info .community-plugin-author {
 	font-family: var(--menu-font);
@@ -3188,9 +3207,8 @@ body .community-plugin-info .community-plugin-downloads-text {
 .community-plugin-info .community-plugin-downloads {
 	display: block;
 	font-size: 1.3rem;
-	position: absolute;
-	right: 10px;
-	margin-top: 5px;
+	text-align: end;
+	margin-top: 12px;
 }
 
 /* Buttons */
@@ -3208,7 +3226,7 @@ body .community-plugin-info .community-plugin-downloads-text {
 	font-size: 0;
 	height: 2.09rem;
 	background-color: var(--bg2);
-	box-shadow: var(--muted-button-shadow);
+	box-shadow: var(--muted-button-inset-shadow);
 	padding: 1px 3px 0 2px;
 }
 
@@ -3276,8 +3294,9 @@ body .community-plugin-info .community-plugin-downloads-text {
 }
 
 /* prevent image settings from propagating to images in here */
-.community-plugin-info .community-plugin-readme img {
+.modal.mod-community-plugin .community-plugin-info .community-plugin-readme img {
 	display: inline;
+	margin: 0; /* stylelint-disable-line plugin/declaration-block-no-ignored-properties */
 }
 
 /* prevent external link icon from propagating */
@@ -3339,7 +3358,7 @@ body .community-plugin-info .community-plugin-downloads-text {
 
 	color: var(--text-normal);
 	background-color: var(--bg2);
-	box-shadow: var(--muted-button-shadow);
+	box-shadow: var(--muted-button-inset-shadow);
 
 	position: absolute;
 	top: 137px;
@@ -3478,7 +3497,7 @@ body .community-plugin-info .community-plugin-downloads-text {
 
 body .modal.mod-community-theme .modal-content .modal-title {
 	font-weight: 700;
-	letter-spacing: var(--heading-letter-spacing);
+	letter-spacing: 2px;
 	margin-bottom: 20px;
 }
 
@@ -3495,7 +3514,7 @@ body .modal.mod-community-theme .modal-content .modal-title {
 
 	color: var(--extra-contrast);
 	background-color: var(--bg3);
-	box-shadow: var(--muted-button-shadow);
+	box-shadow: var(--muted-button-inset-shadow);
 
 	margin-bottom: 9px;
 
@@ -3718,6 +3737,82 @@ body:not(.no-active-highlight):not(.focused-highlight) .CodeMirror-activeline .C
 	color: var(--text-normal);
 	background-color: var(--bg2);
 	border: var(--basic-border);
+}
+
+/* ───────────────────────────────────────────────────
+<<< Clean Embeds
+─────────────────────────────────────────────────── */
+/* credits: @Moonbase59 https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/394 */
+
+/* remove title and the table from the "Metatable" plugin */
+.markdown-preview-view.clean-embeds .markdown-embed-title,
+.markdown-preview-view.clean-embeds .obsidian-metatable {
+	display: none;
+}
+
+/* Link icon */
+.markdown-preview-view.clean-embeds .markdown-embed-link,
+.markdown-preview-view.clean-embeds .file-embed-link {
+	text-align: right;
+	top: 4px;
+	right: 4px;
+}
+
+/* Link icon size & hide */
+.markdown-preview-view.clean-embeds .file-embed-link svg,
+.markdown-preview-view.clean-embeds .markdown-embed-link svg {
+	display: unset;
+	height: 1.3em;
+	width: 1.3em;
+	opacity: 0;
+}
+
+.markdown-preview-view.clean-embeds .markdown-embed-link:hover svg {
+	color: var(--alt-accent);
+}
+
+/* show on hover */
+.markdown-preview-view.clean-embeds .markdown-embed:hover .file-embed-link svg,
+.markdown-preview-view.clean-embeds .markdown-embed:hover .markdown-embed-link svg {
+	opacity: 1;
+}
+
+/* change background on hover, to exactly see what’s embedded */
+.markdown-preview-view.clean-embeds .markdown-embed:hover,
+.markdown-preview-view.clean-embeds .file-embed:hover {
+	background-color: var(--a-row);
+	outline: 1px solid var(--basic-border-color);
+}
+
+/* remove border and scroll */
+.markdown-preview-view.clean-embeds .markdown-embed,
+.markdown-preview-view.clean-embeds .file-embed {
+	padding: 0 5px;
+	margin: 0 -5px;
+	border: none;
+}
+
+.markdown-preview-view.clean-embeds .markdown-embed-content,
+.markdown-preview-view.clean-embeds .markdown-embed-content > .markdown-preview-view {
+	max-height: unset;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+/* remove <br> between internal embeds */
+.clean-embeds .markdown-preview-section div > br {
+	display: none;
+}
+
+/* special considerations for printing (PDF export) */
+@media print {
+	/* remove frontmatter box if "Show frontmatter" was enabled */
+	/* Also remove metadata table from "Metatable" plugin */
+	pre.frontmatter,
+	.obsidian-metatable {
+		display: none;
+	}
 }
 
 /* ───────────────────────────────────────────────────
@@ -4184,6 +4279,16 @@ body:not(.no-alternating-rows) .spellchecker-dictionary-item {
 	max-width: 100%;
 }
 
+/* readable line length */
+body:not(.max-view-enabled) .mod-root .markdown-source-view.mod-cm6.is-readable-line-width .cm-content,
+body:not(.max-view-enabled) .mod-root .markdown-source-view.mod-cm6.is-readable-line-width:not(.rtl) .cm-contentContainer,
+body:not(.max-view-enabled) .mod-root .markdown-source-view.mod-cm6.is-readable-line-width .cm-contentContainer .cm-line,
+.max-view-enabled .mod-left-split:not(.is-collapsed) ~ .mod-root .markdown-source-view.mod-cm6.is-readable-line-width .cm-content,
+.max-view-enabled .mod-left-split:not(.is-collapsed) ~ .mod-root .markdown-source-view.mod-cm6.is-readable-line-width:not(.rtl) .cm-contentContainer,
+.max-view-enabled .mod-left-split:not(.is-collapsed) ~ .mod-root .markdown-source-view.mod-cm6.is-readable-line-width .cm-contentContainer .cm-line {
+	max-width: var(--readable-length);
+}
+
 /* CM5: Source Mode */
 .max-view-enabled .mod-left-split.is-collapsed ~ .mod-root .CodeMirror-wrap {
 	max-width: 100%;
@@ -4202,8 +4307,7 @@ body:not(.no-alternating-rows) .spellchecker-dictionary-item {
 	max-width: 100% !important;
 }
 
-body:not(.is-mobile) .view-content .is-live-preview img,
-body:not(.is-mobile) .view-content > *:not(.kanban-plugin) .markdown-preview-view img,
+body:not(.is-mobile) .app-container .view-content img,
 body:not(.is-mobile) .oz-image-widget-cm6 > img:not(:active),
 body:not(.is-mobile) .app-container div.oz-image-widget > img:not(:active) {
 	max-width: calc(var(--image-size) * 1%);
@@ -4373,8 +4477,8 @@ body .markdown-preview-view blockquote,
 	color: var(--text-accent) !important;
 }
 
-.cm-string.cm-url.cm-quote.cm-quote-1,
-.cm-link.cm-quote.cm-quote-1 {
+.cm-string.cm-url.cm-quote,
+.cm-link.cm-quote {
 	font-style: unset;
 }
 
@@ -4438,6 +4542,103 @@ body:not(.blockquotes-left-aligned) > .app-container .HyperMD-quote {
 
 .theme-dark .mod-cm5 .HyperMD-quote {
 	background-color: rgb(0 0 0 / 25%);
+}
+
+/* ───────────────────────────────────────────────────
+<< Citation Syntax
+─────────────────────────────────────────────────── */
+.markdown-preview-view div > blockquote > blockquote {
+	/* used for pseudo admonitions & for pseudo citations */
+	padding: 0;
+	border: none;
+}
+
+.markdown-preview-view div > blockquote > p + blockquote {
+	margin-top: -10px;
+}
+
+/* for LP */
+.HyperMD-quote-2 .cm-formatting-quote-1 + .cm-blockquote-border {
+	display: none;
+}
+
+/* first line LP, second Reading */
+.HyperMD-quote-2:not(.cm-active) .cm-quote-2:not(.cm-formatting-quote)::BEFORE,
+.markdown-preview-view div > blockquote > p + blockquote > p::BEFORE {
+   content: "— ";
+}
+
+.markdown-preview-view div > blockquote > p + blockquote > p::BEFORE {
+	padding-left: 20px;
+}
+
+.markdown-source-view .cm-line.HyperMD-quote-1 + .HyperMD-quote-2 {
+	padding-top: 0;
+}
+
+/* styling of the citation text */
+.markdown-preview-view div > blockquote > blockquote,
+.markdown-source-view .cm-line.HyperMD-quote-1 + .HyperMD-quote-2 .cm-quote-2:not(.cm-formatting-quote) {
+	font-size: 0.85rem;
+	font-style: italic;
+}
+
+/* ───────────────────────────────────────────────────
+<< Pseudo-Admonitions
+─────────────────────────────────────────────────── */
+
+.HyperMD-quote-3 .cm-formatting-quote-3::AFTER {
+	content: var(--pseudo-admonition-prefix);
+	padding-left: 3px;
+}
+
+.HyperMD-quote-3 .cm-formatting-quote-3 ~ .cm-formatting-quote-3::AFTER,
+.HyperMD-quote-3 ~ .HyperMD-quote-3 .cm-formatting-quote-3::AFTER {
+	opacity: 0;
+}
+
+.HyperMD-quote .cm-quote-3:not(.cm-formatting-quote) {
+	font-family: var(--menu-font-family);
+	font-size: 0.85rem;
+}
+
+.markdown-preview-view blockquote > blockquote > blockquote::BEFORE {
+	content: var(--pseudo-admonition-prefix);
+
+	font-style: normal;
+
+	background-color: var(--bg2);
+
+	position: absolute;
+	top: -6.5px;
+	bottom: -7px;
+	left: -35px;
+
+	padding: 5px 8px;
+
+	border: 7px double var(--basic-border-color);
+	border-right: none;
+}
+
+.markdown-preview-view blockquote > blockquote > blockquote {
+	font-family: var(--menu-font-family);
+	font-size: 0.9rem;
+
+	position: relative;
+	right: -15px;
+	bottom: -0.5px;
+
+	margin-right: 10px;
+
+	border: none;
+
+	outline: 7px double var(--basic-border-color);
+}
+
+/* for LP */
+.HyperMD-quote-3 .cm-formatting-quote-1 + .cm-blockquote-border,
+.HyperMD-quote-3 .cm-formatting-quote-3 .cm-blockquote-border {
+	display: none;
 }
 
 /* ───────────────────────────────────────────────────
@@ -5215,7 +5416,7 @@ body:not(.annotation-tags-off) .tag[href="#example"]::BEFORE {
 << Comments & HTML Tags
 ─────────────────────────────────────────────────── */
 
-.cm-s-obsidian span.cm-comment {
+.cm-comment.cm-comment.cm-comment.cm-comment.cm-comment {
 	color: var(--text-muted);
 }
 
@@ -6515,6 +6716,47 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 ─────────────────────────────────────────────────── */
 
 /* ───────────────────────────────────────────────────
+<< Supercharged links
+─────────────────────────────────────────────────── */
+
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#checklist" i]::BEFORE { content: "☑️ " }
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-kanban-plugin]::BEFORE { content: "🎆 " }
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#moc" i]::BEFORE { content: "🗺 " }
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#person" i]::BEFORE { content: "👤 " }
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#evergreen" i]::BEFORE { content: "🌲 " }
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#seedling" i]::BEFORE { content: "🌱 " }
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-title]::BEFORE { content: "📖 " }
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-up]::BEFORE { content: "🥖 " }
+
+/* tooltips */
+body:not(.no-built-in-supercharged-links) .data-link-text:hover::AFTER {
+	font-size: 0.9rem;
+
+	max-width: 350px;
+
+	color: var(--text-normal);
+	background-color: var(--notice-bg);
+	box-shadow: var(--notice-inset-shadow), var(--small-shadow);
+
+	position: absolute;
+
+	padding: 8px 10px;
+
+	border: var(--notice-border);
+	border-radius: var(--roundish);
+}
+
+/* stylelint-disable function-whitespace-after */
+body:not(.no-built-in-supercharged-links) .data-link-text[data-link-title]:hover::AFTER {
+	content: "\""attr(data-link-title)"\"";
+}
+
+body:not(.no-built-in-supercharged-links) .data-link-text[data-link-up]:hover::AFTER {
+	content: "⬆️ \""attr(data-link-up)"\"";
+}
+
+/* stylelint-enable function-whitespace-after */
+/* ───────────────────────────────────────────────────
 << Emoji Toolbar
 ─────────────────────────────────────────────────── */
 /* Having "Twitter emojis" enabled turns all emojis
@@ -6944,6 +7186,21 @@ body .kanban-plugin__item {
 	border: var(--thin-border);
 }
 
+/* thinner lane scrollbar */
+.kanban-plugin .kanban-plugin__lane ::-WEBKIT-SCROLLBAR {
+	width: calc(var(--scrollbar-thickness) * 0.9);
+}
+
+.kanban-plugin .kanban-plugin__lane ::-WEBKIT-SCROLLBAR-THUMB {
+	background-color: var(--bg1);
+	border-width: 2px;
+}
+
+body .kanban-plugin__scroll-container.kanban-plugin__scroll-container {
+	padding-right: 3px;
+	margin-right: 3px;
+}
+
 /* vertical three dots on lane */
 .kanban-plugin__lane-settings-button-wrapper svg {
 	color: var(--text-faint);
@@ -6964,6 +7221,10 @@ body .kanban-plugin__lane {
 /* space between lanes */
 body .kanban-plugin__lane-wrapper {
 	margin-right: 9px;
+}
+
+.kanban-plugin__item-title-wrapper {
+	box-shadow: var(--muted-button-inset-shadow) !important;
 }
 
 .kanban-plugin__lane-settings-button-wrapper:hover svg {
@@ -7073,6 +7334,16 @@ body .kanban-plugin .kanban-plugin__markdown-preview-view hr {
 
 .kanban-plugin ul > li.task-list-item {
 	padding-left: 0;
+}
+
+/* prevent images setting from propagating to Kanbans */
+.kanban-plugin.kanban-plugin.kanban-plugin .kanban-plugin__item img {
+	max-width: 100%;
+	margin-top: 0;
+}
+
+.kanban-plugin .image-embed[alt]::AFTER {
+	margin-bottom: 0;
 }
 
 /* ───────────────────────────────────────────────────
@@ -7894,6 +8165,11 @@ body > .app-container div.BC-trail-grid-item {
 	border-collapse: collapse;
 }
 
+/* Breadcrumbs Codeblock */
+.BC-tree pre.indent {
+	border: none;
+}
+
 /* ───────────────────────────────────────────────────
 << Drag & Drop Blocks
 ─────────────────────────────────────────────────── */
@@ -8679,6 +8955,7 @@ community:
 - obsidian-dictionary-plugin
 - obsidian-highlight-current-word
 - obsidian-emoji-toolbar
+- supercharged-links-obsidian
 */
 
 /* ───────────────────────────────────────────────────
@@ -8694,7 +8971,7 @@ settings:
 	-
 	 id: show-hide-elements
 	 title: Show/Hide UI Elements
-	 description: Re-enable Elements hidden by this theme
+	 description: Re-enable elements hidden by this theme
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -8900,6 +9177,22 @@ settings:
 	 type: class-toggle
 	 default: false
 	-
+	 id: global-filter
+	 title: "Global Filter"
+	 type: class-select
+	 allowEmpty: false
+	 default: no-global-filter
+	 options:
+		-
+			label: No Filter (Default)
+			value: no-global-filter
+		-
+			label: Grayscale
+			value: grayscale
+		-
+			label: Sepia
+			value: sepia
+	-
 	 id: font-settings
 	 title: Typography
 	 description: Font, Headings, Blockquotes, Font Sizes, Headings, Letter Spacing, Alignment
@@ -9071,10 +9364,20 @@ settings:
 	-
 	 id: content-settings
 	 title: Views & Media
-	 description: Max View, Focus View, Images, PDFs
+	 description: Line Length, Max View, Focus View, Images, PDFs
 	 type: heading
 	 level: 2
 	 collapsed: true
+	-
+	 id: readable-length
+	 title: Line Length
+	 description: 'When "Readable Line length" is enabled and "Max View" is not active.'
+	 type: variable-number-slider
+	 default: 700
+	 min: 300
+	 max: 1300
+	 step: 50
+	 format: px
 	-
 	 id: max-view-enabled
 	 title: 'Enable "Max View"'
@@ -9197,7 +9500,7 @@ settings:
 	-
 	 id: plugin-specific-settings
 	 title: Plugin-Specific Settings
-	 description: File Explorer, Outline, Page Preview, Command Palette, Calendar, Link Favicons
+	 description: File Explorer, Outline, Supercharged Links, Page Preview, Command Palette, Calendar, Link Favicons
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -9211,6 +9514,12 @@ settings:
 	 id: outline-remove-level-1
 	 title: 'Outline: Remove First Level of Headings'
 	 description: In case you have only one H1 heading per file, this will make the outline sidebar more compact.
+	 type: class-toggle
+	 default: false
+	-
+	 id: no-built-in-supercharged-links
+	 title: 'Supercharged Links: Turn off built-in styling'
+	 description: This theme has some styling for the Supercharged Links plugin built-in, so can make use of the plugin without knowledge of CSS. See the theme's README on GitHub for more information.
 	 type: class-toggle
 	 default: false
 	-
@@ -9294,8 +9603,8 @@ settings:
 	 default: false
 	-
 	 id: miscellaneous
-	 title: Miscellaneous
-	 description: File Name Trimming, Pandoc Citations, Annotation Tags, Alternating Row Colors, Relationship Lines
+	 title: Other Theme Features
+	 description: File Name Trimming, Pseudo-Admonitions, Pandoc Citations, Annotation Tags, Alternating Row Colors, Relationship Lines
 	 type: heading
 	 level: 2
 	 collapsed: true
@@ -9305,6 +9614,11 @@ settings:
 	 description: When enabled long filenames will be trimmed. When disabled, long filenames will be wrapped to the next line. Affects most, but not all side bar plugin.
 	 type: class-toggle
 	 default: false
+	-
+	 id: pseudo-admonition-prefix
+	 title: 'Pseudo-Admonitions: Prefixed Icon'
+	 type: variable-text
+	 default: "ℹ️"
 	-
 	 id: no-pandoc-citation-emphasis
 	 title: No Emphasis of Pandoc Citations

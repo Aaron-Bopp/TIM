@@ -1,0 +1,26 @@
+	- #node
+		- #node/evergreen 
+		- #node/topic 
+			- #node/topic/term 
+			- #node/topic/stub 
+			- #node/topic/outline 
+			- #node/topic/tool 
+			- #node/topic/person 
+			- #node/topic/technique 
+			- #node/topic/list 
+		- #node/source 
+			- #node/source/notes 
+			- #node/source/articles 
+			- #node/source/tweets 
+			- #node/source/videos 
+			- #node/source/qoutes 
+			- #node/source/course 
+			- #node/source/books 
+			- #node/source/flashcards 
+			- #node/source/podcasts 
+		- #node/question 
+		- #node/personal 
+		- #node/project 
+	- #TO
+		- 
+	

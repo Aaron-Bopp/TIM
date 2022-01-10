@@ -1,0 +1,11 @@
+- **00_Meta** notes and files that do not contain existential intellectual value outside of the vault
+	- **Templates** reusable templates for all major note types, see [[003 Note Hierarchy]]
+	- **CustomJS**, **Converters** custom scripts 
+	- **Attachments** 
+- **10_Sources** [[source notes]], [[Readwise (software)|Readwise]] imports, and PDFs
+- **20_Entry** notes that help access other notes in the vault
+	- **21 Inbox** determines and displays what notes are being working on based on various factors such 
+	- **22 Note by status** displays notes based on their assigned status
+- **30_Topics** [[topic note|topic notes]]
+	- Sub-folders currently mirror their type from [[003 Note Hierarchy]] (mostly)
+- **40_Evergreens** [[evergreen notes]] in a flat file structure (with outline notes)

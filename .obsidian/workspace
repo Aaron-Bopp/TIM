@@ -4,136 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b809fb0050ff315d",
+        "id": "7c59d9d87f5fd27f",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "00_Meta/Attachments/Pasted image 20211207012526.png"
+            "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "b809fb0050ff315d",
+              "leaf": "7c59d9d87f5fd27f",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211207012526.png\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/002 Tag Hierarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":20},\"to\":{\"line\":8,\"ch\":20}},\"scroll\":0}"
             },
             {
-              "leaf": "b809fb0050ff315d",
+              "leaf": "7c59d9d87f5fd27f",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211229224350.png\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.538116408592044}"
             },
             {
-              "leaf": "b809fb0050ff315d",
+              "leaf": "7c59d9d87f5fd27f",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211229234947.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211229235616.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211231140855.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211231141949.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211231162356.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211231162422.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211231162517.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211231162555.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20220102161038.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20220103134502.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Graphs/Pasted image 20220103181437.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20220102161038.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20211231162422.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Pasted image 20210626120819.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/FFnWMovXMAQs6qm.jpg\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/1mlbpqjqyuma9i2skgqowa.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"00_Meta/Attachments/Graphs/beingsubsumed.PNG\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b809fb0050ff315d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/GALLERY.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":6}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/223 EVERGREENS.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":8.028086600351083}"
             }
           ]
         }
@@ -167,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/source/2021/05/08",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -186,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Meta/Attachments/Pasted image 20211207012526.png",
+                "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -219,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Meta/Attachments/Pasted image 20211207012526.png",
+                "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387
+    "width": 387,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -264,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Meta/Attachments/Pasted image 20211207012526.png"
+                "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md"
               }
             },
             "pane-relief:history-v1": {
@@ -381,7 +283,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00_Meta/Attachments/Pasted image 20211207012526.png",
+                "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -488,20 +390,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706,
-    "collapsed": true
+    "width": 706
   },
-  "active": "b809fb0050ff315d",
+  "active": "7c59d9d87f5fd27f",
   "lastOpenFiles": [
-    "00_Meta/Attachments/Pasted image 20211207012526.png",
-    "00_Meta/Attachments/Pasted image 20211229224350.png",
-    "00_Meta/Attachments/Pasted image 20211229234947.png",
-    "00_Meta/Attachments/Pasted image 20211229235616.png",
-    "00_Meta/Attachments/Pasted image 20211231140855.png",
-    "00_Meta/Attachments/Pasted image 20211231141949.png",
-    "00_Meta/Attachments/Pasted image 20211231162356.png",
-    "00_Meta/Attachments/Pasted image 20211231162422.png",
-    "00_Meta/Attachments/Pasted image 20211231162517.png",
-    "00_Meta/Attachments/Pasted image 20211231162555.png"
+    "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
+    "00_Meta/002 Tag Hierarchy.md",
+    "20_Entry/22 Note by status/223 EVERGREENS.md",
+    "20_Entry/21 Inbox/211 Inbox.md",
+    "20_Entry/21 Inbox/213 Spaced Repetition Inbox.md",
+    "20_Entry/21 Inbox/212 NtNW (Notes that Need Work).md",
+    "00_Meta/001 Folder Hierarchy.md",
+    "20_Entry/209 Notepad.md",
+    "20_Entry/205 Index.md",
+    "20_Entry/204 Writing.md"
   ]
 }
