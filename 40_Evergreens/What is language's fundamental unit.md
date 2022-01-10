@@ -17,7 +17,7 @@ then paragraph's are amino acids, notes are cells, and books are organisms.
 
 - [[Nodes in the second brain are an abstraction of our first brain]]
 - [[We will evolve when we make learning as easy as thinking]]
-- [[Note taking is a spectrum from purely reproductive to purely productive.]]
+- [[Note taking is a spectrum from purely reproductive to purely productive]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 
 Books are paths through evergreen forests

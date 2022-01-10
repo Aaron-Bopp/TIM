@@ -3,9 +3,9 @@ created: 2022-01-06T09:55:29
 aliases:
   - null
 tags: created/evergreen/2022/01/06, node/evergreen
-sr-due: 2022-01-06
+sr-due: 2022-01-11
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[The brain lodges emotional reactions in our unconscious memory]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,10 +20,10 @@ but [[meditation]] allows us to gain [[control]] over our [[subconscious]] and [
 [[Meditation helps us detach negative attachments]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[brain]], [[physiology]], [[]]
+**Topics**:: [[brain]], [[physiology]], [[Neuroscience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

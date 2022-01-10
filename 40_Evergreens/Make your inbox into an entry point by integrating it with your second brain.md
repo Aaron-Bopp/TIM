@@ -1,8 +1,8 @@
 ---
 created: 2021-05-25
 tags: created/evergreen/2021/05/25, node/evergreen
-sr-due: 2022-01-06
-sr-interval: 9
+sr-due: 2022-01-31
+sr-interval: 21
 sr-ease: 179
 ---
 
@@ -19,6 +19,8 @@ you are subjecting it to [[The fragility of nodes in a second brain]].
 Remember, [[Friction is the number one hindrance to learning]], 
 but you can help alleviate this [[friction]] by
 [[Your second brain should be frictionless access to a curated base of knowledge|making your second brain a curated base of knowledge]].
+
+#TO/WRITE about how use [[Dataview]] and [[Spaced Repetition (plugin)]]  and [[my TO(DO) and EVER(GREEN) structure]] to accomplish this
 
 ### <hr class="footnote"/>
 

@@ -10,7 +10,7 @@
 	- [[Only use organization systems as far as they are useful]]
 	- [[An increase in self-love and self-respect may lead to a loss of function]]
 	- [[Webs of thought provide heterarchical structure]]
-	- [[Note taking is a spectrum from purely reproductive to purely productive.]]
+	- [[Note taking is a spectrum from purely reproductive to purely productive]]
 	- [[Evangelicalism has commodified faith for profit]]
 	- [[Hard rules create cognitive bias]]
 	- [[Colonization and slavery lead to generational disparities in black communities]]

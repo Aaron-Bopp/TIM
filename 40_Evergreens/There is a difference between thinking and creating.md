@@ -3,18 +3,19 @@ created: 2022-01-01T19:18:34
 aliases:
   - null
 tags: created/evergreen/2022/01/01, node/evergreen
-sr-due: 2022-01-06
+sr-due: 2022-01-11
 sr-interval: 1
-sr-ease: 170
+sr-ease: 150
 ---
 
 #### [[There is a difference between thinking and creating]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Many task requires thought, remembering how you did something before, understanding the limitations and requirements of the task at hand, even just figuring out what you want to do, but creating is much more than that. It is the thinking that produce something new into this world.
+Many task requires thought, remembering how you did something before, understanding the limitations and requirements of the task at hand, even just figuring out what you want to do, but creating is much more than that. It is the thinking that produces something new into this world.
 
  - [[We will evolve when we make learning as easy as thinking]]
  - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
  - [[Evergreen notes organize knowledge so that it can grow]]
+ - [[Note taking is a spectrum from purely reproductive to purely productive]]
  - [[Writing is the catalyst of understanding]]
  - [[Our understanding of gender begins at a very early age]]
  - [[Humans transfer their wonder into creativity]]

@@ -8,7 +8,7 @@ sr-interval: 10
 sr-ease: 150
 ---
 
-#### [[Note taking is a spectrum from purely reproductive to purely productive.]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Note taking is a spectrum from purely reproductive to purely productive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Conceptual notes]] notes that are purely taken on individual concepts
 [[Sequential notes]] notes that are taken in the sequence of the thing they are notating like a lecture or book

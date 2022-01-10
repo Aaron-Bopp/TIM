@@ -3,8 +3,8 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/evergreen/2021/12/31, node/evergreen
-sr-due: 2022-01-06
-sr-interval: 2
+sr-due: 2022-01-19
+sr-interval: 9
 sr-ease: 190
 ---
 
@@ -15,6 +15,7 @@ If a [[TIM]] is to truly augment our capability to live, it must be [[infinite|i
 2. [[evergreen notes]] are the methodology through which we organize and grow our knowledge
 3. [[Obsidian (software)]] is the conduit for doing this with the least [[friction]] possible
 
+- [[A totally integrated machine should automate as much of the thinking process as possible]]
 - [[Webs of thought provide heterarchical structure]]
 - [[Densely linked webs of thought provide intuitive access to knowledge]]
 - [[Evergreen notes organize knowledge so that it can grow]]

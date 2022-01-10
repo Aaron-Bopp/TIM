@@ -9,26 +9,68 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
+            "file": "40_Evergreens/Conceptual notes vary in size and scope.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "7c59d9d87f5fd27f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/002 Tag Hierarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":20},\"to\":{\"line\":8,\"ch\":20}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes vary in size and scope.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":56},\"to\":{\"line\":25,\"ch\":56}},\"scroll\":0}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":115},\"to\":{\"line\":22,\"ch\":115}},\"scroll\":3.4193548039764834}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/I don't write my notes for myself.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":6.064515603072461}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There is a difference between thinking and creating.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":63},\"to\":{\"line\":14,\"ch\":63}},\"scroll\":5.870967717126059}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We learn by transforming information into understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}},\"scroll\":0.06451612701649234}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Writing is the catalyst of understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "7c59d9d87f5fd27f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.538116408592044}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":2.4838707915950224}"
             },
             {
               "leaf": "7c59d9d87f5fd27f",
@@ -87,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
+                "file": "40_Evergreens/Conceptual notes vary in size and scope.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -120,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
+                "file": "40_Evergreens/Conceptual notes vary in size and scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md"
+                "file": "40_Evergreens/Conceptual notes vary in size and scope.md"
               }
             },
             "pane-relief:history-v1": {
@@ -283,7 +325,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
+                "file": "40_Evergreens/Conceptual notes vary in size and scope.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -394,15 +436,15 @@
   },
   "active": "7c59d9d87f5fd27f",
   "lastOpenFiles": [
-    "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md",
-    "00_Meta/002 Tag Hierarchy.md",
-    "20_Entry/22 Note by status/223 EVERGREENS.md",
-    "20_Entry/21 Inbox/211 Inbox.md",
-    "20_Entry/21 Inbox/213 Spaced Repetition Inbox.md",
-    "20_Entry/21 Inbox/212 NtNW (Notes that Need Work).md",
-    "00_Meta/001 Folder Hierarchy.md",
-    "20_Entry/209 Notepad.md",
-    "20_Entry/205 Index.md",
-    "20_Entry/204 Writing.md"
+    "40_Evergreens/Conceptual notes vary in size and scope.md",
+    "40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md",
+    "40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md",
+    "40_Evergreens/I don't write my notes for myself.md",
+    "40_Evergreens/There is a difference between thinking and creating.md",
+    "40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive.md",
+    "40_Evergreens/We learn by transforming information into understanding.md",
+    "40_Evergreens/A totally integrated machine should be infinitely scalable.md",
+    "40_Evergreens/Writing is the catalyst of understanding.md",
+    "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md"
   ]
 }
