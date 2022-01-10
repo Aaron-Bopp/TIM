@@ -14,7 +14,7 @@ sr-ease: 207
 ^[[[My Deconstruction journey]]]
 This idea was the foundation for my sense of [[justice]],
 ^[the combination of [[Autism]] and [[Religious concepts are often too powerful for a child's mind]] really brought this home for me]
-which I think is why this was much more impactful than she realized. To her it was just saying, "It's okay to eat a little chocolate even when it's not your cheat day," but for me it was the seed of the idea that the [[law]] does not always bring about [[justice]]. This seed developed into my disatisfaction with the unfair systems, and systemic bias.
+which I think is why this was much more impactful than she realized. To her it was just saying, "It's okay to eat a little chocolate even when it's not your cheat day," but for me it was the seed of the idea that the [[law]] does not always bring about [[justice]]. This seed developed into my dissatisfaction with the unfair systems, and systemic bias.
 - [[Transformative justice is the alternative to punitive justice]]
 - [[The way systems work can create cognitive bias]]
 - [[Colonization and slavery lead to generational disparities in black communities]]

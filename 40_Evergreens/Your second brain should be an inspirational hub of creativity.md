@@ -3,6 +3,7 @@ created: 2021-05-22
 tags: created/evergreen/2021/05/22, node/evergreen
 aliases:
   - Creating thought with a second brain
+  - second brain inspirational hub of creativity
 sr-due: 2022-01-21
 sr-interval: 44
 sr-ease: 243

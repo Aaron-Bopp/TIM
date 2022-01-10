@@ -22,6 +22,7 @@ The linked notes are valuable because they show when the note was at the top of 
 and the unlinked show places where the relation to the stub could be a unique insight.
 
 - [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
+- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Nodes in the second brain are an abstraction of our first brain]]
 - [[Nodes in the second brain are made up of impermanent data and permanent metadata]]

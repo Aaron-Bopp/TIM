@@ -9,20 +9,98 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Accepting responsibility is not only about your actions.md",
+            "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 2,
           "stack": [
             {
               "leaf": "7c59d9d87f5fd27f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Term notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":446},\"to\":{\"line\":7,\"ch\":446}},\"scroll\":0.5483870868504238}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/topic note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":96},\"to\":{\"line\":30,\"ch\":96}},\"scroll\":16.032257570808586}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/stub notes.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":2.444670159199516}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":5.483870714685807}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Separate stub notes from the rest of your vault so you don't get overwhelmed.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":2.9354838585630296}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/stub notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":8.903225595571506}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":130},\"to\":{\"line\":14,\"ch\":130}},\"scroll\":10.753362949220508}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":31},\"to\":{\"line\":15,\"ch\":31}},\"scroll\":5.322580399547989}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/stub notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 Now.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are made to be broken.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":10.84272391100112}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Accepting responsibility is not only about your actions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "7c59d9d87f5fd27f",
@@ -59,54 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":56},\"to\":{\"line\":25,\"ch\":56}},\"scroll\":0}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":115},\"to\":{\"line\":22,\"ch\":115}},\"scroll\":3.4193548039764834}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/I don't write my notes for myself.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":6.064515603072461}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There is a difference between thinking and creating.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":63},\"to\":{\"line\":14,\"ch\":63}},\"scroll\":5.870967717126059}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We learn by transforming information into understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}},\"scroll\":0.06451612701649234}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Writing is the catalyst of understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":2.4838707915950224}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/223 EVERGREENS.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":8.028086600351083}"
             }
           ]
         }
@@ -159,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Accepting responsibility is not only about your actions.md",
+                "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -192,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Accepting responsibility is not only about your actions.md",
+                "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -239,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Accepting responsibility is not only about your actions.md"
+                "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md"
               }
             },
             "pane-relief:history-v1": {
@@ -301,6 +331,10 @@
             "state": {
               "type": "BC-matrix",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -309,6 +343,10 @@
             "state": {
               "type": "BC-stats",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -317,6 +355,10 @@
             "state": {
               "type": "BC-tree",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -325,6 +367,10 @@
             "state": {
               "type": "graph-analysis",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -340,7 +386,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Accepting responsibility is not only about your actions.md",
+                "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -451,15 +497,15 @@
   },
   "active": "7c59d9d87f5fd27f",
   "lastOpenFiles": [
-    "40_Evergreens/Accepting responsibility is not only about your actions.md",
-    "40_Evergreens/Humans yearn for a tool with no blood on it.md",
-    "40_Evergreens/People are radicalized when they are convinced that change is out of their control.md",
-    "40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md",
-    "30_Topics/36_Lists/Sticky concepts.md",
-    "40_Evergreens/Pattern matching is a fundamental part of learning.md",
-    "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
-    "survivorship bias.md",
-    "40_Evergreens/Conceptual notes vary in size and scope.md",
-    "40_Evergreens/Human's will find explanations for inexplainable things.md"
+    "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
+    "30_Topics/32_Terms/topic note.md",
+    "30_Topics/32_Terms/Term notes.md",
+    "30_Topics/32_Terms/evergreen notes.md",
+    "30_Topics/32_Terms/stub notes.md",
+    "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
+    "40_Evergreens/Separate stub notes from the rest of your vault so you don't get overwhelmed.md",
+    "40_Evergreens/The fragility of nodes in a second brain.md",
+    "20_Entry/202 Now.md",
+    "40_Evergreens/Use highlighter colors to create visual outlines.md"
   ]
 }
