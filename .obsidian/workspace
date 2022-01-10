@@ -9,20 +9,38 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Conceptual notes vary in size and scope.md",
+            "file": "40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "7c59d9d87f5fd27f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Sticky concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":10},\"to\":{\"line\":21,\"ch\":10}}}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":13},\"to\":{\"line\":27,\"ch\":13}},\"scroll\":8.548386702304347}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0.09677419292815148}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes vary in size and scope.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":36},\"to\":{\"line\":31,\"ch\":36}},\"scroll\":15.69099983215332}"
             },
             {
               "leaf": "7c59d9d87f5fd27f",
@@ -110,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#EVER/SEED/UNPLANTED",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Conceptual notes vary in size and scope.md",
+                "file": "40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -162,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Conceptual notes vary in size and scope.md",
+                "file": "40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +205,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Conceptual notes vary in size and scope.md"
+                "file": "40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md"
               }
             },
             "pane-relief:history-v1": {
@@ -325,7 +344,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Conceptual notes vary in size and scope.md",
+                "file": "40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -436,15 +455,15 @@
   },
   "active": "7c59d9d87f5fd27f",
   "lastOpenFiles": [
+    "40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md",
+    "30_Topics/36_Lists/Sticky concepts.md",
+    "40_Evergreens/Pattern matching is a fundamental part of learning.md",
+    "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
+    "survivorship bias.md",
     "40_Evergreens/Conceptual notes vary in size and scope.md",
-    "40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md",
-    "40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md",
-    "40_Evergreens/I don't write my notes for myself.md",
-    "40_Evergreens/There is a difference between thinking and creating.md",
-    "40_Evergreens/Note taking is a spectrum from purely reproductive to purely productive.md",
-    "40_Evergreens/We learn by transforming information into understanding.md",
-    "40_Evergreens/A totally integrated machine should be infinitely scalable.md",
-    "40_Evergreens/Writing is the catalyst of understanding.md",
-    "40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md"
+    "40_Evergreens/Human's will find explanations for inexplainable things.md",
+    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
+    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+    "40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md"
   ]
 }

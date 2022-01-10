@@ -19,6 +19,7 @@ and by not being a thing you have consistently studied but continue to think abo
 
 - [[abstraction]]
 - [[catalyst]]
+- [[friction]]
 
 ### <hr class="dataviews"/>
 
