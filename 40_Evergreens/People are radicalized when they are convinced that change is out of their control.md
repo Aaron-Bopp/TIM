@@ -3,8 +3,8 @@ created: 2022-01-02T16:19:33
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-06
-sr-interval: 2
+sr-due: 2022-01-20
+sr-interval: 10
 sr-ease: 210
 ---
 
@@ -18,7 +18,7 @@ The myth of the chad is the thing that is important here. This is the idea that 
 
 This ideal body is completely unattainable and that is what leads incels to Radicalization or the "red pill."
 
-An interesting connection may be to left-wing radicals, who are radicalized by the complete brokeness of the system. 
+An interesting connection may be to left-wing radicals, who are radicalized by the complete brokenness of the system. 
  
 
 ### <hr class="footnote"/>
@@ -26,7 +26,7 @@ An interesting connection may be to left-wing radicals, who are radicalized by t
 **Status**:: #EVER/WEED
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[radicalization]], [[social progress]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

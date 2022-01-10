@@ -9,32 +9,98 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
+            "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         },
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 0,
           "stack": [
             {
               "leaf": "7c59d9d87f5fd27f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Term notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":446},\"to\":{\"line\":7,\"ch\":446}},\"scroll\":0.5483870868504238}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":24.877481905767127}"
             },
             {
               "leaf": "7c59d9d87f5fd27f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/topic note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":96},\"to\":{\"line\":30,\"ch\":96}},\"scroll\":16.032257570808586}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":23},\"to\":{\"line\":23,\"ch\":23}},\"scroll\":2.9999999230907846}"
             },
             {
               "leaf": "7c59d9d87f5fd27f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":37},\"to\":{\"line\":21,\"ch\":37}},\"scroll\":0}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":43,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":10.62182326673332}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Graph Timeline.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":45.37289244496251}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":80},\"to\":{\"line\":31,\"ch\":80}},\"scroll\":17.463707656381622}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Time is a valuable mode in a second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":19.122863324705364}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A second brain should be an extension of your thought.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":10.434108349704003}"
+            },
+            {
+              "leaf": "7c59d9d87f5fd27f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":60},\"to\":{\"line\":30,\"ch\":60}},\"scroll\":0}"
             },
             {
               "leaf": "7c59d9d87f5fd27f",
@@ -71,72 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":31},\"to\":{\"line\":15,\"ch\":31}},\"scroll\":5.322580399547989}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/stub notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/202 Now.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stupid rules are made to be broken.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":10.84272391100112}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Accepting responsibility is not only about your actions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans yearn for a tool with no blood on it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":3.6071429043363747}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":146},\"to\":{\"line\":14,\"ch\":146}},\"scroll\":0.285714288490375}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.09677419292815148}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Conceptual notes vary in size and scope.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":36},\"to\":{\"line\":31,\"ch\":36}},\"scroll\":15.69099983215332}"
-            },
-            {
-              "leaf": "7c59d9d87f5fd27f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":56},\"to\":{\"line\":25,\"ch\":56}},\"scroll\":0}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
+                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
+                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md"
+                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md"
               }
             },
             "pane-relief:history-v1": {
@@ -374,7 +374,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "84f4f33f118f4527",
@@ -386,7 +386,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
+                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -497,15 +497,15 @@
   },
   "active": "7c59d9d87f5fd27f",
   "lastOpenFiles": [
+    "40_Evergreens/Our brain will do anything it can to protect itself.md",
+    "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
+    "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
+    "20_Entry/209 Notepad.md",
+    "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
+    "40_Evergreens/People are radicalized when they are convinced that change is out of their control.md",
+    "20_Entry/24 Vault Stats/Graph Timeline.md",
     "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
-    "30_Topics/32_Terms/topic note.md",
-    "30_Topics/32_Terms/Term notes.md",
-    "30_Topics/32_Terms/evergreen notes.md",
-    "30_Topics/32_Terms/stub notes.md",
-    "40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md",
-    "40_Evergreens/Separate stub notes from the rest of your vault so you don't get overwhelmed.md",
-    "40_Evergreens/The fragility of nodes in a second brain.md",
-    "20_Entry/202 Now.md",
-    "40_Evergreens/Use highlighter colors to create visual outlines.md"
+    "40_Evergreens/Time is a valuable mode in a second brain.md",
+    "40_Evergreens/A second brain should be an extension of your thought.md"
   ]
 }

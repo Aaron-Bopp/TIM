@@ -1,5 +1,12 @@
 #TO/PROGRAM [[articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium|How To Export Podcast Highlights To Obsidian | Snipd | Medium]]
 
+
+#TO/PONDER/SOCIETY  why do we stall in life
+> "Sometimes it's easiest to take the chances that have the highest likelihood of failure" 
+^[[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)]
+>
+> <cite>[[Dr. K]]</cite> 
+
 self-blame and social deficiency
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjrjZh1Nris?start=5742" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![[tweets_Tweets From 🐸 Frog Time 🐸#261542754]]
@@ -33,7 +40,7 @@ Some believe ![[articles_My moral code - Inverted Passion#^0160c9]] but I think 
 
 #TO/PROGRAM [Academic Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-[[dataview]]-workflow/15536)
 
-#TO/EXPLORE/READ ood gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ) [[Machine Learning]]
+#TO/EXPLORE/READ good gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ) [[Machine Learning]]
 
 [[Your anxiety knows your insecurities better than you do]]: #TO/EXPLORE/RESEARCH
 - [[Hierarchy of needs]] 

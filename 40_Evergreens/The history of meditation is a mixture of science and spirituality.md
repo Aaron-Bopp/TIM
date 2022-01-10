@@ -3,8 +3,8 @@ created: 2022-01-02T10:01:37
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-06
-sr-interval: 1
+sr-due: 2022-01-17
+sr-interval: 7
 sr-ease: 190
 ---
 
@@ -16,13 +16,10 @@ yet as we continue to reexamine ancient techniques such as [[yoga]] and [[medita
 This could be attributed to [[survivorship bias]], but it could also be attributed to the methods that [[Yogi|Yogis]] used to examine and understand what they were teaching.
 
 #TO/TEND/GRAFT 
-
-
 - [[notes_History of Meditation]]
 - [[notes_Science of Meditation]]
 - [[notes_Intro to Mantra Practice]]
 - [[notes_Metaphysics of Meditation]]
- 
 
 ### <hr class="footnote"/>
 
@@ -31,5 +28,3 @@ This could be attributed to [[survivorship bias]], but it could also be attribut
 
 **Topics**:: [[meditation]], [[eastern philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

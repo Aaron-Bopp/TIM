@@ -13,11 +13,6 @@ sr-ease: 230
 ^[https://twitter.com/visakanv/status/1330985556872818689?s=20]
 > <cite>[[@visakanv on Twitter|visakanv]]</cite> [^1]
 
-> "Sometimes it's easiest to take the chances that have the highest likelihood of failure" 
-^[[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)]
->
-> <cite>[[Dr. K]]</cite> 
-
 It's not about being successful, it's about doing what you can do to get close to [[success]].
 
 ### <hr class="footnote"/>

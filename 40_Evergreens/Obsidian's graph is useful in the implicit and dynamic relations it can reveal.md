@@ -29,7 +29,7 @@ You should be surprised at the links and the closeness you are seeing between no
 As you spend more time in the graph, you will start to recognize related structures of notes: three notes that are always in a line, two notes that are always right next to eachother despite not being linked. These show you implicit relationships that exist within your [[knowledge]]. 
 As you add to your vault, you will be able to notice these structures shift and change, and you can ask why this is happening. 
 ^[[[Evergreen notes organize knowledge so that it can grow]]]
-
+To see an idea of what this will look like take a look at my [[Graph Timeline]].
 %%
 #TO/TEND/MULCH 
 Additionally, many have noticed that as your graph grows very large, (over ~1000 nodes) it becomes difficult to gain any use out of this. I have yet to see this with my own graph, but I could definitely see only a certain kind of graph being useful at a large size:
