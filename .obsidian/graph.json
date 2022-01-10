@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#node -path:course",
+  "search": "tag:#node",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.020121930044883028,
+  "scale": 0.04470430022539705,
   "close": true
 }

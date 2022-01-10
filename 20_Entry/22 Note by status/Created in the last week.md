@@ -1,4 +1,3 @@
-
 ```dataview
 table replace(file.path, file.name + ".md", "") as Folder, striptime(file.ctime) as Created
 from ""

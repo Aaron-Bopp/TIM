@@ -3,9 +3,9 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/evergreen/2021/12/31, node/evergreen
-sr-due: 2022-01-06
+sr-due: 2022-01-10
 sr-interval: 1
-sr-ease: 150
+sr-ease: 130
 ---
 
 #### [[Belief pulls you forward into life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -14,6 +14,10 @@ sr-ease: 150
 - [[Does cognitive dissonance increase your capacity for endurance]]
 - [[Sadness is enlightenment and happiness is delusion]]
 - [[Realism must acknowledge optimism's existence and effectiveness]]
+- [[Worlds views should be open ended and adaptive]]
+- [[The materialistic view of religions examines why humans invented and clung to religion]]
+	- [[The three main questions of life]]
+	- [[Does cognitive dissonance increase your capacity for endurance]]
 
 As opposed to dragging you back in life like the [[mind]] often does: 
 [[We carry our childhood wounds into adulthood]]

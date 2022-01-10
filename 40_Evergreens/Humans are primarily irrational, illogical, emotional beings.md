@@ -10,14 +10,16 @@ sr-ease: 231
 
 #### [[Humans are primarily irrational, illogical, emotional beings]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[How do We Get Anything Done At All? - YouTube](https://www.youtube.com/watch?v=QnQfDHKrGZA)
+#TO/EXPLORE/WATCH [How do We Get Anything Done At All? - YouTube](https://www.youtube.com/watch?v=QnQfDHKrGZA)
 
-[[Our brains are built around survival]], it is that [[Evolution|evolutionary]] fact that has brought us here today, and has built two fundamental human traits: [[Human's will find explanations for inexplainable things]] and [[Human's have an inability to admit that they are wrong]]. These two traits alone have led us to create [[religion|religions]], [^1] start wars, explain reality, and explore the stars.
+The [[human experience]] is one that cannot be is not one that can be distilled into any small set of elements, but over time general patterns and behaviors can be observed, and the causes of those behaviors can be investigated. Two such behaviors are [[Human's will find explanations for inexplainable things]] and [[Human's have an inability to admit that they are wrong]]. These two traits alone have led us to create [[religion|religions]], [^1] start wars, explain reality, and explore the stars.
 
 [^1]: [[The materialistic view of religions examines why humans invented and clung to religion]] and [[The brain is powerful enough to create supernatural experiences]]
 
 Unfortunately, at their core these traits are illogical, emotional, and irrational, but they 
-push us to survive beyond all odds, thus making them heavily reinforced by [[natural selection]]. This makes [[cognitive dissonance]] a fundamental part of being human. Whether it is the belief that the creator exists, [^2] the belief that your political party is fundamentally superior, [^3] or just the belief that life is worth living, [^4] human's unrelenting push to survive relies on this fact.
+push us to survive beyond all odds, thus making them heavily reinforced by [[natural selection]]. This makes [[cognitive dissonance]] a fundamental part of being human.
+^[[[Is cognitive dissonance fundamental to the human experience]]]
+ Whether it is the belief that the creator exists, [^2] the belief that your political party is fundamentally superior, [^3] or just the belief that life is worth living, [^4] human's unrelenting push to survive relies on this fact.
 
 [^2]: [[natural selection|kin selection]], [[Q justifies conservatives discontent]]
 [^3]: [[True optimism is acknowledging the suffering of the world and defying it anyway]]

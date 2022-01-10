@@ -30,7 +30,7 @@
 ![[20211121.png]]
 ![[20211204.png]]
 ### Almost done with finals
-![[2021112f.png]]
+![[20211102f.png]]
 ### A galaxy of thought
 ![[20211206.png]]
 ### No sleep, only graph

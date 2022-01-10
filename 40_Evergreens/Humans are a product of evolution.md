@@ -10,6 +10,7 @@ sr-ease: 170
 
 #### [[Humans are a product of evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+
 - [[Our brains are built around survival]]
     - [[Neuroscience]]
     - [[Our brain will do anything it can to protect itself]]
@@ -17,6 +18,7 @@ sr-ease: 170
 - [[Humans love to group eachother]] <- [[kin selection]]
 - [[Humans transfer their wonder into creativity]]
 - [[The materialistic view of religions examines why humans invented and clung to religion]]
+- [[Humans are primarily irrational, illogical, emotional beings]]
 
 ### <hr class="footnote"/>
 

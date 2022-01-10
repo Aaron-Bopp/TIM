@@ -2639,7 +2639,7 @@ html {
 
 /* @ MARKDOWN A9: Tags*/
     /* # A9.1 Edit*/
-    .cm-hashtag {
+    /* .cm-hashtag {
         font-size: 0.7em !important;
         color: var(--tcolor) !important;
         text-decoration: none !important;
@@ -2668,7 +2668,7 @@ html {
         border-left: none;
         border-radius: 10px;
         display: inline;
-    }
+    } */
 
     /* # A9.2 Preview*/
     .tag {
@@ -2682,12 +2682,12 @@ html {
     }
 
     /* # A9.3 Hover*/
-    .tag:hover,
+    /* .tag:hover,
     .cm-hashtag:hover {
         background: linear-gradient(90deg, var(--tcol1) 5%, var(--tcol2) 18%, var(--tcol3) 45%);
         color: white !important;
         font-size: 0.8em !important;
-    }
+    } */
 
 /* ~~~~~~~~~~~~~~~~~~ MARKDOWN B: LISTS ~~~~~~~~~~~~~~~~~~ */
 /* @ MARKDOWN B1: Bulleted List*/
