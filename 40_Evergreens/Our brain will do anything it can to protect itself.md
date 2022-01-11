@@ -9,12 +9,11 @@ sr-ease: 227
 ---
 
 #### [[Our brain will do anything it can to protect itself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
 %%
 #TO/TEND/CREATE this bridge note
 %%
 
-Possibly an answer to [[What is the cognitive effect of living in an unjust world]]
+Possibly an answer to [[What is the **cognitive** effect of living in an unjust world]]
 - [[Evolutionary Psychology]]
 	- [[Our brains are built around survival]]
 	- [[The brain is powerful enough to create supernatural experiences]]
@@ -40,7 +39,7 @@ This ability to pattern match is a major part of why we have survived as a speci
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: **#EVER/SPROUT/WATER** 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[subconscious]], [[mental health]]

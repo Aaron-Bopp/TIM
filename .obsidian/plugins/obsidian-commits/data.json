@@ -12428,15 +12428,15 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4459,
+      "Refactor": 4462,
       "Create": 4687,
-      "Link": 7465,
+      "Link": 7468,
       "Expand": 929
     },
     "40_Evergreens": {
-      "Refactor": 352,
+      "Refactor": 355,
       "Create": 62,
-      "Link": 1076,
+      "Link": 1079,
       "Expand": 407
     }
   },
@@ -12459,8 +12459,8 @@
       "14": 2447,
       "15": 276,
       "16": 1320,
-      "17": 2805,
-      "18": 2301,
+      "17": 2807,
+      "18": 2305,
       "19": 523,
       "20": 265,
       "21": 754,
@@ -12485,8 +12485,8 @@
       "14": 122,
       "15": 33,
       "16": 109,
-      "17": 338,
-      "18": 21,
+      "17": 340,
+      "18": 25,
       "19": 99,
       "20": 63,
       "21": 83,
@@ -12496,7 +12496,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 496,
+      "Mon": 502,
       "Tue": 4221,
       "Wed": 3788,
       "Thu": 2263,
@@ -12505,7 +12505,7 @@
       "Sun": 6043
     },
     "40_Evergreens": {
-      "Mon": 174,
+      "Mon": 180,
       "Tue": 332,
       "Wed": 239,
       "Thu": 312,
@@ -12676,6 +12676,8 @@
         "<a class=\"internal-link\" href=\"10_Sources/course_Psychology of Race and Gender.md\"> course_Psychology of Race and Gender </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
@@ -12724,9 +12726,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Sagacious sayings.md\"> Sagacious sayings </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Sticky concepts.md\"> Sticky concepts </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>",
@@ -12835,6 +12835,7 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/progress requires respect.md\"> progress requires respect </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\"> People are radicalized when they are convinced that change is out of their control </a>",
@@ -12884,10 +12885,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-08.md\"> 2022-01-08 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Sagacious sayings.md\"> Sagacious sayings </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Sagacious sayings.md\"> Sagacious sayings </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\"> The history of meditation is a mixture of science and spirituality </a>",
         "<a class=\"internal-link\" href=\"00_Meta/002 Tag Hierarchy.md\"> 002 Tag Hierarchy </a>",
         "<a class=\"internal-link\" href=\"20_Entry/208 Note Hierarchy.md\"> 208 Note Hierarchy </a>",
@@ -12936,11 +12938,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\"> A inwardly judgmental and outwardly accepting home creates trust issues </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism outlines a path and practice to end suffering, but does not promise it.md\"> Buddhism outlines a path and practice to end suffering, but does not promise it </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The black identity has evolved past it's political origins.md\"> The black identity has evolved past it's political origins </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/stub notes.md\"> stub notes </a>",
@@ -12990,8 +12991,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bupropion.md\"> Bupropion </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Caffeine.md\"> Caffeine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Chamomile (Matricaria recutita).md\"> Chamomile (Matricaria recutita) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CNS.md\"> CNS </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>"
       ]
     },
     "40_Evergreens": {
@@ -13155,6 +13155,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Early human behavior was massively complex.md\"> Early human behavior was massively complex </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Pattern matching is a fundamental part of learning.md\"> Pattern matching is a fundamental part of learning </a>",
@@ -13203,9 +13205,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -13263,6 +13263,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\"> People are radicalized when they are convinced that change is out of their control </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
@@ -13312,10 +13313,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is primarily an executive function disorder.md\"> ADHD is primarily an executive function disorder </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\"> The history of meditation is a mixture of science and spirituality </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the difference between blame and judgement.md\"> What is the difference between blame and judgement </a>",
@@ -13364,11 +13366,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes organize knowledge so that it can grow.md\"> Evergreen notes organize knowledge so that it can grow </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes with a system not within a system.md\"> Write your notes with a system not within a system </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
@@ -13418,8 +13419,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ]
     }
   },

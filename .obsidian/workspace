@@ -12,7 +12,7 @@
             "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
             "mode": "source",
             "backlinks": true,
-            "source": true
+            "source": false
           }
         },
         "pane-relief:history-v1": {
@@ -21,8 +21,8 @@
             {
               "leaf": "7c59d9d87f5fd27f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":24.877481905767127}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":28},\"to\":{\"line\":41,\"ch\":33}},\"scroll\":27.26821192638544}"
             },
             {
               "leaf": "7c59d9d87f5fd27f",
@@ -170,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/SEED/UNPLANTED",
+                "query": "tag:#test",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -248,12 +248,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 387,
-    "collapsed": true
+    "width": 387
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -326,42 +325,6 @@
             }
           },
           {
-            "id": "a7ed19acdf33c336",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "f0d0410875d85b57",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "e8ac350ff055c033",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "7984af7d8e73ebf2",
             "type": "leaf",
             "state": {
@@ -372,9 +335,33 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "b049c211a041a324",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6bc5822d14bb205",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "2485d9c6d39a9b17",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       },
       {
         "id": "84f4f33f118f4527",
@@ -493,7 +480,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706
+    "width": 706,
+    "collapsed": true
   },
   "active": "7c59d9d87f5fd27f",
   "lastOpenFiles": [

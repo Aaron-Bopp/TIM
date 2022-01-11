@@ -339,9 +339,9 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         editor.setSelection(offToPos(so), offToPos(so + selection.length));
         log("after trim", true);
       }
-      function expandToWordBoundary() {
+      function expandSelection() {
         trimSelection();
-        log("before expandToWordBoundary", true);
+        log("before expandSelection", true);
         const preSelExpAnchor = editor.getCursor("from");
         const preSelExpHead = editor.getCursor("to");
         const firstWordRange = textUnderCursor(preSelExpAnchor);
@@ -352,7 +352,12 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           lastWordRange.head.ch++;
           editor.setSelection(firstWordRange.anchor, lastWordRange.head);
         }
-        log("after punctuation fix", true);
+        if (isOutsideSel("[[", "]]")) {
+          firstWordRange.anchor.ch -= 2;
+          lastWordRange.head.ch += 2;
+          editor.setSelection(firstWordRange.anchor, lastWordRange.head);
+        }
+        log("after expandSelection", true);
         trimSelection();
         return { anchor: preSelExpAnchor, head: preSelExpHead };
       }
@@ -458,11 +463,11 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         trimSelection();
         if (frontMarkup === "delete") {
           log("Smart Delete");
-          expandToWordBoundary();
+          expandSelection();
           smartDelete();
         } else if (!multiLineSel()) {
           log("single line");
-          const { anchor: preSelExpAnchor, head: preSelExpHead } = expandToWordBoundary();
+          const { anchor: preSelExpAnchor, head: preSelExpHead } = expandSelection();
           applyMarkup(preSelExpAnchor, preSelExpHead, "single");
         } else if (multiLineSel() && multiLineMarkup()) {
           log("Multiline Wrap");
@@ -474,7 +479,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           lines.forEach((line) => {
             console.log("");
             editor.setSelection(offToPos(pointerOff), offToPos(pointerOff + line.length));
-            const { anchor: preSelExpAnchor, head: preSelExpHead } = expandToWordBoundary();
+            const { anchor: preSelExpAnchor, head: preSelExpHead } = expandSelection();
             pointerOff += line.length + 1;
             if (markupOutsideSel())
               pointerOff -= blen + alen;
