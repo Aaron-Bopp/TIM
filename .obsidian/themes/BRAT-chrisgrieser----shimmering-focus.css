@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.618
+Version 1.624
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -113,7 +113,6 @@ the .create-ToC.sh.
 	- Comments & HTML Tags
 	- Tasks
 	- Checkboxes
- 		- Custom Checkboxes by SlRvb Compatibility
 	- Highlights & Selection
  		- Highlights
  		- Selection (Selected Text)
@@ -226,6 +225,7 @@ the .create-ToC.sh.
 	--selection-color: hsl(259 80% 91% / 99%);
 	--extra-contrast: hsl(0 0% 36%);
 	--text-muted: hsl(0 0% 53%);
+	--middle-gray: hsl(0 0% 57%);
 	--text-faint: hsl(0 0% 60%);
 	--hr-line-gray: hsl(0 0% 66%);
 
@@ -251,6 +251,7 @@ the .create-ToC.sh.
 	--selection-color: hsl(302 24% 17% / 99%);
 	--extra-contrast: hsl(0 0% 68%);
 	--text-muted: hsl(0 0% 58%);
+	--middle-gray: hsl(0 0% 49%);
 	--text-faint: hsl(0 0% 40%);
 	--hr-line-gray: hsl(0 0% 60%);
 
@@ -4582,6 +4583,7 @@ body:not(.blockquotes-left-aligned) > .app-container .HyperMD-quote {
 .markdown-source-view .cm-line.HyperMD-quote-1 + .HyperMD-quote-2 .cm-quote-2:not(.cm-formatting-quote) {
 	font-size: 0.85rem;
 	font-style: italic;
+	color: var(--middle-gray);
 }
 
 /* ───────────────────────────────────────────────────
@@ -4593,8 +4595,8 @@ body:not(.blockquotes-left-aligned) > .app-container .HyperMD-quote {
 	padding-left: 3px;
 }
 
-.HyperMD-quote-3 .cm-formatting-quote-3 ~ .cm-formatting-quote-3::AFTER,
-.HyperMD-quote-3 ~ .HyperMD-quote-3 .cm-formatting-quote-3::AFTER {
+.HyperMD-quote-3 .cm-formatting-quote-3 + .cm-formatting-quote-3::AFTER,
+.HyperMD-quote-3 + .HyperMD-quote-3 .cm-formatting-quote-3::AFTER {
 	opacity: 0;
 }
 
@@ -4611,7 +4613,7 @@ body:not(.blockquotes-left-aligned) > .app-container .HyperMD-quote {
 	background-color: var(--bg2);
 
 	position: absolute;
-	top: -6.5px;
+	top: -7px;
 	bottom: -7px;
 	left: -35px;
 
@@ -5458,8 +5460,11 @@ body > .app-container span.cm-tag {
 
 /* preview mode */
 /* https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/34 */
-input[type="checkbox"] {
-	margin: 1.5px 10px 3px 0 !important;
+.markdown-preview-view input[type="checkbox"] {
+	background-color: unset;
+
+	margin-top: 2px;
+	margin-left: 7px;
 
 	border: 2px solid var(--hr-line-gray);
 	border-radius: var(--round);
@@ -5498,45 +5503,6 @@ li[data-task="x"] > .task-list-item-checkbox:hover {
 /* fix for legacy-editor, discussed here https://discord.com/channels/686053708261228577/702656734631821413/920422345422819339 */
 .markdown-source-view.mod-cm5 .cm-formatting.cm-formatting-task {
 	margin-left: -10px;
-}
-
-/* <<< Custom Checkboxes by SlRvb Compatibility  */
-.markdown-source-view.mod-cm6 .task-list-item-checkbox[data-task="x"],
-.markdown-preview-view li[data-task="x"] > .task-list-item-checkbox,
-.markdown-preview-view li[data-task="x"] p .task-list-item-checkbox,
-.cm-s-obsidian span.hmd-hidden-token.cm-formatting-task[data-task="x"],
-input[type="checkbox"]:not(:checked) {
-	color: var(--text-normal);
-	margin-top: 2.5px;
-	margin-right: 10px;
-}
-
-body > div.app-container div.markdown-preview-view ul > li.task-list-item.is-checked,
-body > div.app-container div.markdown-preview-view ol > li.task-list-item.is-checked {
-	padding-left: 0;
-}
-
-body .markdown-source-view.mod-cm6 .task-list-item-checkbox::BEFORE,
-body .markdown-preview-view :not(li[data-task="x"]) > .task-list-item-checkbox:checked::BEFORE,
-body .markdown-preview-view :not(li[data-task="x"]) p .task-list-item-checkbox:checked::BEFORE {
-	top: 2px;
-	right: 1.5px;
-}
-
-/* icon placement in live preview */
-body.check-bg .markdown-source-view.mod-cm6.is-live-preview .task-list-item-checkbox::BEFORE,
-body.check-bg .is-live-preview.markdown-preview-view :not(li[data-task="x"]) > .task-list-item-checkbox:checked::BEFORE,
-body.check-bg .is-live-preview.markdown-preview-view :not(li[data-task="x"]) p .task-list-item-checkbox:checked::BEFORE {
-	top: -3px;
-	right: -2px;
-}
-
-body .markdown-source-view.mod-cm6 .task-list-item-checkbox > *,
-body > div.app-container .markdown-preview-view ul > li.task-list-item.is-checked,
-body > div.app-container .markdown-preview-view ol > li.task-list-item.is-checked {
-	font-weight: unset; /* stylelint-disable-line font-weight-notation */
-	padding-left: 5px;
-	margin-bottom: 0;
 }
 
 /* ───────────────────────────────────────────────────
@@ -9619,8 +9585,9 @@ settings:
 	-
 	 id: pseudo-admonition-prefix
 	 title: 'Pseudo-Admonitions: Prefixed Icon'
+	 description: Needs to be enclosed in quotation marks
 	 type: variable-text
-	 default: "ℹ️"
+	 default: '"ℹ️"'
 	-
 	 id: no-pandoc-citation-emphasis
 	 title: No Emphasis of Pandoc Citations

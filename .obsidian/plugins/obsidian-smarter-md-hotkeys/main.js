@@ -166,6 +166,12 @@ var TRIMAFTER = [
   "\n",
   "	"
 ];
+var EXPANDWHENOUTSIDE = [
+  ["#", ""],
+  ["[[", "]]"],
+  ['"', '"'],
+  ["'", "'"]
+];
 var IMAGEEXTENSIONS = [
   "png",
   "jpg",
@@ -207,13 +213,6 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         const charsBefore = editor.getRange(offToPos(so - bef.length), offToPos(so));
         const charsAfter = editor.getRange(offToPos(eo), offToPos(eo + aft.length));
         return charsBefore === bef && charsAfter === aft;
-      }
-      function isInFrontSel(bef) {
-        const so = startOffset();
-        if (so - bef.length < 0)
-          return false;
-        const charsBefore = editor.getRange(offToPos(so - bef.length), offToPos(so));
-        return charsBefore === bef;
       }
       const multiLineMarkup = () => ["`", "%%", "<!--"].includes(frontMarkup);
       const markupOutsideSel = () => isOutsideSel(frontMarkup, endMarkup);
@@ -347,16 +346,14 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         const firstWordRange = textUnderCursor(preSelExpAnchor);
         const lastWordRange = textUnderCursor(preSelExpHead);
         editor.setSelection(firstWordRange.anchor, lastWordRange.head);
-        if (isOutsideSel('"', '"') || isOutsideSel("'", "'")) {
-          firstWordRange.anchor.ch--;
-          lastWordRange.head.ch++;
-          editor.setSelection(firstWordRange.anchor, lastWordRange.head);
-        }
-        if (isOutsideSel("[[", "]]")) {
-          firstWordRange.anchor.ch -= 2;
-          lastWordRange.head.ch += 2;
-          editor.setSelection(firstWordRange.anchor, lastWordRange.head);
-        }
+        const expandWhenOutside = EXPANDWHENOUTSIDE;
+        expandWhenOutside.forEach((pair) => {
+          if (isOutsideSel(pair[0], pair[1])) {
+            firstWordRange.anchor.ch -= pair[0].length;
+            lastWordRange.head.ch += pair[1].length;
+            editor.setSelection(firstWordRange.anchor, lastWordRange.head);
+          }
+        });
         log("after expandSelection", true);
         trimSelection();
         return { anchor: preSelExpAnchor, head: preSelExpHead };
@@ -434,14 +431,14 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         });
       }
       function smartDelete() {
-        if (isInFrontSel("#")) {
+        if (isOutsideSel("#", "")) {
           const anchor = editor.getCursor("from");
           const head = editor.getCursor("to");
           if (anchor.ch)
             anchor.ch--;
           editor.setSelection(anchor, head);
         }
-        if (isInFrontSel(" ")) {
+        if (isOutsideSel(" ", "")) {
           const anchor = editor.getCursor("from");
           const head = editor.getCursor("to");
           if (anchor.ch)
