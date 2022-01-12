@@ -1,10 +1,9 @@
 ---
 created: 2021-05-18
 tags: created/evergreen/2021/05/18, node/evergreen
-sr-due: 2022-01-08
-sr-interval: 61
+sr-due: 2022-07-29
+sr-interval: 198
 sr-ease: 314
-date modified: Wednesday, October 20th 2021, 11:04:32 pm
 ---
 
 #### [[Yang's political success was due to his common sense campaign]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,6 +17,6 @@ The largest positive effect of Yang's campaign was the way it brought many peopl
 **Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Politics]], [[political strategy]]
+**Topics**:: [[Politics]], [[political strategy]], [[Andrew Yang]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

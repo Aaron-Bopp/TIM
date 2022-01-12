@@ -19,7 +19,7 @@ This has been built up as major part in [[Christianity|Christians]] psyches and 
 
 This encourages [[Searching for THE answer is dangerous]]
 - [[The biblical Christian God is evil and does not deserve to be worshipped]]
-- [[The actual work of being a good person isn't explored by Evangelicalism]]
+- [[The actual path to being a good person isn't explored by Evangelicalism]]
 - [[Faith is an abstraction of cognitive dissonance]]
 
 ### <hr class="footnote"/>

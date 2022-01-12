@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "139cc2076634b5ec",
+        "id": "5446a0c8ab0112b9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/It is valuable to admit that you might be wrong.md",
+            "file": "30_Topics/33_Tools/Obsidian (software).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,88 +19,46 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "139cc2076634b5ec",
+              "leaf": "5446a0c8ab0112b9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/It is valuable to admit that you might be wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446a0c8ab0112b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":40.04402516452581}"
+            },
+            {
+              "leaf": "5446a0c8ab0112b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":8.387096387166528}"
+            },
+            {
+              "leaf": "5446a0c8ab0112b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Karma is based in the law of cause and effect.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":56},\"to\":{\"line\":17,\"ch\":56}},\"scroll\":4.612903074468963}"
+            },
+            {
+              "leaf": "5446a0c8ab0112b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/Converting existing file formats to plaintext.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "139cc2076634b5ec",
+              "leaf": "5446a0c8ab0112b9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/God is the human capacity to believe.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":1.5483870868504237}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Worlds views should be open ended and adaptive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":70},\"to\":{\"line\":10,\"ch\":70}},\"scroll\":2.0322580322638775}"
             },
             {
-              "leaf": "139cc2076634b5ec",
+              "leaf": "5446a0c8ab0112b9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":2.7419353573429035}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":9},\"to\":{\"line\":12,\"ch\":9}},\"scroll\":1.32258055336642}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Karma is an open ended system of belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use spaced repetition to weed your digital garden.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":52},\"to\":{\"line\":25,\"ch\":52}},\"scroll\":0}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":44},\"to\":{\"line\":17,\"ch\":44}},\"scroll\":0}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us gain control over our emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":7.193547809037186}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Strong enough logic becomes belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":19},\"to\":{\"line\":12,\"ch\":19}},\"scroll\":5.1612900844101715}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Black identity is inseparable from other identities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":3.999999692363138}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation improves mental, physical, and emotional health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":10.570542268974837}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":61},\"to\":{\"line\":13,\"ch\":61}}}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to develop a meditation practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-            },
-            {
-              "leaf": "139cc2076634b5ec",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What are the differences between evergreen notes and conceptual notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":82},\"to\":{\"line\":25,\"ch\":82}},\"scroll\":7.064515679981677}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
@@ -153,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/It is valuable to admit that you might be wrong.md",
+                "file": "30_Topics/33_Tools/Obsidian (software).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -186,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/It is valuable to admit that you might be wrong.md",
+                "file": "30_Topics/33_Tools/Obsidian (software).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -232,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/It is valuable to admit that you might be wrong.md"
+                "file": "30_Topics/33_Tools/Obsidian (software).md"
               }
             },
             "pane-relief:history-v1": {
@@ -337,7 +295,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "84f4f33f118f4527",
@@ -349,7 +307,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/It is valuable to admit that you might be wrong.md",
+                "file": "30_Topics/33_Tools/Obsidian (software).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -458,17 +416,17 @@
     "direction": "horizontal",
     "width": 706
   },
-  "active": "139cc2076634b5ec",
+  "active": "5446a0c8ab0112b9",
   "lastOpenFiles": [
-    "40_Evergreens/It is valuable to admit that you might be wrong.md",
-    "40_Evergreens/God is the human capacity to believe.md",
-    "40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md",
-    "40_Evergreens/Purpose is derived from within, duty is derived from without.md",
-    "40_Evergreens/Karma is an open ended system of belief.md",
-    "40_Evergreens/Use spaced repetition to weed your digital garden.md",
-    "40_Evergreens/Concepts are the fundamental unit of knowledge.md",
-    "40_Evergreens/Writing is a catalyst of understanding.md",
-    "40_Evergreens/Meditation helps us gain control over our emotions.md",
-    "40_Evergreens/Strong enough logic becomes belief.md"
+    "30_Topics/33_Tools/Obsidian (software).md",
+    "20_Entry/209 Notepad.md",
+    "40_Evergreens/Meditation increases our ability to influence the world.md",
+    "40_Evergreens/Karma is based in the law of cause and effect.md",
+    "30_Topics/37_Techniques/Converting existing file formats to plaintext.md",
+    "40_Evergreens/Worlds views should be open ended and adaptive.md",
+    "40_Evergreens/The ethnic makeup of a community is a significant driver of change.md",
+    "40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md",
+    "40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md",
+    "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md"
   ]
 }

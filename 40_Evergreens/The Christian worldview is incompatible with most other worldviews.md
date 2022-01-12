@@ -3,8 +3,8 @@ created: 2021-12-15
 aliases:
   - null
 tags: created/evergreen/2021/12/15, node/evergreen
-sr-due: 2022-01-08
-sr-interval: 4
+sr-due: 2022-01-21
+sr-interval: 9
 sr-ease: 150
 ---
 
@@ -15,7 +15,7 @@ sr-ease: 150
 	- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 	- [[Evangelicalism]] #TO/TEND/GRAFT 
 		- [[Evangelicalism has commodified faith for profit]]
-		- [[The actual work of being a good person isn't explored by Evangelicalism]]
+		- [[The actual path to being a good person isn't explored by Evangelicalism]]
 - [[Humans have decided to reject an unjust world]], but [[Christianity|christians]] have not [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] #TO/TEND/GRAFT 
 	- [[Faith can be a useful tool for grounding yourself]]
 	- [[Does cognitive dissonance increase your capacity for endurance]]

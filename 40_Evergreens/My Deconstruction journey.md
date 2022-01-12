@@ -41,7 +41,7 @@ Additionally I believe [[Worldviews should not make life seem easy and simple]] 
 
 Additionally, I have focused in on the way that [[Evangelicalism]] has perverted the [[faith]]
 - [[Evangelicalism has commodified faith for profit]]
-- [[The actual work of being a good person isn't explored by Evangelicalism]]
+- [[The actual path to being a good person isn't explored by Evangelicalism]]
 
 I have started to look other belief systems to contrast them to [[Christianity]]:
 [[The materialistic view of religions examines why humans invented and clung to religion]], but we still see religions like [[Buddhism]] that do not focus on salvation. [[Buddhism outlines a path and practice to end suffering, but does not promise it]].

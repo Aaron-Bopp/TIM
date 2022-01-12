@@ -22,8 +22,7 @@ Obsidian is a markdown editor that includes many features that are valuable to [
 - [List of resources](https://dynalist.io/d/CQ4V16tFhIJIfy-rgDK7r1Bp) for learning obsidian and [[knowledge management]]
  - [The Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here) is a community effort to collect resources
 - Excellent beginner's guide to [Zettelkasten in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
-	- [Expansive list](https://airtable.com/shrIw43VorHcjsJWn/tblTSTCppYzpin9MV/viwTRRGxfRHrnebHT) of [[knowledge management|PKM]] resources
-	- resourceS.
+- [Expansive list](https://airtable.com/shrIw43VorHcjsJWn/tblTSTCppYzpin9MV/viwTRRGxfRHrnebHT) of [[knowledge management|PKM]] resources
 
 
 ### My notes that are useful to Obsidian users

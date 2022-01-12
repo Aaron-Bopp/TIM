@@ -3,9 +3,9 @@ created: 2022-01-07T22:15:39
 aliases:
   - null
 tags: created/evergreen/2022/01/07, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 1
-sr-ease: 230
+sr-due: 2022-01-16
+sr-interval: 4
+sr-ease: 210
 ---
 
 #### [[God is the human capacity to believe]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

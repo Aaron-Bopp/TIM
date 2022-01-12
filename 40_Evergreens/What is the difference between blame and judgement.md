@@ -41,7 +41,7 @@ The term has at least five distinct uses.  Aristotle suggested we think of the o
     - [[Transformative justice is the alternative to punitive justice]]
 
 - Religious – used in the concept of salvation to refer to the adjudication of God in determining Heaven or Hell for each and all human beings. God's assessment of a person's worth: a determination of "good" conveys great value while "evil" conveys worthlessness.  
-    - [[The actual work of being a good person isn't explored by Evangelicalism]]
+    - [[The actual path to being a good person isn't explored by Evangelicalism]]
     - [[Worldviews should not make life seem easy and simple]]
     - [[My worldview is not about conversion it is about acceptance]]
 

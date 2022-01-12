@@ -3,13 +3,14 @@ created: 2021-12-24
 aliases:
   - null
 tags: created/evergreen/2021/12/24, node/evergreen, node/question 
-sr-due: 2022-01-08
-sr-interval: 5
+sr-due: 2022-02-05
+sr-interval: 24
 sr-ease: 170
 ---
 
 #### [[Does cognitive dissonance increase your capacity for endurance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/PONDER 
 It feels like the people who are under the most pressure are often the ones who can put up with the most. This might be more related to the [[Hierarchy of needs]] than [[cognitive dissonance]]
 - [[The injustice of endurance]]
 - [[Faith is an abstraction of cognitive dissonance]] #TO/TEND/GRAFT 
@@ -24,8 +25,6 @@ It feels like the people who are under the most pressure are often the ones who 
 	- [[Realism must acknowledge optimism's existence and effectiveness]]
 - [[You can't blame people for failing to rise above their circumstances]]
 
- 
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
@@ -33,5 +32,3 @@ It feels like the people who are under the most pressure are often the ones who 
 
 **Topics**:: [[cognitive dissonance]], [[human advancement]], [[progress]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

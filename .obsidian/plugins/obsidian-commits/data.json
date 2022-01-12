@@ -4571,9 +4571,9 @@
       "links": 7
     },
     "40_Evergreens/Karma is based in the law of cause and effect.md": {
-      "size": 697,
+      "size": 903,
       "tags": 6,
-      "links": 7
+      "links": 10
     },
     "40_Evergreens/Knowledge of the world is painful.md": {
       "size": 1249,
@@ -4751,9 +4751,9 @@
       "links": 9
     },
     "40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md": {
-      "size": 1147,
+      "size": 1401,
       "tags": 4,
-      "links": 13
+      "links": 16
     },
     "40_Evergreens/Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group.md": {
       "size": 780,
@@ -4784,11 +4784,6 @@
       "size": 1184,
       "tags": 3,
       "links": 7
-    },
-    "40_Evergreens/The ethnic makeup is a significant driver of change.md": {
-      "size": 733,
-      "tags": 3,
-      "links": 8
     },
     "40_Evergreens/The injustice of endurance.md": {
       "size": 1444,
@@ -4883,12 +4878,12 @@
     "40_Evergreens/Write your notes like you're planting an evergreen forest.md": {
       "size": 2747,
       "tags": 3,
-      "links": 17
+      "links": 18
     },
     "40_Evergreens/Yang's political success was due to his common sense campaign.md": {
       "size": 1654,
       "tags": 3,
-      "links": 8
+      "links": 9
     },
     "40_Evergreens/You can be taught to invalidate your own emotions.md": {
       "size": 1827,
@@ -8055,11 +8050,6 @@
       "tags": 2,
       "links": 0
     },
-    "40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md": {
-      "size": 1643,
-      "tags": 3,
-      "links": 15
-    },
     "40_Evergreens/Evangelicalism has commodified faith for profit.md": {
       "size": 2036,
       "tags": 4,
@@ -8257,7 +8247,7 @@
     },
     "40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md": {
       "size": 1402,
-      "tags": 5,
+      "tags": 6,
       "links": 16
     },
     "40_Evergreens/Evergreen notes should be constantly integrating new knowledge.md": {
@@ -11301,9 +11291,9 @@
       "links": 0
     },
     "40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md": {
-      "size": 1009,
-      "tags": 3,
-      "links": 7
+      "size": 1372,
+      "tags": 4,
+      "links": 9
     },
     "30_Topics/32_Terms/arbitrage.md": {
       "size": 521,
@@ -12271,9 +12261,9 @@
       "links": 7
     },
     "40_Evergreens/God is the human capacity to believe.md": {
-      "size": 687,
+      "size": 893,
       "tags": 3,
-      "links": 7
+      "links": 11
     },
     "90_Personal/91 Daily Notes/2022-01-08.md": {
       "size": 0,
@@ -12429,20 +12419,25 @@
       "size": 722,
       "tags": 3,
       "links": 10
+    },
+    "40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md": {
+      "size": 1643,
+      "tags": 4,
+      "links": 15
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4545,
+      "Refactor": 4549,
       "Create": 4738,
-      "Link": 7532,
-      "Expand": 933
+      "Link": 7541,
+      "Expand": 937
     },
     "40_Evergreens": {
-      "Refactor": 362,
+      "Refactor": 366,
       "Create": 64,
-      "Link": 1096,
-      "Expand": 409
+      "Link": 1105,
+      "Expand": 413
     }
   },
   "dailyCommits": {
@@ -12462,7 +12457,7 @@
       "12": 655,
       "13": 383,
       "14": 2457,
-      "15": 287,
+      "15": 304,
       "16": 1320,
       "17": 2807,
       "18": 2305,
@@ -12488,7 +12483,7 @@
       "12": 146,
       "13": 114,
       "14": 131,
-      "15": 44,
+      "15": 61,
       "16": 109,
       "17": 340,
       "18": 25,
@@ -12503,7 +12498,7 @@
     "/": {
       "Mon": 502,
       "Tue": 4399,
-      "Wed": 3812,
+      "Wed": 3829,
       "Thu": 2263,
       "Fri": 729,
       "Sat": 0,
@@ -12512,7 +12507,7 @@
     "40_Evergreens": {
       "Mon": 180,
       "Tue": 340,
-      "Wed": 259,
+      "Wed": 276,
       "Thu": 312,
       "Fri": 186,
       "Sat": 0,
@@ -12522,6 +12517,10 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
@@ -12568,11 +12567,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MDD.md\"> MDD </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Physiologic Anxiety.md\"> Physiologic Anxiety </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pituitary Gland.md\"> Pituitary Gland </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Prefrontal Cortex.md\"> Prefrontal Cortex </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Psychodynamic Therapy.md\"> Psychodynamic Therapy </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Serotonin Reuptake Inhibitor (SRI).md\"> Serotonin Reuptake Inhibitor (SRI) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Social Anxiety Disorder (SAD).md\"> Social Anxiety Disorder (SAD) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sympathetic Nervous System.md\"> Sympathetic Nervous System </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Prefrontal Cortex.md\"> Prefrontal Cortex </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Welfare trap.md\"> Welfare trap </a>",
@@ -12628,6 +12623,8 @@
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md\"> The actual path to being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Writing is a catalyst of understanding.md\"> Writing is a catalyst of understanding </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/survivorship bias.md\"> survivorship bias </a>",
@@ -12676,11 +12673,12 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CNS.md\"> CNS </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CRF.md\"> CRF </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SNRI.md\"> SNRI </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/GAD.md\"> GAD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/ANS.md\"> ANS </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/BNST.md\"> BNST </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/GAD.md\"> GAD </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md\"> The actual path to being a good person isn't explored by Evangelicalism </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
@@ -12728,10 +12726,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/medicine.md\"> medicine </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fear.md\"> fear </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/tea.md\"> tea </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/drugs.md\"> drugs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/linear algebra.md\"> linear algebra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/math.md\"> math </a>",
-        "<a class=\"internal-link\" href=\"physiology.md\"> physiology </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/drugs.md\"> drugs </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/_Index_of_Comp Sci.md\"> _Index_of_Comp Sci </a>",
@@ -12787,6 +12782,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/202 INDEX.md\"> 202 INDEX </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>",
         "<a class=\"internal-link\" href=\"50_Projects/_Index_of_50_Projects.md\"> _Index_of_50_Projects </a>",
         "<a class=\"internal-link\" href=\"30_Topics/_Index_of_30_Topics.md\"> _Index_of_30_Topics </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/_Index_of_37_Techniques.md\"> _Index_of_37_Techniques </a>",
@@ -12836,10 +12832,15 @@
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>",
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>",
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>",
-        "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/TopicNotes.md\"> TopicNotes </a>"
+        "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political success was due to his common sense campaign.md\"> Yang's political success was due to his common sense campaign </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>",
@@ -12884,13 +12885,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/_Index_of_31_Stubs.md\"> _Index_of_31_Stubs </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/_Index_of_32_Terms.md\"> _Index_of_32_Terms </a>",
         "<a class=\"internal-link\" href=\"30_Topics/33_Tools/_Index_of_33_Tools.md\"> _Index_of_33_Tools </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/_Index_of_34_People.md\"> _Index_of_34_People </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/_Index_of_35_Outlines.md\"> _Index_of_35_Outlines </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/_Index_of_36_Lists.md\"> _Index_of_36_Lists </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/_Index_of_37_Techniques.md\"> _Index_of_37_Techniques </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/_Index_of_30_Topics.md\"> _Index_of_30_Topics </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/_Index_of_34_People.md\"> _Index_of_34_People </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12946,6 +12941,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\"> A totally integrated machine should automate as much of the thinking process as possible </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
@@ -12995,12 +12991,15 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Buddhi.md\"> Buddhi </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bupropion.md\"> Bupropion </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Caffeine.md\"> Caffeine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Chamomile (Matricaria recutita).md\"> Chamomile (Matricaria recutita) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Chamomile (Matricaria recutita).md\"> Chamomile (Matricaria recutita) </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
@@ -13047,11 +13046,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Develop Obsidian plugins.md\"> Develop Obsidian plugins </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
@@ -13107,6 +13102,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/F.D Signifier.md\"> F.D Signifier </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md\"> The actual path to being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Writing is a catalyst of understanding.md\"> Writing is a catalyst of understanding </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Pattern matching is a fundamental part of learning.md\"> Pattern matching is a fundamental part of learning </a>",
@@ -13155,11 +13152,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Highly evolutionary view.md\"> Highly evolutionary view </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Great thinkers value thought over success.md\"> Great thinkers value thought over success </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/European colonialism.md\"> European colonialism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Emergence of racism.md\"> Emergence of racism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Emergence of democracy.md\"> Emergence of democracy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Emergence of capitalism.md\"> Emergence of capitalism </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Emergence of racism.md\"> Emergence of racism </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md\"> The actual path to being a good person isn't explored by Evangelicalism </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
@@ -13207,10 +13205,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans long to know what to do.md\"> Humans long to know what to do </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/I don't write my notes for myself.md\"> I don't write my notes for myself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within duty is derived from without.md\"> Purpose is derived from within duty is derived from without </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\"> Evergreen notes help us bridge the gap between knowledge and understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong not what will go wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within duty is derived from without.md\"> Purpose is derived from within duty is derived from without </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",
@@ -13269,9 +13264,16 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Loving a a non-believer requires loving the fact that they are going to hell.md\"> Loving a a non-believer requires loving the fact that they are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political success was due to his common sense campaign.md\"> Yang's political success was due to his common sense campaign </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>",
@@ -13316,13 +13318,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to balance investment.md\"> How to balance investment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to balance investment.md\"> How to balance investment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to balance investment.md\"> How to balance investment </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -13378,6 +13374,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
@@ -13427,8 +13424,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>"
       ]
     }
   },

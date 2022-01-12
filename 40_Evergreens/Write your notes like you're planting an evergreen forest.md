@@ -3,8 +3,8 @@ created: 2021-06-15
 aliases:
   - "Writing your notes like you're planting an evergreen forest"
 tags: created/evergreen/2021/06/15, node/evergreen
-sr-due: 2022-01-08
-sr-interval: 25
+sr-due: 2022-03-10
+sr-interval: 57
 sr-ease: 210
 ---
 
@@ -20,9 +20,9 @@ because [[Evergreen notes organize knowledge so that it can grow]].
 Previous writing is just fertilizer for evergreen notes,
 and writing evergreen notes is just practice for future thought. 
 
-However, if you don't know what an evergreen forest looks like you don't know which kind of seeds to plant and how to foster them.
+However, if you don't know what an evergreen forest looks like, you don't know which kind of seeds to plant and how to foster them.
 Having an unattended forest can be very overwhelming,
-but it can also provide the knowledge and context you need in order to choose the correct system.
+but it can also provide the [[knowledge]] and context you need in order to choose the correct system.
 This is why
 looking to examples and mentors is key in building a [[knowledge management|personal knowledge system]],
 because [[Choosing a note writing system is choosing a system for thought]].

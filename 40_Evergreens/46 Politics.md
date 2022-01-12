@@ -38,6 +38,6 @@
 		- [[McCarthyism is an attack on totalitarianism not communism]]
 	- [[political strategy]]
 		- [[Anger fuels change]]
-		- [[The ethnic makeup is a significant driver of change]]
+		- [[The ethnic makeup of a community is a significant driver of change]]
 		- [[Yang's political failure was due to lack of activism and political inefficacy]]
 		- [[Yang's political success was due to his common sense campaign]]

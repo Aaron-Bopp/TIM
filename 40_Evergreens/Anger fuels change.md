@@ -12,7 +12,7 @@ sr-ease: 246
 
 Major factor in the [[Civil Rights]] movement. 
 
-- [[The ethnic makeup is a significant driver of change]]
+- [[The ethnic makeup of a community is a significant driver of change]]
 - [[The Politicization of the Christian Church]]
 
 ### <hr class="footnote"/>

@@ -14,7 +14,7 @@ If a worldview makes life seem easy, it will shape the way you view people who a
 The pursuit of [[self-actualization]] is different for every person, but if you aren't part of a [[marginalization|marginalized]] group and your worldview tells you that all you need to do is one simple thing, you will view those people as lazy or wrong:
 [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 
-This is especially seen in [[individualism|individualistic]] cultures like [[America]], and in worldviews that are focused on salvation and not [[self-improvement]] ([[Christianity]]): [[The actual work of being a good person isn't explored by Evangelicalism]]
+This is especially seen in [[individualism|individualistic]] cultures like [[America]], and in worldviews that are focused on salvation and not [[self-improvement]] ([[Christianity]]): [[The actual path to being a good person isn't explored by Evangelicalism]]
 
 ### <hr class="footnote"/>
 

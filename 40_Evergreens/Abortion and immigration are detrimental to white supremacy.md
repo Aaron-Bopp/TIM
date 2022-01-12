@@ -10,7 +10,7 @@ sr-ease: 270
 
 #### [[Abortion and immigration are detrimental to white supremacy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[The ethnic makeup is a significant driver of change]], so opposing these issues is key to upholding [[white supremacy]]. 
+[[The ethnic makeup of a community is a significant driver of change]], so opposing these issues is key to upholding [[white supremacy]]. 
 
 [[Conservatism]] has used this to their disadvantage by weaponizing [[Christianity|christian]]s morality because [[Anger fuels change]] and [[Single issue voters are anti-democratic]]. 
 

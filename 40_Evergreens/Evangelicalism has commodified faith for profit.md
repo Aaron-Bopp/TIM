@@ -16,7 +16,7 @@ But when people come back to the salesman because they believed and didn't have 
 "You should find it easy to be a good person because your a good Christian,
 here say the prayer again!" 
 
-[[The actual work of being a good person isn't explored by Evangelicalism]]
+[[The actual path to being a good person isn't explored by Evangelicalism]]
 
 While [[The brain is powerful enough to create supernatural experiences]], [[Christianity]] has commodified supernatural experiences for monetary gain. [[Capitalism]] has accelerated this and created the modern [[Evangelicalism|charismatic church]] service which is the perfect environments for [[dissociation]] and [[panic attacks]]. It's all powered by [[guilt]], legitimate belief in a all-powerful god, and often emotional [[trauma]], and lots and lots of money. This is why Charismatic church's are especially prone to [[religious trauma]]: [[Religious concepts are often too powerful for a child's mind]] 
 
