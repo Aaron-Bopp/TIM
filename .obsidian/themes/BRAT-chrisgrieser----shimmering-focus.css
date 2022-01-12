@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.635
+Version 1.641
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -301,9 +301,9 @@ the .create-ToC.sh.
 .nord-colors.theme-light {
 	--light-hue: 220;
 	--dark-hue: 220;
-	--light-sat: 25%;
+	--light-sat: 20%;
 	--dark-sat: 20%;
-	--brightness-light: 9%;
+	--brightness-light: 13%;
 	--brightness-dark: 9%;
 }
 
@@ -2290,8 +2290,13 @@ div.prompt-results {
 
 kbd.suggestion-hotkey {
 	font-family: var(--button-font);
+	line-height: 1.7em;
+
+	min-height: 1.9em;
+
 	background-color: var(--bg2);
 	box-shadow: var(--muted-button-inset-shadow);
+
 	border-radius: var(--roundish);
 }
 
@@ -2877,14 +2882,19 @@ body .workspace-leaf-resize-handle:active {
 /* avoids the creation of two-line-hotkeys  */
 /* when the command name is too long */
 .hotkey-list-container .setting-item .setting-item-info {
-	max-width: 80%;
+	max-width: 75%;
 	margin-right: 0;
 }
 
 .setting-hotkey {
 	font-family: var(--button-font);
+	line-height: 1.7em;
+
+	min-height: 2em;
+
 	background-color: var(--bg2);
 	box-shadow: var(--muted-button-inset-shadow);
+
 	border: var(--thin-border);
 	border-radius: var(--roundish);
 }
@@ -2898,7 +2908,7 @@ body .workspace-leaf-resize-handle:active {
 
 	color: var(--text-faint);
 
-	padding-top: 12px;
+	padding-top: 11px;
 }
 
 .setting-hotkey.mod-active {
@@ -4186,7 +4196,7 @@ body:not(.left-aligned-embeds) .view-content img:not(.link-favicon) {
 }
 
 .theme-light .markdown-preview-view img:active {
-	background: hsl(0 0% 80%);
+	background: hsl(0 0% 75%);
 }
 
 .theme-dark .markdown-preview-view img:active {
@@ -4273,7 +4283,7 @@ body.no-barelink-spellcheck .cm-hmd-barelink.cm-overlay.cm-spell-error {
 	background-image: none;
 }
 
-/* spellcheck dictionary (when modifying words through settings) */
+/* spellcheck dictionary (modifying words through settings) */
 .spellchecker-dictionary-remove-button:hover {
 	color: var(--alt-accent);
 }
@@ -4331,9 +4341,10 @@ body:not(.max-view-enabled) .mod-root .markdown-source-view.mod-cm6.is-readable-
 }
 
 /* CM5 + CM6: Images Source Mode (Ozan's image in editor) */
-.max-view-enabled:not(.is-mobile) .mod-left-split.is-collapsed ~ .mod-root div.oz-image-widget-cm6 > img,
+body:not(.is-mobile) .app-container .oz-image-widget-cm6 > img:active,
+.max-view-enabled:not(.is-mobile) .mod-left-split.is-collapsed ~ .mod-root div.oz-image-widget-cm6 > img:not(:active),
 .max-view-enabled:not(.is-mobile) .mod-left-split.is-collapsed ~ .mod-root div.oz-image-widget > img {
-	max-width: 100% !important;
+	max-width: 100%;
 }
 
 body:not(.is-mobile) .app-container .view-content img,
@@ -4485,6 +4496,7 @@ body .markdown-preview-view blockquote,
 	border-left: 10px solid var(--basic-border-color);
 }
 
+.cm-hmd-indent-in-quote,
 .markdown-preview-view blockquote,
 .cm-line.HyperMD-quote .cm-quote {
 	color: var(--extra-contrast);
@@ -4536,6 +4548,7 @@ body:not(.no-active-highlight):not(.focused-highlight) .cm-s-obsidian .cm-active
 
 /* option for normal size */
 body:not(.normal-blockquotes) blockquote,
+body:not(.normal-blockquotes) .cm-hmd-indent-in-quote,
 body:not(.normal-blockquotes) .HyperMD-quote.HyperMD-quote-1 {
 	font-size: 0.87em;
 	line-height: 21px;
@@ -4640,33 +4653,37 @@ body:not(.blockquotes-left-aligned) > .app-container .HyperMD-quote {
 	content: var(--pseudo-admonition-prefix);
 
 	font-style: normal;
+	text-align: start;
 
 	background-color: var(--bg2);
 
 	position: absolute;
 	top: -7px;
 	bottom: -7px;
-	left: -35px;
+	left: -28px;
 
 	padding: 5px 8px;
 
 	border: 7px double var(--basic-border-color);
 	border-right: none;
+	border-bottom-left-radius: var(--roundish);
+	border-top-left-radius: var(--roundish);
 }
 
-.markdown-preview-view blockquote > blockquote > blockquote {
+.markdown-reading-view .markdown-preview-view blockquote > blockquote > blockquote {
 	font-family: var(--menu-font-family);
 	font-size: 0.9rem;
 
+	width: 101%;
+
 	position: relative;
-	right: -15px;
-	bottom: -0.5px;
+	right: -5px;
 
-	margin-right: 10px;
+	margin-top: -10px;
+	margin-bottom: -10px;
 
-	border: none;
-
-	outline: 7px double var(--basic-border-color);
+	border: 7px double var(--basic-border-color);
+	border-left: none;
 }
 
 /* for LP */
@@ -6724,7 +6741,7 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 ─────────────────────────────────────────────────── */
 
 /* ───────────────────────────────────────────────────
-<< Supercharged links
+<< Supercharged Links
 ─────────────────────────────────────────────────── */
 
 body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#checklist" i]::BEFORE { content: "☑️ " }
@@ -6749,6 +6766,7 @@ body:not(.no-built-in-supercharged-links) .data-link-text:hover::AFTER {
 	position: absolute;
 
 	padding: 8px 10px;
+	margin-left: -25px;
 
 	border: var(--notice-border);
 	border-radius: var(--roundish);

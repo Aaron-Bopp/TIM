@@ -1,5 +1,5 @@
-#TO/PROGRAM [[articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium|How To Export Podcast Highlights To Obsidian | Snipd | Medium]]
 
+#TO/PROGRAM [[articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium|How To Export Podcast Highlights To Obsidian | Snipd | Medium]]
 
 #TO/PONDER/SOCIETY  why do we stall in life
 > "Sometimes it's easiest to take the chances that have the highest likelihood of failure" 

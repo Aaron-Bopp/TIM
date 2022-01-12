@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5fc1b7917edd92d2",
+        "id": "a69155241aef6014",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -14,7 +14,7 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "5fc1b7917edd92d2",
+              "leaf": "a69155241aef6014",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -358,8 +358,9 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "5fc1b7917edd92d2",
+  "active": "a69155241aef6014",
   "lastOpenFiles": [
+    "20_Entry/209 Notepad.md",
     "50_Projects/_Index_of_50_Projects.md",
     "30_Topics/_Index_of_30_Topics.md",
     "30_Topics/37_Techniques/_Index_of_37_Techniques.md",
@@ -368,7 +369,6 @@
     "30_Topics/34_People/_Index_of_34_People.md",
     "30_Topics/33_Tools/_Index_of_33_Tools.md",
     "20_Entry/_Index_of_20_Entry.md",
-    "20_Entry/25 TODO/_Index_of_25 TODO.md",
-    "20_Entry/24 Vault Stats/_Index_of_24 Vault Stats.md"
+    "20_Entry/25 TODO/_Index_of_25 TODO.md"
   ]
 }
