@@ -12424,19 +12424,259 @@
       "size": 1014,
       "tags": 2,
       "links": 2
+    },
+    "_Index_of_TIM.md": {
+      "size": 535,
+      "tags": 0,
+      "links": 7
+    },
+    "00_Meta/_Index_of_00_Meta.md": {
+      "size": 573,
+      "tags": 0,
+      "links": 10
+    },
+    "10_Sources/_Index_of_10_Sources.md": {
+      "size": 1659,
+      "tags": 0,
+      "links": 27
+    },
+    "20_Entry/_Index_of_20_Entry.md": {
+      "size": 584,
+      "tags": 0,
+      "links": 11
+    },
+    "30_Topics/_Index_of_30_Topics.md": {
+      "size": 522,
+      "tags": 0,
+      "links": 8
+    },
+    "50_Projects/_Index_of_50_Projects.md": {
+      "size": 635,
+      "tags": 0,
+      "links": 5
+    },
+    "40_Evergreens/_Index_of_40_Evergreens.md": {
+      "size": 22138,
+      "tags": 0,
+      "links": 282
+    },
+    "90_Personal/_Index_of_90_Personal.md": {
+      "size": 354,
+      "tags": 0,
+      "links": 3
+    },
+    "00_Meta/Dual/_Index_of_Dual.md": {
+      "size": 394,
+      "tags": 0,
+      "links": 5
+    },
+    "00_Meta/Primary Sources/_Index_of_Primary Sources.md": {
+      "size": 765,
+      "tags": 0,
+      "links": 8
+    },
+    "00_Meta/Templates/_Index_of_Templates.md": {
+      "size": 1371,
+      "tags": 0,
+      "links": 30
+    },
+    "10_Sources/Enneagram/_Index_of_Enneagram.md": {
+      "size": 550,
+      "tags": 0,
+      "links": 3
+    },
+    "10_Sources/History/_Index_of_History.md": {
+      "size": 1502,
+      "tags": 0,
+      "links": 22
+    },
+    "10_Sources/Mental Health/_Index_of_Mental Health.md": {
+      "size": 1298,
+      "tags": 0,
+      "links": 18
+    },
+    "10_Sources/Operating Systems/_Index_of_Operating Systems.md": {
+      "size": 374,
+      "tags": 0,
+      "links": 3
+    },
+    "10_Sources/Politics/_Index_of_Politics.md": {
+      "size": 398,
+      "tags": 0,
+      "links": 2
+    },
+    "10_Sources/Qoutes/_Index_of_Qoutes.md": {
+      "size": 573,
+      "tags": 0,
+      "links": 4
+    },
+    "10_Sources/Readwise/_Index_of_Readwise.md": {
+      "size": 333,
+      "tags": 0,
+      "links": 3
+    },
+    "10_Sources/Religion/_Index_of_Religion.md": {
+      "size": 491,
+      "tags": 0,
+      "links": 3
+    },
+    "10_Sources/Zotero/_Index_of_Zotero.md": {
+      "size": 1530,
+      "tags": 0,
+      "links": 16
+    },
+    "20_Entry/21 Inbox/_Index_of_21 Inbox.md": {
+      "size": 341,
+      "tags": 0,
+      "links": 3
+    },
+    "20_Entry/22 Note by status/_Index_of_22 Note by status.md": {
+      "size": 606,
+      "tags": 0,
+      "links": 7
+    },
+    "20_Entry/23 Note by type/_Index_of_23 Note by type.md": {
+      "size": 302,
+      "tags": 0,
+      "links": 3
+    },
+    "20_Entry/24 Vault Stats/_Index_of_24 Vault Stats.md": {
+      "size": 503,
+      "tags": 0,
+      "links": 7
+    },
+    "20_Entry/25 TODO/_Index_of_25 TODO.md": {
+      "size": 240,
+      "tags": 0,
+      "links": 3
+    },
+    "30_Topics/31_Stubs/_Index_of_31_Stubs.md": {
+      "size": 13164,
+      "tags": 0,
+      "links": 278
+    },
+    "30_Topics/33_Tools/_Index_of_33_Tools.md": {
+      "size": 964,
+      "tags": 0,
+      "links": 18
+    },
+    "30_Topics/34_People/_Index_of_34_People.md": {
+      "size": 822,
+      "tags": 0,
+      "links": 15
+    },
+    "30_Topics/32_Terms/_Index_of_32_Terms.md": {
+      "size": 14777,
+      "tags": 0,
+      "links": 344
+    },
+    "30_Topics/35_Outlines/_Index_of_35_Outlines.md": {
+      "size": 1578,
+      "tags": 0,
+      "links": 28
+    },
+    "30_Topics/36_Lists/_Index_of_36_Lists.md": {
+      "size": 402,
+      "tags": 0,
+      "links": 5
+    },
+    "30_Topics/37_Techniques/_Index_of_37_Techniques.md": {
+      "size": 779,
+      "tags": 0,
+      "links": 9
+    },
+    "40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md": {
+      "size": 2353,
+      "tags": 0,
+      "links": 28
+    },
+    "90_Personal/91 Daily Notes/_Index_of_91 Daily Notes.md": {
+      "size": 564,
+      "tags": 0,
+      "links": 8
+    },
+    "90_Personal/Personal/_Index_of_Personal.md": {
+      "size": 901,
+      "tags": 0,
+      "links": 13
+    },
+    "00_Meta/Primary Sources/Classes/_Index_of_Classes.md": {
+      "size": 1084,
+      "tags": 0,
+      "links": 12
+    },
+    "00_Meta/Primary Sources/gender-dysphoria-bible/_Index_of_gender-dysphoria-bible.md": {
+      "size": 1941,
+      "tags": 0,
+      "links": 21
+    },
+    "10_Sources/Mental Health/Dr.K's guide/_Index_of_Dr.K's guide.md": {
+      "size": 5103,
+      "tags": 0,
+      "links": 67
+    },
+    "10_Sources/Readwise/Articles/_Index_of_Articles.md": {
+      "size": 7298,
+      "tags": 0,
+      "links": 71
+    },
+    "10_Sources/Readwise/Books/_Index_of_Books.md": {
+      "size": 322,
+      "tags": 0,
+      "links": 2
+    },
+    "10_Sources/Readwise/Tweets/_Index_of_Tweets.md": {
+      "size": 3647,
+      "tags": 0,
+      "links": 47
+    },
+    "00_Meta/Primary Sources/Classes/Comp Sci/_Index_of_Comp Sci.md": {
+      "size": 5926,
+      "tags": 0,
+      "links": 80
+    },
+    "00_Meta/Primary Sources/Classes/econ/_Index_of_econ.md": {
+      "size": 1087,
+      "tags": 0,
+      "links": 12
+    },
+    "00_Meta/Primary Sources/Classes/History/_Index_of_History.md": {
+      "size": 2510,
+      "tags": 0,
+      "links": 29
+    },
+    "00_Meta/Primary Sources/Classes/Lit/_Index_of_Lit.md": {
+      "size": 692,
+      "tags": 0,
+      "links": 8
+    },
+    "00_Meta/Primary Sources/Classes/MAth/_Index_of_MAth.md": {
+      "size": 1134,
+      "tags": 0,
+      "links": 14
+    },
+    "00_Meta/Primary Sources/Classes/Pyschology/_Index_of_Pyschology.md": {
+      "size": 1062,
+      "tags": 0,
+      "links": 12
+    },
+    "00_Meta/Primary Sources/Classes/Science/_Index_of_Science.md": {
+      "size": 562,
+      "tags": 0,
+      "links": 6
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4462,
-      "Create": 4687,
-      "Link": 7468,
+      "Refactor": 4492,
+      "Create": 4735,
+      "Link": 7516,
       "Expand": 929
     },
     "40_Evergreens": {
-      "Refactor": 355,
-      "Create": 62,
-      "Link": 1079,
+      "Refactor": 357,
+      "Create": 64,
+      "Link": 1081,
       "Expand": 407
     }
   },
@@ -12463,7 +12703,7 @@
       "18": 2305,
       "19": 523,
       "20": 265,
-      "21": 754,
+      "21": 880,
       "22": 599,
       "23": 443
     },
@@ -12489,7 +12729,7 @@
       "18": 25,
       "19": 99,
       "20": 63,
-      "21": 83,
+      "21": 89,
       "22": 31,
       "23": 104
     }
@@ -12497,7 +12737,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 502,
-      "Tue": 4221,
+      "Tue": 4347,
       "Wed": 3788,
       "Thu": 2263,
       "Fri": 729,
@@ -12506,7 +12746,7 @@
     },
     "40_Evergreens": {
       "Mon": 180,
-      "Tue": 332,
+      "Tue": 338,
       "Wed": 239,
       "Thu": 312,
       "Fri": 186,
@@ -12570,57 +12810,57 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vidya.md\"> Vidya </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Science/_Index_of_Science.md\"> _Index_of_Science </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/_Index_of_Pyschology.md\"> _Index_of_Pyschology </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/MAth/_Index_of_MAth.md\"> _Index_of_MAth </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/_Index_of_Lit.md\"> _Index_of_Lit </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/_Index_of_History.md\"> _Index_of_History </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/econ/_Index_of_econ.md\"> _Index_of_econ </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/_Index_of_Comp Sci.md\"> _Index_of_Comp Sci </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/_Index_of_Tweets.md\"> _Index_of_Tweets </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/_Index_of_Books.md\"> _Index_of_Books </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/_Index_of_Articles.md\"> _Index_of_Articles </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/_Index_of_Dr.K's guide.md\"> _Index_of_Dr.K's guide </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/_Index_of_gender-dysphoria-bible.md\"> _Index_of_gender-dysphoria-bible </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/_Index_of_Classes.md\"> _Index_of_Classes </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/_Index_of_Personal.md\"> _Index_of_Personal </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/_Index_of_91 Daily Notes.md\"> _Index_of_91 Daily Notes </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/_Index_of_37_Techniques.md\"> _Index_of_37_Techniques </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/_Index_of_36_Lists.md\"> _Index_of_36_Lists </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/_Index_of_35_Outlines.md\"> _Index_of_35_Outlines </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/_Index_of_32_Terms.md\"> _Index_of_32_Terms </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/_Index_of_34_People.md\"> _Index_of_34_People </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/_Index_of_33_Tools.md\"> _Index_of_33_Tools </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/_Index_of_31_Stubs.md\"> _Index_of_31_Stubs </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/25 TODO/_Index_of_25 TODO.md\"> _Index_of_25 TODO </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/_Index_of_24 Vault Stats.md\"> _Index_of_24 Vault Stats </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/_Index_of_23 Note by type.md\"> _Index_of_23 Note by type </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/_Index_of_22 Note by status.md\"> _Index_of_22 Note by status </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/_Index_of_21 Inbox.md\"> _Index_of_21 Inbox </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Zotero/_Index_of_Zotero.md\"> _Index_of_Zotero </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/_Index_of_Religion.md\"> _Index_of_Religion </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/_Index_of_Readwise.md\"> _Index_of_Readwise </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/_Index_of_Qoutes.md\"> _Index_of_Qoutes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Politics/_Index_of_Politics.md\"> _Index_of_Politics </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Operating Systems/_Index_of_Operating Systems.md\"> _Index_of_Operating Systems </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/_Index_of_Mental Health.md\"> _Index_of_Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/_Index_of_History.md\"> _Index_of_History </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Enneagram/_Index_of_Enneagram.md\"> _Index_of_Enneagram </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/_Index_of_Templates.md\"> _Index_of_Templates </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/_Index_of_Primary Sources.md\"> _Index_of_Primary Sources </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Dual/_Index_of_Dual.md\"> _Index_of_Dual </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/_Index_of_50_Projects.md\"> _Index_of_50_Projects </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/_Index_of_30_Topics.md\"> _Index_of_30_Topics </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Index_of_20_Entry.md\"> _Index_of_20_Entry </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/_Index_of_10_Sources.md\"> _Index_of_10_Sources </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/_Index_of_00_Meta.md\"> _Index_of_00_Meta </a>",
+        "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>",
         "<a class=\"internal-link\" href=\"Pattern matching is a fundamental part of learning.md\"> Pattern matching is a fundamental part of learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\"> Distinguish between purposeful tagging and coincidental tagging of information </a>",
-        "<a class=\"internal-link\" href=\"survivorship bias.md\"> survivorship bias </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"NtNW (Notes that Need Work).md\"> NtNW (Notes that Need Work) </a>",
-        "<a class=\"internal-link\" href=\"Inbox.md\"> Inbox </a>",
-        "<a class=\"internal-link\" href=\"Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/the natural world.md\"> the natural world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/harmony.md\"> harmony </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/the natural world.md\"> the natural world </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/balance.md\"> balance </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Taoism.md\"> Taoism </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Feng shui.md\"> Feng shui </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-09.md\"> 2022-01-09 </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-08.md\"> 2022-01-08 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to balance investment.md\"> How to balance investment </a>",
-        "<a class=\"internal-link\" href=\"The brain lodges emotional reactions in our unconscious memory.md\"> The brain lodges emotional reactions in our unconscious memory </a>",
-        "<a class=\"internal-link\" href=\"How memory work.md\"> How memory work </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Materials.md\"> articles_Materials </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-06.md\"> 2022-01-06 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Asia.md\"> Asia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Europe.md\"> Europe </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Alzheimer's Disease.md\"> Alzheimer's Disease </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/insomnia.md\"> insomnia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fear.md\"> fear </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/medicine.md\"> medicine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/drugs.md\"> drugs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/tea.md\"> tea </a>",
-        "<a class=\"internal-link\" href=\"physiology.md\"> physiology </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/math.md\"> math </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/linear algebra.md\"> linear algebra </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/herb.md\"> herb </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/manic.md\"> manic </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/bigotry.md\"> bigotry </a>",
-        "<a class=\"internal-link\" href=\"q.md\"> q </a>",
-        "<a class=\"internal-link\" href=\"Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
-        "<a class=\"internal-link\" href=\"Sagacious sayings.md\"> Sagacious sayings </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Sticky concepts.md\"> Sticky concepts </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/socio-economic.md\"> socio-economic </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/universe.md\"> universe </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Why I talk so much about Christianity.md\"> Why I talk so much about Christianity </a>",
-        "<a class=\"internal-link\" href=\"test.md\"> test </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-05.md\"> 2022-01-05 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/amnesia.md\"> amnesia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/anesthesia.md\"> anesthesia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/sleep.md\"> sleep </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/central nervous system.md\"> central nervous system </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/mood.md\"> mood </a>",
-        "<a class=\"internal-link\" href=\"cerebral cortex.md\"> cerebral cortex </a>"
+        "<a class=\"internal-link\" href=\"survivorship bias.md\"> survivorship bias </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/survivorship bias.md\"> survivorship bias </a>",
@@ -12729,6 +12969,36 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>"
       ],
       "Refactored": [
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/_Index_of_Comp Sci.md\"> _Index_of_Comp Sci </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/econ/_Index_of_econ.md\"> _Index_of_econ </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/_Index_of_History.md\"> _Index_of_History </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/_Index_of_Lit.md\"> _Index_of_Lit </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/_Index_of_Pyschology.md\"> _Index_of_Pyschology </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Science/_Index_of_Science.md\"> _Index_of_Science </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/_Index_of_Classes.md\"> _Index_of_Classes </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/_Index_of_gender-dysphoria-bible.md\"> _Index_of_gender-dysphoria-bible </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/_Index_of_Primary Sources.md\"> _Index_of_Primary Sources </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/_Index_of_Templates.md\"> _Index_of_Templates </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/_Index_of_00_Meta.md\"> _Index_of_00_Meta </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/_Index_of_History.md\"> _Index_of_History </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/_Index_of_Dr.K's guide.md\"> _Index_of_Dr.K's guide </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/_Index_of_Mental Health.md\"> _Index_of_Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/_Index_of_Qoutes.md\"> _Index_of_Qoutes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/_Index_of_Articles.md\"> _Index_of_Articles </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/_Index_of_Tweets.md\"> _Index_of_Tweets </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Zotero/_Index_of_Zotero.md\"> _Index_of_Zotero </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/_Index_of_10_Sources.md\"> _Index_of_10_Sources </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/_Index_of_24 Vault Stats.md\"> _Index_of_24 Vault Stats </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Index_of_20_Entry.md\"> _Index_of_20_Entry </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/_Index_of_32_Terms.md\"> _Index_of_32_Terms </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/_Index_of_33_Tools.md\"> _Index_of_33_Tools </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/_Index_of_34_People.md\"> _Index_of_34_People </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/_Index_of_37_Techniques.md\"> _Index_of_37_Techniques </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/_Index_of_30_Topics.md\"> _Index_of_30_Topics </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/_Index_of_50_Projects.md\"> _Index_of_50_Projects </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/_Index_of_Personal.md\"> _Index_of_Personal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How memory works.md\"> How memory works </a>",
         "<a class=\"internal-link\" href=\"10 Sources/Religion/articleAn Introduction to Bhuddism.md\"> articleAn Introduction to Bhuddism </a>",
@@ -12749,37 +13019,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/TopicNotes.md\"> TopicNotes </a>",
         "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/EVERGREENS.md\"> EVERGREENS </a>",
         "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/202 INDEX.md\"> 202 INDEX </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/205 QUICKNOTE.md\"> 205 QUICKNOTE </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/206 Notepad.md\"> 206 Notepad </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/204 Content Areas.md\"> 204 Content Areas </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/205 INDEX.md\"> 205 INDEX </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What makes a note evergreen.md\"> What makes a note evergreen </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain is powerful enough to create supernatural experiences.md\"> The brain is powerful enough to create supernatural experiences </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/books_The Dawn of Everything.md\"> books_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/CHARTS.md\"> CHARTS </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes are lexically superior to atomic notes.md\"> Conceptual notes are lexically superior to atomic notes </a>",
-        "<a class=\"internal-link\" href=\"course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/podcast_Unteachable Moment_This American Life.md\"> podcast_Unteachable Moment_This American Life </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/course_Dr. K's Guide to Mental Health.md\"> course_Dr. K's Guide to Mental Health </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/meditation.md\"> meditation </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/notes_The Dawn of Everything.md\"> notes_The Dawn of Everything </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/202 INDEX.md\"> 202 INDEX </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/TopicNotes.md\"> TopicNotes </a>",
@@ -12835,57 +13075,57 @@
         "<a class=\"internal-link\" href=\"TIM-clone/40_Evergreens/Dawn of everything/progress requires respect.md\"> progress requires respect </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"00_Meta/Dual/_Index_of_Dual.md\"> _Index_of_Dual </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/_Index_of_Comp Sci.md\"> _Index_of_Comp Sci </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/econ/_Index_of_econ.md\"> _Index_of_econ </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/History/_Index_of_History.md\"> _Index_of_History </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Lit/_Index_of_Lit.md\"> _Index_of_Lit </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/MAth/_Index_of_MAth.md\"> _Index_of_MAth </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Pyschology/_Index_of_Pyschology.md\"> _Index_of_Pyschology </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Science/_Index_of_Science.md\"> _Index_of_Science </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/_Index_of_Classes.md\"> _Index_of_Classes </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/gender-dysphoria-bible/_Index_of_gender-dysphoria-bible.md\"> _Index_of_gender-dysphoria-bible </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/_Index_of_Primary Sources.md\"> _Index_of_Primary Sources </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/_Index_of_Templates.md\"> _Index_of_Templates </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/_Index_of_00_Meta.md\"> _Index_of_00_Meta </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Enneagram/_Index_of_Enneagram.md\"> _Index_of_Enneagram </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/History/_Index_of_History.md\"> _Index_of_History </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/_Index_of_Dr.K's guide.md\"> _Index_of_Dr.K's guide </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/_Index_of_Mental Health.md\"> _Index_of_Mental Health </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Operating Systems/_Index_of_Operating Systems.md\"> _Index_of_Operating Systems </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Politics/_Index_of_Politics.md\"> _Index_of_Politics </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/_Index_of_Qoutes.md\"> _Index_of_Qoutes </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/_Index_of_Articles.md\"> _Index_of_Articles </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/_Index_of_Books.md\"> _Index_of_Books </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/_Index_of_Tweets.md\"> _Index_of_Tweets </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/_Index_of_Readwise.md\"> _Index_of_Readwise </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Religion/_Index_of_Religion.md\"> _Index_of_Religion </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Zotero/_Index_of_Zotero.md\"> _Index_of_Zotero </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/_Index_of_10_Sources.md\"> _Index_of_10_Sources </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/_Index_of_21 Inbox.md\"> _Index_of_21 Inbox </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/_Index_of_22 Note by status.md\"> _Index_of_22 Note by status </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/_Index_of_23 Note by type.md\"> _Index_of_23 Note by type </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/_Index_of_24 Vault Stats.md\"> _Index_of_24 Vault Stats </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/25 TODO/_Index_of_25 TODO.md\"> _Index_of_25 TODO </a>",
+        "<a class=\"internal-link\" href=\"20_Entry/_Index_of_20_Entry.md\"> _Index_of_20_Entry </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/_Index_of_31_Stubs.md\"> _Index_of_31_Stubs </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/_Index_of_32_Terms.md\"> _Index_of_32_Terms </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/_Index_of_33_Tools.md\"> _Index_of_33_Tools </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/34_People/_Index_of_34_People.md\"> _Index_of_34_People </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/_Index_of_35_Outlines.md\"> _Index_of_35_Outlines </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/_Index_of_36_Lists.md\"> _Index_of_36_Lists </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/_Index_of_37_Techniques.md\"> _Index_of_37_Techniques </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/_Index_of_30_Topics.md\"> _Index_of_30_Topics </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>",
+        "<a class=\"internal-link\" href=\"50_Projects/_Index_of_50_Projects.md\"> _Index_of_50_Projects </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/_Index_of_91 Daily Notes.md\"> _Index_of_91 Daily Notes </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/_Index_of_Personal.md\"> _Index_of_Personal </a>",
+        "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>",
+        "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\"> People are radicalized when they are convinced that change is out of their control </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Term notes.md\"> Term notes </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/topic note.md\"> topic note </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/stub notes.md\"> stub notes </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/202 Now.md\"> 202 Now </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Separate stub notes from the rest of your vault so you don't get overwhelmed.md\"> Separate stub notes from the rest of your vault so you don't get overwhelmed </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Sticky concepts.md\"> Sticky concepts </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\"> Distinguish between purposeful tagging and coincidental tagging of information </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\"> Distinguish between purposeful tagging and coincidental tagging of information </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Pattern matching is a fundamental part of learning.md\"> Pattern matching is a fundamental part of learning </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\"> Distinguish between purposeful tagging and coincidental tagging of information </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\"> The history of meditation is a mixture of science and spirituality </a>",
-        "<a class=\"internal-link\" href=\"survivorship bias.md\"> survivorship bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\"> The history of meditation is a mixture of science and spirituality </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\"> The brain lodges emotional reactions in our unconscious memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/A totally integrated machine should be infinitely scalable.md\"> A totally integrated machine should be infinitely scalable </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/I don't write my notes for myself.md\"> I don't write my notes for myself </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/There is a difference between thinking and creating.md\"> There is a difference between thinking and creating </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/206 Folder Hierarchy.md\"> 206 Folder Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/206 Folder Hierarchy.md\"> 206 Folder Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/206 Folder Hierarchy.md\"> 206 Folder Hierarchy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to balance investment.md\"> How to balance investment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-09.md\"> 2022-01-09 </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The more mistakes you've fixed the more bad decisions you can afford.md\"> The more mistakes you've fixed the more bad decisions you can afford </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Friction is the number one hindrance to learning.md\"> Friction is the number one hindrance to learning </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-08.md\"> 2022-01-08 </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Sagacious sayings.md\"> Sagacious sayings </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
@@ -13049,6 +13289,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\"> Distinguish between purposeful tagging and coincidental tagging of information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to balance investment.md\"> How to balance investment </a>",
@@ -13097,9 +13339,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/@roryreckons on Twitter.md\"> @roryreckons on Twitter </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/newsletter.eleanorkonik.com.md\"> newsletter.eleanorkonik.com </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/F.D Signifier.md\"> F.D Signifier </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Belief is an addiction (the good kind).md\"> Belief is an addiction (the good kind) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Time is a valuable mode in a second brain.md\"> Time is a valuable mode in a second brain </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/F.D Signifier.md\"> F.D Signifier </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Pattern matching is a fundamental part of learning.md\"> Pattern matching is a fundamental part of learning </a>",
@@ -13226,7 +13466,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How memory works.md\"> How memory works </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md\"> The most reliable path to success is repeatedly trying to succeed </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"40_Evergreens/41.01.md\"> 41.01 </a>",
@@ -13263,6 +13505,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Mass media promotes the spread of inaccurate information.md\"> Mass media promotes the spread of inaccurate information </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/People are radicalized when they are convinced that change is out of their control.md\"> People are radicalized when they are convinced that change is out of their control </a>",
@@ -13311,9 +13555,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is primarily an executive function disorder.md\"> ADHD is primarily an executive function disorder </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is primarily an executive function disorder.md\"> ADHD is primarily an executive function disorder </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",

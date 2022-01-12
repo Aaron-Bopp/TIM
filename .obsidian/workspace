@@ -4,40 +4,94 @@
     "type": "split",
     "children": [
       {
-        "id": "3695804ed04f24ef",
+        "id": "8d2d5805a5dd118e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
+            "file": "_Index_of_TIM.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "3695804ed04f24ef",
+              "leaf": "8d2d5805a5dd118e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Index_of_TIM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "3695804ed04f24ef",
+              "leaf": "8d2d5805a5dd118e",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":12.253786899881463}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/_Index_of_30_Topics.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "3695804ed04f24ef",
+              "leaf": "8d2d5805a5dd118e",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "3695804ed04f24ef",
+              "leaf": "8d2d5805a5dd118e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/_Index_of_30_Topics.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d2d5805a5dd118e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/_Index_of_50_Projects.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":109},\"to\":{\"line\":2,\"ch\":109}}}"
+            },
+            {
+              "leaf": "8d2d5805a5dd118e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Index_of_TIM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":50},\"to\":{\"line\":6,\"ch\":50}}}"
+            },
+            {
+              "leaf": "8d2d5805a5dd118e",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8d2d5805a5dd118e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/_Index_of_35_Outlines.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d2d5805a5dd118e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/_Index_of_30_Topics.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d2d5805a5dd118e",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8d2d5805a5dd118e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Index_of_TIM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d2d5805a5dd118e",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8d2d5805a5dd118e",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -93,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
+                "file": "_Index_of_TIM.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -126,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
+                "file": "_Index_of_TIM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md"
+                "file": "_Index_of_TIM.md"
               }
             },
             "pane-relief:history-v1": {
@@ -240,7 +294,7 @@
             }
           },
           {
-            "id": "b049c211a041a324",
+            "id": "e490fc389f6ed736",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -248,7 +302,7 @@
             }
           },
           {
-            "id": "c6bc5822d14bb205",
+            "id": "840c0b1bdc873533",
             "type": "leaf",
             "state": {
               "type": "BC-stats",
@@ -256,7 +310,7 @@
             }
           },
           {
-            "id": "2485d9c6d39a9b17",
+            "id": "2fa4437deeef0a62",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -276,7 +330,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Our brain will do anything it can to protect itself.md",
+                "file": "_Index_of_TIM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -386,17 +440,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "3695804ed04f24ef",
+  "active": "8d2d5805a5dd118e",
   "lastOpenFiles": [
+    "_Index_of_TIM.md",
+    "30_Topics/_Index_of_30_Topics.md",
+    "50_Projects/_Index_of_50_Projects.md",
+    "30_Topics/35_Outlines/_Index_of_35_Outlines.md",
+    "30_Topics/31_Stubs/_Index_of_31_Stubs.md",
+    "10_Sources/course_Psychology of Race and Gender.md",
     "40_Evergreens/Our brain will do anything it can to protect itself.md",
     "30_Topics/32_Terms/conscious.md",
     "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
-    "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
-    "20_Entry/209 Notepad.md",
-    "40_Evergreens/The most reliable path to success is repeatedly trying to succeed.md",
-    "40_Evergreens/People are radicalized when they are convinced that change is out of their control.md",
-    "20_Entry/24 Vault Stats/Graph Timeline.md",
-    "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
-    "40_Evergreens/Time is a valuable mode in a second brain.md"
+    "40_Evergreens/The history of meditation is a mixture of science and spirituality.md"
   ]
 }
