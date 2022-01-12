@@ -16,13 +16,19 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "3695804ed04f24ef",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/conscious.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "3695804ed04f24ef",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our brain will do anything it can to protect itself.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":12.253786899881463}"
             },
             {
               "leaf": "3695804ed04f24ef",
@@ -145,13 +151,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 387,
-    "collapsed": true
+    "width": 387
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -385,6 +389,7 @@
   "active": "3695804ed04f24ef",
   "lastOpenFiles": [
     "40_Evergreens/Our brain will do anything it can to protect itself.md",
+    "30_Topics/32_Terms/conscious.md",
     "40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md",
     "40_Evergreens/The history of meditation is a mixture of science and spirituality.md",
     "20_Entry/209 Notepad.md",
@@ -392,7 +397,6 @@
     "40_Evergreens/People are radicalized when they are convinced that change is out of their control.md",
     "20_Entry/24 Vault Stats/Graph Timeline.md",
     "40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md",
-    "40_Evergreens/Time is a valuable mode in a second brain.md",
-    "40_Evergreens/A second brain should be an extension of your thought.md"
+    "40_Evergreens/Time is a valuable mode in a second brain.md"
   ]
 }

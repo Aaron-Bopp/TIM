@@ -19,5 +19,6 @@
   "delimiterToHideSuggestion": "",
   "caretLocationSymbolAfterComplement": "",
   "additionalCycleThroughSuggestionsKeys": "Mod+J/Mod+K",
-  "onlyComplementEnglishOnCurrentFileComplement": false
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "suggestInternalLinkWithAlias": true
 }
