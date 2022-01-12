@@ -7,12 +7,23 @@
         "id": "a69155241aef6014",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "30_Topics/32_Terms/Welfare trap.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "a69155241aef6014",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/Welfare trap.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":241},\"to\":{\"line\":8,\"ch\":241}}}"
+            },
             {
               "leaf": "a69155241aef6014",
               "group": null,
@@ -70,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "30_Topics/32_Terms/Welfare trap.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -102,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "30_Topics/32_Terms/Welfare trap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "30_Topics/32_Terms/Welfare trap.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -249,6 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "30_Topics/32_Terms/Welfare trap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -360,6 +376,7 @@
   },
   "active": "a69155241aef6014",
   "lastOpenFiles": [
+    "30_Topics/32_Terms/Welfare trap.md",
     "20_Entry/209 Notepad.md",
     "50_Projects/_Index_of_50_Projects.md",
     "30_Topics/_Index_of_30_Topics.md",
@@ -368,7 +385,6 @@
     "30_Topics/35_Outlines/_Index_of_35_Outlines.md",
     "30_Topics/34_People/_Index_of_34_People.md",
     "30_Topics/33_Tools/_Index_of_33_Tools.md",
-    "20_Entry/_Index_of_20_Entry.md",
-    "20_Entry/25 TODO/_Index_of_25 TODO.md"
+    "20_Entry/_Index_of_20_Entry.md"
   ]
 }

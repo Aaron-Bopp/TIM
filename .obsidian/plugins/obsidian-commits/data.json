@@ -12424,14 +12424,19 @@
       "size": 1014,
       "tags": 2,
       "links": 2
+    },
+    "30_Topics/32_Terms/Welfare trap.md": {
+      "size": 563,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 4542,
-      "Create": 4737,
-      "Link": 7516,
-      "Expand": 929
+      "Create": 4738,
+      "Link": 7517,
+      "Expand": 930
     },
     "40_Evergreens": {
       "Refactor": 359,
@@ -12455,7 +12460,7 @@
       "10": 619,
       "11": 2608,
       "12": 655,
-      "13": 380,
+      "13": 383,
       "14": 2447,
       "15": 276,
       "16": 1320,
@@ -12498,7 +12503,7 @@
     "/": {
       "Mon": 502,
       "Tue": 4399,
-      "Wed": 3788,
+      "Wed": 3791,
       "Thu": 2263,
       "Fri": 729,
       "Sat": 0,
@@ -12517,6 +12522,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Welfare trap.md\"> Welfare trap </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/stub notes.md\"> stub notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Separate stub notes from the rest of your vault so you don't get overwhelmed.md\"> Separate stub notes from the rest of your vault so you don't get overwhelmed </a>",
@@ -12566,10 +12572,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Sympathetic Nervous System.md\"> Sympathetic Nervous System </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Theravada Buddhism.md\"> Theravada Buddhism </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Turmeric.md\"> Turmeric </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ventral Medial Prefrontal Cortex.md\"> Ventral Medial Prefrontal Cortex </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Vidya.md\"> Vidya </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ventral Medial Prefrontal Cortex.md\"> Ventral Medial Prefrontal Cortex </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Welfare trap.md\"> Welfare trap </a>",
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>",
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Science/_Index_of_Science.md\"> _Index_of_Science </a>",
@@ -12619,8 +12625,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/_Index_of_20_Entry.md\"> _Index_of_20_Entry </a>",
         "<a class=\"internal-link\" href=\"10_Sources/_Index_of_10_Sources.md\"> _Index_of_10_Sources </a>",
         "<a class=\"internal-link\" href=\"00_Meta/_Index_of_00_Meta.md\"> _Index_of_00_Meta </a>",
-        "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>",
-        "<a class=\"internal-link\" href=\"Pattern matching is a fundamental part of learning.md\"> Pattern matching is a fundamental part of learning </a>"
+        "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/survivorship bias.md\"> survivorship bias </a>",
@@ -12676,6 +12681,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/course_Psychology of Race and Gender.md\"> course_Psychology of Race and Gender </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Welfare trap.md\"> Welfare trap </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our brain will do anything it can to protect itself.md\"> Our brain will do anything it can to protect itself </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Growing up is being able to articulate the hope more than the hopelessness.md\"> Growing up is being able to articulate the hope more than the hopelessness </a>",
@@ -12725,8 +12731,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoWhat is Ego.md\"> videoWhat is Ego </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/Word count Evergreens.md\"> Word count Evergreens </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/_Index_of_Comp Sci.md\"> _Index_of_Comp Sci </a>",
