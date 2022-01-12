@@ -13,7 +13,7 @@ sr-ease: 227
 #TO/TEND/CREATE this bridge note
 %%
 
-Possibly an answer to [[What is the **cognitive** effect of living in an unjust world]]
+Possibly an answer to [[What is the cognitive effect of living in an unjust world]]
 - [[Evolutionary Psychology]]
 	- [[Our brains are built around survival]]
 	- [[The brain is powerful enough to create supernatural experiences]]
