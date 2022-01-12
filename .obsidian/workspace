@@ -9,20 +9,32 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/33_Tools/Obsidian (software).md",
+            "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "5446a0c8ab0112b9",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":47},\"to\":{\"line\":13,\"ch\":47}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5446a0c8ab0112b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5446a0c8ab0112b9",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/33_Tools/Obsidian (software).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":25.911288219361694}"
             },
             {
               "leaf": "5446a0c8ab0112b9",
@@ -58,6 +70,27 @@
               "leaf": "5446a0c8ab0112b9",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "a3beb7f114766601",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a3beb7f114766601",
+              "group": null,
+              "state": "{\"type\":\"juggl_view\",\"state\":{},\"pinned\":true}",
               "eState": "{}"
             }
           ]
@@ -111,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/33_Tools/Obsidian (software).md",
+                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -144,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/33_Tools/Obsidian (software).md",
+                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/33_Tools/Obsidian (software).md"
+                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md"
               }
             },
             "pane-relief:history-v1": {
@@ -293,9 +326,25 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "bb0440ba70595c10",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "6afbfed7792d1c32",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       },
       {
         "id": "84f4f33f118f4527",
@@ -307,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/33_Tools/Obsidian (software).md",
+                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -414,10 +463,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706
+    "width": 706,
+    "collapsed": true
   },
   "active": "5446a0c8ab0112b9",
   "lastOpenFiles": [
+    "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+    "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
     "30_Topics/33_Tools/Obsidian (software).md",
     "20_Entry/209 Notepad.md",
     "40_Evergreens/Meditation increases our ability to influence the world.md",
@@ -425,8 +477,6 @@
     "30_Topics/37_Techniques/Converting existing file formats to plaintext.md",
     "40_Evergreens/Worlds views should be open ended and adaptive.md",
     "40_Evergreens/The ethnic makeup of a community is a significant driver of change.md",
-    "40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md",
-    "40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md",
-    "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md"
+    "40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md"
   ]
 }

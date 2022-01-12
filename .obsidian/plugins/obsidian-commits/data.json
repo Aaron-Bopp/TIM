@@ -8123,7 +8123,7 @@
     "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md": {
       "size": 1725,
       "tags": 4,
-      "links": 27
+      "links": 29
     },
     "10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md": {
       "size": 894,
@@ -12430,13 +12430,13 @@
     "/": {
       "Refactor": 4549,
       "Create": 4738,
-      "Link": 7541,
+      "Link": 7543,
       "Expand": 937
     },
     "40_Evergreens": {
       "Refactor": 366,
       "Create": 64,
-      "Link": 1105,
+      "Link": 1107,
       "Expand": 413
     }
   },
@@ -12459,7 +12459,7 @@
       "14": 2457,
       "15": 304,
       "16": 1320,
-      "17": 2807,
+      "17": 2809,
       "18": 2305,
       "19": 523,
       "20": 265,
@@ -12485,7 +12485,7 @@
       "14": 131,
       "15": 61,
       "16": 109,
-      "17": 340,
+      "17": 342,
       "18": 25,
       "19": 99,
       "20": 63,
@@ -12498,7 +12498,7 @@
     "/": {
       "Mon": 502,
       "Tue": 4399,
-      "Wed": 3829,
+      "Wed": 3831,
       "Thu": 2263,
       "Fri": 729,
       "Sat": 0,
@@ -12507,7 +12507,7 @@
     "40_Evergreens": {
       "Mon": 180,
       "Tue": 340,
-      "Wed": 276,
+      "Wed": 278,
       "Thu": 312,
       "Fri": 186,
       "Sat": 0,
@@ -12835,6 +12835,8 @@
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
@@ -12883,9 +12885,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/25 TODO/_Index_of_25 TODO.md\"> _Index_of_25 TODO </a>",
         "<a class=\"internal-link\" href=\"20_Entry/_Index_of_20_Entry.md\"> _Index_of_20_Entry </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/_Index_of_31_Stubs.md\"> _Index_of_31_Stubs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/_Index_of_32_Terms.md\"> _Index_of_32_Terms </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/33_Tools/_Index_of_33_Tools.md\"> _Index_of_33_Tools </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/34_People/_Index_of_34_People.md\"> _Index_of_34_People </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/_Index_of_32_Terms.md\"> _Index_of_32_Terms </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -13268,6 +13268,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
@@ -13316,9 +13318,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Hard rules create cognitive bias.md\"> Hard rules create cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Names matter because they effect people's perception and understanding.md\"> Names matter because they effect people's perception and understanding </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",

@@ -35,5 +35,5 @@ sr-ease: 150
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**::  [[Christianity]], [[worldview]], [[belief systems]], [[human experience]], [[inter-personal communication]]
+**Topics**::  [[Christianity]], [[worldview]], [[belief systems]], [[human experience]], [[inter-personal communication]], [[religion]], [[belief]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
