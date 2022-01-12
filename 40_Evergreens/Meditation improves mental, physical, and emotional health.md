@@ -3,12 +3,12 @@ created: 2022-01-02T09:04:12
 aliases:
   - null
 tags: created/evergreen/2022/01/02, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 1
+sr-due: 2022-01-19
+sr-interval: 7
 sr-ease: 190
 ---
 
-#### [[Meditation improves mental, physical, and emotional health]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[meditation improves mental, physical, and emotional health]] `$=customjs.dv_funcs.evergreenheader(dv, this)`
 
 [[Mental health is a reaction to one's environment]] and the [[mind-body complex]] is a interconnected web of [[hormone]]s, [[emotions]], [[Neurotransmitter]]s and so much more.
 ^[[[notes_Brain Gut Axis]]]

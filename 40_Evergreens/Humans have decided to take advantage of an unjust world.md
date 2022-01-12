@@ -3,9 +3,9 @@ created: 2021-12-24
 aliases:
   - null
 tags: created/evergreen/2021/12/24, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 3
-sr-ease: 170
+sr-due: 2022-01-17
+sr-interval: 5
+sr-ease: 150
 ---
 
 #### [[Humans have decided to take advantage of an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

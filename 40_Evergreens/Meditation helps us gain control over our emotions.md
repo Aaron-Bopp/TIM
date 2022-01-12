@@ -3,9 +3,9 @@ created: 2022-01-01T02:08:12
 aliases:
   - null
 tags: created/evergreen/2022/01/01, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 3
-sr-ease: 210
+sr-due: 2022-01-14
+sr-interval: 2
+sr-ease: 190
 ---
 
 #### [[Meditation helps us gain control over our emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

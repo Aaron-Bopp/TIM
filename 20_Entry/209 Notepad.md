@@ -1,3 +1,11 @@
+#TO/EXPLORE/RESEARCH 
+> On a related note, I think the process of realizing what’s relevant for a particular difficult problem is also another way to say “that’s an insight”. I’ve read a bit into the Insight Problem Solving literature, and insight can be thought of as a representational change that leads to solutions, which is maybe a more rigorous way to say that “you suddenly notice what’s relevant to the problem at hand”.
+> 
+> There are two (among several) widely known mechanisms that lead to insights - the kind of insights you can study in labs through nine-dots problems and the like, they are: constraint relaxation and chunk decomposition.
+> 
+> Making notes is, in a sense, externalizing representations, which means you can better detect constraints that are being imposed unnecessarily. Interconnected notes is a way to facilitate chunk decomposition, because an Evergreen note is similar to a chunk in that you can decompose it into other chunks which can help reconfigure your representation - or how you look at a problem. I think that’s how practicing PKM can facilitate the processes that yield insights.
+>
+> -  [What has your PKM actually help you achieve? - #12 by minhthanh3145 - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/what-has-your-pkm-actually-help-you-achieve/30249/12?u=abopp)
 
 #TO/PROGRAM [[articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium|How To Export Podcast Highlights To Obsidian | Snipd | Medium]]
 

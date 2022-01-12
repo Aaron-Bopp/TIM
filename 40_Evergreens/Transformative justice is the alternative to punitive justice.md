@@ -3,8 +3,8 @@ created: 2021-08-14
 tags: created/evergreen/2021/08/14, node/evergreen
 aliases:
   - null
-sr-due: 2022-01-07
-sr-interval: 34
+sr-due: 2022-03-30
+sr-interval: 77
 sr-ease: 210
 ---
 
@@ -21,7 +21,7 @@ Transformative justice is focused on building support and safety for victims thr
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[justice]], [[Civil Rights]], 
+**Topics**:: [[justice]], [[Civil Rights]], [[social progress]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: ![[articles_Summary, part 3 & 4 We Do This 'Til We Free Us Study Guide — Radical in Progress#212893827]]

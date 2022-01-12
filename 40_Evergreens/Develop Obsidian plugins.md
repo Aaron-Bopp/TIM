@@ -5,8 +5,8 @@ aliases:
   - developing obsidian plugins
   - Plugin Ideas
 tags: created/evergreen/2021/10/23, node/evergreen, node/topic/technique
-sr-due: 2022-01-07
-sr-interval: 16
+sr-due: 2022-02-27
+sr-interval: 46
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

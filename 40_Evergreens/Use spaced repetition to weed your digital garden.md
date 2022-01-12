@@ -3,8 +3,8 @@ created: 2021-11-25
 aliases:
   - null
 tags: created/evergreen/2021/11/25, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 24
+sr-due: 2022-03-12
+sr-interval: 59
 sr-ease: 224
 ---
 
@@ -23,5 +23,5 @@ Making weeding part of your [[spaced repetition]] process will likely mean that 
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[spaced repetition]]
+**Topics**:: [[spaced repetition]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

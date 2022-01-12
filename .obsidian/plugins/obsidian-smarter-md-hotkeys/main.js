@@ -53,7 +53,7 @@ __export(exports, {
 });
 
 // const.ts
-var DEBUGGING = false;
+var DEBUGGING = true;
 var COMMANDS = [
   {
     id: "smarter-asterisk-bold",
@@ -122,6 +122,12 @@ var COMMANDS = [
     after: "]()"
   },
   {
+    id: "smarter-math",
+    name: "Smarter Mathjax",
+    before: "$",
+    after: "$"
+  },
+  {
     id: "smarter-quotation-marks",
     name: "Smarter Quotation Mark",
     before: '"',
@@ -170,7 +176,11 @@ var EXPANDWHENOUTSIDE = [
   ["#", ""],
   ["[[", "]]"],
   ['"', '"'],
-  ["'", "'"]
+  ["'", "'"],
+  ["(", ")"],
+  ["[", "]"],
+  ["$", ""],
+  ["", "\u20AC"]
 ];
 var IMAGEEXTENSIONS = [
   "png",
@@ -214,7 +224,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         const charsAfter = editor.getRange(offToPos(eo), offToPos(eo + aft.length));
         return charsBefore === bef && charsAfter === aft;
       }
-      const multiLineMarkup = () => ["`", "%%", "<!--"].includes(frontMarkup);
+      const multiLineMarkup = () => ["`", "%%", "<!--", "$"].includes(frontMarkup);
       const markupOutsideSel = () => isOutsideSel(frontMarkup, endMarkup);
       function markupOutsideMultiline(anchor, head) {
         if (anchor.line === 0)
@@ -397,6 +407,11 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
           endMarkup = "```";
           alen = 3;
           blen = 3;
+        } else if (frontMarkup === "$") {
+          frontMarkup = "$$";
+          endMarkup = "$$";
+          alen = 2;
+          blen = 2;
         }
         if (!markupOutsideMultiline(selAnchor, selHead)) {
           editor.setSelection(selAnchor);
@@ -412,7 +427,7 @@ var SmarterMDhotkeys = class extends import_obsidian.Plugin {
         }
         if (markupOutsideMultiline(selAnchor, selHead)) {
           deleteLine(selAnchor.line - 1);
-          deleteLine(selHead.line + 1);
+          deleteLine(selHead.line);
         }
       }
       function insertURLtoMDLink() {

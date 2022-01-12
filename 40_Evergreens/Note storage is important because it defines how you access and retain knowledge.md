@@ -3,8 +3,8 @@ created: 2021-07-03
 tags: created/evergreen/2021/07/03, node/evergreen
 aliases:
   - null
-sr-due: 2022-01-07
-sr-interval: 10
+sr-due: 2022-02-10
+sr-interval: 29
 sr-ease: 230
 ---
 
@@ -15,6 +15,8 @@ sr-ease: 230
 - [[Only use organization systems as far as they are useful]]
 - [[Organization systems are not mutually exclusive]]
 - [[Prioritize organization over categorization to avoid cognitive bias]]
+
+#TO/WRITE thoughts about folders, portability, organization, inter-operability
 %%
 Possible tools:
 - [[Obsidian (software)]] [^1]

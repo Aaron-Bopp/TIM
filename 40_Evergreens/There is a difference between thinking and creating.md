@@ -16,7 +16,7 @@ Many task requires thought, remembering how you did something before, understand
  - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
  - [[Evergreen notes organize knowledge so that it can grow]]
  - [[Note taking is a spectrum from purely reproductive to purely productive]]
- - [[Writing is the catalyst of understanding]]
+ - [[Writing is a catalyst of understanding]]
  - [[Our understanding of gender begins at a very early age]]
  - [[Humans transfer their wonder into creativity]]
  - [[Humans try really hard to avoid understanding their mistakes]]

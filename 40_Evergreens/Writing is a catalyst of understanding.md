@@ -8,7 +8,7 @@ sr-interval: 1
 sr-ease: 170
 ---
 
-#### [[Writing is the catalyst of understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Writing is a catalyst of understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - Why is this? some people can't think unless they are writing #TO/DO/CITE  
 	- Writing is [[friction]] that forces you to articulate your [[understanding]]

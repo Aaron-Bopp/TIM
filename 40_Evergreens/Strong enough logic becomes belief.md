@@ -3,13 +3,14 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/evergreen/2021/12/31, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 2
+sr-due: 2022-01-22
+sr-interval: 10
 sr-ease: 170
 ---
 
 #### [[Strong enough logic becomes belief]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/PONDER/CONCEPT 
 %%Who?
 - Scientists 
 - [[Dr. K]]

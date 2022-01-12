@@ -12,7 +12,7 @@ sr-ease: 170
 
 - [[notes_Vidya and Jnana]]
 - [[We learn by transforming information into understanding]]
-- [[Writing is the catalyst of understanding]]
+- [[Writing is a catalyst of understanding]]
 - [[Humans try really hard to avoid understanding their mistakes]]
 
 - [[Evergreen notes organize knowledge so that it can grow]]

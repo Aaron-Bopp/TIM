@@ -3,8 +3,8 @@ created: 2022-01-01T02:36:24
 aliases:
   - null
 tags: created/evergreen/2022/01/01, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 1
+sr-due: 2022-01-18
+sr-interval: 6
 sr-ease: 150
 ---
 
@@ -16,13 +16,12 @@ or being overly logical,
 ^[[[Rationalizations are defense-mechanisms against strong emotions]]]
 which ultimately lead to an overactive [[ego]] that prevents use from processing our the repressed [[emotions]].
 ^[[[Our ego is our subconscious defense of our self]]]
-
 We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and directly accessing our [[unconscious]].
 
 ![[Pasted image 20211231162422.png]]
 ^[[[notes_Intro to Mantra Practice]]]
 
-See the [[unconscious]] [[mind]] preventing our [[conscious]] mind from accessing those memories directly.
+See the [[unconscious]] [[mind]] preventing our [[conscious]] mind from accessing those memories directly. %%#TO/PROGRAM figcaption%%
 
 This isn't an easy process, as the [[ego]] will be trying it's hardest to protect it's current state.
 This process requires introspection and [[observation]] of your [[mind-body complex]] and it's processes.
@@ -31,7 +30,8 @@ This process requires introspection and [[observation]] of your [[mind-body comp
 ^[[[notes_Shuddhi]]]
 
 Remember, [[Our brain will do anything it can to protect itself]]
-and [[Working through trauma can involve of a lot of letting go]].
+and [[Working through trauma can involve of a lot of letting go]],
+so it is important to understand
 [[How to process repressed emotions]]
  
 ### <hr class="footnote"/>

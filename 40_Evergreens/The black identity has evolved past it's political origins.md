@@ -3,8 +3,8 @@ created: 2021-12-18
 aliases:
   - null
 tags: created/evergreen/2021/12/18, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 3
+sr-due: 2022-01-25
+sr-interval: 13
 sr-ease: 214
 ---
 
@@ -14,7 +14,6 @@ The black identity is political because [[Whiteness was created to marginalize p
 
 [[Colonization and slavery lead to generational disparities in black communities]], and [[Insecure material conditions increase cognitive load and reduce outcomes]] have lead to population wide [[inter-generational trauma]].
 [[Stereotype threat]] and [[Microaggressions]] create common experiences among [[black people]] in [[America]] and across the world.
- 
 
 ### <hr class="footnote"/>
 

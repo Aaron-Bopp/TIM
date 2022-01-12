@@ -3,17 +3,18 @@ created: 2021-12-28
 aliases:
   - null
 tags: created/evergreen/2021/12/28, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 2
+sr-due: 2022-01-21
+sr-interval: 9
 sr-ease: 170
 ---
 
 #### [[Consciousness is the fundamental unit of existence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=4336)
+%% #TO/EXPLORE/WATCH  [Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=4336)%%
 
-Ancient [[yoga|Yogic]] tradition offers an alternative to traditional [[Western philosophy|western]] creation myths such as [[Christianity]]'s. Instead of an all-powerful, all-knowing, and frankly problematic god, 
-^[[[The biblical Christian God is evil and does not deserve to be worshipped]]]
+Ancient [[yoga|Yogic]] tradition offers an alternative to traditional [[Western philosophy|western]] creation myths such as [[Christianity]]'s. Instead of an all-powerful, all-knowing 
+^[and frankly problematic [[The biblical Christian God is evil and does not deserve to be worshipped]]]
+god,
 the universe was formed from an [[infinite]] sea of [[conscious|consciousness]] called [[Brahman]].
 
 This sea coalesced to become [[energy]] which coalesced to become [[matter]].
@@ -21,9 +22,9 @@ This sea coalesced to become [[energy]] which coalesced to become [[matter]].
 This is how [[Meditation increases our ability to influence the world#On a spiritual level]],
 and is surprisingly similar to the modern theory of [[the Big Bang]].
 
-#TO/DO/FIND  quote "I think therefore I am"
+#TO/DO/CITE  quote "I think therefore I am"
 
-%% #TO/TEND/WEED The only thing we can truly know is real is our [[perception]]. Our [[conscious|consciousness]] is the only thing we can guarantee. Yet our [[conscious]] is limited by our [[mind-body complex]].%%
+%% #TO/TEND/WEED #TO/PONDER #TO/EXPLORE/RESEARCH The only thing we can truly know is real is our [[perception]]. Our [[conscious|consciousness]] is the only thing we can guarantee. Yet our [[conscious]] is limited by our [[mind-body complex]].%%
 [[Consciousness is our capacity to introspect]],
 as you become less trapped in your mind, you become more [[conscious]]:
 [[Meditation is a practice to develop a stronger conscious]]

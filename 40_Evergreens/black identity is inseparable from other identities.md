@@ -3,9 +3,9 @@ created: 2021-12-18
 aliases:
   - null
 tags: created/evergreen/2021/12/18, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 3
-sr-ease: 190
+sr-due: 2022-01-14
+sr-interval: 2
+sr-ease: 170
 ---
 
 #### [[Black identity is inseparable from other identities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,5 +18,5 @@ sr-ease: 190
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[racism]], [[self-actualization]]
+**Topics**:: [[racism]], [[self-actualization]], [[intersectionality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

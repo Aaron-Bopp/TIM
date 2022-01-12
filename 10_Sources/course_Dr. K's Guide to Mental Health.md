@@ -51,7 +51,7 @@ type:
 - [[We learn by transforming information into understanding]]
 	- [[notes_Knowledge of the Mind]]
 	- [[notes_Vidya and Jnana]]
-- [[Purpose is derived from within duty is derived from without]]
+- [[Purpose is derived from within, duty is derived from without]]
 	- [[notes_Karma]]
 	- [[notes_Dharma]]
 	- [[notes_Dukkha]]

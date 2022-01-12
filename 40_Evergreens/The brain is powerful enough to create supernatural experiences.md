@@ -1,14 +1,14 @@
 ---
 created: 2021-06-28
 tags: created/evergreen/2021/06/28, node/evergreen
-sr-due: 2022-01-07
-sr-interval: 14
+sr-due: 2022-02-16
+sr-interval: 35
 sr-ease: 210
 ---
 
 #### [[The brain is powerful enough to create supernatural experiences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-These experiences have often been core to [[human advancement]] and [[self-actualization]], resulting in [[religion]] and [[enlightenment]]. The brain's ability to bring about a [[spirituality|spiritual]] [[experience]] is an observable fact rooted in [[biology]] and [[Neuroscience]] (and is the effect of many psychedelic drugs).
+These experiences have often been core to [[human advancement]] and [[self-actualization]], resulting in [[religion]] and [[enlightenment]]. The brain's ability to bring about a [[spirituality|spiritual]] [[experience]] is an observable fact rooted in [[biology]] and [[Neuroscience]] (and is the effect of many psychedelic drugs). #TO/DO/CITE 
 
 [[Humans are primarily irrational, illogical, emotional beings]], when we don't understand something we will explain it, [^1] and when something really doesn't make sense, we make a [[religion]] out of it. [^2] Supernatural experiences could just be our bodies way of explaining something so that we can move on a survive: [[Our brain will do anything it can to protect itself]] 
 

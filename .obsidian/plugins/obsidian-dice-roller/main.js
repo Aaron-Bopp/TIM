@@ -3049,7 +3049,7 @@ ${this.path} > ${this.block}${this.header ? " | " + this.header : ""}`;
       if (this.plugin.data.displayResultsInline) {
         result.unshift(this.inlineText);
       }
-      yield import_obsidian4.MarkdownRenderer.renderMarkdown(result.join(""), this.resultEl.createSpan("embedded-table-result"), this.source, null);
+      import_obsidian4.MarkdownRenderer.renderMarkdown(result.join(""), this.resultEl.createSpan("embedded-table-result"), this.source, null);
     });
   }
   getResult() {
@@ -34811,7 +34811,7 @@ var DiceRollerPlugin = class extends import_obsidian8.Plugin {
                   new import_obsidian8.Notice("Dice Roller: There was an issue modifying the file.");
                   return;
                 }
-                const rep = showFormula ? `${roller.inlineText} **${replacer}**` : `**${replacer}**`;
+                const rep = showFormula ? `${roller.inlineText} **${replacer}**` : `${replacer}`;
                 splitContent = splitContent.join("\n").replace(`\`${full}\``, rep).split("\n");
                 fileContent.splice(info.lineStart, info.lineEnd - info.lineStart + 1, ...splitContent);
                 yield this.app.vault.modify(file, fileContent.join("\n"));

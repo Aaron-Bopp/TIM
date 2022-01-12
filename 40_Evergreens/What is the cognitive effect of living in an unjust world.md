@@ -23,6 +23,10 @@ Possible Answers:
 - [[Our brain will do anything it can to protect itself]]
 - [[The injustice of endurance]]
 - [[Stupid rules are made to be broken]]
+- [[Humans have decided to take advantage of an unjust world]]
+- [[Humans try really hard to avoid understanding their mistakes]]
+- [[Humans long to know what to do]]
+- [[Humans are addicted to believing]]
 
 Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different forms:
 - [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else

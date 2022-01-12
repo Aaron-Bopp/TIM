@@ -3,9 +3,9 @@ created: 2022-01-05T16:41:14
 aliases:
   - null
 tags: created/evergreen/2022/01/05, node/evergreen
-sr-due: 2022-01-07
+sr-due: 2022-01-13
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[Sticky concepts connect disparate ideas]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -13,7 +13,7 @@ sr-ease: 210
 [[Sticky concepts]] are terms that can apply to many different processes, and because of that they can connect ideas in unique ways. This causes that to stick in our [[brain]] because of [[How memory works]]
 
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
-- [[Writing is the catalyst of understanding]]
+- [[Writing is a catalyst of understanding]]
 - [[There is a difference between thinking and creating]]
 - [[Nodes in the second brain are an abstraction of our first brain]]
  

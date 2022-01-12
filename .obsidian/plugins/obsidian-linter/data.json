@@ -22,7 +22,7 @@
       "Inserts the file name as a H1 heading if no H1 heading exists.": false
     },
     "Capitalize Headings": {
-      "Headings should be formatted with capitalization": true,
+      "Headings should be formatted with capitalization": false,
       "Style": "First Letter",
       "Ignore Cased Words": true,
       "Ignore Words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript, dv, this",

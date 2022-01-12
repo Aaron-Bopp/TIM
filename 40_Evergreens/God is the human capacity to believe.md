@@ -10,11 +10,13 @@ sr-ease: 230
 
 #### [[God is the human capacity to believe]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+What is the nature of god? God is a social construction. God is our [[understanding]] of the things we cannot understand. 
 
 - [[The materialistic view of religions examines why humans invented and clung to religion]]
 - [[Humans are addicted to believing]]
 - [[Belief pulls you forward into life]]
 - [[Humans have decided to reject an unjust world]]
+- [[Worlds views should be open ended and adaptive]]
 - [[Strong enough logic becomes belief]] 
 
 ### <hr class="footnote"/>
@@ -22,7 +24,5 @@ sr-ease: 230
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[belief]], [[]]
+**Topics**:: [[belief]], [[spirituality]], [[belief systems]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

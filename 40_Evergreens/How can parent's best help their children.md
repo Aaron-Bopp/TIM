@@ -3,13 +3,14 @@ created: 2021-11-08
 aliases:
   - null
 tags: created/evergreen/2021/11/08, node/evergreen, node/question, 
-sr-due: 2022-01-07
-sr-interval: 30
+sr-due: 2022-03-19
+sr-interval: 66
 sr-ease: 206
 ---
 
 #### [[How can parent's best help their children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/EXPLORE/WATCH 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ZOjFdNiH2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [[Parents need to model the ability to deal with emotion to their children]]
