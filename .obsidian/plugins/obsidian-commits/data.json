@@ -11268,7 +11268,7 @@
     "30_Topics/31_Stubs/belief.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "40_Evergreens/Time is a valuable mode in a second brain.md": {
       "size": 1060,
@@ -12424,13 +12424,33 @@
       "size": 1643,
       "tags": 4,
       "links": 15
+    },
+    "Belief is detrimental.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "On a personal level.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "On a societal level.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Belief is productive.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4549,
-      "Create": 4738,
-      "Link": 7545,
+      "Refactor": 4550,
+      "Create": 4742,
+      "Link": 7555,
       "Expand": 940
     },
     "40_Evergreens": {
@@ -12461,8 +12481,8 @@
       "16": 1320,
       "17": 2809,
       "18": 2310,
-      "19": 523,
-      "20": 265,
+      "19": 537,
+      "20": 266,
       "21": 880,
       "22": 651,
       "23": 443
@@ -12498,7 +12518,7 @@
     "/": {
       "Mon": 502,
       "Tue": 4399,
-      "Wed": 3836,
+      "Wed": 3851,
       "Thu": 2263,
       "Fri": 729,
       "Sat": 0,
@@ -12570,6 +12590,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MDD.md\"> MDD </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"On a societal level.md\"> On a societal level </a>",
+        "<a class=\"internal-link\" href=\"On a personal level.md\"> On a personal level </a>",
+        "<a class=\"internal-link\" href=\"Belief is detrimental.md\"> Belief is detrimental </a>",
+        "<a class=\"internal-link\" href=\"Belief is good.md\"> Belief is good </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Welfare trap.md\"> Welfare trap </a>",
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>",
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>",
@@ -12616,13 +12640,10 @@
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>",
         "<a class=\"internal-link\" href=\"50_Projects/_Index_of_50_Projects.md\"> _Index_of_50_Projects </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/_Index_of_30_Topics.md\"> _Index_of_30_Topics </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Index_of_20_Entry.md\"> _Index_of_20_Entry </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/_Index_of_10_Sources.md\"> _Index_of_10_Sources </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/_Index_of_00_Meta.md\"> _Index_of_00_Meta </a>",
-        "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/_Index_of_30_Topics.md\"> _Index_of_30_Topics </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Belief is productive.md\"> Belief is productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md\"> The actual path to being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>",
@@ -12672,10 +12693,13 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/OCD.md\"> OCD </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CNS.md\"> CNS </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CRF.md\"> CRF </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SNRI.md\"> SNRI </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/GAD.md\"> GAD </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SNRI.md\"> SNRI </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"On a personal level.md\"> On a personal level </a>",
+        "<a class=\"internal-link\" href=\"On a societal level.md\"> On a societal level </a>",
+        "<a class=\"internal-link\" href=\"Belief is good.md\"> Belief is good </a>",
+        "<a class=\"internal-link\" href=\"Belief is detrimental.md\"> Belief is detrimental </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md\"> Does cognitive dissonance increase your capacity for endurance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md\"> The actual path to being a good person isn't explored by Evangelicalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
@@ -12722,11 +12746,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Europe.md\"> Europe </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Asia.md\"> Asia </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/insomnia.md\"> insomnia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/herb.md\"> herb </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/medicine.md\"> medicine </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/fear.md\"> fear </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/tea.md\"> tea </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/drugs.md\"> drugs </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/herb.md\"> herb </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/_Index_of_Comp Sci.md\"> _Index_of_Comp Sci </a>",
@@ -12836,6 +12856,12 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
+        "<a class=\"internal-link\" href=\"Belief is good.md\"> Belief is good </a>",
+        "<a class=\"internal-link\" href=\"Belief is detrimental.md\"> Belief is detrimental </a>",
+        "<a class=\"internal-link\" href=\"On a personal level.md\"> On a personal level </a>",
+        "<a class=\"internal-link\" href=\"On a societal level.md\"> On a societal level </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
         "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
@@ -12879,13 +12905,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/_Index_of_Readwise.md\"> _Index_of_Readwise </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Religion/_Index_of_Religion.md\"> _Index_of_Religion </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Zotero/_Index_of_Zotero.md\"> _Index_of_Zotero </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/_Index_of_10_Sources.md\"> _Index_of_10_Sources </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/_Index_of_21 Inbox.md\"> _Index_of_21 Inbox </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/_Index_of_22 Note by status.md\"> _Index_of_22 Note by status </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/_Index_of_23 Note by type.md\"> _Index_of_23 Note by type </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/_Index_of_24 Vault Stats.md\"> _Index_of_24 Vault Stats </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/25 TODO/_Index_of_25 TODO.md\"> _Index_of_25 TODO </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Index_of_20_Entry.md\"> _Index_of_20_Entry </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/_Index_of_10_Sources.md\"> _Index_of_10_Sources </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",

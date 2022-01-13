@@ -16,7 +16,7 @@
       },
       "showInPane": true,
       "show": true,
-      "size": 0.804659090909091
+      "size": 1.55390909090909
     },
     {
       "filter": "EVER/GREEN",
@@ -29,7 +29,7 @@
       },
       "showInPane": true,
       "show": true,
-      "size": 2.28045454545455
+      "size": 2.46209090909091
     },
     {
       "filter": "EVER/SPROUT",
@@ -42,7 +42,7 @@
       },
       "showInPane": true,
       "show": true,
-      "size": 1.93988636363636
+      "size": 2.18963636363636
     },
     {
       "filter": "EVER/SEED",
@@ -55,7 +55,59 @@
       },
       "showInPane": true,
       "show": true,
-      "size": 1.37227272727273
+      "size": 2.09881818181818
+    },
+    {
+      "filter": "label/down",
+      "color": "black",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Arrow Down",
+        "path": "M11,4H13V16L18.5,10.5L19.92,11.92L12,19.84L4.08,11.92L5.5,10.5L11,16V4Z",
+        "color": "#1e00c8"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 10
+    },
+    {
+      "filter": "label/left",
+      "color": "black",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Arrow Left",
+        "path": "M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z",
+        "color": "#1e00c8"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 10
+    },
+    {
+      "filter": "label/right",
+      "color": "black",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Arrow Right",
+        "path": "M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z",
+        "color": "#1e00c8"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 10
+    },
+    {
+      "filter": "label/up",
+      "color": "#010108",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Arrow Up",
+        "path": "M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z",
+        "color": "#4c00ff"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 10
     }
   ],
   "globalGraphRibbon": true,

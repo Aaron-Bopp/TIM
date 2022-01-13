@@ -6,9 +6,12 @@ tags: created/topic/2021/12/31, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-![[Pasted image 20220112184357.png]]
+Y-axis: [[Belief is productive]] <--> [[Belief is detrimental]]
+X-axis: [[On a personal level]] <--> [[On a societal level]]
+
+
 ```juggl
-workspace: Belief GvB PvS
+workspace: BeliefMOC
 ```
 
 **See**::

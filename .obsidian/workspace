@@ -4,7 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "698734f1d0f42539",
+        "id": "b350af59aacd4039",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Belief is detrimental.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b350af59aacd4039",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Belief is detrimental.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b350af59aacd4039",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "b350af59aacd4039",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Belief is productive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "b350af59aacd4039",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b350af59aacd4039",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "6ef941fcaf4ba8f7",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -16,34 +64,10 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "698734f1d0f42539",
+              "leaf": "6ef941fcaf4ba8f7",
               "group": null,
               "state": "{\"type\":\"juggl_view\",\"state\":{},\"pinned\":true}",
               "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "4fcb88ca405483cb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/My Deconstruction journey.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "4fcb88ca405483cb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/faith.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -281,6 +305,10 @@
             "state": {
               "type": "juggl_nodes",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -289,10 +317,14 @@
             "state": {
               "type": "juggl_style",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "84f4f33f118f4527",
@@ -412,17 +444,17 @@
     "direction": "horizontal",
     "width": 706
   },
-  "active": "698734f1d0f42539",
+  "active": "6ef941fcaf4ba8f7",
   "lastOpenFiles": [
+    "Belief is detrimental.md",
+    "30_Topics/31_Stubs/belief.md",
+    "Belief is productive.md",
+    "On a personal level.md",
+    "On a societal level.md",
     "30_Topics/32_Terms/faith.md",
     "30_Topics/31_Stubs/belief systems.md",
     "30_Topics/31_Stubs/Buddhism.md",
-    "30_Topics/31_Stubs/belief.md",
     "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
-    "30_Topics/35_Outlines/religion.md",
-    "40_Evergreens/Worlds views should be open ended and adaptive.md",
-    "40_Evergreens/Single issue voters are anti-democratic.md",
-    "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
-    "40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md"
+    "30_Topics/35_Outlines/religion.md"
   ]
 }

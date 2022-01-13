@@ -133,6 +133,5 @@
   "shimmering-focus@@block-cursor": false,
   "shimmering-focus@@colored-yaml": true,
   "bubble-space@@bs-bubble-presets": "none",
-  "bubble-space@@bs-space-presets": "none",
-  "bubble-space@@hide-title": false
+  "bubble-space@@bs-space-presets": "none"
 }

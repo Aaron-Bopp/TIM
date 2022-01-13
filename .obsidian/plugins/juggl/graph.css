@@ -1,2 +1,10 @@
 
 /* For a full overview of styling options, see https://js.cytoscape.org/#style */
+.type-links {
+    line-color: rgb(32, 0, 212);
+    width: 5px;
+    length: 150%;
+    curve-style: straight;
+    line-opacity: 0.5;
+
+}
