@@ -10,7 +10,13 @@ sr-ease: 188
 
 #### [[Faith is an abstraction of cognitive dissonance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Just like [[Faith can be a useful tool for grounding yourself]] because it answers [[The three main questions of life]], it also abstracts the [[cognitive dissonance]] of life by answering them.
+
+"Be in the world not of the world because if you are of the world you start believing worldly things like evolution and that people who don't believe the same thing as me aren't inherently inferior"
+#TO/WRITE something about how we are born into this world not knowing anything, and are repeatedly told that everything has a meaning when it doesn't unless we give it a meaning
+The cognitive dissonance is that there is a loving god that has created this world, but the world we live in is unjust. 
+
+[[Faith can be a useful tool for grounding yourself]] because it answers [[The three main questions of life]], and in doing so it ignores the [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]]
+
 
 Christian's use faith as a shield to protect themselves from the horrors of the real world, and of their own creation.
 ^[[[The Politicization of the Christian Church]]] 

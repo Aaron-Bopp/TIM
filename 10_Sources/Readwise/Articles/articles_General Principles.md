@@ -105,3 +105,28 @@ deliveredBy:
 
 [^270313995]: https://users.speakeasy.net/~lion/nb/html/doc006.html?__readwiseLocation=0%2F302%3A0%2C0%2F303%3A584#:~:text=Next%3A%20Maps%20enable%20Strategy.%0A%0AYou%20can%2Cread%2C%20or%20what%20to%20write.
 
+# New highlights added January 12, 2022 at 10:18 PM
+##### ^270382487
+
+  
+###### ^270382487q
+> Maps are better than TOCs because:
+> • They are mentally uncoersive.
+> • They reveal structure in ways MOCs cannot.
+> • They enable Strategy.
+> • Incredible (useful) Subtlety 
+  [^270382487]
+
+[^270382487]: https://users.speakeasy.net/~lion/nb/html/doc006.html?__readwiseLocation=0%2F279%3A0%2C0%2F4%2F281%3A28#:~:text=Maps%20are%20better%20than%20TOCs%2Ccannot.%0AThey%20enable%20Strategy.%0AIncredible%20(useful)%20Subtlety
+
+##### ^270382714
+
+  
+###### ^270382714q
+> When you create a map, as per my system, you have two basic types of ``materials''.
+> You have your LINKS, ``Hard content'': That is, your speeds, your POI, your References, your whatever. Even other maps. Every thing you keep in your subject, appears as ``Hard content'' on your map.
+> Then you have your MAGNETS. These are words that ``pull'' on the hard content. They build your structure. 
+  [^270382714]
+
+[^270382714]: https://users.speakeasy.net/~lion/nb/html/doc006.html?__readwiseLocation=0%2F311%3A0%2C0%2F313%3A105#:~:text=When%20you%20create%20a%20map%2C%2Chard%0Acontent.%20They%20build%20your%20structure.
+

@@ -1,7 +1,7 @@
 ---
 created: 2021-10-19
 aliases:
-  - null
+  - Evangelicalism doesn't explore the path to being a good person
 tags: created/evergreen/2021/10/19, node/evergreen
 sr-due: 2022-01-18
 sr-interval: 6

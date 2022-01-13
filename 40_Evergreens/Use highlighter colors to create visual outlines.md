@@ -17,6 +17,7 @@ This is especially effective in academic research papers, as they will usually c
 - Undermines hypothesis: Red
 - Methods: Purple
 
+![[articles_General Principles#270306743q]]
 [[How to read to understand]]
 
 When using a [[knowledge graph]], brightness can be used to do this. Coloring the nodes that you find most valuable brighter will draw your eyes to those areas, and emphasize the growing areas of though: [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]] #TO/TEND/CONCEPTUALIZE 

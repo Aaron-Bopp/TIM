@@ -8,7 +8,6 @@ sr-ease: 212
 
 #### [[Non-faith issues have been co-opted to keep people in the Christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-%% #TO/TEND/MULCH Be in the world not of the world because if you are of the world you start believing worldly things like evolution and that people who don't believe the same thing as me aren't inherently inferior%%
 
 [[Homophobia]], [[evolution]], [[abortion]] and lot of other non-[[faith]] issues have been used to keep people in the faith, and separated from the world with zero biblical backing. These issues do not affect anyone's personal relationship with [[god]], but because [[People have been conditioned to believe the bible has to be infallible]] they do produce a strong emotional response and have been used as [[propaganda]] to keep people in the church: 
 

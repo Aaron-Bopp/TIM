@@ -11,18 +11,15 @@ sr-ease: 250
 
 #### [[Human's will find explanations for inexplainable things]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Humans are designed to make certainty out of uncertainty and find reasons for illogical decisions. Our brains are not designed for correcting the dissonance between thoughts and conclusions. If our brains were unable to create reasoning and thought processes for completely illogical conclusions we wouldn't be where we are today, because in cases of survival we must make choices regardless of how many options or how little information we have. [^1]  
-- [ ] #TO/DO/EXPAND from on additional information in source
+Humans are designed to make certainty out of uncertainty. This [[abstraction]] is what allow us to make progress everyday in a world where almost nothing make sense. If we had to answer the [[The three main questions of life]] every single morning, we would be paralyzed.  [^1] Our brains are not designed for correcting the dissonance between thoughts and conclusions. In fact, [[Humans are drawn to the unknown and repelled by the known]] as it means we don't have to grapple with the fact that [[Knowledge of the world is painful]]. 
 
-One such explanation is [[religion]] and how [[Faith is an abstraction of cognitive dissonance]]: [[The materialistic view of religions examines why humans invented and clung to religion]]
-
-This is the fundamental fact behind [[Rationalizations are defense-mechanisms against strong emotions]], and a result of how [[Our brains are built around survival]]. 
+This need to find explanations for things we cannot know is fundamentally human, and is the source of many of our problems and joys. It is why [[Humans transfer their wonder into creativity]], but is also why [[Social anxiety isn't irrational it's just overcompensation]]. 
 
 For more:: [[Humans are primarily irrational, illogical, emotional beings]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/GROWING 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[human advancement]], [[human survival]]
