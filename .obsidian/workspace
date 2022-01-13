@@ -9,20 +9,38 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+            "file": "30_Topics/36_Lists/Video essays.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "5446a0c8ab0112b9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":47},\"to\":{\"line\":13,\"ch\":47}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/36_Lists/Video essays.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5446a0c8ab0112b9",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5446a0c8ab0112b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/belief.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "5446a0c8ab0112b9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/Christianity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "5446a0c8ab0112b9",
@@ -70,27 +88,6 @@
               "leaf": "5446a0c8ab0112b9",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "a3beb7f114766601",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "a3beb7f114766601",
-              "group": null,
-              "state": "{\"type\":\"juggl_view\",\"state\":{},\"pinned\":true}",
               "eState": "{}"
             }
           ]
@@ -144,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+                "file": "30_Topics/36_Lists/Video essays.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -177,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+                "file": "30_Topics/36_Lists/Video essays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md"
+                "file": "30_Topics/36_Lists/Video essays.md"
               }
             },
             "pane-relief:history-v1": {
@@ -356,7 +353,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
+                "file": "30_Topics/36_Lists/Video essays.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -468,15 +465,15 @@
   },
   "active": "5446a0c8ab0112b9",
   "lastOpenFiles": [
+    "30_Topics/36_Lists/Video essays.md",
+    "30_Topics/31_Stubs/belief.md",
+    "30_Topics/35_Outlines/Christianity.md",
     "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md",
     "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md",
     "30_Topics/33_Tools/Obsidian (software).md",
     "20_Entry/209 Notepad.md",
     "40_Evergreens/Meditation increases our ability to influence the world.md",
     "40_Evergreens/Karma is based in the law of cause and effect.md",
-    "30_Topics/37_Techniques/Converting existing file formats to plaintext.md",
-    "40_Evergreens/Worlds views should be open ended and adaptive.md",
-    "40_Evergreens/The ethnic makeup of a community is a significant driver of change.md",
-    "40_Evergreens/Does cognitive dissonance increase your capacity for endurance.md"
+    "30_Topics/37_Techniques/Converting existing file formats to plaintext.md"
   ]
 }

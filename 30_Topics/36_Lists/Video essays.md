@@ -15,7 +15,10 @@ tags: created/topic/2022/01/02, node/topic
 %% DO NOT EDIT ABOVE %%
 ##### [[Video essays]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-- [Bo Burnham vs. Jeff Bezos](https://www.youtube.com/watch?v=UvYcunuF3Eo)
+- 2 watches
+	- [Bo Burnham vs. Jeff Bezos](https://www.youtube.com/watch?v=UvYcunuF3Eo) - 
+- Watched
+	- [Why DOCTOR STRANGE Is Marvel's Hidden Masterpiece - YouTube](https://www.youtube.com/watch?v=_LFbSz35oRY) - A surprisingly insightful take on the themes of time, loss, and change in Doctor Strange
 
 
 
