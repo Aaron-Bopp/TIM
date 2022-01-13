@@ -1,7 +1,7 @@
 ---
 created: 2021-11-10
 aliases:
-  - null
+  - conceptual note
 tags: created/topic/2021/11/10, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

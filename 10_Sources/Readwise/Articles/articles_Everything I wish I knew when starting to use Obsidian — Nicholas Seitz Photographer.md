@@ -64,7 +64,7 @@ This is not always true for people with hyper fixations
 highlight_tags:: [[neurodiversity]]
 %%
 ##### ^242107395
-all you need to do to reduce friction is trim the edges. If it feels like more than that you're probably trying to fit a square plug in a round hole #TO/PONDER/CONCEPT  
+all you need to do to reduce friction is trim the edges. If it feels like more than that you're probably trying to fit a square plug in a round hole  
 > Pruning is not tearing up the entire plant and starting over. 
   [^242107395]
 

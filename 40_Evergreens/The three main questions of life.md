@@ -9,11 +9,17 @@ sr-ease: 268
 #### [[The three main questions of life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 1. Where did we come from? 
-1. What happens when we die?
-1. What is our [[purpose]]?
+2. What happens when we die?
+3. What is our [[purpose]]?
+
+What are your answers?
+
+- [[Purpose is derived from within, duty is derived from without]]
+- [[Be the change you want to see in the world]]
+- [[Growing up is being able to articulate the hope more than the hopelessness]]
 
 ### <hr class="footnote"/>
-**Status**:: #EVER/GREEN/GRAFT 
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[worldview]], [[philosophy]], [[theology]], [[human experience]]

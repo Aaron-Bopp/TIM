@@ -1,7 +1,7 @@
 ---
 created: 2021-12-31 
 aliases:
-  - null
+  - hierarchical
 tags: created/topic/2021/12/31, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

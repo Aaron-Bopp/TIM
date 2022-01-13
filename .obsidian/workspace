@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c270edb2bc25cf63",
+        "id": "754cd1f4e83ff01d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+            "file": "40_Evergreens/Powerful tools make dangerous toys.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,13 +19,115 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "c270edb2bc25cf63",
+              "leaf": "754cd1f4e83ff01d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.044354621317096}"
             },
             {
-              "leaf": "c270edb2bc25cf63",
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":22.949595469062768}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":26.28709657730595}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to develop a meditation practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.967741813917692}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.850805043367952}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":480},\"to\":{\"line\":10,\"ch\":480}},\"scroll\":8.89174699064144}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":149},\"to\":{\"line\":66,\"ch\":149}},\"scroll\":70.45787996225523}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/friction.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":1.7299492153419456}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Friction is the number one hindrance to learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":12.366934713228224}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":55.34274207348629}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Human's have an inability to admit that they are wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/videoLife after a cult.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":143},\"to\":{\"line\":19,\"ch\":143}},\"scroll\":9.161289776773309}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":70.39609094890808}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Sangha.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to develop a meditation practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.5806450422050857}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_People Often Ask Me How....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0.3870967717126059}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Dawn of everything/What sorts of societies do people gravitate towards.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.1290322059647249}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -34,12 +136,12 @@
         }
       },
       {
-        "id": "b05a861d04becbac",
+        "id": "c67952b7c38ee3cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/31_Stubs/cognitive dissonance.md",
+            "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -49,34 +151,10 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "b05a861d04becbac",
+              "leaf": "c67952b7c38ee3cd",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/cognitive dissonance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":179},\"to\":{\"line\":10,\"ch\":179}},\"scroll\":10.679999828338623}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "1ac3c5d045508d6e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "1ac3c5d045508d6e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":10.524999777475992}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -113,7 +191,7 @@
                 "query": "tag:#TO",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -129,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -162,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md"
+                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md"
               }
             },
             "pane-relief:history-v1": {
@@ -350,7 +428,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
+                "file": "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -459,17 +537,17 @@
     "direction": "horizontal",
     "width": 706
   },
-  "active": "c270edb2bc25cf63",
+  "active": "c67952b7c38ee3cd",
   "lastOpenFiles": [
-    "40_Evergreens/Faith is an abstraction of cognitive dissonance.md",
-    "30_Topics/31_Stubs/cognitive dissonance.md",
-    "40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md",
-    "10_Sources/Readwise/Articles/articles_General Principles.md",
-    "10_Sources/Mental Health/videoExistential Dread.md",
-    "10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md",
-    "10_Sources/Readwise/Articles/articles_The Modern JavaScript Tutorial.md",
-    "40_Evergreens/Human's will find explanations for inexplainable things.md",
-    "40_Evergreens/Conceptual notes vary in size and scope.md",
-    "40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md"
+    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
+    "40_Evergreens/Powerful tools make dangerous toys.md",
+    "40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md",
+    "40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md",
+    "30_Topics/31_Stubs/hierarchy.md",
+    "40_Evergreens/Prioritize organization over categorization to avoid cognitive bias.md",
+    "30_Topics/32_Terms/heterarchy.md",
+    "30_Topics/31_Stubs/conceptual notes.md",
+    "40_Evergreens/How to develop a meditation practice.md",
+    "10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md"
   ]
 }

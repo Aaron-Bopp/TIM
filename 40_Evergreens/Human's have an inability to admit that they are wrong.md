@@ -40,5 +40,5 @@ For more see [[Humans are primarily irrational, illogical, emotional beings]]
 **Status**:: #EVER/GREEN/PRUNE 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]
+**Topics**:: [[Neuroscience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

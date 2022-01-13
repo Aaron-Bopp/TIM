@@ -14,6 +14,7 @@
 ^[[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)]
 >
 > <cite>[[Dr. K]]</cite> 
+![[videoLife after a cult#^5626bf]]
 
 self-blame and social deficiency
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjrjZh1Nris?start=5742" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

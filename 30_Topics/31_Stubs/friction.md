@@ -6,6 +6,8 @@ tags: created/topic/2021/11/09, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
+![[articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer#242107395]]
+
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
