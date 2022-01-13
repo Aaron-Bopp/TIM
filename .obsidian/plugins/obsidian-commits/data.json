@@ -11463,7 +11463,7 @@
     "40_Evergreens/Meditation increases our ability to influence the world.md": {
       "size": 1622,
       "tags": 4,
-      "links": 22
+      "links": 23
     },
     "40_Evergreens/Meditation helps us regulate our hormonal environment.md": {
       "size": 862,
@@ -12460,13 +12460,13 @@
     "/": {
       "Refactor": 4554,
       "Create": 4744,
-      "Link": 7560,
+      "Link": 7561,
       "Expand": 940
     },
     "40_Evergreens": {
       "Refactor": 366,
       "Create": 64,
-      "Link": 1107,
+      "Link": 1108,
       "Expand": 414
     }
   },
@@ -12493,7 +12493,7 @@
       "18": 2310,
       "19": 537,
       "20": 276,
-      "21": 881,
+      "21": 882,
       "22": 651,
       "23": 443
     },
@@ -12519,7 +12519,7 @@
       "18": 26,
       "19": 99,
       "20": 63,
-      "21": 89,
+      "21": 90,
       "22": 33,
       "23": 104
     }
@@ -12528,7 +12528,7 @@
     "/": {
       "Mon": 502,
       "Tue": 4399,
-      "Wed": 3862,
+      "Wed": 3863,
       "Thu": 2263,
       "Fri": 729,
       "Sat": 0,
@@ -12537,7 +12537,7 @@
     "40_Evergreens": {
       "Mon": 180,
       "Tue": 340,
-      "Wed": 279,
+      "Wed": 280,
       "Thu": 312,
       "Fri": 186,
       "Sat": 0,
@@ -12865,6 +12865,7 @@
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_General Principles.md\"> articles_General Principles </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Hard to Explain Jus....md\"> tweets_It’s Hard to Explain Jus... </a>",
@@ -12914,8 +12915,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Qoutes/_Index_of_Qoutes.md\"> _Index_of_Qoutes </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/_Index_of_Articles.md\"> _Index_of_Articles </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/_Index_of_Books.md\"> _Index_of_Books </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/_Index_of_Tweets.md\"> _Index_of_Tweets </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/_Index_of_Readwise.md\"> _Index_of_Readwise </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/_Index_of_Tweets.md\"> _Index_of_Tweets </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -13298,6 +13298,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
@@ -13347,8 +13348,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\"> Gender Dysphoria is based in a intrinsic wrongness of self </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Better tools allow us to be less disciplined and more productive.md\"> Better tools allow us to be less disciplined and more productive </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
