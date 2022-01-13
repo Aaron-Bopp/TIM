@@ -11268,7 +11268,7 @@
     "30_Topics/31_Stubs/belief.md": {
       "size": 0,
       "tags": 2,
-      "links": 4
+      "links": 5
     },
     "40_Evergreens/Time is a valuable mode in a second brain.md": {
       "size": 1060,
@@ -12425,32 +12425,42 @@
       "tags": 4,
       "links": 15
     },
-    "Belief is detrimental.md": {
+    "00_Meta/Labels/Belief is detrimental.md": {
       "size": 0,
       "tags": 1,
       "links": 1
     },
-    "On a personal level.md": {
+    "00_Meta/Labels/Belief is productive.md": {
       "size": 0,
       "tags": 1,
       "links": 1
     },
-    "On a societal level.md": {
+    "00_Meta/Labels/On a personal level.md": {
       "size": 0,
       "tags": 1,
       "links": 1
     },
-    "Belief is productive.md": {
+    "00_Meta/Labels/On a societal level.md": {
       "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "10_Sources/Readwise/Tweets/tweets_It’s Hard to Explain Jus....md": {
+      "size": 5391,
+      "tags": 1,
+      "links": 2
+    },
+    "10_Sources/Readwise/Articles/articles_General Principles.md": {
+      "size": 7031,
       "tags": 1,
       "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4550,
-      "Create": 4742,
-      "Link": 7555,
+      "Refactor": 4554,
+      "Create": 4744,
+      "Link": 7560,
       "Expand": 940
     },
     "40_Evergreens": {
@@ -12482,8 +12492,8 @@
       "17": 2809,
       "18": 2310,
       "19": 537,
-      "20": 266,
-      "21": 880,
+      "20": 276,
+      "21": 881,
       "22": 651,
       "23": 443
     },
@@ -12518,7 +12528,7 @@
     "/": {
       "Mon": 502,
       "Tue": 4399,
-      "Wed": 3851,
+      "Wed": 3862,
       "Thu": 2263,
       "Fri": 729,
       "Sat": 0,
@@ -12590,6 +12600,8 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MDD.md\"> MDD </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_General Principles.md\"> articles_General Principles </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Hard to Explain Jus....md\"> tweets_It’s Hard to Explain Jus... </a>",
         "<a class=\"internal-link\" href=\"On a societal level.md\"> On a societal level </a>",
         "<a class=\"internal-link\" href=\"On a personal level.md\"> On a personal level </a>",
         "<a class=\"internal-link\" href=\"Belief is detrimental.md\"> Belief is detrimental </a>",
@@ -12638,11 +12650,13 @@
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/_Index_of_Primary Sources.md\"> _Index_of_Primary Sources </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Dual/_Index_of_Dual.md\"> _Index_of_Dual </a>",
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>",
-        "<a class=\"internal-link\" href=\"50_Projects/_Index_of_50_Projects.md\"> _Index_of_50_Projects </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/_Index_of_30_Topics.md\"> _Index_of_30_Topics </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"00_Meta/Labels/On a societal level.md\"> On a societal level </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Labels/On a personal level.md\"> On a personal level </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Labels/Belief is productive.md\"> Belief is productive </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Labels/Belief is detrimental.md\"> Belief is detrimental </a>",
         "<a class=\"internal-link\" href=\"Belief is productive.md\"> Belief is productive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The actual path to being a good person isn't explored by Evangelicalism.md\"> The actual path to being a good person isn't explored by Evangelicalism </a>",
@@ -12689,13 +12703,11 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-soothing.md\"> self-soothing </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DBT.md\"> DBT </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MDD.md\"> MDD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SSRI.md\"> SSRI </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/OCD.md\"> OCD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CNS.md\"> CNS </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/CRF.md\"> CRF </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SNRI.md\"> SNRI </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/SSRI.md\"> SSRI </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_General Principles.md\"> articles_General Principles </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Hard to Explain Jus....md\"> tweets_It’s Hard to Explain Jus... </a>",
         "<a class=\"internal-link\" href=\"On a personal level.md\"> On a personal level </a>",
         "<a class=\"internal-link\" href=\"On a societal level.md\"> On a societal level </a>",
         "<a class=\"internal-link\" href=\"Belief is good.md\"> Belief is good </a>",
@@ -12744,9 +12756,7 @@
         "<a class=\"internal-link\" href=\"How memory works.md\"> How memory works </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Alzheimer's Disease.md\"> Alzheimer's Disease </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Europe.md\"> Europe </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Asia.md\"> Asia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/insomnia.md\"> insomnia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/herb.md\"> herb </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/Asia.md\"> Asia </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/_Index_of_Comp Sci.md\"> _Index_of_Comp Sci </a>",
@@ -12856,6 +12866,9 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_General Principles.md\"> articles_General Principles </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Hard to Explain Jus....md\"> tweets_It’s Hard to Explain Jus... </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
         "<a class=\"internal-link\" href=\"Belief is good.md\"> Belief is good </a>",
         "<a class=\"internal-link\" href=\"Belief is detrimental.md\"> Belief is detrimental </a>",
         "<a class=\"internal-link\" href=\"On a personal level.md\"> On a personal level </a>",
@@ -12902,10 +12915,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/_Index_of_Articles.md\"> _Index_of_Articles </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Books/_Index_of_Books.md\"> _Index_of_Books </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/_Index_of_Tweets.md\"> _Index_of_Tweets </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/_Index_of_Readwise.md\"> _Index_of_Readwise </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Religion/_Index_of_Religion.md\"> _Index_of_Religion </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Zotero/_Index_of_Zotero.md\"> _Index_of_Zotero </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/_Index_of_10_Sources.md\"> _Index_of_10_Sources </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/_Index_of_Readwise.md\"> _Index_of_Readwise </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",

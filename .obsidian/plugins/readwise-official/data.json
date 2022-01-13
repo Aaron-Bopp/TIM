@@ -5,7 +5,7 @@
   "triggerOnLoad": false,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2534712,
+  "lastSavedStatusID": 2585178,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -342,7 +342,9 @@
     "10_Sources/Readwise/Tweets/tweets_Tweets From Laur.md": "12481136",
     "10_Sources/Readwise/Tweets/tweets_Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖.md": "12489526",
     "10_Sources/Readwise/Books/books_You and Your Gender Identity.md": "9250064",
-    "10_Sources/Readwise/Articles/articles_Materials.md": "12672286"
+    "10_Sources/Readwise/Articles/articles_Materials.md": "12672286",
+    "10_Sources/Readwise/Tweets/tweets_It’s Hard to Explain Jus....md": "12773923",
+    "10_Sources/Readwise/Articles/articles_General Principles.md": "12821382"
   },
   "reimportShowConfirmation": false,
   "obsidianToken": "rdiuwojlcr",
