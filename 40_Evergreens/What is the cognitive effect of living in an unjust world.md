@@ -11,8 +11,12 @@ sr-ease: 197
 
 #### [[What is the cognitive effect of living in an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-X-axis: [[Life is hard]] <--> [[Life is worth it]]
-Y-axis: [[Life is meaningless]] <--> [[Life is meaninful]]
+X-axis: [[It's worth it]] <--> [[It isn't worth it]]
+Y-axis: [[Life is devastatingly meaningless]] <--> [[Life is excruciatingly meaningful]]
+```juggl
+workspace: LifeMOC
+```
+
 %% #TO/DO/FIND story, Need to establish that the world is unjust%%
 
 %%There is more that one answer, how should they be represented? #TO/PONDER/ME %%

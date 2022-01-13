@@ -7151,9 +7151,9 @@
       "links": 7
     },
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md": {
-      "size": 2447,
+      "size": 2826,
       "tags": 6,
-      "links": 30
+      "links": 34
     },
     "30_Topics/32_Terms/second brain.md": {
       "size": 1350,
@@ -12454,26 +12454,46 @@
       "size": 2643,
       "tags": 7,
       "links": 24
+    },
+    "Life is devastatingly meaningless.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Life is excruciatingly meaningful.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "It's worth it.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "It isn't worth it.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 4571,
-      "Create": 4744,
-      "Link": 7589,
-      "Expand": 956
+      "Create": 4748,
+      "Link": 7597,
+      "Expand": 957
     },
     "40_Evergreens": {
       "Refactor": 381,
       "Create": 64,
-      "Link": 1131,
-      "Expand": 426
+      "Link": 1132,
+      "Expand": 427
     }
   },
   "dailyCommits": {
     "/": {
       "0": 486,
-      "1": 140,
+      "1": 153,
       "2": 31,
       "3": 2,
       "4": 0,
@@ -12499,7 +12519,7 @@
     },
     "40_Evergreens": {
       "0": 60,
-      "1": 41,
+      "1": 43,
       "2": 4,
       "3": 0,
       "4": 0,
@@ -12529,7 +12549,7 @@
       "Mon": 502,
       "Tue": 4399,
       "Wed": 3906,
-      "Thu": 2281,
+      "Thu": 2294,
       "Fri": 729,
       "Sat": 0,
       "Sun": 6043
@@ -12538,7 +12558,7 @@
       "Mon": 180,
       "Tue": 340,
       "Wed": 315,
-      "Thu": 327,
+      "Thu": 329,
       "Fri": 186,
       "Sat": 0,
       "Sun": 654
@@ -12547,6 +12567,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"20_Entry/203 Me.md\"> 203 Me </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>",
@@ -12596,10 +12617,13 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Agoraphobia.md\"> Agoraphobia </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Association Cortices.md\"> Association Cortices </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Agoraphobia.md\"> Agoraphobia </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"It isn't worth it.md\"> It isn't worth it </a>",
+        "<a class=\"internal-link\" href=\"It's worth it.md\"> It's worth it </a>",
+        "<a class=\"internal-link\" href=\"Life is excruciatingly meaningful.md\"> Life is excruciatingly meaningful </a>",
+        "<a class=\"internal-link\" href=\"Life is devastatingly meaningless.md\"> Life is devastatingly meaningless </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_General Principles.md\"> articles_General Principles </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Tweets/tweets_It’s Hard to Explain Jus....md\"> tweets_It’s Hard to Explain Jus... </a>",
         "<a class=\"internal-link\" href=\"On a societal level.md\"> On a societal level </a>",
@@ -12646,11 +12670,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/_Index_of_Mental Health.md\"> _Index_of_Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/_Index_of_History.md\"> _Index_of_History </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Enneagram/_Index_of_Enneagram.md\"> _Index_of_Enneagram </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/_Index_of_Templates.md\"> _Index_of_Templates </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/_Index_of_Primary Sources.md\"> _Index_of_Primary Sources </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Dual/_Index_of_Dual.md\"> _Index_of_Dual </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>"
+        "<a class=\"internal-link\" href=\"00_Meta/Templates/_Index_of_Templates.md\"> _Index_of_Templates </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong, not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong, not what will go wrong </a>",
@@ -12706,6 +12726,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MDD.md\"> MDD </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Life is excruciatingly meaningful.md\"> Life is excruciatingly meaningful </a>",
+        "<a class=\"internal-link\" href=\"It's worth it.md\"> It's worth it </a>",
+        "<a class=\"internal-link\" href=\"It isn't worth it.md\"> It isn't worth it </a>",
+        "<a class=\"internal-link\" href=\"Life is devastatingly meaningless.md\"> Life is devastatingly meaningless </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/materialism.md\"> materialism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
@@ -12752,11 +12776,7 @@
         "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-08.md\"> 2022-01-08 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to balance investment.md\"> How to balance investment </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\"> The brain lodges emotional reactions in our unconscious memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
-        "<a class=\"internal-link\" href=\"How memory works.md\"> How memory works </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Materials.md\"> articles_Materials </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/91 Daily Notes/2022-01-06.md\"> 2022-01-06 </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\"> The brain lodges emotional reactions in our unconscious memory </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"00_Meta/Primary Sources/Classes/Comp Sci/_Index_of_Comp Sci.md\"> _Index_of_Comp Sci </a>",
@@ -12865,6 +12885,10 @@
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Life is excruciatingly meaningful.md\"> Life is excruciatingly meaningful </a>",
+        "<a class=\"internal-link\" href=\"It's worth it.md\"> It's worth it </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
+        "<a class=\"internal-link\" href=\"Life is devastatingly meaningless.md\"> Life is devastatingly meaningless </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
         "<a class=\"internal-link\" href=\"20_Entry/203 Me.md\"> 203 Me </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
@@ -12911,11 +12935,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Black identity is inseparable from other identities.md\"> Black identity is inseparable from other identities </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How to develop a meditation practice.md\"> How to develop a meditation practice </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
@@ -13026,6 +13046,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>",
@@ -13075,8 +13096,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans transfer their wonder into creativity.md\"> Humans transfer their wonder into creativity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\"> The history of meditation is a mixture of science and spirituality </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Writing is the catalyst of understanding.md\"> Writing is the catalyst of understanding </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Evergreen notes help us bridge the gap between knowledge and understanding.md\"> Evergreen notes help us bridge the gap between knowledge and understanding </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Writing is the catalyst of understanding.md\"> Writing is the catalyst of understanding </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
@@ -13298,6 +13318,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
@@ -13347,7 +13368,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\"> Distinguish between purposeful tagging and coincidental tagging of information </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\"> Distinguish between purposeful tagging and coincidental tagging of information </a>"
       ],
       "Removed Tags from": [

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+            "file": "40_Evergreens/Humans have decided to reject an unjust world.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,26 @@
             {
               "leaf": "754cd1f4e83ff01d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}},\"scroll\":0}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":28},\"to\":{\"line\":26,\"ch\":28}},\"scroll\":18.979838018424832}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life is excruciatingly meaningful.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":26},\"to\":{\"line\":19,\"ch\":26}},\"scroll\":5.322580399547989}"
             },
             {
               "leaf": "754cd1f4e83ff01d",
@@ -119,24 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to develop a meditation practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.967741813917692}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_1 Thread For Years, We....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.850805043367952}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":480},\"to\":{\"line\":10,\"ch\":480}},\"scroll\":8.89174699064144}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":149},\"to\":{\"line\":66,\"ch\":149}},\"scroll\":70.45787996225523}"
             }
           ]
         }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+                "file": "40_Evergreens/Humans have decided to reject an unjust world.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+                "file": "40_Evergreens/Humans have decided to reject an unjust world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md"
+                "file": "40_Evergreens/Humans have decided to reject an unjust world.md"
               }
             },
             "pane-relief:history-v1": {
@@ -431,7 +431,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+                "file": "40_Evergreens/Humans have decided to reject an unjust world.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -543,15 +543,15 @@
   },
   "active": "754cd1f4e83ff01d",
   "lastOpenFiles": [
+    "40_Evergreens/Humans have decided to reject an unjust world.md",
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+    "Life is excruciatingly meaningful.md",
+    "30_Topics/34_People/@visakanv on Twitter.md",
+    "It's worth it.md",
+    "It isn't worth it.md",
+    "Life is devastatingly meaningless.md",
     "30_Topics/31_Stubs/belief.md",
     "40_Evergreens/Better tools allow us to be less disciplined and more productive.md",
-    "40_Evergreens/Your anxiety is telling you everything that could go wrong, not what will go wrong.md",
-    "00_Meta/Labels/Belief is productive.md",
-    "40_Evergreens/Human's have an inability to admit that they are wrong.md",
-    "40_Evergreens/Sadness is enlightenment and happiness is delusion.md",
-    "40_Evergreens/Humans have decided to reject an unjust world.md",
-    "40_Evergreens/An unfulfilled need for validation results in a fear of rejection.md",
-    "20_Entry/203 Me.md"
+    "40_Evergreens/Your anxiety is telling you everything that could go wrong, not what will go wrong.md"
   ]
 }
