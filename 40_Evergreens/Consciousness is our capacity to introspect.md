@@ -28,7 +28,7 @@ The specific ability to introspect is called [[Sakshi Bhava]], or as it has been
 
 [[Mindfulness]] is not just the ability to have thought. 
 As anybody with [[anxiety]] will tell you, the thoughts in your [[mind]] are not always accurate.
-^[[[Your anxiety is telling you everything that could go wrong not what will go wrong]]]
+^[[[Your anxiety is telling you everything that could go wrong, not what will go wrong]]]
 [[Mindfulness]] is the ability to observe you thoughts, react to them without [[judgement]] or fear, and objectively decide your path forward.
 [[Buddha]] stated that this was the only path to end [[suffering]] and reach [[enlightenment]]:
 [[Buddhism is the study of happiness through detachment]]

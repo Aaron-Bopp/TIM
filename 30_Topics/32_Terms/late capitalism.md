@@ -6,7 +6,7 @@ tags: created/topic/2021/10/21, node/topic/term
 
  #TO/TEND/CONCEPTUALIZE [^1]
 
-**See**::
+**See**:: [[capitalism]], [[Marxism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

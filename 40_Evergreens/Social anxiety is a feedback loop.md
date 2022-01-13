@@ -8,8 +8,9 @@ sr-ease: 136
 
 #### [[Social anxiety is a feedback loop]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Your anxiety is telling you everything that could go wrong not what will go wrong]],
-but our [[brain]] believes these thoughts as if they are reality. Deep down [[We value our biggest insecurities because they protect us from the biggest threats]] but you are frustrated that your [[anxiety]] is impeding you from something as simple as talking to people.
+[[Your anxiety is telling you everything that could go wrong, not what will go wrong]],
+but our [[brain]] believes these thoughts as if they are reality. 
+[[Social anxiety isn't irrational it's just overcompensation]], and you are frustrated that your [[anxiety]] is impeding you from something as simple as talking to people.
 
 So you try to be more [[socialization|social]] and this happens:
 1. [[A secure identity is the best defense against social anxiety]] but you don't have a secure identity because your not able to be your true [[self]] because...
@@ -20,10 +21,10 @@ So you try to be more [[socialization|social]] and this happens:
 ^[[[Our ego is our subconscious defense of our self]] and [[We value our biggest insecurities because they protect us from the biggest threats]]]
 The only way out of this is loop is [[self-actualization]], and spending too much time in this loop can lead to [[Sadness is enlightenment and happiness is delusion|The fallacy that sadness is enlightenment and happiness is delusion]] or repressing your [[identity]] even further: [[A repressed identity creates a mistrust of self-love and self-esteem]]
 
-#TO/TEND/GRAFT [[Self-hatred is born out of dissonance between self-image and self-perception]]
+If we fail to get out of this [[feedback loop]] it will distort our [[self-image]] which will only give our [[brain]] more insecurities to throw back at us: [[Self-hatred is born out of dissonance between self-image and self-perception]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[social anxiety]], [[socialization]]

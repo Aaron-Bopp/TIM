@@ -10,7 +10,7 @@ sr-ease: 189
 
 [[Our brain will do anything it can to protect itself]], and if our [[emotions]] are going to impact our ability to succeed
 ^[[[Humans are a product of evolution]]]
-it is going to deal with those emotions as quickly as possible, but this does not mean it will affectively deal with those [[emotions]].
+it is going to deal with those emotions as quickly as possible, but this does not mean it will affectively deal with those [[emotions]]: [[The brain lodges emotional reactions in our unconscious memory]]
 
 %%
 #TO/EXPLORE/RESEARCH is there a relationship between this and [[PTSD]]

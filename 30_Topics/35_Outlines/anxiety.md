@@ -23,7 +23,7 @@ Your body's natural response to stress. It's a feeling of fear or apprehension a
 %% DO NOT EDIT ABOVE %%
 ##### [[anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-- [[Your anxiety is telling you everything that could go wrong not what will go wrong]]
+- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 - [[Social anxiety isn't irrational it's just overcompensation]]
 	- [[Anxiety should be a tool at your disposal not an impedance to your life]]
 	- [[Your anxiety knows your insecurities better than you do]]

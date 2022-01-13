@@ -6,7 +6,7 @@ sr-interval: 8
 sr-ease: 140
 ---
 
-#### [[Your anxiety is telling you everything that could go wrong not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Your anxiety is telling you everything that could go wrong, not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 %%
 #TO/TEND/WEED
 

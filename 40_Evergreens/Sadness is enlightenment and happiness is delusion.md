@@ -35,12 +35,11 @@ The path out will be different for every person, but for everybody some change i
 It may be something small, it may be something massive, or they may just get bored with being cynical and come to think [[Happiness is enlightenment and sadness is delusion]]. If someone can trick themselves to be hopeful, that may be enough to make a permanent change in their life, because [[Hope is not optimism it is a practice for producing change]].
 
 #TO/TEND/GRAFT ideas of [[karma]] and [[Dharma]] and [[Ashram]]
+- [[Purpose is derived from within, duty is derived from without]]
 %% #TO/TEND/MULCH 
 For people that have become to aware of [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]], the only may be [[detachment]] from the [[suffering]] of the world: [[Buddhism outlines a path and practice to end suffering, but does not promise it]]%%
 
 [[Knowledge of the world is painful]], but [[Accepting responsibility is not only about your actions]]: [[Be the change you want to see in the world]]
-
-
 
 ### <hr class="footnote"/>
 

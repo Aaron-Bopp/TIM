@@ -12,7 +12,7 @@
 		- [[Anxiety should be a tool at your disposal not an impedance to your life]]
 		- [[Social anxiety isn't irrational it's just overcompensation]]
 		- [[Your anxiety knows your insecurities better than you do]]
-		- [[Your anxiety is telling you everything that could go wrong not what will go wrong]]
+		- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 		- [[social anxiety]]
 			- [[Social anxiety is a feedback loop]]
 			- [[A secure identity is the best defense against social anxiety]]
