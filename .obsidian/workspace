@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Humans have decided to reject an unjust world.md",
+            "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,14 @@
             {
               "leaf": "754cd1f4e83ff01d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":40},\"to\":{\"line\":14,\"ch\":40}},\"scroll\":8.419354573248837}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":10.012402970661489}"
             },
             {
               "leaf": "754cd1f4e83ff01d",
@@ -131,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":26.28709657730595}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to develop a meditation practice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.967741813917692}"
             }
           ]
         }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Humans have decided to reject an unjust world.md",
+                "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Humans have decided to reject an unjust world.md",
+                "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Humans have decided to reject an unjust world.md"
+                "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md"
               }
             },
             "pane-relief:history-v1": {
@@ -431,7 +431,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Humans have decided to reject an unjust world.md",
+                "file": "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -543,8 +543,8 @@
   },
   "active": "754cd1f4e83ff01d",
   "lastOpenFiles": [
-    "40_Evergreens/Humans have decided to reject an unjust world.md",
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+    "40_Evergreens/Humans have decided to reject an unjust world.md",
     "Life is excruciatingly meaningful.md",
     "30_Topics/34_People/@visakanv on Twitter.md",
     "It's worth it.md",

@@ -7153,7 +7153,7 @@
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md": {
       "size": 2826,
       "tags": 6,
-      "links": 34
+      "links": 35
     },
     "30_Topics/32_Terms/second brain.md": {
       "size": 1350,
@@ -12480,13 +12480,13 @@
     "/": {
       "Refactor": 4571,
       "Create": 4748,
-      "Link": 7597,
+      "Link": 7598,
       "Expand": 957
     },
     "40_Evergreens": {
       "Refactor": 381,
       "Create": 64,
-      "Link": 1132,
+      "Link": 1133,
       "Expand": 427
     }
   },
@@ -12500,7 +12500,7 @@
       "5": 14,
       "6": 0,
       "7": 0,
-      "8": 83,
+      "8": 84,
       "9": 807,
       "10": 619,
       "11": 2608,
@@ -12526,7 +12526,7 @@
       "5": 0,
       "6": 0,
       "7": 0,
-      "8": 46,
+      "8": 47,
       "9": 269,
       "10": 139,
       "11": 90,
@@ -12549,7 +12549,7 @@
       "Mon": 502,
       "Tue": 4399,
       "Wed": 3906,
-      "Thu": 2294,
+      "Thu": 2295,
       "Fri": 729,
       "Sat": 0,
       "Sun": 6043
@@ -12558,7 +12558,7 @@
       "Mon": 180,
       "Tue": 340,
       "Wed": 315,
-      "Thu": 329,
+      "Thu": 330,
       "Fri": 186,
       "Sat": 0,
       "Sun": 654
@@ -12885,6 +12885,7 @@
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"Life is excruciatingly meaningful.md\"> Life is excruciatingly meaningful </a>",
         "<a class=\"internal-link\" href=\"It's worth it.md\"> It's worth it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
@@ -12934,8 +12935,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Purpose is derived from within, duty is derived from without.md\"> Purpose is derived from within, duty is derived from without </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
@@ -13319,6 +13319,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
@@ -13367,8 +13368,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Distinguish between purposeful tagging and coincidental tagging of information.md\"> Distinguish between purposeful tagging and coincidental tagging of information </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
