@@ -62,7 +62,7 @@
   "graphSettings": {
     "autoAddNodes": true,
     "autoExpand": false,
-    "autoZoom": false,
+    "autoZoom": true,
     "coreStore": "Obsidian",
     "expandInitial": true,
     "fdgdLayout": "cola",
@@ -120,7 +120,7 @@
   "globalGraphSettings": {
     "autoAddNodes": true,
     "autoExpand": false,
-    "autoZoom": false,
+    "autoZoom": true,
     "coreStore": "Obsidian",
     "expandInitial": false,
     "fdgdLayout": "cola",

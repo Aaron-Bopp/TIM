@@ -10,6 +10,9 @@ sr-ease: 150
 
 #### [[The Christian worldview is incompatible with most other worldviews]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+```juggl
+workspace: Belief GvB PvS
+```
 - [[Worldviews should not make life seem easy and simple]] #TO/TEND/GRAFT 
 	- [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 	- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]

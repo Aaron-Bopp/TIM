@@ -8121,7 +8121,7 @@
       "links": 15
     },
     "40_Evergreens/The Christian worldview is incompatible with most other worldviews.md": {
-      "size": 1725,
+      "size": 2018,
       "tags": 4,
       "links": 29
     },
@@ -11268,7 +11268,7 @@
     "30_Topics/31_Stubs/belief.md": {
       "size": 0,
       "tags": 2,
-      "links": 0
+      "links": 1
     },
     "40_Evergreens/Time is a valuable mode in a second brain.md": {
       "size": 1060,
@@ -11796,9 +11796,9 @@
       "links": 0
     },
     "30_Topics/36_Lists/Video essays.md": {
-      "size": 0,
+      "size": 1063,
       "tags": 2,
-      "links": 1
+      "links": 7
     },
     "30_Topics/31_Stubs/technology.md": {
       "size": 0,
@@ -12430,14 +12430,14 @@
     "/": {
       "Refactor": 4549,
       "Create": 4738,
-      "Link": 7543,
-      "Expand": 937
+      "Link": 7545,
+      "Expand": 940
     },
     "40_Evergreens": {
       "Refactor": 366,
       "Create": 64,
       "Link": 1107,
-      "Expand": 413
+      "Expand": 414
     }
   },
   "dailyCommits": {
@@ -12460,7 +12460,7 @@
       "15": 304,
       "16": 1320,
       "17": 2809,
-      "18": 2305,
+      "18": 2310,
       "19": 523,
       "20": 265,
       "21": 880,
@@ -12486,7 +12486,7 @@
       "15": 61,
       "16": 109,
       "17": 342,
-      "18": 25,
+      "18": 26,
       "19": 99,
       "20": 63,
       "21": 89,
@@ -12498,7 +12498,7 @@
     "/": {
       "Mon": 502,
       "Tue": 4399,
-      "Wed": 3831,
+      "Wed": 3836,
       "Thu": 2263,
       "Fri": 729,
       "Sat": 0,
@@ -12507,7 +12507,7 @@
     "40_Evergreens": {
       "Mon": 180,
       "Tue": 340,
-      "Wed": 278,
+      "Wed": 279,
       "Thu": 312,
       "Fri": 186,
       "Sat": 0,
@@ -12517,6 +12517,9 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
@@ -12564,10 +12567,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Korean Ginseng.md\"> Korean Ginseng </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Kriya Yoga.md\"> Kriya Yoga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Lewy Body.md\"> Lewy Body </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MDD.md\"> MDD </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Physiologic Anxiety.md\"> Physiologic Anxiety </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Pituitary Gland.md\"> Pituitary Gland </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Prefrontal Cortex.md\"> Prefrontal Cortex </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MDD.md\"> MDD </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Welfare trap.md\"> Welfare trap </a>",
@@ -12835,6 +12835,8 @@
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/36_Lists/Video essays.md\"> Video essays </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
@@ -12883,9 +12885,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/_Index_of_23 Note by type.md\"> _Index_of_23 Note by type </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/_Index_of_24 Vault Stats.md\"> _Index_of_24 Vault Stats </a>",
         "<a class=\"internal-link\" href=\"20_Entry/25 TODO/_Index_of_25 TODO.md\"> _Index_of_25 TODO </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/_Index_of_20_Entry.md\"> _Index_of_20_Entry </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/_Index_of_31_Stubs.md\"> _Index_of_31_Stubs </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/_Index_of_32_Terms.md\"> _Index_of_32_Terms </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/_Index_of_20_Entry.md\"> _Index_of_20_Entry </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
@@ -12996,6 +12996,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
@@ -13045,8 +13046,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\"> Having extreme and uncontrollable empathy is dangerous </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",

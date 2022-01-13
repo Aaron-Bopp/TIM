@@ -6,19 +6,22 @@ tags: created/topic/2022/01/02, node/topic
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
+```dataview
+TABLE WITHOUT ID essay, summary, topics WHERE file.name = this.file.name
+```
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-%% DO NOT EDIT BELOW %%
-
-%% DO NOT EDIT ABOVE %%
 ##### [[Video essays]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 2 watches
-	- [Bo Burnham vs. Jeff Bezos](https://www.youtube.com/watch?v=UvYcunuF3Eo) - 
+	- essay:: [Bo Burnham vs. Jeff Bezos](https://www.youtube.com/watch?v=UvYcunuF3Eo) 
+		- summary:: A broad covering of the Bo Burnham's *Inside* and how it relates to [[technology]], the [[internet]], and [[Social media]], and how we will deal with the way these things will fundamentally change the [[human experience]].
+		- topics:: [[transhumanism]] and [[We will evolve when we make learning as easy as thinking]]
 - Watched
-	- [Why DOCTOR STRANGE Is Marvel's Hidden Masterpiece - YouTube](https://www.youtube.com/watch?v=_LFbSz35oRY) - A surprisingly insightful take on the themes of time, loss, and change in Doctor Strange
+	- essay:: [Why DOCTOR STRANGE Is Marvel's Hidden Masterpiece](https://www.youtube.com/watch?v=_LFbSz35oRY) 
+		- summary:: A surprisingly insightful take on the themes of time, loss, and change in *Doctor Strange*
 
 
 
