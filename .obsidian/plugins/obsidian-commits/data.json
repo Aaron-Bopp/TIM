@@ -7153,7 +7153,7 @@
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md": {
       "size": 2826,
       "tags": 6,
-      "links": 35
+      "links": 30
     },
     "30_Topics/32_Terms/second brain.md": {
       "size": 1350,
@@ -7406,9 +7406,9 @@
       "links": 15
     },
     "30_Topics/35_Outlines/human experience.md": {
-      "size": 672,
+      "size": 1016,
       "tags": 2,
-      "links": 6
+      "links": 11
     },
     "30_Topics/35_Outlines/human advancement.md": {
       "size": 623,
@@ -12478,13 +12478,13 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4571,
+      "Refactor": 4572,
       "Create": 4748,
-      "Link": 7598,
-      "Expand": 957
+      "Link": 7599,
+      "Expand": 958
     },
     "40_Evergreens": {
-      "Refactor": 381,
+      "Refactor": 382,
       "Create": 64,
       "Link": 1133,
       "Expand": 427
@@ -12503,7 +12503,7 @@
       "8": 84,
       "9": 807,
       "10": 619,
-      "11": 2608,
+      "11": 2611,
       "12": 655,
       "13": 383,
       "14": 2457,
@@ -12529,7 +12529,7 @@
       "8": 47,
       "9": 269,
       "10": 139,
-      "11": 90,
+      "11": 91,
       "12": 146,
       "13": 114,
       "14": 131,
@@ -12549,7 +12549,7 @@
       "Mon": 502,
       "Tue": 4399,
       "Wed": 3906,
-      "Thu": 2295,
+      "Thu": 2298,
       "Fri": 729,
       "Sat": 0,
       "Sun": 6043
@@ -12558,7 +12558,7 @@
       "Mon": 180,
       "Tue": 340,
       "Wed": 315,
-      "Thu": 330,
+      "Thu": 331,
       "Fri": 186,
       "Sat": 0,
       "Sun": 654
@@ -12567,6 +12567,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"20_Entry/203 Me.md\"> 203 Me </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
@@ -12616,8 +12617,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Agoraphobia.md\"> Agoraphobia </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"It isn't worth it.md\"> It isn't worth it </a>",
@@ -12885,6 +12885,7 @@
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"Life is excruciatingly meaningful.md\"> Life is excruciatingly meaningful </a>",
         "<a class=\"internal-link\" href=\"It's worth it.md\"> It's worth it </a>",
@@ -12934,8 +12935,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political success was due to his common sense campaign.md\"> Yang's political success was due to his common sense campaign </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Use spaced repetition to weed your digital garden.md\"> Use spaced repetition to weed your digital garden </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
@@ -12991,6 +12991,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How can parent's best help their children.md\"> How can parent's best help their children </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md\"> The materialistic view of religions examines why humans invented and clung to religion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
@@ -13040,8 +13041,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmacharya Ashram.md\"> Brahmacharya Ashram </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmacharya.md\"> Brahmacharya </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmamuhurtha.md\"> Brahmamuhurtha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahman.md\"> Brahman </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmi (Bacopa monnieri).md\"> Brahmi (Bacopa monnieri) </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahman.md\"> Brahman </a>"
       ]
     },
     "40_Evergreens": {
@@ -13424,6 +13424,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Insecure material conditions increase cognitive load and reduce outcomes.md\"> Insecure material conditions increase cognitive load and reduce outcomes </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The materialistic view of religions examines why humans invented and clung to religion.md\"> The materialistic view of religions examines why humans invented and clung to religion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's have an inability to admit that they are wrong.md\"> Human's have an inability to admit that they are wrong </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
@@ -13473,8 +13474,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/48 Technology.md\"> 48 Technology </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\"> A repressed identity creates a mistrust of self-love and self-esteem </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We are confined to the tools of our time.md\"> We are confined to the tools of our time </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Note storage is important because it defines how you access and retain knowledge.md\"> Note storage is important because it defines how you access and retain knowledge </a>"
       ]
     }
   },

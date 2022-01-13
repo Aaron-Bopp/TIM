@@ -8,6 +8,11 @@ date modified: Saturday, October 2nd 2021, 3:45:32 pm
 > [[I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander]]
 > <cite> John Green </cite>
 
+
+![](00_Meta/Attachments/ayy-lmao-odysseus-scylla-charybdis-1024x590.jpg)
+^[<http://www.visakanv.com/blog/ayy-lmao/>]
+
+
 **See**:: [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
@@ -17,6 +22,12 @@ date modified: Saturday, October 2nd 2021, 3:45:32 pm
 ##### [[human experience]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 Includes:: [[human survival]], [[human advancement]]
+
+X-axis: [[It's worth it]] <--> [[It isn't worth it]]
+Y-axis: [[Life is devastatingly meaningless]] <--> [[Life is excruciatingly meaningful]]
+```juggl
+workspace: LifeMOC
+```
 - [[Humans are a product of evolution]]
 
 `$=console.log(dv.current())`

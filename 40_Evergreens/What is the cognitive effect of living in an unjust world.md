@@ -11,14 +11,7 @@ sr-ease: 197
 
 #### [[What is the cognitive effect of living in an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-![](00_Meta/Attachments/ayy-lmao-odysseus-scylla-charybdis-1024x590.jpg)
-^[<http://www.visakanv.com/blog/ayy-lmao/>]
 
-X-axis: [[It's worth it]] <--> [[It isn't worth it]]
-Y-axis: [[Life is devastatingly meaningless]] <--> [[Life is excruciatingly meaningful]]
-```juggl
-workspace: LifeMOC
-```
 
 %% #TO/DO/FIND story, Need to establish that the world is unjust%%
 
