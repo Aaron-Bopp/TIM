@@ -7200,11 +7200,6 @@
       "tags": 0,
       "links": 0
     },
-    "20_Entry/23 Note by type/File Sizes.md": {
-      "size": 162,
-      "tags": 0,
-      "links": 0
-    },
     "00_Meta/Dual/find related concepts.md": {
       "size": 916,
       "tags": 0,
@@ -8121,9 +8116,9 @@
       "links": 29
     },
     "10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md": {
-      "size": 894,
+      "size": 1568,
       "tags": 3,
-      "links": 1
+      "links": 2
     },
     "40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md": {
       "size": 2407,
@@ -12455,33 +12450,43 @@
       "tags": 7,
       "links": 24
     },
-    "Life is devastatingly meaningless.md": {
+    "00_Meta/Labels/Life is devastatingly meaningless.md": {
       "size": 0,
       "tags": 1,
       "links": 1
     },
-    "Life is excruciatingly meaningful.md": {
+    "00_Meta/Labels/Life is excruciatingly meaningful.md": {
       "size": 0,
       "tags": 1,
       "links": 1
     },
-    "It's worth it.md": {
+    "00_Meta/Labels/It isn't worth it.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "00_Meta/Labels/It's worth it.md": {
       "size": 0,
       "tags": 1,
       "links": 1
     },
-    "It isn't worth it.md": {
+    "20_Entry/24 Vault Stats/File Sizes.md": {
+      "size": 162,
+      "tags": 0,
+      "links": 0
+    },
+    "20_Entry/22 Note by status/New Imports.md": {
       "size": 0,
-      "tags": 1,
+      "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4572,
-      "Create": 4748,
-      "Link": 7599,
-      "Expand": 958
+      "Refactor": 4577,
+      "Create": 4749,
+      "Link": 7600,
+      "Expand": 959
     },
     "40_Evergreens": {
       "Refactor": 382,
@@ -12502,7 +12507,7 @@
       "7": 0,
       "8": 84,
       "9": 807,
-      "10": 619,
+      "10": 627,
       "11": 2611,
       "12": 655,
       "13": 383,
@@ -12550,7 +12555,7 @@
       "Tue": 4399,
       "Wed": 3906,
       "Thu": 2298,
-      "Fri": 729,
+      "Fri": 737,
       "Sat": 0,
       "Sun": 6043
     },
@@ -12567,6 +12572,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"20_Entry/203 Me.md\"> 203 Me </a>",
@@ -12616,10 +12622,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"It isn't worth it.md\"> It isn't worth it </a>",
         "<a class=\"internal-link\" href=\"It's worth it.md\"> It's worth it </a>",
         "<a class=\"internal-link\" href=\"Life is excruciatingly meaningful.md\"> Life is excruciatingly meaningful </a>",
@@ -12669,10 +12675,14 @@
         "<a class=\"internal-link\" href=\"10_Sources/Operating Systems/_Index_of_Operating Systems.md\"> _Index_of_Operating Systems </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/_Index_of_Mental Health.md\"> _Index_of_Mental Health </a>",
         "<a class=\"internal-link\" href=\"10_Sources/History/_Index_of_History.md\"> _Index_of_History </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Enneagram/_Index_of_Enneagram.md\"> _Index_of_Enneagram </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/_Index_of_Templates.md\"> _Index_of_Templates </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Enneagram/_Index_of_Enneagram.md\"> _Index_of_Enneagram </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/File Sizes.md\"> File Sizes </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Labels/It's worth it.md\"> It's worth it </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Labels/It isn't worth it.md\"> It isn't worth it </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Labels/Life is excruciatingly meaningful.md\"> Life is excruciatingly meaningful </a>",
+        "<a class=\"internal-link\" href=\"00_Meta/Labels/Life is devastatingly meaningless.md\"> Life is devastatingly meaningless </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your anxiety is telling you everything that could go wrong, not what will go wrong.md\"> Your anxiety is telling you everything that could go wrong, not what will go wrong </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Labels/On a societal level.md\"> On a societal level </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Labels/On a personal level.md\"> On a personal level </a>",
@@ -12718,12 +12728,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/ECpD (Evergreens Created per Day).md\"> ECpD (Evergreens Created per Day) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How memory works.md\"> How memory works </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\"> The brain lodges emotional reactions in our unconscious memory </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/physiology.md\"> physiology </a>",
-        "<a class=\"internal-link\" href=\"How memory works.md\"> How memory works </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/self-soothing.md\"> self-soothing </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/DBT.md\"> DBT </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/MDD.md\"> MDD </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\"> The brain lodges emotional reactions in our unconscious memory </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Life is excruciatingly meaningful.md\"> Life is excruciatingly meaningful </a>",
@@ -12885,6 +12890,7 @@
         "<a class=\"internal-link\" href=\"_Index_of_TIM.md\"> _Index_of_TIM </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human experience.md\"> human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"Life is excruciatingly meaningful.md\"> Life is excruciatingly meaningful </a>",
@@ -12934,8 +12940,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Yang's political success was due to his common sense campaign.md\"> Yang's political success was due to his common sense campaign </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",

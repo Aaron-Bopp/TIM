@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/35_Outlines/human experience.md",
-            "mode": "source",
+            "file": "20_Entry/22 Note by status/New Imports.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -21,8 +21,50 @@
             {
               "leaf": "754cd1f4e83ff01d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/New Imports.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/Modified in the last week.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/New Imports.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/File Sizes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/221 EVERSEEDS.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Labels/Life is excruciatingly meaningful.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Labels/Life is devastatingly meaningless.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "754cd1f4e83ff01d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":20.494454345651395}"
             },
             {
               "leaf": "754cd1f4e83ff01d",
@@ -45,7 +87,7 @@
             {
               "leaf": "754cd1f4e83ff01d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life is excruciatingly meaningful.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Labels/Life is excruciatingly meaningful.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
@@ -95,48 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There aren't any downsides to working through trauma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":10.518548304034818}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":2},\"to\":{\"line\":14,\"ch\":2}},\"scroll\":12.348118087848169}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":56},\"to\":{\"line\":11,\"ch\":56}},\"scroll\":2.957661207676186}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Social anxiety is a feedback loop.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/late capitalism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0.6451612605512714}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Projects/Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":5.91269013845376}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Powerful tools make dangerous toys.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":22.949595469062768}"
             }
           ]
         }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/35_Outlines/human experience.md",
+                "file": "20_Entry/22 Note by status/New Imports.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/35_Outlines/human experience.md",
+                "file": "20_Entry/22 Note by status/New Imports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,13 +268,11 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 387,
-    "collapsed": true
+    "width": 387
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -290,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/35_Outlines/human experience.md"
+                "file": "20_Entry/22 Note by status/New Imports.md"
               }
             },
             "pane-relief:history-v1": {
@@ -431,7 +429,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/35_Outlines/human experience.md",
+                "file": "20_Entry/22 Note by status/New Imports.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -543,15 +541,15 @@
   },
   "active": "754cd1f4e83ff01d",
   "lastOpenFiles": [
+    "20_Entry/22 Note by status/New Imports.md",
+    "20_Entry/22 Note by status/Modified in the last week.md",
+    "20_Entry/24 Vault Stats/File Sizes.md",
+    "20_Entry/22 Note by status/221 EVERSEEDS.md",
+    "00_Meta/Labels/Life is excruciatingly meaningful.md",
+    "00_Meta/Labels/Life is devastatingly meaningless.md",
     "30_Topics/35_Outlines/human experience.md",
     "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
     "40_Evergreens/Humans have decided to reject an unjust world.md",
-    "Life is excruciatingly meaningful.md",
-    "30_Topics/34_People/@visakanv on Twitter.md",
-    "It's worth it.md",
-    "It isn't worth it.md",
-    "Life is devastatingly meaningless.md",
-    "30_Topics/31_Stubs/belief.md",
-    "40_Evergreens/Better tools allow us to be less disciplined and more productive.md"
+    "30_Topics/34_People/@visakanv on Twitter.md"
   ]
 }
