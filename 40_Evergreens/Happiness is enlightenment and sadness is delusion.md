@@ -1,6 +1,6 @@
 ---
 created: 2021-06-12
-tags: created/evergreen/2021/06/12, node/evergreen
+tags: created/evergreen/2021/06/12, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-02-10
@@ -21,7 +21,7 @@ This is no easy task, so [[Buddhism outlines a path and practice to end sufferin
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/GROWING  
+**Status**:: #EVER/GROWING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[happiness]], [[religion]], 

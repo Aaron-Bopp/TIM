@@ -3,7 +3,7 @@ created: 2021-10-18
 aliases:
   - What is the cognitive effect of living in an unjust world?
   - The cognitive effect of living in an unjust world
-tags: created/evergreen/2021/10/18, node/evergreen, node/question
+tags: created/evergreen/2021/10/18, review, node/evergreen/question
 sr-due: 2022-02-27
 sr-interval: 54
 sr-ease: 197
@@ -51,7 +51,7 @@ We know that [[Humans are primarily irrational, illogical, emotional beings]] an
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/GROWING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[realism]], [[injustice]], [[anger]], [[social justice]]

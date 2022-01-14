@@ -2,7 +2,7 @@
 created: 2022-01-10T10:42:18 
 aliases:
   - null
-tags: created/evergreen/2022/01/10, node/evergreen
+tags: created/evergreen/2022/01/10, review, node/evergreen
 sr-due: 2022-01-10
 sr-interval: 1
 sr-ease: 230
@@ -22,7 +22,7 @@ This is where [[Note structures should help curate knowledge]] comes in. Having 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE  
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[learning]], [[understanding]], 

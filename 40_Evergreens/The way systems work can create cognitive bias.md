@@ -2,7 +2,7 @@
 created: 2021-12-12 
 aliases:
   - null
-tags: created/evergreen/2021/12/12, node/evergreen
+tags: created/evergreen/2021/12/12, review, node/evergreen
 sr-due: 2022-01-14
 sr-interval: 10
 sr-ease: 176
@@ -34,7 +34,7 @@ sr-ease: 176
 - [[Use philosophies as far they are useful and nothing more]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[social construct]], [[inequity]], [[social justice]]

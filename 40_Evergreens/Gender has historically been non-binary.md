@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08
-tags: created/evergreen/2021/08/08, node/evergreen
+tags: created/evergreen/2021/08/08, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-01-11
@@ -20,7 +20,7 @@ sr-ease: 210
 [[Biology supports the validity of trans people]] and [[Gender is a social construct]] should justify the existence of [[transgender|trans]] people to anybody.
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[transgender]],

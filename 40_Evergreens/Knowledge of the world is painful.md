@@ -1,6 +1,6 @@
 ---
 created: 2021-06-12
-tags: created/evergreen/2021/06/12, node/evergreen
+tags: created/evergreen/2021/06/12, review, node/evergreen
 sr-due: 2022-01-15
 sr-interval: 13
 sr-ease: 178
@@ -25,7 +25,7 @@ Once you have realized this, you will realize [[You can't blame people for faili
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[white guilt]], [[racism]], [[self-actualization]], [[political strategy]]

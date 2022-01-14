@@ -2,7 +2,7 @@
 created: 2021-05-22
 aliases:
   - Collecting thought with a second brain
-tags: created/evergreen/2021/05/22, node/evergreen
+tags: created/evergreen/2021/05/22, review, node/evergreen
 sr-due: 2022-01-13
 sr-interval: 23
 sr-ease: 200
@@ -16,7 +16,9 @@ sr-ease: 200
 > 2. The organization of your thoughts and others thoughts
 > 3. The accessibility of these thoughts
 
+%%
 #TO/WRITE how do we reduce the [[friction]] of gathering information (and how this can lead to the collector's fallacy) and then how do we curate the information so that we can learn from it. Emphasize that the ultimate goes is to reduce [[friction]] because [[Friction is the number one hindrance to learning]] 
+%%
 
 Many a [[knowledge management|PKM]] guru has warned against [[The Collector's Fallacy]], of collecting more thought than you can use. I think this is very wise advice for new users who may not know what the purpose of the knowledge management system is or how to store information in it valuably, but if collection allows for more frictionless access to knowledge then it can be ignored. 
 ^[[[Better tools allow us to be less disciplined and more productive]]]
@@ -33,7 +35,7 @@ Without the knowledge of [[The fragility of nodes in a second brain|which notes 
 Some of this curation can be offloaded to [[AI]]: [[A totally integrated machine should automate as much of the thinking process as possible]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE   
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[evergreen notes]] 

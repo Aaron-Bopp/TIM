@@ -1,6 +1,6 @@
 ---
 created: 2021-06-28
-tags: created/evergreen/2021/06/28, node/evergreen
+tags: created/evergreen/2021/06/28, review, node/evergreen
 sr-due: 2022-01-10
 sr-interval: 16
 sr-ease: 159
@@ -20,7 +20,7 @@ If you don't understand who you are, you will struggle to understand why certain
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/PRUNE 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self]], [[self-love]], [[self-hate]], [[self care]]

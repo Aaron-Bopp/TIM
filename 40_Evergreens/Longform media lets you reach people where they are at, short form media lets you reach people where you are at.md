@@ -2,7 +2,7 @@
 created: 2021-10-19
 aliases:
   - null
-tags: created/evergreen/2021/10/19, node/evergreen
+tags: created/evergreen/2021/10/19, review, node/evergreen
 sr-due: 2022-02-26
 sr-interval: 67
 sr-ease: 230
@@ -22,7 +22,7 @@ With long form media you can take people on journeys to your conclusion, but wit
 #TO/WRITE results of sharing vault
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[inter-personal communication]], [[influence]]

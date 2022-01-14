@@ -1,6 +1,6 @@
 ---
 created: 2021-06-28
-tags: created/evergreen/2021/06/28, node/evergreen
+tags: created/evergreen/2021/06/28, review, node/evergreen
 sr-due: 2022-01-16
 sr-interval: 26
 sr-ease: 212
@@ -28,7 +28,7 @@ While [[Christians struggle to feel empathy because they must believe that non-c
 %%
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE   
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Deconstruction (Christianity)]], [[Christianity]]

@@ -2,7 +2,7 @@
 created: 2021-12-12 
 aliases:
   - null
-tags: created/evergreen/2021/12/12, node/evergreen
+tags: created/evergreen/2021/12/12, review, node/evergreen
 sr-due: 2022-01-11
 sr-interval: 12
 sr-ease: 173
@@ -28,7 +28,7 @@ sr-ease: 173
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/GROWING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive bias]], [[cognitive dissonance]]

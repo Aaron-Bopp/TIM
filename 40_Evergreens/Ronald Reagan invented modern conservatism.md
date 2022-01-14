@@ -1,6 +1,6 @@
 ---
 created: 2021-07-30
-tags: created/evergreen/2021/07/30, node/evergreen
+tags: created/evergreen/2021/07/30, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-03-29
@@ -30,7 +30,7 @@ He also used this moral superiority to justify [[government]] interference in wo
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], 

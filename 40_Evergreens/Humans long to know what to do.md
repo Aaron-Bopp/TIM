@@ -2,7 +2,7 @@
 created: 2022-01-04T16:03:12 
 aliases:
   - null
-tags: created/evergreen/2022/01/04, node/evergreen
+tags: created/evergreen/2022/01/04, review, node/evergreen
 sr-due: 2022-01-14
 sr-interval: 2
 sr-ease: 190
@@ -19,7 +19,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]]

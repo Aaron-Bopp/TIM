@@ -1,6 +1,6 @@
 ---
 created: 2021-08-01
-tags: created/evergreen/2021/08/01, node/evergreen
+tags: created/evergreen/2021/08/01, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-01-26
@@ -19,7 +19,7 @@ sr-ease: 214
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[Conservatism]]

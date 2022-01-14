@@ -1,6 +1,6 @@
 ---
 created: 2021-06-25
-tags: created/evergreen/2021/06/25, node/evergreen
+tags: created/evergreen/2021/06/25, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-01-17
@@ -28,7 +28,7 @@ Especially in [[childhood]], negative experiences cause us to make wide assumpti
  > <cite>[[Dr. K]]</cite>
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE 
+**Status**:: #EVER/GROWING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[childhood]], [[trauma]]

@@ -1,4 +1,4 @@
-#review/dawnOfEverything
+#dawnOfEverything
 ##### Emergence of capitalism
 
 ![[books_The Dawn of Everything#261593436]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a8b045bf48e8993f",
+        "id": "a5785713629abb1b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md",
+            "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,124 +19,46 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "a8b045bf48e8993f",
+              "leaf": "a5785713629abb1b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sometimes we can't grow until we change our environment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.108870839663282}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":18},\"to\":{\"line\":52,\"ch\":18}},\"scroll\":30.026489724506867}"
             },
             {
-              "leaf": "a8b045bf48e8993f",
+              "leaf": "a5785713629abb1b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Whiteness was created to marginalize people of color.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}},\"scroll\":8.580644888386654}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "a8b045bf48e8993f",
+              "leaf": "a5785713629abb1b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":5.483870714685807}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Acting Bio.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/How I process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "a8b045bf48e8993f",
+              "leaf": "a5785713629abb1b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Whiteness was created to marginalize people of color.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.580644888386654}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.850805889369324}"
             },
             {
-              "leaf": "a8b045bf48e8993f",
+              "leaf": "a5785713629abb1b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":28.880794123951638}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":25},\"to\":{\"line\":23,\"ch\":25}},\"scroll\":11.947580293797818}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":25},\"to\":{\"line\":32,\"ch\":25}},\"scroll\":18.927417927676572}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":28.312499754851874}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":25},\"to\":{\"line\":25,\"ch\":25}},\"scroll\":10.37070217912153}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":24},\"to\":{\"line\":28,\"ch\":24}},\"scroll\":10.524934051297363}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.16124003802159}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Biology supports the validity of trans people.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":16.315860157302936}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Write your notes with a system not within a system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":25},\"to\":{\"line\":27,\"ch\":25}},\"scroll\":13.431450547028332}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":24},\"to\":{\"line\":20,\"ch\":24}},\"scroll\":10.992247884587725}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.399369639293397}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":25},\"to\":{\"line\":24,\"ch\":25}},\"scroll\":18.422215638860315}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":25},\"to\":{\"line\":25,\"ch\":25}},\"scroll\":14.946981515586298}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":25},\"to\":{\"line\":21,\"ch\":25}},\"scroll\":8.999999461635491}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":25},\"to\":{\"line\":27,\"ch\":25}},\"scroll\":10.78139507678128}"
-            },
-            {
-              "leaf": "a8b045bf48e8993f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Every person has an experience of gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}},\"scroll\":6.709676863623733}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
@@ -170,10 +92,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/SPROUT/WATER",
+                "query": "tag:#EVER/GROWING",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -189,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md",
+                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md",
+                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -268,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md"
+                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md"
               }
             },
             "pane-relief:history-v1": {
@@ -361,34 +283,30 @@
             }
           },
           {
-            "id": "bb0440ba70595c10",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "6afbfed7792d1c32",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "9d5f20937b9d5250",
             "type": "leaf",
             "state": {
               "type": "RSS_FEED",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "0fb852a8e5edc5d0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "aad5bb59d4df02ef",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
               "state": {}
             }
           }
@@ -405,7 +323,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md",
+                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -515,17 +433,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "a8b045bf48e8993f",
+  "active": "a5785713629abb1b",
   "lastOpenFiles": [
-    "40_Evergreens/Sometimes we can't grow until we change our environment.md",
-    "40_Evergreens/Whiteness was created to marginalize people of color.md",
-    "40_Evergreens/Humans have decided to reject an unjust world.md",
-    "40_Evergreens/We are confined to the tools of our time.md",
-    "40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md",
-    "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
-    "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
-    "40_Evergreens/How to pursue the positive things in life.md",
-    "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
-    "40_Evergreens/Biology supports the validity of trans people.md"
+    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+    "10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md",
+    "40_Evergreens/Meditation increases our ability to influence the world.md",
+    "90_Personal/Personal/Acting Bio.md",
+    "90_Personal/Personal/How I process repressed emotions.md",
+    "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
+    "90_Personal/Personal/My relationship with my parents.md",
+    "90_Personal/Personal/Journal.md",
+    "30_Topics/35_Outlines/social anxiety.md",
+    "20_Entry/24 Vault Stats/Word count Evergreens.md"
   ]
 }

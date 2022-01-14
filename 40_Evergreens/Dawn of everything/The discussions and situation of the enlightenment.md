@@ -1,4 +1,4 @@
-#review/dawnOfEverything
+#dawnOfEverything
 ##### The discussions and situation of the enlightenment
 
 - ![[books_The Dawn of Everything#262026812]]

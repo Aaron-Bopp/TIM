@@ -2,7 +2,7 @@
 created: 2021-11-24 
 aliases:
   - null
-tags: created/evergreen/2021/11/24, node/evergreen, node/question, 
+tags: created/evergreen/2021/11/24, review, node/evergreen/question, 
 sr-due: 2022-01-15
 sr-interval: 10
 sr-ease: 130
@@ -18,7 +18,7 @@ Is this one of the main mechanisms behind why humans have chosen to cause harm t
 	- [[The Politicization of the Christian Church]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[cognitive dissonance]]

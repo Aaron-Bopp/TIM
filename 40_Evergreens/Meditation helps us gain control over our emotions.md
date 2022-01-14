@@ -2,7 +2,7 @@
 created: 2022-01-01T02:08:12 
 aliases:
   - null
-tags: created/evergreen/2022/01/01, node/evergreen
+tags: created/evergreen/2022/01/01, review, node/evergreen
 sr-due: 2022-01-14
 sr-interval: 2
 sr-ease: 190
@@ -28,7 +28,7 @@ This can lead to a [[detachment]] from our [[emotions]]:
 - [[Buddhism is the study of happiness through detachment]]
 
 ### <hr class="footnote"/> 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[mindfulness]]

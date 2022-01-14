@@ -2,7 +2,7 @@
 created: 2021-11-07 
 aliases:
   - null
-tags: created/evergreen/2021/11/07, node/evergreen
+tags: created/evergreen/2021/11/07, review, node/evergreen
 sr-due: 2022-01-24
 sr-interval: 34
 sr-ease: 185
@@ -32,7 +32,7 @@ but it can involve of a lot of very difficult situations and feelings because
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/GROWING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self]], [[trauma]], [[self-improvement]], [[self-actualization]]

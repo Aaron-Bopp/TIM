@@ -1,6 +1,6 @@
 ---
 created: 2021-06-15
-tags: created/evergreen/2021/06/15, node/evergreen
+tags: created/evergreen/2021/06/15, review, node/evergreen
 sr-due: 2022-01-12
 sr-interval: 8
 sr-ease: 140
@@ -41,7 +41,7 @@ In modern society, our [[anxiety]] can seem like a irrational response, but it i
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[mental illness]], [[self-actualization]], , 

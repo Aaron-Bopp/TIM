@@ -2,7 +2,7 @@
 created: 2022-01-09T21:59:22 
 aliases:
   - null
-tags: created/evergreen/2022/01/09, node/evergreen, node/question 
+tags: created/evergreen/2022/01/09, review, node/evergreen/question 
 sr-due: 2022-01-09
 sr-interval: 1
 sr-ease: 230
@@ -19,7 +19,7 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[cognitive dissonance]]

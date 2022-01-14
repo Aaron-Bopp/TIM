@@ -2,7 +2,7 @@
 created: 2021-12-15 
 aliases:
   - null
-tags: created/evergreen/2021/12/15, node/evergreen
+tags: created/evergreen/2021/12/15, review, node/evergreen
 sr-due: 2022-01-21
 sr-interval: 9
 sr-ease: 150
@@ -35,7 +35,7 @@ workspace: Belief GvB PvS
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[Christianity]], [[worldview]], [[belief systems]], [[human experience]], [[inter-personal communication]], [[religion]], [[belief]]

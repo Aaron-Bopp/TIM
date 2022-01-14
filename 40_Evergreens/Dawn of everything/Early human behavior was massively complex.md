@@ -1,4 +1,4 @@
-#review/dawnOfEverything
+#dawnOfEverything
 ##### Early human behavior was massively complex
 
 ![[books_The Dawn of Everything#261593422]]

@@ -1,6 +1,6 @@
 ---
 created: 2021-06-12
-tags: created/evergreen/2021/06/12, node/evergreen
+tags: created/evergreen/2021/06/12, review, node/evergreen
 aliases:
   - Confidence comes from empathic mirroring in childhood
   - model the ability to deal with emotion to their children

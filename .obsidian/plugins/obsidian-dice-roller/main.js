@@ -5,27 +5,10 @@ if you want to view the source, please visit the github repository of this plugi
 
 var __create = Object.create;
 var __defProp = Object.defineProperty;
-var __defProps = Object.defineProperties;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
-var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
 var __getOwnPropNames = Object.getOwnPropertyNames;
-var __getOwnPropSymbols = Object.getOwnPropertySymbols;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
-var __propIsEnum = Object.prototype.propertyIsEnumerable;
-var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
-var __spreadValues = (a2, b2) => {
-  for (var prop in b2 || (b2 = {}))
-    if (__hasOwnProp.call(b2, prop))
-      __defNormalProp(a2, prop, b2[prop]);
-  if (__getOwnPropSymbols)
-    for (var prop of __getOwnPropSymbols(b2)) {
-      if (__propIsEnum.call(b2, prop))
-        __defNormalProp(a2, prop, b2[prop]);
-    }
-  return a2;
-};
-var __spreadProps = (a2, b2) => __defProps(a2, __getOwnPropDescs(b2));
 var __markAsModule = (target) => __defProp(target, "__esModule", { value: true });
 var __commonJS = (cb2, mod) => function __require() {
   return mod || (0, cb2[Object.keys(cb2)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
@@ -45,26 +28,6 @@ var __reExport = (target, module2, desc) => {
 };
 var __toModule = (module2) => {
   return __reExport(__markAsModule(__defProp(module2 != null ? __create(__getProtoOf(module2)) : {}, "default", module2 && module2.__esModule && "default" in module2 ? { get: () => module2.default, enumerable: true } : { value: module2, enumerable: true })), module2);
-};
-var __async = (__this, __arguments, generator) => {
-  return new Promise((resolve2, reject2) => {
-    var fulfilled = (value) => {
-      try {
-        step(generator.next(value));
-      } catch (e) {
-        reject2(e);
-      }
-    };
-    var rejected = (value) => {
-      try {
-        step(generator.throw(value));
-      } catch (e) {
-        reject2(e);
-      }
-    };
-    var step = (x) => x.done ? resolve2(x.value) : Promise.resolve(x.value).then(fulfilled, rejected);
-    step((generator = generator.apply(__this, __arguments)).next());
-  });
 };
 
 // node_modules/lex/lexer.js
@@ -1720,24 +1683,19 @@ var BasicRoller = class extends import_obsidian.Events {
   getRandomBetween(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
-  render() {
-    return __async(this, null, function* () {
-      this.setTooltip();
-      yield this.build();
-    });
+  async render() {
+    this.setTooltip();
+    await this.build();
   }
   get inlineText() {
     return `${this.tooltip.split("\n").join(" -> ")} -> `;
   }
-  onClick(evt) {
-    return __async(this, null, function* () {
-      var _a;
-      evt.stopPropagation();
-      evt.stopImmediatePropagation();
-      if ((_a = window.getSelection()) == null ? void 0 : _a.isCollapsed) {
-        yield this.roll();
-      }
-    });
+  async onClick(evt) {
+    evt.stopPropagation();
+    evt.stopImmediatePropagation();
+    if (window.getSelection()?.isCollapsed) {
+      await this.roll();
+    }
   }
 };
 var GenericRoller = class extends BasicRoller {
@@ -1753,25 +1711,23 @@ var GenericFileRoller = class extends GenericRoller {
     this.getPath();
     this.getFile();
   }
-  getFile() {
-    return __async(this, null, function* () {
-      this.file = this.plugin.app.metadataCache.getFirstLinkpathDest(this.path, this.source);
-      if (!this.file || !(this.file instanceof import_obsidian.TFile))
-        throw new Error("Could not load file.");
-      yield this.load();
-      this.registerFileWatcher();
-    });
+  async getFile() {
+    this.file = this.plugin.app.metadataCache.getFirstLinkpathDest(this.path, this.source);
+    if (!this.file || !(this.file instanceof import_obsidian.TFile))
+      throw new Error("Could not load file.");
+    await this.load();
+    this.registerFileWatcher();
   }
   registerFileWatcher() {
-    this.plugin.registerEvent(this.plugin.app.vault.on("modify", (file) => __async(this, null, function* () {
+    this.plugin.registerEvent(this.plugin.app.vault.on("modify", async (file) => {
       if (!this.watch)
         return;
       if (this.save)
         return;
       if (file !== this.file)
         return;
-      yield this.getOptions();
-    })));
+      await this.getOptions();
+    }));
   }
 };
 
@@ -1789,7 +1745,6 @@ var DiceRoller = class {
     this.static = false;
     this.conditions = [];
     this.fudge = false;
-    var _a;
     if (!/(\-?\d+)[dD]?(\d+|%|\[\d+,\s?\d+\])?/.test(dice)) {
       throw new Error("Non parseable dice string passed to DiceRoll.");
     }
@@ -1815,7 +1770,7 @@ var DiceRoller = class {
       [max, min] = [min, max];
     }
     this.faces = { max: max ? Number(max) : 1, min: min ? Number(min) : 1 };
-    this.conditions = (_a = this.lexeme.conditionals) != null ? _a : [];
+    this.conditions = this.lexeme.conditionals ?? [];
     this.results = new Map([...this.roll()].map((n, i) => {
       return [
         i,
@@ -1853,7 +1808,7 @@ var DiceRoller = class {
       const previous = this.results.get(index);
       previous.usable = false;
       previous.modifiers.add("d");
-      this.results.set(index, __spreadValues({}, previous));
+      this.results.set(index, { ...previous });
     });
   }
   keepHigh(drop = 1) {
@@ -1865,7 +1820,7 @@ var DiceRoller = class {
       const previous = this.results.get(index);
       previous.usable = false;
       previous.modifiers.add("d");
-      this.results.set(index, __spreadValues({}, previous));
+      this.results.set(index, { ...previous });
     });
   }
   reroll(times, conditionals) {
@@ -1970,7 +1925,6 @@ var DiceRoller = class {
     }));
   }
   roll() {
-    var _a;
     const roll = this._roll();
     this.results = new Map([...roll].map((n, i) => {
       return [
@@ -1986,7 +1940,7 @@ var DiceRoller = class {
     for (let [type, modifier] of this.modifiers) {
       this.applyModifier(type, modifier);
     }
-    if ((_a = this.conditions) == null ? void 0 : _a.length)
+    if (this.conditions?.length)
       this.applyConditions();
     return roll;
   }
@@ -2173,28 +2127,23 @@ var StackRoller = class extends GenericRoller {
     return `${this.original}
 ${this.resultText}`;
   }
-  build() {
-    return __async(this, null, function* () {
-      const result = [
-        this.result.toLocaleString(navigator.language, {
-          maximumFractionDigits: 2
-        })
-      ];
-      if (this.plugin.data.displayResultsInline) {
-        result.unshift(this.inlineText);
-      }
-      this.resultEl.setText(result.join("") + this.stunted);
-    });
+  async build() {
+    const result = [
+      this.result.toLocaleString(navigator.language, {
+        maximumFractionDigits: 2
+      })
+    ];
+    if (this.plugin.data.displayResultsInline) {
+      result.unshift(this.inlineText);
+    }
+    this.resultEl.setText(result.join("") + this.stunted);
   }
-  onClick(evt) {
-    return __async(this, null, function* () {
-      var _a;
-      evt.stopPropagation();
-      evt.stopImmediatePropagation();
-      if ((_a = window.getSelection()) == null ? void 0 : _a.isCollapsed) {
-        yield this.roll();
-      }
-    });
+  async onClick(evt) {
+    evt.stopPropagation();
+    evt.stopImmediatePropagation();
+    if (window.getSelection()?.isCollapsed) {
+      await this.roll();
+    }
   }
   get dynamic() {
     return this.dice.filter((d) => !d.static);
@@ -2205,159 +2154,157 @@ ${this.resultText}`;
   get isStatic() {
     return this.dice.every((d) => d.static);
   }
-  roll() {
-    return __async(this, null, function* () {
-      let index = 0;
-      this.stunted = "";
-      if (this.shouldRender) {
-        yield this.plugin.renderRoll(this);
-      } else {
-        for (const dice of this.lexemes) {
-          switch (dice.type) {
-            case "+":
-            case "-":
-            case "*":
-            case "/":
-            case "^":
-            case "math":
-              let b2 = this.stack.pop(), a2 = this.stack.pop();
-              if (!a2) {
-                if (dice.data === "-") {
-                  b2 = new DiceRoller(`-${b2.dice}`, b2.lexeme);
-                }
-                this.stackCopy.push(dice.data);
-                this.stack.push(b2);
-                continue;
+  async roll() {
+    let index = 0;
+    this.stunted = "";
+    if (this.shouldRender) {
+      await this.plugin.renderRoll(this);
+    } else {
+      for (const dice of this.lexemes) {
+        switch (dice.type) {
+          case "+":
+          case "-":
+          case "*":
+          case "/":
+          case "^":
+          case "math":
+            let b2 = this.stack.pop(), a2 = this.stack.pop();
+            if (!a2) {
+              if (dice.data === "-") {
+                b2 = new DiceRoller(`-${b2.dice}`, b2.lexeme);
               }
-              b2.roll();
-              if (b2 instanceof StuntRoller) {
-                if (b2.doubles) {
-                  this.stunted = ` - ${b2.results.get(0).value} Stunt Points`;
-                }
-              }
-              a2.roll();
-              if (a2 instanceof StuntRoller) {
-                if (a2.doubles) {
-                  this.stunted = ` - ${a2.results.get(0).value} Stunt Points`;
-                }
-              }
-              const result = this.operators[dice.data](a2.result, b2.result);
               this.stackCopy.push(dice.data);
-              this.stack.push(new DiceRoller(`${result}`, dice));
-              break;
-            case "kh": {
-              let diceInstance = this.dice[index - 1];
-              let data = dice.data ? Number(dice.data) : 1;
-              diceInstance.modifiers.set("kh", {
-                data,
-                conditionals: []
-              });
-              break;
+              this.stack.push(b2);
+              continue;
             }
-            case "dl": {
-              let diceInstance = this.dice[index - 1];
-              let data = dice.data ? Number(dice.data) : 1;
-              data = diceInstance.results.size - data;
-              diceInstance.modifiers.set("kh", {
-                data,
-                conditionals: []
-              });
-              break;
-            }
-            case "kl": {
-              let diceInstance = this.dice[index - 1];
-              let data = dice.data ? Number(dice.data) : 1;
-              diceInstance.modifiers.set("kl", {
-                data,
-                conditionals: []
-              });
-              break;
-            }
-            case "dh": {
-              let diceInstance = this.dice[index - 1];
-              let data = dice.data ? Number(dice.data) : 1;
-              data = diceInstance.results.size - data;
-              diceInstance.modifiers.set("kl", {
-                data,
-                conditionals: []
-              });
-              break;
-            }
-            case "!": {
-              let diceInstance = this.dice[index - 1];
-              let data = Number(dice.data) || 1;
-              diceInstance.modifiers.set("!", {
-                data,
-                conditionals: dice.conditionals
-              });
-              break;
-            }
-            case "!!": {
-              let diceInstance = this.dice[index - 1];
-              let data = Number(dice.data) || 1;
-              diceInstance.modifiers.set("!!", {
-                data,
-                conditionals: dice.conditionals
-              });
-              break;
-            }
-            case "r": {
-              let diceInstance = this.dice[index - 1];
-              let data = Number(dice.data) || 1;
-              diceInstance.modifiers.set("r", {
-                data,
-                conditionals: dice.conditionals
-              });
-              break;
-            }
-            case "dice": {
-              if (dice.parenedDice && /^d/.test(dice.original) && this.stack.length) {
-                const previous = this.stack.pop();
-                dice.data = `${previous.result}${dice.original}`;
-                this.dice[index] = new DiceRoller(dice.data, dice);
+            b2.roll();
+            if (b2 instanceof StuntRoller) {
+              if (b2.doubles) {
+                this.stunted = ` - ${b2.results.get(0).value} Stunt Points`;
               }
-              if (!this.dice[index]) {
-                this.dice[index] = new DiceRoller(dice.data, dice);
-              }
-              this.stack.push(this.dice[index]);
-              this.stackCopy.push(this.dice[index]);
-              index++;
-              break;
             }
-            case "stunt": {
-              if (!this.dice[index]) {
-                this.dice[index] = new StuntRoller(dice.original, dice);
+            a2.roll();
+            if (a2 instanceof StuntRoller) {
+              if (a2.doubles) {
+                this.stunted = ` - ${a2.results.get(0).value} Stunt Points`;
               }
-              this.stack.push(this.dice[index]);
-              this.stackCopy.push(this.dice[index]);
-              index++;
-              break;
             }
-            case "%": {
-              if (!this.dice[index]) {
-                this.dice[index] = new PercentRoller(dice.original, dice);
-              }
-              this.stack.push(this.dice[index]);
-              this.stackCopy.push(this.dice[index]);
-              index++;
-              break;
+            const result = this.operators[dice.data](a2.result, b2.result);
+            this.stackCopy.push(dice.data);
+            this.stack.push(new DiceRoller(`${result}`, dice));
+            break;
+          case "kh": {
+            let diceInstance = this.dice[index - 1];
+            let data = dice.data ? Number(dice.data) : 1;
+            diceInstance.modifiers.set("kh", {
+              data,
+              conditionals: []
+            });
+            break;
+          }
+          case "dl": {
+            let diceInstance = this.dice[index - 1];
+            let data = dice.data ? Number(dice.data) : 1;
+            data = diceInstance.results.size - data;
+            diceInstance.modifiers.set("kh", {
+              data,
+              conditionals: []
+            });
+            break;
+          }
+          case "kl": {
+            let diceInstance = this.dice[index - 1];
+            let data = dice.data ? Number(dice.data) : 1;
+            diceInstance.modifiers.set("kl", {
+              data,
+              conditionals: []
+            });
+            break;
+          }
+          case "dh": {
+            let diceInstance = this.dice[index - 1];
+            let data = dice.data ? Number(dice.data) : 1;
+            data = diceInstance.results.size - data;
+            diceInstance.modifiers.set("kl", {
+              data,
+              conditionals: []
+            });
+            break;
+          }
+          case "!": {
+            let diceInstance = this.dice[index - 1];
+            let data = Number(dice.data) || 1;
+            diceInstance.modifiers.set("!", {
+              data,
+              conditionals: dice.conditionals
+            });
+            break;
+          }
+          case "!!": {
+            let diceInstance = this.dice[index - 1];
+            let data = Number(dice.data) || 1;
+            diceInstance.modifiers.set("!!", {
+              data,
+              conditionals: dice.conditionals
+            });
+            break;
+          }
+          case "r": {
+            let diceInstance = this.dice[index - 1];
+            let data = Number(dice.data) || 1;
+            diceInstance.modifiers.set("r", {
+              data,
+              conditionals: dice.conditionals
+            });
+            break;
+          }
+          case "dice": {
+            if (dice.parenedDice && /^d/.test(dice.original) && this.stack.length) {
+              const previous = this.stack.pop();
+              dice.data = `${previous.result}${dice.original}`;
+              this.dice[index] = new DiceRoller(dice.data, dice);
             }
+            if (!this.dice[index]) {
+              this.dice[index] = new DiceRoller(dice.data, dice);
+            }
+            this.stack.push(this.dice[index]);
+            this.stackCopy.push(this.dice[index]);
+            index++;
+            break;
+          }
+          case "stunt": {
+            if (!this.dice[index]) {
+              this.dice[index] = new StuntRoller(dice.original, dice);
+            }
+            this.stack.push(this.dice[index]);
+            this.stackCopy.push(this.dice[index]);
+            index++;
+            break;
+          }
+          case "%": {
+            if (!this.dice[index]) {
+              this.dice[index] = new PercentRoller(dice.original, dice);
+            }
+            this.stack.push(this.dice[index]);
+            this.stackCopy.push(this.dice[index]);
+            index++;
+            break;
           }
         }
-        const final = this.stack.pop();
-        final.roll();
-        if (final instanceof StuntRoller) {
-          if (final.doubles) {
-            this.stunted = ` - ${final.results.get(0).value} Stunt Points`;
-          }
-        }
-        this.result = final.result;
-        this._tooltip = null;
       }
-      this.render();
-      this.trigger("new-result");
-      return this.result;
-    });
+      const final = this.stack.pop();
+      final.roll();
+      if (final instanceof StuntRoller) {
+        if (final.doubles) {
+          this.stunted = ` - ${final.results.get(0).value} Stunt Points`;
+        }
+      }
+      this.result = final.result;
+      this._tooltip = null;
+    }
+    this.render();
+    this.trigger("new-result");
+    return this.result;
   }
   recalculate() {
     let stack = [];
@@ -2390,18 +2337,16 @@ ${this.resultText}`;
       tooltip: this.tooltip
     };
   }
-  applyResult(result) {
-    return __async(this, null, function* () {
-      if (result.type !== "dice")
-        return;
-      if (result.result) {
-        this.result = result.result;
-      }
-      if (result.tooltip) {
-        this._tooltip = result.tooltip;
-      }
-      yield this.render();
-    });
+  async applyResult(result) {
+    if (result.type !== "dice")
+      return;
+    if (result.result) {
+      this.result = result.result;
+    }
+    if (result.tooltip) {
+      this._tooltip = result.tooltip;
+    }
+    await this.render();
   }
   setResult(result) {
   }
@@ -2437,9 +2382,9 @@ var SectionRoller = class extends GenericFileRoller {
     });
     this.copy.addEventListener("click", (evt) => {
       evt.stopPropagation();
-      navigator.clipboard.writeText(this.displayFromCache(...this.results).trim()).then(() => __async(this, null, function* () {
+      navigator.clipboard.writeText(this.displayFromCache(...this.results).trim()).then(async () => {
         new import_obsidian3.Notice("Result copied to clipboard.");
-      }));
+      });
     });
     (0, import_obsidian3.setIcon)(this.copy, COPY_DEFINITION);
   }
@@ -2454,68 +2399,64 @@ var SectionRoller = class extends GenericFileRoller {
     return `${this.original}
 ${this.path}`;
   }
-  build() {
-    return __async(this, null, function* () {
-      this.resultEl.empty();
-      if (this.plugin.data.displayResultsInline && this.inline) {
-        this.resultEl.createSpan({
-          text: this.inlineText
+  async build() {
+    this.resultEl.empty();
+    if (this.plugin.data.displayResultsInline && this.inline) {
+      this.resultEl.createSpan({
+        text: this.inlineText
+      });
+    }
+    if (!this.results || !this.results.length) {
+      this.resultEl.createDiv({
+        cls: "dice-no-results",
+        text: "No results."
+      });
+      return;
+    }
+    if (this.plugin.data.copyContentButton) {
+      this.copy.removeClass("no-show");
+    }
+    for (const result of this.results) {
+      this.resultEl.onclick = async (evt) => {
+        if (evt && evt.getModifierState("Control") || evt.getModifierState("Meta")) {
+          evt.stopPropagation();
+          return;
+        }
+      };
+      const ret = this.resultEl.createDiv({
+        cls: "markdown-embed"
+      });
+      if (!this.plugin.data.displayResultsInline) {
+        const type = "type" in result ? result.type : "List Item";
+        ret.setAttrs({
+          "aria-label": `${this.file.basename}: ${type}`
         });
       }
-      if (!this.results || !this.results.length) {
-        this.resultEl.createDiv({
+      if (!result) {
+        ret.createDiv({
           cls: "dice-no-results",
           text: "No results."
         });
-        return;
+        continue;
       }
-      if (this.plugin.data.copyContentButton) {
-        this.copy.removeClass("no-show");
-      }
-      for (const result of this.results) {
-        this.resultEl.onclick = (evt) => __async(this, null, function* () {
-          if (evt && evt.getModifierState("Control") || evt.getModifierState("Meta")) {
-            evt.stopPropagation();
-            return;
-          }
+      import_obsidian3.MarkdownRenderer.renderMarkdown(this.displayFromCache(result), ret.createDiv(), this.source, null);
+      if (this.plugin.data.copyContentButton && this.results.length > 1) {
+        let copy = ret.createDiv({
+          cls: "dice-content-copy dice-roller-button",
+          attr: { "aria-label": "Copy Contents" }
         });
-        const ret = this.resultEl.createDiv({
-          cls: "markdown-embed"
+        copy.addEventListener("click", (evt) => {
+          evt.stopPropagation();
+          navigator.clipboard.writeText(this.displayFromCache(result).trim()).then(async () => {
+            new import_obsidian3.Notice("Result copied to clipboard.");
+          });
         });
-        if (!this.plugin.data.displayResultsInline) {
-          const type = "type" in result ? result.type : "List Item";
-          ret.setAttrs({
-            "aria-label": `${this.file.basename}: ${type}`
-          });
-        }
-        if (!result) {
-          ret.createDiv({
-            cls: "dice-no-results",
-            text: "No results."
-          });
-          continue;
-        }
-        import_obsidian3.MarkdownRenderer.renderMarkdown(this.displayFromCache(result), ret.createDiv(), this.source, null);
-        if (this.plugin.data.copyContentButton && this.results.length > 1) {
-          let copy = ret.createDiv({
-            cls: "dice-content-copy dice-roller-button",
-            attr: { "aria-label": "Copy Contents" }
-          });
-          copy.addEventListener("click", (evt) => {
-            evt.stopPropagation();
-            navigator.clipboard.writeText(this.displayFromCache(result).trim()).then(() => __async(this, null, function* () {
-              new import_obsidian3.Notice("Result copied to clipboard.");
-            }));
-          });
-          (0, import_obsidian3.setIcon)(copy, COPY_DEFINITION);
-        }
+        (0, import_obsidian3.setIcon)(copy, COPY_DEFINITION);
       }
-    });
+    }
   }
-  load() {
-    return __async(this, null, function* () {
-      yield this.getOptions();
-    });
+  async load() {
+    await this.getOptions();
   }
   displayFromCache(...caches) {
     let res = [];
@@ -2525,8 +2466,7 @@ ${this.path}`;
     return res.join("\n\n");
   }
   getBlockId(cache) {
-    var _a;
-    const blocks = (_a = this.cache.blocks) != null ? _a : {};
+    const blocks = this.cache.blocks ?? {};
     const block = Object.entries(blocks).find(([id, block2]) => {
       return samePosition(block2.position, cache.position);
     });
@@ -2540,58 +2480,41 @@ ${this.path}`;
     return block[0];
   }
   getPath() {
-    var _a;
     const { groups } = this.lexeme.data.match(SECTION_REGEX);
     const { roll = 1, link, types } = groups;
     if (!link)
       throw new Error("Could not parse link.");
-    this.rolls = (_a = roll && !isNaN(Number(roll)) && Number(roll)) != null ? _a : 1;
+    this.rolls = (roll && !isNaN(Number(roll)) && Number(roll)) ?? 1;
     this.path = link.replace(/(\[|\])/g, "");
-    this.types = types == null ? void 0 : types.split(",");
-    this.levels = types == null ? void 0 : types.split(",").map((type) => /heading\-\d+/.test(type) ? type.split("-").pop() : null).filter((t) => t);
-    this.types = types == null ? void 0 : types.split(",").map((type) => /heading\-\d+/.test(type) ? type.split("-").shift() : type);
+    this.types = types?.split(",");
+    this.levels = types?.split(",").map((type) => /heading\-\d+/.test(type) ? type.split("-").pop() : null).filter((t) => t);
+    this.types = types?.split(",").map((type) => /heading\-\d+/.test(type) ? type.split("-").shift() : type);
   }
-  getOptions() {
-    return __async(this, null, function* () {
-      this.cache = this.plugin.app.metadataCache.getFileCache(this.file);
-      if (!this.cache || !this.cache.sections) {
-        throw new Error("Could not read file cache.");
+  async getOptions() {
+    this.cache = this.plugin.app.metadataCache.getFileCache(this.file);
+    if (!this.cache || !this.cache.sections) {
+      throw new Error("Could not read file cache.");
+    }
+    this.content = await this.plugin.app.vault.cachedRead(this.file);
+    this.options = this.cache.sections.filter(({ type, position }) => {
+      if (!this.types)
+        return !["yaml", "thematicBreak"].includes(type);
+      if (type == "heading" && this.types.includes(type) && this.levels.length) {
+        const headings = (this.cache.headings ?? []).filter(({ level }) => this.levels.includes(`${level}`));
+        return headings.some(({ position: pos }) => samePosition(pos, position));
       }
-      this.content = yield this.plugin.app.vault.cachedRead(this.file);
-      this.options = this.cache.sections.filter(({ type, position }) => {
-        var _a;
-        if (!this.types)
-          return !["yaml", "thematicBreak"].includes(type);
-        if (type == "heading" && this.types.includes(type) && this.levels.length) {
-          const headings = ((_a = this.cache.headings) != null ? _a : []).filter(({ level }) => this.levels.includes(`${level}`));
-          return headings.some(({ position: pos }) => samePosition(pos, position));
-        }
-        return this.types.includes(type);
-      });
-      if (this.types && this.types.includes("listItem")) {
-        this.options.push(...this.cache.listItems);
-      }
-      this.loaded = true;
-      this.trigger("loaded");
+      return this.types.includes(type);
     });
+    if (this.types && this.types.includes("listItem")) {
+      this.options.push(...this.cache.listItems);
+    }
+    this.loaded = true;
+    this.trigger("loaded");
   }
-  roll() {
-    return __async(this, null, function* () {
-      return new Promise((resolve2, reject2) => {
-        if (!this.loaded) {
-          this.on("loaded", () => {
-            const options = [...this.options];
-            this.results = [...Array(this.rolls)].map(() => {
-              let option = options[this.getRandomBetween(0, options.length - 1)];
-              options.splice(options.indexOf(option), 1);
-              return option;
-            }).filter((r) => r);
-            this.render();
-            this.trigger("new-result");
-            this.result = this.results[0];
-            resolve2(this.results[0]);
-          });
-        } else {
+  async roll() {
+    return new Promise((resolve2, reject2) => {
+      if (!this.loaded) {
+        this.on("loaded", () => {
           const options = [...this.options];
           this.results = [...Array(this.rolls)].map(() => {
             let option = options[this.getRandomBetween(0, options.length - 1)];
@@ -2602,8 +2525,19 @@ ${this.path}`;
           this.trigger("new-result");
           this.result = this.results[0];
           resolve2(this.results[0]);
-        }
-      });
+        });
+      } else {
+        const options = [...this.options];
+        this.results = [...Array(this.rolls)].map(() => {
+          let option = options[this.getRandomBetween(0, options.length - 1)];
+          options.splice(options.indexOf(option), 1);
+          return option;
+        }).filter((r) => r);
+        this.render();
+        this.trigger("new-result");
+        this.result = this.results[0];
+        resolve2(this.results[0]);
+      }
     });
   }
   toResult() {
@@ -2612,15 +2546,13 @@ ${this.path}`;
       result: this.results
     };
   }
-  applyResult(result) {
-    return __async(this, null, function* () {
-      if (result.type !== "section")
-        return;
-      if (result.result) {
-        this.results = result.result;
-      }
-      yield this.render();
-    });
+  async applyResult(result) {
+    if (result.type !== "section")
+      return;
+    if (result.result) {
+      this.results = result.result;
+    }
+    await this.render();
   }
 };
 var TagRoller = class extends GenericRoller {
@@ -2652,88 +2584,76 @@ var TagRoller = class extends GenericRoller {
     return this.result.replacer;
   }
   get typeText() {
-    var _a;
-    if (!((_a = this.types) == null ? void 0 : _a.length)) {
+    if (!this.types?.length) {
       return "";
     }
     return `|${this.types}`;
   }
-  getFiles() {
-    return __async(this, null, function* () {
-      yield this.plugin.dataviewReady();
-      const files = this.plugin.dataview.index.tags.invMap.get(this.tag);
-      if (files)
-        files.delete(this.source);
-      if (!files || !files.size) {
-        throw new Error("No files found with that tag. Is the tag correct?\n\n" + this.tag);
-      }
-      const links = Array.from(files).map((file) => `${this.rolls}d[[${file}]]${this.typeText}`);
-      this.results = links.map((link) => {
-        return new SectionRoller(this.plugin, link, {
-          data: link,
-          original: link,
-          conditionals: null,
-          type: "section"
-        }, this.source, false);
-      });
-      this.loaded = true;
-      this.trigger("loaded");
+  async getFiles() {
+    await this.plugin.dataviewReady();
+    const files = this.plugin.dataview.index.tags.invMap.get(this.tag);
+    if (files)
+      files.delete(this.source);
+    if (!files || !files.size) {
+      throw new Error("No files found with that tag. Is the tag correct?\n\n" + this.tag);
+    }
+    const links = Array.from(files).map((file) => `${this.rolls}d[[${file}]]${this.typeText}`);
+    this.results = links.map((link) => {
+      return new SectionRoller(this.plugin, link, {
+        data: link,
+        original: link,
+        conditionals: null,
+        type: "section"
+      }, this.source, false);
     });
+    this.loaded = true;
+    this.trigger("loaded");
   }
-  build() {
-    return __async(this, null, function* () {
-      var _a;
-      this.resultEl.empty();
-      if (this.plugin.data.displayResultsInline) {
-        this.resultEl.createSpan({
-          text: this.inlineText
-        });
-      }
-      if (this.collapse) {
-        this.chosen = (_a = this.random) != null ? _a : this.getRandomBetween(0, this.results.length - 1);
-        let section = this.results[this.chosen];
-        this.random = null;
+  async build() {
+    this.resultEl.empty();
+    if (this.plugin.data.displayResultsInline) {
+      this.resultEl.createSpan({
+        text: this.inlineText
+      });
+    }
+    if (this.collapse) {
+      this.chosen = this.random ?? this.getRandomBetween(0, this.results.length - 1);
+      let section = this.results[this.chosen];
+      this.random = null;
+      const container = this.resultEl.createDiv();
+      container.createEl("h5", {
+        cls: "dice-file-name",
+        text: section.file.basename
+      });
+      container.appendChild(section.containerEl);
+    } else {
+      for (let section of this.results) {
         const container = this.resultEl.createDiv();
         container.createEl("h5", {
           cls: "dice-file-name",
           text: section.file.basename
         });
         container.appendChild(section.containerEl);
-      } else {
-        for (let section of this.results) {
-          const container = this.resultEl.createDiv();
-          container.createEl("h5", {
-            cls: "dice-file-name",
-            text: section.file.basename
-          });
-          container.appendChild(section.containerEl);
-        }
       }
-    });
+    }
   }
-  roll() {
-    return __async(this, null, function* () {
-      return new Promise((resolve2, reject2) => {
-        if (this.loaded) {
-          this.results.forEach((section) => __async(this, null, function* () {
-            return yield section.roll();
-          }));
+  async roll() {
+    return new Promise((resolve2, reject2) => {
+      if (this.loaded) {
+        this.results.forEach(async (section) => await section.roll());
+        this.render();
+        this.trigger("new-result");
+        this.result = this.results[0];
+        resolve2(this.result);
+      } else {
+        this.on("loaded", () => {
+          this.results.forEach(async (section) => await section.roll());
           this.render();
           this.trigger("new-result");
           this.result = this.results[0];
           resolve2(this.result);
-        } else {
-          this.on("loaded", () => {
-            this.results.forEach((section) => __async(this, null, function* () {
-              return yield section.roll();
-            }));
-            this.render();
-            this.trigger("new-result");
-            this.result = this.results[0];
-            resolve2(this.result);
-          });
-        }
-      });
+        });
+      }
     });
   }
   get tooltip() {
@@ -2749,23 +2669,21 @@ var TagRoller = class extends GenericRoller {
       ]))
     };
   }
-  applyResult(result) {
-    return __async(this, null, function* () {
-      if (result.type !== "tag")
-        return;
-      if (result.result) {
-        for (let path in result.result) {
-          const section = this.results.find((section2) => section2.path === path);
-          if (!section)
-            continue;
-          section.applyResult(result.result[path]);
-        }
+  async applyResult(result) {
+    if (result.type !== "tag")
+      return;
+    if (result.result) {
+      for (let path in result.result) {
+        const section = this.results.find((section2) => section2.path === path);
+        if (!section)
+          continue;
+        section.applyResult(result.result[path]);
       }
-      if (result.random) {
-        this.random = result.random;
-      }
-      yield this.render();
-    });
+    }
+    if (result.random) {
+      this.random = result.random;
+    }
+    await this.render();
   }
 };
 var LinkRoller = class extends GenericRoller {
@@ -2775,10 +2693,9 @@ var LinkRoller = class extends GenericRoller {
     this.original = original;
     this.lexeme = lexeme;
     this.source = source;
-    var _a;
     const { roll = 1, tag } = lexeme.data.match(TAG_REGEX).groups;
     this.tag = `#${tag}`;
-    this.rolls = (_a = roll && !isNaN(Number(roll)) && Number(roll)) != null ? _a : 1;
+    this.rolls = (roll && !isNaN(Number(roll)) && Number(roll)) ?? 1;
     this.getFiles();
   }
   get replacer() {
@@ -2788,61 +2705,53 @@ var LinkRoller = class extends GenericRoller {
     return `${this.original}
 ${this.result.basename}`;
   }
-  roll() {
-    return __async(this, null, function* () {
-      return new Promise((resolve2, reject2) => {
-        if (this.loaded) {
+  async roll() {
+    return new Promise((resolve2, reject2) => {
+      if (this.loaded) {
+        this.result = this.links[this.getRandomBetween(0, this.links.length - 1)];
+        this.render();
+        this.trigger("new-result");
+        resolve2(this.result);
+      } else {
+        this.on("loaded", () => {
           this.result = this.links[this.getRandomBetween(0, this.links.length - 1)];
           this.render();
           this.trigger("new-result");
           resolve2(this.result);
-        } else {
-          this.on("loaded", () => {
-            this.result = this.links[this.getRandomBetween(0, this.links.length - 1)];
-            this.render();
-            this.trigger("new-result");
-            resolve2(this.result);
-          });
-        }
-      });
-    });
-  }
-  build() {
-    return __async(this, null, function* () {
-      this.resultEl.empty();
-      if (this.plugin.data.displayResultsInline) {
-        this.resultEl.createSpan({
-          text: this.inlineText
         });
       }
-      const link = this.resultEl.createEl("a", {
-        cls: "internal-link",
-        text: this.result.basename
-      });
-      link.onclick = (evt) => __async(this, null, function* () {
-        var _a;
-        evt.stopPropagation();
-        this.plugin.app.workspace.openLinkText(this.result.path, (_a = this.plugin.app.workspace.getActiveFile()) == null ? void 0 : _a.path, true);
-      });
-      link.onmouseenter = (evt) => __async(this, null, function* () {
-        var _a;
-        this.plugin.app.workspace.trigger("link-hover", this, link, this.result.path, (_a = this.plugin.app.workspace.getActiveFile()) == null ? void 0 : _a.path);
-      });
     });
   }
-  getFiles() {
-    return __async(this, null, function* () {
-      yield this.plugin.dataviewReady();
-      const files = this.plugin.dataview.index.tags.invMap.get(this.tag);
-      if (files)
-        files.delete(this.source);
-      if (!files || !files.size) {
-        throw new Error("No files found with that tag. Is the tag correct?\n\n" + this.tag);
-      }
-      this.links = Array.from(files).map((link) => this.plugin.app.metadataCache.getFirstLinkpathDest(link, this.source));
-      this.loaded = true;
-      this.trigger("loaded");
+  async build() {
+    this.resultEl.empty();
+    if (this.plugin.data.displayResultsInline) {
+      this.resultEl.createSpan({
+        text: this.inlineText
+      });
+    }
+    const link = this.resultEl.createEl("a", {
+      cls: "internal-link",
+      text: this.result.basename
     });
+    link.onclick = async (evt) => {
+      evt.stopPropagation();
+      this.plugin.app.workspace.openLinkText(this.result.path, this.plugin.app.workspace.getActiveFile()?.path, true);
+    };
+    link.onmouseenter = async (evt) => {
+      this.plugin.app.workspace.trigger("link-hover", this, link, this.result.path, this.plugin.app.workspace.getActiveFile()?.path);
+    };
+  }
+  async getFiles() {
+    await this.plugin.dataviewReady();
+    const files = this.plugin.dataview.index.tags.invMap.get(this.tag);
+    if (files)
+      files.delete(this.source);
+    if (!files || !files.size) {
+      throw new Error("No files found with that tag. Is the tag correct?\n\n" + this.tag);
+    }
+    this.links = Array.from(files).map((link) => this.plugin.app.metadataCache.getFirstLinkpathDest(link, this.source));
+    this.loaded = true;
+    this.trigger("loaded");
   }
   toResult() {
     return {
@@ -2850,18 +2759,16 @@ ${this.result.basename}`;
       result: this.result.path
     };
   }
-  applyResult(result) {
-    return __async(this, null, function* () {
-      if (result.type !== "link")
-        return;
-      if (result.result) {
-        const file = this.plugin.app.vault.getAbstractFileByPath(result.result);
-        if (file && file instanceof import_obsidian3.TFile) {
-          this.result = file;
-        }
+  async applyResult(result) {
+    if (result.type !== "link")
+      return;
+    if (result.result) {
+      const file = this.plugin.app.vault.getAbstractFileByPath(result.result);
+      if (file && file instanceof import_obsidian3.TFile) {
+        this.result = file;
       }
-      yield this.render();
-    });
+    }
+    await this.render();
   }
 };
 var LineRoller = class extends GenericFileRoller {
@@ -2880,9 +2787,9 @@ var LineRoller = class extends GenericFileRoller {
     });
     this.copy.addEventListener("click", (evt) => {
       evt.stopPropagation();
-      navigator.clipboard.writeText(this.results.join("\n")).then(() => __async(this, null, function* () {
+      navigator.clipboard.writeText(this.results.join("\n")).then(async () => {
         new import_obsidian3.Notice("Result copied to clipboard.");
-      }));
+      });
     });
     (0, import_obsidian3.setIcon)(this.copy, COPY_DEFINITION);
   }
@@ -2893,100 +2800,81 @@ var LineRoller = class extends GenericFileRoller {
     return `${this.original}
 ${this.path}`;
   }
-  build() {
-    return __async(this, null, function* () {
-      this.resultEl.empty();
-      if (this.plugin.data.displayResultsInline && this.inline) {
-        this.resultEl.createSpan({
-          text: this.inlineText
-        });
-      }
-      if (!this.results || !this.results.length) {
-        this.resultEl.createDiv({
+  async build() {
+    this.resultEl.empty();
+    if (this.plugin.data.displayResultsInline && this.inline) {
+      this.resultEl.createSpan({
+        text: this.inlineText
+      });
+    }
+    if (!this.results || !this.results.length) {
+      this.resultEl.createDiv({
+        cls: "dice-no-results",
+        text: "No results."
+      });
+      return;
+    }
+    if (this.plugin.data.copyContentButton) {
+      this.copy.removeClass("no-show");
+    }
+    for (const result of this.results) {
+      this.resultEl.onclick = async (evt) => {
+        if (evt && evt.getModifierState("Control") || evt.getModifierState("Meta")) {
+          evt.stopPropagation();
+          return;
+        }
+      };
+      const ret = this.resultEl.createDiv({
+        cls: "markdown-embed"
+      });
+      if (!result) {
+        ret.createDiv({
           cls: "dice-no-results",
           text: "No results."
         });
-        return;
+        continue;
       }
-      if (this.plugin.data.copyContentButton) {
-        this.copy.removeClass("no-show");
-      }
-      for (const result of this.results) {
-        this.resultEl.onclick = (evt) => __async(this, null, function* () {
-          if (evt && evt.getModifierState("Control") || evt.getModifierState("Meta")) {
-            evt.stopPropagation();
-            return;
-          }
+      import_obsidian3.MarkdownRenderer.renderMarkdown(result, ret.createDiv(), this.source, null);
+      if (this.plugin.data.copyContentButton && this.results.length > 1) {
+        let copy = ret.createDiv({
+          cls: "dice-content-copy dice-roller-button",
+          attr: { "aria-label": "Copy Contents" }
         });
-        const ret = this.resultEl.createDiv({
-          cls: "markdown-embed"
+        copy.addEventListener("click", (evt) => {
+          evt.stopPropagation();
+          navigator.clipboard.writeText(result).then(async () => {
+            new import_obsidian3.Notice("Result copied to clipboard.");
+          });
         });
-        if (!result) {
-          ret.createDiv({
-            cls: "dice-no-results",
-            text: "No results."
-          });
-          continue;
-        }
-        import_obsidian3.MarkdownRenderer.renderMarkdown(result, ret.createDiv(), this.source, null);
-        if (this.plugin.data.copyContentButton && this.results.length > 1) {
-          let copy = ret.createDiv({
-            cls: "dice-content-copy dice-roller-button",
-            attr: { "aria-label": "Copy Contents" }
-          });
-          copy.addEventListener("click", (evt) => {
-            evt.stopPropagation();
-            navigator.clipboard.writeText(result).then(() => __async(this, null, function* () {
-              new import_obsidian3.Notice("Result copied to clipboard.");
-            }));
-          });
-          (0, import_obsidian3.setIcon)(copy, COPY_DEFINITION);
-        }
+        (0, import_obsidian3.setIcon)(copy, COPY_DEFINITION);
       }
-    });
+    }
   }
-  load() {
-    return __async(this, null, function* () {
-      yield this.getOptions();
-    });
+  async load() {
+    await this.getOptions();
   }
   getPath() {
-    var _a;
     const { groups } = this.lexeme.data.match(SECTION_REGEX);
     const { roll = 1, link, types } = groups;
     if (!link)
       throw new Error("Could not parse link.");
-    this.rolls = (_a = roll && !isNaN(Number(roll)) && Number(roll)) != null ? _a : 1;
+    this.rolls = (roll && !isNaN(Number(roll)) && Number(roll)) ?? 1;
     this.path = link.replace(/(\[|\])/g, "");
-    this.types = types == null ? void 0 : types.split(",");
+    this.types = types?.split(",");
   }
-  getOptions() {
-    return __async(this, null, function* () {
-      this.content = yield this.plugin.app.vault.cachedRead(this.file);
-      if (!this.content) {
-        throw new Error("Could not read file cache.");
-      }
-      this.options = this.content.trim().split("\n").map((c2) => c2.trim()).filter((c2) => c2 && c2.length);
-      this.loaded = true;
-      this.trigger("loaded");
-    });
+  async getOptions() {
+    this.content = await this.plugin.app.vault.cachedRead(this.file);
+    if (!this.content) {
+      throw new Error("Could not read file cache.");
+    }
+    this.options = this.content.trim().split("\n").map((c2) => c2.trim()).filter((c2) => c2 && c2.length);
+    this.loaded = true;
+    this.trigger("loaded");
   }
-  roll() {
-    return __async(this, null, function* () {
-      return new Promise((resolve2, reject2) => {
-        if (!this.loaded) {
-          this.on("loaded", () => {
-            const options = [...this.options];
-            this.results = [...Array(this.rolls)].map(() => {
-              let option = options[this.getRandomBetween(0, options.length - 1)];
-              options.splice(options.indexOf(option), 1);
-              return option;
-            }).filter((r) => r);
-            this.render();
-            this.trigger("new-result");
-            resolve2(this.results[0]);
-          });
-        } else {
+  async roll() {
+    return new Promise((resolve2, reject2) => {
+      if (!this.loaded) {
+        this.on("loaded", () => {
           const options = [...this.options];
           this.results = [...Array(this.rolls)].map(() => {
             let option = options[this.getRandomBetween(0, options.length - 1)];
@@ -2996,8 +2884,18 @@ ${this.path}`;
           this.render();
           this.trigger("new-result");
           resolve2(this.results[0]);
-        }
-      });
+        });
+      } else {
+        const options = [...this.options];
+        this.results = [...Array(this.rolls)].map(() => {
+          let option = options[this.getRandomBetween(0, options.length - 1)];
+          options.splice(options.indexOf(option), 1);
+          return option;
+        }).filter((r) => r);
+        this.render();
+        this.trigger("new-result");
+        resolve2(this.results[0]);
+      }
     });
   }
   toResult() {
@@ -3006,15 +2904,13 @@ ${this.path}`;
       result: this.results
     };
   }
-  applyResult(result) {
-    return __async(this, null, function* () {
-      if (result.type !== "section")
-        return;
-      if (result.result) {
-        this.results = result.result;
-      }
-      yield this.render();
-    });
+  async applyResult(result) {
+    if (result.type !== "section")
+      return;
+    if (result.result) {
+      this.results = result.result;
+    }
+    await this.render();
   }
 };
 var samePosition = (pos, pos2) => {
@@ -3025,12 +2921,11 @@ var samePosition = (pos, pos2) => {
 var import_obsidian4 = __toModule(require("obsidian"));
 var TableRoller = class extends GenericFileRoller {
   getPath() {
-    var _a;
     const { groups } = this.lexeme.data.match(TABLE_REGEX);
     const { roll = 1, link, block, header } = groups;
     if (!link || !block)
       throw new Error("Could not parse link.");
-    this.rolls = (_a = roll && !isNaN(Number(roll)) && Number(roll)) != null ? _a : 1;
+    this.rolls = (roll && !isNaN(Number(roll)) && Number(roll)) ?? 1;
     this.path = link.replace(/(\[|\])/g, "");
     this.block = block.replace(/(\^|#)/g, "").trim().toLowerCase();
     this.header = header;
@@ -3042,104 +2937,92 @@ ${this.path} > ${this.block}${this.header ? " | " + this.header : ""}`;
   get replacer() {
     return this.result;
   }
-  build() {
-    return __async(this, null, function* () {
-      this.resultEl.empty();
-      const result = [this.result];
-      if (this.plugin.data.displayResultsInline) {
-        result.unshift(this.inlineText);
-      }
-      import_obsidian4.MarkdownRenderer.renderMarkdown(result.join(""), this.resultEl.createSpan("embedded-table-result"), this.source, null);
-    });
+  async build() {
+    this.resultEl.empty();
+    const result = [this.result];
+    if (this.plugin.data.displayResultsInline) {
+      result.unshift(this.inlineText);
+    }
+    import_obsidian4.MarkdownRenderer.renderMarkdown(result.join(""), this.resultEl.createSpan("embedded-table-result"), this.source, null);
   }
-  getResult() {
-    return __async(this, null, function* () {
-      if (this.isLookup) {
-        const result = yield this.lookupRoller.roll();
-        const option = this.lookupRanges.find(([range]) => range[1] === void 0 && result === range[0] || result >= range[0] && range[1] >= result);
-        if (option) {
-          return option[1];
-        }
+  async getResult() {
+    if (this.isLookup) {
+      const result = await this.lookupRoller.roll();
+      const option = this.lookupRanges.find(([range]) => range[1] === void 0 && result === range[0] || result >= range[0] && range[1] >= result);
+      if (option) {
+        return option[1];
       }
-      const options = [...this.options];
-      return [...Array(this.rolls)].map(() => {
-        let option = options[this.getRandomBetween(0, options.length - 1)];
-        options.splice(options.indexOf(option), 1);
-        return option;
-      }).join("||");
-    });
+    }
+    const options = [...this.options];
+    return [...Array(this.rolls)].map(() => {
+      let option = options[this.getRandomBetween(0, options.length - 1)];
+      options.splice(options.indexOf(option), 1);
+      return option;
+    }).join("||");
   }
-  roll() {
-    return __async(this, null, function* () {
-      return new Promise((resolve2) => __async(this, null, function* () {
-        if (this.loaded) {
-          this.result = yield this.getResult();
+  async roll() {
+    return new Promise(async (resolve2) => {
+      if (this.loaded) {
+        this.result = await this.getResult();
+        this.render();
+        this.trigger("new-result");
+        resolve2(this.result);
+      } else {
+        this.on("loaded", async () => {
+          this.result = await this.getResult();
           this.render();
           this.trigger("new-result");
           resolve2(this.result);
-        } else {
-          this.on("loaded", () => __async(this, null, function* () {
-            this.result = yield this.getResult();
-            this.render();
-            this.trigger("new-result");
-            resolve2(this.result);
-          }));
-        }
-      }));
+        });
+      }
     });
   }
-  load() {
-    return __async(this, null, function* () {
-      yield this.getOptions();
-    });
+  async load() {
+    await this.getOptions();
   }
-  getOptions() {
-    return __async(this, null, function* () {
-      var _a, _b;
-      this.cache = this.plugin.app.metadataCache.getFileCache(this.file);
-      if (!this.cache || !this.cache.blocks || !(this.block in this.cache.blocks)) {
-        throw new Error(`Could not read file cache. Does the block reference exist?
+  async getOptions() {
+    this.cache = this.plugin.app.metadataCache.getFileCache(this.file);
+    if (!this.cache || !this.cache.blocks || !(this.block in this.cache.blocks)) {
+      throw new Error(`Could not read file cache. Does the block reference exist?
 
 ${this.path} > ${this.block}`);
+    }
+    const section = this.cache.sections?.find((s) => s.position == this.cache.blocks[this.block].position);
+    this.position = this.cache.blocks[this.block].position;
+    this.content = (await this.plugin.app.vault.cachedRead(this.file))?.slice(this.position.start.offset, this.position.end.offset);
+    if (section && section.type === "list") {
+      this.options = this.content.split("\n");
+    } else {
+      let table = extract(this.content);
+      if (Object.keys(table.columns).length === 2 && /dice:\s*([\s\S]+)\s*?/.test(Object.keys(table.columns)[0])) {
+        const roller = this.plugin.getRoller(Object.keys(table.columns)[0].split(":").pop(), this.source);
+        if (roller instanceof StackRoller) {
+          this.lookupRoller = roller;
+          await this.lookupRoller.roll();
+          this.lookupRanges = table.rows.map((row) => {
+            const [range, option] = row.split("|").map((str) => str.replace("{ESCAPED_PIPE}", "|")).map((s) => s.trim());
+            let [, min, max] = range.match(/(\d+)(?:[^\d]+?(\d+))?/) ?? [];
+            if (!min && !max)
+              return;
+            return [
+              [Number(min), max ? Number(max) : void 0],
+              option
+            ];
+          });
+          this.isLookup = true;
+        }
       }
-      const section = (_a = this.cache.sections) == null ? void 0 : _a.find((s) => s.position == this.cache.blocks[this.block].position);
-      this.position = this.cache.blocks[this.block].position;
-      this.content = (_b = yield this.plugin.app.vault.cachedRead(this.file)) == null ? void 0 : _b.slice(this.position.start.offset, this.position.end.offset);
-      if (section && section.type === "list") {
-        this.options = this.content.split("\n");
+      if (this.header && table.columns[this.header]) {
+        this.options = table.columns[this.header];
       } else {
-        let table = extract(this.content);
-        if (Object.keys(table.columns).length === 2 && /dice:\s*([\s\S]+)\s*?/.test(Object.keys(table.columns)[0])) {
-          const roller = this.plugin.getRoller(Object.keys(table.columns)[0].split(":").pop(), this.source);
-          if (roller instanceof StackRoller) {
-            this.lookupRoller = roller;
-            yield this.lookupRoller.roll();
-            this.lookupRanges = table.rows.map((row) => {
-              var _a2;
-              const [range, option] = row.split("|").map((str) => str.replace("{ESCAPED_PIPE}", "|")).map((s) => s.trim());
-              let [, min, max] = (_a2 = range.match(/(\d+)(?:[^\d]+?(\d+))?/)) != null ? _a2 : [];
-              if (!min && !max)
-                return;
-              return [
-                [Number(min), max ? Number(max) : void 0],
-                option
-              ];
-            });
-            this.isLookup = true;
-          }
+        if (this.header) {
+          throw new Error(`Header ${this.header} was not found in table ${this.path} > ${this.block}.`);
         }
-        if (this.header && table.columns[this.header]) {
-          this.options = table.columns[this.header];
-        } else {
-          if (this.header) {
-            throw new Error(`Header ${this.header} was not found in table ${this.path} > ${this.block}.`);
-          }
-          this.options = table.rows;
-        }
+        this.options = table.rows;
       }
-      this.loaded = true;
-      this.trigger("loaded");
-    });
+    }
+    this.loaded = true;
+    this.trigger("loaded");
   }
   toResult() {
     return {
@@ -3147,25 +3030,20 @@ ${this.path} > ${this.block}`);
       result: this.result
     };
   }
-  applyResult(result) {
-    return __async(this, null, function* () {
-      if (result.type !== "table")
-        return;
-      if (result.result) {
-        this.result = result.result;
-      }
-      yield this.render();
-    });
+  async applyResult(result) {
+    if (result.type !== "table")
+      return;
+    if (result.result) {
+      this.result = result.result;
+    }
+    await this.render();
   }
 };
 var MATCH = /^\|?([\s\S]+?)\|?$/;
 var SPLIT = /\|/;
 function extract(content) {
   const lines = content.split("\n");
-  const inner = lines.map((l) => {
-    var _a;
-    return ((_a = l.trim().match(MATCH)) != null ? _a : [, l.trim()])[1];
-  });
+  const inner = lines.map((l) => (l.trim().match(MATCH) ?? [, l.trim()])[1]);
   const headers = inner[0].replace("\\|", "{ESCAPED_PIPE}").split(SPLIT);
   const rows = [];
   const ret = [];
@@ -3199,154 +3077,152 @@ var SettingTab = class extends import_obsidian5.PluginSettingTab {
     this.plugin = plugin;
     this.plugin = plugin;
   }
-  display() {
-    return __async(this, null, function* () {
-      let { containerEl } = this;
-      containerEl.empty();
-      containerEl.addClass("dice-roller-settings");
-      containerEl.createEl("h2", { text: "Dice Roller Settings" });
-      new import_obsidian5.Setting(containerEl).setName("Roll All Files for Tags").setDesc("Return a result for each file when rolling tags.").addToggle((t) => {
-        t.setValue(this.plugin.data.returnAllTags);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.returnAllTags = v;
-          yield this.plugin.saveSettings();
-        }));
+  async display() {
+    let { containerEl } = this;
+    containerEl.empty();
+    containerEl.addClass("dice-roller-settings");
+    containerEl.createEl("h2", { text: "Dice Roller Settings" });
+    new import_obsidian5.Setting(containerEl).setName("Roll All Files for Tags").setDesc("Return a result for each file when rolling tags.").addToggle((t) => {
+      t.setValue(this.plugin.data.returnAllTags);
+      t.onChange(async (v) => {
+        this.plugin.data.returnAllTags = v;
+        await this.plugin.saveSettings();
       });
-      new import_obsidian5.Setting(containerEl).setName("Always Return Links for Tags").setDesc("Enables random link rolling with the link parameter. Override by specifying a section type.").addToggle((t) => {
-        t.setValue(this.plugin.data.rollLinksForTags);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.rollLinksForTags = v;
-          yield this.plugin.saveSettings();
-        }));
+    });
+    new import_obsidian5.Setting(containerEl).setName("Always Return Links for Tags").setDesc("Enables random link rolling with the link parameter. Override by specifying a section type.").addToggle((t) => {
+      t.setValue(this.plugin.data.rollLinksForTags);
+      t.onChange(async (v) => {
+        this.plugin.data.rollLinksForTags = v;
+        await this.plugin.saveSettings();
       });
-      new import_obsidian5.Setting(containerEl).setName("Add Copy Button to Section Results").setDesc("Randomly rolled sections will have a copy-content button to easy add result to clipboard.").addToggle((t) => {
-        t.setValue(this.plugin.data.copyContentButton);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.copyContentButton = v;
-          yield this.plugin.saveSettings();
-        }));
+    });
+    new import_obsidian5.Setting(containerEl).setName("Add Copy Button to Section Results").setDesc("Randomly rolled sections will have a copy-content button to easy add result to clipboard.").addToggle((t) => {
+      t.setValue(this.plugin.data.copyContentButton);
+      t.onChange(async (v) => {
+        this.plugin.data.copyContentButton = v;
+        await this.plugin.saveSettings();
       });
-      new import_obsidian5.Setting(containerEl).setName("Display Formula With Results").setDesc("Both the formula and the results will both be displayed in preview mode.").addToggle((t) => {
-        t.setValue(this.plugin.data.displayResultsInline);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.displayResultsInline = v;
-          yield this.plugin.saveSettings();
-        }));
+    });
+    new import_obsidian5.Setting(containerEl).setName("Display Formula With Results").setDesc("Both the formula and the results will both be displayed in preview mode.").addToggle((t) => {
+      t.setValue(this.plugin.data.displayResultsInline);
+      t.onChange(async (v) => {
+        this.plugin.data.displayResultsInline = v;
+        await this.plugin.saveSettings();
       });
-      new import_obsidian5.Setting(containerEl).setName("Add Formula When Modifying").setDesc(createFragment((e) => {
-        e.createSpan({
-          text: "Both the formula and the results will both be added to the node when using "
-        });
-        e.createEl("code", { text: "dice-mod" });
-        e.createSpan({ text: "." });
-      })).addToggle((t) => {
-        t.setValue(this.plugin.data.displayFormulaForMod);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.displayFormulaForMod = v;
-          yield this.plugin.saveSettings();
-        }));
+    });
+    new import_obsidian5.Setting(containerEl).setName("Add Formula When Modifying").setDesc(createFragment((e) => {
+      e.createSpan({
+        text: "Both the formula and the results will both be added to the node when using "
       });
-      new import_obsidian5.Setting(containerEl).setName("Display Lookup Table Roll").setDesc("Lookup table rolls will display the rolled number along with the result.").addToggle((t) => {
-        t.setValue(this.plugin.data.displayLookupRoll);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.displayLookupRoll = v;
-          yield this.plugin.saveSettings();
-        }));
+      e.createEl("code", { text: "dice-mod" });
+      e.createSpan({ text: "." });
+    })).addToggle((t) => {
+      t.setValue(this.plugin.data.displayFormulaForMod);
+      t.onChange(async (v) => {
+        this.plugin.data.displayFormulaForMod = v;
+        await this.plugin.saveSettings();
       });
-      new import_obsidian5.Setting(containerEl).setName("Show Dice Button").setDesc("A dice button will appear next to results.").addToggle((t) => {
-        t.setValue(this.plugin.data.showDice);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.showDice = v;
-          yield this.plugin.saveSettings();
-        }));
+    });
+    new import_obsidian5.Setting(containerEl).setName("Display Lookup Table Roll").setDesc("Lookup table rolls will display the rolled number along with the result.").addToggle((t) => {
+      t.setValue(this.plugin.data.displayLookupRoll);
+      t.onChange(async (v) => {
+        this.plugin.data.displayLookupRoll = v;
+        await this.plugin.saveSettings();
       });
-      const save = new import_obsidian5.Setting(containerEl).setName("Globally Save Results").setDesc("Dice results will be saved by default. This can be overridden using ").addToggle((t) => {
-        t.setValue(this.plugin.data.persistResults);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.persistResults = v;
-          yield this.plugin.saveSettings();
-        }));
+    });
+    new import_obsidian5.Setting(containerEl).setName("Show Dice Button").setDesc("A dice button will appear next to results.").addToggle((t) => {
+      t.setValue(this.plugin.data.showDice);
+      t.onChange(async (v) => {
+        this.plugin.data.showDice = v;
+        await this.plugin.saveSettings();
       });
-      new import_obsidian5.Setting(containerEl).setName("Open Dice View on Startup").setDesc("The dice view can always be opened using the command from the command palette.").addToggle((t) => {
-        t.setValue(this.plugin.data.showLeafOnStartup);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.showLeafOnStartup = v;
-          yield this.plugin.saveSettings();
-        }));
+    });
+    const save = new import_obsidian5.Setting(containerEl).setName("Globally Save Results").setDesc("Dice results will be saved by default. This can be overridden using ").addToggle((t) => {
+      t.setValue(this.plugin.data.persistResults);
+      t.onChange(async (v) => {
+        this.plugin.data.persistResults = v;
+        await this.plugin.saveSettings();
       });
-      new import_obsidian5.Setting(containerEl).setName("Display graphics for Dice View Rolls").setDesc("Dice rolls from dice view will be displayed on screen.").addToggle((t) => {
-        t.setValue(this.plugin.data.renderer);
-        t.onChange((v) => __async(this, null, function* () {
-          this.plugin.data.renderer = v;
-          yield this.plugin.saveSettings();
-        }));
+    });
+    new import_obsidian5.Setting(containerEl).setName("Open Dice View on Startup").setDesc("The dice view can always be opened using the command from the command palette.").addToggle((t) => {
+      t.setValue(this.plugin.data.showLeafOnStartup);
+      t.onChange(async (v) => {
+        this.plugin.data.showLeafOnStartup = v;
+        await this.plugin.saveSettings();
       });
-      const diceColor = new import_obsidian5.Setting(containerEl).setName("Dice Base Color").setDesc("Rendered dice will be this color.");
-      diceColor.controlEl.createEl("input", {
-        type: "color",
-        value: this.plugin.data.diceColor
-      }, (el) => {
-        el.value = this.plugin.data.diceColor;
-        el.onchange = (_0) => __async(this, [_0], function* ({ target }) {
-          let color = target.value;
-          this.plugin.data.diceColor = color;
-          yield this.plugin.saveSettings();
-          this.plugin.app.workspace.trigger("dice-roller:update-colors");
-        });
+    });
+    new import_obsidian5.Setting(containerEl).setName("Display graphics for Dice View Rolls").setDesc("Dice rolls from dice view will be displayed on screen.").addToggle((t) => {
+      t.setValue(this.plugin.data.renderer);
+      t.onChange(async (v) => {
+        this.plugin.data.renderer = v;
+        await this.plugin.saveSettings();
       });
-      const textColor = new import_obsidian5.Setting(containerEl).setName("Dice Text Color").setDesc("Rendered dice will use this color for their numbers.");
-      textColor.controlEl.createEl("input", {
-        type: "color",
-        value: this.plugin.data.textColor
-      }, (el) => {
-        el.value = this.plugin.data.textColor;
-        el.onchange = (_0) => __async(this, [_0], function* ({ target }) {
-          let color = target.value;
-          if (!color)
-            return;
-          this.plugin.data.textColor = color;
-          yield this.plugin.saveSettings();
-          this.plugin.app.workspace.trigger("dice-roller:update-colors");
-        });
-      });
-      new import_obsidian5.Setting(containerEl).setName("Default Face").setDesc("Use this as the number of faces when it is omitted.").addText((t) => {
-        t.setValue(`${this.plugin.data.defaultFace}`);
-        t.inputEl.onblur = () => __async(this, null, function* () {
-          if (isNaN(Number(t.inputEl.value))) {
-            new import_obsidian5.Notice("The default face must be a number.");
-          }
-          this.plugin.data.defaultFace = Number(t.inputEl.value);
-          yield this.plugin.saveSettings();
-        });
-      });
-      save.descEl.createEl("code", { text: `dice-: formula` });
-      save.descEl.createEl("p", {
-        text: "Please note that the plugin will attempt to save the result but may not be able to."
-      });
-      this.additionalContainer = containerEl.createDiv("dice-roller-setting-additional-container");
-      this.buildFormulaSettings();
-      const div = containerEl.createDiv("coffee");
-      div.createEl("a", {
-        href: "https://www.buymeacoffee.com/valentine195"
-      }).createEl("img", {
-        attr: {
-          src: "https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=\u2615&slug=valentine195&button_colour=e3e7ef&font_colour=262626&font_family=Inter&outline_colour=262626&coffee_colour=ff0000"
+    });
+    const diceColor = new import_obsidian5.Setting(containerEl).setName("Dice Base Color").setDesc("Rendered dice will be this color.");
+    diceColor.controlEl.createEl("input", {
+      type: "color",
+      value: this.plugin.data.diceColor
+    }, (el) => {
+      el.value = this.plugin.data.diceColor;
+      el.onchange = async ({ target }) => {
+        let color = target.value;
+        this.plugin.data.diceColor = color;
+        await this.plugin.saveSettings();
+        this.plugin.app.workspace.trigger("dice-roller:update-colors");
+      };
+    });
+    const textColor = new import_obsidian5.Setting(containerEl).setName("Dice Text Color").setDesc("Rendered dice will use this color for their numbers.");
+    textColor.controlEl.createEl("input", {
+      type: "color",
+      value: this.plugin.data.textColor
+    }, (el) => {
+      el.value = this.plugin.data.textColor;
+      el.onchange = async ({ target }) => {
+        let color = target.value;
+        if (!color)
+          return;
+        this.plugin.data.textColor = color;
+        await this.plugin.saveSettings();
+        this.plugin.app.workspace.trigger("dice-roller:update-colors");
+      };
+    });
+    new import_obsidian5.Setting(containerEl).setName("Default Face").setDesc("Use this as the number of faces when it is omitted.").addText((t) => {
+      t.setValue(`${this.plugin.data.defaultFace}`);
+      t.inputEl.onblur = async () => {
+        if (isNaN(Number(t.inputEl.value))) {
+          new import_obsidian5.Notice("The default face must be a number.");
         }
-      });
+        this.plugin.data.defaultFace = Number(t.inputEl.value);
+        await this.plugin.saveSettings();
+      };
+    });
+    save.descEl.createEl("code", { text: `dice-: formula` });
+    save.descEl.createEl("p", {
+      text: "Please note that the plugin will attempt to save the result but may not be able to."
+    });
+    this.additionalContainer = containerEl.createDiv("dice-roller-setting-additional-container");
+    this.buildFormulaSettings();
+    const div = containerEl.createDiv("coffee");
+    div.createEl("a", {
+      href: "https://www.buymeacoffee.com/valentine195"
+    }).createEl("img", {
+      attr: {
+        src: "https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=\u2615&slug=valentine195&button_colour=e3e7ef&font_colour=262626&font_family=Inter&outline_colour=262626&coffee_colour=ff0000"
+      }
     });
   }
   buildFormulaSettings() {
     this.additionalContainer.empty();
     const addNew = this.additionalContainer.createDiv();
     new import_obsidian5.Setting(addNew).setName("Add Formula").setDesc("Add a new formula shortcut.").addButton((button) => {
-      let b2 = button.setTooltip("Add Formula").setButtonText("+").onClick(() => __async(this, null, function* () {
-        const formula = yield this.buildFormulaForm(addNew);
+      let b2 = button.setTooltip("Add Formula").setButtonText("+").onClick(async () => {
+        const formula = await this.buildFormulaForm(addNew);
         if (formula) {
           this.plugin.data.formulas[formula.alias] = formula.formula;
           this.buildFormulaSettings();
-          yield this.plugin.saveSettings();
+          await this.plugin.saveSettings();
         }
-      }));
+      });
       return b2;
     });
     const additional = this.additionalContainer.createDiv("additional");
@@ -3354,8 +3230,8 @@ var SettingTab = class extends import_obsidian5.PluginSettingTab {
     for (const [alias, formula] of Object.entries(formulas)) {
       const setting = new import_obsidian5.Setting(additional).setName(alias);
       setting.controlEl.createSpan({ text: formula });
-      setting.addExtraButton((b2) => b2.setIcon("pencil").setTooltip("Edit").onClick(() => __async(this, null, function* () {
-        const edited = yield this.buildFormulaForm(addNew, {
+      setting.addExtraButton((b2) => b2.setIcon("pencil").setTooltip("Edit").onClick(async () => {
+        const edited = await this.buildFormulaForm(addNew, {
           alias,
           formula
         });
@@ -3363,13 +3239,13 @@ var SettingTab = class extends import_obsidian5.PluginSettingTab {
           delete this.plugin.data.formulas[alias];
           this.plugin.data.formulas[edited.alias] = edited.formula;
           this.buildFormulaSettings();
-          yield this.plugin.saveSettings();
+          await this.plugin.saveSettings();
         }
-      }))).addExtraButton((b2) => b2.setIcon("trash").setTooltip("Delete").onClick(() => __async(this, null, function* () {
+      })).addExtraButton((b2) => b2.setIcon("trash").setTooltip("Delete").onClick(async () => {
         delete this.plugin.data.formulas[alias];
-        yield this.plugin.saveSettings();
+        await this.plugin.saveSettings();
         this.buildFormulaSettings();
-      })));
+      }));
     }
     if (!Object.values(formulas).length) {
       additional.createSpan({
@@ -3378,29 +3254,27 @@ var SettingTab = class extends import_obsidian5.PluginSettingTab {
       });
     }
   }
-  buildFormulaForm(_0) {
-    return __async(this, arguments, function* (el, temp = {
-      alias: null,
-      formula: null
-    }) {
-      return new Promise((resolve2) => {
-        const formulaEl = el.createDiv("add-new-formula");
-        const dataEl = formulaEl.createDiv("formula-data");
-        new import_obsidian5.Setting(dataEl).setName("Alias").addText((t) => {
-          t.setValue(temp.alias).onChange((v) => temp.alias = v);
-        });
-        new import_obsidian5.Setting(dataEl).setName("Formula").addText((t) => {
-          t.setValue(temp.formula).onChange((v) => temp.formula = v);
-        });
-        const buttonEl = formulaEl.createDiv("formula-buttons");
-        new import_obsidian5.Setting(buttonEl).addButton((b2) => b2.setCta().setButtonText("Save").onClick(() => __async(this, null, function* () {
-          formulaEl.detach();
-          resolve2(temp);
-        }))).addExtraButton((b2) => b2.setIcon("cross").setTooltip("Cancel").onClick(() => {
-          formulaEl.detach();
-          resolve2(null);
-        }));
+  async buildFormulaForm(el, temp = {
+    alias: null,
+    formula: null
+  }) {
+    return new Promise((resolve2) => {
+      const formulaEl = el.createDiv("add-new-formula");
+      const dataEl = formulaEl.createDiv("formula-data");
+      new import_obsidian5.Setting(dataEl).setName("Alias").addText((t) => {
+        t.setValue(temp.alias).onChange((v) => temp.alias = v);
       });
+      new import_obsidian5.Setting(dataEl).setName("Formula").addText((t) => {
+        t.setValue(temp.formula).onChange((v) => temp.formula = v);
+      });
+      const buttonEl = formulaEl.createDiv("formula-buttons");
+      new import_obsidian5.Setting(buttonEl).addButton((b2) => b2.setCta().setButtonText("Save").onClick(async () => {
+        formulaEl.detach();
+        resolve2(temp);
+      })).addExtraButton((b2) => b2.setIcon("cross").setTooltip("Cancel").onClick(() => {
+        formulaEl.detach();
+        resolve2(null);
+      }));
     });
   }
 };
@@ -3457,45 +3331,41 @@ var DiceView = class extends import_obsidian6.ItemView {
   get renderer() {
     return this.plugin.renderer;
   }
-  onOpen() {
-    return __async(this, null, function* () {
-      this.display();
-    });
+  async onOpen() {
+    this.display();
   }
-  display() {
-    return __async(this, null, function* () {
-      this.contentEl.empty();
-      this.gridEl = this.contentEl.createDiv("dice-roller-grid");
-      this.formulaEl = this.contentEl.createDiv("dice-roller-formula");
-      const resultsEl = this.contentEl.createDiv("dice-roller-results-container");
-      const headerEl = resultsEl.createDiv("dice-roller-results-header");
-      headerEl.createEl("h4", { text: "Results" });
-      new import_obsidian6.ExtraButtonComponent(headerEl.createDiv("clear-all")).setIcon("trash").setTooltip("Clear All").onClick(() => {
-        this.resultEl.empty();
-        this.resultEl.append(this.noResultsEl);
-      });
-      this.resultEl = resultsEl.createDiv("dice-roller-results");
-      this.noResultsEl = this.resultEl.createSpan({
-        text: "No results yet! Roll some dice to get started :)"
-      });
-      this.buildButtons();
-      this.buildFormula();
+  async display() {
+    this.contentEl.empty();
+    this.gridEl = this.contentEl.createDiv("dice-roller-grid");
+    this.formulaEl = this.contentEl.createDiv("dice-roller-formula");
+    const resultsEl = this.contentEl.createDiv("dice-roller-results-container");
+    const headerEl = resultsEl.createDiv("dice-roller-results-header");
+    headerEl.createEl("h4", { text: "Results" });
+    new import_obsidian6.ExtraButtonComponent(headerEl.createDiv("clear-all")).setIcon("trash").setTooltip("Clear All").onClick(() => {
+      this.resultEl.empty();
+      this.resultEl.append(this.noResultsEl);
     });
+    this.resultEl = resultsEl.createDiv("dice-roller-results");
+    this.noResultsEl = this.resultEl.createSpan({
+      text: "No results yet! Roll some dice to get started :)"
+    });
+    this.buildButtons();
+    this.buildFormula();
   }
   buildButtons() {
     this.gridEl.empty();
     const buttons = this.gridEl.createDiv("dice-buttons");
     for (let type in this.dice) {
       const button = new import_obsidian6.ExtraButtonComponent(buttons.createDiv("dice-button")).setIcon(type);
-      button.extraSettingsEl.onclick = (evt) => __async(this, null, function* () {
+      button.extraSettingsEl.onclick = async (evt) => {
         let add2 = evt.getModifierState("Shift") ? -1 : 1;
         this.dice[type] += add2;
         this.setFormula();
-        const roller = yield this.plugin.getRoller(this.formulaComponent.inputEl.value, "view");
+        const roller = await this.plugin.getRoller(this.formulaComponent.inputEl.value, "view");
         if (roller instanceof StackRoller) {
           this.stack = roller;
         }
-      });
+      };
     }
     const advDis = this.gridEl.createDiv("advantage-disadvantage");
     const adv = new import_obsidian6.ButtonComponent(advDis).setButtonText("ADV").onClick(() => {
@@ -3553,52 +3423,50 @@ var DiceView = class extends import_obsidian6.ItemView {
       }
     }
   }
-  roll() {
-    return __async(this, arguments, function* (formula = this.formulaComponent.inputEl.value) {
-      if (!formula) {
-        return;
+  async roll(formula = this.formulaComponent.inputEl.value) {
+    if (!formula) {
+      return;
+    }
+    this.rollButton.setDisabled(true);
+    const roller = await this.plugin.getRoller(formula, "view");
+    if (!(roller instanceof StackRoller)) {
+      new import_obsidian6.Notice("The Dice View only supports dice rolls.");
+      return;
+    }
+    await roller.roll();
+    if (!roller.dice.length) {
+      new import_obsidian6.Notice("Invalid formula.");
+      return;
+    }
+    try {
+      if (this.plugin.data.renderer) {
+        this.addChild(this.renderer);
+        this.renderer.setDice(roller);
+        await this.renderer.start();
+        roller.recalculate();
       }
-      this.rollButton.setDisabled(true);
-      const roller = yield this.plugin.getRoller(formula, "view");
-      if (!(roller instanceof StackRoller)) {
-        new import_obsidian6.Notice("The Dice View only supports dice rolls.");
-        return;
-      }
-      yield roller.roll();
-      if (!roller.dice.length) {
-        new import_obsidian6.Notice("Invalid formula.");
-        return;
-      }
-      try {
-        if (this.plugin.data.renderer) {
-          this.addChild(this.renderer);
-          this.renderer.setDice(roller);
-          yield this.renderer.start();
-          roller.recalculate();
-        }
-      } catch (e) {
-        new import_obsidian6.Notice("There was an error rendering the roll.");
-        console.error(e);
-      }
-      this.rollButton.setDisabled(false);
-      this.addResult({
-        result: roller.result,
-        original: roller.original,
-        resultText: roller.resultText
-      });
-      this.dice = DiceView.DICE();
-      this.add = null;
-      this.adv = false;
-      this.dis = false;
-      this.buildButtons();
-      this.setFormula();
+    } catch (e) {
+      new import_obsidian6.Notice("There was an error rendering the roll.");
+      console.error(e);
+    }
+    this.rollButton.setDisabled(false);
+    this.addResult({
+      result: roller.result,
+      original: roller.original,
+      resultText: roller.resultText
     });
+    this.dice = DiceView.DICE();
+    this.add = null;
+    this.adv = false;
+    this.dis = false;
+    this.buildButtons();
+    this.setFormula();
   }
   buildFormula() {
     this.formulaEl.empty();
     this.formulaComponent = new import_obsidian6.TextAreaComponent(this.formulaEl).setPlaceholder("Dice Formula");
-    this.formulaComponent.onChange((0, import_obsidian6.debounce)((v) => __async(this, null, function* () {
-    }), 500, true));
+    this.formulaComponent.onChange((0, import_obsidian6.debounce)(async (v) => {
+    }, 500, true));
     const buttons = this.formulaEl.createDiv("action-buttons");
     this.saveButton = new import_obsidian6.ButtonComponent(buttons).setIcon("plus-with-circle").setCta().setTooltip("Save Formula").onClick(() => this.save());
     this.saveButton.buttonEl.addClass("dice-roller-roll");
@@ -3634,9 +3502,9 @@ var DiceView = class extends import_obsidian6.ItemView {
         this.resultEl.prepend(this.noResultsEl);
       }
     });
-    const copy = new import_obsidian6.ExtraButtonComponent(context).setIcon(COPY_DEFINITION).setTooltip("Copy Result").onClick(() => __async(this, null, function* () {
-      yield navigator.clipboard.writeText(`${roller.result}`);
-    }));
+    const copy = new import_obsidian6.ExtraButtonComponent(context).setIcon(COPY_DEFINITION).setTooltip("Copy Result").onClick(async () => {
+      await navigator.clipboard.writeText(`${roller.result}`);
+    });
     copy.extraSettingsEl.addClass("dice-content-copy");
     const reroll = new import_obsidian6.ExtraButtonComponent(context).setIcon(ICON_DEFINITION).setTooltip("Roll Again").onClick(() => this.roll(roller.original));
     reroll.extraSettingsEl.addClass("dice-result-reroll");
@@ -3676,12 +3544,9 @@ var DiceView = class extends import_obsidian6.ItemView {
   getIcon() {
     return ICON_DEFINITION;
   }
-  onClose() {
-    var __superGet = (key) => super[key];
-    return __async(this, null, function* () {
-      yield __superGet("onClose").call(this);
-      this.renderer.unload();
-    });
+  async onClose() {
+    await super.onClose();
+    this.renderer.unload();
   }
 };
 
@@ -5071,7 +4936,7 @@ var WebGLRenderTarget = class extends EventDispatcher {
     this.depth = source.depth;
     this.viewport.copy(source.viewport);
     this.texture = source.texture.clone();
-    this.texture.image = __spreadValues({}, this.texture.image);
+    this.texture.image = { ...this.texture.image };
     this.depthBuffer = source.depthBuffer;
     this.stencilBuffer = source.stencilBuffer;
     this.depthTexture = source.depthTexture;
@@ -17467,86 +17332,84 @@ var WebXRManager = class extends EventDispatcher {
     this.getSession = function() {
       return session;
     };
-    this.setSession = function(value) {
-      return __async(this, null, function* () {
-        session = value;
-        if (session !== null) {
-          session.addEventListener("select", onSessionEvent);
-          session.addEventListener("selectstart", onSessionEvent);
-          session.addEventListener("selectend", onSessionEvent);
-          session.addEventListener("squeeze", onSessionEvent);
-          session.addEventListener("squeezestart", onSessionEvent);
-          session.addEventListener("squeezeend", onSessionEvent);
-          session.addEventListener("end", onSessionEnd);
-          session.addEventListener("inputsourceschange", onInputSourcesChange);
-          const attributes = gl.getContextAttributes();
-          if (attributes.xrCompatible !== true) {
-            yield gl.makeXRCompatible();
-          }
-          if (session.renderState.layers === void 0) {
-            const layerInit = {
-              antialias: attributes.antialias,
-              alpha: attributes.alpha,
-              depth: attributes.depth,
-              stencil: attributes.stencil,
-              framebufferScaleFactor
-            };
-            glBaseLayer = new XRWebGLLayer(session, gl, layerInit);
-            session.updateRenderState({ baseLayer: glBaseLayer });
-          } else if (gl instanceof WebGLRenderingContext) {
-            const layerInit = {
-              antialias: true,
-              alpha: attributes.alpha,
-              depth: attributes.depth,
-              stencil: attributes.stencil,
-              framebufferScaleFactor
-            };
-            glBaseLayer = new XRWebGLLayer(session, gl, layerInit);
-            session.updateRenderState({ layers: [glBaseLayer] });
-          } else {
-            isMultisample = attributes.antialias;
-            let depthFormat = null;
-            if (attributes.depth) {
-              clearStyle = 256;
-              if (attributes.stencil)
-                clearStyle |= 1024;
-              depthStyle = attributes.stencil ? 33306 : 36096;
-              depthFormat = attributes.stencil ? 35056 : 33190;
-            }
-            const projectionlayerInit = {
-              colorFormat: attributes.alpha ? 32856 : 32849,
-              depthFormat,
-              scaleFactor: framebufferScaleFactor
-            };
-            glBinding = new XRWebGLBinding(session, gl);
-            glProjLayer = glBinding.createProjectionLayer(projectionlayerInit);
-            glFramebuffer = gl.createFramebuffer();
-            session.updateRenderState({ layers: [glProjLayer] });
-            if (isMultisample) {
-              glMultisampledFramebuffer = gl.createFramebuffer();
-              glColorRenderbuffer = gl.createRenderbuffer();
-              gl.bindRenderbuffer(36161, glColorRenderbuffer);
-              gl.renderbufferStorageMultisample(36161, 4, 32856, glProjLayer.textureWidth, glProjLayer.textureHeight);
-              state.bindFramebuffer(36160, glMultisampledFramebuffer);
-              gl.framebufferRenderbuffer(36160, 36064, 36161, glColorRenderbuffer);
-              gl.bindRenderbuffer(36161, null);
-              if (depthFormat !== null) {
-                glDepthRenderbuffer = gl.createRenderbuffer();
-                gl.bindRenderbuffer(36161, glDepthRenderbuffer);
-                gl.renderbufferStorageMultisample(36161, 4, depthFormat, glProjLayer.textureWidth, glProjLayer.textureHeight);
-                gl.framebufferRenderbuffer(36160, depthStyle, 36161, glDepthRenderbuffer);
-                gl.bindRenderbuffer(36161, null);
-              }
-              state.bindFramebuffer(36160, null);
-            }
-          }
-          referenceSpace = yield session.requestReferenceSpace(referenceSpaceType);
-          animation.setContext(session);
-          animation.start();
-          scope.isPresenting = true;
-          scope.dispatchEvent({ type: "sessionstart" });
+    this.setSession = async function(value) {
+      session = value;
+      if (session !== null) {
+        session.addEventListener("select", onSessionEvent);
+        session.addEventListener("selectstart", onSessionEvent);
+        session.addEventListener("selectend", onSessionEvent);
+        session.addEventListener("squeeze", onSessionEvent);
+        session.addEventListener("squeezestart", onSessionEvent);
+        session.addEventListener("squeezeend", onSessionEvent);
+        session.addEventListener("end", onSessionEnd);
+        session.addEventListener("inputsourceschange", onInputSourcesChange);
+        const attributes = gl.getContextAttributes();
+        if (attributes.xrCompatible !== true) {
+          await gl.makeXRCompatible();
         }
-      });
+        if (session.renderState.layers === void 0) {
+          const layerInit = {
+            antialias: attributes.antialias,
+            alpha: attributes.alpha,
+            depth: attributes.depth,
+            stencil: attributes.stencil,
+            framebufferScaleFactor
+          };
+          glBaseLayer = new XRWebGLLayer(session, gl, layerInit);
+          session.updateRenderState({ baseLayer: glBaseLayer });
+        } else if (gl instanceof WebGLRenderingContext) {
+          const layerInit = {
+            antialias: true,
+            alpha: attributes.alpha,
+            depth: attributes.depth,
+            stencil: attributes.stencil,
+            framebufferScaleFactor
+          };
+          glBaseLayer = new XRWebGLLayer(session, gl, layerInit);
+          session.updateRenderState({ layers: [glBaseLayer] });
+        } else {
+          isMultisample = attributes.antialias;
+          let depthFormat = null;
+          if (attributes.depth) {
+            clearStyle = 256;
+            if (attributes.stencil)
+              clearStyle |= 1024;
+            depthStyle = attributes.stencil ? 33306 : 36096;
+            depthFormat = attributes.stencil ? 35056 : 33190;
+          }
+          const projectionlayerInit = {
+            colorFormat: attributes.alpha ? 32856 : 32849,
+            depthFormat,
+            scaleFactor: framebufferScaleFactor
+          };
+          glBinding = new XRWebGLBinding(session, gl);
+          glProjLayer = glBinding.createProjectionLayer(projectionlayerInit);
+          glFramebuffer = gl.createFramebuffer();
+          session.updateRenderState({ layers: [glProjLayer] });
+          if (isMultisample) {
+            glMultisampledFramebuffer = gl.createFramebuffer();
+            glColorRenderbuffer = gl.createRenderbuffer();
+            gl.bindRenderbuffer(36161, glColorRenderbuffer);
+            gl.renderbufferStorageMultisample(36161, 4, 32856, glProjLayer.textureWidth, glProjLayer.textureHeight);
+            state.bindFramebuffer(36160, glMultisampledFramebuffer);
+            gl.framebufferRenderbuffer(36160, 36064, 36161, glColorRenderbuffer);
+            gl.bindRenderbuffer(36161, null);
+            if (depthFormat !== null) {
+              glDepthRenderbuffer = gl.createRenderbuffer();
+              gl.bindRenderbuffer(36161, glDepthRenderbuffer);
+              gl.renderbufferStorageMultisample(36161, 4, depthFormat, glProjLayer.textureWidth, glProjLayer.textureHeight);
+              gl.framebufferRenderbuffer(36160, depthStyle, 36161, glDepthRenderbuffer);
+              gl.bindRenderbuffer(36161, null);
+            }
+            state.bindFramebuffer(36160, null);
+          }
+        }
+        referenceSpace = await session.requestReferenceSpace(referenceSpaceType);
+        animation.setContext(session);
+        animation.start();
+        scope.isPresenting = true;
+        scope.dispatchEvent({ type: "sessionstart" });
+      }
     };
     function onInputSourcesChange(event) {
       const inputSources = session.inputSources;
@@ -33248,7 +33111,10 @@ var DiceShape = class {
       "19",
       "20"
     ];
-    this.options = __spreadValues(__spreadValues({}, DEFAULT_DICE_OPTIONS), options);
+    this.options = {
+      ...DEFAULT_DICE_OPTIONS,
+      ...options
+    };
   }
   setColor({
     diceColor,
@@ -33917,21 +33783,19 @@ var _DiceRenderer = class extends import_obsidian7.Component {
     });
     this.initWorld();
   }
-  start() {
-    return __async(this, null, function* () {
-      return new Promise((resolve2, reject2) => __async(this, null, function* () {
-        if (!this.current.size)
-          reject2();
-        this.event.on("throw-finished", (result) => {
-          resolve2(result);
-        });
-        this.event.on("error", (e) => {
-          reject2(e);
-        });
-        this.animating = true;
-        this.extraFrames = _DiceRenderer.DEFAULT_EXTRA_FRAMES;
-        this.render();
-      }));
+  async start() {
+    return new Promise(async (resolve2, reject2) => {
+      if (!this.current.size)
+        reject2();
+      this.event.on("throw-finished", (result) => {
+        resolve2(result);
+      });
+      this.event.on("error", (e) => {
+        reject2(e);
+      });
+      this.animating = true;
+      this.extraFrames = _DiceRenderer.DEFAULT_EXTRA_FRAMES;
+      this.render();
     });
   }
   enableShadows() {
@@ -34283,7 +34147,7 @@ var Dice = class {
     this.scale = 50;
     this.stopped = false;
     this.iteration = 0;
-    this.vector = __spreadValues({}, DEFAULT_VECTOR);
+    this.vector = { ...DEFAULT_VECTOR };
     this.geometry = data.geometry;
     this.body = data.body;
   }
@@ -34342,7 +34206,6 @@ var Dice = class {
     return this.geometry.geometry;
   }
   getUpsideValue() {
-    var _a, _b;
     let vector = new Vector3(0, 0, this.sides == 4 ? -1 : 1);
     let closest_face, closest_angle = Math.PI * 2;
     const normals = this.buffer.getAttribute("normal").array;
@@ -34361,7 +34224,7 @@ var Dice = class {
     let matindex = closest_face.materialIndex - 1;
     if (this.sides == 10 && matindex == 0)
       matindex = 10;
-    return (_b = (_a = this.data.values) == null ? void 0 : _a[matindex]) != null ? _b : matindex;
+    return this.data.values?.[matindex] ?? matindex;
   }
   shiftUpperValue(to) {
     let geometry = this.geometry.geometry.clone();
@@ -34650,18 +34513,16 @@ var DiceRollerPlugin = class extends import_obsidian8.Plugin {
   get dataview() {
     return this.app.plugins.getPlugin("dataview");
   }
-  dataviewReady() {
-    return __async(this, null, function* () {
-      return new Promise((resolve2) => {
-        if (!this.canUseDataview)
-          resolve2(false);
-        if (this.dataview.api) {
-          resolve2(true);
-        }
-        this.registerEvent(this.app.metadataCache.on("dataview:api-ready", () => {
-          resolve2(true);
-        }));
-      });
+  async dataviewReady() {
+    return new Promise((resolve2) => {
+      if (!this.canUseDataview)
+        resolve2(false);
+      if (this.dataview.api) {
+        resolve2(true);
+      }
+      this.registerEvent(this.app.metadataCache.on("dataview:api-ready", () => {
+        resolve2(true);
+      }));
     });
   }
   get view() {
@@ -34670,310 +34531,300 @@ var DiceRollerPlugin = class extends import_obsidian8.Plugin {
     if (leaf && leaf.view && leaf.view instanceof DiceView)
       return leaf.view;
   }
-  addDiceView(startup = false) {
-    return __async(this, null, function* () {
-      if (startup && !this.data.showLeafOnStartup)
-        return;
-      if (this.app.workspace.getLeavesOfType(VIEW_TYPE).length) {
-        return;
-      }
-      yield this.app.workspace.getRightLeaf(false).setViewState({
-        type: VIEW_TYPE
-      });
+  async addDiceView(startup = false) {
+    if (startup && !this.data.showLeafOnStartup)
+      return;
+    if (this.app.workspace.getLeavesOfType(VIEW_TYPE).length) {
+      return;
+    }
+    await this.app.workspace.getRightLeaf(false).setViewState({
+      type: VIEW_TYPE
     });
   }
-  registerDataviewInlineFields() {
-    return __async(this, null, function* () {
-      if (!this.canUseDataview)
-        return;
-      yield this.dataviewReady();
-      const pages = this.dataview.index.pages;
-      pages.forEach(({ fields }) => {
-        for (const [key, value] of fields) {
+  async registerDataviewInlineFields() {
+    if (!this.canUseDataview)
+      return;
+    await this.dataviewReady();
+    const pages = this.dataview.index.pages;
+    pages.forEach(({ fields }) => {
+      for (const [key, value] of fields) {
+        if (typeof value !== "number" || Number.isNaN(value) || value == void 0)
+          continue;
+        this.inline.set(key, value);
+      }
+    });
+    this.registerEvent(this.app.metadataCache.on("dataview:metadata-change", (type, file) => {
+      if (type === "update") {
+        const page = this.dataview.api.page(file.path);
+        if (!page)
+          return;
+        for (let key in page) {
+          let value = page[key];
           if (typeof value !== "number" || Number.isNaN(value) || value == void 0)
             continue;
           this.inline.set(key, value);
         }
-      });
-      this.registerEvent(this.dataview.index.events.on("dataview:metadata-change", (type, file) => {
-        if (type === "update") {
-          const page = this.dataview.api.page(file.path);
-          if (!page)
-            return;
-          for (let key in page) {
-            let value = page[key];
-            if (typeof value !== "number" || Number.isNaN(value) || value == void 0)
-              continue;
-            this.inline.set(key, value);
-          }
-        }
-      }));
-    });
+      }
+    }));
   }
-  renderRoll(roller) {
-    return __async(this, null, function* () {
-      this.addChild(this.renderer);
-      this.renderer.setDice(roller);
-      yield this.renderer.start();
-      roller.recalculate();
-    });
+  async renderRoll(roller) {
+    this.addChild(this.renderer);
+    this.renderer.setDice(roller);
+    await this.renderer.start();
+    roller.recalculate();
   }
-  onload() {
-    return __async(this, null, function* () {
-      console.log("DiceRoller plugin loaded");
-      this.data = Object.assign(DEFAULT_SETTINGS, yield this.loadData());
-      this.renderer = new DiceRenderer(this);
-      this.addSettingTab(new SettingTab(this.app, this));
-      this.registerView(VIEW_TYPE, (leaf) => new DiceView(this, leaf));
-      this.app.workspace.onLayoutReady(() => this.addDiceView(true));
-      this.registerEvent(this.app.workspace.on("dice-roller:update-colors", () => {
-        this.renderer.factory.updateColors();
-      }));
-      this.registerEvent(this.app.workspace.on("dice-roller:render-dice", (roll) => __async(this, null, function* () {
-        const roller = yield this.getRoller(roll, "external");
-        if (!(roller instanceof StackRoller)) {
-          new import_obsidian8.Notice("The Dice View only supports dice rolls.");
-          return;
-        }
-        yield roller.roll();
-        if (!roller.dice.length) {
-          new import_obsidian8.Notice("Invalid formula.");
-          return;
-        }
-        try {
-          this.renderRoll(roller);
-        } catch (e) {
-          new import_obsidian8.Notice("There was an error rendering the roll.");
-          console.error(e);
-        }
-        this.app.workspace.trigger("dice-roller:rendered-result", roller.result);
-      })));
-      this.addCommand({
-        id: "open-view",
-        name: "Open Dice View",
-        checkCallback: (checking) => {
-          if (!this.view) {
-            if (!checking) {
-              this.addDiceView();
-            }
-            return true;
+  async onload() {
+    console.log("DiceRoller plugin loaded");
+    this.data = Object.assign(DEFAULT_SETTINGS, await this.loadData());
+    this.renderer = new DiceRenderer(this);
+    this.addSettingTab(new SettingTab(this.app, this));
+    this.registerView(VIEW_TYPE, (leaf) => new DiceView(this, leaf));
+    this.app.workspace.onLayoutReady(() => this.addDiceView(true));
+    this.registerEvent(this.app.workspace.on("dice-roller:update-colors", () => {
+      this.renderer.factory.updateColors();
+    }));
+    this.registerEvent(this.app.workspace.on("dice-roller:render-dice", async (roll) => {
+      const roller = await this.getRoller(roll, "external");
+      if (!(roller instanceof StackRoller)) {
+        new import_obsidian8.Notice("The Dice View only supports dice rolls.");
+        return;
+      }
+      await roller.roll();
+      if (!roller.dice.length) {
+        new import_obsidian8.Notice("Invalid formula.");
+        return;
+      }
+      try {
+        this.renderRoll(roller);
+      } catch (e) {
+        new import_obsidian8.Notice("There was an error rendering the roll.");
+        console.error(e);
+      }
+      this.app.workspace.trigger("dice-roller:rendered-result", roller.result);
+    }));
+    this.addCommand({
+      id: "open-view",
+      name: "Open Dice View",
+      checkCallback: (checking) => {
+        if (!this.view) {
+          if (!checking) {
+            this.addDiceView();
           }
+          return true;
         }
-      });
-      this.addCommand({
-        id: "reroll",
-        name: "Re-roll Dice",
-        checkCallback: (checking) => {
-          const view = this.app.workspace.getActiveViewOfType(import_obsidian8.MarkdownView);
-          if (view && view.getMode() === "preview" && this.fileMap.has(view.file)) {
-            if (!checking) {
-              const dice = this.fileMap.get(view.file);
-              dice.forEach((roller) => {
-                roller.roll();
-              });
-            }
-            return true;
-          }
-        }
-      });
-      const ICON_SVG = icon(faDice).html[0];
-      (0, import_obsidian8.addIcon)(ICON_DEFINITION, ICON_SVG);
-      const COPY_SVG = icon(faCopy).html[0];
-      (0, import_obsidian8.addIcon)(COPY_DEFINITION, COPY_SVG);
-      this.registerMarkdownPostProcessor((el, ctx) => __async(this, null, function* () {
-        var _a;
-        let nodeList = el.querySelectorAll("code");
-        if (!nodeList.length)
-          return;
-        const path = ctx.sourcePath;
-        const info = ctx.getSectionInfo(el);
-        const lineStart = (_a = ctx.getSectionInfo(el)) == null ? void 0 : _a.lineStart;
-        const file = this.app.vault.getAbstractFileByPath(ctx.sourcePath);
-        if (!file || !(file instanceof import_obsidian8.TFile))
-          return;
-        const toPersist = {};
-        for (let index = 0; index < nodeList.length; index++) {
-          const node = nodeList.item(index);
-          if (/^dice\-mod:\s*([\s\S]+)\s*?/.test(node.innerText) && info) {
-            try {
-              let [full, content] = node.innerText.match(/^dice\-mod:\s*([\s\S]+)\s*?/);
-              let showFormula = this.data.displayFormulaForMod;
-              if (content.includes("|noform")) {
-                showFormula = false;
-              }
-              content = content.replace("|noform", "");
-              const roller = this.getRoller(content, ctx.sourcePath);
-              roller.on("new-result", () => __async(this, null, function* () {
-                const fileContent = (yield this.app.vault.cachedRead(file)).split("\n");
-                let splitContent = fileContent.slice(info.lineStart, info.lineEnd + 1);
-                const replacer = roller.replacer;
-                if (!replacer) {
-                  new import_obsidian8.Notice("Dice Roller: There was an issue modifying the file.");
-                  return;
-                }
-                const rep = showFormula ? `${roller.inlineText} **${replacer}**` : `${replacer}`;
-                splitContent = splitContent.join("\n").replace(`\`${full}\``, rep).split("\n");
-                fileContent.splice(info.lineStart, info.lineEnd - info.lineStart + 1, ...splitContent);
-                yield this.app.vault.modify(file, fileContent.join("\n"));
-              }));
-              yield roller.roll();
-              continue;
-            } catch (e) {
-              console.error(e);
-            }
-          }
-          if (!/^dice(?:\+|\-|\-mod)?:\s*([\s\S]+)\s*?/.test(node.innerText))
-            continue;
-          try {
-            let [, content] = node.innerText.match(/^dice(?:\+|\-|\-mod)?:\s*([\s\S]+)\s*?/);
-            const roller = this.getRoller(content, ctx.sourcePath);
-            const load = () => __async(this, null, function* () {
-              var _a2, _b, _c, _d;
-              yield roller.roll();
-              if (this.data.persistResults && !/dice\-/.test(node.innerText) || /dice\+/.test(node.innerText)) {
-                this.persistingFiles.add(ctx.sourcePath);
-                toPersist[index] = roller;
-                roller.save = true;
-                const result = (_d = (_c = (_b = (_a2 = this.data.results) == null ? void 0 : _a2[path]) == null ? void 0 : _b[lineStart]) == null ? void 0 : _c[index]) != null ? _d : null;
-                if (result) {
-                  yield roller.applyResult(result);
-                }
-              }
-              node.replaceWith(roller.containerEl);
+      }
+    });
+    this.addCommand({
+      id: "reroll",
+      name: "Re-roll Dice",
+      checkCallback: (checking) => {
+        const view = this.app.workspace.getActiveViewOfType(import_obsidian8.MarkdownView);
+        if (view && view.getMode() === "preview" && this.fileMap.has(view.file)) {
+          if (!checking) {
+            const dice = this.fileMap.get(view.file);
+            dice.forEach((roller) => {
+              roller.roll();
             });
-            if (roller.loaded) {
-              yield load();
-            } else {
-              roller.on("loaded", () => __async(this, null, function* () {
-                yield load();
-              }));
+          }
+          return true;
+        }
+      }
+    });
+    const ICON_SVG = icon(faDice).html[0];
+    (0, import_obsidian8.addIcon)(ICON_DEFINITION, ICON_SVG);
+    const COPY_SVG = icon(faCopy).html[0];
+    (0, import_obsidian8.addIcon)(COPY_DEFINITION, COPY_SVG);
+    this.registerMarkdownPostProcessor(async (el, ctx) => {
+      let nodeList = el.querySelectorAll("code");
+      if (!nodeList.length)
+        return;
+      const path = ctx.sourcePath;
+      const info = ctx.getSectionInfo(el);
+      const lineStart = ctx.getSectionInfo(el)?.lineStart;
+      const file = this.app.vault.getAbstractFileByPath(ctx.sourcePath);
+      if (!file || !(file instanceof import_obsidian8.TFile))
+        return;
+      const toPersist = {};
+      for (let index = 0; index < nodeList.length; index++) {
+        const node = nodeList.item(index);
+        if (/^dice\-mod:\s*([\s\S]+)\s*?/.test(node.innerText) && info) {
+          try {
+            let [full, content] = node.innerText.match(/^dice\-mod:\s*([\s\S]+)\s*?/);
+            let showFormula = this.data.displayFormulaForMod;
+            if (content.includes("|noform")) {
+              showFormula = false;
             }
-            if (!this.fileMap.has(file)) {
-              this.fileMap.set(file, []);
-            }
-            this.fileMap.set(file, [
-              ...this.fileMap.get(file),
-              roller
-            ]);
-            const view = this.app.workspace.getActiveViewOfType(import_obsidian8.MarkdownView);
-            if (view && this.fileMap.has(file) && this.fileMap.get(file).length === 1) {
-              const self = this;
-              let unregisterOnUnloadFile = around(view, {
-                onUnloadFile: function(next) {
-                  return function(unloaded) {
-                    return __async(this, null, function* () {
-                      if (unloaded == file) {
-                        self.fileMap.delete(file);
-                        unregisterOnUnloadFile();
-                      }
-                      return yield next.call(this, unloaded);
-                    });
-                  };
-                }
-              });
-              view.register(unregisterOnUnloadFile);
-              view.register(() => this.fileMap.delete(file));
-            }
+            content = content.replace("|noform", "");
+            const roller = this.getRoller(content, ctx.sourcePath);
+            roller.on("new-result", async () => {
+              const fileContent = (await this.app.vault.cachedRead(file)).split("\n");
+              let splitContent = fileContent.slice(info.lineStart, info.lineEnd + 1);
+              const replacer = roller.replacer;
+              if (!replacer) {
+                new import_obsidian8.Notice("Dice Roller: There was an issue modifying the file.");
+                return;
+              }
+              const rep = showFormula ? `${roller.inlineText} **${replacer}**` : `${replacer}`;
+              splitContent = splitContent.join("\n").replace(`\`${full}\``, rep).split("\n");
+              fileContent.splice(info.lineStart, info.lineEnd - info.lineStart + 1, ...splitContent);
+              await this.app.vault.modify(file, fileContent.join("\n"));
+            });
+            await roller.roll();
+            continue;
           } catch (e) {
             console.error(e);
-            new import_obsidian8.Notice(`There was an error parsing the dice string: ${node.innerText}.
-
-${e}`, 5e3);
-            continue;
           }
         }
-        if (path in this.data.results) {
-          this.data.results[path][lineStart] = {};
-        }
-        if (Object.entries(toPersist).length) {
+        if (!/^dice(?:\+|\-|\-mod)?:\s*([\s\S]+)\s*?/.test(node.innerText))
+          continue;
+        try {
+          let [, content] = node.innerText.match(/^dice(?:\+|\-|\-mod)?:\s*([\s\S]+)\s*?/);
+          const roller = this.getRoller(content, ctx.sourcePath);
+          const load = async () => {
+            await roller.roll();
+            if (this.data.persistResults && !/dice\-/.test(node.innerText) || /dice\+/.test(node.innerText)) {
+              this.persistingFiles.add(ctx.sourcePath);
+              toPersist[index] = roller;
+              roller.save = true;
+              const result = this.data.results?.[path]?.[lineStart]?.[index] ?? null;
+              if (result) {
+                await roller.applyResult(result);
+              }
+            }
+            node.replaceWith(roller.containerEl);
+          };
+          if (roller.loaded) {
+            await load();
+          } else {
+            roller.on("loaded", async () => {
+              await load();
+            });
+          }
+          if (!this.fileMap.has(file)) {
+            this.fileMap.set(file, []);
+          }
+          this.fileMap.set(file, [
+            ...this.fileMap.get(file),
+            roller
+          ]);
           const view = this.app.workspace.getActiveViewOfType(import_obsidian8.MarkdownView);
-          if (view) {
+          if (view && this.fileMap.has(file) && this.fileMap.get(file).length === 1) {
             const self = this;
             let unregisterOnUnloadFile = around(view, {
               onUnloadFile: function(next) {
-                return function(unloaded) {
-                  return __async(this, null, function* () {
-                    var _a2, _b, _c, _d;
-                    if (unloaded = file) {
-                      if (self.persistingFiles.has(path)) {
-                        self.persistingFiles.delete(path);
-                        self.data.results[path] = {};
-                      }
-                      for (let index in toPersist) {
-                        const roller = toPersist[index];
-                        const newLineStart = (_a2 = ctx.getSectionInfo(el)) == null ? void 0 : _a2.lineStart;
-                        if (newLineStart == null)
-                          continue;
-                        const result = {
-                          [newLineStart]: __spreadProps(__spreadValues({}, (_c = (_b = self.data.results[path]) == null ? void 0 : _b[newLineStart]) != null ? _c : {}), {
-                            [index]: roller.toResult()
-                          })
-                        };
-                        self.data.results[path] = __spreadValues(__spreadValues({}, (_d = self.data.results[path]) != null ? _d : {}), result);
-                        yield self.saveSettings();
-                      }
-                    }
+                return async function(unloaded) {
+                  if (unloaded == file) {
+                    self.fileMap.delete(file);
                     unregisterOnUnloadFile();
-                    return yield next.call(this, unloaded);
-                  });
+                  }
+                  return await next.call(this, unloaded);
                 };
               }
             });
             view.register(unregisterOnUnloadFile);
-            view.register(() => __async(this, null, function* () {
-              var _a2, _b, _c, _d;
-              if (this.persistingFiles.has(path)) {
-                this.persistingFiles.delete(path);
-                this.data.results[path] = {};
-              }
-              for (let index in toPersist) {
-                const roller = toPersist[index];
-                const newLineStart = (_a2 = ctx.getSectionInfo(el)) == null ? void 0 : _a2.lineStart;
-                if (newLineStart == null)
-                  continue;
-                const result = {
-                  [newLineStart]: __spreadProps(__spreadValues({}, (_c = (_b = this.data.results[path]) == null ? void 0 : _b[newLineStart]) != null ? _c : {}), {
-                    [index]: roller.toResult()
-                  })
-                };
-                this.data.results[path] = __spreadValues(__spreadValues({}, (_d = this.data.results[path]) != null ? _d : {}), result);
-                yield this.saveSettings();
-              }
-            }));
+            view.register(() => this.fileMap.delete(file));
           }
+        } catch (e) {
+          console.error(e);
+          new import_obsidian8.Notice(`There was an error parsing the dice string: ${node.innerText}.
+
+${e}`, 5e3);
+          continue;
         }
-      }));
-      this.lexer = new import_lex.default();
-      this.addLexerRules();
-      var exponent = {
-        precedence: 3,
-        associativity: "right"
-      };
-      var factor = {
-        precedence: 2,
-        associativity: "left"
-      };
-      var term = {
-        precedence: 1,
-        associativity: "left"
-      };
-      this.parser = new Parser({
-        "+": term,
-        "-": term,
-        "*": factor,
-        "/": factor,
-        "^": exponent
-      });
-      this.app.workspace.onLayoutReady(() => __async(this, null, function* () {
-        yield this.registerDataviewInlineFields();
-      }));
+      }
+      if (path in this.data.results) {
+        this.data.results[path][lineStart] = {};
+      }
+      if (Object.entries(toPersist).length) {
+        const view = this.app.workspace.getActiveViewOfType(import_obsidian8.MarkdownView);
+        if (view) {
+          const self = this;
+          let unregisterOnUnloadFile = around(view, {
+            onUnloadFile: function(next) {
+              return async function(unloaded) {
+                if (unloaded = file) {
+                  if (self.persistingFiles.has(path)) {
+                    self.persistingFiles.delete(path);
+                    self.data.results[path] = {};
+                  }
+                  for (let index in toPersist) {
+                    const roller = toPersist[index];
+                    const newLineStart = ctx.getSectionInfo(el)?.lineStart;
+                    if (newLineStart == null)
+                      continue;
+                    const result = {
+                      [newLineStart]: {
+                        ...self.data.results[path]?.[newLineStart] ?? {},
+                        [index]: roller.toResult()
+                      }
+                    };
+                    self.data.results[path] = {
+                      ...self.data.results[path] ?? {},
+                      ...result
+                    };
+                    await self.saveSettings();
+                  }
+                }
+                unregisterOnUnloadFile();
+                return await next.call(this, unloaded);
+              };
+            }
+          });
+          view.register(unregisterOnUnloadFile);
+          view.register(async () => {
+            if (this.persistingFiles.has(path)) {
+              this.persistingFiles.delete(path);
+              this.data.results[path] = {};
+            }
+            for (let index in toPersist) {
+              const roller = toPersist[index];
+              const newLineStart = ctx.getSectionInfo(el)?.lineStart;
+              if (newLineStart == null)
+                continue;
+              const result = {
+                [newLineStart]: {
+                  ...this.data.results[path]?.[newLineStart] ?? {},
+                  [index]: roller.toResult()
+                }
+              };
+              this.data.results[path] = {
+                ...this.data.results[path] ?? {},
+                ...result
+              };
+              await this.saveSettings();
+            }
+          });
+        }
+      }
+    });
+    this.lexer = new import_lex.default();
+    this.addLexerRules();
+    var exponent = {
+      precedence: 3,
+      associativity: "right"
+    };
+    var factor = {
+      precedence: 2,
+      associativity: "left"
+    };
+    var term = {
+      precedence: 1,
+      associativity: "left"
+    };
+    this.parser = new Parser({
+      "+": term,
+      "-": term,
+      "*": factor,
+      "/": factor,
+      "^": exponent
+    });
+    this.app.workspace.onLayoutReady(async () => {
+      await this.registerDataviewInlineFields();
     });
   }
-  parseDice(content, source) {
-    return __async(this, null, function* () {
-      const roller = this.getRoller(content, source);
-      return { result: yield roller.roll(), roller };
-    });
+  async parseDice(content, source) {
+    const roller = this.getRoller(content, source);
+    return { result: await roller.roll(), roller };
   }
   clearEmpties(o) {
     for (var k in o) {
@@ -34986,11 +34837,9 @@ ${e}`, 5e3);
       }
     }
   }
-  saveSettings() {
-    return __async(this, null, function* () {
-      this.clearEmpties(this.data.results);
-      yield this.saveData(this.data);
-    });
+  async saveSettings() {
+    this.clearEmpties(this.data.results);
+    await this.saveData(this.data);
   }
   get dataview_regex() {
     const fields = Array.from(this.inline.keys());
@@ -35075,10 +34924,9 @@ ${e}`, 5e3);
       };
     });
     this.lexer.addRule(TAG_REGEX, (lexeme) => {
-      var _a;
       const { groups } = lexeme.match(TAG_REGEX);
       let type = "tag";
-      if (groups.types === "link" || this.data.rollLinksForTags && !((_a = groups.types) == null ? void 0 : _a.length)) {
+      if (groups.types === "link" || this.data.rollLinksForTags && !groups.types?.length) {
         type = "link";
       }
       return {
@@ -35133,8 +34981,7 @@ ${e}`, 5e3);
       };
     });
     this.lexer.addRule(/1[Dd]S/, function(lexeme) {
-      var _a;
-      const [, dice] = (_a = lexeme.match(/1[Dd]S/)) != null ? _a : [, "1"];
+      const [, dice] = lexeme.match(/1[Dd]S/) ?? [, "1"];
       return {
         type: "stunt",
         data: dice,

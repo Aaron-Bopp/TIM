@@ -1,4 +1,4 @@
-#review/dawnOfEverything
+#dawnOfEverything
 ##### Inequality is an unactionable item
 
 [[Hope is not optimism it is a practice for producing change]]

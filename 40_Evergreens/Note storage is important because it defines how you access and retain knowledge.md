@@ -1,6 +1,6 @@
 ---
 created: 2021-07-03
-tags: created/evergreen/2021/07/03, node/evergreen
+tags: created/evergreen/2021/07/03, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-02-10
@@ -31,7 +31,7 @@ If you would like to easily access your notes anywhere without hassle and have l
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My TIM]], [[second brain]], 

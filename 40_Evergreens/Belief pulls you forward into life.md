@@ -2,7 +2,7 @@
 created: 2021-12-31 
 aliases:
   - null
-tags: created/evergreen/2021/12/31, node/evergreen
+tags: created/evergreen/2021/12/31, review, node/evergreen
 sr-due: 2022-01-10
 sr-interval: 1
 sr-ease: 130
@@ -30,7 +30,7 @@ As opposed to dragging you back in life like the [[mind]] often does:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Life principles]], [[belief]], [[self-actualization]]

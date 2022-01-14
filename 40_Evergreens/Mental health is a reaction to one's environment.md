@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08
-tags: created/evergreen/2021/08/08, node/evergreen
+tags: created/evergreen/2021/08/08, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-01-19
@@ -33,7 +33,7 @@ Ways to alter our environment: [[Tips for concentration]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE   
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Psychology]], [[mental illness]]

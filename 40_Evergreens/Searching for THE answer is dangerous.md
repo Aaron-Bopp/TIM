@@ -1,6 +1,6 @@
 ---
 created: 2021-07-02
-tags: created/evergreen/2021/07/02, node/evergreen
+tags: created/evergreen/2021/07/02, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-02-14
@@ -36,7 +36,7 @@ This is why [[stereotype|stereotypes]] are so dangerous: [[Stereotyping has the 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[inter-personal communication]], [[self-actualization]], [[self-enhancement]], [[Life principles]]

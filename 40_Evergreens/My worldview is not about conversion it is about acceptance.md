@@ -1,6 +1,6 @@
 ---
 created: 2021-06-28
-tags: created/evergreen/2021/06/28, node/evergreen, node/personal 
+tags: created/evergreen/2021/06/28, review, node/evergreen, node/personal 
 sr-due: 2022-01-28
 sr-interval: 35
 sr-ease: 204
@@ -31,7 +31,7 @@ Especially in the case of children: [[Religious concepts are often too powerful 
 - [[Is cognitive dissonance the reason for harmful behaviors]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[belief systems]], [[faith]], [[philosophy]], [[theology]], [[sympathy]], [[empathy]]

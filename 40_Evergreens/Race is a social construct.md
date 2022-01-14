@@ -2,7 +2,7 @@
 created: 2021-10-23
 aliases:
   - null
-tags: created/evergreen/2021/10/23, node/evergreen
+tags: created/evergreen/2021/10/23, review, node/evergreen
 sr-due: 2022-01-27
 sr-interval: 37
 sr-ease: 230
@@ -16,7 +16,7 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SEED  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social construct]], [[racism]], [[white supremacy]], [[Civil Rights]]

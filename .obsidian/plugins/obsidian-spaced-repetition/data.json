@@ -18,7 +18,8 @@
     "multilineCardSeparator": "A::",
     "multilineReversedCardSeparator": "??",
     "tagsToReview": [
-      "#node/evergreen"
+      "#review",
+      "#review/dawnOfEverything"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
@@ -32,6 +33,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2022-01-03",
+  "buryDate": "2022-01-14",
   "buryList": []
 }

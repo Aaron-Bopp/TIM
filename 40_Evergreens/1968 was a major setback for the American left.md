@@ -1,6 +1,6 @@
 ---
 created: 2021-08-01
-tags: created/evergreen/2021/08/01, node/evergreen
+tags: created/evergreen/2021/08/01, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-03-14
@@ -16,7 +16,7 @@ As a person on [[the left]], I don't view 1968 as a shattering of [[America]], b
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social progress]], [[Progressives]], [[Civil Rights]], [[Politics]]
@@ -24,7 +24,6 @@ As a person on [[the left]], I don't view 1968 as a shattering of [[America]], b
 
 [^1]: Lecture 24, part 3, 1:00-2:30
 [^2]: https://www.theatlantic.com/business/archive/2013/08/martin-luther-kings-economic-dream-a-guaranteed-income-for-all-americans/279147/
-[^] tat lead to a weakened view of the [[Democratic]:
-[^3]: Textbook, pg 1040
+[^3]:  Textbook, pg 1040
 [^4]: Timeline, 1968
 [^5]: Lecture 24, part 3, 9:00-15:00

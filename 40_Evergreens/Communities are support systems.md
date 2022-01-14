@@ -2,7 +2,7 @@
 created: 2021-11-09 
 aliases:
   - null
-tags: created/evergreen/2021/11/09, node/evergreen
+tags: created/evergreen/2021/11/09, review, node/evergreen
 sr-due: 2022-02-07
 sr-interval: 40
 sr-ease: 190
@@ -16,7 +16,7 @@ This is something we have lost as a part of [[individualism|individualistic]] [[
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[community]], [[activism]]. [[Civil Rights]]

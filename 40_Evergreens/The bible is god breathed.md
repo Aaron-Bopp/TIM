@@ -1,7 +1,6 @@
 ---
 created: 2021-06-28
-tags: created/evergreen/2021/06/28, node/evergreen
-date modified: Saturday, October 2nd 2021, 2:42:05 pm
+tags: created/evergreen/2021/06/28, review, node/evergreen
 sr-due: 2022-01-18
 sr-interval: 41
 sr-ease: 273
@@ -17,7 +16,7 @@ It's a big part of the reason why I think [[The biblical Christian God is evil a
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Evangelicalism]], [[Christianity]], [[religious trauma]]

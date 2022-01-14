@@ -2,7 +2,7 @@
 created: 2021-11-25 
 aliases:
   - null
-tags: created/evergreen/2021/11/25, node/evergreen
+tags: created/evergreen/2021/11/25, review, node/evergreen
 sr-due: 2022-01-18
 sr-interval: 16
 sr-ease: 183
@@ -38,7 +38,7 @@ sr-ease: 183
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[Behavioral Psychology]], [[human advancement]]

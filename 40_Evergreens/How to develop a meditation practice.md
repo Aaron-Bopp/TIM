@@ -2,7 +2,7 @@
 created: 2022-01-01 
 aliases:
   - null
-tags: created/evergreen/2022/01/01, node/evergreen
+tags: created/evergreen/2022/01/01, review, node/evergreen
 sr-due: 2022-01-14
 sr-interval: 2
 sr-ease: 190
@@ -23,7 +23,7 @@ and it will shape your view of the world.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[self-improvement]]

@@ -2,7 +2,7 @@
 created: 2022-01-02T09:00:06 
 aliases:
   - null
-tags: created/evergreen/2022/01/02, node/evergreen
+tags: created/evergreen/2022/01/02, review, node/evergreen
 sr-due: 2022-01-10
 sr-interval: 4
 sr-ease: 210
@@ -20,7 +20,7 @@ This is how [[meditation]] could affect [[ADHD]]. [[ADHD is not a lack of attent
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[hormone]], [[mental health]]

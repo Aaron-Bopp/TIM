@@ -2,7 +2,7 @@
 created: 2021-12-02 
 aliases:
   - null
-tags: created/evergreen/2021/12/02, node/evergreen
+tags: created/evergreen/2021/12/02, review, node/evergreen
 sr-due: 2022-01-10
 sr-interval: 15
 sr-ease: 190
@@ -23,7 +23,7 @@ Sometimes this means finally *taking the piece of advise* your friend has given 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE  
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Life principles]], [[self-love]], [[self-improvement]]

@@ -2,7 +2,7 @@
 created: 2021-12-08 
 aliases:
   - null
-tags: created/evergreen/2021/12/08, node/evergreen
+tags: created/evergreen/2021/12/08, review, node/evergreen
 sr-due: 2022-01-08
 sr-interval: 4
 sr-ease: 150
@@ -24,7 +24,7 @@ Once you free yourself of [[guilt]] and [[shame]] it may appear that you lose [[
 - [[How can parent's best help their children]] 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**::[[self-actualization]], [[neurodiversity]], [[disability]]

@@ -1,6 +1,7 @@
 ---
 cssclass: wordcountTable
 ---
+
 src:: [Word and Character Count of multiple notes in Obsidian, using dataviewjs. · GitHub](https://gist.github.com/chrisgrieser/ac16a80cdd9e8e0e84606cc24e35ad99)
 %%
 

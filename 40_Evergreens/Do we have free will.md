@@ -2,7 +2,7 @@
 created: 2021-11-06 
 aliases:
   - null
-tags: created/evergreen/2021/11/06, node/evergreen, node/question, 
+tags: created/evergreen/2021/11/06, review, node/evergreen/question, 
 sr-due: 2022-01-22
 sr-interval: 18
 sr-ease: 170
@@ -22,7 +22,7 @@ Life is like sailing, you should have control of the rudder and the sail. Someti
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE  
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self]], [[philosophy]], [[human experience]]

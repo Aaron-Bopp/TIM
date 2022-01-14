@@ -1,4 +1,4 @@
-#review/dawnOfEverything
+#dawnOfEverything
 ##### People are willing to accept incomplete answers when it comes to history
 
 ![[books_The Dawn of Everything#258309232q]]

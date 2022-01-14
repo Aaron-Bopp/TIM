@@ -1,6 +1,6 @@
 ---
 created: 2021-06-11
-tags: created/evergreen/2021/06/11, node/evergreen
+tags: created/evergreen/2021/06/11, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-01-18
@@ -31,7 +31,7 @@ Because Christians have always had such a simple and obvious choice to avoid thi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/GRAFT 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]], [[childhood]], [[Behavioral Psychology]]

@@ -2,7 +2,7 @@
 created: 2022-01-02T12:06:58 
 aliases:
   - null
-tags: created/evergreen/2022/01/02, node/evergreen
+tags: created/evergreen/2022/01/02, review, node/evergreen
 sr-due: 2022-01-10
 sr-interval: 6
 sr-ease: 230
@@ -21,7 +21,7 @@ We answer to our urges first and our [[morality]] second
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]]

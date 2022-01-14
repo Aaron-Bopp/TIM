@@ -1,6 +1,6 @@
 ---
 created: 2021-06-27
-tags: created/evergreen/2021/06/27, node/evergreen
+tags: created/evergreen/2021/06/27, review, node/evergreen
 sr-due: 2022-01-09
 sr-interval: 9
 sr-ease: 175
@@ -28,7 +28,7 @@ This concept relates the different concepts of identity and presentation: [[Pres
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-actualization]], [[self]], [[self care]], [[gender identity]]

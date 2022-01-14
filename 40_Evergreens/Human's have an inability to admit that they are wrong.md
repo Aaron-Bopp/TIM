@@ -1,6 +1,6 @@
 ---
 created: 2021-06-12
-tags: created/evergreen/2021/06/12, node/evergreen
+tags: created/evergreen/2021/06/12, review, node/evergreen
 date modified: Monday, October 18th 2021, 11:16:49 pm
 sr-due: 2022-01-26
 sr-interval: 20
@@ -37,7 +37,7 @@ It can make it hard to accept knew information because of this and because [[We 
 For more see [[Humans are primarily irrational, illogical, emotional beings]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]

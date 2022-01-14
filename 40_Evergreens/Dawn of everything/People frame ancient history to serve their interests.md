@@ -1,4 +1,4 @@
-#review/dawnOfEverything
+#dawnOfEverything
 ##### People frame ancient history to serve their interests
 
 ![[books_The Dawn of Everything#258309241]]

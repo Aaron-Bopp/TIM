@@ -2,7 +2,7 @@
 created: 2021-12-26 
 aliases:
   - null
-tags: created/evergreen/2021/12/26, node/evergreen
+tags: created/evergreen/2021/12/26, review, node/evergreen
 sr-due: 2022-01-14
 sr-interval: 4
 sr-ease: 130
@@ -41,7 +41,7 @@ You may have a note that is is broad, but as you understand more about the subje
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[conceptual notes]], [[note writing]], [[evergreen notes]]

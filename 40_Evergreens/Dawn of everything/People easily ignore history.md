@@ -1,4 +1,4 @@
-#review/dawnOfEverything
+#dawnOfEverything
 ##### People easily ignore history
 
 ![[books_The Dawn of Everything#258309232]]

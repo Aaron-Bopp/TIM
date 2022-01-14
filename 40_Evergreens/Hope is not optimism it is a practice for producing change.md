@@ -1,6 +1,6 @@
 ---
 created: 2021-08-09
-tags: created/evergreen/2021/08/09, node/evergreen
+tags: created/evergreen/2021/08/09, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-01-16
@@ -31,7 +31,7 @@ Even if you are [[suffering]], [[hope]] is the only path forward:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[hope]], [[optimism]], [[anger]], [[activism]]

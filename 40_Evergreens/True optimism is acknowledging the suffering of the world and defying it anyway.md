@@ -2,7 +2,7 @@
 created: 2021-10-23
 aliases:
   - Acknowledging the suffering of the world and defying it anyway
-tags: created/evergreen/2021/10/23, node/evergreen
+tags: created/evergreen/2021/10/23, review, node/evergreen
 sr-due: 2022-01-13
 sr-interval: 21
 sr-ease: 171
@@ -25,7 +25,7 @@ The best worldviews focus on producing this mindset e.g. [[Buddhism outlines a p
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[optimism]], [[pessimism]], [[realism]], [[human experience]], [[self-actualization]]

@@ -2,7 +2,7 @@
 created: 2021-08-09
 aliases:
   - "must acknowledge optimism's existence and effectiveness"
-tags: created/evergreen/2021/08/09, node/evergreen
+tags: created/evergreen/2021/08/09, review, node/evergreen
 sr-due: 2022-01-21
 sr-interval: 28
 sr-ease: 287
@@ -20,8 +20,8 @@ Even if you think that optimism is ignorant it does not change the fact that opt
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/GRAFT 
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
-**Topics**:: [[pessimism]], [[realism]], [[optimism]], [[human advancement]], [[purpose]]
+**Topics**:: [[pessimism]], [[realism]], [[optimism]], [[human advancement]], [[purpose]], [[Life principles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -1,6 +1,6 @@
 ---
 created: 2021-06-15
-tags: created/evergreen/2021/06/15, node/evergreen
+tags: created/evergreen/2021/06/15, review, node/evergreen
 sr-due: 2022-01-14
 sr-interval: 15
 sr-ease: 142
@@ -16,11 +16,13 @@ Discovering what deeper mechanism is behind your anxiety can be difficult task, 
  
  ##### Cause:: repressed identity
  
+%%
 #TO/TEND/REFACTOR these notes [[Your anxiety knows your insecurities better than you do#Cause repressed identity]], [[We value our biggest insecurities because they protect us from the biggest threats]]
 
  #TO/TEND/DEOBFUSCATE [[A repressed identity creates a mistrust of self-love and self-esteem]] and this section
  
  #TO/TEND/CONNECT [[A secure identity is the best defense against social anxiety]]
+%%
  
 If your [[identity]] is severely repressed, you will interacting with the world with a massive blind spot because you will be feeling things without understanding them: [[Identity is your understanding of yourself vs your interaction with the world]]. This generates [[anxiety]] because you do not understand the sources of the feelings well enough to predict when and understand why they happen. [[Social anxiety isn't irrational it's just overcompensation]], and in this case your anxiety will push you to go over every possibility, because your brain doesn't know which things to prioritize because the [[ego]] is blocking those things off: [[Our ego is our subconscious defense of our self]]
 
@@ -39,7 +41,7 @@ Material insecurity can create this sensation: [[Insecure material conditions in
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/GROWING 
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[mental health]], [[self-actualization]], [[self-improvement]], [[self-hate]], [[social anxiety]] 

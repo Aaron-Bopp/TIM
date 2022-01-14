@@ -2,7 +2,7 @@
 created: 2021-12-12 
 aliases:
   - null
-tags: created/evergreen/2021/12/12, node/evergreen
+tags: created/evergreen/2021/12/12, review, node/evergreen
 sr-due: 2022-02-05
 sr-interval: 32
 sr-ease: 230
@@ -31,7 +31,7 @@ Not every modern Christian practice is bad: [[Faith can be a useful tool for gro
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/GROWING  
 *edited `=this.file.mtime`*
 
 **Topics**::  [[Evangelicalism]], [[capitalism]]

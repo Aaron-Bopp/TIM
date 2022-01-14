@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08
-tags: created/evergreen/2021/08/08, node/evergreen
+tags: created/evergreen/2021/08/08, review, node/evergreen
 aliases:
   - null
 sr-due: 2022-01-24
@@ -22,7 +22,7 @@ This beautiful because of it allows for such a [[diverse]] [[queer]] [[community
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[Queer]], [[transgender]]

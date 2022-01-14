@@ -1,6 +1,6 @@
 ---
 created: 2021-06-20
-tags: created/evergreen/2021/06/20, node/evergreen
+tags: created/evergreen/2021/06/20, review, node/evergreen
 sr-due: 2022-01-09
 sr-interval: 36
 sr-ease: 213
@@ -31,7 +31,7 @@ For example, [[Trans children will repress their dysphoria if they have been eff
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[emotional invalidation]] 

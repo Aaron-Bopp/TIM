@@ -1,4 +1,4 @@
-#review/dawnOfEverything
+#dawnOfEverything
 ##### The two stories of prehistory
 
 There are two main stories of prehistory.

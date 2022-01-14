@@ -2,7 +2,7 @@
 created: 2022-01-04T16:00:57 
 aliases:
   - null
-tags: created/evergreen/2022/01/04, node/evergreen
+tags: created/evergreen/2022/01/04, review, node/evergreen
 sr-due: 2022-01-23
 sr-interval: 11
 sr-ease: 210
@@ -17,7 +17,7 @@ sr-ease: 210
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[purpose]], [[duty]], [[self-actualization]], [[Life principles]]

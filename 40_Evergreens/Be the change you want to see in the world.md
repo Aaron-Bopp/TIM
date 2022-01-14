@@ -2,7 +2,7 @@
 created: 2021-11-24 
 aliases:
   - null
-tags: created/evergreen/2021/11/24, node/evergreen
+tags: created/evergreen/2021/11/24, review, node/evergreen
 sr-due: 2022-01-11
 sr-interval: 13
 sr-ease: 150
@@ -20,7 +20,7 @@ sr-ease: 150
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER   
+**Status**:: #EVER/GROWING   
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[self-actualization]], [[morality]], [[Life principles]]

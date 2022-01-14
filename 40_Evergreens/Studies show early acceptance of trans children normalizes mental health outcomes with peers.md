@@ -2,7 +2,7 @@
 created: 2021-11-06 
 aliases:
   - null
-tags: created/evergreen/2021/11/06, node/evergreen
+tags: created/evergreen/2021/11/06, review, node/evergreen
 sr-due: 2022-02-12
 sr-interval: 31
 sr-ease: 214
@@ -15,7 +15,7 @@ sr-ease: 214
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[transgender]], [[community]]

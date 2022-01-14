@@ -1,6 +1,6 @@
 ---
 created: 2021-06-20
-tags: created/evergreen/2021/06/20, node/evergreen
+tags: created/evergreen/2021/06/20, review, node/evergreen
 sr-due: 2022-01-15
 sr-interval: 11
 sr-ease: 130
@@ -27,7 +27,7 @@ The way that this primal urge manifests in our complex understanding of emotion 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/PRUNE 
+**Status**:: #EVER/WEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self]], [[self-actualization]], [[social anxiety]], [[self-love]]

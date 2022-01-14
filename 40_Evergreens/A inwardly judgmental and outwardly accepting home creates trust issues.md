@@ -1,6 +1,6 @@
 ---
 created: 2021-07-30
-tag: node/evergreen 
+tag: review, node/evergreen 
 aliases:
   - A inwardly judgementful and outwardly accepting home creates trust issues
 sr-due: 2022-01-13
@@ -10,11 +10,11 @@ sr-ease: 130
 
 #### [[A inwardly judgmental and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/WEED 
 When I was a kid I grew up in a very [[religion|religious]] household,
 ^[[[My Deconstruction journey]]]
 and so I was very aware of the consequences of not being a [[Christianity|Christian]].
 ^[[[Religious concepts are often too powerful for a child's mind]]]
-I was also a had a soft [[heart]] and cared a lot a bout [[justice]]. 
 So it was very shocking to me when we would come home from church and I would hear my [[parents]] talk about the people who they had been so nice to at church in such [[judgement|judgmentful]] ways. 
 This was very confusing for me, and I developed a lot of [[anxiety]] around not being able to trust what my [[parents]] would say.
 
@@ -36,7 +36,7 @@ This was very confusing for me, and I developed a lot of [[anxiety]] around not 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[childhood]], [[trauma]], [[socialization]], [[mental health]]

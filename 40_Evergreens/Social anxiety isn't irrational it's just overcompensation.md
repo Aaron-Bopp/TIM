@@ -1,6 +1,6 @@
 ---
 created: 2021-06-15
-tags: created/evergreen/2021/06/15, node/evergreen
+tags: created/evergreen/2021/06/15, review, node/evergreen
 sr-due: 2022-03-18
 sr-interval: 65
 sr-ease: 214
@@ -22,7 +22,7 @@ For the most part [[anxiety]] is a completely natural and normal [[Neuroscience|
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[Neuroscience]]
