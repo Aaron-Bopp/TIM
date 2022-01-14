@@ -30,7 +30,7 @@ You shouldn't ever take anybody's word in the [[knowledge management|PKM]] [[com
 - [[A totally integrated machine should be infinitely scalable]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[My TIM]], [[web of thought]], [[note writing]]

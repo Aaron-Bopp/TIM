@@ -22,7 +22,7 @@ True empathy is not a blind taking on of emotion, it is putting yourself in that
 #TO/EXPLORE/RESEARCH and #TO/PONDER/CONCEPT wiki's definitions of these things
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[empathy]], [[sympathy]]

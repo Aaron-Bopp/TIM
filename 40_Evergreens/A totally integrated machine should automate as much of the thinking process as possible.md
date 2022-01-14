@@ -35,7 +35,7 @@ while you are doing this.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[My TIM]], [[transhumanism]]

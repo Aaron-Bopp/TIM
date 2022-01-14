@@ -15,7 +15,7 @@ With enough practice, you'll be able to tell if your [[self]]-talk is coming fro
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-image]], [[transgender]], [[self-love]]

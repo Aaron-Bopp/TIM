@@ -36,7 +36,7 @@ There is simply no reason to limit yourself to one organization system if you ca
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[organization]], [[Obsidian (software)|Obsidian]], [[second brain]]

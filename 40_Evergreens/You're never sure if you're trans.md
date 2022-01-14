@@ -15,7 +15,7 @@ sr-ease: 290
 #TO/PONDER what is this note supposed to be
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-actualization]], [[self-love]], [[self-hate]], [[my emotions]]

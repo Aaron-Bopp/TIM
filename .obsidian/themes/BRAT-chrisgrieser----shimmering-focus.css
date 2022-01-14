@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.642
+Version 1.651
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -1931,10 +1931,8 @@ body input[type]:hover {
 }
 
 /* slightly thicker border more readable in light mode */
-.theme-light textarea:focus,
-.theme-light .modal-container input:focus,
-.theme-light textarea:hover,
-.theme-light .modal-container input:hover {
+.theme-light textarea,
+.theme-light .modal-container input:not([type="range"]) {
 	background-color: var(--bg2);
 	padding-left: 9.5px;
 	border-width: 1.5px;
@@ -2200,7 +2198,7 @@ div.search-input-clear-button:hover::BEFORE,
 }
 
 .empty-state-close-button svg {
-	stroke-width: 2px;
+	stroke-width: 3px;
 }
 
 .empty-state-close-button:hover {
@@ -2208,14 +2206,9 @@ div.search-input-clear-button:hover::BEFORE,
 }
 
 .modal-close-button {
-	background-color: var(--bg3);
-
 	top: 0;
 	right: 0;
-	z-index: 100;
-
 	padding: 0 4px 3px;
-
 	border-radius: 50px;
 }
 
@@ -2224,7 +2217,6 @@ body:not(.show-close-button) .document-search-close-button,
 body:not(.show-close-button) div.search-input-clear-button,
 body:not(.show-close-button) .empty-state-close-button,
 body:not(.show-close-button) .modal-close-button {
-	background-color: none;
 	opacity: 0;
 	transition: var(--slow-transition);
 }
@@ -3216,6 +3208,10 @@ body .workspace-leaf-resize-handle:active {
 	text-align: start;
 }
 
+body:not(.show-close-button) .mod-community-plugin .modal-close-button {
+	background-color: var(--bg3);
+}
+
 /* installation icon */
 .community-plugin-info .community-plugin-name .flair.mod-pop::BEFORE {
 	font-size: 1.3rem;
@@ -3898,6 +3894,11 @@ body:not(.no-active-highlight):not(.focused-highlight) .CodeMirror-activeline .C
 	.obsidian-metatable {
 		display: none;
 	}
+}
+
+/* fix margin for embedding a note starting with tasks */
+.markdown-embed .markdown-preview-section div > ul.contains-task-list:first-child {
+	margin-top: 0;
 }
 
 /* ───────────────────────────────────────────────────
@@ -4639,14 +4640,10 @@ body:not(.blockquotes-left-aligned) > .app-container .HyperMD-quote {
 /* ───────────────────────────────────────────────────
 << Citation Syntax
 ─────────────────────────────────────────────────── */
-.markdown-preview-view div > blockquote > blockquote {
+.markdown-preview-view *:not(blockquote) > blockquote > blockquote {
 	/* used for pseudo admonitions & for pseudo citations */
 	padding: 0;
 	border: none;
-}
-
-.markdown-preview-view div > blockquote > p + blockquote {
-	margin-top: -10px;
 }
 
 /* for LP */
@@ -4654,14 +4651,11 @@ body:not(.blockquotes-left-aligned) > .app-container .HyperMD-quote {
 	display: none;
 }
 
-/* first line LP, second Reading */
-.HyperMD-quote-2:not(.cm-active) .cm-quote-2:not(.cm-formatting-quote)::BEFORE,
-.markdown-preview-view div > blockquote > p + blockquote > p::BEFORE {
-   content: "— ";
-}
-
-.markdown-preview-view div > blockquote > p + blockquote > p::BEFORE {
-	padding-left: 20px;
+.is-live-preview .HyperMD-quote-2:not(.cm-active) .cm-hmd-indent-in-quote::AFTER,
+.cm-s-obsidian:not(.is-live-preview) .HyperMD-quote-2 .cm-hmd-indent-in-quote::AFTER,
+.markdown-preview-view *:not(blockquote) > blockquote > p + blockquote > p::BEFORE {
+	content: "— ";
+	color: var(--middle-gray);
 }
 
 .markdown-source-view .cm-line.HyperMD-quote-1 + .HyperMD-quote-2 {
@@ -4669,11 +4663,16 @@ body:not(.blockquotes-left-aligned) > .app-container .HyperMD-quote {
 }
 
 /* styling of the citation text */
-.markdown-preview-view div > blockquote > blockquote,
+.markdown-preview-view *:not(blockquote) > blockquote > blockquote,
 .markdown-source-view .cm-line.HyperMD-quote-1 + .HyperMD-quote-2 .cm-quote-2:not(.cm-formatting-quote) {
 	font-size: 0.85rem;
 	font-style: italic;
 	color: var(--middle-gray);
+}
+
+/* only needed for Shimmering Focus */
+.markdown-preview-view *:not(blockquote) > blockquote > p + blockquote {
+	margin-top: -10px;
 }
 
 /* ───────────────────────────────────────────────────
@@ -5106,6 +5105,7 @@ pre[class~="language-as"]::AFTER { content: "AppleScript"; }
 ─────────────────────────────────────────────────── */
 
 /* less indention to save space */
+.markdown-preview-view > div > div > div > ul.dataview.list-view-ul,
 .markdown-preview-view > div > div > ol,
 .markdown-preview-view > div > div > ul {
 	padding-left: 1rem;
@@ -5561,7 +5561,7 @@ body > .app-container span.cm-tag {
 
 /* preview mode */
 /* https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/34 */
-.markdown-preview-view input[type="checkbox"] {
+input.task-list-item-checkbox[type="checkbox"] {
 	background-color: unset;
 
 	margin-top: 2px;
@@ -8380,6 +8380,26 @@ pre button.copy:hover::BEFORE {
 	display: none;
 }
 
+/* inline fields */
+body .dataview.inline-field-value,
+body .dataview.inline-field-key {
+	font-size: var(--monospace-font-size);
+}
+
+body .dataview.inline-field-value {
+	padding-right: 8px;
+	padding-left: 6px;
+	border-top-right-radius: var(--roundish);
+	border-bottom-right-radius: var(--roundish);
+}
+
+body .dataview.inline-field-key {
+	padding-right: 6px;
+	padding-left: 8px;
+	border-bottom-left-radius: var(--roundish);
+	border-top-left-radius: var(--roundish);
+}
+
 /* ───────────────────────────────────────────────────
 << Another Quick Switcher
 ─────────────────────────────────────────────────── */
@@ -9707,8 +9727,8 @@ settings:
 	 default: '"ℹ️"'
 	-
 	 id: no-pandoc-citation-emphasis
-	 title: No Emphasis of Pandoc Citations
-	 description: Turn off the coloring of Pandoc Citations [@citekey] done by this theme.
+	 title: No Emphasis of Pandoc Citations and Dataview Inline Fields.
+	 description: Turn off the coloring of Pandoc Citations [@citekey] and dataview inline fields [key:: value] in source mode.
 	 type: class-toggle
 	 default: false
 	-

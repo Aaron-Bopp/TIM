@@ -18,7 +18,7 @@ Oftentimes creating a stub will illuminate just how much you mention a term, or 
 
 
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My TIM]], [[note writing]], [[web of thought]], [[second brain]]

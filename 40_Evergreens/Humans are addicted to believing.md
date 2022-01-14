@@ -30,7 +30,7 @@ the problem is when we pathologize this addiction and spread it as far as we can
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[philosophy]], [[belief]], [[faith]], [[belief systems]]

@@ -25,7 +25,7 @@ and [[When in doubt, write what you think]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[second brain]], [[evergreen notes]], [[knowledge management]]

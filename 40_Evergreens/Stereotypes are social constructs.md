@@ -17,7 +17,7 @@ sr-ease: 231
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[stereotype]], [[Behavioral Psychology]], [[social construct]]

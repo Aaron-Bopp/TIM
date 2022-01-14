@@ -27,7 +27,7 @@ I have evolved this to include
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[knowledge work]], [[knowledge management]]

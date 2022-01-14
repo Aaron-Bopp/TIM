@@ -24,7 +24,7 @@ Once you discover and accept yourself as [[transgender|trans]], a lot of the see
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]], [[mental illness]], [[human survival]], [[self-actualization]]

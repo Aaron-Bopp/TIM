@@ -28,7 +28,7 @@ and [[The most reliable path to success is repeatedly trying to succeed]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge work]], [[discipline]], [[self-improvement]]

@@ -25,7 +25,7 @@ sr-ease: 155
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**::  [[knowledge work]], [[second brain]]

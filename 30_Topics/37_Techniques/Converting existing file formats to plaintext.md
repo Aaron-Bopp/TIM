@@ -29,7 +29,7 @@ Compared to [[HTML]], [[Markdown]], or even [[XML]], [[PDF]] is exceptionally ha
 
 # <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[programming]], [[Markdown]]

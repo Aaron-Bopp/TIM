@@ -18,7 +18,7 @@ Studies have found that [[Wealth Inequality]] makes people generally unhappy and
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Marxism]], [[Capitalism]], [[Communism]], [[happiness]], [[social justice]], [[political strategy]]

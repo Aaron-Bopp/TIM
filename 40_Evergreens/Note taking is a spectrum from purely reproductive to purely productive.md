@@ -23,7 +23,7 @@ transformative notes: notes that transform the material into things like questio
     
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[language]], [[knowledge work]]

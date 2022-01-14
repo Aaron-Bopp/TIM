@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "754cd1f4e83ff01d",
+        "id": "a8b045bf48e8993f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/22 Note by status/New Imports.md",
-            "mode": "preview",
+            "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -19,145 +19,124 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "754cd1f4e83ff01d",
+              "leaf": "a8b045bf48e8993f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/New Imports.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sometimes we can't grow until we change our environment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.108870839663282}"
             },
             {
-              "leaf": "754cd1f4e83ff01d",
+              "leaf": "a8b045bf48e8993f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/Modified in the last week.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Whiteness was created to marginalize people of color.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}},\"scroll\":8.580644888386654}"
             },
             {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/New Imports.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/File Sizes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/22 Note by status/221 EVERSEEDS.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Labels/Life is excruciatingly meaningful.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Labels/Life is devastatingly meaningless.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":20.494454345651395}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"scroll\":1.9999998461815691}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":10.012402970661489}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":28},\"to\":{\"line\":26,\"ch\":28}},\"scroll\":18.979838018424832}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Meta/Labels/Life is excruciatingly meaningful.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":26},\"to\":{\"line\":19,\"ch\":26}},\"scroll\":5.322580399547989}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":11.057477777887348}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Human's have an inability to admit that they are wrong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":67.211686616789}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":19.47379030071734}"
-            },
-            {
-              "leaf": "754cd1f4e83ff01d",
+              "leaf": "a8b045bf48e8993f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "754cd1f4e83ff01d",
+              "leaf": "a8b045bf48e8993f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An unfulfilled need for validation results in a fear of rejection.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Whiteness was created to marginalize people of color.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.580644888386654}"
             },
             {
-              "leaf": "754cd1f4e83ff01d",
+              "leaf": "a8b045bf48e8993f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/203 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":16.841059000354818}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to reject an unjust world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":28.880794123951638}"
             },
             {
-              "leaf": "754cd1f4e83ff01d",
+              "leaf": "a8b045bf48e8993f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/There aren't any downsides to working through trauma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":10.518548304034818}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "dfac9707d3281e6d",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/We are confined to the tools of our time.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":25},\"to\":{\"line\":23,\"ch\":25}},\"scroll\":11.947580293797818}"
+            },
             {
-              "leaf": "dfac9707d3281e6d",
+              "leaf": "a8b045bf48e8993f",
               "group": null,
-              "state": "{\"type\":\"juggl_view\",\"state\":{},\"pinned\":true}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":25},\"to\":{\"line\":32,\"ch\":25}},\"scroll\":18.927417927676572}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":28.312499754851874}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":25},\"to\":{\"line\":25,\"ch\":25}},\"scroll\":10.37070217912153}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to pursue the positive things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":24},\"to\":{\"line\":28,\"ch\":24}},\"scroll\":10.524934051297363}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.16124003802159}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Biology supports the validity of trans people.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":16.315860157302936}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Write your notes with a system not within a system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":25},\"to\":{\"line\":27,\"ch\":25}},\"scroll\":13.431450547028332}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance the reason for harmful behaviors.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":24},\"to\":{\"line\":20,\"ch\":24}},\"scroll\":10.992247884587725}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.399369639293397}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":25},\"to\":{\"line\":24,\"ch\":25}},\"scroll\":18.422215638860315}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Webs of thought provide heterarchical structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":25},\"to\":{\"line\":25,\"ch\":25}},\"scroll\":14.946981515586298}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":25},\"to\":{\"line\":21,\"ch\":25}},\"scroll\":8.999999461635491}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":25},\"to\":{\"line\":27,\"ch\":25}},\"scroll\":10.78139507678128}"
+            },
+            {
+              "leaf": "a8b045bf48e8993f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Every person has an experience of gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":25},\"to\":{\"line\":19,\"ch\":25}},\"scroll\":6.709676863623733}"
             }
           ]
         }
@@ -191,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO",
+                "query": "tag:#EVER/SPROUT/WATER",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -210,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/22 Note by status/New Imports.md",
+                "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -243,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/22 Note by status/New Imports.md",
+                "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,7 +247,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/22 Note by status/New Imports.md"
+                "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md"
               }
             },
             "pane-relief:history-v1": {
@@ -301,18 +281,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "9701affc7357122a",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -415,6 +383,14 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "9d5f20937b9d5250",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -429,7 +405,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/22 Note by status/New Imports.md",
+                "file": "40_Evergreens/Sometimes we can't grow until we change our environment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -539,17 +515,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "754cd1f4e83ff01d",
+  "active": "a8b045bf48e8993f",
   "lastOpenFiles": [
-    "20_Entry/22 Note by status/New Imports.md",
-    "20_Entry/22 Note by status/Modified in the last week.md",
-    "20_Entry/24 Vault Stats/File Sizes.md",
-    "20_Entry/22 Note by status/221 EVERSEEDS.md",
-    "00_Meta/Labels/Life is excruciatingly meaningful.md",
-    "00_Meta/Labels/Life is devastatingly meaningless.md",
-    "30_Topics/35_Outlines/human experience.md",
-    "40_Evergreens/What is the cognitive effect of living in an unjust world.md",
+    "40_Evergreens/Sometimes we can't grow until we change our environment.md",
+    "40_Evergreens/Whiteness was created to marginalize people of color.md",
     "40_Evergreens/Humans have decided to reject an unjust world.md",
-    "30_Topics/34_People/@visakanv on Twitter.md"
+    "40_Evergreens/We are confined to the tools of our time.md",
+    "40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md",
+    "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+    "40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md",
+    "40_Evergreens/How to pursue the positive things in life.md",
+    "40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md",
+    "40_Evergreens/Biology supports the validity of trans people.md"
   ]
 }

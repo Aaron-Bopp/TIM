@@ -24,7 +24,7 @@ and [[Negative influences are stronger than positive influences]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Psychology]], [[human experience]], [[parents]], [[trauma]]

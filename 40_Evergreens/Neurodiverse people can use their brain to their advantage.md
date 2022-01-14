@@ -30,7 +30,7 @@ sr-ease: 210
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[neurodiversity]], [[human advancement]]

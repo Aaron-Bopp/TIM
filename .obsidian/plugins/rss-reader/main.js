@@ -6378,14 +6378,27 @@ var import_obsidian2 = __toModule(require("obsidian"));
 var import_ts_md5 = __toModule(require_md5());
 function getElementByName(element2, name) {
   let value;
-  if (typeof element2.getElementsByTagName !== "function") {
+  if (typeof element2.getElementsByTagName !== "function" && typeof element2.getElementsByTagNameNS !== "function") {
     return;
   }
   if (name.contains(":")) {
     const [namespace, tag] = name.split(":");
     const namespaceUri = element2.lookupNamespaceURI(namespace);
-    if (element2.getElementsByTagNameNS(namespaceUri, tag).length > 0) {
-      value = element2.getElementsByTagNameNS(namespaceUri, tag)[0].childNodes[0];
+    const byNamespace = element2.getElementsByTagNameNS(namespaceUri, tag);
+    if (byNamespace.length > 0) {
+      value = byNamespace[0].childNodes[0];
+    } else {
+      const tmp = element2.getElementsByTagName(name);
+      if (tmp.length > 0) {
+        if (tmp[0].childNodes.length === 0) {
+          value = tmp[0];
+        } else {
+          const node = tmp[0].childNodes[0];
+          if (node !== void 0) {
+            value = node;
+          }
+        }
+      }
     }
   } else if (name.contains(".")) {
     const [prefix, tag] = name.split(".");
@@ -6397,22 +6410,20 @@ function getElementByName(element2, name) {
         }
       });
     }
-  } else {
-    if (element2.getElementsByTagName(name).length > 0) {
-      if (element2.getElementsByTagName(name)[0].childNodes.length == 0) {
-        value = element2.getElementsByTagName(name)[0];
-      } else {
-        const node = element2.getElementsByTagName(name)[0].childNodes[0];
-        if (node !== void 0)
-          value = node;
-      }
+  } else if (element2.getElementsByTagName(name).length > 0) {
+    if (element2.getElementsByTagName(name)[0].childNodes.length == 0) {
+      value = element2.getElementsByTagName(name)[0];
+    } else {
+      const node = element2.getElementsByTagName(name)[0].childNodes[0];
+      if (node !== void 0)
+        value = node;
     }
   }
   return value;
 }
 function getContent(element2, names) {
   let value;
-  names.forEach((name) => {
+  for (let name of names) {
     if (name.contains("#")) {
       const [elementName, attr2] = name.split("#");
       const data = getElementByName(element2, elementName);
@@ -6429,13 +6440,12 @@ function getContent(element2, names) {
       if (data) {
         if (data.nodeValue && data.nodeValue.length > 0) {
           value = data.nodeValue;
-        }
-        if (data.innerHTML && data.innerHTML.length > 0) {
+        } else if (data.innerHTML && data.innerHTML.length > 0) {
           value = data.innerHTML;
         }
       }
     }
-  });
+  }
   if (value === void 0) {
     return "";
   }
@@ -6445,7 +6455,7 @@ function buildItem(element2) {
   return {
     title: getContent(element2, ["title"]),
     description: getContent(element2, ["content", "content:encoded", "itunes:summary", "description", "summary", "media:description"]),
-    content: getContent(element2, ["itunes:summary", "description", "summary", "media:description", "content", "content:encoded"]),
+    content: getContent(element2, ["itunes:summary", "description", "summary", "media:description", "content", "content:encoded", "ns0:encoded"]),
     category: getContent(element2, ["category"]),
     link: getContent(element2, ["link", "link#href"]),
     creator: getContent(element2, ["creator", "dc:creator", "author", "author.name"]),
@@ -9761,8 +9771,8 @@ function create_if_block_5(ctx) {
       if (if_block2)
         if_block2.c();
       attr(span, "class", "rss-item-title");
-      attr(div0, "class", "rss-item");
-      attr(div1, "class", "rss-item");
+      attr(div0, "class", "rss-item-image");
+      attr(div1, "class", "rss-item-text");
       attr(div2, "class", "rss-card-items");
       attr(div3, "class", "rss-card is-clickable");
     },

@@ -23,7 +23,7 @@ sr-ease: 203
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**::  [[structure]], [[organization]], [[knowledge management]], [[second brain]]

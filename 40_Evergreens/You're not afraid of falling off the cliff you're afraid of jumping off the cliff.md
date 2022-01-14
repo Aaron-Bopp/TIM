@@ -19,7 +19,7 @@ sr-ease: 250
 - #TO/PONDER/CONCEPT connections to [[notes_Anxiety 101]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[Neuroscience]], [[human experience]]

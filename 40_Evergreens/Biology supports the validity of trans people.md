@@ -31,7 +31,7 @@ Unfortunately, [[Trans children will repress their dysphoria if they have been e
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[self]], [[human experience]], [[Neuroscience]]

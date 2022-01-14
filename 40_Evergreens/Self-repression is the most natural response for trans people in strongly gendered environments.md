@@ -23,7 +23,7 @@ This is why thoughts like [[You're never sure if you're trans]] are so difficult
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]], [[gender dysphoria]], [[childhood]]
