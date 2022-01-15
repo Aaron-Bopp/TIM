@@ -13,5 +13,9 @@ A [[herb]] native to Asia that has been used as a tonic to improve well-being an
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%

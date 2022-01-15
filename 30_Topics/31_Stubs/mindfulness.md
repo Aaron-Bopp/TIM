@@ -16,7 +16,11 @@ In [[eastern philosophy]] this is called [[Sakshi Bhava]] or the ability to obse
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 [^1]:[mindfullness](https://en.wikipedia.org/wiki/Mindfulness%20(disambiguation))
  

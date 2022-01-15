@@ -4,139 +4,139 @@
     "type": "split",
     "children": [
       {
-        "id": "a5785713629abb1b",
+        "id": "53d7100a90e80e11",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30_Topics/31_Stubs/emotional invalidation.md",
+            "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "a5785713629abb1b",
+              "leaf": "53d7100a90e80e11",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/emotional invalidation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":90},\"to\":{\"line\":11,\"ch\":90}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "a5785713629abb1b",
+              "leaf": "53d7100a90e80e11",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can be taught to invalidate your own emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":80},\"to\":{\"line\":36,\"ch\":80}},\"scroll\":13.302418264154392}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our nervous system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":12},\"to\":{\"line\":7,\"ch\":12}},\"scroll\":10.744185869083848}"
             },
             {
-              "leaf": "a5785713629abb1b",
+              "leaf": "53d7100a90e80e11",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Take note of the simple things in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":26},\"to\":{\"line\":18,\"ch\":26}},\"scroll\":0}"
             },
             {
-              "leaf": "a5785713629abb1b",
+              "leaf": "53d7100a90e80e11",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children make wide assumptions about the world.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Republicans have become a true opposition party.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":24},\"to\":{\"line\":19,\"ch\":24}},\"scroll\":1.0322580322638775}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":24},\"to\":{\"line\":22,\"ch\":24}},\"scroll\":3.4193548039764834}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Belief pulls you forward into life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.632557772850806}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A healthy second brain requires a surplus of entry points.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.7096772481698106}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Buddhism is the study of happiness through detachment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.387096617894175}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans try really hard to avoid understanding their mistakes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.1290321290555094}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans transfer their wonder into creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.774193389606781}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are made up of impermanent data and permanent metadata.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.51549347353653}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":76},\"to\":{\"line\":14,\"ch\":76}},\"scroll\":1.483870868504238}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/It's always worth it to work through trauma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":347},\"to\":{\"line\":10,\"ch\":347}},\"scroll\":12.19596755120062}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Pattern matching is a fundamental part of learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":28},\"to\":{\"line\":20,\"ch\":28}},\"scroll\":1.9677418139176917}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":10.171489689523721}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A story will either end where it began, or somewhere else.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":58},\"to\":{\"line\":4,\"ch\":58}},\"scroll\":5.322580399547989}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":3.0967741737008474}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "a5785713629abb1b",
+              "leaf": "53d7100a90e80e11",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0.08921933440027627}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":25},\"to\":{\"line\":35,\"ch\":25}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":6.8698885892846775}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can discover your transness at any point in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":7.870967255670767}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Human's will find explanations for inexplainable things.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":29},\"to\":{\"line\":30,\"ch\":29}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":26},\"to\":{\"line\":26,\"ch\":26}},\"scroll\":5.548387086850424}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.806451498779874}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/Embed notes from a dataview query with dataviewjs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.9677418139176917}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How memory works.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":26},\"to\":{\"line\":15,\"ch\":26}},\"scroll\":2.64516110673284}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":27},\"to\":{\"line\":42,\"ch\":27}},\"scroll\":25.63929533932401}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":7.225805995119495}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":77.76410536162598}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":5.483870714685807}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Acting Bio.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.2258063796655725}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Topics/31_Stubs/emotional invalidation.md",
+                "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Topics/31_Stubs/emotional invalidation.md",
+                "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Topics/31_Stubs/emotional invalidation.md"
+                "file": "40_Evergreens/Meditation helps us regulate our nervous system.md"
               }
             },
             "pane-relief:history-v1": {
@@ -362,10 +362,10 @@
             }
           },
           {
-            "id": "9d5f20937b9d5250",
+            "id": "f2e4acd6d1eac825",
             "type": "leaf",
             "state": {
-              "type": "RSS_FEED",
+              "type": "juggl_nodes",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -374,19 +374,27 @@
             }
           },
           {
-            "id": "f2e4acd6d1eac825",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
             "id": "3b1845ae8373df1b",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "d577e892d859d745",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -402,7 +410,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Topics/31_Stubs/emotional invalidation.md",
+                "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -511,17 +519,17 @@
     "direction": "horizontal",
     "width": 706
   },
-  "active": "a5785713629abb1b",
+  "active": "53d7100a90e80e11",
   "lastOpenFiles": [
-    "30_Topics/31_Stubs/emotional invalidation.md",
-    "40_Evergreens/You can be taught to invalidate your own emotions.md",
-    "40_Evergreens/People have been conditioned to believe the bible has to be infallible.md",
-    "40_Evergreens/Children make wide assumptions about the world.md",
-    "40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md",
-    "40_Evergreens/Develop Obsidian plugins.md",
-    "30_Topics/31_Stubs/organization.md",
-    "40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
-    "40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md",
-    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md"
+    "40_Evergreens/Meditation helps us regulate our nervous system.md",
+    "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+    "40_Evergreens/Take note of the simple things in life.md",
+    "40_Evergreens/Republicans have become a true opposition party.md",
+    "40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md",
+    "40_Evergreens/Belief pulls you forward into life.md",
+    "40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md",
+    "40_Evergreens/A healthy second brain requires a surplus of entry points.md",
+    "40_Evergreens/Buddhism is the study of happiness through detachment.md",
+    "40_Evergreens/Humans try really hard to avoid understanding their mistakes.md"
   ]
 }

@@ -14,7 +14,11 @@ Obsidian is a markdown editor that includes many features that are valuable to [
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 ## Getting Started
 - Okay, I didn't scroll down past the download link on [obsidian.md](https://obsidian.md/) until I had been using it for almost a year, but it is an excellent starting point!

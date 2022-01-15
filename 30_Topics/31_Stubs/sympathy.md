@@ -13,7 +13,11 @@ Sympathy is the perception, understanding, and reaction to the distress or need 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in close sympathy"  
 

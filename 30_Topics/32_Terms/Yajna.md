@@ -13,5 +13,9 @@ These are particular rituals that are used to harness the desired kind of cosmic
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%

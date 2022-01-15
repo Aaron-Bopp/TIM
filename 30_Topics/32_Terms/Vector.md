@@ -11,7 +11,11 @@ a numerical representation of a direction and distance ([[Computer Science|CS]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 [^1]: [[videos_Linear algebra_3Blue1Brown]]
 

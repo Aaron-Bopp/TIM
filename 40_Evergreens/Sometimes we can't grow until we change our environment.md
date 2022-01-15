@@ -26,7 +26,7 @@ Especially if you are finding yourself constantly making excuses for other peopl
 If there isn't anything in your physical environment, it could be your mental environment. 
 There may be repressed [[trauma]] or just strong childhood emotions that is bringing you down 
 ^[[[We carry our childhood wounds into adulthood]]]
-[[There aren't any downsides to working through trauma]],
+[[It's always worth it to work through trauma]],
 but it can involve of a lot of very difficult situations and feelings because 
 [[Working through trauma can involve of a lot of letting go]]. 
 

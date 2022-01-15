@@ -46,7 +46,7 @@ However you develop over time, you will still be able to look back and see your 
 
 [^212169716]:  https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F0%2F0%2F5%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A0%2C0%2F0%2F0%2F5%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A64#:~:text=People%20do%20not%20change%20from%2Cbasic%20personality%20type%20to%20another.
 %%
-highlight_tags:: [[there aren't any downsides to working through trauma]], [[human experience]]
+highlight_tags:: [[It's always worth it to work through trauma]], [[human experience]]
 %%
 ##### ^212153068
   

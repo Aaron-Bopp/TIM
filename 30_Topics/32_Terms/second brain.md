@@ -10,7 +10,11 @@ A system that compliments, supliments, and extends the abilities of our first br
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 ### <hr class="dataviews"/>
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

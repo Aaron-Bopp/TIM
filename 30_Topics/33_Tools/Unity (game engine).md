@@ -11,7 +11,11 @@ tags: created/topic/2021/09/27, node/topic, node/topic/tool
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 ##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

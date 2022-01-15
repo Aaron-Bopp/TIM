@@ -17,7 +17,11 @@ date modified: Saturday, October 2nd 2021, 3:45:32 pm
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 ##### [[human experience]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

@@ -12,7 +12,11 @@ A system invented by [[Niklas Luhmann]] that used a linking system to connect id
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 [^1]: [[Obsidian (software)]]
 

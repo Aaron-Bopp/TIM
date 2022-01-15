@@ -25,7 +25,7 @@ type:
         - all other emotions are not developed
 - [[Dr. K]] "There is evidence that having an internally consistent way of viewing the world is a good way to find peace and [[happiness]] and to build resilience"
     - What is the way I am viewing my life and existence?
-- Ways to find **_[[There aren't any downsides to working through trauma]]_**
+- Ways to find **_[[It's always worth it to work through trauma]]_**
     - Experiential route
         - ex find masculinity/what it means to be a man inside yourself
     - philosophical route

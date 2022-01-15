@@ -10,7 +10,11 @@ a more subtle form of sexism not involving explicit admission of sexist beliefs,
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 [^1]: [[course_Psychology of Race and Gender]]
 

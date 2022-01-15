@@ -21,7 +21,7 @@ Because Christianity is often taught from childhood,
  it can be very hard to comprehend a world without a plan, without a creator, and without purpose. 
 You're going to feel lost an confused (and have quite a few existential crisis) but afterwards you will be able to have a new perspective on the world.
 
-[[There aren't any downsides to working through trauma]], but that doesn't mean that we will not feel lost and confused. [[Human's have an inability to admit that they are wrong]], so deconstructing your faith is a direct attack on the [[ego]]: [[Faith is an abstraction of cognitive dissonance]]
+[[It's always worth it to work through trauma]], but that doesn't mean that we will not feel lost and confused. [[Human's have an inability to admit that they are wrong]], so deconstructing your faith is a direct attack on the [[ego]]: [[Faith is an abstraction of cognitive dissonance]]
 
 ### <hr class="footnote"/>
 

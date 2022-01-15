@@ -7083,7 +7083,7 @@ function createNewNote(plugin, item) {
     if (plugin.settings.saveLocation === "custom") {
       dir = plugin.settings.saveLocationFolder;
     }
-    let filename = applyTemplate(item, plugin.settings.defaultFilename, plugin.settings);
+    let filename = applyTemplate(plugin, item, plugin.settings.defaultFilename);
     filename = filename.replace(/[\/\\:]/g, " ");
     if (plugin.settings.askForFilename) {
       const inputPrompt = new TextInputPrompt(plugin.app, t("specify_name"), t("cannot_contain") + ' * " \\ / < > : | ?', filename, filename);
@@ -7114,7 +7114,7 @@ function createNewFile(plugin, item, path, title) {
       new import_obsidian6.Notice(t("note_exists"));
       return;
     }
-    const appliedTemplate = applyTemplate(item, plugin.settings.template, plugin.settings, title);
+    const appliedTemplate = applyTemplate(plugin, item, plugin.settings.template, title);
     const file = yield plugin.app.vault.create(path, appliedTemplate);
     yield plugin.app.workspace.activeLeaf.openFile(file, {
       state: { mode: "edit" }
@@ -7136,7 +7136,7 @@ function pasteToNote(plugin, item) {
     }
     const view = plugin.app.workspace.getActiveViewOfType(import_obsidian6.MarkdownView);
     if (view) {
-      const appliedTemplate = applyTemplate(item, plugin.settings.pasteTemplate, plugin.settings);
+      const appliedTemplate = applyTemplate(plugin, item, plugin.settings.pasteTemplate);
       const editor = view.editor;
       editor.replaceRange(appliedTemplate, editor.getCursor());
       item.created = true;
@@ -7148,13 +7148,13 @@ function pasteToNote(plugin, item) {
     }
   });
 }
-function applyTemplate(item, template, settings, filename) {
+function applyTemplate(plugin, item, template, filename) {
   let result = template.replace(/{{title}}/g, item.title);
   result = result.replace(/{{link}}/g, item.link);
   result = result.replace(/{{author}}/g, item.creator);
-  result = result.replace(/{{published}}/g, (0, import_obsidian6.moment)(item.pubDate).format(settings.dateFormat));
-  result = result.replace(/{{created}}/g, (0, import_obsidian6.moment)().format(settings.dateFormat));
-  result = result.replace(/{{date}}/g, (0, import_obsidian6.moment)().format(settings.dateFormat));
+  result = result.replace(/{{published}}/g, (0, import_obsidian6.moment)(item.pubDate).format(plugin.settings.dateFormat));
+  result = result.replace(/{{created}}/g, (0, import_obsidian6.moment)().format(plugin.settings.dateFormat));
+  result = result.replace(/{{date}}/g, (0, import_obsidian6.moment)().format(plugin.settings.dateFormat));
   result = result.replace(/{{feed}}/g, item.feed);
   result = result.replace(/{{folder}}/g, item.folder);
   result = result.replace(/{{description}}/g, item.description);
@@ -7182,20 +7182,20 @@ function applyTemplate(item, template, settings, filename) {
   result = result.replace(/{{tags}}/g, item.tags.join(", "));
   result = result.replace(/{{#tags}}/g, item.tags.map((i) => "#" + i).join(", "));
   result = result.replace(/{{highlights}}/g, item.highlights.map((value) => {
-    return "- " + (0, import_obsidian6.htmlToMarkdown)(removeFormatting(value).replace(/^(-+)/, ""));
+    return "- " + rssToMd(plugin, removeFormatting(value).replace(/^(-+)/, ""));
   }).join("\n"));
   result = result.replace(/({{highlights:)[\s\S][^}]*(}})/g, function(k) {
     const value = k.split(/(:[\s\S]?)/);
     const tmp = value.slice(1).join("");
     const template2 = tmp.substring(1, tmp.indexOf("}"));
     return item.highlights.map((i) => {
-      return template2.replace(/%%highlight%%/g, (0, import_obsidian6.htmlToMarkdown)(removeFormatting(i)).replace(/^(-+)/, ""));
+      return template2.replace(/%%highlight%%/g, rssToMd(plugin, removeFormatting(i)).replace(/^(-+)/, ""));
     }).join("");
   });
   if (filename) {
     result = result.replace(/{{filename}}/g, filename);
   }
-  let content = (0, import_obsidian6.htmlToMarkdown)(item.content);
+  let content = rssToMd(plugin, item.content);
   item.highlights.forEach((highlight) => {
     const mdHighlight = (0, import_obsidian6.htmlToMarkdown)(highlight);
     content = content.replace(mdHighlight, "==" + mdHighlight + "==");
@@ -7226,6 +7226,14 @@ function openInBrowser(item) {
   if (typeof item.link === "string") {
     window.open(item.link, "_blank");
   }
+}
+function rssToMd(plugin, content) {
+  let markdown = (0, import_obsidian6.htmlToMarkdown)(content);
+  markdown = markdown.replace(/^```(?:dataview|dataviewjs)\n([\s\S]*?)```$/gm, "<pre>$&</pre>");
+  markdown = markdown.replace(/`=.*`/g, "<pre>$&</pre>");
+  markdown = markdown.replace(/`\$=.*`/g, "<pre>$&</pre>");
+  markdown = markdown.replace(/<%([\s\S]*?)%>/g, "```javascript\n$&\n```");
+  return markdown;
 }
 
 // src/actions/Action.ts
@@ -9223,7 +9231,8 @@ var ItemModal = class extends import_obsidian10.Modal {
         }
       }
       if (this.item.content) {
-        yield import_obsidian10.MarkdownRenderer.renderMarkdown((0, import_obsidian10.htmlToMarkdown)(this.item.content), content, "", this.plugin);
+        const markdown = "---\n----" + rssToMd(this.plugin, this.item.content);
+        yield import_obsidian10.MarkdownRenderer.renderMarkdown(markdown, content, "", this.plugin);
         this.item.highlights.forEach((highlight) => {
           if (content.innerHTML.includes(highlight)) {
             const newNode = contentEl.createEl("mark");

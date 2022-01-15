@@ -11,7 +11,7 @@ sr-ease: 212
 [[Trauma]] becomes part of our very nature through the fact that 
 [[We carry our childhood wounds into adulthood]].
 Large parts of our [[personality]] and our [[inter-personal communication|inter-personal relationships]] are affected by [[trauma]] and so working through it can impact the way we interact the world.
-Yet it remains true that [[There aren't any downsides to working through trauma]].
+Yet it remains true that [[It's always worth it to work through trauma]].
 Even though working through it may involve letting go of things that you thought you couldn't live without, 
 you are more than your [[trauma]],
 

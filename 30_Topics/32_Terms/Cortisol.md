@@ -11,7 +11,11 @@ Cortisol will last for 4-24 hours depending on the duration of the encounter and
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 [^1]: [[Our brains are built around survival]]
 

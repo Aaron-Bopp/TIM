@@ -13,7 +13,11 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 ##### [[social anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
@@ -25,7 +29,7 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 	- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 		- [[Your anxiety knows your insecurities better than you do]]
 	- [[childhood trauma]] can create a person predisposed to social [[anxiety]]
-		- [[There aren't any downsides to working through trauma]]
+		- [[It's always worth it to work through trauma]]
 - Comorbid
 	- General [[anxiety]]
 	- worsened by [[30_Topics/31_Stubs/OCD]]

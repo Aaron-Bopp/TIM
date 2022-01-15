@@ -12,7 +12,11 @@ tags: created/topic/2021/12/26, node/topic/list
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 ##### [[Life principles]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

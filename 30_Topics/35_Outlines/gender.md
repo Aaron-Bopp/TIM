@@ -17,7 +17,11 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 **Terms**:: [[gender schema]], [[gender identity]], [[gender constancy]], [[gender consistency]], [[gender affirming care]]
 ##### [[gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

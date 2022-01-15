@@ -17,6 +17,10 @@ Evergreen notes are the fundamental unit of [[knowledge]] in [[My TIM]].
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 [^1]: https://notes.andymatuschak.org/Evergreen_notes

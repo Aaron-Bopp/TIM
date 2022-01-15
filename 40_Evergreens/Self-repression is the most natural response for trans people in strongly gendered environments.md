@@ -3,8 +3,8 @@ created: 2021-10-03
 tags: created/evergreen/2021/10/03, review, node/evergreen
 aliases:
   - null
-sr-due: 2022-01-09
-sr-interval: 6
+sr-due: 2022-01-28
+sr-interval: 13
 sr-ease: 130
 ---
 
@@ -14,7 +14,7 @@ sr-ease: 130
 ^[[[Children will imitate whatever is modeled for them]]]
 This means that trans people could observe, imitate, and limit themselves to gendered behavior for their assigned [[gender]] without ever performing behaviors for their actual gender, and even if they did, punishment for that behavior would reinforce their gender schema. [^2]
 
-[^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]
+[^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]] #TO/DO/CITE 
 [^2]: especially from strongly gendered authority figures ie [[parents]], [[childhood]] [[trauma]]
 
 This is why thoughts like [[You're never sure if you're trans]] are so difficult to overcome.

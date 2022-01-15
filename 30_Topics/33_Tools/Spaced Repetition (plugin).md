@@ -12,5 +12,9 @@ Github:: [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsid
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%

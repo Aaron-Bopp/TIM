@@ -3,13 +3,12 @@ created: 2021-12-12
 aliases:
   - null
 tags: created/evergreen/2021/12/12, review, node/evergreen
-sr-due: 2022-01-10
-sr-interval: 8
-sr-ease: 155
+sr-due: 2022-01-20
+sr-interval: 5
+sr-ease: 135
 ---
 
 #### [[A healthy second brain requires a surplus of entry points]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
 
 #TO/PONDER/CONCEPT #TO/WRITE #TO/TEND/CREATE 
 - [[Write your notes with a system not within a system]]

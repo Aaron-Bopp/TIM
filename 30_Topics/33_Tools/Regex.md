@@ -14,7 +14,11 @@ A regular expression is a sequence of characters that specifies a search pattern
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 [^1]: https://en.wikipedia.org/wiki/Regular%20expression
 

@@ -11,6 +11,10 @@ memory locations the kernel and other processes (that have no restrictions in ac
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
-
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
 %% DO NOT EDIT ABOVE %%
 [^1]: [[notes_OS_Operating Systems]]  [04:33](https://www.youtube.com/watch?v=ORLqB_2a1PQ#t=273.99443777493286)

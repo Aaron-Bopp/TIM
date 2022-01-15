@@ -17,7 +17,7 @@
 			- [[Social anxiety is a feedback loop]]
 			- [[A secure identity is the best defense against social anxiety]]
 	- [[trauma]]
-		- [[There aren't any downsides to working through trauma]]
+		- [[It's always worth it to work through trauma]]
 		- [[Working through trauma can involve of a lot of letting go]]
 		- [[We carry our childhood wounds into adulthood]]
 		- [[A inwardly judgmental and outwardly accepting home creates trust issues]]
