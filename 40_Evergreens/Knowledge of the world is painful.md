@@ -1,13 +1,15 @@
 ---
 created: 2021-06-12
-tags: created/evergreen/2021/06/12, review, node/evergreen
+tags: created/evergreen/2021/06/12, review, node/evergreen/claim, type/claim
 sr-due: 2022-01-15
 sr-interval: 13
 sr-ease: 178
 ---
 
 #### [[Knowledge of the world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
+%%linkTypes
+- causes [[Sadness is enlightenment and happiness is delusion]]
+%%
 This is a big part of [[Accepting responsibility is not only about your actions]]. You must accept your part in the hurt of the world without crippling yourself.
 
 Becoming obsessed/absorbed by this fact leads to thoughts like [[Sadness is enlightenment and happiness is delusion]]

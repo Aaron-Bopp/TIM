@@ -18,14 +18,30 @@
 .data-link-icon[data-link-tags*="#EVER/GREEN" i]::before {
     content: "🌲";
 } 
-
-.data-link-text[data-link-tags*="topic"] {
-    color: rgba(187, 85, 54, 0.945) !important;
+.data-link-icon[data-link-tags*="#EVER/GROWING" i]::before {
+    content: "🍀";
+} 
+.data-link-icon[data-link-tags*="topic/outline" i]::before {
+    content: "🧭";
+}
+.data-link-icon[data-link-tags*="#EVER/WEED" i]::before {
+    content: "🌵";
+}
+.data-link-text[data-link-tags*="topic"], [data-link-tags*="topic"] .cm-underline {
+    color: rgb(255, 145, 0) !important;
+    text-decoration: none;
+}
+.data-link-text[data-link-tags*="topic/term"], [data-link-tags*="topic/term"] .cm-underline {
+    color: rgb(219, 55, 55) !important;
+    text-decoration: none;
+}
+.data-link-text[data-link-tags*="topic/stub"], [data-link-tags*="topic/stub"] .cm-underline {
+    color: rgb(155, 248, 255) !important;
     text-decoration: none;
 }
 
-.data-link-text[data-link-tags*="evergreen"] {
-    color: rgba(71, 179, 221, 0.904) !important;
+.data-link-text[data-link-tags*="evergreen"], [data-link-tags*="evergreen"] .cm-underline {
+    color: rgb(0, 183, 255) !important;
     text-decoration: none;
 }
 

@@ -8,3 +8,8 @@
     line-opacity: 0.5;
 
 }
+
+.type-causes{
+    line-color: rgb(22, 253, 1);
+    width: 3px;
+}

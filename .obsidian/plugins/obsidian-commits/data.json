@@ -4576,8 +4576,8 @@
       "links": 10
     },
     "40_Evergreens/Knowledge of the world is painful.md": {
-      "size": 1249,
-      "tags": 5,
+      "size": 1495,
+      "tags": 6,
       "links": 15
     },
     "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md": {
@@ -12500,14 +12500,14 @@
     "/": {
       "Refactor": 4591,
       "Create": 4753,
-      "Link": 7886,
-      "Expand": 1191
+      "Link": 7887,
+      "Expand": 1192
     },
     "40_Evergreens": {
       "Refactor": 393,
       "Create": 64,
-      "Link": 1406,
-      "Expand": 434
+      "Link": 1407,
+      "Expand": 435
     }
   },
   "dailyCommits": {
@@ -12526,7 +12526,7 @@
       "11": 2611,
       "12": 655,
       "13": 383,
-      "14": 2469,
+      "14": 2471,
       "15": 577,
       "16": 1320,
       "17": 2809,
@@ -12552,7 +12552,7 @@
       "11": 91,
       "12": 146,
       "13": 114,
-      "14": 139,
+      "14": 141,
       "15": 322,
       "16": 109,
       "17": 342,
@@ -12572,7 +12572,7 @@
       "Thu": 2298,
       "Fri": 1022,
       "Sat": 0,
-      "Sun": 6294
+      "Sun": 6296
     },
     "40_Evergreens": {
       "Mon": 180,
@@ -12581,12 +12581,13 @@
       "Thu": 331,
       "Fri": 455,
       "Sat": 0,
-      "Sun": 676
+      "Sun": 678
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/activism.md\"> activism </a>",
@@ -12636,8 +12637,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Citta.md\"> Citta </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cognitive Anxiety.md\"> Cognitive Anxiety </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Congruent Depression.md\"> Congruent Depression </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human behavior.md\"> human behavior </a>",
@@ -12746,6 +12746,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human behavior.md\"> human behavior </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
@@ -12795,8 +12796,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md\"> Colonization and slavery lead to generational disparities in black communities </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
@@ -13066,6 +13066,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/How to read to understand.md\"> How to read to understand </a>",
@@ -13115,8 +13116,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\"> The brain lodges emotional reactions in our unconscious memory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md\"> Deconstructing your faith is like climbing through a jungle canopy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
@@ -13225,6 +13225,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/Highly evolutionary view.md\"> Highly evolutionary view </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
@@ -13274,8 +13275,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Concepts are the fundamental unit of knowledge.md\"> Concepts are the fundamental unit of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual note is a better term than atomic note.md\"> Conceptual note is a better term than atomic note </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You're never sure if you're trans.md\"> You're never sure if you're trans </a>",

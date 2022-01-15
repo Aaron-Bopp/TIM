@@ -19,7 +19,7 @@
       "size": 1.64472727272727
     },
     {
-      "filter": "EVER/SPROUT",
+      "filter": "test",
       "color": "#42d0ff",
       "shape": "triangle",
       "icon": {
@@ -32,7 +32,7 @@
       "size": 2.008
     },
     {
-      "filter": "EVER/SEED",
+      "filter": "node/evergreen/claim",
       "color": "#00ffee",
       "shape": "pentagon",
       "icon": {
@@ -43,19 +43,6 @@
       "showInPane": true,
       "show": true,
       "size": 1.55390909090909
-    },
-    {
-      "filter": "EVER/GREEN",
-      "color": "#02e2f2",
-      "shape": "ellipse",
-      "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "#00ffff"
-      },
-      "showInPane": true,
-      "show": true,
-      "size": 2.008
     },
     {
       "filter": "label/down",
@@ -108,6 +95,19 @@
       "showInPane": true,
       "show": true,
       "size": 10
+    },
+    {
+      "filter": "type/claim",
+      "color": "#ed0202",
+      "shape": "ellipse",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": false,
+      "size": 1
     }
   ],
   "globalGraphRibbon": true,
@@ -142,6 +142,7 @@
     "mode": "workspace",
     "navigator": true,
     "openWithShift": true,
+    "readContent": true,
     "styleGroups": [],
     "toolbar": true,
     "width": "100%",
@@ -164,6 +165,7 @@
     "mode": "local",
     "navigator": false,
     "openWithShift": true,
+    "readContent": true,
     "styleGroups": [],
     "toolbar": false,
     "width": "100%",

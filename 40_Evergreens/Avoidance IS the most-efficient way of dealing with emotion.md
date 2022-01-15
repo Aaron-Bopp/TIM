@@ -22,7 +22,7 @@ This is because avoidance can be almost immediate, and is an instinctual respons
 After fear, avoidance is the first response that we learn as children, and if better [[coping-mechanisms]] are not learned can become our only [[coping-mechanisms]] later in life.
 Avoidance can be enforced by the [[subconscious]] without our [[conscious]] [[knowledge]] or [[consent]],
 and if your [[subconscious]] has learned how to completely tune out emotions, it will start to use it at will.
-This can lead to a person feeling disconnected and out of control of their emotions, unable to feel certain emotions, or entirely [[dissociation|dissasociated]].
+This can lead to a person feeling disconnected and out of control of their emotions, unable to feel certain emotions, or entirely [[dissociation|disassociated]].
 
 One manifestation of this is our ego, because [[Our ego is our subconscious defense of our self]]. Another is a [[reppressed]] [[identity]] which impacts your ability to understand and respond to your environment:
 ^[[[Mental health is a reaction to one's environment]]]
