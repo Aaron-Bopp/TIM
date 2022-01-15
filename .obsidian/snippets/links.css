@@ -18,21 +18,9 @@
 .data-link-icon[data-link-tags*="#EVER/GREEN" i]::before {
     content: "🌲";
 } 
-.data-link-icon[data-link-tags*="#EVER/GROWING" i]::before {
-    content: "🍀";
-} 
-.data-link-icon[data-link-tags*="topic/outline" i]::before {
-    content: "🧭";
-}
-.data-link-icon[data-link-tags*="#EVER/WEED" i]::before {
-    content: "🌵";
-}
+
 .data-link-text[data-link-tags*="topic"] {
     color: rgba(187, 85, 54, 0.945) !important;
-    text-decoration: none;
-}
-.data-link-text[data-link-tags*="topic/term"] {
-    color: rgb(185, 123, 52) !important;
     text-decoration: none;
 }
 
