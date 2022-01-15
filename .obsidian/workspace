@@ -16,13 +16,19 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "53d7100a90e80e11",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/dissociation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}},\"scroll\":0}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.314932016225962}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":130},\"to\":{\"line\":24,\"ch\":130}},\"scroll\":14.04435439058945}"
             },
             {
               "leaf": "53d7100a90e80e11",
@@ -131,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/When should you forgive people who don't deserve it.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":3.0967741737008474}"
-            },
-            {
-              "leaf": "53d7100a90e80e11",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -518,6 +518,7 @@
   "active": "53d7100a90e80e11",
   "lastOpenFiles": [
     "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
+    "30_Topics/32_Terms/dissociation.md",
     "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
     "40_Evergreens/Meditation helps us regulate our nervous system.md",
     "40_Evergreens/Take note of the simple things in life.md",
@@ -525,7 +526,6 @@
     "40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md",
     "40_Evergreens/Belief pulls you forward into life.md",
     "40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md",
-    "40_Evergreens/A healthy second brain requires a surplus of entry points.md",
-    "40_Evergreens/Buddhism is the study of happiness through detachment.md"
+    "40_Evergreens/A healthy second brain requires a surplus of entry points.md"
   ]
 }
