@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+            "file": "40_Evergreens/Meditation increases our ability to influence the world.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,20 @@
             {
               "leaf": "a5785713629abb1b",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.419354573248837}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":7.225805995119495}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":18},\"to\":{\"line\":52,\"ch\":18}},\"scroll\":30.026489724506867}"
+              "eState": "{\"scroll\":77.76410536162598}"
             },
             {
               "leaf": "a5785713629abb1b",
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+                "file": "40_Evergreens/Meditation increases our ability to influence the world.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+                "file": "40_Evergreens/Meditation increases our ability to influence the world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md"
+                "file": "40_Evergreens/Meditation increases our ability to influence the world.md"
               }
             },
             "pane-relief:history-v1": {
@@ -300,6 +312,10 @@
             "state": {
               "type": "juggl_nodes",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -308,6 +324,10 @@
             "state": {
               "type": "juggl_style",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -323,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+                "file": "40_Evergreens/Meditation increases our ability to influence the world.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -435,15 +455,15 @@
   },
   "active": "a5785713629abb1b",
   "lastOpenFiles": [
-    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
-    "10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md",
     "40_Evergreens/Meditation increases our ability to influence the world.md",
+    "40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md",
+    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
+    "00_Meta/Archive/Ever(green) structure until 2022-01-14.md",
+    "30_Topics/32_Terms/evergreen notes.md",
+    "10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md",
     "90_Personal/Personal/Acting Bio.md",
     "90_Personal/Personal/How I process repressed emotions.md",
     "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
-    "90_Personal/Personal/My relationship with my parents.md",
-    "90_Personal/Personal/Journal.md",
-    "30_Topics/35_Outlines/social anxiety.md",
-    "20_Entry/24 Vault Stats/Word count Evergreens.md"
+    "90_Personal/Personal/My relationship with my parents.md"
   ]
 }

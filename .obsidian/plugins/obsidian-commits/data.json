@@ -4616,9 +4616,9 @@
       "links": 53
     },
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md": {
-      "size": 3625,
+      "size": 4527,
       "tags": 4,
-      "links": 9
+      "links": 10
     },
     "40_Evergreens/My worldview is not about conversion it is about acceptance.md": {
       "size": 2749,
@@ -12480,7 +12480,7 @@
       "tags": 4,
       "links": 1
     },
-    "00_Meta/Archive/Ever(green)structure until 2022-01-14.md": {
+    "00_Meta/Archive/Ever(green) structure until 2022-01-14.md": {
       "size": 2570,
       "tags": 0,
       "links": 9
@@ -12488,16 +12488,16 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4582,
+      "Refactor": 4583,
       "Create": 4751,
-      "Link": 7873,
-      "Expand": 961
+      "Link": 7874,
+      "Expand": 962
     },
     "40_Evergreens": {
       "Refactor": 386,
       "Create": 64,
-      "Link": 1395,
-      "Expand": 428
+      "Link": 1396,
+      "Expand": 429
     }
   },
   "dailyCommits": {
@@ -12517,7 +12517,7 @@
       "12": 655,
       "13": 383,
       "14": 2469,
-      "15": 574,
+      "15": 577,
       "16": 1320,
       "17": 2809,
       "18": 2310,
@@ -12543,7 +12543,7 @@
       "12": 146,
       "13": 114,
       "14": 139,
-      "15": 320,
+      "15": 322,
       "16": 109,
       "17": 342,
       "18": 26,
@@ -12560,7 +12560,7 @@
       "Tue": 4399,
       "Wed": 3906,
       "Thu": 2298,
-      "Fri": 1019,
+      "Fri": 1022,
       "Sat": 0,
       "Sun": 6043
     },
@@ -12569,7 +12569,7 @@
       "Tue": 340,
       "Wed": 315,
       "Thu": 331,
-      "Fri": 453,
+      "Fri": 455,
       "Sat": 0,
       "Sun": 654
     }
@@ -12577,6 +12577,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Archive/Ever(green)structure until 2022-01-14.md\"> Ever(green)structure until 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_Unusual Governments to Take Inspiration From - SFWA.md\"> articles_Unusual Governments to Take Inspiration From - SFWA </a>",
@@ -12626,8 +12627,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/207 Tag Hierarchy.md\"> 207 Tag Hierarchy </a>",
         "<a class=\"internal-link\" href=\"20_Entry/206 Folder Hierarchy.md\"> 206 Folder Hierarchy </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"00_Meta/Archive/Ever(green)structure until 2022-01-14.md\"> Ever(green)structure until 2022-01-14 </a>",
@@ -12683,6 +12683,7 @@
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/_Index_of_Mental Health.md\"> _Index_of_Mental Health </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"00_Meta/Archive/Ever(green) structure until 2022-01-14.md\"> Ever(green) structure until 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't control what happens you can only control what you do.md\"> You can't control what happens you can only control what you do </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/File Sizes.md\"> File Sizes </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Labels/It's worth it.md\"> It's worth it </a>",
@@ -12732,8 +12733,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/21 TODO/NtNW (Notes that Need Work).md\"> NtNW (Notes that Need Work) </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/ECpD (Evergreens Created per Day).md\"> ECpD (Evergreens Created per Day) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/How memory works.md\"> How memory works </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/ECpD (Evergreens Created per Day).md\"> ECpD (Evergreens Created per Day) </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>",
@@ -12895,6 +12895,7 @@
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Archive/Ever(green)structure until 2022-01-14.md\"> Ever(green)structure until 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't control what happens you can only control what you do.md\"> You can't control what happens you can only control what you do </a>",
@@ -12944,8 +12945,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
@@ -13057,6 +13057,7 @@
     "40_Evergreens": {
       "Expanded": [
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>",
@@ -13105,8 +13106,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Sticky concepts connect disparate ideas.md\"> Sticky concepts connect disparate ideas </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It is valuable to admit that you might be wrong.md\"> It is valuable to admit that you might be wrong </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans transfer their wonder into creativity.md\"> Humans transfer their wonder into creativity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The history of meditation is a mixture of science and spirituality.md\"> The history of meditation is a mixture of science and spirituality </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans transfer their wonder into creativity.md\"> Humans transfer their wonder into creativity </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
@@ -13329,6 +13329,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Realism must acknowledge optimism's existence and effectiveness.md\"> Realism must acknowledge optimism's existence and effectiveness </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't control what happens you can only control what you do.md\"> You can't control what happens you can only control what you do </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
@@ -13378,8 +13379,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Separate stub notes from the rest of your vault so you don't get overwhelmed.md\"> Separate stub notes from the rest of your vault so you don't get overwhelmed </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Stub notes are data structures for implicit knowledge gathering.md\"> Stub notes are data structures for implicit knowledge gathering </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",

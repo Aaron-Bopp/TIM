@@ -14,6 +14,7 @@ sr-ease: 190
 [[Consciousness is our capacity to introspect]]
 
 ##### On a human level
+
 When people meditate for a long time they feel their [[perception]] of the world change,
 and more easily recognize what they need to do to succeed.
 [[Meditation]] also helps people to focus and achieve things they are already trying to do: [[Meditation helps us gain control over our emotions]]
@@ -21,13 +22,14 @@ and more easily recognize what they need to do to succeed.
 #TO/PONDER/CONCEPT 
 - [[notes_Shuddhi]]
 - [[notes_Sangha]]
+
 ##### On a scientific level
+
 [[Meditation helps us regulate our hormonal environment]] and [[Meditation helps us regulate our nervous system]]
 
 ##### On a [[spirituality|spiritual]] level
 
 [[Consciousness is the fundamental unit of existence]] and because [[Meditation is a practice to develop a stronger conscious]] it helps us to [[manifestation|manifest]] our will upon the world.
-
 
 [[conscious|consciousness]] is a skill and divinity is the goal... [[enlightenment]]?
 
@@ -35,6 +37,7 @@ This is [[Tantra]], [[manifestation]] of our will into the world.
 
 [[Be the change you want to see in the world]]
 [[You can't blame people for failing to rise above their circumstances]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
@@ -42,5 +45,3 @@ This is [[Tantra]], [[manifestation]] of our will into the world.
 
 **Topics**:: [[human advancement]], [[meditation]], [[influence]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

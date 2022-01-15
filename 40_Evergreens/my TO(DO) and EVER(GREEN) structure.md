@@ -14,7 +14,7 @@ These structures work best when they are accompanied by a [[spaced repetition]] 
 
 ##### \#TO(DO)
 
-**\#TO** tags should be used for specific items, not general tasks like "review notes" or "write this paper." This means they are a not daily todo list, they are a way to specify a task inline to to be done in the future. These tags should be temporary, but they are not scheduled. Think of these less as task you need to complete, and more as post it notes to remind you of something you wanted to do. It will also be frivolous to try and clean up all your tags, because acting on my of these tags should often result *in more tags...* This is because the goal isn't to finish your tags, it is to gradually increase the quality of your notes over time. 
+**\#TO** tags should be used for specific items, not general tasks like "review notes" or "write this paper." This means they are a not daily todo list, they are a way to specify a task inline to to be done in the future. These tags should be temporary, but they are not scheduled. Think of these less as task you need to complete, and more as post it notes to remind you of something you wanted to do. It will also be frivolous to try and clean up all your tags, because acting on my of these tags should often result *in more tags...* This is because the goal isn't about the number of tags, it is to gradually increase the quality of your notes over time. 
 
 The hierarchical structure lets me focus in when I have specific kinds of things I want to do, or look broader when I just have some time to work on my vault. 
 This is an incomplete list, and new categories can be added whenever it feels necessary. 
@@ -40,19 +40,22 @@ This is an incomplete list, and new categories can be added whenever it feels ne
 ##### \#EVER(GREEN)
 
 This is the status field in my notes. The purpose behind this status is to be an intentional classification of how developed the note is. In the past I had a much more complicated system, that tried to combine both this classification and what my intentions were. 
-^[See the previous version of this structure here [[Ever(green)structure until 2022-01-14]]]
+^[See the previous version of this structure here [[Ever(green) structure until 2022-01-14]]]
 This is system still does this, but on a much less granular level. 
 
 These first three refer primarily to how developed the note is, but also come with the idea that I do not have any current intention of working on them. This means that any ideas that I have for them should be marked with \#TO tags.
-- **\#EVER/SEED** these notes may only have a couple sentences or a few links.
-- **\#EVER/SPROUT** these notes a body that fleshes out their core concept, but may not have a lot of notes linking to them
+- **\#EVER/SEED** these notes may only have a couple sentences or a few links. They have enough content to be a starting point if I come back to this idea
+- **\#EVER/SPROUT** these notes have a body that fleshes out their core concept, but I am not confident enough in them to make them evergreens
 - **\#EVER/GREEN** these are notes that cover their concept well and interlink with the other notes
 
 These statuses are much more focused on what my current intentions are for the note. As the number of notes I have grows, I need a way to prioritize notes in a way that I will actually use. The main downfall of my last system was the it was far to complicated to maintain, and so I never used it. 
 
 - **\#EVER/WEED** notes that have content that I am not happy with, these are filtered out from my publish vault
-- **\#EVER/GROWING** notes that I am actively working on, should be around 50
+- **\#EVER/GROWING** notes that I am actively working on. If the number of the notes with this status is getting overwhelming, they should be change to one of the three base tags, and I can wait for [[spaced repetition]] to bring them up again
 
+##### Use these tags to your advantage
+
+The point of these tags is to give you ways to *meaningfully* interact with your notes. Just adding and changing tags is not meaningful, but purposefully classifying and marking your tags is, because it decreases the amount [[friction]] you feel when trying to improve your notes.
 
 ### <hr class="footnote"/>
 
