@@ -1,6 +1,6 @@
 ---
 created: 2021-05-31
-tags: created/evergreen/2021/05/31, review, node/evergreen, node/topic/technique
+tags: created/evergreen/2021/05/31, review, node/evergreen/technique
 sr-due: 2022-01-22
 sr-interval: 28
 sr-ease: 250
@@ -16,13 +16,5 @@ Examples:: https://youtu.be/UUC8qF5iDag?t=6195
 - is based off of the principle of doing something that forces your mind to be in the present.
 
 
-**See**:: [[meditation]], [[mental health]], [[yoga]], [[mindfulness]] 
+**Topics**:: [[meditation]], [[mental health]], [[yoga]], [[mindfulness]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%

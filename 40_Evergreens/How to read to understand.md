@@ -15,7 +15,7 @@ sr-ease: 150
 [How to read | Robert Heaton](https://robertheaton.com/2018/06/25/how-to-read/)
 
 - [[Tips for concentration]]
-- [[Use highlighter colors to create visual outlines]] 
+- [[Use colors to create visual outlines]] 
 - [[What is language's fundamental unit]]
 - [[Note taking is a spectrum from purely reproductive to purely productive]]
 - #TO/PONDER/CONCEPT experience with book club

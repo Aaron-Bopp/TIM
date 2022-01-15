@@ -3,12 +3,12 @@ created: 2021-12-03
 aliases:
   - null
 tags: created/evergreen/2021/12/03, review, node/evergreen/technique 
-sr-due: 2022-01-11
-sr-interval: 21
+sr-due: 2022-02-28
+sr-interval: 44
 sr-ease: 190
 ---
 
-#### [[Use highlighter colors to create visual outlines]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Use colors to create visual outlines]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is especially effective in academic research papers, as they will usually contain consistent types and structures of information. Here is mine:
 - Claims: Yellow

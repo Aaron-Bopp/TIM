@@ -2,7 +2,7 @@
 created: 2021-10-23
 aliases:
   - null
-tags: created/evergreen/2021/10/23, review, node/evergreen, node/topic/technique
+tags: created/evergreen/2021/10/23, review, node/evergreen/technique
 sr-due: 2022-02-13
 sr-interval: 29
 sr-ease: 230
@@ -24,11 +24,3 @@ transclude.forEach(p => dv.paragraph(p))
 
 **Topics**:: [[Dataview]], [[Obsidian (software)]], [[programming]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%

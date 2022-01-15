@@ -3,8 +3,8 @@ created: 2022-01-06T09:55:29
 aliases:
   - null
 tags: created/evergreen/2022/01/06, review, node/evergreen/claim
-sr-due: 2022-01-11
-sr-interval: 1
+sr-due: 2022-01-21
+sr-interval: 6
 sr-ease: 210
 ---
 
@@ -18,6 +18,8 @@ If those attachments are left unchecked it can lead to very bad things
 but [[meditation]] allows us to gain [[control]] over our [[subconscious]] and [[detachment]] from those [[emotions]].
 
 [[Meditation helps us detach negative attachments]]
+
+- enables [[We carry our childhood wounds into adulthood]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

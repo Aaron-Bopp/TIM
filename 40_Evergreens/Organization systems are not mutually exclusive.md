@@ -3,8 +3,8 @@ created: 2021-11-30
 aliases:
   - null
 tags: created/evergreen/2021/11/30, review, node/evergreen/claim
-sr-due: 2022-01-12
-sr-interval: 6
+sr-due: 2022-01-26
+sr-interval: 11
 sr-ease: 130
 ---
 
@@ -31,12 +31,13 @@ There is simply no reason to limit yourself to one organization system if you ca
 - [[Use Obsidian tags as temporal classifiers]]
 - [[Evergreen notes should be constantly integrating new knowledge]]
 - [[Densely linked webs of thought provide intuitive access to knowledge]]
+- [[Use colors to create visual outlines]]
  
  
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[organization]], [[Obsidian (software)|Obsidian]], [[second brain]]

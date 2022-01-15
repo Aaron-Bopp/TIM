@@ -8,7 +8,7 @@
     {
       "filter": "node/topic",
       "color": "#e63d05",
-      "shape": "round-diamond",
+      "shape": "hexagon",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -16,11 +16,11 @@
       },
       "showInPane": true,
       "show": true,
-      "size": 1.64472727272727
+      "size": 1.09981818181818
     },
     {
-      "filter": "test",
-      "color": "#42d0ff",
+      "filter": "node/evergreen/question",
+      "color": "#fc42ff",
       "shape": "triangle",
       "icon": {
         "name": "No icon",
@@ -29,12 +29,12 @@
       },
       "showInPane": true,
       "show": true,
-      "size": 2.008
+      "size": 0.736545454545454
     },
     {
       "filter": "node/evergreen/claim",
       "color": "#00ffee",
-      "shape": "pentagon",
+      "shape": "ellipse",
       "icon": {
         "name": "No icon",
         "path": "",
@@ -42,7 +42,7 @@
       },
       "showInPane": true,
       "show": true,
-      "size": 1.55390909090909
+      "size": 0.464090909090909
     },
     {
       "filter": "label/down",
@@ -118,23 +118,18 @@
     "coreStore": "Obsidian",
     "expandInitial": true,
     "fdgdLayout": "cola",
-    "filter": "",
+    "filter": "node",
     "height": "100%",
     "hoverEdges": true,
     "layout": {
-      "name": "cola",
+      "name": "grid",
       "animate": true,
-      "refresh": 2,
-      "maxSimulationTime": 1500,
-      "ungrabifyWhileSimulating": false,
+      "animationDuration": 500,
+      "spacingFactor": 0.5,
       "fit": false,
       "padding": 30,
       "nodeDimensionsIncludeLabels": true,
-      "randomize": false,
-      "avoidOverlap": true,
-      "handleDisconnected": true,
-      "convergenceThreshold": 0.01,
-      "nodeSpacing": 10
+      "avoidOverlap": true
     },
     "limit": 10000,
     "mergeEdges": true,

@@ -10,6 +10,7 @@ sr-ease: 150
 
 #### [[Humans have decided to take advantage of an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+- counters [[Humans have decided to reject an unjust world]]
 - [[Is cognitive dissonance the reason for harmful behaviors]]
 - [[What is the cognitive effect of living in an unjust world]]
 - [[Faith is an abstraction of cognitive dissonance]]

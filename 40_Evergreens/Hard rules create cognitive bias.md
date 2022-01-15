@@ -3,9 +3,9 @@ created: 2021-12-12
 aliases:
   - null
 tags: created/evergreen/2021/12/12, review, node/evergreen/claim
-sr-due: 2022-01-11
-sr-interval: 12
-sr-ease: 173
+sr-due: 2022-01-22
+sr-interval: 7
+sr-ease: 153
 ---
 
 #### [[Hard rules create cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -28,7 +28,7 @@ sr-ease: 173
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING  
+**Status**:: #EVER/SEED  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive bias]], [[cognitive dissonance]]

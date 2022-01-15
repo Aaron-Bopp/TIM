@@ -3,9 +3,9 @@ created: 2022-01-02T12:12:01
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-11
+sr-due: 2022-01-16
 sr-interval: 1
-sr-ease: 170
+sr-ease: 150
 ---
 
 #### [[We learn by transforming information into understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -24,7 +24,7 @@ sr-ease: 170
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GROWING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge]], [[information]], [[knowledge work]]

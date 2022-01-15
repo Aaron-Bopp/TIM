@@ -3,9 +3,9 @@ created: 2022-01-01T19:18:34
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-01-11
+sr-due: 2022-01-16
 sr-interval: 1
-sr-ease: 150
+sr-ease: 130
 ---
 
 #### [[There is a difference between thinking and creating]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

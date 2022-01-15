@@ -10,6 +10,8 @@ sr-ease: 188
 
 #### [[Faith is an abstraction of cognitive dissonance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+- causes [[Humans are addicted to believing]]
+
 "Be in the world not of the world because if you are of the world you start believing worldly things like evolution and that people who don't believe the same thing as me aren't inherently inferior." This is just a sample of the kind of things you are expected to believe in the church. Yet [[Christianity]] gets away with asking it's practitioners to repeatedly go against the world because of one simple thing: [[faith]].
 
 "Have faith and you will be saved." This is the thing a Christian's eternal destiny relies on, and if their [[faith]] wavers, it is no ones fault but their own. This pushes Christian's into living with this [[cognitive dissonance]] %%What is "this cognitive dissonance? %% and contributes to [[The Christian worldview is incompatible with most other worldviews]]

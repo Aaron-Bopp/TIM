@@ -10,7 +10,8 @@ sr-ease: 183
 
 #### [[Humans have decided to reject an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-##### Answers:: [[What is the cognitive effect of living in an unjust world]]
+- answers [[What is the cognitive effect of living in an unjust world]]
+- counters [[Humans have decided to reject an unjust world]]
 
 - [[Evolutionary Psychology]] 
     - [[Our brain will do anything it can to protect itself]]

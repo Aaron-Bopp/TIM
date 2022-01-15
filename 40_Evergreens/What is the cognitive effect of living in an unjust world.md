@@ -18,15 +18,17 @@ sr-ease: 197
 %%What is the conclusion%%
 
 Possible Answers: 
-- [[Humans have decided to reject an unjust world]]
-	- [[Faith is an abstraction of cognitive dissonance]]
-- [[Our brain will do anything it can to protect itself]]
-- [[The injustice of endurance]]
-- [[Stupid rules are made to be broken]]
-- [[Humans have decided to take advantage of an unjust world]]
-- [[Humans try really hard to avoid understanding their mistakes]]
-- [[Humans long to know what to do]]
-- [[Humans are addicted to believing]]
+- answer [[Humans have decided to reject an unjust world]]
+- answer [[Faith is an abstraction of cognitive dissonance]]
+- answer [[Our brain will do anything it can to protect itself]]
+- answer [[Humans have decided to take advantage of an unjust world]]
+- answer [[Humans long to know what to do]]
+- answer [[Humans are addicted to believing]]
+- result [[Human's will find explanations for inexplainable things]]
+- result [[Human's have an inability to admit that they are wrong]]
+- result [[The injustice of endurance]]
+- result [[Stupid rules are made to be broken]]
+- result [[Humans try really hard to avoid understanding their mistakes]]
 
 Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different forms:
 - [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else
@@ -35,7 +37,7 @@ Over all, [[Humans have decided to reject an unjust world]], but this manifest i
 
 We know that [[Humans are primarily irrational, illogical, emotional beings]] and we must keep that in mind when we are striving for [[society|societal]] change and [[self-actualization|personal]] change.
 
-- [[Knowledge of the world is painful]]
+- source [[Knowledge of the world is painful]]
 - [[What is the difference between optimism and hope]]
 	- [[Realism must acknowledge optimism's existence and effectiveness]]
 	- [[Hope is not optimism it is a practice for producing change]]

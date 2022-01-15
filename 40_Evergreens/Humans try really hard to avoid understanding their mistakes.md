@@ -12,13 +12,14 @@ sr-ease: 210
 
 We answer to our urges first and our [[morality]] second
 - [[What is the cognitive effect of living in an unjust world]]
-- [[Humans are a product of evolution]]
-- [[Our ego is our subconscious defense of our self]]
-- [[Rationalizations are defense-mechanisms against strong emotions]]
-- [[Our brain will do anything it can to protect itself]]
-- [[We are confined to the tools of our time]]
-- [[Human's have an inability to admit that they are wrong]]
+- cause [[Humans are a product of evolution]]
+- causes [[Our ego is our subconscious defense of our self]]
+- causes [[Rationalizations are defense-mechanisms against strong emotions]]
+- cause [[Our brain will do anything it can to protect itself]]
+- result [[We are confined to the tools of our time]]
+- cause [[Human's have an inability to admit that they are wrong]]
 
+- counters [[Humans long to know what to do]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING

@@ -21,9 +21,7 @@
 .data-link-icon[data-link-tags*="#EVER/GROWING" i]::before {
     content: "🍀";
 } 
-.data-link-icon[data-link-tags*="topic/outline" i]::before {
-    content: "🧭";
-}
+
 .data-link-icon[data-link-tags*="#EVER/WEED" i]::before {
     content: "🌵";
 }

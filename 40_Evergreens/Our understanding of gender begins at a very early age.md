@@ -24,6 +24,7 @@ This studied understanding of gender in children only reinforces the validity of
 
 #TO/PONDER/CONCEPT information from studies
 
+- enables [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 

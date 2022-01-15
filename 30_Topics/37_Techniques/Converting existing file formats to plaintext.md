@@ -2,7 +2,7 @@
 created: 2021-11-16
 aliases:
   - null
-tags: created/evergreen/2021/11/16, review, node/evergreen, node/topic/technique,
+tags: created/evergreen/2021/11/16, review, node/evergreen/technique,
 sr-due: 2022-02-11
 sr-interval: 30
 sr-ease: 206

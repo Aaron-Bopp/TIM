@@ -9,7 +9,13 @@
 
 }
 
-.type-causes{
-    line-color: rgb(22, 253, 1);
+.type-causes, .type-cause {
+    line-color: rgb(1, 68, 253);
     width: 3px;
+    curve-style: bezier;
+}
+.type-answer, .type-answers {
+    line-color: rgb(9, 114, 0);
+    width: 3px;
+    curve-style: bezier;
 }

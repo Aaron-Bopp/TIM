@@ -1,6 +1,6 @@
 ---
 created: 2021-05-31
-tags: created/evergreen/2021/05/31, review, node/evergreen, node/topic/technique
+tags: created/evergreen/2021/05/31, review, node/evergreen/technique
 sr-due: 2022-01-19
 sr-interval: 26
 sr-ease: 250
@@ -29,11 +29,3 @@ Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
 
 **Topics**:: [[meditation]], [[mindfulness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%

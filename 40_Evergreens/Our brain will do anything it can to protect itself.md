@@ -13,6 +13,9 @@ sr-ease: 227
 #TO/TEND/CREATE this bridge note
 %%
 
+- cause [[Humans are a product of evolution]]
+- cause [[Our brains are built around survival]]
+
 Possibly an answer to [[What is the cognitive effect of living in an unjust world]]
 - [[Evolutionary Psychology]]
 	- [[Our brains are built around survival]]

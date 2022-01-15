@@ -9,6 +9,10 @@ sr-ease: 231
 ---
 
 #### [[Humans are primarily irrational, illogical, emotional beings]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+%%
+- cause [[Human's have an inability to admit that they are wrong]]
+- cause [[Human's will find explanations for inexplainable things]]
+%%
 
 #TO/EXPLORE/WATCH [How do We Get Anything Done At All? - YouTube](https://www.youtube.com/watch?v=QnQfDHKrGZA)
 

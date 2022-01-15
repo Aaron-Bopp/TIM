@@ -32,6 +32,6 @@
 	- [[knowledge work]]
 		- [[What is language's fundamental unit]]
 		- [[Organization systems are not mutually exclusive]]
-		- [[Use highlighter colors to create visual outlines]]
+		- [[Use colors to create visual outlines]]
 		- [[Better tools allow us to be less disciplined and more productive]]
 		- [[How to read to understand]]
