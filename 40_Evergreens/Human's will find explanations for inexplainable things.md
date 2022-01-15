@@ -1,6 +1,6 @@
 ---
 created: 2021-06-16
-tags: created/evergreen/2021/06/16, review, node/evergreen
+tags: created/evergreen/2021/06/16, review, node/evergreen/claim
 aliases:
   - humans finding explanations for inexplainable things
   - explain unexplainable things

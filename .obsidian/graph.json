@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "tag:#node",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#EVER/SEED",
@@ -71,16 +71,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 0.419880445075758,
   "lineSizeMultiplier": 0.428227941176471,
   "collapse-forces": false,
-  "centerStrength": 0.478498931623932,
+  "centerStrength": 0.439316239316239,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.028210601793174365,
-  "close": true
+  "scale": 0.03681054432122806,
+  "close": false
 }

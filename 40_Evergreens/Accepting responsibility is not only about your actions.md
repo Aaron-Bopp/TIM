@@ -1,9 +1,10 @@
 ---
 created: 2021-06-08
-tags: created/evergreen/2021/06/08, review, node/evergreen
+tags: created/evergreen/2021/06/08, review, node/evergreen/claim
 aliases:
   - Accepting responsibility for moving past your trauma
-  - Accepting responsibility is about moving forward for yourself and for the people affected by the event
+  - Accepting responsibility is about moving forward for yourself and for the
+    people affected by the event
 sr-due: 2022-03-02
 sr-interval: 59
 sr-ease: 242

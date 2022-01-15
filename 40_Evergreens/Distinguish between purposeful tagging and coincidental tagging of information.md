@@ -2,15 +2,15 @@
 created: 2022-01-10T10:42:18 
 aliases:
   - null
-tags: created/evergreen/2022/01/10, review, node/evergreen
-sr-due: 2022-01-10
-sr-interval: 1
+tags: created/evergreen/2022/01/10, review, node/evergreen/claim
+sr-due: 2022-01-25
+sr-interval: 10
 sr-ease: 230
 ---
 
 #### [[Distinguish between purposeful tagging and coincidental tagging of information]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-In systems like [[Obsidian (software)|Obsidian]]  it can be very easy to link to topics whenever they appear in text, as many people will use [[bi-directional links]] to [[topic note|topic notes]] as tags for content.
+In systems like [[Obsidian (software)|Obsidian]]  it can be very easy to link to topics whenever they appear in text, as many people will use [[wikilinks]] to [[topic note|topic notes]] as tags for content.
 ^[Obsidian also has a more traditional looking tag system, but it lacks the flexibility that notes provide, see [[Use Obsidian tags as temporal classifiers]]]
 Additionally, some use autocompletion that will suggest linking those notes as they appear, which can make it easier to link a topic than to not. 
 This can be seen as a counter-example to [[Friction is the number one hindrance to learning]], as in this case the lack of [[friction]] actually inhibits directly engaging with whether this note should be tagged with that topic.

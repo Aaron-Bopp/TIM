@@ -1,6 +1,6 @@
 ---
 created: 2021-05-22
-tags: created/evergreen/2021/05/22, review, node/evergreen
+tags: created/evergreen/2021/05/22, review, node/evergreen/claim
 aliases:
   - Creating thought with a second brain
   - second brain inspirational hub of creativity

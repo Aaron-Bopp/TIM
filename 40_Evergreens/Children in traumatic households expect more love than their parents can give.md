@@ -1,8 +1,9 @@
 ---
 created: 2021-07-05
-tags: created/evergreen/2021/07/05, review, node/evergreen
+tags: created/evergreen/2021/07/05, review, node/evergreen/claim
 aliases:
-  - Parents will not be able to protect their children from every source of trauma
+  - Parents will not be able to protect their children from every source of
+    trauma
 sr-due: 2022-01-27
 sr-interval: 37
 sr-ease: 190

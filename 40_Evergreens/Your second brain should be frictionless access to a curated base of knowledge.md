@@ -2,7 +2,7 @@
 created: 2021-05-22
 aliases:
   - Collecting thought with a second brain
-tags: created/evergreen/2021/05/22, review, node/evergreen
+tags: created/evergreen/2021/05/22, review, node/evergreen/claim
 sr-due: 2022-01-13
 sr-interval: 23
 sr-ease: 200

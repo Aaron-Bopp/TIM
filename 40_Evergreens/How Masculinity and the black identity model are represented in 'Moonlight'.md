@@ -1,10 +1,10 @@
 ---
 created: 2021-10-10
-tags: created/evergreen/2021/10/10, review, node/evergreen
+tags: created/evergreen/2021/10/10, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-10
-sr-interval: 23
+sr-due: 2022-03-24
+sr-interval: 68
 sr-ease: 270
 ---
 #### [[How Masculinity and the black identity model are represented in 'Moonlight']] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

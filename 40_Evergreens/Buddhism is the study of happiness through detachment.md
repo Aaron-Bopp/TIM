@@ -1,6 +1,6 @@
 ---
 created: 2021-06-11
-tags: created/evergreen/2021/06/11, review, node/evergreen
+tags: created/evergreen/2021/06/11, review, node/evergreen/claim
 aliases:
   - The nature of happiness is not doing what you love its detachment from the
     decisions of the life

@@ -4456,7 +4456,7 @@
       "links": 10
     },
     "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md": {
-      "size": 1911,
+      "size": 2224,
       "tags": 5,
       "links": 23
     },
@@ -4577,7 +4577,7 @@
     },
     "40_Evergreens/Knowledge of the world is painful.md": {
       "size": 1495,
-      "tags": 6,
+      "tags": 5,
       "links": 15
     },
     "40_Evergreens/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md": {
@@ -12494,20 +12494,25 @@
       "size": 2535,
       "tags": 4,
       "links": 16
+    },
+    "30_Topics/32_Terms/wikilinks.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4591,
-      "Create": 4753,
-      "Link": 7887,
-      "Expand": 1192
+      "Refactor": 4593,
+      "Create": 4754,
+      "Link": 7889,
+      "Expand": 1193
     },
     "40_Evergreens": {
-      "Refactor": 393,
+      "Refactor": 394,
       "Create": 64,
       "Link": 1407,
-      "Expand": 435
+      "Expand": 436
     }
   },
   "dailyCommits": {
@@ -12527,7 +12532,7 @@
       "12": 655,
       "13": 383,
       "14": 2471,
-      "15": 577,
+      "15": 583,
       "16": 1320,
       "17": 2809,
       "18": 2310,
@@ -12553,7 +12558,7 @@
       "12": 146,
       "13": 114,
       "14": 141,
-      "15": 322,
+      "15": 324,
       "16": 109,
       "17": 342,
       "18": 26,
@@ -12572,7 +12577,7 @@
       "Thu": 2298,
       "Fri": 1022,
       "Sat": 0,
-      "Sun": 6296
+      "Sun": 6302
     },
     "40_Evergreens": {
       "Mon": 180,
@@ -12581,12 +12586,13 @@
       "Thu": 331,
       "Fri": 455,
       "Sat": 0,
-      "Sun": 678
+      "Sun": 680
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
@@ -12636,10 +12642,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Channeling.md\"> Channeling </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Citta.md\"> Citta </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Clinical Depression.md\"> Clinical Depression </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cognitive Anxiety.md\"> Cognitive Anxiety </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/cognitive bias.md\"> cognitive bias </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Cognitive Anxiety.md\"> Cognitive Anxiety </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"wikilinks.md\"> wikilinks </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human behavior.md\"> human behavior </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/coming out.md\"> coming out </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Archive/Ever(green)structure until 2022-01-14.md\"> Ever(green)structure until 2022-01-14 </a>",
@@ -12689,10 +12695,10 @@
         "<a class=\"internal-link\" href=\"10_Sources/Zotero/_Index_of_Zotero.md\"> _Index_of_Zotero </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Religion/_Index_of_Religion.md\"> _Index_of_Religion </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/_Index_of_Readwise.md\"> _Index_of_Readwise </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/_Index_of_Qoutes.md\"> _Index_of_Qoutes </a>",
-        "<a class=\"internal-link\" href=\"10_Sources/Politics/_Index_of_Politics.md\"> _Index_of_Politics </a>"
+        "<a class=\"internal-link\" href=\"10_Sources/Qoutes/_Index_of_Qoutes.md\"> _Index_of_Qoutes </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/wikilinks.md\"> wikilinks </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It's always worth it to work through trauma.md\"> It's always worth it to work through trauma </a>",
         "<a class=\"internal-link\" href=\"00_Meta/Archive/Ever(green) structure until 2022-01-14.md\"> Ever(green) structure until 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can't control what happens you can only control what you do.md\"> You can't control what happens you can only control what you do </a>",
@@ -12742,10 +12748,10 @@
         "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Spaced Repetition Inbox.md\"> Spaced Repetition Inbox </a>",
         "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Inbox.md\"> Inbox </a>",
         "<a class=\"internal-link\" href=\"20_Entry/21 TODO/NtNW (Notes that Need Work).md\"> NtNW (Notes that Need Work) </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/feng shui.md\"> feng shui </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"wikilinks.md\"> wikilinks </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/human behavior.md\"> human behavior </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Self-repression is the most natural response for trans people in strongly gendered environments.md\"> Self-repression is the most natural response for trans people in strongly gendered environments </a>",
@@ -12795,8 +12801,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will imitate whatever is modeled for them.md\"> Children will imitate whatever is modeled for them </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Choosing a note writing system is choosing a system for thought.md\"> Choosing a note writing system is choosing a system for thought </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/second brain.md\"> second brain </a>",
@@ -12905,6 +12910,7 @@
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"wikilinks.md\"> wikilinks </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Pattern matching is a fundamental part of learning.md\"> Pattern matching is a fundamental part of learning </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
@@ -12954,10 +12960,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/belief.md\"> belief </a>",
         "<a class=\"internal-link\" href=\"Belief is good.md\"> Belief is good </a>",
         "<a class=\"internal-link\" href=\"Belief is detrimental.md\"> Belief is detrimental </a>",
-        "<a class=\"internal-link\" href=\"On a personal level.md\"> On a personal level </a>",
-        "<a class=\"internal-link\" href=\"On a societal level.md\"> On a societal level </a>"
+        "<a class=\"internal-link\" href=\"On a personal level.md\"> On a personal level </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
@@ -13007,8 +13013,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/You should the love the loves of those who you love.md\"> You should the love the loves of those who you love </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md\"> You will never be pushed to understand marginalization unless you are part of a marginalized group </a>",
@@ -13066,6 +13071,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Take note of the simple things in life.md\"> Take note of the simple things in life </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/When should you forgive people who don't deserve it.md\"> When should you forgive people who don't deserve it </a>",
@@ -13115,8 +13121,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/How to balance investment.md\"> How to balance investment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us detach negative attachments.md\"> Meditation helps us detach negative attachments </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\"> The brain lodges emotional reactions in our unconscious memory </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md\"> Deconstructing your faith is like climbing through a jungle canopy </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Meditation helps us regulate our nervous system.md\"> Meditation helps us regulate our nervous system </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith is like climbing through a jungle canopy.md\"> Deconstructing your faith is like climbing through a jungle canopy </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
@@ -13392,6 +13397,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/_Index_of_40_Evergreens.md\"> _Index_of_40_Evergreens </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
@@ -13441,8 +13447,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\"> People have been conditioned to believe the bible has to be infallible </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md\"> You will never be pushed to understand marginalization unless you are part of a marginalized group </a>",

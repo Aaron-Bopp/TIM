@@ -11,8 +11,8 @@
     "S - Aside",
     "S - Admonitions",
     "links",
-    "space-fixes",
-    "jugglEdges"
+    "jugglEdges",
+    "space-fixes"
   ],
   "translucency": false,
   "baseFontSizeAction": false
