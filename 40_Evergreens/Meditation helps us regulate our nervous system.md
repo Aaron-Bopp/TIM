@@ -3,9 +3,9 @@ created: 2022-01-02T09:05:50
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen
-sr-due: 2022-01-31
-sr-interval: 16
-sr-ease: 210
+sr-due: 2022-01-23
+sr-interval: 8
+sr-ease: 190
 ---
 
 #### [[Meditation helps us regulate our nervous system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -28,5 +28,3 @@ These systems impact the entire [[mind-body complex]] which can get you out of y
 
 **Topics**:: [[mind-body complex]], [[mental health]], [[meditation]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

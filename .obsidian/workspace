@@ -9,26 +9,32 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
+            "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "53d7100a90e80e11",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.314932016225962}"
+            },
+            {
+              "leaf": "53d7100a90e80e11",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":25},\"to\":{\"line\":37,\"ch\":25}},\"scroll\":25.544354546454645}"
             },
             {
               "leaf": "53d7100a90e80e11",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation helps us regulate our nervous system.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":12},\"to\":{\"line\":7,\"ch\":12}},\"scroll\":10.744185869083848}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":2.1290321290555094}"
             },
             {
               "leaf": "53d7100a90e80e11",
@@ -131,12 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "53d7100a90e80e11",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.2258063796655725}"
             }
           ]
         }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
+                "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
+                "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Meditation helps us regulate our nervous system.md"
+                "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md"
               }
             },
             "pane-relief:history-v1": {
@@ -386,15 +386,11 @@
             }
           },
           {
-            "id": "d577e892d859d745",
+            "id": "bc2428a09fdca9b7",
             "type": "leaf",
             "state": {
               "type": "RSS_FEED",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ],
@@ -410,7 +406,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Meditation helps us regulate our nervous system.md",
+                "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -521,15 +517,15 @@
   },
   "active": "53d7100a90e80e11",
   "lastOpenFiles": [
-    "40_Evergreens/Meditation helps us regulate our nervous system.md",
+    "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
     "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
+    "40_Evergreens/Meditation helps us regulate our nervous system.md",
     "40_Evergreens/Take note of the simple things in life.md",
     "40_Evergreens/Republicans have become a true opposition party.md",
     "40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md",
     "40_Evergreens/Belief pulls you forward into life.md",
     "40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md",
     "40_Evergreens/A healthy second brain requires a surplus of entry points.md",
-    "40_Evergreens/Buddhism is the study of happiness through detachment.md",
-    "40_Evergreens/Humans try really hard to avoid understanding their mistakes.md"
+    "40_Evergreens/Buddhism is the study of happiness through detachment.md"
   ]
 }

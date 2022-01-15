@@ -41,7 +41,6 @@
   "mysnippets-plugin",
   "metaedit",
   "obsidian-another-quick-switcher",
-  "various-complements",
   "obsidian-extra-md-commands",
   "obsidian-smarter-md-hotkeys",
   "obsidian-languagetool-plugin",
@@ -65,5 +64,6 @@
   "obsidian-local-images",
   "advanced-cursors",
   "obsidian-sortable",
-  "juggl"
+  "juggl",
+  "dev-various-complements"
 ]

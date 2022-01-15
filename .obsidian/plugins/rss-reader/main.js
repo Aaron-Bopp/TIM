@@ -6423,7 +6423,7 @@ function getElementByName(element2, name) {
 }
 function getContent(element2, names) {
   let value;
-  for (let name of names) {
+  for (const name of names) {
     if (name.contains("#")) {
       const [elementName, attr2] = name.split("#");
       const data = getElementByName(element2, elementName);
@@ -7229,11 +7229,26 @@ function openInBrowser(item) {
 }
 function rssToMd(plugin, content) {
   let markdown = (0, import_obsidian6.htmlToMarkdown)(content);
-  markdown = markdown.replace(/^```(?:dataview|dataviewjs)\n([\s\S]*?)```$/gm, "<pre>$&</pre>");
-  markdown = markdown.replace(/`=.*`/g, "<pre>$&</pre>");
-  markdown = markdown.replace(/`\$=.*`/g, "<pre>$&</pre>");
-  markdown = markdown.replace(/<%([\s\S]*?)%>/g, "```javascript\n$&\n```");
+  if (plugin.app.plugins.plugins["dataview"]) {
+    const {
+      inlineQueryPrefix,
+      inlineJsQueryPrefix
+    } = plugin.app.plugins.plugins.dataview.api.settings;
+    markdown = markdown.replace(RegExp(`\`${escapeRegExp(inlineQueryPrefix)}.*\``, "g"), "<pre>$&</pre>");
+    markdown = markdown.replace(RegExp(`\`${escapeRegExp(inlineJsQueryPrefix)}.*\``, "g"), "<pre>$&</pre>");
+  }
+  if (plugin.app.plugins.plugins["templater-obsidian"]) {
+    markdown = markdown.replace(/<%([\s\S]*?)%>/g, "```javascript\n$&\n```");
+  }
+  const codeblockProcessors = Object.keys(import_obsidian6.MarkdownPreviewRenderer.codeBlockPostProcessors);
+  for (const codeblockProcessor of codeblockProcessors) {
+    const regex = RegExp("^```" + codeblockProcessor + "[\\s\\S]+```$", "gm");
+    markdown = markdown.replace(regex, "<pre>$&</pre>");
+  }
   return markdown;
+}
+function escapeRegExp(string) {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 // src/actions/Action.ts
