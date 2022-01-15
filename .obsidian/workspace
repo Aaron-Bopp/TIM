@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Meditation increases our ability to influence the world.md",
+            "file": "30_Topics/31_Stubs/emotional invalidation.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -21,8 +21,92 @@
             {
               "leaf": "a5785713629abb1b",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/emotional invalidation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":90},\"to\":{\"line\":11,\"ch\":90}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can be taught to invalidate your own emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":80},\"to\":{\"line\":36,\"ch\":80}},\"scroll\":13.302418264154392}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/People have been conditioned to believe the bible has to be infallible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Children make wide assumptions about the world.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0.08921933440027627}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":25},\"to\":{\"line\":35,\"ch\":25}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":6.8698885892846775}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can discover your transness at any point in life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":7.870967255670767}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Human's will find explanations for inexplainable things.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":29},\"to\":{\"line\":30,\"ch\":29}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/An increase in self-love and self-respect may lead to a loss of function.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":26},\"to\":{\"line\":26,\"ch\":26}},\"scroll\":5.548387086850424}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Neurodiverse people are siloed into systems that work against them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.806451498779874}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/37_Techniques/Embed notes from a dataview query with dataviewjs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.9677418139176917}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How memory works.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":26},\"to\":{\"line\":15,\"ch\":26}},\"scroll\":2.64516110673284}"
+            },
+            {
+              "leaf": "a5785713629abb1b",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Meditation increases our ability to influence the world.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.419354573248837}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":27},\"to\":{\"line\":42,\"ch\":27}},\"scroll\":25.63929533932401}"
             },
             {
               "leaf": "a5785713629abb1b",
@@ -53,24 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Acting Bio.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/How I process repressed emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/My worldview is not about conversion it is about acceptance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.850805889369324}"
-            },
-            {
-              "leaf": "a5785713629abb1b",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         }
@@ -123,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Meditation increases our ability to influence the world.md",
+                "file": "30_Topics/31_Stubs/emotional invalidation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -156,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Meditation increases our ability to influence the world.md",
+                "file": "30_Topics/31_Stubs/emotional invalidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387
+    "width": 387,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -202,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Meditation increases our ability to influence the world.md"
+                "file": "30_Topics/31_Stubs/emotional invalidation.md"
               }
             },
             "pane-relief:history-v1": {
@@ -307,31 +374,23 @@
             }
           },
           {
-            "id": "0fb852a8e5edc5d0",
+            "id": "f2e4acd6d1eac825",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "aad5bb59d4df02ef",
+            "id": "3b1845ae8373df1b",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "84f4f33f118f4527",
@@ -343,7 +402,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Meditation increases our ability to influence the world.md",
+                "file": "30_Topics/31_Stubs/emotional invalidation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -450,20 +509,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706,
-    "collapsed": true
+    "width": 706
   },
   "active": "a5785713629abb1b",
   "lastOpenFiles": [
-    "40_Evergreens/Meditation increases our ability to influence the world.md",
-    "40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md",
-    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md",
-    "00_Meta/Archive/Ever(green) structure until 2022-01-14.md",
-    "30_Topics/32_Terms/evergreen notes.md",
-    "10_Sources/Readwise/Tweets/tweets_How to DM Your Heroes Wh....md",
-    "90_Personal/Personal/Acting Bio.md",
-    "90_Personal/Personal/How I process repressed emotions.md",
-    "40_Evergreens/My worldview is not about conversion it is about acceptance.md",
-    "90_Personal/Personal/My relationship with my parents.md"
+    "30_Topics/31_Stubs/emotional invalidation.md",
+    "40_Evergreens/You can be taught to invalidate your own emotions.md",
+    "40_Evergreens/People have been conditioned to believe the bible has to be infallible.md",
+    "40_Evergreens/Children make wide assumptions about the world.md",
+    "40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md",
+    "40_Evergreens/Develop Obsidian plugins.md",
+    "30_Topics/31_Stubs/organization.md",
+    "40_Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
+    "40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md",
+    "40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md"
   ]
 }

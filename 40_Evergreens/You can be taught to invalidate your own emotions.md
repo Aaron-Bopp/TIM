@@ -17,10 +17,10 @@ For neurodivergent kids this lies more in
 and for trans kids it lies more in 
 how [[Our understanding of gender begins at a very early age]]
 and [[Children make wide assumptions about the world]] 
-but these conditions are often [[co-morbid]] anyways
+but these populations heavily overlap anyways
 ]
 
-For example, [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] because of this and the [[Gender self-socialization model]], which is why [[You can discover your transness at any point in life]].
+For example, [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] which is why [[You can discover your transness at any point in life]].
 
 #TO/EXPLORE/WATCH #TO/PONDER/CONCEPT ["If You Have These 6 Beliefs", You Were Raised by a Narcissist Parents! - YouTube](https://www.youtube.com/watch?v=Ei8DITAQTrE&list=WL&index=143)
 
@@ -31,9 +31,9 @@ For example, [[Trans children will repress their dysphoria if they have been eff
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[emotional invalidation]] 
+**Topics**:: [[emotional invalidation]], [[emotions]], [[trauma]], [[childhood]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

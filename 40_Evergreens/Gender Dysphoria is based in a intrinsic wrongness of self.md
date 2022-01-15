@@ -3,9 +3,9 @@ created: 2021-08-08
 tags: created/evergreen/2021/08/08, review, node/evergreen
 aliases:
   - null
-sr-due: 2022-01-09
-sr-interval: 29
-sr-ease: 192
+sr-due: 2022-01-30
+sr-interval: 15
+sr-ease: 172
 ---
 
 #### [[Gender Dysphoria is based in a intrinsic wrongness of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

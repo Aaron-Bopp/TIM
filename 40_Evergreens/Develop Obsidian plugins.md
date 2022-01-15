@@ -40,4 +40,6 @@ sr-ease: 250
 		- embed timelines or tweets [Twitter for Websites | Docs | Twitter Developer Platform](https://developer.twitter.com/en/docs/twitter-for-websites)
 	- Vault logger to append note changes and links to daily notes
 	- go to line hotkeys
+		- regex to match lines and allows you to put carrets wherever you want
+	- smart alias, use dictionary to lookup common known forms
 - How to tell if a pane is not in view: [Discord](https://discord.com/channels/686053708261228577/716028884885307432/920571021906546698)

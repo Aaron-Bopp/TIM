@@ -3,8 +3,8 @@ created: 2022-01-02T08:55:52
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen
-sr-due: 2022-01-08
-sr-interval: 2
+sr-due: 2022-01-26
+sr-interval: 11
 sr-ease: 190
 ---
 
@@ -31,7 +31,7 @@ and more easily recognize what they need to do to succeed.
 
 [[Consciousness is the fundamental unit of existence]] and because [[Meditation is a practice to develop a stronger conscious]] it helps us to [[manifestation|manifest]] our will upon the world.
 
-[[conscious|consciousness]] is a skill and divinity is the goal... [[enlightenment]]?
+[[conscious|Consciousness]] is a skill and [[enlightenment]] is the goal
 
 This is [[Tantra]], [[manifestation]] of our will into the world.
 
@@ -40,7 +40,7 @@ This is [[Tantra]], [[manifestation]] of our will into the world.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[meditation]], [[influence]]
