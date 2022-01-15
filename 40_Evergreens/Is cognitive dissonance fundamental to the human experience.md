@@ -10,7 +10,6 @@ sr-ease: 230
 
 #### [[Is cognitive dissonance fundamental to the human experience]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
 - [[Is cognitive dissonance the reason for harmful behaviors]]
 - [[What is the cognitive effect of living in an unjust world]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
@@ -24,5 +23,3 @@ sr-ease: 230
 
 **Topics**:: [[human experience]], [[cognitive dissonance]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

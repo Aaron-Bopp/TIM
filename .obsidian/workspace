@@ -9,26 +9,26 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
+            "file": "30_Topics/35_Outlines/human experience.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "53d7100a90e80e11",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/dissociation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/human experience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":20.482723239489964}"
             },
             {
               "leaf": "53d7100a90e80e11",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":130},\"to\":{\"line\":24,\"ch\":130}},\"scroll\":14.04435439058945}"
+              "eState": "{\"scroll\":14.04435439058945}"
             },
             {
               "leaf": "53d7100a90e80e11",
@@ -140,6 +140,60 @@
             }
           ]
         }
+      },
+      {
+        "id": "1c2cd212be105ede",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Is cognitive dissonance fundamental to the human experience.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "1c2cd212be105ede",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/cognitive dissonance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":179},\"to\":{\"line\":10,\"ch\":179}},\"scroll\":1.3548385856302976}"
+            },
+            {
+              "leaf": "1c2cd212be105ede",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":3.806451498779874}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "78b88fb1be565555",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "78b88fb1be565555",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -189,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md"
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md"
               }
             },
             "pane-relief:history-v1": {
@@ -406,7 +460,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
+                "file": "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -513,19 +567,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706
+    "width": 706,
+    "collapsed": true
   },
-  "active": "53d7100a90e80e11",
+  "active": "78b88fb1be565555",
   "lastOpenFiles": [
+    "40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md",
+    "40_Evergreens/Is cognitive dissonance fundamental to the human experience.md",
+    "30_Topics/31_Stubs/cognitive dissonance.md",
+    "30_Topics/35_Outlines/human experience.md",
     "40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md",
     "30_Topics/32_Terms/dissociation.md",
     "40_Evergreens/A totally integrated machine should automate as much of the thinking process as possible.md",
     "40_Evergreens/Meditation helps us regulate our nervous system.md",
     "40_Evergreens/Take note of the simple things in life.md",
-    "40_Evergreens/Republicans have become a true opposition party.md",
-    "40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md",
-    "40_Evergreens/Belief pulls you forward into life.md",
-    "40_Evergreens/Colonization and slavery lead to generational disparities in black communities.md",
-    "40_Evergreens/A healthy second brain requires a surplus of entry points.md"
+    "40_Evergreens/Republicans have become a true opposition party.md"
   ]
 }
