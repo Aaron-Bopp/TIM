@@ -28,7 +28,7 @@ tags: created/source/2021/12/30, node/source/notes
 	- [[Humans are a product of evolution]], anxiety is a protective mechanism
 	- [[Our brain will do anything it can to protect itself]], including causing itself to [[suffering|suffer]]
 	- [[anxiety]] is our mind thinking about the future
-		- distractions can be bring us to the present
+		- distractions can bring us to the present
 		- [[meditation]] trains your mind to come back to the present
 - Why is [[anxiety]] on the rise?
 	- we think of [[anxiety]] as purely mental, but we have ignored the [[body]]

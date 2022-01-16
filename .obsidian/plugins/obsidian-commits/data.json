@@ -4618,7 +4618,7 @@
     "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md": {
       "size": 4527,
       "tags": 4,
-      "links": 10
+      "links": 11
     },
     "40_Evergreens/My worldview is not about conversion it is about acceptance.md": {
       "size": 2749,
@@ -7382,7 +7382,7 @@
     },
     "30_Topics/35_Outlines/social anxiety.md": {
       "size": 1483,
-      "tags": 3,
+      "tags": 2,
       "links": 12
     },
     "30_Topics/35_Outlines/anxiety.md": {
@@ -9302,8 +9302,8 @@
     },
     "40_Evergreens/Consciousness is the fundamental unit of existence.md": {
       "size": 1926,
-      "tags": 9,
-      "links": 24
+      "tags": 8,
+      "links": 25
     },
     "00_Meta/Templates/LIST.md": {
       "size": 0,
@@ -11272,7 +11272,7 @@
     },
     "40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md": {
       "size": 1372,
-      "tags": 5,
+      "tags": 4,
       "links": 9
     },
     "30_Topics/32_Terms/arbitrage.md": {
@@ -11386,7 +11386,7 @@
       "links": 0
     },
     "40_Evergreens/Strong enough logic becomes belief.md": {
-      "size": 993,
+      "size": 1183,
       "tags": 5,
       "links": 9
     },
@@ -12513,16 +12513,16 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4606,
+      "Refactor": 4609,
       "Create": 4756,
-      "Link": 7912,
-      "Expand": 1199
+      "Link": 7914,
+      "Expand": 1200
     },
     "40_Evergreens": {
-      "Refactor": 397,
+      "Refactor": 399,
       "Create": 64,
-      "Link": 1423,
-      "Expand": 441
+      "Link": 1425,
+      "Expand": 442
     }
   },
   "dailyCommits": {
@@ -12545,9 +12545,9 @@
       "15": 583,
       "16": 1340,
       "17": 2833,
-      "18": 2310,
+      "18": 2314,
       "19": 537,
-      "20": 276,
+      "20": 278,
       "21": 882,
       "22": 671,
       "23": 466
@@ -12571,9 +12571,9 @@
       "15": 324,
       "16": 118,
       "17": 357,
-      "18": 26,
+      "18": 29,
       "19": 99,
-      "20": 63,
+      "20": 65,
       "21": 90,
       "22": 50,
       "23": 122
@@ -12587,7 +12587,7 @@
       "Thu": 2298,
       "Fri": 1022,
       "Sat": 0,
-      "Sun": 6346
+      "Sun": 6352
     },
     "40_Evergreens": {
       "Mon": 180,
@@ -12596,12 +12596,13 @@
       "Thu": 331,
       "Fri": 455,
       "Sat": 0,
-      "Sun": 704
+      "Sun": 709
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/friction.md\"> friction </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
@@ -12651,8 +12652,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmacharya.md\"> Brahmacharya </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmamuhurtha.md\"> Brahmamuhurtha </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahman.md\"> Brahman </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmi (Bacopa monnieri).md\"> Brahmi (Bacopa monnieri) </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bupropion.md\"> Bupropion </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmi (Bacopa monnieri).md\"> Brahmi (Bacopa monnieri) </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"catalyst.md\"> catalyst </a>",
@@ -12920,6 +12920,8 @@
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/friction.md\"> friction </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
         "<a class=\"internal-link\" href=\"abstraction.md\"> abstraction </a>",
@@ -12968,11 +12970,12 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The three main questions of life.md\"> The three main questions of life </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/friction.md\"> friction </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/209 Notepad.md\"> 209 Notepad </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/social anxiety.md\"> social anxiety </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Convert words docs (docx) to markdown (md) with powershell and pandoc.md\"> Convert words docs (docx) to markdown (md) with powershell and pandoc </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Converting existing file formats to plaintext.md\"> Converting existing file formats to plaintext </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Dual Nostril Breathing Meditation.md\"> Dual Nostril Breathing Meditation </a>",
@@ -13020,10 +13023,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\"> Rationalizations are defense-mechanisms against strong emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/We carry our childhood wounds into adulthood.md\"> We carry our childhood wounds into adulthood </a>",
-        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is our capacity to introspect.md\"> Consciousness is our capacity to introspect </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"00_Meta/Templates/EGNOTE.md\"> EGNOTE </a>"
+        "<a class=\"internal-link\" href=\"90_Personal/Personal/Journal.md\"> Journal </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
@@ -13081,6 +13081,7 @@
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans try really hard to avoid understanding their mistakes.md\"> Humans try really hard to avoid understanding their mistakes </a>",
@@ -13130,8 +13131,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/God is the human capacity to believe.md\"> God is the human capacity to believe </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Dawn of everything/_Index_of_Dawn of everything.md\"> _Index_of_Dawn of everything </a>",
@@ -13354,6 +13354,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender is both an intrinsic experience and a necessary expression.md\"> Gender is both an intrinsic experience and a necessary expression </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Creationism built an anti-science culture.md\"> Creationism built an anti-science culture </a>",
@@ -13402,11 +13404,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Meditation increases our ability to influence the world.md\"> Meditation increases our ability to influence the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/The Christian worldview is incompatible with most other worldviews.md\"> The Christian worldview is incompatible with most other worldviews </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety isn't irrational it's just overcompensation.md\"> Social anxiety isn't irrational it's just overcompensation </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Write your notes like you're planting an evergreen forest.md\"> Write your notes like you're planting an evergreen forest </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Karma is based in the law of cause and effect.md\"> Karma is based in the law of cause and effect </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\"> Decimal based organization systems provide the easiest access to common notes </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Develop Obsidian plugins.md\"> Develop Obsidian plugins </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children make wide assumptions about the world.md\"> Children make wide assumptions about the world </a>",
@@ -13455,9 +13457,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our ego is our subconscious defense of our self.md\"> Our ego is our subconscious defense of our self </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Fear cannot be a deterant for deconstructing your faith.md\"> Fear cannot be a deterant for deconstructing your faith </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/We value our biggest insecurities because they protect us from the biggest threats.md\"> We value our biggest insecurities because they protect us from the biggest threats </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",

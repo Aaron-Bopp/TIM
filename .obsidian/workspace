@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a59888459fbc3382",
+        "id": "1e991d55120c97d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20_Entry/24 Vault Stats/Graph Timeline.md",
+            "file": "40_Evergreens/How to read to understand.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -19,123 +19,117 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "a59888459fbc3382",
+              "leaf": "1e991d55120c97d4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/24 Vault Stats/Graph Timeline.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/How to read to understand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "a59888459fbc3382",
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.935482781834013}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.032257878445447}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You can be taught to invalidate your own emotions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.651209439714057}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Every person has an experience of gender.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.1612902382286023}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/209 Notepad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.14210521473604}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Our understanding of gender begins at a very early age.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.1290321290555094}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9677418908269071}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/31_Stubs/materialism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":406},\"to\":{\"line\":18,\"ch\":406}},\"scroll\":0}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":4.838709454134536}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Sources/Mental Health/Dr.K's guide/notes_Anxiety 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":52},\"to\":{\"line\":31,\"ch\":52}},\"scroll\":34.06953479262763}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/You're not afraid of falling off the cliff you're afraid of jumping off the cliff.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Strong enough logic becomes belief.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":149},\"to\":{\"line\":13,\"ch\":149}},\"scroll\":10.146981478294224}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Consciousness is the fundamental unit of existence.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":23},\"to\":{\"line\":24,\"ch\":23}},\"scroll\":16.399192360946024}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Decimal based organization systems provide the easiest access to common notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":140},\"to\":{\"line\":14,\"ch\":140}},\"scroll\":2.354838662539513}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Dawn of everything/What sorts of societies do people gravitate towards.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1e991d55120c97d4",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
             },
             {
-              "leaf": "a59888459fbc3382",
+              "leaf": "1e991d55120c97d4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Humans have decided to take advantage of an unjust world.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":3.6877322285591894}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Use colors to create visual outlines.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":19.883248730964468}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":11.67032967032967}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Trans people will look for any other solution than being trans.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotyping has the psychological goal of comprehension and self-enhancement.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Look for understanding before you look for solutions.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":6.548386548485915}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":24},\"to\":{\"line\":22,\"ch\":24}},\"scroll\":1.387096771712606}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Stereotyping has the psychological goal of comprehension and self-enhancement.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.5806451191143012}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Hard boundaries reduce opportunities for creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":10.38449575734693}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/35_Outlines/social anxiety.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":28.85099256020369}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_Personal/Personal/Journal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a59888459fbc3382",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/The way systems work can create cognitive bias.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -170,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/SPROUT",
+                "query": "tag:#TO",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Entry/24 Vault Stats/Graph Timeline.md",
+                "file": "40_Evergreens/How to read to understand.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -222,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Entry/24 Vault Stats/Graph Timeline.md",
+                "file": "40_Evergreens/How to read to understand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Entry/24 Vault Stats/Graph Timeline.md"
+                "file": "40_Evergreens/How to read to understand.md"
               }
             },
             "pane-relief:history-v1": {
@@ -409,7 +403,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20_Entry/24 Vault Stats/Graph Timeline.md",
+                "file": "40_Evergreens/How to read to understand.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -519,17 +513,17 @@
     "width": 706,
     "collapsed": true
   },
-  "active": "a59888459fbc3382",
+  "active": "1e991d55120c97d4",
   "lastOpenFiles": [
-    "20_Entry/24 Vault Stats/Graph Timeline.md",
-    "40_Evergreens/Humans have decided to take advantage of an unjust world.md",
-    "40_Evergreens/The brain lodges emotional reactions in our unconscious memory.md",
-    "40_Evergreens/Use colors to create visual outlines.md",
-    "40_Evergreens/The biblical Christian God is evil and does not deserve to be worshipped.md",
-    "40_Evergreens/Trans people will look for any other solution than being trans.md",
-    "40_Evergreens/Stereotyping has the psychological goal of comprehension and self-enhancement.md",
-    "40_Evergreens/A inwardly judgmental and outwardly accepting home creates trust issues.md",
-    "40_Evergreens/Look for understanding before you look for solutions.md",
-    "40_Evergreens/Having extreme and uncontrollable empathy is dangerous.md"
+    "40_Evergreens/How to read to understand.md",
+    "10_Sources/Readwise/Articles/articles_Conceptarium - Paul Bricman.md",
+    "40_Evergreens/A repressed identity creates a mistrust of self-love and self-esteem.md",
+    "40_Evergreens/You can be taught to invalidate your own emotions.md",
+    "40_Evergreens/Every person has an experience of gender.md",
+    "20_Entry/209 Notepad.md",
+    "40_Evergreens/Our understanding of gender begins at a very early age.md",
+    "40_Evergreens/Studies show early acceptance of trans children normalizes mental health outcomes with peers.md",
+    "30_Topics/31_Stubs/materialism.md",
+    "40_Evergreens/my TO(DO) and EVER(GREEN) structure.md"
   ]
 }

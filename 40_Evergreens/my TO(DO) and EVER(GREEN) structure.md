@@ -16,7 +16,7 @@ These structures work best when they are accompanied by a [[spaced repetition]] 
 
 **\#TO** tags should be used for specific items, not general tasks like "review notes" or "write this paper." This means they are a not daily todo list, they are a way to specify a task inline to to be done in the future. These tags should be temporary, but they are not scheduled. Think of these less as task you need to complete, and more as post it notes to remind you of something you wanted to do. It will also be frivolous to try and clean up all your tags, because acting on my of these tags should often result *in more tags...* This is because the goal isn't about the number of tags, it is to gradually increase the quality of your notes over time. 
 
-The hierarchical structure lets me focus in when I have specific kinds of things I want to do, or look broader when I just have some time to work on my vault. 
+The hierarchical structure lets me focus in when I have specific kinds of things I want to do, or look broader when I just have some time to work on my vault. Although, my most common use of this is to just let [[Smart random note (obsidian plugin)]] choose from any notes tagged with \#TO. Even then the specificity is still valuable as it clarifies what I want to actually do and provides autocompletion.
 This is an incomplete list, and new categories can be added whenever it feels necessary. 
 
 - **\#TO**

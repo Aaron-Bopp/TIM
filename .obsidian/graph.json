@@ -53,7 +53,7 @@
       "query": "tag:node/topic/term",
       "color": {
         "a": 1,
-        "rgb": 16763402
+        "rgb": 10060595
       }
     },
     {
@@ -74,13 +74,13 @@
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 0.425240174672489,
+  "nodeSizeMultiplier": 0.490265486725664,
   "lineSizeMultiplier": 0.428227941176471,
   "collapse-forces": false,
-  "centerStrength": 0.439316239316239,
+  "centerStrength": 0.410029498525074,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.05139024301416693,
-  "close": false
+  "scale": 0.038075578547502896,
+  "close": true
 }

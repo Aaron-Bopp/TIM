@@ -22,7 +22,9 @@ This sea coalesced to become [[energy]] which coalesced to become [[matter]].
 This is how [[Meditation increases our ability to influence the world#On a spiritual level]],
 and is surprisingly similar to the modern theory of [[the Big Bang]].
 
-#TO/DO/CITE  quote "I think therefore I am"
+> I think therefore I am
+>
+> <cite>[[Renee Descartes]]</cite>
 
 %% #TO/TEND/WEED #TO/PONDER #TO/EXPLORE/RESEARCH The only thing we can truly know is real is our [[perception]]. Our [[conscious|consciousness]] is the only thing we can guarantee. Yet our [[conscious]] is limited by our [[mind-body complex]].%%
 [[Consciousness is our capacity to introspect]],
