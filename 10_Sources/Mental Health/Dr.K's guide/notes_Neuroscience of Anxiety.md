@@ -24,3 +24,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Medial Prefrontal Cortex (mPFC)]]
 - [[Hippocampus]]
 - [[CRF]]
+
+## Notes
+- Addressing one aspect of [[brain]] may note be enough to address [[anxiety]]
+- [[fear]] and [[anxiety]] exist in different of the [[brain]]

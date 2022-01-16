@@ -27,11 +27,11 @@
 }
 
 .data-link-text[data-link-tags*="topic"], [data-link-tags*="topic"] .cm-underline {
-    color: rgb(255, 97, 97) !important;
+    color: rgb(255, 158, 79) !important;
     text-decoration: none;
 }
 .data-link-text[data-link-tags*="topic/term"], [data-link-tags*="topic/term"] .cm-underline {
-    color: rgb(255, 182, 86) !important;
+    color: rgb(248, 192, 120) !important;
     text-decoration: none;
 }
 .data-link-text[data-link-tags*="topic/stub"], [data-link-tags*="topic/stub"] .cm-underline {

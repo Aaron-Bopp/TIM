@@ -4468,7 +4468,7 @@
     "40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md": {
       "size": 2877,
       "tags": 5,
-      "links": 23
+      "links": 24
     },
     "40_Evergreens/Constantly working on yourself is a form a self-hatred.md": {
       "size": 1532,
@@ -9328,7 +9328,7 @@
     "40_Evergreens/Buddhism is the study of happiness through detachment.md": {
       "size": 1196,
       "tags": 6,
-      "links": 8
+      "links": 9
     },
     "30_Topics/34_People/Dr. K.md": {
       "size": 0,
@@ -11101,9 +11101,9 @@
       "links": 5
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md": {
-      "size": 517,
+      "size": 665,
       "tags": 2,
-      "links": 14
+      "links": 16
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Origin of Motivation.md": {
       "size": 1214,
@@ -11216,9 +11216,9 @@
       "links": 5
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Thought Loops.md": {
-      "size": 312,
+      "size": 1528,
       "tags": 2,
-      "links": 3
+      "links": 9
     },
     "10_Sources/Mental Health/Dr.K's guide/notes_Treatment Approaches to Anxiety.md": {
       "size": 730,
@@ -12500,16 +12500,6 @@
       "tags": 5,
       "links": 7
     },
-    "abstraction.md": {
-      "size": 0,
-      "tags": 3,
-      "links": 2
-    },
-    "catalyst.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 2
-    },
     "30_Topics/32_Terms/Phenotype.md": {
       "size": 0,
       "tags": 2,
@@ -12519,19 +12509,29 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "30_Topics/32_Terms/catalyst.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "30_Topics/32_Terms/abstraction.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4614,
+      "Refactor": 4616,
       "Create": 4758,
-      "Link": 7922,
-      "Expand": 1201
+      "Link": 7927,
+      "Expand": 1204
     },
     "40_Evergreens": {
       "Refactor": 402,
       "Create": 64,
-      "Link": 1431,
+      "Link": 1433,
       "Expand": 442
     }
   },
@@ -12559,8 +12559,8 @@
       "19": 537,
       "20": 291,
       "21": 885,
-      "22": 671,
-      "23": 466
+      "22": 673,
+      "23": 474
     },
     "40_Evergreens": {
       "0": 60,
@@ -12586,7 +12586,7 @@
       "20": 72,
       "21": 92,
       "22": 50,
-      "23": 122
+      "23": 124
     }
   },
   "weeklyCommits": {
@@ -12597,7 +12597,7 @@
       "Thu": 2298,
       "Fri": 1022,
       "Sat": 0,
-      "Sun": 6368
+      "Sun": 6378
     },
     "40_Evergreens": {
       "Mon": 180,
@@ -12606,12 +12606,15 @@
       "Thu": 331,
       "Fri": 455,
       "Sat": 0,
-      "Sun": 718
+      "Sun": 720
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Thought Loops.md\"> notes_Thought Loops </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Thought Loops.md\"> notes_Thought Loops </a>",
         "<a class=\"internal-link\" href=\"30_Topics/37_Techniques/Activating Ajna Chakra.md\"> Activating Ajna Chakra </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/friction.md\"> friction </a>",
@@ -12659,10 +12662,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bipolar I.md\"> Bipolar I </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bipolar II.md\"> Bipolar II </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/BNST.md\"> BNST </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmacharya Ashram.md\"> Brahmacharya Ashram </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmacharya.md\"> Brahmacharya </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmamuhurtha.md\"> Brahmamuhurtha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahman.md\"> Brahman </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmacharya Ashram.md\"> Brahmacharya Ashram </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Phenotype.md\"> Phenotype </a>",
@@ -12718,6 +12718,8 @@
         "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/_Index_of_21 Inbox.md\"> _Index_of_21 Inbox </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/abstraction.md\"> abstraction </a>",
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/catalyst.md\"> catalyst </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Genotype.md\"> Genotype </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Phenotype.md\"> Phenotype </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use colors to create visual outlines.md\"> Use colors to create visual outlines </a>",
@@ -12766,9 +12768,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/Inbox.md\"> Inbox </a>",
         "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/NtNW (Notes that Need Work).md\"> NtNW (Notes that Need Work) </a>",
         "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/TODO.md\"> TODO </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/KANBAN.md\"> KANBAN </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/BOOKLIST.md\"> BOOKLIST </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/21 TODO/Spaced Repetition Inbox.md\"> Spaced Repetition Inbox </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/KANBAN.md\"> KANBAN </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
@@ -12930,6 +12930,11 @@
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Thought Loops.md\"> notes_Thought Loops </a>",
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Thought Loops.md\"> notes_Thought Loops </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
@@ -12975,12 +12980,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
         "<a class=\"internal-link\" href=\"20_Entry/203 Me.md\"> 203 Me </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/late capitalism.md\"> late capitalism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Social anxiety is a feedback loop.md\"> Social anxiety is a feedback loop </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Powerful tools make dangerous toys.md\"> Powerful tools make dangerous toys </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Densely linked webs of thought provide intuitive access to knowledge.md\"> Densely linked webs of thought provide intuitive access to knowledge </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/late capitalism.md\"> late capitalism </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
@@ -13365,6 +13365,8 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Knowledge of the world is painful.md\"> Knowledge of the world is painful </a>",
@@ -13413,9 +13415,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\"> Deconstructing your faith can feel like constructing a puzzle that you haven't seen before </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\"> Deconstructing your faith can feel like constructing a puzzle that you haven't seen before </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Democracy is about an open forum of ideas.md\"> Democracy is about an open forum of ideas </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\"> Deconstructing your faith can feel like constructing a puzzle that you haven't seen before </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",

@@ -66,6 +66,7 @@ type:
 - [[notes_Intro to Ayurveda]]
 - [[notes_Anxiety 101]]
 - [[notes_Shuddhi]]
+- [[notes_Thought Loops]]
 ## Unwatched
 - [[notes_Satya]]
 - [[notes_the Nature of Self]]
@@ -73,7 +74,6 @@ type:
 - [[notes_Confidence vs Ego]]
 - [[notes_Vedic Psychology]]
 - [[notes_cognitive Anxiety]]
-- [[notes_Thought Loops]]
 - [[notes_Responses to Anxiety]]
 - [[notes_Learned Anxiety]]
 - [[notes_What is an Anxiety Disorder]]

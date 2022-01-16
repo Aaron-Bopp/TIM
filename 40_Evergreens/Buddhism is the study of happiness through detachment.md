@@ -11,7 +11,7 @@ sr-ease: 210
 
 #### [[Buddhism is the study of happiness through detachment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-The nature of happiness is not doing what you love its detachment from the decisions of the life
+The nature of happiness is not doing what you [[love]] its detachment from the decisions of the life
 
 #TO/EXPLORE/WATCH #TO/PONDER This section of the video which is really high understanding of this concept
 [Dr. Mike Talks with Harvard Psychiatrist Dr. K - YouTube](https://youtu.be/T_31hFh1XKM?t=4618)
