@@ -1,7 +1,0 @@
-{
-  "replaceTwitterLinks": true,
-  "replaceYouTubeLinks": true,
-  "keepLinksInPreview": true,
-  "embedPlacement": "below",
-  "disableAutomaticEmbeds": true
-}
