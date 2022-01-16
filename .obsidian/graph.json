@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "tag:#node",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#EVER/SEED",
@@ -53,7 +53,7 @@
       "query": "tag:node/topic/term",
       "color": {
         "a": 1,
-        "rgb": 16741386
+        "rgb": 16763402
       }
     },
     {
@@ -71,16 +71,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 0.419880445075758,
+  "nodeSizeMultiplier": 0.425240174672489,
   "lineSizeMultiplier": 0.428227941176471,
   "collapse-forces": false,
   "centerStrength": 0.439316239316239,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.037279930264545146,
+  "scale": 0.05139024301416693,
   "close": false
 }

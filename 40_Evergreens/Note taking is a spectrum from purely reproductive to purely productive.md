@@ -3,9 +3,9 @@ created: 2021-12-11
 aliases:
   - null
 tags: created/evergreen/2021/12/11, review, node/evergreen/claim
-sr-due: 2022-01-13
-sr-interval: 10
-sr-ease: 150
+sr-due: 2022-01-20
+sr-interval: 5
+sr-ease: 130
 ---
 
 #### [[Note taking is a spectrum from purely reproductive to purely productive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -23,7 +23,7 @@ transformative notes: notes that transform the material into things like questio
     
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[language]], [[knowledge work]]

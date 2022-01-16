@@ -1,9 +1,9 @@
 ---
 created: 2021-06-15
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-01-12
-sr-interval: 8
-sr-ease: 140
+sr-due: 2022-01-19
+sr-interval: 4
+sr-ease: 130
 ---
 
 #### [[Your anxiety is telling you everything that could go wrong, not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,6 +18,8 @@ if you can acknowledge that what your [[anxiety]] is telling you could happen bu
 
 Being able to do this requires a very healthy amount of [[mindfulness]], and a large amount of [[self-awareness]]. Once you've achieved these things your [[anxiety]] can start to be an aspect of your [[mindfulness]] rather than an inhibitor:
 [[Anxiety should be a tool at your disposal not an impedance to your life]]
+
+[[Meditation]] can help to do this: [[Meditation helps us regulate our nervous system]]
 
 [[Anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but our [[subconscious]] does not know that. In turn, [[We value our biggest insecurities because they protect us from the biggest threats]]
 

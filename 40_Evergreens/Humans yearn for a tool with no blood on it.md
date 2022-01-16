@@ -3,9 +3,9 @@ created: 2021-10-22
 aliases:
   - null
 tags: created/evergreen/2021/10/22, review, node/evergreen/claim
-sr-due: 2022-01-12
-sr-interval: 14
-sr-ease: 190
+sr-due: 2022-01-24
+sr-interval: 9
+sr-ease: 170
 ---
 
 #### [[Humans yearn for a tool with no blood on it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

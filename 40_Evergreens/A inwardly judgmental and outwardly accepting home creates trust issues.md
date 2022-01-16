@@ -2,9 +2,9 @@
 created: 2021-07-30
 tag: review, node/evergreen/claim
 aliases:
-  - A inwardly judgementful and outwardly accepting home creates trust issues
-sr-due: 2022-01-13
-sr-interval: 14
+  - A inwardly judgmental and outwardly accepting home creates trust issues
+sr-due: 2022-02-04
+sr-interval: 20
 sr-ease: 130
 ---
 
@@ -15,7 +15,7 @@ When I was a kid I grew up in a very [[religion|religious]] household,
 ^[[[My Deconstruction journey]]]
 and so I was very aware of the consequences of not being a [[Christianity|Christian]].
 ^[[[Religious concepts are often too powerful for a child's mind]]]
-So it was very shocking to me when we would come home from church and I would hear my [[parents]] talk about the people who they had been so nice to at church in such [[judgement|judgmentful]] ways. 
+So it was very shocking to me when we would come home from church and I would hear my [[parents]] talk about the people who they had been so nice to at church in such [[judgement|judgmental]] ways. 
 This was very confusing for me, and I developed a lot of [[anxiety]] around not being able to trust what my [[parents]] would say.
 
 - [[What is the difference between blame and judgement]]

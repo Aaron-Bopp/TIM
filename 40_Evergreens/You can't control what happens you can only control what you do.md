@@ -3,9 +3,9 @@ created: 2022-01-14T14:44:25
 aliases:
   - null
 tags: created/evergreen/2022/01/14, review, node/evergreen/claim
-sr-due: 2022-01-14
+sr-due: 2022-01-16
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[You can't control what happens you can only control what you do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

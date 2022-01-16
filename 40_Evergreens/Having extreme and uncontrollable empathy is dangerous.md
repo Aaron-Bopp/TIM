@@ -3,9 +3,9 @@ created: 2021-11-21
 aliases:
   - null
 tags: created/evergreen/2021/11/21, review, node/evergreen/claim
-sr-due: 2022-01-13
-sr-interval: 15
-sr-ease: 164
+sr-due: 2022-01-25
+sr-interval: 10
+sr-ease: 144
 ---
 
 #### [[Having extreme and uncontrollable empathy is dangerous]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -3,8 +3,8 @@ created: 2021-11-09
 aliases:
   - fear of trying
 tags: created/evergreen/2021/11/09, review, node/evergreen/claim
-sr-due: 2022-01-12
-sr-interval: 35
+sr-due: 2022-04-06
+sr-interval: 81
 sr-ease: 228
 ---
 
@@ -17,7 +17,9 @@ sr-ease: 228
 - [[The most reliable path to success is repeatedly trying to succeed]]
 	- [[Friction is the number one hindrance to learning]]	
 	- [[Write your notes like you're planting an evergreen forest]]
-- [[Human's have an inability to admit that they are wrong]]
+- [[Humans try really hard to avoid understanding their mistakes]]
+	- [[We carry our childhood wounds into adulthood]]
+	- [[Sometimes we can't grow until we change our environment]]
 
 ### <hr class="footnote"/>
 

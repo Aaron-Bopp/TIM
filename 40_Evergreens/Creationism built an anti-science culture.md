@@ -3,9 +3,9 @@ created: 2021-08-01
 tags: created/evergreen/2021/08/01, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-13
-sr-interval: 33
-sr-ease: 210
+sr-due: 2022-02-03
+sr-interval: 19
+sr-ease: 190
 ---
 
 #### [[Creationism built an anti-science culture]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,9 +20,9 @@ sr-ease: 210
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Politics]], [[Christianity]] 
+**Topics**:: [[Politics]], [[Christianity]], [[anti-science]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

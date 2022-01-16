@@ -3,9 +3,9 @@ created: 2022-01-04T15:59:22
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-01-14
-sr-interval: 5
-sr-ease: 190
+sr-due: 2022-01-18
+sr-interval: 3
+sr-ease: 170
 ---
 
 #### [[Humans are drawn to the unknown and repelled by the known]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -13,6 +13,8 @@ sr-ease: 190
 We will believe there are ghosts in our house before we investigate a leaky beam. We will think that nobody at the party really likes us when we keep getting invited back. We will tell our children that only god can explain our existence when science has given us more answers than you could ever learn in one lifetime.
 
 This leads us to both remain in [[cognitive dissonance]], and to pursue [[knowledge]].
+[[Humans transfer their wonder into creativity]]
+[[Faith is an abstraction of cognitive dissonance]]
 
 - [[Humans long to know what to do]]
 	- [[Humans are a product of evolution]]
@@ -25,7 +27,7 @@ This leads us to both remain in [[cognitive dissonance]], and to pursue [[knowle
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GROWING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[human survival]]

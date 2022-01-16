@@ -1,20 +1,20 @@
 ---
 created: 2021-06-28
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-01-12
-sr-interval: 25
+sr-due: 2022-03-05
+sr-interval: 49
 sr-ease: 185
 ---
 
 #### [[Fear cannot be a deterrent for deconstructing your faith]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Deconstructing your faith is like climbing through a jungle canopy]], and often you can't view [[Christianity]] objectively until you reach the top.
-Depending on your level of [[indoctrination]] and your continued involvement in the church you may have a more objective view of the [[Christianity]] already,
+Depending on your level of [[indoctrination]] and your continued involvement in the church you may have a more objective view of [[Christianity]] already,
 but I don't think you can get rid of the fear of hell,
 or the fear of [[judgement|judgment]],
 or the fear of "worldliness"
 until you let go of 
-the baggage ^[[[Working through trauma can involve of a lot of letting go]]]
+your baggage ^[[[Working through trauma can involve of a lot of letting go]]] %% #TO/TEND/WEED these footnotes%%
 and reconcile your fear ^[[[We carry our childhood wounds into adulthood]]]
 because: [[Sometimes we can't grow until we change our environment]] 
 

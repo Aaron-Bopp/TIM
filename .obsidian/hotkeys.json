@@ -463,5 +463,6 @@
       "key": "K"
     }
   ],
-  "dev-various-complements:reload-custom-dictionaries": []
+  "dev-various-complements:reload-custom-dictionaries": [],
+  "dev-various-complements:predictable-complements": []
 }

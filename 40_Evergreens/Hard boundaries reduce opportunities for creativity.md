@@ -3,9 +3,9 @@ created: 2021-12-25
 aliases:
   - null
 tags: created/evergreen/2021/12/25, review, node/evergreen/claim
-sr-due: 2022-01-14
-sr-interval: 10
-sr-ease: 190
+sr-due: 2022-01-20
+sr-interval: 5
+sr-ease: 170
 ---
 
 #### [[Hard boundaries reduce opportunities for creativity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,7 +20,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[organization]], [[knowledge work]], [[creativity]]

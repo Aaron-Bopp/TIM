@@ -6,8 +6,6 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
  A chronic [[mental health]] condition in which social interactions cause irrational [[anxiety]].
-**Status**:: #EVER/GROWING 
-*edited `=this.file.mtime`*
 
 **See**:: [[anxiety]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

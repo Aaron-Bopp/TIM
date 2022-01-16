@@ -3,9 +3,9 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-01-13
-sr-interval: 9
-sr-ease: 230
+sr-due: 2022-01-21
+sr-interval: 6
+sr-ease: 210
 ---
 
 #### [[A second brain should be an extension of your thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
