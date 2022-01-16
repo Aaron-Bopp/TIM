@@ -4587,8 +4587,8 @@
     },
     "40_Evergreens/Look for understanding before you look for solutions.md": {
       "size": 1839,
-      "tags": 5,
-      "links": 11
+      "tags": 4,
+      "links": 6
     },
     "40_Evergreens/MAGA is built off nostalgia not facts.md": {
       "size": 694,
@@ -4731,9 +4731,9 @@
       "links": 37
     },
     "40_Evergreens/Searching for THE answer is dangerous.md": {
-      "size": 2005,
-      "tags": 5,
-      "links": 21
+      "size": 3350,
+      "tags": 4,
+      "links": 31
     },
     "40_Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md": {
       "size": 2329,
@@ -9301,7 +9301,7 @@
       "links": 0
     },
     "40_Evergreens/Consciousness is the fundamental unit of existence.md": {
-      "size": 1926,
+      "size": 2388,
       "tags": 8,
       "links": 25
     },
@@ -12523,16 +12523,16 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4616,
+      "Refactor": 4619,
       "Create": 4758,
-      "Link": 7927,
-      "Expand": 1204
+      "Link": 7930,
+      "Expand": 1207
     },
     "40_Evergreens": {
-      "Refactor": 402,
+      "Refactor": 405,
       "Create": 64,
-      "Link": 1433,
-      "Expand": 442
+      "Link": 1436,
+      "Expand": 445
     }
   },
   "dailyCommits": {
@@ -12547,7 +12547,7 @@
       "7": 0,
       "8": 84,
       "9": 820,
-      "10": 865,
+      "10": 874,
       "11": 2611,
       "12": 655,
       "13": 383,
@@ -12573,7 +12573,7 @@
       "7": 0,
       "8": 47,
       "9": 280,
-      "10": 150,
+      "10": 159,
       "11": 91,
       "12": 146,
       "13": 114,
@@ -12597,7 +12597,7 @@
       "Thu": 2298,
       "Fri": 1022,
       "Sat": 0,
-      "Sun": 6378
+      "Sun": 6387
     },
     "40_Evergreens": {
       "Mon": 180,
@@ -12606,12 +12606,15 @@
       "Thu": 331,
       "Fri": 455,
       "Sat": 0,
-      "Sun": 720
+      "Sun": 729
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Thought Loops.md\"> notes_Thought Loops </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Thought Loops.md\"> notes_Thought Loops </a>",
@@ -12659,10 +12662,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bhakti Yoga.md\"> Bhakti Yoga </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/bi-directional links.md\"> bi-directional links </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bipolar Disorder.md\"> Bipolar Disorder </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bipolar I.md\"> Bipolar I </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bipolar II.md\"> Bipolar II </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/BNST.md\"> BNST </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Brahmacharya Ashram.md\"> Brahmacharya Ashram </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bipolar I.md\"> Bipolar I </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Phenotype.md\"> Phenotype </a>",
@@ -12930,6 +12930,9 @@
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md\"> notes_Neuroscience of Anxiety </a>",
@@ -12977,12 +12980,11 @@
         "<a class=\"internal-link\" href=\"It's worth it.md\"> It's worth it </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/What is the cognitive effect of living in an unjust world.md\"> What is the cognitive effect of living in an unjust world </a>",
         "<a class=\"internal-link\" href=\"Life is devastatingly meaningless.md\"> Life is devastatingly meaningless </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/203 Me.md\"> 203 Me </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/late capitalism.md\"> late capitalism </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Sadness is enlightenment and happiness is delusion.md\"> Sadness is enlightenment and happiness is delusion </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
@@ -13031,11 +13033,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Note structures should help curate knowledge.md\"> Note structures should help curate knowledge </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are made to be broken.md\"> Stupid rules are made to be broken </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Stupid rules are meant to be broken.md\"> Stupid rules are meant to be broken </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Rationalizations are defense-mechanisms against strong emotions.md\"> Rationalizations are defense-mechanisms against strong emotions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Empathy isn't understanding how you would make the decision it's understanding why they made the decision.md\"> Empathy isn't understanding how you would make the decision it's understanding why they made the decision </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"30_Topics/35_Outlines/human advancement.md\"> human advancement </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md\"> You will never be pushed to understand marginalization unless you are part of a marginalized group </a>",
@@ -13085,12 +13086,14 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ayurveda.md\"> Ayurveda </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Basal Ganglia.md\"> Basal Ganglia </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Benzodiazepines.md\"> Benzodiazepines </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bhagavad Gita.md\"> Bhagavad Gita </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bhakti Yoga.md\"> Bhakti Yoga </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Bhagavad Gita.md\"> Bhagavad Gita </a>"
       ]
     },
     "40_Evergreens": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Strong enough logic becomes belief.md\"> Strong enough logic becomes belief </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Organization systems are not mutually exclusive.md\"> Organization systems are not mutually exclusive </a>",
@@ -13138,9 +13141,6 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Belief pulls you forward into life.md\"> Belief pulls you forward into life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Is cognitive dissonance fundamental to the human experience.md\"> Is cognitive dissonance fundamental to the human experience </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Humans are a product of evolution.md\"> Humans are a product of evolution </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are drawn to the unknown and repelled by the known.md\"> Humans are drawn to the unknown and repelled by the known </a>"
       ],
       "Created": [
@@ -13365,6 +13365,9 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/The ethnic makeup of a community is a significant driver of change.md\"> The ethnic makeup of a community is a significant driver of change </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Buddhism is the study of happiness through detachment.md\"> Buddhism is the study of happiness through detachment </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Christians struggle to feel empathy because they must believe that non-christians are going to hell.md\"> Christians struggle to feel empathy because they must believe that non-christians are going to hell </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Gender segregation increases gendered play.md\"> Gender segregation increases gendered play </a>",
@@ -13412,12 +13415,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Conceptual notes vary in size and scope.md\"> Conceptual notes vary in size and scope </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Deconstructing your faith can feel like constructing a puzzle that you haven't seen before.md\"> Deconstructing your faith can feel like constructing a puzzle that you haven't seen before </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Biology supports the validity of trans people.md\"> Biology supports the validity of trans people </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Consciousness is the fundamental unit of existence.md\"> Consciousness is the fundamental unit of existence </a>",
@@ -13466,11 +13468,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Faith is an abstraction of cognitive dissonance.md\"> Faith is an abstraction of cognitive dissonance </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Disambiguation - empathy, sympathy, compassion, pity.md\"> Disambiguation - empathy, sympathy, compassion, pity </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The actual work of being a good person isn't explored by Evangelicalism.md\"> The actual work of being a good person isn't explored by Evangelicalism </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Look for understanding before you look for solutions.md\"> Look for understanding before you look for solutions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Fear is the number one hindrance to trying.md\"> Fear is the number one hindrance to trying </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You will never be pushed to understand marginalization unless you are part of a marginalized group.md\"> You will never be pushed to understand marginalization unless you are part of a marginalized group </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/It's always worth it to work through trauma.md\"> It's always worth it to work through trauma </a>",
@@ -13520,8 +13521,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/49 Conclusions.md\"> 49 Conclusions </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/44 Identity.md\"> 44 Identity </a>"
       ]
     }
   },

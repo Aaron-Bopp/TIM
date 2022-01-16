@@ -33,7 +33,8 @@ as you become less trapped in your mind, you become more [[conscious]]:
 
 ##### Counter:: Time is the fundamental unit of existence
 
-This doesn't make sense for someone who believes in [[reincarnation]] and [[karma]], but for most people their time on earth is the only there concerned about. #TO/PONDER what are the effects of this [[belief]]
+This doesn't make sense for someone who believes in [[reincarnation]] and [[karma]], but for most people their time on earth is the only there concerned about. You make think this will lead to [[nihilism]], due to the limited nature of our time on earth, but this belief also leads to the belief in heaven. If time is the most valuable resource, then eternity is the most valuable gift. 
+For those who focus on increasing their [[karma]], they are focused on the work, and so perfection, or [[enlightenment]] is the most valuable gift.
 
 ### <hr class="footnote"/>
 

@@ -4,50 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "318b457e1ab0dd96",
+        "id": "7c82e9bc87032143",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "20_Entry/204 Writing.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "318b457e1ab0dd96",
+              "leaf": "7c82e9bc87032143",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Entry/204 Writing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "318b457e1ab0dd96",
+              "leaf": "7c82e9bc87032143",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/abstraction.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "318b457e1ab0dd96",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_Topics/32_Terms/catalyst.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":42},\"to\":{\"line\":11,\"ch\":42}},\"scroll\":0}"
-            },
-            {
-              "leaf": "318b457e1ab0dd96",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Gender is a social construct.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":17.463708348564563}"
-            },
-            {
-              "leaf": "318b457e1ab0dd96",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "318b457e1ab0dd96",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_Evergreens/Searching for THE answer is dangerous.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":3.1821560771048736}"
             }
           ]
         }
@@ -81,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO",
+                "query": "tag:#TO/TEND",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20_Entry/204 Writing.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -132,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20_Entry/204 Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,11 +139,13 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 387
+    "width": 387,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -175,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20_Entry/204 Writing.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -315,6 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "20_Entry/204 Writing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#node",
@@ -421,20 +409,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706,
-    "collapsed": true
+    "width": 706
   },
-  "active": "318b457e1ab0dd96",
+  "active": "7c82e9bc87032143",
   "lastOpenFiles": [
-    "30_Topics/32_Terms/abstraction.md",
-    "30_Topics/32_Terms/catalyst.md",
-    "40_Evergreens/Gender is a social construct.md",
-    "30_Topics/32_Terms/love.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Neuroscience of Anxiety.md",
-    "10_Sources/course_Dr. K's Guide to Mental Health.md",
-    "10_Sources/Mental Health/Dr.K's guide/notes_Thought Loops.md",
-    "30_Topics/37_Techniques/Uijayi Pranayama.md",
-    "30_Topics/37_Techniques/Activating Ajna Chakra.md",
-    "40_Evergreens/To those with privilege, losing it feels like oppression.md"
+    "20_Entry/204 Writing.md",
+    "40_Evergreens/Searching for THE answer is dangerous.md",
+    "30_Topics/32_Terms/stereotype.md",
+    "40_Evergreens/Look for understanding before you look for solutions.md",
+    "40_Evergreens/Consciousness is the fundamental unit of existence.md",
+    "40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md",
+    "30_Topics/31_Stubs/nihilism.md",
+    "90_Personal/Personal/Journal.md",
+    "40_Evergreens/Buddhism is the study of happiness through detachment.md",
+    "30_Topics/32_Terms/abstraction.md"
   ]
 }

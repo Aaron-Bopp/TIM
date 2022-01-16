@@ -2,11 +2,12 @@ Here are some [[evergreen notes]] that I am proud of:
 - [[Use Obsidian tags as temporal classifiers]]
 - [[Communities are knowledge graphs]]
 - [[Realism must acknowledge optimism's existence and effectiveness]]
+- [[Searching for THE answer is dangerous]]
+- [[Gender is a social construct]]
 
 Here are the topics overviews that are the most extensive:
 - [[My TIM]]
 - [[gender]]
-- [[mental health]]
 - [[Christianity]]
 
 Or dive directly into my [[205 Index#Content Areas]]
@@ -17,7 +18,6 @@ sometimes a more general and complete work is valuable. Additionally, because ev
 
 Here are some such notes:
 - [[Using spaced repetition for your conceptual notes]]
-- [[Converting the Explorer's Guide to Wildemount into a Obsidian based markdown wiki]] WIP
 
 **For more::** [[205 Index]]
 

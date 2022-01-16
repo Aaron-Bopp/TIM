@@ -1,7 +1,7 @@
 ---
 created: 2021-12-08 
 aliases:
-  - null
+  - nihilistic
 tags: created/topic/2021/12/08, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

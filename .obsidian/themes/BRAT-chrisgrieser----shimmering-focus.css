@@ -1,6 +1,6 @@
 /* ───────────────────────────────────────────────────
 SHIMMERING FOCUS by @pseudometa
-Version 1.654
+Version 1.659
 https://github.com/chrisgrieser/shimmering-focus/
 MIT License
 ─────────────────────────────────────────────────── */
@@ -5973,8 +5973,8 @@ body.is-mobile .markdown-preview-view blockquote {
 /* ───────────────────────────────────────────────────
 <<< Folder Icons & Note Icons
 ─────────────────────────────────────────────────── */
-body:not(.no-file-explorer-icons) .nav-folder-title-content::BEFORE,
-.nav-file-title-content::BEFORE {
+body:not(.no-folder-icons) .nav-folder-title-content::BEFORE,
+body:not(.no-file-explorer-icons) .nav-file-title-content::BEFORE {
 	font-family: var(--icon-font);
 	font-size: calc(var(--sidebar-font-size) + 0.05rem);
 	position: relative;
@@ -5983,37 +5983,37 @@ body:not(.no-file-explorer-icons) .nav-folder-title-content::BEFORE,
 }
 
 /* Folders icons */
-body:not(.no-file-explorer-icons) .nav-folder-title-content::BEFORE {
+body:not(.no-folder-icons) .nav-folder-title-content::BEFORE {
 	content: "folder_open";
 }
 
-body:not(.no-file-explorer-icons) .nav-folder.is-collapsed .nav-folder-title-content::BEFORE {
+body:not(.no-folder-icons) .nav-folder.is-collapsed .nav-folder-title-content::BEFORE {
 	content: "folder";
 }
 
 /* hide toggle icon, as folders already do that now */
-body:not(.no-file-explorer-icons) .nav-folder-collapse-indicator {
+body:not(.no-folder-icons) .nav-folder-collapse-indicator {
 	display: none;
 }
 
+body:not(.no-folder-icons) .nav-folder-title[data-path*="attachment" i] .nav-folder-title-content::BEFORE {
+	content: "attachment";
+}
+
+body:not(.no-folder-icons) .nav-folder.is-collapsed .nav-folder-title[data-path*="attachment" i] .nav-folder-title-content::BEFORE {
+	content: "attach_file";
+}
+
+body:not(.no-folder-icons) .nav-folder-title[data-path*="archiv" i] .nav-folder-title-content::BEFORE {
+	content: "inventory_2";
+}
+
+/* File icons */
 /* As icons are now used, the labeled boxes (e.g. "pdf") can be removed. */
 body:not(.no-file-explorer-icons) .nav-file-tag {
 	display: none;
 }
 
-body:not(.no-file-explorer-icons) .nav-folder-title[data-path*="attachment" i] .nav-folder-title-content::BEFORE {
-	content: "attachment";
-}
-
-body:not(.no-file-explorer-icons) .nav-folder.is-collapsed .nav-folder-title[data-path*="attachment" i] .nav-folder-title-content::BEFORE {
-	content: "attach_file";
-}
-
-body:not(.no-file-explorer-icons) .nav-folder-title[data-path*="archiv" i] .nav-folder-title-content::BEFORE {
-	content: "inventory_2";
-}
-
-/* File icons */
 body:not(.no-file-explorer-icons) .nav-file-title-content::BEFORE {
 	content: "description";
 }
@@ -6074,14 +6074,12 @@ body:not(.no-file-explorer-icons) .nav-file-title[data-path*="metadata" i] .nav-
 	content: "info";
 }
 
-body:not(.no-file-explorer-icons) .nav-file-title[data-path*="OCR-Screenshot"] .nav-file-title-content::BEFORE {
+body:not(.no-file-explorer-icons) .nav-file-title[data-path*="Screenshot" i] .nav-file-title-content::BEFORE {
 	content: "photo_camera";
 }
 
-body:not(.no-file-explorer-icons) .nav-file-title[data-path*="Word Limit"] .nav-file-title-content::BEFORE,
-body:not(.no-file-explorer-icons) .nav-file-title[data-path*="Character Limit"] .nav-file-title-content::BEFORE,
-body:not(.no-file-explorer-icons) .nav-file-title[data-path*="Character Count"] .nav-file-title-content::BEFORE,
-body:not(.no-file-explorer-icons) .nav-file-title[data-path*="Word Count"] .nav-file-title-content::BEFORE {
+body:not(.no-file-explorer-icons) .nav-file-title[data-path*="Character Count" i] .nav-file-title-content::BEFORE,
+body:not(.no-file-explorer-icons) .nav-file-title[data-path*="Word Count" i] .nav-file-title-content::BEFORE {
 	content: "flag";
 }
 
@@ -6737,7 +6735,8 @@ body:not(.show-graph-controls) .graph-controls.is-close:not(:hover) {
 body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#checklist" i]::BEFORE { content: "☑️ " }
 body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-kanban-plugin]::BEFORE { content: "🎆 " }
 body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#moc" i]::BEFORE { content: "🗺 " }
-body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#person" i]::BEFORE { content: "👤 " }
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#person " i]::BEFORE { content: "👤 " }
+body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags="#person" i]::BEFORE { content: "👤 " }
 body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#evergreen" i]::BEFORE { content: "🌲 " }
 body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-tags*="#seedling" i]::BEFORE { content: "🌱 " }
 body:not(.no-built-in-supercharged-links) .data-link-icon[data-link-title]::BEFORE { content: "📖 " }
@@ -8450,6 +8449,34 @@ body .dataview.inline-field-key {
 /* ───────────────────────────────────────────────────
 << Style Settings (Settings Tab)
 ─────────────────────────────────────────────────── */
+/* info box at the top */
+.style-settings-heading[data-id="shimmering-focus"]::BEFORE {
+	content: "Feature Explanations \A github.com/chrisgrieser/shimmering-focus";
+
+	font-family: var(--menu-font-family);
+	font-size: 0.75rem;
+	font-weight: 500;
+	line-height: 1.7em;
+	white-space: pre-wrap;
+
+	background-color: var(--bg2);
+	box-shadow: var(--tab-inset-shadow);
+
+	position: absolute;
+	top: 15px;
+
+	padding: 3px 8px;
+
+	border: var(--basic-border);
+	border-radius: var(--roundish);
+
+	pointer-events: none;
+}
+
+.style-settings-export,
+.style-settings-import {
+	margin-bottom: 20px;
+}
 
 /* as pane */
 body:not(.show-scrollbar) .workspace-split.mod-root .workspace-leaf-content[data-type="style-settings"] ::-WEBKIT-SCROLLBAR {
@@ -9503,8 +9530,8 @@ settings:
 		value: no-active-highlight
 	-
 	 id: footnote-gutter
-	 title: "⦿ Footnote Indicator"
-	 description: Displays a small indicator in the gutter when a footnote is present. (Note that the numbered indicator does not count properly footnotes on the same line.)
+	 title: "Footnote Indicator"
+	 description: Displays a small indicator (⦿) in the gutter when a footnote is present. (Note that the numbered indicator does not count properly footnotes on the same line.)
 	 type: class-select
 	 allowEmpty: false
 	 default: simple-fn-indicator
@@ -9521,13 +9548,13 @@ settings:
 	-
 	 id: no-unresolved-link-indicator
 	 title: Disable Unresolved Link Indicators
-	 description: The indicators are only shown in Reading Mode.
+	 description: The indicators (𝘅) are only shown in Reading Mode.
 	 type: class-toggle
 	 default: false
 	-
 	 id: no-search-result-indicator
 	 title: Disable Search Result Indicators
-	 description: The indicators are only shown in Source Mode and Live Preview.
+	 description: The indicators (▶) are only shown in Source Mode and Live Preview.
 	 type: class-toggle
 	 default: false
 	-
@@ -9555,8 +9582,14 @@ settings:
 	 collapsed: true
 	-
 	 id: no-file-explorer-icons
-	 title: 'File Explorer: No Icons'
-	 description: Removes the icons next next to files and folders in the file explorer and re-enables the collapse arrows.
+	 title: 'File Explorer: No File Icons'
+	 description: Removes the icons next to files in the file explorer.
+	 type: class-toggle
+	 default: false
+	-
+	 id: no-folder-icons
+	 title: 'File Explorer: No Folder Icons'
+	 description: Removes the icons next to folders in the file explorer.
 	 type: class-toggle
 	 default: false
 	-

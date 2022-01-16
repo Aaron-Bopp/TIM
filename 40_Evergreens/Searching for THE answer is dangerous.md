@@ -10,29 +10,40 @@ sr-ease: 215
 
 #### [[Searching for THE answer is dangerous]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-If you only search for **THE** answer to your question,
+If you only search for **THE** answer to your question
 (the one that will mean you don't have to keep thinking about it),
+^[This is a natural response because [[Knowledge of the world is painful]], but [[Realism must acknowledge optimism's existence and effectiveness]]]
 you wall yourself off to better [[understanding]] 
-and you lose sight of the actual point of [[education]]: [[Be the change you want to see in the world]]
-^[[[Knowledge of the world is painful]], but [[Realism must acknowledge optimism's existence and effectiveness]]]
+and you lose sight of the actual point of [[education]]:
+[[Be the change you want to see in the world]]
 
 The additional questions, or the lack of answers that stem from the question you're asking are important!
+You are trying to look for better [[understanding]],
+but if you more interested in satisfying your [[cognitive dissonance]] or [[ignorance]] 
+you going accept answers that are built off of logical fallacies and and aren't open to new [[information]].
 
-%%
-#TO/TEND/MULCH 
-You probably think you are looking for better [[understanding]],
-but if you more interested in satisfying your [[cognitive dissonance]] or [[ignorance]] than actually [[learning]]
-you going accept answers that are built off of logical fallacies. 
-%%
 [[You can't control what happens you can only control what you do]],
 similarly you can control what answer you are going to find you can only control how you look for it.
-Additionally, if you spend a long time looking for this answer you will [[subconscious|subconsciously]] be unwilling to accept criticism of that point when you try to communicate it to others.
+If you spend a long time looking for this answer you will [[subconscious|subconsciously]] be unwilling to accept criticism of that point when you try to communicate it to others.
 ^[[[Human's have an inability to admit that they are wrong]]]
 This is why you should [[Look for understanding before you look for solutions]].
 
-[[Humans are primarily irrational, illogical, emotional beings]], so ingraining a belief is much easier than removing it, especially when this belief is built in childhood.
+What is the root of this trait? 
+- [[Worldviews should not make life seem easy and simple]] because they make us believe that there are simple answers to complex problems
+- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]] leads to you being unused to grappling with new perspectives
+
+[[Humans are addicted to believing]], so ingraining a [[belief]] is much easier than removing it, especially when this [[belief]] is built in [[childhood]].
 ^[[[Children make wide assumptions about the world]]]
-This is why [[stereotype|stereotypes]] are so dangerous: [[Stereotyping has the psychological goal of comprehension and self-enhancement]], but once you have stereotyped something, you are less likely to accept new information about that thing.
+This is why [[stereotype|stereotypes]] are so dangerous.
+[[Stereotyping has the psychological goal of comprehension and self-enhancement]],
+but once you have [[stereotype|stereotyped]] something, you are less likely to accept new [[information]] about that thing.
+
+One of the most common places you see this trait is in organized [[Christianity]].
+From the Galileo to [[abortion]], [[Christianity]] has struggled to accept new perspectives and views, leading to their own demise.
+^[[[The church will fail if christians keep aligning themselves with hate instead of love]]]
+This is ironic because the origins of religion are built off of our need to [[Humans transfer their wonder into creativity|transfer our wonder into creativity]].
+^[[[The materialistic view of religions examines why humans invented and clung to religion]]]
+
 
 ### <hr class="footnote"/>
 
