@@ -12,7 +12,8 @@ sr-ease: 170
 
 #TO/PONDER/CONCEPT 
 You can get so caught up in complex logic, that you can no longer see the full problem, and merely believe that your logic up to that point is true. 
-%%Who?
+%%
+Who?
 - Scientists 
 - [[Dr. K]]
  - dummies [[Rationalizations are defense-mechanisms against strong emotions]]

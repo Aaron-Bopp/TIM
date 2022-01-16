@@ -3,9 +3,9 @@ created: 2021-12-24
 aliases:
   - null
 tags: created/evergreen/2021/12/24, review, node/evergreen/claim
-sr-due: 2022-01-15
-sr-interval: 11
-sr-ease: 190
+sr-due: 2022-01-22
+sr-interval: 7
+sr-ease: 170
 ---
 
 #### [[To those with privilege, losing it feels like oppression]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

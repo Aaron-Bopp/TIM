@@ -1,15 +1,13 @@
 ---
 created: 2021-06-12
 tags: created/evergreen/2021/06/12, review, node/evergreen/claim
-sr-due: 2022-01-15
-sr-interval: 13
+sr-due: 2022-02-09
+sr-interval: 25
 sr-ease: 178
 ---
 
 #### [[Knowledge of the world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-%%linkTypes
-- causes [[Sadness is enlightenment and happiness is delusion]]
-%%
+
 This is a big part of [[Accepting responsibility is not only about your actions]]. You must accept your part in the hurt of the world without crippling yourself.
 
 Becoming obsessed/absorbed by this fact leads to thoughts like [[Sadness is enlightenment and happiness is delusion]]
@@ -24,7 +22,10 @@ Once you have realized this, you will realize [[You can't blame people for faili
 - [[The Politicization of the Christian Church]]
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
+- [[Be the change you want to see in the world]]
+- [[Realism must acknowledge optimism's existence and effectiveness]]
 
+- causes [[Sadness is enlightenment and happiness is delusion]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 

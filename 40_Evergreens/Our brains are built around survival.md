@@ -1,8 +1,8 @@
 ---
 created: 2021-06-20
 tags: created/evergreen/2021/06/20, review, node/evergreen/claim
-sr-due: 2022-01-15
-sr-interval: 20
+sr-due: 2022-02-24
+sr-interval: 40
 sr-ease: 215
 ---
 
@@ -14,7 +14,7 @@ If a prehistoric human was attacked by a tiger and survived the rest of their li
 
 When the human body is put under stress it will produce various chemicals in order to heighten its chance of survival. These include [[Adrenaline]] and [[Cortisol]]. Adrenaline will hit in seconds and last for minutes after it allows for fast action and hyper awareness of the situation. Cortisol will last for 4-24 hours depending on the duration of the encounter and it keeps you aware and ready to act at a moments notice. [^2] These are the chemicals that allow us to survive incredibly dangerous situations without extraordinary strength or resilience, but they can also be activated at times when they are not really needed. [^3] Extreme anxiety can be the result of this: [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 
-For more see [[Humans are a product of evolution]]
+next:: [[Humans are a product of evolution]]
 
 ### <hr class="footnote"/>
 

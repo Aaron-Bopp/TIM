@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: created/evergreen/2021/08/01, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-14
-sr-interval: 23
+sr-due: 2022-03-06
+sr-interval: 50
 sr-ease: 210
 ---
 
@@ -18,7 +18,7 @@ Studies have shown time and time again that polling for economically left issues
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Communism]], [[political strategy]], [[Psychology]]

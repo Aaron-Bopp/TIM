@@ -3,17 +3,20 @@ created: 2021-10-23
 aliases:
   - null
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-01-15
-sr-interval: 25
+sr-due: 2022-03-03
+sr-interval: 47
 sr-ease: 190
 ---
 
 #### [[Curate source notes and definitions in your second brain to avoid junk text]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-There is a difference between idly grabbing every article you read the headline of and absorbing relevant quotes into you [[second brain]]. There is a difference from creating friction for yourself with unfamiliar information that was copied and pasted from Wikipedia and using term notes to reduce friction. There is a difference in creating empty notes just for the graph and using note stubs to find spontaneous connections.
-#TO/TEND/CONNECT [[The Collector's Fallacy]]
+#TO/TEND/WEED and #TO/WRITE about how junk text effects search, plugins etc
+
+There is a difference between idly grabbing every article you read the headline of and absorbing relevant quotes into you [[second brain]]. There is a difference from creating [[friction]] for yourself with unfamiliar information that was copied and pasted from Wikipedia and using term notes to reduce friction. There is a difference in creating empty notes just for the graph and using note stubs to find spontaneous connections. 
+^[[[Stub notes are data structures for implicit knowledge gathering]]]
 
 I believe the difference lies in curating the information in your vault and controlling the way you can access that information, and this is an integral part of [[Your second brain should be frictionless access to a curated base of knowledge]].
+[[Better tools allow us to be less disciplined and more productive]], so use your tools to your advantage.
 
 [[Readwise Export for Obsidian - Templates and Process]]
 For me, this process looks like this:

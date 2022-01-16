@@ -53,7 +53,7 @@
       "query": "tag:node/topic/term",
       "color": {
         "a": 1,
-        "rgb": 10060595
+        "rgb": 16163889
       }
     },
     {
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 0.490265486725664,
   "lineSizeMultiplier": 0.428227941176471,
   "collapse-forces": false,
-  "centerStrength": 0.410029498525074,
+  "centerStrength": 0.395280235988201,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.038075578547502896,
-  "close": true
+  "scale": 0.030182895067324838,
+  "close": false
 }
