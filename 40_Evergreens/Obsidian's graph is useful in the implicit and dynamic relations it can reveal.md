@@ -30,11 +30,6 @@ As you spend more time in the graph, you will start to recognize related structu
 As you add to your vault, you will be able to notice these structures shift and change, and you can ask why this is happening. 
 ^[[[Evergreen notes organize knowledge so that it can grow]]]
 To see an idea of what this will look like take a look at my [[Graph Timeline]].
-%%
-#TO/TEND/MULCH 
-Additionally, many have noticed that as your graph grows very large, (over ~1000 nodes) it becomes difficult to gain any use out of this. I have yet to see this with my own graph, but I could definitely see only a certain kind of graph being useful at a large size:
-[[Prioritize organization over categorization to avoid cognitive bias]]
-%%
 
 ##### Counter:: Obsidian's graph is a distraction
 
@@ -49,6 +44,9 @@ Instead, focus on [[Write your notes like you're planting an evergreen forest|Wr
 
 However, if you are like me, this isn't going to dissuade you from focusing on the graph. 
 Try not to overly fixate on the graph, but use it as [[motivation]] to work in your vault. Make the the graph a reward and suddenly it helps [[Your second brain should be an inspirational hub of creativity|your second brain become an inspirational hub of creativity]].
+
+%%
+#TO/EXPLORE/RESEARCH  insight generation %%
 
 ### <hr class="footnote"/>
 

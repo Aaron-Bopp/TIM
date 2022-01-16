@@ -23,7 +23,7 @@ type:
 - niki thinks that if she can use it to help other people it will be worth it but nothing makes it worth it
 - you have value no matter what you accomplish
 - [[Dr. K]] "You were wronged and it wasn't ok and you didn't deserve it and it doesn't make sense"
-- #TO/EXPLORE/RESEARCH  [[Emotional Quotent]] or EQ
+- [[Emotional Intelligence]] #TO/EXPLORE/RESEARCH  [[Emotional Quotent]] or EQ
 
 ---
 

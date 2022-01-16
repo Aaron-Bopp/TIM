@@ -5,7 +5,7 @@
   "triggerOnLoad": false,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2596044,
+  "lastSavedStatusID": 2609459,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -344,7 +344,8 @@
     "10_Sources/Readwise/Books/books_You and Your Gender Identity.md": "9250064",
     "10_Sources/Readwise/Articles/articles_Materials.md": "12672286",
     "10_Sources/Readwise/Tweets/tweets_It’s Hard to Explain Jus....md": "12773923",
-    "10_Sources/Readwise/Articles/articles_General Principles.md": "12821382"
+    "10_Sources/Readwise/Articles/articles_General Principles.md": "12821382",
+    "10_Sources/Readwise/Articles/articles_The new American dream getting paid to do nothing.md": "12862417"
   },
   "reimportShowConfirmation": false,
   "obsidianToken": "rdiuwojlcr",

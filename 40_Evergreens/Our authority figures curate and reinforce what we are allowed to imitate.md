@@ -12,7 +12,13 @@ sr-ease: 150
 
 In [[Social Learning Theory]], imitation is one of four key mechanism for social learning. This means that children are more likely to imitate the actions of authority figures, most often [[parents]]: [[Parents need to model the ability to deal with emotion to their children]]
 
-- [[Children will imitate whatever is modeled for them]] #TO/TEND/DEOBFUSCATE 
+This leads to so many elements of modern society such as [[gender roles]], [[racism]], and [[inter-generational trauma]]. Primarily because [[Parents need to model the ability to deal with emotion to their children]].
+
+This fact is true in both synchronous interactions like fear responses and [[self-soothing]], but also in asynchronous responses like in [[Gender self-socialization model]]. This means that children may see an action and then not reproduce for months or years later. [[Humans are primarily irrational, illogical, emotional beings]], when behaviors become engrained in our pyschy, we will rarely question them. [^1]
+
+[^1]: [[Our brain will do anything it can to protect itself]]
+
+- [[Children will not question what is modeled for them unless they are taught to]]
 - [[How can parent's best help their children]]
 - [[Humans long to know what to do]]
 
@@ -21,5 +27,5 @@ In [[Social Learning Theory]], imitation is one of four key mechanism for social
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender]], [[Behavioral Psychology]]
+**Topics**:: [[gender]], [[Behavioral Psychology]], [[inter-generational trauma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

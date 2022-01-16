@@ -15,7 +15,7 @@ sr-ease: 206
 
 - [[Parents need to model the ability to deal with emotion to their children]]
 - [[Children in traumatic households expect more love than their parents can give|Parents will not be able to protect their children from every source of trauma]]
-- [[Children will imitate whatever is modeled for them]]
+- [[Children will not question what is modeled for them unless they are taught to]]
 - [[Our authority figures curate and reinforce what we are allowed to imitate]]
 - [[You can be taught to invalidate your own emotions]]
 - [[A inwardly judgmental and outwardly accepting home creates trust issues]]

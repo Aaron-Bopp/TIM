@@ -12,7 +12,7 @@
 			- [[Human's have an inability to admit that they are wrong]]
 		- [[childhood]]
 			- [[Children make wide assumptions about the world]]
-			- [[Children will imitate whatever is modeled for them]]
+			- [[Children will not question what is modeled for them unless they are taught to]]
 			- [[Our authority figures curate and reinforce what we are allowed to imitate]]
 			- [[Parents need to model the ability to deal with emotion to their children]]
 			- [[Children in traumatic households expect more love than their parents can give]]

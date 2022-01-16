@@ -14,7 +14,7 @@ sr-ease: 190
 - [[We carry our childhood wounds into adulthood]]
 - [[Parents need to model the ability to deal with emotion to their children]]
 - [[Children make wide assumptions about the world]]
-	- [[Children will imitate whatever is modeled for them]]
+	- [[Children will not question what is modeled for them unless they are taught to]]
 - [[Our ego is our subconscious defense of our self]]
 	- [[Rationalizations are defense-mechanisms against strong emotions]]
 - [[Is cognitive dissonance the reason for harmful behaviors]]

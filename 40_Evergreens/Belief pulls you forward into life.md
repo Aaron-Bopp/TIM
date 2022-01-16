@@ -25,8 +25,9 @@ As opposed to dragging you back in life like the [[mind]] often does:
 - contrast: [[Anger fuels change]]
 - [[Bhakti Yoga]]
 - [[Be the change you want to see in the world]]
-- [[You can leave the church without loosing your faith]]
-- [[You can't blame people for failing to rise above their circumstances]]
+	- [[You can't blame people for failing to rise above their circumstances]]
+- [[Faith can be a useful tool for grounding yourself]]
+	- [[You can leave the church without loosing your faith]]
 
 ### <hr class="footnote"/>
 

@@ -129,3 +129,15 @@ highlight_tags:: [[autism]]
 
 [^263521787]: https://twitter.com/roryreckons/status/1462693715642707968
 
+# New highlights added January 16, 2022 at 11:12 AM
+##### ^271928246
+
+  
+%%
+highlight_tags:: [[autism]], [[self-belief]], [[guilt]], [[shame]]
+%%###### ^271928246q
+> @mykola You can get it back with proper fostering of intrinsic motivation, but yeah I had this same thing too. If you disarm the fear and shame responses, you need to do it in tandem with building up self-belief. This is why I think coaching helps for a lot of people. 
+  [^271928246]
+
+[^271928246]: https://twitter.com/roryreckons/status/1468339280011431940
+

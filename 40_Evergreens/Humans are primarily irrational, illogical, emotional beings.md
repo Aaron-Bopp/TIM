@@ -9,24 +9,24 @@ sr-ease: 231
 ---
 
 #### [[Humans are primarily irrational, illogical, emotional beings]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
 %%
 - cause [[Human's have an inability to admit that they are wrong]]
 - cause [[Human's will find explanations for inexplainable things]]
 %%
 
-#TO/EXPLORE/WATCH [How do We Get Anything Done At All? - YouTube](https://www.youtube.com/watch?v=QnQfDHKrGZA)
-
-The [[human experience]] is one that cannot be is not one that can be distilled into any small set of elements, but over time general patterns and behaviors can be observed, and the causes of those behaviors can be investigated. Two such behaviors are [[Human's will find explanations for inexplainable things]] and [[Human's have an inability to admit that they are wrong]]. These two traits alone have led us to create [[religion|religions]], [^1] start wars, explain reality, and explore the stars.
-
-[^1]: [[The materialistic view of religions examines why humans invented and clung to religion]] and [[The brain is powerful enough to create supernatural experiences]]
+The [[human experience]] is one that cannot be is not one that can be distilled into any small set of elements, but over time general patterns and behaviors can be observed, and the causes of those behaviors can be investigated. Two such behaviors are [[Human's will find explanations for inexplainable things]] and [[Human's have an inability to admit that they are wrong]]. These two traits alone have led us to create [[religion|religions]], start wars, explain reality, and explore the stars.
 
 Unfortunately, at their core these traits are illogical, emotional, and irrational, but they 
 push us to survive beyond all odds, thus making them heavily reinforced by [[natural selection]]. This makes [[cognitive dissonance]] a fundamental part of being human.
 ^[[[Is cognitive dissonance fundamental to the human experience]]]
- Whether it is the belief that the creator exists, [^2] the belief that your political party is fundamentally superior, [^3] or just the belief that life is worth living, [^4] human's unrelenting push to survive relies on this fact.
-
-[^2]: [[natural selection|kin selection]], [[Q justifies conservatives discontent]]
-[^3]: [[True optimism is acknowledging the suffering of the world and defying it anyway]]
+ Whether it is the [[belief]] that the creator exists, 
+^[[[Humans are addicted to believing]]]
+the [[belief]] that your political party is fundamentally superior,
+^[[[Faith is an abstraction of cognitive dissonance]]]
+or just the [[belief]] that life is worth living, 
+^[[[Humans have decided to reject an unjust world]]]
+human's unrelenting push to survive relies on this fact.
 
 ##### Humans are illogical
 
@@ -67,16 +67,15 @@ These more contemporary normative conceptions of what constitutes a manifestatio
 	- [[Human's will find explanations for inexplainable things]]
 	- [[Human's have an inability to admit that they are wrong]]
 
-##### What's the problem
+##### What's the problem?
 
 As human's, we are necessarily predisposed to assume that our existence makes sense.
 This is a fundamental fact behind [[human advancement]].
-Pattern recoginition is one of the main things that set us apart from other species, but we are far more subject to our environments than we think.
+Pattern recognition is one of the main things that set us apart from other species, but we are far more subject to our environments than we think.
 
 Despite the fact these traits have been a neccesary part of [[human survival]], they are not purely positive. 
-Much of human [[suffering]] has been the fulfillment of these behaviors in the hands of people with power, and on an individual level, the stubborness that these produce warps our [[self-image]] and [[self-perception]].[^6]  
-
-[^5]: [[Self-hatred is born out of dissonance between self-image and self-perception]]
+Much of human [[suffering]] has been the fulfillment of these behaviors in the hands of people with power, and on an individual level, the stubborness that these produce warps our [[self-image]] and [[self-perception]]. 
+^[[[Self-hatred is born out of dissonance between self-image and self-perception]]]
 
 - [[The church will fail if christians keep aligning themselves with hate instead of love]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
@@ -84,6 +83,8 @@ Much of human [[suffering]] has been the fulfillment of these behaviors in the h
 	- [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 
 ##### Is it worth it?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QnQfDHKrGZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [[What is the cognitive effect of living in an unjust world]]
 - [[Happiness is enlightenment and sadness is delusion]]
