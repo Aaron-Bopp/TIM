@@ -26,7 +26,6 @@ sr-ease: 210
 - [[human advancement]]
     - [[Friction is the number one hindrance to learning]]
     - [[Mental health is a reaction to one's environment]]
-    - #TO/EXPLORE/RESEARCH [[@roryreckons on Twitter]] resources on education and autism
 
 ### <hr class="footnote"/>
 

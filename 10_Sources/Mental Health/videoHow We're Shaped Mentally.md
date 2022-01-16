@@ -13,7 +13,8 @@ type:
  
 **Source**:: [Becoming a Psychiatrist, Nihachu? How We're Shaped Mentally | Dr. K Interviews - YouTube](https://www.youtube.com/watch?v=PDTPg_qKvn8)
 
-**Related**:: 
+**Related**::  [[mental health]] 
+
 - Nihachu's mother had problems with addiction
 - very shy, insecure, quiet growing up
 - Streaming helped growing and understanding things that were confusing as a kid
@@ -23,14 +24,5 @@ type:
 - niki thinks that if she can use it to help other people it will be worth it but nothing makes it worth it
 - you have value no matter what you accomplish
 - [[Dr. K]] "You were wronged and it wasn't ok and you didn't deserve it and it doesn't make sense"
-- [[Emotional Intelligence]] #TO/EXPLORE/RESEARCH  [[Emotional Quotent]] or EQ
-
----
-
-**Topics**::  [[mental health]] 
-
-**Outline**::
-
---- 
-
+- [[Emotional Intelligence]]
 

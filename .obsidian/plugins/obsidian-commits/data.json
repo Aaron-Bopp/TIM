@@ -4627,8 +4627,8 @@
     },
     "40_Evergreens/Neurodiverse people can use their brain to their advantage.md": {
       "size": 1397,
-      "tags": 5,
-      "links": 16
+      "tags": 4,
+      "links": 15
     },
     "40_Evergreens/Nixon paved the way for Reagan.md": {
       "size": 1104,
@@ -5122,7 +5122,7 @@
     },
     "10_Sources/Mental Health/videoHow We're Shaped Mentally.md": {
       "size": 1232,
-      "tags": 3,
+      "tags": 2,
       "links": 3
     },
     "10_Sources/Mental Health/videoLife after a cult.md": {
@@ -12524,17 +12524,22 @@
       "size": 1028,
       "tags": 4,
       "links": 11
+    },
+    "Emotional Intelligence.md": {
+      "size": 644,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4634,
-      "Create": 4759,
-      "Link": 7942,
-      "Expand": 1212
+      "Refactor": 4638,
+      "Create": 4760,
+      "Link": 7945,
+      "Expand": 1213
     },
     "40_Evergreens": {
-      "Refactor": 417,
+      "Refactor": 419,
       "Create": 64,
       "Link": 1444,
       "Expand": 449
@@ -12553,8 +12558,8 @@
       "8": 84,
       "9": 820,
       "10": 875,
-      "11": 2643,
-      "12": 655,
+      "11": 2648,
+      "12": 659,
       "13": 383,
       "14": 2471,
       "15": 583,
@@ -12580,7 +12585,7 @@
       "9": 280,
       "10": 160,
       "11": 114,
-      "12": 146,
+      "12": 148,
       "13": 114,
       "14": 141,
       "15": 324,
@@ -12602,7 +12607,7 @@
       "Thu": 2298,
       "Fri": 1022,
       "Sat": 0,
-      "Sun": 6420
+      "Sun": 6429
     },
     "40_Evergreens": {
       "Mon": 180,
@@ -12611,12 +12616,13 @@
       "Thu": 331,
       "Fri": 455,
       "Sat": 0,
-      "Sun": 753
+      "Sun": 755
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Emotional Intelligence.md\"> Emotional Intelligence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/late capitalism.md\"> late capitalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
@@ -12666,10 +12672,10 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ashwagandha.md\"> Ashwagandha </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Atman Padha.md\"> Atman Padha </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Attachment Theory.md\"> Attachment Theory </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ayurveda.md\"> Ayurveda </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Benzodiazepines.md\"> Benzodiazepines </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ayurveda.md\"> Ayurveda </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Emotional Intelligence.md\"> Emotional Intelligence </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The new American dream getting paid to do nothing.md\"> articles_The new American dream getting paid to do nothing </a>",
         "<a class=\"internal-link\" href=\"Phenotype.md\"> Phenotype </a>",
         "<a class=\"internal-link\" href=\"Genotype.md\"> Genotype </a>",
@@ -12719,8 +12725,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/31_Stubs/_Index_of_31_Stubs.md\"> _Index_of_31_Stubs </a>",
         "<a class=\"internal-link\" href=\"20_Entry/25 TODO/_Index_of_25 TODO.md\"> _Index_of_25 TODO </a>",
         "<a class=\"internal-link\" href=\"20_Entry/24 Vault Stats/_Index_of_24 Vault Stats.md\"> _Index_of_24 Vault Stats </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/_Index_of_23 Note by type.md\"> _Index_of_23 Note by type </a>",
-        "<a class=\"internal-link\" href=\"20_Entry/22 Note by status/_Index_of_22 Note by status.md\"> _Index_of_22 Note by status </a>"
+        "<a class=\"internal-link\" href=\"20_Entry/23 Note by type/_Index_of_23 Note by type.md\"> _Index_of_23 Note by type </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will not question what is modeled for them unless they are taught to.md\"> Children will not question what is modeled for them unless they are taught to </a>",
@@ -12776,6 +12781,7 @@
         "<a class=\"internal-link\" href=\"20_Entry/21 Inbox/TODO.md\"> TODO </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Emotional Intelligence.md\"> Emotional Intelligence </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Readwise/Articles/articles_The new American dream getting paid to do nothing.md\"> articles_The new American dream getting paid to do nothing </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Curate source notes and definitions in your second brain to avoid junk text.md\"> Curate source notes and definitions in your second brain to avoid junk text </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Phenotype.md\"> Phenotype </a>",
@@ -12825,8 +12831,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Any experience of gender is acceptable.md\"> Any experience of gender is acceptable </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Are Jesus' teachings anti-thetical to the modern Christian church.md\"> Are Jesus' teachings anti-thetical to the modern Christian church </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Avoidance IS the most-efficient way of dealing with emotion.md\"> Avoidance IS the most-efficient way of dealing with emotion </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Be the change you want to see in the world.md\"> Be the change you want to see in the world </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Basic tools for working with plaintext.md\"> Basic tools for working with plaintext </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"10_Sources/Politics/articleWhy the Phrase Late Capitalism Is Suddenly Everywhere.md\"> articleWhy the Phrase Late Capitalism Is Suddenly Everywhere </a>",
@@ -12935,6 +12940,8 @@
         "<a class=\"internal-link\" href=\"90_Personal/_Index_of_90_Personal.md\"> _Index_of_90_Personal </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\"> videoHow We're Shaped Mentally </a>",
+        "<a class=\"internal-link\" href=\"Emotional Intelligence.md\"> Emotional Intelligence </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/late capitalism.md\"> late capitalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Use philosophies as far they are useful and nothing more.md\"> Use philosophies as far they are useful and nothing more </a>",
@@ -12983,11 +12990,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Nodes in the second brain are an abstraction of our first brain.md\"> Nodes in the second brain are an abstraction of our first brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Identity is your understanding of yourself vs your interaction with the world.md\"> Identity is your understanding of yourself vs your interaction with the world </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can discover your transness at any point in life.md\"> You can discover your transness at any point in life </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/my TO(DO) and EVER(GREEN) structure.md\"> my TO(DO) and EVER(GREEN) structure </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Human's will find explanations for inexplainable things.md\"> Human's will find explanations for inexplainable things </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\"> videoHow We're Shaped Mentally </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/late capitalism.md\"> late capitalism </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will not question what is modeled for them unless they are taught to.md\"> Children will not question what is modeled for them unless they are taught to </a>",
@@ -13036,11 +13043,11 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Make your inbox into an entry point by integrating it with your second brain.md\"> Make your inbox into an entry point by integrating it with your second brain </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Searching for THE answer is dangerous.md\"> Searching for THE answer is dangerous </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/You can be taught to invalidate your own emotions.md\"> You can be taught to invalidate your own emotions </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Our understanding of gender begins at a very early age.md\"> Our understanding of gender begins at a very early age </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Patriarchy convinces young men that they can and should be oppressors.md\"> Patriarchy convinces young men that they can and should be oppressors </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/The church will fail if christians keep aligning themselves with hate instead of love.md\"> The church will fail if christians keep aligning themselves with hate instead of love </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"10_Sources/Mental Health/videoHow We're Shaped Mentally.md\"> videoHow We're Shaped Mentally </a>",
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"10_Sources/Politics/articleWhy the Phrase Late Capitalism Is Suddenly Everywhere.md\"> articleWhy the Phrase Late Capitalism Is Suddenly Everywhere </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will not question what is modeled for them unless they are taught to.md\"> Children will not question what is modeled for them unless they are taught to </a>",
@@ -13089,9 +13096,7 @@
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Anxiolytic.md\"> Anxiolytic </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Aparigraha.md\"> Aparigraha </a>",
         "<a class=\"internal-link\" href=\"30_Topics/32_Terms/asanas.md\"> asanas </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ashwagandha.md\"> Ashwagandha </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Association Cortices.md\"> Association Cortices </a>",
-        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Asteya.md\"> Asteya </a>"
+        "<a class=\"internal-link\" href=\"30_Topics/32_Terms/Ashwagandha.md\"> Ashwagandha </a>"
       ]
     },
     "40_Evergreens": {
@@ -13425,6 +13430,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/Your second brain should be frictionless access to a curated base of knowledge.md\"> Your second brain should be frictionless access to a curated base of knowledge </a>"
       ],
       "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Our authority figures curate and reinforce what we are allowed to imitate.md\"> Our authority figures curate and reinforce what we are allowed to imitate </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will not question what is modeled for them unless they are taught to.md\"> Children will not question what is modeled for them unless they are taught to </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
@@ -13474,10 +13480,10 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD reduces working memory.md\"> ADHD reduces working memory </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/ADHD is not a lack of attention it is a misplacement of attention.md\"> ADHD is not a lack of attention it is a misplacement of attention </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/MAGA is built off nostalgia not facts.md\"> MAGA is built off nostalgia not facts </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/Webs of thought are densely linked.md\"> Webs of thought are densely linked </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/Children in traumatic households expect more love than their parents can give.md\"> Children in traumatic households expect more love than their parents can give </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"40_Evergreens/Neurodiverse people can use their brain to their advantage.md\"> Neurodiverse people can use their brain to their advantage </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Obsidian's graph is useful in the implicit and dynamic relations it can reveal.md\"> Obsidian's graph is useful in the implicit and dynamic relations it can reveal </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Children will not question what is modeled for them unless they are taught to.md\"> Children will not question what is modeled for them unless they are taught to </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/Humans are primarily irrational, illogical, emotional beings.md\"> Humans are primarily irrational, illogical, emotional beings </a>",
@@ -13527,8 +13533,7 @@
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/43 Mental Health.md\"> 43 Mental Health </a>",
         "<a class=\"internal-link\" href=\"40_Evergreens/41 Inbox.md\"> 41 Inbox </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>",
-        "<a class=\"internal-link\" href=\"40_Evergreens/42 Knowledge Management.md\"> 42 Knowledge Management </a>"
+        "<a class=\"internal-link\" href=\"40_Evergreens/47 Humanity.md\"> 47 Humanity </a>"
       ]
     }
   },

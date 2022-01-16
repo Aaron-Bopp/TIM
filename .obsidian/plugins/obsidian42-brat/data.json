@@ -39,7 +39,7 @@
       "lastUpdate": "2022-01-14T01:23:24Z"
     }
   ],
-  "updateAtStartup": true,
+  "updateAtStartup": false,
   "updateThemesAtStartup": true,
   "ribbonIconEnabled": true,
   "loggingEnabled": false,

@@ -60,7 +60,7 @@
       "query": "tag:#node/topic",
       "color": {
         "a": 1,
-        "rgb": 16602381
+        "rgb": 12976529
       }
     },
     {
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.041783109582036286,
-  "close": true
+  "scale": 0.05031636416124341,
+  "close": false
 }

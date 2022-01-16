@@ -6840,7 +6840,8 @@ var en_default = {
   highlight_remove: "remove highlight",
   filter_folder_ignore_help: "ignore the following folders",
   filter_feed_ignore_help: "ignore the following feeds",
-  filter_tags_ignore_help: "ignore the following tags"
+  filter_tags_ignore_help: "ignore the following tags",
+  loading: "Loading"
 };
 
 // src/l10n/locales/de.ts
@@ -6993,14 +6994,170 @@ var de_default = {
   highlight_remove: "Markierung entfernen",
   filter_folder_ignore_help: "diese Ordner ignorieren",
   filter_feed_ignore_help: "diese Feeds ignorieren",
-  filter_tags_ignore_help: "diese Tags ignorieren"
+  filter_tags_ignore_help: "diese Tags ignorieren",
+  loading: "L\xE4dt"
+};
+
+// src/l10n/locales/zh.ts
+var zh_default = {
+  RSS_Reader: "RSS Reader",
+  RSS_Feeds: "\u8BA2\u9605\u6E90",
+  open: "\u6253\u5F00",
+  refresh_feeds: "\u66F4\u65B0\u8BA2\u9605",
+  create_all: "\u521B\u5EFA\u5168\u90E8",
+  mark_all_as_read: "\u5168\u90E8\u6807\u8BB0\u4E3A\u5DF2\u8BFB",
+  add_tags_to_all: "\u4E3A\u6240\u6709\u6761\u76EE\u6DFB\u52A0\u6807\u7B7E",
+  filtered_folders: "\u7B5B\u9009\u5206\u7C7B",
+  folders: "\u5206\u7C7B",
+  folder: "\u5206\u7C7B",
+  feeds: "\u8BA2\u9605\u6E90",
+  create_note: "\u65B0\u5EFA\u7B14\u8BB0",
+  paste_to_note: "\u7C98\u8D34\u5230\u5F53\u524D\u7B14\u8BB0",
+  copy_to_clipboard: "\u590D\u5236\u5230\u526A\u5207\u677F",
+  open_browser: "\u7528\u6D4F\u89C8\u5668\u6253\u5F00",
+  edit_tags: "\u7F16\u8F91\u6807\u7B7E",
+  mark_as_read: "\u6807\u8BB0\u4E3A\u5DF2\u8BFB",
+  mark_as_unread: "\u6807\u8BB0\u4E3A\u672A\u8BFB",
+  mark_as_favorite: "\u6DFB\u52A0\u5230\u6536\u85CF\u5939",
+  remove_from_favorites: "\u4ECE\u6536\u85CF\u5939\u4E2D\u5220\u9664",
+  read_article_tts: "\u8BED\u97F3(TTS)\u9605\u8BFB\u6587\u7AE0",
+  next: "\u4E0B\u4E00\u7BC7",
+  previous: "\u4E0A\u4E00\u7BC7",
+  mark_as_read_unread: "\u6807\u8BB0\u4E3A\u5DF2\u8BFB/\u672A\u8BFB",
+  mark_as_favorite_remove: "\u6DFB\u52A0\u5230\u6536\u85CF\u5939/\u4ECE\u6536\u85CF\u5939\u4E2D\u5220\u9664",
+  marked_as_read: "\u5DF2\u6807\u8BB0\u4E3A\u5DF2\u8BFB",
+  marked_as_unread: "\u5DF2\u6807\u8BB0\u4E3A\u672A\u8BFB",
+  removed_from_favorites: "\u5DF2\u4ECE\u6536\u85CF\u5939\u4E2D\u5220\u9664",
+  added_to_favorites: "\u5DF2\u6DFB\u52A0\u5230\u6536\u85CF\u5939",
+  read: "\u5DF2\u8BFB",
+  unread: "\u672A\u8BFB",
+  favorites: "\u6536\u85CF\u5939",
+  favorite: "\u6536\u85CF",
+  tags: "\u6807\u7B7E",
+  tag: "\u6807\u7B7E",
+  save: "\u4FDD\u5B58",
+  cancel: "\u53D6\u6D88",
+  delete: "\u5220\u9664",
+  edit: "\u7F16\u8F91",
+  reset: "\u6062\u590D\u9ED8\u8BA4\u503C",
+  fix_errors: "\u8BF7\u5728\u4FDD\u5B58\u524D\u4FEE\u590D\u9519\u8BEF\u3002",
+  add_new: "\u6DFB\u52A0",
+  add_new_feed: "\u6DFB\u52A0\u65B0\u8BA2\u9605\u6E90",
+  feed_already_configured: "\u60A8\u5DF2\u7ECF\u6DFB\u52A0\u4E86\u8BE5 URL \u5730\u5740\u7684\u8BA2\u9605\u6E90",
+  no_folder: "\u672A\u5206\u7C7B",
+  name: "\u540D\u79F0",
+  name_help: "\u8BBE\u7F6E\u8BA2\u9605\u6E90\u540D\u79F0",
+  url_help: "\u8F93\u5165\u8BA2\u9605\u6E90\u7684 URL \u5730\u5740",
+  folder_help: "\u8BBE\u7F6E\u8BA2\u9605\u6E90\u5206\u7C7B",
+  invalid_name: "\u8BF7\u8F93\u5165\u8BA2\u9605\u6E90\u540D\u79F0",
+  invalid_url: "\u8BF7\u8F93\u5165\u6709\u6548\u7684\u8BA2\u9605\u6E90 URL \u5730\u5740",
+  invalid_feed: "\u6B64\u8BA2\u9605\u6E90\u6CA1\u6709\u4EFB\u4F55\u5185\u5BB9",
+  filter_tags: "\u5DF2\u6253\u6807\u7B7E\u7684\u6587\u7AE0",
+  filter_unread: "\u5168\u90E8\u672A\u8BFB\u6587\u7AE0(\u6765\u81EA\u5206\u7C7B)",
+  filter_read: "\u5168\u90E8\u5DF2\u8BFB\u6587\u7AE0(\u6765\u81EA\u5206\u7C7B)",
+  filter_favorites: "\u6536\u85CF\u5939(\u6765\u81EA\u5206\u7C7B)",
+  sort_date_newest: "\u53D1\u5E03\u65E5\u671F (\u65B0 \u2192 \u65E7)",
+  sort_date_oldest: "\u53D1\u5E03\u65E5\u671F (\u65E7 to \u65B0)",
+  sort_alphabet_normal: "\u540D\u79F0 (A \u2192 Z)",
+  sort_alphabet_inverted: "\u540D\u79F0 (Z \u2192 A)",
+  sort: "\u6392\u5E8F",
+  filter_name_help: "\u8BBE\u7F6E\u7B5B\u9009\u5668\u540D\u79F0",
+  filter_type: "\u7C7B\u578B",
+  filter_type_help: "\u7B5B\u9009\u5668\u7C7B\u578B",
+  filter: "\u7B5B\u9009\u5668",
+  filter_help: "\u8981\u7B5B\u9009\u7684\u5206\u7C7B/\u6807\u7B7E,",
+  only_favorites: "\u4EC5\u663E\u793A\u5DF2\u6536\u85CF",
+  show_read: "\u663E\u793A\u5DF2\u8BFB",
+  show_unread: "\u663E\u793A\u672A\u8BFB",
+  filter_folder_help: "\u4EC5\u663E\u793A\u4EE5\u4E0B\u5206\u7C7B\u4E2D\u7684\u6587\u7AE0",
+  filter_feed_help: "\u4EC5\u663E\u793A\u4EE5\u4E0B\u8BA2\u9605\u6E90\u4E2D\u7684\u6587\u7AE0",
+  filter_tags_help: "\u4EC5\u663E\u793A\u4EE5\u4E0B\u6807\u7B7E\u4E2D\u7684\u6587\u7AE0",
+  from_folders: "\u6765\u81EA\u5206\u7C7B: ",
+  from_feeds: "\u6765\u81EA\u8BA2\u9605\u6E90: ",
+  with_tags: "\u6765\u81EA\u6807\u7B7E: ",
+  invalid_tag: "\u6B64\u6807\u7B7E\u65E0\u6548",
+  note_exists: "\u5DF2\u5B58\u5728\u540C\u540D\u7B14\u8BB0",
+  invalid_filename: "\u6587\u4EF6\u540D\u65E0\u6548",
+  specify_name: "\u8BF7\u8F93\u5165\u6587\u4EF6\u540D",
+  cannot_contain: "\u4E0D\u80FD\u5305\u542B: ",
+  created_note: "\u5DF2\u5C06\u8BE5\u6587\u7AE0\u590D\u5236\u4E3A\u7B14\u8BB0",
+  inserted_article: "\u5DF2\u5C06\u8BE5\u6587\u7AE0\u590D\u5236\u5230\u5F53\u524D\u7B14\u8BB0",
+  no_file_active: "\u6CA1\u6709\u6587\u4EF6\u5904\u4E8E\u6D3B\u52A8\u72B6\u6001",
+  settings: "\u8BBE\u7F6E",
+  file_creation: "\u65B0\u5EFA\u7B14\u8BB0",
+  template_new: "\u7B14\u8BB0\u6A21\u677F",
+  template_new_help: "\u4F7F\u7528\u8BA2\u9605\u6587\u7AE0\u521B\u5EFA\u7B14\u8BB0\u65F6\uFF0C\u4F1A\u6839\u636E\u5DF2\u8BBE\u7F6E\u7684\u6A21\u677F\u53D8\u91CF\u8FDB\u884C\u5904\u7406\u3002",
+  template_paste: "\u590D\u5236/\u7C98\u8D34\u6A21\u677F",
+  template_paste_help: "\u5C06\u8BA2\u9605\u6587\u7AE0\u590D\u5236/\u7C98\u8D34\u4E3A\u7B14\u8BB0\u65F6\uFF0C\u4F1A\u6839\u636E\u5DF2\u8BBE\u7F6E\u7684\u6A21\u677F\u53D8\u91CF\u8FDB\u884C\u5904\u7406\u3002",
+  available_variables: "\u53EF\u7528\u6A21\u677F\u53D8\u91CF: ",
+  file_location: "\u4FDD\u5B58\u4F4D\u7F6E",
+  file_location_help: "\u8BF7\u9009\u62E9\u8981\u4FDD\u5B58\u65B0\u5EFA\u7B14\u8BB0\u7684\u4F4D\u7F6E",
+  file_location_default: "\u9ED8\u8BA4\u76EE\u5F55",
+  file_location_custom: "\u81EA\u5B9A\u4E49\u76EE\u5F55",
+  file_location_folder: "\u8BF7\u9009\u62E9\u8981\u4FDD\u5B58\u65B0\u5EFA\u7B14\u8BB0\u7684\u76EE\u5F55",
+  file_location_folder_help: "\u65B0\u521B\u5EFA\u7684\u7B14\u8BB0\u5C06\u4FDD\u5B58\u5728\u8BE5\u76EE\u5F55\u4E2D",
+  date_format: "\u65E5\u671F\u683C\u5F0F",
+  syntax_reference: "\u65E5\u671F\u683C\u5F0F\u8BED\u6CD5\u53C2\u8003",
+  syntax_looks: "\u5F53\u524D\u65E5\u671F\u683C\u5F0F: ",
+  ask_filename: "\u786E\u8BA4\u6587\u4EF6\u540D",
+  ask_filename_help: "\u7981\u7528\u5219\u81EA\u52A8\u4F7F\u7528\u4E0B\u9762\u7684\u6587\u4EF6\u540D\u6A21\u677F\u521B\u5EFA\u6587\u4EF6\uFF08\u81EA\u52A8\u5220\u9664\u65E0\u6548\u7684\u6587\u4EF6\u540D\u5B57\u7B26\uFF09",
+  refresh_time: "\u66F4\u65B0\u9891\u7387",
+  refresh_time_help: "\u591A\u4E45\u66F4\u65B0\u4E00\u6B21\u8BA2\u9605\u6E90\uFF08\u5355\u4F4D: \u5206\u949F\uFF09\uFF0C\u8BBE\u7F6E\u4E3A0\u5219\u7981\u7528\u3002",
+  specify_positive_number: "\u8BF7\u8F93\u5165\u6B63\u6570",
+  multi_device_usage: "\u591A\u8BBE\u5907\u4F7F\u7528",
+  multi_device_usage_help: "\u540C\u65F6\u4F7F\u7528\u591A\u4E2A\u8BBE\u5907\u65F6\u4FDD\u6301\u6587\u7AE0\u72B6\u6001\u540C\u6B65\n(\u9700\u8981\u91CD\u65B0\u542F\u52A8\u624D\u80FD\u751F\u6548)",
+  add_new_filter: "\u6DFB\u52A0\u65B0\u7B5B\u9009\u5668",
+  filter_exists: "\u5DF2\u5B58\u5728\u540C\u540D\u7B5B\u9009\u5668",
+  hotkeys: "\u5FEB\u6377\u952E",
+  hotkeys_reading: "\u9605\u8BFB\u6587\u7AE0\u65F6",
+  press_key: "\u6309\u4E0B\u5FEB\u6377\u952E",
+  customize_hotkey: "\u5206\u914D\u5FEB\u6377\u952E",
+  refreshed_feeds: "\u5DF2\u66F4\u65B0 RSS \u8BA2\u9605\u6E90",
+  import: "\u5BFC\u5165",
+  import_opml: "\u901A\u8FC7 OPML \u5BFC\u5165",
+  imported_x_feeds: "\u5DF2\u5BFC\u5165 %1 \u6761\u8BA2\u9605\u6E90",
+  choose_file: "\u9009\u62E9\u6587\u4EF6",
+  choose_file_help: "\u8BF7\u9009\u62E9\u8981\u5BFC\u5165\u7684\u6587\u4EF6",
+  export_opml: "\u5BFC\u51FA OPML \u6587\u4EF6",
+  default_filename: "\u6587\u4EF6\u540D\u6A21\u677F",
+  default_filename_help: "\u4E0A\u9762\u521B\u5EFA\u7B14\u8BB0\u7684\u6240\u6709\u6A21\u677F\u53D8\u91CF\u90FD\u53EF\u7528",
+  cleanup: "\u6E05\u9664\u6587\u7AE0",
+  cleanup_help: "\u6E05\u9664\u7B26\u5408\u4EE5\u4E0B\u89C4\u5219\u7684\u6587\u7AE0",
+  cleanup_help2: "\u6CE8\u610F\uFF0C\u8BA2\u9605\u6E90\u4E2D\u4ECD\u5B58\u5728\u7684\u6587\u7AE0\u5C06\u5728\u4E0B\u6B21\u5237\u65B0\u65F6\u91CD\u65B0\u51FA\u73B0",
+  perform_cleanup: "\u6E05\u9664\u6587\u7AE0",
+  all: "\u5168\u90E8",
+  from_feed: "\u6765\u81EA\u8BA2\u9605\u6E90",
+  older_than: "\u591A\u5C11\u5929\u4E4B\u524D\u53D1\u5E03\u7684\u6587\u7AE0",
+  older_than_help: "\u5982\u679C\u6CA1\u6709\u7B26\u5408\u7684\u6587\u7AE0\uFF0C\u5219\u5FFD\u7565\u8BE5\u6761\u89C4\u5219\uFF08\u4E3A\u7A7A\u5219\u4FDD\u7559\u6240\u6709\u65E5\u671F\u7684\u6587\u7AE0\uFF09",
+  advanced: "\u9AD8\u7EA7\u8BBE\u7F6E",
+  remove_wrong_feed: "\u6E05\u9664\u6240\u6709\u4E0D\u6B63\u786E\u8BA2\u9605\u6E90\u4E2D\u7684\u6587\u7AE0",
+  remove_wrong_feed_help: "\u8FD9\u53EF\u80FD\u662F\u7531\u4E8E0.8\u4E4B\u524D\u7248\u672C\u4E2D\u7684\u9519\u8BEF\u9020\u6210\u7684",
+  scanning_items: "\u626B\u63CF\u6587\u7AE0 (%1 / %2))",
+  created_export: "\u5DF2\u5728\u7B14\u8BB0\u4ED3\u5E93\u6839\u76EE\u5F55\u521B\u5EFA OPML \u6587\u4EF6",
+  add: "\u6DFB\u52A0",
+  from_archive: "\u4ECE\u4E92\u8054\u7F51\u6863\u6848\u9986(archive.org)\u83B7\u53D6\u65E7\u6587\u7AE0",
+  reading_archive: "\u6B63\u5728\u4ECE\u5B58\u6863\u4E2D\u8BFB\u53D6\u6570\u636E",
+  scanning_duplicates: "\u626B\u63CF\u91CD\u590D\u6587\u7AE0",
+  do_not_close: "\u8BF7\u52FF\u5173\u95ED\u6B64\u7A97\u53E3",
+  display_style: "\u663E\u793A\u98CE\u683C",
+  list: "\u5217\u8868",
+  cards: "\u5361\u7247",
+  customize_terms: "\u81EA\u5B9A\u4E49\u672F\u8BED",
+  content: "\u5185\u5BB9\u8BBE\u7F6E",
+  highlight: "\u9AD8\u4EAE",
+  highlight_remove: "\u5220\u9664\u9AD8\u4EAE",
+  filter_folder_ignore_help: "\u5FFD\u7565\u4EE5\u4E0B\u5206\u7C7B",
+  filter_feed_ignore_help: "\u5FFD\u7565\u4EE5\u4E0B\u8BA2\u9605\u6E90",
+  filter_tags_ignore_help: "\u5FFD\u7565\u4EE5\u4E0B\u6807\u7B7E",
+  loading: "\u6B63\u5728\u52A0\u8F7D"
 };
 
 // src/l10n/locale.ts
 var locale = window.moment.locale;
 var localeMap = {
   en: en_default,
-  de: de_default
+  de: de_default,
+  zh: zh_default
 };
 var userLocale = localeMap[locale()];
 function t(str, ...inserts) {
@@ -7240,10 +7397,14 @@ function rssToMd(plugin, content) {
   if (plugin.app.plugins.plugins["templater-obsidian"]) {
     markdown = markdown.replace(/<%([\s\S]*?)%>/g, "```javascript\n$&\n```");
   }
-  const codeblockProcessors = Object.keys(import_obsidian6.MarkdownPreviewRenderer.codeBlockPostProcessors);
-  for (const codeblockProcessor of codeblockProcessors) {
-    const regex = RegExp("^```" + codeblockProcessor + "[\\s\\S]+```$", "gm");
-    markdown = markdown.replace(regex, "<pre>$&</pre>");
+  if (import_obsidian6.MarkdownPreviewRenderer.codeBlockPostProcessors) {
+    const codeblockProcessors = Object.keys(import_obsidian6.MarkdownPreviewRenderer.codeBlockPostProcessors);
+    for (const codeblockProcessor of codeblockProcessors) {
+      const regex = RegExp("^```" + codeblockProcessor + "[\\s\\S]*?```$", "gm");
+      markdown = markdown.replace(regex, "<pre>$&</pre>");
+    }
+  } else {
+    markdown = markdown.replace(/^```.*\n([\s\S]*?)```$/gm, "<pre>$&</pre>");
   }
   return markdown;
 }
@@ -11081,6 +11242,7 @@ function create_else_block2(ctx) {
       }
       if (!ctx2[2]) {
         if (if_block1) {
+          if_block1.p(ctx2, dirty);
         } else {
           if_block1 = create_if_block_82(ctx2);
           if_block1.c();
@@ -11135,21 +11297,21 @@ function create_else_block2(ctx) {
   };
 }
 function create_if_block7(ctx) {
-  let p;
+  let h1;
   return {
     c() {
-      p = element("p");
-      p.textContent = "Loading";
+      h1 = element("h1");
+      h1.textContent = `${t("loading")}`;
     },
     m(target, anchor) {
-      insert(target, p, anchor);
+      insert(target, h1, anchor);
     },
     p: noop,
     i: noop,
     o: noop,
     d(detaching) {
       if (detaching)
-        detach(p);
+        detach(h1);
     }
   };
 }
@@ -12376,11 +12538,12 @@ function create_if_block_82(ctx) {
   return {
     c() {
       h1 = element("h1");
-      h1.textContent = "No feeds configured";
+      h1.textContent = `${t("loading")}`;
     },
     m(target, anchor) {
       insert(target, h1, anchor);
     },
+    p: noop,
     d(detaching) {
       if (detaching)
         detach(h1);
@@ -14863,6 +15026,7 @@ var RssReaderPlugin = class extends import_obsidian28.Plugin {
   }
   updateFeeds() {
     return __async(this, null, function* () {
+      console.log("updating feeds");
       function mergeArrayById(array1, array2) {
         const mergedObjectMap = (0, import_lodash8.default)(array1, "hash");
         const finalArray = [];
