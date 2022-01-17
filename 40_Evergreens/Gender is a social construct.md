@@ -16,7 +16,7 @@ sr-ease: 270
 
 Current discussion of [[gender roles]], [[Patriarchy]], [[feminism]], [[sexism]] often revolves around the emphasis of this in our culture over the last 200 years, but the social construction of gender is a process that began before we split from chimps. A [[social construct]] does not have to be recent, rather it is our intuitive understanding of how our [[Evolutionary Psychology]] impacts our [[Behavioral Psychology]] to produce our understanding of [[socialization]], or in this case [[gender schema]].
 
-[[Our understanding of gender begins at a very early age]], and through behaviors like [[gender segregation]] [^1] and [[Gender self-socialization model|gender self-socialization]] we develop a [[gender schema]].  But despite these strong roots for our gender, we still observe that [[Gender has historically been non-binary]] and [[Biology supports the validity of trans people]].
+[[Our understanding of gender begins at a very early age|We experience gender at an early age]], and through behaviors like [[gender segregation]] [^1] and [[Gender self-socialization model|gender self-socialization]] we develop a [[gender schema]].  But despite these strong roots for our gender, we still observe that [[Gender has historically been non-binary]] and [[Biology supports the validity of trans people]].
 
 ##### Why is [[gender]] such a debated topic?
 
