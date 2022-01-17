@@ -52,7 +52,7 @@ These first three refer primarily to how developed the note is, but also come wi
 ^[[[A totally integrated machine should be infinitely scalable]]]
 
 - **\#EVER/WEED** notes that have content that I am not happy with, these are filtered out from my publish vault
-- **\#EVER/GROWING** notes that I am actively working on. If the number of the notes with this status is getting overwhelming, they should be change to one of the three base tags, and I can wait for [[spaced repetition]] to bring them up again. There is less pressure to understand what needs to be done and what needs to be connected because these are in my priority que.
+- **\#EVER/GROWING** notes are notes that I am unsure of what stage they are at. All new notes come in with this tag, and will sit here for a certain amount of time.  There is less pressure to understand what needs to be done and what needs to be connected because these are in my priority que. If the number of the notes with this status is getting overwhelming, that probably means I am trying to understand too much new [[information]] at once, and something is going to get lost. At that point, I need to go through and classify notes better, and I can wait for [[spaced repetition]] to bring them up again. 
 
 These statuses are much more focused on what my current intentions are for the note. As the number of notes I have grows, I need a way to prioritize notes in a way that I will actually use. The main downfall of my last system was the it was far to complicated to maintain, and so I wasn't able to actually draw value from it. 
 

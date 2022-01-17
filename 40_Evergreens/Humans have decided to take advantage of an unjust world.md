@@ -3,9 +3,9 @@ created: 2021-12-24
 aliases:
   - null
 tags: created/evergreen/2021/12/24, review, node/evergreen/claim
-sr-due: 2022-01-17
-sr-interval: 5
-sr-ease: 150
+sr-due: 2022-01-20
+sr-interval: 3
+sr-ease: 130
 ---
 
 #### [[Humans have decided to take advantage of an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -22,10 +22,10 @@ sr-ease: 150
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human experience]]
+**Topics**:: [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

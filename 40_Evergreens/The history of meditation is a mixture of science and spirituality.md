@@ -3,8 +3,8 @@ created: 2022-01-02T10:01:37
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-17
-sr-interval: 7
+sr-due: 2022-02-01
+sr-interval: 15
 sr-ease: 190
 ---
 
@@ -23,7 +23,7 @@ This could be attributed to [[survivorship bias]], but it could also be attribut
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[eastern philosophy]]

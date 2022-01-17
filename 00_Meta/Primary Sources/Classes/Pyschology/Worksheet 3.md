@@ -52,14 +52,7 @@ c.) The "left-brained, right-brained" concept (pp. 234-235)
 
 While we primarily do certain aspects of processes in certain hemispheres (right handed, right-eared), there is no difference for verbal or spatial skills by gender. Most skills are two complex to localized to one hemisphere.
 
-**Sansfacon et al. (2020) -- I Knew That I Wasn't Cis**
 
-**2.** The authors state that their research supports the presence of three *trajectories* of gender identity development in their transgender sample. In your own words, explain each of the three trajectories. In your explanation, be sure to describe the pattern of behavior that characterizes this trajectory as well as external factors that may lead someone to follow this trajectory instead of another one. **(6 pts)**
-
-#TO/PONDER/CONCEPT 
-Trajectory A: these children realize dissonance in their gender early on and are able to process and verbalize it with their parents, and then receive support. 
-Trajectory B: these children notice diferences early on, but either due to them struggling to understand them, looking for support and being rebuffed, or repressing these feelings, do not fully understand these differences until puberty makes them more prominent.
-Trajectory C: these subjects do not report any feelings of wrongness in childhood, but differences become obvious once puberty hits. A factor for this may be indentifying as non-binary, so differences are less pronounced, even though they exists in childhood.
 
 **Olson et al. (2016) -- Mental Health of Transgender Children**
 

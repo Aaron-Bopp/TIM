@@ -1,3 +1,5 @@
+#TO/EXPLORE/CONCEPTUALIZE [Three Basic Elements of Note-taking - YouTube](https://www.youtube.com/watch?v=e2uaqleh9W0) 
+
 #TO/EXPLORE/RESEARCH 
 > On a related note, I think the process of realizing what’s relevant for a particular difficult problem is also another way to say “that’s an insight”. I’ve read a bit into the Insight Problem Solving literature, and insight can be thought of as a representational change that leads to solutions, which is maybe a more rigorous way to say that “you suddenly notice what’s relevant to the problem at hand”.
 > 

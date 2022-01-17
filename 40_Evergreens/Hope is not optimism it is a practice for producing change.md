@@ -15,7 +15,7 @@ sr-ease: 210
 > [[articles_Summary, part 1 & 2 We Do This 'Til We Free Us Study Guide — Radical in Progress#^nhhdke | radicalinprogress.org]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hs4xtVEtORc?start=4025" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+%% #TO/EXPLORE/WATCH the rest of this lecture %%
 > [[Optimism]] looks at the evidence to see whether it allows us to infer whether we can do X or Y. [[Hope]] says I don't give a damn I'm gonna do it anyway
 >
 > <cite>[[Cornel West]]</cite>

@@ -3,8 +3,8 @@ created: 2021-06-25
 tags: created/evergreen/2021/06/25, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-17
-sr-interval: 11
+sr-due: 2022-02-04
+sr-interval: 18
 sr-ease: 165
 ---
 
@@ -28,7 +28,7 @@ Especially in [[childhood]], negative experiences cause us to make wide assumpti
  > <cite>[[Dr. K]]</cite>
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING  
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[childhood]], [[trauma]]
