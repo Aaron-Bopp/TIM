@@ -40,7 +40,6 @@
 			- [[Gender is a social construct]]
 			- [[Race is a social construct]]
 			- [[Stereotypes are social constructs]]
-		- [[What is the difference between optimism and hope]]
 		- [[community]]
 			- [[Communities are support systems]]
 	- [[neurodiversity]]

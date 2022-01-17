@@ -11,7 +11,7 @@ sr-ease: 210
 #### [[Children make wide assumptions about the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is because of [[How memory works]],
-[[Negative influences are stronger than positive influences]],
+[[Negative influences impact us more than positive influences]],
 and [[The brain lodges emotional reactions in our unconscious memory]].
 This means the [[childhood]] is a time where we can form experience that shape the rest of our life:
 [[We carry our childhood wounds into adulthood]]

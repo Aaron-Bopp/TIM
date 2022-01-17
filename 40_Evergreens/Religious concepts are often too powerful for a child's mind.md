@@ -12,7 +12,7 @@ sr-ease: 190
 
 #TO/TEND/WEED 
 Teaching children that their eternal fate is at stake is not healthy and leads to [[religious trauma]]: [[Fear of hell is baked into Christianity for vulnerable believers]], if it is instilled from a young age that you must submit yourself to this god in order to avoid hell. While religion teaches the feelings of an omnipotent god are more important than yours.
-[[Negative influences are stronger than positive influences]] and especially as children this will stick with us. 
+[[Negative influences impact us more than positive influences]] and especially as children this will stick with us. 
 ^[[[We carry our childhood wounds into adulthood]]]
 
 [[Parents need to model the ability to deal with emotion to their children]],

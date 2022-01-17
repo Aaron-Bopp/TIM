@@ -3,9 +3,9 @@ created: 2022-01-16T11:31:33
 aliases:
   - null
 tags: created/evergreen/2022/01/16, review, node/evergreen/claim
-sr-due: 2022-01-16
+sr-due: 2022-01-18
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Children will not question what is modeled for them unless they are taught to]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

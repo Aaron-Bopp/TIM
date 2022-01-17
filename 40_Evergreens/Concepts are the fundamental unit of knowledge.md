@@ -3,14 +3,17 @@ created: 2021-12-26
 aliases:
   - null
 tags: created/evergreen/2021/12/26, review, node/evergreen/claim
-sr-due: 2022-01-16
-sr-interval: 4
-sr-ease: 190
+sr-due: 2022-01-19
+sr-interval: 2
+sr-ease: 170
 ---
 
 #### [[Concepts are the fundamental unit of knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [How to achieve more while studying less - Obsidian & Conceptual Notes - YouTube](https://www.youtube.com/watch?v=MYJsGksojms)
+
+This is what makes [[conceptual notes]] so powerful:
+[[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
 
 - [[What are the differences between evergreen notes and conceptual notes]]
 - [[Note taking is a spectrum from purely reproductive to purely productive]]
@@ -21,7 +24,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[knowledge work]], [[knowledge management]], [[conceptual notes]]

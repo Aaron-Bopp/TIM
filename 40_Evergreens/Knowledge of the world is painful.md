@@ -8,6 +8,8 @@ sr-ease: 178
 
 #### [[Knowledge of the world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/PONDER should this be renamed to knowledge of an **unjust** world is painful?
+
 This is a big part of [[Accepting responsibility is not only about your actions]]. You must accept your part in the hurt of the world without crippling yourself.
 
 Becoming obsessed/absorbed by this fact leads to thoughts like [[Sadness is enlightenment and happiness is delusion]]

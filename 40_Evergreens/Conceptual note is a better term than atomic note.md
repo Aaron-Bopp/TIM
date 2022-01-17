@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-01-16
-sr-interval: 12
+sr-due: 2022-02-03
+sr-interval: 17
 sr-ease: 132
 ---
 
@@ -31,7 +31,7 @@ This is why I always say [[conceptual notes]] instead of atomic notes:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN  
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[second brain]], [[knowledge management]]

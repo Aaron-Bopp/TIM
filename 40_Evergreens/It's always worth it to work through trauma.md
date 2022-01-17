@@ -10,7 +10,7 @@ sr-ease: 190
 
 As we work through [[trauma]], it can often feel like we are losing so much of what makes us *[[self|us]]*. There can be many factors for this. Maybe you are cutting out toxic behaviors. Maybe you are ripping away the [[We value our biggest insecurities because they protect us from the biggest threats|insecurities that protect you most]], or maybe you are loving yourself more and hating yourself less. What you are actually feeling is the chipping away of [[childhood]] [[trauma]]: [[We carry our childhood wounds into adulthood]].
 
-These wounds have been major factors in our lives, but they have been major negative factors. Once we can heal our childhood wounds, we will be left with the things that we have pursued time and time again and not the things that happened once and scarred us forever, because [[Negative influences are stronger than positive influences]]. [[How to pursue the positive things in life]]
+These wounds have been major factors in our lives, but they have been major negative factors. Once we can heal our childhood wounds, we will be left with the things that we have pursued time and time again and not the things that happened once and scarred us forever, because [[Negative influences impact us more than positive influences]]. [[How to pursue the positive things in life]]
 
 Additionally, we can now pursue things that we never would have considered before, because [[We value our biggest insecurities because they protect us from the biggest threats]] and [[Your anxiety knows your insecurities better than you do]].
 

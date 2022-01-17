@@ -3,9 +3,9 @@ created: 2022-01-01T02:08:12
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-01-16
+sr-due: 2022-01-18
 sr-interval: 1
-sr-ease: 170
+sr-ease: 150
 ---
 
 #### [[Meditation helps us gain control over our emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -31,5 +31,5 @@ This can lead to a [[detachment]] from our [[emotions]]:
 **Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[meditation]], [[mindfulness]]
+**Topics**:: [[meditation]], [[mindfulness]], [[emotions]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

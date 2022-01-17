@@ -3,9 +3,9 @@ created: 2021-07-04
 tags: created/evergreen/2021/07/04, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-16
-sr-interval: 14
-sr-ease: 228
+sr-due: 2022-01-26
+sr-interval: 9
+sr-ease: 208
 ---
 
 #### [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

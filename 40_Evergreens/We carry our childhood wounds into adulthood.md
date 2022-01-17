@@ -15,7 +15,7 @@ sr-ease: 165
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DUkpWgcR8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Especially in [[childhood]], negative experiences cause us to make wide assumptions about the world. Because [[Negative influences are stronger than positive influences]], these experiences can become integral parts of our [[personality|personalities]] or form into [[mental illness]].
+Especially in [[childhood]], negative experiences cause us to make wide assumptions about the world. Because [[Negative influences impact us more than positive influences]], these experiences can become integral parts of our [[personality|personalities]] or form into [[mental illness]].
 
 [[Our brain will do anything it can to protect itself]], and because
 [[Children make wide assumptions about the world]] that formative experience will impact a large portion of our understanding of the world because we do not understand the context or the importance of that experience. 

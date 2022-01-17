@@ -43,15 +43,18 @@ This is the status field in my notes. The purpose behind this status is to be an
 ^[See the previous version of this structure here [[Ever(green) structure until 2022-01-14]]]
 This is system still does this, but on a much less granular level. 
 
-These first three refer primarily to how developed the note is, but also come with the idea that I do not have any current intention of working on them. This means that any ideas that I have for them should be marked with \#TO tags.
-- **\#EVER/SEED** these notes may only have a couple sentences or a few links. They have enough content to be a starting point if I come back to this idea
-- **\#EVER/SPROUT** these notes have a body that fleshes out their core concept, but I am not confident enough in them to make them evergreens
-- **\#EVER/GREEN** these are notes that cover their concept well and interlink with the other notes
 
-These statuses are much more focused on what my current intentions are for the note. As the number of notes I have grows, I need a way to prioritize notes in a way that I will actually use. The main downfall of my last system was the it was far to complicated to maintain, and so I never used it. 
+- **\#EVER/SEED** these notes may only have a couple sentences or a few links. They are speculative insights, that I have either gathered from external resources or found through connections of other notes. They could grow in to sprouts within a few weeks, or months, or even years. 
+- **\#EVER/SPROUT** these notes have a body that fleshes out their core concept, but I am don't know if they have longevity
+- **\#EVER/GREEN** these are notes that cover their concept well and interlink with the other notes. I have seen these notes remain true over time, and they have value within and outside of the vault
+
+These first three refer primarily to how developed the note is, but also come with the idea that I do not have any current intention of working on them. This means that any ideas that I have for them should be marked with \#TO tags. There should be no limit on home many of these notes I have. 
+^[[[A totally integrated machine should be infinitely scalable]]]
 
 - **\#EVER/WEED** notes that have content that I am not happy with, these are filtered out from my publish vault
-- **\#EVER/GROWING** notes that I am actively working on. If the number of the notes with this status is getting overwhelming, they should be change to one of the three base tags, and I can wait for [[spaced repetition]] to bring them up again
+- **\#EVER/GROWING** notes that I am actively working on. If the number of the notes with this status is getting overwhelming, they should be change to one of the three base tags, and I can wait for [[spaced repetition]] to bring them up again. There is less pressure to understand what needs to be done and what needs to be connected because these are in my priority que.
+
+These statuses are much more focused on what my current intentions are for the note. As the number of notes I have grows, I need a way to prioritize notes in a way that I will actually use. The main downfall of my last system was the it was far to complicated to maintain, and so I wasn't able to actually draw value from it. 
 
 ##### Use these tags to your advantage
 

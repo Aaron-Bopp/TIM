@@ -1,15 +1,16 @@
 ---
 created: 2021-06-27
 tags: created/evergreen/2021/06/27, review, node/evergreen/claim
-sr-due: 2022-01-16
-sr-interval: 56
-sr-ease: 250
+sr-due: 2022-02-14
+sr-interval: 28
+sr-ease: 230
 ---
 
 #### [[When in doubt, write what you think]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Starting to write notes can be intimidating for many reasons, one of which being that you don't know what to write about.
-The beauty is that [[A second brain should be an extension of your thought]]. This means you can write about anything that you are thinking about and soon *your thinking will be better.* 
+The beauty is that [[A second brain should be an extension of your thought]]. This means you can write about anything that you are thinking about and soon *your thinking will be better:* 
+[[Writing is a catalyst of understanding]]
 
 This doesn't mean your [[second brain]] has to be a journal, or a planner, or about you, it can just be whatever you're thinking about. This could mean it is where you put down your school notes, your [[TTRPG]] notes, your dreams, anything. 
 Once you have broken through the [[Fear is the number one hindrance to trying|fear of trying]], you will be able to explore [[systems for thought]]: [[Choosing a note writing system is choosing a system for thought]] 

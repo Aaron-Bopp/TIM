@@ -1,6 +1,6 @@
 - [[44 Identity]]
 	- [[self-actualization]]
-		- [[Negative influences are stronger than positive influences]]
+		- [[Negative influences impact us more than positive influences]]
 		- [[Sometimes we can't grow until we change our environment]]
 		- [[Presentation is the realization of our self-perception and identity is the realization of our self-image]]
 		- [[self-love]]

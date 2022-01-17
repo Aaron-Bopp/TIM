@@ -14,7 +14,7 @@ sr-ease: 231
 
  [[Our understanding of gender begins at a very early age]] and [[We carry our childhood wounds into adulthood]], so it only follows that [[trauma]] related to our [[gender]] would cause us to repress and [[dissociation|dissasociate]]. While having negative reinforcement makes this more likely to happen, [^1] because of the [[Gender self-socialization model]] we can still experience still repress these feelings of [[gender dysphoria]]: [[You can be taught to invalidate your own emotions]]
 
-[^1]: [[Negative influences are stronger than positive influences]]
+[^1]: [[Negative influences impact us more than positive influences]]
 
 This means that even if your child never verbalizes their dysphoria, a toxic environment can still cause them to disassociate. 
 This is why [[You can discover your transness at any point in life]] and [[Any experience of gender is acceptable]]

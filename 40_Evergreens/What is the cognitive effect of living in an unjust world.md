@@ -38,7 +38,7 @@ Over all, [[Humans have decided to reject an unjust world]], but this manifest i
 We know that [[Humans are primarily irrational, illogical, emotional beings]] and we must keep that in mind when we are striving for [[society|societal]] change and [[self-actualization|personal]] change.
 
 - source [[Knowledge of the world is painful]]
-- [[What is the difference between optimism and hope]]
+- [[True optimism is acknowledging the suffering of the world and defying it anyway]]
 	- [[Realism must acknowledge optimism's existence and effectiveness]]
 	- [[Hope is not optimism it is a practice for producing change]]
 	- [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
