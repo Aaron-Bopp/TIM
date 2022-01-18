@@ -1,6 +1,6 @@
 ---
 created: 2021-10-10
-tags: created/topic/2021/10/10, node/topic/stub
+tags: created/topic/2021/10/10, node/topic/outline
 aliases:
   - feminist
 ---

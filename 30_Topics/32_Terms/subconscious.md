@@ -1,6 +1,6 @@
 ---
 created: 2021-07-02
-tags: created/topic/2021/07/02, node/topic/term
+tags: created/topic/2021/07/02, node/topic/outline
 aliases:
 - subconsciously
 ---

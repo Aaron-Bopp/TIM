@@ -3,7 +3,7 @@ created: 2021-07-03
 aliases:
   - eastern system
   - eastern
-tags: created/topic/2021/07/03, node/topic/stub
+tags: created/topic/2021/07/03, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

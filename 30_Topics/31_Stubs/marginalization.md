@@ -2,7 +2,7 @@
 created: 2021-10-23
 aliases:
   - marginalized
-tags: created/topic/2021/10/23, node/topic/stub
+tags: created/topic/2021/10/23, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

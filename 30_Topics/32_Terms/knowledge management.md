@@ -5,7 +5,7 @@ aliases:
   - personal knowledge system
   - personal knowledge management
   - knowledge management system
-tags: created/topic/2021/07/21, node/topic/stub
+tags: created/topic/2021/07/21, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

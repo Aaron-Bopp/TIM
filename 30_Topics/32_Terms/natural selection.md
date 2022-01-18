@@ -2,7 +2,7 @@
 created: 2021-10-19
 aliases:
 - kin selection
-tags: created/topic/2021/10/19, node/topic/term
+tags: created/topic/2021/10/19, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

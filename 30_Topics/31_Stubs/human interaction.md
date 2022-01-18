@@ -2,7 +2,7 @@
 created: 2021-12-12 
 aliases:
   - social interaction
-tags: created/topic/2021/12/12, node/topic/stub
+tags: created/topic/2021/12/12, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

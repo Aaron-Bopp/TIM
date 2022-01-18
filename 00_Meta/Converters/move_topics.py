@@ -62,7 +62,7 @@ def add_related_egs(text, filename, topics):
     return new_text
 
 def update_tag(text, name, topics):
-    if len(topics[name]) > 0:
+    if name in topics.keys() and len(topics[name]) > 0:
         text = re.sub(r'node/topic/(stub|term)', 'node/topic/outline', text)
     return text
 
@@ -70,7 +70,7 @@ def update_tag(text, name, topics):
 if __name__ == '__main__':
     # # get current working directory
     # os.chdir(r'30_Topics')
-    directory = os.getcwd()
+    directory = r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM'
     # print(directory)
     # move_stubs(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics')
     topics = get_eg_topics(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\40_Evergreens')
@@ -82,4 +82,5 @@ if __name__ == '__main__':
                     with open(filepath, 'r', encoding='utf-8') as f:
                         text = f.read()
                     name = filename.replace(r'.md', '')
-                    update_tag(text, name, topics)
+                    with open(filepath, 'w', encoding='utf-8') as f:
+                        f.write(update_tag(text, name, topics))
