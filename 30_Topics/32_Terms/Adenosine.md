@@ -12,7 +12,11 @@ One of four nucleoside building blocks to DNA and RNA. Adenosine and adenosine r
 Adenosine partially comes from recycling ATP
 ^[[Why Your Sleep Schedule Sucks (And How To Fix It!) - YouTube](https://youtu.be/1aogY1Tm2Lo?t=1914)]
 
-**See**::
+When administered Adenosine can give the feeling of impending doom
+^[[Patient Cardiac Rhythm Is Important for EMS Adenosine Administration - JEMS](https://www.jems.com/administration-and-leadership/patient-cardiac-rhythm-important-ems-ade/)]
+
+
+**See**:: [[heart]], [[cardiovascular system]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
