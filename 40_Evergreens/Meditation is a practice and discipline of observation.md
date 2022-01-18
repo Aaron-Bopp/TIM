@@ -13,10 +13,11 @@ sr-ease: 190
 When [[Western philosophy|western]] researcher's started studying the science behind [[meditation]] and [[yoga]] they tried to distill these practices into one thing:  [[mindfulness]]
 ^[[[notes_History of Meditation]]]
 
+There are many different styles of [[yoga]], but at the core of all of the them is [[understanding]] and gaining control over your [[mind]]. 
 
-- [[Dual Nostril Breathing Meditation]]
-- [[Flamingo Pose Meditation]]
- #TO/PONDER/CONCEPT videos from dr.k
+#TO/PONDER/CONCEPT how the [[mind-body complex]] gets out of whack and how [[meditation]] helps us get it back under control
+
+next:: [[How to develop a meditation practice]]
 
 ### <hr class="footnote"/>
 
