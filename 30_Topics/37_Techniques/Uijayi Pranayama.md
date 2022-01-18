@@ -3,8 +3,8 @@ created: 2022-01-02T18:05:17
 aliases:
   - null
 tags: created/topic/2022/01/02, review, node/evergreen/technique
-sr-due: 2022-01-18
-sr-interval: 3
+sr-due: 2022-01-26
+sr-interval: 8
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,7 +16,7 @@ This will make you breath slower which is one of the main goals of [[meditation]
 Start with 9 rounds and move up to 30
 A round is and inhale and exhale
 
-You can optionally involve [[Khechari Mudra]] where you point your tounge towards the back of your [[throat]]
+You can optionally involve [[Khechari Mudra]] where you point your tongue towards the back of your [[throat]]
 
 
 **See**:: [[meditation]], [[yoga]]

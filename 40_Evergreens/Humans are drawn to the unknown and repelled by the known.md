@@ -3,8 +3,8 @@ created: 2022-01-04T15:59:22
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-01-18
-sr-interval: 3
+sr-due: 2022-01-23
+sr-interval: 5
 sr-ease: 170
 ---
 
@@ -16,6 +16,7 @@ This leads us to both remain in [[cognitive dissonance]], and to pursue [[knowle
 [[Humans transfer their wonder into creativity]]
 [[Faith is an abstraction of cognitive dissonance]]
 
+#TO/TEND/GRAFT 
 - [[Humans long to know what to do]]
 	- [[Humans are a product of evolution]]
 	- [[Humans try really hard to avoid understanding their mistakes]]

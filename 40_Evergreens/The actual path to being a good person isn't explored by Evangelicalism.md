@@ -3,8 +3,8 @@ created: 2021-10-19
 aliases:
   - Evangelicalism doesn't explore the path to being a good person
 tags: created/evergreen/2021/10/19, review, node/evergreen/claim
-sr-due: 2022-01-18
-sr-interval: 6
+sr-due: 2022-01-27
+sr-interval: 9
 sr-ease: 130
 ---
 
@@ -15,8 +15,9 @@ sr-ease: 130
 While the bible does talk about how to be a good person,
 ^[the ethics and success of it's teachings are up for debate]
 [[Evangelicalism has commodified faith for profit]] and so they have largely abandoned this doctrine.
-[[Faith is an abstraction of cognitive dissonance]], which means that it is using [[faith]] to help deal with the fact that [[Knowledge of the world is painful]]
+[[Faith is an abstraction of cognitive dissonance]], which means that it is using [[faith]] to help deal with the fact that [[Knowledge of the world is painful]],
 ^[[[What is the cognitive effect of living in an unjust world]]]
+instead of focusing on improving the the lives of [[Christianity|Christians]]. 
 [[Evangelicalism]] hides the work and the struggle so that it can convert and control more people:
 [[Worldviews should not make life seem easy and simple]]
 
@@ -34,5 +35,5 @@ While the bible does talk about how to be a good person,
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Christianity]], [[Deconstruction (Christianity)]]
+**Topics**:: [[Christianity]], [[Deconstruction (Christianity)]], [[belief systems]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

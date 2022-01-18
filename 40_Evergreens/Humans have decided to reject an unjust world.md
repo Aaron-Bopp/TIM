@@ -3,15 +3,15 @@ created: 2021-11-25
 aliases:
   - null
 tags: created/evergreen/2021/11/25, review, node/evergreen/claim
-sr-due: 2022-01-18
-sr-interval: 16
-sr-ease: 183
+sr-due: 2022-01-28
+sr-interval: 10
+sr-ease: 163
 ---
 
 #### [[Humans have decided to reject an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - answers [[What is the cognitive effect of living in an unjust world]]
-- counters [[Humans have decided to reject an unjust world]]
+- counters [[Humans have decided to take advantage of an unjust world]]
 
 - [[Evolutionary Psychology]] 
     - [[Our brain will do anything it can to protect itself]]

@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-01-18
-sr-interval: 41
+sr-due: 2022-04-12
+sr-interval: 84
 sr-ease: 210
 ---
 
@@ -29,7 +29,7 @@ sr-ease: 210
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[neurodiversity]], [[human advancement]]

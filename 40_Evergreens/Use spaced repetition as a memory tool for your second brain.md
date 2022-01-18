@@ -3,8 +3,8 @@ created: 2021-11-18
 aliases:
   - null
 tags: created/evergreen/2021/11/18, review, node/evergreen/technique 
-sr-due: 2022-01-18
-sr-interval: 27
+sr-due: 2022-03-07
+sr-interval: 48
 sr-ease: 179
 ---
 
@@ -12,17 +12,17 @@ sr-ease: 179
 
 [[Nodes in the second brain are an abstraction of our first brain]], but there are some key differences, one of them being the way that we memorize things.
 We remember things by making connections to them, whether that be an acronym, a song, or just remembering something in sequence,
-^[this is how we memorize long passages, we are connecting one sequence to the next]
+^[this is how we memorize long passages, we are connecting one sequence to the next: [[How memory works]]]
 we are making connections that allow us to remember that thing.
 Sometimes these connections can be made almost completely autonomously, but in the [[second brain]] we often have to make these connections manually.
 This introduces [[friction]], which is in direct contradiction to the [[philosophy]] of [[My TIM]]:
 [[Your second brain should be frictionless access to a curated base of knowledge]]
 
-[[Spaced repetition]] can help alleviate this friction, by helping our first brain make connections in our second brain.
+[[Spaced repetition]] can help alleviate this [[friction]], by helping our first [[brain]] make connections in our second brain.
 %%^[For me, this is especially helpful because [[Neurodivergent people cannot stop their brain from solving problems]].] #TO/PROGRAM aside for publish%%
 Because this process is fruitful for creating connections it makes it vital in creating a strong [[second brain]], because [[Densely linked webs of thought provide intuitive access to knowledge]]. 
 
-While the main aspect of memory is the connections we make, any time we spend in notes and work with the note content will help us remember it. Additionally, if the note content is confusing or is laid out unintuitively, we may become more focused on that than the actual thought. This is why I also [[use spaced repetition to weed your digital garden]].
+While the main aspect of [[memory]] is the connections we make, any time we spend in notes and work with the note content will help us remember it. Additionally, if the note content is confusing or is laid out unintuitively, we may become more focused on that than the actual thought. This is why I also [[use spaced repetition to weed your digital garden]].
 
 
 ### <hr class="footnote"/>

@@ -3,9 +3,9 @@ created: 2022-01-02T09:00:06
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-18
-sr-interval: 3
-sr-ease: 190
+sr-due: 2022-01-20
+sr-interval: 2
+sr-ease: 170
 ---
 
 #### [[Meditation helps us regulate our hormonal environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

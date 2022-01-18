@@ -3,9 +3,9 @@ created: 2022-01-01T02:36:24
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-01-18
+sr-due: 2022-01-24
 sr-interval: 6
-sr-ease: 150
+sr-ease: 130
 ---
 
 #### [[Meditation helps us detach negative attachments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,10 +18,16 @@ which ultimately lead to an overactive [[ego]] that prevents use from processing
 ^[[[Our ego is our subconscious defense of our self]]]
 We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and directly accessing our [[unconscious]].
 
+See the [[unconscious]] [[mind]] preventing our [[conscious]] mind from accessing those memories directly
+by constantly putting up thoughts to prevent them from sinking in.
+ %%#TO/PROGRAM figcaption%%
+
 ![[Pasted image 20211231162422.png]]
 ^[[[notes_Intro to Mantra Practice]]]
 
-See the [[unconscious]] [[mind]] preventing our [[conscious]] mind from accessing those memories directly. %%#TO/PROGRAM figcaption%%
+Once the mind is calm, these thoughts can make their way through
+![[Pasted image 20211231162555.png]]
+
 
 This isn't an easy process, as the [[ego]] will be trying it's hardest to protect it's current state.
 This process requires introspection and [[observation]] of your [[mind-body complex]] and it's processes.
@@ -36,7 +42,7 @@ so it is important to understand
  
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[emotions]], [[meditation]], [[mindfulness]], [[human experience]]

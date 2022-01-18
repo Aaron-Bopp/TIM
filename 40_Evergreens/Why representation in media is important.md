@@ -3,9 +3,9 @@ created: 2022-01-17T16:47:20
 aliases:
   - null
 tags: created/evergreen/2022/01/17, review, node/evergreen/claim
-sr-due: 2022-01-17
+sr-due: 2022-01-19
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Why representation in media is important]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

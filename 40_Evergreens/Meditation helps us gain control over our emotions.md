@@ -3,9 +3,9 @@ created: 2022-01-01T02:08:12
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-01-18
+sr-due: 2022-01-19
 sr-interval: 1
-sr-ease: 150
+sr-ease: 130
 ---
 
 #### [[Meditation helps us gain control over our emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,6 +17,7 @@ The reason that certain [[meditation]] styles work for different people lies in 
 If your [[limbic system]] is failing to regulate your [[emotions]], [[meditation]] can help your [[Frontal Lobe|Frontal Lobes]] to gain [[control]].
 ^[[[notes_Science of Meditation]]]
 
+- [[Meditation helps us detach negative attachments]]
 - [[Meditation helps us regulate our nervous system]]
 - [[Meditation helps us regulate our hormonal environment]]
 
