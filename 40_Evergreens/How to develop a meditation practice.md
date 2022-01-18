@@ -24,9 +24,7 @@ and it will shape your view of the world.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 18, 2022*
 
 **Topics**:: [[meditation]], [[self-improvement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

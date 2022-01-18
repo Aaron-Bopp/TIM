@@ -33,10 +33,11 @@ Without the knowledge of [[The fragility of nodes in a second brain|which notes 
 - [[Densely linked webs of thought provide intuitive access to knowledge]]
 
 Some of this curation can be offloaded to [[AI]]: [[A totally integrated machine should automate as much of the thinking process as possible]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN
-*edited `=this.file.mtime`*
+*edited January 18, 2022*
 
 **Topics**:: [[second brain]], [[evergreen notes]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
