@@ -31,7 +31,7 @@ tags: created/source/2021/12/30, node/source/notes
 	- [[Samskara]] are anxiety generating machines 
 - Anxiety flourishes due to our inability to face the uncertainty of the future.
 	- anxiety = uncertainty/confidence
-	- [[Confidence]] means you are more capable of handling diverse outcomes
+	- [[confidence]] means you are more capable of handling diverse outcomes
 		- [[The more mistakes you've fixed the more bad decisions you can afford]]
 - We can deal with [[anxiety]] by 
 	1. Bring our [[mind]] to the present and stop focusing on the future

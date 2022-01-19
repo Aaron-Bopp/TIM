@@ -59,7 +59,7 @@ source: https://www.youtube.com/watch?v=UUC8qF5iDag
 		- "just try it"
 		- "experience new things"
 ##### Competence comes from empathic mirroring
-- [[Confidence]] problems come from when [[parents]] can't mirror the child's emotional needs ^d7aec9
+- [[confidence]] problems come from when [[parents]] can't mirror the child's emotional needs ^d7aec9
 	- [[Attachment Theory]]
 
 ---

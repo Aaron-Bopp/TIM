@@ -16,7 +16,7 @@ The core features of this site are the [[bi-directional links]] and the graph vi
 
 # Stop blabbering, I just want to know how to do the cool thing in the notes app
 
-If you are already familiar with [[Obsidian (software)|Obsidian]] and want to see [[Templater|templates]] and [[Dataview]] scripts look in 20_Entry or 00_Meta\\Templates. I've surrounded them all in code fences, so you can see my exact syntax. Beware, certain things may not be up to date or work without a little fiddling, but feel free to message me on Discord if you want advice: [[203 Me#Contact Me]]
+If you are already familiar with [[Obsidian (software)|Obsidian]] and want to see [[Templater|templates]] and [[Dataview]] scripts look in 20_Entry or 00_Meta. I've surrounded them all in code fences, so you can see my exact syntax. Beware, certain things may not be up to date or work without a little fiddling, but feel free to message me on Discord if you want advice: [[203 Me#Contact Me]]
 
 
 ![[Obsidian (software)#My notes that are useful to Obsidian users]]

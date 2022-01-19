@@ -137,7 +137,7 @@ type:
           - did not have to skill to get bills through [[congress]]
           - special interests took advantage
                - approval ratings fell as gas prices rose
-          - Crisis of [[Confidence]]
+          - Crisis of [[confidence]]
                - blamed [[America|americans]]
      - [[Foreign policy]]
           - camp dabid accords

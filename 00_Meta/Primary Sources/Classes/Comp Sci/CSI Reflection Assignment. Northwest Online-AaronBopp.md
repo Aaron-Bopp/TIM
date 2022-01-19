@@ -14,7 +14,7 @@
 
 **1. Identify two of your strengths from your student report. (2 points)**
 
-a.  My Verbal and Writing [[Confidence]]
+a.  My Verbal and Writing [[confidence]]
 
 b.  My Career Plans
 
