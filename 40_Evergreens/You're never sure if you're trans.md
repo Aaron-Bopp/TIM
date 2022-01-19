@@ -13,9 +13,10 @@ sr-ease: 290
 > <cite>[[Aaron Bopp]]</cite>
 
 #TO/PONDER what is this note supposed to be
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/WEED  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-actualization]], [[self-love]], [[self-hate]], [[my emotions]]

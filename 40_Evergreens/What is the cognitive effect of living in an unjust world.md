@@ -18,19 +18,19 @@ sr-ease: 197
 %%What is the conclusion%%
 
 Possible Answers: 
-- answer [[Humans have decided to reject an unjust world]]
-- answer [[Faith is an abstraction of cognitive dissonance]]
-- answer [[Our brain will do anything it can to protect itself]]
-- answer [[Humans have decided to take advantage of an unjust world]]
-- answer [[Humans long to know what to do]]
-- answer [[Humans are addicted to believing]]
-- result [[Human's will find explanations for inexplainable things]]
-- result [[Human's have an inability to admit that they are wrong]]
-- result [[The injustice of endurance]]
-- result [[Stupid rules are made to be broken]]
-- result [[Humans try really hard to avoid understanding their mistakes]]
+-  [can answer:: [[Humans have decided to reject an unjust world]]]
+- [answer:: [[Faith is an abstraction of cognitive dissonance]]]
+- [answer:: [[Our brain will do anything it can to protect itself]]]
+- [answer:: [[Humans have decided to take advantage of an unjust world]]]
+- [answer:: [[Humans long to know what to do]]]
+- [answer:: [[Humans are addicted to believing]]]
+- [result:: [[Human's will find explanations for inexplainable things]]]
+- [result:: [[Human's have an inability to admit that they are wrong]]]
+- [result:: [[The injustice of endurance]]]
+- [result:: [[Stupid rules are made to be broken]]]
+- [result:: [[Humans try really hard to avoid understanding their mistakes]]]
 
-Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different forms:
+Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different 
 - [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else
     - This assumes that people will act rationally and want to reduce their own [[suffering]], but that isn't always the case: [[Sadness is enlightenment and happiness is delusion]] 
 %%I don't think this is the answer. Doing good feels more effective than reducing harm, but trying to do good and failing can increase harm. What is the logical end of these beliefs?%%

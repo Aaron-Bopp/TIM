@@ -1,0 +1,26 @@
+---
+created: 2022-01-19T17:34:28 
+aliases:
+  - null
+tags: created/evergreen/2022/01/19, review, node/project 
+sr-due: 2022-01-19
+sr-interval: 1
+sr-ease: 230
+---
+
+#### [[Defined relationships are superior to contextual backlinks]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+![[articles_Backlinking Is Not Very Useful -- Often Even Harmful • Zettelkasten Method#273521060]]
+[[Backlinks]] can easily become diluted, and I have found this to be the case in my vault. There are multiple reasons for this. 
+1. **The backlinks panel does not filter out notes that are linked to from the current note**
+The original point of contextual backlinks was to make two way links unneeded, but to write prose that actually makes sense, forward linking with defined context is important if these two concepts are related. Once the note is forward linked, the backlink is much less important
+1. **Links are often created without context**
+This is something that will be specific to certain kinds of notes and note takers, but for me, defining a [[evergreen notes]] usually starts with a list of related notes. I have found creating these lists a the active recall portion of [[spaced repetition]], and so I do not want to go away from this habit. Unfortunately this means that most backlinks the only content provided is a list marker, which makes the context no better than the link name
+1. **Link context is often too verbose**
+I usually link contexts at the end or beginning of paragraphs, which means that in order to understand the context I need to read multiple sentences, or possibly even multiple paragraphs. I can define these relationships more simply, but not within the prose of the note
+
+Note that these are mainly true for [[evergreen notes]] with declarative titles. For [[topic note]]s, this is a much different story
+
+How can we improve on this? My answer is defined relationships
+
+
+
