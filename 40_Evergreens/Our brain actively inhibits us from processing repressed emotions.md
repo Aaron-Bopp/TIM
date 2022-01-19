@@ -25,7 +25,7 @@ but [[meditation]] allows us to gain [[control]] over our [[subconscious]] and [
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING 
-*edited `=this.file.mtime`*
+*edited January 18, 2022*
 
 **Topics**:: [[brain]], [[physiology]], [[Neuroscience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

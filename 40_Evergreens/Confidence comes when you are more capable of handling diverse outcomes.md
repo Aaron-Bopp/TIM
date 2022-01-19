@@ -19,7 +19,7 @@ This aspect of [[confidence]] makes it the counter to [[anxiety]].  [[Anxiety pr
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 18, 2022*
 
 **Topics**:: [[confidence]], [[anxiety]], [[human experience]], [[Life principles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

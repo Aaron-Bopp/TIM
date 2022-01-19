@@ -24,7 +24,7 @@ This is fundamentally a survival system: [[Human's have an inability to admit th
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
-*edited `=this.file.mtime`*
+*edited January 18, 2022*
 
 **Topics**:: [[subconscious]], [[self]], [[human survival]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

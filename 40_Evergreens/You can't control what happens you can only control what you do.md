@@ -22,7 +22,7 @@ Success comes from focusing on actions not outcomes
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 18, 2022*
 
 **Topics**:: [[responsibility]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
