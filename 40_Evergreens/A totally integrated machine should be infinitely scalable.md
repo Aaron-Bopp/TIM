@@ -3,8 +3,8 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-01-19
-sr-interval: 9
+sr-due: 2022-02-05
+sr-interval: 17
 sr-ease: 190
 ---
 
@@ -15,20 +15,18 @@ If a [[TIM]] is to truly augment our capability [[learning|to learn]], it must b
 2. [[evergreen notes]] are the methodology through which we organize and grow our knowledge
 3. [[Obsidian (software)]] is the conduit for doing this with the least [[friction]] possible
 
-- [[We learn by transforming information into understanding]]
-	- [[A totally integrated machine should automate as much of the thinking process as possible]]
-- [[Densely linked webs of thought provide intuitive access to knowledge]]
-	- [[Webs of thought provide heterarchical structure]]
 - [[Evergreen notes organize knowledge so that it can grow]]
+	- [[We learn by transforming information into understanding]]
+		- [[A totally integrated machine should automate as much of the thinking process as possible]]
+	- [[Densely linked webs of thought provide intuitive access to knowledge]]
+		- [[Webs of thought provide heterarchical structure]]
 - [[A second brain should be an extension of your thought]]
-- [[Your second brain should be an inspirational hub of creativity]]
-- [[Your second brain should be frictionless access to a curated base of knowledge]]
-- [[How memory works]]
+	- [[How memory works]]
 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My TIM]], [[second brain]]

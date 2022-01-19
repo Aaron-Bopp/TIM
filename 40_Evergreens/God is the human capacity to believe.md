@@ -3,14 +3,15 @@ created: 2022-01-07T22:15:39
 aliases:
   - null
 tags: created/evergreen/2022/01/07, review, node/evergreen/claim
-sr-due: 2022-01-19
-sr-interval: 2
-sr-ease: 190
+sr-due: 2022-01-20
+sr-interval: 1
+sr-ease: 170
 ---
 
 #### [[God is the human capacity to believe]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 What is the nature of god? God is a social construction. God is our [[understanding]] of the things we cannot understand. 
+#TO/TEND/DEOBFUSCATE 
 [[Humans are addicted to believing]]
 [[Humans are drawn to the unknown and repelled by the known]]
 [[Humans transfer their wonder into creativity]]

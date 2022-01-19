@@ -2,23 +2,30 @@
 created: 2022-01-17T16:47:20 
 aliases:
   - null
-tags: created/evergreen/2022/01/17, review, node/evergreen/claim
-sr-due: 2022-01-19
+tags: created/evergreen/2022/01/17, review, node/evergreen/question 
+sr-due: 2022-01-20
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
-#### [[Why representation in media is important]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
+#### [[Why representation in media is important]] `$=customjs.dv_funcs.evergreenheader(dv, this)`
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UZSwDZ72Lp8?start=2820" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> I had a choice to either move with [[fear]] or move [[love]]
+>
+> <cite>[[Lilly Singh]]</cite>
+
+You don't need to be able to see yourself in everything but everybody should be able to see themselves in something.
+
+- [[To those with privilege, losing it feels like oppression]]
+- [[You're never sure if you're trans]]
+- [[Self-hatred is born out of dissonance between self-image and self-perception]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[coming out]], [[Queer Community]], [[marginalization]]
+**Topics**:: [[coming out]], [[Queer Community]], [[marginalization]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

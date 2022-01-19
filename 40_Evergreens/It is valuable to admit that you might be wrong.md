@@ -1,20 +1,15 @@
 ---
-sr-due: 2022-01-23
-sr-interval: 5
-sr-ease: 170
----
-
----
 created: 2022-01-02T20:47:32 
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-18
-sr-interval: 3
+sr-due: 2022-01-26
+sr-interval: 7
 sr-ease: 170
 ---
 
 #### [[It is valuable to admit that you might be wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UvYcunuF3Eo?start=6711" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 

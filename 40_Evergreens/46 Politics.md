@@ -31,7 +31,7 @@
 	- [[capitalism]]
 		- [[Anti-government stances lead to economic crashes]]
 		- [[Wealth Inequality creates a need for change]]
-		- [[Capitalism necessitates class division]]
+		- [[Capitalism runs on class division]]
 		- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 	- [[Communism]]
 		- [[American's are scared of the word communism not it's meaning]]

@@ -3,7 +3,7 @@ created: 2022-01-02T12:12:01
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-19
+sr-due: 2022-01-20
 sr-interval: 1
 sr-ease: 130
 ---
@@ -19,8 +19,7 @@ sr-ease: 130
 - [[Nodes in the second brain are an abstraction of our first brain]]
 - [[There is a difference between thinking and creating]]
 - [[Evergreen notes organize knowledge so that it can grow]]
-
- 
+- [[Writing is a catalyst of understanding]]
 
 ### <hr class="footnote"/>
 
@@ -29,5 +28,3 @@ sr-ease: 130
 
 **Topics**:: [[knowledge]], [[information]], [[knowledge work]], [[learning]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

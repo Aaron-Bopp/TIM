@@ -3,8 +3,8 @@ created: 2022-01-01T19:18:34
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-01-19
-sr-interval: 2
+sr-due: 2022-01-22
+sr-interval: 3
 sr-ease: 130
 ---
 
@@ -23,7 +23,7 @@ Many task requires thought, remembering how you did something before, understand
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge work]], 
