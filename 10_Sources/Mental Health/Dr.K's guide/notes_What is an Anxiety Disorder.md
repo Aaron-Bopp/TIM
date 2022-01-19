@@ -17,7 +17,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[SAD]]
 - [[Separation Anxiety Disorder]]
 ## Notes
-- [[Anxiety Disorder]] is when anxiety impairs our function
+- [[Anxiety]] [[Disorder]] is when anxiety impairs our function
 	- Avoidance behaviors
 	- physiological effects
 	- mental effects 

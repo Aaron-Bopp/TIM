@@ -3,15 +3,15 @@ created: 2022-01-02T12:06:58
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-19
-sr-interval: 4
+sr-due: 2022-01-29
+sr-interval: 10
 sr-ease: 210
 ---
 
 #### [[Humans try really hard to avoid understanding their mistakes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 We answer to our urges first and our [[morality]] second
-- [[What is the cognitive effect of living in an unjust world]]
+- answers [[What is the cognitive effect of living in an unjust world]]
 - cause [[Humans are a product of evolution]]
 - causes [[Our ego is our subconscious defense of our self]]
 - causes [[Rationalizations are defense-mechanisms against strong emotions]]

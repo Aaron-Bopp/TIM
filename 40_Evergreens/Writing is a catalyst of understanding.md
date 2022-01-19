@@ -3,8 +3,8 @@ created: 2022-01-04T16:12:39
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-01-19
-sr-interval: 4
+sr-due: 2022-01-27
+sr-interval: 8
 sr-ease: 170
 ---
 
@@ -24,7 +24,7 @@ Writing requires you to engage with the content on a higher level by introducing
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[understanding]]
+**Topics**:: [[understanding]], [[learning]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

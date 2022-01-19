@@ -15,6 +15,10 @@ sr-ease: 230
 
 It's not about being successful, it's about doing what you can do to get close to [[success]].
 
+- [[Be the change you want to see in the world]]
+- [[You can't control what happens you can only control what you do]]
+- [[Right kinds of thoughts lead to right kinds of actions]] 
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

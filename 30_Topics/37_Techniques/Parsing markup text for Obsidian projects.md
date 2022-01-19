@@ -3,12 +3,12 @@ created: 2021-11-16
 aliases:
   - null
 tags: created/evergreen/2021/11/16, review, node/evergreen/technique,
-sr-due: 2022-01-19
-sr-interval: 20
+sr-due: 2022-03-02
+sr-interval: 42
 sr-ease: 210
 ---
 
-# [[Parsing markup text for Obsidian projects]] 
+#### [[Parsing markup text for Obsidian projects]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/WRITE  about idiosyncrasies of [[Obsidian (software)]] [[markup]]
 - [[Basic tools for working with plaintext]]
@@ -18,16 +18,8 @@ sr-ease: 210
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Obsidian (software)|Obsidian]], [[programming]], [[TTRPG]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%

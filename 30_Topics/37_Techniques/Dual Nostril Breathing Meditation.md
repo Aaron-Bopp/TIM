@@ -1,9 +1,9 @@
 ---
 created: 2021-05-31
 tags: created/evergreen/2021/05/31, review, node/evergreen/technique
-sr-due: 2022-01-19
-sr-interval: 26
-sr-ease: 250
+sr-due: 2022-02-02
+sr-interval: 14
+sr-ease: 230
 ---
 
 #### [[Dual Nostril Breathing Meditation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

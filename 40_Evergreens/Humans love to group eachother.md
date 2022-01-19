@@ -3,8 +3,8 @@ created: 2021-10-19
 aliases:
   - humans love for grouping eachother
 tags: created/evergreen/2021/10/19, review, node/evergreen/claim
-sr-due: 2022-01-19
-sr-interval: 15
+sr-due: 2022-02-21
+sr-interval: 33
 sr-ease: 199
 ---
 
@@ -12,13 +12,14 @@ sr-ease: 199
 
 One reason this might be is because of [[natural selection|kin selection]].
 
-Possible mechanism behind [[racism]], [[homophobia]] [[partisanship]]
+Possible mechanism behind [[racism]], [[homophobia]], [[partisanship]]
 - [[Humans are a product of evolution]]
 - [[Human's have an inability to admit that they are wrong]]
 - [[Human's will find explanations for inexplainable things]]
 - [[We will evolve when we make learning as easy as thinking]]
 - [[Rise of Modern Conservatism]]
 - [[Humans yearn for a tool with no blood on it]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
@@ -26,5 +27,3 @@ Possible mechanism behind [[racism]], [[homophobia]] [[partisanship]]
 
 **Topics**:: [[Evolutionary Psychology]], [[Behavioral Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

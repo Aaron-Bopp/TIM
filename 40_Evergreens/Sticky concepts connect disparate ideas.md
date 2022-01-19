@@ -3,8 +3,8 @@ created: 2022-01-05T16:41:14
 aliases:
   - null
 tags: created/evergreen/2022/01/05, review, node/evergreen/claim
-sr-due: 2022-01-19
-sr-interval: 4
+sr-due: 2022-01-29
+sr-interval: 10
 sr-ease: 190
 ---
 
@@ -16,6 +16,8 @@ sr-ease: 190
 - [[Writing is a catalyst of understanding]]
 - [[There is a difference between thinking and creating]]
 - [[Nodes in the second brain are an abstraction of our first brain]]
+- [[Writing is a catalyst of understanding]]
+- [[How memory works]]
  
 
 ### <hr class="footnote"/>
