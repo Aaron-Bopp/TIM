@@ -10,6 +10,10 @@ sr-ease: 170
 
 #### [[You can't control what happens you can only control what you do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Success comes from focusing on actions not outcomes
+[[Motivation]] and obsession are indistinguishable to an outside perspective because motivation is just focusing on task until it's completion. Because [[Right kinds of thoughts lead to right kinds of actions]], this means keeping one thought in our mind until it becomes real, or [[manifestation]]
+
+- [[Self-belief is fundamental to good karma]]
 - [[Accepting responsibility is not only about your actions]]
 - [[Be the change you want to see in the world]]
 - [[Purpose is derived from within, duty is derived from without]]

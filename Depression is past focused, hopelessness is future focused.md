@@ -8,10 +8,11 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[There is a difference between depression and hopelessness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Depression is past focused, hopelessness is future focused]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+[[Congruent Depression]] comes from observing your life up to this point and being disappointed. [[hopelessness]] is giving up on your own ability to change.
 
- 
+- [[Hope is not optimism it is a practice for producing change]]
 
 ### <hr class="footnote"/>
 
