@@ -14,7 +14,7 @@ As you are trying to deal with your [[anxiety]] you may start removing many perc
 
 Discovering what deeper mechanism is behind your anxiety can be difficult task, for many it takes years of [[self-actualization|introspection]]. 
  
- ##### Cause:: repressed identity
+ ##### Cause:: [[repressed]] identity
  
 %%
 #TO/TEND/REFACTOR these notes [[Your anxiety knows your insecurities better than you do#Cause repressed identity]], [[We value our biggest insecurities because they protect us from the biggest threats]]

@@ -15,19 +15,15 @@ sr-ease: 270
 
 [[Rationalizations are defense-mechanisms against strong emotions]], and our [[ego]] is the amalgamation of those [[defense-mechanisms]], ready to activate at anytime. If the trigger is strong enough, we can completely dissolve into our ego, lose connection to our true [[self]], and fallback to whatever [[coping-mechanisms]] we have developed without a chance to intercept and change them.
 
-This is because [[The brain lodges emotional reactions in our unconscious memory]]. These [[emotions]] can then effect our rational [[mind]] and cause us to find [[rationalizations]] that protect our self. 
-These [[rationalizations]] are fueled by your [[emotions]], which are then pushed down by your [[rationalizations]]. 
-This creates the [[ego]], which is the sense of "I" that we compare our experiences to.
-^[You can see how this can lead to [[Self-hatred is born out of dissonance between self-image and self-perception]] as our [[ego]] pushes our [[self-perception]] more and more out of line with our [[self-image]]]
-
-
- %%[[How I process repressed emotions]]%%
-
+This is fundamentally a survival system: [[Human's have an inability to admit that they are wrong]], but it is overactive because [[Our brain will do anything it can to protect itself]]
 [[Humans are primarily irrational, illogical, emotional beings]], is the [[ego]] just a amalgamation of our [[cognitive dissonance]]? and [[Is cognitive dissonance the reason for harmful behaviors]]?
+- [[Meditation helps us gain control over our emotions]]
+
+
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[subconscious]], [[self]], [[human survival]], [[human experience]]

@@ -10,11 +10,11 @@ sr-ease: 130
 
 #### [[Meditation helps us detach negative attachments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[The brain lodges emotional reactions in our unconscious memory]] can lead to a variety of problems like carrying [[childhood]] [[trauma]] into adulthood,
+[[Our brain actively inhibits us from processing repressed emotions]] can lead to a variety of problems like carrying [[childhood]] [[trauma]] into adulthood,
 ^[[[We carry our childhood wounds into adulthood]]]
 or being overly logical,
 ^[[[Rationalizations are defense-mechanisms against strong emotions]]]
-which ultimately lead to an overactive [[ego]] that prevents use from processing our the repressed [[emotions]].
+which ultimately lead to an overactive [[ego]] that prevents use from processing our the [[repressed]] [[emotions]].
 ^[[[Our ego is our subconscious defense of our self]]]
 We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and directly accessing our [[unconscious]].
 

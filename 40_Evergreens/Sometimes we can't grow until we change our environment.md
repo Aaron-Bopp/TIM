@@ -24,7 +24,7 @@ Especially if you are finding yourself constantly making excuses for other peopl
 [[Deconstructing your faith is like climbing through a jungle canopy]] reflects on this concept of stepping back to gain [[objectivity]] in relation to [[Deconstruction (Christianity)]]. 
 
 If there isn't anything in your physical environment, it could be your mental environment. 
-There may be repressed [[trauma]] or just strong childhood emotions that is bringing you down 
+There may be [[repressed|[[repress]]ed]] [[trauma]] or just strong childhood emotions that is bringing you down 
 ^[[[We carry our childhood wounds into adulthood]]]
 [[It's always worth it to work through trauma]],
 but it can involve of a lot of very difficult situations and feelings because 

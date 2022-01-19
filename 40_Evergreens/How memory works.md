@@ -10,7 +10,7 @@ sr-ease: 210
 
 #### [[How memory works]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[The brain lodges emotional reactions in our unconscious memory]]
+[[Our brain actively inhibits us from processing repressed emotions]]
 
 #TO/EXPLORE/RESEARCH Do we even remember something before we understand it?
 #TO/DO/FIND studying video

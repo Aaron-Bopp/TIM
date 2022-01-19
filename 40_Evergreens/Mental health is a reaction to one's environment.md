@@ -15,7 +15,7 @@ our chemical environment (what is going into the body, and what is the brain pro
 and our emotional environment (how our [[mind]] is reacting to our physical and chemical environments).
 Whether through chemical imbalances 
 ^[[[ADHD]], [[gender dysphoria]], [[depression]]]
-or [[reppressed]] [[emotions]] 
+or [[repressed]] [[emotions]] 
 ^[[[Insecure material conditions increase cognitive load and reduce outcomes]]]
 it makes sense that these internal stimuli our mental state would reflect our environment,
 but sometimes external stimuli like societal structure 

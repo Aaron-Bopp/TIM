@@ -12,7 +12,7 @@ sr-ease: 210
 
 This is because of [[How memory works]],
 [[Negative influences impact us more than positive influences]],
-and [[The brain lodges emotional reactions in our unconscious memory]].
+and [[Our brain actively inhibits us from processing repressed emotions]].
 This means the [[childhood]] is a time where we can form experience that shape the rest of our life:
 [[We carry our childhood wounds into adulthood]]
 

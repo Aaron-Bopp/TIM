@@ -8,7 +8,9 @@ sr-interval: 6
 sr-ease: 210
 ---
 
-#### [[The brain lodges emotional reactions in our unconscious memory]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Our brain actively inhibits us from processing repressed emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/WRITE how the brain lodges emotional reactions in our [[unconscious]] memory
 
 The [[Association Cortices]] are what make the attachments that we use to survive
 ^[[[Humans are a product of evolution]]]
@@ -22,7 +24,7 @@ but [[meditation]] allows us to gain [[control]] over our [[subconscious]] and [
 - enables [[We carry our childhood wounds into adulthood]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[brain]], [[physiology]], [[Neuroscience]]
