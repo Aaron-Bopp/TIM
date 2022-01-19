@@ -1,6 +1,6 @@
 ---
 created: 2021-06-15
-tags: created/evergreen/2021/06/15, review, node/evergreen/claim
+tags: created/evergreen/2021/06/15, review, node/evergreen/process
 sr-due: 2022-02-03
 sr-interval: 35
 sr-ease: 230
@@ -15,7 +15,7 @@ With enough practice, you'll be able to tell if your [[self]]-talk is coming fro
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-image]], [[transgender]], [[self-love]]

@@ -37,7 +37,7 @@ It can make it hard to accept knew information because of this and because [[We 
 For more see [[Humans are primarily irrational, illogical, emotional beings]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]

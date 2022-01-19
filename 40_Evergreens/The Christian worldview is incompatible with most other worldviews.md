@@ -35,8 +35,8 @@ workspace: Belief GvB PvS
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**::  [[Christianity]], [[worldview]], [[belief systems]], [[human experience]], [[inter-personal communication]], [[religion]], [[belief]]
+**Topics**::  [[Christianity]], [[worldview]], [[belief systems]], [[human experience]], [[inter-personal communication]], [[religion]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -31,7 +31,7 @@ Not every modern Christian practice is bad: [[Faith can be a useful tool for gro
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING  
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[Evangelicalism]], [[capitalism]]
