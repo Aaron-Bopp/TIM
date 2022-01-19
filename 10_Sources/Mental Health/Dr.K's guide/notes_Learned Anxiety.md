@@ -22,8 +22,8 @@ tags: created/source/2021/12/30, node/source/notes
 
 ## Notes
 - [[anxiety]] is strange monolithic term
-- People are anxious about different things
-- Our anxiety is unique to us
+	- People are anxious about different things
+	- Our anxiety is unique to us
 - Manifestation and roots of anxiety are different
 	- once source of anxiety can lead to thought loop or it can lead to a [[panic attacks]]
 - [[Samskara]] wire our brains to worry about particular things
@@ -37,8 +37,10 @@ tags: created/source/2021/12/30, node/source/notes
 	- our [[brain]] wires for very specific situations
 	- strong emotional reactions can rewire our anxiety around new events
 		- situation:: you find out your SO has been lying to you for years 
-- [[Samskara]]'s are coloquially known as baggage
-- [[Samskara]] can build up over time
-	- dread builds up over time which makes the suffering even more impactful
-- [[Vedic Psychology]] sometimes suggests that [[Samskara]] come from past lives
-	- Processing this [[trauma]] that we have never experienced can lead to the same benefits of 
+	- [[Samskara]]'s are colloquially known as baggage
+	- [[Samskara]] can build up over time
+		- dread builds up over time which makes the suffering even more impactful
+	- [[Vedic Psychology]] sometimes suggests that [[Samskara]] come from past lives
+		- Processing this [[trauma]] that we have never experienced can lead to the same benefits of processing real [[trauma]]
+
+next:: [[notes_Tension in the Mind]]

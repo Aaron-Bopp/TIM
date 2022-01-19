@@ -20,3 +20,25 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Tachycardia]]
 - [[GI]]
 - [[Agoraphobia]]
+
+## Notes
+- Do you randomly feel a sense of [[impending doom]]
+- [[panic attacks]] can come up in minutes and last hours
+- Difference between colloquial [[panic attacks]] and [[Panic Disorder]] panic attacks
+	- symptoms
+		- [[Palpitations]]
+		- sweating
+		- trembling
+		- shortness of breath
+		- dizzy 
+		- cold or hot
+		- numbness or tingling
+		- [[derealization]]
+		- [[Depersonalization]]
+		- fear of losing control
+			- manifests in [[Agoraphobia]]
+		- increased [[heart rate]] - [[Tachycardia]]
+	- [[panic attacks]] can very in frequency
+-  
+
+next:: [[notes_Rebound Anxiety]]

@@ -11,6 +11,8 @@ tags: created/topic/2021/10/19, node/topic/term
 
  Adrenaline will hit in seconds and last for minutes after it allows for fast action and hyper awareness of the situation [^1]
 
+ Released by the [[Sympathetic Nervous System]]
+
 **See**::: [[Neuroscience]], [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
