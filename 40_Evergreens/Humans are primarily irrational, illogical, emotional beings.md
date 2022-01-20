@@ -56,7 +56,7 @@ Across the hill you find a bush! Aha! If we had walked the other way, the bush w
     - maintaining unrealistic expectations
     - engaging in irresponsible conduct such as problem intoxication
     - disorganization
-    - falling victim to confidence tricks
+    - falling victim to [[confidence]] tricks
 
 These more contemporary normative conceptions of what constitutes a manifestation of irrationality are difficult to demonstrate empirically because it is not clear by whose standards we are to judge the behavior rational or irrational. [^5]
 

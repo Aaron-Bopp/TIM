@@ -23,7 +23,7 @@ During [[childhood]], it is incredibly important that the [[parents]] model [[se
 > relating this to Eriksons theory of Psychodevelopment: stage 3 initiative v shame and guilt. In this stage kids want to start to do things on their own like tie their shoes, pick out their own outfits etc. and if allowed to the Child will develop a sense of autonomy and be way
 ^[[https://twitter.com/cans0fsoup/status/1452400024848158725?ref_src=twsrc%5Etfw](https://twitter.com/cans0fsoup/status/1452400024848158725?ref_src=twsrc%5Etfw)]
 
-Lack of this can lead to confidence problems because confidence comes from empathic mirroring [^1] See [[Attachment Theory]]
+Lack of this can lead to [[confidence]] problems because [[confidence]] comes from empathic mirroring [^1] See [[Attachment Theory]]
 
 Coming from an unloving home makes it hard to take in kindness or understand that you're lovable because that brings up the grief of not being loved in childhood. [^2]
 

@@ -2,9 +2,9 @@
 created: 2021-06-15
 edited: 
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-01-20
-sr-interval: 16
-sr-ease: 190
+sr-due: 2022-01-30
+sr-interval: 10
+sr-ease: 170
 ---
 
 #### [[Anxiety should be a tool at your disposal not an impedance to your life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,7 +18,7 @@ see:: [[Neurodiverse people can use their brain to their advantage]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/GROWING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[mental health]], [[mental illness]], [[social anxiety]]

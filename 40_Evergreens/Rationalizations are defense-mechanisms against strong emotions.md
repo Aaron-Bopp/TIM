@@ -4,25 +4,30 @@ edited:
 tags: created/evergreen/2021/08/11, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-20
-sr-interval: 19
-sr-ease: 194
+sr-due: 2022-01-31
+sr-interval: 11
+sr-ease: 174
 ---
 
 #### [[Rationalizations are defense-mechanisms against strong emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-People assume that if they are not being emotional then they are being rational, and that if someone is being emotional then they are being irrational. If are not able to feel your [[emotions]] it is actually more likely that you are being irrational, as you are not able to account for you emotions.
+People assume that if they are not being emotional then they are being rational, and that if someone is being emotional then they are being irrational.
+If you are unable to feel your [[emotions]],
+it is actually more likely that you are being irrational,
+as you are not able to account for you emotions and they may be [[subconscious]]ly affecting you.
 ^[[[video_How logical thinking leads to irrationality]]]
 
 This is because [[Our brain actively inhibits us from processing repressed emotions]]. These [[emotions]] can then effect our rational [[mind]] and cause us to find [[rationalizations]] that protect our self. 
 These [[rationalizations]] are fueled by your [[emotions]], which are then pushed down by your [[rationalizations]]. 
 This creates a [[feedback loop]] called [[Reciprocal inhibition]].
 ^[You can see how this can lead to [[Self-hatred is born out of dissonance between self-image and self-perception]] as our [[ego]] pushes our [[self-perception]] more and more out of line with our [[self-image]]]
-This can lead to [[Alexithymia]] or an overactive [[ego]]:
-[[Our ego is our subconscious defense of our self]]
+This can cause [[Alexithymia]],
+^[caused by::[[Overly interrogative parents can lead to alexithymic children]]]
+an overactive [[ego]], and 
+leads to:: [[Our ego is our subconscious defense of our self]]
 
-- shows [[Strong enough logic becomes belief]]
-- cause [[Overly interrogative parents can lead to alexithymic children]]
+In cases of pathology this
+leads to::[[Strong enough logic becomes belief]]
 
 ### <hr class="footnote"/>
 

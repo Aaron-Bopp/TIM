@@ -25,7 +25,7 @@ Our mind tends to deal with anxiety in four ways:
 	- we lose control of our life to [[anxiety]]
 3.  Remove uncertainty via reassurance
 	- leads to us to be dependent on other people
-	- reassurance does not necessarily lead to confidence
+	- reassurance does not necessarily lead to [[confidence]]
 		- if reassurance leads us to take the risk, then that can lead to [[confidence]]
 			- [[Confidence comes when you are more capable of handling diverse outcomes]] 
 4.  Fighting the anxiety
