@@ -2,15 +2,12 @@
 created: 2021-05-25
 edited: 
 tags: created/evergreen/2021/05/25, review, node/evergreen/technique
-sr-due: 2022-01-20
-sr-interval: 27
+sr-due: 2022-03-22
+sr-interval: 61
 sr-ease: 224
 ---
 
 #### [[Use Obsidian tags as temporal classifiers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-%%
-#TO/TEND/GRAFT should these headers be evergreens%%
 
 In [[Obsidian (software)|Obsidian]] tags are a piece of metadata that you can add to a note, [^1] and when clicked open a search box with the appropriate search query. You cannot add any markdown or metadata to them, which makes them much less powerful than notes, but they can still be very valuable in your [[knowledge management|knowledge management system]]. You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category.
 ^[[[Prioritize organization over categorization to avoid cognitive bias]]]
