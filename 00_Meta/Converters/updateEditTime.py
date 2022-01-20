@@ -30,10 +30,11 @@ def get_files_sizes_from_json():
 
 def update_edit_time(path, date):
     # update edit time
-    with open(path, 'r') as f:
+    with open(path, 'r', encoding="utf-8") as f:
         text = f.read()
-    text = re.sub(r'\*edited .*\*\n', f'*edited {date}*\n', text)
-    with open(path, 'w') as f:
+    text = re.sub(r'\*edited .*\*\n', f'*edited {date.strftime("%B %d, %Y")}*\n', text)
+    text = re.sub(r'edited: .*\n', f'edited: {date.strftime("%Y-%m-%d")}\n', text)
+    with open(path, 'w', encoding='utf-8') as f:  
         f.write(text)
 
 if __name__ == '__main__':
@@ -41,7 +42,7 @@ if __name__ == '__main__':
     file_sizes = get_files_sizes_from_json()
     current_file_sizes = get_files_sizes(directory)
     # get todays date in text
-    current_date = date.today().strftime("%B %d, %Y")
+    current_date = date.today()
     for current in current_file_sizes:
         if current not in file_sizes:
             update_edit_time(current, current_date)
