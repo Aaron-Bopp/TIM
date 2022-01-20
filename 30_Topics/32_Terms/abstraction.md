@@ -1,7 +1,7 @@
 ---
 created: 2022-01-15T17:50:52 
 aliases:
-  - null
+  - abstract
 tags: created/topic/2022/01/15, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
