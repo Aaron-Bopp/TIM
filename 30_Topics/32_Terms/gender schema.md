@@ -8,7 +8,7 @@ tags: created/topic/2021/10/03, node/topic/term
 
  schema that processes and organizes gender-linked associations [^1]
 
-**See**:: [[gender]], [[Behavioral Psychology]] 
+**See**:: [[gender]], [[Behavioral Psychology]], [[gender roles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

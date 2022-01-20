@@ -6,7 +6,7 @@ tags: created/topic/2021/10/23, node/topic/stub
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 
-**See**::
+**See**:: [[gender schema]], [[gender roles]], [[gender]], [[sexism]], [[gender segregation]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
