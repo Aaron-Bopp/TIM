@@ -17,7 +17,7 @@ sr-ease: 186
 
  Dysphoria can be any sense unease or generalized dissatisfaction with life but in [[transgender|trans]] people can develop into [[self-hate]], because [[Self-hatred is born out of dissonance between self-image and self-perception]].
  
- Various experiences of gender dysphoria:
+ Various experiences of [[gender dysphoria]]:
  - [[Gender Dysphoria is based in a intrinsic wrongness of self]]
  - [[A repressed identity creates a mistrust of self-love and self-esteem]]
 - [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
