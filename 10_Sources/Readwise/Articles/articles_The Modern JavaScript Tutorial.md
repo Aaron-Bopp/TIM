@@ -1,5 +1,6 @@
 ---
 created: 2021-11-29
+edited: 2021-11-29
 aliases:
   - "The Modern JavaScript Tutorial"
   - "The Modern JavaScript Tutorial by javascript.info"

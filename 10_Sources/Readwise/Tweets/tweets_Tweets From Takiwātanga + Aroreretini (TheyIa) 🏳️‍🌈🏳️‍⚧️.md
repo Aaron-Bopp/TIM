@@ -1,5 +1,6 @@
 ---
 created: 2021-11-23
+edited: 2021-11-23
 aliases:
   - "Tweets From Takiwātanga + Aroreretini (They/Ia) 🏳️‍🌈🏳️‍⚧️"
   - "Tweets From Takiwātanga + Aroreretini (They/Ia) 🏳️‍🌈🏳️‍⚧️ by @takiwatangakare on Twitter"

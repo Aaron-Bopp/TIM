@@ -1,5 +1,6 @@
 ---
 created: 2021-10-16
+edited: 2021-10-16
 aliases:
   - "Let’s Talk About the Cor..."
   - "Let’s Talk About the Cor... by @samdylanfinch on Twitter"

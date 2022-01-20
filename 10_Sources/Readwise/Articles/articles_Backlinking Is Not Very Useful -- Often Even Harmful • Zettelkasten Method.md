@@ -1,5 +1,6 @@
 ---
 created: 2022-01-19
+edited: 2022-01-19
 aliases:
   - "Backlinking Is Not Very Useful -- Often Even Harmful • Zettelkasten Method"
   - "Backlinking Is Not Very Useful -- Often Even Harmful • Zettelkasten Method by sascha"

@@ -1,5 +1,6 @@
 ---
 created: 2021-12-04
+edited: 2021-12-04
 aliases:
   - "Tweets From Zami Draws ADHD Comics ✨"
   - "Tweets From Zami Draws ADHD Comics ✨ by @ZamiArts on Twitter"

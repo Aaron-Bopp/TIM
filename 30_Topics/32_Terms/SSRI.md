@@ -1,5 +1,6 @@
 ---
 created: 2021-12-29 
+edited: 2021-12-29
 aliases:
   - Selective Serotonin Reuptake Inhibitor (SSRI)
   - Selective Serotonin Reuptake Inhibitor 

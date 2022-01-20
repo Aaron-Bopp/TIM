@@ -1,5 +1,6 @@
 ---
 created: 2021-07-21
+edited: 2021-07-21
 aliases:
   - introspection
 tags: created/topic/2021/07/21, node/topic/outline

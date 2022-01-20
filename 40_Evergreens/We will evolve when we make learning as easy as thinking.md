@@ -1,5 +1,6 @@
 ---
 created: 2021-11-15 
+edited: 2021-11-15
 aliases:
   - making learning as easy as thinking
 tags: created/evergreen/2021/11/15, review, node/evergreen/claim

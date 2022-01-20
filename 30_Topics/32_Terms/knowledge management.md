@@ -1,5 +1,6 @@
 ---
 created: 2021-07-21
+edited: 2021-07-21
 aliases:
   - PKM
   - personal knowledge system

@@ -1,5 +1,6 @@
 ---
 created: 2021-12-29 
+edited: 2021-12-29
 aliases:
   - Serotonin Norepinephrine Reuptake Inhibitor (SNRI)
   - Serotonin Norepinephrine Reuptake Inhibitor 

@@ -1,5 +1,6 @@
 ---
 created: 2022-01-15T17:50:52 
+edited: 2022-01-15
 aliases:
   - abstract
 tags: created/topic/2022/01/15, node/topic/term

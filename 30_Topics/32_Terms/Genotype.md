@@ -1,5 +1,6 @@
 ---
 created: 2022-01-15T20:44:28 
+edited: 2022-01-15
 aliases:
   - null
 tags: created/topic/2022/01/15, node/topic/term

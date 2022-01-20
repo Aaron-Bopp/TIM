@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "VSCodeVim/Vim: Vim for Visual Studio Code"
   - "VSCodeVim/Vim: Vim for Visual Studio Code by github.com"

@@ -1,5 +1,6 @@
 ---
 created: 2021-12-02
+edited: 2021-12-02
 aliases:
   - "Learn yaml in Y Minutes"
   - "Learn yaml in Y Minutes by learnxinyminutes.com"

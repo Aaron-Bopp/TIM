@@ -1,5 +1,6 @@
 ---
 created: 2022-01-10
+edited: 2022-01-10
 aliases:
   - "It’s Hard to Explain Jus..."
   - "It’s Hard to Explain Jus... by @LuxAlptraum on Twitter"

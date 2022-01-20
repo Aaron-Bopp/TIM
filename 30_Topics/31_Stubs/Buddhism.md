@@ -1,5 +1,6 @@
 ---
 created: 2021-07-05
+edited: 2021-07-05
 aliases:
   - Buddhist
 tags: created/topic/2021/07/05, node/topic/outline

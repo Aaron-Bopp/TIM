@@ -1,5 +1,6 @@
 ---
 created: 2021-11-10
+edited: 2021-11-10
 aliases:
   - "Every Week, I Post a Thr..."
   - "Every Week, I Post a Thr... by @stevemagness on Twitter"

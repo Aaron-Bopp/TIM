@@ -1,5 +1,6 @@
 ---
 created: 2021-11-18
+edited: 2021-11-18
 aliases:
   - "Various ways to include comments on your static site"
   - "Various ways to include comments on your static site by darekkay.com"

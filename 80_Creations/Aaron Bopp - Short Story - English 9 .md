@@ -66,7 +66,7 @@ When I awoke I was in a dark chamber, but there was a sliver of light at one end
 
 "Tell me," I said.
 
-> She sat there and seemed to be mulling it over in her mind. "Why should I tell you?"
+She sat there and seemed to be mulling it over in her mind. "Why should I tell you?"
 
 "I do not know who to trust, and I wish to know your side," I said. This was not quite true, but I did wish to hear what she had to say. It seemed I had been gone a long time and wanted to know more of the world. "Where did you meet Morinehtar?"
 

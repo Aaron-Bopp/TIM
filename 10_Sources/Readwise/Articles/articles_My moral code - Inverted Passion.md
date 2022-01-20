@@ -1,5 +1,6 @@
 ---
 created: 2021-11-28
+edited: 2021-11-28
 aliases:
   - "My moral code - Inverted Passion"
   - "My moral code - Inverted Passion by invertedpassion.com"

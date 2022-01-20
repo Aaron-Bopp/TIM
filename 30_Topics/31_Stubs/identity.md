@@ -1,5 +1,6 @@
 ---
 created: 2021-12-31 
+edited: 2021-12-31
 aliases:
   - null
 tags: node/topic/outline

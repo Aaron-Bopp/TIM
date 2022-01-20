@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "Historical Foundations of Race"
   - "Historical Foundations of Race by nmaahc.si.edu"

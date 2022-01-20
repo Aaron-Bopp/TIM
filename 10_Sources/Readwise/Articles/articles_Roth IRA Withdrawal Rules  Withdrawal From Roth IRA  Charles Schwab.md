@@ -1,5 +1,6 @@
 ---
 created: 2021-12-24
+edited: 2021-12-24
 aliases:
   - "Roth IRA Withdrawal Rules | Withdrawal From Roth IRA | Charles Schwab"
   - "Roth IRA Withdrawal Rules | Withdrawal From Roth IRA | Charles Schwab by schwab.com"

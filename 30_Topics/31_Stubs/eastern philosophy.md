@@ -1,5 +1,6 @@
 ---
 created: 2021-07-03
+edited: 2021-07-03
 aliases:
   - eastern system
   - eastern

@@ -1,5 +1,6 @@
 ---
 created: 2021-10-23
+edited: 2021-10-23
 aliases:
   - Acknowledging the suffering of the world and defying it anyway
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim

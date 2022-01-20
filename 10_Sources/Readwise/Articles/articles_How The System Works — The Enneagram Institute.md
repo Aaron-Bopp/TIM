@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "How The System Works — The Enneagram Institute"
   - "How The System Works — The Enneagram Institute by enneagraminstitute.com"

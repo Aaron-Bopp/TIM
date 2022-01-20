@@ -1,5 +1,6 @@
 ---
 created: 2021-06-12
+edited: 2021-06-12
 aliases:
   - traumatized
 tags: created/topic/2021/06/12, node/topic/outline

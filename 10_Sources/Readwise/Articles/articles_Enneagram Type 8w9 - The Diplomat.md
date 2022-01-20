@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "Enneagram Type 8w9 - The Diplomat"
   - "Enneagram Type 8w9 - The Diplomat by crystalknows.com"

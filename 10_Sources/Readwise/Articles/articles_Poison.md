@@ -1,5 +1,6 @@
 ---
 created: 2021-11-03
+edited: 2021-11-03
 aliases:
   - "Poison"
   - "Poison by newsletter.eleanorkonik.com"

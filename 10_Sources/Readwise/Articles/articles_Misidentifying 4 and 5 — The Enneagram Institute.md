@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "Misidentifying 4 and 5 — The Enneagram Institute"
   - "Misidentifying 4 and 5 — The Enneagram Institute by enneagraminstitute.com"

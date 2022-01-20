@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "How I take Smart Notes — Nicholas Seitz Photographer"
   - "How I take Smart Notes — Nicholas Seitz Photographer by Nick Seitz"

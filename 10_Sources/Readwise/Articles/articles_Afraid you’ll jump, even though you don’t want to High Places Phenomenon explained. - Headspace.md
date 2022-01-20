@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "Afraid you’ll jump, even though you don’t want to? High Places Phenomenon
     explained. - Headspace"

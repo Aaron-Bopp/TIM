@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "Type Six — The Enneagram Institute"
   - "Type Six — The Enneagram Institute by enneagraminstitute.com"

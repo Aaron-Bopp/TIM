@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack'
     and 'Some Notes for Facilitators"

@@ -1,5 +1,6 @@
 ---
 created: 2021-11-09
+edited: 2021-11-09
 aliases:
   - "I’m Planning to Go to Si..."
   - "I’m Planning to Go to Si... by @visakanv on Twitter"

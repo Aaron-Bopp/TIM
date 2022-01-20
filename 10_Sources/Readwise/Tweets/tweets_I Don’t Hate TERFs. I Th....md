@@ -1,5 +1,6 @@
 ---
 created: 2021-10-27
+edited: 2021-10-27
 aliases:
   - "I Don’t Hate TERFs. I Th..."
   - "I Don’t Hate TERFs. I Th... by @LilahSturges on Twitter"

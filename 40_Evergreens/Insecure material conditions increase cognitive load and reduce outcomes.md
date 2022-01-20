@@ -1,5 +1,6 @@
 ---
 created: 2021-05-31
+edited: 2021-05-31
 aliases:
   - Sterotype threat increases cognitive load and reduces outcomes
 tags: created/evergreen/2021/05/31, review, node/evergreen/claim

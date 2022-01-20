@@ -1,5 +1,6 @@
 ---
 created: 2021-12-08 
+edited: 2021-12-08
 aliases:
   - nihilistic
 tags: created/topic/2021/12/08, node/topic/stub

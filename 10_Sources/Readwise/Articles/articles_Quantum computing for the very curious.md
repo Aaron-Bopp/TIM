@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "Quantum computing for the very curious"
   - "Quantum computing for the very curious by Matuschak, Andy, Nielsen, Michael"

@@ -1,5 +1,6 @@
 ---
 created: 2022-01-02T18:05:17
+edited: 2022-01-02
 aliases:
   - null
 tags: created/topic/2022/01/02, review, node/evergreen/technique

@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "The Next Chapter of Readwise: Our Own Reading App"
   - "The Next Chapter of Readwise: Our Own Reading App by blog.readwise.io"

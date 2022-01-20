@@ -1,5 +1,6 @@
 ---
 created: 2021-08-11
+edited: 2021-08-11
 aliases:
   - moral
 tags: created/topic/2021/08/11, node/topic/outline

@@ -1,5 +1,6 @@
 ---
 created: 2021-12-04 
+edited: 2021-12-04
 aliases:
   - rationalization
 tags: created/topic/2021/12/04, node/topic/stub

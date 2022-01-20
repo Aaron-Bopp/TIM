@@ -1,5 +1,6 @@
 ---
 created: 2021-05-10T18:22:56 (UTC -05:00)
+edited: 2021-05-10
 tags:created/2021/05/10
 source: https://genderdysphoria.fyi/gdb/chromosomes
 author: Jocelyn Badgley

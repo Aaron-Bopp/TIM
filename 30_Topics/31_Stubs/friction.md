@@ -1,5 +1,6 @@
 ---
 created: 2021-11-09
+edited: 2021-11-09
 aliases:
   - frictionless
 tags: created/topic/2021/11/09, node/topic/term

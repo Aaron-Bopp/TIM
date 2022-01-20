@@ -1,5 +1,6 @@
 ---
 created: 2021-12-11
+edited: 2021-12-11
 aliases:
   - "Decontextualizer - Paul Bricman"
   - "Decontextualizer - Paul Bricman by paulbricman.com"

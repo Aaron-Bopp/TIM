@@ -1,5 +1,6 @@
 ---
 created: 2022-01-18T17:11:22 
+edited: 2022-01-18
 aliases:
   - cortex
 tags: created/topic/2022/01/18, node/topic/stub

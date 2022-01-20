@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "7 Ways We Know Systemic Racism Is Real"
   - "7 Ways We Know Systemic Racism Is Real by benjerry.com"

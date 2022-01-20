@@ -1,5 +1,6 @@
 ---
 created: 2021-10-23
+edited: 2021-10-23
 aliases:
 - Social Constructs | Philosophy Tube - YouTube 
 - Philosophy Tube 

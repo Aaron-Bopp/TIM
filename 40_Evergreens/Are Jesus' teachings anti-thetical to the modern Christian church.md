@@ -1,5 +1,6 @@
 ---
 created: 2021-06-28
+edited: 2021-06-28
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
 aliases:
   - "Were Jesus' teachings anti-thetical to the modern christian church?"

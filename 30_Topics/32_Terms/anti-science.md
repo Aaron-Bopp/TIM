@@ -1,5 +1,6 @@
 ---
 created: 2021-08-01
+edited: 2021-08-01
 aliases:
   - science denier
   - anti-science

@@ -1,5 +1,6 @@
 ---
 created: 2021-12-29 
+edited: 2021-12-29
 aliases:
   - Corticotropin Releasing Factor (CRF)
   - Corticotropin Releasing Factor 

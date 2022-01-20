@@ -1,5 +1,6 @@
 ---
 created: 2021-11-17
+edited: 2021-11-17
 aliases:
   - "Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com"
   - "Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com by Donald Farland"

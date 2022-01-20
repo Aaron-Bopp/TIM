@@ -1,5 +1,6 @@
 ---
 created: 2021-10-26
+edited: 2021-10-26
 aliases:
   - "Tweets From Christian"
   - "Tweets From Christian by @CXGonzalez_ on Twitter"

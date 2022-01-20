@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "How To Export Podcast Highlights To Obsidian | Snipd | Medium"
   - "How To Export Podcast Highlights To Obsidian | Snipd | Medium by Snipd"

@@ -1,5 +1,6 @@
 ---
 created: 2021-07-05
+edited: 2021-07-05
 tags: created/topic/2021/07/05, node/topic/outline
 aliases:
 - consciousness

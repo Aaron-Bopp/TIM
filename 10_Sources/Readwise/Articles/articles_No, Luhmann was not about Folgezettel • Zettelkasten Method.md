@@ -1,5 +1,6 @@
 ---
 created: 2022-01-20
+edited: 2022-01-20
 aliases:
   - "No, Luhmann was not about Folgezettel • Zettelkasten Method"
   - "No, Luhmann was not about Folgezettel • Zettelkasten Method by sascha"

@@ -1,5 +1,6 @@
 ---
 created: 2022-01-19T18:48:20 
+edited: 2022-01-19
 aliases:
   - null
 tags: created/topic/2022/01/19, node/topic/outline 

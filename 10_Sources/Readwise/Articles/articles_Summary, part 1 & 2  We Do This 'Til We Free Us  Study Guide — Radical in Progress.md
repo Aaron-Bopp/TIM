@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "Summary, part 1 & 2 | We Do This 'Til We Free Us | Study Guide — Radical in
     Progress"

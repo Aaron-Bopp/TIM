@@ -1,5 +1,6 @@
 ---
 created: 2021-11-02
+edited: 2021-11-02
 aliases:
   - "single.dvi"
   - "single.dvi by pages.cs.wisc.edu"
