@@ -33,7 +33,7 @@ def update_edit_time(path, date):
     with open(path, 'r', encoding="utf-8") as f:
         text = f.read()
     text = re.sub(r'\*edited .*\*\n', f'*edited {date.strftime("%B %d, %Y")}*\n', text)
-    text = re.sub(r'edited: .*\n', f'edited: {date.strftime("%Y-%m-%d")}\n', text)
+    text = re.sub(r'^edited:.*\n', f'edited: {date.strftime("%Y-%m-%d")}\n', text)
     with open(path, 'w', encoding='utf-8') as f:  
         f.write(text)
 

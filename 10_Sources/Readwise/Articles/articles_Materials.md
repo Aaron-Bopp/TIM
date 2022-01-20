@@ -1,6 +1,6 @@
 ---
 created: 2022-01-05
-edited: 2022-01-05
+edited: 
 aliases:
   - "Materials"
   - "Materials by users.speakeasy.net"

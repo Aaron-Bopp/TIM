@@ -1,6 +1,6 @@
 ---
 created: 2021-06-15
-edited: 2021-06-15
+edited: 
 aliases:
   - "Writing your notes like you're planting an evergreen forest"
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim

@@ -1,6 +1,6 @@
 ---
 created: 2021-07-18
-edited: 2021-07-18
+edited: 
 tags: created/topic/2021/07/18, node/topic/stub
 aliases:
   - Consumer Culture

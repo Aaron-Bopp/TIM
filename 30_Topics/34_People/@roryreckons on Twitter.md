@@ -1,6 +1,6 @@
 ---
 created: 2021-12-28 
-edited: 2021-12-28
+edited: 
 aliases:
   - null
 tags: created/topic/2021/12/28, node/topic/person

@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "What if Psychology Took Intersectionality Seriously? Changing How
     Psychologists Think About Participants"

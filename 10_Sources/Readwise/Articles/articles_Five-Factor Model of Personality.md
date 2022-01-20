@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Five-Factor Model of Personality"
   - "Five-Factor Model of Personality by oxfordbibliographies.com"

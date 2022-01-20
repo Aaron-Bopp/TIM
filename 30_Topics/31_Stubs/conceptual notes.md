@@ -1,6 +1,6 @@
 ---
 created: 2021-11-10
-edited: 2021-11-10
+edited: 
 aliases:
   - conceptual note
 tags: created/topic/2021/11/10, node/topic/outline

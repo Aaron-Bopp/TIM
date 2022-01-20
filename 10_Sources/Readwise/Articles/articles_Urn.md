@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Urn"
 tags: node/source/articles
@@ -67,7 +67,7 @@ What is the purpose of racial affinity groups?
 
 ---
 created: 2021-11-28
-edited: 2021-11-28
+edited: 
 aliases:
   - "Urn"
 tags: created/source/2021/11/02, node/source/articles

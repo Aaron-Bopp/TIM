@@ -1,6 +1,6 @@
 ---
 created: 2021-11-10
-edited: 2021-11-10
+edited: 
 aliases:
   - "Tweets From Visa Is Stretching"
   - "Tweets From Visa Is Stretching by @visakanv on Twitter"

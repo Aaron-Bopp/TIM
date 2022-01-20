@@ -1,6 +1,6 @@
 ---
 created: 2022-01-17T18:32:00 
-edited: 2022-01-17
+edited: 
 aliases:
   - null
 tags: created/topic/2022/01/17, node/topic/stub

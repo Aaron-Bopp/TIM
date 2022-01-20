@@ -1,6 +1,6 @@
 ---
 created: 2021-12-23
-edited: 2021-12-23
+edited: 
 aliases:
   - "That Is Not How Your Brain Works - Issue 111: Spotlight - Nautilus"
   - "That Is Not How Your Brain Works - Issue 111: Spotlight - Nautilus by Lisa Feldman Barrett"

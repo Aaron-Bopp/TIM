@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting
     State Functional Connectivity Magnetic Resonance Imaging"

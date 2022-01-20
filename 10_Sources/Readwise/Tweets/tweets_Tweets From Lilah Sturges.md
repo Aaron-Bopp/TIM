@@ -1,6 +1,6 @@
 ---
 created: 2021-10-27
-edited: 2021-10-27
+edited: 
 aliases:
   - "Tweets From Lilah Sturges"
   - "Tweets From Lilah Sturges by @LilahSturges on Twitter"

@@ -1,6 +1,6 @@
 ---
 created: 2022-01-19T18:41:19 
-edited: 2022-01-19
+edited: 
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/technique 
@@ -50,7 +50,7 @@ new Notice("No Notes in Selected Folder")
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: [[programming]], [[Obsidian (software)|Obsidian]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

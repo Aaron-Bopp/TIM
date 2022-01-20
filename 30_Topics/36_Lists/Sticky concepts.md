@@ -1,6 +1,6 @@
 ---
 created: 2022-01-05T15:38:00 
-edited: 2022-01-05
+edited: 
 aliases:
   - null
 tags: node/topic/list

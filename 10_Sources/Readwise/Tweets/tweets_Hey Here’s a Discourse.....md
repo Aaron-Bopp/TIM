@@ -1,6 +1,6 @@
 ---
 created: 2021-12-08
-edited: 2021-12-08
+edited: 
 aliases:
   - "Hey Here’s a Discourse...."
   - "Hey Here’s a Discourse.... by @mykola on Twitter"

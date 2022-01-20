@@ -1,6 +1,6 @@
 ---
 created: 2021-11-03
-edited: 2021-11-03
+edited: 
 aliases:
   - "How To Take Notes From Podcasts With Snipd | Medium"
   - "How To Take Notes From Podcasts With Snipd | Medium by Snipd"

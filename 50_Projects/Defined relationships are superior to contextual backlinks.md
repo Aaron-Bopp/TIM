@@ -1,6 +1,6 @@
 ---
 created: 2022-01-19T17:34:28 
-edited: 2022-01-19
+edited: 
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/project 
@@ -43,7 +43,7 @@ What is the goal of this? Well by formatting my notes in this way it allows me t
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: [[knowledge work]], [[Obsidian (software)|Obsidian]], [[knowledge management]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

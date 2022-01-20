@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Urn"
 tags: created/source/2021/11/02, node/source/articles

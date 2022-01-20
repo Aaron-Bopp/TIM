@@ -1,6 +1,6 @@
 ---
 created: 2022-01-18T21:50:34 
-edited: 2022-01-18
+edited: 
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
@@ -26,7 +26,7 @@ Thus [[self-belief]] is vital to have good karma as we must believe that we have
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited January 18, 2022*
+*edited January 19, 2022*
 
 **Topics**:: [[self-belief]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

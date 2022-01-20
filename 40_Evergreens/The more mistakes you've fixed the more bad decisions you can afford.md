@@ -1,6 +1,6 @@
 ---
 created: 2021-10-23
-edited: 2021-10-23
+edited: 
 aliases:
   - A bad decision for a beginner is not the same a bad decision for an expert
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim

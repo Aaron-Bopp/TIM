@@ -1,7 +1,7 @@
 
 ---
 created: 2021-12-28 
-edited: 2021-12-28
+edited: 
 aliases:
   - Eleanor Konik
 tags: created/topic/2021/12/28, node/topic/person

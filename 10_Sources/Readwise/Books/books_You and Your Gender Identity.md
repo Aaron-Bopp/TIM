@@ -1,6 +1,6 @@
 ---
 created: 2021-07-23
-edited: 2021-07-23
+edited: 
 aliases:
   - "You and Your Gender Identity"
   - "You and Your Gender Identity by Dara Hoffman-Fox, Zinnia Jones, Sam Dylan Finch, and Zander Keig"

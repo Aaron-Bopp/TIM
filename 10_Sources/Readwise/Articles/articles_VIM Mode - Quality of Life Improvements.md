@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "VIM Mode - Quality of Life Improvements"
   - "VIM Mode - Quality of Life Improvements by forum.obsidian.md"

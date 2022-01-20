@@ -1,6 +1,6 @@
 ---
 created: 2021-12-22 
-edited: 2021-12-22
+edited: 
 aliases:
   - null
 tags: created/topic/2021/12/22, node/topic/term

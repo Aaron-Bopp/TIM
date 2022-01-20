@@ -1,6 +1,6 @@
 ---
 created: 2021-12-30 
-edited: 2021-12-30
+edited: 
 aliases:
   - infinitely
 tags: created/topic/2021/12/30, node/topic/stub

@@ -1,6 +1,6 @@
 ---
 created: 2021-05-22
-edited: 2021-05-22
+edited: 
 aliases:
   - Collecting thought with a second brain
 tags: created/evergreen/2021/05/22, review, node/evergreen/claim

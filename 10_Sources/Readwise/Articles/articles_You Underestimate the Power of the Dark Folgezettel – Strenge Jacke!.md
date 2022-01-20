@@ -1,6 +1,6 @@
 ---
 created: 2022-01-20
-edited: 2022-01-20
+edited: 
 aliases:
   - "You Underestimate the Power of the Dark Folgezettel – Strenge Jacke!"
   - "You Underestimate the Power of the Dark Folgezettel – Strenge Jacke! by Vannevar Bush"

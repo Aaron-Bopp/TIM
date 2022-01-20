@@ -1,6 +1,6 @@
 ---
 created: 2021-12-29 
-edited: 2021-12-29
+edited: 
 aliases:
   - Bed Nucleus of the Stria Terminalis (BNST)
   - Bed Nucleus of the Stria Terminalis 

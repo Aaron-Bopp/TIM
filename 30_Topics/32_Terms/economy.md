@@ -1,6 +1,6 @@
 ---
 created: 2021-10-06
-edited: 2021-10-06
+edited: 
 aliases:
   - economic
   - Economics

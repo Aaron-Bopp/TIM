@@ -1,6 +1,6 @@
 ---
 created: 2021-10-20
-edited: 2021-10-20
+edited: 
 aliases:
   - "&Gt; Most People Suck At..."
   - "&Gt; Most People Suck At... by @visakanv on Twitter"

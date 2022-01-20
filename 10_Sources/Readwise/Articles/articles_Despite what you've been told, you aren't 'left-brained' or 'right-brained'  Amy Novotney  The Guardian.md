@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Despite what you've been told, you aren't 'left-brained' or 'right-brained'
     | Amy Novotney | The Guardian"

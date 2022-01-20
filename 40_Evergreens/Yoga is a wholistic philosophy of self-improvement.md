@@ -1,6 +1,6 @@
 ---
 created: 2022-01-19T13:10:05 
-edited: 2022-01-19
+edited: 
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
@@ -39,7 +39,7 @@ sr-ease: 190
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: [[self-improvement]], [[mental health]], [[philosophy]], [[human behavior]], [[human interaction]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -1,6 +1,6 @@
 ---
 created: 2022-01-18T21:20:08 
-edited: 2022-01-18
+edited: 
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
@@ -23,7 +23,7 @@ Every action must be proceeded by an thought. If we fill our [[mind]] with produ
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited January 18, 2022*
+*edited January 19, 2022*
 
 **Topics**:: <% tp.file.cursor(1) %>
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

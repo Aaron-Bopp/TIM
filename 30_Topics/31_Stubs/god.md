@@ -1,6 +1,6 @@
 ---
 created: 2022-01-01 
-edited: 2022-01-01
+edited: 
 aliases:
   - deity
 tags: created/topic/2022/01/01, node/topic/stub

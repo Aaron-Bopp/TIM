@@ -1,6 +1,6 @@
 ---
 created: 2014-08-22
-edited: 2014-08-22
+edited: 
 aliases:
   - null
 tags: created/evergreen/2014/08/22, review, node/evergreen/claim
@@ -25,7 +25,7 @@ In conclusion our history gives us hope \-- hope that we may learn from the past
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: <% tp.file.cursor(1) %>
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

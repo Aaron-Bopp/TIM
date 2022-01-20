@@ -1,6 +1,6 @@
 ---
 created: 2021-10-20
-edited: 2021-10-20
+edited: 
 aliases:
   - black people
   - african american

@@ -1,6 +1,6 @@
 ---
 created: 2021-11-17
-edited: 2021-11-17
+edited: 
 aliases:
   - "Conceptarium - Paul Bricman"
   - "Conceptarium - Paul Bricman by paulbricman.com"

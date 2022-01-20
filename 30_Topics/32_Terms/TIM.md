@@ -1,6 +1,6 @@
 ---
 created: 2021-12-31 
-edited: 2021-12-31
+edited: 
 aliases:
   - totally integrated machine
 tags: created/topic/2021/12/31, node/topic/term

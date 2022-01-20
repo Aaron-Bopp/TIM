@@ -1,6 +1,6 @@
 ---
 created: 2021-12-24
-edited: 2021-12-24
+edited: 
 aliases:
   - "How to Withdraw Money From Your 401(k) - SmartAsset"
   - "How to Withdraw Money From Your 401(k) - SmartAsset by smartasset.com"

@@ -1,6 +1,6 @@
 ---
 created: 2021-06-12
-edited: 2021-06-12
+edited: 
 tags: created/evergreen/2021/06/12, review, node/evergreen/claim
 aliases:
   - Confidence comes from empathic mirroring in childhood

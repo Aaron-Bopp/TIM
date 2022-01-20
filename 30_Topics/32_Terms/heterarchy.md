@@ -1,6 +1,6 @@
 ---
 created: 2021-12-14 
-edited: 2021-12-14
+edited: 
 aliases:
   - heterarchical
 tags: created/topic/2021/12/14, node/topic/term

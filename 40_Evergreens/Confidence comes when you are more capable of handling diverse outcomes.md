@@ -1,6 +1,6 @@
 ---
 created: 2022-01-18T18:08:58 
-edited: 2022-01-18
+edited: 
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
@@ -24,7 +24,7 @@ If your confidence is eroded in this area it can lead to [[depression]]:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited January 18, 2022*
+*edited January 19, 2022*
 
 **Topics**:: [[confidence]], [[anxiety]], [[human experience]], [[Life principles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

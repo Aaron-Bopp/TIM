@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Do it or Forget it — How to Think Less and Achieve More | by Tom Klima |
     Oct, 2021 | Medium"

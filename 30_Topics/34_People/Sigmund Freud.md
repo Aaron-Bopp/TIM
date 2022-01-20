@@ -1,6 +1,6 @@
 ---
 created: 2022-01-03T10:54:25 
-edited: 2022-01-03
+edited: 
 aliases:
   - Freud
 tags: created/topic/2022/01/03, node/topic/person

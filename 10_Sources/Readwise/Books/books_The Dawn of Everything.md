@@ -1,6 +1,6 @@
 ---
 created: 2022-01-01
-edited: 2022-01-01
+edited: 
 aliases:
   - "The Dawn of Everything"
   - "The Dawn of Everything by David Graeber"

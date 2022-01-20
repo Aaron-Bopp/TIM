@@ -2,7 +2,7 @@
 
 ---
 created: 2022-01-16T11:58:28 
-edited: 2022-01-16
+edited: 
 aliases:
   - emotional quotient
   - EQ

@@ -1,6 +1,6 @@
 ---
 created: 2022-01-02T13:00:03 
-edited: 2022-01-02
+edited: 
 aliases:
   - null
 tags: created/source/2022/01/02, node/source/notes

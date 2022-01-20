@@ -1,6 +1,6 @@
 ---
 created: 2021-10-23
-edited: 2021-10-23
+edited: 
 aliases:
   - null
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
@@ -23,7 +23,7 @@ It's not about being successful, it's about doing what you can do to get close t
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: [[self-improvement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

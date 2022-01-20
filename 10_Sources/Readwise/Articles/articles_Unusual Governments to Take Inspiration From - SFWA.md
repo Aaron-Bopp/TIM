@@ -1,6 +1,6 @@
 ---
 created: 2021-12-15
-edited: 2021-12-15
+edited: 
 aliases:
   - "Unusual Governments to Take Inspiration From - SFWA"
   - "Unusual Governments to Take Inspiration From - SFWA by sfwa.org"

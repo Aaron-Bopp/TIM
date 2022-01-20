@@ -1,6 +1,6 @@
 ---
 created: 2021-12-28
-edited: 2021-12-28
+edited: 
 aliases:
   - "Tweets From Laur"
   - "Tweets From Laur by @im_just_laur on Twitter"

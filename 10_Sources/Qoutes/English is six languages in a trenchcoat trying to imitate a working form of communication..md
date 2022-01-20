@@ -1,6 +1,6 @@
 ---
 created: 2021-12-12 
-edited: 2021-12-12
+edited: 
 aliases:
   - null
 tags: created/source/2021/12/12, node/source/qoutes

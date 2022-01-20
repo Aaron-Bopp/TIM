@@ -1,6 +1,6 @@
 ---
 created: 2021-12-13
-edited: 2021-12-13
+edited: 
 aliases:
   - "Understanding human collective behaviour | Autistic Collaboration"
   - "Understanding human collective behaviour | Autistic Collaboration by autcollab.org"

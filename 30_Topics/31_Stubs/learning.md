@@ -1,6 +1,6 @@
 ---
 created: 2022-01-02T21:16:53 
-edited: 2022-01-02
+edited: 
 aliases:
   - to learn
 tags: created/topic/2022/01/02, node/topic/outline

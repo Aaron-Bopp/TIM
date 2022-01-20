@@ -1,6 +1,6 @@
 ---
 created: 2021-11-10
-edited: 2021-11-10
+edited: 
 aliases:
   - "Thinking About the Fact..."
   - "Thinking About the Fact... by @roryreckons on Twitter"

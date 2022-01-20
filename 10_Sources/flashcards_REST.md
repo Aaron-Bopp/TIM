@@ -1,6 +1,6 @@
 ---
 created: 2021-11-19 
-edited: 2021-11-19
+edited: 
 aliases:
   - null
 tags: created/source/2021/11/19, node/source/flashcards

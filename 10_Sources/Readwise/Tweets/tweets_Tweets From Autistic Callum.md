@@ -1,6 +1,6 @@
 ---
 created: 2021-11-23
-edited: 2021-11-23
+edited: 
 aliases:
   - "Tweets From Autistic Callum"
   - "Tweets From Autistic Callum by @AutisticCallum_ on Twitter"

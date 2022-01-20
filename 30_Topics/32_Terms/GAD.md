@@ -1,6 +1,6 @@
 ---
 created: 2021-12-29 
-edited: 2021-12-29
+edited: 
 aliases:
   - Generalized Anxiety Disorder (GAD)
   - Generalized Anxiety Disorder 

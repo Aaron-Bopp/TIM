@@ -1,6 +1,6 @@
 ---
 created: 2022-01-19T12:27:40 
-edited: 2022-01-19
+edited: 
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
@@ -27,7 +27,7 @@ What is the reason behind this?
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: [[mental health]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

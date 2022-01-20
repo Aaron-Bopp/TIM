@@ -1,6 +1,6 @@
 ---
 created: 2021-11-13
-edited: 2021-11-13
+edited: 
 aliases:
   - "Tweets From Mia Moore 🏳️‍🌈"
   - "Tweets From Mia Moore 🏳️‍🌈 by @StopTweetingMia on Twitter"

@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02 
-edited: 2021-11-02
+edited: 
 aliases:
   - null
 tags: created/evergreen/2021/11/02, review, node/evergreen/claim
@@ -22,7 +22,7 @@ Capitalism would fail if everyone was a capitalist.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: [[capitalism]], [[human advancement]], [[Marxism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

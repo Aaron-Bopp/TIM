@@ -1,6 +1,6 @@
 ---
 created: 2021-12-03
-edited: 2021-12-03
+edited: 
 aliases:
   - "Tweets From Byzen Stonefist's Witty Title"
   - "Tweets From Byzen Stonefist's Witty Title by @byzen_stonefist on Twitter"

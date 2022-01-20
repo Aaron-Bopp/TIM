@@ -1,6 +1,6 @@
 ---
 created: 2022-01-17T16:47:20 
-edited: 2022-01-17
+edited: 
 aliases:
   - null
 tags: created/evergreen/2022/01/17, review, node/evergreen/question 
@@ -26,7 +26,7 @@ You don't need to be able to see yourself in everything but everybody should be 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: [[coming out]], [[Queer Community]], [[marginalization]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

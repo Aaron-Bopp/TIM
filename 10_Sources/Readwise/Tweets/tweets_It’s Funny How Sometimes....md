@@ -1,6 +1,6 @@
 ---
 created: 2021-11-10
-edited: 2021-11-10
+edited: 
 aliases:
   - "It’s Funny How Sometimes..."
   - "It’s Funny How Sometimes... by @visakanv on Twitter"

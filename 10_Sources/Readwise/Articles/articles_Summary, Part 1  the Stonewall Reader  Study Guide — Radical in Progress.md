@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress"
   - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress

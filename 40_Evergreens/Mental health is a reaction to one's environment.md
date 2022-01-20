@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08
-edited: 2021-08-08
+edited: 
 tags: created/evergreen/2021/08/08, review, node/evergreen/claim
 aliases:
   - null
@@ -31,7 +31,7 @@ Ways to alter our environment: [[Tips for concentration]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING 
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

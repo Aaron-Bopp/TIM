@@ -1,6 +1,6 @@
 ---
 created: 2022-01-04T15:06:57 
-edited: 2022-01-04
+edited: 
 aliases:
   - western
   - Western system

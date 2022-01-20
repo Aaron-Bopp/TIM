@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Type Five — The Enneagram Institute"
   - "Type Five — The Enneagram Institute by enneagraminstitute.com"

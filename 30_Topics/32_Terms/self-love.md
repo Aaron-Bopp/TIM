@@ -1,6 +1,6 @@
 ---
 created: 2021-07-21
-edited: 2021-07-21
+edited: 
 tags: created/topic/2021/07/21, node/topic/outline
 aliases:
 - self-care

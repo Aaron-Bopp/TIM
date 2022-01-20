@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Everything I wish I knew when starting to use Obsidian — Nicholas Seitz
     Photographer"

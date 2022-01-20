@@ -1,6 +1,6 @@
 ---
 created: 2021-12-29 
-edited: 2021-12-29
+edited: 
 aliases:
   - Dialectical Behavioral Therapy (DBT)
   - Dialectical Behavioral Therapy 

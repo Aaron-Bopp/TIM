@@ -1,6 +1,6 @@
 ---
 created: 2021-06-27
-edited: 2021-06-27
+edited: 
 tags: created/topic/2021/06/27, node/topic/outline
 aliases:
 - "note-writing"

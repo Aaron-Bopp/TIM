@@ -1,6 +1,6 @@
 ---
 created: 2021-11-28
-edited: 2021-11-28
+edited: 
 aliases:
   - "Cognitive biases that lead to poorly designed products - Inverted Passion"
   - "Cognitive biases that lead to poorly designed products - Inverted Passion by invertedpassion.com"

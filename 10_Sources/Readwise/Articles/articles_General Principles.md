@@ -1,6 +1,6 @@
 ---
 created: 2022-01-12
-edited: 2022-01-12
+edited: 
 aliases:
   - "General Principles"
   - "General Principles by users.speakeasy.net"

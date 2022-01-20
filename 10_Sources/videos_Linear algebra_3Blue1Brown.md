@@ -1,6 +1,6 @@
 ---
 created: 2021-10-16
-edited: 2021-10-16
+edited: 
 aliases:
 - 
 

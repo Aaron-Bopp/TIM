@@ -1,6 +1,6 @@
 ---
 created: 2021-12-26
-edited: 2021-12-26
+edited: 
 aliases:
   - "The Feynman Learning Technique - Farnam Street"
   - "The Feynman Learning Technique - Farnam Street by fs.blog"

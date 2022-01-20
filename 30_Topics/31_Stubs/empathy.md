@@ -1,6 +1,6 @@
 ---
 created: 2021-06-17
-edited: 2021-06-17
+edited: 
 aliases:
   - empathic
   - empathise

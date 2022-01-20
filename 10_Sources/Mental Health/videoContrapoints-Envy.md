@@ -1,6 +1,6 @@
 ---
 created: 2021-07-26
-edited: 2021-07-26
+edited: 
 tags: created/source/2021/07/26, node/source/notes
 creator: Contrapoints
 type:

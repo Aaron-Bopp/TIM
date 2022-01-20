@@ -1,6 +1,6 @@
 ---
 created: 2021-11-22
-edited: 2021-11-22
+edited: 
 aliases:
   - "Tweets From Visa Is Doing Final Edits ✍🏾📖"
   - "Tweets From Visa Is Doing Final Edits ✍🏾📖 by @visakanv on Twitter"

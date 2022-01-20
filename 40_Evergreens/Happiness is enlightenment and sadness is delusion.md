@@ -1,6 +1,6 @@
 ---
 created: 2021-06-12
-edited: 2021-06-12
+edited: 
 tags: created/evergreen/2021/06/12, review, node/evergreen/claim
 aliases:
   - null
@@ -29,7 +29,7 @@ the contrast here[[Sadness is enlightenment and happiness is delusion]] and here
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: [[happiness]], [[religion]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

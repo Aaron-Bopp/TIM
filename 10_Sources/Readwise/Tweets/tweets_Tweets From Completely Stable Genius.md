@@ -1,6 +1,6 @@
 ---
 created: 2021-11-06
-edited: 2021-11-06
+edited: 
 aliases:
   - "Tweets From Completely Stable Genius"
   - "Tweets From Completely Stable Genius by @yes_allcops on Twitter"

@@ -1,6 +1,6 @@
 ---
 created: 2021-11-25
-edited: 2021-11-25
+edited: 
 aliases:
   - "Inspired by @Commaficion..."
   - "Inspired by @Commaficion... by @hassaan97 on Twitter"

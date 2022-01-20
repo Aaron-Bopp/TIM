@@ -1,6 +1,6 @@
 ---
 created: 2021-11-01
-edited: 2021-11-01
+edited: 
 aliases:
   - "1/ It's Very Interesting..."
   - "1/ It's Very Interesting... by @visakanv on Twitter"

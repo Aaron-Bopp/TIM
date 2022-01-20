@@ -1,6 +1,6 @@
 ---
 created: 2021-10-18
-edited: 2021-10-18
+edited: 
 aliases:
   - What is the cognitive effect of living in an unjust world?
   - The cognitive effect of living in an unjust world

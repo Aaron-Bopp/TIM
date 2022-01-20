@@ -1,6 +1,6 @@
 ---
 created: 2022-01-20
-edited: 2022-01-20
+edited: 
 aliases:
   - "Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method"
   - "Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method by sascha"

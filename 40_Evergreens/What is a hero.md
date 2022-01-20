@@ -1,6 +1,6 @@
 ---
 created: 2017-11-09
-edited: 2017-11-09
+edited: 
 aliases:
   - null
 tags: created/evergreen/2017/11/09, review, node/evergreen/question
@@ -22,7 +22,7 @@ Another very heroic example from this epic poem is the scene where Beowulf enter
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 19, 2022*
 
 **Topics**:: <% tp.file.cursor(1) %>
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

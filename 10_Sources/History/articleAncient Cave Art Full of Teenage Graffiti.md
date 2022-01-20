@@ -1,6 +1,6 @@
 ---
 created: 2021-07-29
-edited: 2021-07-29
+edited: 
 tags: created/source/2021/07/29, node/source/notes
 creator: Bjorn Carey
 type:

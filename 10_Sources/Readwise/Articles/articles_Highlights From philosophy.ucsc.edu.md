@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Highlights From philosophy.ucsc.edu"
   - "Highlights From philosophy.ucsc.edu by philosophy.ucsc.edu"

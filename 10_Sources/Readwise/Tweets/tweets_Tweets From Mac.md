@@ -1,6 +1,6 @@
 ---
 created: 2021-11-01
-edited: 2021-11-01
+edited: 
 aliases:
   - "Tweets From Mac"
   - "Tweets From Mac by @GoodPoliticGuy on Twitter"

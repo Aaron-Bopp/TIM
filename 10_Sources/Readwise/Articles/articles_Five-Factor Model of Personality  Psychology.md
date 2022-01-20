@@ -1,6 +1,6 @@
 ---
 created: 2021-11-02
-edited: 2021-11-02
+edited: 
 aliases:
   - "Five-Factor Model of Personality | Psychology"
   - "Five-Factor Model of Personality | Psychology by britannica.com"

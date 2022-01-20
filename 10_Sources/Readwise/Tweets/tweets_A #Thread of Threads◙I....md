@@ -1,6 +1,6 @@
 ---
 created: 2021-11-25
-edited: 2021-11-25
+edited: 
 aliases:
   - "A #Thread of Threads: I..."
   - "A #Thread of Threads: I... by @commaficionado on Twitter"

@@ -1,6 +1,6 @@
 ---
 created: 2021-10-19
-edited: 2021-10-19
+edited: 
 aliases:
   - humans love for grouping eachother
 tags: created/evergreen/2021/10/19, review, node/evergreen/claim

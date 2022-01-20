@@ -1,6 +1,6 @@
 ---
 created: 2021-12-27
-edited: 2021-12-27
+edited: 
 aliases:
   - "A Lot of Paradoxes Might..."
   - "A Lot of Paradoxes Might... by @visakanv on Twitter"

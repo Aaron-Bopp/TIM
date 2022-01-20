@@ -1,6 +1,6 @@
 ---
 created: 2021-11-10
-edited: 2021-11-10
+edited: 
 aliases:
   - "This Book (‘No Contest’..."
   - "This Book (‘No Contest’... by @roryreckons on Twitter"
