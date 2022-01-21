@@ -13,7 +13,7 @@ sr-ease: 130
 
 Success comes from focusing on actions not outcomes. 
 
-[[Motivation]] and obsession are indistinguishable to an outside perspective because motivation is just focusing on task until it's completion.
+[[Motivation and obsession are indistinguishable to an outside perspective]] because motivation is just focusing on task until it's completion.
 
 Because [[Right kinds of thoughts lead to right kinds of actions]], this means keeping one thought in our mind until it becomes real, or [[manifestation]], is the same thing as [[motivation]].
 

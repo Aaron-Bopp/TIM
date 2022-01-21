@@ -4,24 +4,29 @@ edited:
 tags: created/evergreen/2021/10/03, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-20
-sr-interval: 15
-sr-ease: 150
+sr-due: 2022-01-30
+sr-interval: 10
+sr-ease: 130
 ---
 
 #### [[Our authority figures curate and reinforce what we are allowed to imitate]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-In [[Social Learning Theory]], imitation is one of four key mechanism for social learning. This means that children are more likely to imitate the actions of authority figures, most often [[parents]]: [[Parents need to model the ability to deal with emotion to their children]]
+From:: [[Parents need to model the ability to deal with emotion to their children]]
 
-This leads to so many elements of modern society such as [[gender roles]], [[racism]], and [[inter-generational trauma]]. Primarily because [[Parents need to model the ability to deal with emotion to their children]].
+In [[Social Learning Theory]], imitation is one of four key mechanism for social learning, 
+and children are more likely to imitate the actions of authority figures, most often [[parents]].
+%%Why?%%
 
-This fact is true in both synchronous interactions like fear responses and [[self-soothing]], but also in asynchronous responses like in [[Gender self-socialization model]]. This means that children may see an action and then not reproduce for months or years later. [[Humans are primarily irrational, illogical, emotional beings]], when behaviors become engrained in our pyschy, we will rarely question them. [^1]
+This leads to so many elements of modern society such as [[gender roles]], [[racism]], and [[inter-generational trauma]]. This is
+made worse by:: [[Children will not question what is modeled for them unless they are taught to]]
 
-[^1]: [[Our brain will do anything it can to protect itself]]
+This is true in both synchronous interactions like fear responses and [[self-soothing]], but also in asynchronous responses like in the [[Gender self-socialization model]]. 
 
-- [[Children will not question what is modeled for them unless they are taught to]]
-- [[How can parent's best help their children]]
-- [[Humans long to know what to do]]
+[[Humans long to know what to do]], when behaviors become engrained in our psyche, we will rarely question them:
+[[We carry our childhood wounds into adulthood]]
+
+This is important
+for:: [[How can parent's best help their children]]
 
 ### <hr class="footnote"/>
 
