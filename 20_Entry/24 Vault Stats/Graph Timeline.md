@@ -44,3 +44,5 @@
 ![[20220102.PNG]]
 ### Digesting
 ![[20220103a.png]]
+### Green for growing
+![[Pasted image 20220121084525.png]]
