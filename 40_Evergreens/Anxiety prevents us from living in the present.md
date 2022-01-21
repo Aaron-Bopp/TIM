@@ -4,15 +4,16 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-01-20
+sr-due: 2022-01-21
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[Anxiety prevents us from living in the present]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Anxiety is future focused.
- 
+
+ #TO/PONDER/CONCEPT from [[notes_Responses to Anxiety]]s
 
 ### <hr class="footnote"/>
 

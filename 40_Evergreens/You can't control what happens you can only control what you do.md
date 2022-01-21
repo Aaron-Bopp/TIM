@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/14, review, node/evergreen/claim
-sr-due: 2022-01-20
+sr-due: 2022-01-21
 sr-interval: 1
-sr-ease: 150
+sr-ease: 130
 ---
 
 #### [[You can't control what happens you can only control what you do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -23,7 +23,6 @@ Because [[Right kinds of thoughts lead to right kinds of actions]], this means k
 - [[Purpose is derived from within, duty is derived from without]]
 - [[A story will either end where it began, or somewhere else]]
  
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
@@ -31,5 +30,3 @@ Because [[Right kinds of thoughts lead to right kinds of actions]], this means k
 
 **Topics**:: [[responsibility]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
