@@ -22,7 +22,7 @@ sr-ease: 170
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited January 19, 2022*
+*edited January 23, 2022*
 
 **Topics**:: [[learning]], [[human advancement]], [[Neuroscience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

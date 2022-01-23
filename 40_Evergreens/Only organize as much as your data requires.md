@@ -4,27 +4,25 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/07, review, node/evergreen/claim
-sr-due: 2022-01-23
-sr-interval: 21
-sr-ease: 181
+sr-due: 2022-02-12
+sr-interval: 20
+sr-ease: 161
 ---
 
-#### [[Only use organization systems as far as they are useful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-%%
- #TO/TEND/DEOBFUSCATE difference between this and  [[Use philosophies as far they are useful and nothing more]] 
-%%
+#### [[Only organize as much as your data requires]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Organization systems are not mutually exclusive]], do not confine yourself to one [[system of thought]]. When you start to feel [[friction]], trust that feeling: [[Friction is the number one hindrance to learning]]
+[[Organization systems are not mutually exclusive]], do not confine yourself to one [[systems for thought]]. When you start to feel [[friction]], trust that feeling: [[Friction is the number one hindrance to learning]]
 
 Over-organization will just lead to incorrect categorization: [[Prioritize organization over categorization to avoid cognitive bias]]
 
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]]
 
+#TO/PONDER/CONCEPT Cutter classification
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
+*edited January 23, 2022*
 
 **Topics**:: [[organization]], [[structure]], [[second brain]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

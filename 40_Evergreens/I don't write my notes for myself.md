@@ -23,7 +23,7 @@ My past [[self]] because they desperately needed a guide. They needed someone to
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT  
-*edited `=this.file.mtime`*
+*edited January 23, 2022*
 
 **Topics**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -18,7 +18,7 @@ When Beowulf enters a swimming contest with Breca. Beowulf wins with humility an
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/WEED 
-*edited January 19, 2022*
+*edited January 23, 2022*
 
 **Topics**:: [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

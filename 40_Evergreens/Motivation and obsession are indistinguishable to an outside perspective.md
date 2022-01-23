@@ -20,7 +20,7 @@ Pushing yourself is something that is unique to humans.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 23, 2022*
 
 **Topics**:: [[motivation]], [[human interaction]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

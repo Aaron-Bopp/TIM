@@ -17,7 +17,7 @@ sr-ease: 170
 #TO/TEND/GRAFT 
 - [[The way systems work can create cognitive bias]]
 	- [[Humans are primarily irrational, illogical, emotional beings]]
-- [[Only use organization systems as far as they are useful]]
+- [[Only organize as much as your data requires]]
 	- [[Write your notes with a system not within a system]]
 - [[How to pursue the positive things in life]]
 	- [[Realism must acknowledge optimism's existence and effectiveness]]

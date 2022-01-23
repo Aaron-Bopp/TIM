@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-01-23
-sr-interval: 5
+sr-due: 2022-02-03
+sr-interval: 11
 sr-ease: 170
 ---
 
@@ -14,7 +14,7 @@ sr-ease: 170
 We will believe there are ghosts in our house before we investigate a leaky beam. We will think that nobody at the party really likes us when we keep getting invited back. We will tell our children that only god can explain our existence when science has given us more answers than you could ever learn in one lifetime.
 
 This leads us to both remain in [[cognitive dissonance]], and to pursue [[knowledge]].
-[[Humans transfer their wonder into creativity]]
+#TO/TEND/DEOBFUSCATE  [[Humans transfer their wonder into creativity]]
 [[Faith is an abstraction of cognitive dissonance]]
 
 #TO/TEND/GRAFT 

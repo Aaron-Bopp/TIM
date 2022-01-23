@@ -30,7 +30,7 @@ leads back to:: [[The most reliable path to success is repeatedly trying to succ
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited January 19, 2022*
+*edited January 23, 2022*
 
 **Topics**:: [[self-belief]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

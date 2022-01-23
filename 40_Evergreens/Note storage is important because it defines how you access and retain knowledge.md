@@ -13,7 +13,7 @@ sr-ease: 230
 
 %%
 #TO/TEND/GRAFT 
-- [[Only use organization systems as far as they are useful]]
+- [[Only organize as much as your data requires]]
 - [[Organization systems are not mutually exclusive]]
 - [[Prioritize organization over categorization to avoid cognitive bias]]
 

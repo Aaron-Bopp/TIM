@@ -43,7 +43,7 @@ WHERE contains(topics, this.file.link)
 		- [[Organization systems are not mutually exclusive]]		
 		- [[Curate source notes and definitions in your second brain to avoid junk text]]
 	- Don't overburden yourself
-		- [[Only use organization systems as far as they are useful]]
+		- [[Only organize as much as your data requires]]
 		- [[Prioritize organization over categorization to avoid cognitive bias]]
 		- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 	- Augment your brain power

@@ -18,7 +18,7 @@ sr-ease: 210
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 23, 2022*
 
 **Topics**:: [[ego]], [[human behavior]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

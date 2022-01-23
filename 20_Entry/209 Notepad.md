@@ -1,4 +1,4 @@
-#TO/EXPLORE/WATCH https://www.youtube.com/watch?v=leX541Dr2rU
+#TO/EXPLORE/WATCH [There is No Algorithm for Truth - with Tom Scott - YouTube](https://www.youtube.com/watch?v=leX541Dr2rU)
 resources for implementing [[Dewey Decimal System]] https://www.librarything.com/mds https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf
 
 #TO/EXPLORE/CONCEPTUALIZE [Three Basic Elements of Note-taking - YouTube](https://www.youtube.com/watch?v=e2uaqleh9W0) 
@@ -13,12 +13,6 @@ resources for implementing [[Dewey Decimal System]] https://www.librarything.com
 > -  [What has your PKM actually help you achieve? - #12 by minhthanh3145 - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/what-has-your-pkm-actually-help-you-achieve/30249/12?u=abopp)
 
 #TO/PROGRAM [[articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium|How To Export Podcast Highlights To Obsidian | Snipd | Medium]]
-
-#TO/PONDER/SOCIETY  why do we stall in life
-> "Sometimes it's easiest to take the chances that have the highest likelihood of failure" 
-^[[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)]
->
-> <cite>[[Dr. K]]</cite> 
 ![[videoLife after a cult#^5626bf]]
 
 self-blame and social deficiency

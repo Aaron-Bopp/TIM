@@ -7,7 +7,7 @@
 	- [[Take note of the simple things in life]]
 	- [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
 	- [[Organization systems are not mutually exclusive]]
-	- [[Only use organization systems as far as they are useful]]
+	- [[Only organize as much as your data requires]]
 	- [[An increase in self-love and self-respect may lead to a loss of function]]
 	- [[Webs of thought provide heterarchical structure]]
 	- [[Note taking is a spectrum from purely reproductive to purely productive]]

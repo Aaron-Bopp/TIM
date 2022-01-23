@@ -198,8 +198,8 @@ type:
 - [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]
 - Difference between [[stereotype threat]] and [[self-fulfilling prophecy]]
 	- [[stereotype threat]] is state-dependent (sterotype threat needs to be reinforced) and usually affects performance that the individual is good at
-	- [[self-fullfilling prophecy]] is a chronic hindrance on performance caused by lack of confidence
-	- Repeated experiences of [[stereotype threat]] can result in a [[self-fullfilling prophecy]]
+	- [[self-fulfilling prophecy]] is a chronic hindrance on performance caused by lack of confidence
+	- Repeated experiences of [[stereotype threat]] can result in a [[self-fulfilling prophecy]]
 # Week 10 
 
 1.  [[articles_transequality.org_Frequently Asked Questions About Transgender People National Center for Transgender Equality]]

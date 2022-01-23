@@ -2,7 +2,7 @@
 created: 2021-11-06 
 edited: 
 aliases:
-  - privelege
+  - privilege
 tags: created/topic/2021/11/06, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

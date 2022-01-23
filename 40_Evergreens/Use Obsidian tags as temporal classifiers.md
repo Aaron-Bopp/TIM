@@ -40,12 +40,12 @@ While I think there is benefit to organization, I think that notes accomplish th
 - [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Stub notes are data structures for implicit knowledge gathering]]
 - [[Organization systems are not mutually exclusive]]
-- [[Only use organization systems as far as they are useful]]
+- [[Only organize as much as your data requires]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN  
-*edited `=this.file.mtime`*
+*edited January 23, 2022*
 
 **Topics**:: [[My TIM]], [[Obsidian (software)]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -16,7 +16,7 @@ If your primary goal is to create thought, then your system should be setup in a
 
 One universal truth is that your [[second brain]] should not be a hindrance to creating. [[Friction is the number one hindrance to learning]] and [[Fear is the number one hindrance to trying]], so [[When in doubt, write what you think]]
 
-Structure is only helpful in that it reduces friction, but it should not be a hindrance to your creativity: [[Only use organization systems as far as they are useful]]
+Structure is only helpful in that it reduces friction, but it should not be a hindrance to your creativity: [[Only organize as much as your data requires]]
 
 As you are creating thought it is important to recognize [[The fragility of nodes in a second brain]]:
 - [[Write your notes like you're planting an evergreen forest]]

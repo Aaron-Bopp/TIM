@@ -11,6 +11,13 @@ sr-ease: 150
 
 #### [[How to pursue the positive things in life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+
+**Why do we *stall* in life**?
+> *Sometimes it's easiest to take the chances that has the highest likelihood of failure* 
+^[[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)]
+>
+> <cite>[[Dr. K]]</cite> 
+
 #TO/PONDER/SOCIETY 
 
 - [[What is the cognitive effect of living in an unjust world]]
@@ -28,7 +35,7 @@ sr-ease: 150
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
+*edited January 23, 2022*
 
 **Topics**:: [[self-love]], [[self-improvement]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
