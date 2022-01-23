@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/07/05, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 is basically the belief that that good actions bring [[happiness]] and bad actions bring sadness IN THE LONG RUN
 

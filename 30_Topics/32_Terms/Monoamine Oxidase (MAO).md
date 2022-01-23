@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Family of enzymes that catalyze the oxidation of monoamines ([[dopamine]], [[noradrenaline]] and [[serotonin]])
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

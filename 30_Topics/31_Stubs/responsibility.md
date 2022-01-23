@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2022/01/03, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **See**::

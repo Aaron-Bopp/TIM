@@ -7,6 +7,8 @@ aliases:
 - consciously
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 If something is observing the action of [[mind]], it must be outside the mind, this is consciousness. [[Sakshi Bhava]] or [[mindfulness]] is the capacity to observe this 
 ^[[[notes_The Nature of Mind]]]

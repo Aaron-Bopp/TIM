@@ -7,6 +7,8 @@ sr-interval: 1
 sr-ease: 230
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 The United States [^1]

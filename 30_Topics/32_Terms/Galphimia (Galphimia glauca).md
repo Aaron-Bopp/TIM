@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 an [[herb]] originating from Mexico and Central America that has been used in the Mexican traditional medicine for its sedative, anxiolytic, anticonvulsant, antiasthmatic and antiallergic properties. Please consult with your healthcare provider before taking any herbal supplements.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

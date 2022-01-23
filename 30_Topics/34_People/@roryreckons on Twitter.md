@@ -8,6 +8,8 @@ aliases:
   - Rory McCarthy
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 ```dataview
 TABLE 

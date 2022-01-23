@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2022/01/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Links that are defined by being directly linked in another source.
 

@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 A division of the [[nervous system]] that functions to produce localized adjustments (such as sweating as a response to an increase in temperature) and reflex adjustments of the [[cardiovascular system]].
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/07/05, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 **See**:: [[Evolutionary Psychology]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

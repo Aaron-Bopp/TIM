@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/10/18, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 the way in which something is regarded, understood, or interpreted. 

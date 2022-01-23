@@ -6,6 +6,8 @@ aliases:
 tags: node/topic/list
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Sayings that have wisdom beyond their simplicity
 

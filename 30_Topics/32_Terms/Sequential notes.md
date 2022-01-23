@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/21, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Notes that follow the sequence of what they are notating, i.e. a lecture, book, video, etc.
 

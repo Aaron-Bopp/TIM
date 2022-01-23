@@ -7,6 +7,8 @@ tags:
  created/topic/2022/01/01, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 ```dataview

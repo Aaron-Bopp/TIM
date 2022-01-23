@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 An anticonvulsant and benzodiazepine drug with rapid onset that is commonly used in seizures, anesthesia and anxiety disorders.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

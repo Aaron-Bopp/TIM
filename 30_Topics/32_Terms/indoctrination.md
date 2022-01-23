@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/07/03, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **See**:: [[Evangelicalism]], [[religion]]

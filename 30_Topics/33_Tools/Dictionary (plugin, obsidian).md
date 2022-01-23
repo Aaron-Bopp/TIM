@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/11/04, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Hub:: [obsidian-dictionary-plugin - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/obsidian-dictionary-plugin) 
 

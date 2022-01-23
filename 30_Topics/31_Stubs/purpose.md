@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/08/09, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **See**:: 

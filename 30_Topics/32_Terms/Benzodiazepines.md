@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Class of drugs that depress the [[central nervous system]] via the amino acid [[Neurotransmitter]]: gamma-aminobutyric acid (GABA). [[GABA]] is a major inhibitory [[Neurotransmitter]] in the [[brain]]. [[Benzodiazepines]] increase the activity of GABA, thereby producing a sedating effect, relaxing skeletal muscles, and inducing [[sleep]], [[anesthesia]], and [[amnesia]].
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

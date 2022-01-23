@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/11/08, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Define a stable interface that allows access to a hidden entity through *defined methods*, *legal input*, and *return values*
 

@@ -7,6 +7,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 A center of integration for limbic information and valence monitoring. The BNST, sometimes referred to as the extended [[amygdala]], is located in the basal forebrain and is a sexually dimorphic structure made up of between 12 and 18 sub-nuclei.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2022/01/01, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 From the [[Sanskrit]], [[Ahamkara]] - The sense of "I" or sense of [[self]] that we take on and articulate.
 

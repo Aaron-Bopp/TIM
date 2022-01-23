@@ -9,6 +9,8 @@ sr-interval: 10
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Example:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/knowledge-and-the-mind/meditations/activating-ajna-chakra)
 ^[[[course_Dr. K's Guide to Mental Health]]]

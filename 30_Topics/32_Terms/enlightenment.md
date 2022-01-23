@@ -10,6 +10,8 @@ aliases:
 - samadhi
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 enlightenment, [[liberation]], [[self]]-Realization, God-Realization, nirvikalpa samadhi and finally [[Moksha]]

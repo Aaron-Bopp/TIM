@@ -3,9 +3,11 @@ created: 2021-12-31
 edited: 
 aliases:
   - null
-tags: created/topic/2021/12/31, node/topic/term
+tags: created/topic/2021/12/31, review, node/evergreen/technique
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Also known as sequential [[mantra]] [[meditation]], or [[prayer beads]] based [[meditation]], the technique consists or repeating a [[mantra]] a certain number of times. This amount is based on your [[prayer beads]] but you can also use the segments of your fingers. While "Om" is an appropriate [[mantra]], a personal mantra given to you by a guru will be more powerful.  
 ^[[[course_Dr. K's Guide to Mental Health#Meditation techniques]]]
@@ -14,11 +16,3 @@ Example:: [Japa](https://coaching.healthygamer.gg/guide/lessons/intro-to-mantra-
 
 **See**:: [[eastern philosophy]], [[self-love]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%

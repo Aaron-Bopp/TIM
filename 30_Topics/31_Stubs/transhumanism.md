@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/11/18, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Transhumanism is the [[philosophy]] concerning general advocation for [[humanity]]'s potential to modify itself with [[technology]] to the point that we are beyond human.
 

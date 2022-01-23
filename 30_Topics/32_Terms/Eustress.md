@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Moderate or normal [[Psychology|psychological]] stress interpreted as being beneficial for the experiencer.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

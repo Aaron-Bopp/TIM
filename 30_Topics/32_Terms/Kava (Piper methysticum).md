@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 A [[herb]] originating in the South Pacific, Kava is purported to relieve insomnia, restlessness, and stress. However, it is known to cause liver damage. 
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

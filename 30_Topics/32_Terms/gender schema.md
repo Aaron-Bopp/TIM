@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/10/03, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
  schema that processes and organizes gender-linked associations [^1]

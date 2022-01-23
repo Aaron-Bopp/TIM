@@ -7,6 +7,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 **Cognitive Behavioral Therapy** is a
 form [[psychotherapy]] that focuses on identifying inaccurate or negative thinking, so you can view challenging situations more clearly and respond to them in a more effective way.

@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 The psychological interpretation of mental and emotional processes. Rooted in traditional [[psychoanalysis]], it draws from object relations, [[ego psychology]], and [[self psychology]]
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

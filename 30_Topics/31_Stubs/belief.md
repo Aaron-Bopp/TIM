@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/31, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Y-axis: [[Belief is productive]] <--> [[Belief is detrimental]]
 X-axis: [[On a personal level]] <--> [[On a societal level]]

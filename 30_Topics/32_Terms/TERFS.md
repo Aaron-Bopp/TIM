@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/11/06, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 [[transgender|Trans]] Exclusionary Radical [[Feminism|feminist]]
 

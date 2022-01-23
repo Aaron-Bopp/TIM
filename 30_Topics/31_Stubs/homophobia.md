@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/10/19, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **See**:: [[social justice]], [[transphobia]]

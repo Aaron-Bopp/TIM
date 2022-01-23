@@ -7,6 +7,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Major inhibitory [[Neurotransmitter]] in the central nervous system which potentiates a sedating effect, relaxing skeletal muscles, and inducing sleep, anesthesia, and amnesia.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

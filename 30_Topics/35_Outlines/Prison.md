@@ -6,6 +6,8 @@ aliases:
 - prisons
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 This topic serves as a bride between [[Prison abolition]] and the [[prison-industrial complex]].

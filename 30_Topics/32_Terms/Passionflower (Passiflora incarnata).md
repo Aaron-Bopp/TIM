@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Perennial wildflower that is commonly found in the southern United States. Passionflower extract purported to relieve [[anxiety]] and [[insomnia]] . Please consult with your healthcare provider before taking any herbal supplements.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

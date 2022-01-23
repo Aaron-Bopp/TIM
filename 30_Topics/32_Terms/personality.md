@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/10/18, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
  The combination of outward characteristics or qualities that form an individual's distinctive character. As a opposed to inward characteristics which make up you [[identity]]

@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 The tendency to anxiously expect, readily perceive, and intensely react to rejection  [^1]
 

@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/10/20, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Masculinism is an ideology that justifies male domination and upholds the patriarchy. Masculinism is taught intrinsically and as the only option forcing males to position themselves within it.  [^1]
 

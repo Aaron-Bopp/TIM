@@ -6,6 +6,8 @@ aliases:
   - defense-mechanism
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 

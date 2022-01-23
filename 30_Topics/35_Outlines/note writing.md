@@ -6,6 +6,8 @@ aliases:
 - "note-writing"
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **Status**:: #EVER/SPROUT 

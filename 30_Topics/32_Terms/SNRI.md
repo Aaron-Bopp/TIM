@@ -7,6 +7,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Class of drugs that work by inhibiting its [[serotonin]] and [[norepinephrine]] reuptake in the synaptic cleft and are typically used as [[antidepressants]].
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

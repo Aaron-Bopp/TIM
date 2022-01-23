@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/10/10, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **See**:: [[feminism]], [[social justice]], [[Masculinity]]

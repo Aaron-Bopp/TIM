@@ -1,11 +1,13 @@
 ---
 created: 2021-12-29 
-edited: 2021-12-29
+edited: 
 aliases:
   - null
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Critical observation or examination.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

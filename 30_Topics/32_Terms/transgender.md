@@ -7,6 +7,8 @@ aliases:
 - transness
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **See**:: [[Queer]], [[gender]]

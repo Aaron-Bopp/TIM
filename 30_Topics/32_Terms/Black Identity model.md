@@ -6,6 +6,8 @@ aliases:
   - black identity
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **See**:: [[identity]], [[Psychology]]

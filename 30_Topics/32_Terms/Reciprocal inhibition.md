@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2022/01/18, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 **Reciprocal inhibition** means is that our cortices will suppress our [[emotions]] and our emotions will suppress our [[cortices]] 
 ^[[[video_How logical thinking leads to irrationality]]]

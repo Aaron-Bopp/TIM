@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/07, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 #TO/EXPLORE/READ [A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method](https://zettelkasten.de/posts/three-layers-structure-zettelkasten/)
 

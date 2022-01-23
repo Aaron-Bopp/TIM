@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/05/31, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 An [[eastern philosophy|eastern system]] of introspection and self-discovery whose goal is to allow the practitioner to realize their true nature, get rid of [[suffering]], and become blissful by [[nature]].
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

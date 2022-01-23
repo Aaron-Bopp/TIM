@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/07/21, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 > "If you are the common denominator [in bad situations], then you also have the power to change those situations"
 > ^[[Interview With A Murderer: Live After Prison - YouTube](https://youtu.be/W96yNjU_KFE?t=3949)]

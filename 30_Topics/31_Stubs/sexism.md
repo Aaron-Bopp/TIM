@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/11/07, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Prejudice based on someone's sex or [[gender identity]]
 

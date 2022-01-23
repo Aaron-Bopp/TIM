@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/08/01, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
  [[Self-perception]] is the way that you view yourself externally, and it may be instep or out of step with the way you view yourself internally, or your [[self-image]]. This [[perception]] may be based in reality, but it is often influenced by societal pressures, [[inter-personal communication]], [[gender]] schema, or [[body dysmorphia]]
 

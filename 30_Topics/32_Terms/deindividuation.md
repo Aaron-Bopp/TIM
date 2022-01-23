@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/11/02, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 A state where the person is anonymous and the social [[identity]] is demphasized.
 

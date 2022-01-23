@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/11/16, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 The HyperText Markup Language, or HTML, is the standard markup [[language]] for documents designed to be displayed in a web browser. It can be assisted by technologies such as [[CSS]] and  [[JavaScript]].
 

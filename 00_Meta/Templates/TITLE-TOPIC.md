@@ -1,1 +1,1 @@
-##### [[<% tp.file.title %>]] `=length(this.file.inlinks)` 
+#### <s class="topic-title">[[<% tp.file.title %>]]</s> 

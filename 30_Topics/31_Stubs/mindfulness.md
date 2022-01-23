@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/06/24, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Mindfulness is the practice of purposely bringing one's attention to experiences occurring in the present moment without [[judgement|judgment]]. [^1] 
 

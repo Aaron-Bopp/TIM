@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/02, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 An architecture level pattern that gives advice on how to structure an application
 ^[[[notes_WebDev FA21]]]
 

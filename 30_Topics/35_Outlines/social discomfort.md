@@ -5,6 +5,8 @@ tags: created/topic/2021/06/16, node/topic/outline
 parent: [[anxiety]]
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **See**:: [[anxiety]]

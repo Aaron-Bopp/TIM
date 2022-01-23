@@ -6,6 +6,8 @@ aliases:
   - meditating
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 **See**:: [[yoga]], [[mental health]]

@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/10/17, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 A generalized treatment towards a group or a member of group  [^1]

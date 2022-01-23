@@ -7,6 +7,8 @@ tags: created/topic/2021/11/16, node/topic/tool
 ---
 
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 # Python
 

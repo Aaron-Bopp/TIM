@@ -9,6 +9,8 @@ sr-interval: 8
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 Activates [[Vishuddha Chakra]], which governs your ability to make change on the world.
 Darth Vader [[breathing]], constrict your [[throat]] and allow your air to run over your vocal coords.

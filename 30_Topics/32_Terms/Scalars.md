@@ -4,6 +4,8 @@ edited:
 tags: created/topic/2021/10/16, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 
 numbers used to scale vectors. [^1]

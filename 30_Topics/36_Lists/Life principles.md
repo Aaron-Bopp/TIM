@@ -6,6 +6,8 @@ aliases:
 tags: created/topic/2021/12/26, node/topic/list
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+<% tp.file.include("[[TITLE-TOPIC]]") %>
+
 
 > principle, a fundamental truth or proposition that serves as the foundation for a [[belief systems|system of belief]] or behavior or for a chain of reasoning.
 
