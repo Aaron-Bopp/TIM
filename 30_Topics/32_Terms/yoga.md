@@ -3,32 +3,39 @@ created: 2021-05-31
 edited: 
 aliases:
   - Yogic
-tags: created/topic/2021/05/31, node/topic/term
+tags: created/topic/2021/05/31, review, node/topic/term
+sr-due: 2022-01-25
+sr-interval: 2
+sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+#### <s class="topic-title">[[yoga]]</s> 
 
 An [[eastern philosophy|eastern system]] of introspection and self-discovery whose goal is to allow the practitioner to realize their true nature, get rid of [[suffering]], and become blissful by [[nature]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
-
- There are four ways to connect to the [[infinite]] 
 ^[[[notes_History of Meditation]]]
-- [[Bhakti Yoga]] religious path
-- [[Karma Yoga]] purification through good deeds
-- [[Jnana Yoga]] brute force way to [[enlightenment]] through intense [[philosophy]]
-- [[Raja Yoga]] step wise process 
-Other systems of yoga
-- [[Kriya Yoga]] 
-- [[Jnana Yoga]]
-- [[Hatha Yoga]]
-- [[Kundalini Yoga]]
 
 **See**:: [[mind-body complex]], [[enlightenment]], [[Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+There are four ways to connect to the [[infinite]] [[energy]] of the [[universe]]; [[Brahman]]
+^[[[notes_Metaphysics of Meditation]]]
+- [[Bhakti Yoga]] religious path
+- [[Karma Yoga]] purification through good deeds
+- [[Jnana Yoga]] brute force way to [[enlightenment]] through intense [[philosophy]]
+- [[Raja Yoga]] step wise process 
+
+Other systems of yoga
+- [[Kriya Yoga]] 
+- [[Hatha Yoga]]
+- [[Kundalini Yoga]]
+
+#### Covered in 
+- [[Yoga is a wholistic philosophy of self-improvement]]
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

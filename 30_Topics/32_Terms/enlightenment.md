@@ -7,20 +7,20 @@ aliases:
 - Self-Realization
 - God-Realization
 - nirvikalpa
-- samadhi
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+#### <s class="topic-title">[[enlightenment]]</s> 
 
-
-enlightenment, [[liberation]], [[self]]-Realization, God-Realization, nirvikalpa samadhi and finally [[Moksha]]
+enlightenment, [[liberation]], [[self]]-Realization, God-Realization, nirvikalpa, [[samadhi]] and [[Moksha]]
 
 **See**:: [[Buddhism]], [[human advancement]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

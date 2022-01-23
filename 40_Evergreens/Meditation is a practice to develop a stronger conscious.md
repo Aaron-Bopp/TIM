@@ -11,6 +11,7 @@ sr-ease: 210
 
 #### [[Meditation is a practice to develop a stronger conscious]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+[[Consciousness is our capacity to introspect]], so we can improve our [[conscious|consciousness]] in multiple ways. 
 Different styles of [[meditation]] will help us find the best way for our [[conscious|consciousness]] to adapt.
  ![[Pasted image 20211229235616.png]]
 ^[[[notes_Different Meditative Styles]]]
