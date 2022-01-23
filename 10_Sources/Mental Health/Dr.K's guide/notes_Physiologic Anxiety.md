@@ -13,8 +13,14 @@ tags: created/source/2021/12/30, node/source/notes
 
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/physiologic-anxiety)
 
+
 #### Terms
 - [[Physiologic Anxiety]]
 - [[Adrenaline]]
 - [[Reticular Activating Formation (RAF)]]
 - [[Diaphoresis]]
+
+## Notes
+- [[Physiologic Anxiety]] is a physical danger response triggered in a uneeded context
+	- [[Social anxiety isn't irrational it's just overcompensation]]
+	- western [[medicine]] focuses on 

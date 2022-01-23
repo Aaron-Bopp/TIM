@@ -10,7 +10,10 @@ tags: created/topic/2021/10/19, node/topic/term
 Ball of undigested [[emotions]] and mental impressions formed due to previous life experiences, that gets triggered and causes [[suffering]] in present day.
 ^[[[notes_Vedic Psychology]]]
 
-These n
+Emotional reactions from the [[Manas]] are stored in [[Samskara]] a
+These [[emotions]] generate [[anxiety]]
+^[[[notes_cognitive Anxiety]]]
+
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

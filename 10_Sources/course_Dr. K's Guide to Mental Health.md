@@ -82,9 +82,10 @@ type:
 - [[notes_the Nature of Self]]
 - [[notes_Panchakosha Theory]]
 - [[notes_Confidence vs Ego]]
-## Unwatched
 - [[notes_Vedic Psychology]]
+- [[notes_Working with Samskaras]]
 - [[notes_What is an Anxiety Disorder]]
+## Unwatched
 - [[notes_Physiologic Anxiety]]
 - [[notes_Breath and Mind]]
 - [[notes_Tension in the Mind]]
@@ -100,7 +101,6 @@ type:
 - [[notes_General Treatment Principles]]
 - [[notes_Depression in a Holistic Lens]]
 - [[notes_Negative Emotions]]
-- [[notes_Working with Samskaras]]
 - [[notes_Ayurveda for Anxiety]]
 - [[notes_Dietary Guidance in Ayurveda]]
 - [[notes_Ayurveda for Depression]]
