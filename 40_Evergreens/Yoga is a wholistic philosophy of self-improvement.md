@@ -20,14 +20,14 @@ sr-ease: 190
 
 [[Raja Yoga]] focuses on gaining [[enlightenment]] through a stepwise process, involving 8 steps.
 ^[[[notes_History of Meditation]]]
-- Actions for the world
+- Actions for improving your actions
 	1. [[Yama]] pure standards; how we observe the world
 	2. [[Niyama]] good morals; how we make our way through the world
-- Actions for the [[mind-body complex]]
+- Actions for improving your [[mind-body complex]]
 	1. [[asanas]] [[yoga]] postures
 	4. [[Pranayama]] breath practices
 	5. [[Pratyahara]] restrain impulses
-- Actions for [[conscious|consciousness]]
+- Actions for improving your [[conscious|consciousness]]
 	6. [[Dharana]] focusing
 	7. [[Dhyana]] state of [[meditation]]
 	8. [[Samadhi]] state of temporary [[enlightenment]]

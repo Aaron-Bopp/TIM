@@ -9,9 +9,9 @@ type:
 ---
 
 ##### [[course_Dr. K's Guide to Mental Health ]]
-**Creator**:: 
+**Creator**:: [[Dr. K]]
  
-**Source**::
+**Source**:: https://coaching.healthygamer.gg/
 
 **Related**:: 
 #### Meditation techniques
@@ -78,8 +78,8 @@ type:
 ## Watched
 - [[notes_Intro to Ayurveda]]
 - [[notes_Shuddhi]]
-## Unwatched
 - [[notes_Satya]]
+## Unwatched
 - [[notes_the Nature of Self]]
 - [[notes_Panchakosha Theory]]
 - [[notes_Confidence vs Ego]]
