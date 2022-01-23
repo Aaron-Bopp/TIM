@@ -16,11 +16,11 @@ tags: created/source/2021/12/30, node/source/notes
 #### Terms
 - [[Ayurveda]]
 - [[SNRI]]
-- [[Serotonin Reuptake Inhibitor (SRI)]]
+- [[SRI]]
 - [[Psychodynamic Therapy]]
 - [[CBT]]
 - [[DBT]]
-- [[Complementary and Alternative Medicine (CAM)]]
+- [[CAM (Complementary and Alternative Medicine)]]
 - [[Benzodiazepines]]
 - [[GABA]]
 - [[Alprazolam]]

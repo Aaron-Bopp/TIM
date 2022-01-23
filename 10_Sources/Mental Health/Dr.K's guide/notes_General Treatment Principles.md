@@ -23,6 +23,6 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Psychodynamic Therapy]]
 - [[CBT]]
 - [[DBT]]
-- [[Complementary and Alternative Medicine (CAM)]]
+- [[CAM (Complementary and Alternative Medicine)]]
 - [[Traditional Chinese Medicine (TCM)]]
 - [[SSRI]]
