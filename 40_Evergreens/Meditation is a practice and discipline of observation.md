@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/24, review, node/evergreen/claim
-sr-due: 2022-01-22
-sr-interval: 10
-sr-ease: 190
+sr-due: 2022-01-27
+sr-interval: 5
+sr-ease: 170
 ---
 
 #### [[Meditation is a practice and discipline of observation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -4,22 +4,21 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/20, review, node/evergreen/claim
-sr-due: 2022-01-20
+sr-due: 2022-01-23
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
-#### [[Atheists don't believe that god doesn't exist]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Atheists don't believe that god doesn't exist they believe in a different source of truth]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 You can't believe a negative. 
-Their [[belief]] is based on either
-they believe that they don't need to believe,
-or they believe in something else.
+Their [[belief]] is based on 
+another source of [[truth]].
 
-The first requires a massive capacity for [[cognitive dissonance]], which most atheists don't have.
-The second is much more broad, and can mean a variety of things.
-1. They believe in the process of science
-2. They believe in themselves
+For some this source of [[truth]] is themselves. Either believing that that nobody needs [[belief]] or that they don't need [[belief]]. In reality this is a form of belief in and of itself.
+This requires a massive capacity for [[cognitive dissonance]], which most atheists don't have.
+
+The second is belief in a process.
 
 Atheists insistence that god doesn't exist is an acknowledgement of these other beliefs.
 If they believe in science, they believe that there is not enough evidence for god.

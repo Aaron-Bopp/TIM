@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-01-22
-sr-interval: 2
+sr-due: 2022-01-26
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -17,7 +17,7 @@ If we can focus our thoughts on one action over time we will see positive benefi
 [[Dharana]] is training our [[mind]] to do this, and though it we develop our [[motivation]]:
 [[Motivation and obsession are indistinguishable to an outside perspective]]
 
--  [[You can't control what happens you can only control what you do]]
+-  [[You can't control what happens]]
  - [[Self-belief is fundamental to good karma]]
  - [[Consciousness is the fundamental unit of existence]]
 	 - [[Consciousness is our capacity to introspect]]

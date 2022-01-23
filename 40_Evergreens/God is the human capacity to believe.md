@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/07, review, node/evergreen/claim
-sr-due: 2022-01-20
+sr-due: 2022-01-23
 sr-interval: 1
-sr-ease: 170
+sr-ease: 150
 ---
 
 #### [[God is the human capacity to believe]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -23,6 +23,7 @@ What is the nature of god? God is a social construction. God is our [[understand
 - [[Humans have decided to reject an unjust world]]
 - [[Worlds views should be open ended and adaptive]]
 - [[Strong enough logic becomes belief]] 
+- [[Atheists don't believe that god doesn't exist they believe in a different source of truth]]
 
 ### <hr class="footnote"/>
 

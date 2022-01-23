@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-01-20
-sr-interval: 1
+sr-due: 2022-01-26
+sr-interval: 4
 sr-ease: 190
 ---
 
@@ -13,12 +13,12 @@ sr-ease: 190
 
 - [[The history of meditation is a mixture of science and spirituality]]
 - [[Meditation is a practice and discipline of observation]] 
-- [[You can't control what happens you can only control what you do]]
+- [[You can't control what happens]]
 	- [[Right kinds of thoughts lead to right kinds of actions]]
 	- [[Consciousness is our capacity to introspect]]
 	- [[Consciousness is the fundamental unit of existence]]
 
-[[Raja Yoga]], also known as the path of Kings, that focuses on gaining [[enlightenment]] through a stepwise process, involving 8 steps.
+[[Raja Yoga]] focuses on gaining [[enlightenment]] through a stepwise process, involving 8 steps.
 ^[[[notes_History of Meditation]]]
 - Actions for the world
 	1. [[Yama]] pure standards; how we observe the world

@@ -4,8 +4,8 @@ edited:
 aliases:
   - "must acknowledge optimism's existence and effectiveness"
 tags: created/evergreen/2021/08/09, review, node/evergreen/claim
-sr-due: 2022-01-21
-sr-interval: 28
+sr-due: 2022-04-16
+sr-interval: 84
 sr-ease: 287
 ---
 
@@ -16,7 +16,7 @@ As a realistic person, you cannot fall into the trap that [[Sadness is enlighten
 If you are viewing the world through an accurate realistic lens you must acknowledge the existence of [[optimism]] and the effect that optimistic people have on the world. People who have large affects on the world usually do so because they have a hopeful vision of how the world CAN be, not because they have an unrealistic view of how the world is. [[Be the change you want to see in the world]]. 
 
 [[Knowledge of the world is painful]], and a realistic view of the world is often where the [[Anger fuels change| anger that fuels change]] comes from. 
-Even if you think that optimism is ignorant it does not change the fact that optimism can lead to change. Even if optimism is [[ignorance|ignorant]] it can still bring [[hope]], and
+Even if you think that [[optimism]] is ignorant it does not change the fact that optimism can lead to change. Even if optimism is [[ignorance|ignorant]] it can still bring [[hope]], and
 [[True optimism is acknowledging the suffering of the world and defying it anyway]]
 
 ### <hr class="footnote"/>

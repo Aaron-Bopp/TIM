@@ -4,16 +4,16 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/17, review, node/evergreen/question 
-sr-due: 2022-01-20
+sr-due: 2022-01-23
 sr-interval: 1
-sr-ease: 190
+sr-ease: 170
 ---
 
 #### [[Why representation in media is important]] `$=customjs.dv_funcs.evergreenheader(dv, this)`
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UZSwDZ72Lp8?start=2820" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> I had a choice to either move with [[fear]] or move [[love]]
+> I had a choice to either move with [[fear]] or move with [[love]]
 >
 > <cite>[[Lilly Singh]]</cite>
 

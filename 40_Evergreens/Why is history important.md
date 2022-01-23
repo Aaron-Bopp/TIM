@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2014/08/22, review, node/evergreen/claim
-sr-due: 2022-01-21
+sr-due: 2022-01-23
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[Why is history important]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

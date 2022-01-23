@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-01-21
-sr-interval: 6
+sr-due: 2022-02-07
+sr-interval: 16
 sr-ease: 210
 ---
 
@@ -21,7 +21,7 @@ If you are unsure what to even put in a [[second brain]],
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[knowledge management]] 

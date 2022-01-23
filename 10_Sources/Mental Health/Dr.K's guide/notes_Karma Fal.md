@@ -20,7 +20,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Bhagavad Gita]] some consider it to be the bible of [[Hinduism]] but it is a central text
 	- [[Krishna]] talking to [[Arjuna]] on the brink of great battle
 		- [[Krishna]] is believed to be an incarnation of [[God]]
-### [[You can't control what happens you can only control what you do]]
+### [[You can't control what happens]]
 - [[Karma Fal]] - [[karma]] = action + Fal = fruit
 	- You don't deserve any fruit from your actions you only deserve the action itself
 		- this isn't a natural way of thinking but being outcome oriented leads to a lot of [[suffering]]

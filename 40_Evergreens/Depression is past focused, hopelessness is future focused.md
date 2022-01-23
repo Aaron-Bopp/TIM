@@ -15,7 +15,7 @@ sr-ease: 210
 [[Hopelessness]] is giving up on your own ability to affect your life.
 
 - [[Hope is not optimism it is a practice for producing change]]
-- [[You can't control what happens you can only control what you do]]
+- [[You can't control what happens]]
 - [[The most reliable path to success is repeatedly trying to succeed]]
 
 ### <hr class="footnote"/>

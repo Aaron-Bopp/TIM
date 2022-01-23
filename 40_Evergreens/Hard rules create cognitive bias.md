@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/12, review, node/evergreen/claim
-sr-due: 2022-01-22
-sr-interval: 7
+sr-due: 2022-02-02
+sr-interval: 11
 sr-ease: 153
 ---
 
@@ -13,7 +13,7 @@ sr-ease: 153
 
 
 > [!example]
-> The [[Spaced Repetition (plugin)]] has inperfect support for nested tags. This means that when I try to review \#node/evergreen notes, it will not give me \#node/evergreen/technique notes. This lead to remove that sub tag and making it it's own \#node/technique. Does this mean this classifcation was incorrect? No, as I also tagged those notes with \#node/evergreen. All this lead to was a loss of information, due to a hard rule in [[software]].
+> The [[Spaced Repetition (plugin)]] has imperfect support for nested tags. This means that when I try to review \#node/evergreen notes, it will not give me \#node/evergreen/technique notes. This lead to remove that sub tag and making it it's own \#node/technique. Does this mean this classification was incorrect? No, as I also tagged those notes with \#node/evergreen. All this lead to was a loss of information, due to a hard rule in [[software]].
 
 
 - [[Is cognitive dissonance the reason for harmful behaviors]]

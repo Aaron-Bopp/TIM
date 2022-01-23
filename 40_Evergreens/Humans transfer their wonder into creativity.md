@@ -4,12 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-01-22
-sr-interval: 7
+sr-due: 2022-02-04
+sr-interval: 13
 sr-ease: 170
 ---
 
 #### [[Humans transfer their wonder into creativity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+Perhaps this is a 
+good result of:: [[Human's will find explanations for inexplainable things]]
 
 - [[The materialistic view of religions examines why humans invented and clung to religion]]
 - [[Humans are addicted to believing]]

@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-20
-sr-interval: 10
-sr-ease: 210
+sr-due: 2022-01-28
+sr-interval: 6
+sr-ease: 190
 ---
 
 #### [[People are radicalized when they are convinced that change is out of their control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

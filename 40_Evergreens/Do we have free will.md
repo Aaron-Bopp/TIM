@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/06, review, node/evergreen/question, 
-sr-due: 2022-01-22
-sr-interval: 18
-sr-ease: 170
+sr-due: 2022-02-01
+sr-interval: 10
+sr-ease: 150
 ---
 
 #### [[Do we have free will]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

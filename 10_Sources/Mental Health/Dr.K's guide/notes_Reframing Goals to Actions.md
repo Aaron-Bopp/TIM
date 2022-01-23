@@ -22,6 +22,6 @@ prev:: [[notes_Karma Fal]]
 - Our brain is incredibly good at reinforcing actions
 	- We set really abstract goals like stay sober for a year, but our mind pushes us to instant gratification
 	- Success comes from focusing on actions not outcomes
-		- [[You can't control what happens you can only control what you do]]
+		- [[You can't control what happens]]
 - Break down problems into very small things
 	- imagine you are writing a program for a computer to follow

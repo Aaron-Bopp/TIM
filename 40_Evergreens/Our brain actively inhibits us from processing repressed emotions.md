@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/06, review, node/evergreen/claim
-sr-due: 2022-01-21
-sr-interval: 6
-sr-ease: 210
+sr-due: 2022-01-25
+sr-interval: 3
+sr-ease: 190
 ---
 
 #### [[Our brain actively inhibits us from processing repressed emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

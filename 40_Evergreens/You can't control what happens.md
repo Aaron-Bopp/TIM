@@ -4,12 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/14, review, node/evergreen/claim
-sr-due: 2022-01-21
+sr-due: 2022-01-23
 sr-interval: 1
 sr-ease: 130
 ---
 
-#### [[You can't control what happens you can only control what you do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You can't control what happens]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Success comes from focusing on actions not outcomes. 
 

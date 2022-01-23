@@ -2,8 +2,8 @@
 created: 2021-06-15
 edited: 
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-01-21
-sr-interval: 2
+sr-due: 2022-01-25
+sr-interval: 3
 sr-ease: 130
 ---
 
@@ -37,7 +37,7 @@ In modern society, our [[anxiety]] can seem like a irrational response, but it i
 
 #TO/EXPLORE/RESEARCH is there a threshold where so many of you [[Hierarchy of needs]] are met that you have no choice but to fall into [[existential dread]]
 
-#TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[30_Topics/31_Stubs/OCD]]?
+#TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[OCD]]?
 %%
 
 [[Your anxiety knows your insecurities better than you do]].

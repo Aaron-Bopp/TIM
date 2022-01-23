@@ -43,7 +43,7 @@ type:
 		- [[notes_The Nature of Mind]]
 		- [[notes_System of Mind]]
 		- [[notes_Intro to Mantra Practice]]
-- [[You can't control what happens you can only control what you do]]
+- [[You can't control what happens]]
 	- [[notes_Karma Fal]]
 	- [[notes_Reframing Goals to Actions]]
 	- [[notes_Origin of Motivation]]

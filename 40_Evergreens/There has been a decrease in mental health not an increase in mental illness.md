@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-01-20
+sr-due: 2022-01-23
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[There has been a decrease in mental health not an increase in mental illness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,7 +19,7 @@ What is the reason behind this?
 	- [[Increases in scrutiny lead to increases in anxiety]]
 - [[material conditions]]
 	- [[existential dread]]
-	- [[You can't control what happens you can only control what you do]]
+	- [[You can't control what happens]]
 	- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 	- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 - [[Anxiety prevents us from living in the present]]

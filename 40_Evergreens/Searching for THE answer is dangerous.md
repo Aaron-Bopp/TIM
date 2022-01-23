@@ -23,7 +23,7 @@ You are trying to look for better [[understanding]],
 but if you more interested in satisfying your [[cognitive dissonance]] or [[ignorance]] 
 you going accept answers that are built off of logical fallacies and and aren't open to new [[information]].
 
-[[You can't control what happens you can only control what you do]],
+[[You can't control what happens]],
 similarly you can control what answer you are going to find you can only control how you look for it.
 If you spend a long time looking for this answer you will [[subconscious|subconsciously]] be unwilling to accept criticism of that point when you try to communicate it to others.
 ^[[[Human's have an inability to admit that they are wrong]]]

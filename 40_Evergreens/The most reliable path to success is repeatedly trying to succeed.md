@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-01-21
-sr-interval: 44
+sr-due: 2022-05-04
+sr-interval: 102
 sr-ease: 230
 ---
 #### [[The most reliable path to success is repeatedly trying to succeed]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,7 +17,7 @@ sr-ease: 230
 It's not about being successful, it's about doing what you can do to get close to [[success]].
 
 - [[Be the change you want to see in the world]]
-- [[You can't control what happens you can only control what you do]]
+- [[You can't control what happens]]
 - [[Right kinds of thoughts lead to right kinds of actions]] 
 
 ### <hr class="footnote"/>
