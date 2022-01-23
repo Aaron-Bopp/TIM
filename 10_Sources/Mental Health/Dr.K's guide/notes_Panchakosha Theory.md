@@ -27,6 +27,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Shuddhi]]
 
 ## Notes
+prev::[[notes_the Nature of Self]] 
 - [[Yogi|Yogis]] figured out a practical way to understand the human [[body]] in order to optimize our performance
 	- [[Yoga is a wholistic philosophy of self-improvement]]
 	- [[Panchakosha]] theory - [[human experience]] is made of five layers

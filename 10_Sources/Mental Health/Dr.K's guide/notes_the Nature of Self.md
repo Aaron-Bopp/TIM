@@ -18,6 +18,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[self]]
 
 ## Notes
+prev:: [[notes_Metaphysics of Meditation]]
 - [[Suffering]] comes from not being able to understand yourself - [[Yogi]]
 - Am I my body? no, my body changes but I am still me
 - Am I my [[mind]]? no, there is a you-ness that transcends emotion

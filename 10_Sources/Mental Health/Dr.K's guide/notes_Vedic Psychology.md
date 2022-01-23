@@ -21,3 +21,36 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Manas]]
 - [[Ahamkara]]
 - [[Citta]]
+
+## Notes
+- [[Western philosophy]] has many different answer to how does the [[mind]] work, and has two different methods of study
+	- Offers approximations based of off observations
+		- [[Sigmund Freud|Freud]] talked to people
+			- made inferences based on what people said
+			- look from the outside to the inside
+				- works very well in regular [[medicine]] but not in [[Psychology]]
+	- Science is population based not individual basis
+- [[Vedic Psychology]] offers a different perspective
+	- [[Yogi|Yogis]] focused on their own thoughts
+		- the [[subjective]] information we have about ourselves is better than the [[objective]] observations of others
+	- Less complex
+- Parts of the [[mind]]
+	- [[Manas]] - where we experience [[emotions]]
+		- reflexive, automatic, likes and dislikes
+	- [[Buddhi]] - intellect
+		-  analyze, recall, pattern match
+	- [[Ahamkara]]
+		- [[identity]], [[ego]], sense of I
+		- different quality from [[Manas]] and [[Buddhi]]
+	- [[Samskara]]
+		- memory impression, [[repressed]] memory, emotional reaction
+	- [[Citta]]
+		- backdrop of the mind, where [[Samskara]] are stored
+- Girl, dog, ice cream example
+- [[Psychotherapy]] is hiring somebody to help us develop our [[Buddhi]]
+- [[Ahamkara]] and [[Buddhi]] are at war
+	- [[Ahamkara]] > [[Buddhi]]
+		- [[Rationalizations are defense-mechanisms against strong emotions]]
+		- [[Our ego is our subconscious defense of our self]]
+	- [[Buddhi]] > [[Ahamkara]]
+		- insecure, people-pleasing

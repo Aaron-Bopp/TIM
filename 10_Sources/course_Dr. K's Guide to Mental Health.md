@@ -79,10 +79,10 @@ type:
 - [[notes_Intro to Ayurveda]]
 - [[notes_Shuddhi]]
 - [[notes_Satya]]
-## Unwatched
 - [[notes_the Nature of Self]]
 - [[notes_Panchakosha Theory]]
 - [[notes_Confidence vs Ego]]
+## Unwatched
 - [[notes_Vedic Psychology]]
 - [[notes_What is an Anxiety Disorder]]
 - [[notes_Physiologic Anxiety]]
