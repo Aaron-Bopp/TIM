@@ -1,19 +1,16 @@
 ---
-created: 2021-07-05
+created: 2022-01-23T10:55:33 
 edited: 
 aliases:
-  - Buddhist
-tags: created/topic/2021/07/05, node/topic/outline
+  - null
+tags: created/topic/2022/01/23, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+#### <s class="topic-title">[[control]]</s> 
 
-#### <s class="topic-title">[[Buddhism]]</s> 
 
-- [[Theravada Buddhism]]
-- [[Vajrayana Buddhism]]
-- [[Mahayana Buddhism]]
 
-**See**:: [[religion]]
+**See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

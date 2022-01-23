@@ -6,17 +6,19 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+#### <s class="topic-title">[[Mahayana Buddhism]]</s> 
 
 A major branch of [[Buddhism]] which states that there are multiple [[Buddha]]s, or [[enlightenment|enlightened]] masters, all of whose teachers are worth learning from.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
+^[[[notes_History of Meditation]]]
 
 **See**:: [[Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

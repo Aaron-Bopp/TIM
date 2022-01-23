@@ -17,7 +17,7 @@ tags: created/topic/2021/12/29, node/topic/term
 - [[Vijnanamaya Kosha]] - intellect
 - [[Anandamaya Kosha]] - [[conscious|consciousness]]
 
-**See**:: [[yoga]]
+**See**:: [[yoga]], [[Vedic Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
