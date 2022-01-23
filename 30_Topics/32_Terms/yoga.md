@@ -16,6 +16,11 @@ An [[eastern philosophy|eastern system]] of introspection and self-discovery who
 - [[Karma Yoga]] purification through good deeds
 - [[Jnana Yoga]] brute force way to [[enlightenment]] through intense [[philosophy]]
 - [[Raja Yoga]] step wise process 
+Other systems of yoga
+- [[Kriya Yoga]] 
+- [[Jnana Yoga]]
+- [[Hatha Yoga]]
+- [[Kundalini Yoga]]
 
 **See**:: [[mind-body complex]], [[enlightenment]], [[Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

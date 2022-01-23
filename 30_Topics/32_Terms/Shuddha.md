@@ -10,7 +10,7 @@ tags: created/topic/2021/12/29, node/topic/term
 Also known as Shaucha, it is the observance of cleanliness, a [[Niyama]] in [[Raja Yoga]].
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
-**See**:: [[Swadhyaya]], [[Santosha]], [[Tapas]], [[Iswara Pranidhana]]
+**See**:: [[Niyama]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

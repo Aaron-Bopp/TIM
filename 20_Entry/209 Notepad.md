@@ -1,3 +1,4 @@
+#TO/EXPLORE/WATCH https://www.youtube.com/watch?v=leX541Dr2rU
 resources for implementing [[Dewey Decimal System]] https://www.librarything.com/mds https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf
 
 #TO/EXPLORE/CONCEPTUALIZE [Three Basic Elements of Note-taking - YouTube](https://www.youtube.com/watch?v=e2uaqleh9W0) 

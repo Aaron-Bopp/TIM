@@ -16,7 +16,7 @@ Observances
 - [[Satya]] truthfulness
 - [[Asteya]] non-stealing
 - [[Brahmacharya]] non-lustfulness (not celibacy)
-- [[Aparigraha]] non-possesiveness
+- [[Aparigraha]] non-possessiveness
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

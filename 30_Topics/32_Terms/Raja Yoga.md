@@ -18,7 +18,7 @@ A system of [[Yoga]], also known as the path of Kings, that focuses on gaining [
 7. [[Dhyana]] state of [[meditation]]
 8. [[Samadhi]] state of temporary [[enlightenment]]
 
-**See**:: [[yoga]], [[Raja Yoga]], [[Bhakti Yoga]], [[Kriya Yoga]], [[Jnana Yoga]], [[Karma Yoga]], [[Hatha Yoga]]
+**See**:: [[yoga]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

@@ -10,7 +10,12 @@ tags: created/topic/2021/12/29, node/topic/term
 The path of the [[mind]], which focuses on exploring the nature of the mind.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
-**See**:: [[Siddhi Padha]], [[Sukkha Padha]], [[Jnana Padha]], [[Atman Padha]]
+- [[notes_The Nature of Mind]]
+- [[notes_System of Mind]]
+- [[notes_Intro to Mantra Practice]]
+- [[notes_Vedic Psychology]]
+
+**See**:: [[mantra]], [[Indriya]], [[Vedic Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

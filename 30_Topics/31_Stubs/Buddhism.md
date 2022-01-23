@@ -7,6 +7,9 @@ tags: created/topic/2021/07/05, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
+- [[Theravada Buddhism]]
+- [[Vajrayana Buddhism]]
+- [[Mahayana Buddhism]]
 
 **See**:: [[religion]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

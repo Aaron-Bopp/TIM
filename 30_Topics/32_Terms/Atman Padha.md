@@ -10,7 +10,11 @@ tags: created/topic/2021/12/29, node/topic/term
 The path of the [[self]], which explores the nature of a [[humanity|human]] being, and what makes up a person.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
-**See**:: [[Siddhi Padha]], [[Manas Padha]], [[Jnana Padha]], [[Sukkha Padha]]
+- [[notes_the Nature of Self]]
+- [[notes_Panchakosha Theory]]
+- [[notes_Confidence vs Ego]]
+
+**See**:: [[self-actualization]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

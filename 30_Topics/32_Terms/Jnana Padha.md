@@ -8,9 +8,12 @@ tags: created/topic/2021/12/29, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 The path of [[knowledge]], which explores the nature of learning and understanding.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
+^[[[notes_Overview of Meditation Module]]]
 
-**See**:: [[Siddhi Padha]], [[Manas Padha]], [[Sukkha Padha]], [[Atman Padha]]
+- [[notes_Knowledge of the Mind]] 
+- [[notes_Vidya and Jnana]]
+
+**See**:: [[Vidya]], [[Jnana]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
