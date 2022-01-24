@@ -15,8 +15,6 @@ sr-ease: 170
 ^[[[notes_Brain Gut Axis]]]
 While many think of [[meditation]] as a practice for the most disciplined and devout of monks, the practice of [[meditation]] has been shown to have powerful effects on [[mental health]] of people from all backgrounds.  
 
-- [[Meditation is a practice and discipline of observation]]
-
 - [[Meditation helps us regulate our nervous system]]
 - [[Meditation helps us regulate our hormonal environment]]
 
@@ -25,6 +23,7 @@ While many think of [[meditation]] as a practice for the most disciplined and de
 - [[Meditation helps us develop empathy]]
 
 - [[Consciousness is our capacity to introspect]]
+- [[Meditation is a practice to gain control over your thoughts]]
 - [[Meditation is a practice to develop a stronger conscious]]
 
 - [[How to develop a meditation practice]]

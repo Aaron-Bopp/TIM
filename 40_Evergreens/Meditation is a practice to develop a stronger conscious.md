@@ -31,7 +31,7 @@ of the [[universe]]:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[mindfulness]], 

@@ -20,7 +20,7 @@ and if we are able to more easily observe our thoughts we are more [[conscious]]
 
 This is no new idea, and is the basis of much [[eastern philosophy]].
 ^[
-[[Meditation is a practice and discipline of observation]]
+[[Meditation is a practice to gain control over your thoughts]]
 and so it
 it strengthens our ability to observe ourselves:
 [[Meditation is a practice to develop a stronger conscious]]

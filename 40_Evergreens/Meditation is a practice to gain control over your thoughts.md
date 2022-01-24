@@ -11,10 +11,14 @@ sr-ease: 230
 
 #### [[Meditation is a practice to gain control over your thoughts]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+When [[Western philosophy|western]] researcher's started studying the science behind [[meditation]] and [[Yoga]] they tried to distill these practices into one thing:  [[mindfulness]]
+^[[[notes_History of Meditation]]]
+
+There are many different styles of [[Yoga]], but at the core of all of the them is [[understanding]] and gaining control over your [[mind]] so that we can better live in the current moment.
 [[Consciousness is our capacity to introspect]], and [[Meditation is a practice to develop a stronger conscious]] so it follows that [[meditation]] will help you gain control over your thoughts in a variety of different ways.
 
-In [[Vedic Psychology]], the [[mind]] is divided into five layers, and understanding how these layers work together was key was the [[Yogi|Yogis]] developed and refined [[meditation]]:
-[[Yoga is a wholistic philosophy of self-improvement]]
+In [[Vedic Psychology]], the [[mind]] is divided into five layers, and understanding how these layers work together was key for how the [[Yogi|Yogis]] developed and refined [[meditation]]:
+[[The history of meditation is a mixture of science and spirituality]]
 
 These five layers of the [[brain]] interact to create thought from process information from our [[Indriya|sensory organs]] and to process information from our [[unconscious]].
 Because [[Mental health is a reaction to one's environment]], a practice that improves both sides of this process is will be very helpful.
@@ -28,7 +32,6 @@ regulating [[hormone]]s, which is why
 [[Yoga]] combines [[meditation]] with [[discipline]] and practices that are enhanced and can enhance [[meditation]]:
 [[Yoga is a wholistic philosophy of self-improvement]]
 
-
  
 
 ### <hr class="footnote"/>
@@ -36,7 +39,5 @@ regulating [[hormone]]s, which is why
 **Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[meditation]], [[mindfulness]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

@@ -30,6 +30,7 @@ by constantly putting up thoughts to prevent them from sinking in.
 Once the mind is calm, these thoughts can make their way through
 ![[Pasted image 20211231162555.png]]
 
+#TO/TEND/GRAFT [[notes_Working with Samskaras]]
 
 This isn't an easy process, as the [[ego]] will be trying it's hardest to protect it's current state.
 This process requires introspection and [[observation]] of your [[mind-body complex]] and it's processes.
@@ -44,7 +45,7 @@ so it is important to understand
  
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[emotions]], [[meditation]], [[mindfulness]], [[human experience]]

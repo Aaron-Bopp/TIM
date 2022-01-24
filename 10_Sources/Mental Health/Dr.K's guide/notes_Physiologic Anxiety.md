@@ -21,6 +21,24 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Diaphoresis]]
 
 ## Notes
-- [[Physiologic Anxiety]] is a physical danger response triggered in a uneeded context
+- [[Physiologic Anxiety]] is a physical danger response triggered in a unneeded context
 	- [[Social anxiety isn't irrational it's just overcompensation]]
-	- western [[medicine]] focuses on 
+- western [[medicine]] focuses on mental aspects of [[anxiety]] not the [[physiology|physiological]] 
+- anxiety is a inappropriate activation of a survival trigger [[Our brains are built around survival]]
+	- tiger example
+	- [[Adrenaline]]
+		- faster than speed of thought
+		- collapses peripheral vision
+		- causes [[hyperfocus]] and black and white thought
+		- turns off logical parts of the brain in favor of [[fight-or-flight response]]
+		- causes [[Diaphoresis]] (causes us to sweat)
+	- [[Cortisol]]
+		- sustained energy
+		- hyperactive immune system
+		- sacrifices long-term health for temporary survival
+		- cortisol transforms our muscle into fat
+		- mediates skin and gland problems
+		- de-marginalizes white blood cells
+	- [[Reticular Activating Formation (RAF)]]
+		- sleep and wakefulness
+		- 

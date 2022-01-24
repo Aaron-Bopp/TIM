@@ -15,7 +15,7 @@ sr-ease: 190
 It does this by helping us understand and connect the different parts of our being.
 
 - [[The history of meditation is a mixture of science and spirituality]]
-- [[Meditation is a practice and discipline of observation]] 
+- [[Meditation is a practice to gain control over your thoughts]] 
 - [[You can't control what happens]]
 	- [[Right kinds of thoughts lead to right kinds of actions]]
 	- [[Consciousness is our capacity to introspect]]

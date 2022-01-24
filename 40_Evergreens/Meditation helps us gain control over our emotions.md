@@ -12,7 +12,7 @@ sr-ease: 130
 #### [[Meditation helps us gain control over our emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Meditation is a practice to develop a stronger conscious]]
-[[Meditation is a practice and discipline of observation]]
+[[Meditation is a practice to gain control over your thoughts]]
 
 The reason that certain [[meditation]] styles work for different people lies in the our brains. 
 If your [[limbic system]] is failing to regulate your [[emotions]], [[meditation]] can help your [[Frontal Lobe|Frontal Lobes]] to gain [[control]].

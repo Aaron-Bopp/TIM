@@ -14,8 +14,9 @@ tags: created/source/2021/12/30, node/source/notes
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/thought-loops)
 
 #### Terms
-- grappling and exhausting, unproductive
-- always come back around to the same thought
+- [[Thought Loops]]
+	- grappling and exhausting, unproductive
+	- always come back around to the same thought
 - the [[mind]] loves to think, when it needs to relax to more it wants to think
 	- sometimes your organs do things that aren't good for you
 	- The ultimate goal of your [[mind]] is to keep thinking

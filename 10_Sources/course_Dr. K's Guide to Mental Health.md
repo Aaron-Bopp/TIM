@@ -54,7 +54,7 @@ type:
 # Concepts
 - [[Consciousness is our capacity to introspect]]
 - [[meditation]]
-	- [[Meditation is a practice and discipline of observation]]
+	- [[Meditation is a practice to gain control over your thoughts]]
 		- [[notes_Overview of Meditation Module]]
 		- [[notes_Different Meditative Styles]]
 	- [[Meditation improves mental, physical, and emotional health]]
@@ -117,9 +117,9 @@ type:
 - [[notes_Vedic Psychology]]
 - [[notes_Working with Samskaras]]
 - [[notes_What is an Anxiety Disorder]]
-## Unwatched
 - [[notes_Physiologic Anxiety]]
 - [[notes_Breath and Mind]]
+## Unwatched
 - [[notes_Tension in the Mind]]
 - [[notes_Feeding the Beast]]
 - [[notes_Solutions to Anxiety]]

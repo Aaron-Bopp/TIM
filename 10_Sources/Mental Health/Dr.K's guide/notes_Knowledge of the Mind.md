@@ -49,7 +49,7 @@ type:
 	- we can also adjust what we are [[senses|sensing]] ([[Indriya]]), by lighting certain incense listening to music 
 - this is why [[spaced repetition]] is valuable. working memory gets locked down into our permanent memory in the [[Hippocampus]] while we [[sleep]] 
 - if we create boundaries around or time our [[mind]] will start to respect those
-	- [[Meditation is a practice and discipline of observation]]
+	- [[Meditation is a practice to gain control over your thoughts]]
 	- contrasts [[Better tools allow us to be less disciplined and more productive]] because this [[discipline]] actually makes our [[mind]] a better tool 
 - How to study depending on your [[Dosha]]
 	- [[Kapha]] slower to start but once they get into they can go for a very long time

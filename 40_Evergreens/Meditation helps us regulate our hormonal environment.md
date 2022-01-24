@@ -13,12 +13,10 @@ sr-ease: 170
 
 20 minutes of [[meditation]] every day or every other day will impact your [[stress]] physiology through turning off your [[Hypothalamic Pituitary Adrenal (HPA) Axis]] which reduces [[Cortisol]]: 
 ^[[[notes_Science of Meditation]]]
-[[Our brains are built around survival]]
+[[Our brains are built around survival]], and will regularly produce [[hormone|hormones]] to produce a higher chance of survival.
+^[This is because [[Humans are a product of evolution]]]
 
 This is how [[meditation]] could affect [[ADHD]]. [[ADHD is not a lack of attention it is a misplacement of attention]]
-
-
-
 
 ### <hr class="footnote"/>
 
@@ -27,5 +25,3 @@ This is how [[meditation]] could affect [[ADHD]]. [[ADHD is not a lack of attent
 
 **Topics**:: [[meditation]], [[hormone]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

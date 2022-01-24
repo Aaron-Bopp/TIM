@@ -23,7 +23,7 @@ tags: created/source/2021/12/30, node/source/notes
 			- habit is automatic thought, and motivation is intentional thought
 	- [[Yogi|Yogis]] realized motivation is just keeping one thought in mind over a long period of time
 		- other people will perceive this as motivation
-		- [[Meditation is a practice and discipline of observation]]
+		- [[Meditation is a practice to gain control over your thoughts]]
 		- [[Meditation increases our ability to influence the world]]
 		- [[The most reliable path to success is repeatedly trying to succeed]]
 - [[Dharana]] is training to keep your mind focused on one point

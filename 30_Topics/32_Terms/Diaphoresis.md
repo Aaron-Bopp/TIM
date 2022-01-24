@@ -6,17 +6,19 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+#### <s class="topic-title">[[Diaphoresis]]</s> 
 
-Profuse sweating that is unrelated to the usual and normal stimuli.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
+Profuse sweating that is unrelated to the usual and normal stimuli. Usually caused by [[Adrenaline]]
+^[[[notes_Physiologic Anxiety]]]
 
-**See**::
+**See**:: [[Physiologic Anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

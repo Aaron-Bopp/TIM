@@ -19,7 +19,7 @@ Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
 		- what does it feel like
 	- Catch that moment and observe it
 		- "It's not about the answer it's about training yourself to look"
-[[Meditation is a practice and discipline of observation]]
+[[Meditation is a practice to gain control over your thoughts]]
 
 [^1]: https://www.youtube.com/watch?v=n4jSkOjuLIg&t=5640s
 
