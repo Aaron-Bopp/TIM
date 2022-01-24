@@ -15,7 +15,7 @@ The [[Sanskrit]] word for [[duty]] or [[responsibility]].
 **See**:: [[eastern philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-If you believe in [[karma]] then finding your [[Dharma]] is equivalent to finding your [[purpose]] in life. You do this by acknowledging your [[karma]] and discovering your true [[self]] through [[yoga]] and [[meditation]]
+If you believe in [[karma]] then finding your [[Dharma]] is equivalent to finding your [[purpose]] in life. You do this by acknowledging your [[karma]] and discovering your true [[self]] through [[Yoga]] and [[meditation]]
 ^[[[notes_Vedic Psychology]]]
 
 

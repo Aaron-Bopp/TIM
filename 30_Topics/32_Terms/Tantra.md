@@ -13,7 +13,7 @@ It is an [[eastern philosophy|eastern system]] of [[spirituality]] that focuses 
 ![[Pasted image 20211229224350.png]]
  ^[[[notes_History of Meditation]]]
 
-**See**:: [[yoga]], [[mantra]], [[Yantra]], [[Yajna]], [[Vajrayana Buddhism]]
+**See**:: [[Yoga]], [[mantra]], [[Yantra]], [[Yajna]], [[Vajrayana Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

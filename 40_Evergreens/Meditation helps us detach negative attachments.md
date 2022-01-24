@@ -17,7 +17,8 @@ or being overly logical,
 ^[[[Rationalizations are defense-mechanisms against strong emotions]]]
 which ultimately lead to an overactive [[ego]] that prevents use from processing our the [[repressed]] [[emotions]].
 ^[[[Our ego is our subconscious defense of our self]]]
-We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and directly accessing our [[unconscious]].
+We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and directly accessing our [[unconscious]]:
+[[Meditation is a practice to gain control over your thoughts]]
 
 See the [[unconscious]] [[mind]] preventing our [[conscious]] mind from accessing those memories directly
 by constantly putting up thoughts to prevent them from sinking in.

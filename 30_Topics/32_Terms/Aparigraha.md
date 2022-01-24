@@ -12,7 +12,7 @@ tags: created/topic/2021/12/29, node/topic/term
 The observance of non-possessiveness or non-attachment, a [[Yama]] in [[Raja Yoga]].
 ^[[[notes_Different Meditative Styles]]]
 
-**See**:: [[yoga]]
+**See**:: [[Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

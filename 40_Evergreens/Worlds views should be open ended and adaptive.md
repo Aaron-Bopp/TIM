@@ -14,7 +14,7 @@ sr-ease: 230
 [[The Christian worldview is incompatible with most other worldviews]] because [[Worldviews should not make life seem easy and simple]]. 
 As the world continues to change and grow, we see [[Christianity]] starting to clash with modern day perspectives.
 ^[[[The church will fail if christians keep aligning themselves with hate instead of love]]]
-While [[eastern philosophy]] like [[meditation]], [[yoga]], and even [[Buddhism]] become more and more accepted in the west.
+While [[eastern philosophy]] like [[meditation]], [[Yoga]], and even [[Buddhism]] become more and more accepted in the west.
 This is because these [[worldview]]s broke down [[humanity]] to it's core elements. As we learn more about how the [[body]] and [[mind]] work, we only see more and more evidence for this viewpoints.
 ^[[[notes_Science of Meditation]]]
 

@@ -24,9 +24,9 @@ type:
 ### [[Meditation increases our ability to influence the world]]
 - [[meditation]] began 5000 years ago in [[India]]
 	- [[Tantra]] for anything to manifest we need direction and fuel
-		- [[mantra]], [[Yantra]], [[Yajna]] are both, and form the basis of [[yoga]]
+		- [[mantra]], [[Yantra]], [[Yajna]] are both, and form the basis of [[Yoga]]
 		- ![[Pasted image 20211229224350.png]]
-- [[yoga]] we are connected to an [[infinite]] [[conscious|consciousness]] called [[Brahman]]
+- [[Yoga]] we are connected to an [[infinite]] [[conscious|consciousness]] called [[Brahman]]
 	- ways to connect with the [[infinite]]
 		- [[Bhakti Yoga]] religious path
 		- [[Karma Yoga]] purification through good deeds
@@ -35,14 +35,14 @@ type:
 			- [[Yama]] pure standards
 				- [[Ahimsa]]
 			- [[Niyama]] good morals
-			- [[asanas]] [[yoga]] postures
+			- [[asanas]] [[Yoga]] postures
 			- [[Pranayama]] breath practices
 			- [[Pratyahara]] restrain impulses
 			- [[Dharana]] focusing
 			- [[Dhyana]] state of [[meditation]]
 			- [[Samadhi]] state of temporary [[enlightenment]]
-	- [[yoga]] is how we purify ourselves
-	- [[yoga]] is more based in purifying [[body]] and mind and [[meditation]] is more in detaching from them, but in the end they achieve the same thing #TO/PONDER/CONCEPT 
+	- [[Yoga]] is how we purify ourselves
+	- [[Yoga]] is more based in purifying [[body]] and mind and [[meditation]] is more in detaching from them, but in the end they achieve the same thing #TO/PONDER/CONCEPT 
 	- [[Hatha Yoga]]
 		- focused on [[asanas]] and [[Pranayama]]
 		- purely through perfecting mind and body you can achieve [[enlightenment]]

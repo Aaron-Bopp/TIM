@@ -22,5 +22,5 @@ A round is and inhale and exhale
 You can optionally involve [[Khechari Mudra]] where you point your tongue towards the back of your [[throat]]
 
 
-**See**:: [[meditation]], [[yoga]]
+**See**:: [[meditation]], [[Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)

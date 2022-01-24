@@ -10,7 +10,7 @@ aliases:
 
 
 
-**See**:: [[yoga]], [[mental health]]
+**See**:: [[Yoga]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

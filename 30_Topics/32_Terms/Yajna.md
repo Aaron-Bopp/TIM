@@ -12,7 +12,7 @@ tags: created/topic/2021/12/29, node/topic/term
 These are particular rituals that are used to harness the desired kind of cosmic energy.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
-**See**:: [[yoga]], [[Tantra]], [[Yantra]], [[mantra]]
+**See**:: [[Yoga]], [[Tantra]], [[Yantra]], [[mantra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

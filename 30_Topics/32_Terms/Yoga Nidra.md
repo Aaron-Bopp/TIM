@@ -9,10 +9,10 @@ tags: created/topic/2021/12/29, node/topic/term
 
 #### <s class="topic-title">[[Yoga Nidra]]</s> 
 
-Translated as "[[yoga|Yogic]] Sleep", it is a technique to achieve a deep state of relaxation.
+Translated as "[[Yoga|Yogic]] Sleep", it is a technique to achieve a deep state of relaxation.
 ^[[[notes_Working with Samskaras]]]
 
-**See**:: [[yoga]],[[body]]
+**See**:: [[Yoga]],[[body]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

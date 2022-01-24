@@ -12,7 +12,7 @@ tags: created/topic/2021/12/29, node/topic/term
 A phrase of power, almost like a magical spell, that is chanted to create a particular effect in the world.
  ^[[[notes_Intro to Mantra Practice]]]
 
-**See**:: [[yoga]], [[Tantra]], [[Yantra]], [[Yajna]]
+**See**:: [[Yoga]], [[Tantra]], [[Yantra]], [[Yajna]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

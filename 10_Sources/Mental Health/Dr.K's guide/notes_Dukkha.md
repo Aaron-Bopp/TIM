@@ -19,7 +19,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Bhagavad Gita]]
 
 ## Notes
-- [[yoga|Yogic]] answer to [[Dukkha]] or [[suffering]]
+- [[Yoga|Yogic]] answer to [[Dukkha]] or [[suffering]]
 - We are in the midst of a [[society|societal]] [[Dukkha]]
 - What is [[Dukkha]]
 	- has to do with attachment

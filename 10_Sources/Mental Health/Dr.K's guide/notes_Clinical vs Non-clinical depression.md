@@ -21,7 +21,7 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Clinical Depression]] is episodic
 	- it will go away on it's own as the [[body]] heals itself
 	- medication is to reduce duration, severity, and frequency of [[depression]]
-	- responds to [[mind]] [[body]] techniques like [[yoga]]
+	- responds to [[mind]] [[body]] techniques like [[Yoga]]
 	- the [[brain]] is lying to you, we can't follow it's inclinition
 - [[Congruent Depression]] defined by [[Dr. K]]
 	- "i've been depressed since I was a teenager"

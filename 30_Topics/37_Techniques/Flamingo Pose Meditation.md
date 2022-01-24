@@ -17,5 +17,5 @@ Examples:: https://youtu.be/UUC8qF5iDag?t=6195
 - is based off of the principle of doing something that forces your mind to be in the present.
 
 
-**Topics**:: [[meditation]], [[mental health]], [[yoga]], [[mindfulness]] 
+**Topics**:: [[meditation]], [[mental health]], [[Yoga]], [[mindfulness]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

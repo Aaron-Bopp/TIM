@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 #### <s class="topic-title">[[Prana]]</s> 
 
-It is the vital life-force [[energy]], closely connected to the breath according to the [[yoga|Yogic]] system.
+It is the vital life-force [[energy]], closely connected to the breath according to the [[Yoga|Yogic]] system.
 ^[[[notes_Depression in a Holistic Lens]]]
 
 **See**:: [[mind-body complex]],[[Brahman]]

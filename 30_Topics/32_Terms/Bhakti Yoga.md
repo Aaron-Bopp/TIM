@@ -12,7 +12,7 @@ tags: created/topic/2021/12/29, node/topic/term
 Similar to the major [[religion|religions]] of the world, it is the path of [[devotion]] which states that if you devote yourself to something greater than yourself (a [[value system]], [[purpose]], or [[god|deity]]), you will achieve [[enlightenment]].
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
-**See**:: [[yoga]] 
+**See**:: [[Yoga]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

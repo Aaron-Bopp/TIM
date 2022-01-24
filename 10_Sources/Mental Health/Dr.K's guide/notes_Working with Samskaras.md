@@ -34,5 +34,5 @@ prev:: [[notes_Vedic Psychology]]
 	- watch for reactions in your [[physiology]] 
 	- emotional catharsis
 	- each time you notice a [[Samskara]] you redevelop your reactions to it and weaken its power
-- [[yoga|Yogic]] techniques to generate 
+- [[Yoga|Yogic]] techniques to generate 
 	- [[Yoga Nidra]] to calm your mind so you can implant a [[Sankalpa]] in your [[unconscious]]

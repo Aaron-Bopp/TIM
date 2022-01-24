@@ -38,7 +38,7 @@ WHERE contains(topics, this.file.link)
 - Techniques to improve mental health
 	- [[Tips for concentration]]
 	- [[mindfulness]]
-	- ![[yoga#yoga customJS dv_funcs topicOutlineHeader dv this]]
+	- ![[Yoga#yoga customJS dv_funcs topicOutlineHeader dv this]]
 - [[Sadness is enlightenment and happiness is delusion]]
 - ![[my emotions#my emotions customJS dv_funcs topicOutlineHeader dv this]]
 - ![[self#self customJS dv_funcs topicOutlineHeader dv this]]

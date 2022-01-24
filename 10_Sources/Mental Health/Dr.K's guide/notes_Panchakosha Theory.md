@@ -37,7 +37,7 @@ prev::[[notes_the Nature of Self]]
 			- diet - one extra fruit or vegetable
 		- [[Pranamaya Kosha]] - [[energy]] layer
 			- [[Pranayama]]
-			- [[yoga]] - better than excercise or stretching
+			- [[Yoga]] - better than excercise or stretching
 		- [[Manomaya Kosha]] - emotional layer
 			- [[Psychotherapy]]
 			- clean out [[Samskara]]

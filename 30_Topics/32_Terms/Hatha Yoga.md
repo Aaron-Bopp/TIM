@@ -12,7 +12,7 @@ tags: created/topic/2021/12/29, node/topic/term
 A hybrid tradition of [[Yoga]] that focuses on attaining [[enlightenment]] by purifying the [[body]] and [[mind]] through [[asanas]] (physical postures) and [[pranayama]] (breath control).
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
-**See**:: [[yoga]]
+**See**:: [[Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

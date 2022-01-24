@@ -10,7 +10,7 @@ sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[yoga]]</s> 
+#### <s class="topic-title">[[Yoga]]</s> 
 
 An [[eastern philosophy|eastern system]] of introspection and self-discovery whose goal is to allow the practitioner to realize their true nature, get rid of [[suffering]], and become blissful by [[nature]].
 ^[[[notes_History of Meditation]]]

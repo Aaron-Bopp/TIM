@@ -21,7 +21,7 @@ A system of [[Yoga]] that focuses on [[meditation]] on the [[Chakra]]s in order 
 - [[Sahasrara Chakra]] - this is the final step that you achieve when you achieve [[enlightenment]]
 ^[[[notes_Different Meditative Styles]]]
 
-**See**:: [[struggle]], [[yoga]]
+**See**:: [[struggle]], [[Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

@@ -13,14 +13,14 @@ A system of [[Yoga]], also known as the path of Kings, that focuses on gaining [
 ^[[[notes_History of Meditation]]]
 1. [[Yama]] pure standards
 2. [[Niyama]] good morals
-3. [[asanas]] [[yoga]] postures
+3. [[asanas]] [[Yoga]] postures
 4. [[Pranayama]] breath practices
 5. [[Pratyahara]] restrain impulses
 6. [[Dharana]] focusing
 7. [[Dhyana]] state of [[meditation]]
 8. [[Samadhi]] state of temporary [[enlightenment]]
 
-**See**:: [[yoga]] 
+**See**:: [[Yoga]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

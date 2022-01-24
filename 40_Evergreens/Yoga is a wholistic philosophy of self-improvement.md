@@ -11,7 +11,7 @@ sr-ease: 190
 
 #### [[Yoga is a wholistic philosophy of self-improvement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[yoga]] involves the [[mind]],[[body]], and [[soul]] in the process of [[self-improvement]] and [[self-actualization]]. 
+[[Yoga]] involves the [[mind]],[[body]], and [[soul]] in the process of [[self-improvement]] and [[self-actualization]]. 
 It does this by helping us understand and connect the different parts of our being.
 
 - [[The history of meditation is a mixture of science and spirituality]]
@@ -27,7 +27,7 @@ It does this by helping us understand and connect the different parts of our bei
 	1. [[Yama]] pure standards; how we observe the world
 	2. [[Niyama]] good morals; how we make our way through the world
 - Actions for improving your [[mind-body complex]]
-	1. [[asanas]] [[yoga]] postures
+	1. [[asanas]] [[Yoga]] postures
 	4. [[Pranayama]] breath practices
 	5. [[Pratyahara]] restrain impulses
 - Actions for improving your [[conscious|consciousness]]
@@ -44,5 +44,5 @@ It does this by helping us understand and connect the different parts of our bei
 **Status**:: #EVER/GROWING
 *edited January 19, 2022*
 
-**Topics**:: [[yoga]], [[self-improvement]], [[mental health]], [[philosophy]], [[human behavior]], [[human interaction]]
+**Topics**:: [[Yoga]], [[self-improvement]], [[mental health]], [[philosophy]], [[human behavior]], [[human interaction]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

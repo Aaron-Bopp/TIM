@@ -9,8 +9,8 @@ tags: created/topic/2021/12/29, review,node/topic/term
 
 #### <s class="topic-title">[[Vedic Psychology]]</s> 
 
-The [[yoga|Yogic]] model of the [[mind]] and its faculties.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
+The [[Yoga|Yogic]] model of the [[mind]] and its faculties.
+^[[[notes_Vedic Psychology]]]
 
 The five layers of the [[mind]]
 - [[Manas]] - emotions
