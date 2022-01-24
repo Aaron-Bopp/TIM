@@ -27,6 +27,8 @@ TABLE WITHOUT ID essay, summary, topics WHERE file.name = this.file.name
 		- summary:: A surprisingly insightful take on the themes of time, loss, and change in *Doctor Strange*
 	- essay:: [The surprising pattern behind color names around the world - YouTube](https://www.youtube.com/watch?v=gMqZR3pqMjg)
 		- summary:: How [[language]] and the [[human experience]] intertwine to govern our [[understanding]] of the world
+	- essay:: [How I Infiltrated a Bizarre Conspiracy Cult - YouTube](https://www.youtube.com/watch?v=EYvnKc908Fw)
+		- summary:: An incredible look at how we can create our own [[cognitive bias]] and how it can shape our view of reality. 
 
 
 
