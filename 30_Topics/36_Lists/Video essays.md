@@ -25,6 +25,8 @@ TABLE WITHOUT ID essay, summary, topics WHERE file.name = this.file.name
 - Watched
 	- essay:: [Why DOCTOR STRANGE Is Marvel's Hidden Masterpiece](https://www.youtube.com/watch?v=_LFbSz35oRY) 
 		- summary:: A surprisingly insightful take on the themes of time, loss, and change in *Doctor Strange*
+	- essay:: [The surprising pattern behind color names around the world - YouTube](https://www.youtube.com/watch?v=gMqZR3pqMjg)
+		- summary:: How [[language]] and the [[human experience]] intertwine to govern our [[understanding]] of the world
 
 
 

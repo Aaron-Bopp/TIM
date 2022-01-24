@@ -119,10 +119,10 @@ type:
 - [[notes_What is an Anxiety Disorder]]
 - [[notes_Physiologic Anxiety]]
 - [[notes_Breath and Mind]]
-## Unwatched
 - [[notes_Tension in the Mind]]
 - [[notes_Feeding the Beast]]
 - [[notes_Solutions to Anxiety]]
+## Unwatched
 - [[notes_Neuroscience of Anxiety]]
 - [[notes_Treatment Approaches to Anxiety]]
 - [[notes_Clinical vs Non-clinical depression]]

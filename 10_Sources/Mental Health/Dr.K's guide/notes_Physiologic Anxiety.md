@@ -30,12 +30,13 @@ tags: created/source/2021/12/30, node/source/notes
 		- faster than speed of thought
 		- collapses peripheral vision
 		- causes [[hyperfocus]] and black and white thought
+			- [[Anxiety causes us to reject nuance]]
 		- turns off logical parts of the brain in favor of [[fight-or-flight response]]
 		- causes [[Diaphoresis]] (causes us to sweat)
 	- [[Cortisol]]
 		- sustained energy
 		- hyperactive immune system
-		- sacrifices long-term health for temporary survival
+		- sacrifices long-term health fo temporary survival
 		- cortisol transforms our muscle into fat
 		- mediates skin and gland problems
 		- de-marginalizes white blood cells

@@ -18,11 +18,13 @@ prev:: [[notes_Learned Anxiety]]
 ## Notes
 - tension in the [[mind]] fuels [[anxiety]]
 - adding [[energy]] to the mind makes anxiety worse [[anxiety]]
-	- harder you try to not be [[anxiety|anxious]] the more anxious you get because it creates tension
+	- [[Thought Loops]] [[notes_Thought Loops]]
+		- harder you try to not be [[anxiety|anxious]] the more anxious you get because it creates tension
 	- ex: [[insomnia]], if I don't go to sleep bad things will happen, creates [[anxiety]] can't [[sleep]].
 - [[Buddhism]] two arrows - getting shot causes us to shoot ourself
 	- ![[Pasted image 20220123193714.png]]
 - How to talk to yourself to promote less [[anxiety]]
-	- empathic mirroring
-	- 
-- [[Thought Loops]] [[notes_Thought Loops]]
+	- empathic mirroring - show memory for yourself
+		- have [[compassion]] for yourself
+	- acknowledge that you are going to be okay
+next:: [[notes_Feeding the Beast]]
