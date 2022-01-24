@@ -1,12 +1,12 @@
 ---
 created: 2022-01-23T18:12:59 
-edited: 
+edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/23, review, node/evergreen/claim
-sr-due: 2022-01-23
+sr-due: 2022-01-24
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Meditation is a practice to gain control over your thoughts]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -37,7 +37,7 @@ regulating [[hormone]]s, which is why
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 23, 2022*
 
 **Topics**:: [[meditation]], [[mindfulness]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

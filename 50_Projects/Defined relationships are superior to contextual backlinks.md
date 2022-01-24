@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim  
-sr-due: 2022-01-23
-sr-interval: 3
+sr-due: 2022-01-31
+sr-interval: 8
 sr-ease: 230
 ---
 
@@ -39,7 +39,6 @@ contrasts:: [[contextual backlinks]]
 ```
 This is how I use [[Obsidian (software)|Obsidian]] to define relationships between notes. Many will recognize the double colon, as a way to make inline fields that are recognized by various plugins. I also have the setting `Strict line breaks` off, which means when this note is rendered, all three of those lines become one. 
 ^[This has an added benefit for me called [[Semantic line breaks]]]
-
 
 What is the goal of this? Well by formatting my notes in this way it allows me to easily parse the `contrasts` field out of my notes, so it can be used by various plugins. This accomplishes two things:
 1. I can programmatically access the relationship between these two notes and use it in [[Dataview]] queries, to color [[Juggl (plugin, obsidian)|Juggl]] links, and to use in [[Python]] scripts. 

@@ -1,6 +1,6 @@
 ---
 created: 2022-01-19T13:10:05 
-edited: 
+edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
@@ -42,7 +42,7 @@ It does this by helping us understand and connect the different parts of our bei
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited January 19, 2022*
+*edited January 23, 2022*
 
 **Topics**:: [[Yoga]], [[self-improvement]], [[mental health]], [[philosophy]], [[human behavior]], [[human interaction]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

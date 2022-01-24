@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/10/10, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-23
-sr-interval: 8
+sr-due: 2022-02-04
+sr-interval: 12
 sr-ease: 130
 ---
 
@@ -16,7 +16,6 @@ sr-ease: 130
 > Those people who speak of masculinity as an essence, as an inborn characteristic, are confusing [[masculinity]] with [[masculinism]], the masculine ideology. Masculinism is the ideology that justifies and naturalizes male domination.
 > 
 > <cite>[[articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying#240545710|Arthur Brittan]]</cite>
-
 
 - [[Every person has an experience of gender]]
 - [[Our understanding of gender begins at a very early age]]
@@ -29,6 +28,7 @@ sr-ease: 130
 > For boys, then, the question is not whether to take on a typical male sex role, but rather how to position themselves according to the masculine discourses available to them.
 > 
 > <cite>[[articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying#240545710|Paul Horton]]</cite>
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

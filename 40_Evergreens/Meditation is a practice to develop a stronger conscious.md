@@ -1,6 +1,6 @@
 ---
 created: 2022-01-01T02:27:15 
-edited: 
+edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
@@ -32,7 +32,7 @@ of the [[universe]]:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
-*edited `=this.file.mtime`*
+*edited January 23, 2022*
 
 **Topics**:: [[meditation]], [[mindfulness]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

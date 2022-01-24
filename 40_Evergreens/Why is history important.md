@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2014/08/22, review, node/evergreen/claim
-sr-due: 2022-01-23
-sr-interval: 1
+sr-due: 2022-01-25
+sr-interval: 2
 sr-ease: 190
 ---
 
@@ -30,5 +30,3 @@ In conclusion our history gives us hope \-- hope that we may learn from the past
 
 **Topics**:: [[history]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

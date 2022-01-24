@@ -1,6 +1,6 @@
 ---
 created: 2022-01-02T09:00:06 
-edited: 
+edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
@@ -21,7 +21,7 @@ This is how [[meditation]] could affect [[ADHD]]. [[ADHD is not a lack of attent
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 23, 2022*
 
 **Topics**:: [[meditation]], [[hormone]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -1,6 +1,6 @@
 ---
 created: 2021-05-31
-edited: 
+edited: 2022-01-23
 aliases:
   - Yogic
 tags: created/topic/2021/05/31, review, node/topic/term

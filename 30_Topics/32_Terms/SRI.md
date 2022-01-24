@@ -1,6 +1,6 @@
 ---
 created: 2021-12-29 
-edited: 
+edited: 2022-01-23
 aliases:
   - Serotonin Reuptake Inhibitor (SRI)
   - Serotonin Reuptake Inhibitor 

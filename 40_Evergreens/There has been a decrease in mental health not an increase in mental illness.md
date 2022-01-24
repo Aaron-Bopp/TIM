@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-01-23
+sr-due: 2022-01-24
 sr-interval: 1
-sr-ease: 190
+sr-ease: 170
 ---
 
 #### [[There has been a decrease in mental health not an increase in mental illness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -31,5 +31,3 @@ What is the reason behind this?
 
 **Topics**:: [[mental health]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
