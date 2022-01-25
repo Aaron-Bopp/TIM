@@ -27,7 +27,7 @@ If a [[TIM]] is to truly augment our capability [[learning|to learn]], it must b
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My TIM]], [[second brain]]

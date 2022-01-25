@@ -39,7 +39,7 @@ For those who focus on increasing their [[karma]], they are focused on the work,
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[conscious]], [[self]], [[enlightenment]], [[human experience]], [[transhumanism]]

@@ -23,7 +23,7 @@ sr-ease: 206
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[parents]], [[childhood]], [[mental health]], [[self-love]], [[human experience]]

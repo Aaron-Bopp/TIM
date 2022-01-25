@@ -17,7 +17,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
 **Topics**:: [[ego]], [[human behavior]], [[self-actualization]]

@@ -30,7 +30,7 @@ This can lead to a [[detachment]] from our [[emotions]]:
 - [[Buddhism is the study of happiness through detachment]]
 
 ### <hr class="footnote"/> 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[mindfulness]], [[emotions]]

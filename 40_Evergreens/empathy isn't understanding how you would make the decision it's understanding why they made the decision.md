@@ -32,7 +32,7 @@ This idea is especially important for [[Christianity|christians]], because [[Chr
 %%[[Meditation helps us develop empathy]]%%
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[socialization]], [[inter-personal communication]], [[empathy]]

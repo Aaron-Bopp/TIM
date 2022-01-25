@@ -34,7 +34,7 @@ This is the most soul-crushing part of living in [[late capitalism]]. You are fo
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]], [[Life principles]]

@@ -17,7 +17,7 @@ date modified: Monday, November 1st 2021, 2:26:21 pm
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[prejudice]], [[discrimination]], [[Psychology]], [[social justice]], [[Civil Rights]]

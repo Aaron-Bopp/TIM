@@ -31,7 +31,7 @@ leads to::[[Strong enough logic becomes belief]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited January 18, 2022*
 
 **Topics**:: [[ego]], [[defense-mechanisms]], [[Behavioral Psychology]], [[trauma]]

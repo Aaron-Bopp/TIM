@@ -17,7 +17,7 @@ sr-ease: 232
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[economy]]

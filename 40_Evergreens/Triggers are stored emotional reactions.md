@@ -20,7 +20,7 @@ sr-ease: 210
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 19, 2022*
 
 **Topics**:: [[mental health]], [[emotions]], [[human behavior]]

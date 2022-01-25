@@ -18,7 +18,7 @@ This is beginning of the [[Rise of Modern Conservatism]] because [[Ronald Reagan
 It's interesting to look at the way [[Watergate]] was handled, and then look at the scandals of recent presidents: [[Republican voters do not hold their leaders accountable]].
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Reagan]], [[political strategy]]

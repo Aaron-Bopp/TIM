@@ -46,7 +46,7 @@ What is the goal of this? Well by formatting my notes in this way it allows me t
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
 **Topics**:: [[knowledge work]], [[Obsidian (software)|Obsidian]], [[knowledge management]], [[note writing]]

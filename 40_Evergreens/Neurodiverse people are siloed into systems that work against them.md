@@ -18,7 +18,7 @@ Schooling and work systems are designed for [[neurotypical]] people, but as neur
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[neurodiversity]], [[social justice]], [[social construct]], [[education]]

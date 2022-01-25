@@ -41,7 +41,7 @@ It does this by helping us understand and connect the different parts of our bei
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
 **Topics**:: [[Yoga]], [[self-improvement]], [[mental health]], [[philosophy]], [[human behavior]], [[human interaction]]

@@ -24,7 +24,7 @@ The [[anti-vax]] movement absolutely exploded during the COVID-19 pandemic which
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[cognitive dissonance]], [[anti-vax]]

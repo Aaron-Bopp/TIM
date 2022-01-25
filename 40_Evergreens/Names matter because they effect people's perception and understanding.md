@@ -26,7 +26,7 @@ How something is named effects people's [[perception]] of it.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[inter-personal communication]], [[influence]], [[self-love|self-care]], [[language]]

@@ -19,7 +19,7 @@ This is especially seen in [[individualism|individualistic]] cultures like [[Ame
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[religion]], [[Evangelicalism]]

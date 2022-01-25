@@ -42,7 +42,7 @@ You may have a note that is is broad, but as you understand more about the subje
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[conceptual notes]], [[note writing]], [[evergreen notes]]

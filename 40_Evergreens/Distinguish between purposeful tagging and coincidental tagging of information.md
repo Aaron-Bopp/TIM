@@ -23,7 +23,7 @@ This is where [[Note structures should help curate knowledge]] comes in. Having 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[learning]], [[understanding]], 

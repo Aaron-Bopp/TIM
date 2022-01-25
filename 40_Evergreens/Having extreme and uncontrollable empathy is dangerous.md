@@ -25,7 +25,7 @@ This could be an [[anxiety]] response #TO/EXPLORE/RESEARCH relation between anxi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]]

@@ -20,7 +20,7 @@ This is how [[meditation]] could affect [[ADHD]]. [[ADHD is not a lack of attent
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
 **Topics**:: [[meditation]], [[hormone]], [[mental health]]

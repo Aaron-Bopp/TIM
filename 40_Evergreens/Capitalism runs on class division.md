@@ -21,7 +21,7 @@ Capitalism would fail if everyone was a capitalist.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited January 19, 2022*
 
 **Topics**:: [[capitalism]], [[human advancement]], [[Marxism]]

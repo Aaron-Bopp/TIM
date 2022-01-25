@@ -19,7 +19,7 @@ Now feel free to read [[My Deconstruction journey]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Life principles]], [[religion]], [[belief]], [[Christianity]]

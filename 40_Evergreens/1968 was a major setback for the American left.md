@@ -17,7 +17,7 @@ As a person on [[the left]], I don't view 1968 as a shattering of [[America]], b
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social progress]], [[Progressives]], [[Civil Rights]], [[Politics]]

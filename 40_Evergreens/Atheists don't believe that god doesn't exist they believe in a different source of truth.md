@@ -28,7 +28,7 @@ If they believe in themselves, they just don't believe they can be wrong.
 - [[Strong enough logic becomes belief]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
 **Topics**:: [[atheism]], [[belief]], [[faith]]

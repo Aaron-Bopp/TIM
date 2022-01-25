@@ -17,7 +17,7 @@ This is “true [[optimism]]“: [[True optimism is acknowledging the suffering 
 
 This is no easy task, so [[Buddhism outlines a path and practice to end suffering, but does not promise it]] rather than making it [[Worldviews should not make life seem easy and simple| seem easy ]] and leading people into [[cognitive dissonance]].
 
-#TO/PONDER/CONCEPT what is the difference between contentment and [[happiness]]? 
+#TO/PONDER/IDEA what is the difference between contentment and [[happiness]]? 
 the contrast here[[Sadness is enlightenment and happiness is delusion]] and here [[Buddhism is the study of happiness through detachment|The nature of happiness is not doing what you love its detachment from the decisions of the life]].
 
 #TO/PONDER/RELATIONSHIP
@@ -28,7 +28,7 @@ the contrast here[[Sadness is enlightenment and happiness is delusion]] and here
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited January 19, 2022*
 
 **Topics**:: [[happiness]], [[religion]], 

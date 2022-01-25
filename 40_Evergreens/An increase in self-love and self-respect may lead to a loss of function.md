@@ -42,7 +42,7 @@ Once you free yourself of [[guilt]] and [[shame]] it may appear that you lose [[
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-actualization]], [[neurodiversity]], [[disability]]

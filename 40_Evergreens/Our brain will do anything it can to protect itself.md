@@ -43,7 +43,7 @@ This ability to pattern match is a major part of why we have survived as a speci
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[subconscious]], [[mental health]]

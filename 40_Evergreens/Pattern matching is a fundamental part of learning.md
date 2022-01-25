@@ -21,7 +21,7 @@ sr-ease: 170
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
 **Topics**:: [[learning]], [[human advancement]], [[Neuroscience]]

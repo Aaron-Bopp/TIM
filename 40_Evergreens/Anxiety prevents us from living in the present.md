@@ -13,11 +13,11 @@ sr-ease: 190
 
 Anxiety is future focused.
 
- #TO/PONDER/CONCEPT from [[notes_Responses to Anxiety]]s
+ #TO/PONDER/IDEA from [[notes_Responses to Anxiety]]s
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 18, 2022*
 
 **Topics**:: [[anxiety]], [[Neuroscience]], [[mental health]]

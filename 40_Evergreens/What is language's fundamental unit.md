@@ -27,7 +27,7 @@ Books are paths through evergreen forests
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[language]], [[biology]], [[second brain]]

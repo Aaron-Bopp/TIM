@@ -11,7 +11,7 @@ sr-ease: 170
 
 #### [[Strong enough logic becomes belief]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/PONDER/CONCEPT 
+#TO/PONDER/IDEA 
 You can get so caught up in complex logic, that you can no longer see the full problem, and merely believe that your logic up to that point is true. 
 %%
 Who?

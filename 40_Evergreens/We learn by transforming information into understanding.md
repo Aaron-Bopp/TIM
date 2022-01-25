@@ -11,7 +11,7 @@ sr-ease: 130
 
 #### [[We learn by transforming information into understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/PONDER/CONCEPT [[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]] 
+#TO/PONDER/IDEA [[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]] 
 #TO/DO/FIND pyramid of [[knowledge]] thing
 - [[We are confined to the tools of our time]]
 - [[Humans try really hard to avoid understanding their mistakes]]
@@ -25,7 +25,7 @@ sr-ease: 130
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING  
+**Status**:: #EVER/SPROUT  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge]], [[information]], [[knowledge work]], [[learning]]

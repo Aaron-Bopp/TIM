@@ -27,7 +27,7 @@ What is the nature of god? God is a social construction. God is our [[understand
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[belief]], [[spirituality]], [[belief systems]]

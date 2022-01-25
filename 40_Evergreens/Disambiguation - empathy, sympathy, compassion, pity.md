@@ -16,10 +16,10 @@ Many people misunderstand empathy as feeling what the other person is feeling, a
 True empathy is not a blind taking on of emotion, it is putting yourself in that person's shoes and understanding what is causing those feelings. Sympathy may be a reaction to empathy, but you can also empathize with someone without having sympathy for them:
 [[Empathy does not disallow judgment]], [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]]
 
-#TO/EXPLORE/RESEARCH and #TO/PONDER/CONCEPT wiki's definitions of these things
+#TO/EXPLORE/RESEARCH and #TO/PONDER/IDEA wiki's definitions of these things
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[empathy]], [[sympathy]]

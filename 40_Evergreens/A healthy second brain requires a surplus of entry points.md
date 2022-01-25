@@ -11,7 +11,7 @@ sr-ease: 135
 
 #### [[A healthy second brain requires a surplus of entry points]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/PONDER/CONCEPT #TO/WRITE #TO/TEND/CREATE 
+#TO/PONDER/IDEA #TO/WRITE #TO/TEND/CREATE 
 - [[Write your notes with a system not within a system]]
 - [[Write your notes like you're planting an evergreen forest]]
 - [[Your second brain should be an inspirational hub of creativity]]
@@ -25,7 +25,7 @@ sr-ease: 135
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**::  [[knowledge work]], [[second brain]]

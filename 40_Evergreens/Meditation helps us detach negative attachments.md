@@ -45,7 +45,7 @@ so it is important to understand
  
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited January 23, 2022*
 
 **Topics**:: [[emotions]], [[meditation]], [[mindfulness]], [[human experience]]

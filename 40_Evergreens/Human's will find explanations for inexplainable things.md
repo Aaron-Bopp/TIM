@@ -40,7 +40,7 @@ For more see: [[What is the cognitive effect of living in an unjust world|What i
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[human advancement]], [[human survival]]

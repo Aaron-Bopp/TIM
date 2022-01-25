@@ -33,7 +33,7 @@ One manifestation of this is our ego, because [[Our ego is our subconscious defe
 %%For me this was realized as being unable to understand why I was the way that I was, because my brain was repressing so many emotions and memories.%%
 
 ### <hr class="footnote"/> 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[mental health]], [[childhood]], [[Behavioral Psychology]]

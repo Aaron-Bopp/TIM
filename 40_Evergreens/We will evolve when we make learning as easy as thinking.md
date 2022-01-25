@@ -27,7 +27,7 @@ sr-ease: 221
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transhumanism]], [[Evolution]], [[Evolutionary Psychology]], [[knowledge work]]

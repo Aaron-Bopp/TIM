@@ -15,7 +15,7 @@ or they will answer to their fears but not understand where they come from: [[Ou
 For the most part [[anxiety]] is a completely natural and normal [[Neuroscience|neurological]] reaction, but it can extended into the realm of overcompensation by [[trauma]] (i.e. [[Rejection Sensitivity]]), [[neurodiversity]], or simply a warped sense of reality. 
 ^[Anxiety can be the [[manifestation]] of the [[cognitive dissonance]] that warps your [[perception]]: [[Human's will find explanations for inexplainable things]]]
 
-#TO/PONDER/CONCEPT of our brains believing that [[anxiety]] is real from [[notes_Anxiety 101]]
+#TO/PONDER/IDEA of our brains believing that [[anxiety]] is real from [[notes_Anxiety 101]]
 - [[Anxiety should be a tool at your disposal not an impedance to your life]]
 - [[Your anxiety knows your insecurities better than you do]]
 - [[Our brains are built around survival]]
@@ -23,7 +23,7 @@ For the most part [[anxiety]] is a completely natural and normal [[Neuroscience|
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[Neuroscience]]

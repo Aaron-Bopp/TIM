@@ -23,7 +23,7 @@ With long form media you can take people on journeys to your conclusion, but wit
 #TO/WRITE results of sharing vault
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[inter-personal communication]], [[influence]]

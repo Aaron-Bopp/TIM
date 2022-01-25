@@ -33,7 +33,7 @@ instead of focusing on improving the the lives of [[Christianity|Christians]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[Deconstruction (Christianity)]], [[belief systems]]

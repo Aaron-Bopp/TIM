@@ -30,7 +30,7 @@ and the unlinked show places where the relation to the stub could be a unique in
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[second brain]], [[My TIM]], [[evergreen notes]], [[knowledge management]]

@@ -40,7 +40,7 @@ If you [[Write your notes like you're planting an evergreen forest]], you make i
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Software Development]], [[note writing]]

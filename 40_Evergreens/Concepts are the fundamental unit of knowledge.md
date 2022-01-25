@@ -26,7 +26,7 @@ This is what makes [[conceptual notes]] so powerful:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[knowledge work]], [[knowledge management]], [[conceptual notes]]

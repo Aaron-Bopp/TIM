@@ -19,7 +19,7 @@ The purpose of our [[second brain]] is to compliment and augment this process:
 ##### Nodes in the second brain are more fragile than thoughts in the first brain
 
 In our first brain there is no such thing as "fragility" there is only learning and forgetting, but in the second brain learning doesn't happen on it's own and forgetting is impossible:
-^[ #TO/PONDER/CONCEPT what is the impact of the second brain not being able to forget?]
+^[ #TO/PONDER/IDEA what is the impact of the second brain not being able to forget?]
 [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
 The easiest way that we can surpass the first brain is *permanency.* Data can sit for 20 years on a hard drive and still be accessible, but unlike in our first brain, data will not grow over time:

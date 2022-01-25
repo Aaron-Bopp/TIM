@@ -23,7 +23,7 @@ In some cases this can get bad enough to be considered [[Rejection Sensitivity]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[emotional validation]], [[emotional invalidation]], [[mental health]]

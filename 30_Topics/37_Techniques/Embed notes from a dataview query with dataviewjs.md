@@ -20,7 +20,7 @@ transclude.forEach(p => dv.paragraph(p))
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Dataview]], [[Obsidian (software)]], [[programming]]

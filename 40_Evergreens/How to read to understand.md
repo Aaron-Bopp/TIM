@@ -19,7 +19,7 @@ sr-ease: 150
 - [[Use colors to create visual outlines]] 
 - [[What is language's fundamental unit]]
 - [[Note taking is a spectrum from purely reproductive to purely productive]]
-- #TO/PONDER/CONCEPT experience with book club
+- #TO/PONDER/IDEA experience with book club
 
 ### <hr class="footnote"/>
 

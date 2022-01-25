@@ -27,11 +27,11 @@ Plenty of people leave the church but still have [[faith]], or are trying to imp
 #TO/EXPLORE/RESEARCH how [[Humans love to group eachother]] affects or reasoning ability [[Humans are primarily irrational, illogical, emotional beings]]
 
 %%
-While [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] because [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]], Christians still have a very large capicity for empathy, and if you can get them to direct that it can be very powerful #TO/PONDER/CONCEPT 
+While [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] because [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]], Christians still have a very large capicity for empathy, and if you can get them to direct that it can be very powerful #TO/PONDER/IDEA 
 %%
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Deconstruction (Christianity)]], [[Christianity]]

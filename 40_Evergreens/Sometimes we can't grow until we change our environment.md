@@ -33,7 +33,7 @@ but it can involve of a lot of very difficult situations and feelings because
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING  
+**Status**:: #EVER/SPROUT  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self]], [[trauma]], [[self-improvement]], [[self-actualization]]

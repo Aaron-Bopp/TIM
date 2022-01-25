@@ -19,7 +19,7 @@ Pushing yourself is something that is unique to humans.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
 **Topics**:: [[motivation]], [[human interaction]]

@@ -31,7 +31,7 @@ Sometimes it's accepting [[responsibility]] for the weight a loving people who d
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-actualization]], [[fairness]], [[love]], [[human advancement]]

@@ -33,7 +33,7 @@ Is it possible to think your way out of everything? [[Jnana Yoga]]
 What is the value of open ended tasks? specifically [[my TO(DO) and EVER(GREEN) structure#EVER GREEN]]
 
 
-[[conceptual notes]] help you get the full extent of your brain power #TO/PONDER/CONCEPT maybe when only combined with good systems [[Friction is the number one hindrance to learning]]
+[[conceptual notes]] help you get the full extent of your brain power #TO/PONDER/IDEA maybe when only combined with good systems [[Friction is the number one hindrance to learning]]
 
 
 [[Term notes]] can be narrowed down to a short definition, but topic notes cannot. You can go back to a source of truth for a theory or word, but not a topic. That isn't to say that the definitions or terms will never change, but that we are searching to define them. Topics cannot be defined because they hold so many definitions and are capturing a breadth of content. [[topic note]]s are useful in their lack of edges, while [[Term notes]] are useful only inside thier edges.

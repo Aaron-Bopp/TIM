@@ -34,7 +34,7 @@ These are similar to the [[Yama]] of [[Raja Yoga]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Buddhism]], [[religion]], [[social justice]], [[progress]], [[human advancement]]

@@ -20,7 +20,7 @@ Is this one of the main mechanisms behind why humans have chosen to cause harm t
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[cognitive dissonance]]

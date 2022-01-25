@@ -24,7 +24,7 @@ This is why thoughts like [[You're never sure if you're trans]] are so difficult
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]], [[gender dysphoria]], [[childhood]]

@@ -26,7 +26,7 @@ If we can focus our thoughts on one action over time we will see positive benefi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 19, 2022*
 
 **Topics**:: [[purpose]], [[human advancement]], [[Life principles]]

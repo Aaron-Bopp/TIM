@@ -31,7 +31,7 @@ Without early acceptance and especially with the onset of puberty, this repressi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]], [[childhood]]

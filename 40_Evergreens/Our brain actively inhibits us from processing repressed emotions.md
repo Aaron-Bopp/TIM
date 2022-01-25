@@ -25,7 +25,7 @@ but [[meditation]] allows us to gain [[control]] over our [[subconscious]] and [
 - enables [[We carry our childhood wounds into adulthood]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited January 18, 2022*
 
 **Topics**:: [[brain]], [[physiology]], [[Neuroscience]]

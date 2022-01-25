@@ -36,7 +36,7 @@ workspace: Belief GvB PvS
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[Christianity]], [[worldview]], [[belief systems]], [[human experience]], [[inter-personal communication]], [[religion]]

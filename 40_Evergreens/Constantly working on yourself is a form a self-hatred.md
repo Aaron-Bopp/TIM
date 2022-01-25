@@ -21,7 +21,7 @@ If you can never be content that you are good enough, you are just looking for a
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-love]], [[self-hate]], [[self-improvement]]

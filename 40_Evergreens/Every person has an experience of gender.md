@@ -18,7 +18,7 @@ see [[Gender segregation increases gendered play]].
 #TO/WRITE anecdote for [[cis]] people to help the conceptualize their [[gender]] if they have not before
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[self]], [[human experience]], [[Gender self-socialization model]]

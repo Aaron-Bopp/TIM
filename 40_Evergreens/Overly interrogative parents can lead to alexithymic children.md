@@ -24,7 +24,7 @@ This couples the reward of moving the attention away from oneself with the rewar
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 18, 2022*
 
 **Topics**:: [[Alexithymia]], [[parents]], [[childhood]]

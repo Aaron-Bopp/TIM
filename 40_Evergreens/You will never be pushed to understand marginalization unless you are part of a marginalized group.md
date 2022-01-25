@@ -16,7 +16,7 @@ For some it will be very difficult to fit their [[identity]] into the world arou
 This is part of why [[Worldviews should not make life seem easy and simple]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT  
+**Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social justice]], [[self-actualization]]

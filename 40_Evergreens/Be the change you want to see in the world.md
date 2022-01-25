@@ -21,7 +21,7 @@ sr-ease: 150
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING   
+**Status**:: #EVER/SPROUT   
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[self-actualization]], [[morality]], [[Life principles]]

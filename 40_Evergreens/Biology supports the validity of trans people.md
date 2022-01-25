@@ -27,7 +27,7 @@ next:: [[Gender has historically been non-binary]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[self]], [[human experience]], [[Neuroscience]]

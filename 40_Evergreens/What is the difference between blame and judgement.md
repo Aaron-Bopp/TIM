@@ -11,7 +11,7 @@ sr-ease: 150
 
 #### [[What is the difference between blame and judgement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/PONDER/CONCEPT 
+#TO/PONDER/IDEA 
 ##### [[blame]]
 
 [[You can't blame people for failing to rise above their circumstances]]
@@ -51,7 +51,7 @@ The term has at least five distinct uses.  Aristotle suggested we think of the o
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]]

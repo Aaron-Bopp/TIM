@@ -25,7 +25,7 @@ sr-ease: 170
 - [[Why I only callout Christianity]]
 
 
-#TO/PONDER/CONCEPT ideas of [[karma]] and [[Dharma]]
+#TO/PONDER/IDEA ideas of [[karma]] and [[Dharma]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED  

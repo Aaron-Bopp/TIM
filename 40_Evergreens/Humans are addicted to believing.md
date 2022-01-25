@@ -31,7 +31,7 @@ the problem is when we pathologize this addiction and spread it as far as we can
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[philosophy]], [[belief]], [[faith]], [[belief systems]]

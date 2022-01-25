@@ -36,7 +36,7 @@ regulating [[hormone]]s, which is why
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
 **Topics**:: [[meditation]], [[mindfulness]], [[human experience]]

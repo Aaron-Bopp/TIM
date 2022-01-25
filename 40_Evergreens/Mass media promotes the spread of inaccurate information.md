@@ -18,7 +18,7 @@ sr-ease: 150
 - [[American's are scared of the word communism not it's meaning]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**::[[media]], [[political strategy]], 

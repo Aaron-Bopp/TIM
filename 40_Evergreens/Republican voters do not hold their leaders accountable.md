@@ -18,7 +18,7 @@ They still align various political causes with moral imperatives including, "the
 This is partially because [[Conservatism|Conservatives]] are mainly single issue voters: [[Single issue voters are anti-democratic]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Conservatism]], [[Politics]]

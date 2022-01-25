@@ -28,7 +28,7 @@ It feels like the people who are under the most pressure are often the ones who 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive dissonance]], [[human advancement]], [[progress]]

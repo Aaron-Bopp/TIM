@@ -27,7 +27,7 @@ I have wasted so much time on a coding tasks because I either didn't comprehend 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[programming]], [[self-improvement]]

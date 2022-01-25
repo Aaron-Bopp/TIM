@@ -22,7 +22,7 @@ This is true both in how we [[influence]] other's and how we make [[progress]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive dissonance]], [[human experience]], [[human advancement]], [[self-improvement]], [[social justice]], [[inter-personal communication]], [[transhumanism]]

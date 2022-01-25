@@ -32,7 +32,7 @@ Not every modern Christian practice is bad: [[Faith can be a useful tool for gro
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[Evangelicalism]], [[capitalism]]

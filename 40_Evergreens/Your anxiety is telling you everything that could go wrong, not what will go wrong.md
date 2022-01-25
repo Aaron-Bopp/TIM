@@ -44,7 +44,7 @@ In modern society, our [[anxiety]] can seem like a irrational response, but it i
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[mental illness]], [[self-actualization]], , 

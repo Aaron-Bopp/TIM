@@ -28,7 +28,7 @@ While the main aspect of [[memory]] is the connections we make, any time we spen
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[spaced repetition]], [[evergreen notes]], [[note writing]], [[My TIM]]

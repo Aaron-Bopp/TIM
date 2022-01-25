@@ -25,7 +25,7 @@ but you can help alleviate this [[friction]] by
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge management]], [[second brain]] 

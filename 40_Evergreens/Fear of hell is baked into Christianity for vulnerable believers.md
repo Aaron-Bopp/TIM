@@ -15,7 +15,7 @@ The reason is [[Religious concepts are often too powerful for a child's mind]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]],  [[religious trauma]], [[Deconstruction (Christianity)]]

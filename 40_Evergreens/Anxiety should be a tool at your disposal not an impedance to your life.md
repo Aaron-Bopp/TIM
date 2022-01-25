@@ -18,7 +18,7 @@ see:: [[Neurodiverse people can use their brain to their advantage]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[mental health]], [[mental illness]], [[social anxiety]]

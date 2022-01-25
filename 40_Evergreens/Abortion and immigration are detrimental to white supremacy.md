@@ -17,7 +17,7 @@ sr-ease: 270
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[racism]], [[Rise of Modern Conservatism]], [[white supremacy]], [[abortion]]

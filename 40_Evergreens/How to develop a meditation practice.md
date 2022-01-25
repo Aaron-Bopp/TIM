@@ -15,7 +15,7 @@ You need a good [[teacher]], [[commitment]], and a little bit of [[belief]].
 
 It will also be much easier if you have a strong [[community]] around you.
 ^[[[Communities are support systems]]]
-#TO/PONDER/CONCEPT [[notes_Sangha]]
+#TO/PONDER/IDEA [[notes_Sangha]]
 
 It may take you a while to perceive the effects of [[meditation]], but over time it will improve your life:
 [[Meditation improves mental, physical, and emotional health]]
@@ -24,7 +24,7 @@ and it will shape your view of the world.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 18, 2022*
 
 **Topics**:: [[meditation]], [[self-improvement]]

@@ -29,7 +29,7 @@ Even if your [[worldview]] is open ended and adaptive, it does not always mean t
  
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[belief systems]], [[religion]], [[self]], [[human interaction]]

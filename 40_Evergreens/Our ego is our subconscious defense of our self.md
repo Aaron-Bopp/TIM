@@ -24,7 +24,7 @@ This is fundamentally a survival system: [[Human's have an inability to admit th
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited January 18, 2022*
 
 **Topics**:: [[subconscious]], [[self]], [[human survival]], [[human experience]]

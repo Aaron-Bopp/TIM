@@ -19,7 +19,7 @@ We are more complex than any other animal. We have developed a [[conscious|consc
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Psychology]]

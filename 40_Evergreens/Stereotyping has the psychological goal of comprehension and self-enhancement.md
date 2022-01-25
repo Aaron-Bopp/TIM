@@ -21,7 +21,7 @@ When we meet a new person or interact with a new situation, we fill in assumed i
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Psychology]], [[stereotype]], [[self-enhancement]], [[discrimination]], [[prejudice]]

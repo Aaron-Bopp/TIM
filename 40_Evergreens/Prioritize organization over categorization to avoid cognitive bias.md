@@ -11,7 +11,7 @@ sr-ease: 190
 
 #### [[Prioritize organization over categorization to avoid cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/PONDER/CONCEPT porous concepts can be obfuscated if you have too much categorization [Discord](https://discord.com/channels/686053708261228577/710585052769157141/916313872531603486)
+#TO/PONDER/IDEA porous concepts can be obfuscated if you have too much categorization [Discord](https://discord.com/channels/686053708261228577/710585052769157141/916313872531603486)
 
 ##### This will cause you to waste energy
 
@@ -23,7 +23,7 @@ It is easier to cutout sections of large topics notes and create subtopics, than
 - contrasts [[How I outlined my brain (literally just use all of the organization techniques at once)]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[knowledge management]], [[My TIM]]

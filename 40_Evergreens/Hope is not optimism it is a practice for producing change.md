@@ -31,7 +31,7 @@ Even if you are [[suffering]], [[hope]] is the only path forward:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[hope]], [[optimism]], [[anger]], [[activism]]

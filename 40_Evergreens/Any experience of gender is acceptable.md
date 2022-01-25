@@ -23,7 +23,7 @@ This beautiful because of it allows for such a [[diverse]] [[queer]] [[community
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[Queer]], [[transgender]]

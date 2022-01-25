@@ -29,7 +29,7 @@ It has also allowed for a culture shift, where previously niche topics like [[Dn
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[internet]], [[mass media]], [[inter-personal communication]], [[human advancement]]

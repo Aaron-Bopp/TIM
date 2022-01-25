@@ -25,7 +25,7 @@ You don't need to be able to see yourself in everything but everybody should be 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 19, 2022*
 
 **Topics**:: [[coming out]], [[Queer Community]], [[marginalization]], [[self-actualization]]

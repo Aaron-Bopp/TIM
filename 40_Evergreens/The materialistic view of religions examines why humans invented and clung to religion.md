@@ -15,7 +15,7 @@ While the discussion of what individual religions bring to the table can get qui
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[materialism]], [[religion]], [[history]]

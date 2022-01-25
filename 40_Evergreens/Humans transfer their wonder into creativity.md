@@ -25,7 +25,7 @@ good result of:: [[Human's will find explanations for inexplainable things]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[creativity]]

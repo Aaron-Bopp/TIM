@@ -35,7 +35,7 @@ Because Christians have always had such a simple and obvious choice to avoid thi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[religious trauma]], [[Evangelicalism]], [[Christianity]], [[childhood]], [[Behavioral Psychology]]

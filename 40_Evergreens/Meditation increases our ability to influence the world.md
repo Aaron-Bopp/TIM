@@ -20,7 +20,7 @@ When people meditate for a long time they feel their [[perception]] of the world
 and more easily recognize what they need to do to succeed.
 [[Meditation]] also helps people to focus and achieve things they are already trying to do: [[Meditation helps us gain control over our emotions]]
 
-#TO/PONDER/CONCEPT 
+#TO/PONDER/IDEA 
 - [[notes_Shuddhi]]
 - [[notes_Sangha]]
 
@@ -41,7 +41,7 @@ This is [[Tantra]], [[manifestation]] of our will into the world.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[meditation]], [[influence]]

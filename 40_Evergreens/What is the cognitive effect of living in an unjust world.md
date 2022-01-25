@@ -52,7 +52,7 @@ We know that [[Humans are primarily irrational, illogical, emotional beings]] an
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING  
+**Status**:: #EVER/SPROUT  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[realism]], [[injustice]], [[anger]], [[social justice]]

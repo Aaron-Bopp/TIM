@@ -17,7 +17,7 @@ Over-organization will just lead to incorrect categorization: [[Prioritize organ
 
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]]
 
-#TO/PONDER/CONCEPT Cutter classification
+#TO/PONDER/IDEA Cutter classification
 
 ### <hr class="footnote"/>
 

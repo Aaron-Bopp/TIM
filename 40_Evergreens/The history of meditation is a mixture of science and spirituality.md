@@ -25,7 +25,7 @@ This could be attributed to [[survivorship bias]], but it could also be attribut
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[eastern philosophy]], [[Vedic Psychology]]

@@ -25,7 +25,7 @@ Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[mindfulness]]

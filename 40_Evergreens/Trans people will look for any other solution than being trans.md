@@ -16,7 +16,7 @@ Because [[Our understanding of gender begins at a very early age]] and [[Gender 
 Once you discover and accept yourself as [[transgender|trans]], a lot of the seemingly inexplicable or untreatable [[mental illness|mental illness]] in your life will be alleviated as well. [^1] Despite being a transformational internal [[experience]], it can often be hard to accept yourself as [[transgender|trans]]. [^2] This leads [[transgender|trans]] people often continue to look into other solutions. This is often due to [[societal trauma | societal stigma]] and can make the life of an out or closeted [[transgender|trans]] person even more difficult. 
 
 %%
-- [ ] #TO/PONDER/CONCEPT  Relation to studies from [[course_Psychology of Race and Gender]]%%
+- [ ] #TO/PONDER/IDEA  Relation to studies from [[course_Psychology of Race and Gender]]%%
 
 [^1]: [[Your anxiety knows your insecurities better than you do]], [[We value our biggest insecurities because they protect us from the biggest threats]]
 [^2]: [[You're never sure if you're trans]]
@@ -25,7 +25,7 @@ Once you discover and accept yourself as [[transgender|trans]], a lot of the see
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]], [[mental illness]], [[human survival]], [[self-actualization]]

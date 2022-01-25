@@ -30,7 +30,7 @@ Ways to alter our environment: [[Tips for concentration]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING 
+**Status**:: #EVER/SPROUT 
 *edited January 19, 2022*
 
 **Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[mental illness]]

@@ -32,7 +32,7 @@ As opposed to dragging you back in life like the [[mind]] often does:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Life principles]], [[belief]], [[self-actualization]]

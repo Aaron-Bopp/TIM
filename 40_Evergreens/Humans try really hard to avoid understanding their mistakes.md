@@ -23,7 +23,7 @@ We answer to our urges first and our [[morality]] second
 - counters [[Humans long to know what to do]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]]

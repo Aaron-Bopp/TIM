@@ -20,7 +20,7 @@ By just typing the name into the quick switcher, I did not need to recognize thi
 - [[Friction is the number one hindrance to learning]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[organization]], [[note writing]]

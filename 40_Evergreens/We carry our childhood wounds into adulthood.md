@@ -11,7 +11,7 @@ sr-ease: 165
 
 #### [[We carry our childhood wounds into adulthood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/EXPLORE/WATCH #TO/PONDER/CONCEPT these videos
+#TO/EXPLORE/WATCH #TO/PONDER/IDEA these videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0m8iATgqzcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DUkpWgcR8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,7 +29,7 @@ Especially in [[childhood]], negative experiences cause us to make wide assumpti
  > <cite>[[Dr. K]]</cite>
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[childhood]], [[trauma]]

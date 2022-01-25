@@ -32,7 +32,7 @@ If you would like to easily access your notes anywhere without hassle and have l
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My TIM]], [[second brain]], 

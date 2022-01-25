@@ -24,7 +24,7 @@ Because [[Right kinds of thoughts lead to right kinds of actions]], this means k
  
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
 **Topics**:: [[responsibility]], 

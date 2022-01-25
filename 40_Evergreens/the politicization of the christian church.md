@@ -9,8 +9,11 @@ sr-ease: 230
 
 #### [[The Politicization of the Christian Church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-The modern church is focused on building a [[counter-culture]] movement that is loyal to a fault. [[homophobia]] takes sin from the realm of actions to lifestyle, [[creationism]] erodes peoples [[faith]] in science, [[abortion]] forces people to vote for one political party without even caring about the rest of its platform. I just see Christians being taken advantage of time and time again because they believe so deeply. 
-^[[[Faith is an abstraction of cognitive dissonance]]]
+The modern church is focused on building a [[counter-culture]] movement that is loyal to a fault. [[homophobia]] takes sin from the realm of actions to lifestyle, [[creationism]] erodes peoples [[faith]] in science, [[abortion]] forces people to vote for one political party without even caring about the rest of its platform. I just see Christians being taken advantage of time and time again because they believe so deeply:
+[[The church will fail if christians keep aligning themselves with hate instead of love]]
+
+Christians are especially weak to this because [[The Christian worldview is incompatible with most other worldviews]] and [[You will never be pushed to understand marginalization unless you are part of a marginalized group]].
+[[Evangelicalism|Evangelical]] Christian's have had one of the highest #TO/WRITE more about christians privelege since [[Reagan]]
 
 
 - [[Evangelicalism has commodified faith for profit]]
@@ -25,7 +28,7 @@ The modern church is focused on building a [[counter-culture]] movement that is 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 
 **Topics**:: [[Christianity]], [[Politics]], [[religion]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

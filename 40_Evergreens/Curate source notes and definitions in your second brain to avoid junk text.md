@@ -31,7 +31,7 @@ For me, this process looks like this:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[My TIM]], [[second brain]]

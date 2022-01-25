@@ -21,7 +21,7 @@ Making weeding part of your [[spaced repetition]] process will likely mean that 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[spaced repetition]], [[note writing]]
