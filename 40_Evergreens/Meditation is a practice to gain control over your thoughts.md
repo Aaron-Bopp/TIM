@@ -4,8 +4,8 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/23, review, node/evergreen/claim
-sr-due: 2022-01-24
-sr-interval: 1
+sr-due: 2022-01-26
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -14,25 +14,22 @@ sr-ease: 210
 When [[Western philosophy|western]] researcher's started studying the science behind [[meditation]] and [[Yoga]] they tried to distill these practices into one thing:  [[mindfulness]]
 ^[[[notes_History of Meditation]]]
 
-There are many different styles of [[Yoga]], but at the core of all of the them is [[understanding]] and gaining control over your [[mind]] so that we can better live in the current moment.
+There are many different styles of [[Yoga]], but at the core of all of the them is [[understanding]] and controlling your [[mind]] so that we can better live in the current moment.
 [[Consciousness is our capacity to introspect]], and [[Meditation is a practice to develop a stronger conscious]] so it follows that [[meditation]] will help you gain control over your thoughts in a variety of different ways.
 
-In [[Vedic Psychology]], the [[mind]] is divided into five layers, and understanding how these layers work together was key for how the [[Yogi|Yogis]] developed and refined [[meditation]]:
-[[The history of meditation is a mixture of science and spirituality]]
+In [[Vedic Psychology]], the [[mind]] is divided into five layers, and understanding how these layers work together was key for how the [[Yogi|Yogis]] developed and refined [[meditation]].
+^[[[The history of meditation is a mixture of science and spirituality]]]
+These five layers of the [[brain]] interact to create [[conscious|consciousness]].
+This allows us to process information from our [[Indriya|sensory organs]] and [[unconscious]], and to observe the intellectual [[mind]] and [[ego]].
+Because [[Mental health is a reaction to one's environment]], a practice that improves our awareness of our internal environment is going to be very impactful:
+[[Meditation helps us gain awareness through detachment]]
 
-These five layers of the [[brain]] interact to create thought from process information from our [[Indriya|sensory organs]] and to process information from our [[unconscious]].
-Because [[Mental health is a reaction to one's environment]], a practice that improves both sides of this process is will be very helpful.
 Modern science has shown that these ancient practices have very powerful [[Neuroscience|neurological]] mechanisms in the [[brain]], and the [[meditation]] can have powerful impacts on our [[mental health]]. 
 ^[[[notes_Science of Meditation]]]
-
-Controlling your thoughts does not merely lie in the [[brain]] as there are many [[physiology|physiological]] mechanisms that impact this. 
-[[Meditation]] has been shown to directly in interface with these mechanisms, whether through
-regulating [[hormone]]s, which is why 
+Gaining control over your thoughts does not merely lie in the [[brain]] as there are many [[physiology|physiological]] mechanisms that impact this. 
 [[Meditation improves mental, physical, and emotional health]], but 
 [[Yoga]] combines [[meditation]] with [[discipline]] and practices that are enhanced and can enhance [[meditation]]:
 [[Yoga is a wholistic philosophy of self-improvement]]
-
- 
 
 ### <hr class="footnote"/>
 

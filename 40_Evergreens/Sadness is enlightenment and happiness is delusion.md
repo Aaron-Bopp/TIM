@@ -2,8 +2,8 @@
 created: 2021-06-11
 edited: 
 tags: created/evergreen/2021/06/11, review, node/evergreen/claim
-sr-due: 2022-01-24
-sr-interval: 21
+sr-due: 2022-03-16
+sr-interval: 51
 sr-ease: 248
 aliases:
   - "Sadness is not enlightenment and happiness is not delusion"
@@ -19,11 +19,12 @@ Once a person has set up this belief that negative emotion is associated with in
 
 This way of living your life is [[subconscious|subconsciously]] attractive,
 because you will think your increasing sadness is a sign of your increasing intelligence, and that it is the only moral reaction the world we live in.
-As your [[despair]] grows, so does your fear of the possibility of hope,
+As your [[despair]] grows, so does your [[fear]] of the possibility of [[hope]],
 because then your [[realism|realistic]] view of the world is wrong,
 and your despair has been for nothing. 
+
 [[Rationalizations are defense-mechanisms against strong emotions]] and your anger against the [[injustice]] of the world has caused you to make [[rationalizations]] about how you can [[change]] it.
-This [[feedback loop]] leads to inaction, [[depression]], [[pessimism]], and [[cynacism]].
+This [[feedback loop]] leads to inaction, [[depression]], [[pessimism]], and [[cynicism]].
 ^[[[Mental health is a reaction to one's environment]]]
 
 ##### What is the path out?
