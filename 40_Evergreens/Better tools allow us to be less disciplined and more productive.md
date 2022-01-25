@@ -18,7 +18,7 @@ Less disciplined does not always mean less productive, and when your lack of dis
 > [!example]
 > Since we started doing modern computer [[programming]] in the early 1970s, our computing power has increased #TO/DO/FIND fold. We are able to hold more power in our hand today than an entire warehouse could hold back then. This has allowed for so much amazing [[software]], but software that is made today is different from the first twenty years of [[programming]]. We have so much computing power that we no longer push ourselves to efficiency. 
 
-[[Friction is the number one hindrance to learning]] talks about how friction stunts the process of learning. Discipline can be used to overcome this friction, such as with [[Niklas Luhmann]]'s [[Zettelkasten]],
+[[Friction is a hindrance to learning]] talks about how friction stunts the process of learning. Discipline can be used to overcome this friction, such as with [[Niklas Luhmann]]'s [[Zettelkasten]],
 but modern tools allow us to overcome both the friction of discipline and the [[friction]] the discipline was trying to solve. 
 
 In the early days of [[knowledge work]], to save something, you had to be purposeful about it. Either you saved the reference so that you could find it again, or you clipped the newspaper article and filed it away. If you wanted to collect a wealth of knowledge, you needed to have an entire [[organization]] system just to keep track. Today, we have the power of computing and web clippers that make saving something arbitrary. [[Powerful tools make dangerous toys]] and in this case has led to [[The Collector's Fallacy]].

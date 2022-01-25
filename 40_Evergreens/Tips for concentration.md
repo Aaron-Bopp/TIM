@@ -20,7 +20,7 @@ Here some ways that I have found to help concentrate:
 3. Be willing to give yourself breaks, but try to do activities that will rest your brain instead of stimulate it. I.E go for a walk  or meditate instead of looking at social [[media]] for 20 mins.
 4. If it's possible and your lack of concentration is common reach out to your doctor to see if you can get a diagnosis and medication would help. For some, medication is the tool they need to survive and for others it is jumping off point for better habits.
 5. Look into [[mindfulness]] and [[meditation]]. It's okay to get frustrated and upset, but practices like those help 
-6. Find tools that reduce friction thus reducing required concentration, e.g. [[spaced repetition]]: [[Friction is the number one hindrance to learning]]
+6. Find tools that reduce friction thus reducing required concentration, e.g. [[spaced repetition]]: [[Friction is a hindrance to learning]]
 7. Understand how your brain works and try to work with it: [[Neurodiverse people can use their brain to their advantage]]
 
 ### <hr class="footnote"/>

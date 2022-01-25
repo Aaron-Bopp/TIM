@@ -18,7 +18,7 @@ sr-ease: 200
 > 3. The accessibility of these thoughts
 
 %%
-#TO/WRITE how do we reduce the [[friction]] of gathering information (and how this can lead to the collector's fallacy) and then how do we curate the information so that we can learn from it. Emphasize that the ultimate goes is to reduce [[friction]] because [[Friction is the number one hindrance to learning]] 
+#TO/WRITE how do we reduce the [[friction]] of gathering information (and how this can lead to the collector's fallacy) and then how do we curate the information so that we can learn from it. Emphasize that the ultimate goes is to reduce [[friction]] because [[Friction is a hindrance to learning]] 
 %%
 
 Many a [[knowledge management|PKM]] guru has warned against [[The Collector's Fallacy]], of collecting more thought than you can use. I think this is very wise advice for new users who may not know what the purpose of the knowledge management system is or how to store information in it valuably, but if collection allows for more frictionless access to knowledge then it can be ignored. 

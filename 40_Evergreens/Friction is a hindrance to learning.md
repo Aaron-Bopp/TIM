@@ -9,7 +9,7 @@ sr-interval: 56
 sr-ease: 230
 ---
 
-#### [[Friction is the number one hindrance to learning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Friction is a hindrance to learning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 What causes friction?
 - A difficult problem ^[[['A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe]]]
@@ -37,14 +37,13 @@ Good systems for learning reduce this friction:
 > 1. [[Your second brain should be frictionless access to a curated base of knowledge]]
 > 2. [[Your second brain should be an inspirational hub of creativity]]
 
-##### Counter:: Friction can be used to engage the first brain
-
-[[Our brain will do anything it can to protect itself]] and sometimes that just means being lazy. If we are too used to something, or do it a lot, our brain will start to skip over it to avoid spending unneeded energy. This can become a problem when the brain over uses this process, and we start skipping over things we actually need to think about.
+##### When is [[friction]] not a hindrance?
+- [[Good friction causes the brain to engage]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[knowledge management]], [[second brain]], [[social progress]]
+**Topics**:: [[knowledge work]], [[second brain]], [[social progress]], [[learning]], [[friction]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -13,7 +13,7 @@ sr-ease: 221
 
 - [[My TIM]]
 - [[Neurodiverse people can use their brain to their advantage]]
-- [[Friction is the number one hindrance to learning]]
+- [[Friction is a hindrance to learning]]
     - [[second brain]]
         - [[Your second brain should be frictionless access to a curated base of knowledge]]
         - [[Your second brain should be an inspirational hub of creativity]]

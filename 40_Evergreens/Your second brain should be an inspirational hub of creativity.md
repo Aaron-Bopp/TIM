@@ -14,7 +14,7 @@ sr-ease: 243
 
 If your primary goal is to create thought, then your system should be setup in a way that prioritizes that workflow. [[Write your notes like you're planting an evergreen forest]] is one such methodology, but your purposes and your mind will influence how you set up your [[second brain]]. Your mind may gravitate towards structure and routine, or it may yearn for the freedom of spontaneous creation. Either way, the act of creating your [[knowledge management|knowledge management system]] can be used as a catalyst or conduit to create thought: [[Learning how systems work can be a gateway to creating thought]]
 
-One universal truth is that your [[second brain]] should not be a hindrance to creating. [[Friction is the number one hindrance to learning]] and [[Fear is the number one hindrance to trying]], so [[When in doubt, write what you think]]
+One universal truth is that your [[second brain]] should not be a hindrance to creating. [[Friction is a hindrance to learning]] and [[Fear is the number one hindrance to trying]], so [[When in doubt, write what you think]]
 
 Structure is only helpful in that it reduces friction, but it should not be a hindrance to your creativity: [[Only organize as much as your data requires]]
 

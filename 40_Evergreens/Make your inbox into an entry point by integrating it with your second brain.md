@@ -17,7 +17,7 @@ In a typical inbox you may have things you haven't read, have skimmed but want t
 However, because [[Nodes in the second brain are an abstraction of our first brain#Nodes in the second brain are more fragile than thoughts in the first brain]], 
 by making your inbox a part of your [[second brain]] 
 you are subjecting it to [[The fragility of nodes in a second brain]].
-Remember, [[Friction is the number one hindrance to learning]], 
+Remember, [[Friction is a hindrance to learning]], 
 but you can help alleviate this [[friction]] by
 [[Your second brain should be frictionless access to a curated base of knowledge|making your second brain a curated base of knowledge]].
 

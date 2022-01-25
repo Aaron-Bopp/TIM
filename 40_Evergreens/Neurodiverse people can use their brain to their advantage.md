@@ -25,7 +25,7 @@ sr-ease: 210
 	- [[ADHD is not a lack of attention it is a misplacement of attention]]
 	- [[ADHD reduces working memory]]
 - [[human advancement]]
-    - [[Friction is the number one hindrance to learning]]
+    - [[Friction is a hindrance to learning]]
     - [[Mental health is a reaction to one's environment]]
 
 ### <hr class="footnote"/>

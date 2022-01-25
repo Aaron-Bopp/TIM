@@ -16,7 +16,7 @@ sr-ease: 228
 > <cite>[[Frank Herbert]]</cite>
 
 - [[The most reliable path to success is repeatedly trying to succeed]]
-	- [[Friction is the number one hindrance to learning]]	
+	- [[Friction is a hindrance to learning]]	
 	- [[Write your notes like you're planting an evergreen forest]]
 - [[Humans try really hard to avoid understanding their mistakes]]
 	- [[We carry our childhood wounds into adulthood]]

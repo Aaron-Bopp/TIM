@@ -25,7 +25,7 @@ but in the era of computer's this process is different.
 ^[This doesn't mean there isn't anything to learn from Luhmann's system, but we shouldn't limit ourselves because of it: [[Better tools allow us to be less disciplined and more productive]]]
 We no longer have the limitation of a small card that can easily fit into filing cabinets, and we no longer have access to the 3d plane.
 Trying to exactly recreate a [[Zettelkasten]] with these limitations would
-introduce unnecessary [[friction]]: [[Friction is the number one hindrance to learning]]
+introduce unnecessary [[friction]]: [[Friction is a hindrance to learning]]
 
 This is why I always say [[conceptual notes]] instead of atomic notes:
 [[Concepts are the fundamental unit of knowledge]]

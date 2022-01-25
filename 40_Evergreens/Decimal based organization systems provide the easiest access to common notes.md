@@ -17,7 +17,7 @@ By just typing the name into the quick switcher, I did not need to recognize thi
 
 - [[Neurodivergent people cannot stop their brain from solving problems]]
 - [[How memory works]]
-- [[Friction is the number one hindrance to learning]]
+- [[Friction is a hindrance to learning]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

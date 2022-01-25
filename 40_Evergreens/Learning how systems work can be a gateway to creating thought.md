@@ -26,7 +26,7 @@ Here are some thoughts that may guide how you decide on and create your system w
 - [[Write your notes with a system not within a system]]
 - [[Note structures should help curate knowledge]]
 - [[Evergreen notes organize knowledge so that it can grow]]
-- [[Friction is the number one hindrance to learning]]
+- [[Friction is a hindrance to learning]]
 - [[The fragility of nodes in a second brain]]
 
 

@@ -42,7 +42,7 @@ So what are your primary concerns?
 I fall into this boat. Until I found a note system that suited my brain and a software that allowed to me to reduce [[friction]] I almost never took notes. This has lead to [[My TIM]], which combines the systems mentioned above.
 
 %% #TO/TEND/GRAFT %%
-- [[Friction is the number one hindrance to learning]]
+- [[Friction is a hindrance to learning]]
 - [[Nodes in the second brain are an abstraction of our first brain]]
 - [[The fragility of nodes in a second brain]]
 - [[A totally integrated machine should automate as much of the thinking process as possible]]

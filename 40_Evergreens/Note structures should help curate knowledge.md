@@ -14,7 +14,7 @@ they should be encouraging it.
 If a structure makes you stop and think, "Ugh, I have nothing to put here" it is introducing needless [[friction]],
 but if it stops and makes you think, "oh right, I need to put this here" it is adding to your process.
 This is why friction can be both a hinderance and boon to your [[knowledge work]]:
-[[Friction is the number one hindrance to learning]]
+[[Friction is a hindrance to learning]]
 
 Over time this structures will help [[Your second brain should be frictionless access to a curated base of knowledge|your second brain become frictionless access to a curated base of knowledge]], without introducing too much overhead.
 because their loosely defined nature makes it easy for your brain to use them

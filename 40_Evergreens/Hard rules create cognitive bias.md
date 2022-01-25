@@ -23,7 +23,7 @@ sr-ease: 153
 	- [[Prioritize organization over categorization to avoid cognitive bias]]
 - [[Stupid rules are made to be broken]]
 - [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
-- [[Friction is the number one hindrance to learning]]
+- [[Friction is a hindrance to learning]]
 - [[Use philosophies as far they are useful and nothing more]]
  
 

@@ -1,5 +1,5 @@
 - [[42 Knowledge Management]]
-	- [[Friction is the number one hindrance to learning]]
+	- [[Friction is a hindrance to learning]]
 	- [[When in doubt, write what you think]]
 	- [[Write your notes like you're planting an evergreen forest]]
 	- [[note writing]]

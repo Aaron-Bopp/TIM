@@ -11,7 +11,7 @@ sr-ease: 161
 
 #### [[Only organize as much as your data requires]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Organization systems are not mutually exclusive]], do not confine yourself to one [[systems for thought]]. When you start to feel [[friction]], trust that feeling: [[Friction is the number one hindrance to learning]]
+[[Organization systems are not mutually exclusive]], do not confine yourself to one [[systems for thought]]. When you start to feel [[friction]], trust that feeling: [[Friction is a hindrance to learning]]
 
 Over-organization will just lead to incorrect categorization: [[Prioritize organization over categorization to avoid cognitive bias]]
 

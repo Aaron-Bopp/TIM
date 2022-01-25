@@ -30,6 +30,7 @@ WHERE contains(topics, this.file.link)
 - [[Searching for THE answer is dangerous]]
 - [[Take note of the simple things in life]]
 - [[Be the change you want to see in the world]]
+- [[I don't write my notes for myself]]
 
 ### <hr class="dataviews"/>
 

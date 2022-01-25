@@ -16,7 +16,7 @@ A topic note should contain description or definition of what falls under that t
 and an outline of various other notes (of any kind) that fall under it.
 Maintaining topic notes is a valuable entry point into [[second brain]],
 but focusing too much on creating and maintaining them can cause [[friction]]: 
-[[Friction is the number one hindrance to learning]]
+[[Friction is a hindrance to learning]]
 
 %%
 #TO/TEND/MULCH 

@@ -6,6 +6,8 @@
 
 It's okay, I sometimes click on links and forget about it by the time I open them too. This is [[My TIM| my Totally Integrated Machine]] or at least the window into it's inner workings. This is an accumulation of years of thinking and months of writing in an app called [[Obsidian (software)|Obsidian]], you will find notes covering all the topics that I am interested in.  
 
+This vault is an example of [Work with the garage door up](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu). These notes contain new ideas, old ideas, half baked projects, and hopefully something valuable. I use these notes everyday to learn and process information, and they have been massively valuable to me, but I share them so I can easily communicate that [[information]] with others. This is important for a multitude of reason, one of them being [[I don't write my notes for myself]].
+
 The core features of this site are the [[bi-directional links]] and the graph view in the top right. Use them to navigate, you can also search or scroll through all of my notes on the left. On the bottom of each page you will see a list of backlinks, or notes that link to that note. Use any of these methods to navigate, or start from here:
 
 - If you want to know what I am up to: [[202 Now]]
