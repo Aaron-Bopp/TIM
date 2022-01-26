@@ -29,4 +29,4 @@ With long form media you can take people on journeys to your conclusion, but wit
 **Topics**:: [[note writing]], [[inter-personal communication]], [[influence]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^1]: ![[tweets_&Gt; Most People Suck At...#Highlights]]
+[^1]: ![[tweets_&Gt; Most People Suck At...#Highlights| clean]]

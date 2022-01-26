@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-01-24
-sr-interval: 1
+sr-due: 2022-01-28
+sr-interval: 3
 sr-ease: 170
 ---
 
 #### [[There has been a decrease in mental health not an increase in mental illness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Many people are disturbed by the increase in diagnosis of [[Disorder]]'s like [[GAD|Generalized Anxiety Disorder]] and [[SAD|Social Anxiety Disorder]], but the amount of people with these disorders. 
+Many people are disturbed by the increase in diagnosis of [[disorder]]'s like [[GAD|Generalized Anxiety Disorder]] and [[SAD|Social Anxiety Disorder]], but the amount of people with these disorders. 
 Instead the increase in access to medical terminology and an increase in [[anxiety]] culturally has lead to more people recognizing and looking help for these symptoms.
 
 What is the reason behind this?

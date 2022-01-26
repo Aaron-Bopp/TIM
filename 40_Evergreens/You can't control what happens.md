@@ -4,18 +4,19 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/14, review, node/evergreen/claim
-sr-due: 2022-01-24
-sr-interval: 1
+sr-due: 2022-01-27
+sr-interval: 2
 sr-ease: 130
 ---
 
 #### [[You can't control what happens]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is the concept of [[Karma Fal]], which states that you are not entitled to the outcome of your action, only the action itself.
-This is something I personally struggle to believe, but I can acknowledge that
-Success comes from focusing on actions not outcomes:
-[[The most reliable path to success is repeatedly trying to succeed]]
+This is something I personally struggle to believe, 
+but I can acknowledge that
+[[The most reliable path to success is repeatedly trying to succeed]].
 
+#TO/TEND/MULCH 
 [[Motivation and obsession are indistinguishable to an outside perspective]] because motivation is just focusing on task until it's completion and focusing on the outcomes can actually lead to [[anxiety]] instead of [[motivation]]:
 [[Anxiety prevents us from living in the present]]
 

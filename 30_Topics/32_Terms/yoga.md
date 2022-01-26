@@ -4,8 +4,8 @@ edited: 2022-01-23
 aliases:
   - Yogic
 tags: created/topic/2021/05/31, review, node/topic/term
-sr-due: 2022-01-25
-sr-interval: 2
+sr-due: 2022-01-30
+sr-interval: 5
 sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,7 +18,7 @@ An [[eastern philosophy|eastern system]] of introspection and self-discovery who
 **See**:: [[mind-body complex]], [[enlightenment]], [[Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-There are four ways to connect to the [[infinite]] [[energy]] of the [[universe]]; [[Brahman]]
+There are four ways to connect to the [[infinite]] [[energy]] of the [[universe]]: [[Brahman]]
 ^[[[notes_Metaphysics of Meditation]]]
 - [[Bhakti Yoga]] religious path
 - [[Karma Yoga]] purification through good deeds

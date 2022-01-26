@@ -4,15 +4,15 @@ edited:
 tags: created/evergreen/2021/08/08, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-25
-sr-interval: 6
+sr-due: 2022-02-04
+sr-interval: 10
 sr-ease: 152
 ---
 
 #### [[Mental health is a reaction to one's environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This environment includes our physical environment (the one we [[experience]]),
-our chemical environment (what is going into the body, and what is the brain producing),
+This environment includes our physical environment (what our [[senses]] our returning),
+our chemical environment (the chemical our [[brain]] and [[body]] produce and consume),
 and our emotional environment (how our [[mind]] is reacting to our physical and chemical environments).
 Whether through chemical imbalances 
 or [[repressed]] [[emotions]] 
@@ -27,6 +27,11 @@ produce more complex emotional reactions.
 %%
 
 Ways to alter our environment: [[Tips for concentration]]
+
+#TO/TEND/GRAFT 
+- [[Anxiety prevents us from living in the present]]
+- [[Anxiety causes us to reject nuance]]
+- [[Sometimes we can't grow until we change our environment]]
 
 ### <hr class="footnote"/>
 

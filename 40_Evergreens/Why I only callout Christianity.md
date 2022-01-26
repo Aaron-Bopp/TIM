@@ -4,15 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/05, review, node/evergreen/claim
-sr-due: 2022-01-24
-sr-interval: 12
-sr-ease: 230
+sr-due: 2022-01-31
+sr-interval: 6
+sr-ease: 210
 ---
 
 #### [[Why I only callout Christianity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Because I know a lot about it and it has had a massive impact on my life. I believe I have gained the right to call out as much as I want, and if Christians are uncomfortable with that then they can leave.
-
+[[Christianity]] is not only something that I know a lot about, it is something that I have personal [[experience]] with as as well. 
 While other [[religion]]s may have problematic histories as well, I am not aware of them or at least not to the point where I would make a statement on it. When I talk about [[eastern philosophy]], I do so in the spirit of [[Use philosophies as far they are useful and nothing more]]. I am going to take whatever positives I can, and if something clashes with my [[morality]] I am just not going to use it. This is really how I use [[Christianity]] but there this process involved a lot of unlearning, and I have documented most of that in this vault.
 
 Now feel free to read [[My Deconstruction journey]]

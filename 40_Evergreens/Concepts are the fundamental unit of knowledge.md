@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/26, review, node/evergreen/claim
-sr-due: 2022-01-24
-sr-interval: 5
+sr-due: 2022-02-03
+sr-interval: 9
 sr-ease: 170
 ---
 
@@ -26,10 +26,8 @@ This is what makes [[conceptual notes]] so powerful:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[note writing]], [[knowledge work]], [[knowledge management]], [[conceptual notes]]
+**Topics**:: [[knowledge work]], [[knowledge management]], [[conceptual notes]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

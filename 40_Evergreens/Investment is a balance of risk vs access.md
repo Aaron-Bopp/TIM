@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/06, review, node/evergreen/technique 
-sr-due: 2022-01-24
-sr-interval: 15
+sr-due: 2022-03-09
+sr-interval: 43
 sr-ease: 250
 ---
 
-#### [[How to balance investment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Investment is a balance of risk vs access]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Investment is a balance of risk vs access. Long-term accounts like [[401k]] and [[Roth IRA]] provide little risk but little access, while investment accounts provide easier access for more risk.
+Long-term accounts like [[401k]] and [[Roth IRA]] provide little risk but little access, while investment accounts provide easier access for more risk.
 
 The market has never been down over a 20 year period, and outside of 1998-2008 it has never been down over a ten year period. This means that as long as you are not within 10 years of retirement the money in your [[401k]] and [[Roth IRA]] are safe.
 

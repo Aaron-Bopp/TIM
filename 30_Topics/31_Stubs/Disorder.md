@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+#### <s class="topic-title">[[Disorder]]</s> 
 
 [[Mental illness]] are usually defined as disorders, which means that they disorder your life. This means that a disorder like [[GAD|Generalized Anxiety Disorder (GAD)]] is different than [[anxiety]] through the impact it has on your function
 

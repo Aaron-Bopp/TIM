@@ -4,12 +4,15 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/23, review, node/evergreen/claim
-sr-due: 2022-01-24
-sr-interval: 1
+sr-due: 2022-01-28
+sr-interval: 3
 sr-ease: 210
 ---
 
 #### [[Anxiety causes us to reject nuance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+[[Anxiety]] creates black and white thinking do to it's [[Neuroscience|neurological]] relation to the [[fight-or-flight response]].
+^[[[notes_Physiologic Anxiety]]]
 
  
 

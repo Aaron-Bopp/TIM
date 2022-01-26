@@ -4,21 +4,22 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-01-24
-sr-interval: 6
+sr-due: 2022-01-28
+sr-interval: 3
 sr-ease: 130
 ---
 
 #### [[Meditation helps us detach negative attachments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+%% #TO/TEND/WEED %%
 [[Our brain actively inhibits us from processing repressed emotions]] can lead to a variety of problems like carrying [[childhood]] [[trauma]] into adulthood,
 ^[[[We carry our childhood wounds into adulthood]]]
-or being overly logical,
+or being overly logical.
 ^[[[Rationalizations are defense-mechanisms against strong emotions]]]
-which ultimately lead to an overactive [[ego]] that prevents use from processing our the [[repressed]] [[emotions]].
-^[[[Our ego is our subconscious defense of our self]]]
-We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and directly accessing our [[unconscious]]:
-[[Meditation is a practice to gain control over your thoughts]]
+These are both manifestations of 
+[[Our ego is our subconscious defense of our self]].
+We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and directly accessing our [[unconscious]]
+^[[[Meditation is a practice to gain control over your thoughts]]]
 
 See the [[unconscious]] [[mind]] preventing our [[conscious]] mind from accessing those memories directly
 by constantly putting up thoughts to prevent them from sinking in.
