@@ -1,6 +1,6 @@
 ---
 created: 2022-01-06T10:12:23 
-edited: 
+edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/06, review, node/evergreen/technique 
@@ -34,7 +34,7 @@ The amount you can contribute is much less, ^[$6000] but the money is slightly m
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/WEED 
-*edited `=this.file.mtime`*
+*edited January 25, 2022*
 
 **Topics**:: [[finance]], [[economy]], [[investing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

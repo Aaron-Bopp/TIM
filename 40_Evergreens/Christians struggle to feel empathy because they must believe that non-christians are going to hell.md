@@ -2,8 +2,8 @@
 created: 2021-06-11
 edited: 
 tags: created/evergreen/2021/06/11, review, node/evergreen/claim
-sr-due: 2022-01-25
-sr-interval: 27
+sr-due: 2022-04-11
+sr-interval: 75
 sr-ease: 272
 ---
 
@@ -26,7 +26,7 @@ they wouldn't be able to do anything but evangelize or praise god for allowing t
 Christians will find endless rationalizations around why this is something they can accept,
 because 
 [[Human's will find explanations for inexplainable things]].
-How can you [[[[love]]]] someone you know is condemned to death? How can you bear to live in a world where some people will suffer eternally? How can you bear it?
+How can you [[love]] someone you know is condemned to death? How can you bear to live in a world where some people will suffer eternally? How can you bear it?
 This is the [[cognitive dissonance]] that [[Christianity]] causes: [[Faith is an abstraction of cognitive dissonance]]
 
 [[Love]] has become a transaction that christians use to garner favor: 

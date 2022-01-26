@@ -1,6 +1,6 @@
 ---
 created: 2022-01-04T16:06:46 
-edited: 
+edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim   
@@ -29,7 +29,7 @@ Even more importantly I write my notes for my past [[self]], because they desper
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING
-*edited January 23, 2022*
+*edited January 25, 2022*
 
 **Topics**:: [[Life principles]], [[note writing]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -1,6 +1,6 @@
 ---
 created: 2022-01-25T16:16:56 
-edited: 
+edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/25, review, node/evergreen/claim
@@ -20,7 +20,7 @@ counters:: [[Friction is a hindrance to learning]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
-*edited `=this.file.mtime`*
+*edited January 25, 2022*
 
 **Topics**:: [[knowledge work]], [[learning]], [[understanding]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

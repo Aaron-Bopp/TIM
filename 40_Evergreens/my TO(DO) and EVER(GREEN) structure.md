@@ -1,6 +1,6 @@
 ---
 created: 2021-05-25
-edited: 
+edited: 2022-01-25
 tags: created/evergreen/2021/05/25, review, node/evergreen/technique 
 sr-due: 2022-06-05
 sr-interval: 152
@@ -68,7 +68,7 @@ The point of these tags is to give you ways to *meaningfully* interact with your
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN
-*edited `=this.file.mtime`*
+*edited January 25, 2022*
 
 **Topics**:: [[second brain]], [[Obsidian (software)]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

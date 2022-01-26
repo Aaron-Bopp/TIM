@@ -1,6 +1,6 @@
 ---
 created: 2022-01-14T14:44:25 
-edited: 2022-01-23
+edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/14, review, node/evergreen/claim
@@ -31,7 +31,7 @@ Because [[Right kinds of thoughts lead to right kinds of actions]], this means k
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
-*edited January 23, 2022*
+*edited January 25, 2022*
 
 **Topics**:: [[responsibility]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

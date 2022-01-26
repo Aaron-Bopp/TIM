@@ -1,6 +1,6 @@
 ---
 created: 2022-01-01T02:36:24 
-edited: 2022-01-23
+edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
@@ -47,7 +47,7 @@ so it is important to understand
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
-*edited January 23, 2022*
+*edited January 25, 2022*
 
 **Topics**:: [[emotions]], [[meditation]], [[mindfulness]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

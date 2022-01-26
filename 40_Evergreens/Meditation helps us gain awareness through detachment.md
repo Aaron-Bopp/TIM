@@ -1,6 +1,6 @@
 ---
 created: 2022-01-24T22:56:43 
-edited: 
+edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/24, review, node/evergreen/claim
@@ -16,7 +16,7 @@ sr-ease: 190
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GROWING
-*edited `=this.file.mtime`*
+*edited January 25, 2022*
 
 **Topics**:: <% tp.file.cursor(1) %>
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

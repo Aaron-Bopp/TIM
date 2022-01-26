@@ -1,6 +1,6 @@
 ---
 created: 2021-10-20
-edited: 
+edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2021/10/20, review, node/evergreen/claim
@@ -43,7 +43,7 @@ Good systems for learning reduce this friction:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
-*edited `=this.file.mtime`*
+*edited January 25, 2022*
 
 **Topics**:: [[knowledge work]], [[second brain]], [[social progress]], [[learning]], [[friction]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -1,6 +1,6 @@
 ---
 created: 2022-01-23T20:01:53 
-edited: 2022-01-23
+edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/23, review, node/evergreen/claim
@@ -19,7 +19,7 @@ sr-ease: 210
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
-*edited January 23, 2022*
+*edited January 25, 2022*
 
 **Topics**:: [[anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
