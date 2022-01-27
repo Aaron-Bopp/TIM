@@ -49,3 +49,25 @@ While I wasn't pushing myself to write, because I was uncovering lots of old not
 In the future, I will be exploring using spaced repetition as a way to review [[source notes]], and see if it can be a [[Make your inbox into an entry point by integrating it with your second brain| entry point into the second brain]]. 
 
 I think this practice will be helpful for any system that uses conceptual notes, and would love to hear and see others experiences.
+
+
+# Progress and updates after four months of use
+
+After continuing to use this system my [[understanding]] and use of it has evolved, and I have realized that I could have shared more specifics into how this synergizes with other systems that I use. While I mention my tagging system above, at the time I did not realize how *key* it was to *developing* notes, not just connecting them. While just using spaced repetition as described above will massively benefit your ability to connect and make insights between notes, without work from your end, it isn't going to develop notes on your own. This should be fairly unsurprising, but for me it mine first month of using it, it did almost feel like that.
+
+In brief, [[my TO(DO) and EVER(GREEN) structure]] is system that is designed to make *developing* your notes easier **over time.** 
+It does this by offloading the [[information]]
+of what you want to work on in your notes and when
+from your [[working memory]].
+It does this by offloading a lot of the decisions that need to be made about notes, to future you.
+There are benefits and downsides to this approach.
+
+## What to actually do between opening a note and reviewing it 
+
+![[Pasted image 20220126143341.png]]
+
+
+![[Pasted image 20220126143414.png]]
+## Why this system works so well
+
+## What are the limitations of this system

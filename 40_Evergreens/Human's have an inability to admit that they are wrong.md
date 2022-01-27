@@ -10,7 +10,9 @@ sr-ease: 179
 
 #### [[Human's have an inability to admit that they are wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+%%
 #TO/TEND/CULTIVATE focus on content of linked notes
+%%
 
 Once the [[ego]] has internalized a belief as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]], but fundamentally this produces [[cognitive dissonance]] as we are unable to integrate new information.
 ^[[[Evergreen notes should be constantly integrating new knowledge]]]
@@ -36,6 +38,7 @@ it can be detrimental.
 It can make it hard to accept knew information because of this and because [[We are confined to the tools of our time]]. [[Knowledge of the world is painful]], but we should [[Be the change you want to see in the world]]. Try not to get stuck in [[pessimism]] and believe [[Sadness is enlightenment and happiness is delusion]], because [[Realism must acknowledge optimism's existence and effectiveness]]
 
 For more see [[Humans are primarily irrational, illogical, emotional beings]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
