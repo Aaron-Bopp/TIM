@@ -119,7 +119,6 @@ The system isn't broken it is working exactly as intended
 [^212893689]:  https://radicalinprogress.org/kaba-2021-2?__readwiseLocation=0%2F21%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A8%2C0%2F21%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A36#:~:text=There%20Are%20No%20Perfect%20Victims
 
 ##### ^212892693
-#TO/EXPLORE/RESEARCH https://survivedandpunished.org/  
 > Kaba is the co-founder of an organization called Survived and Punished that focuses on **criminalized survivors**. Criminalized survivors are people (often Black women) who are charged with a crime, even though they were protecting themselves from sexual, physical, or mental violence 
   [^212892693]
 

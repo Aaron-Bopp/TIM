@@ -11,6 +11,10 @@ sr-ease: 210
 
 #### [[How memory works]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+[The difference between short term and long term memory, and why active recall works so well](https://where-is-calypso.notion.site/Spaced-Repetition-5477dbbbc83d49fe933d83b919215255)
+
+Terms:: [[Forgetting Curve]], [[Active Recall]]
+
 [[Our brain actively inhibits us from processing repressed emotions]]
 
 #TO/EXPLORE/RESEARCH Do we even remember something before we understand it?
