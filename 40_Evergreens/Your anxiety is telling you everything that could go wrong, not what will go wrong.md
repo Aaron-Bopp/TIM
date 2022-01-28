@@ -14,7 +14,7 @@ sr-ease: 130
 #TO/TEND/GRAFT this onto [[Your anxiety knows your insecurities better than you do]], [[Our brains are built around survival]]
 %%
 
-[[Social anxiety isn't irrational it's just overcompensation]],
+[[Anxiety isn't irrational it's just overcompensation]],
 if you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with the thing or not. 
 
 Being able to do this requires a very healthy amount of [[mindfulness]], and a large amount of [[self-awareness]]. Once you've achieved these things your [[anxiety]] can start to be an aspect of your [[mindfulness]] rather than an inhibitor:

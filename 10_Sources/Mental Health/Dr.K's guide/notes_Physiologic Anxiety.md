@@ -22,7 +22,7 @@ tags: created/source/2021/12/30, node/source/notes
 
 ## Notes
 - [[Physiologic Anxiety]] is a physical danger response triggered in a unneeded context
-	- [[Social anxiety isn't irrational it's just overcompensation]]
+	- [[Anxiety isn't irrational it's just overcompensation]]
 - western [[medicine]] focuses on mental aspects of [[anxiety]] not the [[physiology|physiological]] 
 - anxiety is a inappropriate activation of a survival trigger [[Our brains are built around survival]]
 	- tiger example

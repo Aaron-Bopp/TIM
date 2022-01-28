@@ -7,8 +7,8 @@ aliases:
 date modified: Wednesday, October 6th 2021, 2:34:37 pm
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+#### <s class="topic-title">[[anxiety]]</s> 
 
 a feeling of worry, nervousness, or unease about something with an uncertain outcome ^fc54c3
 
@@ -22,16 +22,19 @@ Your body's natural response to stress. It's a feeling of fear or apprehension a
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
+
 ##### [[anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
-- [[Social anxiety isn't irrational it's just overcompensation]]
+- [[Anxiety isn't irrational it's just overcompensation]]
 	- [[Anxiety should be a tool at your disposal not an impedance to your life]]
 	- [[Your anxiety knows your insecurities better than you do]]
 - How [[anxiety]] manifests
@@ -49,7 +52,6 @@ WHERE contains(topics, this.file.link)
 		- [[We carry our childhood wounds into adulthood]]
 	- [[neurodiversity]]
 
-
 ### <hr class="dataviews"/>
 
 ```dataview
@@ -61,4 +63,3 @@ WHERE contains(topics, [[anxiety]])
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
 	
 `$=customJS.dv_funcs.sortableColumns()`
-

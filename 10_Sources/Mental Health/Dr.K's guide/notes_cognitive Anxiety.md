@@ -24,7 +24,7 @@ tags: created/source/2021/12/30, node/source/notes
 
 - Anxiety is the future focused [[mind]] - worrying about a consequences that haven't come to pass
 	- Anxiety is protective mechanism as it allows for us to make adjustments
-		- [[Social anxiety isn't irrational it's just overcompensation]]
+		- [[Anxiety isn't irrational it's just overcompensation]]
 - Anxiety is also [[ego]]-centric, or relates to our sense of identity or insecurities that we hold
 	- if your [[mind]] you are always the one [[suffering]]
 	- [[Your anxiety knows your insecurities better than you do]]

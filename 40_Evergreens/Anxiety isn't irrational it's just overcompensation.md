@@ -7,7 +7,7 @@ sr-interval: 65
 sr-ease: 214
 ---
 
-#### [[Social anxiety isn't irrational it's just overcompensation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Anxiety isn't irrational it's just overcompensation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/TEND/CULTIVATE connection between this and [[course_Dr. K's Guide to Mental Health]] about [[anxiety]]
 

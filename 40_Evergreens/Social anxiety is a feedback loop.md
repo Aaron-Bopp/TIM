@@ -11,7 +11,7 @@ sr-ease: 136
 
 [[Your anxiety is telling you everything that could go wrong, not what will go wrong]],
 but our [[brain]] believes these thoughts as if they are reality. 
-[[Social anxiety isn't irrational it's just overcompensation]], and you are frustrated that your [[anxiety]] is impeding you from something as simple as talking to people.
+[[Anxiety isn't irrational it's just overcompensation]], and you are frustrated that your [[anxiety]] is impeding you from something as simple as talking to people.
 
 So you try to be more [[socialization|social]] and this happens:
 1. [[A secure identity is the best defense against social anxiety]] but you don't have a secure identity because your not able to be your true [[self]] because...

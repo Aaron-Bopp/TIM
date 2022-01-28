@@ -1,3 +1,4 @@
+We all deserve to have our needs met by a [[compassionate expert]] - [[john gre]]
 #TO/EXPLORE/WATCH [There is No Algorithm for Truth - with Tom Scott - YouTube](https://www.youtube.com/watch?v=leX541Dr2rU)
 resources for implementing [[Dewey Decimal System]] https://www.librarything.com/mds https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf
 
