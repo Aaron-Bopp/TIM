@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/11, review, node/evergreen/claim
-sr-due: 2022-01-25
-sr-interval: 3
+sr-due: 2022-02-02
+sr-interval: 6
 sr-ease: 130
 ---
 
@@ -13,7 +13,11 @@ sr-ease: 130
 
 [[Conceptual notes]] notes that are purely taken on individual concepts
 [[Sequential notes]] notes that are taken in the sequence of the thing they are notating like a lecture or book
-transformative notes: notes that transform the material into things like questions and answers or prompts
+Transformative notes: notes that transform the material into things like questions and answers or prompts
+
+Notes we take in school are mainly reproductive notes. 
+
+Where is the line being producing a note and [[creativity]]? Is there any difference #TO/PONDER/IDEA 
 
 ##### What are the starter types of note taking?
 > Flash cards (index cards you flip over like the kid game memory) / cornell notes (it's named for the school, no special meaning) / and "the index card method" which is simultaneously the same thing as flash cards and also the literal opposite

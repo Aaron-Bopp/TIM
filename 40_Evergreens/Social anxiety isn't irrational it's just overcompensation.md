@@ -9,6 +9,8 @@ sr-ease: 214
 
 #### [[Social anxiety isn't irrational it's just overcompensation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/CULTIVATE connection between this and [[course_Dr. K's Guide to Mental Health]] about [[anxiety]]
+
 People who say [[anxiety]] is irrational are just unaware of their surroundings,
 or they will answer to their fears but not understand where they come from: [[Our ego is our subconscious defense of our self]]
 
