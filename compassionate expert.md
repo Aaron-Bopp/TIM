@@ -10,7 +10,6 @@ tags: created/topic/2022/01/28, node/topic/term
 #### <s class="topic-title">[[compassionate expert]]</s> 
 
 A person who is both knowledgeable and skilled in some area, and is willing to help other's with those knowledge and skills.
-^[[My Least Relatable Story: The Parisian Dentist - YouTube](https://www.youtube.com/watch?v=yCiZLFNxwpY)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
