@@ -4,15 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2014/08/22, review, node/evergreen/claim
-sr-due: 2022-01-25
-sr-interval: 2
+sr-due: 2022-02-05
+sr-interval: 8
 sr-ease: 190
 ---
 
 #### [[Why is history important]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
  
-Our history shapes us into who we are, as humans, as families and as nations. If we lose sight of our past we lose sight of who we are. Our triumphs, our ancestors and most importantly our [[struggle|struggles]] define us.
+Our history shapes us into who we are, as humans, as families and as nations. If we lose sight of our past we lose sight of who we are. Our triumphs, our ancestors, and most importantly how our [[struggle|struggles]] define us.
 
 %%Freedom is our greatest triumph, the idea all other triumphs rely on. We've fought countless wars for it, and millions have lost their lives in its pursuit. On it we have founded our government, our constitution, our courts. "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." With these words our forefathers defined this amazing liberty.%%
 

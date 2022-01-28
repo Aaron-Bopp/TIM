@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/18, review, node/evergreen/claim
-sr-due: 2022-01-25
-sr-interval: 21
+sr-due: 2022-03-03
+sr-interval: 34
 sr-ease: 150
 ---
 
@@ -16,6 +16,8 @@ sr-ease: 150
 - Contrast [[McCarthyism is an attack on totalitarianism not communism]] (before mass media)
 - [[The anti-vax movement is based off a white lie]]
 - [[American's are scared of the word communism not it's meaning]]
+- [[Q justifies conservatives discontent]]
+#TO/PONDER/IDEA [[Social media]], [[Increases in scrutiny lead to increases in anxiety]], 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

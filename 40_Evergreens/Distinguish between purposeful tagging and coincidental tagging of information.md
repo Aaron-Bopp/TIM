@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/10, review, node/evergreen/claim
-sr-due: 2022-01-25
-sr-interval: 10
-sr-ease: 230
+sr-due: 2022-02-02
+sr-interval: 5
+sr-ease: 210
 ---
 
 #### [[Distinguish between purposeful tagging and coincidental tagging of information]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,6 +20,7 @@ This is where [[Note structures should help curate knowledge]] comes in. Having 
 
 - [[Pattern matching is a fundamental part of learning]] 
 - [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
+- [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 
 ### <hr class="footnote"/>
 

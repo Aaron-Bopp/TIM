@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/21, review, node/evergreen/claim
-sr-due: 2022-01-25
-sr-interval: 10
+sr-due: 2022-02-14
+sr-interval: 17
 sr-ease: 144
 ---
 
@@ -17,9 +17,10 @@ Many people who consider themselves 'empaths' really just cannot control when th
 If the [[emotions]] you are mirroring are at odds with your [[morality]] then you are going to feel strong [[cognitive dissonance]], and
 you will start to make [[rationalizations]] that do not reflect your ideals:
 [[Rationalizations are defense-mechanisms against strong emotions]]
-[[emotional mirroring]]
 
-This could be an [[anxiety]] response #TO/EXPLORE/RESEARCH relation between anxiety and [[empathy]]/[[sympathy]]
+#TO/EXPLORE/RESEARCH  [[emotional mirroring]]
+
+This could be an [[anxiety]] response #TO/EXPLORE/RESEARCH relation between anxiety and [[empathy]]/[[sympathy]], narcisstic  parents, [[fight-or-flight response]], [[inter-generational trauma]], [[Hypervigilance]]
 
 [[Disambiguation - empathy, sympathy, compassion, pity]]
 
