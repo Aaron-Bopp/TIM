@@ -2,10 +2,9 @@
 created: 2021-06-12
 edited: 
 tags: created/evergreen/2021/06/12, review, node/evergreen/claim
-date modified: Monday, October 18th 2021, 11:16:49 pm
-sr-due: 2022-01-26
-sr-interval: 20
-sr-ease: 179
+sr-due: 2022-02-09
+sr-interval: 12
+sr-ease: 159
 ---
 
 #### [[Human's have an inability to admit that they are wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -14,7 +13,7 @@ sr-ease: 179
 #TO/TEND/CULTIVATE focus on content of linked notes
 %%
 
-Once the [[ego]] has internalized a belief as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]], but fundamentally this produces [[cognitive dissonance]] as we are unable to integrate new information.
+Once the [[ego]] has internalized a [[belief]] as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]], but fundamentally this produces [[cognitive dissonance]] as we are unable to integrate new information.
 ^[[[Evergreen notes should be constantly integrating new knowledge]]]
 #TO/PONDER/SOCIETY What pushes us to break this process?
 
