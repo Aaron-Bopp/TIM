@@ -4,8 +4,8 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/23, review, node/evergreen/claim
-sr-due: 2022-01-26
-sr-interval: 2
+sr-due: 2022-02-03
+sr-interval: 6
 sr-ease: 210
 ---
 
@@ -15,7 +15,10 @@ When [[Western philosophy|western]] researcher's started studying the science be
 ^[[[notes_History of Meditation]]]
 
 There are many different styles of [[Yoga]], but at the core of all of the them is [[understanding]] and controlling your [[mind]] so that we can better live in the current moment.
-[[Consciousness is our capacity to introspect]], and [[Meditation is a practice to develop a stronger conscious]] so it follows that [[meditation]] will help you gain control over your thoughts in a variety of different ways.
+[[Consciousness is our capacity to introspect]]
+and [[Meditation is a practice to develop a stronger conscious]],
+so it follows that
+[[meditation]] will help you gain control over your thoughts in a variety of different ways.
 
 In [[Vedic Psychology]], the [[mind]] is divided into five layers, and understanding how these layers work together was key for how the [[Yogi|Yogis]] developed and refined [[meditation]].
 ^[[[The history of meditation is a mixture of science and spirituality]]]

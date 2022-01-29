@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/08/01, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-26
-sr-interval: 34
+sr-due: 2022-04-19
+sr-interval: 81
 sr-ease: 230
 ---
 
@@ -13,7 +13,7 @@ sr-ease: 230
 
 The [[internet]] has allowed for people with niche interests to connect like never before. It has also allowed for nerd culture to be brought into the mainstream, people to engage more easily with the [[Queer]] [[community]], and for social outcasts to find a sounding board for their ideas. [[Communities are knowledge graphs]], and the communities with the loudest proponents often have the most [[influence]] in online spaces.
 %%
-#TO/EXPLORE/RESEARCH connection to [[alt-right pipeline]]
+#TO/EXPLORE/RESEARCH connection to [[alt-right pipeline]] [[People are radicalized when they are convinced that change is out of their control]]
 %%
 
 This fact has both good and bad consequences. While anonymous boards like 4chan have allowed for the spread of unsavory and sometimes despicable content, many people have also had access to life saving information like the [[transgender]] community. [[Communities are support systems]], and the [[internet]] allows for you too gain support from a much wider breadth of people. 

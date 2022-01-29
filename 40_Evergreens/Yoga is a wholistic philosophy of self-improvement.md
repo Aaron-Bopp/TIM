@@ -4,8 +4,8 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-01-26
-sr-interval: 4
+sr-due: 2022-02-07
+sr-interval: 10
 sr-ease: 190
 ---
 
@@ -26,12 +26,12 @@ It does this by helping us understand and connect the different parts of our bei
 - Actions for improving your actions
 	1. [[Yama]] pure standards; how we observe the world
 	2. [[Niyama]] good morals; how we make our way through the world
-- Actions for improving your [[mind-body complex]]
+- Actions for improving your [[mind-body complex]]  
 	1. [[asanas]] [[Yoga]] postures
 	4. [[Pranayama]] breath practices
 	5. [[Pratyahara]] restrain impulses
-- Actions for improving your [[conscious|consciousness]]
-	6. [[Dharana]] focusing
+- Actions for improving your [[conscious|consciousness]]  
+	1. [[Dharana]] focusing
 	7. [[Dhyana]] state of [[meditation]]
 	8. [[Samadhi]] state of temporary [[enlightenment]]
 	
@@ -41,7 +41,7 @@ It does this by helping us understand and connect the different parts of our bei
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited January 23, 2022*
 
 **Topics**:: [[Yoga]], [[self-improvement]], [[mental health]], [[philosophy]], [[human behavior]], [[human interaction]]

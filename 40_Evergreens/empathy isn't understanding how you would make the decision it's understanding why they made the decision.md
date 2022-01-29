@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/07/04, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-26
-sr-interval: 9
+sr-due: 2022-02-21
+sr-interval: 24
 sr-ease: 208
 ---
 
@@ -17,19 +17,21 @@ People will often try to conceptualize how somebody made a choice and fail often
 not being able to put yourself in someone else's shoes is a fault on your part.
 ^[[[Consciousness is our capacity to introspect]]]
 
-[[You can't blame people for failing to rise above their circumstances]] because doing so means you cannot empathize with their position. 
+[[You can't blame people for failing to rise above their circumstances]] because doing so means you aren't empathizing with their position. 
 [[Searching for THE answer is dangerous]] because your closing yourself off to [[understanding]].
 This is why 
-we should [[Look for understanding before you look for solutions]].
+you should [[Look for understanding before you look for solutions]].
 This [[emotional mirroring]] will help to bridge the gap of [[understanding]] between you an the other person. 
 
 When entering in to this mindset it is important to remember 
 [[Empathy does not disallow judgment]].
 
-This idea is especially important for [[Christianity|christians]], because [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] because they struggle to put themselves into the shoe's of non-christians:
-[[Worldviews should not make life seem easy and simple]]
+This idea is especially important for [[Christianity|Christians]], because [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]].  
+The reason they struggle to put themselves into the shoe's of non-christians is 
+[[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 
 %%[[Meditation helps us develop empathy]]%%
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

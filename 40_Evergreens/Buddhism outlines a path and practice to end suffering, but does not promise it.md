@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/10/19, review, node/evergreen/claim
-sr-due: 2022-01-26
-sr-interval: 49
+sr-due: 2022-05-29
+sr-interval: 121
 sr-ease: 243
 ---
 
@@ -24,7 +24,7 @@ Buddhism outlines this Eightfold path [^1] that if followed leads to the end of 
 - Right Livelihood
 - Right Effort
 - Right [[mindfulness]] 
-- Right Concentration[^2]
+- Right Concentration
 
 This contrasts [[Worldviews should not make life seem easy and simple|Worldviews that make life seems easy and simple]] because
 it lays out a difficult path to gain your eternal reward and does not promise immediate effects.
