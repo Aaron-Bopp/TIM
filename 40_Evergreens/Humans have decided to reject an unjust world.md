@@ -4,16 +4,21 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/25, review, node/evergreen/claim
-sr-due: 2022-01-28
-sr-interval: 10
-sr-ease: 163
+sr-due: 2022-02-05
+sr-interval: 6
+sr-ease: 143
 ---
 
 #### [[Humans have decided to reject an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+We have decided to flatly refuse to believe that there is no purpose to life, no justice in death, and no hope for the future. Whether these beliefs are true or not does not matter, because in the grand scheme of things it is only our resolve to push forward action by action that matters. 
+
+That said, flat rejection leads to dismissiveness of the [[struggle]] that is required to persist in this world. To promote a better world you must also have [[empathy]] for people who are simply unable to reject the [[injustice]] they see all around them. 
+
 - answers [[What is the cognitive effect of living in an unjust world]]
 - counters [[Humans have decided to take advantage of an unjust world]]
 
+#TO/TEND/PRUNE are these links necessary? 
 - [[Evolutionary Psychology]] 
     - [[Our brain will do anything it can to protect itself]]
         - [[The brain is powerful enough to create supernatural experiences]]
@@ -40,7 +45,7 @@ sr-ease: 163
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SPROUT  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[Behavioral Psychology]], [[human advancement]]

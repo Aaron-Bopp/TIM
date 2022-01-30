@@ -1,15 +1,13 @@
 ---
-created: 2021-10-18
+created: 2022-01-30T08:12:32 
 edited: 
 aliases:
-  - perceive
-tags: created/topic/2021/10/18, node/topic/term
+  - null
+tags: created/topic/2022/01/30, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[perception]]</s> 
-
-the way in which something is regarded, understood, or interpreted. 
+#### <s class="topic-title">[[war]]</s> 
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
