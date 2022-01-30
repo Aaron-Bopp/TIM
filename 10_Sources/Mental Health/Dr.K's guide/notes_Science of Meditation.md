@@ -17,7 +17,7 @@ type:
 **Next**:: [[notes_Metaphysics of Meditation]]
 
 ## Notes
-#### [[Meditation helps us regulate our hormonal environment]]
+#### [[Meditation regulates your hormones and stress physiology]]
 - Studies have found [[meditation|meditating]] for at least 20 minutes every day or every other it will affect you
 	- This is because of [[Stress]] physiology
 		- [[Hypothalamic Pituitary Adrenal (HPA) Axis]]

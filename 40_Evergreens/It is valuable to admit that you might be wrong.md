@@ -4,14 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-26
-sr-interval: 7
-sr-ease: 170
+sr-due: 2022-02-01
+sr-interval: 4
+sr-ease: 150
 ---
 
 #### [[It is valuable to admit that you might be wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UvYcunuF3Eo?start=6711" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 #TO/EXPLORE/WATCH what is the point of this timestamp?
@@ -33,5 +31,3 @@ sr-ease: 170
 
 **Topics**:: [[influence]], [[self-awareness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

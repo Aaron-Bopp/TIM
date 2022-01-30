@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/28, review, node/evergreen/claim
-sr-due: 2022-01-27
-sr-interval: 24
+sr-due: 2022-03-22
+sr-interval: 53
 sr-ease: 215
 ---
 
@@ -14,7 +14,6 @@ sr-ease: 215
 > ![[tweets_Tweets From Rory - ADHD Autistic OCD#263520467q]]
 >
 > <cite>[[@roryreckons on Twitter|Rory McCarthy]]</cite>
-
 
 - [[Neurodiverse people can use their brain to their advantage]]
 - [[Anxiety should be a tool at your disposal not an impedance to your life]]

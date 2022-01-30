@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/27, review, node/evergreen/claim
-sr-due: 2022-01-27
-sr-interval: 1
+sr-due: 2022-01-31
+sr-interval: 3
 sr-ease: 230
 ---
 
@@ -19,7 +19,5 @@ sr-ease: 230
 **Status**:: #EVER/GROWING
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

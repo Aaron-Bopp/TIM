@@ -4,15 +4,16 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-01-27
-sr-interval: 8
+sr-due: 2022-02-12
+sr-interval: 15
 sr-ease: 170
 ---
 
 #### [[Writing is a catalyst of understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Writing requires you to engage with the content on a higher level by introducing positive [[friction]]:
-[[Friction is a hindrance to learning#Counter Friction can be used to engage the first brain]]
+[[Good friction causes the brain to engage]]
+
 - some people can't think unless they are writing #TO/DO/CITE  
 - [[Humans are drawn to the unknown and repelled by the known]]
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
@@ -27,5 +28,3 @@ Writing requires you to engage with the content on a higher level by introducing
 
 **Topics**:: [[understanding]], [[learning]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

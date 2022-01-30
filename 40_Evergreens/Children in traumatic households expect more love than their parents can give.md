@@ -5,9 +5,9 @@ tags: created/evergreen/2021/07/05, review, node/evergreen/claim
 aliases:
   - Parents will not be able to protect their children from every source of
     trauma
-sr-due: 2022-01-27
-sr-interval: 37
-sr-ease: 190
+sr-due: 2022-02-17
+sr-interval: 20
+sr-ease: 170
 ---
 
 #### [[Children in traumatic households expect more love than their parents can give]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -28,5 +28,3 @@ For more: [[How can parent's best help their children]]
 
 **Topics**:: [[childhood]], [[Psychology]], [[trauma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

@@ -18,7 +18,7 @@ This [[abstraction]] is what allow us to make progress everyday in a world where
 If we had to answer the [[The three main questions of life]] every single morning, we would be paralyzed with indecision.
 ^[[[videoExistential Dread#Our brains design]]]
 In fact, being able to extrapolate [[information]] out of extremely little stimuli is what has allowed us to [[progress]] so far:
-[[Pattern matching is a fundamental part of learning]].
+[[Human's will find explanations for inexplainable things]].
 
 What comes from this?
 - [[Humans are drawn to the unknown and repelled by the known]]

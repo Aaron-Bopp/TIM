@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-01-27
-sr-interval: 15
+sr-due: 2022-02-28
+sr-interval: 31
 sr-ease: 210
 ---
 
@@ -18,6 +18,7 @@ By just typing the name into the quick switcher, I did not need to recognize thi
 - [[Neurodivergent people cannot stop their brain from solving problems]]
 - [[How memory works]]
 - [[Friction is a hindrance to learning]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
@@ -25,5 +26,3 @@ By just typing the name into the quick switcher, I did not need to recognize thi
 
 **Topics**:: [[organization]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

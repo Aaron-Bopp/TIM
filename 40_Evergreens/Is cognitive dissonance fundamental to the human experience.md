@@ -4,13 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/09, review, node/evergreen/question 
-sr-due: 2022-01-26
-sr-interval: 11
+sr-due: 2022-02-25
+sr-interval: 28
 sr-ease: 230
 ---
 
 #### [[Is cognitive dissonance fundamental to the human experience]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
 
 - [[Is cognitive dissonance the reason for harmful behaviors]]
 - [[What is the cognitive effect of living in an unjust world]]
@@ -25,5 +24,3 @@ sr-ease: 230
 
 **Topics**:: [[human experience]], [[cognitive dissonance]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

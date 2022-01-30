@@ -60,7 +60,7 @@ type:
 	- [[Meditation improves mental, physical, and emotional health]]
 		- [[notes_Science of Meditation]]
 			- [[Meditation helps us regulate our nervous system]]
-			- [[Meditation helps us regulate our hormonal environment]]
+			- [[Meditation regulates your hormones and stress physiology]]
 			- [[Meditation helps us gain control over our emotions]]
 				- [[Meditation helps us develop empathy]]
 			- [[Meditation helps us detach negative attachments]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-01-27
-sr-interval: 15
+sr-due: 2022-03-01
+sr-interval: 32
 sr-ease: 210
 ---
 
@@ -15,19 +15,22 @@ Humans want to believe because [[Humans have decided to reject an unjust world]]
 To be clear, this thinking isn't wrong,
 the problem is when we pathologize this addiction and spread it as far as we can: [[Evangelicalism has commodified faith for profit]]
 
+[[Belief]] helps us deal with living in an unjust world:
 - [[Belief pulls you forward into life]]
 - [[Faith can be a useful tool for grounding yourself]]
 
-
+It does this by answering
 - [[The three main questions of life]]
+
+This is because
 - [[Humans are a product of evolution]]
-- [[Humans yearn for a tool with no blood on it]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
+
+The effects are
+- [[Humans yearn for a tool with no blood on it]]
 - [[Is cognitive dissonance the reason for harmful behaviors]]
 - [[Hope is not optimism it is a practice for producing change]]
 - [[What is the cognitive effect of living in an unjust world]]
-
- 
 
 ### <hr class="footnote"/>
 
@@ -36,5 +39,3 @@ the problem is when we pathologize this addiction and spread it as far as we can
 
 **Topics**:: [[philosophy]], [[belief]], [[faith]], [[belief systems]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

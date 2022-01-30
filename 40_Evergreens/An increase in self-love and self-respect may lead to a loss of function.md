@@ -4,17 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/08, review, node/evergreen/claim
-sr-due: 2022-01-27
-sr-interval: 12
-sr-ease: 150
+sr-due: 2022-02-04
+sr-interval: 7
+sr-ease: 130
 ---
 
 #### [[An increase in self-love and self-respect may lead to a loss of function]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-> How many of you unmasked autistics and other ND folks on your way to healing and [[self-actualization]] hit a point where you dropped your [[shame]] and [[fear]]… and suddenly lost the ability to motivate yourself to do stuff?
-> ...suffice to say there was a moment where I understood that the ten tons of shame I’d lugged around my whole life weren’t mine to carry, so I put them down. 
-> ...
-> Until I realized that not even I can make me do anything, because my whole productivity engine had been driven by external motivation and consequence avoidance and I was no longer afraid...
+> How many of you unmasked autistics and other ND folks on your way to healing and [[self-actualization]] hit a point where you dropped your [[shame]] and [[fear]]… and suddenly lost the ability to motivate yourself to do stuff?...suffice to say there was a moment where I understood that the ten tons of shame I’d lugged around my whole life weren’t mine to carry, so I put them down...Until I realized that not even I can make me do anything, because my whole productivity engine had been driven by external motivation and consequence avoidance and I was no longer afraid...
 >
 > But time and slowness and time and patience and time and reflection and time and therapy have helped me to come to know who I am in the absence of that fear and shame.
 > This person always existed, it’s just that his goals never mattered. Now they do. 

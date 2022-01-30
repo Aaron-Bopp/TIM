@@ -16,7 +16,7 @@ sr-ease: 170
 While many think of [[meditation]] as a practice for the most disciplined and devout of monks, the practice of [[meditation]] has been shown to have powerful effects on [[mental health]] of people from all backgrounds.  
 
 - [[Meditation helps us regulate our nervous system]]
-- [[Meditation helps us regulate our hormonal environment]]
+- [[Meditation regulates your hormones and stress physiology]]
 
 - [[Meditation helps us detach negative attachments]]
 - [[Meditation helps us gain control over our emotions]]

@@ -4,15 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-27
-sr-interval: 2
+sr-due: 2022-01-31
+sr-interval: 3
 sr-ease: 130
 ---
 
 #### [[We learn by transforming information into understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/PONDER/IDEA [[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]] 
-#TO/DO/FIND pyramid of [[knowledge]] thing
+#TO/EXPLORE/RESEARCH [Blooms taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
 - [[We are confined to the tools of our time]]
 - [[Humans try really hard to avoid understanding their mistakes]]
 - [[Rationalizations are defense-mechanisms against strong emotions]]

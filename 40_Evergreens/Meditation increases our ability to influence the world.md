@@ -26,7 +26,7 @@ and more easily recognize what they need to do to succeed.
 
 ##### On a scientific level
 
-[[Meditation helps us regulate our hormonal environment]] and [[Meditation helps us regulate our nervous system]]
+[[Meditation regulates your hormones and stress physiology]] and [[Meditation helps us regulate our nervous system]]
 
 ##### On a [[spirituality|spiritual]] level
 

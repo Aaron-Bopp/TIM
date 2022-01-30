@@ -4,13 +4,13 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/01/02, review, node/evergreen/technique
-sr-due: 2022-01-26
-sr-interval: 8
+sr-due: 2022-02-20
+sr-interval: 23
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+#### <s class="topic-title">[[Uijayi Pranayama]]</s> 
 
 Activates [[Vishuddha Chakra]], which governs your ability to make change on the world.
 Darth Vader [[breathing]], constrict your [[throat]] and allow your air to run over your vocal coords.
@@ -20,7 +20,6 @@ Start with 9 rounds and move up to 30
 A round is and inhale and exhale
 
 You can optionally involve [[Khechari Mudra]] where you point your tongue towards the back of your [[throat]]
-
 
 **See**:: [[meditation]], [[Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)

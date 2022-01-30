@@ -20,7 +20,7 @@ If your [[limbic system]] is failing to regulate your [[emotions]], [[meditation
 
 - [[Meditation helps us detach negative attachments]]
 - [[Meditation helps us regulate our nervous system]]
-- [[Meditation helps us regulate our hormonal environment]]
+- [[Meditation regulates your hormones and stress physiology]]
 
 This can lead to a [[detachment]] from our [[emotions]]:
 [[Meditation helps us detach negative attachments]]
