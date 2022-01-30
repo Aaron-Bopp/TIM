@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/16, review, node/evergreen/claim
-sr-due: 2022-01-28
-sr-interval: 6
+sr-due: 2022-02-14
+sr-interval: 15
 sr-ease: 210
 ---
 
@@ -18,7 +18,6 @@ See:: [[How can parent's best help their children]]
 - [[Parents need to model the ability to deal with emotion to their children]]
 - [[We carry our childhood wounds into adulthood]]
 - [[Children make wide assumptions about the world]]
-
 
 ### <hr class="footnote"/>
 

@@ -4,13 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-01-28
-sr-interval: 6
+sr-due: 2022-02-12
+sr-interval: 13
 sr-ease: 190
 ---
 
 #### [[People are radicalized when they are convinced that change is out of their control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+%%
+#TO/TEND/MULCH 
 The incel movement is based off two major things
 1. [[mysogyny]]
 2. the myth of the chad
@@ -21,13 +23,12 @@ This ideal body is completely unattainable and that is what leads incels to Radi
 
 An interesting connection may be to left-wing radicals, who are radicalized by the complete brokenness of the system. 
  
+%%
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/WEED
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[radicalization]], [[social progress]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
