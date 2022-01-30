@@ -4,15 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/06, review, node/evergreen/question
-sr-due: 2022-01-28
-sr-interval: 13
+sr-due: 2022-02-27
+sr-interval: 28
 sr-ease: 210
 ---
 
 #### [[How memory works]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[The difference between short term and long term memory, and why active recall works so well](https://where-is-calypso.notion.site/Spaced-Repetition-5477dbbbc83d49fe933d83b919215255)
-
+[Visual explanation of the difference between short term and long term memory, and why active recall works so well](https://where-is-calypso.notion.site/Spaced-Repetition-5477dbbbc83d49fe933d83b919215255)
 Terms:: [[Forgetting Curve]], [[Active Recall]]
 
 [[Our brain actively inhibits us from processing repressed emotions]]
@@ -31,5 +30,3 @@ Terms:: [[Forgetting Curve]], [[Active Recall]]
 
 **Topics**:: [[memory]], [[learning]], [[knowledge]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

@@ -4,8 +4,8 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/23, review, node/evergreen/claim
-sr-due: 2022-01-28
-sr-interval: 3
+sr-due: 2022-02-09
+sr-interval: 10
 sr-ease: 210
 ---
 
@@ -14,8 +14,6 @@ sr-ease: 210
 [[Anxiety]] creates black and white thinking do to it's [[Neuroscience|neurological]] relation to the [[fight-or-flight response]].
 ^[[[notes_Physiologic Anxiety]]]
 
- 
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -23,5 +21,3 @@ sr-ease: 210
 
 **Topics**:: [[anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

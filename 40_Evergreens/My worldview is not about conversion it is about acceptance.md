@@ -2,9 +2,9 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen, node/personal 
-sr-due: 2022-01-28
-sr-interval: 35
-sr-ease: 204
+sr-due: 2022-02-18
+sr-interval: 19
+sr-ease: 184
 ---
 
 #### [[My worldview is not about conversion it is about acceptance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -24,8 +24,9 @@ In general, people do not like to view themselves as the bad guy, so if I can pu
 ^[[[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]], but [[Empathy does not disallow judgment]]]
 I understand why people have faith, because [[Faith can be a useful tool for grounding yourself]],
 but I know that because [[Faith is an abstraction of cognitive dissonance]] it can often mask harmful beliefs. 
-^[Due to the way [[Christianity]] answers [[The three main questions of life]], it allows for blind spots that christians need to work through, this is why [[The Christian worldview is incompatible with most other worldviews]]]
-[[Christians struggle to feel empathy because they must believe that non-christians are going to hell]].
+Due to the way [[Christianity]] answers [[The three main questions of life]], it allows for blind spots that christians need to repeatedly work through,
+%% #TO/PONDER/IDEA of the blindpsots that [[Christianity]] creates %%
+this is why [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]].
 My ability to empathize cannot get in the way of holding people accountable for beliefs
 that either directly or indirectly hurt others, just as how
 [[Fear cannot be a deterrent for deconstructing your faith]]
@@ -40,4 +41,3 @@ especially in the case of children: [[Religious concepts are often too powerful 
 
 **Topics**:: [[Christianity]], [[belief systems]], [[faith]], [[philosophy]], [[theology]], [[sympathy]], [[empathy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

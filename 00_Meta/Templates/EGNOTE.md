@@ -6,14 +6,12 @@ sr-ease: 230
 
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>
 
-<% tp.file.cursor(0) %> 
+<% tp.file.cursor(0) %>
 
 ### <hr class="footnote"/>
 
-**Status**:: <% "#EVER/GROWING" %>
+**Status**:: <% "#EVER/SPROUT" %>
 *edited `=this.file.mtime`*
 
 **Topics**:: <% tp.file.cursor(1) %>
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
