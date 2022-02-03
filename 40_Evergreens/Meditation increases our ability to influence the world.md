@@ -21,8 +21,8 @@ and more easily recognize what they need to do to succeed.
 [[Meditation]] also helps people to focus and achieve things they are already trying to do: [[Meditation helps us gain control over our emotions]]
 
 #TO/PONDER/IDEA 
-- [[notes_Shuddhi]]
-- [[notes_Sangha]]
+- [[notes_How to achieve]]
+- [[notes_How to achieve]]
 
 ##### On a scientific level
 

@@ -37,7 +37,7 @@ This isn't an easy process, as the [[ego]] will be trying it's hardest to protec
 This process requires introspection and [[observation]] of your [[mind-body complex]] and it's processes.
 
 [[Mental health is a reaction to one's environment]] so your surroundings can impede this process. [[Raja Yoga]] and practicing [[Shuddhi]] will help you avoid this 
-^[[[notes_Shuddhi]]]
+^[[[notes_How to achieve]]]
 
 Remember, [[Our brain will do anything it can to protect itself]]
 and [[Working through trauma can involve of a lot of letting go]],

@@ -12,11 +12,11 @@ tags: created/topic/2021/12/29, node/topic/term
 The path of [[accomplishment]], focused on reaching your goals.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
-- [[notes_Karma Fal]]
+- [[notes_What is achievement]]
 - [[notes_Reframing Goals to Actions]]
 - [[notes_Origin of Motivation]]
-- [[notes_Sangha]]
-- [[notes_Shuddhi]]
+- [[notes_How to achieve]]
+- [[notes_How to achieve]]
 - [[notes_Satya]]
 
 **See**:: [[Karma Fal]], [[Sangha]], [[Shuddhi]], [[Satya]], [[motivation]]

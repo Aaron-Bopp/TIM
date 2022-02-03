@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/02, node/topic
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+#### <s class="topic-title">[[Video essays]]</s> 
 
 ```dataview
 TABLE WITHOUT ID essay, summary, topics WHERE file.name = this.file.name
@@ -30,8 +30,6 @@ TABLE WITHOUT ID essay, summary, topics WHERE file.name = this.file.name
 	- essay:: [How I Infiltrated a Bizarre Conspiracy Cult - YouTube](https://www.youtube.com/watch?v=EYvnKc908Fw)
 		- summary:: An incredible look at how we can create our own [[cognitive bias]] and how it can shape our view of reality. 
 	- essay:: [In Search Of A Flat Earth - YouTube](https://www.youtube.com/watch?v=JTfhYyTuT44)
-
-
 
 ### <hr class="dataviews"/>
 
