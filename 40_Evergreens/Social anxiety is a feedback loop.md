@@ -2,8 +2,8 @@
 created: 2021-10-23
 edited: 
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-01-29
-sr-interval: 14
+sr-due: 2022-03-01
+sr-interval: 24
 sr-ease: 136
 ---
 
@@ -13,7 +13,7 @@ sr-ease: 136
 but our [[brain]] believes these thoughts as if they are reality. 
 [[Anxiety isn't irrational it's just overcompensation]], and you are frustrated that your [[anxiety]] is impeding you from something as simple as talking to people.
 
-So you try to be more [[socialization|social]] and this happens:
+So you try to get past your [[social anxiety]] and this happens:
 1. [[A secure identity is the best defense against social anxiety]] but you don't have a secure identity because your not able to be your true [[self]] because...
 2. [[Your anxiety knows your insecurities better than you do]]. There is a some [[insecurity]] that you could fix if but you can treat this because... 
 3. [[Identity is your understanding of yourself vs your interaction with the world]] so your [[identity]] is that of someone who is unable to do what they want to do and so the [[feedback loop]] repeats

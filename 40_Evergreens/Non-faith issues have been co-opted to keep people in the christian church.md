@@ -2,14 +2,15 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-01-29
-sr-interval: 24
+sr-due: 2022-04-04
+sr-interval: 58
 sr-ease: 212
 ---
 
 #### [[Non-faith issues have been co-opted to keep people in the Christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
+%%testing%%
 [[Homophobia]], [[evolution]], [[abortion]] and lot of other non-[[faith]] issues have been used to keep people in the faith, and separated from the world with zero biblical backing. These issues do not affect anyone's personal relationship with [[god]], but because [[People have been conditioned to believe the bible has to be infallible]] they do produce a strong emotional response and have been used as [[propaganda]] to keep people in the church: 
 
 The main benefit from doing this comes down to [[Politics]] and [[The Politicization of the Christian Church]]: [[Single issue voters are anti-democratic]]. [[Republican voters do not hold their leaders accountable]], [[Abortion and immigration are detrimental to white supremacy]] #TO/TEND/DEOBFUSCATE 
