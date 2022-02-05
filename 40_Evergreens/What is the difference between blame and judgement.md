@@ -4,14 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/14, review, node/evergreen/question, 
-sr-due: 2022-01-28
-sr-interval: 24
+sr-due: 2022-03-19
+sr-interval: 42
 sr-ease: 150
 ---
 
 #### [[What is the difference between blame and judgement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/PONDER/IDEA 
+
 ##### [[blame]]
 
 [[You can't blame people for failing to rise above their circumstances]]
@@ -51,7 +52,7 @@ The term has at least five distinct uses.  Aristotle suggested we think of the o
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]]

@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/20, review, node/evergreen/claim
-sr-due: 2022-01-28
+sr-due: 2022-02-08
 sr-interval: 3
-sr-ease: 190
+sr-ease: 170
 ---
 
 #### [[Atheists don't believe that god doesn't exist they believe in a different source of truth]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,7 +15,7 @@ You can't believe a negative.
 Their [[belief]] is based on 
 another source of [[truth]].
 
-For some this source of [[truth]] is themselves. Either believing that that nobody needs [[belief]] or that they don't need [[belief]]. In reality this is a form of belief in and of itself.
+For some this source of [[truth]] is themselves. Either believing that nobody needs [[belief]] or that they don't need [[belief]]. In reality this is a form of belief in and of itself.
 This requires a massive capacity for [[cognitive dissonance]], which most atheists don't have.
 
 The second is belief in a process.
@@ -26,12 +26,11 @@ If they believe in themselves, they just don't believe they can be wrong.
 ^[symptom of:: [[Our ego defends every belief we hold conscious or subconscious]]]
 
 - [[Strong enough logic becomes belief]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/WEED 
 *edited January 23, 2022*
 
 **Topics**:: [[atheism]], [[belief]], [[faith]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

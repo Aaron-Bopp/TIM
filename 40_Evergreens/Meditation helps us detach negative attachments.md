@@ -4,15 +4,16 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-01-28
-sr-interval: 3
+sr-due: 2022-02-15
+sr-interval: 10
 sr-ease: 130
 ---
 
 #### [[Meditation helps us detach negative attachments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 %% #TO/TEND/WEED %%
-[[Our brain actively inhibits us from processing repressed emotions]] can lead to a variety of problems like carrying [[childhood]] [[trauma]] into adulthood,
+[[Our brain actively inhibits us from processing repressed emotions]] which
+can lead to a variety of problems like carrying [[childhood]] [[trauma]] into adulthood,
 ^[[[We carry our childhood wounds into adulthood]]]
 or being overly logical.
 ^[[[Rationalizations are defense-mechanisms against strong emotions]]]
@@ -29,6 +30,7 @@ by constantly putting up thoughts to prevent them from sinking in.
 ^[[[notes_Intro to Mantra Practice]]]
 
 Once the mind is calm, these thoughts can make their way through
+
 ![[Pasted image 20211231162555.png]]
 
 #TO/TEND/GRAFT [[notes_Working with Samskaras]]

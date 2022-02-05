@@ -27,5 +27,5 @@ Using [[Tiktok]] as an example, we would need
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[learning]], [[technology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
