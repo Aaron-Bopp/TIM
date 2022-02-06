@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/20, review, node/evergreen/claim
-sr-due: 2022-02-02
-sr-interval: 3
+sr-due: 2022-02-13
+sr-interval: 7
 sr-ease: 170
 ---
 
 #### [[Motivation and obsession are indistinguishable to an outside perspective]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-What is the inner feeling behind [[motivation]]? What is the inner feeling behind obsession?
+What is the inner feeling behind [[motivation]]? What is the inner feeling behind [[obsession]]?
 
 - [[The most reliable path to success is repeatedly trying to succeed]]
 - [[Right kinds of thoughts lead to right kinds of actions]]
@@ -25,5 +25,5 @@ Pushing yourself is something that is unique to humans.
 **Status**:: #EVER/SPROUT
 *edited January 23, 2022*
 
-**Topics**:: [[motivation]], [[human interaction]]
+**Topics**:: [[motivation]], [[human interaction]], [[obsession]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

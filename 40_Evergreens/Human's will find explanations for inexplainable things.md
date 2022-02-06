@@ -1,12 +1,12 @@
 ---
 created: 2021-06-16
 edited: 
-tags: created/evergreen/2021/06/16, review, node/evergreen/claim
+tags: created/evergreen/2021/06/16, review, node/evergreen/behavior
 aliases:
   - humans finding explanations for inexplainable things
   - explain unexplainable things
-sr-due: 2022-02-03
-sr-interval: 19
+sr-due: 2022-03-24
+sr-interval: 46
 sr-ease: 230
 ---
 
@@ -17,8 +17,7 @@ Humans are designed to make certainty out of uncertainty.
 This [[abstraction]] is what allow us to make progress everyday in a world where almost nothing make sense.
 If we had to answer the [[The three main questions of life]] every single morning, we would be paralyzed with indecision.
 ^[[[videoExistential Dread#Our brains design]]]
-In fact, being able to extrapolate [[information]] out of extremely little stimuli is what has allowed us to [[progress]] so far:
-[[Human's will find explanations for inexplainable things]].
+In fact, being able to extrapolate [[information]] out of extremely little stimuli is what has allowed us to [[progress]] so far.
 
 What comes from this?
 - [[Humans are drawn to the unknown and repelled by the known]]

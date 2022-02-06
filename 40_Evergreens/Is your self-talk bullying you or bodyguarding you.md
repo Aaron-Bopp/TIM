@@ -14,6 +14,10 @@ With enough practice, you'll be able to tell if your [[self]]-talk is coming fro
 - Which words are being used in my [[self]]-talk? 
 - What is the tone and intention of my [[self]]-talk?
 
+Self-talk is a manifestation of your [[self-image]], and like your [[self-image]] can be accurate or inaccurate. 
+#TO/TEND/GRAFT 
+- [[Self-hatred is born out of dissonance between self-image and self-perception]]
+- 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

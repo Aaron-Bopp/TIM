@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/12, review, node/evergreen/claim
-sr-due: 2022-02-02
-sr-interval: 18
+sr-due: 2022-03-13
+sr-interval: 35
 sr-ease: 176
 ---
 
@@ -33,9 +33,10 @@ sr-ease: 176
 	- [[Mass media promotes the spread of inaccurate information]]
 	- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 - [[Use philosophies as far they are useful and nothing more]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[social construct]], [[inequity]], [[social justice]]

@@ -11,6 +11,9 @@ sr-ease: 170
 
 #### [[Meditation helps us gain awareness through detachment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+There is a level of [[objectivity]] that can come from [[detachment]]. This is true [[objectivity]] unlike the false rationality of 
+[[Rationalizations are defense-mechanisms against strong emotions]]
+
 - [[Karma Fal]]
 - [[Self-belief is fundamental to good karma]]
 - [[You can't control what happens]]

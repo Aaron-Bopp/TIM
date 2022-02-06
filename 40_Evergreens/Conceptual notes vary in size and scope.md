@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/26, review, node/evergreen/claim
-sr-due: 2022-02-02
-sr-interval: 11
+sr-due: 2022-02-23
+sr-interval: 17
 sr-ease: 130
 ---
 
@@ -30,11 +30,10 @@ The size of a concept grows and shrinks with our [[understanding]] of it, availa
 > Additionally, the larger note was created months after the other two, as it was the furthering of my [[understanding]] of these concepts: 
 > [[Evergreen notes organize knowledge so that it can grow]]
 
-This is core to how [[evergreen notes]] integrate knowledge
-^[[[Evergreen notes should be constantly integrating new knowledge]]]
- and grow over time.
-^[[[Evergreen notes organize knowledge so that it can grow]]]
-You may have a note that is is broad, but as you understand more about the subject matter, you realize that something you covered with just a few sentences before is actually much more complex. Which conceptual notes, you can easily take those sentences, refactor them into their own note, and have the revised reference in the original note. You could have just expanded that information into the current note, but now that information can be accessed elsewhere, and the parent note doesn't cover information outside of it's area.
+This is core to how [[evergreen notes]] [[Evergreen notes should be constantly integrating new knowledge|integrate knowledge]]
+ and [[Evergreen notes organize knowledge so that it can grow|grow over time]].
+You may have a note that is is broad, but as you understand more about the subject matter, you realize that something you covered with just a few sentences before is actually much more complex.
+With [[conceptual notes]], you can easily take those sentences, refactor them into their own note, and have the revised reference in the original note. You could have just expanded that information into the current note, but now that information can be accessed elsewhere, and the parent note doesn't cover information outside of it's area.
  
 - [[What are the differences between evergreen notes and conceptual notes]]
 - [[Conceptual note is a better term than atomic note]]

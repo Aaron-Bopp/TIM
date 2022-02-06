@@ -4,8 +4,8 @@ edited:
 aliases:
   - Evangelicalism doesn't explore the path to being a good person
 tags: created/evergreen/2021/10/19, review, node/evergreen/claim
-sr-due: 2022-02-02
-sr-interval: 5
+sr-due: 2022-02-15
+sr-interval: 9
 sr-ease: 130
 ---
 

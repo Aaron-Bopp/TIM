@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/10, review, node/evergreen/claim
-sr-due: 2022-02-02
-sr-interval: 5
+sr-due: 2022-02-21
+sr-interval: 15
 sr-ease: 210
 ---
 
@@ -28,5 +28,3 @@ This is where [[Note structures should help curate knowledge]] comes in. Having 
 
 **Topics**:: [[learning]], [[understanding]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

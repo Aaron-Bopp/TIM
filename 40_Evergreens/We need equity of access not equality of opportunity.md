@@ -9,20 +9,22 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[We want equity of opportunity not equality of opportunity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We need equity of access not equality of opportunity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Not everybody has the same starting point in life.
-[[belief]] in equality of opportunity would state that as long as all these people have access to the same opportunities, then it is ethical.
+[[Belief]] in equality of opportunity would state that as long as all these people have access to the same opportunities, then it is ethical.
 However, many have recognized that have the same level of access in theory does not lead to that in reality. 
 There are real life [[inequality|inequalities]] that prevent different people from being able to take advantages in the same opportunities. 
-^[These are the result of]
+^[These inequalities are the result of the two sided coin of [[privilege]] and [[marginalization]]]
+Simply providing the same opportunities is not enough,
+we must organize society such that people have the same access to the opportunities as well.
 
-
+There is also a [[neurodiversity]] angle to this #TO/PONDER/IDEA 
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[social inequality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
