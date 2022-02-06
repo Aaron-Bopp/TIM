@@ -4,8 +4,8 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/24, review, node/evergreen/claim
-sr-due: 2022-01-29
-sr-interval: 1
+sr-due: 2022-02-15
+sr-interval: 9
 sr-ease: 170
 ---
 
@@ -18,10 +18,8 @@ sr-ease: 170
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GROWING
+**Status**:: #EVER/SPROUT
 *edited January 25, 2022*
 
 **Topics**:: [[meditation]], [[karma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

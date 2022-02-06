@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/22, review, node/evergreen/question 
-sr-due: 2022-01-29
-sr-interval: 14
+sr-due: 2022-02-28
+sr-interval: 22
 sr-ease: 130
 ---
 
@@ -22,6 +22,8 @@ sr-ease: 130
 [[Our authority figures curate and reinforce what we are allowed to imitate]]]
  But even when we know their just trying their hardest to move on, those people also have the greatest ability to hurt us when they refuse to admit that they might be wrong:
 [[It is valuable to admit that you might be wrong]]
+
+#TO/PONDER/IDEA are we supposed to forgive people who aren't ready to [[Accepting responsibility is not only about your actions]]
 
 There is great value you getting space or cutting people off because [[Sometimes we can't grow until we change our environment]], but [[Children in traumatic households expect more love than their parents can give]]. 
 Sometimes it's accepting [[responsibility]] for the weight a loving people who don't deserve it:

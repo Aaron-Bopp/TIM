@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/12, review, node/evergreen/claim
-sr-due: 2022-01-29
-sr-interval: 9
+sr-due: 2022-02-24
+sr-interval: 18
 sr-ease: 135
 ---
 
@@ -20,6 +20,7 @@ sr-ease: 135
 	- [[Evergreen notes organize knowledge so that it can grow]]
 	- [[Use Obsidian tags as temporal classifiers]]
 	- [[Make your inbox into an entry point by integrating it with your second brain]]
+	-  [[Using spaced repetition for your conceptual notes]]
 - [[A totally integrated machine should be infinitely scalable]]
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]]
 

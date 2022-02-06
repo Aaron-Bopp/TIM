@@ -4,8 +4,8 @@ edited: 2022-01-23
 aliases:
   - Yogic
 tags: created/topic/2021/05/31, review, node/topic/term
-sr-due: 2022-01-30
-sr-interval: 5
+sr-due: 2022-02-25
+sr-interval: 19
 sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -31,6 +31,7 @@ Other systems of yoga
 - [[Kundalini Yoga]]
 
 #### Covered in 
+
 - [[Yoga is a wholistic philosophy of self-improvement]]
 %% DO NOT EDIT BELOW %%
 

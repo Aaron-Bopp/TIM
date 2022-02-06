@@ -26,6 +26,7 @@ The size of a concept grows and shrinks with our [[understanding]] of it, availa
 > [[Humans are primarily irrational, illogical, emotional beings]] is much broader in scope than [[Human's have an inability to admit that they are wrong]] and [[Human's will find explanations for inexplainable things]] and completely overlaps them in content. Yet all three exist. The two smaller notes are all for more granular understanding of of the larger concept 
 > ^[this mainly comes through [[bi-directional links|backlinks]] as the notes themselves do not have much content of their own]
 > and the larger note allows itself to be a launch point for understanding and relating these concepts.  
+>
 > Additionally, the larger note was created months after the other two, as it was the furthering of my [[understanding]] of these concepts: 
 > [[Evergreen notes organize knowledge so that it can grow]]
 
