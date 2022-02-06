@@ -4,12 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-01-30
-sr-interval: 2
+sr-due: 2022-02-14
+sr-interval: 8
 sr-ease: 130
 ---
 
 #### [[There is a difference between thinking and creating]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/PONDER/IDEA does this need a better title?
 
 Many task requires thought, remembering how you did something before, understanding the limitations and requirements of the task at hand, even just figuring out what you want to do, but creating is much more than that. It is the thinking that produces something new into this world.
 

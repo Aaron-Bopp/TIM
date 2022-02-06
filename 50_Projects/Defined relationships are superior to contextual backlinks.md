@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim  
-sr-due: 2022-01-31
-sr-interval: 8
+sr-due: 2022-03-06
+sr-interval: 28
 sr-ease: 230
 ---
 
@@ -43,6 +43,10 @@ This is how I use [[Obsidian (software)|Obsidian]] to define relationships betwe
 What is the goal of this? Well by formatting my notes in this way it allows me to easily parse the `contrasts` field out of my notes, so it can be used by various plugins. This accomplishes two things:
 1. I can programmatically access the relationship between these two notes and use it in [[Dataview]] queries, to color [[Juggl (plugin, obsidian)|Juggl]] links, and to use in [[Python]] scripts. 
 2. It pushes me to link purposefully, and to [[abstraction|abstract]] the meaning of the relationship 
+
+##### Challenges
+
+#TO/WRITE It is hard to craft prose in a way that works with this system. Is it worth it?
 
 ### <hr class="footnote"/>
 

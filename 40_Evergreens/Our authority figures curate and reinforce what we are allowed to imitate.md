@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/10/03, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-30
-sr-interval: 10
+sr-due: 2022-02-24
+sr-interval: 18
 sr-ease: 130
 ---
 
@@ -15,7 +15,7 @@ From:: [[Parents need to model the ability to deal with emotion to their childre
 
 In [[Social Learning Theory]], imitation is one of four key mechanism for social learning, 
 and children are more likely to imitate the actions of authority figures, most often [[parents]].
-%%Why?%%
+%%Why? #TO/PONDER/IDEA %%
 
 This leads to so many elements of modern society such as [[gender roles]], [[racism]], and [[inter-generational trauma]]. This is
 made worse by:: [[Children will not question what is modeled for them unless they are taught to]]
@@ -30,7 +30,7 @@ for:: [[How can parent's best help their children]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SAPLING 
 *edited January 23, 2022*
 
 **Topics**:: [[gender]], [[Behavioral Psychology]], [[inter-generational trauma]]

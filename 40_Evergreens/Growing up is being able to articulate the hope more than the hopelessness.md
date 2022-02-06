@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-01-30
-sr-interval: 8
+sr-due: 2022-02-26
+sr-interval: 20
 sr-ease: 170
 ---
 
@@ -29,5 +29,3 @@ But how does this interact with [[Knowledge of the world is painful]]
 
 **Topics**:: [[Life principles]], [[hope]], [[hopelessness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

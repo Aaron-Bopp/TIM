@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/25, review, node/evergreen/claim
-sr-due: 2022-01-31
-sr-interval: 11
-sr-ease: 170
+sr-due: 2022-02-12
+sr-interval: 6
+sr-ease: 150
 ---
 
 #### [[Hard boundaries reduce opportunities for creativity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

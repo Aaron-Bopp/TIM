@@ -4,14 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/09, review, node/evergreen/claim
-sr-due: 2022-02-01
-sr-interval: 40
+sr-due: 2022-05-06
+sr-interval: 89
 sr-ease: 210
 ---
 
 #### [[We are confined to the tools of our time]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is true both in how we [[influence]] other's and how we make [[progress]].
+#TO/TEND/GRAFT 
 - [[Choosing a note writing system is choosing a system for thought]]
 - [[The materialistic view of religions examines why humans invented and clung to religion]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
@@ -19,10 +20,9 @@ This is true both in how we [[influence]] other's and how we make [[progress]].
 - [[Most rights were denied to Americans at its founding]]
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
-
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive dissonance]], [[human experience]], [[human advancement]], [[self-improvement]], [[social justice]], [[inter-personal communication]], [[transhumanism]]

@@ -3,9 +3,9 @@ created: 2021-10-18
 edited: 
 aliases: null
 tags: created/evergreen/2021/10/18, review, node/evergreen/claim
-sr-due: 2022-01-30
-sr-interval: 46
-sr-ease: 232
+sr-due: 2022-03-04
+sr-interval: 26
+sr-ease: 212
 ---
 
 #### [[Presentation is the realization of our self-perception and identity is the realization of our self-image]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/16, review, node/evergreen/claim
-sr-due: 2022-01-30
-sr-interval: 25
+sr-due: 2022-04-07
+sr-interval: 60
 sr-ease: 210
 ---
 
@@ -27,7 +27,7 @@ Books are paths through evergreen forests
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[language]], [[biology]], [[second brain]]

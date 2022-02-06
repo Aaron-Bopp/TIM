@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/07/30, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-01-31
-sr-interval: 14
+sr-due: 2022-03-15
+sr-interval: 37
 sr-ease: 206
 ---
 
@@ -14,6 +14,7 @@ sr-ease: 206
 We seek out validation from other's because it reinforces our [[self-perception]]. 
 If we don't have a strong sense of [[self-image]] or [[self-love|self-worth]],
 then we are going to seek out validation even more,
+%% #TO/TEND/PRUNE this sentence%%
 and if we are repeatedly not getting validation or are getting invalidated,
 then we are going to start fearing that rejection,
 especially if we don't have a [[support]] system to fall back on.

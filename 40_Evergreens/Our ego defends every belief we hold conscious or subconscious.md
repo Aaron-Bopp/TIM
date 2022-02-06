@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/20, review, node/evergreen/claim
-sr-due: 2022-01-31
-sr-interval: 3
-sr-ease: 170
+sr-due: 2022-02-08
+sr-interval: 2
+sr-ease: 150
 ---
 
 #### [[Our ego defends every belief we hold conscious or subconscious]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

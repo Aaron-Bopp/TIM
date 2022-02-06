@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-01-30
-sr-interval: 7
-sr-ease: 190
+sr-due: 2022-02-10
+sr-interval: 4
+sr-ease: 170
 ---
 
 #### [[Purpose is derived from within, duty is derived from without]] `$=customjs.dv_funcs.evergreenheader(dv, this)`

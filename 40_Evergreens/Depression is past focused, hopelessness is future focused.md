@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-01-30
+sr-due: 2022-02-08
 sr-interval: 2
-sr-ease: 190
+sr-ease: 170
 ---
 
 #### [[Depression is past focused, hopelessness is future focused]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

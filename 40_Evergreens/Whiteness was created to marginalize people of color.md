@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/04, review, node/evergreen/claim
-sr-due: 2022-01-31
-sr-interval: 27
+sr-due: 2022-04-03
+sr-interval: 56
 sr-ease: 190
 ---
 
@@ -18,7 +18,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[racism]], [[white supremacy]], [[political strategy]]
