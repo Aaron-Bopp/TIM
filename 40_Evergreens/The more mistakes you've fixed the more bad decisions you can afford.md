@@ -4,9 +4,9 @@ edited:
 aliases:
   - A bad decision for a beginner is not the same a bad decision for an expert
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-02-02
-sr-interval: 44
-sr-ease: 170
+sr-due: 2022-03-01
+sr-interval: 23
+sr-ease: 150
 ---
 
 #### [[The more mistakes you've fixed the more bad decisions you can afford]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -25,7 +25,6 @@ A hard rule may be the more difficult path but will setup future [[success]]. Ha
 
 > [!example]
 > [✂️ 5 minutes per stage teaches new players how to make better decisions - YouTube](https://youtube.com/clip/Ugkx6LEodXxizNkOw4P3M097XvZCZIGHvLTU)
-
 
  ##### An experienced note taker knows when to just delete a note.
 

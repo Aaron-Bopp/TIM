@@ -2,12 +2,13 @@
 created: 2021-06-15
 edited: 
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-02-02
-sr-interval: 6
+sr-due: 2022-02-16
+sr-interval: 10
 sr-ease: 130
 ---
 
 #### [[Your anxiety is telling you everything that could go wrong, not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
 %%
 #TO/TEND/WEED
 
@@ -40,7 +41,10 @@ In modern society, our [[anxiety]] can seem like a irrational response, but it i
 #TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[OCD]]?
 %%
 
-[[Your anxiety knows your insecurities better than you do]].
+#TO/TEND/GRAFT 
+- [[Your anxiety knows your insecurities better than you do]].
+- [[Anxiety prevents us from living in the present]]
+- [[Anxiety causes us to reject nuance]]
 
 ### <hr class="footnote"/>
 

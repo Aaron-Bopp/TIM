@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/15, review, node/evergreen/claim
-sr-due: 2022-02-02
-sr-interval: 29
+sr-due: 2022-04-20
+sr-interval: 73
 sr-ease: 223
 ---
 
@@ -22,6 +22,7 @@ The linked notes are valuable because they show when the note was at the top of 
 ^[this is reduced when you use autocompletion that doesn't rely on pressing \[\[]
 and the unlinked show places where the relation to the stub could be a unique insight.
 
+#TO/TEND/GRAFT 
 - [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
 - [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 - [[Evergreen notes organize knowledge so that it can grow]]

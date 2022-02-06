@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/06, review, node/evergreen/question, 
-sr-due: 2022-02-01
-sr-interval: 10
+sr-due: 2022-02-25
+sr-interval: 19
 sr-ease: 150
 ---
 
@@ -23,7 +23,7 @@ Life is like sailing, you should have control of the rudder and the sail. Someti
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self]], [[philosophy]], [[human experience]]

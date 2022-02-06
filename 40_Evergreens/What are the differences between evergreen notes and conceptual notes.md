@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/26, review, node/evergreen/claim
-sr-due: 2022-02-01
-sr-interval: 7
+sr-due: 2022-02-20
+sr-interval: 14
 sr-ease: 150
 ---
 
@@ -28,10 +28,8 @@ I have evolved this to include
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[knowledge work]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

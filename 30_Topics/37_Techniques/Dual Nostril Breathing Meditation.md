@@ -2,8 +2,8 @@
 created: 2021-05-31
 edited: 
 tags: created/evergreen/2021/05/31, review, node/evergreen/technique
-sr-due: 2022-02-02
-sr-interval: 14
+sr-due: 2022-03-18
+sr-interval: 40
 sr-ease: 230
 ---
 

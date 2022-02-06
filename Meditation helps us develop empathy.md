@@ -18,5 +18,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[meditation]]
+**Topics**:: [[meditation]], [[empathy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

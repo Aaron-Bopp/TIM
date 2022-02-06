@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-02-01
-sr-interval: 15
+sr-due: 2022-03-11
+sr-interval: 33
 sr-ease: 190
 ---
 
@@ -16,7 +16,6 @@ sr-ease: 190
 yet as we continue to reexamine ancient techniques such as [[Yoga]] and [[meditation]] and beliefs such as [[Buddhism]] and [[karma]] in the light of modern research we see them hold true.
 This could be attributed to [[survivorship bias]], but it could also be attributed to the methods that [[Yogi|Yogis]] used to examine and understand what they were teaching.
 
-
 #TO/TEND/GRAFT [[notes_Vedic Psychology]]
 - [[notes_History of Meditation]]
 - [[notes_Science of Meditation]]
@@ -25,7 +24,7 @@ This could be attributed to [[survivorship bias]], but it could also be attribut
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[eastern philosophy]], [[Vedic Psychology]]
