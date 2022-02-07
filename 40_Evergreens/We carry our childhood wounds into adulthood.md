@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/06/25, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-04
-sr-interval: 18
+sr-due: 2022-03-10
+sr-interval: 32
 sr-ease: 165
 ---
 
@@ -14,7 +14,6 @@ sr-ease: 165
 #TO/EXPLORE/WATCH #TO/PONDER/IDEA these videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0m8iATgqzcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DUkpWgcR8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 Especially in [[childhood]], negative experiences cause us to make wide assumptions about the world. Because [[Negative influences impact us more than positive influences]], these experiences can become integral parts of our [[personality|personalities]] or form into [[mental illness]].
 
@@ -27,6 +26,7 @@ Especially in [[childhood]], negative experiences cause us to make wide assumpti
  > ^[[How to Save a Relationship from Break Up | Dr. K Interviews - YouTube](https://youtu.be/YLO3XpPOEP8?t=4284)]
  > 
  > <cite>[[Dr. K]]</cite>
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

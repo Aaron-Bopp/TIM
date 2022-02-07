@@ -2,8 +2,8 @@
 created: 2021-06-27
 edited: 
 tags: created/evergreen/2021/06/27, review, node/evergreen/claim
-sr-due: 2022-02-04
-sr-interval: 20
+sr-due: 2022-03-15
+sr-interval: 37
 sr-ease: 175
 aliases:
   - Identity is a sense of self not a pattern of traits or behavior
@@ -29,6 +29,7 @@ Those who think they have a weak [[self]] have either realized that they do not 
 
 However, [[self]] is more than just an objective viewing of our actions. [[self]] is also impacted by the physical reactions that our bodies go through. If we feel a certain way during an interaction that will impact our [[self]], either through a [[conscious]] viewing and reflection on that feeling, or a [[subconscious]] reaction to either avoid or pursue that feeling again. [[Mental health is a reaction to one's environment]]%%
 
+#TO/TEND/PRUNE One of these notes
 This concept relates the different concepts of identity and presentation: [[Presentation is the realization of our self-perception and identity is the realization of our self-image]]
 
 ### <hr class="footnote"/>

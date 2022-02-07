@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/08/01, review, node/evergreen/topic 
 aliases:
   - null
-sr-due: 2022-02-05
-sr-interval: 45
+sr-due: 2022-05-31
+sr-interval: 114
 sr-ease: 248
 ---
 
@@ -14,7 +14,10 @@ sr-ease: 248
 - [[Q justifies conservatives discontent]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[The internet allows niche topics to flourish]]
-- #TO/EXPLORE/RESEARCH  the origins of the [[illuminati]] and how [[the right]] co-opted that group to make it a conspiracy
+- #TO/EXPLORE/RESEARCH the origins of the [[illuminati]] and how [[the right]] co-opted that group to make it a conspiracy
+
+[In Search Of A Flat Earth - YouTube](https://www.youtube.com/watch?v=JTfhYyTuT44)
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/04, review, node/evergreen/claim
-sr-due: 2022-02-04
-sr-interval: 1
+sr-due: 2022-02-11
+sr-interval: 5
 sr-ease: 230
 ---
 
@@ -19,8 +19,6 @@ Two major requirements would be:
 2. A algorithm that can accurately serve content based on user preferences
 
 Using [[Tiktok]] as an example, we would need 
-
-
 
 ### <hr class="footnote"/>
 

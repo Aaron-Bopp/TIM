@@ -4,12 +4,16 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2021/10/20, review, node/evergreen/claim
-sr-due: 2022-02-04
-sr-interval: 56
+sr-due: 2022-06-17
+sr-interval: 131
 sr-ease: 230
 ---
 
 #### [[Friction is a hindrance to learning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/PONDER/IDEA about [[understanding]]
+- [[Evergreen notes help us bridge the gap between knowledge and understanding]]
+- [[We learn by transforming information into understanding]]
 
 What causes friction?
 - A difficult problem ^[[['A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe]]]
@@ -38,6 +42,7 @@ Good systems for learning reduce this friction:
 > 2. [[Your second brain should be an inspirational hub of creativity]]
 
 ##### When is [[friction]] not a hindrance?
+
 - [[Good friction causes the brain to engage]]
 
 ### <hr class="footnote"/>

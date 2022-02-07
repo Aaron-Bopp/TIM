@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/04, review, node/evergreen/claim
-sr-due: 2022-02-04
-sr-interval: 1
+sr-due: 2022-02-10
+sr-interval: 4
 sr-ease: 230
 ---
 
@@ -23,7 +23,6 @@ At the core of [[theology]] is the [[belief]] that the world does not make sense
 This goes directly against the reasons that religions have been created
 ^[[[Faith is an abstraction of cognitive dissonance]], and [[The materialistic view of religions examines why humans invented and clung to religion]]]
 and against basic knowledge of [[Computer Science]].
-
 
 ### <hr class="footnote"/>
 

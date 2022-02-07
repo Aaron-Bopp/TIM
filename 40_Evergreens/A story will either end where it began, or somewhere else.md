@@ -19,7 +19,7 @@ this is about change and journey in our lives
 
 [[We are confined to the tools of our time]] 
 - [[Sometimes we can't grow until we change our environment]]
-- [[An increase in self-love and self-respect may lead to a loss of function]]
+- [[An increase in self-love and self-respect may lead to a decrease in productivity]]
 - [[Be the change you want to see in the world]]
 
 ### <hr class="footnote"/>

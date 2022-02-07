@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/08/01, review, node/evergreen/topic
 aliases:
   - null
-sr-due: 2022-02-04
-sr-interval: 37
+sr-due: 2022-05-11
+sr-interval: 94
 sr-ease: 247
 ---
 
@@ -33,4 +33,3 @@ Over the last forty years, misinformation has become so potent in [[America]], t
 
 **Topics**:: [[Politics]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

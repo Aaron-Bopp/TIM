@@ -8,7 +8,7 @@
 	- [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
 	- [[Organization systems are not mutually exclusive]]
 	- [[Only organize as much as your data requires]]
-	- [[An increase in self-love and self-respect may lead to a loss of function]]
+	- [[An increase in self-love and self-respect may lead to a decrease in productivity]]
 	- [[Webs of thought provide heterarchical structure]]
 	- [[Note taking is a spectrum from purely reproductive to purely productive]]
 	- [[Evangelicalism has commodified faith for profit]]

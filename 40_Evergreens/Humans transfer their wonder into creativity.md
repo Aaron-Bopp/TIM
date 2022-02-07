@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-02-04
-sr-interval: 13
+sr-due: 2022-02-28
+sr-interval: 22
 sr-ease: 170
 ---
 
@@ -30,5 +30,3 @@ good result of:: [[Human's will find explanations for inexplainable things]]
 
 **Topics**:: [[human advancement]], [[creativity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

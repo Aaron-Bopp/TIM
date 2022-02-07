@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/08/01, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-03
-sr-interval: 19
+sr-due: 2022-03-17
+sr-interval: 39
 sr-ease: 190
 ---
 
@@ -26,4 +26,3 @@ sr-ease: 190
 
 **Topics**:: [[Politics]], [[Christianity]], [[anti-science]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

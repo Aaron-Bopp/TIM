@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/17, review, node/evergreen/question 
-sr-due: 2022-02-04
-sr-interval: 7
+sr-due: 2022-02-20
+sr-interval: 14
 sr-ease: 170
 ---
 
