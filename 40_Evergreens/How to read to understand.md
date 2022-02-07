@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/09, review, node/evergreen/question 
-sr-due: 2022-02-06
-sr-interval: 22
-sr-ease: 150
+sr-due: 2022-02-17
+sr-interval: 11
+sr-ease: 130
 ---
 
 #### [[How to read to understand]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

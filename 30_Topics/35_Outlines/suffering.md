@@ -2,6 +2,9 @@
 created: 2021-07-21
 edited: 2022-01-23
 tags: created/topic/2021/07/21, review, node/topic/outline
+sr-due: 2022-02-09
+sr-interval: 3
+sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

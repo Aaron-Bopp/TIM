@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/08/01, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-06
-sr-interval: 33
+sr-due: 2022-04-15
+sr-interval: 68
 sr-ease: 210
 ---
 
@@ -28,4 +28,3 @@ The most important time that these rights apply is for [[protests]], but that is
 
 **Topics**:: [[America]], [[Politics]], [[Civil Rights]], [[free-will]], [[the culture war]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
