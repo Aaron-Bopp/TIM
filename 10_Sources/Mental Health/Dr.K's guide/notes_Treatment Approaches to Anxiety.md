@@ -25,4 +25,8 @@ tags: created/source/2021/12/30, node/source/notes
 - [[GABA]]
 - [[Alprazolam]]
 - [[Psychotherapy]]
-- [[Traditional Chinese Medicine (TCM)]]
+- [[TCM (Traditional Chinese Medicine)]]
+
+## Notes
+- [[medication]] doesn't neccesarily attack the root of [[anxiety]], but they are very effective
+- [[SRI]]

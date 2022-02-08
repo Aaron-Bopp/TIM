@@ -10,7 +10,7 @@ tags: created/topic/2022/01/18, node/topic/stub
 
 
 
-**See**:: [[cerebral cortex]], [[Prefrontal Cortex]], [[Linguistic Cortex]], [[Ventral Medial Prefrontal Cortex]], [[Medial Prefrontal Cortex (mPFC)]], [[Association Cortices]]
+**See**:: [[cerebral cortex]], [[Prefrontal Cortex]], [[Linguistic Cortex]], [[Ventral Medial Prefrontal Cortex]], [[mPFC]], [[Association Cortices]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

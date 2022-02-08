@@ -11,6 +11,7 @@ sr-ease: 230
 
 #### [[Communication provides the opportunity to shape perceptions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Shaping perceptions allows you to shape people's [[behavior]].
 
 
 ### <hr class="footnote"/>

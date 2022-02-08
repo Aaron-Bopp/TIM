@@ -105,7 +105,6 @@ type:
 ## Watched
 - [[notes_Intro to Ayurveda]]
 - [[notes_How to achieve]]
-- [[notes_Satya]]
 - [[notes_the Nature of Self]]
 - [[notes_Panchakosha Theory]]
 - [[notes_Confidence vs Ego]]
@@ -117,8 +116,8 @@ type:
 - [[notes_Tension in the Mind]]
 - [[notes_Feeding the Beast]]
 - [[notes_Solutions to Anxiety]]
-## Unwatched
 - [[notes_Neuroscience of Anxiety]]
+## Unwatched
 - [[notes_Treatment Approaches to Anxiety]]
 - [[notes_Clinical vs Non-clinical depression]]
 - [[notes_Neuroscience of Depression]]

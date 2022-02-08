@@ -21,5 +21,5 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Vata]]
 - [[Prakruti]]
 - [[Vikruti]]
-- [[Traditional Chinese Medicine (TCM)]]
+- [[TCM (Traditional Chinese Medicine)]]
 - [[Ashwagandha]]

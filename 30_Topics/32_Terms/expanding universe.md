@@ -3,7 +3,7 @@ created: 2022-02-07T18:28:42
 edited: 
 aliases:
   - null
-tags: created/topic/2022/02/07, node/topic/term
+tags: created/topic/2022/02/07, node/topic/term, review
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -16,7 +16,7 @@ As an effect of [[general relativity]], the expansion of the universe is differe
 Space is actually a boundless but finite, ever-expanding bubble. If you travelled to the end of the [[universe]] you would not reach it, you would come back around to where you began
 
 According to [[inflation theory]], during the inflationary epoch about 10−32 of a second after the Big Bang, the universe suddenly expanded, and its volume increased by a factor of at least 1078 (an expansion of distance by a factor of at least 1026 in each of the three dimensions), equivalent to expanding an object 1 nanometer (10−9 m, about half the width of a molecule of DNA) in length to one approximately 10.6 light years (about 1017 m or 62 trillion miles) long. A much slower and gradual expansion of space continued after this, until at around 9.8 billion years after the Big Bang (4 billion years ago) it began to gradually expand more quickly, and is still doing so. Physicists have postulated the existence of dark energy, appearing as a cosmological constant in the simplest gravitational models, as a way to explain this late-time acceleration. According to the simplest extrapolation of the currently favored cosmological model, the Lambda-CDM model, this acceleration becomes more dominant into the future. In June 2016, NASA and ESA scientists reported that the universe was found to be expanding 5% to 9% faster than thought earlier, based on studies using the Hubble Space Telescope.
-[expanding universe](https://en.wikipedia.org/wiki/Expansion%20of%20the%20universe)
+^[https://en.wikipedia.org/wiki/Expansion%20of%20the%20universe]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
