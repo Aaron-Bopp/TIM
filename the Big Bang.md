@@ -3,7 +3,7 @@ created: 2022-02-07T18:09:00
 edited: 
 aliases:
   - null
-tags: created/topic/2022/02/07, node/topic/term
+tags: created/topic/2022/02/07, review, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -20,7 +20,7 @@ The model describes how the universe expanded from an initial state of high dens
 ^[[the Big Bang](https://en.wikipedia.org/wiki/Big%20Bang)]
 
 
-**See**::
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

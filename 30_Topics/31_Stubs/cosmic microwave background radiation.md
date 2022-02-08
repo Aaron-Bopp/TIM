@@ -1,10 +1,14 @@
-<% tp.file.include("[[META]]") %> created/topic/<% tp.date.now("YYYY/MM/DD") %>, node/topic/term
+---
+created: 2022-02-07T18:36:45 
+edited: 
+aliases:
+  - null
+tags: created/topic/2022/02/07, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
+#### <s class="topic-title">[[cosmic microwave background radiation]]</s> 
 
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
-<% tp.file.cursor(0) %>
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
