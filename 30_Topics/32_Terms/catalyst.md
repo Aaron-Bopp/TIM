@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/15, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[catalyst]]</s>
 
 An added aspect that makes something happen faster than it would have before or happen at all.
 

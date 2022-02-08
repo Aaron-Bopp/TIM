@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/18, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[DnD (Dungeons and Dragons)]]</s>
 
 
 **See**:: [[role-playing]], [[TTRPG]], [[Acting]]

@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/06/07, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[patient]]</s>
 
 
 **See**:: 

@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Cruciferous Vegetables]]</s>
 
 A member of the family of [[vegetables]] that includes broccoli, Brussels sprouts, cabbage, cauliflower, collard greens, kale, and turnips. These vegetables contain substances that may protect against [[cancer]]. Also called Brassica vegetable.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

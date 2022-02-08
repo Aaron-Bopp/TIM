@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Ajna Chakra]]</s>
 
 Situated at the eyebrow center, the third eye governs [[intuition]] and [[understanding]].
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

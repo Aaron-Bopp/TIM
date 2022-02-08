@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/13, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[User Space]]</s>
 
 
 restricted memory locations from which process cannot access harware or kernel memory directly  [^1]

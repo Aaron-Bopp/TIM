@@ -5,8 +5,8 @@ tags: created/topic/2021/06/25, node/topic/outline
 date modified: Monday, October 4th 2021, 12:40:55 am
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[social anxiety]]</s>
 
  A chronic [[mental health]] condition in which social interactions cause irrational [[anxiety]].
 

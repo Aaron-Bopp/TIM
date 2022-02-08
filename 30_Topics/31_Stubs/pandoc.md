@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/23, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[pandoc]]</s>
 
 Docs:: [Pandoc - Pandoc User’s Guide](https://pandoc.org/MANUAL.html)
 

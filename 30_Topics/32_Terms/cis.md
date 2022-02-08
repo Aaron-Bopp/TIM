@@ -6,8 +6,8 @@ aliases:
   - cisgender
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[cis]]</s>
 
 a person who identifies with gender they were assigned at birth
 

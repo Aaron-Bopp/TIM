@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/31, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[prayer beads]]</s>
 
 Has a variable amount of beads based on [[purpose]], and has a guru bead which helps to mark the use of prayer beads in [[Japa Meditation]]
 ^[[[course_Dr. K's Guide to Mental Health]]]

@@ -2,8 +2,8 @@
 <% tp.file.include("[[META]]") %> node/topic/list
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[LIST]]</s>
 
 **See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/11/07, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[the culture war]]</s>
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

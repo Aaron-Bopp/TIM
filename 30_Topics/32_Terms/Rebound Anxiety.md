@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Rebound Anxiety]]</s>
 
 Return of [[anxiety]] symptoms after an anxiolytic substance (eg. medication, alcohol, etc) wears off
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

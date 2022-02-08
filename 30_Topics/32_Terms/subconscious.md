@@ -6,8 +6,8 @@ aliases:
 - subconsciously
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[subconscious]]</s>
 
 The **subconscious** is that part of [[conscious|consciousness]] that is not currently in focal awareness
 

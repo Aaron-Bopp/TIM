@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[contextual backlinks]]</s>
 
 [[Backlinks]] that are shown with context
 

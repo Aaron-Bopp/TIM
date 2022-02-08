@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Ginkgo (Ginkgo Biloba)]]</s>
 
 A [[herb]] typically advertised as a cognitive enhancer, but clinical studies (including the large Ginkgo Evaluation of [[Memory]] study) generally show supplementation with ginkgo does not improve cognitive performance. Please consult with your healthcare provider before taking any herbal supplements.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

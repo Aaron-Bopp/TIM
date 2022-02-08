@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/08/11, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[resentment]]</s>
 
 bitter indignation at having been treated unfairly.
 

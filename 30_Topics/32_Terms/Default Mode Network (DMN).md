@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Default Mode Network (DMN)]]</s>
 
 A large-scale [[brain]] network primarily composed of the medial prefrontal cortex, posterior cingulate cortex/precuneus and angular gyrus It is best known for being active when a person is not focused on the outside world and the brain is at wakeful rest, such as during daydreaming and mind-wandering. It can also be active during detailed thoughts related to external task performance
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

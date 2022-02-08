@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Monoamine Oxidase (MAO)]]</s>
 
 Family of enzymes that catalyze the oxidation of monoamines ([[dopamine]], [[noradrenaline]] and [[serotonin]])
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

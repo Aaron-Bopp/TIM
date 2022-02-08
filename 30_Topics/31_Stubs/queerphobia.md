@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/11/10, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[queerphobia]]</s>
 
 **See**:: [[transphobia]], [[homophobia]], [[sexism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -7,8 +7,8 @@ aliases:
 - social
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[socialization]]</s>
 
  the ways in which society conveys to the individual its expectations for their behavior
 Social fitness is a big part of [[human survival]] and [[human advancement]]

@@ -5,8 +5,8 @@ tags: created/topic/2021/06/29, node/topic/outline
 date modified: Monday, October 4th 2021, 12:06:19 am
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[religious trauma]]</s>
 
 
 **See**:: [[trauma]] 

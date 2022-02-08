@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[gender consistency]]</s>
 
 
 understanding that [[gender]] is consistent despite superficial changes in appearance [^1]

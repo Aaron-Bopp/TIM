@@ -6,8 +6,8 @@ aliases:
 tags: node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[identity]]</s>
 
 
 **See**::

@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/12, node/topic/person 
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[paulbricman.com]]</s>
 
 
 **See**:: 

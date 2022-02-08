@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Psychosis]]</s>
 
 A condition that affects the way your [[brain]] processes information. It causes you to lose touch with reality. You might see, hear, or believe things that aren't real. Psychosis is a symptom, not an illness. A mental or physical [[illness]], substance [[abuse]], or extreme [[stress]] or [[trauma]] can cause it.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

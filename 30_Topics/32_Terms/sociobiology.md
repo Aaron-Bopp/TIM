@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/03, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[sociobiology]]</s>
 
 
 the applicatoin of [[Evolution|evolutionary]] theory (natural selection) to social behavior [[social fitness]] [^1]

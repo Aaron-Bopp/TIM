@@ -12,8 +12,8 @@ embedded:
 tags: created/topic/2021/05/29, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[mental health]]</s>
 
 
 [[mental health]] covers concepts that vary from [[mental illness]] to [[neurodiversity]] to [[spirituality]] and how it effects us. 

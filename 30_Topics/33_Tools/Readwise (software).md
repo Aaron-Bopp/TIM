@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/03, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Readwise (software)]]</s>
 
 
 **See**:: [[Obsidian (software)]], [[spaced repetition]]

@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/10/20, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[sympathy]]</s>
 
 Sympathy is the perception, understanding, and reaction to the distress or need of another life form. 
 ^[[sympathy](https://en.wikipedia.org/wiki/Sympathy)]

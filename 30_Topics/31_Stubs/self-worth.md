@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/06/16, node/topic/outline 
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[self-worth]]</s>
 
 
 **See**:: [[social anxiety]], [[self]]

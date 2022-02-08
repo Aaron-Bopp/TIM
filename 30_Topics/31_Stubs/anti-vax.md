@@ -9,8 +9,8 @@ aliases:
 - anti-vaxxer
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[anti-vax]]</s>
 
 
 **See**:: 

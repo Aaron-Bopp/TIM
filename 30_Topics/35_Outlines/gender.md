@@ -5,8 +5,8 @@ tags: created/topic/2021/08/08, node/topic/outline
 date modified: Saturday, September 25th 2021, 3:18:35 pm
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[gender]]</s>
 
 
 > The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or [[gender identity]] (the personal sense of one's own gender).

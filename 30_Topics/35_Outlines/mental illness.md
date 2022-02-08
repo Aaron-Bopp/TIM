@@ -6,8 +6,8 @@ aliases:
   - null
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[mental illness]]</s>
 
 
 **See**:: [[mental health]]

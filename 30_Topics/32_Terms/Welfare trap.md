@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/12, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Welfare trap]]</s>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D9N7QaIOkG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/> 
 ^[[Why is it so hard to escape poverty? - Ann-Helén Bay - YouTube](https://www.youtube.com/watch?v=D9N7QaIOkG8)]

@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/13, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Monolithic Kernel]]</s>
 
 
 All kernel services ([[Virtual File System| VFS]], schedulers, device drivers) live in [[Kernel Space]] and share memory while communicated through the [[Application Binary Interface | ABI]] [^1]

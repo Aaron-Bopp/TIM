@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Adrenaline]]</s>
 
 [[hormone]] and [[Neurotransmitter]] that is produced by the [[adrenal gland]]s as part of the body's fight-or-flight response
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

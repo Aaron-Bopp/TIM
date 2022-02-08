@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/05/26, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Obsidian (software)]]</s>
 
 # [[Obsidian (software)|Obsidian]]
 

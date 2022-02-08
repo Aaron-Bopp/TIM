@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Cortisol]]</s>
 
 
 Cortisol will last for 4-24 hours depending on the duration of the encounter and it keeps you aware and ready to act at a moments notice [^1]

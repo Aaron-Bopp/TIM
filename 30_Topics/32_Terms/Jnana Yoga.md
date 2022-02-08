@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Jnana Yoga]]</s>
 
 A system of [[Yoga]] that focuses on becoming [[enlightenment|enlightened]] through the power of contemplation.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

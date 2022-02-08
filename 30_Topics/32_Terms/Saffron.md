@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Saffron]]</s>
 
 a [[herb]] used both as a spice for food and in [[eastern philosophy|eastern]] medicine for centuries for various ailments including mood. People use saffron most commonly for [[depression]], [[anxiety]], [[Alzheimer's Disease]], menstrual cramps, and premenstrual syndrome. 
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

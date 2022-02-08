@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[St. John's Wort (Hypericum perforatum)]]</s>
 
 A [[herb]] indigenous to [[Europe]], West [[Asia]], and North [[Africa]] that has been used in traditional European medicine. St. John’s wort is promoted for depression, premenstrual symptoms, and menopausal symptoms. It has been clearly shown that St. John’s wort can interact in dangerous, sometimes life-threatening ways with a variety of medicines including [[SSRI]]s. Please consult with your healthcare provider before taking any herbal supplements.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

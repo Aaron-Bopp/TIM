@@ -6,8 +6,8 @@ aliases:
 - revolt
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Revolution]]</s>
 
 
 **See**:: 

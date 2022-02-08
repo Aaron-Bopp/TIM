@@ -7,8 +7,8 @@ aliases:
 - LGBTQ
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Queer]]</s>
 
 
 **See**:: 

@@ -5,8 +5,8 @@ aliases:
 tags: created/topic/2021/10/23, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Hierarchy of needs]]</s>
 
 
 **See**::

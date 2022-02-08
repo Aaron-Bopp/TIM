@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/02, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[knowledge]]</s>
 
 Has been separated into two types by [[Yogi]]s
 ^[[[notes_Vidya and Jnana]]]

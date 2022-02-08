@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/18, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[flat affect]]</s>
 
 Flat affect is when you are not visibly displaying the [[emotions]] you are feeling. Symptom of [[Schizophrenia]]
 ^[[[video_How logical thinking leads to irrationality]]]

@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/07/29, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Bernie Sanders]]</s>
 
 
 **See**:: 

@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/08/27, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[intersectionality]]</s>
 
 
 **See**:: 

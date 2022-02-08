@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/09, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[feng shui]]</s>
 
 The [[philosophy]] of feng shui is a practice of arranging the pieces in living spaces in order to create [[balance]] with [[the natural world]]. The goal is to harness energy forces and establish [[harmony]] between an individual and their environment.
 

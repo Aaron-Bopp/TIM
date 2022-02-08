@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/08/15, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Prison abolition]]</s>
 
 
 **See**:: [[Prison]]

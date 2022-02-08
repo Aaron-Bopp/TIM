@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/22, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[mnemonic medium]]</s>
 
 #TO/EXPLORE/RESEARCH [Mnemonic medium](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)
 

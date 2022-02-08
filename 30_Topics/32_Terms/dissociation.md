@@ -7,8 +7,8 @@ aliases:
 tags: created/topic/2021/07/18, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[dissociation]]</s>
 
 **See**:: [[anxiety]], [[mental illness]], [[Neuroscience]], [[Depersonalization]]
 

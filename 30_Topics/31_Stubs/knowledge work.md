@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/02, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[knowledge work]]</s>
 
  ![images/xkcd 435.png](https://publish-01.obsidian.md/access/a123d22b592fefc92a5bad12101593ec/images/xkcd%20435.png)
  

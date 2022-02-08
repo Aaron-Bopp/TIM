@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/18, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[confidence]]</s>
 
 [[Confidence comes when you are more capable of handling diverse outcomes]]
 ^[[[notes_cognitive Anxiety]]]

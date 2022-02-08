@@ -6,8 +6,8 @@ aliases:
   
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[community]]</s>
 
 
 **See**:: [[human interaction]], [[inter-personal communication]], [[Sangha]]

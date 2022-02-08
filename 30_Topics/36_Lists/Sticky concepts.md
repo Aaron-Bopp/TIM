@@ -6,8 +6,8 @@ aliases:
 tags: node/topic/list
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Sticky concepts]]</s>
 
 A sticky concept is a simple but powerful concept that sticks ideas together,
 ^[[[Sticky concepts connect disparate ideas]]]

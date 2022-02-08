@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/14, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[heterarchy]]</s>
 
 A heterarchy is a system of [[organization]] where the elements of the organization are unranked (non-hierarchical) or where they possess the potential to be ranked a number of different ways. 
 

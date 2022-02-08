@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Ama]]</s>
 
 A toxic substance produced due to an inefficient [[digestive process]], and is the cause of [[disease]] in the body according to [[Ayurveda]].
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

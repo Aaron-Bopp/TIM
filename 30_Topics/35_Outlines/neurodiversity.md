@@ -7,8 +7,8 @@ aliases:
 - neurodivergency
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[neurodiversity]]</s>
 
 
  differing in mental or neurological function from what is considered typical or normal (frequently used with reference to autistic spectrum disorders); not neurotypical.

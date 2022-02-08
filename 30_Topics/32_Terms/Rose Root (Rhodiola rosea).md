@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Rose Root (Rhodiola rosea)]]</s>
 
 [[Herb]] from [[Europe]] and [[Asia]] that is promoted to increase energy, stamina, strength, and mental capacity, improve athletic performance, resist the effects of stress, and help manage depression, anxiety, and other symptoms. Please consult with your healthcare provider before taking any herbal supplements.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

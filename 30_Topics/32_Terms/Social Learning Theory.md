@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/03, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Social Learning Theory]]</s>
 
 
 A theory of human development that prioritizes four key social pressures: [[reinforcement]], [[punishment]], [[imitation]], and [[Observational learning]] [^1]

@@ -6,8 +6,8 @@ aliases:
 - Hindu
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Hinduism]]</s>
 
 
 **See**:: [[religion]]

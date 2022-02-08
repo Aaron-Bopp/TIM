@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/11/05, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[gender segregation]]</s>
 
 The way that children seperate themselves into male and female groups by gender, which has been observed across multiple different cultures with varying levels of gendered socialization.  [^1]
 

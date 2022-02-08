@@ -7,8 +7,8 @@ tags:
  created/topic/2022/01/01, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[@hankgreen on Twitter]]</s>
 
 
 ```dataview

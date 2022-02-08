@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/08, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[anti-liberalism]]</s>
 
 
 

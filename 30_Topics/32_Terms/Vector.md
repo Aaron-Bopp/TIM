@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/16, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Vector]]</s>
 
 
 a numerical representation of a direction and distance ([[Computer Science|CS]] perspective), or a visual representation of a value of a movement on multiple axis ([[physics]] perspective)   [^1]

@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Serotonin Syndrome]]</s>
 
 The condition of excessive accumulation of [[serotonin]] in the body which can be caused by inappropriate drug-drug interactions or drug overdose. Signs and symptoms of serotonin syndrome can range from mild (shivering and diarrhea) to severe (muscle rigidity, fever and seizures). Severe serotonin syndrome can lead to [[death]] if not treated.
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]

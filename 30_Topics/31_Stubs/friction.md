@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2021/11/09, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[friction]]</s>
 
 Friction increases the energy required to continue doing something
 

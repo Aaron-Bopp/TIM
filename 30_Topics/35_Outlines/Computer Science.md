@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/10/15, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Computer Science]]</s>
 
 ![['A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe]]
 

@@ -6,8 +6,8 @@ aliases:
 tags: created/topic/2022/01/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
-<% tp.file.include("[[TITLE-TOPIC]]") %>
 
+##### <s class="topic-title">[[Semantic line breaks]]</s>
 
 Simply, when writing text with a compatible [[markup]] language, add a line break after each substantial unit of thought.
 ^[[Semantic Line Breaks](https://sembr.org/)]

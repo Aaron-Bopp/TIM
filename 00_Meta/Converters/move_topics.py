@@ -82,7 +82,7 @@ if __name__ == '__main__':
                     with open(filepath, 'r', encoding='utf-8') as f:
                         text = f.read()
                     name = filename.replace(r'.md', '')
-                    new_text = text.replace(r'<% tp.file.include("[[TITLE-TOPIC]]\n") %>', f'\n##### <s class="topic-title">[[{name}]]</s>')
+                    new_text = text.replace('<% tp.file.include("[[TITLE-TOPIC]]") %>\n', f'\n##### <s class="topic-title">[[{name}]]</s>')
                     if text != new_text:
                         with open(filepath, 'w', encoding='utf-8') as f:
                             f.write(new_text)
