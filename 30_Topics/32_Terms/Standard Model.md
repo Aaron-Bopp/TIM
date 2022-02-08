@@ -9,6 +9,7 @@ tags: created/topic/2022/02/07, node/topic/term, review
 
 #### <s class="topic-title">[[Standard Model]]</s> 
 
+![[books_A Short History of Nearly Everything#283957203q]]
 The Standard Model of particle physics is the theory describing three of the four known fundamental forces (the electromagnetic, weak, and strong interactions, while omitting gravity) in the universe, as well as classifying all known elementary particles. 
 
 Although the Standard Model is believed to be theoretically self-consistent and has demonstrated huge successes in providing experimental predictions, it leaves some phenomena unexplained and falls short of being a complete theory of fundamental interactions. The model does not contain any viable dark matter particle that possesses all of the required properties deduced from observational cosmology. 

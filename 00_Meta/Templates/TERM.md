@@ -2,8 +2,8 @@
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
+##### <s class="topic-title">[[<% tp.file.title %>]]</s>
 
-##### <s class="topic-title">[[TERM]]</s>
 <% tp.file.cursor(0) %>
 
 **See**::

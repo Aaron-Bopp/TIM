@@ -12,7 +12,7 @@ tags: created/topic/2022/02/07, review, node/topic/term
 The initial singularity is a singularity predicted by some models of [[the Big Bang]] theory to have existed before the Big Bang and thought to have contained all the energy and spacetime of the [[Universe]].
 ^[[Initial singularity](https://en.wikipedia.org/wiki/Initial%20singularity)]
 
-**See**::
+**See**:: [[gravitational singularity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

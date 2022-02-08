@@ -2,7 +2,7 @@
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[TOPICNOTE]]</s>
+##### <s class="topic-title">[[<% tp.file.title %>]]</s>
 
 
 **See**::

@@ -3,7 +3,7 @@
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[LIST]]</s>
+#### <s class="topic-title">[[<% tp.file.title %>]]</s> 
 
 **See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

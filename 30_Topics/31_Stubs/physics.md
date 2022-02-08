@@ -20,8 +20,10 @@ Advances in physics often enable advances in new technologies. For example, adva
 ##### Terms
 - [[the Big Bang]]
 - [[Initial singularity]]
+- [[gravitational singularity]]
 - [[inflation theory]]
 - [[cosmic microwave background radiation]]
+- [[Standard Model]]
 
 %% DO NOT EDIT BELOW %%
 

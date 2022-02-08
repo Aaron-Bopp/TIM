@@ -1,8 +1,13 @@
-<% tp.file.include("[[META]]") %> created/topic/<% tp.date.now("YYYY/MM/DD") %>, node/topic/stub
+---
+created: 2022-02-08T16:14:48 
+edited: 
+aliases:
+  - null
+tags: created/topic/2022/02/08, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[<% tp.file.title %>]]</s>
+##### <s class="topic-title">[[spacetime]]</s>
 
 
 **See**::
