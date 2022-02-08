@@ -10,7 +10,7 @@ tags: created/topic/2021/10/03, node/topic/term
 the application of [[Evolution|evolutionary]] theory ([[natural selection]]) to social [[behavior]] 
 ^[[[lecture_Behavioral Evolution]]]
 
-**See**::
+**See**:: [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

@@ -2,7 +2,7 @@
 created: 2021-12-02 
 edited: 
 aliases:
-  - null
+  - inclusive fitness
 tags: created/topic/2021/12/02, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
