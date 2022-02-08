@@ -117,10 +117,10 @@ type:
 - [[notes_Feeding the Beast]]
 - [[notes_Solutions to Anxiety]]
 - [[notes_Neuroscience of Anxiety]]
-## Unwatched
 - [[notes_Treatment Approaches to Anxiety]]
 - [[notes_Clinical vs Non-clinical depression]]
 - [[notes_Neuroscience of Depression]]
+## Unwatched
 - [[notes_General Differntial Diagnosis]]
 - [[notes_Bipolar Disorder]]
 - [[notes_Features of Clinical Depression]]
