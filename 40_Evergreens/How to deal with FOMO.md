@@ -4,19 +4,24 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/technique
-sr-due: 2022-02-06
-sr-interval: 1
+sr-due: 2022-02-10
+sr-interval: 3
 sr-ease: 230
 ---
 
 #### [[How to deal with FOMO]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+FOMO can be can create [[friction]] in [[learning]] and lead to [[The Collector's Fallacy]], which will eventually lead you being overwhelmed.
+[[There is a limit to how much information you can process at once]], so dealing with the [[fear]] of not being able to process all [[information]] you want to process is valuable.
 
+This also 
+relates to:: [[Your anxiety knows your insecurities better than you do]]
+on a more general level. 
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[self-improvement]], [[productivity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

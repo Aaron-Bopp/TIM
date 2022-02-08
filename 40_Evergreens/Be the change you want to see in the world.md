@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/24, review, node/evergreen/technique 
-sr-due: 2022-02-07
-sr-interval: 23
+sr-due: 2022-03-18
+sr-interval: 39
 sr-ease: 150
 ---
 
@@ -21,7 +21,7 @@ sr-ease: 150
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT   
+**Status**:: #EVER/SEED    
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[self-actualization]], [[morality]], [[Life principles]]

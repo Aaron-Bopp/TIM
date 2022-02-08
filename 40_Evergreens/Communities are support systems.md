@@ -4,16 +4,19 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/09, review, node/evergreen/claim
-sr-due: 2022-02-07
-sr-interval: 40
+sr-due: 2022-04-26
+sr-interval: 78
 sr-ease: 190
 ---
 
 #### [[Communities are support systems]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This is something we have lost as a part of [[individualism|individualistic]] [[America|american]] [[culture]].
+This is something we have lost as a part of [[individualism|individualistic]] [[America|American]] [[culture]].
 
-- [[Communities are knowledge graphs]]
+This is part of what makes [[community]] so valuable, but it also allows them to be predatory.
+[[Communities are knowledge graphs]], so finding a community of similarly interested people can be very valuable to learning a new skill of exploring of new area of thought. 
+- in [[eastern philosophy]]:: [[Sangha]]
+- predatory example:: [[Fear cannot be a deterrent for deconstructing your faith]]
 
 ### <hr class="footnote"/>
 

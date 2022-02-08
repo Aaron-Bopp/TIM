@@ -4,9 +4,9 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-02-07
-sr-interval: 10
-sr-ease: 170
+sr-due: 2022-02-13
+sr-interval: 6
+sr-ease: 150
 ---
 
 #### [[Meditation regulates your hormones and stress physiology]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

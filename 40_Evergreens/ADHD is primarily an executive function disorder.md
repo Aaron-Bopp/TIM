@@ -4,15 +4,14 @@ edited:
 tags: created/evergreen/2021/07/29, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-07
-sr-interval: 44
+sr-due: 2022-05-28
+sr-interval: 110
 sr-ease: 252
 ---
 
 #### [[ADHD is primarily an executive function disorder]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 See [[ADHD is not a lack of attention it is a misplacement of attention]] to understand why lack of attention is not at the core of making ADHD debilitating. The lack of executive function is far more powerful to this affect, and what makes [[ADHD]] a [[mental illness]].
-![[FFnWMovXMAQs6qm.jpg|med]]   ^[[[tweets_Tweets From Zami Draws ADHD Comics ✨|Tweets From Zami Draws ADHD Comics ✨]]]
 
 > Many folks with \#ADHD have also experienced some kind of developmental [[trauma]]. We often see neglect and emotional abandonment especially when caregivers are unable (or unwilling) to offer competent support for their [[neurodiversity|neurodivergent]] child.
 > 
@@ -25,4 +24,3 @@ See [[ADHD is not a lack of attention it is a misplacement of attention]] to und
 
 **Topics**:: [[ADHD]], [[executive function]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

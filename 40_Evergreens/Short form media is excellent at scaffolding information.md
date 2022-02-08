@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/04, review, node/evergreen/claim
-sr-due: 2022-02-07
-sr-interval: 1
+sr-due: 2022-02-09
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -21,5 +21,5 @@ This is counterintuitive, but is shown by the [[success]] of educational content
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[scaffolding]], [[learning]], [[knowledge work]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

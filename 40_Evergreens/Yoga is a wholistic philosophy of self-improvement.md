@@ -4,8 +4,8 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-02-07
-sr-interval: 10
+sr-due: 2022-02-26
+sr-interval: 19
 sr-ease: 190
 ---
 
@@ -14,6 +14,7 @@ sr-ease: 190
 [[Yoga]] involves the [[mind]],[[body]], and [[soul]] in the process of [[self-improvement]] and [[self-actualization]]. 
 It does this by helping us understand and connect the different parts of our being.
 
+#TO/TEND/GRAFT 
 - [[The history of meditation is a mixture of science and spirituality]]
 - [[Meditation is a practice to gain control over your thoughts]] 
 - [[You can't control what happens]]
