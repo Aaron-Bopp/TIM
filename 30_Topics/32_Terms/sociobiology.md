@@ -7,14 +7,16 @@ tags: created/topic/2021/10/03, node/topic/term
 
 ##### <s class="topic-title">[[sociobiology]]</s>
 
-
-the applicatoin of [[Evolution|evolutionary]] theory (natural selection) to social behavior [[social fitness]] [^1]
+the application of [[Evolution|evolutionary]] theory ([[natural selection]]) to social [[behavior]] 
+^[[[lecture_Behavioral Evolution]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

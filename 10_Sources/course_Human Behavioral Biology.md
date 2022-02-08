@@ -30,6 +30,4 @@ tags: created/source/2022/01/29, node/source/notes
 	- [[Prioritize organization over categorization to avoid cognitive bias]]
 - Some of the "greatest" scientists in the last hundred years were completely stuck within their own categories. This lead to things such as lobotomy and eugenics.
 
-##### Behavioral [[Evolution]]
-
-- 
+next:: [[lecture_Behavioral Evolution]]
