@@ -11,4 +11,5 @@
 > - In Praise of Shadows (Tanizaki)
 > [Discord](https://discord.com/channels/686053708261228577/805952223124520961/925279692116877343)
 
-Praire Fires: Laura Ingalls WIlder
+- Praire Fires: Laura Ingalls WIlder
+- Merchants of Doubt
