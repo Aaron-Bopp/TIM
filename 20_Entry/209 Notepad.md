@@ -1,5 +1,4 @@
 
-[[video_Why have climate change predictions been so WRONG]]? - YouTube](https://www.youtube.com/watch?v=f4zul0BuO8A)
 #TO/EXPLORE/READ  [Levenshtein distance - Wikipedia](https://en.m.wikipedia.org/wiki/Levenshtein_distance)
 
 > We all deserve to have our needs met by a [[compassionate expert]] - [[John Green]]
