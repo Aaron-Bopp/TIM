@@ -13,6 +13,7 @@ This structure could be applied to any system, but it works best in [[Obsidian (
 
 These structures work best when they are accompanied by a [[spaced repetition]] system aid in the upkeep and accuracy of these tags: [[Use spaced repetition to weed your digital garden]]
 
+Example of inline tags: [[There is a difference between thinking and creating.md#^oieshi]] #TO/PONDER/IDEA 
 ##### \#TO(DO)
 
 **\#TO** tags should be used for specific items, not general tasks like "review notes" or "write this paper." This means they are not a daily todo list, they are a way to specify a task inline to to be done in the future. These tags should be temporary, but they are not scheduled. Think of these less as task you need to complete, and more as post it note to remind you of something you wanted to do. It will also be frivolous to try and clean up all your tags, because acting on many of these tags will often result *in more tags...* This is by design, because the goal isn't about the number of tags, it is about gradually increasing the quality of your notes over time. 
