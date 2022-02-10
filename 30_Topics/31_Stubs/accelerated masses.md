@@ -1,16 +1,14 @@
 ---
-created: 2021-12-29 
+created: 2022-02-09T21:28:03 
 edited: 
 aliases:
   - null
-tags: created/topic/2021/12/29, node/topic/term
+tags: created/topic/2022/02/09, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Buddhi]]</s>
+##### <s class="topic-title">[[accelerated masses]]</s>
 
-The analytical part of the [[mind]], responsible for critical thinking and analysis.
-^[[[notes_Vedic Psychology]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

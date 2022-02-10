@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/07, review, node/evergreen/claim
-sr-due: 2022-02-07
-sr-interval: 1
+sr-due: 2022-02-14
+sr-interval: 5
 sr-ease: 230
 ---
 
@@ -13,11 +13,13 @@ sr-ease: 230
 
 Shaping perceptions allows you to shape people's [[behavior]].
 
+- [[Names matter because they effect people's perception and understanding]]
+- [[The audience's perception is more important than the artist's intention]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[communication]], [[perception]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

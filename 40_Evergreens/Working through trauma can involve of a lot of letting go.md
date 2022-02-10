@@ -2,8 +2,8 @@
 created: 2021-06-25
 edited: 
 tags: created/evergreen/2021/06/25, review, node/evergreen/claim
-sr-due: 2022-02-08
-sr-interval: 34
+sr-due: 2022-04-27
+sr-interval: 77
 sr-ease: 212
 ---
 
@@ -11,12 +11,13 @@ sr-ease: 212
 
 [[Trauma]] becomes part of our very nature through the fact that 
 [[We carry our childhood wounds into adulthood]].
-Large parts of our [[personality]] and our [[inter-personal communication|inter-personal relationships]] are affected by [[trauma]] and so working through it can impact the way we interact the world.
-Yet it remains true that [[It's always worth it to work through trauma]].
-Even though working through it may involve letting go of things that you thought you couldn't live without, 
-you are more than your [[trauma]],
+Even though working through it may involve letting go of things that you thought you couldn't live without,
+you are more than your [[trauma]]:
+[[It's always worth it to work through trauma]].
 
-This can also mean [[Accepting responsibility is not only about your actions|Accepting responsibility for moving past your trauma]], or forgiving people who don't deserve it. [[When should you forgive people who don't deserve it]]
+This note is at the intersection between [[It's always worth it to work through trauma]], [[Fear cannot be a deterrent for deconstructing your faith]], and [[Accepting responsibility is not only about your actions]] for me personally. We need to acknowledge the immense of work that it can take to work through your [[trauma]], that can result in both perceived and real losses. #TO/PONDER/IDEA 
+
+This can also mean forgiving people who don't deserve it. [[When should you forgive people who don't deserve it]]
 
 ### <hr class="footnote"/>
 

@@ -9,14 +9,13 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[Stealing like an artist]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Steal like an artist]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-or perhaps stealing in the best way possible. 
+This is perhaps stealing in the best way possible, in order to create something new. Something that is larger than the some of it's parts. Perhaps this type of theft is really present across all realms of thought is truly productive, but art is by far the one that is most recognized for it.
 
 - comes from:: [[There is a difference between thinking and creating]]
 - works with:: [[Humans transfer their wonder into creativity]]
 - helpful for:: [[Your second brain should be an inspirational hub of creativity]]
-
 
 ### <hr class="footnote"/>
 

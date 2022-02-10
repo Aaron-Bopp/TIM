@@ -2,8 +2,8 @@
 created: 2021-06-15
 edited: 
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-02-08
-sr-interval: 24
+sr-due: 2022-03-19
+sr-interval: 38
 sr-ease: 142
 ---
 
@@ -28,7 +28,6 @@ Discovering what deeper mechanism is behind your anxiety can be difficult task, 
 If your [[identity]] is severely repressed, you will interacting with the world with a massive blind spot because you will be feeling things without understanding them: [[Identity is your understanding of yourself vs your interaction with the world]]. This generates [[anxiety]] because you do not understand the sources of the feelings well enough to predict when and understand why they happen. [[Anxiety isn't irrational it's just overcompensation]], and in this case your anxiety will push you to go over every possibility, because your brain doesn't know which things to prioritize because the [[ego]] is blocking those things off: [[Our ego is our subconscious defense of our self]]
 
 For example, because [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] [[transgender|trans]] children will often have lots of untraceable anxiety. This could also be related to people who are mentally handicapped often having very deep [[anxiety]] because they do not have the ability to understand situations and thus aren't able to find the source of the situation and [[anxiety]]. 
-
 
 ##### Cause:: material insecurity
 

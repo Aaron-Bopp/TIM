@@ -28,7 +28,7 @@ we develop a [[gender schema]].  But despite these strong roots for our gender, 
 The answer is unfortunately in [[Politics]], and the [[Rise of Modern Conservatism]].
 [[Transgender]] people have been demonized in our [[society]], and [[religion|religious]] fundamentalism has caused endless [[childhood]] [[trauma]]: [[Non-faith issues have been co-opted to keep people in the Christian church]]
 
-Especially within the last thirty years, trans [[activism|activists]] have built support for the [[Queer]] [[community]], and pushed doctors and the government to support treatment for [[gender dysphoria]]. They have advocated that [[Any experience of gender is acceptable]] and improved the lives of trans people, but as these beliefs have become more main stream they have received backlash.
+Especially within the last thirty years, trans activists have built support for the [[Queer]] [[community]], and pushed doctors and the government to support treatment for [[gender dysphoria]]. They have advocated that [[Any experience of gender is acceptable]] and improved the lives of trans people, but as these beliefs have become more main stream they have received backlash.
 
 The prominence of the [[gender binary]] in our [[socialization]], the politicization of [[gender]], and the fact [[Every person has an experience of gender]], means that a lot of personal and systemic [[privilege]] comes with being [[cis|cisgender]]. 
 ^[[[You will never be pushed to understand marginalization unless you are part of a marginalized group]] talks about the [[ignorance]] that is inherent in being in the most [[privilege|privileged]] social group.]
