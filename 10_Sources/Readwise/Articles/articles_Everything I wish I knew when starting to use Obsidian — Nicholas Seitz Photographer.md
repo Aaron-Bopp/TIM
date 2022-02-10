@@ -13,6 +13,9 @@ type:
 deliveredBy:
   - "readwise"
   - "api_article"
+sr-due: 2022-02-11
+sr-interval: 1
+sr-ease: 230
 ---
 # Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer
 

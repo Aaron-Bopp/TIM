@@ -7,9 +7,9 @@ type:
   - youtube
   - video
 source: https://www.youtube.com/watch?v=jM3azhiOy5E
-
-aliases:
-  - "Rejection Sensitivity"
+sr-due: 2022-02-14
+sr-interval: 4
+sr-ease: 270
 ---
 
 - [[Rejection Sensitivity]] - The tendency to anixously expect, readily perceive, and intensely react to rejection 

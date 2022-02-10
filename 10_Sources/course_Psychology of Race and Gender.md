@@ -4,11 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/01, node/source/course
-type:
-  - null 
+sr-due: Invalid date
+sr-interval: NaN
+sr-ease: NaN
 ---
 
 ##### [[course_Psychology of Race and Gender ]]
+
  **Creator**:: 
  
 **Source**:: FA21 
@@ -20,10 +22,13 @@ type:
 	- Lydia Martin
 
 # Week 2
+
 - Readings 
 	- [[Replacement prod.pdf| Plaut et al. (2018) - Colorblindness and Multiculturalism]] 
 	- [[National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators]]
+
 ## Multiculturalism and Colorblindness
+
 - Multiculturalism => multiple cultures living together and supporting each other without assimilating or sacrificing their culture.
 	- what if people don't want to be a part of a culture that they are recognized for?
 	- cons
@@ -32,15 +37,22 @@ type:
 	- seen as separate from using color blindness to make racist remarks
 	- != ignoring race's existence, applies more in individual situations
 		- even if you can be colorblind you that will blind you to other peoples [[racism]]
+
 ##  Barriers: White Privilege 
+
 - Privilege is exemption from struggles or added obstacles based solely on your social identity
 	- people can have advantaged and disadvantaged identities [[intersectionality]]
 	- race, ability, [[socio-economic]] status, religious status, [[gender]] are all forms of privilege
+
 # Week 3
+
 ## Readings
+
 - [[Historical Foundations of Race]]
 - [[Winton (2020) - Scientific Racism and North American Psychology 1.pdf]]
+
 ## Race
+
 - Race is a social classification based solely off of the color of your skin
 - Races have been created for classifying and otherizing various groups of people over the years 
 - Difference between race, ethnicity, and nationality
@@ -58,7 +70,9 @@ type:
 	- early racial conceptions still persist today through steriotypes, raical categories, scientifiic research
 - Race still exist despite being socially constructed
 - There is nothing racist about categorizing people by race, it is when you treat people differently based off that group that it becomes racist.
+
 ### Scientific Racism
+
 - The use of science to justify racist beliefs and racial stratification
 - There has been a lack of [[objectivity]] in race based science
 - Physiognomy: judging psychological factors based on external appearance, especially the face
@@ -71,11 +85,16 @@ type:
 - racial admixture
 	- black kids with high iqs do not reliably have more european dna than those with lower IQs
 - it all comes down to [[socio-economic]] status
+
 # Week 4
+
 ## Readings
+
 - [[Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf]]
 - [[7 Ways We Know Systemic Racism Is Real]]
+
 ## Institutional and Systemic Bias
+
 - Why was there resistance to black lives matter?
 	- White lives matter supporters didn't understand the point of BLM
 	- People are made uncomfortable by the discussion/acknowledgement of the [[racism]] in america
@@ -85,7 +104,9 @@ type:
 - Institutional bias - discrimination ingrained into society through culture, [[government|govt]], laws, norms
 	- implicit or explicit (discrimination vs privelege)
 - What is causing institutional bias?
+
 ## Racial disparities in covid
+
 - [[black people]] (and navajo people) more likely to catch and more likely to die from covid
 - Causes: Some of these are correlations not causation of race
 	- Hospitals underfunded
@@ -109,13 +130,18 @@ type:
 	- slavery (==?what can we do about slavery today?how does this effects the conversation about solutions?==)
 	- feedback loop
 - Hurricane Katrina = example of inequal treatment in healthcare
+
 # Week 5 
 
-1.  [[Ritchey (2014) - Black Identity Development 1.pdf]] 
-2.  [[Cook & McCoy (2017) - Messages in Collusion 1.pdf]] 
+1. [[Ritchey (2014) - Black Identity Development 1.pdf]] 
+2. [[Cook & McCoy (2017) - Messages in Collusion 1.pdf]] 
+
 ## Identity
+
 - Identity models are about experience not age periods
+
 ### Black identity
+
 - Black identity developmental model with goal of a positive racial identity with strong importance to [[self]]
 	- Invented by a white man (Cross) who said it should only be for black identities
 	- 4-5 stages
@@ -141,7 +167,9 @@ type:
 		- only applicable to african-[[America|americans]]
 		- one-directional
 			- people shift from stage to stage back and forth
+
 ### White identity 
+
 - Abandonment of [[Racism]]
 	1. Contact
 		- Lack of awareness of race is importance in society
@@ -173,62 +201,70 @@ type:
 
 # Week 6 
 
-1.  “[Intersectionality](https://www.nccj.org/intersectionality),” web article from _NCCJ_.
-2.  [[Robbins & McGowan (2016) - Intersectional Perspectives on Gender 1.pdf]] 
-3.  [[McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously 1.pdf]] 
+1. “[Intersectionality](https://www.nccj.org/intersectionality),” web article from _NCCJ_.
+2. [[Robbins & McGowan (2016) - Intersectional Perspectives on Gender 1.pdf]] 
+3. [[McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously 1.pdf]] 
 
 # Week 7 
 
-1.  Chapter 2: Theoretical Perspectives on [[gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
+1. Chapter 2: Theoretical Perspectives on [[gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
 
 # Week 8 
+
 - [[textbook_Hyde&Elsequest_pyschology of women and gender]]
-	1.  Chapter 2: Theoretical Perspectives on [[gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
-	2.  Chapter 7: Lifespan Development, pp. 151-179. Access through your Else-Quest & Hyde (2018) textbook.
+	1. Chapter 2: Theoretical Perspectives on [[gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
+	2. Chapter 7: Lifespan Development, pp. 151-179. Access through your Else-Quest & Hyde (2018) textbook.
 
 ## Gender schema theory
+
 - **Schema** - a way to organize the world around us by filtering information through frameworks
 	- Affects memory recall
 	- things that do not fit into a schema are ignored or misremembered
 - 
+
 # Week 9 
 
-1.  Chapter 3: [[gender]] Stereotypes and [[gender]] Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
-2.  Chapter 10: Biology and [[gender]], pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
+1. Chapter 3: [[gender]] Stereotypes and [[gender]] Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
+2. Chapter 10: Biology and [[gender]], pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
 - [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]
 - Difference between [[stereotype threat]] and [[self-fulfilling prophecy]]
 	- [[stereotype threat]] is state-dependent (sterotype threat needs to be reinforced) and usually affects performance that the individual is good at
 	- [[self-fulfilling prophecy]] is a chronic hindrance on performance caused by lack of confidence
 	- Repeated experiences of [[stereotype threat]] can result in a [[self-fulfilling prophecy]]
+
 # Week 10 
 
-1.  [[articles_transequality.org_Frequently Asked Questions About Transgender People National Center for Transgender Equality]]
-2.  [[Russell et al. (2018) - Chosen Name Use.pdf]] 
-3.  [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis 1.pdf]] 
+1. [[articles_transequality.org_Frequently Asked Questions About Transgender People National Center for Transgender Equality]]
+2. [[Russell et al. (2018) - Chosen Name Use.pdf]] 
+3. [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis 1.pdf]] 
 
 # Week 11 
 
-1.  [[Olson et al. (2016) - Mental Health of Transgender Children 1.pdf]] 
+1. [[Olson et al. (2016) - Mental Health of Transgender Children 1.pdf]] 
+
 ## Notes
+
 - Negative health outcomes for trans people
 	- Being trans is not a mental disorder or cause for negative health outcomes
 	- Reasons: [[gender dysphoria]], lack of social support, [[Minority stress]]
 		- If one or more of these factors are addressed, outcomes become comparable to cis people
 - [[Minority stress]] experiencing pejudice/discrimination leads to high stress levels, causing negative mental and physical health outcomes
+
 # Week 12 
 
-1.  [[Dovidio et al. (2017) - Aversive Racism and Contemporary Bias 1.pdf]] 
-2.  [[Correll et al. (2014) - The Police Officer's Dilemma 1.pdf]] 
+1. [[Dovidio et al. (2017) - Aversive Racism and Contemporary Bias 1.pdf]] 
+2. [[Correll et al. (2014) - The Police Officer's Dilemma 1.pdf]] 
 - Racism in America
 	- 
 
 # Week 13 
 
-1.  “[Sexism Isn’t Just Unfair; It Makes [[Women]] Sick, Study Suggests](https://theconversation.com/sexism-isnt-just-unfair-it-makes-[[women]]-sick-study-suggests-95689),” web article from _The Conversation._
-2.  “[Sexism May Be Harmful to Men’s Mental Health](https://www.apa.org/news/press/releases/2016/11/sexism-harmful),” web article from _American Psychological Association_.
-3.  [[Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
+1. “[Sexism Isn’t Just Unfair; It Makes [[Women]] Sick, Study Suggests](https://theconversation.com/sexism-isnt-just-unfair-it-makes-[[women]]-sick-study-suggests-95689),” web article from _The Conversation._
+2. “[Sexism May Be Harmful to Men’s Mental Health](https://www.apa.org/news/press/releases/2016/11/sexism-harmful),” web article from _American Psychological Association_.
+3. [[Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
 
 ## Notes
+
 - [[sexism]]
 	- [[modern sexism]] - a more subtle form of sexism not involving explicit admission of sexist beliefs, i.e denial of sexism, complainst about "special treatment," endorsement of double-standards
 	- [[Patriarchy convinces young men that they can and should be oppressors]]
@@ -241,9 +277,9 @@ type:
 			- Accompanied with innacurate beliefs of how the worlds works ie
 				- women control everything
 		- Benevolent [[sexism]]: controlling women through positive but patronizing views about women.  Women are superior only in ways that don't threaten male superiority.
-			-  Protective paternalism - women need to be protected by men
-			-  Complementary gender differentiation - complementing women for exercising stereotypes
-			-  Heterosexual Intimacy - women are viewed as sexual objects
+			- Protective paternalism - women need to be protected by men
+			- Complementary gender differentiation - complementing women for exercising stereotypes
+			- Heterosexual Intimacy - women are viewed as sexual objects
 			- Benevolent sexism is directly linked to Hostile sexism
 				- Endorsement of gender stereotypes
 				- Negative reactions to victims of rape
@@ -252,11 +288,12 @@ type:
 
 # Week 14 
 
-1.  Chapter 4, Focus 4.1: Racial Microaggressions, pp. 90-91. Access through your Else-Quest & Hyde (2018) textbook.
-2.  Chapter 9: [[gender]] and Work, pp. 210-216. Access through your Else-Quest & Hyde (2018) textbook.
-3.  Chapter 14: [[gender]] and Victimization, pp. 311-336. Access through your Else-Quest & Hyde (2018) textbook.
+1. Chapter 4, Focus 4.1: Racial Microaggressions, pp. 90-91. Access through your Else-Quest & Hyde (2018) textbook.
+2. Chapter 9: [[gender]] and Work, pp. 210-216. Access through your Else-Quest & Hyde (2018) textbook.
+3. Chapter 14: [[gender]] and Victimization, pp. 311-336. Access through your Else-Quest & Hyde (2018) textbook.
 
 ## Notes
+
 - [[Microaggressions]]
     - Microassaults - explicit or intentional bigoted statements/behaviors
     - Microinsults - statements/behaviors minimizing or sterotyping a marginalized group, i.e. second class citizenship, ascription of intelligence, pathologized discriminatory behavior
@@ -267,16 +304,17 @@ type:
     2. Invisibility of Unintentional Expression of bias
         - how can the target prove that a microaggression occurred
     3. Percieved as minimally harmful
-        -  how can I get social support if no one sees it as harmful
+        - how can I get social support if no one sees it as harmful
     4. Defensive responses from microagressors 
         - call it out and get accused of being too sensitive or be forced to put up with the microaggresions
  - Microaggressions are common stressors (contribute to [[stereotype threat]]) and can be associated with [[trauma responses]]
  - Microagresions can be benevolent but don't have to be
  
+
 # Week 16
 
-1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 
-2.  “[The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice),” web article from _Greater Good Magazine_, published by University of California, Berkeley.
+1. [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 
+2. “[The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice),” web article from _Greater Good Magazine_, published by University of California, Berkeley.
 
 - [[Intergroup contact theory]]  - Contact hypothesis: interacting with people from an outgroup, you hold [[prejudice]] toward will reduce your prejudice toward the group as a whole
     - counter:: contact does not always have a positive effect

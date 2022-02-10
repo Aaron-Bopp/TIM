@@ -13,6 +13,9 @@ type:
 deliveredBy:
   - "readwise"
   - "hypothesis"
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 224
 ---
 # The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying
 

@@ -4,9 +4,9 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/23, review, node/evergreen/claim
-sr-due: 2022-02-09
-sr-interval: 10
-sr-ease: 210
+sr-due: 2022-02-16
+sr-interval: 6
+sr-ease: 190
 ---
 
 #### [[Anxiety causes us to reject nuance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

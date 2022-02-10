@@ -8,6 +8,9 @@ type:
 aliases:
   - Hyde and Else-Quest
 source: null
+sr-due: 2022-02-13
+sr-interval: 3
+sr-ease: 257
 ---
 
 ###### [[textbook_Hyde&Elsequest_pyschology of women and gender]]

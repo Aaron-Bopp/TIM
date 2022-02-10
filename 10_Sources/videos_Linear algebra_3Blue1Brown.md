@@ -1,13 +1,12 @@
 ---
 created: 2021-10-16
 edited: 
-aliases:
-- 
-
 tags: created/source/2021/10/16, node/source/videos
 type:
 - 
-
+sr-due: 2022-02-13
+sr-interval: 3
+sr-ease: 250
 ---
 
 ##### [[videos_Linear algebra_3Blue1Brown]]

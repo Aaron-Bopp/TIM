@@ -6,6 +6,9 @@ creator: null
 type:
   - null
 source: null
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 233
 ---
 
 ###### [[lecture_Behavioral Evolution]]
@@ -15,6 +18,7 @@ source: null
 **Link**:: [2. Behavioral Evolution - YouTube](https://youtu.be/Y0Oa4Lp5fLE)
 
 ## Notes
+
 - [[biology]] can tell us a lot based off of our skulls
 - There is a inevitable logic to how [[biology]] works because of the optimization of [[Evolution]]
 - [[sociobiology]] in 1970s -> [[Evolutionary Psychology]]

@@ -25,5 +25,5 @@ next:: [[Humans are a product of evolution]]
 **Topics**:: [[human survival]], [[Neuroscience]], [[brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^2]: [[videoExistential Dread#Chemicals that cause the brain to focus]]
+[^2]: [[video_Existential Dread#Chemicals that cause the brain to focus]]
 [^3]: [[Mental health is a reaction to one's environment]]

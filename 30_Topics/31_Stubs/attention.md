@@ -1,23 +1,24 @@
 ---
-created: 2021-10-19
+created: 2022-02-10T13:04:13 
 edited: 
-tags: created/topic/2021/10/19, node/topic/term
+aliases:
+  - null
+tags: created/topic/2022/02/10, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[neurosis]]</s>
+##### <s class="topic-title">[[attention]]</s>
 
-the tendency to worry  [^1]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-[^1]: [[video_Existential Dread]]
-

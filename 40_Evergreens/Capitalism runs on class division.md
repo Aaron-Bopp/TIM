@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/02, review, node/evergreen/claim
-sr-due: 2022-02-08
-sr-interval: 11
+sr-due: 2022-02-27
+sr-interval: 17
 sr-ease: 130
 ---
 
@@ -19,7 +19,7 @@ One of the successes of the [[Rise of Modern Conservatism]] is to have convinced
 
 Capitalism would fail if everyone was a capitalist. 
 
-#TO/DO/FIND tiktok or tweet about how we get mad at years instead of [[capitalism]]
+#TO/DO/FIND [[tiktok]] or tweet about how we get mad at years instead of [[capitalism]]
 
 ### <hr class="footnote"/>
 

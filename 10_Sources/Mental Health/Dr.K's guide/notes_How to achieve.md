@@ -4,9 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 227
 ---
 
 ##### [[notes_How to achieve ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,6 +21,7 @@ For context see
 prev:: [[notes_What is achievement]]
 
 ## How to reorientate your attitude for achievement
+
 - How to live in the present instead of looking towards the future
 - We base our value on success and outcomes because of [[society]] ex: new years resolutions
 - Our brain is incredibly good at reinforcing actions
@@ -25,7 +30,9 @@ prev:: [[notes_What is achievement]]
 		- [[You can't control what happens]]
 - Break down problems into very small things
 	- imagine you are writing a program for a computer to follow
+
 ## Surround yourself with a [[community]] that will motivate you
+
 - building the right kind of [[community]] will shape your thinking in the correct way
 - you can take an action without having a thought before hand
 	- [[Right kinds of thoughts lead to right kinds of actions]]
@@ -46,12 +53,13 @@ prev:: [[notes_What is achievement]]
 		- help you through struggles
 
 ## Cleanliness
+
 - [[Shuddhi]] or cleansing for when you are feeling brain fog
 	- [[mind-body complex]] can't run optimally unless [[body]] and [[mind]] are clean and pure
 	- step in [[Raja Yoga]]
 - Why do we feel better after we shower?
 	- correlation between messiness of room and [[depression]]
-		-  [[feedback loop]] of a little bit of cleaning leads to a little bit of [[happiness]] which leads to more cleaning
+		- [[feedback loop]] of a little bit of cleaning leads to a little bit of [[happiness]] which leads to more cleaning
 			- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 			- opposite [[Hierarchy of needs]]
 - top-down thinking
@@ -68,7 +76,9 @@ prev:: [[notes_What is achievement]]
 	- patients feel clean after this process of emotional catharsis
 - current [[Neuroscience]] research points to same things
 - this is why going for walks, candles, cleaning your room, brushing your teeth all have such big impacts
+
 ## Personal [[philosophy]] for achievement
+
 - [[Yama]] are [[society|societal]] observances
 - [[Niyama]]s are personal observance
 	- [[meditation]] is a spiritual regimen

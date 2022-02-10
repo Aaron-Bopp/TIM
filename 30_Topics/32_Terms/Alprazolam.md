@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 ##### <s class="topic-title">[[Alprazolam]]</s>
 
-An anti-[[anxiety]] medication belonging to the class of benzodiazepine drugs which works by binding GABA receptors in the brain and enhancing GABA-mediated synaptic inhibition
+An anti-[[anxiety]] medication belonging to the class of [[Benzodiazepines]] drugs which works by binding [[GABA]] receptors in the brain and enhancing GABA-mediated synaptic inhibition
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::

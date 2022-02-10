@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/09, review, node/evergreen/claim
-sr-due: 2022-02-09
+sr-due: 2022-02-11
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[The audience's perception is more important than the artist's intention]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,5 +18,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[art]], [[perception]], [[intention]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

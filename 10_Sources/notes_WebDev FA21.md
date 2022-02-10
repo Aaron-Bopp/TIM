@@ -7,6 +7,9 @@ tags: created/source/2021/11/17, node/source/course
 type:
   - class
   - notes
+sr-due: 2022-02-13
+sr-interval: 3
+sr-ease: 250
 ---
 
 ##### [[notes_WebDev FA21]]

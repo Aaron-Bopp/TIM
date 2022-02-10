@@ -1,13 +1,12 @@
 ---
 created: 2021-10-13
 edited: 
-aliases:
-- 
-
 tags: created/source/2021/10/13, node/source/notes
 type:
 - notes
-
+sr-due: 2022-02-13
+sr-interval: 3
+sr-ease: 254
 ---
 
 ##### [[notes_OS_Operating Systems]]
@@ -17,8 +16,6 @@ type:
 **Source**:: [[00_intro_to_os 1.pdf]]
 
 **Related**:: [[Computer Science]]
-
-
 
 # [[notes_OS_Operating Systems]] 
 
@@ -37,7 +34,7 @@ A: [[Monolithic Kernel]]s are faster and more volatile but more difficult to ext
 	- [[Kernel Space]] only holds [[Inter Process Communication | IPC]], [[CPU]] scheduling and virtual memory while all other services run in user space using sockets and message passing to communicated
 - [01:31](https://www.youtube.com/watch?v=ORLqB_2a1PQ#t=91.4331031411438) [[ENIAC]] first computer with no OS
 - [[Monolithic vs Micro Kernels]]
+
 ### <hr class="dataviews"/>
 
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
-

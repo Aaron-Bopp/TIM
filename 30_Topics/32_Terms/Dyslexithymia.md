@@ -12,5 +12,5 @@ Wrong words for emotions [^1]
 
 **See**:: [[mental health]]
 
- [^1]: [[videoEmotional Deregulation]]
+ [^1]: [[video_Emotional Deregulation]]
 

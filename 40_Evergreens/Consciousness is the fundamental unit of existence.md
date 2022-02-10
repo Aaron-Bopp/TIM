@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/28, review, node/evergreen/claim
-sr-due: 2022-02-09
-sr-interval: 18
+sr-due: 2022-03-11
+sr-interval: 29
 sr-ease: 170
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 170
 Ancient [[Yoga|Yogic]] tradition offers an alternative to traditional [[Western philosophy|western]] creation myths such as [[Christianity]]'s. Instead of an all-powerful, all-knowing 
 ^[and frankly problematic [[The biblical Christian God is evil and does not deserve to be worshipped]]]
 god,
-the universe was formed from an [[infinite]] sea of [[conscious|consciousness]] called [[Brahman]].
+the [[universe]] was formed from an [[infinite]] sea of [[conscious|consciousness]] called [[Brahman]].
 
 This sea coalesced to become [[energy]] which coalesced to become [[matter]].
 ^[[[notes_Metaphysics of Meditation]]]

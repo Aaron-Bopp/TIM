@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-02-10
-sr-interval: 24
+sr-due: 2022-03-28
+sr-interval: 46
 sr-ease: 190
 ---
 
@@ -21,6 +21,9 @@ Try to create [[topic note|topic notes]] when you are overwhelmed, and stop crea
 It is easier to cutout sections of large topics notes and create subtopics, than it is to have to recategorize a swath of notes. 
 
 - contrasts [[How I outlined my brain (literally just use all of the organization techniques at once)]]
+#TO/TEND/GRAFT 
+- [[Prioritize organization over categorization to avoid cognitive bias]]
+- [[Only categorize as much as your data requires]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING

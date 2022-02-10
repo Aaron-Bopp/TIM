@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/31, node/source/notes
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 236
 ---
 
 ##### [[notes_The Nature of Mind ]]

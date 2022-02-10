@@ -11,6 +11,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "twitter"
+sr-due: 2022-02-13
+sr-interval: 3
+sr-ease: 250
 ---
 # How to DM Your Heroes Wh...
 

@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-02-08
-sr-interval: 11
-sr-ease: 210
+sr-due: 2022-02-16
+sr-interval: 6
+sr-ease: 190
 ---
 
 #### [[Overly interrogative parents can lead to alexithymic children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

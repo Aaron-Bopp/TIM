@@ -4,13 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/claim
-sr-due: 2022-02-08
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-11
+sr-interval: 1
+sr-ease: 210
 ---
 
 #### [[We need equity of access not equality of opportunity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/EXPLORE/RESEARCH definitions of [[equity]] and [[equality]]
 Not everybody has the same starting point in life.
 [[Belief]] in equality of opportunity would state that as long as all these people have access to the same opportunities, then it is ethical.
 However, many have recognized that have the same level of access in theory does not lead to that in reality. 
@@ -23,7 +24,7 @@ There is also a [[neurodiversity]] angle to this #TO/PONDER/IDEA
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/WEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social inequality]]

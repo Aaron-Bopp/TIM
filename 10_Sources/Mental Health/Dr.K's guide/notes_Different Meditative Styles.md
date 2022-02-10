@@ -6,19 +6,22 @@ aliases:
 tags: created/source/2021/12/29, node/source/notes
 type:
   - null 
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 240
 ---
 
 ##### [[notes_Different Meditative Styles ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-
 **Next**:: [[notes_Science of Meditation]]
 **Previous**:: [[notes_History of Meditation]]
 
-
 ## Notes
+
 - [[Raja Yoga]]
 	- [[Yama]]s are societal observances
 		- [[Ahimsa]] non-violence

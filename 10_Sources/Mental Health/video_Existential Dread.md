@@ -8,7 +8,9 @@ type:
   video
   interview
 source: https://www.youtube.com/watch?v=UUC8qF5iDag
-
+sr-due: 2022-02-11
+sr-interval: 1
+sr-ease: 230
 ---
 
 **Creator**:: [[Dr. K]]

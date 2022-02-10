@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/02/07, node/source/video
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 246
 ---
 
 ##### [[video_Aesop didn't know about Meta-Irony]]

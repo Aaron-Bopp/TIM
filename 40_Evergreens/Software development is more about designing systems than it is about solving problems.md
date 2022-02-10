@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/05, review, node/evergreen/claim
-sr-due: 2022-02-09
-sr-interval: 3
+sr-due: 2022-02-18
+sr-interval: 8
 sr-ease: 230
 ---
 
@@ -38,7 +38,7 @@ Instead of delegating the fulfilment of needs, companies have moved to delegatin
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Software Development]], [[communication]]

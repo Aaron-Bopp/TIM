@@ -2,16 +2,18 @@
 created: 2021-06-28
 edited: 2022-01-25
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-02-09
-sr-interval: 15
-sr-ease: 139
+sr-due: 2022-02-19
+sr-interval: 9
+sr-ease: 130
 ---
 
 #### [[A repressed identity creates a mistrust of self-love and self-esteem]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/WATER note
 [[A secure identity is the best defense against social anxiety]],
 but a [[repressed]] [[identity]] can lead to a variety of problems,
 including struggling to understand where your [[emotions]] are coming from and why.
+^[[[Overly interrogative parents can lead to alexithymic children]]]
 If you don't understand who you are, you will struggle to understand why certain things make you feel good and certain things make you feel bad.
 This leads to [[social anxiety]] as you will be spending so much time trying to figure out *why* you're feeling so anxious that you won't be able to live in the moment
 ^[[[Anxiety prevents us from living in the present]]]

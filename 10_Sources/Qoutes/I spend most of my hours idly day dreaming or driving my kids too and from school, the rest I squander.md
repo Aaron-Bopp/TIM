@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/09/22, node/source/qoutes 
+sr-due: 2022-02-13
+sr-interval: 3
+sr-ease: 250
 ---
 
 **Source**:: [how we spend our days - YouTube](https://youtu.be/job52mBUvjc?t=142)
