@@ -20,8 +20,6 @@ These systems impact the entire [[mind-body complex]] which can get you out of y
 	- [[Anxiety isn't irrational it's just overcompensation]]
 		- You shouldn't be having to deal with [[Cortisol]] and [[Adrenaline]] just going to school and talking to people
 
- 
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
