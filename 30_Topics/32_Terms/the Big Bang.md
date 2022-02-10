@@ -23,6 +23,8 @@ The Big Bang theory is the prevailing cosmological model explaining the existenc
 > Extrapolation of the expansion of the universe backwards in time using [[general relativity]] yields an [[infinite]] density and temperature at a finite time in the past.
 > This irregular behavior, known as the [[gravitational singularity]], indicates that general relativity is not an adequate description of the laws of physics in this regime. 
 > 
+> According to this theory, space and time emerged together 13.787±0.020 billion years ago, and the [[universe]] has been expanding ever since.
+> 
 > The initial discovery of [[Cosmic microwave background radiation]] in 1964 was key in the formulation of the Big Bang theory.
 > The model describes how the universe expanded from an initial state of high density and temperature, and offers a comprehensive explanation for a broad range of observed phenomena, including the abundance of light elements, the cosmic microwave background (CMB) radiation, and large-scale structure.
 > 
