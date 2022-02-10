@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-02-10
-sr-interval: 19
-sr-ease: 170
+sr-due: 2022-02-21
+sr-interval: 11
+sr-ease: 150
 ---
 
 #### [[Strong enough logic becomes belief]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -4,27 +4,21 @@ edited:
 tags: created/evergreen/2021/07/03, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-10
-sr-interval: 29
+sr-due: 2022-04-18
+sr-interval: 67
 sr-ease: 230
 ---
 
 #### [[Note storage is important because it defines how you access and retain knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-%%
-#TO/TEND/GRAFT 
-- [[Only organize as much as your data requires]]
-- [[Organization systems are not mutually exclusive]]
-- [[Prioritize organization over categorization to avoid cognitive bias]]
+For a proper [[knowledge management|personal knowledge management]] system, this question is very important, and aligns with your values. 
 
-#TO/WRITE thoughts about folders, portability, organization, inter-operability
-%%
 Possible tools:
-- [[Obsidian (software)]] [^1]
+- [[Obsidian (software)]] 
 - [[Roam Research (software)]]
 - [[Mem (software)]]
-- [[twitter.com]] [^2]
-- Paper notes (or slip notes ala [[Zettelkasten]])
+- [[Twitter]] [^1]
+- Paper notes (or slip notes ala [[Zettelkasten]]) ^[There is also this legacy article that is very fascinating [[articles_General Principles]]]
 
 If you would like to easily access your notes anywhere without hassle and have lots of easy interfaces to work with, [[Evernote]] or [[Roam Research (software)]] would be very good options, but if you would like to be able to use tools like [[Git]], scripting, or be able to access your notes from multiple different systems plaintext files are the best choice, and the best choice for plaintext files is [[Obsidian (software)]].
 
@@ -38,4 +32,4 @@ If you would like to easily access your notes anywhere without hassle and have l
 **Topics**:: [[My TIM]], [[second brain]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^2]: [[@visakanv on Twitter]] is possibly one of the most interesting accounts on the site
+[^1]: [[@visakanv on Twitter]] is possibly one of the most interesting accounts on the site

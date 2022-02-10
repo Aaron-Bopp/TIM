@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/04, review, node/evergreen/claim
-sr-due: 2022-02-10
-sr-interval: 4
-sr-ease: 230
+sr-due: 2022-02-23
+sr-interval: 13
+sr-ease: 250
 ---
 
 #### [[Why I don't believe in simulation theory]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,6 +18,7 @@ This is due to the death of [[Moore's law]] and the limits of [[quantum computin
 1. If we did reach that level of computing, why would we create a simulation with so many limitations?
 Relativity and the limit of the speed of light, evolution as a mechanism of change, all these things are extremely inefficient at creating an interesting world.
 
+#TO/TEND/MULCH 
 At the core of [[theology]] is the [[belief]] that the world does not make sense without a creator, due to the complexity of life. 
 [[simulation theory]] posits not only that we will eventually be capable of simulating this complexity, but that we would recreate it.
 This goes directly against the reasons that religions have been created

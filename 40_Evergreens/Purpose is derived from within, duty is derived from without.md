@@ -4,14 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-02-10
-sr-interval: 4
+sr-due: 2022-02-19
+sr-interval: 9
 sr-ease: 170
 ---
 
 #### [[Purpose is derived from within, duty is derived from without]] `$=customjs.dv_funcs.evergreenheader(dv, this)`
 
 - [[notes_Dharma]] [[notes_Karma]] 
+- [[notes_How to achieve]]
 - [[Humans are drawn to the unknown and repelled by the known]]
 - [[Be the change you want to see in the world]]
 - [[Growing up is being able to articulate the hope more than the hopelessness]]

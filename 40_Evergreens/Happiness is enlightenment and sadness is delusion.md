@@ -4,14 +4,14 @@ edited:
 tags: created/evergreen/2021/06/12, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-10
-sr-interval: 68
+sr-due: 2022-07-30
+sr-interval: 170
 sr-ease: 250
 ---
 
 #### [[Happiness is enlightenment and sadness is delusion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Buddhism]] states that the cause of suffering is [[ignorance]] (not seeing the world as it actually is) and [[desire]] (wanting things that do not exist), but it also states that truth of suffering is that it exists; it has a cause; it has an end; and it has a cause to bring about its end. [^1]  The purpose of life is the pursuit of bliss, and it is delusion to avoid it.
+[[Buddhism]] states that the cause of [[suffering]] is [[ignorance]] (not seeing the world as it actually is) and [[desire]] (wanting things that do not exist), but it also states that truth of suffering is that it exists; it has a cause; it has an end; and it has a cause to bring about its end. [^1]  The purpose of life is the pursuit of bliss, and it is delusion to avoid it.
 
 This is “true [[optimism]]“: [[True optimism is acknowledging the suffering of the world and defying it anyway|acknowledging the suffering of the world and defying it anyway]]. Even people who have fallen into [[pessimism]]  [[Realism must acknowledge optimism's existence and effectiveness|must acknowledge optimism's existence and effectiveness]]. 
 
@@ -23,8 +23,7 @@ the contrast here[[Sadness is enlightenment and happiness is delusion]] and here
 #TO/PONDER/RELATIONSHIP
 - [[Purpose is derived from within, duty is derived from without]]
 - [[Right kinds of thoughts lead to right kinds of actions]]
--  
-
+- 
 
 ### <hr class="footnote"/>
 

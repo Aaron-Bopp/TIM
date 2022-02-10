@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/technique
-sr-due: 2022-02-10
-sr-interval: 3
-sr-ease: 230
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 210
 ---
 
 #### [[How to deal with FOMO]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

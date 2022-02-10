@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/10/22, review, node/evergreen/claim
-sr-due: 2022-02-10
-sr-interval: 16
-sr-ease: 170
+sr-due: 2022-02-20
+sr-interval: 10
+sr-ease: 150
 ---
 
 #### [[Humans yearn for a tool with no blood on it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,6 +17,11 @@ This has huge relevance to the [[social justice]] and [[Civil Rights]] movements
 
 #TO/EXPLORE/READ [[vicky-osterweil-in-defense-of-looting_-a-riotous-history-of-uncivil-action-bold-type-books-2020.pdf]]
 
+#TO/TEND/GRAFT 
+- [[Humans have decided to reject an unjust world]]
+- [[Humans have decided to take advantage of an unjust world]]
+- [[Knowledge of the world is painful]]
+- [[Anger fuels change]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
