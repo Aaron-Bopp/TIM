@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
+sr-due: 2022-02-18
+sr-interval: 7
 sr-ease: 230
 ---
 
 ##### [[notes_Cognitive Depression ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,6 +18,7 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/cognitive-depression)
 
 #### Terms
+
 - What are the cognitive features of the depressed [[mind]]
 	- stuck in the past
 		- filled with regret about past actions
@@ -43,8 +45,6 @@ sr-ease: 230
 		- [[mind]] tells you something is not worth it
 - The reasons there a so many different solutions for [[depression]] is because they don't work 
 	- A large amount of solutions shows that most of those solutions are wrong
-
-
 
 ![[Pasted image 20220102161038.png]]
 - [[anxiety]] is future focused and [[depression]] is past focused

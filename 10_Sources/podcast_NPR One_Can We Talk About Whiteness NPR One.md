@@ -6,9 +6,9 @@ creator: null
 type:
   - podcast
 link: https://one.npr.org/?sharedMediaId=476876081:480084184
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-20
+sr-interval: 9
+sr-ease: 250
 ---
 
 ###### [[podcast_NPR One_Can We Talk About Whiteness NPR One]]
@@ -35,10 +35,10 @@ Summarized and expanded upon in [[White Privilege write-up]]
 - Progressive or liberal white people view whiteness as a burden but that is not true of all white people
 - [[How to address whiteness]]
 	- Direct approach
-		-  [[White supremacy]] and forcing to acknowledge white privilege
+		- [[White supremacy]] and forcing to acknowledge white privilege
 			- often used by activists
 	- Indirect approach
-		-  Ground teaching in actual experience of white people = why do people feel like they don't have white privilege? -> the problems they face aren't related to their race or other races.
+		- Ground teaching in actual experience of white people = why do people feel like they don't have white privilege? -> the problems they face aren't related to their race or other races.
 			- Different than losing privilege feeling like oppression ([[To those with privilege, losing it feels like oppression]])
 - White teachers can be seen as benevolent role-model while BIPOC teachers are seen as bitter
 - Is there a way to get rid of the burden of whiteness? -> No
@@ -51,6 +51,3 @@ Summarized and expanded upon in [[White Privilege write-up]]
 	- White people are scared to engage in race or if they aren't they do it through political jargon
 		- White people have often never had to address their race
 	- ?==Is it more comfortable talking about race in homogeneous company or mixed company==?
-
-
-

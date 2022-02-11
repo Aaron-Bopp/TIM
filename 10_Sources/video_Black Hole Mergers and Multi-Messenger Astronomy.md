@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2022/02/08, node/source/videos
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-12
+sr-interval: 1
+sr-ease: 210
 ---
 
 ##### [[video_Black Hole Mergers and Multi-Messenger Astronomy]]
+
 **Creator**:: [[Sixty Symbols]]
  
 **Source**:: [Black Hole Mergers and Multi-Messenger Astronomy - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=aSUlCB0gNK8)

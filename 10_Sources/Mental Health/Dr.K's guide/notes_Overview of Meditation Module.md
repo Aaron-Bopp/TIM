@@ -6,12 +6,13 @@ aliases:
 tags: created/source/2021/12/30, node/source/notes
 type:
   - null 
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-23
+sr-interval: 12
+sr-ease: 250
 ---
 
 ##### [[notes_Overview of Meditation Module ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -20,11 +21,12 @@ sr-ease: 230
 **Previous**:: [[course_Dr. K's Guide to Mental Health]]
 
 ## Notes
+
 - [[Dr. K]] spent a lot of time wanting to become a monk and learned from lots of teachers
 - Everybody needs a personalized method of meditation
 	- Good teachers do not make you conform to their style
 - People don't understand the difference between [[mindfulness]] and [[meditation]]
--  where does [[suffering]] come from?
+- where does [[suffering]] come from?
 	- [[Dukkha]]
 	- [[Dharma]]
 	- [[karma]]

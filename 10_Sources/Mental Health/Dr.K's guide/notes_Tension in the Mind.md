@@ -4,12 +4,13 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-19
+sr-interval: 8
+sr-ease: 250
 ---
 
 ##### [[notes_Tension in the Mind ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,8 +18,11 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/tension-in-the-mind)
 
 #### Terms
+
 prev:: [[notes_Learned Anxiety]]
+
 ## Notes
+
 - tension in the [[mind]] fuels [[anxiety]]
 - adding [[energy]] to the mind makes anxiety worse [[anxiety]]
 	- [[Thought Loops]] [[notes_Thought Loops]]

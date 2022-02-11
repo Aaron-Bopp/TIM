@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/02/09, node/source/videos
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-21
+sr-interval: 10
+sr-ease: 250
 ---
 
 ##### [[video_Why have climate change predictions been so WRONG]]

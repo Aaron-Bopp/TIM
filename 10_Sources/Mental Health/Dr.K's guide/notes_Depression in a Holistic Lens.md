@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-23
+sr-interval: 12
+sr-ease: 250
 ---
 
 ##### [[notes_Depression in a Holistic Lens ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,6 +18,7 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/depression-in-a-holistic-lens)
 
 #### Terms
+
 - [[Dukkha]]
 - [[Dharma]]
 - [[karma]]
@@ -36,6 +38,7 @@ sr-ease: 230
 - [[Qi Gong]]
 
 ## Notes
+
 - [[Yoga|Yogic]] perspective on [[depression]]
 	- leads to [[Panchakosha]] theory
 	- [[notes_Panchakosha Theory]]

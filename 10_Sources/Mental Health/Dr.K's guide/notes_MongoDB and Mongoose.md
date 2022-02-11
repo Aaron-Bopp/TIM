@@ -6,9 +6,9 @@ aliases:
 tags: created/source/2021/11/15, node/source/flashcards
 type:
   - null 
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-22
+sr-interval: 11
+sr-ease: 250
 ---
 
 ##### [[notes_MongoDB and Mongoose ]]

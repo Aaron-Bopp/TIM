@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-03-21
+sr-interval: 38
+sr-ease: 270
 ---
 
 ##### [[notes_Clinical vs Non-clinical depression ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,10 +18,12 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/clinical-vs-non-clinical-depression)
 
 #### Terms
+
 - [[Congruent Depression]]
 - [[Clinical Depression]]
 
 ## Notes
+
 - [[Clinical Depression]] is episodic
 	- it will go away on it's own as the [[body]] heals itself
 	- medication is to reduce duration, severity, and frequency of [[depression]]

@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-22
+sr-interval: 11
+sr-ease: 250
 ---
 
 ##### [[notes_Thought Loops ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,6 +18,7 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/thought-loops)
 
 #### Terms
+
 - [[Thought Loops]]
 	- grappling and exhausting, unproductive
 	- always come back around to the same thought
@@ -34,7 +36,6 @@ sr-ease: 230
 	- [[We carry our childhood wounds into adulthood]]
 	- [[We value our biggest insecurities because they protect us from the biggest threats]]
 
-
 **References and further reading:**  
 
--   Hamilton, J. P., Farmer, M., Fogelman, P., & Gotlib, I. H. (2015). Depressive rumination, the default-mode network, and the dark matter of clinical neuroscience. Biological psychiatry, 78(4), 224-230.
+- Hamilton, J. P., Farmer, M., Fogelman, P., & Gotlib, I. H. (2015). Depressive rumination, the default-mode network, and the dark matter of clinical neuroscience. Biological psychiatry, 78(4), 224-230.

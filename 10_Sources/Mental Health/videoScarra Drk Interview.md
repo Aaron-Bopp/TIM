@@ -6,9 +6,9 @@ creator: null
 type:
   - null
 source: https://www.youtube.com/watch?v=nB8g3n10_Z8
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-21
+sr-interval: 10
+sr-ease: 250
 ---
 
 ###### [[videoScarra Drk Interview]]
@@ -20,23 +20,31 @@ sr-ease: 230
 **Last Edited**:: *`=this.file.mtime`*
 
 - #TO/EXPLORE/RESEARCH cognitive [[empathy]]
--  [18:05](https://www.youtube.com/watch?v=nB8g3n10_Z8#t=1085.282509721527)
+- [18:05](https://www.youtube.com/watch?v=nB8g3n10_Z8#t=1085.282509721527)
 	- [[happiness]] there is a difference between contentment and momentary happiness
+
 ### working on [[empathy]] and chasing [[happiness]]
+
 - Empathy vs solutions
 - always chase happy vs 
 - loving to win vs hating to lose
 - fix things vs listening
+
 ### logic vs empathy
+
 - Scarra had frustration with people not being able to just do it
 - cognitive [[empathy]]
 - "when you say that the rationalization is the best way it's because that's what you're the best at"
+
 ### low self-worth
+
 - Admits that he has very low [[self-worth]], but then immediately goes and says that's normal, when [[Dr. K]] pushes he admits that he is being more vulnerable than he likes 
 - "Logic is your shield and you constantly work on yourself but that feeling of worthlessness doesn't go away"
 - "the more you work and that feeling doesn't go away what do you conclude"
 - scarra feels like he is incapable of certain and things but deals with that by saying that he can never be perfect, [[Dr. K]] pushes back by saying you can never be perfect but saying that in response to your own feelings engenders [[hopelessness]] i.e Your someone that could do something but won't 
+
 ### how does [[Dr. K]] approach 
+
 - Recognizes verbally that something will be difficult
 - mirrors why patient rationalizes but pushes back against the [[purpose]] of that [[rationalizations|rationalization]]
 - asks basic questions like "What did you say in response this question" and lets the patient work through it 

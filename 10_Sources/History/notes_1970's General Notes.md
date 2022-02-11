@@ -1,4 +1,10 @@
 ---
+sr-due: 2022-02-22
+sr-interval: 11
+sr-ease: 250
+---
+
+---
 created: 2021-04-30
 edited: 
 tags: created/source/2021/04/30, node/source/notes

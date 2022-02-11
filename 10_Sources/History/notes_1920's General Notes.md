@@ -4,9 +4,9 @@ edited:
 tags: created/source/2021/04/30, node/source/notes
 type:
   - class
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-22
+sr-interval: 11
+sr-ease: 250
 ---
 **Creator**:: [[Aaron Bopp]]
  
@@ -29,4 +29,3 @@ sr-ease: 230
     - [[Progressives]] believed that federal [[government]] could limit individual freedoms for higher responsibilities (21:30-22:30)
     - Bootlegging helped the rise of the mafia
 - [[notes_1930's General Notes]]
-

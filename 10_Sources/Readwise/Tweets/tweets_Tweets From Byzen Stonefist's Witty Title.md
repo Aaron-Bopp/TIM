@@ -11,10 +11,11 @@ type:
 deliveredBy: 
   - "readwise"
   - "twitter"
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-03-04
+sr-interval: 21
+sr-ease: 250
 ---
+
 # Tweets From Byzen Stonefist's Witty Title
 
 **Related**:: 
@@ -25,10 +26,11 @@ sr-ease: 230
 **Creator**:: [[@byzen_stonefist on Twitter]]
 
 # Highlights
+
 ##### ^255203020
+
   
 > @matthewmercer @UchihaDrewYT English is six languages in a trenchoat trying to imitate a working form of communication. 
-  [^255203020]
+  [^1]
 
-[^255203020]: https://twitter.com/byzen_stonefist/status/1466390160900169732
-
+[^1]: https://twitter.com/byzen_stonefist/status/1466390160900169732

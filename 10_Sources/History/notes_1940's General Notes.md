@@ -4,9 +4,9 @@ edited:
 tags: created/source/2021/04/30, node/source/notes
 type:
   - class
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-20
+sr-interval: 9
+sr-ease: 250
 ---
 
 **Creator**:: [[Aaron Bopp]]
@@ -113,5 +113,3 @@ sr-ease: 230
             - Industrial power but needed natural resources, colonialism was the answer
             - Believed other Asian nationalities were inferior
 - [[notes_1950's General Notes]]
-
-

@@ -6,12 +6,13 @@ aliases:
 tags: created/source/2021/11/19, node/source/flashcards
 type:
   - null 
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-23
+sr-interval: 12
+sr-ease: 250
 ---
 
 ##### [[flashcards_REST]]
+
  **Creator**:: 
  
 **Source**:: [[notes_WebDev FA21]]
@@ -36,7 +37,7 @@ False
 
 Q:: For a restful API, we can use **GET** on a collection and use query parameters to manage the results. Which of the following is NOT something we expect to be able to do?  
 A::
-Apply  a map to the results  
+Apply a map to the results  
 
 Q:: For a restful API, what would the result be with **GET** on **/library/patrons** ?  
 A::
@@ -75,4 +76,3 @@ A::
 FAlse  
 
                           
-

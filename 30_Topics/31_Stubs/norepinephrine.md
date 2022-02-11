@@ -9,8 +9,9 @@ tags: created/topic/2022/01/02, node/topic/stub
 
 ##### <s class="topic-title">[[norepinephrine]]</s>
 
+Counter part of [[noradrenaline]], the [[hormone]] of the [[sympathetic nervous system]] secreted by the [[adrenal]] glands. In stressful situations, it is involved in the body's the [[fight-or-flight response]].
 
-**See**::
+**See**:: [[SNRI]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-22
+sr-interval: 11
+sr-ease: 250
 ---
 
 ##### [[notes_Learned Anxiety ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,6 +18,7 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/learned-anxiety)
 
 #### Terms
+
 - [[anxiety]]
 - [[Adrenaline]]
 - [[Amygdala]]
@@ -25,6 +27,7 @@ sr-ease: 230
 - [[Samskara]]
 
 ## Notes
+
 - [[anxiety]] is strange monolithic term
 	- People are anxious about different things
 	- Our anxiety is unique to us

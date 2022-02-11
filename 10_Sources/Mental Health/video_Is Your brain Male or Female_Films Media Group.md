@@ -7,9 +7,9 @@ aliases:
 tags: created/source/2021/10/23, node/source/videos
 type:
 - 
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-22
+sr-interval: 11
+sr-ease: 250
 ---
 
 ##### [[video_Is Your brain Male or Female_Films Media Group ]]
@@ -21,9 +21,9 @@ sr-ease: 230
 **Related**:: [[gender]], [[gender roles]]
 - *Structures* or *processes* within the brain that differe from men to women
 	- Testosterone in the womb can change behaviors later in life making the child more drawn to systematizing.
-	-  Men's neural pathways between what they see and they do about it, women's neural pathways are stronger between the hemispheres.
-	-   There may be neural systems that cause men and women experience pain differently.
-	-   After menopause women are more likely have a stroke.
+	- Men's neural pathways between what they see and they do about it, women's neural pathways are stronger between the hemispheres.
+	- There may be neural systems that cause men and women experience pain differently.
+	- After menopause women are more likely have a stroke.
 - What do the results of the “monkey toy preference” study tell us about gender differences and/or human brains?  
 	- Some gender roles are not the fact of pure human medling, they are reflections of the way we raise children, such as female monkeys being more interested in baby toys than male monkeys.
 	- This doesn't show us that gender isn't socially constructed, because monkeys are also social creatures.

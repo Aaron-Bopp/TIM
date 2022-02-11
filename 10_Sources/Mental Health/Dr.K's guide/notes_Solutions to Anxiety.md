@@ -4,12 +4,13 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-21
+sr-interval: 10
+sr-ease: 250
 ---
 
 ##### [[notes_Solutions to Anxiety ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,6 +18,7 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/solutions-to-anxiety)
 
 #### Terms
+
 - [[anxiety]]
 - [[Amygdala]]
 - [[Samskara]]
@@ -27,12 +29,13 @@ sr-ease: 230
 - [[Karma Fal]]
 
 ## Notes
+
 - [[Anxiety prevents us from living in the present]]
 - [[Anxiety causes us to reject nuance]]
 - [[Your anxiety knows your insecurities better than you do]]
 - What does the [[mind]] do to deal with [[anxiety]]?
 	- distraction - temporally helpful but anxiety will come back
-	-  avoidance - does not help root cause
+	- avoidance - does not help root cause
 	- reassurance - becomes a crutch
 	- fight it - irrational
 - Solutions

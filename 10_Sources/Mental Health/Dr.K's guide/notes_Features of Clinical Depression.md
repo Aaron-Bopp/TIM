@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-20
+sr-interval: 9
+sr-ease: 250
 ---
 
 ##### [[notes_Features of Clinical Depression ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,9 +18,11 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/features-of-clinical-depression)
 
 #### Terms
+
 - [[Anhedonia]]
 
 ## Notes
+
 - [[MDD|Major Depressive Disorder (MDD)]]
 	- 9 things that you need for [[Clinical Depression]]
 		- three main things

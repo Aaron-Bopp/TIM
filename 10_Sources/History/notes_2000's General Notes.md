@@ -4,16 +4,16 @@ edited:
 tags: created/source/2021/04/30, node/source/notes
 type:
   - class
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-22
+sr-interval: 11
+sr-ease: 250
 ---
 
 ##### [[notes_2000's General Notes ]]
+
 **Creator**:: [[Aaron Bopp]]
  
 **Source**:: [[course_US History from 1870]]
-
 
 - [[notes_1990's General Notes]]
 - [[W Bush]]

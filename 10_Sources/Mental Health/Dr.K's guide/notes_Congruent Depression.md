@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-21
+sr-interval: 10
+sr-ease: 250
 ---
 
 ##### [[notes_Congruent Depression ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,9 +18,11 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/congruent-depression)
 
 #### Terms
+
 - [[Congruent Depression]]
 
 ## Notes
+
 - two weeks to a year where a person's state is [[depression]]
 - [[Humans are a product of evolution]]
 	- There must be a reason that the ability to become depressed for a period of time must have been selected

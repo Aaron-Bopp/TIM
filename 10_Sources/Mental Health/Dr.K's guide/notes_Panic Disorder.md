@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-21
+sr-interval: 10
+sr-ease: 250
 ---
 
 ##### [[notes_Panic Disorder ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,6 +18,7 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/panic-disorder)
 
 #### Terms
+
 - [[Panic Disorder]]
 - [[derealization]]
 - [[Depersonalization]]
@@ -26,6 +28,7 @@ sr-ease: 230
 - [[Agoraphobia]]
 
 ## Notes
+
 - Do you randomly feel a sense of [[impending doom]]
 - [[panic attacks]] can come up in minutes and last hours
 - Difference between colloquial [[panic attacks]] and [[Panic Disorder]] panic attacks
@@ -43,6 +46,6 @@ sr-ease: 230
 			- manifests in [[Agoraphobia]]
 		- increased [[heart rate]] - [[Tachycardia]]
 	- [[panic attacks]] can very in frequency
--  
+- 
 
 next:: [[notes_Rebound Anxiety]]

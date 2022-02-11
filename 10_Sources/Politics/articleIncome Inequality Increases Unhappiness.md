@@ -6,22 +6,13 @@ creator: Fariss Samarrai
 type:
   - article
 source: https://news.virginia.edu/content/income-inequality-increases-unhappiness-study-shows
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-22
+sr-interval: 11
+sr-ease: 250
 ---
-
-
-**Related**:: 
-
-**Last Edited**:: *`=this.file.mtime`*
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
----
-
 
 ##### MarkdownText
+
 June 21, 2011 — As high earners earn more, and lower or modest-income people earn less or see their incomes sit flat, the losers in the equation increasingly feel less happy and more inclined to believe that others are unfair and untrustworthy, according to a new University of Virginia-led study. ^fed754
 
   "Essentially, [[America|Americans]] are less happy during periods of greater income inequality," said psychologist Shigehiro Oishi of U.Va.'s [**College of Arts & Sciences**](http://artsandsciences.virginia.edu/home/index.html), lead author of a new study examining the effects of income disparity on happiness. "People are happier when there is more economic equality."
@@ -45,6 +36,7 @@ June 21, 2011 — As high earners earn more, and lower or modest-income people e
   Overall, however, [[America|Americans]] are relatively happy, Oishi said. Compared to people in other developed nations – Germany, France, Japan and Korea, [[America|Americans]] are happier with a more positive outlook.
 
 ##### PlainText
+
 June 21, 2011 — As high earners earn more, and lower or modest-income people earn less or see their incomes sit flat, the losers in the equation increasingly feel less happy and more inclined to believe that others are unfair and untrustworthy, according to a new University of Virginia-led study.
 
   "Essentially, [[America|Americans]] are less happy during periods of greater income inequality," said psychologist Shigehiro Oishi of U.Va.'s [**College of Arts & Sciences**](http://artsandsciences.virginia.edu/home/index.html), lead author of a new study examining the effects of income disparity on happiness. "People are happier when there is more economic equality."
@@ -66,4 +58,3 @@ June 21, 2011 — As high earners earn more, and lower or modest-income people e
   "It really comes down to a sense of [[fairness]] or unfairness," Oishi said. "When people see company CEOs giving themselves big pay raises, and ballplayers and actors making millions, they sense that society is unfair. People are less happy when they believe that things are not fair, that other people cannot be trusted."
 
   Overall, however, [[America|Americans]] are relatively happy, Oishi said. Compared to people in other developed nations – Germany, France, Japan and Korea, [[America|Americans]] are happier with a more positive outlook.
-

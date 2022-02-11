@@ -4,12 +4,13 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-23
+sr-interval: 12
+sr-ease: 250
 ---
 
 ##### [[notes_Intro to Ayurveda ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,7 +18,9 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/intro-to-ayurveda)
 
 #### Terms
+
 ## Notes
+
 - [[Western philosophy|western]] [[medicine]] likes to divide and conquer
 	- it's about dividing things into small groups so that you can understand each thing in depth, and then build up the bigger picture
 	- Separates people out from [[disease]]s to find the purest [[disease]] process and figure out the perfect treatment process

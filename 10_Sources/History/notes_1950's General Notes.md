@@ -4,8 +4,8 @@ edited:
 tags: created/source/2021/04/30, node/source/notes
 type:
   - class
-sr-due: 2022-02-10
-sr-interval: 2
+sr-due: 2022-02-17
+sr-interval: 6
 sr-ease: 230
 ---
 

@@ -11,10 +11,11 @@ type:
 deliveredBy: 
   - "readwise"
   - "twitter"
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-19
+sr-interval: 8
+sr-ease: 250
 ---
+
 # Tweets From Zami Draws ADHD Comics ✨
 
 **Related**:: 
@@ -25,12 +26,14 @@ sr-ease: 230
 **Creator**:: [[@ZamiArts on Twitter]]
 
 # Highlights
+
 ##### ^255544826
+
 > I almost forgot to post this again, this week truly has been like the first panel... 
 > ![](https://pbs.twimg.com/media/FFnWMovXMAQs6qm.jpg) 
-  [^255544826]
+  [^1]
 
-[^255544826]: https://twitter.com/ZamiArts/status/1466438670764945408
+[^1]: https://twitter.com/ZamiArts/status/1466438670764945408
 %%
 highlight_tags:: [[ADHD]]
 %%
