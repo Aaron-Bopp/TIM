@@ -35,6 +35,6 @@ sr-ease: 250
           - [[Dyslexithymia]] - Wrong words for emotions
           - [[trauma]] can effect how we feel and understand emotions
 
-**Topics**::  [[ADHD]], [[depersonalization]], [[derealization]] 
+**Related**::  [[ADHD]], [[depersonalization]], [[derealization]] 
 
 

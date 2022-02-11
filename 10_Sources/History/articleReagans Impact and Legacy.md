@@ -12,7 +12,7 @@ sr-ease: 230
 ---
 ###### [[Reagans Impact and Legacy]]
 
-**Topics**:: 
+**Related**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

@@ -13,7 +13,7 @@ sr-ease: 250
 
 **Tags**:: [[John Green]]
 
-**Topics**:: 
+**Related**:: 
 
 ### ^qoute
 

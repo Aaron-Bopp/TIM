@@ -13,7 +13,7 @@ sr-ease: 230
 
 ###### [[articleAncient Cave Art Full of Teenage Graffiti]]
 
-**Topics**::  [[ancient history]], [[human survival]], [[human advancement]]
+**Related**::  [[ancient history]], [[human survival]], [[human advancement]]
 
 **Last Edited**:: *`=this.file.mtime`*
 

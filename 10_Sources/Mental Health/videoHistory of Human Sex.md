@@ -25,7 +25,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-**Topics**::  [[nuclear family]], [[consent]], [[modern american culture]] 
+**Related**::  [[nuclear family]], [[consent]], [[modern american culture]] 
 
 **Outline**::
 sr-due: 2022-02-10

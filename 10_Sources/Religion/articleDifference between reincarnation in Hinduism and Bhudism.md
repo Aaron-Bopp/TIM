@@ -12,7 +12,7 @@ sr-ease: 230
 ---
 
 
-**Topics**::  [[Buddhism]], [[Hinduism]], [[eastern philosophy]]
+**Related**::  [[Buddhism]], [[Hinduism]], [[eastern philosophy]]
 
 
 - [[Hinduism]] believe in a persisting [[soul]] but [[Buddhism]] view [[reincarnation]] as a repeated occurrence of life [^1]

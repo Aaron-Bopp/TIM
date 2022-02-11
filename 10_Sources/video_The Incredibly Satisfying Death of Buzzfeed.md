@@ -3,7 +3,7 @@ created: 2022-02-09T21:00:09
 edited: 
 aliases:
   - null
-tags: created/source/2022/02/09, node/source/video
+tags: created/source/2022/02/09, node/source/videos
 sr-due: 2022-02-14
 sr-interval: 4
 sr-ease: 230
