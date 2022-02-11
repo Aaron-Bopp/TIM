@@ -30,14 +30,14 @@ sr-ease: 233
 	- This all leads to variance of traits in populations thanks to mutation
 - Wynn-Edwards and group selection is the idea of "the good of the species" which is pretty much incorrect and can be explained other ways
 - Three building blocks that abstract/replace [[natural selection]] and its derivatives
-	- individual selection
+	- [[individual selection]]
 		- behavior is how to preserve ones life and genes through reproduction ("selfish genes")
 		- sexual selection would be a subset of this
-	- inclusive fitness/kin selection
+	- inclusive fitness/[[kin selection]]
 		- helping those you are closest related to in any situation
 		- the more closely related you are with someone, the more genes you share with them
 		- leads to us vs them thinking - [[Humans love to group eachother]]
-	- reciprocal altruism
+	- [[reciprocal altruism]]
 		- [[Evolution]] can lead to RPS stalemates where each organism has a weakness and a strength and their best interest is to work together
 			- happens the most in [[bacteria]]
 		- Major part: you aren't putting in more than you are getting
@@ -72,3 +72,7 @@ sr-ease: 233
 						- plug the wholes during reproductive seasons
 			- IRL strategies change
 				- Parental Behavior discussion starting 1:20
+
+[3. Behavioral Evolution II - YouTube](https://www.youtube.com/watch?v=oKNAzl-XN4I&list=PL848F2368C90DDC3D&index=3)
+- In the 70s and 80s, we started to realize we weren't the only species that killed for pleasure
+	- 
