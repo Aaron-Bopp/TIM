@@ -10,6 +10,7 @@ sr-ease: 222
 ---
 
 ##### [[notes_Treatment Approaches to Anxiety ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,6 +18,7 @@ sr-ease: 222
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/treatment-approaches-to-anxiety)
 
 #### Terms
+
 - [[Ayurveda]]
 - [[SNRI]]
 - [[SRI]]
@@ -31,6 +33,7 @@ sr-ease: 222
 - [[TCM (Traditional Chinese Medicine)]]
 
 ## Notes
+
 - [[medication]] doesn't necessarily attack the root of [[anxiety]], but they are very effective
 - [[SRI]] create anti-anxiety machines in your nerve cells
 	- takes 4-8 weeks
@@ -40,7 +43,7 @@ sr-ease: 222
 - [[Benzodiazepines]]
 	- works on [[GABA]]
 	- more instant relief, can be addicting
-- [[Psychotherapy]]
+- [[Psychotherapy]]  
 	- [[Psychodynamic Therapy]] is the [[Sigmund Freud|Freud]]ian type of therapy
 		- traditional talk therapy
 		- mainly listening and asking questions

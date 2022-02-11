@@ -16,7 +16,7 @@ tags: created/topic/2022/02/10, node/topic/term
 When combined with [[kin selection]], the increased shared genes in this inbred population can lead to a kind of [[group selection]], where the increased [[reciprocal altruism]] in the ingroup leads to the outcompeting the parent group when they reintegrate.
 ^[[[10_Sources/lecture_Behavioral Evolution.md#^igzkks]]]
 
-**See**::
+**See**:: [[Evolution]], [[natural selection]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

@@ -3,7 +3,7 @@ created: 2021-07-18
 edited: 
 tags: created/topic/2021/07/18, node/topic/outline
 aliases:
-- marxist
+- Marxist
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

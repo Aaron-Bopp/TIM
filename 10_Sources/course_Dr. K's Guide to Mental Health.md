@@ -75,8 +75,6 @@ sr-ease: 223
 		- [[notes_Intro to Mantra Practice]]
 - [[You can't control what happens]]
 	- [[notes_What is achievement]]
-	- [[notes_Reframing Goals to Actions]]
-	- [[notes_Origin of Motivation]]
 - [[We learn by transforming information into understanding]]
 	- [[notes_Knowledge of the Mind]]
 	- [[notes_Vidya and Jnana]]

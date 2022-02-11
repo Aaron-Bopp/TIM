@@ -85,4 +85,20 @@ sr-ease: 233
 - [[group selection]] has snuck back into [[ethology]] in the [[founder effect]] ^igzkks
 	- this is a way to jump start cooperation in a [[population]]
 	- good explanatino at 1:00
-	- [[books_Darwin's Cathedral]] David Sloan Wilson book about calvinism
+- [[books_Darwin's Cathedral]] David Sloan Wilson book about calvinism
+- [[natural selection]] is the competition of individual items, whether those be genes, individuals, or groups
+- Three main aspects of Behavioral Evolution
+	- Heritability
+		- this is the piece most attacked by other fields
+	- Adaptiveness
+		- leads to fallacy that everything is adaptive or selected for
+			- sometimes it is hard to see why something is adaptive
+			- something may have been adaptive at one point
+			- the term for this is [[spandrel]]
+				- example: human chins, you can have a shortened muzzle on a primate head without a chin
+		- Gradualism
+			- [[evolution]] is a tinkerer
+			- counter is [[punctuated equilibrium]]
+- There has been a [[Marxism|Marxist]] critique of [[Evolutionary Biology]] in that explaining things as "natural"  or a evolutionary selection, often ignores a materialistic analysis 
+
+next:: [[lecture_Molecular Genetics]]

@@ -11,7 +11,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[MDD]]</s>
 
 A psychiatric illness that is based on the presence of multiple criteria described by the [[DSM]]-V for a period of two weeks or longer.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
+^[[[notes_General Differntial Diagnosis]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

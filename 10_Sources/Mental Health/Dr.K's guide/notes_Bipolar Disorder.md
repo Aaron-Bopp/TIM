@@ -22,3 +22,8 @@ tags: created/source/2021/12/30, node/source/notes
 - [[Mania]]
 - [[DSM]]
 - [[Cyclothymia]]
+
+## Notes
+- [[Mood Lability]] is usually what people are reffering to when the casually refer to someone as bipolar
+- [[Bipolar Disorder]] is a much longer 
+- 
