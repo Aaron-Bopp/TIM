@@ -26,4 +26,9 @@ tags: created/source/2021/12/30, node/source/notes
 ## Notes
 - [[Mood Lability]] is usually what people are reffering to when the casually refer to someone as bipolar
 - [[Bipolar Disorder]] is a much longer 
-- 
+- both [[Bipolar I]] and [[Bipolar II]] have [[MDD]]
+- [[Bipolar I]] characterized by [[Mania]]
+	- [[Mania]] might be less common that depressive episodes
+- [[Mania]] very impulsive
+	- spending sprees
+- [[Cyclothymia]] - cycling but not as fast as [[Mood Lability]]

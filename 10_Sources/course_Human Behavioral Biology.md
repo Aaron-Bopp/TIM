@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/01/29, node/source/notes
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 237
 ---
 
 ##### [[course_Human Behavioral Biology]]

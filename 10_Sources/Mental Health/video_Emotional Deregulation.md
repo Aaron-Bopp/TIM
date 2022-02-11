@@ -6,8 +6,14 @@ creator: How to ADHD
 type:
   - youtube
   - video
-source: https://www.youtube.com/watch?v=t23N2Pib9rs
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 243
 ---
+
+**Creator**:: [[How to ADHD]]
+
+**Source**:: [ADHD and Emotions: How Mindfulness Can Help (& 3 Questions to Ask!) - YouTube](https://www.youtube.com/watch?v=t23N2Pib9rs)
 
 - Emotions == problem -> get rid of emotions
      - avoid situations where emotions occur
@@ -29,15 +35,6 @@ source: https://www.youtube.com/watch?v=t23N2Pib9rs
           - [[Dyslexithymia]] - Wrong words for emotions
           - [[trauma]] can effect how we feel and understand emotions
 
----
-
 **Topics**::  [[ADHD]], [[depersonalization]], [[derealization]] 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText
 
 

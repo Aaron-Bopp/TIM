@@ -15,3 +15,16 @@ tags: created/source/2021/12/30, node/source/notes
 
 #### Terms
 - [[Anhedonia]]
+
+## Notes
+- [[MDD|Major Depressive Disorder (MDD)]]
+	- 9 things that you need for [[Clinical Depression]]
+		- three main things
+			- [[Anhedonia]]
+			- [[Negative Self Attitude (NSA)]]
+			- early morning awakening with a mind going full speed
+		- low mood
+		- suicidal thoughts
+			- either I don't want to continue or it would be better if I don't
+		- low concentration
+- next:: [[notes_Treatment Principles for Anxiety and Depression]]

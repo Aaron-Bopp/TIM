@@ -89,6 +89,7 @@ sr-ease: 223
 - [[Right kinds of thoughts lead to right kinds of actions]]
 	- [[Self-belief is fundamental to good karma]]
 	- [[notes_How to achieve]]
+	- [[notes_What is achievement]]
 - [[Anxiety prevents us from living in the present]]
 	- [[notes_Anxiety 101]]
 	- [[notes_cognitive Anxiety]]
@@ -105,9 +106,9 @@ sr-ease: 223
 # Source notes
 ## Watched
 - [[notes_Intro to Ayurveda]]
-- [[notes_How to achieve]]
 - [[notes_the Nature of Self]]
 - [[notes_Panchakosha Theory]]
+- [[notes_Depression in a Holistic Lens]]
 - [[notes_Confidence vs Ego]]
 - [[notes_Vedic Psychology]]
 - [[notes_Working with Samskaras]]
@@ -118,15 +119,13 @@ sr-ease: 223
 - [[notes_Feeding the Beast]]
 - [[notes_Solutions to Anxiety]]
 - [[notes_Neuroscience of Anxiety]]
-- [[notes_Treatment Approaches to Anxiety]]
+- [[notes_Treatment Principles for Anxiety and Depression]]
 - [[notes_Clinical vs Non-clinical depression]]
 - [[notes_Neuroscience of Depression]]
-## Unwatched
 - [[notes_General Differntial Diagnosis]]
 - [[notes_Bipolar Disorder]]
 - [[notes_Features of Clinical Depression]]
-- [[notes_General Treatment Principles]]
-- [[notes_Depression in a Holistic Lens]]
+## Unwatched
 - [[notes_Negative Emotions]]
 - [[notes_Ayurveda for Anxiety]]
 - [[notes_Dietary Guidance in Ayurveda]]

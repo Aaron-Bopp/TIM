@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
+sr-due: Invalid date
+sr-interval: NaN
+sr-ease: NaN
 ---
 
 ##### [[notes_Intro to Mantra Practice ]]

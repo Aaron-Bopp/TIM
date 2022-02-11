@@ -9,14 +9,13 @@ sr-interval: 1
 sr-ease: 222
 ---
 
-##### [[notes_Treatment Approaches to Anxiety ]]
+##### [[notes_Treatment Principles for Anxiety and Depression ]]
 
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/treatment-approaches-to-anxiety)
-
+**Link**:: [treatment-approaches-to-anxiety](https://coaching.healthygamer.gg/guide/lessons/treatment-approaches-to-anxiety), [general treatment principles for depression](https://coaching.healthygamer.gg/guide/lessons/general-treatment-principles)
 #### Terms
 
 - [[Ayurveda]]
@@ -35,14 +34,24 @@ sr-ease: 222
 ## Notes
 
 - [[medication]] doesn't necessarily attack the root of [[anxiety]], but they are very effective
-- [[SRI]] create anti-anxiety machines in your nerve cells
-	- takes 4-8 weeks
-	- effects can last six months after stopping
-	- should make you feel a normal amount of anxiety
-	- [[SSRI]]
-- [[Benzodiazepines]]
-	- works on [[GABA]]
-	- more instant relief, can be addicting
+	- [[SRI]] create anti-anxiety machines in your nerve cells
+		- takes 4-8 weeks
+		- effects can last six months after stopping
+		- should make you feel a normal amount of anxiety
+		- [[SSRI]]
+	- [[Benzodiazepines]]
+		- works on [[GABA]]
+		- more instant relief, can be addicting
+- Managing [[depression]] vs curing it
+	- medication
+		- mainly trial and error
+		- some meditations may help with multiple disorders
+		- [[SSRI]] - bread and butter
+		- [[SNRI]] - work on [[norepinephrine]] and [[Serotonin]]
+		- [[Mirtazapine]] - causes appetite and sleepiness
+			- side affects can actually help for certain people
+		- [[Bupropion]] - balances negative affects of [[SSRI]]s 
+			- also helps with [[ADHD]] and other dopamine stuff
 - [[Psychotherapy]]  
 	- [[Psychodynamic Therapy]] is the [[Sigmund Freud|Freud]]ian type of therapy
 		- traditional talk therapy
@@ -51,7 +60,7 @@ sr-ease: 222
 	- [[CBT]]
 		- focused on the interaction between thoughts, behaviors, and [[emotions]]
 	- Third wave therapy
-		- [[DBT]], regular therapy with a "drop of [[eastern philosophy|eastern]] wisdom"
+		- [[DBT]], regular therapy with a "drop of [[eastern philosophy|eastern]] wisdom
 		- [[CAM (Complementary and Alternative Medicine)]]
 			- [[meditation]]
 			- [[Yoga]] 
@@ -62,3 +71,5 @@ sr-ease: 222
 			- just because other things can sometimes be effective, doesn't mean that they will be helpful
 			- less regulation
 next:: [[notes_Intro to Ayurveda]]
+
+
