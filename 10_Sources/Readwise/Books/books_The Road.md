@@ -10,6 +10,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "kindle"
+sr-due: 2022-02-14
+sr-interval: 4
+sr-ease: 230
 ---
 # The Road
 

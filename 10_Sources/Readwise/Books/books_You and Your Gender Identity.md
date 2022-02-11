@@ -11,6 +11,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "kindle"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # You and Your Gender Identity
 

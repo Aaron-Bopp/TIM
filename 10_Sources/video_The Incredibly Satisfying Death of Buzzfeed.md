@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/02/09, node/source/video
+sr-due: 2022-02-14
+sr-interval: 4
+sr-ease: 230
 ---
 
 ##### [[video_The Incredibly Satisfying Death of Buzzfeed]]

@@ -10,8 +10,8 @@ type:
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-02-13
-sr-interval: 3
+sr-due: 2022-02-18
+sr-interval: 8
 sr-ease: 250
 ---
 

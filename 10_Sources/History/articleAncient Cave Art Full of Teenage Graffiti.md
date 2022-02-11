@@ -6,6 +6,9 @@ creator: Bjorn Carey
 type:
   - article
 source: https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[articleAncient Cave Art Full of Teenage Graffiti]]
@@ -17,7 +20,9 @@ source: https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.
 - Cave art was mainly done by hand, and by observing hand sizes they were able to determine that most were done by teenage boys [^1]
 - cave art consisted a large amount of hunting, as well as obscene art of sex organs [^2]
 - Woman produced about 20% of caveart, but spend most of their time in the pre pottery age on non-endurable objects [^3]
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 
@@ -27,7 +32,9 @@ Ancient Cave Art Full of Teenage Graffiti | Live Science
 
 > ## Excerpt
 > Teenage males used cave walls to brag about hunting success and sexual exploits.
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 Many art historians and anthropologists believe Paleolithic cave wall art was done by accomplished shaman-artists, but mixed in with the finer paintings are graffiti-like scenes of sex and hunting.
 
@@ -75,7 +82,9 @@ Guthrie presents his findings and more than 3,000 images in his new book, "The N
 
 > ## Excerpt
 > Teenage males used cave walls to brag about hunting success and sexual exploits.
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 Many art historians and anthropologists believe Paleolithic cave wall art was done by accomplished shaman-artists, but mixed in with the finer paintings are graffiti-like scenes of sex and hunting.
 

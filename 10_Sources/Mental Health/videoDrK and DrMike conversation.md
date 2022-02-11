@@ -8,6 +8,9 @@ type:
   - video
   - interview
 source: https://www.youtube.com/watch?v=T_31hFh1XKM
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 - The body routed blood to an injured part of the body to avoid thoughts
@@ -42,14 +45,17 @@ source: https://www.youtube.com/watch?v=T_31hFh1XKM
 	- Compliance is the true challenge of medicine
 - Notoriety is not a natural thing
 - Social [[media]] is like sailing through stormy seas for your [[mental health]] - [[Dr. K]]
-
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 **Topics**::  [[eastern philosophy]], [[meditation]], [[mental health]] 
 
 **Outline**::
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 --- 
 ##### MarkdownText
 

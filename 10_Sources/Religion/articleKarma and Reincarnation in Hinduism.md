@@ -7,6 +7,9 @@ type:
   - article
   - teaching
 source: https://www.hinduismtoday.com/hindu-basics/karma-and-reincarnation/
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[Karma and Reincarnation in Hinduism]]

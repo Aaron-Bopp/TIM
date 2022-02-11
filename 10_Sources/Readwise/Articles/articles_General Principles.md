@@ -11,6 +11,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "api_article"
+sr-due: 2022-02-21
+sr-interval: 11
+sr-ease: 230
 ---
 # General Principles
 

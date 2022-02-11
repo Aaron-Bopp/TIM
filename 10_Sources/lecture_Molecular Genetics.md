@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/02/10, node/source/notes
+sr-due: 2022-02-12
+sr-interval: 2
+sr-ease: 246
 ---
 
 ##### [[lecture_Molecular Genetics]]

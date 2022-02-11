@@ -5,6 +5,9 @@ tags: node/source/notes
 creator: Annie Lowrey
 type:
   - null
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[Why the Phrase Late Capitalism Is Suddenly Everywhere]]

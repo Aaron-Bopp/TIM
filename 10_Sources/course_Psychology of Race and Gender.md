@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/01, node/source/course
-sr-due: Invalid date
-sr-interval: NaN
-sr-ease: NaN
+sr-due: 2022-02-17
+sr-interval: 7
+sr-ease: 250
 ---
 
 ##### [[course_Psychology of Race and Gender ]]

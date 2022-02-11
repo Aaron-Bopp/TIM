@@ -6,9 +6,9 @@ aliases:
 tags: created/source/2021/12/29, node/source/notes
 type:
   - null 
-sr-due: 2022-02-12
-sr-interval: 2
-sr-ease: 240
+sr-due: 2022-02-15
+sr-interval: 5
+sr-ease: 250
 ---
 
 ##### [[notes_Different Meditative Styles ]]

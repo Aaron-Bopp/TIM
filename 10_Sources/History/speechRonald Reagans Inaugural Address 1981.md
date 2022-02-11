@@ -6,6 +6,9 @@ creator: Ronald Reagan
 type:
   - speech
 source: https://avalon.law.yale.edu/20th_century/reagan1.asp
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[Ronald Reagans Inaugural Address 1981]]
@@ -27,7 +30,9 @@ The Avalon Project : First Inaugural Address of [[Reagan|Ronald Reagan]]
 
 > ## Excerpt
 > First Inaugural Address of [[Reagan|Ronald Reagan]]
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 First Inaugural Address of [[Reagan|Ronald Reagan]]
 
@@ -119,7 +124,9 @@ And, after all, why shouldn't we believe that? We are [[America|Americans]]. God
 
 > ## Excerpt
 > First Inaugural Address of [[Reagan|Ronald Reagan]]
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 First Inaugural Address of [[Reagan|Ronald Reagan]]
 

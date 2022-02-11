@@ -1,6 +1,9 @@
 ---
 created: 2021-9-13
 tags: node/topic/tool
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 # C

@@ -6,6 +6,9 @@ type:
 - youtube
 - video
 - interview
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 **Creator**:: [[Dr. K]]
@@ -26,13 +29,17 @@ type:
     - There was a study that gave [[anxiety]] meds to [[parents]] and the kids got the same benefit as meds
 
 e
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 
 
 **Topics**::  [[mental health]], 
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 --- 
 
 

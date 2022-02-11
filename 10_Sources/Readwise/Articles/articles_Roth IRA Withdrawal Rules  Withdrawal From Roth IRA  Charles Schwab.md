@@ -11,6 +11,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "api_article"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Roth IRA Withdrawal Rules | Withdrawal From Roth IRA | Charles Schwab
 

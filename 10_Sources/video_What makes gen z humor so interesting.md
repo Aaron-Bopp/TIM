@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/02/07, node/source/video
-sr-due: 2022-02-12
-sr-interval: 2
-sr-ease: 246
+sr-due: 2022-02-16
+sr-interval: 6
+sr-ease: 250
 ---
 
 ##### [[video_What makes gen z humor so interesting]]

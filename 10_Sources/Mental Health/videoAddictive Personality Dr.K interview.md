@@ -8,6 +8,9 @@ type:
   - video
   - interview
 source: https://www.youtube.com/watch?v=FjrjZh1Nris
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 - [[subconscious]] is the part of the you that is aware of yourself and is purely in the present

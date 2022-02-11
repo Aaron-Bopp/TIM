@@ -4,9 +4,9 @@ edited:
 tags: created/source/2021/10/13, node/source/notes
 type:
 - notes
-sr-due: 2022-02-13
-sr-interval: 3
-sr-ease: 254
+sr-due: 2022-02-19
+sr-interval: 9
+sr-ease: 250
 ---
 
 ##### [[notes_OS_Operating Systems]]

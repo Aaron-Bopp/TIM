@@ -13,6 +13,9 @@ type:
 deliveredBy:
   - "readwise"
   - "api_article"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Summary, part 1 & 2 | We Do This 'Til We Free Us | Study Guide — Radical in Progress
 

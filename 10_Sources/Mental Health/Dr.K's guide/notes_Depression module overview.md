@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/01/02, node/source/notes
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ##### [[notes_Depression module overview]]

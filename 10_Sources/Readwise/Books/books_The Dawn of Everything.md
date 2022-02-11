@@ -11,9 +11,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-02-14
-sr-interval: 4
-sr-ease: 272
+sr-due: 2022-02-18
+sr-interval: 8
+sr-ease: 250
 ---
 # The Dawn of Everything
 

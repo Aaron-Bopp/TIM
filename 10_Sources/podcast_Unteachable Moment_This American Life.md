@@ -6,6 +6,9 @@ aliases:
 tags: created/source/2021/12/03, node/source/podcasts
 type:
   - null 
+sr-due: 2022-02-11
+sr-interval: 1
+sr-ease: 210
 ---
 ##### [[podcast_Unteachable Moment_This American Life ]]
 

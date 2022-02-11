@@ -6,9 +6,9 @@ aliases:
 tags: created/source/2021/12/29, node/source/notes
 type:
   - null 
-sr-due: 2022-02-13
-sr-interval: 3
-sr-ease: 253
+sr-due: 2022-02-18
+sr-interval: 8
+sr-ease: 250
 ---
 
 ##### [[notes_History of Meditation ]]

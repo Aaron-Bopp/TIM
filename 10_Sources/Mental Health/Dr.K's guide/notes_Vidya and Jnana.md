@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-12
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-02-16
+sr-interval: 6
+sr-ease: 250
 ---
 
 ##### [[notes_Vidya and Jnana ]]

@@ -11,6 +11,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "api_article"
+sr-due: 2022-02-14
+sr-interval: 4
+sr-ease: 230
 ---
 # Cognitive biases that lead to poorly designed products - Inverted Passion
 

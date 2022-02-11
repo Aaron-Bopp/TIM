@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-12
-sr-interval: 2
-sr-ease: 247
+sr-due: 2022-02-19
+sr-interval: 9
+sr-ease: 250
 ---
 
 ##### [[notes_General Differntial Diagnosis ]]

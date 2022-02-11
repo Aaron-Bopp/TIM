@@ -6,6 +6,9 @@ creator: null
 type:
   - null
 source: https://www.youtube.com/watch?v=nB8g3n10_Z8
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[videoScarra Drk Interview]]

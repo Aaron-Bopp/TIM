@@ -7,7 +7,9 @@ aliases:
 tags: created/source/2021/10/19, node/source/notes
 type:
 - 
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ##### [[notes_OS_IPC and signals]]

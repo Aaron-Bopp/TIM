@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/11/04, node/source/qoutes
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 > Being cool and marketable isn't the same as having rights
 >

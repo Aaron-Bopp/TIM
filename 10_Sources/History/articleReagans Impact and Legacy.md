@@ -6,6 +6,9 @@ creator: Lou Cannon
 type:
   - null
 source: https://millercenter.org/president/reagan/impact-and-legacy
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 ###### [[Reagans Impact and Legacy]]
 
@@ -22,9 +25,9 @@ source: https://millercenter.org/president/reagan/impact-and-legacy
 - This paved the way for [[Bill Clinton]]'s centrist capture of the [[Democratic]] nomination and the presidency in 1992
 - Even today, with Democrats back in control, there are more avowed [[Reagan]] Republicans in [[Congress]] than there ever were during [[Reagan]]'s lifetime. In the 2008 contest for the [[Republican]] presidential nomination, virtually all the candidates proclaimed that they would follow in [[Reagan]]'s footsteps.
 - In the tradition of American populists, [[Reagan]] ran for office as an outsider who was determined to restore traditional values.
-
-
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 
@@ -34,7 +37,9 @@ source: https://millercenter.org/president/reagan/impact-and-legacy
 
 > ## Excerpt
 > Ronald Wilson [[Reagan]] was a transformational President. His leadership and the symbiotic relationship he forged with Soviet leader Mikhail Gorbachev during their four summit meetings set the stage for a peaceful resolution of [[the Cold War]]. As the [[Russia|Soviet Union]] disappeared into the mists of history, [[Reagan]]'s partisans asserted that he had "won" [[the Cold War]]. [[Reagan]] and Gorbachev more prudently declared that the entire world was a winner. [[Reagan]] had reason to believe, however, that the West had emerged victorious in the ideological struggle: as he put it, democracy had prevailed in its long "battle of values" with collectivism. British Prime Minister Margaret Thatcher, his staunch ally, wrote that [[Reagan]] had "achieved the most difficult of all political tasks: changing attitudes and perceptions about what is possible. From the strong fortress of his convictions, he set out to enlarge freedom the world over at a time when freedom was in retreat—and he succeeded." This is true as far as it goes—the number of [[democratic]] nations as well as the reach of free-market ideology expanded on [[Reagan]]'s watch. But, as [[Russia]]'s recent autocratic path suggests, the permanence of these advances remains in doubt.
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 Ronald Wilson [[Reagan]] was a transformational President. His leadership and the symbiotic relationship he forged with Soviet leader Mikhail Gorbachev during their four summit meetings set the stage for a peaceful resolution of [[the Cold War]]. As the [[Russia|Soviet Union]] disappeared into the mists of history, [[Reagan]]'s partisans asserted that he had "won" [[the Cold War]]. [[Reagan]] and Gorbachev more prudently declared that the entire world was a winner. [[Reagan]] had reason to believe, however, that the West had emerged victorious in the ideological struggle: as he put it, democracy had prevailed in its long "battle of values" with collectivism. British Prime Minister Margaret Thatcher, his staunch ally, wrote that [[Reagan]] had "achieved the most difficult of all political tasks: changing attitudes and perceptions about what is possible. From the strong fortress of his convictions, he set out to enlarge freedom the world over at a time when freedom was in retreat—and he succeeded." This is true as far as it goes—the number of [[democratic]] nations as well as the reach of free-market ideology expanded on [[Reagan]]'s watch. But, as [[Russia]]'s recent autocratic path suggests, the permanence of these advances remains in doubt.
 
@@ -52,7 +57,9 @@ It is an open question whether [[Reagan]]'s accomplishments occurred because of 
 
 > ## Excerpt
 > Ronald Wilson [[Reagan]] was a transformational President. His leadership and the symbiotic relationship he forged with Soviet leader Mikhail Gorbachev during their four summit meetings set the stage for a peaceful resolution of [[the Cold War]]. As the [[Russia|Soviet Union]] disappeared into the mists of history, [[Reagan]]'s partisans asserted that he had "won" [[the Cold War]]. [[Reagan]] and Gorbachev more prudently declared that the entire world was a winner. [[Reagan]] had reason to believe, however, that the West had emerged victorious in the ideological struggle: as he put it, democracy had prevailed in its long "battle of values" with collectivism. British Prime Minister Margaret Thatcher, his staunch ally, wrote that [[Reagan]] had "achieved the most difficult of all political tasks: changing attitudes and perceptions about what is possible. From the strong fortress of his convictions, he set out to enlarge freedom the world over at a time when freedom was in retreat—and he succeeded." This is true as far as it goes—the number of [[democratic]] nations as well as the reach of free-market ideology expanded on [[Reagan]]'s watch. But, as [[Russia]]'s recent autocratic path suggests, the permanence of these advances remains in doubt.
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 Ronald Wilson [[Reagan]] was a transformational President. His leadership and the symbiotic relationship he forged with Soviet leader Mikhail Gorbachev during their four summit meetings set the stage for a peaceful resolution of [[the Cold War]]. As the [[Russia|Soviet Union]] disappeared into the mists of history, [[Reagan]]'s partisans asserted that he had "won" [[the Cold War]]. [[Reagan]] and Gorbachev more prudently declared that the entire world was a winner. [[Reagan]] had reason to believe, however, that the West had emerged victorious in the ideological struggle: as he put it, democracy had prevailed in its long "battle of values" with collectivism. British Prime Minister Margaret Thatcher, his staunch ally, wrote that [[Reagan]] had "achieved the most difficult of all political tasks: changing attitudes and perceptions about what is possible. From the strong fortress of his convictions, he set out to enlarge freedom the world over at a time when freedom was in retreat—and he succeeded." This is true as far as it goes—the number of [[democratic]] nations as well as the reach of free-market ideology expanded on [[Reagan]]'s watch. But, as [[Russia]]'s recent autocratic path suggests, the permanence of these advances remains in doubt.
 

@@ -7,6 +7,9 @@ type:
   - youtube
   - video
   - interview
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 **Creator**:: [[Dr. K]]
  
@@ -35,14 +38,18 @@ type:
 - Everytime you bring your mind back from wandering its a mental pushup
     - [[ADHD]] is your mind ==wandering without any [[purpose]]== ([[ADHD is primarily an executive function disorder]])
 - [[Dr. K]] "We are going to pyschologically traumatize our kids no matter how much we [[love]] them" [YT](https://youtu.be/sXGhT4pJcj8?t=2602)
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 
 **Topics**::  [[mental health]] 
 
 **Outline**::
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 --- 
 
 

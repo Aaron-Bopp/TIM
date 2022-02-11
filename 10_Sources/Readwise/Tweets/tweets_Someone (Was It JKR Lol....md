@@ -11,6 +11,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "twitter"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Someone (Was It JKR? Lol...
 

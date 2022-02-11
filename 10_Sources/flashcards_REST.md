@@ -6,6 +6,9 @@ aliases:
 tags: created/source/2021/11/19, node/source/flashcards
 type:
   - null 
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ##### [[flashcards_REST]]

@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/02/08, node/source/video
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ##### [[video_Black Hole Mergers and Multi-Messenger Astronomy]]

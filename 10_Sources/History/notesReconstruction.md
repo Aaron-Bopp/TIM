@@ -6,6 +6,9 @@ creator: null
 type:
   - class
 source: NWMSU
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 - What was the root cause of the [[civil war]]
@@ -25,14 +28,17 @@ source: NWMSU
     - [[Congress]] passed 11 articles of impeachment but were one vote short of convicting
 - 15th ammendment gave voting rights to former slaves but not [[women]]
     - southern states started using Jim Crow laws to stop [[black people]] from voting
-
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 **Topics**:: 
 
 **Outline**::
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 --- 
 ##### MarkdownText
 

@@ -7,9 +7,9 @@ type:
   - youtube
   - video
 source: https://www.youtube.com/watch?v=jM3azhiOy5E
-sr-due: 2022-02-14
-sr-interval: 4
-sr-ease: 270
+sr-due: 2022-02-17
+sr-interval: 7
+sr-ease: 250
 ---
 
 - [[Rejection Sensitivity]] - The tendency to anixously expect, readily perceive, and intensely react to rejection 
@@ -28,15 +28,3 @@ sr-ease: 270
           - reflect and reframe
                - first thoughts aren't often correct
      - Sometimes rejection isn't rejection its just disappointment
-
-
----
-
-**Topics**::  [[ADHD]], [[gender dysphoria]], [[depression]], [[anxiety]], [[borderline personality disorder]] 
-
-**Outline**::
-
---- 
-##### MarkdownText
-
-##### PlainText

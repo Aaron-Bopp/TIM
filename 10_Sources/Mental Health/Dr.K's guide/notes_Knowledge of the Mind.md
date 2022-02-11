@@ -6,6 +6,9 @@ aliases:
 tags: node/source/notes
 type:
   - null 
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ##### [[notes_Knowledge of the Mind ]]

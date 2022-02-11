@@ -13,6 +13,9 @@ type:
 deliveredBy:
   - "readwise"
   - "api_article"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Do it or Forget it — How to Think Less and Achieve More | by Tom Klima | Oct, 2021 | Medium
 

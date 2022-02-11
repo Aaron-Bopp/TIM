@@ -6,6 +6,9 @@ creator: PBS
 type:
   - article
 source: https://www.pbs.org/edens/thailand/buddhism.htm
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[articleAn Introduction to Bhuddism]]

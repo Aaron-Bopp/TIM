@@ -12,6 +12,9 @@ type:
 deliveredBy:
   - "readwise"
   - "hypothesis"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress
 

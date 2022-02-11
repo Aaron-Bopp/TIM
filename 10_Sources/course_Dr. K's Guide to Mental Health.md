@@ -6,9 +6,9 @@ aliases:
 tags: created/source/2021/12/29, node/source/course
 type:
   - null 
-sr-due: 2022-02-13
-sr-interval: 3
-sr-ease: 223
+sr-due: 2022-02-16
+sr-interval: 6
+sr-ease: 250
 ---
 
 ##### [[course_Dr. K's Guide to Mental Health ]]

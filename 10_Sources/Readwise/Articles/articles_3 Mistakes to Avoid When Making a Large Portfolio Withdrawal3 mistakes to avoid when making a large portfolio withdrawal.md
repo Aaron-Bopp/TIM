@@ -11,6 +11,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "api_article"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # 3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal
 

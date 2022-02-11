@@ -11,6 +11,9 @@ type:
 deliveredBy:
   - "readwise"
   - "api_article"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Enneagram Type 8w9 - The Diplomat
 

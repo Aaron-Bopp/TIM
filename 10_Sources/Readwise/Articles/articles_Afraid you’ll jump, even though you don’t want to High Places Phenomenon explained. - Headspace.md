@@ -13,6 +13,9 @@ type:
 deliveredBy:
   - "readwise"
   - "api_article"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Afraid you’ll jump, even though you don’t want to? High Places Phenomenon explained. - Headspace
 

@@ -7,10 +7,9 @@ aliases:
 tags: created/source/2021/10/23, node/source/videos
 type:
 - 
-
-sr-due: 2022-02-12
+sr-due: 2022-02-10
 sr-interval: 2
-sr-ease: 239
+sr-ease: 230
 ---
 
 ##### [[videoTransComingOutStory ]]

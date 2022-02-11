@@ -6,9 +6,9 @@ aliases:
 tags: created/source/2021/12/30, node/source/notes
 type:
   - null 
-sr-due: 2022-02-12
-sr-interval: 2
-sr-ease: 234
+sr-due: 2022-02-15
+sr-interval: 5
+sr-ease: 250
 ---
 
 ##### [[notes_Metaphysics of Meditation ]]
@@ -30,7 +30,7 @@ sr-ease: 234
 	- [[Yoga|Yogic]] tradition is a scientific tradition
 - [[mantra]] oscillations in [[Brahman]] creates a particular thing
 	- this loosely relates to [[String Theory]]
-- [[Quantum Mechanics]]
+- [[quantum mechanics]]
 	- If you can describe a quality [[Brahman]] is not that, it is never a manifestation it is the potentiality 
 
 ##  **References and further reading:**  

@@ -8,9 +8,9 @@ type:
   video
   interview
 source: https://www.youtube.com/watch?v=UUC8qF5iDag
-sr-due: 2022-02-11
-sr-interval: 1
-sr-ease: 230
+sr-due: 2022-02-19
+sr-interval: 9
+sr-ease: 250
 ---
 
 **Creator**:: [[Dr. K]]
@@ -64,15 +64,4 @@ sr-ease: 230
 ##### Competence comes from empathic mirroring
 - [[confidence]] problems come from when [[parents]] can't mirror the child's emotional needs ^d7aec9
 	- [[Attachment Theory]]
-
----
-
-
-**Topics**:: 
-
-**Outline**::
-
---- 
-
-
 

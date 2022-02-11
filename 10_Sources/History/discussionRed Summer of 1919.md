@@ -5,6 +5,9 @@ tags: created/source/2021/04/30, node/source/notes
 creator: null
 type: null
 source: null
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 #TO/TEND/REFACTOR into evergreen notes
 # Discussion 3
@@ -127,7 +130,9 @@ Type: Discussion
     - "evidence of the fact...that the differences between the races temperamentally and socially are so great that they cannot be bridged."
 - Document 6 [Coroners Report]
     - White men entered a car, threatened the drivers and forced the black passengers out where they then beat them
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 ### Post
 
@@ -144,15 +149,17 @@ Type: Discussion
 - An analysis of more than 7,750 demonstrations in 2,400 locations across the country found that 93% happened with no violence, according to [[America|the US]] Crisis Monitor, a joint effort by Princeton University and the Armed Conflict Location & Event Data Project.
 
 [Comparison between Capitol siege, BLM [[protests]] is denounced](https://apnews.com/article/donald-trump-capitol-siege-race-and-ethnicity-violence-racial-[[injustice]]-afd7dc2165f355a3e6dc4e9418019eb5)
-
-
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 **Topics**:: 
 
 **Outline**::
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 --- 
 ##### MarkdownText
 

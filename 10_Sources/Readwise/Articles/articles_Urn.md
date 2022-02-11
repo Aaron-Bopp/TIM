@@ -9,6 +9,9 @@ type:
 deliveredBy:
   - "readwise"
   - "hypothesis"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Urn
 
@@ -64,7 +67,9 @@ highlight_tags:: [[color blindness]]
 What is the purpose of racial affinity groups?
 - Affinity groups provide space the is focused one affinity and not the strife between affinity groups. It also members to learn from their other members without fear of offending or exhausting disadvantaged affinity groups  
 > Racial af-finity groups have been used at NSU for several years to provide an opportunity for dominant and subordinated group members to explore issues specific to their respective identities 
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 created: 2021-11-28
 edited: 
@@ -76,6 +81,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "hypothesis"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Urn
 

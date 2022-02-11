@@ -3,9 +3,9 @@ created: 2021-05-29
 edited: 
 tags: created/source/2021/05/29, node/source/notes
 type: second brain
-sr-due: 2022-02-13
-sr-interval: 3
-sr-ease: 263
+sr-due: 2022-02-16
+sr-interval: 6
+sr-ease: 250
 ---
 
 ##### [[Andy Matuschak's Evergreen Notes]]

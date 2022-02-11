@@ -6,6 +6,9 @@ creator: Hannah Archer
 type:
   - article
 source: https://medium.com/@xsm918/comparing-reincarnation-beliefs-between-hinduism-and-buddhism-2cb498c4041a
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 

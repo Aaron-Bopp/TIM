@@ -4,6 +4,9 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ##### [[notes_Feeding the Beast ]]

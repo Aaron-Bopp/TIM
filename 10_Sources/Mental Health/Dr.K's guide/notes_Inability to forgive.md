@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
+sr-due: 2022-02-18
+sr-interval: 8
+sr-ease: 250
 ---
 
 ##### [[notes_Inability to forgive ]]

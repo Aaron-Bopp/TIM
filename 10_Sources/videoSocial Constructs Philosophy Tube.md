@@ -1,4 +1,10 @@
 ---
+sr-due: 2022-02-11
+sr-interval: 1
+sr-ease: 210
+---
+
+---
 created: 2021-10-23
 edited: 
 aliases:
@@ -8,7 +14,9 @@ aliases:
 tags: created/source/2021/10/23, node/source/videos
 type:
 - 
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ##### [[videoSocial Constructs Philosophy Tube]]

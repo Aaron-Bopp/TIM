@@ -7,6 +7,9 @@ type:
   - poltical platform
   - politics
 source: https://www.gop.com/the-2016-republican-party-platform/
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[Excerpts from the 2016 Republican Party Platform]]

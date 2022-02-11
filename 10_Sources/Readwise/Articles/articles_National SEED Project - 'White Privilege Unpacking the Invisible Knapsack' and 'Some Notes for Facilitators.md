@@ -13,6 +13,9 @@ type:
 deliveredBy:
   - "readwise"
   - "hypothesis"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators
 

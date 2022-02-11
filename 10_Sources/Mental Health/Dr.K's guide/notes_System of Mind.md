@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/31, node/source/notes
+sr-due: 2022-02-11
+sr-interval: 1
+sr-ease: 190
 ---
 
 ##### [[notes_System of Mind ]]

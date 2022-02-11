@@ -6,6 +6,9 @@ aliases:
 tags: created/source/2021/12/12, node/source/books
 type:
   null 
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ##### [[notes_The Dawn of Everything ]]

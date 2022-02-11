@@ -14,6 +14,9 @@ type:
 deliveredBy:
   - "readwise"
   - "api_article"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Taxonomy of note types | Daily working log | Backlinks can be used to implicitly define nodes in knowledge management systems
 

@@ -11,9 +11,9 @@ type:
 deliveredBy:
   - "readwise"
   - "web_clipper"
-sr-due: 2022-02-14
-sr-interval: 4
-sr-ease: 270
+sr-due: 2022-02-15
+sr-interval: 5
+sr-ease: 250
 ---
 # VSCodeVim/Vim: Vim for Visual Studio Code
 

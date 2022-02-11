@@ -4,6 +4,9 @@ edited:
 tags: created/source/2021/04/30, node/source/notes
 type:
   - class
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 **Creator**:: [[Aaron Bopp]]

@@ -7,7 +7,9 @@ aliases:
 tags: created/source/2021/10/13, node/source/notes
 type:
 - 
-
+sr-due: 2022-02-17
+sr-interval: 7
+sr-ease: 250
 ---
 
 ##### [[notes_OS_Deadlock]]

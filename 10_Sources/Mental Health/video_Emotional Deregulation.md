@@ -6,9 +6,9 @@ creator: How to ADHD
 type:
   - youtube
   - video
-sr-due: 2022-02-12
-sr-interval: 2
-sr-ease: 243
+sr-due: 2022-02-17
+sr-interval: 7
+sr-ease: 250
 ---
 
 **Creator**:: [[How to ADHD]]

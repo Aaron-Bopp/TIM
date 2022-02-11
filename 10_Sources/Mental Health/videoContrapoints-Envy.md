@@ -7,6 +7,9 @@ type:
   - video
   - video essay
 source: https://www.youtube.com/watch?v=aPhrT
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[Contrapoints-Envy]]

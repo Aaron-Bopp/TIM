@@ -7,7 +7,9 @@ aliases:
 tags: created/source/2021/10/23, node/source/videos
 type:
 - 
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ##### [[video_Is Your brain Male or Female_Films Media Group ]]

@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2021/12/30, node/source/notes
-sr-due: 2022-02-11
-sr-interval: 1
-sr-ease: 222
+sr-due: 2022-02-15
+sr-interval: 5
+sr-ease: 250
 ---
 
 ##### [[notes_Treatment Principles for Anxiety and Depression ]]

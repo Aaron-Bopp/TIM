@@ -7,6 +7,9 @@ type:
 - youtube
 - video
 - interview
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ### [How We're Shaped Mentally](https://www.youtube.com/watch?v=PDTPg_qKvn8)

@@ -4,8 +4,8 @@ edited:
 tags: created/source/2021/10/16, node/source/videos
 type:
 - 
-sr-due: 2022-02-13
-sr-interval: 3
+sr-due: 2022-02-18
+sr-interval: 8
 sr-ease: 250
 ---
 

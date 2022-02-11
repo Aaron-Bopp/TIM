@@ -13,6 +13,9 @@ type:
 deliveredBy:
   - "readwise"
   - "api_article"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # Despite what you've been told, you aren't 'left-brained' or 'right-brained' | Amy Novotney | The Guardian
 

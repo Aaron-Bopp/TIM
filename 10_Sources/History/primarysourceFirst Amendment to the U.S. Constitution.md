@@ -5,6 +5,9 @@ tags: created/source/2021/08/01, node/source/notes
 creator: null
 type:
   - null
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[First Amendment to the U.S. Constitution]]

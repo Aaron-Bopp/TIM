@@ -8,7 +8,9 @@ type:
   video
   interview
 source: https://www.youtube.com/watch?v=mIHEtK3WktE
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 **Creator**:: [[Dr. K]]
  
@@ -25,13 +27,17 @@ source: https://www.youtube.com/watch?v=mIHEtK3WktE
 - #TO/EXPLORE/RESEARCH  Evidence based alternative medicine
 - [[Dr. K]] Between your emotional and logical mind is the hum ghar or [[subconscious]] which activates to protect you from negative emotions and bullies your intellectual mind into coming up with justifications
 - #TO/EXPLORE/RESEARCH  MDMA and Pcysolibin might be a telescope to new topics
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 **Topics**:: 
 
 **Outline**::
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 --- 
 
 

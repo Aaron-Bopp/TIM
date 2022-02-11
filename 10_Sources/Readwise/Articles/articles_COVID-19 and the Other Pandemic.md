@@ -9,6 +9,9 @@ type:
 deliveredBy:
   - "readwise"
   - "hypothesis"
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 # COVID-19 and the Other Pandemic
 

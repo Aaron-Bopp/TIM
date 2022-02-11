@@ -6,6 +6,9 @@ creator: null
 type:
   - textbook
 source: null
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### [[Western Civ Textbook]]

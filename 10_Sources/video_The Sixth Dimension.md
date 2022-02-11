@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/02/10, node/source/notes
+sr-due: 2022-02-13
+sr-interval: 3
+sr-ease: 250
 ---
 
 ##### [[video_The Sixth Dimension]]

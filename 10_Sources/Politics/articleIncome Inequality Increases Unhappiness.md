@@ -6,15 +6,18 @@ creator: Fariss Samarrai
 type:
   - article
 source: https://news.virginia.edu/content/income-inequality-increases-unhappiness-study-shows
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 
 **Topics**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
-
-
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 

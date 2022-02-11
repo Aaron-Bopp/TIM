@@ -6,6 +6,9 @@ creator:
 type: 
 - video
 source: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 ###### What is Ego
@@ -53,8 +56,9 @@ source: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
 - [31:52](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=1912.902717076294)
 	- how to build [[confidence]] challenge yourself in a way no one can judge you
 	- good way is go into nature, nature can't judge you
-
-
+sr-due: 2022-02-10
+sr-interval: 2
+sr-ease: 230
 ---
 
 **Topics**:: 
