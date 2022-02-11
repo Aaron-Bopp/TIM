@@ -71,8 +71,18 @@ sr-ease: 233
 					- lazy members
 						- plug the wholes during reproductive seasons
 			- IRL strategies change
-				- Parental Behavior discussion starting 1:20
+				- tournament species vs pair-bonding species/Parental Behavior discussion starting 1:20
+					- we are somewhere in the middle
 
 [3. Behavioral Evolution II - YouTube](https://www.youtube.com/watch?v=oKNAzl-XN4I&list=PL848F2368C90DDC3D&index=3)
 - In the 70s and 80s, we started to realize we weren't the only species that killed for pleasure
-	- 
+	- Infanticide comes from [[individual selection]], specifically lower class males killing other males youngs to free up females for themselves
+		- this doesn't happen in families because of [[kin selection]]
+		- Females solve for this by going into pseudo-ovulation to trick others in 
+	- [[Robert Trivers]], sex ratio fluctuation
+	- [[Adelphic polyandry]] happens in cases where you are trying to avoid spliltting up you inheritance and thus your chance of reproductive survival
+- [[imprinted genes]] genes that work differently depending on which parent they came from, mainly comes from males and females not having the same reproductive strategy
+- [[group selection]] has snuck back into [[ethology]] in the [[founder effect]] ^igzkks
+	- this is a way to jump start cooperation in a [[population]]
+	- good explanatino at 1:00
+	- [[books_Darwin's Cathedral]] David Sloan Wilson book about calvinism
