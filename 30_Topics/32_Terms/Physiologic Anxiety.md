@@ -10,7 +10,7 @@ tags: created/topic/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Physiologic Anxiety]]</s> 
 
 [[Anxiety]] is a psychological, physiological, and behavioral state induced in animals and humans by a threat to well-being or survival, either actual or potential. It is characterized by increased arousal, expectancy, autonomic and neuroendocrine activation, and specific behavior patterns.
-^[[[notes_Physiologic Anxiety]]]
+^[[[notes_Anxiety 101]]]
 
 **See**:: [[Neuroscience]], [[Psychology]], [[Cognitive Anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

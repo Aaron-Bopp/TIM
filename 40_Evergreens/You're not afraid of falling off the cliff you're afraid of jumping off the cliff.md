@@ -18,6 +18,7 @@ sr-ease: 250
 - [[Our brains are built around survival]] or [[Our brain will do anything it can to protect itself]]
 - [[Humans are a product of evolution]]
 - #TO/PONDER/IDEA connections to [[notes_Anxiety 101]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING
@@ -27,4 +28,3 @@ sr-ease: 250
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: high places phenomenon 
-[^2]: ![[articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace#Highlights]]

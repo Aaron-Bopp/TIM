@@ -9,8 +9,6 @@ sr-ease: 214
 
 #### [[Anxiety isn't irrational it's just overcompensation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/CULTIVATE connection between this and [[course_Dr. K's Guide to Mental Health]] about [[anxiety]]
-
 %%
 #TO/TEND/MULCH 
 People who say [[anxiety]] is irrational are just unaware of their surroundings,
@@ -28,11 +26,11 @@ These anxieties swerve into overcompensation usually when it involves social sit
 or simply a warped sense of reality. 
 ^[Anxiety can be the [[manifestation]] of the [[cognitive dissonance]] that warps your [[perception]]: [[Human's will find explanations for inexplainable things]]]
 
-We can attack anxiety by gaining [[detachment]], because [[Attachment fuels anxiety]],
-- [[Anxiety should be a tool at your disposal not an impedance to your life]]
-- [[Your anxiety knows your insecurities better than you do]]
-- [[Our brains are built around survival]]
-- [[Our brain will do anything it can to protect itself]]
+We can attack anxiety by gaining [[detachment]], because [[Attachment fuels anxiety]], 
+or we can do so by gaining [[confidence]]:
+[[Confidence comes when you are more capable of handling diverse outcomes]]
+
+Either way [[Anxiety should be a tool at your disposal not an impedance to your life]]
 
 ### <hr class="footnote"/>
 

@@ -11,6 +11,8 @@ sr-ease: 130
 
 #### [[We learn by transforming information into understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYNVownzJjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+from: [[@hankgreen on Twitter|Hank Green]]
 #TO/PONDER/IDEA [[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]] 
 #TO/EXPLORE/RESEARCH [Blooms taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
 - [[We are confined to the tools of our time]]

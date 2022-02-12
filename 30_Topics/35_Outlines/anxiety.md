@@ -31,35 +31,7 @@ WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
 
-##### [[anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-
-- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
-- [[Anxiety isn't irrational it's just overcompensation]]
-	- [[Anxiety should be a tool at your disposal not an impedance to your life]]
-	- [[Your anxiety knows your insecurities better than you do]]
-- How [[anxiety]] manifests
-	- ![[social anxiety#social anxiety customJS dv_funcs topicOutlineHeader dv this]]
-        - ![[social discomfort#social discomfort customJS dv_funcs topicOutlineHeader dv this]]
-	- [[videoRejection Sensitivity|Rejection Sensitivity]]
-	- Overthinking
-	- [[Agoraphobia]]
-- Comorbid conditions
-	- [[30_Topics/31_Stubs/OCD]]
-	- [[depression]]
-	- [[ADHD]]
-- Causes
-	- [[childhood trauma]]
-		- [[We carry our childhood wounds into adulthood]]
-	- [[neurodiversity]]
-
 ### <hr class="dataviews"/>
-
-```dataview
-LIST
-FROM #node/evergreen 
-WHERE contains(topics, [[anxiety]])
-```
-
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
 	
 `$=customJS.dv_funcs.sortableColumns()`

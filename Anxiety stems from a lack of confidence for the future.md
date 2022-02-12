@@ -17,6 +17,9 @@ and why:: [[Confidence is a feedback loop]]
 
 Inversely:: [[Confidence comes when you are more capable of handling diverse outcomes]]
 
+[[Existential dread]] can be seen as a long term [[group selection]] enforced trait.
+
+
 
 ### <hr class="footnote"/>
 
