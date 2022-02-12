@@ -11,13 +11,24 @@ sr-ease: 214
 
 #TO/TEND/CULTIVATE connection between this and [[course_Dr. K's Guide to Mental Health]] about [[anxiety]]
 
+%%
+#TO/TEND/MULCH 
 People who say [[anxiety]] is irrational are just unaware of their surroundings,
 or they will answer to their fears but not understand where they come from: [[Our ego is our subconscious defense of our self]]
+%%
 
-For the most part [[anxiety]] is a completely natural and normal [[Neuroscience|neurological]] reaction, but it can extended into the realm of overcompensation by [[trauma]] (i.e. [[Rejection Sensitivity]]), [[neurodiversity]], or simply a warped sense of reality. 
+For the most part [[anxiety]] is a completely natural and normal [[Neuroscience|neurological]] reaction.
+[[Anxiety]] can either be a result of [[Our brains are built around survival]],
+which is [[Physiologic Anxiety]], 
+or it can be a result of [[Our brain will do anything it can to protect itself]],
+which is [[Cognitive Anxiety]].
+These anxieties swerve into overcompensation usually when it involves social situations, or by 
+[[trauma]] (i.e. [[Rejection Sensitivity]]), 
+[[neurodiversity]],
+or simply a warped sense of reality. 
 ^[Anxiety can be the [[manifestation]] of the [[cognitive dissonance]] that warps your [[perception]]: [[Human's will find explanations for inexplainable things]]]
 
-#TO/PONDER/IDEA of our brains believing that [[anxiety]] is real from [[notes_Anxiety 101]]
+We can attack anxiety by gaining [[detachment]], because [[Attachment fuels anxiety]],
 - [[Anxiety should be a tool at your disposal not an impedance to your life]]
 - [[Your anxiety knows your insecurities better than you do]]
 - [[Our brains are built around survival]]

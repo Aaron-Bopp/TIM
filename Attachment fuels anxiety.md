@@ -35,6 +35,7 @@ you can prevent the negative effects of
 [[Anxiety causes us to reject nuance]].
 This is why [[detachment]] is so powerful for reducing [[anxiety]],
 it allows you to gain both of these things and break off your brain's connection to it's food source.
+^[[[notes_Thought Loops]]]
 
 ### <hr class="footnote"/>
 

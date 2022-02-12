@@ -12,9 +12,19 @@ sr-ease: 170
 Being paralyzed by your [[anxiety]] is not your brain's desired outcome, [[Our brains are built around survival]] and [[Anxiety isn't irrational it's just overcompensation| our anxiety is just overcompensation]].
 This does not mean our [[anxiety]] is any less impactful in our lives, but with the proper support structure and practices like [[mindfulness]] and [[meditation]] we can limit the debilitating effects of anxiety and focus on the things our brain is trying to warn us of: [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]
 
-[[Mental health is a reaction to one's environment]] and [[We value our biggest insecurities because they protect us from the biggest threats]]. Your anxiety is telling you to be wary of something, and sometimes that threat is something that we are not [[conscious|consciously]] aware of: [[Your anxiety knows your insecurities better than you do]]
+In some ways our [[anxiety]] is already working for us, 
+if we know how to understand it.
+[[We value our biggest insecurities because they protect us from the biggest threats]],
+and if your anxiety is being consistently triggered by something that is worth looking into.
+[[Triggers are stored emotional reactions]],
+and
+[[Your anxiety knows your insecurities better than you do]].
+That [[anxiety]] might be aware of something that [[conscious]] you is not.
 
-see:: [[Neurodiverse people can use their brain to their advantage]]
+At the end of the day, the same [[feedback loop]] that fuels [[anxiety]] can be used to fuel [[confidence]]:
+[[Confidence is a feedback loop]]
+
+similarly:: [[Neurodiverse people can use their brain to their advantage]]
 
 ### <hr class="footnote"/>
 

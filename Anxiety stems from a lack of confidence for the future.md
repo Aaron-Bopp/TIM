@@ -12,6 +12,11 @@ sr-ease: 230
 #### [[Anxiety stems from a lack of confidence for the future]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
+This is how:: [[Anxiety prevents us from living in the present]]
+and why:: [[Confidence is a feedback loop]]
+
+Inversely:: [[Confidence comes when you are more capable of handling diverse outcomes]]
+
 
 ### <hr class="footnote"/>
 
