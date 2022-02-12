@@ -135,3 +135,68 @@ The man isn't refering to the boy as god, but the author does write it in such a
 
 [^283957209]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=554
 
+# New highlights added February 11, 2022 at 7:37 PM
+##### ^285352243
+
+  
+%%
+highlight_tags:: [[blue]]
+%%###### ^285352243q
+> This is my child, he said. I wash a dead man’s brains out of his hair. That is my job. 
+  [^285352243]
+
+[^285352243]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=681
+
+##### ^285352244
+
+  
+###### ^285352244q
+> The boy sat tottering. The man watched him that he not topple into the flames. He kicked holes in the sand for the boy’s hips and shoulders where he would sleep and he sat holding him while he tousled his hair before the fire to dry it. All of this like some ancient anointing. So be it. Evoke the forms. Where you’ve nothing else construct ceremonies out of the air and breathe upon them. 
+  [^285352244]
+
+[^285352244]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=683
+
+##### ^285369220
+
+  
+%%
+highlight_tags:: [[blue]]
+%%###### ^285369220q
+> What if that little boy doesnt have anybody to take care of him? he said. What if he doesnt have a papa? 
+  [^285369220]
+
+[^285369220]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=784
+
+##### ^285369221
+
+  
+%%
+highlight_tags:: [[blue]]
+%%###### ^285369221q
+> I’m afraid for that little boy. 
+  [^285369221]
+
+[^285369221]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=788
+
+##### ^285369222
+
+  
+%%
+highlight_tags:: [[blue]]
+%%###### ^285369222q
+> He was crying again. What about the little boy? he sobbed. What about the little boy? 
+  [^285369222]
+
+[^285369222]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=791
+
+##### ^285427486
+
+  
+%%
+highlight_tags:: [[blue]]
+%%###### ^285427486q
+> That is the dog he remembers. He doesnt remember any little boys. 
+  [^285427486]
+
+[^285427486]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=802
+
