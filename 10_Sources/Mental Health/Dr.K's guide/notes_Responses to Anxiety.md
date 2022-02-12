@@ -23,7 +23,7 @@ Our mind tends to deal with anxiety in four ways:
 
 1.  Distraction 
 	- allows us to temporarily avoid [[anxiety]] it temporarily reduces our [[suffering]]
-	- distraction isn't neccessarily bad, but there are more healthy ways to bring gour [[mind]] to the present
+	- distraction isn't necessarily bad, but there are more healthy ways to bring our [[mind]] to the present
 2.  Control uncertainty via avoidance
 	- we lose control of our life to [[anxiety]]
 3.  Remove uncertainty via reassurance

@@ -92,7 +92,7 @@ sr-ease: 250
 	- [[notes_What is achievement]]
 - [[Anxiety prevents us from living in the present]]
 	- [[notes_Anxiety 101]]
-	- [[notes_cognitive Anxiety]]
+		- [[Attachment fuels anxiety]]
 	- [[notes_Responses to Anxiety]]
 		- [[Confidence comes when you are more capable of handling diverse outcomes]]
 		- [[Triggers are stored emotional reactions]]

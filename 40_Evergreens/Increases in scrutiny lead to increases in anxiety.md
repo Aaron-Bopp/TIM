@@ -16,7 +16,7 @@ sr-ease: 170
 
 [[Social media]] increases our access to [[scrutiny]] and thus it Increases our [[anxiety]].
 
-- [[Social anxiety is a feedback loop]]
+- [[Confidence is a feedback loop]]
 
  Increased [[anxiety]] can lead to increased susceptibility to [[trauma]]:
  [[Triggers are stored emotional reactions]]

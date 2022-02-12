@@ -9,6 +9,8 @@ sr-ease: 136
 
 #### [[Social anxiety is a feedback loop]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+This [[feedback loop]] can either be in working for or against you. 
+##### Working against you 
 [[Your anxiety is telling you everything that could go wrong, not what will go wrong]],
 but our [[brain]] believes these thoughts as if they are reality. 
 [[Anxiety isn't irrational it's just overcompensation]], and you are frustrated that your [[anxiety]] is impeding you from something as simple as talking to people.
@@ -23,6 +25,10 @@ So you try to get past your [[social anxiety]] and this happens:
 The only way out of this is loop is [[self-actualization]], and spending too much time in this loop can lead to [[Sadness is enlightenment and happiness is delusion|The fallacy that sadness is enlightenment and happiness is delusion]] or repressing your [[identity]] even further: [[A repressed identity creates a mistrust of self-love and self-esteem]]
 
 If we fail to get out of this [[feedback loop]] it will distort our [[self-image]] which will only give our [[brain]] more insecurities to throw back at us: [[Self-hatred is born out of dissonance between self-image and self-perception]]
+
+##### Working for you
+[[Confidence comes when you are more capable of handling diverse outcomes]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 

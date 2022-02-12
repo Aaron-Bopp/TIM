@@ -13,7 +13,7 @@ sr-ease: 210
 
 - [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 - [[Anxiety isn't irrational it's just overcompensation]]
-- [[Social anxiety is a feedback loop]]
+- [[Confidence is a feedback loop]]
 - [[A secure identity is the best defense against social anxiety]]
 
 ### <hr class="footnote"/>

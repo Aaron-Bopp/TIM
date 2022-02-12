@@ -14,7 +14,7 @@
 		- [[Your anxiety knows your insecurities better than you do]]
 		- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 		- [[social anxiety]]
-			- [[Social anxiety is a feedback loop]]
+			- [[Confidence is a feedback loop]]
 			- [[A secure identity is the best defense against social anxiety]]
 	- [[trauma]]
 		- [[It's always worth it to work through trauma]]

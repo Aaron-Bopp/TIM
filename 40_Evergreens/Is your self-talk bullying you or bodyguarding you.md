@@ -21,7 +21,7 @@ For more on how your [[mind]] can lie to you:
 - [[Our ego is our subconscious defense of our self]]
 
 Negative self-talk can 
-lead to:: [[Social anxiety is a feedback loop]]
+lead to:: [[Confidence is a feedback loop]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

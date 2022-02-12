@@ -22,7 +22,7 @@ The reason you can't pinpoint your [[anxiety]] is that
 and [[Our brain actively inhibits us from processing repressed emotions]]
 
 [[A secure identity is the best defense against social anxiety]], but it can be hard to actually develop a secure [[identity]] because
-[[Social anxiety is a feedback loop]].
+[[Confidence is a feedback loop]].
 
 - [[We value our biggest insecurities because they protect us from the biggest threats]]
 - [[Presentation is the realization of our self-perception and identity is the realization of our self-image]]

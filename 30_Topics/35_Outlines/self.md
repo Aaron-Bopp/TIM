@@ -30,7 +30,7 @@ WHERE contains(topics, this.file.link)
 - There are two modes of viewing yourself, [[self-perception]] and [[self-image]]
 	- [[self-perception]]
 	- [[self-image]]
-- [[Social anxiety is a feedback loop]]
+- [[Confidence is a feedback loop]]
 - [[self-actualization]]
 - [[self-love]]
 - [[self-hate]]

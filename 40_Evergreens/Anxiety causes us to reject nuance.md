@@ -14,6 +14,12 @@ sr-ease: 190
 [[Anxiety]] creates black and white thinking do to it's [[Neuroscience|neurological]] relation to the [[fight-or-flight response]].
 ^[[[notes_Physiologic Anxiety]]]
 
+Often people will seek out reassurance when [[anxiety|anxious]], but while that reassurance is helpful in the moment it doesn't hit at the root of the [[anxiety]]. As people's [[anxiety]] continues to manifest they will seek more and more reassurance, even though they have already received that reassurance. They won't be able to see that asking repeatedly is illogical, and when they stop receiving the continued assurance they will perceive it as rejection.
+^[[[notes_Responses to Anxiety]]]
+
+[[Anxiety stems from a lack of confidence for the future]]
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
