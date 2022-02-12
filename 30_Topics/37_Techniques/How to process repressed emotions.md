@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/14, review, node/evergreen/technique,
-sr-due: 2022-02-12
-sr-interval: 26
+sr-due: 2022-04-01
+sr-interval: 48
 sr-ease: 190
 ---
 
@@ -27,7 +27,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/SEED  
 *edited `=this.file.mtime`*
 
 **Topics**::  [[emotions]], [[mental health]]

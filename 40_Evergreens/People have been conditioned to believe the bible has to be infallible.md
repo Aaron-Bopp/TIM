@@ -2,8 +2,8 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-02-11
-sr-interval: 15
+sr-due: 2022-03-06
+sr-interval: 22
 sr-ease: 130
 ---
 
@@ -25,7 +25,7 @@ This encourages [[Searching for THE answer is dangerous]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[Psychology]], [[cognitive dissonance]]

@@ -4,13 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/11, review, node/evergreen/claim
-sr-due: 2022-02-11
+sr-due: 2022-02-13
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Anxiety stems from a lack of confidence for the future]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
 
 This is how:: [[Anxiety prevents us from living in the present]]
 and why:: [[Confidence is a feedback loop]]
@@ -18,8 +17,6 @@ and why:: [[Confidence is a feedback loop]]
 Inversely:: [[Confidence comes when you are more capable of handling diverse outcomes]]
 
 [[Existential dread]] can be seen as a long term [[group selection]] enforced trait.
-
-
 
 ### <hr class="footnote"/>
 

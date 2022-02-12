@@ -4,24 +4,24 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/10, review, node/evergreen/claim
-sr-due: 2022-02-12
-sr-interval: 1
+sr-due: 2022-02-14
+sr-interval: 2
 sr-ease: 210
 ---
 
 #### [[Experts are often far too confident in the effectiveness of their theories]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Many would say that [[Evolution]] is the greatest idea ever invented,
-due to the many complex systems in has described.
+due to the many complex systems it has described.
 [[Computer Science]] has revolutionized the world in ways we are still [[understanding]], 
-and is probably to most powerful tool that has ever been created.
-^[Perhaps this false [[confidence]] is more likely to occur in really powerful tools, which would mean it 
-contrasts:: [[Better tools allow us to be less disciplined and more productive]]
-]
+and is probably the most powerful tool that has ever been created.
 So it would be easy to take your [[understanding]] of these incredibly powerful things,
 and try to use them to solve everything, as they have already solved so much.
 
 Unfortunately, this usually leads to disaster.
+^[Perhaps this false [[confidence]] is more likely to occur in really powerful tools, which would mean it 
+contrasts:: [[Better tools allow us to be less disciplined and more productive]]
+]
 
 > Just because you can understand one incredibly complex thing, does not mean that you will immediately understand some other incredibly complex thing.
 > <cite>[[video_Line Goes Up]]</cite>
@@ -30,12 +30,10 @@ Unfortunately, this usually leads to disaster.
 
 This idea is also heavily explored in [[course_Human Behavioral Biology|Human Behavioral Biology]], which is a course that explores how many of the hard sciences claim to be able to explain [[human behavior]], but constantly contradict eachother. This trait is behind things as vile as [[Lobotomy]], [[Eugenics]], and many other things that we would like to forget.
 
-
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[human nature]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

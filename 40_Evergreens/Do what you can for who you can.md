@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/03, review, node/evergreen/claim
-sr-due: 2022-02-11
-sr-interval: 5
-sr-ease: 230
+sr-due: 2022-02-15
+sr-interval: 3
+sr-ease: 210
 ---
 
 #### [[Do what you can for who you can]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

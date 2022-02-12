@@ -2,8 +2,8 @@
 created: 2021-07-21
 edited: 2022-01-23
 tags: created/topic/2021/07/21, review, node/topic/outline
-sr-due: 2022-02-21
-sr-interval: 11
+sr-due: 2022-04-23
+sr-interval: 70
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -11,6 +11,14 @@ sr-ease: 250
 #### <s class="topic-title">[[suffering]]</s> 
 
 The state of undergoing pain, distress, or hardship.
+
+> [!wikipedia:[suffering](https://en.wikipedia.org/wiki/Suffering)]
+> 
+> Suffering, or pain in a broad sense, may be an experience of unpleasantness and aversion associated with the [[perception]] of harm or threat of harm in an individual. Suffering is the basic element that makes up the negative valence of affective phenomena. The opposite of suffering is pleasure or happiness.
+> 
+> Suffering is often categorized as physical or mental. It may come in all degrees of intensity, from mild to intolerable. Factors of duration and frequency of occurrence usually compound that of intensity. Attitudes toward suffering may vary widely, in the sufferer or other people, according to how much it is regarded as avoidable or unavoidable, useful or useless, deserved or undeserved.
+> 
+> Suffering occurs in the lives of sentient beings in numerous manners, often dramatically. As a result, many fields of human activity are concerned with some aspects of suffering. These aspects may include the nature of suffering, its processes, its origin and causes, its meaning and significance, its related personal, social, and cultural behaviors, its remedies, management, and uses.
 
 **See**:: [[Buddhism]], [[Dukkha]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -24,7 +24,7 @@ sr-ease: 230
 - [[Nootropic]]
 - [[Dopamine]]
 - [[Acetycholine]]
-- [[Noradrenaline]]/[[Norepinephrine]]
+- [[noradrenaline]]/[[Norepinephrine]]
 - [[Serotonin]]
 - [[Midazolam]]
 - [[Nitrous Oxide]]

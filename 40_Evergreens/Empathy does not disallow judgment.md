@@ -2,16 +2,14 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim 
-sr-due: 2022-02-11
-sr-interval: 65
+sr-due: 2022-06-16
+sr-interval: 124
 sr-ease: 190
 ---
 
 #### [[Empathy does not disallow judgment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 We can [[sympathy|sympathize]] with why somebody did something without excusing their actions. This is an important part of [[non-punitive justice]] and why [[Prison abolition]] is possible. We cannot hope for someone if we have [[judgement|judged]] them and if we cannot hope for someone how can we [[human advancement|advance]].
-
-
 
 > I don’t hate [[TERFS]]. I think for the most part they are **lonely, scared people,** often [[trauma|traumatized]], and they are trying to alleviate their pain by lashing out at a safe target, which is something hurt people often do. But **that doesn’t mean that I accept or excuse their behavior.** 
 > ...It is possible to [[sympathy|sympathize]] and even forgive while still setting strong boundaries around them. 

@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/06, review, node/evergreen/claim
-sr-due: 2022-02-12
-sr-interval: 31
-sr-ease: 214
+sr-due: 2022-03-01
+sr-interval: 17
+sr-ease: 194
 ---
 
 #### [[Studies show early acceptance of trans children normalizes mental health outcomes with peers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,7 +19,7 @@ The authors state that their research supports the presence of three *trajectori
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[transgender]], [[community]]
