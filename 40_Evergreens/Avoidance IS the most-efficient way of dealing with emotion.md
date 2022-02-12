@@ -28,7 +28,7 @@ This can lead to a person feeling disconnected and out of control of their emoti
 
 One manifestation of this is our ego, because [[Our ego is our subconscious defense of our self]]. Another is a [[repressed]] [[identity]] which impacts your ability to understand and respond to your environment:
 ^[[[Mental health is a reaction to one's environment]]]
-[[A repressed identity creates a mistrust of self-love and self-esteem]]
+[[A repressed self creates a mistrust of self-love and self-esteem]]
 
 %%For me this was realized as being unable to understand why I was the way that I was, because my brain was repressing so many emotions and memories.%%
 

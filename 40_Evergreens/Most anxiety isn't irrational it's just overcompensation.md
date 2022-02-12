@@ -7,7 +7,7 @@ sr-interval: 65
 sr-ease: 214
 ---
 
-#### [[Anxiety isn't irrational it's just overcompensation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Most anxiety isn't irrational it's just overcompensation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 %%
 #TO/TEND/MULCH 

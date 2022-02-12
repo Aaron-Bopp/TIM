@@ -29,7 +29,7 @@ This was very confusing for me, and I developed a lot of [[anxiety]] around not 
 - [[self]] #TO/TEND/GRAFT 
     - [[Self-hatred is born out of dissonance between self-image and self-perception]]
     - [[Identity is your understanding of yourself vs your interaction with the world]]
-    - [[A repressed identity creates a mistrust of self-love and self-esteem]] #TO/TEND/DEOBFUSCATE 
+    - [[A repressed self creates a mistrust of self-love and self-esteem]] #TO/TEND/DEOBFUSCATE 
     - [[You can be taught to invalidate your own emotions]]
 - results #TO/TEND/GRAFT 
     - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]

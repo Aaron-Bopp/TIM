@@ -29,7 +29,7 @@ but
 This is made more complicated by
 [[Your anxiety knows your insecurities better than you do]]
 but
-[[Anxiety isn't irrational it's just overcompensation]],
+[[Most anxiety isn't irrational it's just overcompensation]],
 if you can gain perspective and [[objectivity]] over your anxiety, 
 you can prevent the negative effects of
 [[Anxiety causes us to reject nuance]].

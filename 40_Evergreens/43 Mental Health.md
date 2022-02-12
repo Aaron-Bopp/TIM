@@ -10,7 +10,7 @@
 		- [[You can be taught to invalidate your own emotions]]
 	- [[anxiety]]
 		- [[Anxiety should be a tool at your disposal not an impedance to your life]]
-		- [[Anxiety isn't irrational it's just overcompensation]]
+		- [[Most anxiety isn't irrational it's just overcompensation]]
 		- [[Your anxiety knows your insecurities better than you do]]
 		- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 		- [[social anxiety]]

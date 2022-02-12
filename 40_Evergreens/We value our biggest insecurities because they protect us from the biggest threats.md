@@ -14,8 +14,12 @@ sr-ease: 191
 With a small fear, we are often annoyed at it, but for a large one, while we may wish it wasn't there, we know what the lack of it will mean.
 These large insecurities developed because 
 [[Children make wide assumptions about the world]] 
-and [[Confidence is a feedback loop]].
-Over time, we start to value that protection because we have so much stored up fear for those situations. 
+and [[We carry our childhood wounds into adulthood]].
+This is why things like bullying, our parents invalidation, and especially [[childhood]] [[trauma]] are so impactful on our lives.
+
+[[Our brain will do anything it can to protect itself]],
+which includes setting up the [[ego]] as a [[defense-mechanisms|defense-mechanism]].
+Over time, we start to value that protection because we have so much stored up [[fear]] for those situations. 
 This valuing is often not [[conscious]], or the threat cannot be named easily, both because of the same process of [[rationalizations|rationalization]]:
 [[Rationalizations are defense-mechanisms against strong emotions]]
 
@@ -25,8 +29,6 @@ This valuing is often not [[conscious]], or the threat cannot be named easily, b
 [[Be the change you want to see in the world]]
 
 [^1]: [[What is the cognitive effect of living in an unjust world]]
-
-%% #TO/EXPLORE/WATCH #TO/DO/FIND  video [[Dr. K]] made on this%%
 
 ### <hr class="footnote"/>
 

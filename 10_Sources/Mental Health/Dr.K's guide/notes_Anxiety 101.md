@@ -44,7 +44,7 @@ sr-ease: 230
 	- [[Anxiety prevents us from living in the present]]
 		- Anxiety is the future focused [[mind]] - worrying about a consequences that haven't come to pass
 			- Anxiety is protective mechanism as it allows for us to make adjustments
-				- [[Anxiety isn't irrational it's just overcompensation]]
+				- [[Most anxiety isn't irrational it's just overcompensation]]
 		- Anxiety is also [[ego]]-centric, or relates to our sense of identity or insecurities that we hold
 			- if your [[mind]] you are always the one [[suffering]]
 			- [[Your anxiety knows your insecurities better than you do]]
@@ -56,7 +56,7 @@ sr-ease: 230
 			- [[The more mistakes you've fixed the more bad decisions you can afford]]
 - [[Physiologic Anxiety]]
 	- [[Physiologic Anxiety]] is a physical danger response triggered in a unneeded context
-		- [[Anxiety isn't irrational it's just overcompensation]]
+		- [[Most anxiety isn't irrational it's just overcompensation]]
 		- anxiety is a inappropriate activation of a survival trigger [[Our brains are built around survival]]
 			- tiger example
 			- [[Adrenaline]]

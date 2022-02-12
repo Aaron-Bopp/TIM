@@ -9,42 +9,25 @@ sr-ease: 130
 
 #### [[Your anxiety is telling you everything that could go wrong, not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-%%
-#TO/TEND/WEED
+[[Anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but [[Our brain will do anything it can to protect itself]]. The truth is the [[brain]] has used [[Physiologic Anxiety]] to survive for millions of years, because [[Our brains are built around survival]].
+The problem comes from [[Cognitive Anxiety]], which in lieu of real life threats, identifies everything as a life threat: 
+[[Most anxiety isn't irrational it's just overcompensation]]
 
-#TO/TEND/GRAFT this onto [[Your anxiety knows your insecurities better than you do]], [[Our brains are built around survival]]
-%%
+#TO/WRITE what is bad about this
+- [[Anxiety prevents us from living in the present]]
+- [[Anxiety causes us to reject nuance]]
 
-[[Anxiety isn't irrational it's just overcompensation]],
-if you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with the thing or not. 
+If you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with the thing or not. 
+[[Attachment fuels anxiety]] 
+and [[Anxiety stems from a lack of confidence for the future]]
+so if we giving into our anxiety means latching onto *every possible thing that could go wrong.*
 
 Being able to do this requires a very healthy amount of [[mindfulness]], and a large amount of [[self-awareness]]. Once you've achieved these things your [[anxiety]] can start to be an aspect of your [[mindfulness]] rather than an inhibitor:
 [[Anxiety should be a tool at your disposal not an impedance to your life]]
 
 [[Meditation]] can help to do this: [[Meditation helps us regulate our nervous system]]
 
-[[Anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but our [[subconscious]] does not know that. In turn, [[We value our biggest insecurities because they protect us from the biggest threats]]
-
-The reason this happens is rooted in [[Neuroscience]]. 
-[[Anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]].
-^[[[Humans are a product of evolution]]]  
-%% 
-#TO/TEND/MULCH As we satisfy more and more of the [[Hierarchy of needs]] our need for such an advanced warning system grows less and less.
-^[[[Your anxiety knows your insecurities better than you do#Cause material insecurity]]]
-%% 
-In modern society, our [[anxiety]] can seem like a irrational response, but it is just our brain doing what is has evolved to do. 
-%%
-#TO/EXPLORE/RESEARCH Is modern over compensation or just the next natural step in human [[Evolution]].
-
-#TO/EXPLORE/RESEARCH is there a threshold where so many of you [[Hierarchy of needs]] are met that you have no choice but to fall into [[existential dread]]
-
-#TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[OCD]]?
-%%
-
-#TO/TEND/GRAFT 
-- [[Your anxiety knows your insecurities better than you do]].
-- [[Anxiety prevents us from living in the present]]
-- [[Anxiety causes us to reject nuance]]
+This is made worse when the sources of your anxiety aren't obvisou: [[Your anxiety knows your insecurities better than you do]].
 
 ### <hr class="footnote"/>
 

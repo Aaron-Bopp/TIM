@@ -4,7 +4,7 @@
 		- [[Sometimes we can't grow until we change our environment]]
 		- [[Presentation is the realization of our self-perception and identity is the realization of our self-image]]
 		- [[self-love]]
-			- [[A repressed identity creates a mistrust of self-love and self-esteem]]
+			- [[A repressed self creates a mistrust of self-love and self-esteem]]
 			- [[When should you forgive people who don't deserve it]]
 			- [[How to pursue the positive things in life]]
 		- [[self-hate]]

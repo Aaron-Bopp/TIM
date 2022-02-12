@@ -17,7 +17,7 @@ sr-ease: 190
 These systems impact the entire [[mind-body complex]] which can get you out of your [[fight-or-flight response]], and many other things: [[Meditation improves mental, physical, and emotional health]]
 
 - [[Our brains are built around survival]] 
-	- [[Anxiety isn't irrational it's just overcompensation]]
+	- [[Most anxiety isn't irrational it's just overcompensation]]
 		- You shouldn't be having to deal with [[Cortisol]] and [[Adrenaline]] just going to school and talking to people
 
 ### <hr class="footnote"/>

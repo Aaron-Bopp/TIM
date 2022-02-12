@@ -9,7 +9,7 @@ sr-ease: 170
 
 #### [[Anxiety should be a tool at your disposal not an impedance to your life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Being paralyzed by your [[anxiety]] is not your brain's desired outcome, [[Our brains are built around survival]] and [[Anxiety isn't irrational it's just overcompensation| our anxiety is just overcompensation]].
+Being paralyzed by your [[anxiety]] is not your brain's desired outcome, [[Our brains are built around survival]] and [[Most anxiety isn't irrational it's just overcompensation| our anxiety is just overcompensation]].
 This does not mean our [[anxiety]] is any less impactful in our lives, but with the proper support structure and practices like [[mindfulness]] and [[meditation]] we can limit the debilitating effects of anxiety and focus on the things our brain is trying to warn us of: [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]
 
 In some ways our [[anxiety]] is already working for us, 

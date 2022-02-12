@@ -12,7 +12,7 @@ sr-ease: 210
 #### [[Social anxiety is a fear of social consequence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
-- [[Anxiety isn't irrational it's just overcompensation]]
+- [[Most anxiety isn't irrational it's just overcompensation]]
 - [[Confidence is a feedback loop]]
 - [[A secure identity is the best defense against social anxiety]]
 

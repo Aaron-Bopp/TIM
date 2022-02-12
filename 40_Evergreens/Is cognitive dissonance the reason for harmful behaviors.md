@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/24, review, node/evergreen/question, 
-sr-due: 2022-02-11
-sr-interval: 12
+sr-due: 2022-02-28
+sr-interval: 16
 sr-ease: 130
 ---
 
@@ -22,7 +22,7 @@ It is probably more likely that there are many different sources for harmful beh
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[cognitive dissonance]]
