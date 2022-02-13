@@ -46,7 +46,7 @@ WHERE contains(topics, this.file.link)
 		- [[Curate source notes and definitions in your second brain to avoid junk text]]
 	- Don't overburden yourself
 		- [[Only organize as much as your data requires]]
-		- [[Prioritize organization over categorization to avoid cognitive bias]]
+		- [[Prioritize organization over categorization]]
 		- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 	- Augment your brain power
 		- [[spaced repetition]]

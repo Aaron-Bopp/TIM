@@ -28,7 +28,7 @@ There is simply no reason to limit yourself to one organization system if you ca
 %%In my vault I make use of the [[Johnny Decimal System]], [[MOC]]s, outlines, tags, indexes and folders. I have folder that are made up by the type of note, this structure is mirrored in tags, but there are some small differences (my personal notes are in a different folder from my evergreen notes, but they still have the evergreen tag) that make having both valuable. I can use either tags or file paths to do queries. I follow the Johnny decimal system of divide into ten things to create outlines, but I have all the files flat in the folder. This means I get the benefits of having a flat folder structure and I get to organize things into categories%%
 
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]] #TO/TEND/GRAFT 
-- [[Prioritize organization over categorization to avoid cognitive bias]]
+- [[Prioritize organization over categorization]]
 - [[Use Obsidian tags as temporal classifiers]]
 - [[Evergreen notes should be constantly integrating new knowledge]]
 - [[Densely linked webs of thought provide intuitive access to knowledge]]

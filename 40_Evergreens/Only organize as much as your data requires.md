@@ -13,7 +13,7 @@ sr-ease: 161
 
 [[Organization systems are not mutually exclusive]], do not confine yourself to one [[systems for thought]]. When you start to feel [[friction]], trust that feeling: [[Friction is a hindrance to learning]]
 
-Over-organization will just lead to incorrect categorization: [[Prioritize organization over categorization to avoid cognitive bias]]
+Over-organization will just lead to incorrect categorization: [[Prioritize organization over categorization]]
 
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]]
 

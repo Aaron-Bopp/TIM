@@ -10,7 +10,7 @@ sr-ease: 224
 #### [[Use Obsidian tags as temporal classifiers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 In [[Obsidian (software)|Obsidian]] tags are a piece of metadata that you can add to a note, [^1] and when clicked open a search box with the appropriate search query. You cannot add any markdown or metadata to them, which makes them much less powerful than notes, but they can still be very valuable in your [[knowledge management|knowledge management system]]. You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category.
-^[[[Prioritize organization over categorization to avoid cognitive bias]]]
+^[[[Prioritize organization over categorization]]]
 
 [^1]: [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
@@ -37,7 +37,7 @@ I can use the sublevels of this tag to classify how a note is useful to me, and 
 If tags can be classifiers of types of notes, why can't they be classifiers of the ideas of notes? Information can certainly be classified, and because multiple tags can be added, if an idea spans multiple content areas you can just add more tags. There's excellent discussion of this here: [A Guide On Links vs. Tabs In Obsidian - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/a-guide-on-links-vs-tabs-in-obsidian/28231)
 
 While I think there is benefit to organization, I think that notes accomplish this better than tags in [[Obsidian (software)|Obsidian]]:
-- [[Prioritize organization over categorization to avoid cognitive bias]]
+- [[Prioritize organization over categorization]]
 - [[Stub notes are data structures for implicit knowledge gathering]]
 - [[Organization systems are not mutually exclusive]]
 - [[Only organize as much as your data requires]]

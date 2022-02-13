@@ -20,7 +20,7 @@ A system that gives too much freedom, or too many options, may only reduce your 
 
 Learning systems can help create thought, but it does so by [[influence|influencing]] thought. This means that if a system is pointing you in the wrong direction it will negatively impact your ability to create and learn. 
 ^[[[The way systems work can create cognitive bias]]]
-This is why you should [[Prioritize organization over categorization to avoid cognitive bias]]. 
+This is why you should [[Prioritize organization over categorization]]. 
 
 Here are some thoughts that may guide how you decide on and create your system with creating hard rules: 
 - [[Write your notes with a system not within a system]]
