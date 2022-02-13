@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/07, review, node/evergreen/claim
-sr-due: 2022-02-13
-sr-interval: 29
+sr-due: 2022-04-10
+sr-interval: 56
 sr-ease: 190
 ---
 
@@ -16,9 +16,9 @@ All thoughts are made up of the electrons connecting neurons. The path's between
 The purpose of our [[second brain]] is to compliment and augment this process:
 [[Densely linked webs of thought provide intuitive access to knowledge]]
 
-##### Nodes in the second brain are more fragile than thoughts in the first brain
+##### Nodes in the [[second brain]] are more fragile than thoughts in the first brain
 
-In our first brain there is no such thing as "fragility" there is only learning and forgetting, but in the second brain learning doesn't happen on it's own and forgetting is impossible:
+In our first brain there is no such thing as "fragility" there is only [[learning]] and forgetting, but in the second brain learning doesn't happen on it's own and forgetting is impossible:
 ^[ #TO/PONDER/IDEA what is the impact of the second brain not being able to forget?]
 [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
