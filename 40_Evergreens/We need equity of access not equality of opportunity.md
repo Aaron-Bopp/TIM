@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/claim
-sr-due: 2022-02-13
-sr-interval: 1
+sr-due: 2022-02-15
+sr-interval: 2
 sr-ease: 190
 ---
 
@@ -21,6 +21,8 @@ Simply providing the same opportunities is not enough,
 we must organize society such that people have the same access to the opportunities as well.
 
 There is also a [[neurodiversity]] angle to this #TO/PONDER/IDEA 
+
+- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 
 ### <hr class="footnote"/>
 

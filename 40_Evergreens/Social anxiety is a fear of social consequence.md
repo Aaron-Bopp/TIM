@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/28, review, node/evergreen/claim
-sr-due: 2022-02-13
-sr-interval: 8
-sr-ease: 210
+sr-due: 2022-02-17
+sr-interval: 4
+sr-ease: 190
 ---
 
 #### [[Social anxiety is a fear of social consequence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

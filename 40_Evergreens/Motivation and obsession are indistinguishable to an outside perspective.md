@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/20, review, node/evergreen/claim
-sr-due: 2022-02-13
-sr-interval: 7
-sr-ease: 170
+sr-due: 2022-02-17
+sr-interval: 4
+sr-ease: 150
 ---
 
 #### [[Motivation and obsession are indistinguishable to an outside perspective]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
