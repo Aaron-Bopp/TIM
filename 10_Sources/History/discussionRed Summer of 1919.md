@@ -2,12 +2,6 @@
 created: 2021-04-30
 edited: 
 tags: created/source/2021/04/30, node/source/notes
-creator: null
-type: null
-source: null
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
 ---
 #TO/TEND/REFACTOR into evergreen notes
 # Discussion 3
@@ -157,9 +151,9 @@ sr-ease: 230
 **Related**:: 
 
 **Outline**::
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: Invalid date
+sr-interval: NaN
+sr-ease: NaN
 --- 
 ##### MarkdownText
 

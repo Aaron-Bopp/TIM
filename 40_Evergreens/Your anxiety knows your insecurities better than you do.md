@@ -75,7 +75,7 @@ An interesting example of this is people who are extremely mentally handicapped 
 #TO/EXPLORE/RESEARCH Mental handicaps affect on [[anxiety]]. 
 - [[Mental health is a reaction to one's environment]]
 
-#### What comes from this trait?
+##### What comes from this trait?
 - [[We value our biggest insecurities because they protect us from the biggest threats]]
 - [[A repressed self creates a mistrust of self-love and self-esteem]]
 - [[A secure identity is the best defense against social anxiety]]

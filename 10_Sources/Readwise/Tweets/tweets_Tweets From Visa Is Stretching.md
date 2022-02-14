@@ -11,9 +11,9 @@ type:
 deliveredBy: 
   - "readwise"
   - "twitter"
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-03-03
+sr-interval: 18
+sr-ease: 250
 ---
 # Tweets From Visa Is Stretching
 

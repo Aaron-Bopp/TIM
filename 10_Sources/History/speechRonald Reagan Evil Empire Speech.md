@@ -6,9 +6,9 @@ creator: [ [ Reagan ] ]
 type:
   - speech
 source: https://voicesofdemocracy.umd.edu/reagan-evil-empire-speech-text/
-sr-due: 2022-02-10
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-03-02
+sr-interval: 17
+sr-ease: 250
 ---
 
 ###### [[Ronald Reagan Evil Empire Speech]]
