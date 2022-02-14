@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/07/02, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-14
-sr-interval: 45
+sr-due: 2022-05-20
+sr-interval: 95
 sr-ease: 215
 ---
 
@@ -15,8 +15,8 @@ If you only search for **THE** answer to your question
 (the one that will mean you don't have to keep thinking about it),
 ^[This is a natural response because [[Knowledge of the world is painful]], but [[Realism must acknowledge optimism's existence and effectiveness]]]
 you wall yourself off to better [[understanding]] 
-and you lose sight of the actual point of [[education]]:
-[[Be the change you want to see in the world]]
+and you lose sight of the actual point of [[education]].
+#TO/PONDER/IDEA  what is the the point of education? [[We learn by transforming information into understanding]]? breaking us out of presuppositions? answering our inherent wonder? [[Humans transfer their wonder into creativity]]?
 
 The additional questions, or the lack of answers that stem from the question you're asking are important!
 You are trying to look for better [[understanding]],

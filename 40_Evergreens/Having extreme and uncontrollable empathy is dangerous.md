@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/21, review, node/evergreen/claim
-sr-due: 2022-02-14
-sr-interval: 17
+sr-due: 2022-03-10
+sr-interval: 24
 sr-ease: 144
 ---
 
@@ -13,7 +13,7 @@ sr-ease: 144
 
 %% #TO/DO/FIND empath trend [[Tiktok]]%%
 
-Many people who consider themselves 'empaths' really just cannot control when they feel [[sympathy]] for someone else. If you cannot control whether you will take on the emotions of somebody else or not, or if you take on the emotions of somebody even if you disagree with the reason they are feeling them, that is dangerous. 
+Many people who consider themselves 'empaths' really just cannot control when they feel [[sympathy]] for someone else. If you cannot control whether you will take on the [[emotions]] of somebody else or not, or if you take on the emotions of somebody even if you disagree with the reason they are feeling them, that is dangerous. 
 If the [[emotions]] you are mirroring are at odds with your [[morality]] then you are going to feel strong [[cognitive dissonance]], and
 you will start to make [[rationalizations]] that do not reflect your ideals:
 [[Rationalizations are defense-mechanisms against strong emotions]]

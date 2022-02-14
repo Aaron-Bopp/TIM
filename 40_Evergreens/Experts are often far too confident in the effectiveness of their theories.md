@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/10, review, node/evergreen/claim
-sr-due: 2022-02-14
-sr-interval: 2
+sr-due: 2022-02-18
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -28,7 +28,7 @@ contrasts:: [[Better tools allow us to be less disciplined and more productive]]
 
 [[Crypto currency]] is an excellent example of this. While understanding the [[Blockchain]] and being able to create a [[Crypto currency]] involves quite a bit of [[knowledge]], none of that knowledge is a solid [[understanding]] of [[economy|Economics]], [[climate change]], or just human nature. The quote above is referring to the unfortunately common trait of computer scientists to assume that they can solve any problem with code.
 
-This idea is also heavily explored in [[course_Human Behavioral Biology|Human Behavioral Biology]], which is a course that explores how many of the hard sciences claim to be able to explain [[human behavior]], but constantly contradict eachother. This trait is behind things as vile as [[Lobotomy]], [[Eugenics]], and many other things that we would like to forget.
+This idea is also heavily explored in [[course_Human Behavioral Biology|Human Behavioral Biology]], which is a course that explores how many of the hard sciences claim to be able to explain [[human behavior]], but constantly contradict eachother. This trait is behind the creation of [[Lobotomy]], [[Eugenics]], and many other things that we would like to forget.
 
 ### <hr class="footnote"/>
 

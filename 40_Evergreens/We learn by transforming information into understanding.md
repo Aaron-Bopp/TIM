@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-02-14
-sr-interval: 8
+sr-due: 2022-02-25
+sr-interval: 11
 sr-ease: 130
 ---
 
@@ -27,7 +27,7 @@ from: [[@hankgreen on Twitter|Hank Green]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT  
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge]], [[information]], [[knowledge work]], [[learning]]

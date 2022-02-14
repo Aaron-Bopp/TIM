@@ -18,7 +18,7 @@ While the nesting of tags can help to provide structure to what notes are, I don
 ^[[[Webs of thought provide heterarchical structure]]]
 This is why I use tags as **temporal classifiers,** meaning that they apply a temporary classification to a note. This is the idea behind my [[my TO(DO) and EVER(GREEN) structure]].
 
-##### Temporary metadata is an entry point to your second brain
+##### Temporary metadata is an entry point to your [[second brain]]
 
 Temporal just means that when I create tags, I do so knowing that I will eventually change or remove them. This means that they describe some current aspect of the note, that may change over time, and I can use the tag to group notes that have that aspect.
 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/12, review, node/evergreen/claim
-sr-due: 2022-02-14
-sr-interval: 30
+sr-due: 2022-04-12
+sr-interval: 57
 sr-ease: 190
 ---
 
@@ -18,7 +18,7 @@ Schooling and work systems are designed for [[neurotypical]] people, but as neur
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[neurodiversity]], [[social justice]], [[social construct]], [[education]]
