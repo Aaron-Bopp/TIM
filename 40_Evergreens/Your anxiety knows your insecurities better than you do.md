@@ -9,13 +9,19 @@ sr-ease: 142
 
 #### [[Your anxiety knows your insecurities better than you do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-When you are feeling [[anxiety]] it can often be very difficult to understand where the [[anxiety]] is coming from. In some situations it can be obvious (skydiving, flying, having a child, buying a house) while at other times it may seem obvious but be very nuanced, and at others it can be almost impossible to discover the source of the [[anxiety]].
+When you are feeling [[anxiety]] it can often be very difficult to understand where the [[anxiety]] is coming from. In some situations it can be obvious (skydiving, flying, having a child, buying a house) while at other times it may seem obvious but be very nuanced, and it may feel impossible to discover the source of the [[anxiety]].
 
-As you are trying to deal with your [[anxiety]] you may start removing many perceived sources of [[anxiety]] to no [[success]]. This is because the perceived causes of the anxiety are actually just manifestations of a deeper insecurity. 
+To deal with your [[anxiety]] you will start removing many perceived sources of [[anxiety]] to no [[success]]. This is because the perceived causes of the anxiety are actually just manifestations of a deeper insecurity. Removing them does not attack the true source of the [[anxiety]].
 
-This is by design because your mind is [[Human's will find explanations for inexplainable things|finding explanations for an inexplainable thing]], and your anxiety is just a [[Rationalizations are defense-mechanisms against strong emotions| rationalization]] of these [[Complex emotions are intellectual understandings of primal urges|deeper emotions]]: [[Humans are primarily irrational, illogical, emotional beings]] 
+The reason behind this are complex, but we know that [[Anxiety is a defense-mechanism of the brain]], so there must be some reason that our brain is hiding these sources of anxiety from us.
 
-Discovering what deeper mechanism is behind your anxiety can be difficult task, for many it takes years of [[self-actualization|introspection]]. 
+The answer lies in
+[[Rationalizations are defense-mechanisms against strong emotions]], and
+[[Our ego is our subconscious defense of our self]].
+These are both powerful ways that the [[mind]] can create a barrier of [[rationalizations|rationalization]] and [[emotions]] to prevent us from looking at things objectively, 
+including the reasons for these emotions.
+The actual sources of these [[defense-mechanisms]] are usually the hardest to discover
+and for many it takes years of [[self-actualization|introspection]], [[therapy]], and sometimes a moment of realization.
  
  ##### Cause:: [[repressed]] identity
  
@@ -26,10 +32,21 @@ Discovering what deeper mechanism is behind your anxiety can be difficult task, 
  
  #TO/TEND/CONNECT [[A secure identity is the best defense against social anxiety]]
 %%
- 
-If your [[identity]] is severely repressed, you will interacting with the world with a massive blind spot because you will be feeling things without understanding them: [[Identity is your understanding of yourself vs your interaction with the world]]. This generates [[anxiety]] because you do not understand the sources of the feelings well enough to predict when and understand why they happen. [[Most anxiety isn't irrational it's just overcompensation]], and in this case your anxiety will push you to go over every possibility, because your brain doesn't know which things to prioritize because the [[ego]] is blocking those things off: [[Our ego is our subconscious defense of our self]]
 
-This naturally leads to an [[identity]] can lead to a variety of problems,
+ [[Identity is your understanding of yourself vs your interaction with the world]], and so it is something that is very malleable during your formative years. 
+ Additionally, [[Children make wide assumptions about the world]],
+ so any rebuff of a forming identity can cause massive damage.
+This means that our early [[childhood]] is the perfect storm for a core part of your [[identity]] like your sexuality or [[gender]] to become completely repressed.
+
+If your [[identity]] is severely repressed, you will be interacting with the world with a massive blind spot 
+%% #TO/TEND/PRUNE %% as you will be feeling things without understanding the source of them.
+This can be a massive source of [[anxiety]] because you do not understand the sources of the feelings well enough to predict when and understand why they come up.
+[[Your anxiety is telling you everything that could go wrong, not what will go wrong]],
+and in this case your anxiety will push you to go over every possibility, 
+because your [[conscious]] [[mind]] doesn't know which things to prioritize.
+
+%% #TO/TEND/MULCH 
+This naturally leads to a variety of problems,
 including struggling to understand where your [[emotions]] are coming from and why.
 ^[[[Overly interrogative parents can lead to alexithymic children]]]
 If you don't understand who you are, you will struggle to understand why certain things make you feel good and certain things make you feel bad.
@@ -38,25 +55,30 @@ This leads to [[social anxiety]] as you will be spending so much time trying to 
 The reason you can't pinpoint your [[anxiety]] is that
 [[Your anxiety knows your insecurities better than you do]]
 and [[Our brain actively inhibits us from processing repressed emotions]]
+%%
 
-For example, because [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] [[transgender|trans]] children will often have lots of untraceable anxiety. This could also be related to people who are mentally handicapped often having very deep [[anxiety]] because they do not have the ability to understand situations and thus aren't able to find the source of the situation and [[anxiety]]. 
+For example, because [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] [[transgender|trans]] children will often have lots of untraceable anxiety. 
+
+##### Cause:: false view of reality
+#TO/PONDER/IDEA below
+This is similar to a repressed [[identity]], but plays less with a misunderstanding of [[self-image]] and more with a misunderstanding of [[self-perception]].
+This can be seen with young women who have been told that have to look a certain way or act a certain way.
+Much of [[trauma]] comes form this kind of gaslighting in [[childhood]]
 
 ##### Cause:: material insecurity
 
 Material insecurity can create this sensation: [[Insecure material conditions increase cognitive load and reduce outcomes]]. In recent years this has taken the form of [[existential dread]] as [[climate change]] looms and billionaires grow ever richer, people fathom the peril we are in. This leads to increasing levels of [[anxiety]] and [[depression]] as people try to grapple with this uncurbable anxiety: [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
 
 %%
-#TO/EXPLORE/RESEARCH Is modern over compensation or just the next natural step in human [[Evolution]].
-
 #TO/EXPLORE/RESEARCH is there a threshold where so many of you [[Hierarchy of needs]] are met that you have no choice but to fall into [[existential dread]]
-
-#TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[OCD]]?
+- 
 %%
-##### Cause:: mental illness
+##### Cause:: [[mental illness]]
 
+An interesting example of this is people who are extremely mentally handicapped or mentally impaired. As they can  feel all of this at once.
+#TO/EXPLORE/RESEARCH Mental handicaps affect on [[anxiety]]. 
 - [[Mental health is a reaction to one's environment]]
 
-#TO/EXPLORE/RESEARCH Mental handicaps affect on [[anxiety]]. 
 
 ### <hr class="footnote"/>
 
