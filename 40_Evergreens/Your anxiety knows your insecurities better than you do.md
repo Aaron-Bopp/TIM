@@ -25,13 +25,7 @@ and for many it takes years of [[self-actualization|introspection]], [[therapy]]
  
  ##### Cause:: [[repressed]] identity
  
-%%
-#TO/TEND/REFACTOR these notes [[Your anxiety knows your insecurities better than you do#Cause repressed identity]], [[We value our biggest insecurities because they protect us from the biggest threats]]
 
- #TO/TEND/DEOBFUSCATE [[A repressed self creates a mistrust of self-love and self-esteem]] and this section
- 
- #TO/TEND/CONNECT [[A secure identity is the best defense against social anxiety]]
-%%
 
  [[Identity is your understanding of yourself vs your interaction with the world]], and so it is something that is very malleable during your formative years. 
  Additionally, [[Children make wide assumptions about the world]],
@@ -60,6 +54,7 @@ and [[Our brain actively inhibits us from processing repressed emotions]]
 For example, because [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] [[transgender|trans]] children will often have lots of untraceable anxiety. 
 
 ##### Cause:: false view of reality
+
 #TO/PONDER/IDEA below
 This is similar to a repressed [[identity]], but plays less with a misunderstanding of [[self-image]] and more with a misunderstanding of [[self-perception]].
 This can be seen with young women who have been told that have to look a certain way or act a certain way.
@@ -71,15 +66,19 @@ Material insecurity can create this sensation: [[Insecure material conditions in
 
 %%
 #TO/EXPLORE/RESEARCH is there a threshold where so many of you [[Hierarchy of needs]] are met that you have no choice but to fall into [[existential dread]]
-- 
+- [[video_Existential Dread]]
 %%
+
 ##### Cause:: [[mental illness]]
 
-An interesting example of this is people who are extremely mentally handicapped or mentally impaired. As they can  feel all of this at once.
+An interesting example of this is people who are extremely mentally handicapped or mentally impaired. As they can feel all of this at once.
 #TO/EXPLORE/RESEARCH Mental handicaps affect on [[anxiety]]. 
 - [[Mental health is a reaction to one's environment]]
 
-
+#### What comes from this trait?
+- [[We value our biggest insecurities because they protect us from the biggest threats]]
+- [[A repressed self creates a mistrust of self-love and self-esteem]]
+- [[A secure identity is the best defense against social anxiety]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN
