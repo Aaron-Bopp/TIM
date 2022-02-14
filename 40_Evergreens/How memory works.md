@@ -25,7 +25,7 @@ Terms:: [[Forgetting Curve]], [[Active Recall]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[memory]], [[learning]], [[knowledge]]

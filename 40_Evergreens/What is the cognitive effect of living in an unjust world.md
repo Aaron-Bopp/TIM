@@ -19,7 +19,7 @@ sr-ease: 197
 %%What is the conclusion%%
 
 Possible Answers: 
--  [can answer:: [[Humans have decided to reject an unjust world]]]
+- [can answer:: [[Humans have decided to reject an unjust world]]]
 - [answer:: [[Faith is an abstraction of cognitive dissonance]]]
 - [answer:: [[Our brain will do anything it can to protect itself]]]
 - [answer:: [[Humans have decided to take advantage of an unjust world]]]
@@ -52,7 +52,7 @@ We know that [[Humans are primarily irrational, illogical, emotional beings]] an
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT  
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[realism]], [[injustice]], [[anger]], [[social justice]]
