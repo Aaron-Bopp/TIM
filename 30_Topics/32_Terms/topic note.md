@@ -5,9 +5,9 @@ tags: created/topic/2021/05/23, node/topic/term
 aliases:
   - topics
   - topic notes
-sr-due: 2022-02-12
-sr-interval: 2
-sr-ease: 239
+sr-due: 2022-02-27
+sr-interval: 13
+sr-ease: 259
 ---
 
 #### <s class="topic-title">[[topic note]]</s> 

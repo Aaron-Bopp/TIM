@@ -1,15 +1,14 @@
 ---
 created: 2021-9-13
 tags: node/topic/tool
-sr-due: 2022-02-10
-sr-interval: 2
+sr-due: 2022-02-24
+sr-interval: 10
 sr-ease: 230
 ---
 
 # C
 
 Docs:: [Reference - C++ Reference](http://cplusplus.com/reference/) (Stick to the c library part)
-
 
 ## Tools
 
@@ -50,7 +49,7 @@ free(NULL); //is always good
 
 ## Make file
 
-- `$<` gives the first item of the  requirement list
+- `$<` gives the first item of the requirement list
 - `$@` gives the target name for flags
 	- `targetname.c -flag $@`
 
