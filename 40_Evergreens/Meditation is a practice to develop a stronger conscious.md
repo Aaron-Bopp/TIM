@@ -4,8 +4,8 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-02-15
-sr-interval: 23
+sr-due: 2022-04-06
+sr-interval: 50
 sr-ease: 210
 ---
 
@@ -18,6 +18,7 @@ Different styles of [[meditation]] will help us find the best way for our [[cons
  ![[Pasted image 20211229235616.png]]
 ^[[[notes_Different Meditative Styles]]]
 
+#TO/TEND/PRUNE
 [[Zen]] helps you develop [[conscious|consciousness]] by making you aware of the input from your [[Indriya]], but [[Trataka]] helps you strengthen your ability to focus on one thing and allow your [[subconscious]] to be closer to the world:
 [[Meditation is a practice to gain control over your thoughts]]
 

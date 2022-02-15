@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/14, review, node/evergreen/claim
-sr-due: 2022-02-14
-sr-interval: 1
+sr-due: 2022-02-18
+sr-interval: 3
 sr-ease: 230
 ---
 
@@ -20,5 +20,5 @@ belonging to a thing by its very nature; "form was treated as something intrinsi
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[philosophy]], [[morality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

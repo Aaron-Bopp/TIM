@@ -4,19 +4,19 @@ edited:
 tags: created/evergreen/2021/07/04, review, node/evergreen/claim 
 aliases:
   - null
-sr-due: 2022-02-15
-sr-interval: 41
+sr-due: 2022-05-02
+sr-interval: 76
 sr-ease: 194
 ---
 
 #### [[You can't blame people for failing to rise above their circumstances]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Most humans will not rise above their situation.
-^[In fact, it could be said that no person does depending on your belief in [[free-will]]. 
+^[In fact, it could be said that no person does depending on your belief in [[free-will]]: 
 [[Do we have free will]]]
-Modern [[America|american]] [[culture]] often blames people for not "pulling themselves up by their bootstraps." 
+Modern [[America|American]] [[culture]] often blames people for not "pulling themselves up by their bootstraps." 
 This widespread belief is mainly due to [[propaganda]] that is spread about [[America]]'s superiority,
-^[and thus is largely rooted in [[white supremacy]]
+^[and thus is largely rooted in [[white supremacy]]:
 [[Whiteness was created to marginalize people of color]]]
 but can be seen around the world.
 People lack the [[empathy]] to understand why other people would make decisions differently than they would, but [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]].

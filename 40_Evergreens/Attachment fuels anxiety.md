@@ -4,15 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/11, review, node/evergreen/claim
-sr-due: 2022-02-15
-sr-interval: 3
-sr-ease: 230
+sr-due: 2022-02-17
+sr-interval: 2
+sr-ease: 210
 ---
 
 #### [[Attachment fuels anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[The ultimate goal of the mind is to keep thinking]],
-and attachment is major driver of [[attention]].
+and attachment is a major driver for [[attention]] and thus [[energy]].
 If you are attached to some event in the future, 
 it is your [[brain]]'s prerogative to keep thinking about that thing.
 ^[[[notes_Thought Loops]]]

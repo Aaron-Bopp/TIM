@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/09, review, node/evergreen/claim
-sr-due: 2022-02-15
-sr-interval: 3
-sr-ease: 210
+sr-due: 2022-02-17
+sr-interval: 2
+sr-ease: 190
 ---
 
 #### [[Classifying something will almost never add value to it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,10 +15,12 @@ The very rare case that it does is when classifying something increases yours' a
 
 This is something I've run up to time and time again in [[note writing]], as you often feel this impulse to classify something, because you think once you figure out the primary nature of that thing, it will suddenly become more useful. This is hardly ever the case, but we do sometimes confuse [[Learning how systems work can be a gateway to creating thought]] for this, and other times, trying to classifying something will lead us to doing a lot work. In the end the value come from the work we put in not from the classification itself. Perhaps this is best represented by my repeated changing of the names of my tags. I do think [[Names matter because they effect people's perception and understanding]], but they don't matter THAT much.
 
+- [[We suck at naming things]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[organization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

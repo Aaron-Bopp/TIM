@@ -4,9 +4,9 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/24, review, node/evergreen/claim
-sr-due: 2022-02-15
-sr-interval: 9
-sr-ease: 170
+sr-due: 2022-02-20
+sr-interval: 5
+sr-ease: 150
 ---
 
 #### [[Meditation helps us gain awareness through detachment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

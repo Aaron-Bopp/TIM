@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/03, review, node/evergreen/claim
-sr-due: 2022-02-15
-sr-interval: 3
+sr-due: 2022-02-21
+sr-interval: 6
 sr-ease: 210
 ---
 
@@ -14,6 +14,7 @@ sr-ease: 210
 ...and sometimes that just means doin everything you can for yourself.
 - contrasts:: [[Be the change you want to see in the world]]
 - follows up:: [[Humans have decided to reject an unjust world]]
+- [[Ashram]] #TO/TEND/GRAFT 
 
 ### <hr class="footnote"/>
 

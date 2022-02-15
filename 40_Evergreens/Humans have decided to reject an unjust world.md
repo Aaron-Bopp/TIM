@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/25, review, node/evergreen/claim
-sr-due: 2022-02-15
-sr-interval: 9
-sr-ease: 143
+sr-due: 2022-02-21
+sr-interval: 6
+sr-ease: 130
 ---
 
 #### [[Humans have decided to reject an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-We have decided to flatly refuse to believe that there is no purpose to life, no justice in death, and no hope for the future. Whether these beliefs are true or not does not matter, because in the grand scheme of things it is only our resolve to push forward action by action that matters. 
+We have decided to flatly refuse to believe that there is no purpose to life, no justice in death, and no hope for the future. Whether these [[belief]]s are true or not does not matter, because in the grand scheme of things it is only our resolve to push forward action by action that matters. 
 
 That said, flat rejection leads to dismissiveness of the [[struggle]] that is required to persist in this world. To promote a better world you must also have [[empathy]] for people who are simply unable to reject the [[injustice]] they see all around them. 
 
@@ -45,7 +45,7 @@ That said, flat rejection leads to dismissiveness of the [[struggle]] that is re
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT  
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[Behavioral Psychology]], [[human advancement]]
