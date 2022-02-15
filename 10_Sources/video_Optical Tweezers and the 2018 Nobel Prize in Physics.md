@@ -7,7 +7,7 @@ tags: created/source/2022/02/11, node/source/notes
 ---
 
 ##### [[video_Optical Tweezers and the 2018 Nobel Prize in Physics]]
-**Creator**:: 
+**Creator**:: [[Sixty Symbols]]
  
 **Source**:: [Optical Tweezers and the 2018 Nobel Prize in Physics - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=XjXLJMUrNBo)
 

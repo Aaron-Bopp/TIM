@@ -29,7 +29,7 @@ sr-ease: 270
 - Audrey Lord wrote a book called Zami: and new speeling of my name
 	- Biomythography - a blend of facts, history and philosophy 
 	- black woman, Lesbian, fat, communist in times when those were far less accepted.
-- DesCartes questioned everything until he realized he could not doubt that he was thinking
+- DesCartes questioned everything until he realized he could not [[doubt]] that he was thinking
 	- I think therefore I am - DesCartes 
 	- thought is the only thing that we can gurantee exists
 - Zombie problem - can you be real without thoughts 

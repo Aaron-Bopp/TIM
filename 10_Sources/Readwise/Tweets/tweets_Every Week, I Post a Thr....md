@@ -113,7 +113,7 @@ sr-ease: 230
 ##### ^247733312
   
 > We often face 'hostile' environments where we have to persuade or convince others who are on the defensive.
-> This is a thread about presenting and teaching in an environment where those you are trying to reach may doubt you: https://t.co/EU4B6JpjeD 
+> This is a thread about presenting and teaching in an environment where those you are trying to reach may [[doubt]] you: https://t.co/EU4B6JpjeD 
   [^247733312]
 
 [^247733312]: https://twitter.com/stevemagness/status/1371847918030893065
