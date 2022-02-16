@@ -3,7 +3,7 @@ created: 2022-02-14T20:06:33
 edited: 
 aliases:
   - null
-tags: created/source/2022/02/14, node/source/video
+tags: created/source/2022/02/14, node/source/videos
 ---
 
 ##### [[video_The Zipf Mystery]]

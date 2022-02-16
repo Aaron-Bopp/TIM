@@ -3,7 +3,7 @@ created: 2022-02-15T17:22:29
 edited: 
 aliases:
   - null
-tags: created/source/2022/02/15, node/source/video
+tags: created/source/2022/02/15, node/source/videos
 ---
 
 ##### [[video_From MIT to Specola Vaticana Guy Consolmagno at TEDxViadellaConciliazione]]

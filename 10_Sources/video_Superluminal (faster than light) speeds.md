@@ -3,7 +3,7 @@ created: 2022-02-14T19:34:09
 edited: 
 aliases:
   - null
-tags: created/source/2022/02/14, node/source/video
+tags: created/source/2022/02/14, node/source/videos
 ---
 
 ##### [[video_Superluminal (faster than light) speeds]]
