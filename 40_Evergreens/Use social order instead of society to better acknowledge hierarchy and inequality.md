@@ -12,11 +12,13 @@ sr-ease: 230
 #### [[Use social order instead of society to better acknowledge hierarchy and inequality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [My Most Valuable Books - YouTube](https://www.youtube.com/watch?v=UY9ACqF_RXU)
+- [[Names matter because they effect people's perception and understanding]]
+-
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[social order]], [[society]], [[hierarchy]], [[inequality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

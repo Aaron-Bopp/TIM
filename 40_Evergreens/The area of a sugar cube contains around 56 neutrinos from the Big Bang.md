@@ -11,7 +11,7 @@ sr-ease: 230
 
 #### [[The area of a sugar cube contains around 56 neutrinos from the Big Bang]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Of course there are billions of neutrinos flowing through us at any moment, but just like the [[cosmic microwave background radiation]], there are neutrinos around us from the very beginning of [[the Big Bang]]. The [[cosmic microwave background radiation]] was [[photons]] that were then cooled to about 3 Kelvin as they spread out and were absorbed, but [[neutrinos]] didn't interact with hardly anything, and were cooled to about 2 Kelvin.
+Of course there are billions of neutrinos flowing through us at any moment, but just like the [[cosmic microwave background radiation]], there are [[neutrinos]] around us from the very beginning of [[the Big Bang]]. The [[cosmic microwave background radiation]] was [[photons]] that were then cooled to about 3 Kelvin as they spread out and were absorbed, but [[neutrinos]] didn't interact with hardly anything, and were cooled to about 2 Kelvin.
 
 **Source**:: [Neutrinos - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=md1CKUQp04Q)
 
@@ -20,5 +20,5 @@ Of course there are billions of neutrinos flowing through us at any moment, but 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[physics]]
+**Topics**:: [[physics]], [[the Big Bang]], [[neutrinos]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
