@@ -9,6 +9,7 @@ aliases:
 
 ##### <s class="topic-title">[[community]]</s>
 
+![[books_The Anthropocene Reviewed#287775023q]]
 
 **See**:: [[human interaction]], [[inter-personal communication]], [[Sangha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

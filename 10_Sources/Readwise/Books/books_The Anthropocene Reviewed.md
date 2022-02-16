@@ -127,3 +127,28 @@ highlight_tags:: [[pink]]
 
 [^287404951]: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=1344
 
+# New highlights added February 16, 2022 at 4:34 PM
+##### ^287775023
+
+  
+
+
+###### ^287775023q
+
+> As with all the best [[sci-fi]] writers, [[Kurt Vonnegut]] was really good at seeing into the future. Way back in 1974, he wrote, “What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable [[community|communities]] in which the terrible disease of loneliness can be cured.” 
+  [^287775023]
+
+[^287775023]: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=2140
+
+##### ^287775024
+
+  
+
+
+###### ^287775024q
+
+> When we tell those stories to people in [[chronic pain]], or those living with incurable [[illness]], we often end up minimizing their experience. We end up expressing our doubt in the face of their certainty, which only compounds the extent to which pain separates the person experiencing it from the wider [[social order]]. The challenge and responsibility of [[personhood]], it seems to me, is to recognize personhood in others—to listen to others’ pain and take it seriously, even when you yourself cannot feel it. That capacity for listening, I think, really does separate human life from the quasi-life of an enterovirus. 
+  [^287775024]
+
+[^287775024]: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=2620
+

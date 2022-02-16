@@ -11,7 +11,7 @@ sr-ease: 190
 
 #### [[Religious concepts are often too powerful for a child's mind]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Fear of hell is baked into Christianity for vulnerable believers]], if it is instilled from a young age that your eternal fate is at stake.
+[[Fear of hell is baked into Christianity for vulnerable believers]], if it is instilled from a young age that your eternal fate is at stake. %% #TO/TEND/WEED %%
 ^[[[Children will not question what is modeled for them unless they are taught to]]]
 [[Christianity]] teaches that the feelings of an omnipotent god are more important than yours,
 and you must submit yourself to this god in order to avoid hell.

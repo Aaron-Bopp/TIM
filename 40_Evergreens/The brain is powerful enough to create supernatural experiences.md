@@ -2,9 +2,9 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-02-16
-sr-interval: 35
-sr-ease: 210
+sr-due: 2022-03-29
+sr-interval: 41
+sr-ease: 190
 ---
 
 #### [[The brain is powerful enough to create supernatural experiences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -24,6 +24,10 @@ What does this mean for the bible? Moses could have seen a burning bush. Why not
 [[People have been conditioned to believe the bible has to be infallible]]. 
 This moral reaction has been used to take advantage of [[Christianity|Christian's]] [[empathy]]:
 [[Evangelicalism has commodified faith for profit]]
+
+##### Cause:: [[Humans transfer their wonder into creativity]]
+#TO/WRITE 
+tied into:: [[Humans have decided to reject an unjust world]]
 
 ### <hr class="footnote"/>
 

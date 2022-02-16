@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/15, review, node/evergreen/nugget
-sr-due: 2022-02-15
-sr-interval: 1
+sr-due: 2022-02-19
+sr-interval: 3
 sr-ease: 230
 ---
 
@@ -17,9 +17,6 @@ Different cave
 ![[books_The Anthropocene Reviewed#287295946q]]
 
 ### <hr class="footnote"/>
-
-**Status**:: #EVER/SPROUT
-*edited `=this.file.mtime`*
 
 **Topics**:: [[Cave Art]], [[pre-history]], [[art]], [[history]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -4,16 +4,18 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/15, review, node/evergreen/claim
-sr-due: 2022-02-15
-sr-interval: 1
+sr-due: 2022-02-19
+sr-interval: 3
 sr-ease: 230
 ---
 
 #### [[Use social order instead of society to better acknowledge hierarchy and inequality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [My Most Valuable Books - YouTube](https://www.youtube.com/watch?v=UY9ACqF_RXU)
+
+![[books_The Anthropocene Reviewed#287775024q]]
 - [[Names matter because they effect people's perception and understanding]]
--
+
 
 ### <hr class="footnote"/>
 

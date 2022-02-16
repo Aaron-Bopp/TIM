@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/15, review, node/evergreen/nugget
-sr-due: 2022-02-15
-sr-interval: 1
+sr-due: 2022-02-19
+sr-interval: 3
 sr-ease: 230
 ---
 
@@ -16,8 +16,5 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
-*edited `=this.file.mtime`*
-
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[space]], [[comets]], [[Halley's comet]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
