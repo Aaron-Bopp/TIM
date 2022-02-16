@@ -3,7 +3,7 @@ created: 2021-11-24
 edited: 
 aliases:
   - null
-tags: created/evergreen/2021/11/24, review, node/evergreen/technique 
+tags: created/evergreen/2021/11/24, review, node/evergreen/principle 
 sr-due: 2022-03-18
 sr-interval: 39
 sr-ease: 150
