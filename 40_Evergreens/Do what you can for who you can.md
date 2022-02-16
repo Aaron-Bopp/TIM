@@ -11,15 +11,20 @@ sr-ease: 210
 
 #### [[Do what you can for who you can]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-...and sometimes that just means doin everything you can for yourself.
+…and sometimes that just means doing everything you can for yourself.
+
+This idea is reflected in [[eastern philosophy]] through [[Ashram]].
+[[Ashram]] describes fours stage of life, 
+and in only one of those, [[Vanaprastha Ashram]],  do you actually focus on helping other people. 
+This matches a [[Do what you can for who you can]] especially when you contrasted with [[Western philosophy]]'s focus on individual sacrifice. 
+
 - contrasts:: [[Be the change you want to see in the world]]
 - follows up:: [[Humans have decided to reject an unjust world]]
-- [[Ashram]] #TO/TEND/GRAFT 
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Life principles]], [[progress]]
+**Topics**:: [[Life principles]], [[progress]], [[self-improvement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
