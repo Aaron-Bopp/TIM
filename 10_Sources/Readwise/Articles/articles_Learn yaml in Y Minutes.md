@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Learn yaml in Y Minutes
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Learn yaml in Y Minutes](https://learnxinyminutes.com/docs/yaml/)

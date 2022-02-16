@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # It’s Funny How Sometimes...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [It’s Funny How Sometimes...](https://twitter.com/visakanv/status/1458234981554081792)

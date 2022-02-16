@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Thinking About the Fact...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Thinking About the Fact...](https://twitter.com/roryreckons/status/1458326125717774339)

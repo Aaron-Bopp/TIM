@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Decontextualizer - Paul Bricman
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Decontextualizer - Paul Bricman](https://paulbricman.com/thoughtware/decontextualizer)

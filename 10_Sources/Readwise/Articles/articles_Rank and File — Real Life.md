@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Rank and File — Real Life
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Rank and File — Real Life](https://reallifemag.com/rank-and-file)

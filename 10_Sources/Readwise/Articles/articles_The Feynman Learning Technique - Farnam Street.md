@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # The Feynman Learning Technique - Farnam Street
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [The Feynman Learning Technique - Farnam Street](https://fs.blog/feynman-learning-technique)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Mia Moore 🏳️‍🌈
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Mia Moore 🏳️‍🌈](https://twitter.com/StopTweetingMia)

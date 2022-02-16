@@ -16,7 +16,7 @@ sr-ease: 230
 ---
 # The Road
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

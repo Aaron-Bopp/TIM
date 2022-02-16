@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Misidentifying 4 and 5 — The Enneagram Institute
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Misidentifying 4 and 5 — The Enneagram Institute](https://www.enneagraminstitute.com/misidentifying-4-and-5)

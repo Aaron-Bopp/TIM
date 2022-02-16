@@ -14,7 +14,7 @@ sr-ease: 230
 
 ###### [[Excerpts from the 2016 Republican Party Platform]]
 
-**Related**::  [[Politics]]
+**Covers**::  [[Politics]]
 
 **Last Edited**:: *`=this.file.mtime`*
 

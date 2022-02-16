@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # You Can Learn Some Key M...
 
-**Related**:: [[css]], [[programming]], 
+**Covers**:: [[css]], [[programming]], 
 *`=this.highlight_tags`*
 
 **Source**:: [You Can Learn Some Key M...](https://twitter.com/Prathkum/status/1462076199409123333)

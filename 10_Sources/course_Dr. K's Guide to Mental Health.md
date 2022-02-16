@@ -16,7 +16,7 @@ sr-ease: 250
  
 **Source**:: https://coaching.healthygamer.gg/
 
-**Related**:: 
+**Covers**:: 
 #### Meditation techniques
 - [[Japa Meditation]]
 - [[Activating Ajna Chakra]]

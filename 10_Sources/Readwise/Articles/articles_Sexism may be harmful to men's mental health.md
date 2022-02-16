@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Sexism may be harmful to men's mental health
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Sexism may be harmful to men's mental health](https://apa.org/news/press/releases/2016/11/sexism-harmful)

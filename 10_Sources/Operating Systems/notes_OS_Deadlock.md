@@ -18,7 +18,7 @@ sr-ease: 250
 
 **Source**:: [[05_deadlock.pdf]]
 
-**Related**:: 
+**Covers**:: 
 
 Q: What are the four requirements for deadlock
 

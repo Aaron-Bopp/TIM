@@ -16,7 +16,7 @@ sr-ease: 230
  
 **Source**::
 
-**Related**:: 
+**Covers**:: 
 ### [Destiny Interviews Dr. K](https://www.youtube.com/watch?v=mIHEtK3WktE)
 
 - Dr.K's understanding of [[karma]] is that every effect has a cause going back to the beginning of the universe.
@@ -32,7 +32,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-**Related**:: 
+**Covers**:: 
 
 **Outline**::
 sr-due: 2022-02-10

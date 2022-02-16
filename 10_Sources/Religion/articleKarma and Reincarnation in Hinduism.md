@@ -14,7 +14,7 @@ sr-ease: 250
 
 ###### [[Karma and Reincarnation in Hinduism]]
 
-**Related**::  [[Buddhism]], [[eastern philosophy]]
+**Covers**::  [[Buddhism]], [[eastern philosophy]]
 
 **Last Edited**:: *`=this.file.mtime`*
 

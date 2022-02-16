@@ -13,4 +13,4 @@ tags: created/source/2022/02/14, node/source/video
 
 **Summary**:: This video details the massive [[media]] campaign behind gas stoves, why [[natural gas]] no longer has benefits over electricity, and the political barriers that lobbyist's have put in the way of getting rid of natural gas. 
 
-**Related**:: [[lobbying]], [[climate change]]
+**Covers**:: [[lobbying]], [[climate change]]

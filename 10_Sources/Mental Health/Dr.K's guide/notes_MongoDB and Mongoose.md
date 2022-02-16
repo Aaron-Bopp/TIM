@@ -17,7 +17,7 @@ sr-ease: 250
 
 **Source**::
 
-**Related**:: [[Computer Science]], [[Software Development]]
+**Covers**:: [[Computer Science]], [[Software Development]]
 
 Q:: What is Atlas?  
 A::

@@ -16,7 +16,7 @@ sr-ease: 230
 ---
 # Undiscovered Species - How Many Left to Find - Current Results
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Undiscovered Species - How Many Left to Find - Current Results](https://currentresults.com/Environment-Facts/Plants-Animals/number-of-undiscovered-species-living-on-earth.php)

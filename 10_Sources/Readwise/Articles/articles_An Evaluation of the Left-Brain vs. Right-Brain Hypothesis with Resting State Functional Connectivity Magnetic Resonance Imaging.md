@@ -22,7 +22,7 @@ sr-ease: 230
 ---
 # An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275)

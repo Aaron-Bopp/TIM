@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Someone (Was It JKR? Lol...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Someone (Was It JKR? Lol...](https://twitter.com/visakanv/status/1452562147825762304)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # People Often Ask Me How...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [People Often Ask Me How...](https://twitter.com/roryreckons/status/1460361080266379264)

@@ -14,7 +14,7 @@ sr-ease: 250
 
 **Source**:: [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) ^d0ee6a
 
-**Related**:: [[second brain]], [[knowledge management]]
+**Covers**:: [[second brain]], [[knowledge management]]
 
 #### Links
 [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC) ^8d0b78

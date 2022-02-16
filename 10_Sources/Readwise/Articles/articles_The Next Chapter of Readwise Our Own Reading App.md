@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # The Next Chapter of Readwise: Our Own Reading App
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [The Next Chapter of Readwise: Our Own Reading App](https://blog.readwise.io/readwise-reading-app)

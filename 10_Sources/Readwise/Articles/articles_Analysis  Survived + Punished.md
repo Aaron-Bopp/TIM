@@ -16,7 +16,7 @@ sr-ease: 230
 ---
 # Analysis | Survived + Punished
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Analysis | Survived + Punished](https://survivedandpunished.org/analysis)

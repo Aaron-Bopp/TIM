@@ -13,7 +13,7 @@ sr-ease: 230
 
 ###### [[Ronald Reagans Inaugural Address 1981]]
 
-**Related**:: 
+**Covers**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

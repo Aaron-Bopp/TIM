@@ -15,7 +15,7 @@ sr-ease: 230
 ---
 # Urn
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

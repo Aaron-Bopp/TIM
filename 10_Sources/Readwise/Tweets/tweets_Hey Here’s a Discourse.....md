@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Hey Here’s a Discourse....
 
-**Related**:: [[autism]], [[guilt]], [[motivation]], [[shame]], 
+**Covers**:: [[autism]], [[guilt]], [[motivation]], [[shame]], 
 *`=this.highlight_tags`*
 
 **Source**:: [Hey Here’s a Discourse....](https://twitter.com/mykola/status/1468343734530154499)

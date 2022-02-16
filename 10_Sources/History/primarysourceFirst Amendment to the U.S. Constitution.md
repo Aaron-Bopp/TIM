@@ -12,7 +12,7 @@ sr-ease: 230
 
 ###### [[First Amendment to the U.S. Constitution]]
 
-**Related**:: 
+**Covers**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

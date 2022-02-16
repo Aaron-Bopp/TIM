@@ -15,7 +15,7 @@ sr-ease: 250
 
 **Source**:: [[00_intro_to_os 1.pdf]]
 
-**Related**:: [[Computer Science]]
+**Covers**:: [[Computer Science]]
 
 # [[notes_OS_Operating Systems]] 
 

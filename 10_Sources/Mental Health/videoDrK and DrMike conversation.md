@@ -50,7 +50,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-**Related**::  [[eastern philosophy]], [[meditation]], [[mental health]] 
+**Covers**::  [[eastern philosophy]], [[meditation]], [[mental health]] 
 
 **Outline**::
 sr-due: 2022-02-10

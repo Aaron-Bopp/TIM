@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Me: *Peers Nervously At...
 
-**Related**:: [[transgender]], 
+**Covers**:: [[transgender]], 
 *`=this.highlight_tags`*
 
 **Source**:: [Me: *Peers Nervously At...](https://twitter.com/CharlotteEowyn/status/1456599726875348994)

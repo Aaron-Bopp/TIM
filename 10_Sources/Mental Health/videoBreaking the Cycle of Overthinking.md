@@ -15,7 +15,7 @@ sr-ease: 230
  
 **Source**:: [Breaking the Cycle of Overthinking - YouTube](https://www.youtube.com/watch?v=lUxU6KnjNNs)
 
-**Related**:: 
+**Covers**:: 
 
 ### [Breaking the Cycle of Overthinking](https://www.youtube.com/watch?v=lUxU6KnjNNs)
 
@@ -36,7 +36,7 @@ sr-ease: 230
 
 
 
-**Related**::  [[mental health]], 
+**Covers**::  [[mental health]], 
 sr-due: 2022-02-10
 sr-interval: 2
 sr-ease: 230

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Autistic Callum
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Autistic Callum](https://twitter.com/AutisticCallum_)

@@ -18,7 +18,7 @@ sr-ease: 230
 
 # My moral code - Inverted Passion
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [My moral code - Inverted Passion](https://invertedpassion.com/my-moral-code)

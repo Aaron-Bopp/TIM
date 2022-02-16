@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Visa Is Stretching
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Visa Is Stretching](https://twitter.com/visakanv)

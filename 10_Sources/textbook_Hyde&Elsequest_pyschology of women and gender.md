@@ -14,7 +14,7 @@ sr-ease: 250
 ---
 
 ###### [[textbook_Hyde&Elsequest_pyschology of women and gender]]
-**Related-Topics**:: 
+**Covers-Topics**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

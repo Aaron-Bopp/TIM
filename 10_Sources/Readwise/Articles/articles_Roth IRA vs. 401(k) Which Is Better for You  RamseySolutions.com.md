@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Roth IRA vs. 401(k): Which Is Better for You? | RamseySolutions.com
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Roth IRA vs. 401(k): Which Is Better for You? | RamseySolutions.com](https://ramseysolutions.com/retirement/401k-vs-roth-ira)

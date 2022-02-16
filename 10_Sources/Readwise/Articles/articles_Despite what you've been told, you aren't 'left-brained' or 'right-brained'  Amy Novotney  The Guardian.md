@@ -19,7 +19,7 @@ sr-ease: 230
 ---
 # Despite what you've been told, you aren't 'left-brained' or 'right-brained' | Amy Novotney | The Guardian
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Despite what you've been told, you aren't 'left-brained' or 'right-brained' | Amy Novotney | The Guardian](https://theguardian.com/commentisfree/2013/nov/16/left-right-brain-distinction-myth)

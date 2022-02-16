@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # So I’ve Been Reading Up...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [So I’ve Been Reading Up...](https://twitter.com/AdultingADHD/status/1471234693710467075)

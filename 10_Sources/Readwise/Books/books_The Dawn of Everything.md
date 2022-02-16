@@ -17,7 +17,7 @@ sr-ease: 250
 ---
 # The Dawn of Everything
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

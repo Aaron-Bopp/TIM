@@ -19,7 +19,7 @@ sr-ease: 230
 ---
 # Frequently Asked Questions about Transgender People | National Center for Transgender Equality
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Frequently Asked Questions about Transgender People | National Center for Transgender Equality](https://transequality.org/issues/resources/frequently-asked-questions-about-transgender-people)

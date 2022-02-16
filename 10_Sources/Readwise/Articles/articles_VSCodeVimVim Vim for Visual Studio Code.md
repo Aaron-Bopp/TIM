@@ -17,7 +17,7 @@ sr-ease: 250
 ---
 # VSCodeVim/Vim: Vim for Visual Studio Code
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [VSCodeVim/Vim: Vim for Visual Studio Code](https://github.com/VSCodeVim/Vim#input-method)

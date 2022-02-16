@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Highlights From pages.cs.wisc.edu
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Highlights From pages.cs.wisc.edu](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)

@@ -17,7 +17,7 @@ sr-ease: 250
  
 **Source**::
 
-**Related**:: 
+**Covers**:: 
 ### [Existential Dread](https://www.youtube.com/watch?v=UUC8qF5iDag)
 - [[Neuroscience]]
 

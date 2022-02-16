@@ -15,7 +15,7 @@ sr-ease: 230
 ---
 # Black Identity Development
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

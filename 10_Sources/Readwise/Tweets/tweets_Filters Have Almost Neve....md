@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Filters Have Almost Neve...
 
-**Related**:: [[creativity]], 
+**Covers**:: [[creativity]], 
 *`=this.highlight_tags`*
 
 **Source**:: [Filters Have Almost Neve...](https://twitter.com/visakanv/status/1355017568138919936)

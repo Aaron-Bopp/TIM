@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # A Lot of Paradoxes Might...
 
-**Related**:: [[philosophy]], 
+**Covers**:: [[philosophy]], 
 *`=this.highlight_tags`*
 
 **Source**:: [A Lot of Paradoxes Might...](https://twitter.com/visakanv/status/1443194580002762752)

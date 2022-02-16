@@ -17,7 +17,7 @@ sr-ease: 230
  
 **Source**::
 
-**Related**:: 
+**Covers**:: 
 - [[Dr. K]] said "It's okay" and Zorian teared up
     - Similar to when a tiktoker accepted me and I bawled [[Journal#May 10-20th 2021]]
 - "I'm not allowed to make a mistake because a mistake means lost time and time is precious because I've already lost so much. The remainder of time is more valuable from this perspective"

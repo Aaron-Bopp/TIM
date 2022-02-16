@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Lilah Sturges
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Lilah Sturges](https://twitter.com/LilahSturges)

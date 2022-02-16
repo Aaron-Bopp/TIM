@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Unusual Governments to Take Inspiration From - SFWA
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Unusual Governments to Take Inspiration From - SFWA](https://sfwa.org/2021/08/10/unusual-governments-to-take-inspiration-from)

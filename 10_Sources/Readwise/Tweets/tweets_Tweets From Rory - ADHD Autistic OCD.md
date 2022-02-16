@@ -18,7 +18,7 @@ sr-ease: 250
 
 # Tweets From Rory - ADHD Autistic OCD
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Rory - ADHD Autistic OCD](https://twitter.com/roryreckons)

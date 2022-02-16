@@ -16,7 +16,7 @@ sr-ease: 230
 ---
 # Conceptarium - Paul Bricman
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Conceptarium - Paul Bricman](https://paulbricman.com/thoughtware/conceptarium)

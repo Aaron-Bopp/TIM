@@ -20,7 +20,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-**Related**::  [[eastern philosophy]] 
+**Covers**::  [[eastern philosophy]] 
 **Outline**::
 sr-due: 2022-02-10
 sr-interval: 2

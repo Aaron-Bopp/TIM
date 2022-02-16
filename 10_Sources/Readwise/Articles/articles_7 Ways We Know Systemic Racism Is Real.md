@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # 7 Ways We Know Systemic Racism Is Real
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [7 Ways We Know Systemic Racism Is Real](https://www.benjerry.com/whats-new/2016/systemic-racism-is-real)

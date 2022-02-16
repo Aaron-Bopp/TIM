@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Autism Adhd Field Report...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Autism Adhd Field Report...](https://twitter.com/davidfactorial/status/1455346226233237509)

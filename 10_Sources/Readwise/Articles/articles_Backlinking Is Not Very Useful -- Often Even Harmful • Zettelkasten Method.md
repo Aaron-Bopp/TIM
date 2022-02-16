@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Backlinking Is Not Very Useful -- Often Even Harmful • Zettelkasten Method
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Backlinking Is Not Very Useful -- Often Even Harmful • Zettelkasten Method](https://zettelkasten.de/posts/backlinks-are-bad-links)

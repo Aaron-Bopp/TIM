@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Type Five — The Enneagram Institute
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Type Five — The Enneagram Institute](https://enneagraminstitute.com/type-5)

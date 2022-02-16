@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Understanding human collective behaviour | Autistic Collaboration
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Understanding human collective behaviour | Autistic Collaboration](https://autcollab.org/2021/11/28/understanding-human-collective-behaviour)

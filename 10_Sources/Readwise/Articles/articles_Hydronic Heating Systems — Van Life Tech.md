@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Hydronic Heating Systems — Van Life Tech
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Hydronic Heating Systems — Van Life Tech](https://vanlifetech.com/hydronic-heating-systems)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Inspired by @Commaficion...
 
-**Related**:: [[autism]], 
+**Covers**:: [[autism]], 
 *`=this.highlight_tags`*
 
 **Source**:: [Inspired by @Commaficion...](https://twitter.com/hassaan97/status/1463926047313997832)

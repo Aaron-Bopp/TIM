@@ -16,7 +16,7 @@ sr-ease: 230
  
 **Source**:: [[books_The Dawn of Everything]]
 
-**Related**:: 
+**Covers**:: 
 
 This is a working outline, so I am not going to try and preserve my current understanding as I ingest future chapters. The idea is that these concepts will be present across the book, and can later be abstracted into full fledged [[evergreen notes]]
 # Concept Outline

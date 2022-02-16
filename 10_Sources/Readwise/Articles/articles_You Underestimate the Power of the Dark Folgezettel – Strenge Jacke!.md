@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # You Underestimate the Power of the Dark Folgezettel – Strenge Jacke!
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [You Underestimate the Power of the Dark Folgezettel – Strenge Jacke!](https://strengejacke.wordpress.com/2015/11/01/you-underestimate-the-power-of-the-dark-folgezettel)

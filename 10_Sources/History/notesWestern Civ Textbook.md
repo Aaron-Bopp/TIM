@@ -13,7 +13,7 @@ sr-ease: 230
 
 ###### [[Western Civ Textbook]]
 
-**Related**:: 
+**Covers**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # No, Luhmann was not about Folgezettel • Zettelkasten Method
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [No, Luhmann was not about Folgezettel • Zettelkasten Method](https://zettelkasten.de/posts/luhmann-folgezettel-truth)

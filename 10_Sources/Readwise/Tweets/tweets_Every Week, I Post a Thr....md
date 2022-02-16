@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Every Week, I Post a Thr...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Every Week, I Post a Thr...](https://twitter.com/stevemagness/status/1371847907259916298)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Research Recitation - GitHub Docs
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Research Recitation - GitHub Docs](https://docs.github.com/en/github/copilot/research-recitation)

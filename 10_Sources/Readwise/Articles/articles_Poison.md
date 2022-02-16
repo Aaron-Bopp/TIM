@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Poison
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Poison](https://newsletter.eleanorkonik.com/poison)

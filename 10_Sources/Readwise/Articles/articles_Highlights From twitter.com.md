@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Highlights From twitter.com
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Highlights From twitter.com](https://twitter.com/fluffy_folio/status/1442843735008624654)

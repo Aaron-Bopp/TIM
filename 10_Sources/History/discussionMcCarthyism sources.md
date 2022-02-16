@@ -13,7 +13,7 @@ sr-ease: 230
 
 ###### [[McCarthyism sources]]
 
-**Related**:: 
+**Covers**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # It’s Startling Sometimes...
 
-**Related**:: [[trauma]], 
+**Covers**:: [[trauma]], 
 *`=this.highlight_tags`*
 
 **Source**:: [It’s Startling Sometimes...](https://twitter.com/visakanv/status/1475424587366092804)

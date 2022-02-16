@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # That Is Not How Your Brain Works - Issue 111: Spotlight - Nautilus
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [That Is Not How Your Brain Works - Issue 111: Spotlight - Nautilus](https://nautil.us/issue/111/spotlight/that-is-not-how-your-brain-works)

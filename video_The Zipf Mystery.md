@@ -14,4 +14,4 @@ tags: created/source/2022/02/14, node/source/video
 
 **Summary**:: An exploration of the [[language]], [[probability]], [[human nature]], and how they all relate to one principle. Every language follows the distribution of [[Zipf's Law]], which states that a word's frequency can be estimated with 1/it's position. [[Mandlebrot]] explained this phenomenon as a simple result of a sample sample, which only raise further questions about human language and how do we use it.
 
-**Related**:: [[Zipf's Law]]
+**Covers**:: [[Zipf's Law]]

@@ -20,7 +20,7 @@ sr-ease: 230
 ---
 # Taxonomy of note types | Daily working log | Backlinks can be used to implicitly define nodes in knowledge management systems
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Taxonomy of note types | Daily working log | Backlinks can be used to implicitly define nodes in knowledge management systems](https://notes.andymatuschak.org/z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX?stackedNotes=z28QkpK3vRKQTacjFDfGYBhCXHqHuVWJzny9&stackedNotes=z2newCwFfd6iZFyf9bgspkbyt1G8wbQxJVgTK)

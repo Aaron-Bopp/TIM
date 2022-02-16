@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From 🐸 Frog Time 🐸
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From 🐸 Frog Time 🐸](https://twitter.com/amazonmilkfrog)

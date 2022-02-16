@@ -18,7 +18,7 @@ sr-ease: 250
 
 # &Gt; Most People Suck At...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [&Gt; Most People Suck At...](https://twitter.com/visakanv/status/1450897687516123144)

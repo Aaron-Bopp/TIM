@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Hank Green
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Hank Green](https://twitter.com/hankgreen)

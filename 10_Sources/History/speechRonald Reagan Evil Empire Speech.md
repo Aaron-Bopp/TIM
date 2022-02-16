@@ -13,7 +13,7 @@ sr-ease: 250
 
 ###### [[Ronald Reagan Evil Empire Speech]]
 
-**Related**:: 
+**Covers**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

@@ -15,7 +15,7 @@ sr-ease: 230
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Related**:: [anxiety 101](https://coaching.healthygamer.gg/guide/lessons/anxiety-101) [cognitive anxiety](https://coaching.healthygamer.gg/guide/lessons/cognitive-anxiety) [physiologic anxiety](https://coaching.healthygamer.gg/guide/lessons/physiologic-anxiety)
+**Covers**:: [anxiety 101](https://coaching.healthygamer.gg/guide/lessons/anxiety-101) [cognitive anxiety](https://coaching.healthygamer.gg/guide/lessons/cognitive-anxiety) [physiologic anxiety](https://coaching.healthygamer.gg/guide/lessons/physiologic-anxiety)
 
 #### Terms
 

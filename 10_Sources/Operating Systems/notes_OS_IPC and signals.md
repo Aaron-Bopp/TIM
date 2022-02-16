@@ -18,7 +18,7 @@ sr-ease: 250
 
 **Source**:: [[07_ipc_intro.pdf]]
 
-**Related**:: [[Computer Science]]
+**Covers**:: [[Computer Science]]
 
 # Processes
 - Mechanisms for interprocess communication

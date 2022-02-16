@@ -13,4 +13,4 @@ tags: created/source/2022/02/14, node/source/video
 
 **Summary**:: This video details disadvantages to cooking with gas stoves, the environmental damage they deal, and why induction is a far superior choice. 
 
-**Related**:: [[climate change]], [[cooking]]
+**Covers**:: [[climate change]], [[cooking]]

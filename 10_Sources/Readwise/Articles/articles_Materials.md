@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Materials
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Materials](https://users.speakeasy.net/~lion/nb/html/doc005.html)

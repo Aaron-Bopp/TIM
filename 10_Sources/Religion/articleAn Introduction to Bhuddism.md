@@ -13,7 +13,7 @@ sr-ease: 250
 
 ###### [[articleAn Introduction to Bhuddism]]
 
-**Related**::  [[Buddhism]], [[eastern philosophy]], [[Buddhism is the study of happiness through detachment]], [[Happiness is enlightenment and sadness is delusion]]
+**Covers**::  [[Buddhism]], [[eastern philosophy]], [[Buddhism is the study of happiness through detachment]], [[Happiness is enlightenment and sadness is delusion]]
 
 #### birth
 

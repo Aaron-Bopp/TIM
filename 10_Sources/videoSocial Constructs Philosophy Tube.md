@@ -25,7 +25,7 @@ sr-ease: 230
 
 **Source**:: [Social Constructs | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=koud7hgGyQ8)
 
-**Related**:: 
+**Covers**:: 
 
 # Notes
 - Metaphysics - looks at existence [01:26](https://www.youtube.com/watch?v=koud7hgGyQ8#t=86.12755913351441)

@@ -15,7 +15,7 @@ sr-ease: 230
  
 **Source**:: [Healing from Festered Emotions ft. CrankGameplays (co-creator of Unus Annus) - YouTube](https://www.youtube.com/watch?v=sXGhT4pJcj8) 
 
-**Related**:: 
+**Covers**:: 
 ### [Healing from Festered Emotions](https://www.youtube.com/watch?v=sXGhT4pJcj8)
 
 - There is the emotional mind, the intellectual mind and the [[subconscious]]
@@ -44,7 +44,7 @@ sr-ease: 230
 ---
 
 
-**Related**::  [[mental health]] 
+**Covers**::  [[mental health]] 
 
 **Outline**::
 sr-due: 2022-02-10

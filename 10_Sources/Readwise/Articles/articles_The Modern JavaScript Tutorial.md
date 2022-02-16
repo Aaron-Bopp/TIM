@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # The Modern JavaScript Tutorial
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [The Modern JavaScript Tutorial](https://javascript.info)

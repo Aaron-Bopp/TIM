@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method](https://zettelkasten.de/posts/understanding-hierarchy-translating-folgezettel)

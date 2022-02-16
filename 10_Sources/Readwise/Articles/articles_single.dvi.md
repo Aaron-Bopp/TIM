@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # single.dvi
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [single.dvi](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)

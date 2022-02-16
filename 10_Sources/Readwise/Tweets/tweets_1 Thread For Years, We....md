@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # 1/ Thread: For Years, We...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [1/ Thread: For Years, We...](https://twitter.com/DCIPalestine/status/1456629744942862341)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Enneagram 8w9: The Eight with a Nine-Wing | Psychologia
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Enneagram 8w9: The Eight with a Nine-Wing | Psychologia](https://psychologia.co/8w9)

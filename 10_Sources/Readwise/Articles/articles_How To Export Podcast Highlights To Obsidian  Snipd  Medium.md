@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # How To Export Podcast Highlights To Obsidian | Snipd | Medium
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [How To Export Podcast Highlights To Obsidian | Snipd | Medium](https://blog.snipd.com/how-to-export-your-podcast-highlights-to-obsidian-54208c06d491)

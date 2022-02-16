@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # What We Do — Radical in Progress
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [What We Do — Radical in Progress](https://radicalinprogress.org/about)

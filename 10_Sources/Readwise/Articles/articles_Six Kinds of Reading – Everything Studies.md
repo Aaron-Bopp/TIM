@@ -16,7 +16,7 @@ sr-ease: 230
 ---
 # Six Kinds of Reading – Everything Studies
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Six Kinds of Reading – Everything Studies](https://everythingstudies.com/2018/03/12/six-kinds-of-reading)

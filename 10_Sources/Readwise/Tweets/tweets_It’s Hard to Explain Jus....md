@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # It’s Hard to Explain Jus...
 
-**Related**:: [[hope]], 
+**Covers**:: [[hope]], 
 *`=this.highlight_tags`*
 
 **Source**:: [It’s Hard to Explain Jus...](https://twitter.com/LuxAlptraum/status/1480187979243130887)

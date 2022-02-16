@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Enneagram Type 8w9 - The Diplomat
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Enneagram Type 8w9 - The Diplomat](https://crystalknows.com/enneagram/type-8/wing-9)

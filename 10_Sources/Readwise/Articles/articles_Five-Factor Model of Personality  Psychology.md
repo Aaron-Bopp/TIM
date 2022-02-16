@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Five-Factor Model of Personality | Psychology
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Five-Factor Model of Personality | Psychology](https://www.britannica.com/science/five-factor-model-of-personality)

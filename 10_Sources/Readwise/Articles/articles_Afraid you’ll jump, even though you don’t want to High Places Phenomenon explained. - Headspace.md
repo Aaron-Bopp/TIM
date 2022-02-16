@@ -20,7 +20,7 @@ sr-ease: 210
 
 # Afraid you’ll jump, even though you don’t want to? High Places Phenomenon explained. - Headspace
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Afraid you’ll jump, even though you don’t want to? High Places Phenomenon explained. - Headspace](https://headspace.com/articles/high-places-phenomenon)

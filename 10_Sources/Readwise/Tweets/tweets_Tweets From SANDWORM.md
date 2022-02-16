@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From SANDWORM
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From SANDWORM](https://twitter.com/christapeterso)

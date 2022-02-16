@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Cressa Maeve Beer
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Cressa Maeve Beer](https://twitter.com/beeragon)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Type Nine — The Enneagram Institute
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Type Nine — The Enneagram Institute](https://enneagraminstitute.com/type-9)

@@ -13,7 +13,7 @@ sr-ease: 250
 
 ###### [[lecture_Behavioral Evolution]]
 
-**Related**:: [[Evolution]]
+**Covers**:: [[Evolution]]
 
 **Link**:: [2. Behavioral Evolution - YouTube](https://youtu.be/Y0Oa4Lp5fLE)
 

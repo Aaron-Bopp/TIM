@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # How The System Works — The Enneagram Institute
 
-**Related**:: [[mental health]], [[personality]], [[pyschology]], 
+**Covers**:: [[mental health]], [[personality]], [[pyschology]], 
 *`=this.highlight_tags`*
 
 **Source**:: [How The System Works — The Enneagram Institute](https://enneagraminstitute.com/how-the-enneagram-system-works)

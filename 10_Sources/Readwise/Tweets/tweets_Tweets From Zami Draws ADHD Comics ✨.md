@@ -18,7 +18,7 @@ sr-ease: 250
 
 # Tweets From Zami Draws ADHD Comics ✨
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Zami Draws ADHD Comics ✨](https://twitter.com/ZamiArts)

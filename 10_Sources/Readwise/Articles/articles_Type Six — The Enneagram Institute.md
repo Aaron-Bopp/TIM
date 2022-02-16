@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Type Six — The Enneagram Institute
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Type Six — The Enneagram Institute](https://www.enneagraminstitute.com/type-6)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Historical Foundations of Race
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Historical Foundations of Race](https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race)

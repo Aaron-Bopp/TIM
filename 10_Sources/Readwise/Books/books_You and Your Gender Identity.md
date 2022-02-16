@@ -18,7 +18,7 @@ sr-ease: 250
 
 # You and Your Gender Identity
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

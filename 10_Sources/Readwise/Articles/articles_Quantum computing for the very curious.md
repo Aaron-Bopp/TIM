@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Quantum computing for the very curious
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Quantum computing for the very curious](https://quantum.country/qcvc)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Various ways to include comments on your static site
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Various ways to include comments on your static site](https://darekkay.com/blog/static-site-comments)

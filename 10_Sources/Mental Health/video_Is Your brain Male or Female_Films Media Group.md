@@ -18,7 +18,7 @@ sr-ease: 250
 
 **Source**:: “Is Your Brain Male or Female?” _Films On Demand_, Films Media Group, 2014, digital.films.com/PortalPlaylists.aspx?wID=97348&xtid=86528. Accessed 23 Oct. 2021.
 
-**Related**:: [[gender]], [[gender roles]]
+**Covers**:: [[gender]], [[gender roles]]
 - *Structures* or *processes* within the brain that differe from men to women
 	- Testosterone in the womb can change behaviors later in life making the child more drawn to systematizing.
 	- Men's neural pathways between what they see and they do about it, women's neural pathways are stronger between the hemispheres.

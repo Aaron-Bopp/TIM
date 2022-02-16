@@ -15,7 +15,7 @@ sr-ease: 250
  
 **Source**:: FA21 
 
-**Related**:: [[Psychology]], [[gender]], [[race]]
+**Covers**:: [[Psychology]], [[gender]], [[race]]
 
 - Table mates
 	- Kas Brady

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Completely Stable Genius
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Completely Stable Genius](https://twitter.com/yes_allcops)

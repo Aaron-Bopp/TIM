@@ -17,7 +17,7 @@ sr-ease: 250
  
 **Source**:: [[notes_WebDev FA21]]
 
-**Related**:: [[Computer Science]], [[Software Development]]
+**Covers**:: [[Computer Science]], [[Software Development]]
 
 Q:: Postman is a framework to automate handling email.  
 A::

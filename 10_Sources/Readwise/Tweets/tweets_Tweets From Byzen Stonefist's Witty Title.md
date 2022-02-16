@@ -18,7 +18,7 @@ sr-ease: 250
 
 # Tweets From Byzen Stonefist's Witty Title
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Byzen Stonefist's Witty Title](https://twitter.com/byzen_stonefist)

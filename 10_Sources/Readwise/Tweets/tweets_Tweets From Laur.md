@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Laur
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Laur](https://twitter.com/im_just_laur)

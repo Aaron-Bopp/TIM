@@ -13,7 +13,7 @@ deliveredBy:
 ---
 # Ancient Cave Art Full of Teenage Graffiti | Live Science
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Ancient Cave Art Full of Teenage Graffiti | Live Science](https://livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # How To Take Notes From Podcasts With Snipd | Medium
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [How To Take Notes From Podcasts With Snipd | Medium](https://blog.snipd.com/how-to-take-notes-from-podcasts-with-snipd-6dd564d1c4ae)

@@ -13,7 +13,7 @@ sr-ease: 230
 
 **Creator**:: [[Arthur Conan Doyle]]
 
-**Related**:: 
+**Covers**:: 
 
 ### ^qoute
 

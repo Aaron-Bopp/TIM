@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Bulky Cameras, Meet the Lens-Less FlatCam
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Bulky Cameras, Meet the Lens-Less FlatCam](https://www.npr.org/sections/13.7/2013/12/02/248089436/the-truth-about-the-left-brain-right-brain-relationship)

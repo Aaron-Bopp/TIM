@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Laura McConnell 🦡
 
-**Related**:: [[Autism]]
+**Covers**:: [[Autism]]
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Laura McConnell 🦡](https://twitter.com/LauraFMcConnell)

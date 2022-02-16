@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # 1/ It's Very Interesting...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [1/ It's Very Interesting...](https://twitter.com/visakanv/status/536346231472013312)

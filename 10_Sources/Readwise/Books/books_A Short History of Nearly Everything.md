@@ -17,7 +17,7 @@ sr-ease: 250
 
 # A Short History of Nearly Everything
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

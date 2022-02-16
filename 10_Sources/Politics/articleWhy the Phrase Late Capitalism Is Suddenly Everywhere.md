@@ -12,7 +12,7 @@ sr-ease: 250
 
 ###### [[Why the Phrase Late Capitalism Is Suddenly Everywhere]]
 
-**Related**::  [[Communism]], [[Wealth Inequality]], [[Capitalism]]
+**Covers**::  [[Communism]], [[Wealth Inequality]], [[Capitalism]]
 
 **source**:: [Why the Phrase 'Late Capitalism' Is Suddenly Everywhere - The Atlantic](https://www.theatlantic.com/business/archive/2017/05/late-capitalism/524943/)
 

@@ -148,7 +148,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-**Related**:: 
+**Covers**:: 
 
 **Outline**::
 sr-due: Invalid date

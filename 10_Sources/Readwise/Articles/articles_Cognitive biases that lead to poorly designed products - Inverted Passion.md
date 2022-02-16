@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Cognitive biases that lead to poorly designed products - Inverted Passion
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Cognitive biases that lead to poorly designed products - Inverted Passion](https://invertedpassion.com/cognitive-biases-poorly-designed-products)

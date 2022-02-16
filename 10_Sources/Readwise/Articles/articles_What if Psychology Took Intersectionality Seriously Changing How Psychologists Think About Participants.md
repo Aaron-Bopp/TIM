@@ -16,7 +16,7 @@ sr-ease: 230
 ---
 # What if Psychology Took Intersectionality Seriously? Changing How Psychologists Think About Participants
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

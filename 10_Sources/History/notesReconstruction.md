@@ -33,7 +33,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-**Related**:: 
+**Covers**:: 
 
 **Outline**::
 sr-due: 2022-02-10

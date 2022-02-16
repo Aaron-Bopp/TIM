@@ -15,7 +15,7 @@ sr-ease: 250
 
 **Source**:: [](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
-**Related**:: 
+**Covers**:: 
 
 - [Chapter 1](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
 	- [[Linear algebra revolves around vector addition and scalar multiplication]]

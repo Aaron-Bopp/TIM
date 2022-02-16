@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # How to Withdraw Money From Your 401(k) - SmartAsset
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [How to Withdraw Money From Your 401(k) - SmartAsset](https://smartasset.com/retirement/how-to-withdraw-from-401k)

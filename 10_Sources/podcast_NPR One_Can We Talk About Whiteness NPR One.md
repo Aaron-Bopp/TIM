@@ -13,7 +13,7 @@ sr-ease: 250
 
 ###### [[podcast_NPR One_Can We Talk About Whiteness NPR One]]
 
-**Related**::  [[white supremacy]], [[social justice]], [[activism]]
+**Covers**::  [[white supremacy]], [[social justice]], [[activism]]
 
 **Source**:: [Can We Talk About Whiteness? : NPR One](https://one.npr.org/?sharedMediaId=476876081:480084184)
 

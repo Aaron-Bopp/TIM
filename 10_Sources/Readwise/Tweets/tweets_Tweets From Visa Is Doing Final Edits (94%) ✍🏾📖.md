@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Visa Is Doing Final Edits (94%) ✍🏾📖](https://twitter.com/visakanv)

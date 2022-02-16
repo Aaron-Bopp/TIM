@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # I've Been Reading a Bit...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [I've Been Reading a Bit...](https://twitter.com/visakanv/status/1450889450532134917)

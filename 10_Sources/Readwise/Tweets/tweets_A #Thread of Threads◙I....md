@@ -18,7 +18,7 @@ sr-ease: 230
 # A \#Thread of Threads:
 I...
 
-**Related**:: [[autism]], 
+**Covers**:: [[autism]], 
 *`=this.highlight_tags`*
 
 **Source**:: [A \#Thread of Threads:

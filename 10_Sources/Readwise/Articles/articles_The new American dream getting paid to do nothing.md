@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # The new American dream: getting paid to do nothing?
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [The new American dream: getting paid to do nothing?](https://theverge.com/c/22820291/tech-jobs-outsourcing-infosys-bench-paid-to-do-nothing)

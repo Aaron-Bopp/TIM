@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Clarifying: It Seems Lik...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Clarifying: It Seems Lik...](https://twitter.com/visakanv/status/1457957108243054592)

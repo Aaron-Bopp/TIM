@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # How I take Smart Notes — Nicholas Seitz Photographer
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [How I take Smart Notes — Nicholas Seitz Photographer](https://nickseitz.com/writing/take-less-stupid-notes)

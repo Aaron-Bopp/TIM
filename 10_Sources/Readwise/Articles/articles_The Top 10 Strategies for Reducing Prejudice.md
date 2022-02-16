@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # The Top 10 Strategies for Reducing Prejudice
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice)

@@ -14,6 +14,9 @@ sr-ease: 150
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UvYcunuF3Eo?start=6711" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 #TO/EXPLORE/WATCH what is the point of this timestamp?
+> [[Science]] doesn't stop when it comes up with a nice answer. It looks for more data. It comes up with new ideas. It's willing to admit that it might be wrong ^[[[video_From MIT to Specola Vaticana Guy Consolmagno at TEDxViadellaConciliazione]]]
+>
+> <cite>[[Guy Consolmagno]]</cite>
 
 - [[We are confined to the tools of our time]]
 - [[Searching for THE answer is dangerous]]

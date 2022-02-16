@@ -15,7 +15,7 @@ sr-ease: 230
 ---
 # Replacement prod.pdf
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

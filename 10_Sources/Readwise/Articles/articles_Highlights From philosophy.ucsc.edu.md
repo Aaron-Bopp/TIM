@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Highlights From philosophy.ucsc.edu
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Highlights From philosophy.ucsc.edu](https://philosophy.ucsc.edu/news-events/colloquia-conferences/GeneologyofMorals.pdf)

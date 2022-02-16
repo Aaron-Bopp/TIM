@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # "Many People With ADD Ha...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: ["Many People With ADD Ha...](https://twitter.com/roryreckons/status/1454697016626352128)

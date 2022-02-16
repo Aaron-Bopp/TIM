@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Five-Factor Model of Personality
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Five-Factor Model of Personality](https://www.oxfordbibliographies.com/view/document/obo-9780199828340/obo-9780199828340-0120.xml)

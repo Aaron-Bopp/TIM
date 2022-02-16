@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Mac
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Mac](https://twitter.com/GoodPoliticGuy)

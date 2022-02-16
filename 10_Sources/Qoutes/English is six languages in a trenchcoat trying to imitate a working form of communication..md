@@ -13,7 +13,7 @@ sr-ease: 230
 
 **Creator**:: [[@byzen_stonefist on Twitter]]
 
-**Related**:: [[English]], [[language]]
+**Covers**:: [[English]], [[language]]
 
 ### ^qoute
 

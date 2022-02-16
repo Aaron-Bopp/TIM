@@ -15,7 +15,7 @@ sr-ease: 230
 ---
 # COVID-19 and the Other Pandemic
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

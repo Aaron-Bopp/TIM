@@ -12,7 +12,7 @@ sr-ease: 250
  
 **Source**:: [[NWMSU]]
 
-**Related**:: 
+**Covers**:: 
 
 - [[notes_1920's General Notes]]
 - [[notes_1930's General Notes]]

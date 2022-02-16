@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # I Don’t Hate TERFs. I Th...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [I Don’t Hate TERFs. I Th...](https://twitter.com/LilahSturges/status/1453347876105605124)

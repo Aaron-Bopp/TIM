@@ -19,7 +19,7 @@ sr-ease: 250
 ---
 # Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer](https://nickseitz.com/writing/obsidian-day-one-starterpack)

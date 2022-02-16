@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # General Principles
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [General Principles](https://users.speakeasy.net/~lion/nb/html/doc006.html)

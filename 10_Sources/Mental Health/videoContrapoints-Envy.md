@@ -14,7 +14,7 @@ sr-ease: 230
 
 ###### [[Contrapoints-Envy]]
 
-**Related**::  [[envy]], [[happiness]], [[human experience]], [[morality]], [[resentment]], [[Revolution]]
+**Covers**::  [[envy]], [[happiness]], [[human experience]], [[morality]], [[resentment]], [[Revolution]]
 
 **Last Edited**:: *`=this.file.mtime`*
 

@@ -19,7 +19,7 @@ sr-ease: 250
 ---
 # The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying](https://www.tandfonline.com/doi/full/10.1080/09540253.2018.1458076)

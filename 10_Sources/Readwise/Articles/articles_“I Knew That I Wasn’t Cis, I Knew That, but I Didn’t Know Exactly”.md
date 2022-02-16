@@ -15,7 +15,7 @@ sr-ease: 230
 ---
 # “I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 

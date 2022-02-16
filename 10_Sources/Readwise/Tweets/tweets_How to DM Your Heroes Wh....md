@@ -17,7 +17,7 @@ sr-ease: 250
 ---
 # How to DM Your Heroes Wh...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [How to DM Your Heroes Wh...](https://twitter.com/visakanv/status/1455410645352914948)

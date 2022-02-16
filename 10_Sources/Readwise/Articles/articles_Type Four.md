@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Type Four
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Type Four](https://www.enneagraminstitute.com/type-4)

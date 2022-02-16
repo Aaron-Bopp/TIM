@@ -18,7 +18,7 @@ sr-ease: 230
 ---
 # Semantic Battleground: The War of Neurodiversity
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Semantic Battleground: The War of Neurodiversity](https://threetrackmind.wordpress.com/2021/03/04/semantic-battleground-the-war-of-neurodiversity/)

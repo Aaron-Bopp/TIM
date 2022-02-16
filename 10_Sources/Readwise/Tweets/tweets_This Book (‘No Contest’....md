@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # This Book (‘No Contest’...
 
-**Related**:: [[self]], 
+**Covers**:: [[self]], 
 *`=this.highlight_tags`*
 
 **Source**:: [This Book (‘No Contest’...](https://twitter.com/roryreckons/status/1458286134497185794)

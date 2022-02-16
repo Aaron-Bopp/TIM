@@ -19,7 +19,7 @@ sr-ease: 230
 ---
 # Summary, part 3 & 4 | We Do This 'Til We Free Us | Study Guide — Radical in Progress
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Summary, part 3 & 4 | We Do This 'Til We Free Us | Study Guide — Radical in Progress](https://radicalinprogress.org/kaba-2021-3)

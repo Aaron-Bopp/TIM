@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # I’m Planning to Go to Si...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [I’m Planning to Go to Si...](https://twitter.com/visakanv/status/1050459395685998592)

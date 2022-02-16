@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # 3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [3 Mistakes to Avoid When Making a Large Portfolio Withdrawal3 mistakes to avoid when making a large portfolio withdrawal](https://schwab.com/resource-center/insights/content/3-mistakes-to-avoid-when-making-large-portfolio-withdrawal)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # [[VIM]] Mode - Quality of Life Improvements
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [VIM Mode - Quality of Life Improvements](https://forum.obsidian.md/t/vim-mode-quality-of-life-improvements/429/69)

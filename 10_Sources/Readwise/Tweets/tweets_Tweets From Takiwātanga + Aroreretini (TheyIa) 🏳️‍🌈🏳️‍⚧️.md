@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Takiwātanga + Aroreretini (They/Ia) 🏳️‍🌈🏳️‍⚧️
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Tweets From Takiwātanga + Aroreretini (They/Ia) 🏳️‍🌈🏳️‍⚧️](https://twitter.com/takiwatangakare)

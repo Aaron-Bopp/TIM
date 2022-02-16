@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com](https://donfarland.com/technology/introduction-to-fight-club-5-for-5th-edition-dd)

@@ -18,7 +18,7 @@ sr-ease: 270
 
 **Source**:: [Identity: A Trans Coming Out Story | Philosophy Tube ★ - YouTube](https://www.youtube.com/watch?v=AITRzvm0Xtg)
 
-**Related**:: 
+**Covers**:: 
 
 **Summary**::****** This video is the coming out video for [[Abigail Thorn]]. The first half of the video is performed by actor playing Abigail in "boy mode" (in the closet and pretransition). The video talks a lot about two different views of identity, one of [[DesCartes]] which viewed [[identity]]/personhood as purely our thoughts and memories, and the other of [[Audrey Lorde]] which viewed identity as a mosaic of all the different parts that make up us.  Lorde was a black woman, Lesbian, fat, communist living in times when those were far less accepted (the 1960s) and she could not separate her physical existence in the world from her identity. DesCartes was able to question every aspect of existence except for his own thoughts and found his [[identity]] in that while everyone around Lorde forcefully stripped her of her thoughts (at least the ability to share them and be listened to and respected). In the second half of the video the actor is replaced with the real Abigail Thorn fully transitioned and finally revealing her trueself to her audience. She relates the [[experience]] of being transgender to being assigned a crappy job at birth and then everyone around you telling you that you could never switch jobs. Not everthing about the job is bad, and you can find joy in it, but it ways on you until you break, or give up, and while transitioning doesn't make everything instantly better it makes life so much more easy and bearable that you can finally start to enjoy it.
 

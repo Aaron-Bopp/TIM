@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Let’s Talk About the Cor...
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Let’s Talk About the Cor...](https://twitter.com/samdylanfinch/status/1448638027505430540)

@@ -17,7 +17,7 @@ sr-ease: 230
 ---
 # Roth IRA Withdrawal Rules | Withdrawal From Roth IRA | Charles Schwab
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: [Roth IRA Withdrawal Rules | Withdrawal From Roth IRA | Charles Schwab](https://schwab.com/ira/roth-ira/withdrawal-rules)

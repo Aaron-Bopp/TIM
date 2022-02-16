@@ -17,7 +17,7 @@ sr-ease: 230
  
 **Source**:: [Becoming a Psychiatrist, Nihachu? How We're Shaped Mentally | Dr. K Interviews - YouTube](https://www.youtube.com/watch?v=PDTPg_qKvn8)
 
-**Related**::  [[mental health]] 
+**Covers**::  [[mental health]] 
 
 - Nihachu's mother had problems with addiction
 - very shy, insecure, quiet growing up
