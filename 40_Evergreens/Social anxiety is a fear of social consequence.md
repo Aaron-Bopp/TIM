@@ -4,17 +4,21 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/28, review, node/evergreen/claim
-sr-due: 2022-02-17
-sr-interval: 4
-sr-ease: 190
+sr-due: 2022-02-19
+sr-interval: 2
+sr-ease: 170
 ---
 
 #### [[Social anxiety is a fear of social consequence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
-- [[Most anxiety isn't irrational it's just overcompensation]]
+	- [[Anxiety stems from a lack of confidence for the future]]
 - [[Confidence is a feedback loop]]
+- [[Most anxiety isn't irrational it's just overcompensation]]
+- [[Anxiety causes us to reject nuance]]
 - [[A secure identity is the best defense against social anxiety]]
+	- [[Identity is your understanding of yourself vs your interaction with the world]]
+- [[Increases in scrutiny lead to increases in anxiety]]
 
 ### <hr class="footnote"/>
 

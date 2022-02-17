@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-02-17
-sr-interval: 11
+sr-due: 2022-03-06
+sr-interval: 17
 sr-ease: 150
 ---
 
@@ -14,10 +14,12 @@ sr-ease: 150
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UvYcunuF3Eo?start=6711" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 #TO/EXPLORE/WATCH what is the point of this timestamp?
+
 > [[Science]] doesn't stop when it comes up with a nice answer. It looks for more data. It comes up with new ideas. It's willing to admit that it might be wrong ^[[[video_From MIT to Specola Vaticana Guy Consolmagno at TEDxViadellaConciliazione]]]
 >
 > <cite>[[Guy Consolmagno]]</cite>
 
+#TO/TEND/GRAFT 
 - [[We are confined to the tools of our time]]
 - [[Searching for THE answer is dangerous]]
 - [[You can't blame people for failing to rise above their circumstances]]
@@ -30,7 +32,7 @@ sr-ease: 150
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[influence]], [[self-awareness]]
