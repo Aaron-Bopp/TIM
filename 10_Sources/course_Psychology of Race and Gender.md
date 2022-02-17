@@ -273,10 +273,10 @@ sr-ease: 250
 		- lower likelihood of seeking help
 		- Generally masculine people can be affected by this even if they are not toxically masculine
 	- [[Ambivalent sexism theory]]: sexism takes the form of both over negativity and covert positivity
-		- Hostile [[sexism]]: overtly negative sexist beliefs
+		- [[Hostile sexism]]: overtly negative sexist beliefs
 			- Accompanied with innacurate beliefs of how the worlds works ie
 				- women control everything
-		- Benevolent [[sexism]]: controlling women through positive but patronizing views about women.  Women are superior only in ways that don't threaten male superiority.
+		- [[Benevolent sexism]]: controlling women through positive but patronizing views about women.  Women are superior only in ways that don't threaten male superiority.
 			- Protective paternalism - women need to be protected by men
 			- Complementary gender differentiation - complementing women for exercising stereotypes
 			- Heterosexual Intimacy - women are viewed as sexual objects
