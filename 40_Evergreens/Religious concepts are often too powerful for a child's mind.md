@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/06/11, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-16
-sr-interval: 29
+sr-due: 2022-04-11
+sr-interval: 54
 sr-ease: 190
 ---
 
@@ -32,6 +32,7 @@ Because Christians have always had such a simple and obvious choice to avoid thi
 - [[Parents need to model the ability to deal with emotion to their children]]
 - [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]
 - [[Human's will find explanations for inexplainable things]]
+- [[Worldviews should not make life seem easy and simple]]
 
 ### <hr class="footnote"/>
 
