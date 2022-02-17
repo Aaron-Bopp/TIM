@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/11, review, node/evergreen/claim
-sr-due: 2022-02-16
-sr-interval: 1
+sr-due: 2022-02-18
+sr-interval: 2
 sr-ease: 190
 ---
 
@@ -13,6 +13,10 @@ sr-ease: 190
 
 This is how:: [[Anxiety prevents us from living in the present]]
 and why:: [[Confidence is a feedback loop]]
+
+#TO/TEND/GRAFT 
+- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
+- [[A secure identity is the best defense against social anxiety]]
 
 Inversely:: [[Confidence comes when you are more capable of handling diverse outcomes]]
 

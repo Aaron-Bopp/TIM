@@ -16,7 +16,7 @@ In some ways our [[anxiety]] is already working for us,
 if we know how to understand it.
 [[We value our biggest insecurities because they protect us from the biggest threats]],
 and if your anxiety is being consistently triggered by something that is worth looking into.
-[[Triggers are stored emotional reactions]],
+[[Triggers are stored interactions that lead to strong emotional responses]],
 and
 [[Your anxiety knows your insecurities better than you do]].
 That [[anxiety]] might be aware of something that [[conscious]] you is not.

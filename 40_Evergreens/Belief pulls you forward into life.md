@@ -15,7 +15,7 @@ sr-ease: 130
 - [[Does cognitive dissonance increase your capacity for endurance]]
 - [[Sadness is enlightenment and happiness is delusion]]
 - [[Realism must acknowledge optimism's existence and effectiveness]]
-- [[Worlds views should be open ended and adaptive]]
+- [[Worldviews should be open ended and adaptive]]
 - [[The materialistic view of religions examines why humans invented and clung to religion]]
 	- [[The three main questions of life]]
 	- [[Does cognitive dissonance increase your capacity for endurance]]

@@ -28,7 +28,7 @@ Buddhism outlines this Eightfold path [^1] that if followed leads to the end of 
 
 This contrasts [[Worldviews should not make life seem easy and simple|Worldviews that make life seems easy and simple]] because
 it lays out a difficult path to gain your eternal reward and does not promise immediate effects.
-[[Worlds views should be open ended and adaptive]]
+[[Worldviews should be open ended and adaptive]]
 
 These are similar to the [[Yama]] of [[Raja Yoga]]
 

@@ -26,7 +26,7 @@ sr-ease: 150
 	- [[Faith is an abstraction of cognitive dissonance]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 	- [[Worldviews should not make life seem easy and simple]]
-- [[Worlds views should be open ended and adaptive]]
+- [[Worldviews should be open ended and adaptive]]
 
 ### <hr class="footnote"/>
 

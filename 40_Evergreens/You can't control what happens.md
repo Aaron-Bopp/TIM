@@ -4,8 +4,8 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/14, review, node/evergreen/claim
-sr-due: 2022-02-16
-sr-interval: 10
+sr-due: 2022-03-03
+sr-interval: 15
 sr-ease: 130
 ---
 
@@ -22,6 +22,7 @@ but I can acknowledge that
 
 Because [[Right kinds of thoughts lead to right kinds of actions]], this means keeping one thought in our mind until it becomes real, or [[manifestation]], is the same thing as [[motivation]].
 
+#TO/TEND/GRAFT 
 - [[Self-belief is fundamental to good karma]]
 - [[Accepting responsibility is not only about your actions]]
 - [[Be the change you want to see in the world]]

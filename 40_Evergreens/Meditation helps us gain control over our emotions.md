@@ -4,20 +4,22 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-02-16
-sr-interval: 10
+sr-due: 2022-03-03
+sr-interval: 15
 sr-ease: 130
 ---
 
 #### [[Meditation helps us gain control over our emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Meditation is a practice to develop a stronger conscious]]
+#TO/TEND/CONNECT 
 [[Meditation is a practice to gain control over your thoughts]]
 
 The reason that certain [[meditation]] styles work for different people lies in the our brains. 
 If your [[limbic system]] is failing to regulate your [[emotions]], [[meditation]] can help your [[Frontal Lobe|Frontal Lobes]] to gain [[control]].
 ^[[[notes_Science of Meditation]]]
 
+#TO/TEND/GRAFT 
 - [[Meditation helps us detach negative attachments]]
 - [[Meditation helps us regulate our nervous system]]
 - [[Meditation regulates your hormones and stress physiology]]
@@ -25,6 +27,7 @@ If your [[limbic system]] is failing to regulate your [[emotions]], [[meditation
 This can lead to a [[detachment]] from our [[emotions]]:
 [[Meditation helps us detach negative attachments]]
 
+#TO/TEND/GRAFT 
 - [[Our ego is our subconscious defense of our self]]
 - [[A secure identity is the best defense against social anxiety]]
 - [[Buddhism is the study of happiness through detachment]]

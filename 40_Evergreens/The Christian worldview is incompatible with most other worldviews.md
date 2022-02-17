@@ -32,7 +32,7 @@ workspace: Belief GvB PvS
 	- [[Abortion and immigration are detrimental to white supremacy]]
 - [[Belief pulls you forward into life]]
 	- [[Humans are addicted to believing]]
-	- [[Worlds views should be open ended and adaptive]]
+	- [[Worldviews should be open ended and adaptive]]
 
 ### <hr class="footnote"/>
 

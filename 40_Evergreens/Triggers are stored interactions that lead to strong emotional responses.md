@@ -9,7 +9,7 @@ sr-interval: 12
 sr-ease: 190
 ---
 
-#### [[Triggers are stored emotional reactions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Triggers are stored interactions that lead to strong emotional responses]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Samskara]]
 - [[Our brain actively inhibits us from processing repressed emotions]]

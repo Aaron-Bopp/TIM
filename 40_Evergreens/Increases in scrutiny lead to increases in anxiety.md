@@ -19,7 +19,7 @@ sr-ease: 170
 - [[Confidence is a feedback loop]]
 
  Increased [[anxiety]] can lead to increased susceptibility to [[trauma]]:
- [[Triggers are stored emotional reactions]]
+ [[Triggers are stored interactions that lead to strong emotional responses]]
 
 ### <hr class="footnote"/>
 

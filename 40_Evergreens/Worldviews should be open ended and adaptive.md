@@ -9,7 +9,7 @@ sr-interval: 48
 sr-ease: 230
 ---
 
-#### [[Worlds views should be open ended and adaptive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Worldviews should be open ended and adaptive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[The Christian worldview is incompatible with most other worldviews]] because [[Worldviews should not make life seem easy and simple]]. 
 As the world continues to change and grow, we see [[Christianity]] starting to clash with modern day perspectives.

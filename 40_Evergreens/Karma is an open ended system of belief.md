@@ -22,7 +22,7 @@ While there are many beliefs that follow from this, believing in [[karma]] does 
 
 - [[Self-belief is fundamental to good karma]]
 - [[Yoga is a wholistic philosophy of self-improvement]]
-- [[Worlds views should be open ended and adaptive]]
+- [[Worldviews should be open ended and adaptive]]
 - [[Karma is based in the law of cause and effect]] 
 - [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 - [[Buddhism is the study of happiness through detachment]]

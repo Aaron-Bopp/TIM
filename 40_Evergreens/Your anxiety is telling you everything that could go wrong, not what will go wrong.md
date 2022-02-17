@@ -2,8 +2,8 @@
 created: 2021-06-15
 edited: 
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-02-16
-sr-interval: 10
+sr-due: 2022-02-20
+sr-interval: 4
 sr-ease: 130
 ---
 
@@ -17,17 +17,19 @@ The problem comes from [[Cognitive Anxiety]], which in lieu of real life threats
 - [[Anxiety prevents us from living in the present]]
 - [[Anxiety causes us to reject nuance]]
 
-If you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with the thing or not. 
 [[Attachment fuels anxiety]] 
 and [[Anxiety stems from a lack of confidence for the future]]
-so if we giving into our anxiety means latching onto *every possible thing that could go wrong.*
+so giving into our [[anxiety]] means latching onto *every possible thing that could go wrong in the future.*
+If you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the [[judgement|judgment]] on whether you should go through with it or not. 
 
-Being able to do this requires a very healthy amount of [[mindfulness]], and a large amount of [[self-awareness]]. Once you've achieved these things your [[anxiety]] can start to be an aspect of your [[mindfulness]] rather than an inhibitor:
+Being able to do this requires
+a large amount of [[self-awareness]],
+and a very healthy amount of [[mindfulness]].
+^[[[Meditation]] can help with both of these things: [[Meditation helps us gain control over our emotions]]]
+Once you've achieved these things your [[anxiety]] can start to be an aspect of your [[mindfulness]] rather than an inhibitor:
 [[Anxiety should be a tool at your disposal not an impedance to your life]]
 
-[[Meditation]] can help to do this: [[Meditation helps us regulate our nervous system]]
-
-This is made worse when the sources of your anxiety aren't obvisou: [[Your anxiety knows your insecurities better than you do]].
+This is made worse when the sources of your anxiety aren't obvious: [[Your anxiety knows your insecurities better than you do]].
 
 ### <hr class="footnote"/>
 

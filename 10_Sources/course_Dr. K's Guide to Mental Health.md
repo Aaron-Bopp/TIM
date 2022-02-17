@@ -95,7 +95,7 @@ sr-ease: 250
 	- [[notes_Responses to Anxiety]]
 		- [[Confidence comes when you are more capable of handling diverse outcomes]]
 		- [[notes_Learned Anxiety]]
-			- [[Triggers are stored emotional reactions]]
+			- [[Triggers are stored interactions that lead to strong emotional responses]]
 			- [[notes_Thought Loops]]
 			- [[notes_Tension in the Mind]]
 			- [[notes_Feeding the Beast]]
