@@ -31,6 +31,7 @@ This is the most soul-crushing part of living in [[late capitalism]]. You are fo
 > 
 > <cite>[[Aaron Bopp]]</cite>
 
+![[tiktok - just gotta make it to the weekend.mp4|sm]]
 
 ### <hr class="footnote"/>
 
@@ -39,4 +40,3 @@ This is the most soul-crushing part of living in [[late capitalism]]. You are fo
 
 **Topics**:: [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]], [[Life principles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
