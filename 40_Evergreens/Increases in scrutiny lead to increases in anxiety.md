@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-02-17
-sr-interval: 11
-sr-ease: 170
+sr-due: 2022-02-24
+sr-interval: 7
+sr-ease: 150
 ---
 
 #### [[Increases in scrutiny lead to increases in anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

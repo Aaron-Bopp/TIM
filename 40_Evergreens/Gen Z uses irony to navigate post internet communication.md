@@ -14,7 +14,7 @@ sr-ease: 190
 #TO/TEND/GRAFT 
 - [[video_Aesop didn't know about Meta-Irony]]
 - [[video_What makes gen z humor so interesting]]
-- [[Communication provides the opportunity to shape perceptions]]
+- [[Communication provides the opportunity to shape other's perceptions]]
 - [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
 - [[The internet allows niche topics to flourish]]
 

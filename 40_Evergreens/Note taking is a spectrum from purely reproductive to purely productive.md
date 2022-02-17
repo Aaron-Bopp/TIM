@@ -4,20 +4,25 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/11, review, node/evergreen/claim
-sr-due: 2022-02-17
-sr-interval: 11
+sr-due: 2022-03-05
+sr-interval: 16
 sr-ease: 130
 ---
 
 #### [[Note taking is a spectrum from purely reproductive to purely productive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Conceptual notes]] notes that are purely taken on individual concepts
-[[Sequential notes]] notes that are taken in the sequence of the thing they are notating like a lecture or book
-Transformative notes: notes that transform the material into things like questions and answers or prompts
+Three possible kinds of notes
+- [[Conceptual notes]] notes that are purely taken on individual concepts
+	- [[evergreen notes]] and [[topic note|topic notes]]
+- [[Sequential notes]] notes that are taken in the sequence of the thing they are notating like a lecture or book
+	- [[source notes]]
+- Transformative notes: notes that transform the material into things like questions and answers or prompts
+	- [[evergreen notes]]
 
 Notes we take in school are mainly reproductive notes. 
 
 Where is the line being producing a note and [[creativity]]? Is there any difference #TO/PONDER/IDEA 
+[[There is a difference between thinking and creating]]
 
 ##### What are the starter types of note taking?
 

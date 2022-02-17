@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/20, review, node/evergreen/claim
-sr-due: 2022-02-17
-sr-interval: 4
+sr-due: 2022-02-24
+sr-interval: 7
 sr-ease: 150
 ---
 
@@ -18,11 +18,10 @@ What is the inner feeling behind [[motivation]]? What is the inner feeling behin
 - Similarly to [[Our brain actively inhibits us from processing repressed emotions]], our [[brain]] has some level of control over what we are thinking about: [[Neurodivergent people cannot stop their brain from solving problems]]
 Pushing yourself is something that is unique to humans.
 - contrasts:: [[Humans are a product of evolution]]
-- 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited January 23, 2022*
 
 **Topics**:: [[motivation]], [[human interaction]], [[obsession]]
