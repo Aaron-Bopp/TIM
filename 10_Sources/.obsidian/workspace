@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "96949d6d924a0094",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c2e0ab17f2b512d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Readwise/Articles/articles_Decontextualizer - Paul Bricman.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6f40caf1eadfaf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1883c1f75ee5a8d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0811190591644970",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "89e0fd7049c5a063",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a77838cb31b72b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b03961d122fcc37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "038e1716e3d097ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readwise/Articles/articles_Decontextualizer - Paul Bricman.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c2e0ab17f2b512d",
+  "lastOpenFiles": [
+    "Readwise/Articles/articles_Decontextualizer - Paul Bricman.md",
+    "Readwise/Articles/articles_Analysis  Survived + Punished.md",
+    "Readwise/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md"
+  ]
+}
