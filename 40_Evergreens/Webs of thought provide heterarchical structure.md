@@ -27,5 +27,5 @@ sr-ease: 203
 **Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
-**Topics**::  [[structure]], [[organization]], [[knowledge management]], [[second brain]]
+**Topics**::  [[structure]], [[organization]], [[knowledge management]], [[second brain]], [[web of thought]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -37,5 +37,5 @@ Thankfully [[Organization systems are not mutually exclusive]], and many people 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[second brain]], [[knowledge management]], [[evergreen notes]], [[My TIM]] 
+**Topics**:: [[second brain]], [[knowledge management]], [[evergreen notes]], [[My TIM]], [[web of thought]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
