@@ -34,6 +34,7 @@ Because Christians have always had such a simple and obvious choice to avoid thi
 - [[Human's will find explanations for inexplainable things]]
 - [[Worldviews should not make life seem easy and simple]]
 
+![[books_You and Your Gender Identity#183352903q]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

@@ -1,17 +1,17 @@
 ---
-created: 2022-02-15
+created: 2022-02-17
 edited:
 aliases:
   - "The Anthropocene Reviewed"
   - "The Anthropocene Reviewed by John Green"
   - "John Green"
-tags: created/source/2022/02/15, node/source/books
+tags: created/source/2022/02/17, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-02-15
+sr-due: 2022-02-17
 sr-interval: 2
 sr-ease: 230
 ---
@@ -127,7 +127,6 @@ highlight_tags:: [[pink]]
 
 [^287404951]: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=1344
 
-# New highlights added February 16, 2022 at 4:34 PM
 ##### ^287775023
 
   
@@ -135,7 +134,7 @@ highlight_tags:: [[pink]]
 
 ###### ^287775023q
 
-> As with all the best [[sci-fi]] writers, [[Kurt Vonnegut]] was really good at seeing into the future. Way back in 1974, he wrote, “What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable [[community|communities]] in which the terrible disease of loneliness can be cured.” 
+> As with all the best sci-fi writers, Kurt Vonnegut was really good at seeing into the future. Way back in 1974, he wrote, “What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.” 
   [^287775023]
 
 [^287775023]: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=2140
@@ -147,8 +146,22 @@ highlight_tags:: [[pink]]
 
 ###### ^287775024q
 
-> When we tell those stories to people in [[chronic pain]], or those living with incurable [[illness]], we often end up minimizing their experience. We end up expressing our doubt in the face of their certainty, which only compounds the extent to which pain separates the person experiencing it from the wider [[social order]]. The challenge and responsibility of [[personhood]], it seems to me, is to recognize personhood in others—to listen to others’ pain and take it seriously, even when you yourself cannot feel it. That capacity for listening, I think, really does separate human life from the quasi-life of an enterovirus. 
+> When we tell those stories to people in chronic pain, or those living with incurable illness, we often end up minimizing their experience. We end up expressing our doubt in the face of their certainty, which only compounds the extent to which pain separates the person experiencing it from the wider social order. The challenge and responsibility of personhood, it seems to me, is to recognize personhood in others—to listen to others’ pain and take it seriously, even when you yourself cannot feel it. That capacity for listening, I think, really does separate human life from the quasi-life of an enterovirus. 
   [^287775024]
 
 [^287775024]: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=2620
+
+##### ^288175131
+
+  
+%%
+highlight_tags:: [[pink]]
+%%
+
+###### ^288175131q
+
+> A child had died for no reason the night before—sudden infant death syndrome, a disease that in its name acknowledges our ignorance of it and powerlessness before it. He was a beautiful baby, and he was gone. His mother had asked me to baptize him. In my faith tradition, you’re not supposed to baptize the dead, but then again, babies aren’t supposed to die. He was the first person I ever baptized. His name was Zachary, a name taken from Hebrew words meaning, “God remembers.” 
+  [^288175131]
+
+[^288175131]: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=3299
 
