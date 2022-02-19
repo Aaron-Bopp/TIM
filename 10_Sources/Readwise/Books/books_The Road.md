@@ -251,3 +251,32 @@ highlight_tags:: [[blue]]
 
 [^285427486]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=802
 
+# New highlights added February 19, 2022 at 8:17 AM
+##### ^288838067
+
+  
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^288838067q
+
+> He’d seen it all before. Shapes of dried blood in the stubble grass and gray coils of viscera where the slain had been field-dressed and hauled away. The wall beyond held a frieze of human heads, all faced alike, dried and caved with their taut grins and shrunken eyes. They wore gold rings in their leather ears and in the wind their sparse and ratty hair twisted about on their skulls. The teeth in their sockets like dental molds, the crude tattoos etched in some homebrewed woad faded in the beggared sunlight. Spiders, swords, targets. A dragon. Runic slogans, creeds misspelled. Old scars with old motifs stitched along their borders. The heads not truncheoned shapeless had been flayed of their skins and the raw skulls painted and signed across the forehead in a scrawl and one white bone skull had the plate sutures etched carefully in ink like a blueprint for assembly. He looked back at the boy. 
+  [^288838067]
+
+[^288838067]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=826
+
+##### ^288838068
+
+  
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^288838068q
+
+> If we were going to die would you tell me? I dont know. We’re not going to die. 
+  [^288838068]
+
+[^288838068]: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=867
+

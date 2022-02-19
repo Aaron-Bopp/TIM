@@ -281,3 +281,242 @@ highlight_tags:: [[orange]]
 
 [^287471892]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=391
 
+# New highlights added February 19, 2022 at 8:17 AM
+##### ^288838099
+
+  
+
+
+###### ^288838099q
+
+> The purpose of high-level sciences is to enable us to understand emergent phenomena, of which the most important are, as we shall see, life, thought and computation. 
+  [^288838099]
+
+[^288838099]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=396
+
+##### ^288838100
+
+  
+%%
+highlight_tags:: [[holism]], [[orange]]
+%%
+
+###### ^288838100q
+
+> holism – the idea that the only legitimate explanations are in terms of higher-level systems 
+  [^288838100]
+
+[^288838100]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=398
+
+##### ^288838101
+
+  
+
+
+###### ^288838101q
+
+> A reductionist thinks that science is about analysing things into components. An instrumentalist thinks that it is about predicting things. To either of them, the existence of high-level sciences is merely a matter of convenience. 
+  [^288838101]
+
+[^288838101]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=402
+
+##### ^288838102
+
+  
+
+
+###### ^288838102q
+
+> In the reductionist world-view, the laws governing subatomic particle interactions are of paramount importance, as they are the base of the hierarchy of all knowledge. But in the real structure of scientific knowledge, and in the structure of our knowledge generally, such laws have a much more humble role. 
+  [^288838102]
+
+[^288838102]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=431
+
+##### ^288838103
+
+  
+
+
+###### ^288838103q
+
+> There are two theories in physics which are considerably deeper than all others. The first is the general theory of relativity, which as I have said is our best theory of space, time and gravity. The second, quantum theory, is even deeper. 
+  [^288838103]
+
+[^288838103]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=441
+
+##### ^288838104
+
+  
+
+
+###### ^288838104q
+
+> another way in which reductionism misrepresents the structure of scientific knowledge. Not only does it assume that explanation always consists of analysing a system into smaller, simpler systems, it also assumes that all explanation is of later events in terms of earlier events; in other words, that the only way of explaining something is to state its causes. And this implies that the earlier the events in terms of which we explain something, the better the explanation, so that ultimately the best explanations of all are in terms of the initial state of the universe. 
+  [^288838104]
+
+[^288838104]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=450
+
+##### ^288838105
+
+  
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^288838105q
+
+> For the cannon-ball, once we have specified, say, the final state it is straightforward to calculate the initial state, and vice versa, so there is no practical difference between different methods of specifying the supplementary data. 
+  [^288838105]
+
+[^288838105]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=486
+
+##### ^288838106
+
+  
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^288838106q
+
+> But that is exceptional: most of our knowledge of supplementary data – of what specifically happens – is in the form of high-level theories about emergent phenomena, and is therefore by definition not practically expressible in the form of statements about the initial state. For example, in most solutions of the equations of motion the initial state of the universe does not have the right properties for life to evolve from it. Therefore our knowledge that life has evolved is a significant piece of the supplementary data. 
+  [^288838106]
+
+[^288838106]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=489
+
+##### ^288838107
+
+  
+
+
+###### ^288838107q
+
+> The laws of biology, say, are high-level, emergent consequences of the laws of physics. But logically, some of the laws of physics are then ‘emergent’ consequences of the laws of biology. It could even be that, between them, the laws governing biological and other emergent phenomena would entirely determine the laws of fundamental physics. 
+  [^288838107]
+
+[^288838107]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=505
+
+##### ^288838122
+
+  
+
+
+###### ^288838122q
+
+> Imagine an electric torch switched on in an otherwise dark room. ... if we were observing the torch from the side we should be able to see neither it nor, of course, its light. Invisibility is one of the more straightforward properties of light. We see light only if it enters our eyes (though we usually speak of seeing the object in our line of sight that last affected that light). ... We cannot see light that is just passing by. If there were a reflective object in the beam, or even some dust or water droplets to scatter the light, we could see where it was. But there is nothing in the beam, and we are observing from outside it, so none of its light reaches us. 
+  [^288838122]
+
+[^288838122]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=569
+
+##### ^288838126
+
+  
+%%
+highlight_tags:: [[pink]]
+%%
+
+###### ^288838126q
+
+> That is, a human observer would see nothing; but what about an animal with more sensitive vision? ... If the observer were a frog, and it kept moving ever farther away from the torch, the moment at which it entirely lost sight of the torch would never come. Instead, the frog would see the torch begin to flicker. The flickers would come at irregular intervals that would become longer as the frog moved farther away. But the brightness of the individual flickers would not diminish. At a distance of one hundred million kilometres from the torch, the frog would see on average only one flicker of light per day, but that flicker would be as bright as any that it observed at any other distance. 
+  [^288838126]
+
+[^288838126]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=585
+
+##### ^288838113
+
+  
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^288838113q
+
+> What happens when a beam of light gets fainter is not that the photons themselves get fainter, but that they get farther apart, with empty space between them 
+  [^288838113]
+
+[^288838113]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=602
+
+##### ^288838114
+
+  
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^288838114q
+
+> This property of appearing only in lumps of discrete sizes is called quantization. An individual lump, such as a photon, is called a quantum (plural quanta). 
+  [^288838114]
+
+[^288838114]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=605
+
+##### ^288838115
+
+  
+%%
+highlight_tags:: [[pink]]
+%%
+
+###### ^288838115q
+
+> FIGURE 2.2 Frogs can see individual photons. 
+  [^288838115]
+
+[^288838115]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=614
+
+##### ^288838116
+
+  
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^288838116q
+
+> And because the filament is not a geometrical point, but has a certain size, there is also a penumbra between the bright and dark regions: a region which can receive light from some parts of the filament but not from others. If one observes from within the penumbra, one can see only part of the filament and the illumination is less there than in the fully illuminated, bright region. 
+  [^288838116]
+
+[^288838116]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=618
+
+##### ^288838117
+
+  
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^288838117q
+
+> However, the size of the filament is not the only reason why real torchlight casts penumbras. The light is affected in all sorts of other ways by the reflector behind the bulb, by the glass front of the torch, by various seams and imperfections, and so on. 
+  [^288838117]
+
+[^288838117]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=621
+
+##### ^288838118
+
+  
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^288838118q
+
+> FIGURE 2.3 The umbra and penumbra of a shadow. 
+  [^288838118]
+
+[^288838118]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=627
+
+##### ^288838119
+
+  
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^288838119q
+
+> FIGURE 2.4 Making a narrow beam by passing light through two successive holes.   It turns out that light is not as ductile as gold! Long before the holes get as small as a ten-thousandth of a millimetre, in fact even with holes as large as a millimetre or so in diameter, the light begins noticeably to rebel. Instead of passing through the holes in straight lines, it refuses to be confined and spreads out after each hole. And as it spreads, it ‘frays’. The smaller the hole is, the more the light spreads out from its straight-line path. Intricate patterns of light and shadow appear. We no longer see simply a bright region and a dark region on the third screen, with a penumbra in between, but instead concentric rings of varying thickness and brightness. 
+  [^288838119]
+
+[^288838119]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=639
+
