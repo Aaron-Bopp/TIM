@@ -334,3 +334,40 @@ highlight_tags:: [[orange]]
 
 [^288838024]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4325
 
+# New highlights added February 19, 2022 at 9:25 AM
+##### ^288878740
+
+  
+
+
+###### ^288878740q
+
+> When we compare the fitness of callers and noncallers within each group, we see that callers are the losers in both cases. However, the group with more callers fares better than the group with fewer callers. This is the classic group selection scenario that began with Darwin. 
+  [^288878740]
+
+[^288878740]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=253
+
+##### ^288878741
+
+  
+
+
+###### ^288878741q
+
+> When we consider the evolution of a single trait, there is much less ambiguity about what constitutes a group. 
+  [^288878741]
+
+[^288878741]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=282
+
+##### ^288878742
+
+  
+
+
+###### ^288878742q
+
+> when the trait is a social behavior, the fitness of an individual is determined by its own trait and the traits of the individuals with whom it interacts. 
+  [^288878742]
+
+[^288878742]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=290
+

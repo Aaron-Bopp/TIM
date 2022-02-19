@@ -5,8 +5,8 @@ tags: created/evergreen/2021/06/11, review, node/evergreen/claim
 aliases:
   - The nature of happiness is not doing what you love its detachment from the
     decisions of the life
-sr-due: 2022-02-18
-sr-interval: 34
+sr-due: 2022-04-29
+sr-interval: 69
 sr-ease: 210
 ---
 
@@ -14,13 +14,14 @@ sr-ease: 210
 
 The nature of happiness is not doing what you [[love]] its detachment from the decisions of the life
 
+#TO/DO/FIND qoute from [[books_The Fabric of Reality]] or [[books_Darwin's Cathedral]]
+
 #TO/EXPLORE/WATCH #TO/PONDER This section of the video which is really high understanding of this concept
 [Dr. Mike Talks with Harvard Psychiatrist Dr. K - YouTube](https://youtu.be/T_31hFh1XKM?t=4618)
 
 - [[Sadness is enlightenment and happiness is delusion]]
 - [[Happiness is enlightenment and sadness is delusion]]
 - [[Constantly working on yourself is a form a self-hatred]]
-- [[True optimism is acknowledging the suffering of the world and defying it anyway]]
 - [[Realism must acknowledge optimism's existence and effectiveness]]
 - [[Consciousness is the fundamental unit of existence]]
 ### <hr class="footnote"/>

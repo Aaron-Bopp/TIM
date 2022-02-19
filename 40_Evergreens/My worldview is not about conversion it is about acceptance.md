@@ -2,14 +2,16 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen, node/personal 
-sr-due: 2022-02-18
-sr-interval: 19
+sr-due: 2022-03-27
+sr-interval: 36
 sr-ease: 184
 ---
 
 #### [[My worldview is not about conversion it is about acceptance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-While I am an atheist, I don't really try to convert people, I still have lots of good relationships with Christians, and I still see value in [[faith]]. When I discuss [[belief]] and [[worldview]] with other people it is not my intention to convert them, rather I want to learn about how they see and understand the world so that I can better understand them, and learn from them.
+%% #TO/TEND/PRUNE whole note, feels disjointed and doesn't flow well %%
+
+While I am an atheist, I don't really try to convert people, I still have lots of good relationships with Christians, and I still see value in [[faith]]. When I discuss [[belief]] and [[worldview]] with other people, I want to learn about how they see and understand the world so that I can better understand them, and learn from them.
 
 In my experience, most people's [[worldview]]s are not inherently objectionable.
 It is their apathy towards [[injustice]], or misguided support of it that is objectionable.

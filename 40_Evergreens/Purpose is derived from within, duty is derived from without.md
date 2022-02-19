@@ -11,6 +11,8 @@ sr-ease: 170
 
 #### [[Purpose is derived from within, duty is derived from without]] `$=customjs.dv_funcs.evergreenheader(dv, this)`
 
+Purpose is not something that can be given to us, it is something we have to choose. 
+[[How to discover your purpose in life]]
 - [[notes_Dharma]] [[notes_Karma]] 
 - [[notes_How to achieve]]
 - [[Humans are drawn to the unknown and repelled by the known]]
