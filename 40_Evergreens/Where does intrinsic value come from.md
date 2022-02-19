@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/14, review, node/evergreen/question
-sr-due: 2022-02-18
-sr-interval: 3
-sr-ease: 230
+sr-due: 2022-02-21
+sr-interval: 2
+sr-ease: 210
 ---
 
 #### [[Where does intrinsic value come from]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
