@@ -15,6 +15,7 @@ sr-ease: 230
 - [[video_Problems with gas stovetops - weak, dirty and dangerous]]
 - [[video_It’s Time To Break Up With Our Gas Stoves]]
 
+Even [[@hankgreen on Twitter|Hank Green]] made a video on it [You Don't Want a Gas Stovetop - YouTube](https://www.youtube.com/watch?v=Bcqah8U_uKA)
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
