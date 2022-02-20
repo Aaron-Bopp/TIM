@@ -2,8 +2,8 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-02-20
-sr-interval: 25
+sr-due: 2022-04-24
+sr-interval: 63
 sr-ease: 246
 ---
 
@@ -23,9 +23,11 @@ feed into:: [[Humans are addicted to believing]]
 
 While the discussion of what individual religions bring to the table can get quite specific, I think in general it comes down to the fact that [[Belief pulls you forward into life]].
 
+%% 
+#TO/TEND/GRAFT  new thoughts from[[books_Darwin's Cathedral]] %%
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[materialism]], [[religion]], [[history]]
