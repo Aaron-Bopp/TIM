@@ -15,7 +15,6 @@ The first indirect evidence for the existence of gravitational waves came from t
 
 In gravitational-wave [[astronomy]], observations of gravitational waves are used to infer data about the sources of gravitational waves. Sources that can be studied this way include binary star systems composed of white dwarfs, neutron stars, and black holes; and events such as supernovae, and the formation of the early universe shortly after the Big Bang.
 
-
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

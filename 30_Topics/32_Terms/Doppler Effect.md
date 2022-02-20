@@ -9,7 +9,7 @@ tags: created/topic/2022/02/16, node/topic/term
 
 ##### <s class="topic-title">[[Doppler Effect]]</s>
 
-![[tiktok - doppler effect.mp4|sm]]
+
 
 > [!wikipedia:[Doppler Effect](https://en.wikipedia.org/wiki/Doppler%20effect)]
 > 
@@ -20,6 +20,7 @@ tags: created/topic/2022/02/16, node/topic/term
 > For waves that propagate in a medium, such as sound waves, the velocity of the observer and of the source are relative to the medium in which the waves are transmitted. The total Doppler effect may therefore result from motion of the source, motion of the observer, or motion of the medium. Each of these effects is analyzed separately. For waves which do not require a medium, such as electromagnetic waves or gravitational waves, only the relative difference in velocity between the observer and the source needs to be considered. When this relative velocity is not negligible compared to the speed of light, a more complicated relativistic Doppler effect arises.
 >
 
+![[tiktok - doppler effect.mp4|sm]]
 
 **See**:: [[physics]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
