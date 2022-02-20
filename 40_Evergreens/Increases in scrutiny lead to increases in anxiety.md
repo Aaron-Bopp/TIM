@@ -11,6 +11,8 @@ sr-ease: 150
 
 #### [[Increases in scrutiny lead to increases in anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+[[Social anxiety is a fear of social consequence]]
+
 [[Scrutiny]] increases and decreases throughout our life. We also may be more sensitive to [[scrutiny]] at different points in our life like during puberty or a new job.
 [[Self-hatred is born out of dissonance between self-image and self-perception]]
 

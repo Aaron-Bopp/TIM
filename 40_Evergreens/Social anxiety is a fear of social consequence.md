@@ -4,13 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/28, review, node/evergreen/claim
-sr-due: 2022-02-19
-sr-interval: 2
-sr-ease: 170
+sr-due: 2022-02-21
+sr-interval: 1
+sr-ease: 150
 ---
 
 #### [[Social anxiety is a fear of social consequence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/GRAFT 
+- [[Increases in scrutiny lead to increases in anxiety]]
 - [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 	- [[Anxiety stems from a lack of confidence for the future]]
 - [[Confidence is a feedback loop]]

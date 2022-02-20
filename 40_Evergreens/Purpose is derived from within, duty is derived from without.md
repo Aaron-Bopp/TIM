@@ -4,12 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-02-19
-sr-interval: 9
+sr-due: 2022-03-09
+sr-interval: 17
 sr-ease: 170
 ---
 
-#### [[Purpose is derived from within, duty is derived from without]] `$=customjs.dv_funcs.evergreenheader(dv, this)`
+#### [[Purpose is derived from within, duty is derived from without]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Purpose is not something that can be given to us, it is something we have to choose. 
 [[How to discover your purpose in life]]

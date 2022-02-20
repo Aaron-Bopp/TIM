@@ -2,18 +2,21 @@
 created: 2021-06-28
 edited: 2022-01-25
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-02-19
-sr-interval: 9
+sr-due: 2022-03-06
+sr-interval: 14
 sr-ease: 130
 ---
 
 #### [[A repressed self creates a mistrust of self-love and self-esteem]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-If your sense of self is [[repressed]] then it is unlikely that you have ever been able to interact with the world in a way that works #TO/PONDER/IDEA what does a repressed self look like?
+If your sense of self is [[repressed]] then it is unlikely that you have ever been able to interact with the world in a way that works.
 This means that you haven't developed an [[identity]] that lines up with your true [[self]] because
 [[Identity is your understanding of yourself vs your interaction with the world]].
-At this point your [[ego]] may construct an [[identity]] that matches your interaction with the world. 
+At this point your [[ego]] may construct an [[identity]] that matches your interaction with the world: 
+[[Our ego is our subconscious defense of our self]]
 
+ #TO/PONDER/IDEA what does a repressed self look like?
+ 
 [[A secure identity is the best defense against social anxiety]], because 
 [[Confidence comes when you are more capable of handling diverse outcomes]].
 But if you have a repressed [[identity]], you were never able to develop that [[confidence]], and likely feels large amounts of [[social anxiety]] because

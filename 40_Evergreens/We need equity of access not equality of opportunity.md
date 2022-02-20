@@ -4,14 +4,17 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/claim
-sr-due: 2022-02-19
-sr-interval: 4
+sr-due: 2022-03-03
+sr-interval: 11
 sr-ease: 190
 ---
 
 #### [[We need equity of access not equality of opportunity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[POV: When you get into Oxford & Cambridge but now "stack shelves" - YouTube](https://www.youtube.com/watch?v=zXGKI9_QzyU)
+> Talent exists everywhere, opportunity does not.
+> 
+> <cite>[POV: When you get into Oxford & Cambridge but now "stack shelves" - YouTube](https://www.youtube.com/watch?v=zXGKI9_QzyU)</cite>
+
 
 #TO/EXPLORE/RESEARCH definitions of [[equity]] and [[equality]]
 Not everybody has the same starting point in life.
@@ -31,5 +34,5 @@ There is also a [[neurodiversity]] angle to this #TO/PONDER/IDEA
 **Status**:: #EVER/WEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[social inequality]]
+**Topics**:: [[social inequality]], [[social order]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

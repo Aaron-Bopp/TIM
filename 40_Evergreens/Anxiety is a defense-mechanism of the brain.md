@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/13, review, node/evergreen/claim
-sr-due: 2022-02-19
-sr-interval: 2
+sr-due: 2022-02-26
+sr-interval: 6
 sr-ease: 210
 ---
 
@@ -13,6 +13,7 @@ sr-ease: 210
 
 We can see this in [[Attachment fuels anxiety]], as if we are attached to something our brain with want to protect against the grief of losing that thing.
 
+#TO/TEND/GRAFT 
 - [[Our brains are built around survival]]
 - [[Our brain will do anything it can to protect itself]]
 - [[Our brain actively inhibits us from processing repressed emotions]]

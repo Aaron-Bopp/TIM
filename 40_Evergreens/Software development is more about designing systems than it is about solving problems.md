@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/05, review, node/evergreen/claim
-sr-due: 2022-02-18
-sr-interval: 8
-sr-ease: 230
+sr-due: 2022-02-24
+sr-interval: 4
+sr-ease: 210
 ---
 
 #### [[Software development is more about designing systems than it is about solving problems]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

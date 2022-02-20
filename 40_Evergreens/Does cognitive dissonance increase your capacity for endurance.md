@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/24, review, node/evergreen/question 
-sr-due: 2022-02-19
-sr-interval: 13
+sr-due: 2022-03-12
+sr-interval: 20
 sr-ease: 150
 ---
 
@@ -28,7 +28,7 @@ It feels like the people who are under the most pressure are often the ones who 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED  
+**Status**:: #EVER/WEED   
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive dissonance]], [[human advancement]], [[progress]]

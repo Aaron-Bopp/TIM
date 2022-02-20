@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/25, review, node/evergreen/claim
-sr-due: 2022-02-19
-sr-interval: 7
+sr-due: 2022-03-05
+sr-interval: 13
 sr-ease: 150
 ---
 
@@ -26,5 +26,3 @@ sr-ease: 150
 
 **Topics**:: [[organization]], [[knowledge work]], [[creativity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
