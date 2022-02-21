@@ -18,6 +18,11 @@ This is especially effective in academic research papers, as they will usually c
 - Undermines hypothesis: Red
 - Methods: Purple
 
+This is also very helpful when reading books. For fiction I use different colors for different themes, but for non-fiction I do something similar to research papers.
+- Yellow (or the default color): Things I agree with without persuasion
+- Blue: Supports that general thesis of the book and isn't yellow
+- Orange: Outside information or verifiable information
+- Magenta: Personally interesting me
 ![[articles_General Principles#270306743q]]
 [[How to read to understand]]
 

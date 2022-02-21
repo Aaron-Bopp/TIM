@@ -49,7 +49,7 @@ highlight_tags:: [[header]]
 
   
 %%
-highlight_tags:: [[pyschology]]
+highlight_tags:: [[Psychology]]
 %%
 
 ###### ^230131866q
