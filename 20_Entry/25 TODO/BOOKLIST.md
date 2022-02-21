@@ -15,4 +15,3 @@ Multiple books similar to the theory of everything [Understanding human collecti
 - [[patriarchy book.mp4]]
 - [[more books.mp4]]
 - [[book reccomendations.mp4]]
-- 
