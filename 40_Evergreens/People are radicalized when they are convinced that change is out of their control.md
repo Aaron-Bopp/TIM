@@ -11,7 +11,7 @@ sr-ease: 190
 
 #### [[People are radicalized when they are convinced that change is out of their control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-%%
+
 #TO/TEND/MULCH 
 The incel movement is based off two major things
 1. [[mysogyny]]
@@ -22,12 +22,12 @@ The myth of the chad is the thing that is important here. This is the idea that 
 This ideal body is completely unattainable and that is what leads incels to Radicalization or the "red pill."
 
 An interesting connection may be to left-wing radicals, who are radicalized by the complete brokenness of the system. 
- 
-%%
+
+interesting example of escaping the [[alt-right pipeline]]: [i had a ben shapiro/jordan peterson phase... and i'm glad i did - YouTube](https://www.youtube.com/watch?v=R3r01BruBok)
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[radicalization]], [[social progress]]
