@@ -520,3 +520,138 @@ highlight_tags:: [[orange]]
 
 [^288838119]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=639
 
+# New highlights added February 22, 2022 at 6:43 PM
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^289554214q
+
+> there is also a penumbra between the bright and dark regions: a region which can receive light from some parts of the filament but not from others. 
+  [^289554214]
+
+[^289554214]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=618
+
+
+
+
+###### ^289554226q
+
+> And because the filament is not a geometrical point, but has a certain size, ... If one observes from within the penumbra, one can see only part of the filament and the illumination is less there than in the fully illuminated, bright region. 
+  [^289554226]
+
+[^289554226]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=618
+
+
+
+
+###### ^289554216q
+
+> FIGURE 2.5 The pattern of light and shadow formed by white light after passing through a small circular hole. 
+  [^289554216]
+
+[^289554216]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=651
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^289554217q
+
+> FIGURE 2.7 The shadows cast by a barrier containing (a) four and (b) two straight, parallel slits. 
+  [^289554217]
+
+[^289554217]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=684
+
+
+
+
+###### ^289554218q
+
+> Interference is not a special property of photons alone. Quantum theory predicts, and experiment confirms, that it occurs for every sort of particle. 
+  [^289554218]
+
+[^289554218]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=732
+
+
+
+
+###### ^289554219q
+
+> reality is a much bigger thing than it seems, and most of it is invisible. The objects and events that we and our instruments can directly observe are the merest tip of the iceberg. 
+  [^289554219]
+
+[^289554219]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=735
+
+
+
+
+###### ^289554220q
+
+> For it turns out that shadow particles are partitioned among themselves in exactly the same way as the universe of tangible particles is partitioned from them. In other words, they do not form a single, homogeneous parallel universe vastly larger than the tangible one, but rather a huge number of parallel universes, 
+  [^289554220]
+
+[^289554220]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=743
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^289554221q
+
+> multiverse, has been coined to denote physical reality as a whole. 
+  [^289554221]
+
+[^289554221]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=752
+
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^289554222q
+
+> Indeed, the total density of shadow atoms in even the lightest fog would be more than sufficient to stop a tank, let alone a photon, if they could all affect it. 
+  [^289554222]
+
+[^289554222]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=767
+
+##### ^289554223
+
+Is an intuitive universe that you can explain any better than one that you can't? Both require belief  
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^289554223q
+
+> As I hope to persuade readers who bear with me, understanding the multiverse is a precondition for understanding reality as best we can. Nor is this said in a spirit of grim determination to seek the truth no matter how unpalatable it may be (though I hope I would take that attitude if it came to it). It is, on the contrary, because the resulting world-view is so much more integrated, and makes more sense in so many ways, than any previous world-view, 
+  [^289554223]
+
+[^289554223]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=788
+
+##### ^289554224
+
+This is what ive always heard  
+
+
+###### ^289554224q
+
+> ‘A tangible photon is real; a shadow photon is merely a way in which the real photon could possibly have behaved, but did not. Thus quantum theory is about the interaction of the real with the possible.’ 
+  [^289554224]
+
+[^289554224]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=795
+
+
+
+
+###### ^289554225q
+
+> ‘The possible’ cannot interact with the real: non-existent entities cannot deflect real ones from their paths. 
+  [^289554225]
+
+[^289554225]: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=800
+

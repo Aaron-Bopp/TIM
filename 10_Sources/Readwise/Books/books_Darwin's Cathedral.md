@@ -371,3 +371,88 @@ highlight_tags:: [[orange]]
 
 [^288878742]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=290
 
+# New highlights added February 22, 2022 at 6:43 PM
+### CHURCH AS ORGANISM
+### THE VIEW FROM EVOLUTIONARY BIOLOGY
+#### ADAPTATION AND FUNCTIONALIST THINKING
+#### THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE
+#### DARWIN’S SOLUTION TO THE FUNDAMENTAL PROBLEM
+#### EVOLUTIONARY THEORY’S WRONG TURN
+##### How to see group selection
+##### How to define groups
+
+
+
+###### ^288936969q
+
+> we do not want to return to the days when groups were axiomatically assumed to function as adaptive units. The point is to achieve a middle ground in which the importance of the various levels of natural selection are examined on a case-by-case basis, using a procedure that allows group selection to be seen where it exists. 
+  [^288936969]
+
+[^288936969]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=326
+
+#### MAJOR TRANSITIONS OF LIFE
+
+
+
+###### ^288936970q
+
+> it has become increasingly certain that evolution also takes place along a different pathway: by social groups becoming so functionally integrated that they become higher-level organisms in their own right. One of the first to propose this radical new theory was Lynn Margulis (1970), who claimed that eukaryotic cells—the nucleated cells of all organisms other than bacteria—are actually symbiotic communities of bacteria whose members led a more autonomous existence in the distant past. Now it appears likely that similar transitions, from groups of organisms to groups as organisms, have occurred throughout the history of life, right down to the origin of life itself as social groups of cooperating molecular reactions 
+  [^288936970]
+
+[^288936970]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=339
+
+
+
+
+###### ^289554236q
+
+> The laws of genetics and development, which originally referred merely to general patterns, have acquired an eerie resemblance to the other meaning of the word law—a social contract enforced by punishment. 
+  [^289554236]
+
+[^289554236]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=370
+
+
+
+
+###### ^289554237q
+
+> Then we discover that they are not performed voluntarily because birds that fail to call are severely punished by other birds. Calling no longer qualifies as altruistic, but we still must explain the evolution of the punishing behavior that makes calling selfish. 
+  [^289554237]
+
+[^289554237]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=378
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^289554238q
+
+> second-order public goods problem: causing another to perform a public good is itself a public good 
+  [^289554238]
+
+[^289554238]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=381
+
+
+
+
+###### ^289554239q
+
+> Social control can be regarded as a form of low-cost altruism that evolves to promote behaviors that would qualify as high-cost altruism if they were performed voluntarily. Elliott Sober and I call this “the amplification of altruism” 
+  [^289554239]
+
+[^289554239]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=383
+
+
+%%
+highlight_tags:: [[pink]]
+%%
+
+###### ^289554240q
+
+> Social control mechanisms are obviously relevant to religious groups, which are based on much more than voluntary altruism. 
+  [^289554240]
+
+[^289554240]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=392
+
+#### HUMAN GROUPS AS ADAPTIVE UNITS
