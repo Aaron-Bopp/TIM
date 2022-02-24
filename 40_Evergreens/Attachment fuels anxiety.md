@@ -4,15 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/11, review, node/evergreen/claim
-sr-due: 2022-02-21
-sr-interval: 4
+sr-due: 2022-03-10
+sr-interval: 14
 sr-ease: 210
 ---
 
 #### [[Attachment fuels anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[The ultimate goal of the mind is to keep thinking]],
-and attachment is a major driver for [[attention]] and thus what we put [[energy]] into.
+and [[attachment]] is a major driver for [[attention]] and thus what we put [[energy]] into.
 If you are attached to some event in the future, 
 your [[brain]] will take advantage of that.
 ^[[[notes_Thought Loops]]]
@@ -29,8 +29,8 @@ but
 This is made more complicated by
 [[Your anxiety knows your insecurities better than you do]]
 but
-[[Most anxiety isn't irrational it's just overcompensation]],
-if you can gain perspective and [[objectivity]] over your anxiety, 
+[[Most anxiety isn't irrational it's just overcompensation]].
+If you can gain perspective and [[objectivity]] over your anxiety, 
 you can prevent the negative effects of
 [[Anxiety causes us to reject nuance]].
 This is why [[detachment]] is so powerful for reducing [[anxiety]],

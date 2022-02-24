@@ -1,8 +1,6 @@
 
 #TO/EXPLORE/READ  [Levenshtein distance - Wikipedia](https://en.m.wikipedia.org/wiki/Levenshtein_distance)
 
-> We all deserve to have our needs met by a [[compassionate expert]] - [[John Green]]
-
 #TO/EXPLORE/WATCH [There is No Algorithm for Truth - with Tom Scott - YouTube](https://www.youtube.com/watch?v=leX541Dr2rU)
 resources for implementing [[Dewey Decimal System]] https://www.librarything.com/mds https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf
 
