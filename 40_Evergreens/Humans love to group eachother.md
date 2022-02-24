@@ -4,8 +4,8 @@ edited:
 aliases:
   - humans love for grouping eachother
 tags: created/evergreen/2021/10/19, review, node/evergreen/claim
-sr-due: 2022-02-21
-sr-interval: 33
+sr-due: 2022-05-03
+sr-interval: 68
 sr-ease: 199
 ---
 

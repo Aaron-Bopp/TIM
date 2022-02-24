@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/20, review, node/evergreen/nugget
-sr-due: 2022-02-20
-sr-interval: 1
+sr-due: 2022-03-01
+sr-interval: 6
 sr-ease: 230
 ---
 

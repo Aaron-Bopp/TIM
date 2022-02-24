@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-02-21
-sr-interval: 15
-sr-ease: 190
+sr-due: 2022-03-05
+sr-interval: 9
+sr-ease: 170
 ---
 
 #### [[Self-belief is fundamental to good karma]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -14,7 +14,7 @@ sr-ease: 190
 [[Karma is based in the law of cause and effect]], so every action we take has an impact in the world, but [[Karma Fal]] is the belief that we have no control over those impacts, only our actions:
 [[You can't control what happens]]
 
-Thus [[self-belief]] is vital to have good karma as we must believe that we have the capability to continue pursuing right actions no matter the outcome:
+Thus [[self-belief]] is vital to have good [[karma]] as we must believe that we have the capability to continue pursuing right actions no matter the outcome:
 [[Right kinds of thoughts lead to right kinds of actions]]
 
 This is part of how [[Buddhism outlines a path and practice to end suffering, but does not promise it]]

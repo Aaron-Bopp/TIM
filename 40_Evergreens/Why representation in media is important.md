@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/17, review, node/evergreen/question 
-sr-due: 2022-02-20
-sr-interval: 14
+sr-due: 2022-03-23
+sr-interval: 27
 sr-ease: 170
 ---
 
@@ -25,7 +25,7 @@ You don't need to be able to see yourself in everything but everybody should be 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited January 19, 2022*
 
 **Topics**:: [[coming out]], [[Queer Community]], [[marginalization]], [[self-actualization]]

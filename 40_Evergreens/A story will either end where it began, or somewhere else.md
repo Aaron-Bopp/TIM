@@ -4,18 +4,16 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/09, review, node/evergreen/claim
-sr-due: 2022-02-20
-sr-interval: 36
+sr-due: 2022-04-29
+sr-interval: 64
 sr-ease: 170
 ---
 
 #### [[A story will either end where it began, or somewhere else]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This is an obvious but profound fact.
-
 this is about change and journey in our lives
 
-#TO/DO/FIND qoute from video 
+source:: a video by [[CJ The X]]
 
 [[We are confined to the tools of our time]] 
 - [[Sometimes we can't grow until we change our environment]]

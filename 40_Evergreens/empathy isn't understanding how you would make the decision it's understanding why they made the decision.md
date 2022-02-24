@@ -4,15 +4,14 @@ edited:
 tags: created/evergreen/2021/07/04, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-21
-sr-interval: 24
+sr-due: 2022-04-20
+sr-interval: 55
 sr-ease: 208
 ---
 
 #### [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
-People will often try to conceptualize how somebody made a choice and fail often because they think it is illogical or immoral, but they are trying to understand how they would make the decision not why the other person made the decision.
+People will often try to conceptualize how somebody made a choice and fail often because they think it is illogical or immoral, but they are trying to understand how they would make the decision not why the other person made the decision. %% #TO/TEND/PRUNE  %%
 [[Having extreme and uncontrollable empathy is dangerous]], but
 not being able to put yourself in someone else's shoes is a fault on your part.
 ^[[[Consciousness is our capacity to introspect]]]
@@ -26,8 +25,8 @@ This [[emotional mirroring]] will help to bridge the gap of [[understanding]] be
 When entering in to this mindset it is important to remember 
 [[Empathy does not disallow judgment]].
 
-This idea is especially important for [[Christianity|Christians]], because [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]].  
-The reason they struggle to put themselves into the shoe's of non-christians is 
+This idea is especially important for [[Christianity|Christians]], because [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]].
+The reason they struggle to put themselves into the shoe's of non-christians is
 [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 
 %%[[Meditation helps us develop empathy]]%%

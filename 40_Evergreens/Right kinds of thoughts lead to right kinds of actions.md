@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-02-21
-sr-interval: 4
+sr-due: 2022-03-07
+sr-interval: 11
 sr-ease: 170
 ---
 
@@ -14,7 +14,7 @@ sr-ease: 170
 Every action must be proceeded by a thought,
 so if we fill our [[mind]] with productive thoughts then we will have productive actions.
 If we can focus our thoughts on one action over time we will see positive benefits or [[karma]].
-[[Dharana]] is training our [[mind]] to do this, and though it we develop our [[motivation]]:
+[[Dharana]] is training our [[mind]] to do this, and through it we develop our [[motivation]]:
 [[Motivation and obsession are indistinguishable to an outside perspective]]
 
 #TO/TEND/GRAFT 

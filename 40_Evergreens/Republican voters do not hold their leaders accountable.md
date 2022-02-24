@@ -4,9 +4,9 @@ edited:
 tags: created/evergreen/2021/07/30, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-20
-sr-interval: 64
-sr-ease: 230
+sr-due: 2022-03-28
+sr-interval: 32
+sr-ease: 210
 ---
 
 #### [[Republican voters do not hold their leaders accountable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

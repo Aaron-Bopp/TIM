@@ -4,8 +4,8 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/24, review, node/evergreen/claim
-sr-due: 2022-02-20
-sr-interval: 5
+sr-due: 2022-03-07
+sr-interval: 12
 sr-ease: 150
 ---
 
@@ -17,6 +17,7 @@ There is a level of [[objectivity]] that can come from [[detachment]]. This is t
 - [[Karma Fal]]
 - [[Self-belief is fundamental to good karma]]
 - [[You can't control what happens]]
+- [[Attachment fuels anxiety]]
  
 
 ### <hr class="footnote"/>
