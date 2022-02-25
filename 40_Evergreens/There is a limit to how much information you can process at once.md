@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/claim
-sr-due: 2022-02-21
-sr-interval: 4
-sr-ease: 210
+sr-due: 2022-02-28
+sr-interval: 3
+sr-ease: 190
 ---
 
 #### [[There is a limit to how much information you can process at once]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/19, review, node/evergreen/nugget
-sr-due: 2022-02-21
-sr-interval: 2
+sr-due: 2022-03-08
+sr-interval: 11
 sr-ease: 230
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[physics]], [[biology]] 
