@@ -4,8 +4,8 @@ edited:
 aliases:
   - reduced working memory
 tags: created/evergreen/2021/10/20, review, node/evergreen/claim
-sr-due: 2022-02-24
-sr-interval: 52
+sr-due: 2022-07-09
+sr-interval: 134
 sr-ease: 255
 ---
 
