@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/04, review, node/evergreen/claim
-sr-due: 2022-02-23
-sr-interval: 13
+sr-due: 2022-03-31
+sr-interval: 34
 sr-ease: 250
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 250
 1. I do not think we will reach a level of computing high enough to simulate human thought. 
 This is due to the death of [[Moore's law]] and the limits of [[quantum computing]]
 1. If we did reach that level of computing, why would we create a simulation with so many limitations?
-Relativity and the limit of the speed of light, evolution as a mechanism of change, all these things are extremely inefficient at creating an interesting world.
+Relativity and the limit of the speed of light, evolution as a mechanism of change, all these things are extremely inefficient at creating an interesting [[universe]].
 
 #TO/TEND/MULCH 
 At the core of [[theology]] is the [[belief]] that the world does not make sense without a creator, due to the complexity of life. 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-02-22
-sr-interval: 16
+sr-due: 2022-03-29
+sr-interval: 32
 sr-ease: 190
 ---
 
@@ -20,6 +20,7 @@ While there are many beliefs that follow from this, believing in [[karma]] does 
 - [[Accepting responsibility is not only about your actions]]
 - [[You can't control what happens]] 
 
+#TO/TEND/GRAFT 
 - [[Self-belief is fundamental to good karma]]
 - [[Yoga is a wholistic philosophy of self-improvement]]
 - [[Worldviews should be open ended and adaptive]]

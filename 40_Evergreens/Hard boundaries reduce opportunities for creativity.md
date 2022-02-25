@@ -11,6 +11,9 @@ sr-ease: 150
 
 #### [[Hard boundaries reduce opportunities for creativity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+If you silo yourself into one line of thinking you will hurt your ability to accept new [[information]]. This is why we often find it easier to learn as children, and why [[childhood]] [[trauma]] can be so impactful: 
+[[Rationalizations are defense-mechanisms against strong emotions]]
+
 - [[Hard rules create cognitive bias]]
 	- [[Only organize as much as your data requires]]
 - [[Your second brain should be an inspirational hub of creativity]]

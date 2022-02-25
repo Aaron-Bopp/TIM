@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-02-22
-sr-interval: 25
+sr-due: 2022-04-14
+sr-interval: 48
 sr-ease: 190
 ---
 
@@ -22,7 +22,7 @@ and more easily recognize what they need to do to succeed.
 
 #TO/PONDER/IDEA 
 - [[notes_How to achieve]]
-- [[notes_How to achieve]]
+- [[notes_What is achievement]]
 
 ##### On a scientific level
 
@@ -41,7 +41,7 @@ This is [[Tantra]], [[manifestation]] of our will into the world.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[meditation]], [[influence]]

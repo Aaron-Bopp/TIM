@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/10, review, node/evergreen/claim
-sr-due: 2022-02-23
-sr-interval: 9
+sr-due: 2022-03-23
+sr-interval: 26
 sr-ease: 230
 ---
 
@@ -19,5 +19,5 @@ There isn't a problem with defining things. Words should have meaning, but the p
 **Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[social order]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

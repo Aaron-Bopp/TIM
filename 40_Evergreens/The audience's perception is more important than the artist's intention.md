@@ -4,13 +4,16 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/09, review, node/evergreen/claim
-sr-due: 2022-02-22
-sr-interval: 7
-sr-ease: 210
+sr-due: 2022-03-01
+sr-interval: 4
+sr-ease: 190
 ---
 
 #### [[The audience's perception is more important than the artist's intention]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+- [[There is a difference between thinking and creating]]
+- [[Communication provides the opportunity to shape other's perceptions]]
+ 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

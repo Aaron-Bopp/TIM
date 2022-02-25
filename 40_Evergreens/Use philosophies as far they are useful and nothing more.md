@@ -4,15 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/06, review, node/evergreen/claim
-sr-due: 2022-02-23
-sr-interval: 32
+sr-due: 2022-04-25
+sr-interval: 59
 sr-ease: 170
 ---
 
 #### [[Use philosophies as far they are useful and nothing more]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-[[Hard boundaries reduce opportunities for creativity]], if you silo yourself into one line of thinking you will hurt your ability to accept new [[information]]. This is why we often find it easier to learn as children, and why [[childhood]] [[trauma]] can be so impactful: 
-[[Rationalizations are defense-mechanisms against strong emotions]]
 
 #TO/TEND/GRAFT 
 - [[The way systems work can create cognitive bias]]

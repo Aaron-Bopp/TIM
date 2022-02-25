@@ -13,7 +13,7 @@ sr-ease: 130
 
 From:: [[Parents need to model the ability to deal with emotion to their children]]
 
-In [[Social Learning Theory]], imitation is one of four key mechanism for social learning, 
+In [[Social Learning Theory]], imitation is one of four key mechanism for social [[learning]], 
 and children are more likely to imitate the actions of authority figures, most often [[parents]].
 %%Why? #TO/PONDER/IDEA %%
 

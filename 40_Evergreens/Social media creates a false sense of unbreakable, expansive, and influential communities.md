@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/10/17, review, node/evergreen/claim
-sr-due: 2022-02-22
-sr-interval: 49
+sr-due: 2022-06-01
+sr-interval: 96
 sr-ease: 190
 ---
 
 #### [[Social media creates a false sense of unbreakable, expansive, and influential communities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Social media]] uses [[algorithmic content]] to deliver you the content that you want when you want it and for as long as you want it. This gives us the sense that we are part of a greater [[community]] of people on the [[internet]]. We will see the same content creators time and time again, they may even start to recognize us, but this [[community]] is fragile.
+[[Social media]] uses [[algorithmic content]] to deliver you the content that you want, when you want it, and for as long as you want it. This can create a strong sense of [[community]] as you see the same content creators time and time again, and they start to recognize you, but this [[community]] is fragile.
 
 This is because the [[community]] can be removed at anytime (banned, algorithm changes, whims of [[culture]]), it can be overrun by foul actors (through some algorithmic method), it can only be kept through constant interaction with the community.
 Yet while you are in it, you come to rely on it because
@@ -21,6 +21,7 @@ Yet while you are in it, you come to rely on it because
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJtNmd1kV44?start=971" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Related to:: [[The internet allows niche topics to flourish]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 

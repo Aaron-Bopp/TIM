@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/24, review, node/evergreen/claim
-sr-due: 2022-02-24
-sr-interval: 1
+sr-due: 2022-02-28
+sr-interval: 3
 sr-ease: 230
 ---
 
@@ -16,11 +16,10 @@ sr-ease: 230
 A lot of the [[suffering]] in the world comes from being unable to access the [[information]] we need to.
 A [[compassionate expert]] will embody [[The joy of learning is contagious]].
 
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[social order]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

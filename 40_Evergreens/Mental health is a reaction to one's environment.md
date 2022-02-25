@@ -4,8 +4,8 @@ edited: 2022-01-25
 tags: created/evergreen/2021/08/08, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-23
-sr-interval: 17
+sr-due: 2022-03-25
+sr-interval: 28
 sr-ease: 152
 ---
 
@@ -26,12 +26,15 @@ produce more complex emotional reactions.
 [[Biology supports the validity of trans people]] and [[Complex emotions are intellectual understandings of primal urges]], so often there will be many comorbid [[mental illness]] that can be treated, when the chemical imbalances in your brain are the root cause. 
 %%
 
-Ways to alter our environment: [[Tips for concentration]]
+Ways to alter our environment: 
+- [[Tips for concentration]]
+- [[Meditation is a practice to gain control over your thoughts]]
 
 #TO/TEND/GRAFT 
 - [[Anxiety prevents us from living in the present]]
 - [[Anxiety causes us to reject nuance]]
 - [[Sometimes we can't grow until we change our environment]]
+- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 
 ### <hr class="footnote"/>
 
