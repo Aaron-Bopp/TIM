@@ -169,3 +169,5 @@ sr-ease: 230
 
 [^212148986]: https://readwise.io/to_kindle?action=open&asin=B01N80JO4W&location=2176
 
+# New highlights added February 26, 2022 at 12:58 PM
+##### Shame Around Your Very Existence

@@ -456,3 +456,90 @@ highlight_tags:: [[pink]]
 [^289554240]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=392
 
 #### HUMAN GROUPS AS ADAPTIVE UNITS
+# New highlights added February 26, 2022 at 12:58 PM
+##### ^291449823
+
+This lines up with [[books_The Dawn of Everything]]  
+
+
+###### ^291449823q
+
+> evolutionary biologists have tended to regard ancestral human groups as mere collections of self-interested individuals, exhibiting nepotism and niceness toward those who can return the favor but by no means qualifying as societal organisms.11 Multilevel selection theory makes it appear more likely that ancestral human groups were potent units of selection 
+  [^291449823]
+
+[^291449823]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=401
+
+##### ^291449824
+
+The author may not be covering the full breadth of early human experience, but that doesnt mean thst his evolutionary analysis cannot be more broadly applied.  
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^291449824q
+
+> Hunter-gatherers are egalitarian, not because they lack selfish impulses but because selfish impulses are effectively controlled by other members of the group. This form of guarded egalitarianism has been called “reverse dominance” 
+  [^291449824]
+
+[^291449824]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=417
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^291449825q
+
+> Earlier theories of hunter-gatherer egalitarianism focused on ecological conditions such as dispersed and unpredictable resources. In contrast, Boehm explains egalitarianism in terms of social norms, a shared understanding of do’s and don’ts that are enforced by rewards and punishments. 
+  [^291449825]
+
+[^291449825]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=424
+
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^291449826q
+
+> The concept of human groups as moral communities shows how much has been missed by kin selection theory, which predicts that prosocial behaviors should be directed primarily toward genetic relatives. 
+  [^291449826]
+
+[^291449826]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=429
+
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^291449827q
+
+> The concept of human groups as moral communities also shows how much has been missed by the concept of reciprocal altruism, which predicts that prosocial behavior should be directed primarily toward those who will return the favor. 
+  [^291449827]
+
+[^291449827]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=433
+
+##### ^291449828
+
+Pushback against [[reciprocal altruism]]  
+
+
+###### ^291449828q
+
+> Consider a group whose members believe that it is right to help others in proportion to need rather than the likelihood of return gains. Individuals who abide by the norm are rewarded, those who violate the norm are punished, and the group (let us say) prospers compared to groups whose members restrict helping to those who will return the favor. 
+  [^291449828]
+
+[^291449828]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=435
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^291449835q
+
+> The Chewong are a tribe that inhabits the rain forest of the Malay peninsula (Howell 1984).13 They combine hunting and gathering with shifting agriculture, ... The distribution of food and other scarce items is governed by a system of superstitions known as punen, which roughly means “a calamity or misfortune, owing to not having satisfied an urgent desire”: 
+  [^291449835]
+
+[^291449835]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=443
+

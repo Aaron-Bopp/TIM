@@ -103,3 +103,18 @@ highlight_tags:: [[europe]]
 
 [^291063229]: https://joincake.com/blog/ancestor-worship?__readwiseLocation=0%2F0%2F52%2F3%2F1%2F1%2F1%2F1%2F3%2F3%2F7%3A42%2C0%2F0%2F54%2F3%2F1%2F1%2F1%2F1%2F3%2F3%2F7%3A140#:~:text=one%20of%20the%20most%20long-lasting%2Cobjects%20alongside%20the%20corpses%2C%20too.
 
+# New highlights added February 26, 2022 at 12:58 PM
+
+
+
+###### ^291157531q
+
+> Large *shi* gatherings often take place as a type of family reunion, where many ancestors can gather together in the forms of their personators. At the ceremony, they eat and drink, as well as enjoy blessings from living family members. ... Each family typically gives its donation of food (usually cooked rice) to the Buddhist monks. The merit earned by making this donation to the monks is thought to transfer to departed ancestors in the spirit world. 
+
+
+
+
+###### ^291155375q
+
+> For the ritual of Pchum Ben, celebrants typically honor departed relatives and ancestors going as far back as seven generations ... Each family typically gives its donation of food (usually cooked rice) to the Buddhist monks. The merit earned by making this donation to the monks is thought to transfer to departed ancestors in the spirit world. 
+
