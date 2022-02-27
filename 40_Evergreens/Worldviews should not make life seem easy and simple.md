@@ -4,8 +4,8 @@ edited:
 aliases:
   - worldviews that make life seems easy and simple
 tags: created/evergreen/2021/10/18, review, node/evergreen/claim
-sr-due: 2022-02-25
-sr-interval: 9
+sr-due: 2022-03-13
+sr-interval: 15
 sr-ease: 148
 ---
 

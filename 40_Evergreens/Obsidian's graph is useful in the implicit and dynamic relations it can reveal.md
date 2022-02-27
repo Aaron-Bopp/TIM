@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-02-25
-sr-interval: 66
+sr-due: 2022-07-28
+sr-interval: 152
 sr-ease: 230
 ---
 
@@ -29,7 +29,7 @@ You should be surprised at the links and the closeness you are seeing between no
 
 As you spend more time in the graph, you will start to recognize related structures of notes: three notes that are always in a line, two notes that are always right next to eachother despite not being linked. These show you implicit relationships that exist within your [[knowledge]]. 
 As you add to your vault, you will be able to notice these structures shift and change, and you can ask why this is happening. 
-^[[[Evergreen notes organize knowledge so that it can grow]]]
+^[While the goal is interconnect topics with enough links for the graph to be relatively static, [[Evergreen notes organize knowledge so that it can grow]]. Observing the movement of notes over time can give insight to this.]
 To see an idea of what this will look like take a look at my [[Graph Timeline]].
 
 ##### Counter:: Obsidian's graph is a distraction
