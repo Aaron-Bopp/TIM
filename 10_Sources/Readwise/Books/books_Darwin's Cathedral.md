@@ -1,23 +1,23 @@
 ---
-created: 2022-02-17
+created: 2022-02-27
 edited:
 aliases:
   - "Darwin's Cathedral"
   - "Darwin's Cathedral by David Sloan Wilson"
   - "David Sloan Wilson"
-tags: created/source/2022/02/17, node/source/books
+tags: created/source/2022/02/27, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-02-17
+sr-due: 2022-02-27
 sr-interval: 2
 sr-ease: 230
 ---
 # Darwin's Cathedral
 
-**Related**:: 
+**Covers**:: 
 *`=this.highlight_tags`*
 
 **Source**:: 
@@ -25,9 +25,8 @@ sr-ease: 230
 **Creator**:: [[David Sloan Wilson]]
 
 # Highlights
-##### ^287471877
+### CHURCH AS ORGANISM
 
-  
 
 
 ###### ^287471877q
@@ -49,9 +48,7 @@ The author starts his argument with an acknowledgement of the difficulty of the 
 
 [^287471878]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=64
 
-##### ^287471879
 
-  
 %%
 highlight_tags:: [[orange]]
 %%
@@ -65,9 +62,9 @@ highlight_tags:: [[orange]]
 
 ##### ^288175132
 
-  
+Of course Gods were then pushed into Buddhism despite this  
 %%
-highlight_tags:: [[pink]]
+highlight_tags:: [[buddhism]], [[pink]]
 %%
 
 ###### ^288175132q
@@ -77,9 +74,7 @@ highlight_tags:: [[pink]]
 
 [^288175132]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=79
 
-##### ^287471880
 
-  
 
 
 ###### ^287471880q
@@ -89,10 +84,8 @@ highlight_tags:: [[pink]]
 
 [^287471880]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=81
 
-# New highlights added February 19, 2022 at 8:17 AM
-##### ^288296631
+### THE VIEW FROM EVOLUTIONARY BIOLOGY
 
-  
 %%
 highlight_tags:: [[blue]]
 %%
@@ -104,9 +97,7 @@ highlight_tags:: [[blue]]
 
 [^288296631]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=96
 
-##### ^288296632
 
-  
 
 
 ###### ^288296632q
@@ -116,9 +107,7 @@ highlight_tags:: [[blue]]
 
 [^288296632]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=108
 
-##### ^288296633
 
-  
 
 
 ###### ^288296633q
@@ -128,9 +117,8 @@ highlight_tags:: [[blue]]
 
 [^288296633]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=113
 
-##### ^288296634
+#### ADAPTATION AND FUNCTIONALIST THINKING
 
-  
 
 
 ###### ^288296634q
@@ -154,9 +142,7 @@ highlight_tags:: [[orange]]
 
 [^288296635]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=123
 
-##### ^288296636
 
-  
 %%
 highlight_tags:: [[orange]]
 %%
@@ -168,9 +154,7 @@ highlight_tags:: [[orange]]
 
 [^288296636]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=125
 
-##### ^288296637
 
-  
 
 
 ###### ^288296637q
@@ -180,9 +164,8 @@ highlight_tags:: [[orange]]
 
 [^288296637]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=132
 
-##### ^288296638
+#### THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE
 
-  
 %%
 highlight_tags:: [[blue]]
 %%
@@ -194,9 +177,7 @@ highlight_tags:: [[blue]]
 
 [^288296638]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=137
 
-##### ^288296639
 
-  
 
 
 ###### ^288296639q
@@ -218,9 +199,7 @@ highlight_tags:: [[blue]]
 
 [^288296640]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=141
 
-##### ^288296641
 
-  
 %%
 highlight_tags:: [[blue]]
 %%
@@ -232,9 +211,7 @@ highlight_tags:: [[blue]]
 
 [^288296641]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=142
 
-##### ^288457438
 
-  
 
 
 ###### ^288457438q
@@ -244,9 +221,8 @@ highlight_tags:: [[blue]]
 
 [^288457438]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=162
 
-##### ^288633669
+#### DARWIN’S SOLUTION TO THE FUNDAMENTAL PROBLEM
 
-  
 
 
 ###### ^288633669q
@@ -256,9 +232,7 @@ highlight_tags:: [[blue]]
 
 [^288633669]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=179
 
-##### ^288633670
 
-  
 
 
 ###### ^288633670q
@@ -268,9 +242,7 @@ highlight_tags:: [[blue]]
 
 [^288633670]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=185
 
-##### ^288633671
 
-  
 
 
 ###### ^288633671q
@@ -280,9 +252,7 @@ highlight_tags:: [[blue]]
 
 [^288633671]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=193
 
-##### ^288633672
 
-  
 %%
 highlight_tags:: [[orange]]
 %%
@@ -294,9 +264,7 @@ highlight_tags:: [[orange]]
 
 [^288633672]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=197
 
-##### ^288633673
 
-  
 %%
 highlight_tags:: [[orange]]
 %%
@@ -308,9 +276,8 @@ highlight_tags:: [[orange]]
 
 [^288633673]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=206
 
-##### ^288838023
+#### EVOLUTIONARY THEORY’S WRONG TURN
 
-  
 
 
 ###### ^288838023q
@@ -320,24 +287,8 @@ highlight_tags:: [[orange]]
 
 [^288838023]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=229
 
-##### ^288838024
+##### How to see group selection
 
-  
-%%
-highlight_tags:: [[orange]]
-%%
-
-###### ^288838024q
-
-> A behavior is selfish when it increases the fitness of the actor, relative to other members of its group. A behavior is altruistic when it increases the fitness of the group, relative to other groups, and decreases the relative fitness of the actor within the group. 
-  [^288838024]
-
-[^288838024]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4325
-
-# New highlights added February 19, 2022 at 9:25 AM
-##### ^288878740
-
-  
 
 
 ###### ^288878740q
@@ -347,21 +298,8 @@ highlight_tags:: [[orange]]
 
 [^288878740]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=253
 
-##### ^288878741
+##### How to define groups
 
-  
-
-
-###### ^288878741q
-
-> When we consider the evolution of a single trait, there is much less ambiguity about what constitutes a group. 
-  [^288878741]
-
-[^288878741]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=282
-
-##### ^288878742
-
-  
 
 
 ###### ^288878742q
@@ -371,15 +309,6 @@ highlight_tags:: [[orange]]
 
 [^288878742]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=290
 
-# New highlights added February 22, 2022 at 6:43 PM
-### CHURCH AS ORGANISM
-### THE VIEW FROM EVOLUTIONARY BIOLOGY
-#### ADAPTATION AND FUNCTIONALIST THINKING
-#### THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE
-#### DARWIN’S SOLUTION TO THE FUNDAMENTAL PROBLEM
-#### EVOLUTIONARY THEORY’S WRONG TURN
-##### How to see group selection
-##### How to define groups
 
 
 
@@ -456,7 +385,6 @@ highlight_tags:: [[pink]]
 [^289554240]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=392
 
 #### HUMAN GROUPS AS ADAPTIVE UNITS
-# New highlights added February 26, 2022 at 12:58 PM
 ##### ^291449823
 
 This lines up with [[books_The Dawn of Everything]]  
@@ -542,4 +470,63 @@ highlight_tags:: [[orange]]
   [^291449835]
 
 [^291449835]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=443
+
+
+
+
+###### ^292537212q
+
+> Immunity from disproof might seem like a weakness from a narrow scientific perspective, but it can be a strength for a social system designed to regulate human behavior. 
+  [^292537212]
+
+[^292537212]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=481
+
+#### INNATE PSYCHOLOGY OF MORAL SYSTEMS
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^292537214q
+
+> we need to reconcile two seemingly contradictory facts: the fact that moral systems require innate psychological mechanisms, and the fact that they can rapidly evolve by cultural evolution. 
+  [^292537214]
+
+[^292537214]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=500
+
+##### ^292537215
+
+From Emlen 1975  
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^292537215q
+
+> Migratory birds stare at the night sky as nestlings and learn the center of rotation, which they use as adults to travel north and south 
+  [^292537215]
+
+[^292537215]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=505
+
+
+
+
+###### ^292537218q
+
+> our minds are also packed with specialized circuits that enable us to solve our own problems of survival and reproduction ... Psychologists should be trying to identify and understand these specialized circuits rather than pretending that human behavior can be derived from a few law-like mechanistic principles. 
+  [^292537218]
+
+[^292537218]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=513
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^288838024q
+
+> A behavior is selfish when it increases the fitness of the actor, relative to other members of its group. A behavior is altruistic when it increases the fitness of the group, relative to other groups, and decreases the relative fitness of the actor within the group. 
+  [^288838024]
+
+[^288838024]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4325
 

@@ -5,9 +5,9 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2840010,
+  "lastSavedStatusID": 2905390,
   "currentSyncStatusID": 0,
-  "refreshBooks": false,
+  "refreshBooks": true,
   "booksToRefresh": [],
   "booksIDsMap": {
     "Readwise/Articles/articles_How The System Works — The Enneagram Institute.md": "10381449",
@@ -141,14 +141,14 @@
     "Readwise/Articles/articles_Analysis  Survived + Punished.md": "13208511",
     "Readwise/Books/books_A Short History of Nearly Everything.md": "13475375",
     "Readwise/Articles/articles_Undiscovered Species - How Many Left to Find - Current Results.md": "13494069",
-    "Readwise/Books/books_The Road.md": "13443547",
     "Readwise/Articles/articles_Ancient Cave Art Full of Teenage Graffiti  Live Science.md": "13563373",
     "Readwise/Articles/articles_Understanding human collective behaviour  Autistic Collaboration.md": "12274772",
     "Readwise/Articles/articles_Milton’s ‘double empathy problem’ A summary for non-academics  Reframing Autism.md": "13657014",
     "Readwise/Books/books_The Fabric of Reality.md": "13645883",
-    "Readwise/Books/books_Darwin's Cathedral.md": "13657523",
     "Readwise/Books/books_The Anthropocene Reviewed.md": "13574278",
-    "Readwise/Books/books_You and Your Gender Identity.md": "9250064"
+    "Readwise/Books/books_You and Your Gender Identity.md": "9250064",
+    "Readwise/Books/books_The Road.md": "13443547",
+    "Readwise/Books/books_Darwin's Cathedral.md": "13657523"
   },
-  "reimportShowConfirmation": true
+  "reimportShowConfirmation": false
 }

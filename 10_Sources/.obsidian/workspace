@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readwise/Articles/articles_Decontextualizer - Paul Bricman.md",
+            "file": "Readwise/Books/books_Darwin's Cathedral.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/articles_Decontextualizer - Paul Bricman.md",
+                "file": "Readwise/Books/books_Darwin's Cathedral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "6c2e0ab17f2b512d",
   "lastOpenFiles": [
+    "Readwise/Books/books_Darwin's Cathedral.md",
+    "Readwise/Books/books_The Road.md",
     "Readwise/Articles/articles_Decontextualizer - Paul Bricman.md",
     "Readwise/Articles/articles_Analysis  Survived + Punished.md",
     "Readwise/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md"
