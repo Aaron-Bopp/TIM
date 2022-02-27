@@ -4,8 +4,8 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-02-26
-sr-interval: 19
+sr-due: 2022-04-03
+sr-interval: 36
 sr-ease: 190
 ---
 
@@ -24,7 +24,7 @@ It does this by helping us understand and connect the different parts of our bei
 
 [[Raja Yoga]] focuses on gaining [[enlightenment]] through a stepwise process, involving 8 steps.
 ^[[[notes_History of Meditation]]]
-- Actions for improving your actions
+- Actions for improving your your interaction with the world
 	1. [[Yama]] pure standards; how we observe the world
 	2. [[Niyama]] good morals; how we make our way through the world
 - Actions for improving your [[mind-body complex]]  

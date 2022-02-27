@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-02-25
-sr-interval: 18
-sr-ease: 170
+sr-due: 2022-03-08
+sr-interval: 10
+sr-ease: 150
 ---
 
 #### [[Humans long to know what to do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,6 +16,7 @@ sr-ease: 170
 	- This trait pushes us to find 
 	answers:: [[Human's will find explanations for inexplainable things]]
 - in tandem with:: [[Humans are drawn to the unknown and repelled by the known]]
+- [[Humans yearn for a tool with no blood on it]]
 - [[Humans are addicted to believing]]
 - [[What is the cognitive effect of living in an unjust world]]
 - [[Humans love to group eachother]]

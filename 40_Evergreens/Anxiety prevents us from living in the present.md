@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-02-26
-sr-interval: 20
+sr-due: 2022-04-07
+sr-interval: 40
 sr-ease: 190
 ---
 
 #### [[Anxiety prevents us from living in the present]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Anxiety is the future focused [[mind]] and ???
+[[Anxiety]] is the future focused [[mind]] and ???
 This creates a [[feedback loop]] that pushes us to do anything but live in the present.
 There are for ways that anxiety does this
 ^[[[notes_Responses to Anxiety]]]
