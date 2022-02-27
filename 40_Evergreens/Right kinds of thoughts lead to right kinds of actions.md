@@ -18,7 +18,7 @@ If we can focus our thoughts on one action over time we will see positive benefi
 [[Motivation and obsession are indistinguishable to an outside perspective]]
 
 #TO/TEND/GRAFT 
--  [[You can't control what happens]]
+- [[You can't control what happens]]
  - [[Self-belief is fundamental to good karma]]
  - [[Consciousness is the fundamental unit of existence]]
 	 - [[Consciousness is our capacity to introspect]]
@@ -32,5 +32,3 @@ If we can focus our thoughts on one action over time we will see positive benefi
 
 **Topics**:: [[purpose]], [[human advancement]], [[Life principles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
