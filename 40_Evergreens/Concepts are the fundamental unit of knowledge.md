@@ -4,14 +4,17 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/26, review, node/evergreen/claim
-sr-due: 2022-02-24
-sr-interval: 18
+sr-due: 2022-03-26
+sr-interval: 28
 sr-ease: 170
 ---
 
 #### [[Concepts are the fundamental unit of knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[How to achieve more while studying less - Obsidian & Conceptual Notes - YouTube](https://www.youtube.com/watch?v=MYJsGksojms)
+![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190326q]]
+![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190332q]]
+
+[How to achieve more while studying less - Obsidian & Conceptual Notes](https://www.youtube.com/watch?v=MYJsGksojms)
 
 This is what makes [[conceptual notes]] so powerful:
 [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]

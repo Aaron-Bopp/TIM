@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/04, review, node/evergreen/topic
-sr-due: 2022-02-24
-sr-interval: 12
+sr-due: 2022-03-28
+sr-interval: 30
 sr-ease: 230
 ---
 
@@ -17,8 +17,6 @@ Could this surpass traditional [[education]]?
 Two major requirements would be:
 1. An extremely large database of content that can be algorithmically parsed
 2. A algorithm that can accurately serve content based on user preferences
-
-Using [[Tiktok]] as an example, we would need 
 
 ### <hr class="footnote"/>
 

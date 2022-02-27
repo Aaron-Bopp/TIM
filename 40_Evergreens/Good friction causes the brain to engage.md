@@ -4,14 +4,13 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/25, review, node/evergreen/claim
-sr-due: 2022-02-24
-sr-interval: 18
+sr-due: 2022-04-11
+sr-interval: 44
 sr-ease: 230
 ---
 
 #### [[Good friction causes the brain to engage]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Our brain will do anything it can to protect itself]] and sometimes that just means being lazy. 
 If we are too used to something, or do it a lot, our brain will start to skip over it to avoid spending unneeded energy. This can become a problem when the [[brain]] over uses this process, and we start skipping over things we actually need to think about. In cases like this [[friction]] causes us to override our brains instinct and actually engage with the material.
 
 While both can be true, this
