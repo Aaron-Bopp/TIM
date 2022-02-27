@@ -4,17 +4,17 @@ edited:
 aliases:
   - Evangelicalism doesn't explore the path to being a good person
 tags: created/evergreen/2021/10/19, review, node/evergreen/claim
-sr-due: 2022-02-26
-sr-interval: 11
+sr-due: 2022-03-13
+sr-interval: 15
 sr-ease: 130
 ---
 
 #### [[The actual path to being a good person isn't explored by Evangelicalism]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-%% This is ironic as any Evangelical will tell you they believe man is inherently evil%%
+%% This is ironic as any Evangelical will tell you they believe man is inherently evil %%
 
-While the bible does talk about how to be a good person
---the ethics and success of it's teachings are up for debate--
+While the bible does talk about how to be a good person,
+(the ethics and success of it's teachings are up for debate)
 they have largely abandoned this doctrine 
 because [[Evangelicalism has commodified faith for profit]].
 

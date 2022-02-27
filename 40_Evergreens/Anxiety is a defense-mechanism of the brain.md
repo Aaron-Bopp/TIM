@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/13, review, node/evergreen/claim
-sr-due: 2022-02-26
-sr-interval: 6
-sr-ease: 210
+sr-due: 2022-03-01
+sr-interval: 3
+sr-ease: 190
 ---
 
 #### [[Anxiety is a defense-mechanism of the brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
