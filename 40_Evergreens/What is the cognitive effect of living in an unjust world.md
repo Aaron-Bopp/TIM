@@ -12,6 +12,7 @@ sr-ease: 197
 
 #### [[What is the cognitive effect of living in an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+![[books_The Dawn of Everything#261572339q]]
 %% #TO/DO/FIND story, Need to establish that the world is unjust%%
 
 %%There is more that one answer, how should they be represented? #TO/PONDER/ME %%
