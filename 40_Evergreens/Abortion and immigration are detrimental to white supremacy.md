@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/08/01, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-02-28
-sr-interval: 82
+sr-due: 2022-10-07
+sr-interval: 221
 sr-ease: 270
 ---
 
@@ -13,7 +13,7 @@ sr-ease: 270
 
 [[The ethnic makeup of a community is a significant driver of change]], so opposing these issues is key to upholding [[white supremacy]]. 
 
-[[Conservatism]] has used this to their disadvantage by weaponizing [[Christianity|christian]]s morality because [[Anger fuels change]] and [[Single issue voters are anti-democratic]]. 
+[[Conservatism]] has used this to their disadvantage by weaponizing [[Christianity|Christian's]] morality because [[Anger fuels change]] and [[Single issue voters are anti-democratic]]. 
 
 ### <hr class="footnote"/>
 

@@ -530,3 +530,149 @@ highlight_tags:: [[orange]]
 
 [^288838024]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4325
 
+# New highlights added February 28, 2022 at 1:44 PM
+##### ^292550146
+
+This the core inquiry of this book, and does not exclude primarily religious or primarily scientific thinkers. Religious people can aproach it from the view point of the affects of sin and their fight against sin, while scientific people can view from the point of natural selection and reciprocal altruism. Both of these viewpoints deal heavily with human interaction, the social order, and social progress.  
+
+
+###### ^292550146q
+
+> What is the nature of human society? Is it a collection of self-seeking individuals, or can it be regarded as an organism in its own right? These questions have been pondered by inquiring minds throughout the ages, with no more agreement today than 500 or 2,000 years ago. 
+  [^292550146]
+
+[^292550146]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=68
+
+
+
+
+###### ^292550147q
+
+> If there is more to religion than belief in supernatural agents, then perhaps science is not as hostile to religion as it is often taken to be. 
+  [^292550147]
+
+[^292550147]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=80
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^292550148q
+
+> Functionalist and nonfunctionalist ways of thought are so different from each other, and so useful in some contexts but misleading in others, that they may actually have evolved as separate cognitive skills (Hauser and Carey 1998; Tomasello 1999). 
+  [^292550148]
+
+[^292550148]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=125
+
+##### ^292550149
+
+The power of explanation as in [[books_The Fabric of Reality]]  
+%%
+highlight_tags:: [[pink]]
+%%
+
+###### ^292550149q
+
+> Darwin’s theory is so simple that it can be explained in a single paragraph, but its implications are so profound that the study of life was transformed, enabling the great geneticist Theodosius Dobzhansky (1973) to say: “Nothing in biology makes sense except in the light of evolution.” 
+  [^292550149]
+
+[^292550149]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=143
+
+
+
+
+###### ^292550150q
+
+> authors have speculated on the design features required for a moral system to work, including conformity (Boyd and Richerson 1985; E. O. Wilson 1998), docility (Simon 1990), detection of cheating (Cosmides and Tooby 1992), punishment of cheating (Boyd and Richerson 1992), symbolic thought (Deacon 1998), explicit consensus decision making (Boehm 1996), 
+  [^292550150]
+
+[^292550150]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=517
+
+#### CULTURAL EVOLUTION OF MORAL SYSTEMS
+
+
+
+###### ^292550152q
+
+> Our genetically evolved minds make it possible to have a moral system, but the specific contents of moral systems can change within groups and vary widely among groups, with important consequences for survival and reproduction. 
+  [^292550152]
+
+[^292550152]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=547
+
+
+
+
+###### ^292936687q
+
+> In general, the world is so full of stimuli and possible responses to stimuli that a smart machine, or a smart cognitive organ, must be very selective about its perception and use of information. 
+  [^292936687]
+
+[^292936687]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=561
+
+##### ^292936697
+
+this is the traditional model of [[evolutionary psychology]]  
+
+
+###### ^292936697q
+
+> For any particular feature of human behavior and psychology, try to understand it as a genetically evolved adaptation to a feature of the ancestral environment. Then try to imagine the psychological mechanism as a specialized module. ... My complaint is not that the algorithm is wrong but that it is partial, seeming to exclude the possibility of learning, development, culture, and other aspects of human mentality as open-ended processes. To broaden the horizon, we need to return to the question of whether cognitive processes must be specialized to be smart. 
+  [^292936697]
+
+[^292936697]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=582
+
+##### ^292936698
+
+This is termed a "Darwin Machine"  
+
+
+###### ^292936698q
+
+> the centerpiece of the immune system is an open-ended process of blind variation and selective retention. Antibodies are produced at random and those that successfully fight invading disease organisms are selected. Diseases are so numerous and evolve so fast with their short generation times that the only way to fight them is with another evolutionary process. ... genetic evolution does not invariably lead to the kind of modularity that excludes open-ended processes. Instead, it can create processes that are themselves evolutionary and therefore capable of providing new solutions to new problems. 
+  [^292936698]
+
+[^292936698]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=599
+
+
+
+
+###### ^292936692q
+
+> rational thought is itself a Darwin machine, rapidly generating and selecting symbolic representations inside the head. 
+  [^292936692]
+
+[^292936692]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=619
+
+
+
+
+###### ^292936699q
+
+> cultural evolution requires specialized mechanisms— ... terms such as “trial and error,” “rational thought,” and “imitation” probably don’t even begin to describe the number and sophistication of the mechanisms that actually guide the process of cultural evolution. 
+  [^292936699]
+
+[^292936699]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=629
+
+
+
+
+###### ^292936700q
+
+> many of the mechanisms guiding cultural evolution take place beneath conscious awareness. ... cultures can evolve to be smart in ways that are invisible to their own members. 
+  [^292936700]
+
+[^292936700]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=632
+
+##### ^292550153
+
+[[Evolutionary Psychology]]  
+
+
+###### ^292550153q
+
+> The term “evolutionary psychology” should refer broadly to the study of psychology from an evolutionary perspective. Unfortunately, the term has become associated with a rather narrow school of thought that is controversial even among evolutionary biologists interested in psychology. 
+  [^292550153]
+
+[^292550153]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389
+
