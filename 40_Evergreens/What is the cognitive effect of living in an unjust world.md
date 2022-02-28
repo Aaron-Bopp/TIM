@@ -5,9 +5,9 @@ aliases:
   - What is the cognitive effect of living in an unjust world?
   - The cognitive effect of living in an unjust world
 tags: created/evergreen/2021/10/18, review, node/evergreen/question
-sr-due: 2022-02-27
-sr-interval: 54
-sr-ease: 197
+sr-due: 2022-03-26
+sr-interval: 27
+sr-ease: 177
 ---
 
 #### [[What is the cognitive effect of living in an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,6 +19,7 @@ sr-ease: 197
 
 %%What is the conclusion%%
 
+%%
 Possible Answers: 
 - [can answer:: [[Humans have decided to reject an unjust world]]]
 - [answer:: [[Faith is an abstraction of cognitive dissonance]]]
@@ -31,6 +32,7 @@ Possible Answers:
 - [result:: [[The injustice of endurance]]]
 - [result:: [[Stupid rules are made to be broken]]]
 - [result:: [[Humans try really hard to avoid understanding their mistakes]]]
+%%
 
 Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different 
 - [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else

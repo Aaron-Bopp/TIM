@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/28, review, node/evergreen/claim
-sr-due: 2022-02-27
-sr-interval: 13
-sr-ease: 210
+sr-due: 2022-03-07
+sr-interval: 8
+sr-ease: 190
 ---
 
 #### [[Many Christians confuse not sinning for morality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
