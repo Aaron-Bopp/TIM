@@ -2,15 +2,17 @@
 created: 2021-10-23
 edited: 
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-03-01
-sr-interval: 24
+sr-due: 2022-04-06
+sr-interval: 34
 sr-ease: 136
 ---
 
 #### [[Social anxiety is a feedback loop]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This [[feedback loop]] can either be in working for or against you. 
+
 ##### Working against you 
+
 [[Your anxiety is telling you everything that could go wrong, not what will go wrong]],
 but our [[brain]] believes these thoughts as if they are reality. 
 [[Most anxiety isn't irrational it's just overcompensation]], and you are frustrated that your [[anxiety]] is impeding you from something as simple as talking to people.
@@ -27,6 +29,7 @@ The only way out of this is loop is [[self-actualization]], and spending too muc
 If we fail to get out of this [[feedback loop]] it will distort our [[self-image]] which will only give our [[brain]] more insecurities to throw back at us: [[Self-hatred is born out of dissonance between self-image and self-perception]]
 
 ##### Working for you
+
 [[Confidence comes when you are more capable of handling diverse outcomes]]
 
 ### <hr class="footnote"/>

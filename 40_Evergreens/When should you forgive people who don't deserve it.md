@@ -4,15 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/22, review, node/evergreen/question 
-sr-due: 2022-02-28
-sr-interval: 22
+sr-due: 2022-03-16
+sr-interval: 13
 sr-ease: 130
 ---
 
 #### [[When should you forgive people who don't deserve it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 > it’s funny how sometimes it really does take a decade to [[persuasion|persuade]] someone of something. 
-> at that sort of timescale it’s not even about direct engagement so much as it is about just living your best life in accordance with your principles in a sustainable way, and waiting for them to encounter difficulties their [[worldview]] & context does not allow them to cope with 
+> at that sort of timescale it’s not even about direct engagement so much as it is about just living your best life in accordance with your principles in a sustainable way, and waiting for them to encounter difficulties their [[worldview]] and context 
 ^[[[tweets_It’s Funny How Sometimes...|It’s Funny How Sometimes... by @visakanv on Twitter]]]
 >
 > <cite>[[@visakanv on Twitter|visakanv]]</cite>

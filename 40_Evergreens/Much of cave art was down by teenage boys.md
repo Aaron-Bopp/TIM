@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/15, review, node/evergreen/nugget
-sr-due: 2022-02-28
+sr-due: 2022-03-11
 sr-interval: 8
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Much of cave art was down by teenage boys]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

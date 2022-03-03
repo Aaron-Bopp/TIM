@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-03-01
-sr-interval: 32
-sr-ease: 210
+sr-due: 2022-03-19
+sr-interval: 16
+sr-ease: 190
 ---
 
 #### [[Humans are addicted to believing]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
