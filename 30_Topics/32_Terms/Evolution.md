@@ -11,6 +11,8 @@ tags: created/topic/2021/10/18, node/topic/outline
 
 the process by which different kinds of living organism are believed to have developed from earlier forms during the history of the earth.
 
+![[books_Darwin's Cathedral#292550149q]]
+
 > [!wikipedia:[Evolution](https://en.wikipedia.org/wiki/Evolution)]
 > 
 > Evolution is change in the heritable characteristics of biological populations over successive generations. 

@@ -4,14 +4,16 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/26, review, node/evergreen/claim
-sr-due: 2022-02-28
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-03-04
+sr-interval: 1
+sr-ease: 210
 ---
 
 #### [[Marginalized identities are inseparable from politics]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
+- [[The black identity has evolved past it's political origins]]
+- [[Whiteness was created to marginalize people of color]]
+- [[Race is a social construct]]
 
 ### <hr class="footnote"/>
 

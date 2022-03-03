@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/10, review, node/evergreen/claim
-sr-due: 2022-02-28
-sr-interval: 9
+sr-due: 2022-03-25
+sr-interval: 22
 sr-ease: 210
 ---
 
@@ -31,10 +31,12 @@ contrasts:: [[Better tools allow us to be less disciplined and more productive]]
 
 This idea is also heavily explored in [[course_Human Behavioral Biology|Human Behavioral Biology]], which is a course that explores how many of the hard sciences claim to be able to explain [[human behavior]], but constantly contradict eachother. This trait is behind the creation of [[Lobotomy]], [[Eugenics]], and many other things that we would like to forget.
 
+Perhaps an acceptance that [[We are confined to the tools of our time]] will help prevent this.
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human nature]]
+**Topics**:: [[human nature]], [[communication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

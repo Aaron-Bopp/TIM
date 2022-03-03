@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/03, review, node/evergreen/technique 
-sr-due: 2022-02-28
-sr-interval: 44
+sr-due: 2022-05-27
+sr-interval: 85
 sr-ease: 190
 ---
 
@@ -20,7 +20,7 @@ This is especially effective in academic research papers, as they will usually c
 
 This is also very helpful when reading books. For fiction I use different colors for different themes, but for non-fiction I do something similar to research papers.
 - Yellow (or the default color): Things I agree with without persuasion
-- Blue: Supports that general thesis of the book and isn't yellow
+- Blue: Supports that general thesis of the book 
 - Orange: Outside information or verifiable information
 - Magenta: Personally interesting me
 ![[articles_General Principles#270306743q]]

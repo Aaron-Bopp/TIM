@@ -676,3 +676,190 @@ This is termed a "Darwin Machine"
 
 [^292550153]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389
 
+# New highlights added March 3, 2022 at 9:18 AM
+
+%%
+highlight_tags:: [[c2]]
+%%
+
+###### ^293875893q
+
+> This means that cultures can evolve to be smart in ways that are invisible to their own members. 
+  [^293875893]
+
+[^293875893]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=636
+
+
+
+
+###### ^293875894q
+
+> the mechanisms guiding cultural evolution can be distributed processes involving many individuals rather than being processes contained within single individuals. 
+  [^293875894]
+
+[^293875894]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=637
+
+##### ^293875895
+
+He goes on to explain this via the difference between a genetic trait (mutation in a gene) to a cultural trait (belief or practice). I see the major frame shift as realizing that cultural traits are not only passed on via reproduction, but through communication. This is a major change I think, but does not mean the evolutionary model can't be applied  
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^293875895q
+
+> Cultural evolution is not merely a handmaiden of genetic evolution but changes the parameters of the evolutionary process, favoring traits that would not evolve by genetic evolution alone 
+  [^293875895]
+
+[^293875895]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=677
+
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^293875896q
+
+> cultural mutation; a new belief or practice that arises in one group by chance, rational thought, or any other process. 
+  [^293875896]
+
+[^293875896]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=686
+
+
+
+
+###### ^293875897q
+
+> Religions appeal to many people in part because they promise transformative change—a path to salvation. 
+  [^293875897]
+
+[^293875897]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=696
+
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^293875898q
+
+> It is unfortunate that evolution is so often associated with genetic evolution, a slow process that gives the impression of an incapacity for change over the time scales that matter most to living people struggling with their problems. When we expand our view of evolution to include all Darwinian processes, we can begin to see how religions actually can produce transformative change, even from a purely evolutionary perspective. 
+  [^293875898]
+
+[^293875898]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=697
+
+#### MODERN HUMAN GROUPS AS ADAPTIVE UNITS
+
+
+
+###### ^293875904q
+
+> Superficially, large-scale human societies appear much less egalitarian than hunter-gatherer groups, but the apparent inequities can be interpreted in two very different ways. On the one hand, social control mechanisms are probably strongest in small groups in which everyone knows and depends on everyone else. Many inequities that exist in large-scale societies are therefore exactly what they seem—some individuals profiting at the expense of others within the society. ... On the other hand, purely from the group-level functional standpoint, societies must become differentiated as they increase in size. ... It is therefore an open question whether extreme status differences and other seeming inequalities in large-scale societies represent domination pure and simple or rather design features that enable the society to function at a large scale, 
+  [^293875904]
+
+[^293875904]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=708
+
+#### WHAT CONSTITUTES FITNESS?
+
+
+
+###### ^294094923q
+
+> moral revulsion ... can itself be explained as part of the innate psychology of moral systems that evolved by group selection to suppress self-serving behaviors in our own species. But alas, ... Those groups of males who do not kill each other’s offspring might well kill the offspring and appropriate the females from other groups 
+  [^294094923]
+
+[^294094923]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=748
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^294094910q
+
+> the metaphor of an adaptive landscape.21 Imagine the English measurement system as a meager hill of low fitness and the metric system as a taller hill of high fitness. Evolution is a hill-climbing process, but if it starts out on the slope of the meager hill, all it can do is climb to the top of that hill. Moving from a short hill to a tall hill requires crossing a valley of low fitness and is actually resisted by the evolutionary process. The more rugged the adaptive landscape, the more an evolving system will reflect its original starting point 
+  [^294094910]
+
+[^294094910]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=765
+
+
+
+
+###### ^294094911q
+
+> Religious experiments that fail are not an argument against evolution, if we are observing the process in addition to the product. The question is whether religious experiments that succeed do so on the basis of their properties, 
+  [^294094911]
+
+[^294094911]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=785
+
+#### THE RELIGIOUS EXPRESSION OF MORALITY
+
+%%
+highlight_tags:: [[pink]]
+%%
+
+###### ^294094913q
+
+> For many people, the otherworldly nature of religion is more interesting and important to explain than its communal nature. 
+  [^294094913]
+
+[^294094913]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=799
+
+
+
+
+###### ^294094914q
+
+> people in all cultures— 
+  [^294094914]
+
+[^294094914]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=803
+
+##### ^294094924
+
+Is this core to the book? Religious beliefs have definitely waned since this study but it may not be because of science  
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^294094924q
+
+> there is no evidence that scientific understanding replaces religious belief in modern cultures. America has become more religious over the course of its history, not less, despite the influence of science and engineering (Finke and Stark 1992). ... Clearly, we must think of religious thought as something that coexists with scientific thought, not as an inferior version of it. 
+  [^294094924]
+
+[^294094924]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=806
+
+
+
+
+###### ^294094918q
+
+> However, there are many, many other situations in which it can be adaptive to distort reality (Wilson 1990, 1995). Even massively fictitious beliefs can be adaptive, as long as they motivate behaviors that are adaptive in the real world. 
+  [^294094918]
+
+[^294094918]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=814
+
+
+%%
+highlight_tags:: [[psychology]]
+%%
+
+###### ^294094919q
+
+> Emotions are evolved mechanisms for motivating adaptive behavior that are far more ancient than the cognitive processes typically associated with scientific thought. 
+  [^294094919]
+
+[^294094919]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=819
+
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^294094920q
+
+> Their decision about where to hunt almost certainly relied upon practical reasoning on the basis of detailed factual knowledge that we associate with scientific thought. Nevertheless, this mode of thought blended seamlessly with belief in a forest capable of experiencing pleasure, which happens to correspond to the welfare of the group. 
+  [^294094920]
+
+[^294094920]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=844
+
+#### SURVEYING THE VIEW FROM EVOLUTIONARY BIOLOGY
