@@ -11,6 +11,8 @@ sr-ease: 230
 
 #### [[Cultural evolution is not confined to the slow process of genetic evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+![[books_Darwin's Cathedral#293875898q]]
+This is integral to the development of [[society]] and [[human interaction]].
 ![[books_Darwin's Cathedral#292936692q]]
 ![[books_Darwin's Cathedral#292936699q]]
 ![[books_Darwin's Cathedral#292936700q]]
@@ -21,5 +23,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[human behavior]], [[social order]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

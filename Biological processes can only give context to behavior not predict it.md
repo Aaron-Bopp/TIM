@@ -11,6 +11,7 @@ sr-ease: 230
 
 #### [[Biological processes can only give context to behavior not predict it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+![[books_Darwin's Cathedral#292537218q]]
 
 
 ### <hr class="footnote"/>
@@ -18,5 +19,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[behavior]], [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

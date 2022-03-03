@@ -25,7 +25,7 @@ sr-ease: 130
 
 #TO/PONDER/IDEA are we supposed to forgive people who aren't ready to [[Accepting responsibility is not only about your actions]]
 
-There is great value you getting space or cutting people off because [[Sometimes we can't grow until we change our environment]], but [[Children in traumatic households expect more love than their parents can give]]. 
+There can be great value in getting space or cutting people off because [[Sometimes we can't grow until we change our environment]], but [[Children in traumatic households expect more love than their parents can give]]. 
 Sometimes it's accepting [[responsibility]] for the weight a loving people who don't deserve it:
 [[Accepting responsibility is not only about your actions]]
 

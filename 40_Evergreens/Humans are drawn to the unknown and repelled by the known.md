@@ -11,6 +11,8 @@ sr-ease: 170
 
 #### [[Humans are drawn to the unknown and repelled by the known]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+![[books_Darwin's Cathedral#294094913q]]
+
 We will believe there are ghosts in our house before we investigate a leaky beam. We will think that nobody at the party really likes us when we keep getting invited back. We will tell our children that only god can explain our existence when science has given us more answers than you could ever learn in one lifetime.
 
 This leads us to both remain in [[cognitive dissonance]], and to pursue [[knowledge]].

@@ -11,12 +11,12 @@ sr-ease: 230
 
 #### [[A conversion experience can help us reshape our sense of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
+![[books_Darwin's Cathedral#293875897q]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[religion]], [[belief]], [[self]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

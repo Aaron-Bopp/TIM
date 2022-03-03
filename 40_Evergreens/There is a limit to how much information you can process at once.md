@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/claim
-sr-due: 2022-02-28
-sr-interval: 3
+sr-due: 2022-03-12
+sr-interval: 9
 sr-ease: 190
 ---
 

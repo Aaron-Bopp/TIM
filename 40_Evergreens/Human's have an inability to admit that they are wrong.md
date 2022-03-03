@@ -12,6 +12,8 @@ sr-ease: 159
 %%
 #TO/TEND/CULTIVATE focus on content of linked notes
 %%
+![[books_Darwin's Cathedral#294094919q]]
+
 
 Once the [[ego]] has internalized a [[belief]] as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]], but fundamentally this produces [[cognitive dissonance]] as we are unable to integrate new information.
 ^[[[Evergreen notes should be constantly integrating new knowledge]]]

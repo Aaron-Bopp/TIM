@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/28, review, node/evergreen/claim
-sr-due: 2022-02-28
-sr-interval: 1
+sr-due: 2022-03-09
+sr-interval: 6
 sr-ease: 230
 ---
 
@@ -20,5 +20,5 @@ This is because it is a highly active microcosm of [[Evolution]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[immune system]], [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
