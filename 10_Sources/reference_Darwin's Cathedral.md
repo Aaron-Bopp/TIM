@@ -13,4 +13,5 @@ tags: created/source/2022/02/27, node/source/notes
 
 **Link**:: 
 
-![[books_Darwin's Cathedral#287471878]]
+#### Terms
+- 
