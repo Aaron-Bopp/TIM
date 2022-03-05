@@ -9,6 +9,9 @@ sr-ease: 130
 
 #### [[Your anxiety is telling you everything that could go wrong, not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Whether it be thoughts about driving into oncoming traffic or jumping off a cliff, [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]] and those thoughts are just warning signs from the [[brain]].
+We are used to our brain's giving us warning signs, but for most people [[anxiety]] is not a warning state, it's a state of alarm.
+
 [[Anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but [[Our brain will do anything it can to protect itself]]. The truth is the [[brain]] has used [[Physiologic Anxiety]] to survive for millions of years, because [[Our brains are built around survival]].
 The problem comes from [[Cognitive Anxiety]], which in lieu of real life threats, identifies everything as a life threat: 
 [[Most anxiety isn't irrational it's just overcompensation]]
