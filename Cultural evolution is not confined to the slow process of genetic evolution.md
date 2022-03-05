@@ -16,16 +16,14 @@ sr-ease: 230
 > 
 > <cite>[[books_Darwin's Cathedral|Darwin's Cathedral by David Sloan Wilson]] </cite>
 
-It is easy to see how much faster [[Cultural Evolution]] can move when we look at it's fundemental unit of change, the cultural mutation.
+It is easy to see how much faster [[Cultural Evolution]] can move when we look at it's fundamental unit of change, the cultural mutation.
 ![[books_Darwin's Cathedral#293875896q]]
+Compared to the generational unit of change of genetic evolution, [[belief]] can be passed almost instantaneously, and are even the basis of our [[social order]]:
+[[Culture is built off of shared belief in an imagined reality]]
 
-This is integral to the development of [[society]] and [[human interaction]].
+This is integral to the development of [[society]] and [[human interaction]]:
+[[Greater cooperation and communication has lead to the success of humans as a species]]
 
-
-![[books_Darwin's Cathedral#292936692q]]
-![[books_Darwin's Cathedral#292936699q]]
-![[books_Darwin's Cathedral#292936700q]]
-![[books_Darwin's Cathedral#292550152q]]
 
 ### <hr class="footnote"/>
 
