@@ -24,6 +24,8 @@ However, [[Strong enough logic becomes belief]] and thus
 
 ![[books_Sapiens#294248538q]]
 
+Especially with the advent of [[Social media]], almost everything we do interacts with this imagined reality. We place value in the likes and views of our content that all amount to oscillations in the electrical charge of transistors at various points in the world. We have decided to [[abstraction|abstract]] our [[human interaction|social interaction]]s into a realm of pure imagination; removing ourselves as much as we can from the physical reality and consequences of our actions. This imagined reality can become even more real than our actual reality as we place more and more value into things we cannot touch or smell.
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

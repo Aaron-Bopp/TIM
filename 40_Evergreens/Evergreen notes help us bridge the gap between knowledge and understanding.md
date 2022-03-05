@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-03-02
-sr-interval: 24
+sr-due: 2022-04-16
+sr-interval: 42
 sr-ease: 170
 ---
 
@@ -18,6 +18,8 @@ sr-ease: 170
 
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Evergreen notes should be constantly integrating new knowledge]]
+- [[How to read to understand]]
+- [[The joy of learning is contagious]]
 
 ### <hr class="footnote"/>
 

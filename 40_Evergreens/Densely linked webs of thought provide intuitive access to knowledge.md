@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/07/03, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-03-02
-sr-interval: 46
+sr-due: 2022-06-18
+sr-interval: 105
 sr-ease: 220
 ---
 
@@ -18,7 +18,7 @@ This is the [[organization|organizational]] [[structure]] behind [[Andy Matuscha
 Part of the reason a [[web of thought]] is so powerful is because it matches the way our actual brain's work
 ^[[[Nodes in the second brain are an abstraction of our first brain]]]
 Every thought exists in time and space only through it's connection to other thoughts. As we learn we make new connections, and as we forget we lose connections. 
-This creates [[the fragility of nodes in a second brain]], because [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
+This creates [[the fragility of nodes in a second brain]].
 
 For my own vault I employ many different ways of [[organization]], 
 ^[[[How I outlined my brain (literally just use all of the organization techniques at once)]]]

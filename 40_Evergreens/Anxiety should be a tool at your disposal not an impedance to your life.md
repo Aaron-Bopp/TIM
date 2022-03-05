@@ -2,15 +2,22 @@
 created: 2021-06-15
 edited: 
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-03-02
-sr-interval: 24
+sr-due: 2022-04-17
+sr-interval: 43
 sr-ease: 170
 ---
 
 #### [[Anxiety should be a tool at your disposal not an impedance to your life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Being paralyzed by your [[anxiety]] is not your brain's desired outcome, [[Our brains are built around survival]] and [[Most anxiety isn't irrational it's just overcompensation| our anxiety is just overcompensation]].
-This does not mean our [[anxiety]] is any less impactful in our lives, but with the proper support structure and practices like [[mindfulness]] and [[meditation]] we can limit the debilitating effects of anxiety and focus on the things our brain is trying to warn us of: [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]
+Being paralyzed by your [[anxiety]] is not your brain's desired outcome.
+[[Our brains are built around survival]],
+if anything, anxiety's purpose is to warn you of danger so you CAN act, not so that you are unable to act.
+This does not mean our [[anxiety]] is any less impactful in our lives,
+[[Most anxiety isn't irrational it's just overcompensation]],
+but [[Anxiety is a defense-mechanism of the brain]] and sometimes that means that means our [[anxiety]] has more say over our life than we want it to:
+[[Anxiety prevents us from living in the present]]
+
+With the proper support structure and practices like [[mindfulness]] and [[meditation]] we can limit the debilitating effects of anxiety and focus on the things our brain is trying to warn us of: [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]
 
 In some ways our [[anxiety]] is already working for us, 
 if we know how to understand it.
@@ -28,7 +35,7 @@ similarly:: [[Neurodiverse people can use their brain to their advantage]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[mental health]], [[mental illness]], [[social anxiety]]
