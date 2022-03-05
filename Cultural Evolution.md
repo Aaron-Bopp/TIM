@@ -10,7 +10,7 @@ tags: created/topic/2022/03/03, node/topic/term
 ##### <s class="topic-title">[[Cultural Evolution]]</s>
 
 ![[books_Darwin's Cathedral#293875895q]]
-![[books_Darwin's Cathedral#293875896q]]
+
 
 
 > [!wikipedia:[Cultural Evolution](https://en.wikipedia.org/wiki/Cultural%20evolution)]

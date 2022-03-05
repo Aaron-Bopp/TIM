@@ -11,8 +11,17 @@ sr-ease: 230
 
 #### [[Cultural evolution is not confined to the slow process of genetic evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-![[books_Darwin's Cathedral#293875898q]]
+
+> It is unfortunate that [[evolution]] is so often associated with genetic evolution, a slow process that gives the impression of an incapacity for change over the time scales that matter most to living people struggling with their problems. When we expand our view of evolution to include all Darwinian processes, we can begin to see how religions actually can produce transformative change, even from a purely evolutionary perspective. 
+> 
+> <cite>[[books_Darwin's Cathedral|Darwin's Cathedral by David Sloan Wilson]] </cite>
+
+It is easy to see how much faster [[Cultural Evolution]] can move when we look at it's fundemental unit of change, the cultural mutation.
+![[books_Darwin's Cathedral#293875896q]]
+
 This is integral to the development of [[society]] and [[human interaction]].
+
+
 ![[books_Darwin's Cathedral#292936692q]]
 ![[books_Darwin's Cathedral#292936699q]]
 ![[books_Darwin's Cathedral#292936700q]]

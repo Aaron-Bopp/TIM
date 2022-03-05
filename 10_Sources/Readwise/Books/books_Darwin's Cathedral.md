@@ -1,17 +1,17 @@
 ---
-created: 2022-02-27
+created: 2022-03-04
 edited:
 aliases:
   - "Darwin's Cathedral"
   - "Darwin's Cathedral by David Sloan Wilson"
   - "David Sloan Wilson"
-tags: created/source/2022/02/27, node/source/books
+tags: created/source/2022/03/04, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-02-27
+sr-due: 2022-03-04
 sr-interval: 2
 sr-ease: 230
 ---
@@ -27,7 +27,9 @@ sr-ease: 230
 # Highlights
 ### CHURCH AS ORGANISM
 
-
+%%
+highlight_tags:: [[blue]]
+%%
 
 ###### ^287471877q
 
@@ -39,7 +41,9 @@ sr-ease: 230
 ##### ^287471878
 
 The author starts his argument with an acknowledgement of the difficulty of the question, his own biases, and then a definition of his terms. I think this an effective way to approach an issue in a way that both sides cam read on  
-
+%%
+highlight_tags:: [[blue]]
+%%
 
 ###### ^287471878q
 
@@ -48,9 +52,21 @@ The author starts his argument with an acknowledgement of the difficulty of the 
 
 [^287471878]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=64
 
+##### ^292550146
+
+This the core inquiry of this book, and does not exclude primarily religious or primarily scientific thinkers. Religious people can aproach it from the view point of the affects of sin and their fight against sin, while scientific people can view from the point of natural selection and reciprocal altruism. Both of these viewpoints deal heavily with human interaction, the social order, and social progress.  
+
+
+###### ^292550146q
+
+> What is the nature of human society? Is it a collection of self-seeking individuals, or can it be regarded as an organism in its own right? These questions have been pondered by inquiring minds throughout the ages, with no more agreement today than 500 or 2,000 years ago. 
+  [^292550146]
+
+[^292550146]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=68
+
 
 %%
-highlight_tags:: [[orange]]
+highlight_tags:: [[pink]]
 %%
 
 ###### ^287471879q
@@ -64,7 +80,7 @@ highlight_tags:: [[orange]]
 
 Of course Gods were then pushed into Buddhism despite this  
 %%
-highlight_tags:: [[buddhism]], [[pink]]
+highlight_tags:: [[orange]], [[buddhism]]
 %%
 
 ###### ^288175132q
@@ -73,6 +89,16 @@ highlight_tags:: [[buddhism]], [[pink]]
   [^288175132]
 
 [^288175132]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=79
+
+
+
+
+###### ^292550147q
+
+> If there is more to religion than belief in supernatural agents, then perhaps science is not as hostile to religion as it is often taken to be. 
+  [^292550147]
+
+[^292550147]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=80
 
 
 
@@ -98,7 +124,9 @@ highlight_tags:: [[blue]]
 [^288296631]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=96
 
 
-
+%%
+highlight_tags:: [[blue]]
+%%
 
 ###### ^288296632q
 
@@ -147,12 +175,12 @@ highlight_tags:: [[orange]]
 highlight_tags:: [[orange]]
 %%
 
-###### ^288296636q
+###### ^292550148q
 
-> Functionalist and nonfunctionalist ways of thought are so different from each other, and so useful in some contexts but misleading in others, that they may actually have evolved as separate cognitive skills 
-  [^288296636]
+> Functionalist and nonfunctionalist ways of thought are so different from each other, and so useful in some contexts but misleading in others, that they may actually have evolved as separate cognitive skills (Hauser and Carey 1998; Tomasello 1999). 
+  [^292550148]
 
-[^288296636]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=125
+[^292550148]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=125
 
 
 
@@ -167,7 +195,7 @@ highlight_tags:: [[orange]]
 #### THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE
 
 %%
-highlight_tags:: [[blue]]
+highlight_tags:: [[orange]], [[blue]]
 %%
 
 ###### ^288296638q
@@ -178,7 +206,9 @@ highlight_tags:: [[blue]]
 [^288296638]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=137
 
 
-
+%%
+highlight_tags:: [[blue]]
+%%
 
 ###### ^288296639q
 
@@ -199,7 +229,9 @@ highlight_tags:: [[blue]]
 
 [^288296640]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=141
 
+##### ^288296641
 
+A tendency for fitness or adaptive desing is the result of phenotypic variation, heritability, and fitness consequences  
 %%
 highlight_tags:: [[blue]]
 %%
@@ -210,6 +242,20 @@ highlight_tags:: [[blue]]
   [^288296641]
 
 [^288296641]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=142
+
+##### ^292550149
+
+The power of explanation as in [[books_The Fabric of Reality]]  
+%%
+highlight_tags:: [[pink]]
+%%
+
+###### ^292550149q
+
+> Darwin’s theory is so simple that it can be explained in a single paragraph, but its implications are so profound that the study of life was transformed, enabling the great geneticist Theodosius Dobzhansky (1973) to say: “Nothing in biology makes sense except in the light of evolution.” 
+  [^292550149]
+
+[^292550149]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=143
 
 
 
@@ -233,7 +279,9 @@ highlight_tags:: [[blue]]
 [^288633669]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=179
 
 
-
+%%
+highlight_tags:: [[blue]]
+%%
 
 ###### ^288633670q
 
@@ -254,7 +302,7 @@ highlight_tags:: [[blue]]
 
 
 %%
-highlight_tags:: [[orange]]
+highlight_tags:: [[blue]], [[orange]]
 %%
 
 ###### ^288633672q
@@ -288,7 +336,9 @@ highlight_tags:: [[orange]]
 [^288838023]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=229
 
 ##### How to see group selection
+##### ^288878740
 
+Refering to groups of birds. Callers refering to birds that let out warning cries at the sign of predators  
 
 
 ###### ^288878740q
@@ -519,67 +569,6 @@ highlight_tags:: [[orange]]
 [^292537218]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=513
 
 
-%%
-highlight_tags:: [[orange]]
-%%
-
-###### ^288838024q
-
-> A behavior is selfish when it increases the fitness of the actor, relative to other members of its group. A behavior is altruistic when it increases the fitness of the group, relative to other groups, and decreases the relative fitness of the actor within the group. 
-  [^288838024]
-
-[^288838024]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4325
-
-# New highlights added February 28, 2022 at 1:44 PM
-##### ^292550146
-
-This the core inquiry of this book, and does not exclude primarily religious or primarily scientific thinkers. Religious people can aproach it from the view point of the affects of sin and their fight against sin, while scientific people can view from the point of natural selection and reciprocal altruism. Both of these viewpoints deal heavily with human interaction, the social order, and social progress.  
-
-
-###### ^292550146q
-
-> What is the nature of human society? Is it a collection of self-seeking individuals, or can it be regarded as an organism in its own right? These questions have been pondered by inquiring minds throughout the ages, with no more agreement today than 500 or 2,000 years ago. 
-  [^292550146]
-
-[^292550146]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=68
-
-
-
-
-###### ^292550147q
-
-> If there is more to religion than belief in supernatural agents, then perhaps science is not as hostile to religion as it is often taken to be. 
-  [^292550147]
-
-[^292550147]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=80
-
-
-%%
-highlight_tags:: [[orange]]
-%%
-
-###### ^292550148q
-
-> Functionalist and nonfunctionalist ways of thought are so different from each other, and so useful in some contexts but misleading in others, that they may actually have evolved as separate cognitive skills (Hauser and Carey 1998; Tomasello 1999). 
-  [^292550148]
-
-[^292550148]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=125
-
-##### ^292550149
-
-The power of explanation as in [[books_The Fabric of Reality]]  
-%%
-highlight_tags:: [[pink]]
-%%
-
-###### ^292550149q
-
-> Darwin’s theory is so simple that it can be explained in a single paragraph, but its implications are so profound that the study of life was transformed, enabling the great geneticist Theodosius Dobzhansky (1973) to say: “Nothing in biology makes sense except in the light of evolution.” 
-  [^292550149]
-
-[^292550149]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=143
-
-
 
 
 ###### ^292550150q
@@ -664,19 +653,6 @@ This is termed a "Darwin Machine"
 
 [^292936700]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=632
 
-##### ^292550153
-
-[[Evolutionary Psychology]]  
-
-
-###### ^292550153q
-
-> The term “evolutionary psychology” should refer broadly to the study of psychology from an evolutionary perspective. Unfortunately, the term has become associated with a rather narrow school of thought that is controversial even among evolutionary biologists interested in psychology. 
-  [^292550153]
-
-[^292550153]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389
-
-# New highlights added March 3, 2022 at 9:18 AM
 
 %%
 highlight_tags:: [[c2]]
@@ -807,12 +783,12 @@ highlight_tags:: [[pink]]
 
 
 
-###### ^294094914q
+###### ^294293564q
 
-> people in all cultures— 
-  [^294094914]
+> people in all cultures— ... possess the foundation of scientific thought: a sophisticated factual understanding of their world and the ability to reason on the basis of evidence 
+  [^294293564]
 
-[^294094914]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=803
+[^294293564]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=803
 
 ##### ^294094924
 
@@ -863,3 +839,83 @@ highlight_tags:: [[blue]]
 [^294094920]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=844
 
 #### SURVEYING THE VIEW FROM EVOLUTIONARY BIOLOGY
+
+
+
+###### ^294293305q
+
+> many biological structures are like a spandrel, which is the area created by two adjoining arches. Arches are clearly functional in the design of a building but spandrels are merely the byproducts of arches. These spaces are sometimes used for artistic purposes, but their “function” is secondary at best. 
+  [^294293305]
+
+[^294293305]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=869
+
+
+%%
+highlight_tags:: [[pink]]
+%%
+
+###### ^294293306q
+
+> self-awareness evolved by natural selection for its survival value, with the unfortunate byproduct that self-aware individuals can foresee their own deaths. 
+  [^294293306]
+
+[^294293306]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=872
+
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^294293307q
+
+> Religion might then have arisen to help allay the fear of death, a secondary adaptation that can be understood only in the context of a more primary adaptation (self-awareness). 
+  [^294293307]
+
+[^294293307]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=873
+
+
+
+
+###### ^294293308q
+
+> Real churches only approach the ideal of true love, but their failures are interpreted as corruptions and aberrations of religion, not as a part of religion itself. 
+  [^294293308]
+
+[^294293308]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=898
+
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^294570949q
+
+> rational choice theory. Religion is envisioned as an economic exchange between people and imagined supernatural agents for goods that are scarce (e.g., rain during a drought) or impossible (e.g., immortal life) to obtain in the real world. Religious belief is therefore rational in the sense of employing cost-benefit reasoning. 
+  [^294570949]
+
+[^294570949]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=930
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^288838024q
+
+> A behavior is selfish when it increases the fitness of the actor, relative to other members of its group. A behavior is altruistic when it increases the fitness of the group, relative to other groups, and decreases the relative fitness of the actor within the group. 
+  [^288838024]
+
+[^288838024]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4325
+
+##### ^292550153
+
+[[Evolutionary Psychology]]  
+
+
+###### ^292550153q
+
+> The term “evolutionary psychology” should refer broadly to the study of psychology from an evolutionary perspective. Unfortunately, the term has become associated with a rather narrow school of thought that is controversial even among evolutionary biologists interested in psychology. 
+  [^292550153]
+
+[^292550153]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389
+
