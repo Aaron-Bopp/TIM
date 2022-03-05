@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/03, review, node/evergreen/claim
-sr-due: 2022-03-03
-sr-interval: 1
+sr-due: 2022-03-09
+sr-interval: 4
 sr-ease: 230
 ---
 
@@ -15,10 +15,13 @@ sr-ease: 230
 
 [[Evolutionary Psychology]] was never meant to be the end all be all of describing and predicting [[behavior]]. [[Biological processes can only give context to behavior not predict it]]
 
+- [[Complex emotions are intellectual understandings of primal urges]]
+- [[Mental health is a reaction to one's environment]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolutionary Psychology]]
+**Topics**:: [[Evolutionary Psychology]], [[behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

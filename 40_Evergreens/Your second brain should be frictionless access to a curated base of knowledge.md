@@ -4,8 +4,8 @@ edited:
 aliases:
   - Collecting thought with a second brain
 tags: created/evergreen/2021/05/22, review, node/evergreen/claim
-sr-due: 2022-03-04
-sr-interval: 48
+sr-due: 2022-06-11
+sr-interval: 98
 sr-ease: 200
 ---
 

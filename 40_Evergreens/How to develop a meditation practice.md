@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/technique 
-sr-due: 2022-03-04
-sr-interval: 26
+sr-due: 2022-04-24
+sr-interval: 50
 sr-ease: 190
 ---
 
@@ -13,7 +13,7 @@ sr-ease: 190
 
 You need a good [[teacher]], [[commitment]], and a little bit of [[belief]]. 
 
-It will also be much easier if you have a strong [[community]] around you.
+It will also be much easier if you have a strong [[community]] or [[Sangha]] around you.
 ^[[[Communities are support systems]]]
 #TO/PONDER/IDEA [[notes_How to achieve]]
 
@@ -24,7 +24,7 @@ and it will shape your view of the world.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited January 18, 2022*
 
 **Topics**:: [[meditation]], [[self-improvement]]
