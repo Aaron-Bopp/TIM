@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/07/29, review, node/evergreen/principle 
 aliases:
   - null
-sr-due: 2022-03-03
-sr-interval: 62
+sr-due: 2022-07-26
+sr-interval: 143
 sr-ease: 230
 ---
 
@@ -17,7 +17,7 @@ You should never be forced to endure. [[Endurance]] is a choice you make to push
 
 This is the most soul-crushing part of living in [[late capitalism]]. You are forced to get up everyday and sell your body just to not starve, and for most people there are no avenues to escape: [[Insecure material conditions increase cognitive load and reduce outcomes]]
 
-#TO/EXPLORE/RESEARCH  [[Hierarchy of needs]]
+%% #TO/EXPLORE/RESEARCH  [[Hierarchy of needs]] %%
 
 [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in a unjust world?]]
 

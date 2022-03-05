@@ -4,8 +4,8 @@ edited: 2022-01-23
 aliases:
   - Yogic
 tags: created/topic/2021/05/31, review, node/topic/term
-sr-due: 2022-02-25
-sr-interval: 19
+sr-due: 2022-04-30
+sr-interval: 56
 sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -30,9 +30,12 @@ Other systems of yoga
 - [[Hatha Yoga]]
 - [[Kundalini Yoga]]
 
-#### Covered in 
+[[Yoga is a wholistic philosophy of self-improvement]], combining physical and mental aspects of wellness through [[meditation]], [[asanas]], and [[spirituality]]. Yoga and it's guru's [[Yogi|Yogis]] are a major part of why [[The history of meditation is a mixture of science and spirituality]].
 
-- [[Yoga is a wholistic philosophy of self-improvement]]
+Just as the west looked at meditation and took only [[mindfulness]], they looked at yoga and took only the physical forms. Nevertheless, these things have been a positive force in modern [[society]] and can be explored through a western or eastern lens:
+[[How to develop a meditation practice]]
+
+
 %% DO NOT EDIT BELOW %%
 
 #### Related 

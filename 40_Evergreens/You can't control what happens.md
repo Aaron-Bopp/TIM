@@ -4,8 +4,8 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/14, review, node/evergreen/claim
-sr-due: 2022-03-03
-sr-interval: 15
+sr-due: 2022-03-24
+sr-interval: 19
 sr-ease: 130
 ---
 
@@ -17,7 +17,7 @@ but I can acknowledge that
 [[The most reliable path to success is repeatedly trying to succeed]].
 
 #TO/TEND/MULCH 
-[[Motivation and obsession are indistinguishable to an outside perspective]] because motivation is just focusing on task until it's completion and focusing on the outcomes can actually lead to [[anxiety]] instead of [[motivation]]:
+[[Motivation and obsession are indistinguishable to an outside perspective]] because [[motivation]] is just focusing on task until it's completion and focusing on the outcomes can actually lead to [[anxiety]] instead of [[motivation]]:
 [[Anxiety prevents us from living in the present]]
 
 Because [[Right kinds of thoughts lead to right kinds of actions]], this means keeping one thought in our mind until it becomes real, or [[manifestation]], is the same thing as [[motivation]].

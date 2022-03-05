@@ -4,36 +4,36 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-03-03
-sr-interval: 15
+sr-due: 2022-03-26
+sr-interval: 21
 sr-ease: 130
 ---
 
 #### [[Meditation helps us gain control over our emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Meditation is a practice to develop a stronger conscious]]
-#TO/TEND/CONNECT 
-[[Meditation is a practice to gain control over your thoughts]]
+[[Meditation is a practice to gain control over your thoughts]], but it also deals directly with the systems that govern our emotions.
 
-The reason that certain [[meditation]] styles work for different people lies in the our brains. 
+The reason that certain [[meditation]] styles work for different people lies in the differences between our brains. 
 If your [[limbic system]] is failing to regulate your [[emotions]], [[meditation]] can help your [[Frontal Lobe|Frontal Lobes]] to gain [[control]].
 ^[[[notes_Science of Meditation]]]
 
-#TO/TEND/GRAFT 
-- [[Meditation helps us detach negative attachments]]
-- [[Meditation helps us regulate our nervous system]]
-- [[Meditation regulates your hormones and stress physiology]]
+[[Complex emotions are intellectual understandings of primal urges]]. 
+We still carry many of the mechanisms that make it so [[Our brains are built around survival]].
+This is where the physical aspects of [[meditation]] come in.
+[[Meditation regulates your hormones and stress physiology]], allowing us to reduce the effects of these primal [[defense-mechanisms]].
+Additionally, [[Meditation helps us regulate our nervous system]] 
+so we can be in better control of how we respond to begin with.
+Finally, [[Meditation helps us detach negative attachments]]
+so we can heal past engagements that our [[brain]] has decided are unforgettable.
 
-This can lead to a [[detachment]] from our [[emotions]]:
-[[Meditation helps us detach negative attachments]]
+This is 
+part of:: [[Yoga is a wholistic philosophy of self-improvement]]
 
-#TO/TEND/GRAFT 
-- [[Our ego is our subconscious defense of our self]]
-- [[A secure identity is the best defense against social anxiety]]
-- [[Buddhism is the study of happiness through detachment]]
+Next:: [[How to develop a meditation practice]]
 
 ### <hr class="footnote"/> 
-**Status**:: #EVER/SPROUT
+
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[mindfulness]], [[emotions]]

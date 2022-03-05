@@ -4,19 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-03-03
-sr-interval: 25
+sr-due: 2022-04-05
+sr-interval: 31
 sr-ease: 132
 ---
 
 #### [[Conceptual note is a better term than atomic note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Names matter because they effect people's perception and understanding]], and 
-I think that in name alone [[conceptual notes]] are superior to atomic notes. 
-The name atomic notes pushes you to think about the physical size of the note,
-instead of the intellectual size of the note.
-
-At first thought (unless you're a chemist), an atom is a uniformly sized building block.
+At first thought (unless you're a chemist or physicist), an atom is a uniformly sized building block.
 It can vary a little bit in size, but overall it's virtue is in its uniformity.
 In [[Niklas Luhmann]]'s original [[Zettelkasten]], he inscribed all notes on 3x5 cards
 and then laid them out to create larger thoughts. 
@@ -27,6 +22,10 @@ We no longer have the limitation of a small card that can easily fit into filing
 Trying to exactly recreate a [[Zettelkasten]] with these limitations would
 introduce unnecessary [[friction]]: [[Friction is a hindrance to learning]]
 
+[[Names matter because they effect people's perception and understanding]], and 
+I think that in name alone [[conceptual notes]] are superior to atomic notes. 
+The name atomic notes pushes you to think about the physical size of the note,
+instead of the intellectual size of the note.
 This is why I always say [[conceptual notes]] instead of atomic notes:
 [[Concepts are the fundamental unit of knowledge]]
 

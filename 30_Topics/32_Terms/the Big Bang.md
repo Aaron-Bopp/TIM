@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/02/07, review, node/topic/term
-sr-due: 2022-03-01
-sr-interval: 15
+sr-due: 2022-04-19
+sr-interval: 45
 sr-ease: 265
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,11 +16,11 @@ The Big Bang theory is the prevailing cosmological model explaining the existenc
 
  > In a single blinding pulse, a moment of glory much too swift and expansive for any form of words, the singularity assumes heavenly dimensions, space beyond conception. 
  > 
-> <cite>[[books_A Short History of Nearly Everything|A Short History of Nearly Everything by Bill Bryson]]</cite>
+> <cite>[[books_A Short History of Nearly Everything#283957201q|A Short History of Nearly Everything by Bill Bryson]]</cite>
 
 > [!wikipedia:[the Big Bang](https://en.wikipedia.org/wiki/Big%20Bang)]
 > The basis of this theory is the observation that the farther away a galaxy is from us, the faster it is moving, leading to the idea of an [[expanding universe]].
-> Extrapolation of the expansion of the universe backwards in time using [[general relativity]] yields an [[infinite]] density and temperature at a finite time in the past.
+> Extrapolation of the expansion of the universe backwards in time using [[general relativity]] yields an [[infinite]] density and temperature at a *finite* time in the past, where the laws of [[physics]] in regular [[spacetime]] breakdown.
 > This irregular behavior, known as the [[gravitational singularity]], indicates that general relativity is not an adequate description of the laws of physics in this regime. 
 > 
 > According to this theory, space and time emerged together 13.787±0.020 billion years ago, and the [[universe]] has been expanding ever since.

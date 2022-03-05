@@ -9,9 +9,9 @@ sr-ease: 212
 
 #### [[Complex emotions are intellectual understandings of primal urges]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-> Emotions are evolved mechanisms for motivating adaptive behavior that are far more ancient than the cognitive processes typically associated with scientific thought. 
+> [[Emotions]] are evolved mechanisms for motivating adaptive [[behavior]] that are far more ancient than the cognitive processes typically associated with scientific thought. 
 > 
-![[books_Darwin's Cathedral#294094919q]]
+> [[books_Darwin's Cathedral|Darwin's Cathedral by David Sloan Wilson]] 
 
 What is [[existential dread]] other than a complex understanding our fear of death? 
 
