@@ -174,7 +174,7 @@ highlight_tags:: [[blue]]
 [^294248534]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=472
 
 
-%%
+%%cu
 highlight_tags:: [[pink]]
 %%
 
