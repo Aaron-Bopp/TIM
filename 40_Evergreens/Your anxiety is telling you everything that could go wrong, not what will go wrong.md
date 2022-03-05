@@ -2,23 +2,22 @@
 created: 2021-06-15
 edited: 
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-03-04
-sr-interval: 9
+sr-due: 2022-03-17
+sr-interval: 12
 sr-ease: 130
 ---
 
 #### [[Your anxiety is telling you everything that could go wrong, not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Whether it be fear of accidentally driving into oncoming traffic or falling of a cliff, [[You don't want to jump off the cliff you're just afraid of falling]] and those thoughts are just warning signs from the [[brain]].
-We are used to our brain's giving us warning signs, but for most people [[anxiety]] is not a warning state, it's a state of alarm.
+Whether it is [[fear]] of accidentally driving into oncoming traffic or falling of a cliff, [[You don't want to jump off the cliff you're just afraid of falling]], those thoughts are just warning signs from the [[brain]].
+We are used to our brain's giving us warning signs, but for most people [[anxiety]] is not a single sign, it's a state of alarm.
 
-[[Anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but [[Our brain will do anything it can to protect itself]]. The truth is the [[brain]] has used [[Physiologic Anxiety]] to survive for millions of years, because [[Our brains are built around survival]].
+[[Anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. These thoughts can often feel very irrational because we know that not every bad thing will happen, but [[Anxiety causes us to reject nuance]]. The truth is the [[brain]] has used [[Physiologic Anxiety]] to survive for millions of years, because [[Our brain will do anything it can to protect itself]].
 The problem comes from [[Cognitive Anxiety]], which in lieu of real life threats, identifies everything as a life threat: 
 [[Most anxiety isn't irrational it's just overcompensation]]
 
 #TO/WRITE what is bad about this
 - [[Anxiety prevents us from living in the present]]
-- [[Anxiety causes us to reject nuance]]
 
 [[Attachment fuels anxiety]] 
 and [[Anxiety stems from a lack of confidence for the future]]
@@ -36,7 +35,7 @@ This is made worse when the sources of your anxiety aren't obvious: [[Your anxie
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[mental illness]], [[self-actualization]], , 

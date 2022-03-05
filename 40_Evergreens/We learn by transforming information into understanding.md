@@ -15,7 +15,8 @@ sr-ease: 130
 
 from: [[@hankgreen on Twitter|Hank Green]]
 #TO/PONDER/IDEA [[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]] 
-#TO/EXPLORE/RESEARCH [Blooms taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
+
+#TO/PONDER/IDEA [[Blooms taxonomy]]
 - [[We are confined to the tools of our time]]
 - [[Humans try really hard to avoid understanding their mistakes]]
 - [[Rationalizations are defense-mechanisms against strong emotions]]

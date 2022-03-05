@@ -4,18 +4,17 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/03, review, node/evergreen/claim
-sr-due: 2022-03-04
-sr-interval: 35
+sr-due: 2022-05-26
+sr-interval: 82
 sr-ease: 230
 ---
 
 #### [[Consciousness is our capacity to introspect]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Many people think that [[conscious|consciousness]] is a unique to [[humanity]],
+Many people think that [[conscious|consciousness]] is intrinsic to [[humanity]],
 but while humans are the only ones to achieve it,
 [[conscious|consciousness]] is variable within our species,
-just like our capacity to introspect:
-[[Humans are primarily irrational, illogical, emotional beings]]
+just like our capacity to introspect.
 
 The [[Yogi|Yogis]] observed that we can only [[perception|perceive]] things that are separate from us, so because we can perceive our own thought, our [[conscious|consciousness]] must be separate from the [[mind]].
 ^[[[notes_The Nature of Mind]]]
@@ -30,10 +29,11 @@ and
 ]
 The specific ability to introspect is called [[Sakshi Bhava]], or as it has been popularized in [[America]], [[mindfulness]]. 
 
-[[Mindfulness]] is not just the ability to have thought. 
+[[Mindfulness]] is not just the ability to have thoughts or to know that you have thoughts. 
 As anybody with [[anxiety]] will tell you, the thoughts in your [[mind]] are not always accurate.
 ^[[[Your anxiety is telling you everything that could go wrong, not what will go wrong]]]
-[[Mindfulness]] is the ability to observe you thoughts, react to them without [[judgement]] or fear, and objectively decide your path forward.
+[[Mindfulness]] is the ability to observe you thoughts objectively, react to them without [[judgement]] or [[fear]], and decide your path forward.
+
 [[Buddha]] stated that this was the only path to end [[suffering]] and reach [[enlightenment]]:
 [[Buddhism is the study of happiness through detachment]]
 
