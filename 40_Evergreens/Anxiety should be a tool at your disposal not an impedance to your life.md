@@ -17,7 +17,7 @@ This does not mean our [[anxiety]] is any less impactful in our lives,
 but [[Anxiety is a defense-mechanism of the brain]] and sometimes that means that means our [[anxiety]] has more say over our life than we want it to:
 [[Anxiety prevents us from living in the present]]
 
-With the proper support structure and practices like [[mindfulness]] and [[meditation]] we can limit the debilitating effects of anxiety and focus on the things our brain is trying to warn us of: [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]
+With the proper support structure and practices like [[mindfulness]] and [[meditation]] we can limit the debilitating effects of anxiety and focus on the things our brain is trying to warn us of: [[You don't want to jump off the cliff you're just afraid of falling]]
 
 In some ways our [[anxiety]] is already working for us, 
 if we know how to understand it.

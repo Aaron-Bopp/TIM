@@ -27,7 +27,7 @@ sr-ease: 230
 # Highlights
 ##### ^242134827
 
-[[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]  
+[[You don't want to jump off the cliff you're just afraid of falling]]  
 
 
 ###### ^242134827q
@@ -78,7 +78,7 @@ sr-ease: 230
 # Highlights
 ##### ^242134827
 
-[[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]  
+[[You don't want to jump off the cliff you're just afraid of falling]]  
 
 
 ###### ^242134827q

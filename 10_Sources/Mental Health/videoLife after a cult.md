@@ -24,7 +24,7 @@ sr-ease: 230
     - [[Dr. K]] doesn't accept this perspective despite how logically correct it is [[Humans are primarily irrational, illogical, emotional beings]]
         - "You can't make up for the past, it has already happened" [[Accepting responsibility is not only about your actions|Accepting responsibility for moving past your trauma]]
         - "You can't let your feelings to someone else. You can't tolerate letting other people know about the ugliest parts of your being"
-        - #TO/PONDER/ME  "It's not a fear of rejection its a fear of acceptance" [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]] ^5626bf
+        - #TO/PONDER/ME  "It's not a fear of rejection its a fear of acceptance" [[You don't want to jump off the cliff you're just afraid of falling]] ^5626bf
         - "Loathing yourself is the opposite of acceptance" [[Constantly working on yourself is a form a self-hatred]]
         - "Your intellectual [[subconscious]] will subside when it's no longer needed. It's not about getting rid of it it's about no longer needing it to protect you" [[Rationalizations are defense-mechanisms against strong emotions]]
 

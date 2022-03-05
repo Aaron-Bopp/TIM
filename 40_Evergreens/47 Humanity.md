@@ -28,7 +28,7 @@
 			- [[Is cognitive dissonance the reason for harmful behaviors]]
 		- [[subconscious]]
 			- [[Personality types are 3d and interconnected, not 2d and static]]
-			- [[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]
+			- [[You don't want to jump off the cliff you're just afraid of falling]]
 			- [[Having extreme and uncontrollable empathy is dangerous]]
 		- [[Fear is the number one hindrance to trying]]
 		- [[Do we have free will]]
