@@ -12,9 +12,9 @@ sr-ease: 190
 #### [[Gen Z uses irony to navigate post internet communication]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Gen Z]] has a knack for internet [[communication]] unlike any other generation. They easily slide in and out of irony, latch onto and quickly let go of the current trends and inside jokes, and perceive subtlety with ease.
-However, all of this ease is related to the internet creating almost a new dialect of [[language]] that is shaped by landscape it is originating on.
+However, this new dialect is one created and used primarily on the internet. This shapes the way that it can be used.
 
-While this shared language may be off putting to people who are not fluent in it, it also accompanied with a level of comradery. This may lead to [[Gen Z]]'s increased aptitude for social change:
+While this shared [[language]] may be off putting to people who are not fluent in it, it also accompanied with a level of comradery. This may lead to [[Gen Z]]'s increased aptitude for social change:
 [[Greater cooperation and communication has lead to the success of humans as a species]] 
 
 #TO/TEND/GRAFT 

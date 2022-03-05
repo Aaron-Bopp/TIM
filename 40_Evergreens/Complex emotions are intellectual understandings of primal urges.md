@@ -9,6 +9,10 @@ sr-ease: 212
 
 #### [[Complex emotions are intellectual understandings of primal urges]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+> Emotions are evolved mechanisms for motivating adaptive behavior that are far more ancient than the cognitive processes typically associated with scientific thought. 
+> 
+![[books_Darwin's Cathedral#294094919q]]
+
 What is [[existential dread]] other than a complex understanding our fear of death? 
 
 What is [[Humans love to group eachother|humans love for grouping eachother]] other than a complex understanding of [[natural selection|kin selection]]?
@@ -24,4 +28,3 @@ We are more complex than any other animal. We have developed a [[conscious|consc
 
 **Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
