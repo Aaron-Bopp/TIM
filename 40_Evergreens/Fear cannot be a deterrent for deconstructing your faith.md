@@ -2,8 +2,8 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-03-05
-sr-interval: 49
+sr-due: 2022-06-06
+sr-interval: 92
 sr-ease: 185
 ---
 
@@ -15,10 +15,11 @@ but I don't think you can get rid of the fear of hell,
 or the fear of [[judgement|judgment]],
 or the fear of "worldliness"
 until you let go of 
-your baggage ^[[[Working through trauma can involve of a lot of letting go]]] %% #TO/TEND/WEED these footnotes%%
-and reconcile your fear ^[[[We carry our childhood wounds into adulthood]]]
+your baggage 
+and reconcile your fear
 because: [[Sometimes we can't grow until we change our environment]] 
 
+%% #TO/WRITE expand on these footnotes %%
 For those who grew up in the Church or who rely on the church, fear is a very big obstacle to [[Deconstruction (Christianity)|deconstruction]] because [[Fear of hell is baked into Christianity for vulnerable believers]].
 This fear can be an [[existential dread]],
 ^[[[Faith is an abstraction of cognitive dissonance]]] 

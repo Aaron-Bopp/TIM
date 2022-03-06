@@ -7,16 +7,11 @@ tags: created/source/2022/02/27, node/source/notes
 ---
 
 ##### [[reference_Darwin's Cathedral]]
-**Creator**:: 
+**Creator**:: [[David Sloan Wilson]]
  
-**Source**:: 
+**Source**:: [[books_Darwin's Cathedral]]
 
-**Link**:: 
-
-#### Terms
-- 
-
-## Sumaries
+## Summaries
 ### Chapter 1
 
 This chapter concerns itself with orientating the reader to be ready for the rest of the book. This includes dispelling preconceived notions that people familiar with the field have, as well as defining several core concepts.

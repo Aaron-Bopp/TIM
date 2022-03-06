@@ -25,6 +25,7 @@ and by not being a thing you have consistently studied but continue to think abo
 - [[friction]]
 - [[resonant frequency]]
 	- [Want to study physics? Read these 10 books - YouTube](https://www.youtube.com/watch?v=p9s2fBYA4fU)
+- [[spandrel]]
 
 
 ### <hr class="dataviews"/>

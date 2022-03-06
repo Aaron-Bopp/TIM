@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/04, review, node/evergreen/claim
-sr-due: 2022-03-04
-sr-interval: 1
+sr-due: 2022-03-08
+sr-interval: 3
 sr-ease: 230
 ---
 
@@ -13,6 +13,7 @@ sr-ease: 230
 
 Cooperation and communication are the cornerstones of [[group selection]] and [[reciprocal altruism]] and are thus a large part of [[Humans are a product of evolution]].
 This can be traced back to the very beginning of [[homo sapiens]] when we slowly overtook and eventually outcompeted every of other species of human. 
+
 In [[books_Sapiens|Sapiens by Yuval Noah Harari]], this take over by [[homo sapiens]] is termed the "Cognitive revolution" where our increased ability for cooperation allowed us to outcompete our contemporary humans.
 
 ![[books_Sapiens#294248541q]]
