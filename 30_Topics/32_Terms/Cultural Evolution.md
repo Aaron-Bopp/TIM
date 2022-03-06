@@ -21,7 +21,10 @@ In [[books_Darwin's Cathedral|Darwin's Cathedral]] [[David Sloan Wilson]] descri
 1. Cultural evolution requires specialized genetic mechanisms to take place ^[[[books_Darwin's Cathedral#292936699q]]]
 2. Many of these mechanisms are [[unconscious]] ^[[[books_Darwin's Cathedral#292936700q]]]
 3. These mechanisms can be distributed among many individuals ^[[[books_Darwin's Cathedral#293875894q]]]
-4. Cultural evolution takes place at the group level ^[[[books_Darwin's Cathedral#293875895q]]]
+4. Cultural evolution takes place at the group level ^[[[books_Darwin's Cathedral#293875895q]]] 
+
+
+^68bb63
 
 He concludes that [[Cultural evolution is not confined to the slow process of genetic evolution]]
 

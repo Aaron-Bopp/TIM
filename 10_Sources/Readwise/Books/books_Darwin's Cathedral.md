@@ -844,7 +844,7 @@ highlight_tags:: [[blue]]
 
 ###### ^294293305q
 
-> many biological structures are like a spandrel, which is the area created by two adjoining arches. Arches are clearly functional in the design of a building but spandrels are merely the byproducts of arches. These spaces are sometimes used for artistic purposes, but their “function” is secondary at best. 
+> many biological structures are like a [[spandrel]], which is the area created by two adjoining arches. Arches are clearly functional in the design of a building but spandrels are merely the byproducts of arches. These spaces are sometimes used for artistic purposes, but their “function” is secondary at best. 
   [^294293305]
 
 [^294293305]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=869
