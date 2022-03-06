@@ -24,14 +24,13 @@ This book seems to be a rather influential in that it pushed for and re-populari
 Wilson doesn't discredit the pushback against [[group selection]] but rather clarifies what it is and how it works.
 He does this by finding the relation between social life and biological fitness, in short that even if a trait does not benefit an individual, if it benefits the group that individual is a part of it can survive and even thrive. 
 
-Wilson also provides several caveats and warnings to prevent people from overestimating the influence of [[group selection]] as they did in the past. The first of these is that not every group is an adaptive unit. If there is not competition there is not driving force for [[group selection]] to take advantage of. 
-The second is that groups must be defined every trait relative to the context that trait is meaningful in. He claims that every other theory of group selection (one's that rely on [[kin selection]] or [[game theory]]) can be explained using [[group selection]] by properly following these rules ^2db02f
+ ![[group selection#^e8dce2]] 
 
 This leads to the conclusions that
 [[Functionally integrated social groups become organisms in their own right]] and
 [[There is a social element to genetic evolution]].
 
-Wilson then starts to take stabs at [[kin selection]] and [[reciprocal altruism]] in earnest. He claims that if you view history through the lense of human groups as moral communities you will see many behaviors that work much better as a result of [[group selection]] than can be explained as a result of genetic relatives or those who will return the favor.
+Wilson then starts to take stabs at [[kin selection]] and [[reciprocal altruism]] in earnest. He claims that if you view history through the lense of human groups as moral communities you will see many behaviors that work much better as a result of [[group selection]] then can be explained as a result of genetic relatives or those who will return the favor.
 
 All throughout this chapter Wilson starts to make reference to the relation of these [[Evolution|evolutionary]] concepts and religion, morality, and the [[human experience]]. 
 As he does this he starts to expand from [[group selection]] to [[Evolutionary Psychology]] and [[Cultural Evolution]].
@@ -41,4 +40,8 @@ and [[Biological processes can only give context to behavior not predict it]]
 
 This leads him fully into [[Cultural Evolution]], a process that does not change genes in the slightest and yet is highly adaptive and competitive. He offers four insights from [[group selection]] and then comes back to how human's form into adaptive groups.
 This leads to [[Cultural evolution is not confined to the slow process of genetic evolution]]
-and [[Greater cooperation and communication has lead to the success of humans as a species]]
+and [[Greater cooperation and communication has lead to the success of humans as a species]].
+
+Finally this leads him to start directly connecting these ideas to [[religion]].
+
+
