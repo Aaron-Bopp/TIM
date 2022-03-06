@@ -14,7 +14,10 @@ tags: created/topic/2022/03/03, node/topic/term
 In [[books_Darwin's Cathedral|Darwin's Cathedral]] [[David Sloan Wilson]] describes four insights into [[Cultural Evolution]] from [[group selection]].
 1. Cultural evolution requires specialized genetic mechanisms to take place ^[[[books_Darwin's Cathedral#292936699q]]]
 2. Many of these mechanisms are [[unconscious]] ^[[[books_Darwin's Cathedral#292936700q]]]
-3. These mechanisms can be distributed among many individuals ^[[[##]]]
+3. These mechanisms can be distributed among many individuals ^[[[books_Darwin's Cathedral#293875894q]]]
+4. Cultural evolution takes place at the group level ^[[[books_Darwin's Cathedral#293875895q]]]
+
+He concludes that [[Cultural evolution is not confined to the slow process of genetic evolution]]
 
 > [!wikipedia:[Cultural Evolution](https://en.wikipedia.org/wiki/Cultural%20evolution)]
 > 
