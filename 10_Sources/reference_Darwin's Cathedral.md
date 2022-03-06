@@ -31,9 +31,12 @@ This leads to the conclusions that
 [[Functionally integrated social groups become organisms in their own right]] and
 [[There is a social element to genetic evolution]].
 
-Wilson then starts to take stabs at [[kin selection]] and [[reciprocal altruism]] in earnest. He claims that if you view history through the lense of human groups as moral communities you will see many behaviors that can only be attributed to [[group selection]]
-All throughout this chapter Wilson starts to make reference to the relation of these [[Evolution|evolutionary]] concepts and religion, morality, and the [[human experience]]. 
+Wilson then starts to take stabs at [[kin selection]] and [[reciprocal altruism]] in earnest. He claims that if you view history through the lense of human groups as moral communities you will see many behaviors that work much better as a result of [[group selection]] than can be explained as a result of genetic relatives or those who will return the favor.
 
+All throughout this chapter Wilson starts to make reference to the relation of these [[Evolution|evolutionary]] concepts and religion, morality, and the [[human experience]]. 
+As he does this he starts to expand from [[group selection]] to [[Evolutionary Psychology]] and [[Cultural Evolution]].
+Wilson again takes issue with and redefines [[Evolutionary Psychology]] to better reflect it's place in our understanding of [[human behavior]]. He pushes back against the "jukebox" argument that modern behaviors are just choosing records from our ancient biology. His main argument here is that this oversimplifies and over specifies. Genetic evolution does not need to lead to modularity and can instead create an environment capable of complex responses.
+This leads him fully into [[Cultural Evolution]], a process that does not change genes in the slightest and yet is highly adaptive and competitive.
 #### Major concepts
 - [[Greater cooperation and communication has lead to the success of humans as a species]]
 - [[Evolutionary Psychology is just a framework not a prescription of behavior]]

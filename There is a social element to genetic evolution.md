@@ -18,6 +18,8 @@ sr-ease: 230
 ![[books_Darwin's Cathedral#289554236q]]
 ![[books_Darwin's Cathedral#289554239q]]
 
+This a big part of how [[The immune system is adaptive]], it is a social system of pieces working together to adapt
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
