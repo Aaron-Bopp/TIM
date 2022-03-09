@@ -4,15 +4,18 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-05
+sr-due: 2022-03-10
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Religion promotes high social control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+This allows religion to create either very positive or very negative behaviors in groups.
 
 ![[books_Darwin's Cathedral#294094920q]]
+
+Perhaps religion allows an easier to way to pass on practices without them being questioned.
 
 ### <hr class="footnote"/>
 

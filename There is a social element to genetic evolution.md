@@ -25,5 +25,5 @@ This a big part of how [[The immune system is adaptive]], it is a social system 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[Evolution]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

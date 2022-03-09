@@ -15,6 +15,7 @@ sr-ease: 268
 
 What are your answers?
 
+Related:
 - [[Purpose is derived from within, duty is derived from without]]
 - [[Be the change you want to see in the world]]
 - [[Growing up is being able to articulate the hope more than the hopelessness]]
