@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/technique 
-sr-due: 2022-03-06
-sr-interval: 28
+sr-due: 2022-05-16
+sr-interval: 68
 sr-ease: 230
 ---
 

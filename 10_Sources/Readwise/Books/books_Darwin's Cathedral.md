@@ -429,7 +429,7 @@ highlight_tags:: [[pink]]
 
 ###### ^289554240q
 
-> Social control mechanisms are obviously relevant to religious groups, which are based on much more than voluntary altruism. 
+> [[Social control]] mechanisms are obviously relevant to religious groups, which are based on much more than voluntary altruism. 
   [^289554240]
 
 [^289554240]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=392

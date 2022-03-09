@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/08/01, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-03-06
-sr-interval: 61
+sr-due: 2022-07-18
+sr-interval: 131
 sr-ease: 210
 ---
 
@@ -18,7 +18,7 @@ This is beginning of the [[Rise of Modern Conservatism]] because [[Ronald Reagan
 It's interesting to look at the way [[Watergate]] was handled, and then look at the scandals of recent presidents: [[Republican voters do not hold their leaders accountable]].
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Reagan]], [[political strategy]]

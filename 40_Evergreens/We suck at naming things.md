@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/14, review, node/evergreen/claim
-sr-due: 2022-03-06
-sr-interval: 9
+sr-due: 2022-04-02
+sr-interval: 24
 sr-ease: 210
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 210
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[history]], [[society]]

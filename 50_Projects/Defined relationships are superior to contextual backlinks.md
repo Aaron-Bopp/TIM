@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim  
-sr-due: 2022-03-06
-sr-interval: 28
+sr-due: 2022-05-17
+sr-interval: 69
 sr-ease: 230
 ---
 
@@ -50,7 +50,7 @@ What is the goal of this? Well by formatting my notes in this way it allows me t
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited January 23, 2022*
 
 **Topics**:: [[knowledge work]], [[Obsidian (software)|Obsidian]], [[knowledge management]], [[note writing]]

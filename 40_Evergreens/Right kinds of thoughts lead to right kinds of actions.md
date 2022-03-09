@@ -4,14 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-03-07
-sr-interval: 11
+sr-due: 2022-03-31
+sr-interval: 22
 sr-ease: 170
 ---
 
 #### [[Right kinds of thoughts lead to right kinds of actions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Every action must be proceeded by a thought,
+%% #TO/DO/CITE and provide exception %%
 so if we fill our [[mind]] with productive thoughts then we will have productive actions.
 If we can focus our thoughts on one action over time we will see positive benefits or [[karma]].
 [[Dharana]] is training our [[mind]] to do this, and through it we develop our [[motivation]]:
@@ -27,7 +28,7 @@ If we can focus our thoughts on one action over time we will see positive benefi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited January 19, 2022*
 
 **Topics**:: [[purpose]], [[human advancement]], [[Life principles]]

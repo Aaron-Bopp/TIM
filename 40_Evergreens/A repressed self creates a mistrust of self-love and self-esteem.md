@@ -2,8 +2,8 @@
 created: 2021-06-28
 edited: 2022-01-25
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-03-06
-sr-interval: 14
+sr-due: 2022-03-30
+sr-interval: 21
 sr-ease: 130
 ---
 
@@ -23,7 +23,7 @@ But if you have a repressed [[identity]], you were never able to develop that [[
 [[Your anxiety knows your insecurities better than you do]]
 
 This is 
-part of how:: [[We value our biggest insecurities because they protect us from the biggest threats]]
+part of how:: [[We value our biggest insecurities because they protect us from the biggest threats]].
 The [[ego]] used our [[insecurity|insecurities]] to construct our [[identity]] because our true [[self]] was [[repressed]].
 
 Reasons for this likely come from the home, as that is where a lot of initial invalidation can happen: 
@@ -35,7 +35,7 @@ important to remember:: [[Presentation is the realization of our self-perception
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING  
+**Status**:: #EVER/SAPLING
 *edited January 25, 2022*
 
 **Topics**:: [[self]], [[self-love]], [[self-hate]], [[self care]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-07
-sr-interval: 2
+sr-due: 2022-03-17
+sr-interval: 8
 sr-ease: 230
 ---
 
@@ -16,11 +16,12 @@ If one tool will get you to put work in and another won't, that is the better to
 This probably needs a massive caveat of what does being useful mean, and that this doesn't mean you should just seek out the tools that are harder to use so you feel more productive. I think the fact is that for the most part people are not relying on the increase of productivity between one tool or another, they are debating whether they will do the work or not.
 
 #TO/TEND/GRAFT [[Classifying something will almost never add value to it]]
+- [[Good friction causes the brain to engage]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[productivity]], [[creativity]], [[knowledge work]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

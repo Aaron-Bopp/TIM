@@ -4,20 +4,23 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/18, review, node/evergreen/technique 
-sr-due: 2022-03-07
-sr-interval: 48
+sr-due: 2022-06-05
+sr-interval: 88
 sr-ease: 179
 ---
 
 #### [[Use spaced repetition as a memory tool for your second brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Nodes in the second brain are an abstraction of our first brain]], but there are some key differences, one of them being the way that we memorize things.
-We remember things by making connections to them, whether that be an acronym, a song, or just remembering something in sequence,
+We remember things by connecting them to different contexts,
+whether that be an acronym, a song, or just remembering something in sequence,
 ^[this is how we memorize long passages, we are connecting one sequence to the next: [[How memory works]]]
 we are making connections that allow us to remember that thing.
 Sometimes these connections can be made almost completely autonomously, but in the [[second brain]] we often have to make these connections manually.
 This introduces [[friction]], which is in direct contradiction to the [[philosophy]] of [[My TIM]]:
 [[Your second brain should be frictionless access to a curated base of knowledge]]
+
+%% #TO/WRITE more about how [[spaced repetition]] actually helps us remember stuff %%
 
 [[Spaced repetition]] can help alleviate this [[friction]], by helping our first [[brain]] make connections in our second brain.
 %%^[For me, this is especially helpful because [[Neurodivergent people cannot stop their brain from solving problems]].] #TO/PROGRAM aside for publish%%

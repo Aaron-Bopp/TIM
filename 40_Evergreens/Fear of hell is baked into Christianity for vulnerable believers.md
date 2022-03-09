@@ -2,8 +2,8 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-03-07
-sr-interval: 89
+sr-due: 2022-11-07
+sr-interval: 243
 sr-ease: 270
 ---
 
@@ -15,7 +15,7 @@ The reason is [[Religious concepts are often too powerful for a child's mind]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]],  [[religious trauma]], [[Deconstruction (Christianity)]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-05
-sr-interval: 1
+sr-due: 2022-03-16
+sr-interval: 7
 sr-ease: 230
 ---
 
@@ -13,7 +13,6 @@ sr-ease: 230
 
 [[Functionally integrated social groups become organisms in their own right]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[genetic]] [[evolution]]. 
 
-#TO/DO/FIND qoute from [[books_Darwin's Cathedral]] about social control
 
 ![[books_Darwin's Cathedral#289554236q]]
 ![[books_Darwin's Cathedral#289554239q]]
