@@ -28,6 +28,8 @@ In [[books_Darwin's Cathedral|Darwin's Cathedral]] [[David Sloan Wilson]] descri
 
 He concludes that [[Cultural evolution is not confined to the slow process of genetic evolution]]
 
+![[books_Sapiens#294931431q]]
+
 **See**:: [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

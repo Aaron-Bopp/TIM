@@ -1,5 +1,5 @@
 ---
-created: 2022-03-10T16:23:34 
+created: 2022-03-10T17:13:08 
 edited: 
 aliases:
   - null
@@ -9,12 +9,14 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[Being able to support larger brains is key to human evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Stone age tools were primarily wooden]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+![[books_Sapiens#294931430q]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[prehistory]], [[human evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
