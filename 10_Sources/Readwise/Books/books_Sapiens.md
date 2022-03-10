@@ -243,11 +243,160 @@ highlight_tags:: [[blue]]
 
 
 
-###### ^294248542q
-
-> New ability Wider consequences The ability to transmit larger quantities of information about the world surrounding Homo sapiens Planning and carrying out complex actions, such as avoiding lions and hunting bison The ability to transmit larger quantities of information about Sapiens social relationships Larger and more cohesive groups, numbering up to 150 individuals The ability to transmit information about things that do not really exist, such as tribal spirits, nations, limited liability companies, and human rights a. Cooperation between very large numbers of strangers b. Rapid innovation of social behaviour 
-  [^294248542]
-
-[^294248542]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=616
-
 ##### History and Biology
+
+
+
+###### ^294618333q
+
+> This was the key to Sapiens’ success. In a one-on-one brawl, a Neanderthal would probably have beaten a Sapiens. But in a conflict of hundreds, Neanderthals wouldn’t stand a chance. Neanderthals could share information about the whereabouts of lions, but they probably could not tell – and revise – stories about tribal spirits. Without an ability to compose fiction, Neanderthals were unable to cooperate effectively in large numbers, nor could they adapt their social behaviour to rapidly changing challenges. 
+  [^294618333]
+
+[^294618333]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=581
+
+#### 3 A Day in the Life of Adam and Eve
+
+
+
+###### ^294931430q
+
+> Artefacts made of more perishable materials – such as wood, bamboo or leather – survive only under unique conditions. The common impression that pre-agricultural humans lived in an age of stone is a misconception based on this archaeological bias. The Stone Age should more accurately be called the Wood Age, because most of the tools used by ancient hunter-gatherers were made of wood. 
+  [^294931430]
+
+[^294931430]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=707
+
+
+
+
+###### ^294931431q
+
+> there hasn’t been a single natural way of life for Sapiens. There are only cultural choices, from among a bewildering palette of possibilities. 
+  [^294931431]
+
+[^294931431]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=756
+
+##### The Original Affluent Society
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^294931433q
+
+> The dog was the first animal domesticated by Homo sapiens, and this occurred before the Agricultural Revolution. Experts disagree about the exact date, but we have incontrovertible evidence of domesticated dogs from about 15,000 years ago. 
+  [^294931433]
+
+[^294931433]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=763
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^294931434q
+
+> The Upper Galilee Museum of Prehistory 7. First pet? A 12,000-year-old tomb found in northern Israel. It contains the skeleton of a fifty-year-old woman next to that of a puppy (bottom left corner). The puppy was buried close to the woman’s head. Her left hand is resting on the dog in a way that might indicate an emotional connection. There are, of course, other possible explanations. Perhaps, for example, the puppy was a gift to the gatekeeper of the next world. 
+  [^294931434]
+
+[^294931434]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=783
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^294931435q
+
+> alongside seas and rivers rich in seafood and waterfowl, humans set up permanent fishing villages – the first permanent settlements in history, long predating the Agricultural Revolution. Fishing villages might have appeared on the coasts of Indonesian islands as early as 45,000 years ago. 
+  [^294931435]
+
+[^294931435]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=796
+
+
+%%
+highlight_tags:: [[c1]]
+%%
+
+###### ^294931436q
+
+> Sapiens did not forage only for food and materials. They foraged for knowledge as well. To survive, they needed a detailed mental map of their territory. To maximise the efficiency of their daily search for food, they required information about the growth patterns of each plant and the habits of each animal. They needed to know which foods were nourishing, which made you sick, and how to use others as cures. 
+  [^294931436]
+
+[^294931436]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=802
+
+
+
+
+###### ^294931437q
+
+> Each individual had to understand how to make a stone knife, how to mend a torn cloak, how to lay a rabbit trap, and how to face avalanches, snakebites or hungry lions. Mastery of each of these many skills required years of apprenticeship and practice. 
+  [^294931437]
+
+[^294931437]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=806
+
+
+
+
+###### ^296601899q
+
+> Ancient foragers also suffered less from infectious diseases. Most of the infectious diseases that have plagued agricultural and industrial societies (such as smallpox, measles and tuberculosis) originated in domesticated animals and were transferred to humans only after the Agricultural Revolution. 
+  [^296601899]
+
+[^296601899]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=857
+
+
+
+
+###### ^296601915q
+
+> The Aché people, hunter-gatherers who lived in the jungles of Paraguay until the 1960s, offer a glimpse into the darker side of foraging. When a valued band member died, the Aché customarily killed a little girl and buried the two together. ... When an old Aché woman became a burden to the rest of the band, one of the younger men would sneak behind her and kill her with an axe-blow to the head. ... Babies born without hair, who were considered underdeveloped, were killed immediately. ... Anthropologists who lived with them for years report that violence between adults was very rare. Both women and men were free to change partners at will. They smiled and laughed constantly, had no leadership hierarchy, and generally shunned domineering people. They were extremely generous with their few possessions, and were not obsessed with success or wealth. ... They viewed the killing of children, sick people and the elderly as many people today view abortion and euthanasia. ... The need to evade their enemies probably caused the Aché to adopt an exceptionally harsh attitude towards anyone who might become a liability to the band. 
+  [^296601915]
+
+[^296601915]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=869
+
+##### Talking Ghosts
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^296601907q
+
+> Animism (from ‘anima’, ‘soul’ or ‘spirit’ in Latin) is the belief that almost every place, every animal, every plant and every natural phenomenon has awareness and feelings, and can communicate directly with humans. 
+  [^296601907]
+
+[^296601907]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=896
+
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^296601916q
+
+> Animists believe that there is no barrier between humans and other beings. They can all communicate directly through speech, song, dance and ceremony. ... What characterises all these acts of communication is that the entities being addressed are local beings. They are not universal gods, but rather a particular deer, a particular tree, a particular stream, a particular ghost. 
+  [^296601916]
+
+[^296601916]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=904
+
+
+
+
+###### ^296601910q
+
+> painting from Lascaux Cave, c.15,000–20,000 years ago. What exactly do we see, and what is the painting’s meaning? Some argue that we see a man with the head of a bird and an erect penis, being killed by a bison. Beneath the man is another bird which might symbolise the soul, released from the body at the moment of death. If so, the picture depicts not a prosaic hunting accident, but rather the passage from this world to the next. But we have no way of knowing whether any of these speculations are true. 
+  [^296601910]
+
+[^296601910]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=932
+
+
+
+
+###### ^296601917q
+
+> In Sungir, Russia, archaeologists discovered in 1955 a 30,000-year-old burial site belonging to a mammoth-hunting culture. In one grave they found the skeleton of a fifty-year-old man, covered with strings of mammoth ivory beads, containing about 3,000 beads in total. On the dead man’s head was a hat decorated with fox teeth, and on his wrists twenty-five ivory bracelets. Other graves from the same site contained far fewer goods. ... Archaeologists then discovered an even more interesting tomb. It contained two skeletons, buried head to head. One belonged to a boy aged about twelve or thirteen, and the other to a girl of about nine or ten. The boy was covered with 5,000 ivory beads. He wore a fox-tooth hat and a belt with 250 fox teeth (at least sixty foxes had to have their teeth pulled to get that many). The girl was adorned with 5,250 ivory beads. Both children were surrounded by statuettes and various ivory objects. ... fashioning the 10,000 ivory beads that covered the two children, not to mention the other objects, required some 7,500 hours of delicate work, well over three years of labour by an experienced artisan! 
+  [^296601917]
+
+[^296601917]: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=938
+
+##### Peace or War?

@@ -91,7 +91,7 @@ sr-ease: 250
 - Adult's treat their children differently according to their child's sex. This treatment is complex and small but widespread enough to encourage gender differences
 - The ability to distinguish between male and femal faces develops sometime between birth and 3 months of age
 - Children's ability to perceive gender does not mean that gender is binary or is not societally constructed. Children categorize gendered behavior as they see it, and as gender nonconformity becomes more prevalent children often understand it more easily than adults.
-- Male pattern aggression is present through multiple culture from North America to Africa
+- Male pattern aggression is present through multiple culture from North America to [[Africa]]
 - **[[gender constancy]]** => the understanding the gender is stable and inconsistent
 	- a 3 year old may know that she is a girl but not know that she can't grow up to be a daddy
 - [[gender identity]] develops around 18 months to two years --> **gender stability** (understanding that gender is stable over time) which develops around 3-4

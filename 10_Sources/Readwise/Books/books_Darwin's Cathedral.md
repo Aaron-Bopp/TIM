@@ -919,3 +919,221 @@ highlight_tags:: [[orange]]
 
 [^292550153]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389
 
+# New highlights added March 10, 2022 at 3:54 PM
+
+%%
+highlight_tags:: [[blue]]
+%%
+
+###### ^295076111q
+
+> Social control, rather than highly self-sacrificial altruism, appears to solve the fundamental problem of social life at the individual level. 
+  [^295076111]
+
+[^295076111]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=367
+
+
+
+
+###### ^295428836q
+
+> If religion does not actually deliver the scarce resources that supernatural agents are invented to provide, the entire enterprise is a waste of time as far as survival and reproduction are concerned. 
+  [^295428836]
+
+[^295428836]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=951
+
+
+
+
+###### ^295428837q
+
+> Religion is on the cost side of a cost-benefit equation as far as the evolution of human psychology is concerned. 
+  [^295428837]
+
+[^295428837]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=954
+
+##### DURKHEIM REVISITED
+
+%%
+highlight_tags:: [[orange]]
+%%
+
+###### ^295428839q
+
+> According to animism, spiritual belief originated from the experience of dreaming, in which a phantom version of oneself appears capable of leaving the body and traveling long distances. Sleep, fainting, madness, and death all lead to the notion of a world of spirits who enter and leave human bodies at will. Once this world is imagined, it can explain anything: 
+  [^295428839]
+
+[^295428839]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=966
+
+
+
+
+###### ^295428840q
+
+> The human capacity for thought is broadly adaptive, but its particular manifestation in the case of religion has no function and can be costly 
+  [^295428840]
+
+[^295428840]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=979
+
+
+
+
+###### ^295490284q
+
+> Durkheim doubted that something as pervasive and influential as religion could be so dysfunctional. Early humankind lived too close to the edge of survival for such idle theorizing. Beliefs that failed to deliver practical benefits would soon be discarded in favor of more adaptive beliefs. 
+  [^295490284]
+
+[^295490284]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=982
+
+
+
+
+###### ^295490304q
+
+> If the point of religion was to give us a representation of the world that would guide us in our dealings with it, then religion was in no position to carry out its function, and humanity would not have been slow to notice that fact: ... (Durkheim [1912] 1995, 76–77) 
+  [^295490304]
+
+[^295490304]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=995
+
+##### ^295490287
+
+This is both similar to Wilsons point and the central thesis of the functionalist view of religion  
+
+
+###### ^295490287q
+
+> Durkheim proposed that religion functions as an organizer of social life, both by defining groups and by prescribing the behaviors of its members. For Durkheim, the essence of religion was a distinction between the sacred and the profane: 
+  [^295490287]
+
+[^295490287]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=999
+
+
+
+
+###### ^295490288q
+
+> “In all its aspects and at every moment of history, social life is only possible thanks to a vast symbolism” (233). Religion is therefore a symbolic representation of society. 
+  [^295490288]
+
+[^295490288]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1008
+
+##### ^295490289
+
+This lines up with the Dawn of Everything  
+
+
+###### ^295490289q
+
+> The religious rituals and other festivities held during these gatherings were so emotionally intense that they gave force to group identity when its members were dispersed. 
+  [^295490289]
+
+[^295490289]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1013
+
+
+
+
+###### ^295490290q
+
+> Deacon (1998) has recently argued that symbolic thought sets humans apart from all other animals and evolved to enable enforced social contracts such as marriage. 
+  [^295490290]
+
+[^295490290]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1015
+
+##### THE NEXT GENERATION
+##### ^295490292
+
+Evans-Pritchard criticized Durkheim for writing freely and construsting stories about populations he didnt have first hand knowledge of  
+
+
+###### ^295490292q
+
+> he had an insight into a psychological fundamental of religion: the elimination of the self, the denial of individuality, its having no meaning, or even existence, save as part of something greater, and other, than the self. But I am afraid that we must once more say that it is a just-so story. (64) 
+  [^295490292]
+
+[^295490292]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1031
+
+
+
+
+###### ^295490293q
+
+> it would be wrong to conclude that the general thesis of functionalism was similarly dismantled. 
+  [^295490293]
+
+[^295490293]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1040
+
+##### ^295490294
+
+Evans-Pritchards greatest contribution  
+
+
+###### ^295490294q
+
+> segmentation: the organization of leaderless tribes into a nested hierarchy of groups that can become functionally organized at any level, depending on the scale of the environmental challenge (usually warfare). 
+  [^295490294]
+
+[^295490294]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1044
+
+
+
+
+###### ^295490295q
+
+> one of his most arresting observations is that Nuer religion is similar to the Judaism of the Old Testament—not because of any historical connection but because both were derived from herding cultures whose lives were dominated by their livestock and their own social affairs. 
+  [^295490295]
+
+[^295490295]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1047
+
+
+
+
+###### ^295490296q
+
+> Victor Turner ([1969] 1995) analyzed religious ritual in terms of two key concepts: communitas and structure. Structure is the system of roles related to age, sex, and status that people in a community occupy. Communitas is a conception of the community as an egalitarian unit in which all members, from highest to lowest, have a moral claim. 
+  [^295490296]
+
+[^295490296]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1056
+
+
+
+
+###### ^295490297q
+
+> human groups achieve their functional organization not entirely by self-restraint (although this can be an important factor) but by mutual vigilance and social control. 
+  [^295490297]
+
+[^295490297]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1069
+
+
+
+
+###### ^295490306q
+
+> [after the death of the former king] he was suddenly set upon by the entire populace, ... They surrounded him in a dense crowd, and then began to heap upon him every manner of abuse that the worst of mobs could imagine. ... for every few minutes some fellow, administering a specially severe blow or kick, would shout out, “You are not our king yet; for a little while we will do what we please with you. By-and-by we will have to do your will.” 
+  [^295490306]
+
+[^295490306]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1076
+
+
+
+
+###### ^295490301q
+
+> “now we choose you for our king; we engage to listen to you and to obey you.” 
+  [^295490301]
+
+[^295490301]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1088
+
+##### ^295490302
+
+Some notes the power of ritual in preserving strong community and how thay curbs selfishness and evildoing. Removing the need for any kind of police force.  
+
+
+###### ^295490302q
+
+> Malidoma Patrice Somé, a member of the West African Dagara culture, who has attempted to interpret the nature of ritual for an American audience (Somé 1997). According to Some, rituals and social responsibilities are “inseparable” 
+  [^295490302]
+
+[^295490302]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1096
+
+##### FUNCTIONALISM TODAY

@@ -28,7 +28,7 @@ The history of group selection is an interesting one, but our modern conception 
 What [[Charles Darwin]] talks about here would now be considered a form of [[Cultural Evolution]]. Indeed, [[group selection]] is often much more in the realm of cultural than genetic [[evolution]]. This makes discussions around group selection veer much more towards [[Psychology]] than [[biology]], but [[biology]] very much has a part to play in discussions of [[group selection]] and [[Cultural Evolution]]. The story of [[homo sapiens]] themselves is one of unique genetic evolution that was able to spread via [[group selection]].
 
 [[Group selection]] is can be a very powerful force through it's reinforcement of [[reciprocal altruism]]. When group develops strong levels of cooperation while they are separated from the wider group 
-^[much as [[homo sapiens]] was separated from [[homo erectus]] and [[homo neanderthalis]] in eastern Africa 150,000 years ago: [[Greater cooperation and communication has lead to the success of humans as a species]]]
+^[much as [[homo sapiens]] was separated from [[homo erectus]] and [[homo neanderthalis]] in eastern [[Africa]] 150,000 years ago: [[Greater cooperation and communication has lead to the success of humans as a species]]]
 it allows them to out compete another group. In the same species this leads the [[founder effect]] and in separate species in leads to extinction. 
 ^[[[lecture_Behavioral Evolution#^igzkks]]]
 

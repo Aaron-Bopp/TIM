@@ -35,7 +35,7 @@ sr-ease: 250
     - America enters the War
         - America
             - Europe was main front
-                - North Africa -> Italy -> France
+                - North [[Africa]] -> Italy -> France
                 - One chance to invade France
                     - D-Day needed to gain a hold in Europe
                     - Second Front helped to relieve pressure on [[Russia|Soviets]]

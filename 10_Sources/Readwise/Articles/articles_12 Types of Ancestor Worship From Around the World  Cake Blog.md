@@ -29,7 +29,7 @@ sr-ease: 230
 
 [[Voodoo has it's roots in West Africa]]  
 %%
-highlight_tags:: [[africa]], [[voodoo]]
+highlight_tags:: [[Africa]], [[voodoo]]
 %%
 
 ###### ^291061814q
