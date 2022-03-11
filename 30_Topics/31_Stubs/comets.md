@@ -7,10 +7,10 @@ tags: created/topic/2022/02/16, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Halley's comet]]</s>
+##### <s class="topic-title">[[comets]]</s>
 
 
-**See**::
+**See**:: [[astronomy]], [[cosmology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

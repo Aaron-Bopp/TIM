@@ -12,10 +12,7 @@ sr-ease: 230
 #### [[Culture is built off of shared belief in an imagined reality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 ![[books_Sapiens#294248534q]]
-
-![[books_Sapiens#294248537q]]
-Imagined reality is explored in [[books_Sapiens|Sapiens by Yuval Noah Harari]], as a mechanism by which humans can have greater cooperation at greater scales than any other species.
-This is a large part of [[Greater cooperation and communication has lead to the success of humans as a species]] but it is also the fundamental mechanism behind [[Belief pulls you forward into life]].
+[[Culture]] is the synthesis of our collective imagination, or [[Imagined reality]]. 
 
 This is heavily interwoven with [[religion]], as [[religion]] is often the [[language]] through which we understand this imagined reality.
 However, [[Strong enough logic becomes belief]] and thus
@@ -27,6 +24,7 @@ However, [[Strong enough logic becomes belief]] and thus
 Especially with the advent of [[Social media]], almost everything we do interacts with this imagined reality. We place value in the likes and views of our content that all amount to oscillations in the electrical charge of transistors at various points in the world. We have decided to [[abstraction|abstract]] our [[human interaction|social interaction]]s into a realm of pure imagination; removing ourselves as much as we can from the physical reality and consequences of our actions. This imagined reality can become even more real than our actual reality as we place more and more value into things we cannot touch or smell.
 
 ![[books_Darwin's Cathedral#294094918q]]
+Perhaps in this case [[Social media]] is maladaptive.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

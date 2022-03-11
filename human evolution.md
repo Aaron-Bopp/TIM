@@ -11,9 +11,18 @@ tags: created/topic/2022/03/10, review, node/topic/term
 
 This is a miraculous and complicated process that has been taking place for 300,000 years.
 
+> [!wikipedia:[human evolution](https://en.wikipedia.org/wiki/Human%20evolution)]
+> 
+> Human evolution is the evolutionary process within the history of primates that led to the emergence of Homo sapiens as a distinct species of the hominid family, which includes the great apes. This process involved the gradual development of traits such as human bipedalism and language, as well as interbreeding with other hominins, which indicate that human evolution was not linear but a web. 
+> 
+> Genetic studies show that primates diverged from other mammals about 85 million years ago, in the Late Cretaceous period, and the earliest fossils appear in the Paleocene, around 55 million years ago. 
+> 
+> Great apes diverged from gibbons some 15–20 million years ago; African apes diverged from orangutans about 14 million years ago; the tribe Hominini (including humans, Australopithecus, and chimpanzees) parted from the tribe Gorillini (gorillas) between 8–9 million years ago; and, in turn, the subtribes Hominina (humans and extinct biped ancestors) and Panina (chimpanzees) separated 4–7 million years ago. 
+
+
+
 **See**:: [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
 #### The many keys to human evolution
 
 ##### Larger brains 

@@ -10,7 +10,7 @@ tags: created/topic/2022/02/16, node/topic/stub
 ##### <s class="topic-title">[[Halley's comet]]</s>
 
 
-**See**::
+**See**:: [[astronomy]], [[history]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

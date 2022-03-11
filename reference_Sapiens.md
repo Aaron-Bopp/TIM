@@ -11,11 +11,12 @@ tags: created/source/2022/03/10, node/source/notes
  
 **Source**:: [[books_Sapiens]]
 
-#### Terms
+#### Key Concepts
 - [[Cognitive Revolution]]
-- 
+- [[human evolution]]
+- [[human foraging]]
 
-#### Concepts
+#### Insights
 - [[Cracking bones and eating the marrow may have been human's first niche]]
-- [[Being able to support larger brains is key to human evolution]]
 - [[Cooking allowed prehistoric humans to spend less energy on digesting]]
+- [[Culture is built off of shared belief in an imagined reality]]
