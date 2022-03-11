@@ -3,7 +3,7 @@ created: 2022-03-10T17:30:49
 edited: 
 aliases:
   - null
-tags: created/topic/2022/03/10, review, node/topic/term
+tags: created/topic/2022/03/10, review, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -29,7 +29,7 @@ This was a time period that encompassed much of [[prehistory]] and coincided [[h
 
 By 8500 BC the [[Middle East]] was peppered with small villages centered around wheat production.
 ^[[[books_Sapiens#^297301085]]]
-While human foraging would never completely fade slowly [[human farming]] would take over as the dominant way of life.
+While human foraging would never completely fade slowly [[farming]] would take over as the dominant way of life.
 
 %% DO NOT EDIT BELOW %%
 

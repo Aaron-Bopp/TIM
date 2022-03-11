@@ -4,12 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-07
-sr-interval: 2
+sr-due: 2022-03-20
+sr-interval: 9
 sr-ease: 230
 ---
 
 #### [[Most problems cannot be significantly understood through a single framework]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+Making connections is a really important part of [[learning]] see [[Active Recall]] and [[Blooms taxonomy]]
 
 - [[Experts are often far too confident in the effectiveness of their theories]]
 - [[Evergreen notes should be constantly integrating new knowledge]]

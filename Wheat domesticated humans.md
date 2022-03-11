@@ -15,15 +15,15 @@ sr-ease: 230
 
 > ![[books_Sapiens#^297301076]]
 
-Wheat did not offer us a better life, but [[Farming capitalized on group selection]]. Cultivating wheat allowed for the population to grow exponentially.
+Wheat did not offer us a better life, but [[Farming outcompeted foraging by shear force]]. Cultivating wheat allowed for the population to grow exponentially.
 ^[[[books_Sapiens#^297301078]]]
 
-This domestication lead to the development of [[society]] and [[culture]] as human's being closer together for long periods of time allowed them to develop an [[Imagined reality]], which lead to [[Culture is built off of shared belief in an imagined reality]]
+This domestication lead to the development of [[society]] and [[culture]] as human's being closer together for long periods of time allowed them to develop an [[Imagined reality]], which lead to [[Social order is built off of a shared belief in an imagined reality]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human farming]], [[prehistory]]
+**Topics**:: [[farming]], [[prehistory]], [[domestication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 230
 ---
 
-#### [[Culture is built off of shared belief in an imagined reality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Social order is built off of a shared belief in an imagined reality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 ![[books_Sapiens#294248534q]]
 [[Culture]] is the synthesis of our collective imagination, or [[Imagined reality]]. 

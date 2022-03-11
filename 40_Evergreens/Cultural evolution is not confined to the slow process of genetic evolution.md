@@ -23,7 +23,7 @@ it can provide accurate prediction and help us to understand the complex problem
 It is easy to see how much faster [[Cultural Evolution]] can move when we look at it's fundamental unit of change, the cultural mutation.
 ![[books_Darwin's Cathedral#293875896q]]
 Compared to the generational unit of change of genetic evolution, [[belief]] can be passed almost instantaneously, and are even the basis of our [[social order]]:
-[[Culture is built off of shared belief in an imagined reality]]
+[[Social order is built off of a shared belief in an imagined reality]]
 
 This is integral to the development of the [[social order]]:
 [[Greater cooperation and communication has lead to the success of humans as a species]]

@@ -11,13 +11,15 @@ sr-ease: 230
 
 #### [[We have been domesticating dogs for 15,000 years]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-![[books_Sapiens#294931433q]]
+> ![[books_Sapiens#294931433q]]
+
 ![[Pasted image 20220310171812.png]]
-![[books_Sapiens#294931434q]]
+
+> ![[books_Sapiens#294931434q]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[prehistory]], [[Fun fact]]
+**Topics**:: [[prehistory]], [[Fun fact]], [[domestication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -9,11 +9,11 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[Farming capitalized on group selection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Farming outcompeted foraging by shear force]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 > ![[books_Sapiens#^297301079]]
 
-As early humans transitioned from [[human foraging]] to [[human farming]], their overall quality of life went down not up. Plague's of infectious [[disease]] and starvation were unheard of in foraging times, partially because [[Foraging kept populations down]] and because [[Foraging allowed for a diverse diet]], but mainly because their were never enough people around to die.
+As early humans transitioned from [[human foraging]] to [[farming]], their overall quality of life went down not up. Plague's of infectious [[disease]] and starvation were unheard of in foraging times, partially because [[Foraging kept populations down]] and because [[Foraging allowed for a diverse diet]], but mainly because their were never enough people around to die.
 
 In reality farming lead to a variety of problems. Injuries were common as the human body was not adapted to a life of tilling fields and hauling chaff.
 ^[[[books_Sapiens#^297301075]]]
@@ -33,5 +33,5 @@ This is part of [[Greater cooperation and communication has lead to the success 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human farming]], [[human foraging]], [[human evolution]], [[society]], [[group selection]]
+**Topics**:: [[farming]], [[human foraging]], [[human evolution]], [[society]], [[group selection]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

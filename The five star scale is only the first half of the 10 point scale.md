@@ -34,12 +34,10 @@ most people will give something good or great a five star review, but also those
 Now, I am not saying that I have not found timeless wisdom in a 5 star reviews, but most of that wisdom has come from reviews of washing machines or vacuum cleaners. 
 I simply don't trust a random person's opinion on a piece of art like a movie or a tv show.
 
-
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[art]], [[critique]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -3,7 +3,7 @@ created: 2022-03-10T16:51:44
 edited: 
 aliases:
   - null
-tags: created/topic/2022/03/10, review, node/topic/term
+tags: created/topic/2022/03/10, review, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -55,7 +55,7 @@ Our ability to communicate subjective matter's like emotions and feelings allows
 [[Communication]] continues to lead the way as we start to construct symbols to more easily to transfer [[information]] to new generations. 
 ^[[[books_Sapiens#294248530q]]]
 
-[[Culture is built off of shared belief in an imagined reality]]
+[[Social order is built off of a shared belief in an imagined reality]]
 
 ##### Social control
 
