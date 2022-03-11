@@ -12,12 +12,13 @@ sr-ease: 230
 #### [[Hunter-gatherer societies were very diverse]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/TEND/CONNECT [[books_The Dawn of Everything|The Dawn of Everything]]
-[[books_Sapiens|Sapiens]]
+> ![[books_Sapiens#^294248524]]
+
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[human foraging]], [[social order]], [[prehistory]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

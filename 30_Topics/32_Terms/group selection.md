@@ -8,6 +8,7 @@ tags: created/topic/2022/02/10, review, node/topic/term
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 ##### <s class="topic-title">[[group selection]]</s>
+
 Groups selection takes place when a trait is passed on because the trait that an individual or individuals carry may be detrimental to themselves, but benefits the survival of the group.
 
 In [[books_Darwin's Cathedral|Darwin's Cathedral]], [[David Sloan Wilson]] outlines two caveats for group selection to apply to any trait. 
@@ -31,10 +32,6 @@ What [[Charles Darwin]] talks about here would now be considered a form of [[Cul
 ^[much as [[homo sapiens]] was separated from [[homo erectus]] and [[homo neanderthalis]] in eastern [[Africa]] 150,000 years ago: [[Greater cooperation and communication has lead to the success of humans as a species]]]
 it allows them to out compete another group. In the same species this leads the [[founder effect]] and in separate species in leads to extinction. 
 ^[[[lecture_Behavioral Evolution#^igzkks]]]
-
-
-
-
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

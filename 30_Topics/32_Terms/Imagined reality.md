@@ -9,7 +9,7 @@ tags: created/topic/2022/03/10, node/topic/term
 
 ##### <s class="topic-title">[[Imagined reality]]</s>
 
-![[books_Sapiens#294248537q]]
+> ![[books_Sapiens#294248537q]]
 
 [[Imagined reality]] is explored in [[books_Sapiens|Sapiens by Yuval Noah Harari]], as a mechanism by which [[Greater cooperation and communication has lead to the success of humans as a species]] but it is also the fundamental mechanism behind [[Belief pulls you forward into life]].
 

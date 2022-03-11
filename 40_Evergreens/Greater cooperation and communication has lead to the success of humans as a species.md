@@ -17,7 +17,7 @@ This can be traced back to the very beginning of [[homo sapiens]] when we slowly
 In [[books_Sapiens|Sapiens by Yuval Noah Harari]], this take over by [[homo sapiens]] is termed the "Cognitive revolution" where our increased ability for cooperation allowed us to outcompete our contemporary humans.
 
 ![[books_Sapiens#294248541q]]
-This may seem inconsequential to modern day humans, but the very same biological mechanisms that allowed us to overtake prehistoric humans are still effect us today, and in many ways the [[Cultural Evolution]] that has changed us so deeply in the past 2000 years is just a extension of the "Cognitive revolution" that lead us to leave eastern Africa.
+This may seem inconsequential to modern day humans, but the very same biological mechanisms that allowed us to overtake prehistoric humans are still effecting us today, and in many ways the [[Cultural Evolution]] that has changed us so deeply in the past 2000 years is just a extension of the "Cognitive revolution" that lead us to leave eastern Africa.
 
 This is thanks to the fact that [[Cultural evolution is not confined to the slow process of genetic evolution]]
 ![[books_Sapiens#294248540q]]
@@ -30,5 +30,5 @@ This is thanks to the fact that [[Cultural evolution is not confined to the slow
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[group selection]]
+**Topics**:: [[group selection]], [[human evolution]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

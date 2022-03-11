@@ -1137,3 +1137,96 @@ Some notes the power of ritual in preserving strong community and how thay curbs
 [^295490302]: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1096
 
 ##### FUNCTIONALISM TODAY
+# New highlights added March 11, 2022 at 8:23 AM
+
+##### ^297089492
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1114  
+
+###### ^297089492q
+
+Holism The idea that the whole is somehow more than the sum of its parts is one of the most common and also one of the most vaguely articulated themes associated with functionalism. 
+
+^297089492
+
+##### ^297089493
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1118  
+
+###### ^297089493q
+
+methodological individualism, described by Watkins ([1957] 1994, 442) as follows: According to this principle, the ultimate constituents of the social world are individual people who act more or less appropriately in the light of their dispositions and understanding of their situation. 
+
+^297089493
+
+##### ^297089494
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1133  
+
+###### ^297089494q
+
+The question “Why do these particular fruit flies have this particular phenotype?” has two answers. First, every phenotype is caused mechanistically by genes that interact with each other and their environment during development. Second, the phenotype exists because of a history of selection for that phenotype, coupled with heritable variation. These two explanations are usually labeled “proximate” and “ultimate” respectively, and there is a sense in which the latter is more fundamental than the former. 
+
+^297089494
+
+##### ^297089495
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1143  
+
+###### ^297089495q
+
+heritable variation and selection provide a solid foundation for the holistic claim that the parts permit the properties of the whole but do not cause the properties of the whole. 
+
+^297089495
+
+##### ^297089496
+ 
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1148  
+
+###### ^297089496q
+
+Proximate explanation (“the sandy color in this species is caused by chromatin granules, which are coded by genes on the fourth chromosome”) complements ultimate explanation (“the sandy color is caused by a history of selection favoring cryptic coloration”) but never substitutes for it. 
+
+^297089496
+
+##### ^297089497
+ 
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1180  
+
+###### ^297089497q
+
+The problem with functionalism begins when we attempt to explain the properties of groups in general and especially human groups, for which the influence of natural selection is not so obvious. 
+
+^297089497
+
+##### ^297089498
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1200  
+
+###### ^297089498q
+
+Mature research programs in biology pay equal attention to ultimate and proximate explanation, but they often begin with an adaptationist hypothesis that provides the best and most economical “first guess” about the properties of the organism 
+
+^297089498
+
+##### ^297089499
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1216  
+
+###### ^297089499q
+
+The more numerous, complex, and interlocking the design features, the more compelling the evidence for their designed nature. William Paley (1805) popularized the argument from design as evidence for God, but in fact it only provides evidence for a designing agent—the hand of God, a human engineer, alien visitors from another planet, or the process of natural selection. 
+
+^297089499
+
+##### ^297089502
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1241  
+
+###### ^297089502q
+
+Natural selection was once assumed to be such a slow process that only the products, and not the process, could be directly observed. This view has been shattered by dozens of empirical studies, ... In the case of guppies, downstream fish transplanted to upstream tributaries have evolved the upstream suite of traits within ten generations. 
+
+^297089502
