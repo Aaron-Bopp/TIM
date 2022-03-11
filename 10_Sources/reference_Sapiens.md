@@ -20,3 +20,5 @@ tags: created/source/2022/03/10, node/source/notes
 - [[Cracking bones and eating the marrow may have been human's first niche]]
 - [[Cooking allowed prehistoric humans to spend less energy on digesting]]
 - [[Culture is built off of shared belief in an imagined reality]]
+
+## Summary: Part One The [[Cognitive Revolution]]

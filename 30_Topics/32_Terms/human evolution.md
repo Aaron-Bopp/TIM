@@ -23,6 +23,11 @@ This is a miraculous and complicated process that has been taking place for 300,
 
 **See**:: [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### Our family
+
+Around 2 million years ago Australopithecus broke into several "human" species that spread across the world. The species became known as [[homo neanderthalis]], [[homo erectus]], [[homo soloensis]]
+
 #### The many keys to human evolution
 
 ##### Larger brains 
