@@ -18,11 +18,12 @@ This was a time period that encompassed much of [[prehistory]] and coincided [[h
 
 
 #### Foraging naturally kept population down
-> ![[books_Sapiens#^297301081]]
+[[Foraging kept populations down]]
 #### Foraging was not simply about survival 
 ![[books_Sapiens#294931436q]]
 > ![[books_Sapiens#^297094622]]
 #### Foragers were less likely to get diseases
+[[Foraging allowed for a diverse diet]]
 > ![[books_Sapiens#^296601899]]
 
 

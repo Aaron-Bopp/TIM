@@ -14,6 +14,8 @@ sr-ease: 230
 #TO/TEND/CONNECT [[books_The Dawn of Everything|The Dawn of Everything]]
 > ![[books_Sapiens#^294248524]]
 
+> ![[books_Sapiens#^297089486]]
+
 
 ### <hr class="footnote"/>
 

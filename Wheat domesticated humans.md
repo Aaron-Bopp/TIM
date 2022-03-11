@@ -11,11 +11,14 @@ sr-ease: 230
 
 #### [[Wheat domesticated humans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+> ![[books_Sapiens#^297301089]]
+
 > ![[books_Sapiens#^297301076]]
 
-> ![[books_Sapiens#^297301078]]
-> ![[books_Sapiens#^297301079]]
+Wheat did not offer us a better life, but [[Farming capitalized on group selection]]. Cultivating wheat allowed for the population to grow exponentially.
+^[[[books_Sapiens#^297301078]]]
 
+This domestication lead to the development of [[society]] and [[culture]] as human's being closer together for long periods of time allowed them to develop an [[Imagined reality]], which lead to [[Culture is built off of shared belief in an imagined reality]]
 
 ### <hr class="footnote"/>
 
