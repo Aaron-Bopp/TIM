@@ -11,7 +11,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[SNRI]]</s>
 
 Class of drugs that work by inhibiting its [[serotonin]] and [[norepinephrine]] reuptake in the synaptic cleft and are typically used as [[antidepressants]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[hormone|hormones]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

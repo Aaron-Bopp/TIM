@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Anahata Chakra]]</s>
 
 Situated at our [[solar plexus]] or the middle of our upper back, it is the heart [[Chakra]], which governs [[compassion]] and [[empathy]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[Chakra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

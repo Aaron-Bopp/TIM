@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Siddhi Padha]]</s>
 
 The path of [[accomplishment]], focused on reaching your goals.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 - [[notes_What is achievement]]
 - [[notes_Reframing Goals to Actions]]

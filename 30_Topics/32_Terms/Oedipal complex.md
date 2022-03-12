@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Oedipal complex]]</s>
 
 In psychoanalytic theory, this is a desire for sexual involvement with the parent of the opposite sex and a concomitant sense of rivalry with the parent of the same sex; a crucial stage in the normal developmental process. [[Sigmund Freud]] introduced the concept in his Interpretation of Dreams.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Qi]]</s> 
 
 It is the vital life-force energy according to Chinese traditional medicine and martial arts.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[Pranamaya Kosha]],[[Brahman]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

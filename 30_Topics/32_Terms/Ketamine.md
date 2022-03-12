@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Ketamine]]</s>
 
 a dissociative anesthetic [[drug]] that works via its action in the [[cerebral cortex]] and [[limbic system]] and causes the release of endogenous catecholamines ([[epinephrine]], [[norepinephrine]]). It is used for the induction and maintenance of anesthesia, sedation, analgesia, and as a treatment for bronchospasm. It is also been used for the treatment of migraine headaches, [[depression]], alcoholism, heroin [[addiction]], and chronic pain/pain syndromes.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

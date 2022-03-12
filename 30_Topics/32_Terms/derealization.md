@@ -9,7 +9,6 @@ tags: created/topic/2021/10/20, node/topic/term
 ##### <s class="topic-title">[[derealization]]</s>
 
 A mental state where you feel detached from your surroundings. People and objects around you may seem unreal. Even so, you’re aware that this altered state isn’t normal.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

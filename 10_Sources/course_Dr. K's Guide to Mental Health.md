@@ -11,7 +11,7 @@ sr-interval: 6
 sr-ease: 250
 ---
 
-##### [[course_Dr. K's Guide to Mental Health ]]
+##### [[course_Dr. K's Guide to Mental Health]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: https://coaching.healthygamer.gg/
@@ -61,7 +61,7 @@ sr-ease: 250
 		- [[Manas Padha]]
 			- [[notes_The Nature of Mind]]
 			- [[notes_System of Mind]]
-			- [[notes_Vedic Psychology]]
+		- [[notes_Vedic Psychology]]
 	- [[Dharma]]
 		- [[You can't control what happens]]
 			- [[notes_What is achievement]]
@@ -88,12 +88,7 @@ sr-ease: 250
 			- [[notes_Thought Loops]]
 			- [[notes_Tension in the Mind]]
 			- [[notes_Feeding the Beast]]
-	- [[notes_What is an Anxiety Disorder]]
-		- [[notes_Generalized Anxiety disorder]]
-		- [[notes_Social Anxiety Disorder]]
-		- [[notes_Panic Disorder]]
-		- [[notes_Rebound Anxiety]]
-		- [[notes_Other Anxiety Disorders]]
+	- [[notes_Diagnosing Anxiety]]
 	- [[notes_Solutions to Anxiety]]
 - [[depression]]
 	- [[Depression is past focused, hopelessness is future focused]]
@@ -105,16 +100,9 @@ sr-ease: 250
 		- [[notes_Ayurveda for Anxiety]]
 # Source notes
 ## Watched
-- [[notes_the Nature of Self]]
-- [[notes_Panchakosha Theory]]
-- [[notes_Depression in a Holistic Lens]]
-- [[notes_Confidence vs Ego]]
-- [[notes_Vedic Psychology]]
 - [[notes_Working with Samskaras]]
 - [[notes_Breath and Mind]]
-- [[notes_General Differntial Diagnosis]]
-- [[notes_Bipolar Disorder]]
-- [[notes_Features of Clinical Depression]]
+- [[notes_Diagnosing depression]]
 - [[notes_Negative Emotions]]
 ## Unwatched
 - [[notes_Dietary Guidance in Ayurveda]]

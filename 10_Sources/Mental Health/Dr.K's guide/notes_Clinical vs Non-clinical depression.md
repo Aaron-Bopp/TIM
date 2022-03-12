@@ -59,7 +59,7 @@ sr-ease: 270
 next:: [[notes_Clinical vs Non-clinical depression]]
 next:: [[notes_Clinical vs Non-clinical depression]]
 next:: [[notes_Intro to Ayurveda]]
-next:: [[notes_General Differntial Diagnosis]]
+next:: [[notes_Diagnosing depression]]
 
 
 

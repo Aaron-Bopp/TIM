@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Duloxetine]]</s>
 
 A drug that works by dual [[serotonin]] and [[norepinephrine]] reuptake inhibition (SNRI) and is typically used to treat major depressive disorder, generalized anxiety disorder, neuropathic pain, fibromyalgia, chronic musculoskeletal pain, and stress incontinence.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

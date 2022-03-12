@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Prakruti]]</s>
 
 The natural [[Dosha|doshic]] balance, determined at birth.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[Dosha]], [[Ayurveda]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

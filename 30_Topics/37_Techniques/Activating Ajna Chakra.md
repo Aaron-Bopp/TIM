@@ -13,7 +13,6 @@ sr-ease: 250
 #### <s class="topic-title">[[Activating Ajna Chakra]]</s> 
 
 Example:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/knowledge-and-the-mind/meditations/activating-ajna-chakra)
-^[[[course_Dr. K's Guide to Mental Health]]]
 
 Hover your middle finger's right above the area between your eyes. Feel a warming sensation. Remove your fingers and concentrate on maintaining that sensation.
 

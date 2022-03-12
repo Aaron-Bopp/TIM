@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Manas Padha]]</s> 
 
 The path of the [[mind]], which focuses on exploring the nature of the mind.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 - [[notes_The Nature of Mind]]
 - [[notes_System of Mind]]

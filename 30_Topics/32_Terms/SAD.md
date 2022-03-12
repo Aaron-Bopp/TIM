@@ -11,7 +11,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[SAD]]</s>
 
 A person with **social anxiety disorder** feels symptoms of [[anxiety]] or fear in certain or all social situations, such as meeting new people, dating, being on a job interview, answering a question in class, or having to talk to a cashier in a store. Doing everyday things in front of people—such as eating or drinking in front of others or using a public restroom—also causes [[anxiety]] or [[fear]]. The person is afraid that he or she will be humiliated, judged, and rejected. [[social anxiety]] is rooted in this [[scrutiny]]
-^[[[notes_Social Anxiety Disorder]]]
+^[[[notes_Diagnosing Anxiety]]]
 
 **See**:: [[GAD|Generalized Anxiety Disorder]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

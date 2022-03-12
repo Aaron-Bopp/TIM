@@ -9,8 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 ##### <s class="topic-title">[[Cyclothymia]]</s>
 
-A rare [[mood]] disorder. Cyclothymia causes emotional ups and downs, but they're not as extreme as those in [[Bipolar I]] or [[Bipolar II]] disorder. With cyclothymia, you [[experience]] periods when your mood noticeably shifts up and down from your baseline
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
+A rare [[mood]] disorder. Cyclothymia causes emotional ups and downs, but they're not as extreme as those in [[Bipolar disorder]]. With cyclothymia, you [[experience]] periods when your mood noticeably shifts up and down from your baseline
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

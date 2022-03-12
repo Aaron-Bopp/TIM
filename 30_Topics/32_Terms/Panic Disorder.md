@@ -10,7 +10,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Panic Disorder]]</s>
 
 A constant excessive worry about future [[panic attacks]] or danger that may not be present. It may cause changes in your life and routines out of fear of future panic attacks.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
+^[[[notes_Diagnosing Anxiety]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Sahasrara Chakra]]</s>
 
 Situated at the crown of our head, when [[kundalini energy]] reaches this point, we become [[enlightenment|enlightened]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[Chakra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

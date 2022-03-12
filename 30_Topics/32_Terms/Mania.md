@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Mania]]</s>
 
 A psychological condition that causes a person to [[experience]] unreasonable euphoria, very intense moods, hyperactivity, and delusions. Mania (or [[manic]] episodes) is a common symptom of bipolar disorder. People may not sleep or eat while in a manic episode.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

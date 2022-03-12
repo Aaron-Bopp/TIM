@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Kriya Yoga]]</s> 
 
 A relatively modern distillation of [[Yoga]], it is a system of attaining [[enlightenment]] through a systematic purification of our [[conscious|consciousness]] and mind by utilizing certain key practices.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

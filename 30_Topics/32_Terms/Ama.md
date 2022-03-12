@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Ama]]</s>
 
 A toxic substance produced due to an inefficient [[digestive process]], and is the cause of [[disease]] in the body according to [[Ayurveda]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

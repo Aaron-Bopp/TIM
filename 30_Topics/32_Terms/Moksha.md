@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Moksha]]</s> 
 
 The [[Buddhism|Buddhist]] term for [[enlightenment]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[meditation]], [[Dhyana]], [[Samadhi]], [[Dharana]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

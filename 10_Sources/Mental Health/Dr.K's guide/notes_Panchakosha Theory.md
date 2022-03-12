@@ -10,6 +10,7 @@ sr-ease: 230
 ---
 
 ##### [[notes_Panchakosha Theory ]]
+
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
@@ -17,6 +18,7 @@ sr-ease: 230
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/panchakosha-theory)
 
 #### Terms
+
 - [[Panchakosha]]
 - [[Annamaya Kosha]]
 - [[Pranamaya Kosha]]
@@ -30,6 +32,7 @@ sr-ease: 230
 - [[Shuddhi]]
 
 ## Notes
+
 prev::[[notes_the Nature of Self]] 
 - [[Yogi|Yogis]] figured out a practical way to understand the human [[body]] in order to optimize our performance
 	- [[Yoga is a wholistic philosophy of self-improvement]]
@@ -62,3 +65,23 @@ prev::[[notes_the Nature of Self]]
 		- [[Shuddhi]] 
 
 next:: [[notes_Confidence vs Ego]]
+
+#### [[depression]] through the lense of panchakosha
+
+**Link**:: [depression-in-a-holistic-lens](https://coaching.healthygamer.gg/guide/lessons/depression-in-a-holistic-lens)
+
+- [[Yoga|Yogic]] perspective on [[depression]]
+	- leads to [[Panchakosha]] theory
+	- [[notes_Panchakosha Theory]]
+	- Using this we can see why medication alone isn't enough to deal with [[depression]]
+- [[depression]] maps onto all five layers of [[Panchakosha]]
+
+| [[Panchakosha]]       | Cause                                                | treatment                                             |
+| --------------------- | ---------------------------------------------------- | ----------------------------------------------------- |
+| [[Annamaya Kosha]]    | neurochemisty imbalance                              | medication diet sunlight [[notes_Brain Gut Axis]]     |
+| [[Pranamaya Kosha]]   | low energy                                           | [[Yoga]] [[Pranayama]] tai chi [[Qi Gong]]            |
+| [[Manomaya Kosha]]    | bad feeligns [[sadness]] [[guilt]] [[shame]]         | [[Psychotherapy]] nature journaling, therapy coaching |
+| [[Vijnanamaya Kosha]] | identity [[Negative Self Attitude (NSA)]]            | [[CBT]] read contemplate [[meditation]]               |
+| [[Anandamaya Kosha]]  | [[Congruent Depression]] lack of [[purpose]]/meaning | [[meditation]] [[Dharma]]                             |
+
+next:: [[notes_Negative Emotions]]

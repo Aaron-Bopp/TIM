@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Raga]]</s>
 
 The [[Sanskrit]] word for the experience of attraction or likes.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[Dvesha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

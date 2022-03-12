@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Dosha]]</s>
 
 A central term in [[Ayurveda]], which refers to the three humors, the balance of which promotes [[health]] in the [[mind-body complex]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[Vata]], [[Pitta]], [[Kapha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

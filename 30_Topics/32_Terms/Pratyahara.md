@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Pratyahara]]</s>
 
 The fourth step in the eightfold path of [[Raja Yoga]], Pratyahara is a set of techniques that teaches us to restrain our sense organs, or [[Indriya]]s.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

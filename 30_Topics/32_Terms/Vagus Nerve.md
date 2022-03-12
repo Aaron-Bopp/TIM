@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Vagus Nerve]]</s>
 
 Historically cited as the pneumogastric nerve, it is the tenth cranial nerve or CN X, and interfaces with the parasympathetic control of the [[heart]], [[breathing|lungs]], and[[digestive process|digestive tract]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

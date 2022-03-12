@@ -10,7 +10,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Rebound Anxiety]]</s>
 
 Return of [[anxiety]] symptoms after an anxiolytic substance (eg. medication, alcohol, etc) wears off
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
+^[[[notes_Diagnosing Anxiety]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

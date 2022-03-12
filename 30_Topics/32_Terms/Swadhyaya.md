@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Swadhyaya]]</s>
 
 The study of the [[self]]; a [[Niyama]] in [[Raja Yoga]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[meditation]], [[Yoga]], [[Niyama]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

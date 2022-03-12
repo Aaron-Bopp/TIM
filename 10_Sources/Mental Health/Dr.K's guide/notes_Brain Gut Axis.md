@@ -21,7 +21,6 @@ sr-ease: 250
 
 - [[Ayurveda]]
 - [[Turmeric]]
-- [[GI]]
 - [[Dopamine]]
 - [[Serotonin]]
 - [[Vagus Nerve]]

@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Citta]]</s> 
 
 The backdrop of the [[mind]], which contains our [[Samskara|samskaras]].
-^[[[course_Dr. K's Guide to Mental Health]]]
 This is the [[unconscious]]
 
 **See**:: [[subconscious]], [[conscious]],[[Vedic Psychology]]

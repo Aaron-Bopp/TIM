@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Nitrous Oxide]]</s>
 
 Inhalatory gas used in surgery and dentistry for its anesthetic and analgesic effects, commonly known as "laughing gas".
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Pranamaya Kosha]]</s> 
 
 It is the energy [[body]], composed of "[[Qi]]" or "Prana", which is in continuous flow within us.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[Pranayama]], [[Brahman]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

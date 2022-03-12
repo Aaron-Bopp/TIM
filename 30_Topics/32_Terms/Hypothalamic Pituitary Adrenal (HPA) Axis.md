@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Hypothalamic Pituitary Adrenal (HPA) Axis]]</s>
 
 Complex set of direct influences and feedback interactions among three components: the [[hypothalamus]], the [[pituitary gland]] (a pea-shaped structure located below the thalamus), and the [[adrenal]].
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: [[Cortisol]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

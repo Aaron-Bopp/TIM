@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 ##### <s class="topic-title">[[Grahastha Ashram]]</s>
 
 The second of the four stages of life according to the [[Hinduism|Hindu]] tradition, the Grahastha [[Ashram]] involves applying your skills for your own benefit and growth.
-^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 **See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

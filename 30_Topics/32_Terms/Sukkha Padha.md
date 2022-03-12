@@ -10,7 +10,6 @@ tags: created/topic/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Sukkha Padha]]</s> 
 
 The path of [[contentment]], focusing on building [[happiness]] through internal exploration.
-^[[[course_Dr. K's Guide to Mental Health]]]
 
 - [[notes_Dukkha]]
 - [[notes_Dharma]]
