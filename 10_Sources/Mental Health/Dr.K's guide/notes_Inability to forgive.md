@@ -14,6 +14,8 @@ sr-ease: 250
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/inability-to-forgive)
+**Link**:: [inability-to-forgive](https://coaching.healthygamer.gg/guide/lessons/inability-to-forgive), [depression-module-overview](https://coaching.healthygamer.gg/guide/lessons/depression-module-overview)
 
 #### Terms
+- [[Sigmund Freud]] described [[depression]] as anger directed against the [[self]]
+- how to move forward in life

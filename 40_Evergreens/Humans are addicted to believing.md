@@ -32,6 +32,7 @@ The effects are
 - [[Hope is not optimism it is a practice for producing change]]
 - [[What is the cognitive effect of living in an unjust world]]
 
+Example:: Me watching [[video_A brief history of quantom mechanics]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

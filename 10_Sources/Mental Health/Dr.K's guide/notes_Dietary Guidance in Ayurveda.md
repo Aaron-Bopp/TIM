@@ -25,3 +25,6 @@ sr-ease: 250
 - [[Vata]]
 - [[Prakruti]]
 - [[Vikruti]]
+
+#### Notes
+

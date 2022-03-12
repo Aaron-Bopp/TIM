@@ -24,10 +24,11 @@ sr-ease: 250
 - [[Kapha]]
 - [[Pitta]]
 - [[Vata]]
-- [[Ama]]
+- [[Ama]] we are not really sure if this exists
 - [[Fenugreek (Trigonella foenum-graecum)]]
 
 #### Notes
 - Diagnosis and treatment are static and may not help treat the day to day problems of [[anxiety]]
 - Anxiety is [[Vata]] over 75
--  
+- [[Ayurveda|Ayurvedic]] practices have been shown to reduce anxiety
+- Lots and lots of dietary recommendations

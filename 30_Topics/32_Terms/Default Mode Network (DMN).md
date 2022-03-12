@@ -13,7 +13,7 @@ A large-scale [[brain]] network primarily composed of the medial prefrontal cort
 ^[[Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)]
 
 Gives us the capacity of [[self-awareness]]
-^[[[notes_Neuroscience of Depression]]]
+^[[[notes_Clinical vs Non-clinical depression]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
