@@ -2,8 +2,8 @@
 created: 2021-10-23
 edited: 
 tags: created/topic/2021/10/23, node/topic/outline
-sr-due: 2022-02-17
-sr-interval: 5
+sr-due: 2022-04-17
+sr-interval: 37
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -13,7 +13,7 @@ sr-ease: 231
 #WIKI/FIND
 
 
-**See**::
+**See**:: [[Software Development]], [[Computer Science]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

@@ -26,7 +26,7 @@ This means that they can be used in combination with other metadata, such as not
 
 ##### Classifications group notes with similar metadata
 
-Every piece of thought in my [[second brain]] is tagged with #node. This includes my [[source notes]], [[topic note|topic notes]], and of course [[evergreen notes]], but it does not include anything in my 00_Meta and 20_Entry folders. This is because those folders are purely to help [[My TIM]] function, and to help other people access it. I exclude these notes from this tag, because they are artificial connections that do not help me create thought. 
+Every piece of thought in my [[second brain]] is tagged with #node. This includes my [[source notes]], [[topic notes]], and of course [[evergreen notes]], but it does not include anything in my 00_Meta and 20_Entry folders. This is because those folders are purely to help [[My TIM]] function, and to help other people access it. I exclude these notes from this tag, because they are artificial connections that do not help me create thought. 
 ^[[[Your second brain should be an inspirational hub of creativity]]]
 Having this tag means that I can access every piece of thought that is helpful to my learning easily and quickly, and will not have to deal with any other things clogging up my searches, backlinks, or [[Dataview]] queries.
 

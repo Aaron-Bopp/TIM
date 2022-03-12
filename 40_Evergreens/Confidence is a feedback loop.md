@@ -7,7 +7,7 @@ sr-interval: 34
 sr-ease: 136
 ---
 
-#### [[Social anxiety is a feedback loop]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Confidence is a feedback loop]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This [[feedback loop]] can either be in working for or against you. 
 
@@ -37,5 +37,5 @@ If we fail to get out of this [[feedback loop]] it will distort our [[self-image
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[anxiety]], [[social anxiety]], [[socialization]]
+**Topics**:: [[anxiety]], [[social anxiety]], [[socialization]], [[confidence]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

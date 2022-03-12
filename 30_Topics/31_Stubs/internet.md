@@ -3,9 +3,9 @@ created: 2021-08-01
 edited: 
 tags: created/topic/2021/08/01, node/topic/outline
 aliases:
-sr-due: 2022-02-17
-sr-interval: 3
-sr-ease: 256
+sr-due: 2022-03-15
+sr-interval: 4
+sr-ease: 236
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

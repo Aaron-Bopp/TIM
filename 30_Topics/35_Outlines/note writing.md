@@ -31,7 +31,7 @@ WHERE contains(topics, this.file.link)
 	- [[Term notes]]
 	- [[evergreen notes]]
 	- [[source notes]]
-	- [[topic note]]
+	- [[topic notes]]
 - How to write notes
 	- [[When in doubt, write what you think]]
 	- 

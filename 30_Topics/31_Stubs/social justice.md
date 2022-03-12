@@ -1,10 +1,10 @@
 ---
 created: 2021-07-29
 edited: 
-tags: created/topic/2021/07/29, node/topic/outline
-sr-due: 2022-02-28
-sr-interval: 14
-sr-ease: 246
+tags: created/topic/2021/07/29, review, node/topic/outline
+sr-due: 2022-04-06
+sr-interval: 26
+sr-ease: 226
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

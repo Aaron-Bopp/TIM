@@ -1,11 +1,11 @@
 ---
 created: 2021-06-16
 edited: 
-tags: created/topic/2021/06/16, node/topic/outline
+tags: created/topic/2021/06/16, review, node/topic/outline
 aliases:
 - neurological
-sr-due: 2022-03-04
-sr-interval: 18
+sr-due: 2022-05-18
+sr-interval: 68
 sr-ease: 306
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

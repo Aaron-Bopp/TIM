@@ -4,8 +4,8 @@ edited:
 aliases:
 -  
 tags: created/topic/2021/11/02, node/topic/outline
-sr-due: 2022-02-19
-sr-interval: 5
+sr-due: 2022-04-11
+sr-interval: 31
 sr-ease: 194
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,7 +16,7 @@ sr-ease: 194
 > 
 > Biologically, a child (plural children) is a human being between the stages of birth and puberty, or between the developmental period of infancy and puberty. 
 
-**See**::
+**See**::[[Psychology]], [[Samskara]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

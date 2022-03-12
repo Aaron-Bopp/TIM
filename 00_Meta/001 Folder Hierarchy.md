@@ -6,6 +6,6 @@
 - **20_Entry** notes that help access other notes in the vault
 	- **21 Inbox** determines and displays what notes are being working on based on various factors such 
 	- **22 Note by status** displays notes based on their assigned status
-- **30_Topics** [[topic note|topic notes]]
+- **30_Topics** [[topic notes]]
 	- Sub-folders currently mirror their type from [[003 Note Hierarchy]] (mostly)
 - **40_Evergreens** [[evergreen notes]] in a flat file structure (with outline notes)

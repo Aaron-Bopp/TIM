@@ -35,5 +35,5 @@ The amount you can contribute is much less, ^[$6000] but the money is slightly m
 **Status**:: #EVER/SAPLING  
 *edited January 25, 2022*
 
-**Topics**:: [[finance]], [[economy]], [[investing]]
+**Topics**:: [[finance]], [[economy]], [[investment]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

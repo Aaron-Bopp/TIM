@@ -27,7 +27,7 @@ For me, this process looks like this:
 	- The [[Dictionary (plugin, obsidian)|Dictionary]] and [[Wikipedia (plugin, obsidian)|Wikipedia]] plugins can streamline this
 3. Absorb highlights and notes in the relevant [[evergreen notes]] by copying and qouting the text, but removing as much fat as possible.
 	- This means that you may see text multiple times when searching, but because this means that you included that text in evergreen note, it should be valuable
-4. When searches are performed they can be limited to only text within [[evergreen notes|evergreens]], [[topic note|topics]], or [[source notes|sources]] or some combination and the quality of the text will match the search. 
+4. When searches are performed they can be limited to only text within [[evergreen notes|evergreens]], [[topic notes|topics]], or [[source notes|sources]] or some combination and the quality of the text will match the search. 
 
 ### <hr class="footnote"/>
 

@@ -13,8 +13,8 @@ sr-ease: 230
 
 First: Maximize link force, minimize link distance, and find a balance between repel force and centering force where you can start to see groupings of related notes. You may need to filter out large index's or add links to get groupings to appear. The more links there are the "stiffer" the graph will become and the clearer you will see groupings of notes.
 
-This will work somewhat for just [[evergreen notes]], but will work even better if you have [[topic note|topic notes]] or [[stub notes]] that naturally appear in notes without you having to think about linking them (you still need to create the links, either with the outgoing links' pane, scripts, or manually). 
-^[There are some risks with this approach. Many [[topic note|topic notes]] will appear in many different contexts, diluting the meaning of the link. One way to get around this is to [[Distinguish between purposeful tagging and coincidental tagging of information]]]
+This will work somewhat for just [[evergreen notes]], but will work even better if you have [[topic notes]] or [[stub notes]] that naturally appear in notes without you having to think about linking them (you still need to create the links, either with the outgoing links' pane, scripts, or manually). 
+^[There are some risks with this approach. Many [[topic notes]] will appear in many different contexts, diluting the meaning of the link. One way to get around this is to [[Distinguish between purposeful tagging and coincidental tagging of information]]]
  Maps of content can either be helpful or hindering, depending on how many you have and how many notes link out of each one. 
  
 There will start to be noticeable structures:

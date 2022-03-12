@@ -25,7 +25,7 @@ This is something that will be specific to certain kinds of notes and note taker
 1. **Link context is often too verbose.**
 I usually link contexts at the end or beginning of paragraphs, which means that in order to understand the context I need to read multiple sentences, or possibly even multiple paragraphs. I can define these relationships more simply, but not within the prose of the note
 
-Note that these are mainly true for [[evergreen notes]] with declarative titles. For [[topic note]]s, this is a much different story
+Note that these are mainly true for [[evergreen notes]] with declarative titles. For [[topic notes]], this is a much different story
 
 How can we improve on this?
 My answer is **defined relationships,** which

@@ -3,9 +3,9 @@ created: 2021-12-31
 edited: 
 aliases:
   - null
-tags: node/topic/stub
-sr-due: 2022-02-19
-sr-interval: 5
+tags: node/topic/stub, created/topic/2021/12/31
+sr-due: 2022-04-16
+sr-interval: 36
 sr-ease: 213
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,7 +20,7 @@ sr-ease: 213
 > 
 > The study of the human body involves [[anatomy]], [[physiology]], [[histology]] and [[embryology]]. The body varies anatomically in known ways. Physiology focuses on the systems and organs of the human body and their functions. Many systems and mechanisms interact in order to maintain homeostasis, with safe levels of substances such as sugar and oxygen in the blood.
 
-**See**::
+**See**:: [[mind]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

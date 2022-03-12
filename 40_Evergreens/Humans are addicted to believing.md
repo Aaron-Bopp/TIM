@@ -33,6 +33,7 @@ The effects are
 - [[What is the cognitive effect of living in an unjust world]]
 
 Example:: Me watching [[video_A brief history of quantom mechanics]]
+Example:: Me learning about [[The history of meditation is a mixture of science and spirituality]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

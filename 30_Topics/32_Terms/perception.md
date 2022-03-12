@@ -3,7 +3,10 @@ created: 2021-10-18
 edited: 
 aliases:
   - perceive
-tags: created/topic/2021/10/18, node/topic/term
+tags: created/topic/2021/10/18, review, node/topic/term
+sr-due: 2022-03-13
+sr-interval: 2
+sr-ease: 227
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

@@ -1,8 +1,8 @@
 ---
 created: 2021-9-13
-tags: node/topic/tool
-sr-due: 2022-02-24
-sr-interval: 10
+tags: node/topic/tool, created/2021/09/13
+sr-due: 2022-04-20
+sr-interval: 40
 sr-ease: 230
 ---
 

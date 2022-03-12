@@ -3,17 +3,25 @@ created: 2022-01-18T17:53:17
 edited: 
 aliases:
   - null
-tags: created/topic/2022/01/18, node/topic/term
+tags: created/topic/2022/03/11, review, node/topic/term
+sr-due: 2022-03-14
+sr-interval: 3
+sr-ease: 219
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 ##### <s class="topic-title">[[confidence]]</s>
 
-[[Confidence comes when you are more capable of handling diverse outcomes]]
-^[[[notes_cognitive Anxiety]]]
+> [!wikipedia:[confidence](https://en.wikipedia.org/wiki/Confidence)]
+> 
+> Confidence is a state of being clear-headed either that a hypothesis or prediction is correct or that a chosen course of action is the best or most effective. [[Arrogance]] is the state of having unmerited confidence—believing something or someone is correct or capable when evidence or reasons for this belief are lacking. Overconfidence or presumptuousness is excessive [[belief]] in someone (or something) succeeding, without any regard for failure. Confidence can be a self-fulfilling prophecy as those without it may fail or not try because they lack it and those with it may succeed because they have it rather than because of an innate ability.
+> ^[[[Confidence is a feedback loop]]]
+> 
+> The concept of self-confidence is commonly defined as self-assurance in one's personal judgment, ability, power, etc. One's self-confidence increases as a result of experiences of having satisfactorily completed particular activities. 
+>
 
 
-**See**::
+**See**:: [[self-improvement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

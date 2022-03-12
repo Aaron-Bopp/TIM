@@ -14,5 +14,5 @@ tags: created/source/2022/03/11, node/source/video
 
 **Summary**:: Excellent introduction and discussion of the current state of [[quantum mechanics]]. Really makes you want to believe.
 
-**Covers**::[[quantum entanglement]], [[gravity]], [[quantum physics]], [[quantum mechanics]], [[quantum field theory]], [[Richard Feynman]], [[David Deutsch]], [[Einstein]], [[physics]], [[Sean Carrol]]
+**Covers**:: [[quantum entanglement]], [[gravity]], [[quantum physics]], [[quantum mechanics]], [[quantum field theory]], [[Richard Feynman]], [[David Deutsch]], [[Einstein]], [[physics]], [[Sean Carrol]]
 
