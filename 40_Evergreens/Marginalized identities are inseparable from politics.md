@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/26, review, node/evergreen/claim
-sr-due: 2022-03-08
-sr-interval: 3
+sr-due: 2022-03-20
+sr-interval: 9
 sr-ease: 210
 ---
 
@@ -17,7 +17,7 @@ sr-ease: 210
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[marginalization]], [[racism]]

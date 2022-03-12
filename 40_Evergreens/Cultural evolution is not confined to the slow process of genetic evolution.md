@@ -21,7 +21,7 @@ While this is just another framework for us to use,
 it can provide accurate prediction and help us to understand the complex problems of group dynamics from on a worldwide and historical scale.
 
 It is easy to see how much faster [[Cultural Evolution]] can move when we look at it's fundamental unit of change, the cultural mutation.
-![[books_Darwin's Cathedral#293875896q]]
+> ![[books_Darwin's Cathedral#293875896q]]
 Compared to the generational unit of change of genetic evolution, [[belief]] can be passed almost instantaneously, and are even the basis of our [[social order]]:
 [[Social order is built off of a shared belief in an imagined reality]]
 

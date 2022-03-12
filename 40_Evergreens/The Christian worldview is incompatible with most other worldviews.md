@@ -11,7 +11,7 @@ sr-ease: 150
 
 #### [[The Christian worldview is incompatible with most other worldviews]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-![[books_Darwin's Cathedral#292537212q]]
+> ![[books_Darwin's Cathedral#292537212q]]
 
 ```juggl
 workspace: Belief GvB PvS

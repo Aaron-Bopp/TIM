@@ -11,7 +11,7 @@ sr-ease: 230
 
 #### [[Stone age tools were primarily wooden]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-![[books_Sapiens#294931430q]]
+> ![[books_Sapiens#294931430q]]
 
 ### <hr class="footnote"/>
 

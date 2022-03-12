@@ -4,8 +4,8 @@ edited:
 tag: review, node/evergreen/claim
 aliases:
   - A inwardly judgmental and outwardly accepting home creates trust issues
-sr-due: 2022-03-08
-sr-interval: 30
+sr-due: 2022-04-22
+sr-interval: 42
 sr-ease: 130
 ---
 

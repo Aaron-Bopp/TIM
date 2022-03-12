@@ -11,11 +11,11 @@ sr-ease: 199
 
 #### [[Humans love to group eachother]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-![[books_Sapiens#294248533q]]
+> ![[books_Sapiens#294248533q]]
 This is a major reason [[Greater cooperation and communication has lead to the success of humans as a species]]
 One reason this might be is because of [[natural selection|kin selection]].
 
-![[books_Darwin's Cathedral#293875904q]]
+> ![[books_Darwin's Cathedral#293875904q]]
 
 Possible mechanism behind [[racism]], [[homophobia]], [[partisanship]]
 - [[Humans are a product of evolution]]

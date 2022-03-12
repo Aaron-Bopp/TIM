@@ -10,11 +10,11 @@ sr-ease: 210
 ---
 
 #### [[Much of cave art was down by teenage boys]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-![[articles_Ancient Cave Art Full of Teenage Graffiti  Live Science#285753076q]]
-![[articles_Ancient Cave Art Full of Teenage Graffiti  Live Science#285756251q]]
+> ![[articles_Ancient Cave Art Full of Teenage Graffiti  Live Science#285753076q]]
+> ![[articles_Ancient Cave Art Full of Teenage Graffiti  Live Science#285756251q]]
 
 Different cave
-![[books_The Anthropocene Reviewed#287295946q]]
+> ![[books_The Anthropocene Reviewed#287295946q]]
 
 ### <hr class="footnote"/>
 

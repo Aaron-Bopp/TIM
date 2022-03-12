@@ -11,7 +11,7 @@ sr-ease: 210
 
 #### [[Belief can motivate adaptation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-![[books_Darwin's Cathedral#294094918q]]
+> ![[books_Darwin's Cathedral#294094918q]]
 - [[Complex emotions are intellectual understandings of primal urges]]
 - contrasts:: [[The injustice of endurance]]
 - [[Human's have an inability to admit that they are wrong]]

@@ -13,7 +13,7 @@ sr-ease: 130
 
 #TO/PONDER/IDEA does this need a better title?
 
-![[books_Darwin's Cathedral#292550148q]]
+> ![[books_Darwin's Cathedral#292550148q]]
 
 
 Many task requires thought, remembering how you did something before, understanding the limitations and requirements of the task at hand, even just figuring out what you want to do, but creating is much more than that. It is the thinking that produces something new into this world.

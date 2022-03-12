@@ -11,7 +11,7 @@ sr-ease: 230
 
 #### [[A conversion experience can help us reshape our sense of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-![[books_Darwin's Cathedral#293875897q]]
+> ![[books_Darwin's Cathedral#293875897q]]
 
 - [[Belief pulls you forward into life]]
 - [[We carry our childhood wounds into adulthood]]

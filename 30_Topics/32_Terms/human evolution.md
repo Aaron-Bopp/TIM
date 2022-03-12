@@ -59,9 +59,9 @@ Our ability to communicate subjective matter's like emotions and feelings allows
 
 ##### Social control
 
-![[books_Sapiens#294248529q]]
+> ![[books_Sapiens#294248529q]]
 
-![[books_Sapiens#294618333q]]
+> ![[books_Sapiens#294618333q]]
 #### Advancement to today
 
 Once these key traits were in place, adaptation and evolution would no longer be major players in [[human advancement]] and would instead take a backseat, providing the biological backdrop for [[human behavior]].  

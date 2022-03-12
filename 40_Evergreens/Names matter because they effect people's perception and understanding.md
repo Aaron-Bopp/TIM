@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/22, review, node/evergreen/claim
-sr-due: 2022-03-09
-sr-interval: 31
+sr-due: 2022-04-29
+sr-interval: 49
 sr-ease: 150
 ---
 
@@ -19,10 +19,6 @@ How something is named effects people's [[perception]] of it.
 #TO/PONDER/IDEA 
 #TO/WRITE 
 - [[Conceptual note is a better term than atomic note]]
-- [[Trans people will look for any other solution than being trans]]
-- [[How to pursue the positive things in life]]
-- #TO/PONDER relation to [[cognitive dissonance]]
-- [[Q justifies conservatives discontent]]
 - [[American's are scared of the word communism not it's meaning]]
  
 

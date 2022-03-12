@@ -13,7 +13,7 @@ sr-ease: 210
 
 This allows religion to create either very positive or very negative behaviors in groups.
 
-![[books_Darwin's Cathedral#294094920q]]
+> ![[books_Darwin's Cathedral#294094920q]]
 
 Perhaps religion allows an easier to way to pass on practices without them being questioned.
 

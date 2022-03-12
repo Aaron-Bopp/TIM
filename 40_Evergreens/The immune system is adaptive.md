@@ -13,7 +13,7 @@ sr-ease: 230
 
 This is because it is a highly active microcosm of [[Evolution]]
 
-![[books_Darwin's Cathedral#292936698q]]
+> ![[books_Darwin's Cathedral#292936698q]]
 
 ### <hr class="footnote"/>
 

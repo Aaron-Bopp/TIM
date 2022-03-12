@@ -14,7 +14,7 @@ tags: created/topic/2021/12/21, node/topic/term
 >
 > <cite>[[Christian Tietze]]</cite>
 
-![[articles_Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method#273534835q]]
+> ![[articles_Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method#273534835q]]
 
 **See**:: [[knowledge work]], [[knowledge management]], [[second brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

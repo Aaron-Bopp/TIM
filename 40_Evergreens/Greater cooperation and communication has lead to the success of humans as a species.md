@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/04, review, node/evergreen/claim
-sr-due: 2022-03-08
-sr-interval: 3
+sr-due: 2022-03-21
+sr-interval: 10
 sr-ease: 230
 ---
 
@@ -18,8 +18,9 @@ sr-ease: 230
 
 
 [[Cultural evolution is not confined to the slow process of genetic evolution]], partially because 
-cooperation and communication are the cornerstones of [[group selection]] and [[reciprocal altruism]],
-and by tracing back to the very beginning of [[human evolution]] 
+cooperation and communication are the cornerstones of [[group selection]] and [[reciprocal altruism]].
+[[Humans are a product of evolution]] so
+by tracing back to the very beginning of [[human evolution]] 
 we can see that they are what allowed [[homo sapiens]] 
 to slowly overtake and outcompete every of other species of human. 
 
@@ -37,10 +38,8 @@ While, [[Evolutionary Psychology is just a framework not a prescription of behav
 we can use our understanding of ancient humans to provide context to modern behaviors
 like [[Humans love to group eachother]].
 
-- [[Humans are a product of evolution]]
-- [[Humans love to group eachother]]
 
-![[books_Darwin's Cathedral#291449823q]]
+> ![[books_Darwin's Cathedral#291449823q]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

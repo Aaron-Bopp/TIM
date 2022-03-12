@@ -9,7 +9,7 @@ tags: created/topic/2022/01/02, review, node/topic/outline
 
 ##### <s class="topic-title">[[self-awareness]]</s>
 
-![[books_Darwin's Cathedral#294293306q]]
+> ![[books_Darwin's Cathedral#294293306q]]
 > [!wikipedia:[self-awareness](https://en.wikipedia.org/wiki/Self-awareness)]
 > 
 > In [[philosophy]] of [[self]], self-awareness is the experience of one's own [[personality]] or individuality. It is not to be confused with [[conscious|consciousness]] in the sense of [[qualia]]. While consciousness is being aware of one's environment and body and lifestyle, self-awareness is the recognition of that awareness. Self-awareness is how an individual consciously knows and understands their own character, feelings, motives, and desires. 

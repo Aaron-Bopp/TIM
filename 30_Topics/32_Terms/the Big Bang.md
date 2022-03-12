@@ -31,7 +31,7 @@ The Big Bang theory is the prevailing cosmological model explaining the existenc
 > Neither [[general relativity]] nor [[quantum mechanics]] can currently describe the earliest moments of the Big Bang, but in general, quantum mechanics does not permit particles to inhabit a space smaller than their wavelengths. Leading to questions about the [[Initial singularity]]
 > 
 
-![[books_A Short History of Nearly Everything#283957202q]]
+> ![[books_A Short History of Nearly Everything#283957202q]]
 
 **See**:: [[physics]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

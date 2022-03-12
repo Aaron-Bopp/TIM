@@ -9,7 +9,7 @@ tags: created/topic/2022/03/03, review, node/topic/term
 
 ##### <s class="topic-title">[[Cultural Evolution]]</s>
 
-![[books_Darwin's Cathedral#293875895q]]
+> ![[books_Darwin's Cathedral#293875895q]]
 
 > [!wikipedia:[Cultural Evolution](https://en.wikipedia.org/wiki/Cultural%20evolution)]
 > 
@@ -28,7 +28,7 @@ In [[books_Darwin's Cathedral|Darwin's Cathedral]] [[David Sloan Wilson]] descri
 
 He concludes that [[Cultural evolution is not confined to the slow process of genetic evolution]]
 
-![[books_Sapiens#294931431q]]
+> ![[books_Sapiens#294931431q]]
 
 **See**:: [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

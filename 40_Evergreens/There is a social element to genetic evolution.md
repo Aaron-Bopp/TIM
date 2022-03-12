@@ -14,8 +14,8 @@ sr-ease: 230
 [[Functionally integrated social groups become organisms in their own right]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[genetic]] [[evolution]]. 
 
 
-![[books_Darwin's Cathedral#289554236q]]
-![[books_Darwin's Cathedral#289554239q]]
+> ![[books_Darwin's Cathedral#289554236q]]
+> ![[books_Darwin's Cathedral#289554239q]]
 
 This a big part of how [[The immune system is adaptive]], it is a social system of pieces working together to adapt
 

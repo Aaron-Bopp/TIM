@@ -20,7 +20,7 @@ resources for implementing [[Dewey Decimal System]] https://www.librarything.com
 
 self-blame and social deficiency
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjrjZh1Nris?start=5742" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![[tweets_Tweets From 🐸 Frog Time 🐸#261542754]]
+> ![[tweets_Tweets From 🐸 Frog Time 🐸#261542754q]]
 
 #TO/TEND/MULCH 
 One manifestation of this defense mechanisms is: [[Avoidance IS the most-efficient way of dealing with emotion]]. Many people will find that they are only able to verbalize emotions that they have processed on their own first.

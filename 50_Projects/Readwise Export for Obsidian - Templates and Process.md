@@ -4,14 +4,16 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/26, review, node/project
-sr-due: 2022-03-07
-sr-interval: 2
+sr-due: 2022-03-22
+sr-interval: 11
 sr-ease: 242
 ---
 
 #### [[Readwise Export for Obsidian - Templates and Process]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
+#TO/WRITE How [[Readwise (software)|Readwise]] influences how I hightlight
+#TO/PROGRAM A way to show off my Readwise templates
+#TO/WRITE How I use my highlights as fleeting notes and as part of my process [[Often the best editing tool is time]]
 
 ##### On "action tags"
 [[Readwise (software)|Readwise]] supports the use of a few different action tags will trigger certain functionality when you **import** highlights into [[Readwise (software)|Readwise]].

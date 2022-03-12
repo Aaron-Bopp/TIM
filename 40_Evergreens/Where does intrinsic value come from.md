@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/14, review, node/evergreen/question
-sr-due: 2022-03-07
-sr-interval: 10
+sr-due: 2022-04-05
+sr-interval: 25
 sr-ease: 210
 ---
 
@@ -17,7 +17,7 @@ belonging to a thing by its very nature; "form was treated as something intrinsi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[philosophy]], [[morality]]

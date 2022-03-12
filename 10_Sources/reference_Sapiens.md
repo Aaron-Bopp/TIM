@@ -43,4 +43,4 @@ As Harari gets into the weeds of our evolved [[biology]] and prehistoric behavio
 *A Day in the Life of Adam and Eve* starts to discuss how these ancients facts can affect our modern day [[psychology]]. Harari addresses many common beliefs about prehistoric human's such as the [[gorging gene]], and ideas about ancient family structure and behavior. They refuse to reinforce many of the myths that people try to use to justify their behavior, stating that any attempt to reconstruct ancient human's lives from artifacts is extremely problematic as any foraging societies that have survived into modern times have down so in inhospitable areas and have been influenced by modern cultures. 
 This leads then to discussing [[Hunter-gatherer societies were very diverse]]. 
 
-![[books_Sapiens#294931431q]]
+> ![[books_Sapiens#294931431q]]

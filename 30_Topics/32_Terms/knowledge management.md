@@ -12,8 +12,8 @@ tags: created/topic/2021/07/21, node/topic/outline
 
 ##### <s class="topic-title">[[knowledge management]]</s>
 
-![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190321q]]
-![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190330q]]
+> ![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190321q]]
+> ![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190330q]]
 
 
 **See**:: [[My TIM]], [[second brain]], [[Zettelkasten]]

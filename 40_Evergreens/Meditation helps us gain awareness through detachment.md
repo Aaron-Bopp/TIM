@@ -4,8 +4,8 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/24, review, node/evergreen/claim
-sr-due: 2022-03-07
-sr-interval: 12
+sr-due: 2022-04-04
+sr-interval: 24
 sr-ease: 150
 ---
 
@@ -13,6 +13,7 @@ sr-ease: 150
 
 There is a level of [[objectivity]] that can come from [[detachment]]. This is true [[objectivity]] unlike the false rationality of 
 [[Rationalizations are defense-mechanisms against strong emotions]]
+#TO/PONDER/IDEA what is the concept of [[attachment]]? [[Buddhism is the study of happiness through detachment]]
 
 - [[Karma Fal]]
 - [[Self-belief is fundamental to good karma]]
@@ -22,7 +23,7 @@ There is a level of [[objectivity]] that can come from [[detachment]]. This is t
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited January 25, 2022*
 
 **Topics**:: [[meditation]], [[karma]]

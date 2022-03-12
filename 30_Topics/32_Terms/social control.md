@@ -14,9 +14,9 @@ tags: created/topic/2022/03/05, review, node/topic/term
 > Social control is a concept within the disciplines of the social sciences. Social control is described as a certain set of rules and standards in society that keep individuals bound to conventional standards as well as to the use of formalized mechanisms. The disciplinary model was the forerunner to the control model.
 >
 
-![[books_Darwin's Cathedral#289554239q]]
-![[books_Darwin's Cathedral#289554240q]]
-![[books_Darwin's Cathedral#293875904q]]
+> ![[books_Darwin's Cathedral#289554239q]]
+> ![[books_Darwin's Cathedral#289554240q]]
+> ![[books_Darwin's Cathedral#293875904q]]
 
 **See**:: [[religion]], [[human interaction]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

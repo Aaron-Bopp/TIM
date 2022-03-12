@@ -45,7 +45,7 @@ This is a working outline, so I am not going to try and preserve my current unde
 ### Humans believed that [[society]] required a lack of freedom
 [[Humans believed that society required a lack of freedom]]
 ## Origins of [[humanity]]
-![[books_The Dawn of Everything#261593420]]
+> ![[books_The Dawn of Everything#261593420q]]
 
 ### State Emergence
 [[State Emergence]]
@@ -104,8 +104,8 @@ This is a working outline, so I am not going to try and preserve my current unde
 [[progress requires respect]]
 
 ## [[knowledge work]]
-![[books_The Dawn of Everything#261572342]]
-![[books_The Dawn of Everything#261593435]]
+> ![[books_The Dawn of Everything#261572342q]]
+> ![[books_The Dawn of Everything#261593435q]]
 
 ### Great thinkers value thought over success
 [[Great thinkers value thought over success]]
@@ -114,16 +114,16 @@ This is a working outline, so I am not going to try and preserve my current unde
 
 
 ## notable people
-![[books_The Dawn of Everything#261572332]]
+> ![[books_The Dawn of Everything#261572332q]]
 
 ## terms
-![[books_The Dawn of Everything#261593439]]
-![[books_The Dawn of Everything#261593452]]
+> ![[books_The Dawn of Everything#261593439q]]
+> ![[books_The Dawn of Everything#261593452q]]
 
 # Unsure
-![[books_The Dawn of Everything#261593434]]
+> ![[books_The Dawn of Everything#261593434q]]
 
-![[books_The Dawn of Everything#261593445]]
+> ![[books_The Dawn of Everything#261593445q]]
 # New qoutes
 - ![[books_The Dawn of Everything#262026833]]
 - ![[books_The Dawn of Everything#262026834]]

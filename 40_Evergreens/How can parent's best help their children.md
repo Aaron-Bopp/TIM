@@ -14,7 +14,7 @@ sr-ease: 206
 #TO/EXPLORE/WATCH 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ZOjFdNiH2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![[tweets_People Often Ask Me How...#249709299q]]
+> ![[tweets_People Often Ask Me How...#249709299q]]
 - [[Parents need to model the ability to deal with emotion to their children]]
 - [[Children in traumatic households expect more love than their parents can give|Parents will not be able to protect their children from every source of trauma]]
 - [[Children will not question what is modeled for them unless they are taught to]]

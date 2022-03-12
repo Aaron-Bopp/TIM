@@ -14,7 +14,7 @@ sr-ease: 230
 [My Most Valuable Books - YouTube](https://www.youtube.com/watch?v=UY9ACqF_RXU) #TO/DO/CITE 
 
 Example:
-![[books_The Anthropocene Reviewed#287775024q]]
+> ![[books_The Anthropocene Reviewed#287775024q]]
 - [[Names matter because they effect people's perception and understanding]]
 
 
