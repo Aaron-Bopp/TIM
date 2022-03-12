@@ -15,8 +15,7 @@ sr-ease: 250
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
-**Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/intro-to-ayurveda)
-
+**Link**:: [intro-to-ayurveda](https://coaching.healthygamer.gg/guide/lessons/intro-to-ayurveda), [ayurveda-for-anxiety](https://coaching.healthygamer.gg/guide/lessons/ayurveda-for-anxiety), [ayurveda-for-depression](https://coaching.healthygamer.gg/guide/lessons/ayurveda-for-depression), [dietary-guidance-in-ayurveda](https://coaching.healthygamer.gg/guide/lessons/dietary-guidance-in-ayurveda)
 #### Terms
 
 ## Notes
@@ -52,3 +51,16 @@ sr-ease: 250
 - [[Ayurveda]] is 3000-5000 years old
 	- balance health through balancing doshas
 - [[notes_Herbs for mental health]]
+- [[anxiety]]
+	- Diagnosis and treatment are static and may not help treat the day to day problems of [[anxiety]]
+	- Anxiety is [[Vata]] over 75
+	- [[Ayurveda|Ayurvedic]] practices have been shown to reduce anxiety
+	- Lots and lots of dietary recommendations
+- [[depression]]
+- ![[Pasted image 20220312154523.png]]
+
+
+
+
+
+

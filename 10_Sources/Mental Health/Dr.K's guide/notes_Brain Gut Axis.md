@@ -34,4 +34,18 @@ sr-ease: 250
 - [[Symbiosis]]
 - [[Dysbiosis]]
 - [[Cytokines]]
-- [[Cruciferous Vegetables]]
+
+#### Notes
+- [[brain-gut axis]]
+	- [[Ayurveda]] has been studying this for millenia
+	- This is the common human intuition - butterflies in your stomach
+	- [[Vagus Nerve]] connects brain to [[gut]]
+	- [[Basal Ganglia]] produces dopamine and governs movement
+		- [[Parkinson's Disease]] is when [[Basal Ganglia]] fills up with [[Lewy Body]]'s
+		- Recent research shows that [[Lewy Body]]'s actually come from the gut
+	- [[Gut]] is filled with [[bacteria]]
+		- break down food and turn it into things including [[Neurotransmitter]]s like [[Serotonin]]
+		- Diet can be used to boost the production of [[Neurotransmitter|neurotransmitters]] in the [[gut]]
+- [[Intestinal wall]] blocks off our [[digestive process]] from the outside world.
+	- intestines are actually a hole going through our body
+- Creates low level gut [[inflammation]] that effects the whole body
