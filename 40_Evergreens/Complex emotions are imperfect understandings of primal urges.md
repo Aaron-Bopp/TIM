@@ -19,7 +19,6 @@ This is a logical approach as [[Biological processes can only give context to be
 but the our genetic context cannot be ignored.
 ^[This may be seen as a controversial conclusion of [[Evolutionary Psychology]], there are many reasons why this is a valid framework: [[Evolutionary Psychology is just a framework not a prescription of behavior]]]
 
-
 What is [[existential dread]] other than a complex understanding our fear of death? 
 
 What is [[Humans love to group eachother|humans love for grouping eachother]] other than a complex understanding of [[natural selection|kin selection]]?
@@ -28,12 +27,9 @@ What is [[The brain is powerful enough to create supernatural experiences]] but 
 
 We are more complex than any other animal. We have developed a [[conscious|consciousness]] that is the essence of what makes us human, but our inexplicable instincts are still at play. [[Human's will find explanations for inexplainable things]]
 
-#TO/EXPLORE/RESEARCH What is the primal urge behind [[The brain is powerful enough to create supernatural experiences]] is it related to 
-
-
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/SPROUT  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Psychology]]

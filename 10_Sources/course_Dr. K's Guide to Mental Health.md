@@ -119,9 +119,7 @@ sr-ease: 250
 ## Unwatched
 - [[notes_Dietary Guidance in Ayurveda]]
 - [[notes_Ayurveda for Depression]]
-- [[notes_Intro to Herbs]]
-- [[notes_Herbs for Anxiety]]
-- [[notes_Herbs for Depression]]
+- [[notes_Herbs for mental health]]
 - [[notes_Brain Gut Axis]]
 - [[notes_Falling Behind]]
 - [[notes_Dealing with Samskaras]]

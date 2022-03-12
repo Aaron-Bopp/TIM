@@ -18,5 +18,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[human foraging]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

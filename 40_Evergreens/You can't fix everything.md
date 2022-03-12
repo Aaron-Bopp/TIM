@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/02, review, node/evergreen/claim
-sr-due: 2022-03-10
-sr-interval: 6
+sr-due: 2022-03-29
+sr-interval: 17
 sr-ease: 230
 ---
 
@@ -19,7 +19,7 @@ sr-ease: 230
 - [[You can't control what happens]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[social progress]]

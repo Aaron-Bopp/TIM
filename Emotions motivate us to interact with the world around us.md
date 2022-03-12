@@ -25,5 +25,5 @@ resulting in:: [[Complex emotions are imperfect understandings of primal urges]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[emotions]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -51,4 +51,4 @@ sr-ease: 250
 - Each [[Dosha]] each has it's own [[disease]]
 - [[Ayurveda]] is 3000-5000 years old
 	- balance health through balancing doshas
-- 
+- [[notes_Herbs for mental health]]

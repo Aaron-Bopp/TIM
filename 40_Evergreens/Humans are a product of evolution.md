@@ -3,7 +3,7 @@ created: 2021-11-18
 edited: 
 aliases:
   - null
-tags: created/evergreen/2021/11/18, review, node/evergreen/claim
+tags: created/evergreen/2022/03/12, review, node/evergreen/claim
 sr-due: 2022-03-13
 sr-interval: 34
 sr-ease: 170
@@ -36,7 +36,7 @@ Traits that do not have a functional purpose may be a [[spandrel]] or a result o
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED  
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Evolutionary Psychology]], [[natural selection]], [[Evolution]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-10
-sr-interval: 1
+sr-due: 2022-03-16
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -14,7 +14,7 @@ sr-ease: 210
 It does not matter if the thing you are believing in is true as long as it motivates behaviors that are adaptive that [[belief]] is adaptive.
 ^[[[books_Darwin's Cathedral#294094918q]]]
 
-- [[Complex emotions are imperfect understandings of primal urges]]
+- [[Emotions motivate us to interact with the world around us]]
 - contrasts:: [[The injustice of endurance]]
 - [[Human's have an inability to admit that they are wrong]]
 

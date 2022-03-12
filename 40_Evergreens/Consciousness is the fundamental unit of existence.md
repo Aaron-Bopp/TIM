@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/28, review, node/evergreen/claim
-sr-due: 2022-03-11
-sr-interval: 29
+sr-due: 2022-05-02
+sr-interval: 51
 sr-ease: 170
 ---
 
@@ -27,14 +27,16 @@ and is surprisingly similar to the modern theory of [[the Big Bang]].
 >
 > <cite>[[Renee Descartes]]</cite>
 
-%% #TO/TEND/WEED #TO/PONDER #TO/EXPLORE/RESEARCH The only thing we can truly know is real is our [[perception]]. Our [[conscious|consciousness]] is the only thing we can guarantee. Yet our [[conscious]] is limited by our [[mind-body complex]].%%
+%% 
+#TO/TEND/WEED #TO/PONDER #TO/EXPLORE/RESEARCH The only thing we can truly know is real is our [[perception]]. Our [[conscious|consciousness]] is the only thing we can guarantee. Yet our [[conscious]] is limited by our [[mind-body complex]].
+%%
 [[Consciousness is our capacity to introspect]],
 as you become less trapped in your mind, you become more [[conscious]]:
 [[Meditation is a practice to develop a stronger conscious]]
 
 ##### Counter:: Time is the fundamental unit of existence
 
-This doesn't make sense for someone who believes in [[reincarnation]] and [[karma]], but for most people their time on earth is the only there concerned about. You make think this will lead to [[nihilism]], due to the limited nature of our time on earth, but this belief also leads to the belief in heaven. If time is the most valuable resource, then eternity is the most valuable gift. 
+This doesn't make sense for someone who believes in [[reincarnation]] and [[karma]], but for most people their time on earth is the only there concerned about. This belief can lead to [[nihilism]], due to the limited nature of our time on earth, but this belief also leads to the belief in heaven. If time is the most valuable resource, then eternity is the most valuable gift. 
 For those who focus on increasing their [[karma]], they are focused on the work, and so perfection, or [[enlightenment]] is the most valuable gift.
 
 ### <hr class="footnote"/>
