@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 ##### <s class="topic-title">[[Midazolam]]</s>
 
-An anticonvulsant and benzodiazepine drug with rapid onset that is commonly used in seizures, anesthesia and anxiety disorders.
+An anticonvulsant and [[Benzodiazepines|benzodiazepine]] [[drugs|drug]] with rapid onset that is commonly used in seizures, [[anesthesia]] and [[anxiety]] disorders.
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

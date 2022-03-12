@@ -41,8 +41,7 @@ sr-ease: 250
 		- distracted and excited easily, but difficult with follow through
 		- veins more prominent
 		- under stress, [[ADHD]] and anxiety
-- [Ayurvedic Dosha](https://www.healthygamer.gg/quiz)
-- complete [[personality]] system: [[Personality types are 3d and interconnected, not 2d and static]]
+	- complete [[personality]] system: [[Personality types are 3d and interconnected, not 2d and static]]
 - [[Prakruti]] our [[Dosha]] which is genetically determined
 	- [[Ayurgenomics]] - reasearch into genetic basis for [[Dosha]]
 		- People with each dosha have different alleles on a certain gene
@@ -50,14 +49,14 @@ sr-ease: 250
 - Each [[Dosha]] each has it's own [[disease]]
 - [[Ayurveda]] is 3000-5000 years old
 	- balance health through balancing doshas
-- [[notes_Herbs for mental health]]
 - [[anxiety]]
 	- Diagnosis and treatment are static and may not help treat the day to day problems of [[anxiety]]
 	- Anxiety is [[Vata]] over 75
 	- [[Ayurveda|Ayurvedic]] practices have been shown to reduce anxiety
 	- Lots and lots of dietary recommendations
-- [[depression]]
-- ![[Pasted image 20220312154523.png]]
+- [[diet]]
+	- ![[Pasted image 20220312154523.png]]
+	- [[notes_Herbs for mental health]]
 
 
 

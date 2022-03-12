@@ -17,24 +17,6 @@ sr-ease: 250
 
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/brain-gut-axis)
 
-#### Terms
-
-- [[Ayurveda]]
-- [[Turmeric]]
-- [[Dopamine]]
-- [[Serotonin]]
-- [[Vagus Nerve]]
-- [[Peristalsis]]
-- [[Dementia]]
-- [[Parkinson's Disease]]
-- [[Basal Ganglia]]
-- [[Lewy Body]]
-- [[Biopsy]]
-- [[Neurotransmitter]]
-- [[Symbiosis]]
-- [[Dysbiosis]]
-- [[Cytokines]]
-
 #### Notes
 - [[brain-gut axis]]
 	- [[Ayurveda]] has been studying this for millenia

@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 ##### <s class="topic-title">[[Turmeric]]</s>
 
-a plant in the ginger family that is native to Southeast [[Asia]] and is grown commercially in that region, primarily in [[India]]. Its underground stem is used as a culinary spice and in traditional medicine. Turmeric is promoted as a dietary supplement for a variety of conditions, including arthritis, digestive disorders, respiratory infections, allergies, liver disease, depression, and many others. Please consult with your healthcare provider before taking any herbal supplements.
+a plant in the ginger family that is native to Southeast [[Asia]] and is grown commercially in that region, primarily in [[India]]. Its underground stem is used as a culinary spice and in traditional medicine. Turmeric is promoted as a dietary supplement for a variety of conditions, including arthritis, digestive disorders, respiratory infections, allergies, liver disease, depression, and many others. 
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

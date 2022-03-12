@@ -24,12 +24,14 @@ sr-ease: 250
 - [[Psychodynamic Therapy]]
 - [[CBT]]
 - [[DBT]]
-- [[CAM (Complementary and Alternative Medicine)]]
 - [[Benzodiazepines]]
 - [[GABA]]
 - [[Alprazolam]]
 - [[Psychotherapy]]
-- [[TCM (Traditional Chinese Medicine)]]
+- CAM (Complementary and Alternative Medicine)
+	- Complementary and Alternative Medicine: The term for medical products and practices that are not part of standard medical care.
+- TCM (Traditional Chinese Medicine)
+	- Traditional Chinese [[medicine]] (TCM) is thousands of years old and has changed little over the centuries. Its basic concept is that a vital force of life, called [[Qi]], surges through the body. Any imbalance to Qi can cause disease and illness. This imbalance is most commonly thought to be caused by an alteration in the opposite and complementary forces that make up the Qi. These are called yin and yang.
 
 ## Notes
 
@@ -61,12 +63,12 @@ sr-ease: 250
 		- focused on the interaction between thoughts, behaviors, and [[emotions]]
 	- Third wave therapy
 		- [[DBT]], regular therapy with a "drop of [[eastern philosophy|eastern]] wisdom
-		- [[CAM (Complementary and Alternative Medicine)]]
+		- CAM (Complementary and Alternative Medicine)
 			- [[meditation]]
 			- [[Yoga]] 
 			- [[herb]]s
 			- [[Ayurveda]]
-			- [[TCM (Traditional Chinese Medicine)]]
+			- TCM (Traditional Chinese Medicine)
 		- not to be confused with new age treatments without research and data
 			- just because other things can sometimes be effective, doesn't mean that they will be helpful
 			- less regulation

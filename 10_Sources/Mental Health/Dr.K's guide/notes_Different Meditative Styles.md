@@ -24,17 +24,7 @@ sr-ease: 250
 
 - [[Raja Yoga]]
 	- [[Yama]]s are societal observances
-		- [[Ahimsa]] non-violence
-		- [[Satya]] truthfulness
-		- [[Asteya]] non-stealing
-		- [[Brahmacharya]] non-lustfulness (not celibacy)
-		- [[Aparigraha]] non-possessiveness
 	- [[Niyama]] 
-		- [[Shuddha]] cleanliness
-		- [[Santosha]] contentment
-		- [[Tapas]] [[discipline]]
-		- [[Swadhyaya]] self-study ([[self-actualization]])
-		- [[Iswara Pranidhana]] devotion to god (or recognizing that there is something within you that is [[divinity|divine]])
 	- [[asanas]] [[Yoga]] postures 
 		 - is the way we get our [[body]] in shape for [[enlightenment]]
 	- [[Pranayama]] control of breathing

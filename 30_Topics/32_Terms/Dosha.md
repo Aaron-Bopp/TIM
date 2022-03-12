@@ -11,8 +11,13 @@ tags: created/topic/2021/12/29, node/topic/term
 
 A central term in [[Ayurveda]], which refers to the three humors, the balance of which promotes [[health]] in the [[mind-body complex]].
 
-**See**:: [[Vata]], [[Pitta]], [[Kapha]]
+Quiz:: [Ayurvedic Dosha](https://www.healthygamer.gg/quiz)
+
+**See**:: [[Vata]], [[Pitta]], [[Kapha]], [[personality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+- [[Prakruti]]
+- [[Vikruti]]
 
 %% DO NOT EDIT BELOW %%
 #### Related 

@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 #### <s class="topic-title">[[asanas]]</s> 
 
-The third step in the eightfold path of [[Raja Yoga]], Asanas are [[Yoga]] postures.
+Asanas are [[Yoga]] postures.
 ^[[[notes_History of Meditation]]]
 
 **See**::

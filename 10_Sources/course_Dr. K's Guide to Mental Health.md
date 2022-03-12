@@ -35,7 +35,8 @@ sr-ease: 250
 			- [[Meditation helps us gain control over our emotions]]
 				- [[Meditation helps us develop empathy]]
 			- [[Meditation helps us detach negative attachments]]
-
+		- [[We can control our body through our breath]]
+			- [[notes_Breath and Mind]]
 	- [[Meditation increases our ability to influence the world]]
 		- [[notes_History of Meditation]]
 		- [[notes_Metaphysics of Meditation]]
@@ -102,5 +103,5 @@ sr-ease: 250
 - [[Ayurveda]]
 	- [[notes_Intro to Ayurveda]]
 	- [[notes_Brain Gut Axis]]
-		- [[notes_Herbs for mental health]]
-	- [[notes_Breath and Mind]]
+		- [[Gut health directly impacts mental health]]
+			- [[notes_Herbs for mental health]]

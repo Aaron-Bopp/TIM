@@ -11,13 +11,12 @@ tags: created/topic/2021/12/29, node/topic/term
 
 [[society|Societal]] observances; the first step in the eightfold path of [[Raja Yoga]].
 
-Observances 
-^[[[notes_Different Meditative Styles]]]
-- [[Ahimsa]] non-violence
-- [[Satya]] never-lying
-- [[Asteya]] non-stealing
-- [[Brahmacharya]] non-lustfulness
-- [[Aparigraha]] non-possessiveness
+Observances  ^[[[notes_Different Meditative Styles]]]
+- Ahimsa non-violence
+- Satya never-lying/truthfulness
+- Asteya non-stealing
+- Brahmacharya non-lustfulness/celibacy
+- Aparigraha non-possessiveness/non-attachment
 
 **See**:: [[Raja Yoga]], [[Karma Fal]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
