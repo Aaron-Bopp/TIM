@@ -21,7 +21,7 @@
 		- [[Behavioral Psychology]]
 			- [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 			- [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]
-			- [[Complex emotions are intellectual understandings of primal urges]]
+			- [[Complex emotions are imperfect understandings of primal urges]]
 			- [[Disambiguation - empathy, sympathy, compassion, pity]]
 			- [[What is the difference between blame and judgement]]
 		- [[cognitive dissonance]]

@@ -22,8 +22,8 @@ or [[material conditions]],
 produce more complex emotional reactions.
 %% #TO/TEND/CONNECT [[Association Cortices]]%%
 
-%% #TO/TEND/MULCH [[Complex emotions are intellectual understandings of primal urges]], is an internal reaction to an internal stimuli.
-[[Biology supports the validity of trans people]] and [[Complex emotions are intellectual understandings of primal urges]], so often there will be many comorbid [[mental illness]] that can be treated, when the chemical imbalances in your brain are the root cause. 
+%% #TO/TEND/MULC[](Complex%20emotions%20are%20imperfect%20understandings%20of%20primal%20urges.md)]], is an internal reaction to an internal stimuli.
+[[Biology supports the validity of trans people]] and [[Complex emotions are imperfect understandings of primal urges]], so often there will be many comorbid [[mental illness]] that can be treated, when the chemical imbalances in your brain are the root cause. 
 %%
 
 Ways to alter our environment: 

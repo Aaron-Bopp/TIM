@@ -57,7 +57,7 @@ because [[Human's have an inability to admit that they are wrong]]
 ##### Humans are emotional
 
 #TO/TEND/CONNECT 
-- [[Complex emotions are intellectual understandings of primal urges]]
+- [[Complex emotions are imperfect understandings of primal urges]]
 	- [[Mental health is a reaction to one's environment]]
 	- [[Rationalizations are defense-mechanisms against strong emotions]]
 		

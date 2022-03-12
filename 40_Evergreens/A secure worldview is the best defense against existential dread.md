@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-10
+sr-due: 2022-03-13
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[A secure worldview is the best defense against existential dread]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

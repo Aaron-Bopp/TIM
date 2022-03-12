@@ -11,7 +11,7 @@ sr-ease: 130
 
 #### [[Is cognitive dissonance the reason for harmful behaviors]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Is this one of the main mechanisms behind why humans have chosen to cause harm to others. [[Human's have an inability to admit that they are wrong]], and [[Complex emotions are intellectual understandings of primal urges]], is the urge to go to [[war]] and the insistence on the destruction of the enemy a result of the cognitive dissonance of wanting the best for you and your family and the understanding that the resources of the world are limited.
+Is this one of the main mechanisms behind why humans have chosen to cause harm to others. [[Human's have an inability to admit that they are wrong]], and [[Complex emotions are imperfect understandings of primal urges]], is the urge to go to [[war]] and the insistence on the destruction of the enemy a result of the cognitive dissonance of wanting the best for you and your family and the understanding that the resources of the world are limited.
 
 It is probably more likely that there are many different sources for harmful behaviors.
 

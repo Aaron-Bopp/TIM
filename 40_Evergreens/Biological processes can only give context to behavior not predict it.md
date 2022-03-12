@@ -20,7 +20,7 @@ This is an important consideration in the question of
 but whether it is true or not, we can all recognize that we *feel* like we have much more control over our lives that this would lead us to [[belief|believe]].
 ^[In [[eastern philosophy]] this idea is explored through [[Karma Fal]].]
 It is true that
-[[Complex emotions are intellectual understandings of primal urges]], 
+[[Complex emotions are imperfect understandings of primal urges]], 
 and that our [[Mental health is a reaction to one's environment]], 
 but neither of these can fully explain [[human behavior]], not even close.
 

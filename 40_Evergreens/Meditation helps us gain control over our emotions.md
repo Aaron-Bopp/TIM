@@ -17,7 +17,7 @@ The reason that certain [[meditation]] styles work for different people lies in 
 If your [[limbic system]] is failing to regulate your [[emotions]], [[meditation]] can help your [[Frontal Lobe|Frontal Lobes]] to gain [[control]].
 ^[[[notes_Science of Meditation]]]
 
-[[Complex emotions are intellectual understandings of primal urges]]. 
+[[Complex emotions are imperfect understandings of primal urges]]. 
 We still carry many of the mechanisms that make it so [[Our brains are built around survival]].
 This is where the physical aspects of [[meditation]] come in.
 [[Meditation regulates your hormones and stress physiology]], allowing us to reduce the effects of these primal [[defense-mechanisms]].
