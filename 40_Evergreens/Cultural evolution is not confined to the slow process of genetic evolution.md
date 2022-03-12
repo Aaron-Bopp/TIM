@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/03, review, node/evergreen/claim
-sr-due: 2022-03-10
-sr-interval: 5
-sr-ease: 230
+sr-due: 2022-03-14
+sr-interval: 3
+sr-ease: 210
 ---
 
 #### [[Cultural evolution is not confined to the slow process of genetic evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,12 +16,12 @@ sr-ease: 230
 > <cite>[[books_Darwin's Cathedral|Darwin's Cathedral by David Sloan Wilson]] </cite>
 
 Through [[Cultural Evolution]] we can look at modern [[behavior]] and [[human interaction]] through the lens of [[Evolution]]. 
-While this is just another framework for us to use, 
-^[[[Most problems cannot be significantly understood through a single framework]]]
+[[Most problems cannot be significantly understood through a single framework|While this is just another framework for us to use]], 
 it can provide accurate prediction and help us to understand the complex problems of group dynamics from on a worldwide and historical scale.
 
 It is easy to see how much faster [[Cultural Evolution]] can move when we look at it's fundamental unit of change, the cultural mutation.
 > ![[books_Darwin's Cathedral#293875896q]]
+
 Compared to the generational unit of change of genetic evolution, [[belief]] can be passed almost instantaneously, and are even the basis of our [[social order]]:
 [[Social order is built off of a shared belief in an imagined reality]]
 

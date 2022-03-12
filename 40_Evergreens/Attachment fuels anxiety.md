@@ -4,19 +4,19 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/11, review, node/evergreen/claim
-sr-due: 2022-03-10
-sr-interval: 14
-sr-ease: 210
+sr-due: 2022-03-26
+sr-interval: 15
+sr-ease: 190
 ---
 
 #### [[Attachment fuels anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[The ultimate goal of the mind is to keep thinking]],
-and [[attachment]] is a major driver for [[attention]] and thus what we put [[energy]] into.
+so [[attachment]] is a major driver for [[attention]] and thus what we put [[energy]] into.
 If you are attached to some event in the future, 
 your [[brain]] will take advantage of that.
 ^[[[notes_Thought Loops]]]
-Where [[anxiety]] comes in is when you lack [[confidence]] about that thing you are attached to.
+Where [[anxiety]] comes in is when you lack [[confidence]] about that thing you are attached to, see
 [[Anxiety stems from a lack of confidence for the future]] and 
 [[Confidence comes when you are more capable of handling diverse outcomes]]
 
@@ -25,7 +25,7 @@ When you have a weak [[identity]], you are going to fall into this more because
 but
 [[Anxiety prevents us from living in the present]]
 
-#TO/TEND/PRUNE 
+%% #TO/TEND/PRUNE  %%
 This is made more complicated by
 [[Your anxiety knows your insecurities better than you do]]
 but
@@ -39,7 +39,7 @@ it allows you to gain both of these things and break off your brain's connection
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[attachment]]

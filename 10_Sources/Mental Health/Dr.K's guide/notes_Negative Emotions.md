@@ -21,3 +21,16 @@ sr-ease: 250
 
 - [[Dharma]]
 - [[Samskara]]
+- [[depression]]
+
+#### Notes
+- Complexes in depressed people's minds
+- Most people spend most of their time avoiding negative emotions
+	- if everybody does this it means that [[emotions]] must be heavily selected for
+		- [[Evolutionary Psychology]]
+- negative emotions can be the pathway to [[self-improvement]]
+- [[Samskara]] leave our minds inflexible
+	- at the time we needed the samskara but it's refusal to leave causes this
+- Minds are drawn to negative situations because they are known
+	- contrasts:: [[Humans are drawn to the unknown and repelled by the known]]
+	- example abusive [[relationships]]

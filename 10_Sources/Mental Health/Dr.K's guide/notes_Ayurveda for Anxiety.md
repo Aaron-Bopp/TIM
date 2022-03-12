@@ -24,7 +24,10 @@ sr-ease: 250
 - [[Kapha]]
 - [[Pitta]]
 - [[Vata]]
-- [[Dx]]
-- [[Tx]]
 - [[Ama]]
 - [[Fenugreek (Trigonella foenum-graecum)]]
+
+#### Notes
+- Diagnosis and treatment are static and may not help treat the day to day problems of [[anxiety]]
+- Anxiety is [[Vata]] over 75
+-  

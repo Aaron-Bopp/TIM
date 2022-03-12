@@ -4,8 +4,8 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/06, review, node/evergreen/technique 
-sr-due: 2022-03-09
-sr-interval: 43
+sr-due: 2022-06-28
+sr-interval: 109
 sr-ease: 250
 ---
 
@@ -27,13 +27,12 @@ The downside of a [[401k]] are that you will pay capital gains tax on the money 
 
 A [[Roth IRA]] is also a long term fund, but it's benefits are slightly different. Roth IRA's are contributed to post-tax, but you don't have to pay capital gains tax on the money you receive.
 The amount you can contribute is much less, ^[$6000] but the money is slightly more accessible
-> ![[articles_Roth IRA Withdrawal Rules Withdrawal From Roth IRA Charles Schwab#261781435q]]
 
- 
+> ![[articles_Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab#261781435q]]
 
-### <hr class="footnote"/>
+ ### <hr class="footnote"/>
 
-**Status**:: #EVER/WEED 
+**Status**:: #EVER/SAPLING  
 *edited January 25, 2022*
 
 **Topics**:: [[finance]], [[economy]], [[investing]]

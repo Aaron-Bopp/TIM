@@ -4,8 +4,8 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/23, review, node/evergreen/claim
-sr-due: 2022-03-09
-sr-interval: 11
+sr-due: 2022-04-01
+sr-interval: 21
 sr-ease: 170
 ---
 
@@ -16,10 +16,15 @@ sr-ease: 170
 This is part of how [[Our brains are built around survival]],
 but it also causes us to reject nuance in modern social situations.
 
-[[Anxiety stems from a lack of confidence for the future]].
-Often people will seek out reassurance when [[anxiety|anxious]], but while that reassurance is helpful in the moment it doesn't hit at the root of the [[anxiety]]. As people's [[anxiety]] continues to manifest they will seek more and more reassurance, even though the more the receive the less impactful it is. They won't be able to see that asking repeatedly is detrimental, and when they stop receiving the continued assurance they will perceive it as rejection.
+[[Anxiety stems from a lack of confidence for the future]],
+this will cause people to seek out reassurance,
+but while that reassurance is helpful in the moment it doesn't hit at the root of the [[anxiety]].
+As people's [[anxiety]] continues to manifest they will seek more and more reassurance,
+even though the more the receive the less impactful it is. They won't be able to see that asking repeatedly is detrimental,
+and when they stop receiving the continued assurance they will perceive it as rejection.
 ^[[[notes_Responses to Anxiety]]]
 
+#TO/TEND/WEED 
 This becomes very dangerous when combined with
 [[Your anxiety is telling you everything that could go wrong, not what will go wrong]].
 [[Most anxiety isn't irrational it's just overcompensation]], and
@@ -36,7 +41,7 @@ This is especially worsened when those [[emotions]] are ones that lead to [[anxi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited January 25, 2022*
 
 **Topics**:: [[anxiety]], [[emotions]] 

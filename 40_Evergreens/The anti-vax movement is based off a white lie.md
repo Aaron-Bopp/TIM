@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/08/01, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-03-09
-sr-interval: 31
+sr-due: 2022-04-22
+sr-interval: 42
 sr-ease: 130
 ---
 
@@ -24,7 +24,7 @@ The [[anti-vax]] movement absolutely exploded during the COVID-19 pandemic which
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/SEED  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[cognitive dissonance]], [[anti-vax]]

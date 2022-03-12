@@ -29,7 +29,7 @@ Don't confuse this for any moral claim, [[karma]] is just an observation of real
 What you are in control of is your action in the current moment.
 Your [[duty]] is to accept [[responsibility]] and take action.
 ^[This is your [[Dharma]], which is based off your [[karma]]]
-This doesn't mean you can rectify your past actions in the eyes of other people. You are entitled to the act of taking [[responsibility]], but not to anybody's forgiveness.
+This doesn't mean you can rectify your past actions in the eyes of other people. You are entitled to the act of taking [[responsibility]], but not to anybody's [[forgiveness]].
 ^[This is the idea of [[Karma Fal]]: [[You can't control what happens]]]
 
 American's need to have the same stance on slavery as the German's do on the Holocaust.

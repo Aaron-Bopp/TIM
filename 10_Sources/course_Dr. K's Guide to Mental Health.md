@@ -116,8 +116,8 @@ sr-ease: 250
 - [[notes_General Differntial Diagnosis]]
 - [[notes_Bipolar Disorder]]
 - [[notes_Features of Clinical Depression]]
-## Unwatched
 - [[notes_Negative Emotions]]
+## Unwatched
 - [[notes_Ayurveda for Anxiety]]
 - [[notes_Dietary Guidance in Ayurveda]]
 - [[notes_Ayurveda for Depression]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/10, review, node/evergreen/nugget
-sr-due: 2022-03-10
-sr-interval: 1
+sr-due: 2022-03-14
+sr-interval: 3
 sr-ease: 230
 ---
 
@@ -18,8 +18,8 @@ sr-ease: 230
 > ![[books_Sapiens#294931434q]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[prehistory]], [[Fun fact]], [[domestication]]
+**Topics**:: [[prehistory]], [[domestication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

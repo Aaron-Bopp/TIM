@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-03-10
-sr-interval: 26
+sr-due: 2022-04-25
+sr-interval: 45
 sr-ease: 170
 ---
 
@@ -15,15 +15,13 @@ Writing requires you to engage with the content on a higher level by introducing
 [[Good friction causes the brain to engage]]
 
 - some people can't think unless they are writing #TO/DO/CITE  
-- [[Humans are drawn to the unknown and repelled by the known]]
-- [[Evergreen notes help us bridge the gap between knowledge and understanding]]
-- [[Time is a valuable mode in a second brain]]
-- [[Humans try really hard to avoid understanding their mistakes]]
-- [[Complex emotions are intellectual understandings of primal urges]]
+	- This is because [[Humans try really hard to avoid understanding their mistakes]], [[writing]] provides good friction that allows us to address our confusion
+- [[Often the best editing tool is time]] 
+	- this is how [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[understanding]], [[learning]]

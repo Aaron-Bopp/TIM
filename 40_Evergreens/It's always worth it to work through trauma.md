@@ -18,7 +18,7 @@ Additionally, we can now pursue things that we never would have considered befor
 This doesn't mean that there aren't downsides to working through [[trauma]], but that the good outweighs the bad, and that you won't be able to realize what the good and bad is until you heal.
 We cannot look at a world where so many people are affected by [[trauma]] and think that once everybody is healed, we will all be the same. [[Working through trauma can involve of a lot of letting go]] and some of these things you are letting go off may feel too valuable to abandon, but [[Sometimes we can't grow until we change our environment]].  This may be difficult for you and those around you, but loving yourself is always worth it: [[Happiness is enlightenment and sadness is delusion]]
 
-Additionally, this does not mean that working through trauma is all about you or all about it being other people's fault. Everything isn't going to become perfect over-night. [[Accepting responsibility is not only about your actions]], and sometimes that means forgiving people that don't deserve forgiveness: [[Children in traumatic households expect more love than their parents can give]]
+Additionally, this does not mean that working through trauma is all about you or all about it being other people's fault. Everything isn't going to become perfect over-night. [[Accepting responsibility is not only about your actions]], and sometimes that means forgiving people that don't deserve [[forgiveness]]: [[Children in traumatic households expect more love than their parents can give]]
 
 ### <hr class="footnote"/>
 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-03-09
-sr-interval: 17
+sr-due: 2022-04-15
+sr-interval: 35
 sr-ease: 170
 ---
 
@@ -13,6 +13,8 @@ sr-ease: 170
 
 Purpose is not something that can be given to us, it is something we have to choose. 
 [[How to discover your purpose in life]]
+
+#TO/TEND/GRAFT 
 - [[notes_Dharma]] [[notes_Karma]] 
 - [[notes_How to achieve]]
 - [[Humans are drawn to the unknown and repelled by the known]]
@@ -21,7 +23,7 @@ Purpose is not something that can be given to us, it is something we have to cho
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[purpose]], [[duty]], [[self-actualization]], [[Life principles]]
