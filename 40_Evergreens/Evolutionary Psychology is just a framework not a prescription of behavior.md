@@ -16,8 +16,7 @@ sr-ease: 210
 
 [[Evolutionary Psychology]] was never meant to be the end all be all of describing and predicting [[behavior]].
 Alas, [[Experts are often far too confident in the effectiveness of their theories]],
-leading to a somewhat skeptical view of [[Evolutionary Psychology]] in modern [[Psychology]].
-
+and early floundering's have resulted in a somewhat skeptical view of [[Evolutionary Psychology]] today.
 If we acknowledge that
 [[Most problems cannot be significantly understood through a single framework]],
 and properly contrast this framework with others,
@@ -40,6 +39,7 @@ and
 provides the mechanism behind::
 [[We carry our childhood wounds into adulthood]]
 
+#TO/TEND/MULCH 
 By properly understanding [[Evolutionary Psychology]] as a framework we can properly acknowledge that
 [[Complex emotions are imperfect understandings of primal urges]]
 in the light of
@@ -51,5 +51,5 @@ in the light of
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolutionary Psychology]], [[human behavior]], [[social order]]
+**Topics**:: [[Evolutionary Psychology]], [[human behavior]], [[social order]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
