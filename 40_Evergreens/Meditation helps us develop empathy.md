@@ -17,7 +17,7 @@ This has been studied but isn't a solid conclusion. Many of the ways that [[medi
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[empathy]]

@@ -29,7 +29,7 @@ leads back to:: [[The most reliable path to success is repeatedly trying to succ
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited January 23, 2022*
 
 **Topics**:: [[self-belief]]

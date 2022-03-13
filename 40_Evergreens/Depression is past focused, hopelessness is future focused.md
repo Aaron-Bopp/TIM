@@ -20,7 +20,7 @@ sr-ease: 170
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited January 19, 2022*
 
 **Topics**:: [[depression]], [[hopelessness]]

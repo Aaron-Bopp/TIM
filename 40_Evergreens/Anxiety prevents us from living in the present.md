@@ -11,25 +11,23 @@ sr-ease: 190
 
 #### [[Anxiety prevents us from living in the present]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Anxiety]] is the future focused [[mind]] and ???
+#TO/TEND/MULCH [[Anxiety]] is the future focused [[mind]]. 
 This creates a [[feedback loop]] that pushes us to do anything but live in the present.
-There are for ways that anxiety does this
+There are four ways that anxiety does this
 ^[[[notes_Responses to Anxiety]]]
 1. Distraction - this is pure escapism and is quite effective, but the [[anxiety]] is waiting for you as soon as you runout of distraction
 2. Avoidance - another way of escape, but one with much realer consequences
 3. Reassurance - this while momentarily helpful, eventually leads to dependence, especially because [[Anxiety causes us to reject nuance]]
-4. Just push though - this sometimes works because [[Most anxiety isn't irrational it's just overcompensation]], but other times this will just prevent you from attacking the root of the problem: [[Your anxiety knows your insecurities better than you do]]
+4. Just push through - this sometimes works because [[Most anxiety isn't irrational it's just overcompensation]], but other times this will just prevent you from attacking the root of the problem: [[Your anxiety knows your insecurities better than you do]]
 
-
+#TO/TEND/GRAFT 
 - [[Anxiety causes us to reject nuance]]
 - [[Meditation is a practice to gain control over your thoughts]]
 - [[Living in the present moment is valuable]]
 
- #TO/PONDER/IDEA from [[notes_Responses to Anxiety]]s
-
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited January 18, 2022*
 
 **Topics**:: [[anxiety]], [[Neuroscience]], [[mental health]]

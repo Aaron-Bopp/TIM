@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/source/2022/03/10, review, node/source/notes
+sr-due: 2022-03-14
+sr-interval: 2
+sr-ease: 236
 ---
 
 ##### [[reference_Sapiens]]

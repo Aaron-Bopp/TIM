@@ -22,7 +22,7 @@ These systems impact the entire [[mind-body complex]] which can get you out of y
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mind-body complex]], [[mental health]], [[meditation]]

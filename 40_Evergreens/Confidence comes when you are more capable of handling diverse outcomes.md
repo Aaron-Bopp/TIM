@@ -24,7 +24,7 @@ If your [[confidence]] is eroded in this area it can lead to [[depression]]:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited January 19, 2022*
 
 **Topics**:: [[confidence]], [[anxiety]], [[human experience]], [[Life principles]]

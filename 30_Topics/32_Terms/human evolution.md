@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/10, review, node/topic/outline
+sr-due: 2022-03-14
+sr-interval: 2
+sr-ease: 236
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -13,7 +16,7 @@ This is a miraculous and complicated process that has been taking place for 300,
 
 > [!wikipedia:[human evolution](https://en.wikipedia.org/wiki/Human%20evolution)]
 > 
-> Human evolution is the evolutionary process within the history of primates that led to the emergence of Homo sapiens as a distinct species of the hominid family, which includes the great apes. This process involved the gradual development of traits such as human bipedalism and language, as well as interbreeding with other hominins, which indicate that human evolution was not linear but a web. 
+> Human evolution is the evolutionary process within the history of primates that led to the emergence of [[Homo sapiens]] as a distinct species of the hominid family, which includes the great apes. This process involved the gradual development of traits such as human bipedalism and [[language]], as well as interbreeding with other hominins, which indicate that human evolution was not linear but a web. 
 > 
 > Genetic studies show that primates diverged from other mammals about 85 million years ago, in the Late Cretaceous period, and the earliest fossils appear in the Paleocene, around 55 million years ago. 
 > 
@@ -26,9 +29,9 @@ This is a miraculous and complicated process that has been taking place for 300,
 
 #### Our family
 
-Around 2 million years ago Australopithecus broke into several "human" species that spread across the world. The species became known as [[homo erectus]], [[homo neanderthalis]], [[homo soloensis]], [[homo floresiensis]], [[homo denisova]], [[homo rudolfensis]], [[homo ergaster]], [[homo sapiens]], and likely countless others. Up until 10,000 years ago one or more of the species were around and there is no clear line of [[evolution]] between them. They are also not species in the specific sense of being unable to produce fertile offspring, as many people have varied amounts of their [[DNA]] today.
+Around 2 million years ago Australopithecus broke into several "human" species that spread across the world. The species became known as [[homo erectus]], [[homo neanderthalis]], [[homo soloensis]], [[homo floresiensis]], [[homo denisova]], [[homo rudolfensis]], [[homo ergaster]], [[homo sapiens]], and likely countless others. Up until 10,000 years ago one or more of the species were around and there is no clear line of [[evolution]] between them. They are also not species in the specific sense of being unable to produce fertile offspring, as many people have some amount of other human species [[DNA]] today.
 
-Of these different family member's each had their own unique strengths and weaknesses. [[Homo erectus]] is our long lived older brother, living in eastern [[Asia]] for 2 million years.
+Of these different family member's each had their own unique strengths and weaknesses. [[Homo erectus]] is our long lived older brother, living in eastern [[Asia]] for 2 million years. [[Homo neanderthalis]] was the adventurous and rugged cousin, able to brave harsh conditions without gear or preparation.
 
 We on the other hand are new comers, staking our claim in [[Africa]] 150,000 years ago.
 This is where we developed the strengths that allowed us to survive and outcompete our other humans, but we didn't really start this process for another 70,000 years.

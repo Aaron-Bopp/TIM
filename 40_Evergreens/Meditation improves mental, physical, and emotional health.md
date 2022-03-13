@@ -30,7 +30,7 @@ While many think of [[meditation]] as a practice for the most disciplined and de
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED  
 *edited January 23, 2022*
 
 **Topics**:: [[mental health]], [[self]]

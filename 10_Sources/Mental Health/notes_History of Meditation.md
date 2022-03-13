@@ -12,12 +12,11 @@ sr-ease: 250
 ---
 
 ##### [[notes_History of Meditation ]]
-**Creator**:: 
+**Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
 **Next**:: [[notes_Different Meditative Styles]]
-**Previous**:: [[notes_Overview of Meditation Module]]
 
 ## Notes
 - [[meditation]] practices need to be specialized to the person

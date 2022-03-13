@@ -26,7 +26,6 @@ sr-ease: 250
 - [[Consciousness is our capacity to introspect]]
 - [[meditation]]
 	- [[Meditation is a practice to gain control over your thoughts]]
-		- [[notes_Overview of Meditation Module]]
 		- [[notes_Different Meditative Styles]]
 	- [[Meditation improves mental, physical, and emotional health]]
 		- [[notes_Science of Meditation]]

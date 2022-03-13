@@ -29,7 +29,7 @@ from: [[@hankgreen on Twitter|Hank Green]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge]], [[information]], [[knowledge work]], [[learning]]

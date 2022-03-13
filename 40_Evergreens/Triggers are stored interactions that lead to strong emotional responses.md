@@ -11,16 +11,16 @@ sr-ease: 190
 
 #### [[Triggers are stored interactions that lead to strong emotional responses]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/GRAFT 
 [[Samskara]]
 - [[Our brain actively inhibits us from processing repressed emotions]]
 - [[Our brain will do anything it can to protect itself]]
 - [[We carry our childhood wounds into adulthood]]
 - [[Children make wide assumptions about the world]]
  
-
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited January 19, 2022*
 
 **Topics**:: [[mental health]], [[emotions]], [[human behavior]]
