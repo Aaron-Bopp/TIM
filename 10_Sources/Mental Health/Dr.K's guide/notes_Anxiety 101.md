@@ -82,4 +82,4 @@ sr-ease: 230
 	2. Deal with our insecurities 
 	3. Increase our tolerance of uncertainty
 - western [[medicine]] focuses on mental aspects of [[anxiety]] not the [[physiology|physiological]] 
-- next:: [[notes_Thought Loops]]
+- next:: [[notes_Learned Anxiety]]

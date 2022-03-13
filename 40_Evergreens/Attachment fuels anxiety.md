@@ -15,7 +15,7 @@ sr-ease: 190
 so [[attachment]] is a major driver for [[attention]] and thus what we put [[energy]] into.
 If you are attached to some event in the future, 
 your [[brain]] will take advantage of that.
-^[[[notes_Thought Loops]]]
+^[[[notes_Learned Anxiety]]]
 Where [[anxiety]] comes in is when you lack [[confidence]] about that thing you are attached to, see
 [[Anxiety stems from a lack of confidence for the future]] and 
 [[Confidence comes when you are more capable of handling diverse outcomes]]
@@ -35,7 +35,7 @@ you can prevent the negative effects of
 [[Anxiety causes us to reject nuance]].
 This is why [[detachment]] is so powerful for reducing [[anxiety]],
 it allows you to gain both of these things and break off your brain's connection to it's food source.
-^[[[notes_Thought Loops]]]
+^[[[notes_Learned Anxiety]]]
 
 ### <hr class="footnote"/>
 

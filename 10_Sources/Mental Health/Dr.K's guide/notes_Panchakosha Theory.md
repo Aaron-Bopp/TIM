@@ -84,4 +84,4 @@ next:: [[notes_Confidence vs Ego]]
 | [[Vijnanamaya Kosha]] | identity [[Negative Self Attitude (NSA)]]            | [[CBT]] read contemplate [[meditation]]               |
 | [[Anandamaya Kosha]]  | [[Congruent Depression]] lack of [[purpose]]/meaning | [[meditation]] [[Dharma]]                             |
 
-next:: [[notes_Negative Emotions]]
+next:: [[notes_Solutions to depression]]

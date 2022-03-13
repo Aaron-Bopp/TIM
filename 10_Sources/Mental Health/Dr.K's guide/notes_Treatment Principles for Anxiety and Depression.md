@@ -16,18 +16,8 @@ sr-ease: 250
 **Source**:: [[course_Dr. K's Guide to Mental Health]]
 
 **Link**:: [treatment-approaches-to-anxiety](https://coaching.healthygamer.gg/guide/lessons/treatment-approaches-to-anxiety), [general treatment principles for depression](https://coaching.healthygamer.gg/guide/lessons/general-treatment-principles)
-#### Terms
 
-- [[Ayurveda]]
-- [[SNRI]]
-- [[SRI]]
-- [[Psychodynamic Therapy]]
-- [[CBT]]
-- [[DBT]]
-- [[Benzodiazepines]]
-- [[GABA]]
-- [[Alprazolam]]
-- [[Psychotherapy]]
+#### Terms
 - CAM (Complementary and Alternative Medicine)
 	- Complementary and Alternative Medicine: The term for medical products and practices that are not part of standard medical care.
 - TCM (Traditional Chinese Medicine)
@@ -73,5 +63,3 @@ sr-ease: 250
 			- just because other things can sometimes be effective, doesn't mean that they will be helpful
 			- less regulation
 next:: [[notes_Intro to Ayurveda]]
-
-

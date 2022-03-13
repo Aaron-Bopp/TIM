@@ -9,7 +9,7 @@ sr-interval: 10
 sr-ease: 250
 ---
 
-##### [[notes_Negative Emotions ]]
+##### [[notes_Solutions to depression]]
 
 **Creator**:: [[Dr. K]]
  

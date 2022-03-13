@@ -17,17 +17,6 @@ sr-ease: 250
 
 **Link**:: [Healthy Gamer](https://coaching.healthygamer.gg/guide/lessons/solutions-to-anxiety)
 
-#### Terms
-
-- [[anxiety]]
-- [[Amygdala]]
-- [[Samskara]]
-- [[Lidocaine]]
-- [[Frontal Lobe]]
-- [[Prefrontal Cortex]]
-- [[Sanskrit]]
-- [[Karma Fal]]
-
 ## Notes
 
 - [[Anxiety prevents us from living in the present]]

@@ -13,6 +13,8 @@ sr-ease: 230
 
 [[There has been a decrease in mental health not an increase in mental illness]]
 
+#TO/TEND/GRAFT [[notes_Treatment Principles for Anxiety and Depression]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
