@@ -22,7 +22,7 @@ sr-ease: 230
 - [[Dvesha]]
 
 ## Notes
-- the [[mind]] is attracted to some things ([[Raga]]) and repulsed by other things ([[Dvesha]])
+- the [[mind]] is attracted to some things (Raga) and repulsed by other things (Dvesha)
 - We want to retreat from negative stimuli
 - when we act in accordance with our [[Dharma]] it allows us to do the hard thing
 	- [[performance]] isn't a [[Dharma]]

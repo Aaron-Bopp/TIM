@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-12
+sr-due: 2022-03-13
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Drugs work by effecting your chemical environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

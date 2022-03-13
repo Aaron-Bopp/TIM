@@ -4,14 +4,18 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-12
+sr-due: 2022-03-13
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[There is a difference between managing and illness and curing it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[There has been a decrease in mental health not an increase in mental illness]]
+This is often the difference between prescriptive and holistic treatment.
+
+- [[There has been a decrease in mental health not an increase in mental illness]]
+- [[Yoga is a wholistic philosophy of self-improvement]]
+- [[Meditation improves mental, physical, and emotional health]]
 
 #TO/TEND/GRAFT [[notes_Treatment Principles for Anxiety and Depression]]
 
@@ -20,5 +24,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[medicine]], [[treatment]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

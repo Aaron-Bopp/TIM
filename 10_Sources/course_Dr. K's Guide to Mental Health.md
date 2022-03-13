@@ -44,24 +44,24 @@ sr-ease: 250
 		- [[We can control our body through our breath]]
 			- [[notes_Breath and Mind]]
 	- [[How to develop a meditation practice]]
-		- [[Jnana Padha]]
+		- [[Jnana]] Padha - The path of [[knowledge]], which explores the nature of learning and understanding.
 			- [[notes_Knowledge of the Mind]] 
 			- [[notes_Vidya and Jnana]]
 			- [[We learn by transforming information into understanding]]
-		- [[Siddhi Padha]]
+		- Siddhi Padha - The path of [[accomplishment]], focused on reaching your goals
 			- [[notes_What is achievement]]
 			- [[notes_How to achieve]]
 			- [[You can't control what happens]]
-		- [[Sukkha Padha]]
+		- Sukkha Padha -  The path of [[contentment]], focusing on building [[happiness]] through internal exploration.
 			- [[notes_Dukkha]]
 			- [[notes_Dharma]]
 			- [[notes_Karma]]
 			- [[Purpose is derived from within, duty is derived from without]]
-		- [[Atman Padha]]
+		- Atman Padha - The path of the [[self]], which explores the nature of a [[humanity|human]] being, and what makes up a person.
 			- [[notes_the Nature of Self]]
 			- [[notes_Panchakosha Theory]]
 			- [[notes_Confidence vs Ego]]
-		- [[Manas Padha]]
+		- Manas Padha - The path of the [[mind]], which focuses on exploring the nature of the mind.
 			- [[notes_The Nature of Mind]]
 			- [[notes_System of Mind]]
 		- [[Right kinds of thoughts lead to right kinds of actions]]

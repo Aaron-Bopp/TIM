@@ -4,15 +4,19 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/claim
-sr-due: 2022-03-12
-sr-interval: 9
-sr-ease: 190
+sr-due: 2022-03-18
+sr-interval: 6
+sr-ease: 170
 ---
 
 #### [[There is a limit to how much information you can process at once]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[How to deal with FOMO]]
 - [[A healthy second brain requires a surplus of entry points]]
+- [[Evergreen notes organize knowledge so that it can grow]]
+- [[Evergreen notes help us bridge the gap between knowledge and understanding]]
+- [[We learn by transforming information into understanding]]
+- [[We will evolve when we make learning as easy as thinking]]
 
 ### <hr class="footnote"/>
 

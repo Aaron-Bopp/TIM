@@ -18,7 +18,6 @@ sr-ease: 250
 
 #### Terms
 - [[Dukkha]]
-- [[Sukkha]]
 - [[Bhagavad Gita]]
 
 ## Notes

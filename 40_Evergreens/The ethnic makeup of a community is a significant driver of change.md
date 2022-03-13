@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/28, review, node/evergreen/claim
-sr-due: 2022-03-12
-sr-interval: 8
+sr-due: 2022-04-01
+sr-interval: 20
 sr-ease: 230
 ---
 
@@ -16,10 +16,11 @@ sr-ease: 230
 - [[Anger fuels change]]
 - [[Communities are support systems]]
 - [[Communication provides the opportunity to shape other's perceptions]]
+- [[The black identity has evolved past it's political origins]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[politics]], [[social progress]]

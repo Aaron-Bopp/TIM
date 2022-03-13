@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/11, review, node/evergreen/claim
-sr-due: 2022-03-11
+sr-due: 2022-03-13
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Our biology has not significantly changed for thousands of years]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

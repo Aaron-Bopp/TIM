@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-03-11
-sr-interval: 12
+sr-due: 2022-03-31
+sr-interval: 19
 sr-ease: 150
 ---
 
@@ -18,10 +18,13 @@ or that doctor's are over diagnosing,
 but that there are now new stimuli that are producing these symptoms 
 outside of previous driver's behind the disorders.
 
+%%
+#TO/TEND/MULCH 
 There are still people who have pure [[Neuroscience|neurological]] [[anxiety]], but there are now far more people who have
 societally produced [[anxiety]] that is just as debilitating as [[Neuroscience|neurological]] anxiety.
 This doesn't mean that there isn't a neurological element to this societally produced anxiety,
 but that element is more of a predisposition and the actual driver of the symptoms is [[society]].
+%%
 
 What is the reason behind this?
 - [[Social media]]
@@ -39,7 +42,7 @@ What is the reason behind this?
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/WEED 
+**Status**:: #EVER/SAPLING 
 *edited January 19, 2022*
 
 **Topics**:: [[mental health]], [[mental illness]]

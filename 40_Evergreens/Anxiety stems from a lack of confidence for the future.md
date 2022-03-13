@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/11, review, node/evergreen/claim
-sr-due: 2022-03-12
-sr-interval: 14
-sr-ease: 190
+sr-due: 2022-03-19
+sr-interval: 7
+sr-ease: 170
 ---
 
 #### [[Anxiety stems from a lack of confidence for the future]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
