@@ -260,9 +260,10 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=162
 
 ###### ^288457438q
 
-This can be called the fundamental problem of social life. Groups function best when their members provide benefits for each other, but it is difficult to convert this kind of social organization into the currency of biological fitness. 
+This can be called [[the fundamental problem of social life]]. Groups function best when their members provide benefits for each other, but it is difficult to convert this kind of social organization into the currency of biological fitness.
 
 ^288457438
+
 #### DARWIN’S SOLUTION TO THE FUNDAMENTAL PROBLEM
 
 ##### ^288633669

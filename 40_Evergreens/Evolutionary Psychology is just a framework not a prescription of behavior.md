@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/03, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 2
+sr-due: 2022-03-17
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -23,23 +23,26 @@ and properly contrast this framework with others,
 we can attempt to use our [[understanding]] of [[human evolution]] effectively.
 
 [[Cultural evolution is not confined to the slow process of genetic evolution]] means that we are both incredibly different than our ancient ancestors and also incredibly the same. 
-The development of the human [[social order]] over the last 10,000 years is miniscule in the time frame of [[human evolution]]. 
+The last 10,000 years
+that have included 99% of
+the development of the human [[social order]] 
+are miniscule in the time frame of [[human evolution]]. 
 The amount and kind of inputs in our environment are nothing like any other point in [[history]], 
 but our genetic environment is almost unchanged.
-[[Humans have had little time to adjust to being the top predator]], and this has left our [[brain]] stuck in the past.
-Of course, the [[brain]] is incredibly adaptive so the lack of difference in our [[DNA]] is likely dwarfed by the difference in our [[Mental health is a reaction to one's environment|chemical environment]].
-This means our examination of [[human origins]] is most helpful as
-a starting point.
 
 > [!example]
-[[Our brains are built around survival]], but our environments practically guarantee it. This 
-leads to conclusions like::
-[[Most anxiety isn't irrational it's just overcompensation]]
+[[Humans have had little time to adjust to being the top predator]] means that 
+[[Our brains are built around survival]], but our environments practically guarantee it. 
+This [[cognitive dissonance]] leads to phenomena like [[existential dread]],
+conclusions like:: [[Most anxiety isn't irrational it's just overcompensation]]
 and 
 provides the mechanism behind::
 [[We carry our childhood wounds into adulthood]]
 
 #TO/TEND/MULCH 
+Of course, the [[brain]] is incredibly adaptive so the lack of difference in our [[DNA]] is likely dwarfed by the difference in our [[Mental health is a reaction to one's environment|chemical environment]].
+This means our examination of [[human origins]] is most helpful as
+a starting point.
 By properly understanding [[Evolutionary Psychology]] as a framework we can properly acknowledge that
 [[Complex emotions are imperfect understandings of primal urges]]
 in the light of

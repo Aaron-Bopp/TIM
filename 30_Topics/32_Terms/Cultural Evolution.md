@@ -12,8 +12,6 @@ sr-ease: 234
 
 ##### <s class="topic-title">[[Cultural Evolution]]</s>
 
-> ![[books_Darwin's Cathedral#293875895q]]
-
 > [!wikipedia:[Cultural Evolution](https://en.wikipedia.org/wiki/Cultural%20evolution)]
 > 
 > Cultural evolution is an evolutionary theory of social change. It follows from the definition of [[culture]] as "[[information]] capable of affecting individuals' [[behavior]] that they acquire from other members of their species through teaching, [[imitation]] and other forms of social transmission". 
