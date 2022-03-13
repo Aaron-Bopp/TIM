@@ -15,6 +15,16 @@ sr-ease: 230
 
 > ![[books_Darwin's Cathedral#^295076111]]
 
+> ![[books_Darwin's Cathedral#^289554239]]
+
+
+> ![[books_Darwin's Cathedral#^288878740]]
+
+> ![[books_Darwin's Cathedral#^289554237]]
+
+
+
+[[Functionally integrated social groups become organisms in their own right]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

@@ -11,7 +11,7 @@ sr-ease: 230
 
 #### [[There is a social element to genetic evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Functionally integrated social groups become organisms in their own right]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[genetic]] [[evolution]]. 
+[[Functionally integrated social groups become organisms in their own right]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[Genetic evolution]] 
 
 
 > ![[books_Darwin's Cathedral#289554236q]]
@@ -24,5 +24,5 @@ This a big part of how [[The immune system is adaptive]], it is a social system 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolution]], 
+**Topics**:: [[Evolution]], [[Genetic evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

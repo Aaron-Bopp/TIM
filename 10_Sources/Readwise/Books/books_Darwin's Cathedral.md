@@ -26,7 +26,6 @@ sr-ease: 230
 
 # Highlights
 ### CHURCH AS ORGANISM
-
 ##### ^287471877
 
 highlight_tags:: [[blue]]   
@@ -109,8 +108,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=81
 One reason that I admire some aspects of religion is because I share some of its values. I have not attempted to hide this fact, and I hope that it has not intruded upon my science. Nor have I attempted to conceal my own basic optimism that the world can be a better place in the future than in the past or present—that there can be such a thing as a path to enlightenment. Being a scientist does not require becoming indifferent to human welfare. 
 
 ^287471880
-### THE VIEW FROM EVOLUTIONARY BIOLOGY
 
+### THE VIEW FROM EVOLUTIONARY BIOLOGY
 ##### ^288296631
 
 highlight_tags:: [[blue]]   
@@ -143,8 +142,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=113
 Religion returns to center stage, not as a theological explanation of purpose and order, but as itself a product of evolution that enables groups to function as adaptive units—at least to a degree. 
 
 ^288296633
-#### ADAPTATION AND FUNCTIONALIST THINKING
 
+#### ADAPTATION AND FUNCTIONALIST THINKING
 ##### ^288296634
 
 
@@ -190,8 +189,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=132
 A well-organized attacking army seems more like a single predator than a passing boulder, but the class of beggars has no organ-like function in society, although it may be explained by functionalist thinking at a lower level, such as individual greed resulting in an unequal division of resources. Thus, social groups are a nebulous and heterogeneous category with respect to the concept of adaptation. 
 
 ^288296637
-#### THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE
 
+#### THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE
 ##### ^288296638
 
 highlight_tags:: [[orange]], [[blue]]   
@@ -260,12 +259,11 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=162
 
 ###### ^288457438q
 
-This can be called [[the fundamental problem of social life]]. Groups function best when their members provide benefits for each other, but it is difficult to convert this kind of social organization into the currency of biological fitness.
+This can be called [[the fundamental problem of social life]]. Groups function best when their members provide benefits for each other, but it is difficult to convert this kind of social organization into the currency of biological fitness. 
 
 ^288457438
 
 #### DARWIN’S SOLUTION TO THE FUNDAMENTAL PROBLEM
-
 ##### ^288633669
 
 
@@ -320,8 +318,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=206
 At all times throughout the world (to paraphrase Darwin) religious systems have arisen in profusion, competing against each other and against nonreligious social organizations. 
 
 ^288633673
-#### EVOLUTIONARY THEORY’S WRONG TURN
 
+#### EVOLUTIONARY THEORY’S WRONG TURN
 ##### ^288838023
 
 
@@ -332,8 +330,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=229
 to use Konner’s words—for humans or any other species. Individuals are the organisms and society is merely a convenient word for what individuals do to each other in the course of maximizing their own fitness. 
 
 ^288838023
-##### How to see group selection
 
+##### How to see group selection
 ##### ^288878740
 
 
@@ -346,8 +344,8 @@ Refering to groups of birds. Callers refering to birds that let out warning crie
 When we compare the fitness of callers and noncallers within each group, we see that callers are the losers in both cases. However, the group with more callers fares better than the group with fewer callers. This is the classic group selection scenario that began with Darwin. 
 
 ^288878740
-##### How to define groups
 
+##### How to define groups
 ##### ^288878742
 
 
@@ -369,8 +367,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=326
 we do not want to return to the days when groups were axiomatically assumed to function as adaptive units. The point is to achieve a middle ground in which the importance of the various levels of natural selection are examined on a case-by-case basis, using a procedure that allows group selection to be seen where it exists. 
 
 ^288936969
-#### MAJOR TRANSITIONS OF LIFE
 
+#### MAJOR TRANSITIONS OF LIFE
 ##### ^288936970
 
 
@@ -389,7 +387,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=367
 
 ###### ^295076111q
 
-Social control, rather than highly self-sacrificial altruism, appears to solve the fundamental problem of social life at the individual level. 
+Social control, rather than highly self-sacrificial altruism, appears to solve [[the fundamental problem of social life]] at the individual level. 
 
 ^295076111
 
@@ -447,8 +445,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=392
 Social control mechanisms are obviously relevant to religious groups, which are based on much more than voluntary altruism. 
 
 ^289554240
-#### HUMAN GROUPS AS ADAPTIVE UNITS
 
+#### HUMAN GROUPS AS ADAPTIVE UNITS
 ##### ^291449823
 
 
@@ -542,8 +540,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=481
 Immunity from disproof might seem like a weakness from a narrow scientific perspective, but it can be a strength for a social system designed to regulate human behavior. 
 
 ^292537212
-#### INNATE PSYCHOLOGY OF MORAL SYSTEMS
 
+#### INNATE PSYCHOLOGY OF MORAL SYSTEMS
 ##### ^292537214
 
 highlight_tags:: [[blue]]   
@@ -589,8 +587,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=517
 authors have speculated on the design features required for a moral system to work, including conformity (Boyd and Richerson 1985; E. O. Wilson 1998), docility (Simon 1990), detection of cheating (Cosmides and Tooby 1992), punishment of cheating (Boyd and Richerson 1992), symbolic thought (Deacon 1998), explicit consensus decision making (Boehm 1996), 
 
 ^292550150
-#### CULTURAL EVOLUTION OF MORAL SYSTEMS
 
+#### CULTURAL EVOLUTION OF MORAL SYSTEMS
 ##### ^292550152
 
 
@@ -672,16 +670,18 @@ many of the mechanisms guiding cultural evolution take place beneath conscious a
 
 ^292936700
 
-##### ^293875893
+##### ^297790114
 
-highlight_tags:: [[c2]]   
+
 Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=636  
 
-###### ^293875893q
+election of a new King in Gabon 1868  
 
-This means that cultures can evolve to be smart in ways that are invisible to their own members. 
+###### ^297790114q
 
-^293875893
+This means that cultures can evolve to be smart in ways that are invisible to their own members. ... “now we choose you for our king; we engage to listen to you and to obey you.” 
+
+^297790114
 
 ##### ^293875894
 
@@ -739,8 +739,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=697
 It is unfortunate that evolution is so often associated with genetic evolution, a slow process that gives the impression of an incapacity for change over the time scales that matter most to living people struggling with their problems. When we expand our view of evolution to include all Darwinian processes, we can begin to see how religions actually can produce transformative change, even from a purely evolutionary perspective. 
 
 ^293875898
-#### MODERN HUMAN GROUPS AS ADAPTIVE UNITS
 
+#### MODERN HUMAN GROUPS AS ADAPTIVE UNITS
 ##### ^293875904
 
 
@@ -751,8 +751,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=708
 Superficially, large-scale human societies appear much less egalitarian than hunter-gatherer groups, but the apparent inequities can be interpreted in two very different ways. On the one hand, social control mechanisms are probably strongest in small groups in which everyone knows and depends on everyone else. Many inequities that exist in large-scale societies are therefore exactly what they seem—some individuals profiting at the expense of others within the society. ... On the other hand, purely from the group-level functional standpoint, societies must become differentiated as they increase in size. ... It is therefore an open question whether extreme status differences and other seeming inequalities in large-scale societies represent domination pure and simple or rather design features that enable the society to function at a large scale, 
 
 ^293875904
-#### WHAT CONSTITUTES FITNESS?
 
+#### WHAT CONSTITUTES FITNESS?
 ##### ^294094923
 
 
@@ -785,8 +785,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=785
 Religious experiments that fail are not an argument against evolution, if we are observing the process in addition to the product. The question is whether religious experiments that succeed do so on the basis of their properties, 
 
 ^294094911
-#### THE RELIGIOUS EXPRESSION OF MORALITY
 
+#### THE RELIGIOUS EXPRESSION OF MORALITY
 ##### ^294094913
 
 highlight_tags:: [[pink]]   
@@ -827,6 +827,8 @@ there is no evidence that scientific understanding replaces religious belief in 
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=814  
 
+This is in contrast to the ability to know true things being adaptive.  
+
 ###### ^294094918q
 
 However, there are many, many other situations in which it can be adaptive to distort reality (Wilson 1990, 1995). Even massively fictitious beliefs can be adaptive, as long as they motivate behaviors that are adaptive in the real world. 
@@ -854,8 +856,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=844
 Their decision about where to hunt almost certainly relied upon practical reasoning on the basis of detailed factual knowledge that we associate with scientific thought. Nevertheless, this mode of thought blended seamlessly with belief in a forest capable of experiencing pleasure, which happens to correspond to the welfare of the group. 
 
 ^294094920
-#### SURVEYING THE VIEW FROM EVOLUTIONARY BIOLOGY
 
+#### SURVEYING THE VIEW FROM EVOLUTIONARY BIOLOGY
 ##### ^294293305
 
 
@@ -932,8 +934,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=954
 Religion is on the cost side of a cost-benefit equation as far as the evolution of human psychology is concerned. 
 
 ^295428837
-##### DURKHEIM REVISITED
 
+##### DURKHEIM REVISITED
 ##### ^295428839
 
 highlight_tags:: [[orange]]   
@@ -1025,8 +1027,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1015
 Deacon (1998) has recently argued that symbolic thought sets humans apart from all other animals and evolved to enable enforced social contracts such as marriage. 
 
 ^295490290
-##### THE NEXT GENERATION
 
+##### THE NEXT GENERATION
 ##### ^295490292
 
 
@@ -1108,17 +1110,6 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1076
 
 ^295490306
 
-##### ^295490301
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1088  
-
-###### ^295490301q
-
-“now we choose you for our king; we engage to listen to you and to obey you.” 
-
-^295490301
-
 ##### ^295490302
 
 
@@ -1131,8 +1122,8 @@ Some notes the power of ritual in preserving strong community and how thay curbs
 Malidoma Patrice Somé, a member of the West African Dagara culture, who has attempted to interpret the nature of ritual for an American audience (Somé 1997). According to Some, rituals and social responsibilities are “inseparable” 
 
 ^295490302
-##### FUNCTIONALISM TODAY
 
+##### FUNCTIONALISM TODAY
 ##### ^297089492
 
 
@@ -1255,17 +1246,4 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389
 The term “evolutionary psychology” should refer broadly to the study of psychology from an evolutionary perspective. Unfortunately, the term has become associated with a rather narrow school of thought that is controversial even among evolutionary biologists interested in psychology. 
 
 ^292550153
-# New highlights added March 13, 2022 at 11:36 AM
 
-##### ^297790114
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=636  
-
-election of a new King in Gabon 1868  
-
-###### ^297790114q
-
-This means that cultures can evolve to be smart in ways that are invisible to their own members. ... “now we choose you for our king; we engage to listen to you and to obey you.” 
-
-^297790114

@@ -16,7 +16,7 @@ sr-ease: 210
 > [[Lynn Margulis]] invented the first unified theory of eukaryogenesis (the way in which [[eukaryotic]] cells formed from [[prokaryotic]] cells) 
 > for more:: [Lynn Margulis and the endosymbiont hypothesis: 50 years later | Molecular Biology of the Cell](https://www.molbiolcell.org/doi/10.1091/mbc.e16-07-0509)
 
-> ![[books_Darwin's Cathedral#288936970q]]
+> ![[books_Darwin's Cathedral#^288936970]]
 
 This requires a liberal use of the word social and strong understanding of the functional arrangement.
 One example given is that of chromosomes. 
