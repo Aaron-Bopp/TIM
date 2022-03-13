@@ -15,7 +15,7 @@ Widely discussed in [[books_Darwin's Cathedral#THE FUNDAMENTAL PROBLEM OF SOCIAL
 In order to solve this you need to apply the rules of [[natural selection]] to groups as well as individuals.
 While this was the conclusion Darwin came to, 
 later developments in the realm of [[molecular genetics]] caused many say to only look at individuals and that [[group selection]] was too weak of a force to be considered.
-^[Many took these beliefs to far, spawning the now laughable idea of "for the good of the group"]
+^[Many took these beliefs to far, spawning the now laughable idea of "for the good of the group" [[books_Darwin's Cathedral#^288296632]]]
 This lead to long held beliefs that seemingly altruistic behaviors must be hiddenly selfish.
 While this can often be true, it nor the ideas of [[kin selection]], [[reciprocal altruism]], or [[inclusive fitness]] were full explanations.
 

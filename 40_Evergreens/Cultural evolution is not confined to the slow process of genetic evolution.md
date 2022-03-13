@@ -33,5 +33,5 @@ This is integral to the development of the [[social order]]:
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human behavior]], [[social order]]
+**Topics**:: [[human behavior]], [[social order]], [[Cultural Evolution]], [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -1,17 +1,17 @@
 ---
-created: 2022-03-10
+created: 2022-03-13
 edited:
 aliases:
   - "Darwin's Cathedral"
   - "Darwin's Cathedral by David Sloan Wilson"
   - "David Sloan Wilson"
-tags: created/source/2022/03/10, node/source/books
+tags: created/source/2022/03/13, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-03-10
+sr-due: 2022-03-13
 sr-interval: 2
 sr-ease: 230
 ---
@@ -259,7 +259,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=162
 
 ###### ^288457438q
 
-This can be called [[the fundamental problem of social life]]. Groups function best when their members provide benefits for each other, but it is difficult to convert this kind of social organization into the currency of biological fitness. 
+This can be called the fundamental problem of social life. Groups function best when their members provide benefits for each other, but it is difficult to convert this kind of social organization into the currency of biological fitness. 
 
 ^288457438
 
@@ -380,6 +380,17 @@ it has become increasingly certain that evolution also takes place along a diffe
 
 ^288936970
 
+##### ^298212067
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=363  
+
+###### ^298212067q
+
+Returning to the “selfish gene” that replicates rather than contributing to the common good of the cell, this problem can be solved by linking all the genes together into a chromosome that replicates as a unit. By eliminating the possibility of differential replication within the cell, chromosomes concentrate the process of natural selection at the among-cell level, neatly solving the fundamental problem of social life. 
+
+^298212067
+
 ##### ^295076111
 
 highlight_tags:: [[blue]]   
@@ -387,7 +398,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=367
 
 ###### ^295076111q
 
-Social control, rather than highly self-sacrificial altruism, appears to solve [[the fundamental problem of social life]] at the individual level. 
+Social control, rather than highly self-sacrificial altruism, appears to solve the fundamental problem of social life at the individual level. 
 
 ^295076111
 
@@ -902,6 +913,7 @@ Real churches only approach the ideal of true love, but their failures are inter
 
 ^294293308
 
+### CHAPTER 2 THE VIEW FROM THE SOCIAL SCIENCES
 ##### ^294570949
 
 highlight_tags:: [[blue]]   
@@ -1179,6 +1191,61 @@ Proximate explanation (“the sandy color in this species is caused by chromatin
 
 ^297089496
 
+##### ^298292964
+
+highlight_tags:: [[h4]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1164  
+
+###### ^298292964q
+
+Complexity 
+
+^298292964
+
+##### ^298292965
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1167  
+
+###### ^298292965q
+
+Consider the famous examples of water and salt, whose properties are difficult to predict from their parts (hydrogen and oxygen in the case of water and sodium and chloride in the case of salt). This concept of holism is based on complex interactions rather than functional organization. Salt and water have no purpose; their properties simply reside mostly in the interactions among their parts rather than in the properties of the parts as isolated units. 
+
+^298292965
+
+##### ^298292966
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1170  
+
+###### ^298292966q
+
+In the same way, functionalism in the social sciences often seems to stress complexity and interconnectedness rather than functional organization per se 
+
+^298292966
+
+##### ^298292999
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1170  
+
+###### ^298292999q
+
+functionalism in the social sciences often seems to stress complexity and interconnectedness rather than functional organization per se ... Unfortunately, dysfunction can be as complex and locally stable as function, so the term “functionalism” should be avoided for concepts of holism based on complexity and restricted to the direct or indirect products of natural selection. 
+
+^298292999
+
+##### ^298292969
+
+highlight_tags:: [[h4]], [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1176  
+
+###### ^298292969q
+
+Functionalism and multilevel selection 
+
+^298292969
+
 ##### ^297089497
 
 highlight_tags:: [[blue]]   
@@ -1190,6 +1257,28 @@ The problem with functionalism begins when we attempt to explain the properties 
 
 ^297089497
 
+##### ^298292970
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1185  
+
+###### ^298292970q
+
+Since philosophers and social scientists already acknowledge the legitimacy of functionalism at the individual level in nonhuman species when warranted by natural selection, the developments in evolutionary biology that I outlined in chapter 1 automatically set the stage for the return of group-level functionalism in the social sciences. 
+
+^298292970
+
+##### ^298292971
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1195  
+
+###### ^298292971q
+
+adaptationism enjoys its status in evolutionary biology in part because it is simpler to employ than nonfunctionalist approaches. Often only a little knowledge suffices to make an initial prediction about the properties of organisms that enhance fitness in their environments (e.g., fish in streams with predators should be more timid than fish in streams without predators). 
+
+^298292971
+
 ##### ^297089498
 
 
@@ -1200,6 +1289,17 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1200
 Mature research programs in biology pay equal attention to ultimate and proximate explanation, but they often begin with an adaptationist hypothesis that provides the best and most economical “first guess” about the properties of the organism 
 
 ^297089498
+
+##### ^298292972
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1203  
+
+###### ^298292972q
+
+discrepancies between adaptationist predictions and the properties of real organisms often lead to the discovery of nonadaptive factors that would have been missed otherwise. 
+
+^298292972
 
 ##### ^297089499
 
@@ -1223,6 +1323,196 @@ Natural selection was once assumed to be such a slow process that only the produ
 
 ^297089502
 
+##### ^298292973
+
+highlight_tags:: [[h4]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1261  
+
+###### ^298292973q
+
+Intentional behavior 
+
+^298292973
+
+##### ^298292974
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1262  
+
+###### ^298292974q
+
+Human behavior is often goal oriented, and the implements people employ to achieve goals are correspondingly functional. 
+
+^298292974
+
+##### ^298292975
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1277  
+
+###### ^298292975q
+
+Many examples of adaptive flexibility (also called “phenotypic plasticity”) have accumulated in the biological literature. Mentality is not required; bacteria and plants can be adaptively flexible. 
+
+^298292975
+
+##### ^298293000
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1280  
+
+###### ^298293000q
+
+adaptive flexibility does not change the functional interpretation of phenotypes. ... guppies cannot change their spots as individuals and therefore require the passage of generations to match their background. Flounders, octopi, and many other species can change their color as individuals and can match their background in a few moments. In both cases the function of matching one’s background is to avoid predators. 
+
+^298293000
+
+##### ^298292978
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1285  
+
+###### ^298292978q
+
+what is human intentionality but an elaborate mechanism of environmental assessment, built by natural selection, that culminates on balance in adaptive phenotypes? 
+
+^298292978
+
+##### ^298292979
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1294  
+
+###### ^298292979q
+
+Human brains may be unique in their ability to process symbolic information (as argued by Deacon 1998), but that does not alter their basic function or the functionality of the activities that are motivated by human thought. 
+
+^298292979
+
+##### ^298293001
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1308  
+
+###### ^298293001q
+
+The first and foremost question we must ask is whether an object of study counts as functional: are its properties designed to accomplish a given effect? ... The next question is to determine the designing agent or process. ... It is remarkable how well the first question can be answered without knowledge about the answer to the second question. ... This is one reason to regard intentional thought as one of several possible proximate mechanisms that create function rather than as an alternative to functional explanation. 
+
+^298293001
+
+##### ^298292984
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1326  
+
+###### ^298292984q
+
+Functionality in human life can be attributed to at least three proximate mechanisms beyond the conscious intentional mechanisms emphasized by Elster: (1) psychological processes at the individual level that lie beneath conscious awareness; (2) group-level processes that individuals partake in without conscious knowledge of their roles; and (3) ongoing processes of cultural evolution. 
+
+^298292984
+
+##### ^298292985
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1343  
+
+###### ^298292985q
+
+the more individuals act as participants in a group mental process, the less likely they are to be consciously aware of the process. 
+
+^298292985
+
+##### ^298292986
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1371  
+
+###### ^298292986q
+
+Cultural evolution may be fast in comparison to genetic evolution, but it can still require many human lifetimes. In addition, cultural variation does not always result in cultural evolution. Majority effects, spatial effects, and other factors complicate the concept of fitness for cultural and biological evolution alike, 
+
+^298292986
+
+##### ^298292987
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1375  
+
+###### ^298292987q
+
+Putnam (1993) pessimistically concludes that the deep structure of many contemporary human societies might prevent them from achieving the social goals for which they are intentionally striving. 
+
+^298292987
+
+##### RATIONAL CHOICE THEORY REVISITED
+##### ^298292989
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1392  
+
+###### ^298292989q
+
+There are a number of ways to bring religion under the umbrella of rational choice theory. One is to explain religion as the economic mind spinning its wheels to get what it can’t have (a byproduct). Another is to explain religion as more genuinely utilitarian, producing resources that can be had but only through the beliefs and social organization provided by religion or a comparable system (an adaptation). 
+
+^298292989
+
+##### ^298292990
+
+highlight_tags:: [[pink]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1400  
+
+###### ^298292990q
+
+Mother Teresa poses no problem for economic theory because she employs cost-benefit reasoning to maximize her own peculiar utility of helping others (Kwilecki and Wilson 1998). 
+
+^298292990
+
+##### ^298292991
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1421  
+
+###### ^298292991q
+
+consider Iannaccone’s own work. In two influential articles, he shows how seemingly inefficient and bizarre features of religion such as distinctive dress, dietary restrictions, and costly sacrifice can be adaptive (he uses the word “rational”) by turning the religion into an exclusive club that excludes free-riders 
+
+^298292991
+
+##### THE FUTURE OF FUNCTIONALISM
+##### ^298292993
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1476  
+
+###### ^298292993q
+
+All subdisciplines of the social sciences need to appreciate that functional explanations must be handled with care, and that group-level functional explanations require the greatest care of all. Human groups cannot lightly be described as adaptive units, but if they can be rigorously shown to function as adaptive units, that will be a major scientific accomplishment. 
+
+^298292993
+
+##### ^298292994
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1480  
+
+###### ^298292994q
+
+rational choice theory is often presented as a psychological theory that attempts to explain the length and breadth of human nature with a few axioms about how people think. Alas, physics might be reducible to a few fundamental laws but not psychology. 
+
+^298292994
+
+##### ^298292995
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1482  
+
+###### ^298292995q
+
+The human mind is a melange of adaptations and spandrels that have accumulated over millions of years, during which both culture and life in groups have been integral parts of the evolutionary process. 
+
+^298292995
+
+### CHAPTER 3 CALVINISM An Argument from Design
 ##### ^288838024
 
 highlight_tags:: [[orange]]   
@@ -1246,4 +1536,17 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389
 The term “evolutionary psychology” should refer broadly to the study of psychology from an evolutionary perspective. Unfortunately, the term has become associated with a rather narrow school of thought that is controversial even among evolutionary biologists interested in psychology. 
 
 ^292550153
+
+##### ^298293002
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4432  
+
+#TO/EXPLORE/READ  
+
+###### ^298293002q
+
+complexity can have profound effects on variation and heritability, the two prerequisites for natural selection. ... See Wilson (1992), Swenson, Arendt, and Wilson (2000), and Swenson, Wilson, and Elias (2000) for fuller discussions of the issues in the context of selection at the level of biological communities and ecosystems. 
+
+^298293002
 

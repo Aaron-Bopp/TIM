@@ -18,13 +18,15 @@ While the bible does talk about how to be a good person,
 they have largely abandoned this doctrine 
 because [[Evangelicalism has commodified faith for profit]].
 
-[[Faith is an abstraction of cognitive dissonance]], which means that it is using [[faith]] to help deal with the fact that [[Knowledge of the world is painful]],
-^[[[What is the cognitive effect of living in an unjust world]]]
+[[Faith is an abstraction of cognitive dissonance]], which means that it is using [[faith]] to help deal with 
+[[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]]
 instead of focusing on improving the the lives of [[Christianity|Christians]]. 
 
 [[Evangelicalism]] hides the work and the struggle so that it can convert and control more people:
 [[Worldviews should not make life seem easy and simple]]
 
+This is a large part of [[The church will fail if christians keep aligning themselves with hate instead of love]].
+The church didn't
 %%
 #TO/TEND/MULCH 
 [[Human's have an inability to admit that they are wrong]], and because [[Christianity]] is taught so early in childhood [^1] this is even more impactful: [[Religious concepts are often too powerful for a child's mind]]
