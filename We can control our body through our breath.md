@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-12
+sr-due: 2022-03-13
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[We can control our body through our breath]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Our breath is the pathway to controlling the biological mechanisms that govern our body. We can use this to affect and control our mood and reduce anxiety,
+Our breath is the pathway to controlling the biological mechanisms that govern our body. We can use this to affect and control our mood and reduce [[anxiety]],
 ^[[[notes_Breath and Mind]]]
 or we can even use it to override our natural instincts and push our body farther than it could go alone.
 
