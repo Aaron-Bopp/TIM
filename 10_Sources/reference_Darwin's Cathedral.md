@@ -44,7 +44,7 @@ Wilson again takes issue with and redefines [[Evolutionary Psychology]] to bette
 He remarks that [[Evolutionary Psychology is just a framework not a prescription of behavior]], but
 his main point is that [[Evolutionary Psychology]] is only being partially applied.
 [[Genetic evolution]] does not need to lead to modular traits because
-[[Evolution create a system capable of natural selection]].
+[[Evolution can create systems capable of natural selection]].
 ^[[[books_Darwin's Cathedral#^292936697]]]
 
 This leads him fully into [[Cultural Evolution]], a process that does not change genes in the slightest and yet is highly adaptive and competitive. He offers four insights from [[group selection]] and then comes back to how human's form into adaptive groups.

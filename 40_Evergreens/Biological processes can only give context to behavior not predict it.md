@@ -12,8 +12,8 @@ sr-ease: 230
 #### [[Biological processes can only give context to behavior not predict it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Many people believe existence to be a deterministic process. One action leads to the next, and really our choices are little more than predictable to results of our environment.
-If only we could properly observe and understand the intricacies of our [[brain]],
-then we could predict our [[behavior]].
+If only we could properly observe and understand the intricacies of our [[brain]], then 
+we could predict our [[behavior]].
 
 This is an important consideration in the question of 
 [[Do we have free will]],
@@ -36,6 +36,10 @@ Nevertheless it is true that
 [[Our brains are built around survival]].
 Studying the biological influences of people's behaviors can of course give great insight into our [[behavior]] as long as we understand that 
 [[Most problems cannot be significantly understood through a single framework]].
+
+> ![[books_Darwin's Cathedral#^297089495]]
+
+> ![[books_Darwin's Cathedral#^297089496]]
 
 ### <hr class="footnote"/>
 

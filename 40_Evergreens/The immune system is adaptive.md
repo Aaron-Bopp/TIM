@@ -11,10 +11,11 @@ sr-ease: 230
 
 #### [[The immune system is adaptive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This is because it is a highly active microcosm of [[Evolution]]
+This is because it is a highly active microcosm of [[Evolution]]: [[Evolution can create systems capable of natural selection]]
 
 > ![[books_Darwin's Cathedral#292936698q]]
 
+enabled by::[[Functionally integrated social groups become organisms in their own right]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

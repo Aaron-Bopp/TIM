@@ -9,8 +9,9 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[Evolution create a system capable of natural selection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Evolution can create systems capable of natural selection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+[[Individual selection is an emergent mechanic of group selection]]
 
 > ![[books_Darwin's Cathedral#^292936697]]
 

@@ -17,12 +17,11 @@ sr-ease: 230
 > ![[books_Darwin's Cathedral#289554236q]]
 > ![[books_Darwin's Cathedral#289554239q]]
 
-This a big part of how [[The immune system is adaptive]], it is a social system of pieces working together to adapt
-
+This a big part of how [[The immune system is adaptive]], it is a social system of pieces working together to adapt. [[Evolution can create systems capable of natural selection]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolution]], [[Genetic evolution]]
+**Topics**:: [[Evolution]], [[group selection]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

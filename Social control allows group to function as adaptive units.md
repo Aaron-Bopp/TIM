@@ -11,7 +11,7 @@ sr-ease: 230
 
 #### [[Social control allows group to function as adaptive units]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[the fundamental problem of social life]]
+This solves [[the fundamental problem of social life]]
 
 > ![[books_Darwin's Cathedral#^295076111]]
 

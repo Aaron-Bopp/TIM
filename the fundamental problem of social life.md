@@ -26,7 +26,7 @@ then you understand that
 which leads to
 [[Functionally integrated social groups become organisms in their own right]]
 and finally that
-[[Individual selection is an emergent idea from group selection]].
+[[Individual selection is an emergent mechanic of group selection]].
 
 > ![[books_Darwin's Cathedral#^288936969]]
 
