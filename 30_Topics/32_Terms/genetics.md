@@ -11,7 +11,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 > [!wikipedia:[genetics](https://en.wikipedia.org/wiki/Genetics)]
 > 
-> Genetics is a branch of [[biology]] concerned with the study of genes, genetic variation, and heredity in organisms. 
+> Genetics is a branch of [[Biology]] concerned with the study of genes, genetic variation, and heredity in organisms. 
 > 
 > Mendel studied "trait inheritance", patterns in the way traits are handed down from parents to offspring over time. 
 > Modern genetics has expanded beyond inheritance to studying the function and behavior of genes. Gene structure and function, variation, and distribution are studied within the context of the cell, the organism (e.g. dominance), and within the context of a population. Genetics has given rise to a number of subfields, including [[molecular genetics]], [[epigenetics]] and [[population genetics]]. Organisms studied within the broad field span the domains of life (archaea, [[bacteria]], and eukarya).

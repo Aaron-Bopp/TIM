@@ -1254,3 +1254,17 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389
 The term “evolutionary psychology” should refer broadly to the study of psychology from an evolutionary perspective. Unfortunately, the term has become associated with a rather narrow school of thought that is controversial even among evolutionary biologists interested in psychology. 
 
 ^292550153
+# New highlights added March 13, 2022 at 11:36 AM
+
+##### ^297790114
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=636  
+
+election of a new King in Gabon 1868  
+
+###### ^297790114q
+
+This means that cultures can evolve to be smart in ways that are invisible to their own members. ... “now we choose you for our king; we engage to listen to you and to obey you.” 
+
+^297790114

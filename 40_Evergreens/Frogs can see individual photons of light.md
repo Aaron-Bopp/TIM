@@ -20,5 +20,5 @@ sr-ease: 230
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[physics]], [[biology]]
+**Topics**:: [[physics]], [[Biology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

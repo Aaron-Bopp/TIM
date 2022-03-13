@@ -4,9 +4,9 @@ edited:
 aliases:
   - perceive
 tags: created/topic/2021/10/18, review, node/topic/term
-sr-due: 2022-03-13
-sr-interval: 2
-sr-ease: 227
+sr-due: 2022-03-19
+sr-interval: 6
+sr-ease: 247
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -16,7 +16,7 @@ the way in which something is regarded, understood, or interpreted.
 
 > [!wikipedia:[perception](https://en.wikipedia.org/wiki/Perception)]
 > 
-> Perception (from the Latin perceptio, meaning gathering or receiving) is the organization, identification, and interpretation of sensory information in order to represent and understand the presented information or environment. All perception involves signals that go through the [[nervous system]], which in turn result from physical or chemical stimulation of the [[sensory system]]. For example, vision involves light striking the retina of the eye; smell is mediated by odor molecules; and hearing involves pressure waves. 
+> Perception (from the Latin perceptio, meaning gathering or receiving) is the organization, identification, and interpretation of sensory [[information]] in order to represent and understand the presented information or environment. All perception involves signals that go through the [[nervous system]], which in turn result from physical or chemical stimulation of the [[sensory system]]. For example, vision involves light striking the retina of the eye; smell is mediated by odor molecules; and hearing involves pressure waves. 
 > 
 > Perception is not only the passive receipt of these signals, but it's also shaped by the recipient's [[learning]], [[memory]], expectation, and [[attention]]. Sensory input is a process that transforms this low-level information to higher-level information (e.g., extracts shapes for object recognition). The process that follows connects a person's concepts and expectations (or knowledge), restorative and selective mechanisms (such as attention) that influence perception.
 

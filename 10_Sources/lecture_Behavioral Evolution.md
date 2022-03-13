@@ -19,8 +19,8 @@ sr-ease: 250
 
 ## Notes
 
-- [[biology]] can tell us a lot based off of our skulls
-- There is a inevitable logic to how [[biology]] works because of the optimization of [[Evolution]]
+- [[Biology]] can tell us a lot based off of our skulls
+- There is a inevitable logic to how [[Biology]] works because of the optimization of [[Evolution]]
 - [[sociobiology]] in 1970s -> [[Evolutionary Psychology]]
 - Basics of [[Evolution]]
 	- Animals have traits

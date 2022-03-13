@@ -30,5 +30,5 @@ Books are paths through evergreen forests
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[language]], [[biology]], [[second brain]]
+**Topics**:: [[language]], [[Biology]], [[second brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -9,7 +9,7 @@ tags: created/topic/2022/01/06, node/topic/outline
 
 ##### <s class="topic-title">[[physiology]]</s>
 
-the branch of [[biology]] that deals with the normal functions of living organisms and their parts.
+the branch of [[Biology]] that deals with the normal functions of living organisms and their parts.
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

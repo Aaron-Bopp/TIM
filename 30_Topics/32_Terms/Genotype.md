@@ -22,5 +22,5 @@ sr-ease: 270
 > 
 
 
-**See**:: [[chromosomes]], [[biology]]
+**See**:: [[chromosomes]], [[Biology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

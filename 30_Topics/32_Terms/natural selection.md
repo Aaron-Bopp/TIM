@@ -4,15 +4,17 @@ edited:
 aliases:
   - null
 tags: created/topic/2021/10/19, review, node/topic/term
-sr-due: 2022-03-13
-sr-interval: 2
+sr-due: 2022-03-19
+sr-interval: 6
 sr-ease: 241
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 ##### <s class="topic-title">[[natural selection]]</s>
 
-The process whereby organisms better adapted to their environment tend to survive and produce more offspring. It has three major building blocks **[[individual selection]]** (preserve your own genes), **[[inclusive fitness]]** (help those with genes similar to yours), **[[reciprocal altruism]]** (preserve genes that will help me) [^1]
+The process whereby organisms better adapted to their environment tend to survive and produce more offspring. It has three major building blocks **[[individual selection]]** (preserve your own genes), **[[inclusive fitness]]** (help those with genes similar to yours), **[[reciprocal altruism]]** (preserve genes that will help me)
+^[[[lecture_Behavioral Evolution]]]
+ 
 
 > [!wikipedia:[natural selection](https://en.wikipedia.org/wiki/Natural%20selection)]
 > 
@@ -23,6 +25,12 @@ The process whereby organisms better adapted to their environment tend to surviv
 > Natural selection acts on the [[phenotype]], the characteristics of the organism which actually interact with the environment, but the genetic (heritable) basis of any [[phenotype]] that gives that [[phenotype]] a reproductive advantage may become more common in a population. Over time, this process can result in populations that specialize for particular ecological niches (microevolution) and may eventually result in speciation  (the emergence of new species, macroevolution). In other words, natural selection is a key process in the evolution of a population.
 > 
 
-**See**:: [[Evolution]], [[biology]]
+**See**:: [[Evolution]], [[Biology]]
 
-[^1]:[[lecture_Behavioral Evolution]]
+%% DO NOT EDIT BELOW %%
+#### Related 
+```dataview
+LIST FROM [[#]]
+WHERE contains(topics, this.file.link)
+```
+%% DO NOT EDIT ABOVE %%

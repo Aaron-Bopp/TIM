@@ -11,7 +11,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 > [!wikipedia:[evolutionary biology](https://en.wikipedia.org/wiki/Evolutionary%20biology)]
 > 
-> Evolutionary biology is the subfield of [[biology]] that studies the evolutionary processes ([[natural selection]], [[common descent]], [[speciation]]) that produced the diversity of life on [[Earth]].
+> Evolutionary biology is the subfield of [[Biology]] that studies the evolutionary processes ([[natural selection]], [[common descent]], [[speciation]]) that produced the diversity of life on [[Earth]].
 >
 
 

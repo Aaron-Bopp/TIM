@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/10, review, node/topic/outline
-sr-due: 2022-03-13
+sr-due: 2022-03-14
 sr-interval: 1
-sr-ease: 220
+sr-ease: 200
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -23,7 +23,6 @@ This was a time period that encompassed much of [[prehistory]] and coincided [[h
 
 #### Foraging was not simply about survival 
 
-> ![[books_Sapiens#294931436q]]
 > ![[books_Sapiens#^297094622]]
 
 #### Foragers were less likely to get diseases
