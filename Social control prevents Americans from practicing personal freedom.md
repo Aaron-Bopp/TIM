@@ -1,0 +1,22 @@
+---
+created: 2022-03-14T08:28:16 
+edited: 
+aliases:
+  - null
+tags: created/evergreen/2022/03/14, review, node/evergreen/claim
+sr-due: 2022-03-14
+sr-interval: 1
+sr-ease: 230
+---
+
+#### [[Social control prevents Americans from practicing personal freedom]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+You are not free to leave America whenever you want you are not free to get a job that can support your family you are not free to do so many thing because of cultural and economic barriers.
+
+### <hr class="footnote"/>
+
+**Status**:: #EVER/WEED 
+*edited `=this.file.mtime`*
+
+**Topics**:: <% tp.file.cursor(1) %>
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

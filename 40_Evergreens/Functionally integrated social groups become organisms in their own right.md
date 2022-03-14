@@ -11,6 +11,9 @@ sr-ease: 210
 
 #### [[Functionally integrated social groups become organisms in their own right]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+This can be see from the lowest level of
+to the highest level of
+[[Social control prevents Americans from practicing personal freedom]]
 
 > [!example]
 > [[Lynn Margulis]] invented the first unified theory of eukaryogenesis (the way in which [[eukaryotic]] cells formed from [[prokaryotic]] cells) 
