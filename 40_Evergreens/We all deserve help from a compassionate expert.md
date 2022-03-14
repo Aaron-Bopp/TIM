@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/24, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 10
+sr-due: 2022-04-05
+sr-interval: 23
 sr-ease: 230
 ---
 
@@ -18,8 +18,8 @@ A [[compassionate expert]] will embody [[The joy of learning is contagious]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[social order]]
+**Topics**:: [[social order]], [[learning]], [[education]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

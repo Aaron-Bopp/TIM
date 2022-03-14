@@ -4,16 +4,20 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/13, review, node/evergreen/claim
-sr-due: 2022-03-13
+sr-due: 2022-03-14
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Evolution can create systems capable of natural selection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+%% 
+In a way evolutionary systems emerge out from each other, all the way down to some level? is that the level of basic physic almost certainly not but how far above the [[Standard Model]] do we need to go? you could use competition and selection to discuss chemical reactions, but I am not sure if this would make any sense to chemist  
+%%
 [[Individual selection is an emergent mechanic of group selection]]
 
-> ![[books_Darwin's Cathedral#^292936697]]
+This is an example of:: [[emergence]] 
+I think
 
 > ![[books_Darwin's Cathedral#^292936698]]
 
@@ -30,5 +34,5 @@ think of the mind as an immune system
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[Evolution]], [[natural selection]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

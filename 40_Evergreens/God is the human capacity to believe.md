@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/07, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 4
+sr-due: 2022-03-18
+sr-interval: 5
 sr-ease: 130
 ---
 
 #### [[God is the human capacity to believe]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/PLANT qoutes from [[books_The Road]]
+#TO/TEND/PLANT qoutes from ![[books_The Road#283227484]]
 
 What is the nature of god? God is a social construction. God is our [[understanding]] of the things we cannot understand. 
 #TO/TEND/DEOBFUSCATE 
@@ -29,7 +29,7 @@ What is the nature of god? God is a social construction. God is our [[understand
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[belief]], [[spirituality]], [[belief systems]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/11, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 1
+sr-due: 2022-03-15
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -13,9 +13,9 @@ sr-ease: 210
 
 From our very humble beginnings,
 ^[[[Cracking bones and eating the marrow may have been human's first niche]]]
-human's have developed into a the top predator and a force of destruction on par with asteroids in terms of extinct species.
+human's have developed into the top predator and a force of destruction on par with asteroids in terms of extinct species.
 
-
+Examples:: Australia and the Americas had many megafaunas and large creatures like groundsloths before we settled there. There aren't any good explanations for those extinctions other than us.
 
 - [[Greater cooperation and communication has lead to the success of humans as a species]]
 - [[Humans have had little time to adjust to being the top predator]]

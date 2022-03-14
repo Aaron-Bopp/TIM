@@ -28,7 +28,8 @@ that have included 99% of
 the development of the human [[social order]] 
 are miniscule in the time frame of [[human evolution]]. 
 The amount and kind of inputs in our environment are nothing like any other point in [[history]], 
-but our genetic environment is almost unchanged.
+but our genetic environment is almost unchanged. 
+^118a53
 
 > [!example]
 [[Humans have had little time to adjust to being the top predator]] means that 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 17
+sr-due: 2022-04-08
+sr-interval: 26
 sr-ease: 150
 ---
 
@@ -35,10 +35,10 @@ Mathematicians do not rely on perception they only rely on logic
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/WEED 
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[philosophy]]
+**Topics**:: [[philosophy]], [[belief]], [[logic]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

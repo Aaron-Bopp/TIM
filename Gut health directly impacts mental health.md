@@ -4,21 +4,22 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 1
+sr-due: 2022-03-15
+sr-interval: 2
 sr-ease: 210
 ---
 
 #### [[Gut health directly impacts mental health]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This phenomena is now being referred to as the [[brain-gut axis]],
-but this has been a practice of [[Ayurveda]] for millenia.
+but this has been a practice of [[Ayurveda]] for millennia.
 
 Our understanding of this is that the [[bacteria]] in our [[gut]] are a vital part of producing [[Neurotransmitter]]'s like [[Serotonin]].
 ^[[[notes_Brain Gut Axis]]]
 
 - [[Mental health is a reaction to one's environment]]
 - [[Drugs work by effecting your chemical environment]]
+- [[The immune system is adaptive]]
 
 ### <hr class="footnote"/>
 

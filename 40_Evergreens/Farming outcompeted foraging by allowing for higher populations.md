@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/11, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 1
+sr-due: 2022-03-15
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -25,7 +25,8 @@ However, farming was able to overtake foraging as the main method of survival in
 
 This was not the only evolutionary force acting on humans, as [[Wheat domesticated humans]].
 
-This is part of [[Greater cooperation and communication has lead to the success of humans as a species]]
+This is 
+part of:: [[Greater cooperation and communication has lead to the success of humans as a species]]
 
 ### <hr class="footnote"/>
 

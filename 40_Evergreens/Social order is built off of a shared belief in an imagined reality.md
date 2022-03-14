@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/04, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 2
+sr-due: 2022-03-17
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -13,9 +13,9 @@ sr-ease: 210
 
 > ![[books_Sapiens#294248534q]]
 
-[[Culture]] is the synthesis of our collective imagination, or [[Imagined reality]]. 
+%% #TO/TEND/MULCH [[Culture]] is the synthesis of our collective imagination, or [[Imagined reality]].  %%
 
-This is heavily interwoven with [[religion]], as [[religion]] is often the [[language]] through which we understand this imagined reality.
+This is heavily interwoven with [[religion]], as [[religion]] is often the [[language]] through which we understand this [[imagined reality]].
 However, [[Strong enough logic becomes belief]] and thus
 [[science]] has started to become as strong of a source of [[faith]] as [[religion]].
 

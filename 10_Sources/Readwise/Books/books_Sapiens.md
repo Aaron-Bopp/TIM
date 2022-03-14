@@ -27,7 +27,6 @@ sr-ease: 230
 # Highlights
 #### Part One The Cognitive Revolution
 ### 1 An Animal of No Significance
-
 ##### ^294248521
 
 highlight_tags:: [[orange]]   
@@ -71,8 +70,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=333
 When Charles Darwin indicated that Homo sapiens was just another kind of animal, people were outraged. Even today many refuse to believe it. Had the Neanderthals survived, would we still imagine ourselves to be a creature apart? Perhaps this is exactly why our ancestors wiped out the Neanderthals. They were too familiar to ignore, but too different to tolerate. 
 
 ^294248524
-#### 2 The Tree of Knowledge
 
+#### 2 The Tree of Knowledge
 ##### ^294248526
 
 highlight_tags:: [[orange]]   
@@ -153,8 +152,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=423
 myths give Sapiens the unprecedented ability to cooperate flexibly in large numbers. 
 
 ^294248531
-##### The Legend of Peugeot
 
+##### The Legend of Peugeot
 ##### ^294248533
 
 
@@ -222,8 +221,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=546
 As time went by, the imagined reality became ever more powerful, so that today the very survival of rivers, trees and lions depends on the grace of imagined entities such as the United States and Google. 
 
 ^294248538
-##### Bypassing the Genome
 
+##### Bypassing the Genome
 ##### ^294248540
 
 
@@ -267,8 +266,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=616
 New ability Wider consequences The ability to transmit larger quantities of information about the world surrounding Homo sapiens Planning and carrying out complex actions, such as avoiding lions and hunting bison The ability to transmit larger quantities of information about Sapiens social relationships Larger and more cohesive groups, numbering up to 150 individuals The ability to transmit information about things that do not really exist, such as tribal spirits, nations, limited liability companies, and human rights a. Cooperation between very large numbers of strangers b. Rapid innovation of social behaviour 
 
 ^294248542
-##### History and Biology
 
+##### History and Biology
 ##### ^297163941
 
 
@@ -279,8 +278,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=651
 Biology sets the basic parameters for the behaviour and capacities of Homo sapiens. The whole of history takes place within the bounds of this biological arena. 
 
 ^297163941
-#### 3 A Day in the Life of Adam and Eve
 
+#### 3 A Day in the Life of Adam and Eve
 ##### ^294931430
 
 
@@ -302,8 +301,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=756
 there hasn’t been a single natural way of life for Sapiens. There are only cultural choices, from among a bewildering palette of possibilities. 
 
 ^294931431
-##### The Original Affluent Society
 
+##### The Original Affluent Society
 ##### ^294931433
 
 highlight_tags:: [[orange]]   
@@ -369,8 +368,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=869
 The Aché people, hunter-gatherers who lived in the jungles of Paraguay until the 1960s, offer a glimpse into the darker side of foraging. When a valued band member died, the Aché customarily killed a little girl and buried the two together. ... When an old Aché woman became a burden to the rest of the band, one of the younger men would sneak behind her and kill her with an axe-blow to the head. ... Babies born without hair, who were considered underdeveloped, were killed immediately. ... Anthropologists who lived with them for years report that violence between adults was very rare. Both women and men were free to change partners at will. They smiled and laughed constantly, had no leadership hierarchy, and generally shunned domineering people. They were extremely generous with their few possessions, and were not obsessed with success or wealth. ... They viewed the killing of children, sick people and the elderly as many people today view abortion and euthanasia. ... The need to evade their enemies probably caused the Aché to adopt an exceptionally harsh attitude towards anyone who might become a liability to the band. 
 
 ^296601915
-##### Talking Ghosts
 
+##### Talking Ghosts
 ##### ^296601907
 
 highlight_tags:: [[orange]]   
@@ -414,8 +413,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=938
 In Sungir, Russia, archaeologists discovered in 1955 a 30,000-year-old burial site belonging to a mammoth-hunting culture. In one grave they found the skeleton of a fifty-year-old man, covered with strings of mammoth ivory beads, containing about 3,000 beads in total. On the dead man’s head was a hat decorated with fox teeth, and on his wrists twenty-five ivory bracelets. Other graves from the same site contained far fewer goods. ... Archaeologists then discovered an even more interesting tomb. It contained two skeletons, buried head to head. One belonged to a boy aged about twelve or thirteen, and the other to a girl of about nine or ten. The boy was covered with 5,000 ivory beads. He wore a fox-tooth hat and a belt with 250 fox teeth (at least sixty foxes had to have their teeth pulled to get that many). The girl was adorned with 5,250 ivory beads. Both children were surrounded by statuettes and various ivory objects. ... fashioning the 10,000 ivory beads that covered the two children, not to mention the other objects, required some 7,500 hours of delicate work, well over three years of labour by an experienced artisan! 
 
 ^296601917
-##### Peace or War?
 
+##### Peace or War?
 ##### ^297089485
 
 
@@ -437,9 +436,9 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=996
 Just as foragers exhibited a wide array of religions and social structures, so, too, did they probably demonstrate a variety of violence rates. While some areas and some periods of time may have enjoyed peace and tranquillity, others were riven by ferocious conflicts. 
 
 ^297089486
+
 ##### The Curtain of Silence
 #### 4 The Flood
-
 ##### ^297089489
 
 
@@ -450,8 +449,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1177
 If we combine the mass extinctions in Australia and America, and add the smaller-scale extinctions that took place as Homo sapiens spread over Afro-Asia – such as the extinction of all other human species – and the extinctions that occurred when ancient foragers settled remote islands such as Cuba, the inevitable conclusion is that the first wave of Sapiens colonisation was one of the biggest and swiftest ecological disasters to befall the animal kingdom. 
 
 ^297089489
-### Part Two The Agricultural Revolution
 
+### Part Two The Agricultural Revolution
 ##### ^297301072
 
 
@@ -541,8 +540,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1329
 If a species boasts many DNA copies, it is a success, and the species flourishes. From such a perspective, 1,000 copies are always better than a hundred copies. This is the essence of the Agricultural Revolution: the ability to keep more people alive under worse conditions. 
 
 ^297301079
-##### The Luxury Trap
 
+##### The Luxury Trap
 ##### ^297301081
 
 
@@ -608,8 +607,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1412
 Since farming created the conditions for swift demographic growth, farmers could usually overcome foragers by sheer weight of numbers. 
 
 ^297301088
-##### Divine Intervention
 
+##### Divine Intervention
 ##### ^297681710
 
 highlight_tags:: [[blue]]   
@@ -653,8 +652,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1445
 Göbekli Tepe held another sensational secret. For many years, geneticists have been tracing the origins of domesticated wheat. Recent discoveries indicate that at least one domesticated variant, einkorn wheat, originated in the Karaçadag Hills – less than twenty miles from Göbekli Tepe. 
 
 ^297681713
-##### Victims of the Revolution
 
+##### Victims of the Revolution
 ##### ^297681715
 
 highlight_tags:: [[qa]]   
@@ -700,8 +699,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1534
 The numerical success of the calf’s species is little consolation for the suffering the individual endures. This discrepancy between evolutionary success and individual suffering is perhaps the most important lesson we can draw from the Agricultural Revolution. 
 
 ^297681718
-#### 6 Building Pyramids
 
+#### 6 Building Pyramids
 ##### ^297681720
 
 
@@ -723,8 +722,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1554
 attachment to ‘my house’ and separation from the neighbours became the psychological hallmark of a much more self-centred creature. 
 
 ^297681721
-##### The Coming of the Future
 
+##### The Coming of the Future
 ##### ^297681723
 
 
@@ -790,8 +789,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1604
 History is something that very few people have been doing while everyone else was ploughing fields and carrying water buckets. 
 
 ^297681728
-##### An Imagined Order
 
+##### An Imagined Order
 ##### ^297681730
 
 highlight_tags:: [[blue]]   
@@ -916,8 +915,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1747
 ‘We know that people are not equal biologically! But if we believe that we are all equal in essence, it will enable us to create a stable and prosperous society.’ I have no argument with that. This is exactly what I mean by ‘imagined order’. We believe in a particular order not because it is objectively true, but because believing in it enables us to cooperate effectively and forge a better society. Imagined 
 
 ^297681741
-##### True Believers
 
+##### True Believers
 ##### ^297681743
 
 
@@ -963,8 +962,8 @@ I don't think he earned this conclusion.
 This is why cynics don’t build empires and why an imagined order can be maintained only if large segments of the population – and in particular large segments of the elite and the security forces – truly believe in it. 
 
 ^297681746
-##### The Prison Walls
 
+##### The Prison Walls
 ##### ^297681748
 
 
@@ -1052,4 +1051,5 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1878
 in order to change an existing imagined order, we must first believe in an alternative imagined order. 
 
 ^297681755
+
 #### 7 Memory Overload

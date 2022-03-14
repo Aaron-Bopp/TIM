@@ -4,12 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/11, review, node/evergreen/claim
-sr-due: 2022-03-13
+sr-due: 2022-03-14
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[Our biology has not significantly changed for thousands of years]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+![[Evolutionary Psychology is just a framework not a prescription of behavior#^118a53]]
 
 - [[Evolutionary Psychology is just a framework not a prescription of behavior]]
 - [[Biological processes can only give context to behavior not predict it]]

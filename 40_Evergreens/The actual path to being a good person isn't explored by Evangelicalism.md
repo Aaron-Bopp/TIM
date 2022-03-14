@@ -4,8 +4,8 @@ edited:
 aliases:
   - Evangelicalism doesn't explore the path to being a good person
 tags: created/evergreen/2021/10/19, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 15
+sr-due: 2022-04-04
+sr-interval: 22
 sr-ease: 130
 ---
 
@@ -22,11 +22,14 @@ because [[Evangelicalism has commodified faith for profit]].
 [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]]
 instead of focusing on improving the the lives of [[Christianity|Christians]]. 
 
+#TO/DO/FIND examples of evangelicalism failing in this way.
+
 [[Evangelicalism]] hides the work and the struggle so that it can convert and control more people:
 [[Worldviews should not make life seem easy and simple]]
 
 This is a large part of [[The church will fail if christians keep aligning themselves with hate instead of love]].
-The church didn't
+The Evangelical church didn't teach people how to be good so it is failing (and it is spreading this rot to the rest of [[Christianity]]).
+
 %%
 #TO/TEND/MULCH 
 [[Human's have an inability to admit that they are wrong]], and because [[Christianity]] is taught so early in childhood [^1] this is even more impactful: [[Religious concepts are often too powerful for a child's mind]]

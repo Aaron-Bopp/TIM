@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-13
-sr-interval: 1
+sr-due: 2022-03-15
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -28,5 +28,5 @@ part of:: [[Meditation improves mental, physical, and emotional health]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Pranayama]]
+**Topics**:: [[meditation]], [[breathing]], [[body]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
