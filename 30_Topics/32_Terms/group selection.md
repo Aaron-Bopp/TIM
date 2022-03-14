@@ -27,7 +27,7 @@ The second is that groups must be defined for any given trait relative to the co
 ##### Influence
 
 [[Group selection]] is can be a very powerful force through it's reinforcement of [[reciprocal altruism]]. When group develops strong levels of cooperation while they are separated from the wider group 
-^[much as [[homo sapiens]] was separated from [[homo erectus]] and [[homo neanderthalis]] in eastern [[Africa]] 150,000 years ago: [[Greater cooperation and communication has lead to the success of humans as a species]]]
+^[much as [[homo sapiens]] was separated from [[Homo erectus]] and [[Homo neanderthalis]] in eastern [[Africa]] 150,000 years ago: [[Greater cooperation and communication has lead to the success of humans as a species]]]
 it allows them to out compete another group. In the same species this leads the [[founder effect]] and in separate species in leads to extinction. 
 ^[[[lecture_Behavioral Evolution#^igzkks]]]
 

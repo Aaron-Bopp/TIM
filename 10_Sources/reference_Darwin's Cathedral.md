@@ -17,7 +17,7 @@ tags: created/source/2022/02/27, node/source/notes
 #### Church as an organism ^[[[books_Darwin's Cathedral#CHURCH AS ORGANISM]]]
 This chapter concerns itself with orientating the reader to be ready for the rest of the book. This includes dispelling preconceived notions that people familiar with the field have, as well as defining several core concepts.
 This book seems to be a rather influential in that it pushed for and re-popularized the power of [[group selection]] (or at least [[David Sloan Wilson]] did) after a period of intellectual vitriol from the scientific [[community]]. 
-#### [[The fundamental problem of social life]] ^[[[books_Darwin's Cathedral#THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE]]]
+#### [[the fundamental problem of social life]] ^[[[books_Darwin's Cathedral#THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE]]]
 
 > ![[books_Darwin's Cathedral#^288457438]]
 

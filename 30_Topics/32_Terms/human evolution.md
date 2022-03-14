@@ -29,7 +29,7 @@ This is a miraculous and complicated process that has been taking place for 300,
 
 #### Our family
 
-Around 2 million years ago Australopithecus broke into several "human" species that spread across the world. The species became known as [[homo erectus]], [[homo neanderthalis]], [[homo soloensis]], [[homo floresiensis]], [[homo denisova]], [[homo rudolfensis]], [[homo ergaster]], [[homo sapiens]], and likely countless others. Up until 10,000 years ago one or more of the species were around and there is no clear line of [[evolution]] between them. They are also not species in the specific sense of being unable to produce fertile offspring, as many people have some amount of other human species [[DNA]] today.
+Around 2 million years ago Australopithecus broke into several "human" species that spread across the world. The species became known as [[Homo erectus]], [[Homo neanderthalis]], [[homo soloensis]], [[homo floresiensis]], [[homo denisova]], [[homo rudolfensis]], [[homo ergaster]], [[homo sapiens]], and likely countless others. Up until 10,000 years ago one or more of the species were around and there is no clear line of [[evolution]] between them. They are also not species in the specific sense of being unable to produce fertile offspring, as many people have some amount of other human species [[DNA]] today.
 
 Of these different family member's each had their own unique strengths and weaknesses. [[Homo erectus]] is our long lived older brother, living in eastern [[Asia]] for 2 million years. [[Homo neanderthalis]] was the adventurous and rugged cousin, able to brave harsh conditions without gear or preparation.
 

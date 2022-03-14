@@ -258,7 +258,7 @@ The purpose of high-level sciences is to enable us to understand emergent phenom
 
 ##### ^288838100
 
-highlight_tags:: [[holism]], [[orange]]   
+highlight_tags:: [[Holism]], [[orange]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=398  
 
 ###### ^288838100q
