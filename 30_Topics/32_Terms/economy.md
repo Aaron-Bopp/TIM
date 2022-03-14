@@ -9,7 +9,7 @@ tags: created/topic/2021/10/06, node/topic/outline
 
 ##### <s class="topic-title">[[economy]]</s>
 
-> [!wikipedia:[economy](https://en.wikipedia.org/wiki/Economy)]
+> [!wikipedia] [economy](https://en.wikipedia.org/wiki/Economy)
 > 
 > An economy is an area of the production, distribution and trade, as well as consumption of goods and services by different agents. In general, it is defined  'as a social domain that emphasize the practices, discourses, and material expressions associated with the production, use, and management of scarce resources'. In other words, the economic domain is a social domain of interrelated human practices and transactions that does not stand alone.
 > 

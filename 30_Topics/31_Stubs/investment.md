@@ -9,7 +9,7 @@ tags: created/topic/2022/03/11, node/topic/stub
 
 ##### <s class="topic-title">[[investment]]</s>
 
-> [!wikipedia:[investment](https://en.wikipedia.org/wiki/Investment)]
+> [!wikipedia] [investment](https://en.wikipedia.org/wiki/Investment)
 > 
 > Investment is the dedication of an asset to attain an increase in value over a period of time. Investment requires a sacrifice of some present asset, such as time, money, or effort.
 > 

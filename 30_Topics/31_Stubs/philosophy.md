@@ -9,7 +9,7 @@ tags: created/topic/2021/10/31, node/topic/outline
 
 ##### <s class="topic-title">[[philosophy]]</s>
 
-> [!wikipedia:[philosophy](https://en.wikipedia.org/wiki/Philosophy)]
+> [!wikipedia] [philosophy](https://en.wikipedia.org/wiki/Philosophy)
 > 
 > Philosophy (from Greek: φιλοσοφία, philosophia, 'love of wisdom') is the study of general and fundamental questions, such as those about [[existence]], [[reason]], [[knowledge]], values, [[mind]], and [[language]]. Such questions are often posed as problems to be studied or resolved. 
 > 

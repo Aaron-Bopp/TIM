@@ -10,7 +10,7 @@ sr-ease: NaN
 
 ##### <s class="topic-title">[[racism]]</s>
 
-> [!wikipedia:[racism](https://en.wikipedia.org/wiki/Racism)]
+> [!wikipedia] [racism](https://en.wikipedia.org/wiki/Racism)
 > 
 > Racism is the belief that groups of humans possess different behavioral traits corresponding to inherited attributes and can be divided based on the superiority of one race over another. It may also mean [[prejudice]], [[discrimination]], or antagonism directed against other people.
 

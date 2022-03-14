@@ -9,7 +9,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 ##### <s class="topic-title">[[quantum field theory]]</s>
 
-> [!wikipedia:[quantum field theory](https://en.wikipedia.org/wiki/Quantum%20field%20theory)]
+> [!wikipedia] [quantum field theory](https://en.wikipedia.org/wiki/Quantum%20field%20theory)
 > 
 > In [[theoretical physics]], quantum field theory (QFT) is a theoretical framework that combines [[classical field theory]], [[special relativity]] and [[quantum mechanics]].: xi  QFT is used in [[particle physics]] to construct physical models of subatomic particles and in condensed matter physics to construct models of quasiparticles.
 > 

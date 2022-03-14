@@ -9,7 +9,7 @@ tags: created/topic/2022/03/12, node/topic/term
 
 ##### <s class="topic-title">[[Lambda-CDM model]]</s>
 
-> [!wikipedia:[Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM%20model)]
+> [!wikipedia] [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM%20model)
 > 
 > The ΛCDM (Lambda cold [[dark matter]]) or Lambda-CDM model is a parameterization of [[the Big Bang]] cosmological model in which the [[universe]] contains three major components: first, a cosmological constant denoted by Lambda (Greek Λ) associated with [[dark energy]]; second, the postulated cold dark matter (abbreviated CDM); and third, ordinary [[matter]]. 
 > 

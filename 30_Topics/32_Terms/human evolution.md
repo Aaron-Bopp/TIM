@@ -14,7 +14,8 @@ sr-ease: 236
 
 This is a miraculous and complicated process that has been taking place for 300,000 years.
 
-> [!wikipedia:[human evolution](https://en.wikipedia.org/wiki/Human%20evolution)]
+
+> [!wikipedia] [human evolution](https://en.wikipedia.org/wiki/Human%20evolution)
 > 
 > Human evolution is the evolutionary process within the history of primates that led to the emergence of [[Homo sapiens]] as a distinct species of the hominid family, which includes the great apes. This process involved the gradual development of traits such as human bipedalism and [[language]], as well as interbreeding with other hominins, which indicate that human evolution was not linear but a web. 
 > 
@@ -53,14 +54,14 @@ Human's mastery of [[language]] is key to our abilities to understand each other
 Our ability to communicate subjective matter's like emotions and feelings allows us to understand eachother socially unlike any other species. This increases our ability to trust and also our ability to know when not to trust.
 ^[[[books_Sapiens#294248528q]]]
 
-##### Symbolism
+##### [[Symbolism]]
 
 [[Communication]] continues to lead the way as we start to construct symbols to more easily to transfer [[information]] to new generations. 
 ^[[[books_Sapiens#294248530q]]]
 
 [[Social order is built off of a shared belief in an imagined reality]]
 
-##### Social control
+##### [[Social control]]
 
 > ![[books_Sapiens#294248529q]]
 

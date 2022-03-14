@@ -11,7 +11,7 @@ sr-ease: 236
 
 ##### <s class="topic-title">[[internet]]</s>
 
-> [!wikipedia:[internet](https://en.wikipedia.org/wiki/Internet)]
+> [!wikipedia] [internet](https://en.wikipedia.org/wiki/Internet)
 > 
 > The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.
 > 

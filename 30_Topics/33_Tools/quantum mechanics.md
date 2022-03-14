@@ -9,7 +9,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 ##### <s class="topic-title">[[quantum mechanics]]</s>
 
-> [!wikipedia:[quantum mechanics](https://en.wikipedia.org/wiki/Quantum%20mechanics)]
+> [!wikipedia] [quantum mechanics](https://en.wikipedia.org/wiki/Quantum%20mechanics)
 > 
 > Quantum mechanics is a fundamental theory in [[physics]] that provides a description of the physical properties of nature at the scale of [[atoms]] and [[subatomic particles]].: 1.1  It is the foundation of all quantum physics including [[quantum chemistry]], [[quantum field theory]], [[quantum technology]], and [[quantum information science]].
 > 

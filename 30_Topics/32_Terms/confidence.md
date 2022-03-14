@@ -12,7 +12,7 @@ sr-ease: 219
 
 ##### <s class="topic-title">[[confidence]]</s>
 
-> [!wikipedia:[confidence](https://en.wikipedia.org/wiki/Confidence)]
+> [!wikipedia] [confidence](https://en.wikipedia.org/wiki/Confidence)
 > 
 > Confidence is a state of being clear-headed either that a hypothesis or prediction is correct or that a chosen course of action is the best or most effective. [[Arrogance]] is the state of having unmerited confidence—believing something or someone is correct or capable when evidence or reasons for this belief are lacking. Overconfidence or presumptuousness is excessive [[belief]] in someone (or something) succeeding, without any regard for failure. Confidence can be a self-fulfilling prophecy as those without it may fail or not try because they lack it and those with it may succeed because they have it rather than because of an innate ability.
 > ^[[[Confidence is a feedback loop]]]

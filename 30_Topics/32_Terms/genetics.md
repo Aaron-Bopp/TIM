@@ -9,7 +9,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 ##### <s class="topic-title">[[genetics]]</s>
 
-> [!wikipedia:[genetics](https://en.wikipedia.org/wiki/Genetics)]
+> [!wikipedia] [genetics](https://en.wikipedia.org/wiki/Genetics)
 > 
 > Genetics is a branch of [[Biology]] concerned with the study of genes, genetic variation, and heredity in organisms. 
 > 

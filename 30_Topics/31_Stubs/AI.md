@@ -9,7 +9,7 @@ tags: created/topic/2021/11/10, node/topic/outline
 
 ##### <s class="topic-title">[[AI]]</s>
 
-> [!wikipedia:[AI](https://en.wikipedia.org/wiki/Artificial%20intelligence)]
+> [!wikipedia] [AI](https://en.wikipedia.org/wiki/Artificial%20intelligence)
 > 
 > Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals including humans.
 > 

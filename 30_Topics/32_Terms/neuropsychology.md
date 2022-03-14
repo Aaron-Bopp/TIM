@@ -9,7 +9,7 @@ tags: created/topic/2022/03/14, node/topic/term
 
 ##### <s class="topic-title">[[neuropsychology]]</s>
 
-> [!wikipedia:[neuropsychology](https://en.wikipedia.org/wiki/Neuropsychology)]
+> [!wikipedia] [neuropsychology](https://en.wikipedia.org/wiki/Neuropsychology)
 > 
 > Neuropsychology is a branch of [[psychology]]. It is concerned with how a person's [[cognition]] and [[behavior]] are related to the [[brain]] and the rest of the [[nervous system]]. Professionals in this branch of psychology often focus on how injuries or illnesses of the brain affect cognitive and behavioral functions.
 > 

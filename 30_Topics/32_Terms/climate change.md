@@ -12,7 +12,7 @@ sr-ease: 237
 
 ##### <s class="topic-title">[[climate change]]</s>
 
-> [!wikipedia:[climate change](https://en.wikipedia.org/wiki/Climate%20change)]
+> [!wikipedia] [climate change](https://en.wikipedia.org/wiki/Climate%20change)
 > 
 > Contemporary climate change includes both [[global warming]] and its impacts on Earth's weather patterns. The current changes are caused by the emission of [[greenhouse gases]], mostly carbon dioxide (CO2) and methane. 
 > 

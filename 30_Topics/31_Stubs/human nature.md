@@ -9,7 +9,7 @@ tags: created/topic/2022/02/12, node/topic/stub
 
 ##### <s class="topic-title">[[human nature]]</s>
 
-> [!wikipedia:[human nature](https://en.wikipedia.org/wiki/Human%20nature)]
+> [!wikipedia] [human nature](https://en.wikipedia.org/wiki/Human%20nature)
 > 
 > Human nature is a concept that denotes the fundamental dispositions and characteristics—including ways of thinking, feeling, and acting—that humans are said to have naturally.
 > 

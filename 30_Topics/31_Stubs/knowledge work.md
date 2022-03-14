@@ -14,7 +14,7 @@ sr-ease: 198
 
  ![images/xkcd 435.png](https://publish-01.obsidian.md/access/a123d22b592fefc92a5bad12101593ec/images/xkcd%20435.png)
 
-> [!wikipedia:[knowledge work](https://en.wikipedia.org/wiki/Knowledge%20worker)]
+> [!wikipedia] [knowledge work](https://en.wikipedia.org/wiki/Knowledge%20worker)
 > 
 > Knowledge workers are workers whose main [[capital]] is [[knowledge]]. Examples include programmers, physicians, pharmacists, architects, engineers, scientists, design thinkers, public accountants, lawyers, editors, and academics, whose job is to "think for a living".
 

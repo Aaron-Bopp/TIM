@@ -9,7 +9,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 ##### <s class="topic-title">[[reciprocal altruism]]</s>
 
-> [!wikipedia:[reciprocal altruism](https://en.wikipedia.org/wiki/Reciprocal%20altruism)]
+> [!wikipedia] [reciprocal altruism](https://en.wikipedia.org/wiki/Reciprocal%20altruism)
 > 
 > In [[Evolutionary Biology]], reciprocal altruism is a [[behavior]] whereby an organism acts in a manner that temporarily reduces its fitness while increasing another organism's fitness, with the expectation that the other organism will act in a similar manner at a later time. 
 > 

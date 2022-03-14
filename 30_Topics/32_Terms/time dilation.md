@@ -9,7 +9,7 @@ tags: created/topic/2022/02/20, node/topic/term
 
 ##### <s class="topic-title">[[time dilation]]</s>
 
-> [!wikipedia:[time dilation](https://en.wikipedia.org/wiki/Time%20dilation)]
+> [!wikipedia] [time dilation](https://en.wikipedia.org/wiki/Time%20dilation)
 > 
 > In [[physics]] and [[general relativity]], time dilation is the difference in the elapsed time as measured by two clocks. It is either due to a relative velocity between them (special relativistic "kinetic" time dilation) or to a difference in gravitational potential between their locations (general relativistic gravitational time dilation). When unspecified, "time dilation" usually refers to the effect due to velocity.
 > 

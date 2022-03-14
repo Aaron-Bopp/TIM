@@ -9,7 +9,7 @@ tags: created/topic/2022/02/14, node/topic/term
 
 ##### <s class="topic-title">[[Zipf's Law]]</s>
 
-> [!wikipedia:[Zipf's Law](https://en.wikipedia.org/wiki/Zipf's%20law)]
+> [!wikipedia] [Zipf's Law](https://en.wikipedia.org/wiki/Zipf's%20law)
 > 
 > Zipf's law is an empirical law formulated using mathematical statistics that refers to the fact that for many types of data studied in the physical and social sciences, the rank-frequency distribution is an inverse relation. 
 > 

@@ -10,7 +10,7 @@ sr-ease: 226
 
 ##### <s class="topic-title">[[social justice]]</s>
 
-> [!wikipedia:[social justice](https://en.wikipedia.org/wiki/Social%20justice)]
+> [!wikipedia] [social justice](https://en.wikipedia.org/wiki/Social%20justice)
 > 
 > Social justice is [[justice]] in terms of the distribution of wealth, opportunities, and privileges within a society. In [[Western philosophy|Western]] as well as in [[eastern philosophy|older Asian cultures]], the concept of social justice has often referred to the process of ensuring that individuals fulfill their societal roles and receive what was their due from society. In the current movements for social justice, the emphasis has been on the breaking of barriers for [[social mobility]], the creation of [[safety nets]], and [[economic justice]]. 
 > 

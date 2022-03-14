@@ -12,7 +12,7 @@ sr-ease: 256
 
 ##### <s class="topic-title">[[Planck epoch]]</s>
 
-> [!wikipedia:[Planck epoch](https://en.wikipedia.org/wiki/Chronology%20of%20the%20universe)]
+> [!wikipedia] [Planck epoch](https://en.wikipedia.org/wiki/Chronology%20of%20the%20universe)
 > 
 > The chronology of the [[universe]] describes the history and future of the universe according to [[Big Bang cosmology]].
 > 

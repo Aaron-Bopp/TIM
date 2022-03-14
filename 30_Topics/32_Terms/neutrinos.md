@@ -9,7 +9,7 @@ tags: created/topic/2022/02/15, node/topic/term
 
 ##### <s class="topic-title">[[neutrinos]]</s>
 
-> [!wikipedia:[neutrinos](https://en.wikipedia.org/wiki/Neutrino)]
+> [!wikipedia] [neutrinos](https://en.wikipedia.org/wiki/Neutrino)
 > 
 > A neutrino is a fermion (an elementary particle with spin of 1/2) that interacts only via the weak interaction and [[gravity]]. The neutrino is so named because it is electrically neutral and because its rest mass is so small (-ino) that it was long thought to be zero. The rest mass of the neutrino is much smaller than that of the other known elementary particles excluding massless particles. The weak force has a very short range, the gravitational interaction is extremely weak, and neutrinos do not participate in the strong interaction.
 > 

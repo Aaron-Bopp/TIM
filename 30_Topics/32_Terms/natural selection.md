@@ -16,7 +16,7 @@ The process whereby organisms better adapted to their environment tend to surviv
 ^[[[lecture_Behavioral Evolution]]]
  
 
-> [!wikipedia:[natural selection](https://en.wikipedia.org/wiki/Natural%20selection)]
+> [!wikipedia] [natural selection](https://en.wikipedia.org/wiki/Natural%20selection)
 > 
 > Natural selection is the differential survival and reproduction of individuals due to differences in [[phenotype]]. It is a key mechanism of [[evolution]], the change in the heritable traits characteristic of a population over generations. 
 > 

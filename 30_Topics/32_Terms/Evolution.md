@@ -13,7 +13,7 @@ the process by which different kinds of living organism are believed to have dev
 
 > ![[books_Darwin's Cathedral#292550149q]]
 
-> [!wikipedia:[Evolution](https://en.wikipedia.org/wiki/Evolution)]
+> [!wikipedia] [Evolution](https://en.wikipedia.org/wiki/Evolution)
 > 
 > Evolution is change in the heritable characteristics of biological populations over successive generations. 
 > These characteristics are the expressions of genes that are passed on from parent to offspring during reproduction. Evolution occurs when evolutionary processes such as [[natural selection]] (including [[sexual selection]]) and genetic drift act on this variation, resulting in certain characteristics becoming more common or rare within a [[population]]. 

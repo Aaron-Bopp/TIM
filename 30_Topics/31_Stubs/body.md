@@ -12,7 +12,7 @@ sr-ease: 213
 
 #### <s class="topic-title">[[body]]</s> 
 
-> [!wikipedia:[human body](https://en.wikipedia.org/wiki/Human%20body)]
+> [!wikipedia] [human body](https://en.wikipedia.org/wiki/Human%20body)
 > 
 > The human body is the structure of a human being. It is composed of many different types of cells that together create tissues and subsequently organ systems. They ensure homeostasis and the viability of the human body.
 > 

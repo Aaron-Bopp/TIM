@@ -9,7 +9,7 @@ tags: created/topic/2022/03/13, node/topic/term
 
 ##### <s class="topic-title">[[inclusive fitness]]</s>
 
-> [!wikipedia:[inclusive fitness](https://en.wikipedia.org/wiki/Inclusive%20fitness)]
+> [!wikipedia] [inclusive fitness](https://en.wikipedia.org/wiki/Inclusive%20fitness)
 > 
 > In [[evolutionary biology]], inclusive fitness is one of two metrics of evolutionary success as defined by W. D. Hamilton in 1964:
 > 

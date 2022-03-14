@@ -12,7 +12,7 @@ sr-ease: 270
 
 ##### <s class="topic-title">[[behavior]]</s>
 
-> [!wikipedia:[behavior](https://en.wikipedia.org/wiki/Behavior)]
+> [!wikipedia] [behavior](https://en.wikipedia.org/wiki/Behavior)
 > 
 > Behavior is the range of actions and mannerisms made by individuals, organisms, systems or artificial entities in within some environment. These systems can include other systems or organisms as well as the inanimate physical environment. It is the computed response of the system or organism to various stimuli or inputs, whether internal or external, [[conscious]] or [[subconscious]], overt or covert, and voluntary or involuntary. 
 >

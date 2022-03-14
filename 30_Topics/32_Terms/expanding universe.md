@@ -14,7 +14,7 @@ sr-ease: 275
 
 > ![[books_A Short History of Nearly Everything#283957204q]]
 
-> [!wikipedia:[expanding universe](https://en.wikipedia.org/wiki/Expansion%20of%20the%20universe)]
+> [!wikipedia] [expanding universe](https://en.wikipedia.org/wiki/Expansion%20of%20the%20universe)
 > 
 > The expansion of the universe is the intrinsic expansion whereby the scale of space itself changes. The [[universe]] does not expand "into" anything and does not require space to exist "outside" it. As the spatial part of the universe's spacetime metric increases in scale, objects become more distant from one another at ever-increasing speeds. To any observer in the universe, it appears that all of space is expanding, and that all but the nearest galaxies (which are bound by [[gravity]]) recede at speeds that are proportional to their distance from the observer. While objects within space cannot travel faster than light, this limitation does not apply to the effects of changes in the metric itself. Objects that recede beyond the cosmic event horizon will eventually become unobservable, as no new light from them will be capable of overcoming the universe's expansion, limiting the size of our observable universe.
 > 

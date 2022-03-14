@@ -9,7 +9,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 ##### <s class="topic-title">[[cosmological constant]]</s>
 
-> [!wikipedia:[cosmological constant](https://en.wikipedia.org/wiki/Cosmological%20constant)]
+> [!wikipedia] [cosmological constant](https://en.wikipedia.org/wiki/Cosmological%20constant)
 > 
 > In [[cosmology]], the cosmological constant (usually denoted by the Greek capital letter lambda: Λ), alternatively called [[Einstein]]'s cosmological constant, is the constant coefficient of a term Albert Einstein temporarily added to his field equations of [[general relativity]].  He later removed it.  Much later it was revived and reinterpreted as the energy density of space, or vacuum energy, that arises in [[quantum mechanics]]. It is closely associated with the concept of [[dark energy]]. 
 > 

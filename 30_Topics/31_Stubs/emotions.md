@@ -12,7 +12,7 @@ sr-ease: NaN
 
 ##### <s class="topic-title">[[emotions]]</s>
 
-> [!wikipedia:[emotions](https://en.wikipedia.org/wiki/Emotion)]
+> [!wikipedia] [emotions](https://en.wikipedia.org/wiki/Emotion)
 > 
 > Emotions are psychological states brought on by neurophysiological changes, variously associated with thoughts, feelings, behavioural responses, and a degree of pleasure or displeasure. There is currently no scientific consensus on a definition. Emotions are often intertwined with mood, temperament, personality, disposition, or creativity. Research on emotion has increased over the past two decades with many fields contributing including [[psychology]], [[medicine]], [[history]], sociology of emotions, and [[computer science]]. The numerous theories that attempt to explain the origin, function and other aspects of emotions have fostered more intense research on this topic. 
 >

@@ -9,7 +9,7 @@ tags: created/topic/2022/03/05, node/topic/term
 
 ##### <s class="topic-title">[[game theory]]</s>
 
-> [!wikipedia:[game theory](https://en.wikipedia.org/wiki/Game%20theory)]
+> [!wikipedia] [game theory](https://en.wikipedia.org/wiki/Game%20theory)
 > 
 > Game theory is the study of mathematical models of strategic interactions among rational agents. It has applications in all fields of social science, as well as in logic, systems science and computer science. Originally, it addressed two-person zero-sum games, in which each participant's gains or losses are exactly balanced by those of other participants. In the 21st century, game theory applies to a wide range of behavioral relations; it is now an umbrella term for the science of logical decision making in humans, animals, as well as computers.
 > 

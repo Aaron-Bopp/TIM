@@ -14,7 +14,7 @@ sr-ease: 247
 
 the way in which something is regarded, understood, or interpreted. 
 
-> [!wikipedia:[perception](https://en.wikipedia.org/wiki/Perception)]
+> [!wikipedia] [perception](https://en.wikipedia.org/wiki/Perception)
 > 
 > Perception (from the Latin perceptio, meaning gathering or receiving) is the organization, identification, and interpretation of sensory [[information]] in order to represent and understand the presented information or environment. All perception involves signals that go through the [[nervous system]], which in turn result from physical or chemical stimulation of the [[sensory system]]. For example, vision involves light striking the retina of the eye; smell is mediated by odor molecules; and hearing involves pressure waves. 
 > 

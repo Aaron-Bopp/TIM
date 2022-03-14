@@ -12,7 +12,7 @@ sr-ease: 224
 
 ##### <s class="topic-title">[[social control]]</s>
 
-> [!wikipedia:[social control](https://en.wikipedia.org/wiki/Social%20control)]
+> [!wikipedia] [social control](https://en.wikipedia.org/wiki/Social%20control)
 > 
 > Social control is a concept within the disciplines of the social sciences. Social control is described as a certain set of rules and standards in [[society]] that keep individuals bound to conventional standards as well as to the use of formalized mechanisms. The disciplinary model was the forerunner to the control model.
 >

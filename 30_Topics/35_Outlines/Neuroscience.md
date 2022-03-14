@@ -12,7 +12,7 @@ sr-ease: 306
 
 ##### <s class="topic-title">[[Neuroscience]]</s>
 
-> [!wikipedia:[Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)]
+> [!wikipedia] [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
 > 
 > Neuroscience is the scientific study of the nervous system. It is a multidisciplinary science that combines [[physiology]], [[anatomy]], [[molecular biology]], [[developmental biology]], cytology, [[computer science]] and mathematical modeling to understand the fundamental and emergent properties of [[neurons]], glia and neural circuits. The understanding of the biological basis of learning, [[memory]], [[behavior]], [[perception]], and [[conscious|consciousness]] has been described by Eric Kandel as the "epic challenge" of the biological sciences. The scope of neuroscience has broadened over time to include different approaches used to study the nervous system at different scales. The techniques used by neuroscientists have expanded enormously, from molecular and cellular studies of individual neurons to imaging of sensory, motor and cognitive tasks in the brain.
 

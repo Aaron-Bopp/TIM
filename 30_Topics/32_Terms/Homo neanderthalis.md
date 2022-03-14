@@ -9,7 +9,7 @@ tags: created/topic/2022/03/12, node/topic/term
 
 ##### <s class="topic-title">[[Homo neanderthalis]]</s>
 
-> [!wikipedia:[Homo neanderthalis](https://en.wikipedia.org/wiki/Neanderthal)]
+> [!wikipedia] [Homo neanderthalis](https://en.wikipedia.org/wiki/Neanderthal)
 > 
 > Neanderthals are an extinct species or subspecies of archaic humans who lived in [[Eurasia]] until about [[40,000 years ago]]. While the cause of their extinction remains “highly contested,” demographic factors like small population size, inbreeding, and random fluctuations are considered likely factors.  Other scholars have proposed competitive replacement, assimilation into the modern human genome (bred into extinction), great climatic change, disease, or a combination of these factors. 
 > 

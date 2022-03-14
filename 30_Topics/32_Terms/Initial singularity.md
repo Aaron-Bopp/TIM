@@ -14,7 +14,7 @@ sr-ease: 289
 
 The unavoidable impossibility at the beginning of the [[universe]] that we cannot avoid. This theory is a result of observing [[cosmic microwave background radiation]] and reverse-engineering the state of the universe all the way back to [[the Big Bang]].
 
-> [!wikipedia:[Initial singularity](https://en.wikipedia.org/wiki/Initial%20singularity)]
+> [!wikipedia] [Initial singularity](https://en.wikipedia.org/wiki/Initial%20singularity)
 > 
 > The initial singularity is a singularity predicted by some models of [[the Big Bang]] theory to have existed before the Big Bang and thought to have contained all the energy and [[spacetime]] of the [[Universe]]. The instant immediately following the initial singularity is part of the [[Planck epoch]], the earliest period of time in the history of our [[universe]].
 >

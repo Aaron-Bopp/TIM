@@ -10,7 +10,7 @@ sr-ease: 250
 
 ##### <s class="topic-title">[[America]]</s>
 
-> [!wikipedia:[America](https://en.wikipedia.org/wiki/United%20States)]
+> [!wikipedia] [America](https://en.wikipedia.org/wiki/United%20States)
 > 
 > 
 >

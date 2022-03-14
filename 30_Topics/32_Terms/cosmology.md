@@ -12,7 +12,7 @@ sr-ease: 280
 
 ##### <s class="topic-title">[[cosmology]]</s>
 
-> [!wikipedia:[cosmology](https://en.wikipedia.org/wiki/Cosmology)]
+> [!wikipedia] [cosmology](https://en.wikipedia.org/wiki/Cosmology)
 > 
 > Cosmology is a branch of [[metaphysics]] dealing with the nature of the [[universe]]. 
 > 

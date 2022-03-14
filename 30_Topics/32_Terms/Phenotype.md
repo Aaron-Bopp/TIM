@@ -11,7 +11,7 @@ tags: created/topic/2022/01/15, node/topic/term
 
 **[Phenotype](https://en.wikipedia.org/wiki/Phenotype)**: The observable primary and secondary sexual characteristics (genitals, fat and muscle distribution, bone structure, etc)
 
-> [!wikipedia:[Phenotype](https://en.wikipedia.org/wiki/Phenotype)]
+> [!wikipedia] [Phenotype](https://en.wikipedia.org/wiki/Phenotype)
 > 
 > In [[genetics]], the phenotype is the set of observable characteristics or traits of an organism. The term covers the organism's  morphology or physical form and structure, its  developmental processes, its biochemical and physiological properties, its [[behavior]], and the products of behavior. 
 > 

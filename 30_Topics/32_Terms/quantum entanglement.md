@@ -9,7 +9,7 @@ tags: created/topic/2022/03/11, node/topic/term
 
 ##### <s class="topic-title">[[quantum entanglement]]</s>
 
-> [!wikipedia:[quantum entanglement](https://en.wikipedia.org/wiki/Quantum%20entanglement)]
+> [!wikipedia] [quantum entanglement](https://en.wikipedia.org/wiki/Quantum%20entanglement)
 > 
 > Quantum entanglement is a physical phenomenon that occurs when a group of particles are generated, interact, or share spatial proximity in a way such that the quantum state of each particle of the group cannot be described independently of the state of the others, including when the particles are separated by a large distance.  The topic of quantum entanglement is at the heart of the disparity between classical and [[quantum physics]]: entanglement is a primary feature of [[quantum mechanics]] lacking in [[classical mechanics]].
 > 

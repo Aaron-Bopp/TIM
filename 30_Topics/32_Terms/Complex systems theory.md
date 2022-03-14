@@ -9,7 +9,7 @@ tags: created/topic/2022/03/13, node/topic/term
 
 ##### <s class="topic-title">[[Complex systems theory]]</s>
 
-> [!wikipedia:[Complex systems theory](https://en.wikipedia.org/wiki/Complex%20system)]
+> [!wikipedia] [Complex systems theory](https://en.wikipedia.org/wiki/Complex%20system)
 > 
 > A complex system is a system composed of many components which may interact with each other. Examples of complex systems are Earth's global climate, organisms, the human brain, infrastructure such as power grid, transportation or communication systems, complex software and electronic systems, social and economic organizations (like cities), an ecosystem, a living cell, and ultimately the entire universe.
 > 

@@ -9,7 +9,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 ##### <s class="topic-title">[[Adelphic polyandry]]</s>
 
-> [!wikipedia:[Adelphic polyandry](https://en.wikipedia.org/wiki/Polyandry)]
+> [!wikipedia] [Adelphic polyandry](https://en.wikipedia.org/wiki/Polyandry)
 > 
 > Polyandry (; from Greek: πολυ- poly-, "many" and ἀνήρ anēr, "man") is a form of polygamy in which a woman takes two or more husbands at the same time. Polyandry is contrasted with polygyny, involving one male and two or more females. If a marriage involves a plural number of "husbands and wives" participants of each gender, then it can be called polygamy, group or conjoint marriage. In its broadest use, polyandry refers to sexual relations with multiple males within or without marriage.
 > 

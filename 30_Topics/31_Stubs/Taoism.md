@@ -9,7 +9,7 @@ tags: created/topic/2022/01/09, node/topic/stub
 
 ##### <s class="topic-title">[[Taoism]]</s>
 
-> [!wikipedia:[Taoism](https://en.wikipedia.org/wiki/Taoism)]
+> [!wikipedia] [Taoism](https://en.wikipedia.org/wiki/Taoism)
 > 
 > Taoism or Daoism refers to either a school of [[philosophy|philosophical]] thought or to a [[religion]]; both share ideas and concepts of Chinese origin and emphasize living in harmony with the Tao (Chinese: 道; pinyin: Dào; lit. 'Way', 'Thoroughfare' or Dao). The Tao Te Ching, a book containing teachings attributed to Lao Tzu (老子; Lǎozǐ; Lao³ Tzŭ³), together with the later writings of Zhuangzi, are both widely considered the keystone works of Taoism.
 > 

@@ -9,7 +9,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 ##### <s class="topic-title">[[founder effect]]</s>
 
-> [!wikipedia:[founder effect](https://en.wikipedia.org/wiki/Founder%20effect)]
+> [!wikipedia] [founder effect](https://en.wikipedia.org/wiki/Founder%20effect)
 > 
 > In population genetics, the founder effect is the loss of genetic variation that occurs when a new population is established by a very small number of individuals from a larger [[population]]. As a result of the loss of genetic variation, the new population may be distinctively different, both genotypically and phenotypically, from the parent population from which it is derived. In extreme cases, the founder effect is thought to lead to the speciation and subsequent evolution of new species. 
 

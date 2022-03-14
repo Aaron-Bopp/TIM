@@ -14,7 +14,7 @@ sr-ease: 270
 
 **[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically defined chromosomal kareotype of an organism (XX, XY, [and all variants there of](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
 
-> [!wikipedia:[Genotype](https://en.wikipedia.org/wiki/Genotype)]
+> [!wikipedia] [Genotype](https://en.wikipedia.org/wiki/Genotype)
 > 
 > The genotype of an organism is its complete set of genetic material. Genotype can also be used to refer to the alleles or variants an individual carries in a particular gene or genetic location. The number of alleles an individual can have in a specific gene depends on the number of copies of each chromosome found in that species, also referred to as ploidy. In diploid species like humans, two full sets of chromosomes are present, meaning each individual has two alleles for any given gene. If both [[alleles]] are the same, the genotype is referred to as homozygous. If the alleles are different, the genotype is referred to as heterozygous.
 > 

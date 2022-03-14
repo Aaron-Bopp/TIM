@@ -9,7 +9,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 ##### <s class="topic-title">[[dark matter]]</s>
 
-> [!wikipedia:[dark matter](https://en.wikipedia.org/wiki/Dark%20matter)]
+> [!wikipedia] [dark matter](https://en.wikipedia.org/wiki/Dark%20matter)
 > 
 > Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the [[universe]]. Various astrophysical observations — including gravitational effects that accepted theories of [[gravity]] cannot explain unless more matter is present than can be seen — imply dark matter's presence.
 > 

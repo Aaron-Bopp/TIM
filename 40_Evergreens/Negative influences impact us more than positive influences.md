@@ -17,6 +17,7 @@ This is true especially in [[childhood]], because we [[We carry our childhood wo
 > 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/DVCpKfedfok?start=762" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 There may be a root in [[Evolutionary Psychology]]
 or it could be more related to [[Our brain will do anything it can to protect itself]].
 Either way, negative influences root their selves in our [[insecurity|insecurities]] and [[We value our biggest insecurities because they protect us from the biggest threats]]. Valuing a negative [[influence]] more than a positive one could mean we are more prepared against negative outcomes.

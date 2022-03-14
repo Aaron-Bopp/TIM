@@ -9,7 +9,7 @@ tags: created/topic/2022/03/12, node/topic/term
 
 ##### <s class="topic-title">[[Homo erectus]]</s>
 
-> [!wikipedia:[Homo erectus](https://en.wikipedia.org/wiki/Homo%20erectus)]
+> [!wikipedia] [Homo erectus](https://en.wikipedia.org/wiki/Homo%20erectus)
 > 
 > Homo erectus (meaning "upright man") is an extinct species of archaic human from the [[Pleistocene]], with its earliest occurrence about 2 million years ago, and its specimens are among the first recognizable members of the genus Homo. 
 > 

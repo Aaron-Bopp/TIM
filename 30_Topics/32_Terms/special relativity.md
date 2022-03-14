@@ -9,7 +9,7 @@ tags: created/topic/2022/03/11, node/topic/term
 
 ##### <s class="topic-title">[[special relativity]]</s>
 
-> [!wikipedia:[special relativity](https://en.wikipedia.org/wiki/Special%20relativity)]
+> [!wikipedia] [special relativity](https://en.wikipedia.org/wiki/Special%20relativity)
 > 
 > In [[physics]], the special theory of relativity, or special relativity for short, is a scientific theory regarding the relationship between space and time. In Albert [[Einstein]]'s original treatment, the theory is based on two postulates:
 > 

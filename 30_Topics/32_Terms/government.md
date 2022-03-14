@@ -10,7 +10,7 @@ sr-ease: NaN
 
 ##### <s class="topic-title">[[government]]</s>
 
-> [!wikipedia:[government](https://en.wikipedia.org/wiki/Government)]
+> [!wikipedia] [government](https://en.wikipedia.org/wiki/Government)
 > 
 > A government is the system or group of people governing an organized [[community]], generally a state.
 > 

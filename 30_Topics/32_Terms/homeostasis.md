@@ -9,7 +9,7 @@ tags: created/topic/2022/03/12, node/topic/term
 
 ##### <s class="topic-title">[[homeostasis]]</s>
 
-> [!wikipedia:[homeostasis](https://en.wikipedia.org/wiki/Homeostasis)]
+> [!wikipedia] [homeostasis](https://en.wikipedia.org/wiki/Homeostasis)
 > 
 > In [[Biology]], homeostasis is the state of steady internal, physical, and chemical conditions maintained by living systems. This is the condition of optimal functioning for the organism and includes many variables, such as body temperature and fluid balance, being kept within certain pre-set limits (homeostatic range). Other variables include the pH of extracellular fluid, the concentrations of sodium, potassium and calcium ions, as well as that of the blood sugar level, and these need to be regulated despite changes in the environment, diet, or level of activity. Each of these variables is controlled by one or more regulators or homeostatic mechanisms, which together maintain life.
 > 

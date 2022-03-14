@@ -9,7 +9,7 @@ tags: created/topic/2022/02/10, node/topic/term
 
 ##### <s class="topic-title">[[spandrel]]</s>
 
-> [!wikipedia:[spandrel](https://en.wikipedia.org/wiki/Spandrel)]
+> [!wikipedia] [spandrel](https://en.wikipedia.org/wiki/Spandrel)
 > 
 > A spandrel is a roughly triangular space, usually found in pairs, between the top of an arch and a rectangular frame; between the tops of two adjacent arches or one of the four spaces between a circle within a square. They are frequently filled with decorative elements.
 >

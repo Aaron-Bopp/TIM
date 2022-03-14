@@ -13,7 +13,7 @@ sr-ease: 289
 #### <s class="topic-title">[[Standard Model]]</s> 
 
 > ![[books_A Short History of Nearly Everything#283957203q]]
-> [!wikipedia:[Standard Model](https://en.wikipedia.org/wiki/Standard%20Model)]
+> [!wikipedia] [Standard Model](https://en.wikipedia.org/wiki/Standard%20Model)
 > 
 > The Standard Model of particle physics is the theory describing three of the four known fundamental forces (the electromagnetic, weak, and strong interactions, while omitting gravity) in the universe, as well as classifying all known elementary particles. 
 > 

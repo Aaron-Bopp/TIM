@@ -7,7 +7,7 @@ tags: created/topic/2021/08/12, node/topic/outline
 
 ##### <s class="topic-title">[[Psychology]]</s>
 
-> [!wikipedia:[Psychology](https://en.wikipedia.org/wiki/Psychology)]
+> [!wikipedia] [Psychology](https://en.wikipedia.org/wiki/Psychology)
 > 
 > Psychology is the scientific study of [[mind]] and [[behavior]]. Psychology includes the study of conscious and unconscious phenomena, including feelings and thoughts. It is an academic discipline of immense scope, crossing the boundaries between the natural and social sciences. Psychologists seek an understanding of the emergent properties of brains, linking the discipline to [[neuroscience]]. 
 >

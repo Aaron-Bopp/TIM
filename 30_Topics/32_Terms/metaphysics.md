@@ -12,7 +12,7 @@ sr-ease: 259
 
 ##### <s class="topic-title">[[metaphysics]]</s>
 
-> [!wikipedia:[metaphysics](https://en.wikipedia.org/wiki/Metaphysics)]
+> [!wikipedia] [metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
 > 
 > Metaphysics is the branch of [[philosophy]] that studies the fundamental nature of [[reality]], the first principles of being, identity and change, space and time, causality, necessity, and possibility.
 > It includes questions about the nature of [[conscious|consciousness]] and the relationship between mind and [[matter]], between substance and attribute, and between potentiality and actuality.

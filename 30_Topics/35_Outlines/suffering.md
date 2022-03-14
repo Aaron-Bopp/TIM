@@ -12,7 +12,7 @@ sr-ease: 250
 
 The state of undergoing pain, distress, or hardship.
 
-> [!wikipedia:[suffering](https://en.wikipedia.org/wiki/Suffering)]
+> [!wikipedia] [suffering](https://en.wikipedia.org/wiki/Suffering)
 > 
 > Suffering, or pain in a broad sense, may be an experience of unpleasantness and aversion associated with the [[perception]] of harm or threat of harm in an individual. Suffering is the basic element that makes up the negative valence of affective phenomena. The opposite of suffering is pleasure or happiness.
 > 

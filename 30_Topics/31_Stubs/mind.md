@@ -9,7 +9,7 @@ tags: node/topic/stub
 
 ##### <s class="topic-title">[[mind]]</s>
 
-> [!wikipedia:[mind](https://en.wikipedia.org/wiki/Mind)]
+> [!wikipedia] [mind](https://en.wikipedia.org/wiki/Mind)
 > 
 > The mind is the set of faculties responsible or associated with mental phenomena which include thought, imagination, [[memory]], will and sensation and are responsible for perception, pain experience, [[belief]], [[desire]], [[intention]] and [[emotions]].
 >

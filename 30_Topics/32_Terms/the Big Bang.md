@@ -18,7 +18,7 @@ The Big Bang theory is the prevailing cosmological model explaining the existenc
  > 
 > <cite>[[books_A Short History of Nearly Everything#283957201q|A Short History of Nearly Everything by Bill Bryson]]</cite>
 
-> [!wikipedia:[the Big Bang](https://en.wikipedia.org/wiki/Big%20Bang)]
+> [!wikipedia] [the Big Bang](https://en.wikipedia.org/wiki/Big%20Bang)
 > The basis of this theory is the observation that the farther away a galaxy is from us, the faster it is moving, leading to the idea of an [[expanding universe]].
 > Extrapolation of the expansion of the universe backwards in time using [[general relativity]] yields an [[infinite]] density and temperature at a *finite* time in the past, where the laws of [[physics]] in regular [[spacetime]] breakdown.
 > This irregular behavior, known as the [[gravitational singularity]], indicates that general relativity is not an adequate description of the laws of physics in this regime. 

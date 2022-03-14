@@ -11,7 +11,7 @@ tags: created/topic/2022/02/16, node/topic/term
 
 
 
-> [!wikipedia:[Doppler Effect](https://en.wikipedia.org/wiki/Doppler%20effect)]
+> [!wikipedia] [Doppler Effect](https://en.wikipedia.org/wiki/Doppler%20effect)
 > 
 > The Doppler effect or Doppler shift (or simply Doppler, when in context) is the change in frequency of a wave in relation to an observer who is moving relative to the wave source. It is named after the Austrian physicist Christian Doppler, who described the phenomenon in 1842.
 > 

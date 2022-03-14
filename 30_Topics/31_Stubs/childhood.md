@@ -12,7 +12,7 @@ sr-ease: 194
 
 ##### <s class="topic-title">[[childhood]]</s>
 
-> [!wikipedia:[childhood](https://en.wikipedia.org/wiki/Child)]
+> [!wikipedia] [childhood](https://en.wikipedia.org/wiki/Child)
 > 
 > Biologically, a child (plural children) is a human being between the stages of birth and puberty, or between the developmental period of infancy and puberty. 
 

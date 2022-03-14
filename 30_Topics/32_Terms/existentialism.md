@@ -11,7 +11,7 @@ tags: created/topic/2022/03/05, node/topic/term
 
 A [[philosophy]] built around our collective feeling of [[existential dread]] and it's origin's.
 
-> [!wikipedia:[existentialism](https://en.wikipedia.org/wiki/Existentialism)]
+> [!wikipedia] [existentialism](https://en.wikipedia.org/wiki/Existentialism)
 > 
 > Existentialism is a form of philosophical inquiry that explores the problem of human existence and centers on the experience of thinking, feeling, and acting. 
 > In the view of the existentialist, the individual's starting point has been called "the existential angst", a sense of dread, disorientation, confusion, or anxiety in the face of an apparently meaningless or absurd world. Existentialist thinkers frequently explore issues related to the meaning, purpose, and value of human existence.

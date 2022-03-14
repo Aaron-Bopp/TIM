@@ -9,7 +9,7 @@ tags: created/topic/2022/03/13, node/topic/term
 
 ##### <s class="topic-title">[[library science]]</s>
 
-> [!wikipedia:[library science](https://en.wikipedia.org/wiki/Library%20science)]
+> [!wikipedia] [library science](https://en.wikipedia.org/wiki/Library%20science)
 > 
 > Library science (often termed library studies, bibliothecography, and library economy) is an interdisciplinary or multidisciplinary field that applies the practices, perspectives, and tools of management, [[information technology]], [[education]], and other areas to libraries; the collection, organization, preservation, and dissemination of information resources; and the political economy of information. 
 > 
