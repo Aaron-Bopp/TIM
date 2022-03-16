@@ -20,7 +20,6 @@ sr-ease: 219
 > The concept of self-confidence is commonly defined as self-assurance in one's personal judgment, ability, power, etc. One's self-confidence increases as a result of experiences of having satisfactorily completed particular activities. 
 >
 
-
 **See**:: [[self-improvement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
