@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/03, review, node/evergreen/principle
-sr-due: 2022-03-14
-sr-interval: 17
+sr-due: 2022-04-23
+sr-interval: 38
 sr-ease: 210
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 210
 This idea is reflected in [[eastern philosophy]] through [[Ashram]].
 [[Ashram]] describes fours stage of life, 
 and in only one of those, [[Vanaprastha Ashram]],  do you actually focus on helping other people. 
-This matches a [[Do what you can for who you can]] especially when you contrasted with [[Western philosophy]]'s focus on individual sacrifice. 
+This matches a [[Do what you can for who you can]] attitude, especially when you contrasted with [[Western philosophy]]'s focus on individual sacrifice. 
 
 - contrasts:: [[Be the change you want to see in the world]]
 - follows up:: [[Humans have decided to reject an unjust world]]

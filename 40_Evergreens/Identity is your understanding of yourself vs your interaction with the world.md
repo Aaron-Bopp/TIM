@@ -1,17 +1,17 @@
 ---
 created: 2021-06-27
 edited: 
-tags: created/evergreen/2021/06/27, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 37
-sr-ease: 175
 aliases:
   - Identity is a sense of self not a pattern of traits or behavior
+tags: created/evergreen/2021/06/27, review, node/evergreen/claim
+sr-due: 2022-05-21
+sr-interval: 66
+sr-ease: 175
 ---
 
 #### [[Identity is your understanding of yourself vs your interaction with the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-At the core of your [[identity]] is how you view yourself ([[self-image]]) vs how you understand the world's views you ([[self-perception]]).
+At the core of your [[identity]] is how you view yourself ([[self-image]]) vs how you understand the world's view of you ([[self-perception]]).
 If you have a weak [[self-image]] then how the world views you will completely win, resulting in little to no sense of [[self]]
 e.g. [[Self-hatred is born out of dissonance between self-image and self-perception]].
 

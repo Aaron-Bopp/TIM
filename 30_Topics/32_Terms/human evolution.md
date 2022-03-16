@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/10, review, node/topic/outline
-sr-due: 2022-03-14
-sr-interval: 2
+sr-due: 2022-03-23
+sr-interval: 7
 sr-ease: 236
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -14,6 +14,8 @@ sr-ease: 236
 
 This is a miraculous and complicated process that has been taking place for 300,000 years.
 
+**See**:: [[Evolution]], [[Evolutionary Psychology]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 > [!wikipedia] [human evolution](https://en.wikipedia.org/wiki/Human%20evolution)
 > 
@@ -25,8 +27,6 @@ This is a miraculous and complicated process that has been taking place for 300,
 
 
 
-**See**:: [[Evolution]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### Our family
 

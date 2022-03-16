@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/13, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 1
+sr-due: 2022-03-20
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -21,7 +21,7 @@ I think
 
 > ![[books_Darwin's Cathedral#^292936698]]
 
-think of the mind as an immune system
+think of the mind as an [[immune system]]: [[The immune system is adaptive]]
 
 > ![[books_Darwin's Cathedral#^292936692]]
 

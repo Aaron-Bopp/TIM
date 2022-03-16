@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/10, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 3
-sr-ease: 230
+sr-due: 2022-03-22
+sr-interval: 6
+sr-ease: 210
 ---
 
 #### [[Humans have had little time to adjust to being the top predator]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

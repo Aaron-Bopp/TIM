@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/source/2022/03/10, review, node/source/notes
-sr-due: 2022-03-14
-sr-interval: 2
+sr-due: 2022-03-22
+sr-interval: 6
 sr-ease: 236
 ---
 

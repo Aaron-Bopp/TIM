@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/10, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 3
+sr-due: 2022-03-22
+sr-interval: 6
 sr-ease: 230
 ---
 
@@ -18,7 +18,7 @@ This very important as the high nutrition of bone marrow likely allowed us grow 
 Similarly:: [[Cooking allowed prehistoric humans to spend less energy on digesting]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Evolution]], [[humanity]], [[human evolution]]

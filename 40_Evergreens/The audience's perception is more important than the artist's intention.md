@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/09, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 10
+sr-due: 2022-04-06
+sr-interval: 21
 sr-ease: 190
 ---
 
@@ -13,11 +13,13 @@ sr-ease: 190
 
 - [[There is a difference between thinking and creating]]
 - [[Communication provides the opportunity to shape other's perceptions]]
+- [[How to do an engaging lecture for kids and adults]]
+- [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
  
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[art]], [[perception]], [[intention]]
+**Topics**:: [[art]], [[perception]], [[intention]], [[media]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/14, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 1
+sr-due: 2022-03-21
+sr-interval: 5
 sr-ease: 230
 ---
 
@@ -14,7 +14,7 @@ sr-ease: 230
 [[Humans love to group eachother]]
 and I love to group myself with all humans.
 
-:)
+:)... you're a dumbass
 
 ### <hr class="footnote"/>
 

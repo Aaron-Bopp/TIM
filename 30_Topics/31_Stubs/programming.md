@@ -10,7 +10,7 @@ sr-ease: 231
 
 ##### <s class="topic-title">[[programming]]</s>
 
-#WIKI/FIND
+#WIKI/get
 
 
 **See**:: [[Software Development]], [[Computer Science]]

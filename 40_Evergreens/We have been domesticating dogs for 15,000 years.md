@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/10, review, node/evergreen/nugget
-sr-due: 2022-03-14
-sr-interval: 3
+sr-due: 2022-03-25
+sr-interval: 9
 sr-ease: 230
 ---
 
@@ -13,13 +13,12 @@ sr-ease: 230
 
 > ![[books_Sapiens#294931433q]]
 
-![[Pasted image 20220310171812.png]]
-
+> ![[Pasted image 20220310171812.png]] 
 > ![[books_Sapiens#294931434q]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[prehistory]], [[domestication]]
+**Topics**:: [[prehistory]], [[domestication]], [[dogs]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

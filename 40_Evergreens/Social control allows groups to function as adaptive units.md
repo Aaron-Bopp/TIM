@@ -4,12 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/13, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 1
+sr-due: 2022-03-20
+sr-interval: 4
 sr-ease: 210
 ---
 
-#### [[Social control allows group to function as adaptive units]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Social control allows groups to function as adaptive units]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This solves [[the fundamental problem of social life]]
 

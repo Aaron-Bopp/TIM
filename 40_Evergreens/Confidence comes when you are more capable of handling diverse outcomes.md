@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 22
+sr-due: 2022-04-24
+sr-interval: 39
 sr-ease: 170
 ---
 
@@ -15,9 +15,12 @@ sr-ease: 170
 
 This aspect of [[confidence]] makes it the 
 counter to:: [[anxiety]].
+%% #TO/TEND/WEED %%
+[[Anxiety stems from a lack of confidence for the future]] and
 [[Anxiety prevents us from living in the present]] by focusing on all the possible outcomes of an event.
 This can be quite taxing when when we have to prepare for each of these scenarios,
 but if we are confident in our abilities to do so it will lessen our [[anxiety]].
+
 
 If your [[confidence]] is eroded in this area it can lead to [[depression]]:
 [[Depression is past focused, hopelessness is future focused]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 36
+sr-due: 2022-05-25
+sr-interval: 70
 sr-ease: 190
 ---
 
@@ -16,6 +16,7 @@ If a [[TIM]] is to truly augment our capability [[learning|to learn]], it must b
 2. [[evergreen notes]] are the methodology through which we organize and grow our knowledge
 3. [[Obsidian (software)]] is the conduit for doing this with the least [[friction]] possible
 
+#TO/TEND/GRAFT 
 - [[Evergreen notes organize knowledge so that it can grow]]
 	- [[We learn by transforming information into understanding]]
 		- [[A totally integrated machine should automate as much of the thinking process as possible]]

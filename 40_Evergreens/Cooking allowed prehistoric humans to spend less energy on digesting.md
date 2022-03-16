@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/10, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 3
+sr-due: 2022-03-26
+sr-interval: 10
 sr-ease: 230
 ---
 
@@ -17,8 +17,8 @@ In order to digest unprocessed plant and animal matter you need to have a long a
 Similarly:: [[Cracking bones and eating the marrow may have been human's first niche]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[humanity]], [[human evolution]]
+**Topics**:: [[humanity]], [[human evolution#The many keys to human evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

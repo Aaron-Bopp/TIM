@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/13, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 1
+sr-due: 2022-03-20
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -16,7 +16,7 @@ sr-ease: 210
 
 [[Functionally integrated social groups become organisms in their own right]] 
 and 
-[[Social control allows group to function as adaptive units]]
+[[Social control allows groups to function as adaptive units]]
 lead to this fact.
 If our cells are operating at a level of [[group selection]],
 then we are a the result of that.

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-03-14
-sr-interval: 35
+sr-due: 2022-05-31
+sr-interval: 76
 sr-ease: 210
 ---
 
@@ -14,6 +14,7 @@ sr-ease: 210
 If you are unsure what to even put in a [[second brain]], 
 [[When in doubt, write what you think]] and [[Write your notes like you're planting an evergreen forest]]
 
+#TO/TEND/GRAFT 
 - [[Nodes in the second brain are an abstraction of our first brain]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Densely linked webs of thought provide intuitive access to knowledge]] 

@@ -35,7 +35,7 @@ Wilson then starts to take stabs at [[kin selection]] and [[reciprocal altruism]
 This leads to the conclusions that
 [[There is a social element to genetic evolution]],
 [[Functionally integrated social groups become organisms in their own right]] and
-[[Social control allows group to function as adaptive units]]. 
+[[Social control allows groups to function as adaptive units]]. 
 
 All throughout this chapter Wilson starts to make reference to the relation of these [[Evolution|evolutionary]] concepts and religion, morality, and the [[human experience]]. 
 As he does this he starts to expand from [[group selection]] to [[Evolutionary Psychology]] and [[Cultural Evolution]].

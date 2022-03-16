@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/14, review, node/project
-sr-due: 2022-03-14
-sr-interval: 1
+sr-due: 2022-03-21
+sr-interval: 5
 sr-ease: 230
 ---
 
@@ -31,5 +31,5 @@ You actually didn't learn anything in school. That's not to say school didn't te
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[evergreen notes]], [[knowledge work]], [[learning]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -17,6 +17,7 @@ This is perhaps stealing in the best way possible: in order to create something 
 - works with:: [[There is a difference between thinking and creating]]
 - helpful for:: [[Your second brain should be an inspirational hub of creativity]]
 
+#TO/DO/FIND there is a book by this name i think
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
