@@ -38,6 +38,11 @@ While human foraging would never completely fade slowly [[farming]] would take o
 
 > ![[books_Sapiens#^296601915]]
 
+### The end of foraging
+
+> ![[books_Sapiens#^297681720]]
+
+
 %% DO NOT EDIT BELOW %%
 
 #### Related 

@@ -17,6 +17,8 @@ sr-ease: 230
 ---
 # 12 Types of Ancestor Worship From Around the World | Cake Blog
 
+^d5666b
+
 **Covers**:: 
 *`=this.highlight_tags`*
 

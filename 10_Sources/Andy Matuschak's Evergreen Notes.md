@@ -19,6 +19,10 @@ sr-ease: 250
 #### Links
 [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC) ^8d0b78
 
+[Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs) ^d938be
+
+[Many eminent thinkers need a writing surface to think](https://notes.andymatuschak.org/z5WDNZizsbAzE1p2BLwr339fV4TCpzNvaztP2) ^67fb4a
+
 #### Notes
 - [[evergreen notes]]s evolve, contribute, and accumulate over time/projects
 	- [[evergreen notes]]s support knowledge, transient notes don't
@@ -34,6 +38,7 @@ sr-ease: 250
 - > "define a new node extensionally (rather than intentionally) by simply linking to it from many other nodes—even before it has any content"  %% [[Stub notes are data structures for implicit knowledge gathering]]%% ^vscgpo
 
 - > "You need to be able to see the context around the backlink to understand what’s being implied." 
+
 ### [[spaced repetition]]
 - [Spaced repetition systems can be used to program attention](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
     - By removing [[friction]] around reviewing information we are taking advantage of otherwise unused attention.

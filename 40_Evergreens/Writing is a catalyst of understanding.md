@@ -14,7 +14,7 @@ sr-ease: 170
 Writing requires you to engage with the content on a higher level by introducing positive [[friction]]:
 [[Good friction causes the brain to engage]]
 
-- some people can't think unless they are writing #TO/DO/CITE  
+- some people can't think unless they are writing ![[Andy Matuschak's Evergreen Notes#^67fb4a]]/
 	- This is because [[Humans try really hard to avoid understanding their mistakes]], [[writing]] provides good friction that allows us to address our confusion
 - [[Often the best editing tool is time]] 
 	- this is how [[Evergreen notes help us bridge the gap between knowledge and understanding]]

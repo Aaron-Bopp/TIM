@@ -21,6 +21,7 @@ sr-ease: NaN
 > Understanding is often, though not always, related to [[learning]] concepts, and sometimes also the theory or theories associated with those concepts. However, a person may have a good ability to predict the [[behavior]] of an object, animal or system—and therefore may, in some sense, understand it—without necessarily being familiar with the concepts or theories associated with that object, animal, or system in their culture. They may have developed their own distinct concepts and theories, which may be equivalent, better or worse than the recognized standard concepts and theories of their culture. Thus, understanding is correlated with the ability to make inferences.
 >
 
+![[Andy Matuschak's Evergreen Notes#^d938be]]
 
 **See**:: [[metaphysics]], [[philosophy]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
