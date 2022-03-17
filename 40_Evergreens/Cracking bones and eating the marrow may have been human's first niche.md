@@ -21,5 +21,5 @@ Similarly:: [[Cooking allowed prehistoric humans to spend less energy on digesti
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolution]], [[humanity]], [[human evolution]]
+**Topics**:: [[humanity]], [[human evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

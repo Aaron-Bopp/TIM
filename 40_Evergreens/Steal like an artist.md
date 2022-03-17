@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/09, review, node/evergreen/saying
-sr-due: 2022-03-16
-sr-interval: 20
+sr-due: 2022-05-07
+sr-interval: 51
 sr-ease: 230
 ---
 
@@ -17,7 +17,7 @@ This is perhaps stealing in the best way possible: in order to create something 
 - works with:: [[There is a difference between thinking and creating]]
 - helpful for:: [[Your second brain should be an inspirational hub of creativity]]
 
-#TO/DO/FIND there is a book by this name i think
+#TO/DO/FIND there is a book by this name I think
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

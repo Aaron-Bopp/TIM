@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/22, review, node/evergreen/question 
-sr-due: 2022-03-16
-sr-interval: 13
-sr-ease: 130
+sr-due: 2022-04-19
+sr-interval: 33
+sr-ease: 150
 ---
 
 #### [[When should you forgive people who don't deserve it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -22,8 +22,7 @@ sr-ease: 130
 [[It's always worth it to work through trauma]], but there are downsides to having healed [[trauma]] that other people haven't, especially when those people are your siblings or grew up with you. We can [[sympathy|sympathize]] with our siblings in ways that other's can't, because [[We carry our childhood wounds into adulthood]].
 ^[Even if you are and your siblings are very different people, there are likely common elements to your stories because of you [[parents]]:
 [[Our authority figures curate and reinforce what we are allowed to imitate]]]
- But even when we know their just trying their hardest to move on, those people also have the greatest ability to hurt us when they refuse to admit that they might be wrong:
-[[It is valuable to admit that you might be wrong]]
+But even when we know they're just trying their hardest to move on, those people also have the greatest ability to hurt us when they [[It is valuable to admit that you might be wrong|refuse to admit that they might be wrong]].
 
 #TO/PONDER/IDEA are we supposed to forgive people who aren't ready to [[Accepting responsibility is not only about your actions]] i.e [[Should you forgive people that don't deserve it]]
 
@@ -31,7 +30,7 @@ There can be great value in getting space or cutting people off because [[Someti
 Sometimes it's accepting [[responsibility]] for the weight a loving people who don't deserve it:
 [[Accepting responsibility is not only about your actions]]
 
-[[The injustice of endurance]]
+conclusion:: [[The injustice of endurance]]
 
 ### <hr class="footnote"/>
 
