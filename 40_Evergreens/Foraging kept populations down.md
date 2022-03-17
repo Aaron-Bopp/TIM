@@ -14,11 +14,11 @@ sr-ease: 210
 > ![[books_Sapiens#^297301081]]
 
  - [[Foraging allowed for a diverse diet]]
- - [[human foraging#Foragers were less likely to get diseases]]
+ - [[foraging#Foragers were less likely to get diseases]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human foraging]], [[human advancement]]
+**Topics**:: [[foraging]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -18,5 +18,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human evolution]], [[human foraging]], [[diet]]
+**Topics**:: [[human evolution]], [[foraging]], [[diet]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

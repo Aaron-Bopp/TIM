@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/08/08, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-03-16
-sr-interval: 84
+sr-due: 2022-10-16
+sr-interval: 213
 sr-ease: 252
 ---
 
@@ -16,9 +16,10 @@ While [[Gender is a social construct]] it still has very real impact on our [[hu
 see [[Gender segregation increases gendered play]]. 
 
 #TO/WRITE anecdote for [[cis]] people to help the conceptualize their [[gender]] if they have not before
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[self]], [[human experience]], [[Gender self-socialization model]]

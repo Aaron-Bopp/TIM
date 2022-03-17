@@ -2,8 +2,8 @@
 created: 2021-06-11
 edited: 
 tags: created/evergreen/2021/06/11, review, node/evergreen/claim
-sr-due: 2022-03-16
-sr-interval: 51
+sr-due: 2022-07-23
+sr-interval: 128
 sr-ease: 248
 aliases:
   - "Sadness is not enlightenment and happiness is not delusion"
@@ -15,7 +15,7 @@ aliases:
 
 If a person internalizes the narrative that negative emotions are a sign of intelligence, it can warp their [[realism|realistic]] [[perception]] of the world, because [[Human's have an inability to admit that they are wrong]].
 
-Once a person has set up this belief that negative emotion is associated with intelligence, you can struggle to find [[happiness]] in bleak situations, and find it easy to find [[sadness]] in neutral situations. As your intelligence and [[knowledge]] of the world increases, you will find that the only "proper" reaction is increasing sadness. 
+Once a person has set up this belief that negative emotion is associated with intelligence, you can struggle to find [[happiness]] in normal situations, and find it easy to find [[sadness]] in good situations. As your intelligence and [[knowledge]] of the world increases, you will find that the only "proper" reaction is increasing sadness. 
 
 This way of living your life is [[subconscious|subconsciously]] attractive,
 because you will think your increasing sadness is a sign of your increasing intelligence, and that it is the only moral reaction the world we live in.

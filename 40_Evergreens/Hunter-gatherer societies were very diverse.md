@@ -21,5 +21,5 @@ sr-ease: 210
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human foraging]], [[social order]], [[prehistory]]
+**Topics**:: [[foraging]], [[social order]], [[prehistory]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

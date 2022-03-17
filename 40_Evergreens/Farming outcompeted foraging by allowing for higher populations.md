@@ -13,7 +13,7 @@ sr-ease: 210
 
 > ![[books_Sapiens#^297301079]]
 
-As early humans transitioned from [[human foraging]] to [[farming]], their overall quality of life went down not up. Plague's of infectious [[disease]] and starvation were unheard of in foraging times, partially because [[Foraging kept populations down]] and because [[Foraging allowed for a diverse diet]], but mainly because their were never enough people around for their deaths to classify as a plague.
+As early humans transitioned from [[foraging]] to [[farming]], their overall quality of life went down not up. Plague's of infectious [[disease]] and starvation were unheard of in foraging times, partially because [[Foraging kept populations down]] and because [[Foraging allowed for a diverse diet]], but mainly because their were never enough people around for their deaths to classify as a plague.
 
 In reality farming lead to a variety of problems. Injuries were common as the human body was not adapted to a life of tilling fields and hauling chaff.
 ^[[[books_Sapiens#^297301075]]]
@@ -33,5 +33,5 @@ part of:: [[Greater cooperation and communication has lead to the success of hum
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[farming]], [[human foraging]], [[human evolution]], [[society]], [[group selection]]
+**Topics**:: [[farming]], [[foraging]], [[human evolution]], [[society]], [[group selection]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

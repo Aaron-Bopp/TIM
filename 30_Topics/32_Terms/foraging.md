@@ -10,7 +10,7 @@ sr-ease: 200
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[human foraging]]</s>
+#### <s class="topic-title">[[foraging]]</s>
 
 This was a time period that encompassed much of [[prehistory]] and coincided [[human evolution]]. 
 
@@ -34,13 +34,6 @@ By 8500 BC the [[Middle East]] was peppered with small villages centered around 
 ^[[[books_Sapiens#^297301085]]]
 While human foraging would never completely fade slowly [[farming]] would take over as the dominant way of life.
 
-#### The darker side of foraging
-
-> ![[books_Sapiens#^296601915]]
-
-### The end of foraging
-
-> ![[books_Sapiens#^297681720]]
 
 
 %% DO NOT EDIT BELOW %%

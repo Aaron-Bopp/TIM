@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/05, review, node/topic/term
-sr-due: 2022-03-16
-sr-interval: 4
+sr-due: 2022-03-31
+sr-interval: 14
 sr-ease: 280
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -21,7 +21,7 @@ sr-ease: 280
 >
 
 
-**See**:: [[physics]], [[metaphysics]]
+**See**:: [[physics]], [[metaphysics]], [[the Big Bang]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

@@ -17,7 +17,7 @@ sr-ease: 236
 #### Key Concepts
 - [[Cognitive Revolution]]
 - [[human evolution]]
-- [[human foraging]]
+- [[foraging]]
 - [[Imagined reality]]
 
 #### Insights
@@ -49,7 +49,7 @@ This leads then to discussing [[Hunter-gatherer societies were very diverse]].
 
 > ![[books_Sapiens#294931431q]]
 
-Harari continues to discuss [[human foraging]], touching on 
+Harari continues to discuss [[foraging]], touching on 
 - [[Fishing villages are likely the most ancient human settlement]]
 - [[Graves of ancient mammoth-hunters were vastly decorated]]
 

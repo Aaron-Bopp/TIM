@@ -15,7 +15,7 @@ tags: created/topic/2022/03/11, review, node/topic/outline
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ### The origins of farming
-Many think that farming came as a unparalled insight, and that once [[hunter-gatherers]] learned the secrets of farming they never turned back, but this is far from true. The transition between [[human foraging]] and [[farming]] was nowhere near instant, and the ability to farm was not wholly new to foragers
+Many think that farming came as a unparalled insight, and that once [[hunter-gatherers]] learned the secrets of farming they never turned back, but this is far from true. The transition between [[foraging]] and [[farming]] was nowhere near instant, and the ability to farm was not wholly new to foragers
 > ![[books_Sapiens#^297301074]]
 
 Additionally, the decision to transition to farming was never really made. [[Farming outcompeted foraging by allowing for higher populations]], and [[Wheat domesticated humans]]

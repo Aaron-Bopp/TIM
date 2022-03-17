@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-03-16
-sr-interval: 34
+sr-due: 2022-05-22
+sr-interval: 66
 sr-ease: 190
 ---
 
@@ -14,11 +14,19 @@ sr-ease: 190
 [[Meditation]] can regulate the [[ANS]] by activating the [[Sympathetic Nervous System]] or [[Parasympathetic Nervous System]] to keep them in balance.
 ^[[[notes_Science of Meditation#Meditation helps us regulate our nervous system]]]
 
-These systems impact the entire [[mind-body complex]] which can get you out of your [[fight-or-flight response]], and many other things: [[Meditation improves mental, physical, and emotional health]]
+Part of this is from [[We can control our body through our breath]], as the breathing techniques of [[meditation]] can impact 
+the entire [[mind-body complex]].
+This can get you out of your [[fight-or-flight response]]
+and help reduce [[anxiety]].
 
-- [[Our brains are built around survival]] 
-	- [[Most anxiety isn't irrational it's just overcompensation]]
-		- You shouldn't be having to deal with [[Cortisol]] and [[Adrenaline]] just going to school and talking to people
+[[Anxiety is a defense-mechanism of the brain]], but
+you shouldn't be having to deal with [[Cortisol]] and [[Adrenaline]] just going to school and talking to people.
+[[Meditation helps us gain control over our emotions]]
+and so it helps 
+[[Anxiety should be a tool at your disposal not an impedance to your life|anxiety to be a tool at your disposal not an impedance to your life]].
+
+This is
+part of:: [[Meditation improves mental, physical, and emotional health]]
 
 ### <hr class="footnote"/>
 

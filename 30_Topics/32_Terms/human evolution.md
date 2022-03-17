@@ -70,7 +70,7 @@ Our ability to communicate subjective matter's like emotions and feelings allows
 
 Once these key traits were in place, adaptation and evolution would no longer be major players in [[human advancement]] and would instead take a backseat, providing the biological backdrop for [[human behavior]].  
 In turn study of [[human behavior]] past this point stratifies into everything that is known today, but most immediately leads to:
-- [[human foraging]]
+- [[foraging]]
 
 
 %% DO NOT EDIT BELOW %%
