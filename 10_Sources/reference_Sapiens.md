@@ -57,5 +57,5 @@ In the last part of this sections [[books_Sapiens#The Curtain of Silence]], Hara
 
 The section of part 1, *The Flood* mainly discusses [[Human caused extinction is prevalent]], but also touches on [[homo sapiens]] ingenuity allowed them to conquer [[Siberia]] more than the better adapted [[Homo neanderthalis]] had, allowed them to travel to [[Australia]], and the Americas (and then then annihilate many of the species there).
 
-### Part 2: The Agriculutural Revolution 
+### Part 2: The Agricultural Revolution 
 
