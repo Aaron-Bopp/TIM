@@ -248,7 +248,8 @@ class dv_funcs {
     mentionedIn(dv, page) {
         let mentions = this.pageMentions(dv, page)
         if (mentions) {
-            return `<s class="aside-in">*mentioned in ${mentions}*</s>`
+            return `*mentioned in ${mentions}*`
+            // return `<s class="aside-in">*mentioned in ${mentions}*</s>`
         }
     }
 

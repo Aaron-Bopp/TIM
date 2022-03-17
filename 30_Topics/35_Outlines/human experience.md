@@ -7,6 +7,12 @@ date modified: Saturday, October 2nd 2021, 3:45:32 pm
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 ##### <s class="topic-title">[[human experience]]</s>
+> [!wikipedia] [human experience](https://en.wikipedia.org/wiki/Human%20condition)
+> 
+> The human condition is all of the characteristics and key events that compose the essentials of human existence, including birth, growth, emotion, aspiration, conflict, and mortality. This is a very broad topic which has been and continues to be pondered and analyzed from many perspectives, including those of anthropology, art, biology, history, literature, philosophy, psychology, and religion.
+> 
+> As a literary term, "the human condition" is typically used in the context of ambiguous subjects, such as the meaning of life or moral concerns.
+>
 
 > [[I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander]]
 > <cite> John Green </cite>

@@ -13,6 +13,10 @@ sr-ease: 130
 
 The original study that started the [[anti-vax]] movement has been rescinded by its author's, it has never been replicated, and had little support to begin with, yet it has spawned this movement.   #TO/DO/CITE 
 
+> [!wikipedia] [Autism](https://en.wikipedia.org/wiki/Autism)
+>
+> [[Autism]] has been hypothesized to be associated with a combination of genetic and environmental factors. Risk factors during pregnancy include certain infections, such as rubella, toxins including valproic acid, alcohol, cocaine, pesticides, lead, and air pollution, fetal growth restriction, and autoimmune diseases. Controversies surround other proposed environmental causes; for example, the vaccine hypothesis, which although disproven, continues to hold sway in certain communities. 
+
 The [[anti-vax]] movement absolutely exploded during the COVID-19 pandemic which only accelerated the [[Rise of Misinformation in America]]. See [What Is The Future For Vaccines (and Trust)? - YouTube](https://www.youtube.com/watch?v=5iABaxRWGxk)
 
 #TO/EXPLORE/RESEARCH other causes of this belief [[articles_COVID-19 and the Other Pandemic|COVID-19 and the Other Pandemic]]
