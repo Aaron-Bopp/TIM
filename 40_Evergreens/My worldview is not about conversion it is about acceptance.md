@@ -41,5 +41,5 @@ especially in the case of children: [[Religious concepts are often too powerful 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Christianity]], [[belief systems]], [[faith]], [[philosophy]], [[theology]], [[sympathy]], [[empathy]]
+**Topics**:: [[Christianity]], [[belief systems]], [[faith]], [[philosophy]]  
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

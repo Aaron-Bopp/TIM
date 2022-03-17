@@ -14,6 +14,13 @@ tags: created/topic/2021/07/21, node/topic/outline
 >
 > <cite>[[Dr. K]]</cite>
 
+> [!wikipedia] [self-actualization](https://en.wikipedia.org/wiki/Self-actualization)
+> 
+> Self-actualization, in Maslow's [[hierarchy of needs]], is the highest level of psychological development, where personal potential is fully realized after basic bodily and ego needs have been fulfilled.
+> 
+> Self-actualization was coined by the organismic theorist Kurt Goldstein for the motive to realize one's full potential: "the tendency to actualize itself as fully as possible is the basic drive ... the drive of self-actualization." Carl Rogers similarly wrote of "the curative force in [[psychotherapy]] – man's tendency to actualize himself, to become his potentialities ... to express and activate all the capacities of the organism."
+>
+
 **See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

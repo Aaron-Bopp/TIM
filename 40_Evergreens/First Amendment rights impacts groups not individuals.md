@@ -26,5 +26,5 @@ The most important time that these rights apply is for [[protests]], but that is
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[America]], [[Politics]], [[Civil Rights]], [[free-will]], [[the culture war]]
+**Topics**:: [[America]], [[Politics]], [[Civil Rights]], [[free will]], [[the culture war]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

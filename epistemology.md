@@ -18,7 +18,7 @@ tags: created/topic/2022/03/17, review, node/topic/term
 > 1. The philosophical analysis of the nature of knowledge and the conditions required for a belief to constitute knowledge, such as truth and justification
 > 2. Potential sources of [[knowledge]] and [[justified belief]], such as [[perception]], [[reason]], [[memory]], and [[testimony]]
 > 3. The structure of a body of knowledge or justified belief, including whether all justified beliefs must be derived from justified foundational beliefs or whether justification requires only a coherent set of beliefs
-> 4. [[Philosophical skepticism]], which questions the possibility of knowledge, and related problems, such as whether skepticism poses a threat to our ordinary knowledge claims and whether it is possible to refute skeptical arguments
+> 4. [[Philosophical skepticism]], which questions the possibility of knowledge, and related problems, such as whether [[skepticism]] poses a threat to our ordinary knowledge claims and whether it is possible to refute skeptical arguments
 > 
 > In these debates and others, epistemology aims to answer questions such as "What do we know?", "What does it mean to say that we know something?", "What makes justified beliefs justified?", and "How do we know that we know?".
 >

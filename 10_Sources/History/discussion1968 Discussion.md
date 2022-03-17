@@ -1,6 +1,6 @@
 - [ ] [Timeline of events - 1968](https://www.smithsonianmag.com/history/timeline-seismic-180967503/)
     - After a battle for the [[Vietnam|Vietnamese]] village of Ben Tre, an American officer tells Associated Press reporter Peter Arnett, "It became necessary to destroy the town in order to save it."
-    - Walter Cronkite, in a CBS-TV special on his recent tour of [[Vietnam]], says the U.S. [[war]] effort is “mired in stalemate” and amplifies public skepticism of the [[war]].
+    - Walter Cronkite, in a CBS-TV special on his recent tour of [[Vietnam]], says the U.S. [[war]] effort is “mired in stalemate” and amplifies public [[skepticism]] of the [[war]].
 - [ ] [Senator John Heinz History Center video:](https://www.youtube.com/watch?v=w2Pcwq6m-9s)
     -  1968 was a turbulent year. It was a year of fun and excitement. It was a year of tragedy, but it ended.
 - [x] [Timeline of events - 2020:](https://www.latimes.com/california/story/2020-12-18/what-a-year-it-was-a-2020-timeline)

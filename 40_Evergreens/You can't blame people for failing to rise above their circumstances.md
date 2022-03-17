@@ -12,7 +12,7 @@ sr-ease: 194
 #### [[You can't blame people for failing to rise above their circumstances]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Most humans will not rise above their situation.
-^[In fact, it could be said that no person does depending on your belief in [[free-will]]: 
+^[In fact, it could be said that no person does depending on your belief in [[free will]]: 
 [[Do we have free will]]]
 Modern [[America|American]] [[culture]] often blames people for not "pulling themselves up by their bootstraps." 
 This widespread belief is mainly due to [[propaganda]] that is spread about [[America]]'s superiority,

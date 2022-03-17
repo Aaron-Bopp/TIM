@@ -20,7 +20,7 @@ sr-ease: 250
 
 - [[karma]] of the [[soul]] [^1]
 	- the mental impressions the [[soul]] receives during life
-- [[karma]] is not fate because we possess [[free-will]], it is the cullmination of all our actions across lifetimes [^2]
+- [[karma]] is not fate because we possess [[free will]], it is the cullmination of all our actions across lifetimes [^2]
 	- if you inflict pain eventually that pain will come back to you even if in your next lifeline
 - [[Karma is based in the law of cause and effect]] [^3]
 - Penance is a pre-payment for negative [[karma]] [^4]
@@ -35,7 +35,7 @@ sr-ease: 250
 	- It has knowledge of inner states of [[conscious|consciousness]], [[Yoga]], [[meditation]], and tolerance for all [[religion]] [^11]
 
 [^1]: [[Karma]] is the law of action and reaction which governs life. The [[soul]] carries with it the mental impressions it received during its earthly life. These characteristics are collectively called the [[karma]] of the [[soul]]. [[Karma]] literally means “deed or act”, and more broadly describes the principle of cause and effect. 
-[^2]: [[Karma]] is not fate, for God endowed his children with the power to act with [[free-will|free will]]. Esoterically, [[karma]] refers to the totality of our actions and their concomitant reactions in this and all previous lives, all of which determine our future.
+[^2]: [[Karma]] is not fate, for God endowed his children with the power to act with [[free will|free will]]. Esoterically, [[karma]] refers to the totality of our actions and their concomitant reactions in this and all previous lives, all of which determine our future.
 
 [^3]: Yes! [[Karma]] is the law of action and reaction which governs life. The [[soul]] reaps the effects of its own actions. If we cause others to suffer, then the experience of [[suffering]] will come to us. If we [[love]] and give, we will be loved and given to. Thus does each [[soul]] create its own destiny through thought, feeling and action. [[Karma]] is a natural law of the mind, just as gravity is a law of matter.
 
