@@ -32,7 +32,7 @@ but
 [[Most anxiety isn't irrational it's just overcompensation]].
 If you can gain perspective and [[objectivity]] over your anxiety, 
 you can prevent the negative effects of
-[[Anxiety forces us to assume the worst]].
+[[Anxiety tries to make us assume the worst]].
 This is why [[detachment]] is so powerful for reducing [[anxiety]],
 it allows you to gain both of these things and break off your brain's connection to it's food source.
 ^[[[notes_Learned Anxiety]]]

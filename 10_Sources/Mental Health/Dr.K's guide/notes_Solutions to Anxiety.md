@@ -20,7 +20,7 @@ sr-ease: 250
 ## Notes
 
 - [[Anxiety prevents us from living in the present]]
-- [[Anxiety forces us to assume the worst]]
+- [[Anxiety tries to make us assume the worst]]
 - [[Your anxiety knows your insecurities better than you do]]
 - What does the [[mind]] do to deal with [[anxiety]]?
 	- distraction - temporally helpful but anxiety will come back

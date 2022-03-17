@@ -11,7 +11,15 @@ sr-ease: 190
 
 #### [[Our biology has not significantly changed for thousands of years]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-![[Evolutionary Psychology is just a framework not a prescription of behavior#^118a53]]
+
+[[Cultural evolution is not confined to the slow process of genetic evolution]] means that we are both incredibly different than our ancient ancestors and also incredibly the same. 
+The last 10,000 years
+that have included 99% of
+the development of the human [[social order]] 
+are miniscule in the time frame of [[human evolution]]. 
+The amount and kind of inputs in our environment are nothing like any other point in [[history]], 
+but our genetic environment is almost unchanged. 
+
 
 - [[Evolutionary Psychology is just a framework not a prescription of behavior]]
 - [[Biological processes can only give context to behavior not predict it]]

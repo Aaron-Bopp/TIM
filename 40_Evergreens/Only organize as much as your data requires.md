@@ -4,14 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/07, review, node/evergreen/claim
-sr-due: 2022-03-17
-sr-interval: 33
+sr-due: 2022-05-08
+sr-interval: 52
 sr-ease: 161
 ---
 
 #### [[Only organize as much as your data requires]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Organization systems are not mutually exclusive]], do not confine yourself to one [[systems for thought]]. When you start to feel [[friction]], trust that feeling: [[Friction is a hindrance to learning]]
+[[Organization systems are not mutually exclusive]], so don't confine yourself to one.
+When you start to feel [[friction]], trust that feeling: [[Friction is a hindrance to learning]]
 
 Over-organization will just lead to incorrect categorization: [[Prioritize organization over categorization]]
 

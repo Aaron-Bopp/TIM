@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/14, review, node/evergreen/claim
-sr-due: 2022-03-17
-sr-interval: 1
+sr-due: 2022-03-19
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -20,5 +20,5 @@ You are not free to leave America whenever you want you are not free to get a jo
 **Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[America]], [[history]]
+**Topics**:: [[America]], [[history]], [[social control]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

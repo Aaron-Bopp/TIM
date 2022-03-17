@@ -11,7 +11,10 @@ sr-ease: 170
 
 #### [[There is a limit to how much information you can process at once]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- [[How to deal with FOMO]]
+FOMO can be can create [[friction]] in [[learning]] and lead to [[The Collector's Fallacy]], which will eventually lead you being overwhelmed.
+[[There is a limit to how much information you can process at once]], so dealing with the [[fear]] of not being able to process all [[information]] you want to process is valuable: [[How to deal with FOMO]]
+
+#TO/TEND/GRAFT 
 - [[A healthy second brain requires a surplus of entry points]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
