@@ -32,7 +32,7 @@ Ways to alter our environment:
 
 #TO/TEND/GRAFT 
 - [[Anxiety prevents us from living in the present]]
-- [[Anxiety causes us to reject nuance]]
+- [[Anxiety forces us to assume the worst]]
 - [[Sometimes we can't grow until we change our environment]]
 - [[Insecure material conditions increase cognitive load and reduce outcomes]]
 

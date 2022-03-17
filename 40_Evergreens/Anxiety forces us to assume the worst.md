@@ -9,7 +9,7 @@ sr-interval: 21
 sr-ease: 170
 ---
 
-#### [[Anxiety causes us to reject nuance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Anxiety forces us to assume the worst]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Anxiety]] creates black and white thinking due to it's [[Neuroscience|neurological]] relation to the [[fight-or-flight response]].
 ^[[[notes_Anxiety 101]]]

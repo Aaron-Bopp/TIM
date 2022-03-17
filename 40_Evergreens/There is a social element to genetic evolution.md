@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-16
-sr-interval: 7
-sr-ease: 230
+sr-due: 2022-03-21
+sr-interval: 4
+sr-ease: 210
 ---
 
 #### [[There is a social element to genetic evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

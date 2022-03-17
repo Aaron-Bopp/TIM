@@ -63,7 +63,7 @@ sr-ease: 230
 				- faster than speed of thought
 				- collapses peripheral vision
 				- causes [[hyperfocus]] and black and white thought
-					- [[Anxiety causes us to reject nuance]]
+					- [[Anxiety forces us to assume the worst]]
 				- turns off logical parts of the brain in favor of [[fight-or-flight response]]
 				- causes [[Diaphoresis]] (causes us to sweat)
 			- [[Cortisol]]

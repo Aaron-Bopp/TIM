@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/15, review, node/evergreen/claim
-sr-due: 2022-03-17
-sr-interval: 18
+sr-due: 2022-04-28
+sr-interval: 42
 sr-ease: 230
 ---
 
@@ -17,10 +17,9 @@ Example:
 > ![[books_The Anthropocene Reviewed#287775024q]]
 - [[Names matter because they effect people's perception and understanding]]
 
-
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social order]], [[society]], [[hierarchy]], [[inequality]]

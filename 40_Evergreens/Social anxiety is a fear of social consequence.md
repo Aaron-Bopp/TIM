@@ -17,7 +17,7 @@ sr-ease: 150
 	- [[Anxiety stems from a lack of confidence for the future]]
 - [[Confidence is a feedback loop]]
 - [[Most anxiety isn't irrational it's just overcompensation]]
-- [[Anxiety causes us to reject nuance]]
+- [[Anxiety forces us to assume the worst]]
 - [[A secure identity is the best defense against social anxiety]]
 	- [[Identity is your understanding of yourself vs your interaction with the world]]
 - [[Increases in scrutiny lead to increases in anxiety]]

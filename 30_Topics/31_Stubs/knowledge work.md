@@ -3,9 +3,9 @@ created: 2021-12-02
 edited: 
 aliases:
   - null
-tags: created/topic/2021/12/02, review, node/topic/outline
-sr-due: 2022-03-17
-sr-interval: 4
+tags: created/topic/2021/12/02, node/topic/outline
+sr-due: 2022-03-27
+sr-interval: 10
 sr-ease: 198
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

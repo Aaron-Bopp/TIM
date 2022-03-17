@@ -57,7 +57,7 @@ sr-ease: 250
 		- even if the [[information]] doesn't produce more [[anxiety]] it builds the process of supporting that [[anxiety]] and if you develop more anxiety over time it's black and white thinking will cause you to start to overblow information to support your anxiety 
 			- addicted to [[anxiety]]
 	- trust is about having faith and not knowing 100% 
-		- [[Anxiety causes us to reject nuance]]
+		- [[Anxiety forces us to assume the worst]]
 - [[Thought Loops]]
 	- grappling and exhausting, unproductive
 	- always come back around to the same thought
