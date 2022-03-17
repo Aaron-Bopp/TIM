@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 24
+sr-due: 2022-05-03
+sr-interval: 48
 sr-ease: 190
 ---
 
@@ -18,6 +18,7 @@ sr-ease: 190
 - [[We carry our childhood wounds into adulthood]]
 - [[Children make wide assumptions about the world]]
  
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/11, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 2
+sr-due: 2022-03-21
+sr-interval: 5
 sr-ease: 210
 ---
 
@@ -19,6 +19,9 @@ Examples:: Australia and the Americas had many megafaunas and large creatures li
 
 - [[Greater cooperation and communication has lead to the success of humans as a species]]
 - [[Humans have had little time to adjust to being the top predator]]
+
+
+> ![[books_Sapiens#^297089489]]
 
 ### <hr class="footnote"/>
 

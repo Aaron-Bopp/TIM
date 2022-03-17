@@ -34,6 +34,10 @@ By 8500 BC the [[Middle East]] was peppered with small villages centered around 
 ^[[[books_Sapiens#^297301085]]]
 While human foraging would never completely fade slowly [[farming]] would take over as the dominant way of life.
 
+#### The darker side of foraging
+
+> ![[books_Sapiens#^296601915]]
+
 %% DO NOT EDIT BELOW %%
 
 #### Related 

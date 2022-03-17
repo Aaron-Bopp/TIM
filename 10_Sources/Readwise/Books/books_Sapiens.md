@@ -377,7 +377,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=896
 
 ###### ^296601907q
 
-Animism (from ‘anima’, ‘soul’ or ‘spirit’ in Latin) is the belief that almost every place, every animal, every plant and every natural phenomenon has awareness and feelings, and can communicate directly with humans. 
+[[Animism]] (from ‘anima’, ‘soul’ or ‘spirit’ in Latin) is the belief that almost every place, every animal, every plant and every natural phenomenon has awareness and feelings, and can communicate directly with humans. 
 
 ^296601907
 

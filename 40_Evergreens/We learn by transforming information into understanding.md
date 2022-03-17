@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 17
+sr-due: 2022-04-10
+sr-interval: 25
 sr-ease: 130
 ---
 
@@ -17,6 +17,7 @@ from: [[@hankgreen on Twitter|Hank Green]]
 #TO/PONDER/IDEA [[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]] 
 
 #TO/PONDER/IDEA [[Blooms taxonomy]]
+#TO/TEND/GRAFT 
 - [[We are confined to the tools of our time]]
 - [[Humans try really hard to avoid understanding their mistakes]]
 - [[Rationalizations are defense-mechanisms against strong emotions]]

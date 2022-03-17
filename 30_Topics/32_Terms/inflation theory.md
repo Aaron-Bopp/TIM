@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/02/07, review, node/topic/term
-sr-due: 2022-03-15
-sr-interval: 3
+sr-due: 2022-03-25
+sr-interval: 9
 sr-ease: 264
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

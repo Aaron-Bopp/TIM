@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/14, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 17
+sr-due: 2022-04-26
+sr-interval: 41
 sr-ease: 230
 ---
 
@@ -18,7 +18,7 @@ sr-ease: 230
 Even [[@hankgreen on Twitter|Hank Green]] made a video on it [You Don't Want a Gas Stovetop - YouTube](https://www.youtube.com/watch?v=Bcqah8U_uKA)
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Consumerism]], [[capitalism]], [[corporatism]]

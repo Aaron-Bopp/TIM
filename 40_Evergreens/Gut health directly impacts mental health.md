@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 2
+sr-due: 2022-03-22
+sr-interval: 6
 sr-ease: 210
 ---
 
@@ -23,7 +23,7 @@ Our understanding of this is that the [[bacteria]] in our [[gut]] are a vital pa
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[brain-gut axis]], [[mental health]], 

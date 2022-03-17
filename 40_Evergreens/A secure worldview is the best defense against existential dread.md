@@ -4,23 +4,25 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 2
+sr-due: 2022-03-20
+sr-interval: 4
 sr-ease: 190
 ---
 
 #### [[A secure worldview is the best defense against existential dread]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/TEND/GRAFT 
 - Counterpart to:: [[A secure identity is the best defense against social anxiety]]
 - [[Anxiety stems from a lack of confidence for the future]]
 - [[Most problems cannot be significantly understood through a single framework]]
 
+#TO/TEND/GRAFT 
 - [[Belief pulls you forward into life]]
 - [[Faith can be a useful tool for grounding yourself]]
 - [[Faith is an abstraction of cognitive dissonance]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[existential dread]], [[anxiety]], [[worldview]]

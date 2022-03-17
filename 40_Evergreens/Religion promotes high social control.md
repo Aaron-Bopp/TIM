@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 2
-sr-ease: 190
+sr-due: 2022-03-17
+sr-interval: 1
+sr-ease: 170
 ---
 
 #### [[Religion promotes high social control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

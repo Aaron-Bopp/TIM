@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 2
+sr-due: 2022-03-21
+sr-interval: 5
 sr-ease: 210
 ---
 
@@ -20,7 +20,7 @@ Another way that our [[body]] can effect our [[mood]] is through our [[brain-gut
 - [[Mental health is a reaction to one's environment]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[medicine]], [[treatment]], [[drugs]], [[herbs]]

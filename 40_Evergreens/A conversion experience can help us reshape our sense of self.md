@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/03, review, node/evergreen/claim
-sr-due: 2022-03-15
-sr-interval: 3
-sr-ease: 210
+sr-due: 2022-03-18
+sr-interval: 2
+sr-ease: 190
 ---
 
 #### [[A conversion experience can help us reshape our sense of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
