@@ -23,6 +23,8 @@ sr-ease: 250
 
 [Many eminent thinkers need a writing surface to think](https://notes.andymatuschak.org/z5WDNZizsbAzE1p2BLwr339fV4TCpzNvaztP2) ^67fb4a
 
+[Prefer associative ontologies to hierarchical taxonomies](https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy) ^0c8ef6
+
 #### Notes
 - [[evergreen notes]]s evolve, contribute, and accumulate over time/projects
 	- [[evergreen notes]]s support knowledge, transient notes don't
