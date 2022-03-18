@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/07, review, node/evergreen/claim
-sr-due: 2022-03-18
-sr-interval: 5
+sr-due: 2022-03-24
+sr-interval: 6
 sr-ease: 130
 ---
 
@@ -15,10 +15,11 @@ sr-ease: 130
 
 What is the nature of god? God is a social construction. God is our [[understanding]] of the things we cannot understand. 
 #TO/TEND/DEOBFUSCATE 
-[[Humans are addicted to believing]]
-[[Humans are drawn to the unknown and repelled by the known]]
-[[Humans transfer their wonder into creativity]]
+- [[Humans are addicted to believing]]
+- [[Humans are drawn to the unknown and repelled by the known]]
+- [[Humans transfer their wonder into creativity]]
 
+#TO/TEND/GRAFT 
 - [[The materialistic view of religions examines why humans invented and clung to religion]]
 - [[Humans are addicted to believing]]
 - [[Belief pulls you forward into life]]

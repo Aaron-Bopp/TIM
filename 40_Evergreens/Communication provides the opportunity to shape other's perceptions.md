@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/07, review, node/evergreen/claim
-sr-due: 2022-03-18
-sr-interval: 13
+sr-due: 2022-04-11
+sr-interval: 24
 sr-ease: 170
 ---
 
@@ -19,8 +19,8 @@ Shaping perceptions allows you to shape people's [[behavior]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[communication]], [[perception]]
+**Topics**:: [[communication]], [[perception]], [[human interaction]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

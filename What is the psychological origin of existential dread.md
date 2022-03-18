@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/18, review, node/evergreen/claim
-sr-due: 2022-03-18
-sr-interval: 1
+sr-due: 2022-03-20
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -13,12 +13,12 @@ sr-ease: 230
 
 
 
-#TO/PONDER/IDEA What is existential dread?
+#TO/PONDER/IDEA What is [[existential dread]]?
 
 Human's are not unfamiliar to feelings and [[emotions]] that they cannot explain:
 [[Human's will find explanations for inexplainable things]]
 
-Having a [[feeling of impending doom]] is a recognized symptom of medications like [[Adenosine]] and often precedes death. 
+Having a [[sense of impending doom]] is a recognized symptom of medications like [[Adenosine]] and often precedes death. 
 
 > ![[books_Darwin's Cathedral#294293306q]]
 

@@ -4,15 +4,16 @@ edited: 2022-01-23
 aliases:
   - null
 tags: created/evergreen/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-03-18
-sr-interval: 20
+sr-due: 2022-04-17
+sr-interval: 30
 sr-ease: 150
 ---
 
 #### [[Meditation regulates your hormones and stress physiology]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-20 minutes of [[meditation]] every day or every other day will impact your [[stress]] physiology through turning off your [[Hypothalamic Pituitary Adrenal (HPA) Axis]] which reduce stress inducing [[hormone]]s like [[Cortisol]]. This has a variety of positive impacts to your [[immune system]] and [[brain]].
+20 minutes of [[meditation]] every day or every other day will impact your [[stress]] physiology through turning off your [[Hypothalamic Pituitary Adrenal (HPA) Axis|Hypothalamic Pituitary Adrenal Axis]] which reduce stress inducing [[hormone]]s like [[Cortisol]]. This has a variety of positive impacts to your [[immune system]] and [[brain]].
 ^[[[notes_Science of Meditation]]]
+
 Our body will regularly produce [[hormone|hormones]] to produce a higher chance of survival.
 ^[[[Our brains are built around survival]]]
 Unfortunately, those [[hormone|hormones]] can lead to unneeded [[anxiety]], and are why [[Most anxiety isn't irrational it's just overcompensation]]
@@ -25,7 +26,7 @@ see:: [[Meditation helps us regulate our nervous system]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited January 23, 2022*
 
 **Topics**:: [[meditation]], [[hormone]], [[mental health]]

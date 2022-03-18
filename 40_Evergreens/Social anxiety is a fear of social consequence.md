@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/28, review, node/evergreen/claim
-sr-due: 2022-03-18
-sr-interval: 13
+sr-due: 2022-04-07
+sr-interval: 20
 sr-ease: 150
 ---
 
@@ -24,7 +24,7 @@ sr-ease: 150
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social anxiety]], [[inter-personal communication]], 

@@ -2,7 +2,7 @@
 created: 2021-12-29 
 edited: 
 aliases:
-  - null
+  - Hypothalamic Pituitary Adrenal Axis
 tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

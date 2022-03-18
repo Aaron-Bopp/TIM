@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-18
-sr-interval: 7
-sr-ease: 210
+sr-due: 2022-03-22
+sr-interval: 4
+sr-ease: 190
 ---
 
 #### [[Functionally integrated social groups become organisms in their own right]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

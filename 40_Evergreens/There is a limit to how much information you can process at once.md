@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/claim
-sr-due: 2022-03-18
-sr-interval: 6
+sr-due: 2022-03-29
+sr-interval: 11
 sr-ease: 170
 ---
 
@@ -23,7 +23,7 @@ FOMO can be can create [[friction]] in [[learning]] and lead to [[The Collector'
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[information]], [[productivity]]
