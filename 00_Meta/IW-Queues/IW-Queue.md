@@ -4,7 +4,7 @@ afactor: 2
 interval: 1
 ---
 | Link                                                                       | Priority | Notes | Interval |   Next Rep |
-| :------------------------------------------------------------------------- | -------: | :---- | -------: | ---------: |
+|:-------------------------------------------------------------------------- | --------:|:----- | --------:| ----------:|
 | [[People have been conditioned to believe the bible has to be infallible]] |       22 |       |        1 | 2022-03-01 |
 | [[Humans have decided to reject an unjust world]]                          |       24 |       |        1 | 2022-02-28 |
 | [[Anxiety is a defense-mechanism of the brain]]                            |       25 |       |        1 | 2022-03-15 |
@@ -18,3 +18,4 @@ interval: 1
 | [[We carry our childhood wounds into adulthood]]                           |       16 |       |        4 | 2022-03-18 |
 | [[Creationism built an anti-science culture]]                              |       28 |       |        1 | 2022-03-18 |
 | [[Organization systems are not mutually exclusive]]                        |       17 |       |        2 | 2022-03-18 |
+| [[Be the change you want to see in the world]]                             |          |       |          |            |

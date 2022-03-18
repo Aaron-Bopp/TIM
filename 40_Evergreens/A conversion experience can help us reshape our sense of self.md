@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/03, review, node/evergreen/claim
-sr-due: 2022-03-18
-sr-interval: 2
+sr-due: 2022-03-22
+sr-interval: 4
 sr-ease: 190
 ---
 
@@ -13,8 +13,8 @@ sr-ease: 190
 
 > ![[books_Darwin's Cathedral#293875897q]]
 
-- [[Belief pulls you forward into life]]
-- [[We carry our childhood wounds into adulthood]]
+- can lead to:: [[Belief pulls you forward into life]]
+- explains:: [[Religious concepts are often too powerful for a child's mind]]
 - in contrast to:: [[Meditation helps us detach negative attachments]]
 	- this is a fast process, not a slow process
 - part of:: [[The materialistic view of religions examines why humans invented and clung to religion]]

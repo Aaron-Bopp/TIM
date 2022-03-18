@@ -2,9 +2,9 @@
 created: 2021-06-15
 edited: 
 tags: created/evergreen/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-03-18
-sr-interval: 65
-sr-ease: 214
+sr-due: 2022-04-20
+sr-interval: 33
+sr-ease: 194
 ---
 
 #### [[Most anxiety isn't irrational it's just overcompensation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,6 +15,7 @@ People who say [[anxiety]] is irrational are just unaware of their surroundings,
 or they will answer to their fears but not understand where they come from: [[Our ego is our subconscious defense of our self]]
 %%
 
+#TO/TEND/MULCH 
 For the most part [[anxiety]] is a completely natural and normal [[Neuroscience|neurological]] reaction.
 [[Anxiety]] can either be a result of [[Our brains are built around survival]],
 which is [[Physiologic Anxiety]], 

@@ -14,10 +14,10 @@ sr-ease: 212
 > <cite>[[books_Darwin's Cathedral|Darwin's Cathedral by David Sloan Wilson]]</cite>
 
 [[Emotions motivate us to interact with the world around us]] as a result of [[Humans are a product of evolution]].
-Emotional responses are built into our [[Biology]] but are seen through the lense of our daily lives.
+Emotional responses are built into our [[biology]] but are seen through the lense of our daily lives.
 This is a logical approach as [[Biological processes can only give context to behavior not predict it]],
-but the our genetic context cannot be ignored.
-^[This may be seen as a controversial conclusion of [[Evolutionary Psychology]], there are many reasons why this is a valid framework: [[Evolutionary Psychology is just a framework not a prescription of behavior]]]
+but our genetic context cannot be ignored.
+^[This may be seen as a controversial conclusion of [[Evolutionary Psychology]], but this can be a valid [[framework]]: [[Evolutionary Psychology is just a framework not a prescription of behavior]]]
 
 What is [[existential dread]] other than a complex understanding our fear of death? 
 

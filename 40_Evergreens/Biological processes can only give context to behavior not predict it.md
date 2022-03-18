@@ -24,7 +24,7 @@ It is true that
 and that our [[Mental health is a reaction to one's environment]], 
 but neither of these can fully explain [[human behavior]], not even close.
 
-[[Evolutionary Psychology]] tries to understand [[human behavior]] through the framework of [[natural selection]] and [[Evolution]], 
+[[Evolutionary Psychology]] tries to understand [[human behavior]] through the [[framework]] of [[natural selection]] and [[Evolution]], 
 but [[Evolutionary Psychology is just a framework not a prescription of behavior]].
 
 [[David Sloan Wilson]] speaks in detail about this in his book [[books_Darwin's Cathedral|Darwin's Cathedral]]

@@ -19,7 +19,7 @@ Alas, [[Experts are often far too confident in the effectiveness of their theori
 and early flounderings have resulted in a somewhat skeptical view of [[Evolutionary Psychology]] today.
 If we acknowledge that
 [[Most problems cannot be significantly understood through a single framework]],
-and properly contrast this framework with others,
+and properly contrast this [[framework]] with others,
 we can attempt to use our [[understanding]] of [[human evolution]] effectively.
 
 > [!example]

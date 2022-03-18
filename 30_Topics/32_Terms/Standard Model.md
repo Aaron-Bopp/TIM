@@ -19,7 +19,7 @@ sr-ease: 289
 > 
 > Although the Standard Model is believed to be theoretically self-consistent and has demonstrated huge successes in providing experimental predictions, it leaves some phenomena unexplained and falls short of being a complete theory of fundamental interactions. The model does not contain any viable [[dark matter]] particle that possesses all of the required properties deduced from observational [[cosmology]]. 
 > 
-> The development of the Standard Model was driven by theoretical and experimental particle physicists alike. For theorists, the Standard Model is a paradigm of a [[quantum field theory]], which exhibits a wide range of phenomena including spontaneous symmetry breaking, anomalies and non-perturbative behavior. 
+> The development of the Standard Model was driven by theoretical and experimental particle physicists alike. For theorists, the Standard Model is a [[paradigm]] of a [[quantum field theory]], which exhibits a wide range of phenomena including spontaneous symmetry breaking, anomalies and non-perturbative behavior. 
 
 **See**:: [[the Big Bang]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
