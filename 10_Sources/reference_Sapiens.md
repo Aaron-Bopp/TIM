@@ -92,3 +92,12 @@ Harari list's three options:
  
 ^dd0325
 
+Harari quickly pauses to extoll the virtue of beurocracy
+- [[The first recorded name might have been an accountant]]
+
+Then stars examine ways that [[Oppressors invent reasoning for their oppression]]
+
+From [[Hammurabi's Code preserved hierarchy through deific justice]],
+to [[The caste system preserved hierarchy through purity]],
+we see that [[Theology preserves hierarchy through deific blessing]].
+

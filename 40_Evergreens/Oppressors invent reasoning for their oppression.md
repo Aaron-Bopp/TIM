@@ -18,8 +18,11 @@ Once you have made your way to the top of a [[social order]] you know have two m
 1. How do I maintain my spot at the top?
 2. [[What maintains our social order]]
 
-- [[The myth of human equality]]
+- [[Are humans equal]]
 
+
+
+> ![[books_Sapiens#^299110293]]
 
 
 

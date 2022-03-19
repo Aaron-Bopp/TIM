@@ -1,5 +1,5 @@
 ---
-created: 2022-03-19T13:24:44 
+created: 2022-03-19T14:31:09 
 edited: 
 aliases:
   - null
@@ -7,17 +7,13 @@ tags: created/topic/2022/03/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Hammurabi's code]]</s>
+##### <s class="topic-title">[[full script]]</s>
 
-> ![[books_Sapiens#^297681738]]
-
-> ![[books_Sapiens#^297681735]]
-
-
-> ![[books_Sapiens#^297681737]]
+Writing that aims to represent every idea that can be expressed in a given [[language]].
+^[[[books_Sapiens#^298648752]]]
 
 
-**See**::
+**See**:: [[partial script]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

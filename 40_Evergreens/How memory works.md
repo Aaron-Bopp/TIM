@@ -11,6 +11,9 @@ sr-ease: 210
 
 #### [[How memory works]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+
+> ![[books_Sapiens#^298648743]]
+
 [Visual explanation of the difference between short term and long term memory, and why active recall works so well](https://where-is-calypso.notion.site/Spaced-Repetition-5477dbbbc83d49fe933d83b919215255)
 Terms:: [[Forgetting Curve]], [[Active Recall]]
 

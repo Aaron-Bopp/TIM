@@ -11,6 +11,8 @@ sr-ease: 210
 
 #### [[Experts are often far too confident in the effectiveness of their theories]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+> ![[books_Sapiens#^299110287]]
+
 Many would say that [[Evolution]] is the greatest idea ever invented,
 due to the many complex systems it has described.
 [[Computer Science]] has revolutionized the world in ways we are still [[understanding]], 
