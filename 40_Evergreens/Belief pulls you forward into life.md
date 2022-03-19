@@ -11,6 +11,9 @@ sr-ease: 130
 
 #### [[Belief pulls you forward into life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+This is 
+enabled by:: [[Belief can motivate adaptation]]
+
 > ![[books_The Anthropocene Reviewed#288175131q]]
 
 #TO/TEND/GRAFT 
