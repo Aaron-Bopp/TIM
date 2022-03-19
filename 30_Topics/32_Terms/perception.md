@@ -4,8 +4,8 @@ edited:
 aliases:
   - perceive
 tags: created/topic/2021/10/18, review, node/topic/term
-sr-due: 2022-03-19
-sr-interval: 6
+sr-due: 2022-04-03
+sr-interval: 15
 sr-ease: 247
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-03-19
-sr-interval: 16
+sr-due: 2022-04-18
+sr-interval: 30
 sr-ease: 190
 ---
 
 #### [[Humans are addicted to believing]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Humans want to believe because [[Humans have decided to reject an unjust world]]. It is built into our core DNA to believe that certain things are true and certain things are false. We long for a security in our life so that we can [[progress]], so we turn to [[belief]]. 
+Humans want to believe because [[Humans have decided to reject an unjust world]]. It is built into our core [[DNA]] to believe that certain things are true and certain things are false. We long for a security in our life so that we can [[progress]], so we turn to [[belief]]. 
 To be clear, this thinking isn't wrong,
 the problem is when we pathologize this addiction and spread it as far as we can: [[Evangelicalism has commodified faith for profit]]
 
@@ -36,7 +36,7 @@ Example:: Me watching [[video_A brief history of quantom mechanics]]
 Example:: Me learning about [[The history of meditation is a mixture of science and spirituality]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[philosophy]], [[belief]], [[faith]], [[belief systems]]

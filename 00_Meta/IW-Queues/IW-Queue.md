@@ -19,3 +19,5 @@ interval: 1
 | [[Creationism built an anti-science culture]]                              |       28 |       |        1 | 2022-03-18 |
 | [[Organization systems are not mutually exclusive]]                        |       17 |       |        2 | 2022-03-18 |
 | [[Be the change you want to see in the world]]                             |          |       |          |            |
+| [[Your anxiety knows your insecurities better than you do]]                |          |       |          |            |
+| [[Humans are addicted to believing]]                                                                           |          |       |          |            |
