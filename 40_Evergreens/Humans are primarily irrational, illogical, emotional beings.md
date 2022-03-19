@@ -56,13 +56,20 @@ because [[Human's have an inability to admit that they are wrong]]
 
 ##### Humans are emotional
 
-#TO/TEND/CONNECT 
+From birth our [[emotions]] are the rulers of our lives. We are fed when we cry. We are encouraged when laugh, or walk, or talk. 
+[[Emotions motivate us to interact with the world around us]].
+Yet, our [[emotions]] so often lead us into folly.
+We say the wrong thing, or act the wrong way.
+We let our [[emotions]] get in the way of how we think we should act.
+
+In many ways, [[emotions]] are the thing that makes us unable to admit that we are wrong. 
+
 - [[Complex emotions are imperfect understandings of primal urges]]
 	- [[Mental health is a reaction to one's environment]]
 	- [[Rationalizations are defense-mechanisms against strong emotions]]
-- [[Emotions motivate us to interact with the world around us]]
 - [[Triggers are stored interactions that lead to strong emotional responses]]
 - [[We carry our childhood wounds into adulthood]]
+- [[Our brain actively inhibits us from processing repressed emotions]]
 
 ##### Humans are irrational
 
