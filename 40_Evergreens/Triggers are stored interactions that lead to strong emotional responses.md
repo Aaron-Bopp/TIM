@@ -13,6 +13,7 @@ sr-ease: 170
 
 Certain stimuli will bring you back to a certain moment.
 Even if the moment it brings back to you wasn't specifically traumatic, the dissonance between that moment and your current beliefs may be triggering of other emotional reactions.
+
 #TO/TEND/GRAFT 
 [[Samskara]]
 - [[Our brain actively inhibits us from processing repressed emotions]]

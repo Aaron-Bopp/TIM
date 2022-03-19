@@ -29,7 +29,7 @@ explain reality,
 and 
 explore the stars.
 
-Unfortunately, at their core these traits are illogical, emotional, and irrational, but they 
+At their core these traits are illogical, emotional, and irrational, but they 
 push us to survive beyond all odds, thus making them heavily reinforced by [[natural selection]]. This makes [[cognitive dissonance]] a fundamental part of being human.
 ^[[[Is cognitive dissonance fundamental to the human experience]]]
  Whether it is the [[belief]] that the creator exists, 
@@ -60,7 +60,9 @@ because [[Human's have an inability to admit that they are wrong]]
 - [[Complex emotions are imperfect understandings of primal urges]]
 	- [[Mental health is a reaction to one's environment]]
 	- [[Rationalizations are defense-mechanisms against strong emotions]]
-		
+- [[Emotions motivate us to interact with the world around us]]
+- [[Triggers are stored interactions that lead to strong emotional responses]]
+- [[We carry our childhood wounds into adulthood]]
 
 ##### Humans are irrational
 
