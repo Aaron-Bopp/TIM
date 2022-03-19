@@ -100,4 +100,3 @@ Then stars examine ways that [[Oppressors invent reasoning for their oppression]
 From [[Hammurabi's Code preserved hierarchy through deific justice]],
 to [[The caste system preserved hierarchy through purity]],
 we see that [[Theology preserves hierarchy through deific blessing]].
-
