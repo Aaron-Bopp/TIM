@@ -57,20 +57,25 @@ The section of part 1, *The Flood* mainly discusses [[Human caused extinction is
 
 Harari first starts by addressing why [[The Agricultural Revolution]] happened where it did and when. He dispels the myth that [[hunter-gatherers]] were cognitively incapable of [[farming]], but the story farming is actually far more interesting than the discovery of fire or the wheel.
 
-Many of the aspects that made [[foraging]] successful and stable for so long ended up being it's downfall.
-[[Foraging kept populations down]] because lower populations were all that were sustainable, and these lower populations kept foraging stable. 
-While [[Hunter-gathers were capable of mass cooperation]] like in the case of [[Gobekli Tepe]], this was not the everyday way of life. 
-[[Foraging allowed for a diverse diet]], and for a general ease of life by keeping groups separated into small enough groups that they could feed and govern themselves.
-
-The advent of farming was not a stroke of genius by any one human, it was a coincidence of one species taking advantage of another, meaning [[Wheat domesticated humans]].
-
-While humans were the ones manually spreading, planting, and harvesting wheat, it's effect on the human [[social order]] was out of any individuals control.
-[[Farming outcompeted foraging by allowing for higher populations]], meaning that over generations farming became an unavoidable way of life.
-Just as [[foraging]] was stable because of low populations, once farming allowed for higher populations there was no turning back.
+First, [[Farming prevented a return to foraging for early humans]],
+then, [[Farming outcompeted foraging by allowing for higher populations]],
+and finally [[Farming domesticated humans]]
 
 > ![[books_Sapiens#^297301085]]
 
-Harari does touch on some other possibilities for the rise of farming. Citing the likely more involved process of domesticating animals, and the previously covered ability for human's to cooperate, it is possible that there were individual human's that compared the life of foraging and farming and rationally chose, but the fact that the farming phenomena was independently born in multiple parts of the world points to the fact that it was an inevitability of human life.
+Harari does touch on some other possibilities for the rise of farming. Citing the likely more involved process of [[domestication|domesticating]] animals, and the previously covered ability for human's to cooperate, it is possible that there were individual human's that compared the life of foraging and farming and rationally chose, but the fact that the farming phenomena was independently born in multiple parts of the world points to the fact that it was an inevitability of human life.
+
+Either way, by 10,000 BC farming was the dominant way of life.
+
+> ![[books_Sapiens#^297681720]]
+
 
 Harari then starts to discuss the effect that farming had on the human psyche.
 
+> ![[books_Sapiens#^297681721]]
+
+[[When luxury becomes a necessity it is no longer a luxury]]
+[[The advent of farming lead to the advent of cognitive anxiety]]
+
+Harari credits this increase in anxiety to the advent of his next major concept, [[Imagined order]].
+^[[[books_Sapiens#^297681726]]]

@@ -22,11 +22,11 @@ As everyone was needed in the fields, mother spent less time nursing their child
 
 However, farming was able to overtake foraging as the main method of survival in just few millennia by capitalizing on [[Evolution]]. Simply by influencing humans to have more children, evolution was able to overcome the disadvantages of farming life.
 ^[[[books_Sapiens#^297301088]]]
+Additionally, because the transition to [[farming]] happened over generations, early humans were unable to make a rational choice between their previous life and new one, effectively
+meaning:: [[Farming prevented a return to foraging for early humans]]
 
-This was not the only evolutionary force acting on humans, as [[Wheat domesticated humans]].
-
-This is 
-part of:: [[Greater cooperation and communication has lead to the success of humans as a species]]
+This is
+part of:: [[Farming domesticated humans]].
 
 ### <hr class="footnote"/>
 

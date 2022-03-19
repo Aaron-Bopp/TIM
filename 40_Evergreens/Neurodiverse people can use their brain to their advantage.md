@@ -20,7 +20,7 @@ sr-ease: 210
 > <cite>[[@visakanv on Twitter|visakanv]]</cite>
 
 - [[Neurodivergent people cannot stop their brain from solving problems]]
-- [[Autism]]
+- [[Autism]] ^7ff162
     - [[Anxiety should be a tool at your disposal not an impedance to your life]]
         - [[Most anxiety isn't irrational it's just overcompensation]] and [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
     - [[Fear is the number one hindrance to trying]]

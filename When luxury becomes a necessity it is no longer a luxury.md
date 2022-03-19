@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[When luxury becomes a neccessity it is no longer a luxury]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[When luxury becomes a necessity it is no longer a luxury]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 > ![[books_Sapiens#^297301087]]

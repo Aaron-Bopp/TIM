@@ -9,7 +9,7 @@ sr-interval: 8
 sr-ease: 230
 ---
 
-#### [[Wheat domesticated humans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Farming domesticated humans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 > ![[books_Sapiens#^297301089]]
 > ![[books_Sapiens#^297301076]]

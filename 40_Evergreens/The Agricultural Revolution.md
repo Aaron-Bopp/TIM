@@ -12,7 +12,7 @@ tags: created/topic/2022/03/17, node/topic/term
 A widely used term for the transition from [[foraging]] to [[farming]] as the dominant mode of human life.
 
 Recently it has been pointed out that this was less of a "revolution" and more of a gradual process where [[Farming outcompeted foraging by allowing for higher populations]].
-Leading to the claim that really, [[Wheat domesticated humans]].
+Leading to the claim that really, [[Farming domesticated humans]].
 
 
 **See**:: [[hunter-gatherers]], [[prehistory]]
