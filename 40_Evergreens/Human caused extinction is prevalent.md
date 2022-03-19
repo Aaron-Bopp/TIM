@@ -20,6 +20,8 @@ Examples:: Australia and the Americas had many megafaunas and large creatures li
 - [[Greater cooperation and communication has lead to the success of humans as a species]]
 - [[Humans have had little time to adjust to being the top predator]]
 
+> ![[books_Sapiens#^299600341]]
+
 
 > ![[books_Sapiens#^297089489]]
 

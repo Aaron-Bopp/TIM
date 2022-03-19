@@ -1053,3 +1053,603 @@ in order to change an existing imagined order, we must first believe in an alter
 ^297681755
 
 #### 7 Memory Overload
+# New highlights added March 19, 2022 at 11:09 AM
+##### ^299600337
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=382  
+
+###### ^299600337q
+
+What, then, is so special about our language? The most common answer is that our language is amazingly supple. We can connect a limited number of sounds and signs to produce an infinite number of sentences, each with a distinct meaning. We can thereby ingest, store and communicate a prodigious amount of information about the surrounding world. 
+
+^299600337
+
+##### ^299600341
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1050  
+
+###### ^299600341q
+
+The moment the first hunter-gatherer set foot on an Australian beach was the moment that Homo sapiens climbed to the top rung in the food chain and became the deadliest species ever in the four-billion-year history of life on Earth. ... they encountered a strange universe of unknown creatures that included a 450-pound, six-foot kangaroo, and a marsupial lion, as massive as a modern tiger, that was the continent’s largest predator. Koalas far too big to be cuddly and cute rustled in the trees and flightless birds twice the size of ostriches sprinted on the plains. Dragon-like lizards and snakes seven feet long slithered through the undergrowth. The giant diprotodon, a two-and-a-half-ton wombat, roamed the forests. 
+
+^299600341
+
+##### ^298648741
+
+highlight_tags:: [[favorite]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1902  
+
+###### ^298648741q
+
+Because the Sapiens social order is imagined, humans cannot preserve the critical information for running it simply by making copies of their DNA and passing these on to their progeny. 
+
+^298648741
+
+##### ^298648742
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1909  
+
+###### ^298648742q
+
+Empires generate huge amounts of information. Beyond laws, empires have to keep accounts of transactions and taxes, inventories of military supplies and merchant vessels, and calendars of festivals and victories. 
+
+^298648742
+
+##### ^298648743
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1923  
+
+###### ^298648743q
+
+evolutionary pressures have adapted the human brain to store immense quantities of botanical, zoological, topographical and social information. But when particularly complex societies began to appear in the wake of the Agricultural Revolution, a completely new type of information became vital – numbers. Foragers 
+
+^298648743
+
+##### ^298648744
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1937  
+
+###### ^298648744q
+
+Between the years 3500 BC and 3000 BC, some unknown Sumerian geniuses invented a system for storing and processing information outside their brains, one that was custom-built to handle large amounts of mathematical data. The Sumerians thereby released their social order from the limitations of the human brain, opening the way for the appearance of cities, kingdoms and empires. The data-processing system invented by the Sumerians is called ‘writing’. 
+
+^298648744
+
+##### ^298648745
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1944  
+
+###### ^298648745q
+
+(The Sumerians used a combination of base-6 and base-10 numeral systems. Their base-6 system bestowed on us several important legacies, such as the division of the day into twenty-four hours and of the circle into 360 degrees.) 
+
+^298648745
+
+##### ^298648751
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1948  
+
+###### ^298648751q
+
+A clay tablet with an administrative text from the city of Uruk, c.3400–3000 BC. ‘Kushim’ may be the generic title of an officeholder, or the name of a particular individual. If Kushim was indeed a person, he may be the first individual in history whose name is known to us! ... When Kushim’s neighbours called out to him, they might really have shouted ‘Kushim!’ It is telling that the first recorded name in history belongs to an accountant, rather than a prophet, a poet or a great conqueror. 
+
+^298648751
+
+##### ^298648748
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1961  
+
+###### ^298648748q
+
+Alas, the first texts of history contain no philosophical insights, no poetry, legends, laws, or even royal triumphs. They are humdrum economic documents, recording the payment of taxes, the accumulation of debts and the ownership of property. 
+
+^298648748
+
+##### ^298648752
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1969  
+
+###### ^298648752q
+
+Full script is a system of material signs that can represent spoken language more or less completely. ... Partial script, on the other hand, is a system of material signs that can represent only particular types of information, belonging to a limited field of activity. 
+
+^298648752
+
+##### ^298672195
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1979  
+
+###### ^298672195q
+
+There were some cultures, such as those of the pre-Columbian Andes, which used only partial scripts throughout their entire histories, unfazed by their scripts’ limitations and feeling no need for a full version. ... it was written by tying knots on colourful cords called quipus. Each quipu consisted of many cords of different colours, made of wool or cotton. On each cord, several knots were tied in different places. A single quipu could contain hundreds of cords and thousands of knots. By combining different knots on different cords with different colours, it was possible to record large amounts of mathematical data relating to, for example, tax collection and property ownership. ... quipus were essential to the business of cities, kingdoms and empires.3 They reached their full potential under the Inca Empire, which ruled 10–12 million people and covered today’s Peru, Ecuador and Bolivia, as well as chunks of Chile, Argentina and Colombia. 
+
+^298672195
+
+##### ^299600342
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1990  
+
+###### ^299600342q
+
+quipus were so effective and accurate that in the early years following the Spanish conquest of South America, the Spaniards themselves employed quipus in the work of administering their new empire. ... The continent’s new rulers realised that this placed them in a tenuous position – the native quipu experts could easily mislead and cheat their overlords. So once Spain’s dominion was more firmly established, quipus were phased out and the new empire’s records were kept entirely in Latin script and numerals. Very few quipus survived the Spanish occupation, and most of those remaining are undecipherable, since, unfortunately, the art of reading quipus has been lost. 
+
+^299600342
+
+##### ^299110280
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1997  
+
+###### ^299110280q
+
+The Mesopotamians eventually started to want to write down things other than monotonous mathematical data. Between 3000 BC and 2500 BC more and more signs were added to the Sumerian system, gradually transforming it into a full script that we today call cuneiform. 
+
+^299110280
+
+##### ^299110281
+
+highlight_tags:: [[pink]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2007  
+
+###### ^299110281q
+
+tax registries and complex bureaucracies were born together 
+
+^299110281
+
+##### ^299110282
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2012  
+
+###### ^299110282q
+
+Exactly how the brain does it remains a mystery, but we all know that the brain’s retrieval system is amazingly efficient, except when you are trying to remember where you put your car keys. 
+
+^299110282
+
+##### ^299110283
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2031  
+
+###### ^299110283q
+
+What set apart Sumer, as well as pharaonic Egypt, ancient China and the Inca Empire, is that these cultures developed good techniques of archiving, cataloguing and retrieving written records. 
+
+^299110283
+
+##### ^299110284
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2054  
+
+###### ^299110284q
+
+As everyone from ancient times till today knows, clerks and accountants think in a non-human fashion. They think like filing cabinets. This is not their fault. If they don’t think that way their drawers will all get mixed up and they won’t be able to provide the services their government, company or organisation requires. 
+
+^299110284
+
+##### ^299110285
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2056  
+
+###### ^299110285q
+
+The most important impact of script on human history is precisely this: it has gradually changed the way humans think and view the world. 
+
+^299110285
+
+##### ^299110286
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2061  
+
+###### ^299110286q
+
+This partial script was composed of ten signs, representing the numbers from 0 to 9. Confusingly, these signs are known as Arabic numerals even though they were first invented by the Hindus 
+
+^299110286
+
+##### ^299110287
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2077  
+
+###### ^299110287q
+
+Experts do their best to translate even ideas such as ‘poverty’, ‘happiness’ and ‘honesty’ into numbers (‘the poverty line’, ‘subjective well-being levels’, ‘credit rating’). 
+
+^299110287
+
+#### 8 There is No Justice in History
+##### ^299110289
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2101  
+
+###### ^299110289q
+
+Many of those who signed the Declaration of Independence were slaveholders. They did not release their slaves upon signing the Declaration, nor did they consider themselves hypocrites. In their view, the rights of men had little to do with Negroes. 
+
+^299110289
+
+##### ^299110290
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2106  
+
+###### ^299110290q
+
+Liberty, too, carried very different connotations than it does today. In 1776, it did not mean that the disempowered (certainly not blacks or Indians or, God forbid, women) could gain and exercise power. It meant simply that the state could not, except in unusual circumstances, confiscate a citizen’s private property or tell him what to do with it. 
+
+^299110290
+
+##### ^299110291
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2108  
+
+###### ^299110291q
+
+The American order thereby upheld the hierarchy of wealth, which some thought was mandated by God and others viewed as representing the immutable laws of nature. 
+
+^299110291
+
+##### ^299110292
+
+highlight_tags:: [[pink]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2110  
+
+Big decision to address woman later  
+
+###### ^299110292q
+
+All the above-mentioned distinctions – between free persons and slaves, between whites and blacks, between rich and poor – are rooted in fictions. (The hierarchy of men and women will be discussed later.) 
+
+^299110292
+
+##### ^299110293
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2112  
+
+###### ^299110293q
+
+many people who have viewed the hierarchy of free persons and slaves as natural and correct have argued that slavery is not a human invention. Hammurabi saw it as ordained by the gods. Aristotle argued that slaves have a ‘slavish nature’ whereas free people have a ‘free nature’. 
+
+^299110293
+
+##### ^299110294
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2125  
+
+###### ^299110294q
+
+Hindus who adhere to the caste system believe that cosmic forces have made one caste superior to another. According to a famous Hindu creation myth, the gods fashioned the world out of the body of a primeval being, the Purusa. The sun was created from the Purusa’s eye, the moon from the Purusa’s brain, the Brahmins (priests) from its mouth, the Kshatriyas (warriors) from its arms, the Vaishyas (peasants and merchants) from its thighs, and the Shudras (servants) from its legs. 
+
+^299110294
+
+##### ^299110295
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2130  
+
+###### ^299110295q
+
+The ancient Chinese believed that when the goddess Nü Wa created humans from earth, she kneaded aristocrats from fine yellow soil, whereas commoners were formed from brown mud. 
+
+^299110295
+
+##### ^299110296
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2137  
+
+###### ^299110296q
+
+Most people claim that their social hierarchy is natural and just, while those of other societies are based on false and ridiculous criteria. 
+
+^299110296
+
+##### ^299110297
+
+highlight_tags:: [[pink]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2144  
+
+###### ^299110297q
+
+Of course not all hierarchies are morally identical, and some societies suffered from more extreme types of discrimination than others, 
+
+^299110297
+
+##### ^299110298
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2145  
+
+###### ^299110298q
+
+yet scholars know of no large society that has been able to dispense with discrimination altogether. 
+
+^299110298
+
+##### ^299110299
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2148  
+
+###### ^299110299q
+
+Hierarchies serve an important function. They enable complete strangers to know how to treat one another without wasting the time and energy needed to become personally acquainted. 
+
+^299110299
+
+##### ^299110300
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2155  
+
+###### ^299110300q
+
+most abilities have to be nurtured and developed. Even if somebody is born with a particular talent, that talent will usually remain latent if it is not fostered, honed and exercised. Not all people get the same chance to cultivate and refine their abilities. 
+
+^299110300
+
+##### ^299110301
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2169  
+
+###### ^299110301q
+
+In most cases the hierarchy originated as the result of a set of accidental historical circumstances and was then perpetuated and refined over many generations as different groups developed vested interests in it. 
+
+^299110301
+
+##### ^299110307
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2171  
+
+###### ^299110307q
+
+many scholars surmise that the Hindu caste system took shape when Indo-Aryan people invaded the Indian subcontinent about 3,000 years ago, subjugating the local population. ... they divided the population into castes, each of which was required to pursue a specific occupation or perform a specific role in society. Each had different legal status, privileges and duties. Mixing of castes – social interaction, marriage, even the sharing of meals – was prohibited. And the distinctions were not just legal – they became an inherent part of religious mythology and practice. The rulers argued that the caste system reflected an eternal cosmic reality rather than a chance historical development. 
+
+^299110307
+
+##### ^299110304
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2187  
+
+###### ^299110304q
+
+Castes were not immune to change. In fact, as time went by, large castes were divided into sub-castes. Eventually the original four castes turned into 3,000 different groupings called jati (literally ‘birth’). 
+
+^299110304
+
+##### ^299110305
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2213  
+
+###### ^299110305q
+
+Theologians argued that Africans descend from Ham, son of Noah, saddled by his father with a curse that his offspring would be slaves. 
+
+^299110305
+
+##### ^299523047
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2217  
+
+###### ^299523047q
+
+In the early nineteenth century imperial Britain outlawed slavery and stopped the Atlantic slave trade, and in the decades that followed slavery was gradually outlawed throughout the American continent. Notably, this was the first and only time in history that a large number of slaveholding societies voluntarily abolished slavery. But, even though the slaves were freed, the racist myths that justified slavery persisted. Separation of the races was maintained by racist legislation and social custom. 
+
+^299523047
+
+##### ^299110306
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2219  
+
+###### ^299110306q
+
+Notably, this was the first and only time in history that a large number of slaveholding societies voluntarily abolished slavery. But, even though the slaves were freed, the racist myths that justified slavery persisted. Separation of the races was maintained by racist legislation and social custom. 
+
+^299110306
+
+##### ^299523048
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2249  
+
+###### ^299523048q
+
+Clennon King, a black student who applied to the University of Mississippi in 1958, was forcefully committed to a mental asylum. The presiding judge ruled that a black person must surely be insane to think that he could be admitted to the University of Mississippi. 
+
+^299523048
+
+##### ^299523056
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2332  
+
+###### ^299523056q
+
+According to one theory, insect wings evolved millions of years ago from body protrusions on flightless bugs. Bugs with bumps had a larger surface area than those without bumps, and this enabled them to absorb more sunlight and thus stay warmer. ... Some insects started using the things to glide, and from there it was a small step to wings that could actually propel the bug through the air. 
+
+^299523056
+
+##### ^299523051
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2398  
+
+###### ^299523051q
+
+even though the precise definition of ‘man’ and ‘woman’ varies between cultures, there is some universal biological reason why almost all cultures valued manhood over womanhood. We do not know what this reason is. There are plenty of theories, none of them convincing. 
+
+^299523051
+
+##### ^299523052
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2404  
+
+###### ^299523052q
+
+‘men are stronger than women’ is true only on average, and only with regard to certain types of strength. Women are generally more resistant to hunger, disease and fatigue than men. There are also many women who can run faster and lift heavier weights than many men. 
+
+^299523052
+
+##### ^299523053
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2406  
+
+###### ^299523053q
+
+women have, throughout history, been excluded mainly from jobs that require little physical effort (such as the priesthood, law and politics), while engaging in hard manual labour in the fields, in crafts and in the household. If social power were divided in direct relation to physical strength or stamina, women should have got far more of it. 
+
+^299523053
+
+##### ^299523054
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2409  
+
+###### ^299523054q
+
+there simply is no direct relation between physical strength and social power among humans. 
+
+^299523054
+
+##### ^299523055
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2416  
+
+###### ^299523055q
+
+Even among chimpanzees, the alpha male wins his position by building a stable coalition with other males and females, not through mindless violence. 
+
+^299523055
+
+##### ^299572961
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2451  
+
+###### ^299572961q
+
+The militarily incompetent Augustus succeeded in establishing a stable imperial regime, achieving something that eluded both Julius Caesar and Alexander the Great, who were much better generals. Both his admiring contemporaries and modern historians often attribute this feat to his virtue of clementia – mildness and clemency. 
+
+^299572961
+
+##### ^299572962
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2475  
+
+###### ^299572962q
+
+Bonobo and elephant societies are controlled by strong networks of cooperative females, while the self-centred and uncooperative males are pushed to the sidelines. Though bonobo females are weaker on average than the males, the females often gang up to beat males who overstep their limits. 
+
+^299572962
+
+##### ^299572963
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2492  
+
+###### ^299572963q
+
+These dramatic changes are precisely what makes the history of gender so bewildering. If, as is being demonstrated today so clearly, the patriarchal system has been based on unfounded myths rather than on biological facts, what accounts for the universality and stability of this system? 
+
+^299572963
+
+### Part Three The Unification of Humankind
+#### 9 The Arrow of History
+##### ^299572966
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2504  
+
+###### ^299572966q
+
+Myths and fictions accustomed people, nearly from the moment of birth, to think in certain ways, to behave in accordance with certain standards, to want certain things, and to observe certain rules. They thereby created artificial instincts that enabled millions of strangers to cooperate effectively. This network of artificial instincts is called ‘culture’. 
+
+^299572966
+
+##### ^299572967
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2515  
+
+###### ^299572967q
+
+every man-made order is packed with internal contradictions. Cultures are constantly trying to reconcile these contradictions, and this process fuels change. 
+
+^299572967
+
+##### ^299572968
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2529  
+
+###### ^299572968q
+
+Ever since the French Revolution, people throughout the world have gradually come to see both social equality and individual freedom as fundamental values. 
+
+^299572968
+
+##### ^299572969
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2530  
+
+###### ^299572969q
+
+Equality can be ensured only by curtailing the freedoms of those who are better off. Guaranteeing that every individual will be free to do as he wishes inevitably short-changes equality. 
+
+^299572969
+
+##### ^299573071
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2544  
+
+###### ^299573071q
+
+If tensions, conflicts and irresolvable dilemmas are the spice of every culture, a human being who belongs to any particular culture must hold contradictory beliefs and be riven by incompatible values. ... Cognitive dissonance is often considered a failure of the human psyche. In fact, it is a vital asset. Had people been unable to hold contradictory beliefs and values, it would probably have been impossible to establish and maintain any human culture. 
+
+^299573071
+
+##### ^299572972
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2560  
+
+###### ^299572972q
+
+Perceiving the direction of history is really a question of vantage point. When we adopt the proverbial bird’s-eye view of history, which examines developments in terms of decades or centuries, it’s hard to say whether history moves in the direction of unity or of diversity. However, to understand long-term processes the bird’s-eye view is too myopic. We would do better to adopt instead the viewpoint of a cosmic spy satellite, which scans millennia rather than centuries. From such a vantage point it becomes crystal clear that history is moving relentlessly towards unity. 
+
+^299572972
+

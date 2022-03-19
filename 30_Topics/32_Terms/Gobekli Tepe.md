@@ -10,8 +10,8 @@ sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Göbekli Tepe]]</s>
-
+##### <s class="topic-title">[[Gobekli Tepe]]</s>
+Göbekli Tepe
 > ![[books_Sapiens#^297681711]]
 > ![[books_Sapiens#^297681712]]
 > ![[books_Sapiens#^297681713]]

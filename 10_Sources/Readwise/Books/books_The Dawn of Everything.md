@@ -1229,3 +1229,136 @@ bourgeois women may have especially appreciated the Jesuit Relations because it 
 #### 10. WHY THE STATE HAS NO ORIGIN
 #### 11. FULL CIRCLE
 #### 12. CONCLUSION
+# New highlights added March 19, 2022 at 11:09 AM
+##### ^299918332
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=1586  
+
+###### ^299918332q
+
+In some ways, accounts of ‘human origins’ play a similar role for us today as myth did for ancient Greeks or Polynesians, or the Dreamtime for indigenous Australians. 
+
+^299918332
+
+##### ^299918333
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=1596  
+
+###### ^299918333q
+
+Up until the early years of the nineteenth century, ‘men of letters’ – scientists included – still largely assumed that the universe did not even exist prior to late October, 4004 BC, and that all humans spoke the same language (Hebrew) until the dispersal of humanity, after the fall of the Tower of Babel sixteen centuries later.1 At that time there was as yet no ‘prehistory’. There was only history, even if some of that history was wildly wrong. 
+
+^299918333
+
+##### ^299918334
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=1600  
+
+###### ^299918334q
+
+The term ‘prehistory’ only came into common use after the discoveries at Brixham Cave in Devon in 1858, when stone axes, which could only have been fashioned by humans, were found alongside remains of cave bear, woolly rhinoceros and other extinct species, all together under a sealed casing of rock. 
+
+^299918334
+
+##### ^299918345
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=1614  
+
+###### ^299918345q
+
+no one imagined we’d ever find Eve herself, the discovery of a variety of other fossil skulls rescued from the East African Rift Valley (a natural ‘preservation trap’ for Palaeolithic remains, long since swept to oblivion in more exposed settings) seemed to provide a suggestion as to what Eve might have looked like and where she might have lived. ... fact, biological anthropologists and geneticists are now converging on an entirely different picture. Rather than everyone starting out the same, then dispersing from East Africa in some Tower-of-Babel moment to become the diverse nations and peoples of the earth, early human populations in Africa appear to have been far more physically diverse than anything we are familiar with today. 
+
+^299918345
+
+##### ^299918337
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=1626  
+
+###### ^299918337q
+
+By any biologically meaningful standard, living humans are barely distinguishable. 
+
+^299918337
+
+##### ^299918338
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=1634  
+
+###### ^299918338q
+
+we did indeed live in Africa – but not just the eastern savannahs, as previously thought: our biological ancestors were distributed everywhere from Morocco to the Cape.3 Some of those populations remained isolated from each another for tens or even hundreds of thousands of years, cut off from their nearest relatives by deserts and rainforests. Strong regional traits developed. 
+
+^299918338
+
+##### ^299918339
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=1643  
+
+###### ^299918339q
+
+Ancestral humans were not only quite different from each other; they also coexisted with smaller-brained, more ape-like species such as Homo naledi. 
+
+^299918339
+
+##### ^299918340
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=1647  
+
+###### ^299918340q
+
+What we do know is that we are composite products of this original mosaic of human populations, which interacted with one another, interbred, drifted apart and came together mostly in ways we can still only guess at. 
+
+^299918340
+
+##### ^299918341
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=1666  
+
+###### ^299918341q
+
+there is no ‘original’ form of human society. Searching for one can only be a matter of myth-making, 
+
+^299918341
+
+##### ^299918342
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10545  
+
+###### ^299918342q
+
+The Sahara seems to have acted as a kind of turnstile for human evolution, periodically turning green and then dry again with the cyclical advance/retreat of monsoon rains, opening and shutting the gates of interaction between northern and southern parts of the African continent (see Scerri 2017). 
+
+^299918342
+
+##### ^299918343
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10551  
+
+###### ^299918343q
+
+Fossil evidence tells us that the first expansions of modern humans out of Africa began as far back as 210,000 years ago (Harvati et al. 2019), but these were often tentative and quite short-lived, at least until the more decisive radiations of our species began around 60,000 BC. 
+
+^299918343
+
+##### ^299918344
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10555  
+
+###### ^299918344q
+
+Recent and historical hunter-gatherers, as we shall see, present an enormous range of possibilities, from assertively egalitarian groups like the Ju/ ’hoansi of the Kalahari, the Mbendjele BaYaka of Congo or the Agta in the Philippines to assertively hierarchical ones like the populations of the Canadian Northwest Coast, the Calusa of Florida Keys or the forest-dwelling Guaicurú of Paraguay (these latter groups, far from being egalitarian, are known to have traditionally kept slaves and lived in ranked societies). Holding up any particular subset of recent foragers as representatives of ‘early human society’ is essentially a matter of picking cherries. 
+
+^299918344
+
