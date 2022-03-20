@@ -18,7 +18,6 @@ sr-ease: 230
 # Sapiens
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
 **Source**:: [[reference_Sapiens]]
 

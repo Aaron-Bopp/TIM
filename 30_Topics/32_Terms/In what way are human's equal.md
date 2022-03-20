@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[Are humans equal]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[In what way are human's equal]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 > ![[books_Sapiens#^297681740]]

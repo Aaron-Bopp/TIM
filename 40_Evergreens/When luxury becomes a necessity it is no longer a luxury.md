@@ -3,9 +3,9 @@ created: 2022-03-19T11:12:28
 edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-19
-sr-interval: 1
+tags: created/evergreen/2022/03/19, review, node/evergreen/saying
+sr-due: 2022-03-21
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -13,12 +13,13 @@ sr-ease: 230
 
 
 > ![[books_Sapiens#^297301087]]
+> <Cite>[[Yuval Noah Harari]]</Cite>
 
-
+- similarly:: [[The injustice of endurance]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human advancement]]
+**Topics**:: [[human advancement]], [[Sagacious sayings]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

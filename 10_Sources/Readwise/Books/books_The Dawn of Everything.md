@@ -258,7 +258,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=250
 
 ###### ^261572340q
 
-If, as many are suggesting, our species’ future now hinges on our capacity to create something different (say, a system in which wealth cannot be freely transformed into power, or where some people are not told their needs are unimportant, or that their lives have no intrinsic worth), then what ultimately matters is whether we can rediscover the freedoms that make us human in the first place. 
+If, as many are suggesting, our species’ future now hinges on our capacity to create something different (say, a system in which wealth cannot be freely transformed into power, or where some people are not told their needs are unimportant, or that their lives have no intrinsic worth), then what ultimately matters is whether we can rediscover the freedoms that make us human in the first place.  ^71a788
 
 ^261572340
 #### SOME BRIEF EXAMPLES OF WHY RECEIVED UNDERSTANDINGS OF THE BROAD SWEEP OF HUMAN HISTORY ARE MOSTLY WRONG (OR, THE ETERNAL RETURN OF JEAN-JACQUES ROUSSEAU)

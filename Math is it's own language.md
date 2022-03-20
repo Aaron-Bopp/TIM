@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-19
-sr-interval: 1
+sr-due: 2022-03-21
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -23,7 +23,7 @@ This is also likely why so many people struggle with math. They should be approa
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[math]], [[language]], [[communication]]

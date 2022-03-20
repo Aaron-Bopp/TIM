@@ -11,14 +11,20 @@ sr-ease: 230
 
 #### [[What is the origin of patriarchy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+> ![[books_Sapiens#^299523051]]
+
+[[There is no direct relation between physical strength and social power]] is an aspect of this.
 
 > ![[books_Sapiens#^299572963]]
 
-
+- [[Patriarchy convinces young men that they can and should be oppressors]]
+- [[What would a world without gender look like]]
+- [[Every person has an experience of gender]]
+- 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[Patriarchy]], [[gender]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

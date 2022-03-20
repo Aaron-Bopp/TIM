@@ -4,23 +4,22 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-19
+sr-due: 2022-03-20
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Hierarchy enables oppression]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+[[Hierarchy]] enables the imbalance of power the oppression relies on. 
 
+Hierarchy may not necessitate [[oppression]], but once [[hierarchy]] is in place various groups will undoubtedly use it to marginalize other groups
 > ![[books_Sapiens#^299110301]]
-
-
-
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[oppression]], [[marginalization]], [[hierarchy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -32,6 +32,9 @@ but I feel these more hit upon
 
 leads to:: [[What maintains our social order]]
 
+If the [[social order]] we are talking about is [[capitalism]] then the origin is assumed to be our cynical egotistic nature. 
+^[[[books_The Dawn of Everything#^261572334]]]
+
 
 ### <hr class="footnote"/>
 

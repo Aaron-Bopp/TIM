@@ -11,18 +11,21 @@ sr-ease: 230
 
 #### [[The caste system preserved hierarchy through purity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+similarly:: [[Theology preserves hierarchy through deific blessing]]
 
 > ![[books_Sapiens#^299110294]]
 
+enabled by:: [[Hierarchy enables oppression]]
 > ![[books_Sapiens#^299110307]]
 
 > ![[books_Sapiens#^299110304]]
 
+example of:: [[Religion promotes high social control]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[oppression]], [[social order]], [[hierarchy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
