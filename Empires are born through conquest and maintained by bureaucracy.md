@@ -29,6 +29,7 @@ This power of [[bureaucracy]] may not just be in holding and storing [[informati
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
+![[reference_Sapiens#citation]]
 > ![[books_Sapiens#^298648742]]
 
 > ![[books_Sapiens#^299572961]]

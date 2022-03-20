@@ -10,25 +10,35 @@ sr-ease: 236
 ---
 
 ##### [[reference_Sapiens]]
+
 **Creator**:: [[Yuval Noah Harari]]
  
 **Source**:: [[books_Sapiens]]
 
+###### ^citation
+
+Harari, Y. (2015) *Sapiens: A Brief History of Humankind*
+
 #### Key Concepts
+
 - [[Cognitive Revolution]]
 - [[human evolution]]
 - [[foraging]]
 - [[Imagined reality]]
 
 #### Insights
+
 - [[Humans have had little time to adjust to being the top predator]]
+
 #### Fun facts
+
 - [[We have been domesticating dogs for 15,000 years]]
 - [[Stone age tools were primarily wooden]]
 
-
 ## Summary
+
 ### Part One The [[Cognitive Revolution]]
+
 Harari divides this part into four sections, *An Animal of No Significance*, *The Tree of Knowledge*, *A Day in the life of Adam and Eve*, and *The Flood*. Despite the obvious Biblical references, Harari does not discuss [[Christianity]] at all, instead choosing to tackle the fundamental mechanisms behind belief itself. This is only one small part of this first section, as Harari spends most of their time dissecting the path of [[human evolution]].
 
 *An Animal of No Significance* gives an overview of the other species of the family homo, and how they connect to our own [[homo sapiens]]. 
@@ -68,7 +78,6 @@ Harari does touch on some other possibilities for the rise of farming. Citing th
 Either way, by 10,000 BC farming was the dominant way of life.
 
 > ![[books_Sapiens#^297681720]]
-
 
 Harari then starts to discuss the effect that farming had on the human psyche.
 
