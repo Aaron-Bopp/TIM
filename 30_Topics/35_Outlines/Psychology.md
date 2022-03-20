@@ -34,7 +34,7 @@ WHERE contains(topics, this.file.link)
 
 ##### [[Psychology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-Includes:: [[Evolutionary Psychology]], [[Behavioral Psychology]]
+Includes:: [[Evolutionary Psychology]], [[human behavior]]
 
 ### <hr class="dataviews"/>
 

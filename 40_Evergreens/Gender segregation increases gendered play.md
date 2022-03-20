@@ -20,5 +20,5 @@ One reason for this may be the interaction of [[Humans love to group eachother]]
 **Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender]], [[Behavioral Psychology]], [[Evolutionary Psychology]]
+**Topics**:: [[gender]], [[human behavior]], [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

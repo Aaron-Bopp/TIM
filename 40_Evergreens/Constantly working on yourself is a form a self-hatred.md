@@ -24,6 +24,6 @@ If you can never be content that you are good enough, you are just looking for a
 **Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[self-love]], [[self-hate]], [[self-improvement]]
+**Topics**:: [[self-love]], [[self-hate]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

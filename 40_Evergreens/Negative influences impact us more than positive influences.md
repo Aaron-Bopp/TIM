@@ -27,5 +27,5 @@ Either way, negative influences root their selves in our [[insecurity|insecuriti
 **Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[childhood]], [[human experience]], [[trauma]], [[Behavioral Psychology]]
+**Topics**:: [[childhood]], [[human experience]], [[trauma]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

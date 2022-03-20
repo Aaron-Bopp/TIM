@@ -29,5 +29,5 @@ The nature of happiness is not doing what you [[love]] its detachment from the d
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Buddhism]]
+**Topics**:: [[Buddhism]], [[happiness]], [[detachment]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

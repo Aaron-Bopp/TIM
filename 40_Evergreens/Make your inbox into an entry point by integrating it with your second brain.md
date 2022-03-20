@@ -31,5 +31,5 @@ but you can help alleviate this [[friction]] by
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[knowledge management]], [[second brain]] 
+**Topics**:: [[knowledge management]], [[second brain]], [[learning]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

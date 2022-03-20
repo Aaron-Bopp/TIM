@@ -26,5 +26,5 @@ and this is often the case [[childhood]]:
 **Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[self]], [[self-actualization]], [[social anxiety]], [[self-love]]
+**Topics**:: [[self]], [[identity]], [[social anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

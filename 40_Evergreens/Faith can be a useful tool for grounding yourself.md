@@ -23,5 +23,5 @@ Prayer is basically [[meditation]] which has been shown to bring about supernatu
 **Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[belief systems]], [[faith]], [[worldview]] 
+**Topics**:: [[belief systems]], [[faith]], [[worldview]], [[religion]], [[belief]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -13,7 +13,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 The association [[cortices]] include most of the cerebral surface of the [[humanity|human]] [[brain]] and are largely responsible for the complex processing that goes on between the arrival of input in the [[primary sensory cortices]] and the generation of [[behavior]].
 
-**See**:: [[Neuroscience]], [[Behavioral Psychology]]
+**See**:: [[Neuroscience]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

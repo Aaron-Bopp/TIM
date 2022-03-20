@@ -33,5 +33,5 @@ for:: [[How can parent's best help their children]]
 **Status**:: #EVER/SAPLING 
 *edited January 23, 2022*
 
-**Topics**:: [[gender]], [[Behavioral Psychology]], [[inter-generational trauma]]
+**Topics**:: [[gender]], [[human behavior]], [[inter-generational trauma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

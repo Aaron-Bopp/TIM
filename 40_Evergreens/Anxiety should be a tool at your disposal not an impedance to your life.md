@@ -38,5 +38,5 @@ similarly:: [[Neurodiverse people can use their brain to their advantage]]
 **Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[anxiety]], [[mental health]], [[mental illness]], [[social anxiety]]
+**Topics**:: [[anxiety]], [[mental health]], [[mental illness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

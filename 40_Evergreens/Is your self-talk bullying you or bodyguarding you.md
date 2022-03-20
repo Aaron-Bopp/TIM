@@ -27,5 +27,5 @@ lead to:: [[Confidence is a feedback loop]]
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[mental health]], [[self-image]], [[transgender]], [[self-love]]
+**Topics**:: [[mental health]], [[self-image]], [[self-love]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

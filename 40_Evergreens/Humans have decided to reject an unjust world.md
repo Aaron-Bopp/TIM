@@ -48,5 +48,5 @@ That said, flat rejection leads to dismissiveness of the [[struggle]] that is re
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human experience]], [[Behavioral Psychology]], [[human advancement]]
+**Topics**:: [[human experience]], [[human behavior]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

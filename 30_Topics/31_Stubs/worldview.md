@@ -7,6 +7,12 @@ tags: created/topic/2021/10/19, node/topic/outline
 
 ##### <s class="topic-title">[[worldview]]</s>
 
+> [!wikipedia] [worldview](https://en.wikipedia.org/wiki/Worldview)
+> 
+> A worldview or world-view is the fundamental cognitive orientation of an [[individual]] or [[society]] encompassing the whole of the individual's or society's knowledge and point of view.  A worldview can include natural [[philosophy]]; fundamental, existential, and normative postulates; or themes, values, [[emotions]], and [[ethics]].
+> 
+> Worldviews are often taken to operate at a [[conscious]] level, directly accessible to articulation and discussion, as opposed to existing at a deeper, pre-conscious level.
+>
 
  
 

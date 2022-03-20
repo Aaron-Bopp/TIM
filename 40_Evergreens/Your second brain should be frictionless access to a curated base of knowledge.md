@@ -40,6 +40,5 @@ Some of this curation can be offloaded to [[AI]]: [[A totally integrated machine
 **Status**:: #EVER/GREEN
 *edited January 18, 2022*
 
-**Topics**:: [[second brain]], [[evergreen notes]] 
+**Topics**:: [[second brain]], [[My TIM]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

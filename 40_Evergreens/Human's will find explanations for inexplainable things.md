@@ -41,5 +41,5 @@ For more see: [[What is the cognitive effect of living in an unjust world|What i
 **Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Neuroscience]], [[human advancement]], [[human survival]]
+**Topics**:: [[human behavior]], [[human advancement]], [[human survival]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

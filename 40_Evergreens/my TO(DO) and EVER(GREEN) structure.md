@@ -71,5 +71,5 @@ The point of these tags is to give you ways to *meaningfully* interact with your
 **Status**:: #EVER/GREEN
 *edited January 25, 2022*
 
-**Topics**:: [[second brain]], [[Obsidian (software)]], [[note writing]]
+**Topics**:: [[Obsidian (software)]], [[knowledge management]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

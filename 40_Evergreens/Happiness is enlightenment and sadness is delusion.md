@@ -30,7 +30,7 @@ the contrast here[[Sadness is enlightenment and happiness is delusion]] and here
 **Status**:: #EVER/SAPLING 
 *edited January 19, 2022*
 
-**Topics**:: [[happiness]], [[religion]], 
+**Topics**:: [[happiness]], [[religion]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^1]: ![[articleAn Introduction to Bhuddism#^661817]]
+[^1]: [[articleAn Introduction to Bhuddism#^661817]]

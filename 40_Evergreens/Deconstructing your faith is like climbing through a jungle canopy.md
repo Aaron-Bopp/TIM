@@ -29,5 +29,5 @@ You're going to feel lost an confused (and have quite a few existential crisis) 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Christianity]], [[Evangelicalism]], [[worldview]], [[faith]], [[self-actualization]]
+**Topics**:: [[Christianity]], [[worldview]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

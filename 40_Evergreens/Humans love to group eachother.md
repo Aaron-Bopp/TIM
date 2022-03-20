@@ -35,5 +35,5 @@ If we can stop this behavior we can overcome our biases and make it easier to le
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolutionary Psychology]], [[Behavioral Psychology]]
+**Topics**:: [[Evolutionary Psychology]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

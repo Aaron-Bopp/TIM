@@ -34,6 +34,6 @@ leads to::[[Strong enough logic becomes belief]]
 **Status**:: #EVER/SAPLING 
 *edited January 18, 2022*
 
-**Topics**:: [[ego]], [[defense-mechanisms]], [[Behavioral Psychology]], [[trauma]]
+**Topics**:: [[ego]], [[defense-mechanisms]], [[human behavior]], [[trauma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

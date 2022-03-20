@@ -20,7 +20,7 @@ This is why I use tags as **temporal classifiers,** meaning that they apply a te
 
 ##### Temporary metadata is an entry point to your [[second brain]]
 
-Temporal just means that when I create tags, I do so knowing that I will eventually change or remove them. This means that they describe some current aspect of the note, that may change over time, and I can use the tag to group notes that have that aspect.
+Temporary metadata allows us to enter into our notes in a dynamic way. Whether it be status' that will change as notes grow, or work items that can be added and removed, interacting with the metadata will help us improve our notes.
 
 This means that they can be used in combination with other metadata, such as note modified time. If I search for \#TO tags and sort by ascending time I can see the most recent things I needed to do, and if I sort by descending time I can see the things I've procrastinated the longest. While tags are not directly connected to modified time (I can modify a note without removing the tag), it does mean I have seen that note recently and thus have seen that tag. This is just another way of interacting with your [[second brain]]: [[Your second brain should be frictionless access to a curated base of knowledge]]
 

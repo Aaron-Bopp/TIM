@@ -26,7 +26,7 @@ We can [[sympathy|sympathize]] with why somebody did something without excusing 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[justice]], [[sympathy]], [[empathy]], [[human advancement]]
+**Topics**:: [[justice]], [[sympathy]], [[empathy]], [[judgement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: https://twitter.com/LilahSturges/status/1453347878848638978

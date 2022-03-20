@@ -32,5 +32,5 @@ We are more complex than any other animal. We have developed a [[conscious|consc
 **Status**:: #EVER/SPROUT  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Psychology]]
+**Topics**:: [[Neuroscience]], [[Evolutionary Psychology]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

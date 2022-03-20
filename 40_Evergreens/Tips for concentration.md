@@ -28,5 +28,5 @@ Here some ways that I have found to help concentrate:
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[mental health]], [[ADHD is not a lack of attention it is a misplacement of attention]]
+**Topics**:: [[mental health]], [[concentration]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

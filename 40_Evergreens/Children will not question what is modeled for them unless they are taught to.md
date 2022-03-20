@@ -26,5 +26,5 @@ part of:: [[How can parent's best help their children]]
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[childhood]], [[Behavioral Psychology]], [[inter-generational trauma]], [[parents]]
+**Topics**:: [[childhood]], [[human behavior]], [[inter-generational trauma]], [[parents]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -37,5 +37,5 @@ This concept relates the different concepts of identity and presentation: [[Pres
 **Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[self-actualization]], [[self]], [[self care]], [[gender identity]]
+**Topics**:: [[self-actualization]], [[socialization]], [[identity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

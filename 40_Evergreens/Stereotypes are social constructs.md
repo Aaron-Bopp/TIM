@@ -21,5 +21,5 @@ sr-ease: 231
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[stereotype]], [[Behavioral Psychology]], [[social construct]]
+**Topics**:: [[stereotype]], [[human behavior]], [[social construct]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

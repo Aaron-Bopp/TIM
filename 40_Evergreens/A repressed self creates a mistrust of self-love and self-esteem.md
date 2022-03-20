@@ -38,5 +38,5 @@ important to remember:: [[Presentation is the realization of our self-perception
 **Status**:: #EVER/SAPLING
 *edited January 25, 2022*
 
-**Topics**:: [[self]], [[self-love]], [[self-hate]], [[self care]]
+**Topics**:: [[self]], [[self-love]], [[self-hate]], [[self-esteem]], [[repressed]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

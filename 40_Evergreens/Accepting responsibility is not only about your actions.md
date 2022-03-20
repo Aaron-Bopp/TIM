@@ -1,7 +1,7 @@
 ---
 created: 2021-06-08
 edited: 
-tags: created/evergreen/2021/06/08, review, node/evergreen/claim
+tags: created/evergreen/2021/06/08, review, node/evergreen/argument
 aliases:
   - Accepting responsibility for moving past your trauma
   - Accepting responsibility is about moving forward for yourself and for the
@@ -45,5 +45,5 @@ next:: [[Be the change you want to see in the world]]
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[white guilt]], [[trauma]], [[racism]], [[human advancement]]
+**Topics**:: [[white guilt]], [[trauma]], [[racism]], [[human advancement]], [[responsibility]], [[duty]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

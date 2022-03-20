@@ -26,5 +26,5 @@ This is kind of what it feels like to [[socialization|socialize]] as an [[Autism
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Deconstruction (Christianity)]], [[Christianity]], [[self-actualization]]
+**Topics**:: [[Deconstruction (Christianity)]], [[Christianity]], [[self-actualization]], [[worldview]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

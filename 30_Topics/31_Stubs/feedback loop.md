@@ -7,4 +7,4 @@ tags: created/topic/2021/10/18, node/topic/stub
 
 ##### <s class="topic-title">[[feedback loop]]</s>
 
-**See**:: [[Behavioral Psychology]]
+**See**:: [[human behavior]]

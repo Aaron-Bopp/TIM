@@ -18,7 +18,7 @@ Jesus was a radical socialist who fought against power for oppressed people usin
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Christianity]], [[Evangelicalism]], [[Marxism]], [[social progress]],  [[Civil Rights]], [[American Conservatism]]
+**Topics**:: [[Christianity]], [[Evangelicalism]], [[Politics]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

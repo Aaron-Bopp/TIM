@@ -20,6 +20,6 @@ Yang's career was never built off of [[activism]] it was built of ideas. While h
 **Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[political strategy]], [[Politics]] 
+**Topics**:: [[political strategy]], [[Politics]], [[Andrew Yang]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

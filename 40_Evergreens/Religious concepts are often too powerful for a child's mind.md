@@ -40,5 +40,5 @@ Because Christians have always had such a simple and obvious choice to avoid thi
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[religious trauma]], [[Evangelicalism]], [[Christianity]], [[childhood]], [[Behavioral Psychology]]
+**Topics**:: [[religious trauma]], [[Evangelicalism]], [[Christianity]], [[childhood]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

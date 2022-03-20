@@ -36,5 +36,5 @@ One manifestation of this is our [[ego]], because [[Our ego is our subconscious 
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[trauma]], [[mental health]], [[childhood]], [[Behavioral Psychology]]
+**Topics**:: [[trauma]], [[childhood]], [[emotions]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
