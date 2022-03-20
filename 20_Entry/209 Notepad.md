@@ -1,4 +1,9 @@
 
+> [!tiktok wm-sm] Egg corns
+> 
+> ![[egg corns.mp4|left]]
+
+
 #TO/EXPLORE/READ  [Levenshtein distance - Wikipedia](https://en.m.wikipedia.org/wiki/Levenshtein_distance)
 
 #TO/EXPLORE/WATCH [There is No Algorithm for Truth - with Tom Scott - YouTube](https://www.youtube.com/watch?v=leX541Dr2rU)

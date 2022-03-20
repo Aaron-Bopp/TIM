@@ -9,7 +9,7 @@ sr-interval: 10
 sr-ease: 230
 ---
 
-#### [[The five star scale is for consumer and the ten point scale is for critiques]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The five star scale is for consumer and the ten point scale is for the critic]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 You may be thinking, this isn't right, isn't the five star scale a mini version of the ten point scale? My answer is no.
 The five star scale has it's origin's in consumer reviews. First for hotels then restaurants and after the advent of the [[internet]], everything. 

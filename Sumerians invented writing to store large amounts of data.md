@@ -14,14 +14,13 @@ sr-ease: 230
 This became key in the maintenance of the [[Sumerian Empire]], 
 because:: [[Empires are born through conquest and maintained by bureaucracy]]
 
-
-
-> ![[books_Sapiens#^298648745]])
-
-
-[[The first recorded name might have been an accountant]]
+This 
+explains:: [[The first recorded name might have been an accountant]]
+and it shows 
+how::
 [[What is writing]]
 
+Between 3500 and 2500 BC this writing would transform from a [[partial script]] used to for storing and classifying tax and data to a [[full script]] used to represent [[Mespotamia|Mesopotamian]] [[language]]
 > ![[books_Sapiens#^299110280]]
 
 ### <hr class="footnote"/>
@@ -33,6 +32,7 @@ because:: [[Empires are born through conquest and maintained by bureaucracy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
+
 > ![[books_Sapiens#^299110283]]
 
 > ![[books_Sapiens#^298648744]]
