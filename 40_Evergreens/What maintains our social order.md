@@ -39,7 +39,7 @@ This is important in the way that hierarchies are maintained:
 [[Hierarchy enables oppression]]
 
 
-leads to:: [[Why can't we realize that we live in an imagined order]]
+leads to:: [[Why is it hard to understand how social order effects us]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

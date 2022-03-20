@@ -4,21 +4,23 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-19
+sr-due: 2022-03-21
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
-#### [[Why can't we realize that we live in an imagined order]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-[[What is the cognitive origin of our social order]]
+#### [[Why is it hard to understand how social order effects us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 > ![[books_Sapiens#^297681749]]
 
-This is a question posed in [[reference_Sapiens|Sapiens by Yuval Noah Harari]], that closely ties into [[What is the cognitive origin of our social order]]
-![[reference_Sapiens#^dd0325]]
+Why can't we realize that we live in an [[imagined order]]?
 
-Possible reasons:
+This is a question posed in [[reference_Sapiens|Sapiens by Yuval Noah Harari]], that closely 
+ties into:: [[What is the cognitive origin of our social order]]
+![[reference_Sapiens#^dd0325]]
+[[inter-subjective]]
+
+Other possible reasons:
 - We are indoctrinated
 - We can't objectively observe what we are a part of
 - We want to believe ^[[[books_Sapiens#^297681750]]]
@@ -27,10 +29,13 @@ Possible reasons:
 - The fact that it is imagined doesn't change anything about it
 
 I think that in modern times we have for the most part realized that we live in a [[Imagined order]] except perhaps for christians? It seems like this question is a lot more meaningful when contrasted with the long held belief in a "natural law" or natural order. These days we have mainly come to the conclusion that our [[social order]] is imagined, but we are still trying to figure out 
+
+I do think that we struggle to understand how [[society]] effects us
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[social order]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

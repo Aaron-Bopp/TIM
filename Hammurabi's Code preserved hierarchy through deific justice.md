@@ -11,7 +11,7 @@ sr-ease: 230
 
 #### [[Hammurabi's Code preserved hierarchy through deific justice]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Hammurabi was ordained by the gods to be king and to have control. He was given the right to enforce the [[hierarchy]] that the gods had laid out. Any punishment was not the decision of Hammurabi but his just following the god's decrees.
+Hammurabi was ordained by the gods to be king and to have control. He was given the right to enforce the [[social hierarchy]] that the gods had laid out. Any punishment was not the decision of Hammurabi but his just following the god's decrees.
 
 The justice of [[Hammurabi's code]] is preserved through it's transactional nature. The reasoning is simple and laid out.
 This may have been why is was an effective measure of [[social control]].
@@ -24,7 +24,7 @@ Enables:: [[What maintains our social order]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Hammurabi's code]], [[social order]], [[hierarchy]], [[justice]]
+**Topics**:: [[Hammurabi's code]], [[social order]], [[social hierarchy]], [[justice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

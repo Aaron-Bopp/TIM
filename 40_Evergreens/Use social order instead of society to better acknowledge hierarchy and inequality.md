@@ -22,5 +22,5 @@ Example:
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[social order]], [[society]], [[hierarchy]], [[inequality]]
+**Topics**:: [[social order]], [[society]], [[social hierarchy]], [[inequality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

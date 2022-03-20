@@ -24,7 +24,7 @@ This could be seen as a result of [[kin selection]] but more likely [[group sele
 This can be seen as a
 result of:: [[Human's will find explanations for inexplainable things]].
 [[Oppressors invent reasoning for their oppression]], 
-and grouping people lets you place them in the [[hierarchy]].
+and grouping people lets you place them in the [[social hierarchy]].
 
 [[Humans yearn for a tool with no blood on it]] means that we do try to justify our groupings.
 

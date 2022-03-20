@@ -14,7 +14,7 @@ sr-ease: 130
 The beauty of the digital age is that hardly anything boxes us in any more. 
 I can have an [[Obsidian (software)|Obsidian]] vault inside my [[Obsidian (software)|Obsidian]] vault, I can use folders and tags and outlines to organize my notes in completely different ways, or I can use them all in the same way, or I can use each one in multiple ways. 
 The possibilities are endless,
-[[heterarchy]] or [[hierarchy]],
+[[heterarchy]] or [[social hierarchy]],
 [[Johnny Decimal System|Johnny Decimal]] or [[Dewey Decimal System|Dewey Decimal]],
 tags or links,
 and yet people still ask for the "right" way to organize. 

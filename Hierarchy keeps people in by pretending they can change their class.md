@@ -26,5 +26,5 @@ This can also be seen in [[capitalism]]:
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[hierarchy]], [[social order]]
+**Topics**:: [[social hierarchy]], [[social order]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -19,14 +19,16 @@ sr-ease: 230
 
 Even [[The Founding Fathers]] acknowledged this, only claiming that all *men* are equal:
 [[Most rights were denied to Americans at its founding]]
+They would have claimed that this equivalency (and non-white and non-men's unequivalency) to be a result of the 'natural law'.
+This natural law imbues so some sort of essense.
 
 - [[Oppressors invent reasoning for their oppression]]
 - [[What maintains our social order]]
-- 
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[equality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

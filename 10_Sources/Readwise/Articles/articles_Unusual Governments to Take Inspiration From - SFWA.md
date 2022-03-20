@@ -41,7 +41,7 @@ sr-ease: 230
 
   
 %%
-highlight_tags:: [[hierarchy]]
+highlight_tags:: [[social hierarchy]]
 %%
 
 ###### ^270429679q
@@ -92,7 +92,7 @@ sr-ease: 230
 
 
 %%
-highlight_tags:: [[hierarchy]]
+highlight_tags:: [[social hierarchy]]
 %%
 
 ###### ^270429679q

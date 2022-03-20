@@ -26,5 +26,5 @@ part of:: [[Oppressors invent reasoning for their oppression]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[religion]], [[hierarchy]]
+**Topics**:: [[religion]], [[social hierarchy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

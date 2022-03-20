@@ -25,7 +25,11 @@ Two solutions are proposed by Harari, [[mythology]] and [[cooperation]].
 >  ![[books_Sapiens#^297681732]]
 
 He then cites [[Hammurabi's code]] and [[The Founding Fathers]] as examples, 
-but I feel these more hit upon [[What maintains our social order]]
+but I feel these more hit upon [[What is the origin of social hierarchy]]
+but that may be key in [[What maintains our social order]].
+%% This kind of implies that social [[social hierarchy]] is a way of maintaining social order (which I guess it is) %%
+
+##### Other explanations
 
 If the [[social order]] we are talking about is [[capitalism]] then the origin is assumed to be our cynical egotistic nature. 
 ^[[[books_The Dawn of Everything#^261572334]]]
@@ -42,4 +46,5 @@ If the [[social order]] we are talking about is [[capitalism]] then the origin i
 
 ![[reference_Sapiens#citation]]
 
-> ![[books_Sapiens#^297681739]]
+
+> ![[books_Sapiens#^297681757]]

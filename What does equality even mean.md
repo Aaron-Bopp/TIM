@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-19
+sr-due: 2022-03-21
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[What does equality even mean]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -24,5 +24,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[equality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

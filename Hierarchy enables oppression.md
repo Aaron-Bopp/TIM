@@ -11,9 +11,9 @@ sr-ease: 210
 
 #### [[Hierarchy enables oppression]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Hierarchy]] enables the imbalance of power the oppression relies on. 
+[[social hierarchy]] enables the imbalance of power the oppression relies on. 
 
-Hierarchy may not necessitate [[oppression]], but once [[hierarchy]] is in place various groups will undoubtedly use it to marginalize other groups
+Hierarchy may not necessitate [[oppression]], but once [[social hierarchy]] is in place various groups will undoubtedly use it to marginalize other groups
 > ![[books_Sapiens#^299110301]]
 
 ### <hr class="footnote"/>
@@ -21,5 +21,5 @@ Hierarchy may not necessitate [[oppression]], but once [[hierarchy]] is in place
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[oppression]], [[marginalization]], [[hierarchy]]
+**Topics**:: [[oppression]], [[marginalization]], [[social hierarchy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

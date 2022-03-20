@@ -13,7 +13,7 @@ sr-ease: 230
 
 This is 
 because:: [[Hierarchy enables oppression]]
-and oppressors need reasoning to justify and reinforce their [[hierarchy]].
+and oppressors need reasoning to justify and reinforce their [[social hierarchy]].
 
 > ![[books_Sapiens#^297681743]]
 
@@ -21,7 +21,7 @@ Once you have made your way to the top of a [[social order]] you know have two m
 1. How do I maintain my spot at the top?
 2. [[What maintains our social order]]
 
-The most common way of doing this is to justify your [[hierarchy]] and thus oppression through 'natural law' or theological distinction.
+The most common way of doing this is to justify your [[social hierarchy]] and thus oppression through 'natural law' or theological distinction.
 ^[[[books_Sapiens#^299110293]]]
 
 We can see this in:

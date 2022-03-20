@@ -733,7 +733,7 @@ For European audiences, the indigenous critique would come as a shock to the sys
 
 ##### ^262026845
 
-highlight_tags:: [[hierarchy]]   
+highlight_tags:: [[social hierarchy]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=696  
 
 ###### ^262026845q

@@ -28,5 +28,5 @@ example of:: [[Religion promotes high social control]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[oppression]], [[social order]], [[hierarchy]]
+**Topics**:: [[oppression]], [[social order]], [[social hierarchy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

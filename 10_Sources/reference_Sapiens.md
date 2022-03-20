@@ -93,7 +93,7 @@ First Harari asks, [[What is the cognitive origin of our social order]],
 then [[What maintains our social order]],
 in order to arrive to
 the main question of this section is:
-[[Why can't we realize that we live in an imagined order]]
+[[Why is it hard to understand how social order effects us]]
 Harari list's three options:
 1. The imagined order is embedded in the material world. 
 2. The imagined order shapes our desires.
