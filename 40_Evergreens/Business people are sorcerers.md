@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 230
 ---
 
-#### [[Business people are sorcerors]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Business people are sorcerers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 > ![[books_Sapiens#^294248535]]

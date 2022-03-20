@@ -3,7 +3,7 @@ created: 2022-03-16T18:56:49
 edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/16, review, node/evergreen/claim
+tags: created/evergreen/2022/03/16, review, node/evergreen/nugget
 sr-due: 2022-03-20
 sr-interval: 3
 sr-ease: 230
@@ -16,7 +16,7 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[prehistory]], [[human settlement]], [[hunter-gatherers]]

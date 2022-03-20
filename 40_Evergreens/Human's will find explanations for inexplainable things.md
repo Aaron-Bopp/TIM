@@ -1,7 +1,7 @@
 ---
 created: 2021-06-16
 edited: 
-tags: created/evergreen/2021/06/16, review, node/evergreen/claim
+tags: created/evergreen/2021/06/16, review, node/evergreen/behavior
 aliases:
   - humans finding explanations for inexplainable things
   - explain unexplainable things
