@@ -9,7 +9,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-#### [[What is writing]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How do we use writing to communicate]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Is writing just the symbols that represent [[language]] either partially ([[partial script]]) or fully ([[full script]])?
 
@@ -19,5 +19,5 @@ Is writing just the symbols that represent [[language]] either partially ([[part
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[writing]]
+**Topics**:: [[writing]], [[communication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

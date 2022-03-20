@@ -4,18 +4,22 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/14, review, node/evergreen/question, 
-sr-due: 2022-03-19
-sr-interval: 42
+sr-due: 2022-05-23
+sr-interval: 64
 sr-ease: 150
 ---
 
 #### [[What is the difference between blame and judgement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+%% You can blame someone for causing harm but not judge their actions (ex. You can blame someone for unconscious bias, but you can judge them as not having pre-meditated). %%
+
 
 #TO/PONDER/IDEA 
 
 ##### [[blame]]
 
 [[You can't blame people for failing to rise above their circumstances]]
+
 
 Blame is the act of censuring, holding responsible, making negative statements
 about an individual or group that their actions or inaction are socially or morally irresponsible,

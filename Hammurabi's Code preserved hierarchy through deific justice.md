@@ -4,26 +4,35 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-19
-sr-interval: 1
+sr-due: 2022-03-23
+sr-interval: 3
 sr-ease: 230
 ---
 
 #### [[Hammurabi's Code preserved hierarchy through deific justice]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Hammurabi was ordained by the gods to be king and to have control. He was given the right to enforce the [[hierarchy]] that the gods had laid out. Any punishment was not the decision of Hammurabi but his just following the god's decrees.
 
-> ![[books_Sapiens#^297681738]]
+The justice of [[Hammurabi's code]] is preserved through it's transactional nature. The reasoning is simple and laid out.
+This may have been why is was an effective measure of [[social control]].
 
-> ![[books_Sapiens#^297681735]]
-
-
-> ![[books_Sapiens#^297681737]]
-
+Part of:: [[What is the cognitive origin of our social order]]
+Enables:: [[What maintains our social order]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[Hammurabi's code]], [[social order]], [[hierarchy]], [[justice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[reference_Sapiens#citation]]
+
+> ![[books_Sapiens#^297681738]]
+
+> ![[books_Sapiens#^297681735]]
+
+> ![[books_Sapiens#^297681737]]
