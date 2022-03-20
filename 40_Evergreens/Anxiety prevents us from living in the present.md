@@ -30,5 +30,5 @@ There are four ways that anxiety does this
 **Status**:: #EVER/SAPLING 
 *edited January 18, 2022*
 
-**Topics**:: [[anxiety]], [[Neuroscience]], [[mental health]]
+**Topics**:: [[anxiety]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

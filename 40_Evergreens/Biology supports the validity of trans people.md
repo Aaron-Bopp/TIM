@@ -30,5 +30,5 @@ next:: [[Gender has historically been non-binary]]
 **Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender]], [[self]], [[human experience]], [[Neuroscience]]
+**Topics**:: [[gender]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

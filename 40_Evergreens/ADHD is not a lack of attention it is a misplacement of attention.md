@@ -34,6 +34,6 @@ ADHD can also affect concentration by introducing [[anxiety]] caused by [[trauma
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[ADHD]], [[mental health]], [[mental illness]] 
+**Topics**:: [[ADHD]], [[mental health]], [[neurodiversity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

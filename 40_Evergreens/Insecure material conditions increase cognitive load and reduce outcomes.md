@@ -22,5 +22,5 @@ sr-ease: 205
 **Status**:: #EVER/GREEN  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[anxiety]], [[socialization]], [[social construct]], [[stereotype threat]]
+**Topics**:: [[anxiety]], [[socialization]], [[stereotype threat]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
