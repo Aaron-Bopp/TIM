@@ -40,4 +40,4 @@
 		- [[Anger fuels change]]
 		- [[The ethnic makeup of a community is a significant driver of change]]
 		- [[Yang's political failure was due to lack of activism and political inefficacy]]
-		- [[Yang's political success was due to his common sense campaign]]
+		- [[Yang's political success was due to his appeal to common sense]]

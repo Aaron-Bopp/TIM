@@ -23,7 +23,7 @@ WHERE contains(topics, this.file.link) and !contains(this.file.outlinks, file.li
 
 - [[Civil Rights]]
 - [[racism]]
-- [[Yang's political success was due to his common sense campaign]]
+- [[Yang's political success was due to his appeal to common sense]]
 - ![[Reagan#Reagan customJS dv_funcs topicOutlineHeader dv this]]
 - [[The Politicization of the Christian Church]]
 - ![[political strategy#political strategy customJS dv_funcs topicOutlineHeader dv this]]
