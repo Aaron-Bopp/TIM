@@ -4,27 +4,27 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-19
-sr-interval: 1
+sr-due: 2022-03-21
+sr-interval: 2
 sr-ease: 230
 ---
 
 #### [[Empires are born through conquest and maintained by bureaucracy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 The ways to maintain control over large swaths of people is not a problem that can be solved by any one solution. Understanding [[social order]] is the quest of almost any great mind.
-Yet it seems that bookkeeping and and [[bureaucracy]] may have been the key difference that allowed for the developments of [[history]]'s first major empires.
+Yet it seems that bookkeeping and [[bureaucracy]] may have been the key difference that allowed for the developments of [[history]]'s first major empires.
 ^[[[books_Sapiens#^299110283]]]
 ^[[[books_Sapiens#^298648742]]]
 
+This power of [[bureaucracy]] may not just be in holding and storing [[information]], but also in providing stability.
+^[[[books_Sapiens#^299572961]]]
 
-
-
-> ![[books_Sapiens#^299572961]]
-
+- part of:: [[What maintains our social order]]
+- why:: [[The first recorded name might have been an accountant]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[bureaucracy]]

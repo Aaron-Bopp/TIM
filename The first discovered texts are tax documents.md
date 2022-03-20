@@ -14,7 +14,7 @@ sr-ease: 230
 
 > ![[books_Sapiens#^298648748]]
 
-See:: [[The first recorded name might have been an accountant]]
+similarly:: [[The first recorded name might have been an accountant]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

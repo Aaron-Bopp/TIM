@@ -16,7 +16,7 @@ In modern times we still cling to [[religion]] because [[Belief pulls you forwar
 It does not matter if the thing you are believing in is true as long as it motivates behaviors that are adaptive that [[belief]] is adaptive.
 ^[[[books_Darwin's Cathedral#294094918q]]]
 
-- enabled by:: [[Emotions motivate us to interact with the world around us]]
+- enabled by:: [[Wonder motivates us to interact with the world around us]]
 - contrasts:: [[The injustice of endurance]]
 - enhanced by:: [[Human's have an inability to admit that they are wrong]]
 

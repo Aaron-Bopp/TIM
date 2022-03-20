@@ -11,8 +11,6 @@ sr-ease: 150
 
 #### [[Humans are a product of evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-keep in mind:: [[Evolutionary Psychology is just a framework not a prescription of behavior]]
-
 If we see [[human behavior]] manifesting regardless of upbringing and in multiple environment's,
 we can start to look for a evolutionary explanation for that [[behavior]].
 ^[remember:: [[Evolutionary Psychology is just a framework not a prescription of behavior]]]

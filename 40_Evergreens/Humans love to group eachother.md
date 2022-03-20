@@ -14,17 +14,21 @@ sr-ease: 199
 [[There is a limit to the size of a group ordered purely by personal communication]]
 
 This is a major reason [[Greater cooperation and communication has lead to the success of humans as a species]]
-One reason this might be is because of [[natural selection|kin selection]].
 
 > ![[books_Darwin's Cathedral#293875904q]]
 
 Possible mechanism behind [[racism]], [[homophobia]], [[partisanship]]
-- [[Humans are a product of evolution]]
-- [[Human's have an inability to admit that they are wrong]]
-- [[Human's will find explanations for inexplainable things]]
-- [[We will evolve when we make learning as easy as thinking]]
-- [[Rise of Modern Conservatism]]
-- [[Humans yearn for a tool with no blood on it]]
+This could be seen as a result of [[kin selection]] but more likely [[group selection]]:
+[[Social control allows groups to function as adaptive units]]
+
+This can be seen as a
+result of:: [[Human's will find explanations for inexplainable things]].
+[[Oppressors invent reasoning for their oppression]], 
+and grouping people lets you place them in the [[hierarchy]].
+
+[[Humans yearn for a tool with no blood on it]] means that we do try to justify our groupings.
+
+If we can stop this behavior we can overcome our biases and make it easier to learn: [[We will evolve when we make learning as easy as thinking]]
 
 ### <hr class="footnote"/>
 

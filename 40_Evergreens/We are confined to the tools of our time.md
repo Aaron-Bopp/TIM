@@ -14,7 +14,9 @@ sr-ease: 210
 This is true both in how we [[influence]] other's and how we make [[progress]].
 #TO/TEND/GRAFT 
 - [[Choosing a note writing system is choosing a system for thought]]
-- [[The materialistic view of religions examines why humans invented and clung to religion]]
+
+Over the course of human [[history]], we have had to deal with various levels of violence, death, [[fear]] and much more.
+One of the tools that has been the most reliable is religion:[[The materialistic view of religions examines why humans invented and clung to religion]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[Sometimes we can't grow until we change our environment]]
 - [[Most rights were denied to Americans at its founding]]

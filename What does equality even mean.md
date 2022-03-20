@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[What equality even mean]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What does equality even mean]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 > ![[books_The Dawn of Everything#^261572336]]

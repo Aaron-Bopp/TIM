@@ -15,6 +15,10 @@ sr-ease: 230
 
 > ![[books_Sapiens#294248533q]]
 
+
+> ![[books_Sapiens#^297301077]]
+
+
 - This is why [[Religion promotes high social control]] is so important.
 	- [[Social control allows groups to function as adaptive units]]
 - enables:: [[Foraging was a very sustainable lifestyle]]

@@ -57,7 +57,7 @@ because [[Human's have an inability to admit that they are wrong]]
 ##### Humans are emotional
 
 From birth our [[emotions]] are the rulers of our lives. We are fed when we cry. We are encouraged when laugh, or walk, or talk. 
-[[Emotions motivate us to interact with the world around us]].
+[[Wonder motivates us to interact with the world around us]].
 Yet, our [[emotions]] so often lead us into folly.
 We say the wrong thing, or act the wrong way.
 We let our [[emotions]] get in the way of how we think we should act.

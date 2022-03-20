@@ -12,6 +12,8 @@ sr-ease: 130
 #### [[Humans have decided to take advantage of an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - counters:: [[Humans have decided to reject an unjust world]]
+- [[Hierarchy enables oppression]]
+	- [[Oppressors invent reasoning for their oppression]]
 - [[What is the cognitive effect of living in an unjust world]]
 	- [[Is cognitive dissonance the reason for harmful behaviors]]
 - [[The Politicization of the Christian Church]]

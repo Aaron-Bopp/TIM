@@ -20,7 +20,7 @@ First we have to ask [[What maintains our social order]]
 
 If our goal is [[equality]] or [[equity]], we need to ask
 [[In what way are human's equal]],
-[[What equality even mean]]
+[[What does equality even mean]]
 
 
 > ![[books_The Dawn of Everything#^71a788]]

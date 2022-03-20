@@ -4,25 +4,28 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-19
-sr-interval: 2
+sr-due: 2022-03-23
+sr-interval: 4
 sr-ease: 210
 ---
 
-#### [[Emotions motivate us to interact with the world around us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Wonder motivates us to interact with the world around us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is how [[emotions]] are a 
 part of:: [[Humans are a product of evolution]]
 
-[[Human's will find explanations for inexplainable things]], can be seen as result of [[Humans are drawn to the unknown and repelled by the known]]. 
+This 
+works with:: [[Humans are drawn to the unknown and repelled by the known]]
+and could explain [[Human's will find explanations for inexplainable things]].
 From birth we are desperate for understanding of the world around us, 
 often the cries of child can be solved just by giving them something new to look at. 
 
 In our modern world these emotive responses can often be cryptic 
 resulting in:: [[Complex emotions are imperfect understandings of primal urges]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[emotions]], [[human behavior]]

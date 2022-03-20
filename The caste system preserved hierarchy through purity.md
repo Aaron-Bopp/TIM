@@ -3,10 +3,10 @@ created: 2022-03-19T13:54:20
 edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-19
+tags: created/evergreen/2022/03/19, review, node/evergreen/example
+sr-due: 2022-03-20
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[The caste system preserved hierarchy through purity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -18,7 +18,8 @@ similarly:: [[Theology preserves hierarchy through deific blessing]]
 enabled by:: [[Hierarchy enables oppression]]
 > ![[books_Sapiens#^299110307]]
 
-> ![[books_Sapiens#^299110304]]
+example of:: [[Oppressors invent reasoning for their oppression]]
+
 
 example of:: [[Religion promotes high social control]]
 

@@ -37,6 +37,6 @@ sr-ease: 250
 	- example abusive [[relationships]]
 - Fantasy is our mind's way of dealing with negative [[emotions]] by replacing them with positive emotions
 	- the problem is negative emotions actually help us get better
-		- [[Emotions motivate us to interact with the world around us]]
+		- [[Wonder motivates us to interact with the world around us]]
 		- [[Negative influences impact us more than positive influences]]
 	- need to redirect energy to what we are gonna do now
