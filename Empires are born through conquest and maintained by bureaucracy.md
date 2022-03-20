@@ -13,14 +13,12 @@ sr-ease: 230
 
 The ways to maintain control over large swaths of people is not a problem that can be solved by any one solution. Understanding [[social order]] is the quest of almost any great mind.
 Yet it seems that bookkeeping and [[bureaucracy]] may have been the key difference that allowed for the developments of [[history]]'s first major empires.
-^[[[books_Sapiens#^299110283]]]
-^[[[books_Sapiens#^298648742]]]
 
-This power of [[bureaucracy]] may not just be in holding and storing [[information]], but also in providing stability.
-^[[[books_Sapiens#^299572961]]]
+This power of [[bureaucracy]] may not just be in holding and storing [[information]], but also in providing stability. Mildness and tolerance seem far more effective at maintaining a long-term empire than [[violence]].
 
 - part of:: [[What maintains our social order]]
 - why:: [[The first recorded name might have been an accountant]]
+- explains:: [[Sumerians invented writing to store large amounts of data]]
 
 ### <hr class="footnote"/>
 
@@ -29,3 +27,8 @@ This power of [[bureaucracy]] may not just be in holding and storing [[informati
 
 **Topics**:: [[bureaucracy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+> ![[books_Sapiens#^298648742]]
+
+> ![[books_Sapiens#^299572961]]

@@ -9,10 +9,12 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[Sumerians invented writing]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Sumerians invented writing to store large amounts of data]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+This became key in the maintenance of the [[Sumerian Empire]], 
+because:: [[Empires are born through conquest and maintained by bureaucracy]]
 
 
-> ![[books_Sapiens#^298648744]]
 
 > ![[books_Sapiens#^298648745]])
 
@@ -29,3 +31,8 @@ sr-ease: 230
 
 **Topics**:: <% tp.file.cursor(1) %>
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+> ![[books_Sapiens#^299110283]]
+
+> ![[books_Sapiens#^298648744]]

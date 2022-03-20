@@ -20,7 +20,7 @@ Hierarchy
 - [[Hierarchy enables oppression]] by setting up power imbalances
 	- [[Theology preserves hierarchy through deific blessing]]
 	- [[The caste system preserved hierarchy through purity]]
-- [[Hierarchy keeps people in by suggesting they might be able to change their place]]
+- [[Hierarchy keeps people in by pretending they can change their class]]
 
 
 %% DO NOT EDIT BELOW %%

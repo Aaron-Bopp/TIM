@@ -84,5 +84,5 @@ An interesting example of this is people who are extremely mentally handicapped 
 **Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
-**Topics**:: [[anxiety]], [[mental health]], [[self-actualization]], [[self-improvement]], [[self-hate]], [[social anxiety]] 
+**Topics**:: [[anxiety]], [[self]], [[insecurity]], [[human interaction]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

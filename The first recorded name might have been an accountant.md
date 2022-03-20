@@ -11,7 +11,7 @@ sr-ease: 230
 
 #### [[The first recorded name might have been an accountant]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-enabled by:: [[Sumerians invented writing]] 
+enabled by:: [[Sumerians invented writing to store large amounts of data]] 
 example of:: [[Empires are born through conquest and maintained by bureaucracy]]
 
 > ![[books_Sapiens#^298648751]]
