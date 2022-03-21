@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-21
+sr-due: 2022-03-22
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[There is no direct relation between physical strength and social power]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

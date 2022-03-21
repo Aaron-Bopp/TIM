@@ -11,6 +11,9 @@ sr-ease: 210
 
 #### [[Sumerians invented writing to store large amounts of data]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+> ![[books_Sapiens#^298648748]]
+> <cite>[[Yuval Noah Harari]]</cite>
+
 Between 3500 and 2500 BC this writing would transform from a [[partial script]] used to for storing and classifying tax and data to the [[full script]] [[cuneiform]] used to represent [[Mesopotamia|Mesopotamian]] [[language]].
 
 This became key in the maintenance of the [[Akkadian Empire]], 

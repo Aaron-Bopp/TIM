@@ -4,8 +4,8 @@ edited:
 tags: created/evergreen/2021/10/03, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-03-21
-sr-interval: 24
+sr-due: 2022-04-22
+sr-interval: 32
 sr-ease: 130
 ---
 
@@ -20,7 +20,7 @@ and children are more likely to imitate the actions of authority figures, most o
 This leads to so many elements of modern society such as [[gender roles]], [[racism]], and [[inter-generational trauma]]. This is
 made worse by:: [[Children will not question what is modeled for them unless they are taught to]]
 
-This is true in both synchronous interactions like fear responses and [[self-soothing]], but also in asynchronous responses like in the [[Gender self-socialization model]]. 
+This is true in both synchronous interactions like [[fear]] responses and [[self-soothing]], but also in asynchronous responses like in the [[Gender self-socialization model]]. 
 
 [[Humans long to know what to do]], when behaviors become engrained in our psyche, we will rarely question them:
 [[We carry our childhood wounds into adulthood]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/11, review, node/evergreen/claim
-sr-due: 2022-03-21
-sr-interval: 5
+sr-due: 2022-04-01
+sr-interval: 11
 sr-ease: 210
 ---
 
@@ -15,15 +15,13 @@ From our very humble beginnings,
 ^[[[Cracking bones and eating the marrow may have been human's first niche]]]
 human's have developed into the top predator and a force of destruction on par with asteroids in terms of extinct species.
 
-Examples:: Australia and the Americas had many megafaunas and large creatures like groundsloths before we settled there. There aren't any good explanations for those extinctions other than us.
+From our prehistoric hunting of mammoths in [[Siberia]],
+to our mass extinctions in [[Australia]] and [[America]], 
+to man-made [[climate change]],
+we are by far the most destructive force in history in zoological terms.
 
-- [[Greater cooperation and communication has lead to the success of humans as a species]]
-- [[Humans have had little time to adjust to being the top predator]]
-
-> ![[books_Sapiens#^299600341]]
-
-
-> ![[books_Sapiens#^297089489]]
+- part of:: [[Greater cooperation and communication has lead to the success of humans as a species]]
+- explained by:: [[Humans have had little time to adjust to being the top predator]]
 
 ### <hr class="footnote"/>
 
@@ -32,3 +30,11 @@ Examples:: Australia and the Americas had many megafaunas and large creatures li
 
 **Topics**:: [[human evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[reference_Sapiens#citation]]
+
+> ![[books_Sapiens#^299600341]]
+
+> ![[books_Sapiens#^297089489]]

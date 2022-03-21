@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/14, review, node/evergreen/claim
-sr-due: 2022-03-21
-sr-interval: 5
+sr-due: 2022-04-04
+sr-interval: 14
 sr-ease: 230
 ---
 
@@ -21,5 +21,5 @@ and I love to group myself with all humans.
 **Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[meta-irony]]
+**Topics**:: [[meta-irony]], [[Politics]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

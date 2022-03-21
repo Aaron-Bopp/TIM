@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-21
-sr-interval: 2
+sr-due: 2022-03-27
+sr-interval: 6
 sr-ease: 230
 ---
 
@@ -21,10 +21,9 @@ and oppressors need reasoning to justify and reinforce their [[social hierarchy]
 
 Once you have made your way to the top of a [[social order]] you know have two main prerogatives:
 1. How do I maintain my spot at the top?
-2. [[What maintains our social order]]
+2. [[What maintains our social order]]?
 
-The most common way of doing this is to justify your [[social hierarchy]] and thus oppression through 'natural law' or theological distinction.
-^[[[books_Sapiens#^299110293]]]
+The most common way of doing this is to justify your [[social hierarchy]] and thus oppression through '[[natural law]]' or theological distinction.
 
 We can see this in:
 - [[Theology preserves hierarchy through deific blessing]]
@@ -38,3 +37,9 @@ We can see this in:
 
 **Topics**:: [[oppression]], [[human experience]], [[marginalization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[reference_Sapiens#citation]]
+
+> ![[books_Sapiens#^299110293]]

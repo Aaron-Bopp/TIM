@@ -3,7 +3,7 @@ created: 2022-02-15T21:47:48
 edited: 
 aliases:
   - null
-tags: created/evergreen/2022/02/15, review, node/evergreen/nugget
+tags: created/evergreen/2022/02/15, review, node/evergreen/example/fun
 sr-due: 2022-03-30
 sr-interval: 25
 sr-ease: 230

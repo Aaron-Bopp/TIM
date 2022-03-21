@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/14, review, node/project
-sr-due: 2022-03-21
-sr-interval: 5
+sr-due: 2022-04-02
+sr-interval: 12
 sr-ease: 230
 ---
 
@@ -22,13 +22,9 @@ How the hell do we understand anything, ever?
 
 You actually didn't learn anything in school. That's not to say school didn't teach you anything, but most of your learning actually happened here (in your bed sleeping)
 
-
-
-
-
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[evergreen notes]], [[knowledge work]], [[learning]]

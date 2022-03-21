@@ -4,14 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-21
+sr-due: 2022-03-22
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[Why is it hard to understand how social order effects us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-> ![[books_Sapiens#^297681749]]
 
 Why can't we realize that we live in an [[imagined order]]?
 
@@ -30,8 +28,6 @@ Other possible reasons:
 
 I think that in modern times we have for the most part realized that we live in a [[Imagined order]] except perhaps for christians? It seems like this question is a lot more meaningful when contrasted with the long held belief in a "natural law" or natural order. These days we have mainly come to the conclusion that our [[social order]] is imagined, but we are still trying to figure out 
 
-I do think that we struggle to understand how [[society]] effects us
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -39,3 +35,9 @@ I do think that we struggle to understand how [[society]] effects us
 
 **Topics**:: [[social order]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[reference_Sapiens#citation]]
+
+> ![[books_Sapiens#^297681749]]

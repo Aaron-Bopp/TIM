@@ -3,9 +3,9 @@ created: 2022-03-19T14:05:19
 edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/19, review, node/evergreen/nugget
-sr-due: 2022-03-21
-sr-interval: 2
+tags: created/evergreen/2022/03/19, review, node/evergreen/example/fun
+sr-due: 2022-03-26
+sr-interval: 5
 sr-ease: 230
 ---
 

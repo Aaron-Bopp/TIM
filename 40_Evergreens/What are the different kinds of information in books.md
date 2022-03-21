@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-21
-sr-interval: 2
+sr-due: 2022-03-27
+sr-interval: 6
 sr-ease: 230
 ---
 
@@ -18,10 +18,9 @@ sr-ease: 230
 
 - part of:: [[How to read to understand]]
 
-
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[reading]], [[information]], [[books]], [[learning]]
