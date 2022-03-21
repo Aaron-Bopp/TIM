@@ -4,25 +4,27 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-21
+sr-due: 2022-03-22
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[What does equality even mean]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
 > ![[books_The Dawn of Everything#^261572336]]
 
 [[David Graeber]] suggests that it is not equal [[material conditions]] but equal access to contribute to decisions about our [[social order]].
-^[[[books_The Dawn of Everything#^261572339]]]
-
-
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[equality]]
+**Topics**:: [[equality]], [[inequality]], [[social order]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[reference_The Dawn of Everything#citation]]
+
+> ![[books_The Dawn of Everything#^261572339]]

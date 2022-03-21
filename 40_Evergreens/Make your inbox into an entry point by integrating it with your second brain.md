@@ -2,9 +2,9 @@
 created: 2021-05-25
 edited: 
 tags: created/evergreen/2021/05/25, review, node/evergreen/claim
-sr-due: 2022-03-21
-sr-interval: 43
-sr-ease: 179
+sr-due: 2022-04-13
+sr-interval: 23
+sr-ease: 159
 ---
 
 #### [[Make your inbox into an entry point by integrating it with your second brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

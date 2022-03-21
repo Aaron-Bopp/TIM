@@ -3,9 +3,9 @@ created: 2022-03-21T09:16:35
 edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/21, review, node/evergreen/claim
-sr-due: 2022-03-21
-sr-interval: 1
+tags: created/evergreen/2022/03/21, review, node/evergreen/question
+sr-due: 2022-03-23
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -18,12 +18,12 @@ If we believe that these really are impacting our ability to do these things, wh
 
 Is a decision all of the influences leading up to an action or is it just the moment of turning one way or the next.
 
+#TO/PONDER/IDEA [[radical freedom]]
 
-[[radical freedom]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[free will]], [[determinism]], [[philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

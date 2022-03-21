@@ -13,9 +13,13 @@ sr-ease: 210
 
 This is often the difference between prescriptive and holistic treatment.
 
-- [[There has been a decrease in mental health not an increase in mental illness]]
-- [[Yoga is a wholistic philosophy of self-improvement]]
-- [[Meditation improves mental, physical, and emotional health]]
+[[Yoga is a wholistic philosophy of self-improvement]], because it encourages and lifestyle that can improve your life. This is not to say that it is a substitute for drugs, but [[Drugs may be being overprescribed]] and really what would improve people's live is a lifestyle change.
+
+We also know that things like, [[exercise]], [[human interaction|socializing]], and [[meditation]],
+^[[[Meditation improves mental, physical, and emotional health]]]
+all holistically improve your [[mental health]].
+
+- part of:: [[There has been a decrease in mental health not an increase in mental illness]]
 
 #TO/TEND/GRAFT [[notes_Treatment Principles for Anxiety and Depression]]
 

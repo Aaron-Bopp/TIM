@@ -1,3 +1,13 @@
+I engage in two major kinds of [[writing]]
+1. Writing to enable idea generation
+2. Writing to clarify understanding
+
+[[writing]] is good [[friction]], pushing myself to write out my thoughts makes me organize them and put them out linearly. This means I have to examine and understand the nature of links between different thoughts.
+
+Writing also enables idea generation by effectively letting you "know" more things. Often when I write stuff down in my notes I already have a pretty good idea of what I think of them, but that I idea might fade. Writing it down, especially (and possibly only) in [[evergreen notes]] lets that idea grow over time.
+
+This is why there is a difference between [[spaced repetition]] and [[incremental writing]] for me, even though I write during both.
+[[incremental writing]] is to push me to write to clarify understanding, and [[spaced repetition]] is to help me write for idea generation.
 
 > [!tiktok wm-sm] Egg corns
 > 
@@ -28,7 +38,7 @@ self-blame and social deficiency
 > ![[tweets_Tweets From 🐸 Frog Time 🐸#261542754q]]
 
 #TO/TEND/MULCH 
-One manifestation of this defense mechanisms is: [[Avoidance IS the most-efficient way of dealing with emotion]]. Many people will find that they are only able to verbalize emotions that they have processed on their own first.
+One manifestation of this defense mechanisms is: [[Avoidance IS the most-efficient way of dealing with emotion]]. Many people will find that they are only able to verbalize [[emotions]] that they have processed on their own first.
 
 #TO/EXPLORE/RESEARCH etymology of conscience
 > If you say that you cannot do something in good [[conscience]] you mean that you cannot do it because you think it is wrong. 
