@@ -17,10 +17,11 @@ sr-ease: 230
 
 > ![[books_Sapiens#^297681741]]
 
-Even [[The Founding Fathers]] acknowledged this, only claiming that all *men* are equal:
+Despite modern [[Conservatism|Conservatives]] insistence on the prescience of 
+[[The Founding Fathers]], they acknowledged this, only claiming that all *men* are equal:
 [[Most rights were denied to Americans at its founding]]
-They would have claimed that this equivalency (and non-white and non-men's unequivalency) to be a result of the 'natural law'.
-This natural law imbues so some sort of essense.
+They would have claimed that this equivalency (and non-white and non-men's inequivalence) to be a result of the 'natural law'.
+This [[natural law]] imbues so some sort of essence.
 
 - [[Oppressors invent reasoning for their oppression]]
 - [[What maintains our social order]]

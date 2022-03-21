@@ -15,7 +15,7 @@ tags: created/topic/2022/03/20, node/topic/term
 > 
 
 
-**See**::
+**See**:: [[anthropology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

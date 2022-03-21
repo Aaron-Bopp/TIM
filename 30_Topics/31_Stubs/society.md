@@ -10,7 +10,7 @@ tags: created/topic/2021/10/23, node/topic/term
 ##### <s class="topic-title">[[society]]</s>
 
 In one sense 
-an extended social group having a distinctive cultural and economic organization  
+an extended social group having a distinctive cultural and economic organization
 and in another sense
 the [[material conditions]] that make up that cultural and economic organization.
 Alternatively:: [[social order]].
