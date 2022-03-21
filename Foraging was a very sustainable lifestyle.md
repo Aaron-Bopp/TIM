@@ -22,7 +22,6 @@ But the social aspect of foraging's sustainability is also important.
 [[There is a limit to the size of a group ordered purely by personal communication]]
 and most bands of [[hunter-gatherers]] likely fell within this limit.
 This means that the [[Imagined reality]] of the tribe could be easily shared by word of mouth.
-^[[[books_Darwin's Cathedral#^294094920]]]
 [[Social order is built off of a shared belief in an imagined reality]], and 
 [[Social control allows groups to function as adaptive units]].
 This means that 

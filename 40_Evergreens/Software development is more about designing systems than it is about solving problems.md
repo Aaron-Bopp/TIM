@@ -24,7 +24,7 @@ Depending on the complexity of your problem you may also have to consider
 5. Physical limitations of the hardware and connections between services
 8. Regulations of data storage
 9. Regulations of software design
-10. Regulations of software ethics
+10. Regulations of software [[ethics]]
 12. Political structure
 13. Economic structure 
 

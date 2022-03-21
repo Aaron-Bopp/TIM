@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-19
-sr-interval: 1
+sr-due: 2022-03-23
+sr-interval: 3
 sr-ease: 230
 ---
 
@@ -13,8 +13,6 @@ sr-ease: 230
 
 
 > ![[books_Sapiens#^297681740]]
-
-
 > ![[books_Sapiens#^297681741]]
 
 Despite modern [[Conservatism|Conservatives]] insistence on the prescience of 
@@ -31,5 +29,5 @@ This [[natural law]] imbues so some sort of essence.
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[equality]]
+**Topics**:: [[equality]], [[natural law]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
