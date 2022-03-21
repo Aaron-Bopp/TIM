@@ -45,7 +45,7 @@ sr-ease: 250
 		- [[Bupropion]] - balances negative affects of [[SSRI]]s 
 			- also helps with [[ADHD]] and other dopamine stuff
 - [[Psychotherapy]]  
-	- [[Psychodynamic Therapy]] is the [[Sigmund Freud|Freud]]ian type of therapy
+	- [[Psychodynamic Therapy]] is the [[Sigmund Freud|Freud]]ian type of therapy  
 		- traditional talk therapy
 		- mainly listening and asking questions
 		- deeper, takes a long time, may lead to longer effects
@@ -62,4 +62,5 @@ sr-ease: 250
 		- not to be confused with new age treatments without research and data
 			- just because other things can sometimes be effective, doesn't mean that they will be helpful
 			- less regulation
+			
 next:: [[notes_Intro to Ayurveda]]

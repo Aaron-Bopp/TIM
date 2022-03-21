@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/20, review, node/evergreen/example/fun
-sr-due: 2022-03-21
-sr-interval: 17
+sr-due: 2022-05-03
+sr-interval: 43
 sr-ease: 230
 ---
 
@@ -13,7 +13,7 @@ sr-ease: 230
 
 Source:: [General Relativity: Top 05 Mishaps  - YouTube](https://www.youtube.com/watch?v=Z4oy6mnkyW4)
 
-Your speed [[time dilation]] on earth (due to different speeds at the equator's vs the pole) is perfectly cancelled out by your gravitational [[time dilation]] at sea level. 
+Due to different speeds at the equator's vs the pole, we should experience a [[time dilation]] based on our position on earth but is perfectly cancelled out by your gravitational [[time dilation]] at sea level. 
 
 ### <hr class="footnote"/>
 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-21
-sr-interval: 5
+sr-due: 2022-04-01
+sr-interval: 11
 sr-ease: 210
 ---
 
@@ -17,7 +17,8 @@ Both pharmaceutical [[drugs]] and [[herb]]s affect us by impacting the [[Neurotr
 
 Another way that our [[body]] can effect our [[mood]] is through our [[brain-gut axis]]: [[Gut health directly impacts mental health]]
 
-- [[Mental health is a reaction to one's environment]]
+- from:: [[Mental health is a reaction to one's environment]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

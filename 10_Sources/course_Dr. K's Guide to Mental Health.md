@@ -67,7 +67,7 @@ sr-ease: 250
 		- [[Self-belief is fundamental to good karma]]
 		- [[notes_Vedic Psychology]]
 - [[notes_Treatment Principles for Anxiety and Depression]]
-	- [[There is a difference between managing and illness and curing it]]
+	- [[Medical treatment should be wholistic not prescriptive]]
 	- [[There has been a decrease in mental health not an increase in mental illness]] 
 	- [[anxiety]]
 		- [[notes_Anxiety 101]]
