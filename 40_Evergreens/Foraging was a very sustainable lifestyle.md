@@ -23,7 +23,7 @@ But the social aspect of foraging's sustainability is also important.
 and most bands of [[hunter-gatherers]] likely fell within this limit.
 This means that the [[Imagined reality]] of the tribe could be easily shared by word of mouth.
 [[Social order is built off of a shared belief in an imagined reality]], and 
-[[Social control allows groups to function as adaptive units]].
+[[Moral social control promotes pro-social behavior in groups]].
 This means that 
 ### <hr class="footnote"/>
 

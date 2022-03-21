@@ -23,7 +23,7 @@ Spiritual beliefs can promote behavior that is positive to the group without req
 Perhaps religion allows an easier to way to pass on practices without them being questioned.
 [[Social order is built off of a shared belief in an imagined reality]]
 
-[[Social control allows groups to function as adaptive units]]
+[[Moral social control promotes pro-social behavior in groups]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

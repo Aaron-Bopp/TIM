@@ -18,7 +18,6 @@ sr-ease: 230
 # Darwin's Cathedral
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
 **Source**:: [[reference_Darwin's Cathedral]]
 

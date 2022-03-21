@@ -35,7 +35,7 @@ As opposed to a more social answer, these things are personal. We want to succee
 [[The brain is powerful enough to create supernatural experiences]]
 
 ##### [[Religion promotes high social control]]
-[[Social control allows groups to function as adaptive units]]
+[[Moral social control promotes pro-social behavior in groups]]
 [[Social order is built off of a shared belief in an imagined reality]]
 
 ### <hr class="footnote"/>

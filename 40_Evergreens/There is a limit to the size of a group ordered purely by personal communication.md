@@ -20,7 +20,7 @@ sr-ease: 230
 
 
 - This is why [[Religion promotes high social control]] is so important.
-	- [[Social control allows groups to function as adaptive units]]
+	- [[Moral social control promotes pro-social behavior in groups]]
 - enables:: [[Foraging was a very sustainable lifestyle]]
 
 ### <hr class="footnote"/>

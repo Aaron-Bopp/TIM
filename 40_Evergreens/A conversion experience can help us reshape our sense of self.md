@@ -13,17 +13,18 @@ sr-ease: 190
 
 > ![[books_Darwin's Cathedral#293875897q]]
 
-- can lead to:: [[Belief pulls you forward into life]]
-- explains:: [[Religious concepts are often too powerful for a child's mind]]
-- in contrast to:: [[Meditation helps us detach negative attachments]]
-	- this is a fast process, not a slow process
+- part of:: [[Belief pulls you forward into life]]
+- part of:: [[The Christian worldview is incompatible with most other worldviews]]
 - part of:: [[The materialistic view of religions examines why humans invented and clung to religion]]
-- [[A secure worldview is the best defense against existential dread]] is part of why we stick with our new [[self]] after conversion
-	- part of:: [[The Christian worldview is incompatible with most other worldviews]]
+- why:: [[Religious concepts are often too powerful for a child's mind]]
+- contrasts:: [[Meditation helps us detach negative attachments]]
+	- this is a fast process, not a slow process
+- works with::[[A secure worldview is the best defense against existential dread]]
+	- is part of why we stick with our new [[self]] after conversion
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[religion]], [[belief]], [[self]]

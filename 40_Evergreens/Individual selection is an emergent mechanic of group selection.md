@@ -16,7 +16,7 @@ sr-ease: 210
 
 [[Functionally integrated social groups become organisms in their own right]] 
 and 
-[[Social control allows groups to function as adaptive units]]
+[[Moral social control promotes pro-social behavior in groups]]
 lead to this fact.
 If our cells are operating at a level of [[group selection]],
 then we are a the result of that.

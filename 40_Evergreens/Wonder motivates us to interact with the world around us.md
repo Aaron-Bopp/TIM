@@ -20,8 +20,7 @@ and could explain [[Human's will find explanations for inexplainable things]].
 From birth we are desperate for understanding of the world around us, 
 often the cries of child can be solved just by giving them something new to look at. 
 
-In our modern world these emotive responses can often be cryptic 
-resulting in:: [[Complex emotions are imperfect understandings of primal urges]]
+- because:: [[Complex emotions are imperfect understandings of primal urges]]
 
 ### <hr class="footnote"/>
 
