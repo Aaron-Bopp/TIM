@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/16, review, node/evergreen/qoute
-sr-due: 2022-03-20
-sr-interval: 3
+sr-due: 2022-03-27
+sr-interval: 7
 sr-ease: 230
 ---
 

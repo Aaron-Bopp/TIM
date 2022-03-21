@@ -33,7 +33,7 @@ The development and [[domestication]] of crops is one of the most remarkable thi
 
 ### How farming changed the human psyche
 
-[[The advent of farming lead to the advent of cognitive anxiety]]
+[[The advent of farming lead to the advent increased the prevalence of anxiety]]
 
 
 

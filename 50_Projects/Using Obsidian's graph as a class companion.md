@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/project
-sr-due: 2022-03-19
-sr-interval: 1
+sr-due: 2022-03-23
+sr-interval: 3
 sr-ease: 230
 ---
 
@@ -38,5 +38,5 @@ You can see the effect of this on my [[Graph Timeline#January]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[Obsidian (software)|Obsidian]], [[knowledge management]], [[learning]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

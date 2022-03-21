@@ -19,7 +19,7 @@ While [[Hunter-gathers were capable of mass cooperation]] like in the case of [[
 The advent of farming was not a stroke of genius by any one human, it was a coincidence of one species taking advantage of another, making this a
 result of:: [[Farming domesticated humans]].
 
-While humans were the ones manually spreading, planting, and harvesting wheat, it's effect on the human [[social order]] was out of any individuals control.
+While humans were the ones manually spreading, planting, and harvesting wheat, it's effect on [[society]] was out of any individuals control.
 [[Farming outcompeted foraging by allowing for higher populations]], meaning that over generations farming became an unavoidable way of life.
 Just as [[foraging]] was stable because of low populations, once farming allowed for higher populations there was no turning back.
 

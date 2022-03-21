@@ -84,7 +84,7 @@ Harari then starts to discuss the effect that farming had on the human psyche.
 > ![[books_Sapiens#^297681721]]
 
 [[When luxury becomes a necessity it is no longer a luxury]]
-[[The advent of farming lead to the advent of cognitive anxiety]]
+[[The advent of farming lead to the advent increased the prevalence of anxiety]]
 
 Harari credits this increase in anxiety to the advent of his next major concept, [[Imagined order]].
 ^[[[books_Sapiens#^297681726]]]

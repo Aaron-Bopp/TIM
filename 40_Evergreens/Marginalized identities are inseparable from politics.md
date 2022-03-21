@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/26, review, node/evergreen/claim
-sr-due: 2022-03-20
-sr-interval: 9
+sr-due: 2022-04-08
+sr-interval: 19
 sr-ease: 210
 ---
 
@@ -14,6 +14,7 @@ sr-ease: 210
 - [[The black identity has evolved past it's political origins]]
 - [[Whiteness was created to marginalize people of color]]
 - [[Race is a social construct]]
+- [[Oppressors invent reasoning for their oppression]]
 
 ### <hr class="footnote"/>
 

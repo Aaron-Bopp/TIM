@@ -2,7 +2,7 @@
 created: 2021-07-18
 edited: 
 aliases:
-- dissasociate
+- disassociate
 - disassociated
 tags: created/topic/2021/07/18, node/topic/stub
 ---
@@ -10,6 +10,7 @@ tags: created/topic/2021/07/18, node/topic/stub
 
 ##### <s class="topic-title">[[dissociation]]</s>
 
+[[dissociation]]
 **See**:: [[anxiety]], [[mental illness]], [[Neuroscience]], [[Depersonalization]]
 
 %% DO NOT EDIT BELOW %%

@@ -1,9 +1,9 @@
 ---
 created: 2021-06-28
 edited: 2022-01-25
-tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-03-20
-sr-interval: 55
+tags: created/evergreen/2021/06/28, review, node/evergreen/topic
+sr-due: 2022-07-21
+sr-interval: 123
 sr-ease: 230
 ---
 
@@ -13,9 +13,10 @@ The modern church is focused on building a [[counter-culture]] movement that is 
 [[The church will fail if christians keep aligning themselves with hate instead of love]]
 
 Christians are especially weak to this because [[The Christian worldview is incompatible with most other worldviews]] and [[You will never be pushed to understand marginalization unless you are part of a marginalized group]].
-[[Evangelicalism|Evangelical]] Christian's have had one of the highest #TO/WRITE more about christians privelege since [[Reagan]]
+[[Evangelicalism|Evangelical]] Christian's have had one of the highest #TO/WRITE more about christians privilege since [[Reagan]]
 
 
+#TO/TEND/GRAFT 
 - [[Evangelicalism has commodified faith for profit]]
 	- [[Non-faith issues have been co-opted to keep people in the Christian church]]
 		- ex: How [[Ronald Reagan invented modern conservatism]]

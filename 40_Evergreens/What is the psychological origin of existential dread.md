@@ -4,14 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/18, review, node/evergreen/claim
-sr-due: 2022-03-20
-sr-interval: 2
+sr-due: 2022-03-26
+sr-interval: 6
 sr-ease: 230
 ---
 
 #### [[What is the psychological origin of existential dread]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-
 
 #TO/PONDER/IDEA What is [[existential dread]]?
 
@@ -24,10 +22,12 @@ Having a [[sense of impending doom]] is a recognized symptom of medications like
 
 [[Self-awareness]] likely makes humans more prone to existential dread. 
 
+- works with:: [[You don't want to jump off the cliff you're just afraid of falling]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[existential dread]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

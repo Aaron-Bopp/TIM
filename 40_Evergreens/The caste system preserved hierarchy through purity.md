@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/example
-sr-due: 2022-03-20
-sr-interval: 1
+sr-due: 2022-03-22
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -19,7 +19,6 @@ enabled by:: [[Hierarchy enables oppression]]
 > ![[books_Sapiens#^299110307]]
 
 example of:: [[Oppressors invent reasoning for their oppression]]
-
 
 example of:: [[Religion promotes high social control]]
 
