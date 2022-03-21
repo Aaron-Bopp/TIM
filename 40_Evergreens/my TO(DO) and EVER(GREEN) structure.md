@@ -25,7 +25,7 @@ This is an incomplete list, and new categories can be added whenever it feels ne
 - **\#TO**
     - **\#TO/TEND** tasks relating to [[evergreen notes]] that do not require leaving [[Obsidian (software)|Obsidian]]
 	    - **\#TO/TEND/GRAFT** Formalize or conceptualize a connection
-	    - **\#TO/TEND/MULCH** For text that isn't related to the concept or but isn't untrue
+	    - **\#TO/TEND/MULCH** For text that isn't related to the concept but could be used elsewhere
 	    - **\#TO/TEND/PRUNE** For text that is untrue or irrelevant
 	    - **\#TO/TEND/WEED** Fix syntax errors
 	- **\#TO/DO** 

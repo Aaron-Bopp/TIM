@@ -23,7 +23,7 @@ Unfortunately, [[Trans children will repress their dysphoria if they have been e
 
 Sex determines [[phenotype]] and [[genotype]] but not [[gender]]
 
-next:: [[Gender has historically been non-binary]]
+similarly:: [[Gender has historically been non-binary]]
 
 ### <hr class="footnote"/>
 

@@ -49,6 +49,7 @@ Is it possible to think your way out of everything? [[Jnana Yoga]]
 
 
 What is the value of open ended tasks? specifically [[my TO(DO) and EVER(GREEN) structure#EVER GREEN]]
+they are like sticky notes if you stumble back across them and a search key if you want to find them
 
 
 [[conceptual notes]] help you get the full extent of your brain power #TO/PONDER/IDEA maybe when only combined with good systems [[Friction is a hindrance to learning]]
