@@ -1,0 +1,26 @@
+---
+created: 2022-03-21T09:04:51 
+edited: 
+aliases:
+  - null
+tags: created/evergreen/2022/03/21, review, node/evergreen/claim
+sr-due: 2022-03-21
+sr-interval: 1
+sr-ease: 230
+---
+
+#### [[How does proximate explanation lead to ultimate explanation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+from:: [[Biological processes can only give context to behavior not predict it]]
+
+> ![[books_Darwin's Cathedral#^297089495]]
+
+> ![[books_Darwin's Cathedral#^297089496]]
+
+### <hr class="footnote"/>
+
+**Status**:: #EVER/SPROUT
+*edited `=this.file.mtime`*
+
+**Topics**:: <% tp.file.cursor(1) %>
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

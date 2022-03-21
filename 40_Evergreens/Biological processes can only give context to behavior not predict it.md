@@ -17,14 +17,11 @@ we could predict our [[behavior]].
 
 This is an important consideration in the question of 
 [[Do we have free will]],
-but whether it is true or not, we can all recognize that we *feel* like we have much more control over our lives that this would lead us to [[belief|believe]].
-^[In [[eastern philosophy]] this idea is explored through [[Karma Fal]].]
-It is true that
-[[Complex emotions are imperfect understandings of primal urges]], 
-and that our [[Mental health is a reaction to one's environment]], 
-but neither of these can fully explain [[human behavior]], not even close.
+but whether it is true or not, we can all recognize that we *feel* like we have much more control over our lives that this would lead us to [[belief|believe]]. 
+^[This is a confusing relationship for many of us, sometimes feeling like we are in control and sometimes feeling like every decision we make is just a product of our brain chemistry. [[What constitutes a decision]]]
 
-[[Evolutionary Psychology]] tries to understand [[human behavior]] through the [[framework]] of [[natural selection]] and [[Evolution]], 
+Many people look to [[Evolution]] to provide the explanations for our [[behavior]].
+This is because for years [[Evolutionary Psychology]] has been claiming to have found "the gorging gene" or "the aggression gene,"
 but [[Evolutionary Psychology is just a framework not a prescription of behavior]].
 
 [[David Sloan Wilson]] speaks in detail about this in his book [[books_Darwin's Cathedral|Darwin's Cathedral]]
@@ -32,15 +29,24 @@ but [[Evolutionary Psychology is just a framework not a prescription of behavior
 > Psychologists should be trying to identify and understand these specialized circuits [that enable us to solve our own problems of survival and reproduction] rather than pretending that [[human behavior]] can be derived from a few law-like mechanistic principles. 
 > ^[[[books_Darwin's Cathedral#292537218q]]]
 
+We will likely never be able to fully predict behavior based of of individual genes, but it is undeniable that that we can explain some behaviors through [[Neuroscience]] and [[natural selection]]. 
+^[Keep in mind [[Most problems cannot be significantly understood through a single framework]]. This has been in the downfall of many great scientists because [[Experts are often far too confident in the effectiveness of their theories]]]
+
+#TO/DO/FIND example of sticking electrodes in brains and damaged hypothalamus changing behavior
+
+%%
+#TO/TEND/MULCH 
+It is true that
+[[Complex emotions are imperfect understandings of primal urges]], 
+and that our [[Mental health is a reaction to one's environment]], 
+but neither of these can fully explain [[human behavior]], not even close.
+
 Nevertheless it is true that
 [[Our brains are built around survival]].
 Studying the biological influences of people's behaviors can of course give great insight into our [[behavior]] as long as we understand that 
-[[Most problems cannot be significantly understood through a single framework]].
+%% 
 
-> ![[books_Darwin's Cathedral#^297089495]]
-
-> ![[books_Darwin's Cathedral#^297089496]]
-
+works with:: [[How does proximate explanation lead to ultimate explanation]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

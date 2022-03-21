@@ -12,6 +12,7 @@ sr-ease: 150
 #### [[Do we have free will]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 I feel like we don't have [[free will]] to choose everything in our life. Our circumstances control 99% of our life, through limiting or opening up options, both internally and externally. But with even that 1% we can influence our life and set ourselves on the path to [[enlightenment]] or [[suffering]]: [[Buddhism outlines a path and practice to end suffering, but does not promise it]] 
+%% #TO/TEND/MULCH In [[eastern philosophy]] this idea is explored through [[Karma Fal]]. %%
 
 On a more practical level, [[You can't blame people for failing to rise above their circumstances]] and [[Insecure material conditions increase cognitive load and reduce outcomes]]
 
