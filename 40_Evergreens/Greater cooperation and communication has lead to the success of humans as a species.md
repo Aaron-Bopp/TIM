@@ -4,18 +4,16 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/04, review, node/evergreen/claim
-sr-due: 2022-03-21
-sr-interval: 10
-sr-ease: 230
+sr-due: 2022-03-26
+sr-interval: 5
+sr-ease: 210
 ---
 
 #### [[Greater cooperation and communication has lead to the success of humans as a species]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-> Ever since the [[Cognitive Revolution]] [[Homo sapiens]] has been able to revise its [[behavior]] rapidly in accordance with changing needs. This opened a fast lane of [[cultural evolution]], bypassing the traffic jams of genetic [[evolution]]. Speeding down this fast lane, [[Homo sapiens]] soon far outstripped all other human and animal species in its ability to cooperate. 
+> Ever since the [[Cognitive Revolution]], [[Homo sapiens]] has been able to revise its [[behavior]] rapidly in accordance with changing needs. This opened a fast lane of [[cultural evolution]], bypassing the traffic jams of genetic [[evolution]]. Speeding down this fast lane, [[Homo sapiens]] soon far outstripped all other human and animal species in its ability to cooperate. 
 >
 > <cite>[[books_Sapiens|Sapiens by Yuval Noah Harari]]</cite>
-
-
 
 [[Cultural evolution is not confined to the slow process of genetic evolution]], partially because 
 cooperation and communication are the cornerstones of [[group selection]] and [[reciprocal altruism]].
@@ -39,7 +37,6 @@ we can use our understanding of ancient humans to provide context to modern beha
 like [[Humans love to group eachother]].
 
 
-> ![[books_Darwin's Cathedral#291449823q]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -47,3 +44,12 @@ like [[Humans love to group eachother]].
 
 **Topics**:: [[group selection]], [[human evolution]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[reference_Sapiens#citation]]
+
+> ![[books_Sapiens#^294248540]]
+
+![[reference_Darwin's Cathedral#citation]]
+> ![[books_Darwin's Cathedral#291449823q]]

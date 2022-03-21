@@ -2,8 +2,8 @@
 created: 2021-05-03
 edited: 
 tags: created/evergreen/2021/05/03, review, node/evergreen/claim
-sr-due: 2022-03-21
-sr-interval: 65
+sr-due: 2022-07-20
+sr-interval: 121
 sr-ease: 190
 ---
 
@@ -13,9 +13,10 @@ As we work through [[trauma]], it can often feel like we are losing so much of w
 
 These wounds have been major factors in our lives, but they have been major negative factors. [[Negative influences impact us more than positive influences]]. Once we can heal our childhood wounds, we will be left with the things that we have pursued time and time again and not the things that happened once and scarred us forever.
 
-Additionally, we can now pursue things that we never would have considered before, because [[We value our biggest insecurities because they protect us from the biggest threats]] and [[Your anxiety knows your insecurities better than you do]].
+Additionally, we can now pursue things that we never would have considered before, 
+because:: [[Your anxiety knows your insecurities better than you do]].
 This is why working through [[trauma]] is 
-key in:: [[How to pursue the positive things in life]]
+part of:: [[How to pursue the positive things in life]]
 
 This doesn't mean that there aren't downsides to working through [[trauma]], but that the good outweighs the bad, and that you won't be able to realize what the good and bad is until you heal.
 We cannot look at a world where so many people are affected by [[trauma]] and think that once everybody is healed, we will all be the same. [[Working through trauma can involve of a lot of letting go]] and some of these things you are letting go off may feel too valuable to abandon, but [[Sometimes we can't grow until we change our environment]].  This may be difficult for you and those around you, but loving yourself is always worth it: [[Happiness is enlightenment and sadness is delusion]]

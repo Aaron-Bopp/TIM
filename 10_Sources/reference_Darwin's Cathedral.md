@@ -11,6 +11,14 @@ tags: created/source/2022/02/27, node/source/notes
  
 **Source**:: [[books_Darwin's Cathedral]]
 
+##### ^citation
+Wilson, D. (2002) *Darwin's Cathedral: Evolution, Religion, and the Nature of Society*
+
+^citation
+
+##### ^blurb
+*Darwin's Cathedral: Evolution, Religion, and the Nature of Society* is a 2002 book by [[David Sloan Wilson]] which proposes that [[religion]] is a multi-level adaptation—i.e., a product of [[cultural evolution]] developed through multi-level selection.
+
 ## Summaries
 ### Chapter 1
 

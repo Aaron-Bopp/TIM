@@ -22,5 +22,5 @@ from:: [[Biological processes can only give context to behavior not predict it]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[natural selection]], [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/02/10, review, node/topic/outline
-sr-due: 2022-03-21
-sr-interval: 5
+sr-due: 2022-04-03
+sr-interval: 13
 sr-ease: 219
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -14,7 +14,7 @@ sr-ease: 219
 
 Group selection takes place when a trait is passed on because the trait that an individual or individuals carry may be detrimental to themselves, but benefits the survival of the group.
 
-**See**:: [[natural selection]], [[inclusive fitness]]
+**See**:: [[natural selection]], [[inclusive fitness]], [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### Application

@@ -16,6 +16,8 @@ because:: [[Hierarchy enables oppression]]
 and oppressors need reasoning to justify and reinforce their [[social hierarchy]].
 
 > ![[books_Sapiens#^297681743]]
+>
+> <cite>[[Yuval Noah Harari]]</cite>
 
 Once you have made your way to the top of a [[social order]] you know have two main prerogatives:
 1. How do I maintain my spot at the top?
