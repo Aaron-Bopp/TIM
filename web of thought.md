@@ -16,6 +16,10 @@ A reference to [[networked thinking]], usually used in [[knowledge management]] 
 
 More broadly this can refer to how the [[human brain]] stores and processes [[memory|memories]] and [[information]].
 
+##### Outline
+
+see:: [[knowledge management]], [[My TIM]], [[note writing]]
+
 ##### ^dataviews
 
 %% DO NOT EDIT BELOW %%

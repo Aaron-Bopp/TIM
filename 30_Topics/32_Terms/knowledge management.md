@@ -24,10 +24,12 @@ and many other systems of [[note writing]].
 Not yet widely recognized in [[science]] or academia,
 the term knowledge management became more widely used during [[COVID-19]] lockdowns in 2020. #TO/DO/CITE 
 
-Knowledge management is usually seen as a part of the tools that allow for [[bi-directional links]], templating, and use of some kind of [[knowledge graph]], although these are not required as long as the software provides functionality beyond writing and reading text.
+Knowledge management is usually seen as a part of the tools that allow for [[bi-directional links]], templating, and use of a [[knowledge graph]], although these are not required as long as the software provides functionality beyond writing and reading text.
 Examples of these tools would be [[Obsidian (software)|Obsidian]], [[Roam Research (software)|Roam Research]], [[Evernote]], [[Notion]], and others.
 
 Those engaging in [[knowledge management]] are usually asking the questions, "What are the best apps for note taking?", "How do we learn more effectively?", "What is the best way store and access what we know?", and "How can technology be leveraged to assist in learning?"
+
+Knowledge management is seen as a major concern for [[knowledge work]].
 
 ##### Outline
 
@@ -47,10 +49,19 @@ Those engaging in [[knowledge management]] are usually asking the questions, "Wh
 		- [[What are the differences between evergreen notes and conceptual notes]]
 		- [[Write your notes with a system not within a system]]
 	- Technologies role
-		- [[A totally integrated machine should be infinitely scalable]]
-		- [[A totally integrated machine should automate as much of the thinking process as possible]]
+		- [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
+		- [[Using spaced repetition for your conceptual notes]]
+		- [[Readwise Export for Obsidian - Templates and Process]]
 - Emotional design
-	- 
+	- [[A second brain should be an extension of your thought]]
+	- [[Communities are knowledge graphs]]
+- Other considerations
+	- [[Defined relationships are superior to contextual backlinks]]
+	- [[Make your inbox into an entry point by integrating it with your second brain]]
+	- [[Time is a valuable mode in a second brain]]
+	- [[Stub notes are data structures for implicit knowledge gathering]]
+- Historical predecessors
+	- [[Sumerians invented writing to store large amounts of data]]
 
 ##### ^dataviews
 
@@ -72,6 +83,11 @@ Those engaging in [[knowledge management]] are usually asking the questions, "Wh
 %% DO NOT EDIT ABOVE %%
 
 ##### Discussion
+
+[[My TIM]] discusses my system in more detail.
+[[Evergreen notes]] and [[second brain]] are two popular paradigms that I take inspiration from, but within the knowledge management community many other systems are used, see [[note writing]].
+
+[[Productivity]] and [[learning]] are two major concerns of people engaging in knowledge work, which associates it with other subjects in those spaces such as todo or productivity apps, [[spaced repetition]], [[Blooms taxonomy]] and more.
 
 [second brain, wiki, note-taking apps boom overview + visualising .md links? : opensource](https://www.reddit.com/r/opensource/comments/gsxeys/second_brain_wiki_notetaking_apps_boom_overview/)
 
