@@ -27,11 +27,12 @@ The easiest way that we can surpass the first brain is *permanency.* Data can si
 
 Much of [[knowledge management]] is centered around how to handle these problems: [[A healthy second brain requires a surplus of entry points]]
 
-##### Counter:: Nodes in the [[second brain]] are whatever you make of them
+##### Counterpoint:: Nodes in second brain are whatever you make of them
 
 You shouldn't ever take anybody's word in the [[knowledge management|PKM]] [[community]] as law, because you should [[Write your notes with a system not within a system]]. [[Choosing a note writing system is choosing a system for thought]], but [[When in doubt, write what you think]].
 
 - [[A totally integrated machine should be infinitely scalable]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 

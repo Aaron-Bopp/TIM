@@ -5,8 +5,8 @@ aliases:
   - eastern system
   - eastern
 tags: created/topic/2021/07/03, node/topic/stub
-sr-due: 2022-03-19
-sr-interval: 2
+sr-due: 2022-04-01
+sr-interval: 10
 sr-ease: 234
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

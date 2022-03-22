@@ -9,7 +9,7 @@ aliases:
 tags: created/topic/2021/07/21, node/topic/outline
 sr-due: 2022-03-23
 sr-interval: 1
-sr-ease: NaN
+sr-ease: 185
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

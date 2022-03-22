@@ -2,9 +2,7 @@
 created: 2021-05-22
 edited: 
 tags: created/topic/2021/05/22, node/topic/moc
-sr-due: 2022-03-23
-sr-interval: 1
-sr-ease: NaN
+
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

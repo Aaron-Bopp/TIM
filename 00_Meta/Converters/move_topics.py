@@ -78,23 +78,28 @@ def update_tag(text, name, topics):
 if __name__ == '__main__':
     # # get current working directory
     # os.chdir(r'30_Topics')
-    # directory = r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM'
-    directory = r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics'
+    directory = r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM'
+    # directory = r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics'
     # print(directory)
     # move_stubs(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics')
 
     topics = get_eg_topics(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\40_Evergreens')
+    table = "| Topic | Related Notes |\n| --- | --- |\n"
+    for note in topics:
+        table += f"| [[{note}]] | {len(topics[note])} |\n"
+    with open(directory + r'\20_Entry\topics.md', 'w', encoding='utf-8') as f:
+        f.write(table)
 
-    for root, dirs, files in os.walk(directory):
-            for filename in files:
-                if filename.endswith('.md'):
-                    filepath = os.path.join(root, filename)
-                    with open(filepath, 'r', encoding='utf-8') as f:
-                        text = f.read()
-                    name = filename.replace(r'.md', '')
-                    # new_text = text.replace('<% tp.file.include("[[TITLE-TOPIC]]") %>\n', f'\n##### <s class="topic-title">[[{name}]]</s>')
-                    new_text = update_tag(text, name, topics)
-                    if text != new_text:
-                        with open(filepath, 'w', encoding='utf-8') as f:
-                            f.write(new_text)
-                            # f.write(update_tag(text, name, topics))
+    # for root, dirs, files in os.walk(directory):
+    #         for filename in files:
+    #             if filename.endswith('.md'):
+    #                 filepath = os.path.join(root, filename)
+    #                 with open(filepath, 'r', encoding='utf-8') as f:
+    #                     text = f.read()
+    #                 name = filename.replace(r'.md', '')
+    #                 # new_text = text.replace('<% tp.file.include("[[TITLE-TOPIC]]") %>\n', f'\n##### <s class="topic-title">[[{name}]]</s>')
+    #                 new_text = update_tag(text, name, topics)
+    #                 if text != new_text:
+    #                     with open(filepath, 'w', encoding='utf-8') as f:
+    #                         f.write(new_text)
+    #                         # f.write(update_tag(text, name, topics))

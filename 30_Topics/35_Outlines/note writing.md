@@ -4,9 +4,7 @@ edited:
 tags: created/topic/2021/06/27, node/topic/moc
 aliases:
   - note taking
-sr-due: 2022-03-23
-sr-interval: 1
-sr-ease: NaN
+
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

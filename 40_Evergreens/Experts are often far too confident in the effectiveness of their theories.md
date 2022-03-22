@@ -40,5 +40,5 @@ Perhaps an acceptance that [[We are confined to the tools of our time]] will hel
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human nature]], [[communication]]
+**Topics**:: [[human nature]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

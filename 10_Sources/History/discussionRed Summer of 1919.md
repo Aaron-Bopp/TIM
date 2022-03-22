@@ -151,9 +151,7 @@ sr-ease: 230
 **Covers**:: 
 
 **Outline**::
-sr-due: Invalid date
-sr-interval: NaN
-sr-ease: NaN
+
 --- 
 ##### MarkdownText
 

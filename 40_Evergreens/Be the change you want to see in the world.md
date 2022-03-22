@@ -19,6 +19,7 @@ you need to take part in it.
 With:: [[Knowledge of an unjust world is painful|knowledge that the world is unjust]]
 it can be easy to fall into [[Sadness is enlightenment and happiness is delusion]], 
 but we need to take part in [[Realism must acknowledge optimism's existence and effectiveness]]
+
 On a personal level this 
 includes:: [[How to pursue the positive things in life]]
 and on a societal level this 

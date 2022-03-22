@@ -42,5 +42,5 @@ Instead of delegating the fulfilment of needs, companies have moved to delegatin
 **Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Software Development]], [[communication]]
+**Topics**:: [[Software Development]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
