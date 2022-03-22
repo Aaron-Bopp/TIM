@@ -23,10 +23,6 @@ sr-ease: 250
 
 # Week 2
 
-- Readings 
-	- [[Replacement prod.pdf| Plaut et al. (2018) - Colorblindness and Multiculturalism]] 
-	- [[National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators]]
-
 ## Multiculturalism and Colorblindness
 
 - Multiculturalism => multiple cultures living together and supporting each other without assimilating or sacrificing their culture.
@@ -45,12 +41,6 @@ sr-ease: 250
 	- race, ability, [[socio-economic]] status, religious status, [[gender]] are all forms of privilege
 
 # Week 3
-
-## Readings
-
-- [[Historical Foundations of Race]]
-- [[Winton (2020) - Scientific Racism and North American Psychology 1.pdf]]
-
 ## Race
 
 - Race is a social classification based solely off of the color of your skin
@@ -91,8 +81,6 @@ sr-ease: 250
 ## Readings
 
 - [[Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf]]
-- [[7 Ways We Know Systemic Racism Is Real]]
-
 ## Institutional and Systemic Bias
 
 - Why was there resistance to black lives matter?
@@ -132,10 +120,6 @@ sr-ease: 250
 - Hurricane Katrina = example of inequal treatment in healthcare
 
 # Week 5 
-
-1. [[Ritchey (2014) - Black Identity Development 1.pdf]] 
-2. [[Cook & McCoy (2017) - Messages in Collusion 1.pdf]] 
-
 ## Identity
 
 - Identity models are about experience not age periods
@@ -202,8 +186,6 @@ sr-ease: 250
 # Week 6 
 
 1. “[Intersectionality](https://www.nccj.org/intersectionality),” web article from _NCCJ_.
-2. [[Robbins & McGowan (2016) - Intersectional Perspectives on Gender 1.pdf]] 
-3. [[McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously 1.pdf]] 
 
 # Week 7 
 
@@ -234,13 +216,11 @@ sr-ease: 250
 
 # Week 10 
 
-1. [[articles_transequality.org_Frequently Asked Questions About Transgender People National Center for Transgender Equality]]
 2. [[Russell et al. (2018) - Chosen Name Use.pdf]] 
 3. [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis 1.pdf]] 
 
 # Week 11 
 
-1. [[Olson et al. (2016) - Mental Health of Transgender Children 1.pdf]] 
 
 ## Notes
 
@@ -252,10 +232,6 @@ sr-ease: 250
 
 # Week 12 
 
-1. [[Dovidio et al. (2017) - Aversive Racism and Contemporary Bias 1.pdf]] 
-2. [[Correll et al. (2014) - The Police Officer's Dilemma 1.pdf]] 
-- Racism in America
-	- 
 
 # Week 13 
 
