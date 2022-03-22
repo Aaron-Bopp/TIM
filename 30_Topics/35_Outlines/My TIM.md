@@ -2,25 +2,23 @@
 created: 2021-06-07
 edited: 
 tags: created/topic/2021/06/07, node/topic/outline
+sr-due: Invalid date
+sr-interval: NaN
+sr-ease: NaN
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[My TIM]]</s>
+# <s class="topic-title">[[My TIM]]</s>
 
+##### ^blurb
 
 Since March 2021 I have become very interested in the [[knowledge management]] concept of a [[web of thought]] so intricate that it creates a [[second brain]]. In this quest I realized that my real purpose was to create a *Totally Integrated Machine*, where the purpose is not just to reflect my first brain, but to augment it.
 
 **See**:: [[second brain]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%
-##### [[My TIM]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+##### Outline
+
 - Where do we start?
 	- [[Nodes in the second brain are an abstraction of our first brain]]
 	- [[Densely linked webs of thought provide intuitive access to knowledge]]
@@ -34,7 +32,7 @@ WHERE contains(topics, this.file.link)
 	- [[Your second brain should be an inspirational hub of creativity]]
 	- [[Write your notes like you're planting an evergreen forest]]
 - How the hell do we do this?
-	-  Just use [[Obsidian (software)]]
+	- Just use [[Obsidian (software)]]
 		- [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
 		- [[Use Obsidian tags as temporal classifiers]]
 		- [[my TO(DO) and EVER(GREEN) structure]]
@@ -52,6 +50,21 @@ WHERE contains(topics, this.file.link)
 		- [[spaced repetition]]
 		- [[AI]]
 
+##### ^dataviews
 
-### <hr class="dataviews"/>
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- All unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
+%% DO NOT EDIT ABOVE %%

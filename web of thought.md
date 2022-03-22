@@ -19,7 +19,7 @@ More broadly this can refer to how the [[human brain]] stores and processes [[me
 ##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
-> [!dataview] Related unlinked mentions
+> [!dataview]+ Related unlinked mentions
 > ```dataview
 > LIST FROM [[#]]
 > WHERE contains(topics, this.file.link)

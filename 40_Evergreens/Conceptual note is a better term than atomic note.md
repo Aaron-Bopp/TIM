@@ -34,5 +34,5 @@ This is why I always say [[conceptual notes]] instead of atomic notes:
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[note writing]], [[second brain]], [[knowledge management]]
+**Topics**:: [[note writing]], [[conceptual notes]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

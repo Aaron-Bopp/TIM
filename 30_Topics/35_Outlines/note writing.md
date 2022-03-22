@@ -4,6 +4,9 @@ edited:
 tags: created/topic/2021/06/27, node/topic/moc
 aliases:
   - note taking
+sr-due: 2022-03-23
+sr-interval: 1
+sr-ease: NaN
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -11,7 +14,9 @@ aliases:
 
 ##### ^blurb
 
-In [[knowledge management]], note writing is purposeful act of storing information for future use. The medium of the storage varies isn't entirely irrelevant, but the methodology is much more influential. The type of notes you can write can roughly be divided into [[referential notes]], [[conceptual notes]], and [[organizational notes]]. 
+In:: [[knowledge management]], 
+note writing is purposeful act of storing information for future use. The medium of the storage isn't entirely irrelevant, but the methodology is much more influential. The type of notes you can write can roughly be divided 
+into:: [[referential notes]], [[conceptual notes]], and [[organizational notes]]. 
 ^[This definition is my own and is expanded upon in [[Note taking is a spectrum from purely reproductive to purely productive]]]
 
 This does not cover all type of [[writing]], but aims to cover the bulk of writing that we take part in for our own benefit, or writing that is not primarily intended for an audience.
@@ -39,6 +44,7 @@ This note is a synthesis of note writing techniques used in systems like [[Zette
 	- [[Ness Labs]] - [[networked thinking]]
 - Historical influences
 	- [[Niklas Luhmann]] - [[Zettelkasten]]
+
 ##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
@@ -58,3 +64,6 @@ This note is a synthesis of note writing techniques used in systems like [[Zette
 
 %% DO NOT EDIT ABOVE %%
 
+##### Discussion
+
+[Note making explained | Note making | Library | University of Leeds](https://library.leeds.ac.uk/info/1401/academic_skills/85/note_making)

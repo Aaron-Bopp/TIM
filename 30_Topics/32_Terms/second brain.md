@@ -2,6 +2,9 @@
 created: 2021-05-22
 edited: 
 tags: created/topic/2021/05/22, node/topic/moc
+sr-due: 2022-03-23
+sr-interval: 1
+sr-ease: NaN
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -9,7 +12,8 @@ tags: created/topic/2021/05/22, node/topic/moc
 
 ##### ^blurb
 
-In [[knowledge management]], a system that compliments, supplements, and extends the abilities of our first brain, using a combination of [[note writing]], 
+In:: [[knowledge management]], 
+a second brain is a system of [[information]] storage that compliments, supplements, and extends the abilities of our first brain, using a combination of [[note writing]], [[networked thinking]], and [[technology]].
 
 **See**:: [[My TIM]], [[Zettelkasten]], [[note writing]], [[AI]]
 

@@ -29,7 +29,7 @@ If you would like to easily access your notes anywhere without hassle and have l
 **Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[My TIM]], [[second brain]], 
+**Topics**:: [[My TIM]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: [[@visakanv on Twitter]] is possibly one of the most interesting accounts on the site
