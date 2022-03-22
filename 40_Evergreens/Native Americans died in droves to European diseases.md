@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/20, review, node/evergreen/claim
-sr-due: 2022-03-22
-sr-interval: 2
+sr-due: 2022-03-28
+sr-interval: 6
 sr-ease: 230
 ---
 
@@ -13,10 +13,12 @@ sr-ease: 230
 
 #TO/DO/CITE 
 
+- similarly:: [[Colonization and slavery lead to generational disparities in black communities]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Native Americans]], [[colonization]], [[history]]
+**Topics**:: [[Native Americans]], [[colonization]], [[history]], [[disease]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

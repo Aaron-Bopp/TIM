@@ -9,7 +9,9 @@ sr-ease: 224
 
 #### [[Use Obsidian tags as temporal classifiers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-In [[Obsidian (software)|Obsidian]] tags are a piece of metadata that you can add to a note, [^1] and when clicked open a search box with the appropriate search query. You cannot add any markdown or metadata to them, which makes them much less powerful than notes, but they can still be very valuable in your [[knowledge management|knowledge management system]]. You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category.
+In [[Obsidian (software)|Obsidian]] tags are a piece of metadata that you can add to a note, [^1] and when clicked they open a search box with the appropriate search query. You cannot add any [[markdown]] or metadata to them, which makes them much less powerful than notes, but they can still be very valuable in your [[knowledge management|knowledge management system]]. 
+^[The [[Tag Wrangler (plugin, obsidian)]] plugin has added support for tag pages, which would alleviate some of these downsides, but would likely not synergize well with this use of tags]
+You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category.
 ^[[[Prioritize organization over categorization]]]
 
 [^1]: [[Nodes in the second brain are made up of impermanent data and permanent metadata]]

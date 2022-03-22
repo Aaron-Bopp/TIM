@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-22
-sr-interval: 3
+sr-due: 2022-03-28
+sr-interval: 6
 sr-ease: 170
 ---
 
@@ -18,10 +18,10 @@ Spiritual beliefs can promote [[behavior]] that is positive to the group without
 
 > ![[books_Darwin's Cathedral#^291449835]]
 
-Perhaps religion allows an easier to way to pass on practices without them being questioned.
-[[Social order is built off of a shared belief in an imagined reality]]
+Perhaps religion allows an easier to way to pass on practices without them being questioned, which would mean this
+leads to:: [[Social order is built off of a shared belief in an imagined reality]]
 
-[[Moral social control promotes pro-social behavior in groups]]
+explained by:: [[Moral social control promotes pro-social behavior in groups]]
 
 ### <hr class="footnote"/>
 

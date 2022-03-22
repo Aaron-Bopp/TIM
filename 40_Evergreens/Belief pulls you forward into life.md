@@ -4,36 +4,36 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/31, review, node/evergreen/claim
-sr-due: 2022-03-22
-sr-interval: 25
+sr-due: 2022-04-24
+sr-interval: 33
 sr-ease: 130
 ---
 
 #### [[Belief pulls you forward into life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is 
-enabled by:: [[Belief can motivate adaptation]]
+enabled by:: [[Belief can motivate adaptation]] 
+and is 
+part of:: [[A secure worldview is the best defense against existential dread]]
 
 > ![[books_The Anthropocene Reviewed#288175131q]]
 
 #TO/TEND/GRAFT 
 - [[Does cognitive dissonance increase your capacity for endurance]]
-- [[Sadness is enlightenment and happiness is delusion]]
+- contrasts:: [[Sadness is enlightenment and happiness is delusion]]
+	- This contradicts this, you believe that there is not hope so you go nowhere, maybe it's that [[Belief reinforces your worldview]]
 - [[Realism must acknowledge optimism's existence and effectiveness]]
-- [[Worldviews should be open ended and adaptive]]
-- [[The materialistic view of religions examines why humans invented and clung to religion]]
-	- [[The three main questions of life]]
-	- [[Does cognitive dissonance increase your capacity for endurance]]
+- why:: [[Worldviews should be open ended and adaptive]]
+	- you can be pulled into being an oppressor i.e [[Christianity]]
+- part of:: [[The materialistic view of religions examines why humans invented and clung to religion]]
 
 As opposed to dragging you back in life like the [[mind]] often does: 
 [[We carry our childhood wounds into adulthood]]
 
-- contrast: [[Anger fuels change]]
+- contrasts:: [[Anger fuels change]]
 - [[Bhakti Yoga]]
-- [[Be the change you want to see in the world]]
-	- [[You can't blame people for failing to rise above their circumstances]]
-- [[Faith can be a useful tool for grounding yourself]]
-	- [[You can leave the church without loosing your faith]]
+- results in:: [[Be the change you want to see in the world]]
+- how:: [[Faith can be a useful tool for grounding yourself]]
 
 ### <hr class="footnote"/>
 

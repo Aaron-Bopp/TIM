@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/20, review, node/evergreen/technique
-sr-due: 2022-03-22
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-03-29
+sr-interval: 7
+sr-ease: 250
 ---
 
 #### [[How to review books]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,7 +20,7 @@ For me a book doesn't have to be "flawless" to be a rated five stars, it just ha
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 5-star | Everybody who can ^[can here means that even if the vocabulary or length is too much for someone, the book can still be rated five-stars, i.e. not everybody is able to spends months reading *War and Peace*] should read this book |
 | 4-star | If you are interested in this book you should read it                                                                                                                                                                                |
-| 3-star | This book should mainly be read by people who have read similar books or books in the same genre and think they will enjoy it/find it useful                                                                                         |
+| 3-star | This book should be read by people who have read similar books or books in the same genre and think they will enjoy it/find it useful                                                                                         |
 | 2-star | This book has many flaws and shouldn't be read by someone unfamiliar with the content area or genre, but there is still some value in the contents |
 | 1-star | This book is harmful, uninteresting, or bad enough that nobody should read it                                                                                                                                                        |
 
@@ -28,7 +28,7 @@ For me a book doesn't have to be "flawless" to be a rated five stars, it just ha
 This largely depends on the medium. The scale above can largely be applied to both non-fiction and fiction, but when critiquing books, the book should be able to be compared to other books within it's genre. I think the reviewer should be well read in a genre before they start critiquing books in the genre, and for non-fiction they should be critiquing books in light of current information. 
 ^[Yes this means that a book's rating may fall over time, but this only adds more weight the rating, a true 10/10 should be timeless]
 
-I myself haven't reached a point in any genre to start being a critique, ^[except the genre of reviewing reviewers] but I think that a good critique would likely involve at least some of the following categories.
+I haven't reached a point in any genre to start being a critic, ^[except the genre of reviewing reviewers] but I think that a good critique would likely involve at least some of the following categories.
 
 | Category              | Meaning                                                              |
 | --------------------- | -------------------------------------------------------------------- |
