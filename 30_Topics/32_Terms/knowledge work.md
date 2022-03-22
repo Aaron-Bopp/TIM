@@ -12,7 +12,6 @@ sr-ease: 198
 
 ##### <s class="topic-title">[[knowledge work]]</s>
 
- ![images/xkcd 435.png](https://publish-01.obsidian.md/access/a123d22b592fefc92a5bad12101593ec/images/xkcd%20435.png)
 
 > [!wikipedia] [knowledge work](https://en.wikipedia.org/wiki/Knowledge%20worker)
 > 

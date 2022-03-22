@@ -13,7 +13,7 @@ sr-ease: 170
 
 #TO/PONDER/ME 
 Age gives you perspective. Changing systemic problems takes generations. You have to have [[hope]] for future generations.
-But how does this interact with [[Knowledge of the world is painful]]
+But how does this interact with [[Knowledge of an unjust world is painful]]
 - [[Hope is not optimism it is a practice for producing change]]
 - [[Realism must acknowledge optimism's existence and effectiveness]]
 - [[You can't blame people for failing to rise above their circumstances]]

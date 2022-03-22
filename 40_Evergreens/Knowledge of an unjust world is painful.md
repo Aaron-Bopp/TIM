@@ -7,7 +7,7 @@ sr-interval: 45
 sr-ease: 178
 ---
 
-#### [[Knowledge of the world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Knowledge of an unjust world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/PONDER should this be renamed to knowledge of an **unjust** world is painful?
 

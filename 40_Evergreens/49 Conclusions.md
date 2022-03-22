@@ -2,7 +2,7 @@
 	- [[Our brain will do anything it can to protect itself]]
 	- [[Look for understanding before you look for solutions]]
 	- [[Stupid rules are made to be broken]]
-	- [[Knowledge of the world is painful]]
+	- [[Knowledge of an unjust world is painful]]
 	- [[Accepting responsibility is not only about your actions]]
 	- [[Worldviews should not make life seem easy and simple]]
 	- [[Realism must acknowledge optimism's existence and effectiveness]]

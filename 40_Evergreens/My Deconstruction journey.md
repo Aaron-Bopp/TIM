@@ -31,7 +31,7 @@ Despite all that I still think [[Faith can be a useful tool for grounding yourse
 
 I went through a time of [[depression]], where fell into the fallacy that [[Sadness is enlightenment and happiness is delusion]], because I was really struggling with realizing the injustice of the world [^2] and with forgiving my [[parents]]. [^3] As part of my [[self-actualization]], I started to forgive my parents: [[Children in traumatic households expect more love than their parents can give|Parents will not be able to protect their children from every source of trauma]].
 
-[^2]: [[Knowledge of the world is painful]]
+[^2]: [[Knowledge of an unjust world is painful]]
 [^3]: [[Accepting responsibility is not only about your actions]], [[Parents need to model the ability to deal with emotion to their children]]
 
 My feelings being a follower of Jesus have somewhat mellowed with time, but my feelings toward the church has not, and I still believe [[The biblical Christian God is evil and does not deserve to be worshipped]].

@@ -11,7 +11,7 @@ sr-ease: 243
 
 #### [[Buddhism outlines a path and practice to end suffering, but does not promise it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-If we believe [[Hope is not optimism it is a practice for producing change]] and [[Knowledge of the world is painful]], then our only conclusion can be that [[True optimism is acknowledging the suffering of the world and defying it anyway]]
+If we believe [[Hope is not optimism it is a practice for producing change]] and [[Knowledge of an unjust world is painful]], then our only conclusion can be that [[True optimism is acknowledging the suffering of the world and defying it anyway]]
 
 However, [[Buddhism]] doesn't promise any ability to achieve that change, it merely gives us the strength to push forward, because
 [[Buddhism is the study of happiness through detachment]]

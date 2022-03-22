@@ -20,7 +20,7 @@ This has huge relevance to the [[social justice]] and [[Civil Rights]] movements
 #TO/TEND/GRAFT 
 - [[Humans have decided to reject an unjust world]]
 - [[Humans have decided to take advantage of an unjust world]]
-- [[Knowledge of the world is painful]]
+- [[Knowledge of an unjust world is painful]]
 - [[Anger fuels change]]
 ### <hr class="footnote"/>
 

@@ -13,7 +13,7 @@ sr-ease: 215
 
 If you only search for **THE** answer to your question
 (the one that will mean you don't have to keep thinking about it),
-^[This is a natural response because [[Knowledge of the world is painful]], but [[Realism must acknowledge optimism's existence and effectiveness]]]
+^[This is a natural response because [[Knowledge of an unjust world is painful]], but [[Realism must acknowledge optimism's existence and effectiveness]]]
 you wall yourself off to better [[understanding]] 
 and you lose sight of the actual point of [[education]].
 #TO/PONDER/IDEA  what is the the point of education? [[We learn by transforming information into understanding]]? breaking us out of presuppositions? answering our inherent wonder? [[Humans transfer their wonder into creativity]]?

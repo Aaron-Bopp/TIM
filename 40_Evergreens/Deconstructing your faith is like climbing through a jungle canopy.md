@@ -16,7 +16,7 @@ The reason that deconstruction feels this way is because,
 and [[Sometimes we can't grow until we change our environment]]. Whether you are still trying to be a [[Christianity|Christian]] or not, if you are still seeped in church [[culture]] and surrounded by close-minded people you won't be able to fully deconstruct. 
 ^[This doesn't have to be the case but it is right now: [[The church will fail if christians keep aligning themselves with hate instead of love]]]
 
-[[Faith can be a useful tool for grounding yourself]], because [[Christianity]] answers [[The three main questions of life]]. This means you may not have grappled with the fact that [[Knowledge of the world is painful]] without the trump card of salvation and heaven.
+[[Faith can be a useful tool for grounding yourself]], because [[Christianity]] answers [[The three main questions of life]]. This means you may not have grappled with the fact that [[Knowledge of an unjust world is painful]] without the trump card of salvation and heaven.
 Because [[Christianity]] is often taught from [[childhood]], 
 it can be very hard to comprehend a world without a plan, without a creator, and without purpose. 
 ^[This is why [[Religious concepts are often too powerful for a child's mind]] and [[Worldviews should be open ended and adaptive]]]
