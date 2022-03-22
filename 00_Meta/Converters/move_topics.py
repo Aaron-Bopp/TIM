@@ -5,23 +5,25 @@ def move_stubs(directory):
     """
     Move stubs to new directory
     """
-    for root, dirs, files in os.listdir(directory):
+    for root, dirs, files in os.walk(directory):
         for filename in files:
             if filename.endswith('.md'):
                 filepath = os.path.join(root, filename)
+                print(filename)
                 with open(filepath, 'r', encoding='utf-8') as f:
                     text = f.read()
                 if "node/topic/stub" in text:
                     filename = '31_Stubs\\' + filename
-                if "node/topic/term" in text:
-                    filename = '32_Terms\\' + filename
-                if "node/topic/tool" in text:
-                    filename = '33_Tools\\' + filename
-                if any(s in filename for s in ['31_Stubs', '32_Terms', '33_Tools']):
                     os.remove(filepath)
-                    filepath = os.path.join(root, filename)
-                    with open(filepath, 'w', encoding='utf-8') as f:
-                        f.write(text)
+                # if "node/topic/term" in text:
+                #     filename = '32_Terms\\' + filename
+                # if "node/topic/tool" in text:
+                #     filename = '33_Tools\\' + filename
+                # if any(s in filename for s in ['31_Stubs', '32_Terms', '33_Tools']):
+                #     os.remove(filepath)
+                #     filepath = os.path.join(directory, filename)
+                #     with open(filepath, 'w', encoding='utf-8') as f:
+                #         f.write(text)
 
 def get_eg_topics(directory):
     topics = dict()
@@ -72,18 +74,18 @@ if __name__ == '__main__':
     # os.chdir(r'30_Topics')
     directory = r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM'
     # print(directory)
-    # move_stubs(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics')
-    topics = get_eg_topics(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\40_Evergreens')
+    move_stubs(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics')
+    # topics = get_eg_topics(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\40_Evergreens')
 
-    for root, dirs, files in os.walk(directory):
-            for filename in files:
-                if filename.endswith('.md'):
-                    filepath = os.path.join(root, filename)
-                    with open(filepath, 'r', encoding='utf-8') as f:
-                        text = f.read()
-                    name = filename.replace(r'.md', '')
-                    new_text = text.replace('<% tp.file.include("[[TITLE-TOPIC]]") %>\n', f'\n##### <s class="topic-title">[[{name}]]</s>')
-                    if text != new_text:
-                        with open(filepath, 'w', encoding='utf-8') as f:
-                            f.write(new_text)
-                            # f.write(update_tag(text, name, topics))
+    # for root, dirs, files in os.walk(directory):
+    #         for filename in files:
+    #             if filename.endswith('.md'):
+    #                 filepath = os.path.join(root, filename)
+    #                 with open(filepath, 'r', encoding='utf-8') as f:
+    #                     text = f.read()
+    #                 name = filename.replace(r'.md', '')
+    #                 new_text = text.replace('<% tp.file.include("[[TITLE-TOPIC]]") %>\n', f'\n##### <s class="topic-title">[[{name}]]</s>')
+    #                 if text != new_text:
+    #                     with open(filepath, 'w', encoding='utf-8') as f:
+    #                         f.write(new_text)
+    #                         # f.write(update_tag(text, name, topics))
