@@ -11,16 +11,17 @@ sr-ease: 170
 
 #### [[Humans transfer their wonder into creativity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Perhaps this is a 
-good result of:: [[Human's will find explanations for inexplainable things]]
+Perhaps this is a good
+result of:: [[Human's will find explanations for inexplainable things]]
 
-- [[The materialistic view of religions examines why humans invented and clung to religion]]
-- [[Humans are addicted to believing]]
-- [[Humans are drawn to the unknown and repelled by the known]]
-- [[What is the cognitive effect of living in an unjust world]]
-- [[Hard boundaries reduce opportunities for creativity]]
-- [[The way systems work can create cognitive bias]]
-- [[Your second brain should be an inspirational hub of creativity]]
+- part of:: [[Wonder motivates us to interact with the world around us]]
+	- contrasts:: [[Hard boundaries reduce opportunities for creativity]]
+		- Hard boundaries make it hard for us to use our wonder
+		- [[What is the cognitive effect of living in an unjust world]]
+- part of::[[Humans are drawn to the unknown and repelled by the known]]
+- similarly:: [[The materialistic view of religions examines why humans invented and clung to religion]]
+- explains:: [[Humans are addicted to believing]]
+- important for:: [[Your second brain should be an inspirational hub of creativity]]
  
 
 ### <hr class="footnote"/>

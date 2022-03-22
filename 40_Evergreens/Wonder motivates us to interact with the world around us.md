@@ -11,16 +11,15 @@ sr-ease: 210
 
 #### [[Wonder motivates us to interact with the world around us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This is how [[emotions]] are a 
-part of:: [[Humans are a product of evolution]]
-
 This 
 works with:: [[Humans are drawn to the unknown and repelled by the known]]
-and could explain [[Human's will find explanations for inexplainable things]].
+and could 
+explain:: [[Human's will find explanations for inexplainable things]].
 From birth we are desperate for understanding of the world around us, 
 often the cries of child can be solved just by giving them something new to look at. 
 
-- because:: [[Complex emotions are imperfect understandings of primal urges]]
+This can be seen as a 
+result of:: [[Humans are a product of evolution]]
 
 ### <hr class="footnote"/>
 

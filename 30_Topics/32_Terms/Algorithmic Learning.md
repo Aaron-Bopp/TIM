@@ -18,9 +18,13 @@ Two major requirements would be:
 1. An extremely large database of content that can be algorithmically parsed
 2. A algorithm that can accurately serve content based on user preferences
 
+- part of:: [[We will evolve when we make learning as easy as thinking]]
+- because:: [[We learn by transforming information into understanding]]
+- part of:: [[Friction is a hindrance to learning]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[learning]], [[technology]]

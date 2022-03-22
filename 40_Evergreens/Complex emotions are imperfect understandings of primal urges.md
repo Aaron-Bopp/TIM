@@ -13,7 +13,6 @@ sr-ease: 212
 > 
 > <cite>[[books_Darwin's Cathedral|Darwin's Cathedral by David Sloan Wilson]]</cite>
 
-[[Wonder motivates us to interact with the world around us]] as a result of [[Humans are a product of evolution]].
 Emotional responses are built into our [[biology]] but are seen through the lense of our daily lives.
 This is a logical approach as [[Biological processes can only give context to behavior not predict it]],
 but our genetic context cannot be ignored.
@@ -25,7 +24,10 @@ What is [[Humans love to group eachother|humans love for grouping eachother]] ot
 
 What is [[The brain is powerful enough to create supernatural experiences]] but a function of [[Belief can motivate adaptation]]?
 
-We are more complex than any other animal. We have developed a [[conscious|consciousness]] that is the essence of what makes us human, but our inexplicable instincts are still at play. [[Human's will find explanations for inexplainable things]]
+We are more complex than any other animal. We have developed a [[conscious|consciousness]] that is the essence of what makes us human, but our inexplicable instincts are still at play,
+leading to:: [[Human's will find explanations for inexplainable things]]
+
+part of:: [[Humans are a product of evolution]]
 
 ### <hr class="footnote"/>
 
