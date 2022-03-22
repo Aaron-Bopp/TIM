@@ -35,7 +35,7 @@ To see an idea of what this will look like take a look at my [[Graph Timeline]].
 ##### Counter:: Obsidian's graph is a distraction
 
 Obsidian's graph is big a draw for newcomers, 
-and I think with a certain style of note taking
+and I think with a certain style of [[note writing|note taking]]
 it can be a very powerful tool, but it can also be a distraction.
 ^[[[Powerful tools make dangerous toys]] but [[Better tools allow us to be less disciplined and more productive]]]
 If you have less than ~200 notes you will be tempted to overlink, 

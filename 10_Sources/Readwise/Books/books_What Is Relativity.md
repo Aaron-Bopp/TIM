@@ -237,3 +237,114 @@ A parabola is curved everywhere along it, while at large distances a hyperbola i
 ^300340338
 
 ### Part 2 EINSTEIN’S SPECIAL THEORY OF RELATIVITY
+# New highlights added March 22, 2022 at 12:24 PM
+##### ^300574933
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=435  
+
+###### ^300574933q
+
+the special theory applies only to the special case in which we ignore any effects of gravity, while the general theory includes gravity. 
+
+^300574933
+
+##### ^300574934
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=456  
+
+###### ^300574934q
+
+Relativity tells us that everyone always measures the speed of light to be the same, and this agreement about the speed of light leads inevitably to the fact that you cannot outrace your own light. 
+
+^300574934
+
+##### ^300574935
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=464  
+
+###### ^300574935q
+
+300,000 kilometers per second, is actually the maximum speed of light; light travels slower when it passes through materials such as water, air, or glass, and in recent years scientists have found ways to slow light down to pedestrian speeds in the laboratory. 
+
+^300574935
+
+##### ^300574936
+
+highlight_tags:: [[c1]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=474  
+
+###### ^300574936q
+
+the prohibition on faster-than-light travel applies only to the ability to transmit matter or information from one place to another, or to say that nothing can travel through space at a speed faster than light. 
+
+^300574936
+
+##### ^300574937
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=476  
+
+###### ^300574937q
+
+nothing can outrace light. 
+
+^300574937
+
+##### ^300574938
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=479  
+
+###### ^300574938q
+
+the special theory of relativity takes its name from the idea that motion is always relative. 
+
+^300574938
+
+##### ^300574939
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=550  
+
+###### ^300574939q
+
+The concepts of up and down have meaning only when we can describe them relative to a planet’s (or other object’s) surface. 
+
+^300574939
+
+##### ^300574940
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=733  
+
+###### ^300574940q
+
+This effect, in which time runs slower in reference frames that are moving relative to you, is called time dilation; 
+
+^300574940
+
+##### ^300574941
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=784  
+
+###### ^300574941q
+
+the effects on distance and length in relativity are usually called length contraction. 
+
+^300574941
+
+##### ^300574942
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=785  
+
+###### ^300574942q
+
+The factor by which length contracts for a moving object is the same as the factor by which we see its time dilated, 
+
+^300574942
+

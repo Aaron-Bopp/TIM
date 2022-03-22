@@ -1651,3 +1651,103 @@ Perceiving the direction of history is really a question of vantage point. When 
 
 ^299572972
 
+# New highlights added March 22, 2022 at 12:24 PM
+##### ^300574924
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2570  
+
+###### ^300574924q
+
+For 12,000 years, nobody else knew the Tasmanians were there, and they didn’t know that there was anyone else in the world. 
+
+^300574924
+
+##### ^300574925
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2574  
+
+###### ^300574925q
+
+In AD 378, the Roman emperor Valence was defeated and killed by the Goths at the battle of Adrianople. In the same year, King Chak Tok Ich’aak of Tikal was defeated and killed by the army of Teotihuacan. (Tikal was an important Mayan city state, while Teotihuacan was then the largest city in America, with almost 250,000 inhabitants – of the same order of magnitude as its contemporary, Rome.) 
+
+^300574925
+
+##### ^300574926
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2616  
+
+###### ^300574926q
+
+Tomatoes, chilli peppers and cocoa are all Mexican in origin; they reached Europe and Asia only after the Spaniards conquered Mexico. Julius Caesar and Dante Alighieri never twirled tomato-drenched spaghetti on their forks (even forks hadn’t been invented yet), William Tell never tasted chocolate, and Buddha never spiced up his food with chilli. 
+
+^300574926
+
+##### ^300574927
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2620  
+
+###### ^300574927q
+
+Native American horsemen were not the defenders of some ancient, authentic culture. Instead, they were the product of a major military and political revolution that swept the plains of western North America in the seventeenth and eighteenth centuries, a consequence of the arrival of European horses. In 1492 there were no horses in America. 
+
+^300574927
+
+##### ^300574928
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2633  
+
+###### ^300574928q
+
+Homo sapiens evolved to think of people as divided into us and them. ‘Us’ was the group immediately around you, whoever you were, and ‘them’ was everyone else. 
+
+^300574928
+
+##### ^300574943
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2643  
+
+###### ^300574943q
+
+The first millennium BC witnessed the appearance of three potentially universal orders, whose devotees could for the first time imagine the entire world and the entire human race as a single unit governed by a single set of laws. ... The first universal order to appear was economic: the monetary order. The second universal order was political: the imperial order. The third universal order was religious: 
+
+^300574943
+
+##### ^300574931
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2648  
+
+###### ^300574931q
+
+Merchants, conquerors and prophets were the first people who managed to transcend the binary evolutionary division, ‘us vs them’, 
+
+^300574931
+
+##### ^300585573
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2664  
+
+###### ^300585573q
+
+when an Aztec wanted to buy something, he generally paid in cocoa beans or bolts of cloth. 
+
+^300585573
+
+##### ^300585574
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2665  
+
+###### ^300585574q
+
+When the natives questioned Cortés as to why the Spaniards had such a passion for gold, the conquistador answered, ‘Because I and my companions suffer from a disease of the heart which can be cured only with gold.’ 
+
+^300585574
+

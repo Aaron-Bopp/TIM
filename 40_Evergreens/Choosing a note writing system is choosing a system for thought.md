@@ -9,7 +9,7 @@ sr-ease: 188
 
 #### [[Choosing a note writing system is choosing a system for thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Choosing a note writing system is not about finding the right [[software]] to write in,
+Choosing a [[note writing]] system is not about finding the right [[software]] to write in,
 ^[For that see [The best note-taking app of 2021 | Capiche](https://capiche.com/e/best-note-taking-app-2021)]
 it is about choosing [[systems for thought|a system for thought]]. What system you choose depends majorly on what you are trying to accomplish. Are a student or researcher trying to bring all of your knowledge together for new conclusion? Are you a professional trying to map and manage all of your clients and projects? Are you just trying to get a hold of your life and offload some of the mental effort of keeping track of everything? All of these are prestigious goals, and can benefit from a well organized [[note writing]] system. 
 

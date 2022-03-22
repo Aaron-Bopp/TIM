@@ -1549,3 +1549,26 @@ complexity can have profound effects on variation and heritability, the two prer
 
 ^298293002
 
+# New highlights added March 22, 2022 at 12:24 PM
+##### ^301317595
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=825  
+
+###### ^301317595q
+
+A second example of hunter-gatherer morality ... The only such moral consideration ever mentioned was that when the band arrived at a decision, it was considered “good” and that it would “please the forest.” Anyone not associating himself with the decision was, then, likely to displease the forest, and this was considered “bad.” Any individual intent on strengthening his own argument might appeal to the forest on grounds that his point of view was “good” and “pleasing”; only the ultimate general decision, however, would determine the validity of his claim. 
+
+^301317595
+
+##### ^301114706
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=837  
+
+###### ^301114706q
+
+None of them had the slightest authority over the others. Nor was any moral pressure brought to bear in influencing a decision through personal considerations or respect. The only such moral consideration ever mentioned was that when the band arrived at a decision, it was considered “good” and that it would “please the forest.” Anyone not associating himself with the decision was, then, likely to displease the forest, and this was considered “bad.” Any individual intent on strengthening his own argument might appeal to the forest on grounds that his point of view was “good” and “pleasing”; only the ultimate general decision, however, would determine the validity of his claim. 
+
+^301114706
+

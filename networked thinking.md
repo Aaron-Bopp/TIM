@@ -1,19 +1,21 @@
 ---
-created: 2021-05-22
+created: 2022-03-22T12:09:31 
 edited: 
-tags: created/topic/2021/05/22, node/topic/moc
+aliases:
+  - null
+tags: created/topic/2022/03/22, node/topic/term
+sr-due: 2022-03-23
+sr-interval: 1
+sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-# <s class="topic-title">[[second brain]]</s>
+#### <s class="topic-title">[[networked thinking]]</s>
 
-##### ^blurb
+In contrast to:: [[linear thinking]] and [[common sense]],
+this is seen as the rising mode of thought in [[science]] and [[knowledge work]].
 
-In [[knowledge management]], a system that compliments, supplements, and extends the abilities of our first brain, using a combination of [[note writing]], 
-
-**See**:: [[My TIM]], [[Zettelkasten]], [[note writing]], [[AI]]
-
-##### Outline
+[Networked thinking: a quiet cognitive revolution - Ness Labs](https://nesslabs.com/networked-thinking)
 
 ##### ^dataviews
 

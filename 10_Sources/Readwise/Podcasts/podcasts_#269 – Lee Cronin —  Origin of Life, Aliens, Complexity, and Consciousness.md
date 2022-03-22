@@ -119,3 +119,50 @@ assembly theory is a theory. Goes back a few years now. And my struggle for mayb
 
 ^300300480
 
+# New highlights added March 22, 2022 at 12:24 PM
+##### ^300715960
+
+
+Goto: https://share.snipd.com/snip/a7fb9f3f-782f-48f5-bf54-a7bfa81d1180  
+
+###### ^300715960q
+
+Is There Something Fundamental That Allows Us to Feel Free?
+Summary:
+In assembly theory, if we're thinking about free will, where does the little bit of freedom come from? What is the eye they can decide to be a wrapper what? Why? Is there something fundamental that allows us to feel free, to be free? That's the question i want to answer. I would say that i don't take the stants of sam harris, cause i think sam harris almost thinks himself out of existence, right? Bsio, because do you know what i mean? Ye. Well, oh, he has different views onconsciousness. Is f fe will.
+Transcript:
+Speaker 2
+You're, you're really operating in a world of constraints that are constrained by the memory of the trajectory, of the chemistry that led to who you are, ok? But, ah, you know,
+Speaker 1
+even just a tiny bit of freedom,
+Speaker 2
+even if everything, if everywhere you are in cages, if you can move around in that cage a little bit, you're free. I
+Speaker 1
+agree.
+Speaker 2
+And so the question is, in assembly theory, if we're thinking about free will, where does the little bit of freedom come from? What is the eye they can decide to be a wrapper what? Why? What is that that's a cute little trick we've convinced each other of so we can do fun tricks at parties, or is there something fundamental that allows us to feel free, to be free?
+Speaker 1
+I think, tat, that's the question that i want to answer. I know you want to answer it, and i think it's so profound, i let me go at it. I would say that i don't take the stants of sam harris, cause i think sam harris, when he says the way he says it, is almost, it's really interesting. I'd love to talk to him about it. Sam harris almost thinks himself out of existence, right? Bsio, because do you know what i mean? Ye. Well, oh, he has different views onconsciousness. Is f fe will. 
+
+^300715960
+
+##### ^300717410
+
+
+Goto: https://share.snipd.com/snip/61b5dbd2-c243-40df-947e-0d5588071871  
+
+###### ^300717410q
+
+Free Will Is a Complex Interaction Between Your Conscious and Your Unconscious
+Summary:
+Some people out source their free will to ther unconscious brain, and some people try and overthink free will in the conscious brain. I would say that sam harris has realized his conscious brain doesn't have free will, but his unconscious brain does. And it makes me more radical, if you like. You know, as er that i get to explore more fto state space. And i'm like, i'm going to try and affect the world now. That's one of my favorite things about being a writer.
+Transcript:
+Speaker 1
+why. I think free will is actually very complex interaction between your conscious your unconscious and your conscious brain. Andth, i think the reason why we're arguing about it so so interesting in that, and weve just, some people er out source their free will to ther unconscious brain, and some people try and overthink free will in the conscious brain. I would say that sam harris has realized his conscious brain doesn't have free will, but his unconscious brain does. That's my guess, right? And that he can't have as the unconscious er. And that's kind of annoying. And, but then, so he's just, he's
+Speaker 2
+going to, through meditation, come to acceptance oth that fact,
+Speaker 1
+yes, fishes may be ok, or maybe. But i do think that i have the ability to make decisions, and i like my decisionsn mean, thit is an argument i havewither some people that, er, some days i feelthat i have no free will, and it's just an illusion. And this is one. And it makes me more radical, if you like. You know, as er that i get to explore more fto state space. And i'm like, i'm going to try and affect the world now. I'm really going to ask the question that maybe i dare not ask, or darenotor do the thing i dare not do. 
+
+^300717410
+
