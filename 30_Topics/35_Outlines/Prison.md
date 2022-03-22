@@ -1,7 +1,7 @@
 ---
 created: 2021-08-15
 edited: 
-tags: created/topic/2021/08/15, node/topic/outline
+tags: created/topic/2021/08/15, node/topic/term
 aliases:
 - prisons
 ---

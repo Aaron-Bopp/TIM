@@ -64,28 +64,37 @@ def add_related_egs(text, filename, topics):
     return new_text
 
 def update_tag(text, name, topics):
-    if name in topics.keys() and len(topics[name]) > 0:
-        text = re.sub(r'node/topic/(stub|term)', 'node/topic/outline', text)
+    if name in topics.keys() and len(topics[name]) > 25:
+        text = re.sub(r'node/topic/(stub|term|outline)', 'node/topic/moc', text)
+    elif name in topics.keys() and len(topics[name]) > 5:
+        text = re.sub(r'node/topic/(stub|term|moc)', 'node/topic/outline', text)
+    elif name in topics.keys() and len(topics[name]) <= 5:
+        text = re.sub(r'node/topic/(stub|term|outline)', 'node/topic/stub', text)
+    else:
+        text = re.sub(r'node/topic/(stub|term|outline)', 'node/topic/term', text)
     return text
 
                                 
 if __name__ == '__main__':
     # # get current working directory
     # os.chdir(r'30_Topics')
-    directory = r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM'
+    # directory = r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM'
+    directory = r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics'
     # print(directory)
-    move_stubs(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics')
-    # topics = get_eg_topics(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\40_Evergreens')
+    # move_stubs(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\30_Topics')
 
-    # for root, dirs, files in os.walk(directory):
-    #         for filename in files:
-    #             if filename.endswith('.md'):
-    #                 filepath = os.path.join(root, filename)
-    #                 with open(filepath, 'r', encoding='utf-8') as f:
-    #                     text = f.read()
-    #                 name = filename.replace(r'.md', '')
-    #                 new_text = text.replace('<% tp.file.include("[[TITLE-TOPIC]]") %>\n', f'\n##### <s class="topic-title">[[{name}]]</s>')
-    #                 if text != new_text:
-    #                     with open(filepath, 'w', encoding='utf-8') as f:
-    #                         f.write(new_text)
-    #                         # f.write(update_tag(text, name, topics))
+    topics = get_eg_topics(r'C:\Users\aweso\Documents\GitHub\Obsidian-Notes\TIM\40_Evergreens')
+
+    for root, dirs, files in os.walk(directory):
+            for filename in files:
+                if filename.endswith('.md'):
+                    filepath = os.path.join(root, filename)
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        text = f.read()
+                    name = filename.replace(r'.md', '')
+                    # new_text = text.replace('<% tp.file.include("[[TITLE-TOPIC]]") %>\n', f'\n##### <s class="topic-title">[[{name}]]</s>')
+                    new_text = update_tag(text, name, topics)
+                    if text != new_text:
+                        with open(filepath, 'w', encoding='utf-8') as f:
+                            f.write(new_text)
+                            # f.write(update_tag(text, name, topics))

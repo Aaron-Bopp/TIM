@@ -1,7 +1,7 @@
 ---
 created: 2021-07-02
 edited: 
-tags: created/topic/2021/07/02, node/topic/outline
+tags: created/topic/2021/07/02, node/topic/stub
 aliases:
 - subconsciously
 ---

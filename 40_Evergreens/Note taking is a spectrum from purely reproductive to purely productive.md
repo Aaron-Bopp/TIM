@@ -14,7 +14,7 @@ sr-ease: 130
 Three possible kinds of notes
 - [[Conceptual notes]] notes that are purely taken on individual concepts
 	- [[evergreen notes]] and [[topic notes]]
-- [[Sequential notes]] notes that are taken in the sequence of the thing they are notating like a lecture or book
+- [[referential notes]] notes that are taken in the sequence of the thing they are notating like a lecture or book
 	- [[source notes]]
 - Transformative notes: notes that transform the material into things like questions and answers or prompts
 	- [[evergreen notes]]

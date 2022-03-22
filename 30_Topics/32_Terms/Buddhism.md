@@ -3,7 +3,7 @@ created: 2021-07-05
 edited: 
 aliases:
   - Buddhist
-tags: created/topic/2021/07/05, node/topic/outline
+tags: created/topic/2021/07/05, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

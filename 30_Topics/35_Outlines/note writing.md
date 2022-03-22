@@ -1,40 +1,48 @@
 ---
 created: 2021-06-27
 edited: 
-tags: created/topic/2021/06/27, node/topic/outline
+tags: created/topic/2021/06/27, node/topic/moc
 aliases:
 - "note-writing"
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[note writing]]</s>
+# <s class="topic-title">[[note writing]]</s>
 
+In [[knowledge management]], note writing is purposeful act of storing information for future use. The medium of the storage varies isn't entirely irrelevant, but the methodology is much more influential. The type of notes you can write can roughly be divided into [[referential notes]], [[conceptual notes]], and [[organizational notes]]. 
+^[This definition is my own and is expanded upon in [[Note taking is a spectrum from purely reproductive to purely productive]]]
 
-**Status**:: #EVER/SAPLING 
+This does not cover all type of [[writing]], but aims to cover the bulk of writing that we take part in for our own benefit,
+that is not primarily intended for an audience.
 
-*edited `=this.file.mtime`*
+Others in the [[knowledge management]] space such as [[Andy Matuschak]] focus more on the style of note taking than the type of note. This is heavily influential to my process and is covered in [[evergreen notes]].
 
-**See**:: 
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+## ^outline
+- [[Philosophy]] of note writing - why do we write notes?
+	- [[Choosing a note writing system is choosing a system for thought]]
+	- Our notes form [[systems for thought]], such as [[My TIM]], [[evergreen notes]], [[second brain]], and many others aid [[productivity]] and [[understanding]].
+- The importance of note writing - what makes notes useful?
+	- [[Evergreen notes organize knowledge so that it can grow]]
+	- [[Evergreen notes should be constantly integrating new knowledge]]
+- The practice of note writing - how do we write smart notes?
+	- [[What are the differences between evergreen notes and conceptual notes]]
+- The implementation of note writing - how do we use [[technology]] to our advantage?
+	- [[Basic tools for working with plaintext]]
+	- [[web of thought|Webs of thought]] are note systems that use interlinking to provide easy access and connections between notes
 
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%
-##### [[note writing]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- Thoughts on kinds of notes
-	- [[The fragility of nodes in a second brain]]
-- Note taxonomy
-	- [[Term notes]]
-	- [[evergreen notes]]
-	- [[source notes]]
-	- [[topic notes]]
-- How to write notes
-	- [[When in doubt, write what you think]]
-	- 
+> [!dataview] Related unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- All unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-### <hr class="dataviews"/>
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+%% DO NOT EDIT ABOVE %%

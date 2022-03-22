@@ -3,7 +3,7 @@ created: 2021-10-23
 edited: 
 aliases:
   - societal
-tags: created/topic/2021/10/23, node/topic/term
+tags: created/topic/2021/10/23, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

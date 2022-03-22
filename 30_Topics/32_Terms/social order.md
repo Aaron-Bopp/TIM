@@ -3,7 +3,7 @@ created: 2022-02-20T08:19:09
 edited: 
 aliases:
   - null
-tags: created/topic/2022/02/20, node/topic/term
+tags: created/topic/2022/02/20, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
